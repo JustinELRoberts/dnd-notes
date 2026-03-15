@@ -1,0 +1,158 @@
+---
+Party:
+  - "[[Avenj]]"
+  - "[[Raelor]]"
+  - "[[Roz Rozum]]"
+  - "[[Theodore Shellington]]"
+  - "[[Yharov Stonebrow]]"
+Start Day: 1
+End Day:
+Location:
+---
+## Events
+- Begins on a cart passage to [[The Unnamed City]]
+	- Starting at [[Zar'Vasha]] in the morning, the 5 party members getting onto that caravan
+- A few hours into our travel (still in the desert), a hooded man with a mask join us
+	- It is still the desert; we haven't arrived to our destination and the doors open
+	- [[Theodore Shellington]] recognizes him as a member of 1 of the 3 [[Magic Guilds]] but is unsure which (too low of a roll)
+		- The three guilds are: [[The Coldvale]], [[The Starbound]], and [[The Magic Guild Ledgers]]
+			- TODO: Add this to [[Magic Guilds]] note
+- A few hours later again and the cart stops abruptly
+	- [[Roz Rozum]] casts [[sleep-xphb|Sleep]] on the masked man
+	- Blood from the driver's area splashes into the cart (he was killed)
+	- We step out of the cart and all turns to ash except the sleeping masked figure
+- Another masked figure with red eyes steps up to us with a demonic voice saying "where are the contents of his bag?"
+	- [[Yharov Stonebrow]] drops the bag
+	- He rips the mask off the original masked figure, revealing a young sorcerer maybe 19yo
+	- The new masked figure puts his finger to the old one's head and eviscerates him
+	- He claims the bag contains 1 of 12 items he needs
+		- We know there were 12 dark artifacts that were created by [[The Unknown]] during his reign of terror
+	- He takes a massive [[red diamond]] out of the bag and puts it in his own
+		- "Enjoy life while you still have it. When the moon shines red, as the color of this diamond, all Hell will begin to break loose", he says in his demonic voice
+	- We could tell that he was a human but corrupted by something. He was bearing a symbol: he was a member of [[The Awakening]] (group that tried to awaken The Unknown)
+	- He leaves
+- The dead body had:
+	- 35G
+	- 1P
+	- A broken (requires repair; not just attunement) [[ring-of-spell-storing]]
+	- A note
+		- "You must hurry, bring the artifact all the way to the [[Kingdom of Cear Thalor]]...you will find a vault..." (I type slow)
+		- Signed the Minister of [[The Council of Coldvale]] (from that cold city at the top right)
+- [[Yharov Stonebrow|Yharov]] collects the dead man's mask and bag
+- We follow after the scary masked man at a distance
+- He stops, pours a vial of liquid on a sapling that causes it to grow into a new plant
+	- We know the plant as a [[Velvet Thorn]] ( a plant of beauty during the reign of the unknown that used to bloom everywhere and no longer exists. People used to view these plants as a sign the unknown was defeated)
+- [[Raelor]] attacks him using [[concealed-shot-valdaspire24|Concealed Shot]] and it moves his mask revealing that he may just be a normal man (also a 15 hit)
+	- We then decide to fight him for real
+	- When a dagger hit his left leg, it fell off as it was simply stitched on
+	- [[Roz Rozum|Roz]] casts [[command-xphb|Command]] to make him take his mask off, revealing that he has the face of a 16 year old [[human-xphb|Human]] boy
+	- [[Avenj]] begins interrogating him (during combat)
+		- He takes the man's satchel
+		- He [[thunderwave-xphb|Thunderwave]]s [[Avenj]] away and takes the satchel back
+		- [[Raelor]] shoots his right arm off
+- He surrenders and we interrogate him
+	- Each of his limbs on the ground appear to be of a different species, are purified, and are moving
+		- Face and torso is [[human-xphb|Human]] boy but has [[dragonborn-xphb|Dragonborn]], [[elf-xphb|Elf]], and [[drow|Drow]] limbs
+	- He claims he was created to kill [[The Unknown]] and claims he will not pronounce the name of his creator in front of mortals
+	- [[Roz Rozum|Roz]] tries to use [[Sending]] to get the creator's name, but it caused him to make a CON save and he couldn't comprehend the name despite succeeding
+	- He has TONS of random spell components
+		- So many that we now have all the components we need to cast any spell levels 0-3 once
+		- Interestingly, the components are for multiple classes
+	- Behind the emblem he carries is a coin
+		- Scratched on the front is abyssal writing
+		- On the back is a lock
+	- He implies he plans to somehow leverage the fact that many are at war to achieve his evil goals
+	- [[Roz Rozum|Roz]] uses [[mold-earth-xge|Mold Earth]] to bury his torso and head alive
+- In his bag is:
+	- A notebook with a sleeping face on the cover
+	- 3 vials all containing different liquids:
+		- A purple one that transformed the plant
+		- A silvery one with transmutation magic
+		- A green one with necromancy magic
+- [[Theodore Shellington|Theodore]] takes the spell components and mask
+- Someone plucks the plant and it is still alive and moving post plucking
+- We arrive at the [[Unnamed City]] (the southeastern corner)
+	- In the center is a small, prospering city that grants passage to the other side
+	- The water isnt very deep; we could swim through in a day
+	- [[Roz Rozum|Roz]] pays a little lizard girl a copper to find us a place to sleep
+		- She brings us to a cave hideout at the southeastern beach with some cots and toy
+			- Clearly this where she lives
+		- Her name is [[Theratina]]
+		- When asked if we should stay at an inn, she shakes her head and says "bad people"
+		- The girl leaves despite us offering for her to stay with us
+			- She is not very trusting
+- We begin investigating the notebook with the sleeping face on it
+	- There are multiple riddles to unlock it
+		- The first riddle we correctly answer "death"
+			- The lock shifts slightly
+		- The second riddle we incorrectly answer "time"
+			- A red line appears, likely indicating one of a maximum allowed number of failed guesses
+		- We correctly answer "the unknown" on our second try
+			- The lock shifts more
+		- The third riddle we answer correctly on our first try: "hope"
+			- The book unlocks
+	- The pages of the book are blank
+		- [[Roz Rozum|Roz]] casts [[see-invisibility-xphb|See Invisibility]]
+			- It does nothing
+	- In the back of the book, we see a drawn diamond with blurry words underneath it
+		- As we move the red diamond closer, the words become more visible
+		- We touch the diamond to the page and it absorbs into the book; text appears
+			- "The diamond of 20 monsters: This artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[GrindleDarks]]"
+		- The diamond is removable still if you stick your hand in the page
+	- Another page appears/renders
+		- It looks like a crooked staff with blurry text below (we probably need some crooked staff to proceed, if that is even desired)
+- We take the diamond out of the book and decide its best to store them separately
+	- [[Theodore Shellington|Theodore]] hides the book amongst his other books in his bag
+	- [[Roz Rozum|Roz]] puts the diamond in his bag
+- We search the hideout and find:
+	- 10 GP (we do not take it; it clearly belongs to [[Theratina]])
+	- A map of [[Evermore]] with [[Mazcatan]] circled; [[Theratina]] seems to want to go here
+	- Three of her poorly rendered drawings:
+		- Her with two older lizard folk
+		- A dark evil shadow with dark, amethyst like eyes
+		- Her walking alone
+- Because [[Roz Rozum|Roz]] is carrying the diamond, he has a nightmare in [[some dimensional blue arena]] where some large demon with red eyes says to him, "Give me back what is rightfully mine!"
+	- He declines and succeeds on a CON save before waking
+- The [[alarm-xphb|Alarm]] spell goes off as a guard named [[Bobloro Fawnhore]] walks in
+	- Evidently he was just doing a patrol and noticed us
+	- He offers to take us to the [[Border City]]
+	- The south part and north part of the world is feuding
+		- Generally the center city stays neural in these conflicts
+		- The source of the conflict is that [[The Council of Coldvale]] did some experiments, causing the ice rift to spread further which led to [[Karvok Thuldor]] to not have its natural lava season
+			- They are gearing up for war
+	- He said a man walked into the city without a head and walked out with one late last night
+		- The head is gone from [[Avenj]]'s bag, but the diamond and book remain
+		- This is obviously the man we buried alive
+- [[Roz Rozum|Roz]] finds the little girl on the beach and asks her where the nearest library is
+	- It is in the inner city
+	- When asked where her parents are, she simply leaves (touchy subject)
+- She later returns
+	- [[Yharov Stonebrow|Yharov]] gives her a doll he knit and she offers to take us to the library
+		- She claims they just wont let her past the border bc she is too young
+		- She does _want_ to pass the border bc she is "going somewhere"
+			- We know this to be [[Mazcatan]] from the map we found
+		- We offer to help her pass by vouching for her
+	- She gathers her things:
+		- The things we found
+		- A small rapier
+		- A canoe
+	- Everyone (except [[Theodore Shellington|Theodore]] who is too heavy and swims alongside) rides the canoe to the docks of the center city
+- Two people at the dock offer to take our canoe to the water on the other side of the passage in exchange for 5C
+	- We pay 10C and tell them to fix the dent [[Theodore Shellington|Theodore]] left when trying to enter it
+- She takes us to the courthouse
+	- We go in and the line moves quickly
+		- A small gnomish man with glasses sits at a table with a massive amount of scrolls surrounding him
+		- He tells us passage costs 1S per person
+		- He does not want to let the little girl through
+			- He claims she committed crimes in the north in the past
+			- She owes 10 gold pieces for her past crimes
+			- We pay it from the bag we recovered from the original masked man
+		- Once through, she tries to pay us her 10G
+			- We decline
+- We make our way to the north port. 
+	- We stop by a shop with a giant [[bugbear-mpmm|Bugbear]] working at the counter
+	- Everything in there is hundreds of gold or platinum
+	- [[Theodore Shellington|Theodore]] eats a magic mushroom (reluctantly) in exchange for 2 free pouches of premium tobacco (worth hundreds of gold)
+		- He rolled well and now has advantage on strength checks for the rest of the day
+- Our canoe is at the dock and repaired
+	- As we begin to depart, we notice some elvish spellcasters on the way by

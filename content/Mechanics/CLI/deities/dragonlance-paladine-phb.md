@@ -1,0 +1,26 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-deity
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/deity/dragonlance
+- ttrpg-cli/domain/peace
+- ttrpg-cli/domain/war
+aliases:
+- "Paladine"
+---
+# Paladine
+
+
+- **Alignment**: Lawful Good
+- **Category**: The Gods of Good
+- **Domains**: War, Peace
+- **Pantheon**: Dragonlance
+- **Symbol**: Silver triangle
+
+
+
+## Sources
+
+*Player's Handbook p. 295, Tasha's Cauldron of Everything p. 33*

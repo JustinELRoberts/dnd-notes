@@ -1,0 +1,35 @@
+{
+  "size": {
+    "w": 1200,
+    "h": 1600
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "Campaigns/Under The Ash/Locations/img/The Unnamed City Map.png",
+      "name": "The Unnamed City"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "Campaigns/Under The Ash/Locations/img/The Unnamed City Map.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "textLayers": []
+}

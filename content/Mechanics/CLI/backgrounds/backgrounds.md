@@ -1,0 +1,41 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+- json5e-index
+---
+# Index of Backgrounds
+
+- [Aberrant Heir](./aberrant-heir-efa.md)
+- [Acolyte](./acolyte-xphb.md)
+- [Archaeologist](./archaeologist-efa.md)
+- [Artisan](./artisan-xphb.md)
+- [Charlatan](./charlatan-xphb.md)
+- [Criminal](./criminal-xphb.md)
+- [Entertainer](./entertainer-xphb.md)
+- [Farmer](./farmer-xphb.md)
+- [Guard](./guard-xphb.md)
+- [Guide](./guide-xphb.md)
+- [Hermit](./hermit-xphb.md)
+- [House Agent](./house-agent-efa.md)
+- [House Cannith Heir](./house-cannith-heir-efa.md)
+- [House Deneith Heir](./house-deneith-heir-efa.md)
+- [House Ghallanda Heir](./house-ghallanda-heir-efa.md)
+- [House Jorasco Heir](./house-jorasco-heir-efa.md)
+- [House Kundarak Heir](./house-kundarak-heir-efa.md)
+- [House Lyrandar Heir](./house-lyrandar-heir-efa.md)
+- [House Medani Heir](./house-medani-heir-efa.md)
+- [House Orien Heir](./house-orien-heir-efa.md)
+- [House Phiarlan Heir](./house-phiarlan-heir-efa.md)
+- [House Sivis Heir](./house-sivis-heir-efa.md)
+- [House Tharashk Heir](./house-tharashk-heir-efa.md)
+- [House Thuranni Heir](./house-thuranni-heir-efa.md)
+- [House Vadalis Heir](./house-vadalis-heir-efa.md)
+- [Inquisitive](./inquisitive-efa.md)
+- [Merchant](./merchant-xphb.md)
+- [Noble](./noble-xphb.md)
+- [Sage](./sage-xphb.md)
+- [Sailor](./sailor-xphb.md)
+- [Scribe](./scribe-xphb.md)
+- [Soldier](./soldier-xphb.md)
+- [Wayfarer](./wayfarer-xphb.md)

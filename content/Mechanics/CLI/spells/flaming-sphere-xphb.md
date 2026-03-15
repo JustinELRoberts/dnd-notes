@@ -1,0 +1,55 @@
+---
+obsidianUIMode: preview
+cssclasses:
+- json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/xphb
+- ttrpg-cli/spell/class/bard
+- ttrpg-cli/spell/class/druid
+- ttrpg-cli/spell/class/sorcerer
+- ttrpg-cli/spell/class/wizard
+- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+- ttrpg-cli/spell/level/2nd-level
+- ttrpg-cli/spell/school/conjuration
+- ttrpg-cli/spell/subclass/alchemist
+- ttrpg-cli/spell/subclass/arcane-trickster
+- ttrpg-cli/spell/subclass/circle-of-wildfire
+- ttrpg-cli/spell/subclass/college-of-lore
+- ttrpg-cli/spell/subclass/drake-blooded
+- ttrpg-cli/spell/subclass/eldritch-knight
+- ttrpg-cli/spell/subclass/house-of-bishops
+classes:
+- Artificer (Alchemist)
+- Bard
+- Bard (College of Lore)
+- Druid
+- Druid (Circle of Wildfire)
+- Fighter (Eldritch Knight)
+- Rogue (Arcane Trickster)
+- Sorcerer
+- Warden (Drake-Blooded)
+- Warmage (House of Bishops)
+- Wizard
+aliases:
+- "Flaming Sphere"
+---
+# Flaming Sphere
+*2nd-level, Conjuration*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 60 feet
+- **Components:** V, S, M (a ball of wax)
+- **Duration:** Concentration, up to 1 minute
+
+You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking `2d6` Fire damage on a failed save or half as much damage on a successful one.
+
+As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can move the sphere up to 30 feet, rolling it along the ground. If you move the sphere into a creature's space, that creature makes the save against the sphere, and the sphere stops moving for the turn.
+
+When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start [burning](Mechanics/CLI/traps-hazards/burning-xphb.md) if touched by the sphere, and it sheds [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for an additional 20 feet.
+
+**Using a Higher-Level Spell Slot.** The damage increases by `1d6` for each spell slot level above 2.
+
+**Classes**: [Artificer (Alchemist)](Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of Wildfire)](Mechanics/CLI/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+
+*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
