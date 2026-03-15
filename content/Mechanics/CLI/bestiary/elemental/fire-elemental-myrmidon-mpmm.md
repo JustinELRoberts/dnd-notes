@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Fire Elemental Myrmidon"
+  - Fire Elemental Myrmidon
+created: 2026-03-09T12:15:34.050-04:00
+modified: 2026-03-09T12:15:34.050-04:00
+published: 2026-03-09T12:15:34.050-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Fire Elemental Myrmidon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
 ![](Mechanics/CLI/bestiary/elemental/img/fire-elemental-myrmidon.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/item/rarity/rare
+publish: true
 aliases:
-- "Aura Lenses (Complete)"
+  - Aura Lenses (Complete)
+created: 2026-03-09T12:15:34.060-04:00
+modified: 2026-03-09T12:15:34.060-04:00
+published: 2026-03-09T12:15:34.060-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/item/rarity/rare
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Aura Lenses (Complete)
 *Wondrous item, rare*  
 

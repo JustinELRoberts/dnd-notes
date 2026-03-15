@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/peace
+publish: true
 aliases:
-- "Eldath"
+  - Eldath
+created: 2026-03-09T12:15:34.044-04:00
+modified: 2026-03-09T12:15:34.044-04:00
+published: 2026-03-09T12:15:34.044-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/deity/forgotten-realms
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/nature
+  - ttrpg-cli/domain/peace
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Eldath
 
 

@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/mark-of-sentinel
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/battle-smith
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/peace-domain
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Artificer (Battle Smith)
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Peace Domain)
-- Paladin
-- Sorcerer (Divine Soul, Good)
-- Witch (Technicolor Magic)
+publish: true
 aliases:
-- "Warding Bond"
+  - Warding Bond
+created: 2026-03-09T12:15:33.947-04:00
+modified: 2026-03-09T12:15:33.947-04:00
+published: 2026-03-09T12:15:33.947-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/mark-of-sentinel
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/battle-smith
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/peace-domain
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Peace Domain)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Witch (Technicolor Magic)
 ---
+
 # Warding Bond
 *2nd-level, Abjuration*  
 

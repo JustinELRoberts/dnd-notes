@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Describe Appearance and Personality; Intelligence"
+  - Describe Appearance and Personality; Intelligence
+created: 2026-03-09T12:15:34.410-04:00
+modified: 2026-03-09T12:15:34.410-04:00
+published: 2026-03-09T12:15:34.410-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Describe Appearance and Personality; Intelligence
 *Source: Player's Handbook (2024) p. 38* 
 

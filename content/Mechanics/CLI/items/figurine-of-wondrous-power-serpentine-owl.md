@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Figurine of Wondrous Power, Serpentine Owl"
+  - Figurine of Wondrous Power, Serpentine Owl
+created: 2026-03-09T12:15:33.918-04:00
+modified: 2026-03-09T12:15:33.918-04:00
+published: 2026-03-09T12:15:33.918-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Figurine of Wondrous Power, Serpentine Owl
 *Wondrous item, major, rare*  
 

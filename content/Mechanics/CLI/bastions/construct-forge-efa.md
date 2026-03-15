@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
-tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Construct Forge"
+  - Construct Forge
+created: 2026-03-09T12:15:33.867-04:00
+modified: 2026-03-09T12:15:33.867-04:00
+published: 2026-03-09T12:15:33.867-04:00
+tags:
+  - ttrpg-cli/bastion
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-bastion
+obsidianUIMode: preview
 ---
+
 # Construct Forge
 *Level 17 Bastion facility*  
 

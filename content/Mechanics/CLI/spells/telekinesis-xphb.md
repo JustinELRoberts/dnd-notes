@@ -1,34 +1,39 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/psi-warrior
-- ttrpg-cli/spell/subclass/red-magic
-- ttrpg-cli/spell/subclass/steel-magic
-classes:
-- Bard
-- Fighter (Psi Warrior)
-- Martyr (Burden of the End)
-- Sorcerer
-- Sorcerer (Aberrant Sorcery)
-- Warlock (Great Old One Patron)
-- Witch (Red Magic)
-- Witch (Steel Magic)
-- Wizard
+publish: true
 aliases:
-- "Telekinesis"
+  - Telekinesis
+created: 2026-03-09T12:15:33.989-04:00
+modified: 2026-03-09T12:15:33.989-04:00
+published: 2026-03-09T12:15:33.989-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+  - ttrpg-cli/spell/subclass/psi-warrior
+  - ttrpg-cli/spell/subclass/red-magic
+  - ttrpg-cli/spell/subclass/steel-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Fighter (Psi Warrior)
+  - Martyr (Burden of the End)
+  - Sorcerer
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock (Great Old One Patron)
+  - Witch (Red Magic)
+  - Witch (Steel Magic)
+  - Wizard
 ---
+
 # Telekinesis
 *5th-level, Transmutation*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/sea-elf
+publish: true
 aliases:
-- "Sea Elf"
+  - Sea Elf
+created: 2026-03-09T12:15:33.844-04:00
+modified: 2026-03-09T12:15:33.844-04:00
+published: 2026-03-09T12:15:33.844-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/sea-elf
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Sea Elf
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 30*  
 ![](Mechanics/CLI/races/img/sea-elf.webp#right)

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/erlw
-- ttrpg-cli/deity/eberron
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/peace
-- ttrpg-cli/domain/twilight
+publish: true
 aliases:
-- "Boldrei"
+  - Boldrei
+created: 2026-03-09T12:15:34.053-04:00
+modified: 2026-03-09T12:15:34.053-04:00
+published: 2026-03-09T12:15:34.053-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/erlw
+  - ttrpg-cli/deity/eberron
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/peace
+  - ttrpg-cli/domain/twilight
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Boldrei
 ![The Sovereign Host](Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
 

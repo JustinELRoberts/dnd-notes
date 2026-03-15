@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Druid
-- Witch
+publish: true
 aliases:
-- "Petal Storm"
+  - Petal Storm
+created: 2026-03-09T12:15:33.968-04:00
+modified: 2026-03-09T12:15:33.968-04:00
+published: 2026-03-09T12:15:33.968-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Druid
+  - Witch
 ---
+
 # Petal Storm
 *2nd-level, Conjuration*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/harengon
+publish: true
 aliases:
-- "Harengon"
+  - Harengon
+created: 2026-03-09T12:15:33.872-04:00
+modified: 2026-03-09T12:15:33.872-04:00
+published: 2026-03-09T12:15:33.872-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/harengon
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Harengon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 22*  
 ![](Mechanics/CLI/races/img/harengon.webp#right)

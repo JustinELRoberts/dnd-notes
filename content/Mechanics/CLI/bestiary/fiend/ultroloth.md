@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
+publish: true
 aliases:
-- "Ultroloth"
+  - Ultroloth
+created: 2026-03-09T12:15:33.917-04:00
+modified: 2026-03-09T12:15:33.917-04:00
+published: 2026-03-09T12:15:33.917-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/13
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/yugoloth
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Ultroloth
 *Source: Monster Manual p. 314*  
 ![](Mechanics/CLI/bestiary/fiend/img/ultroloth.webp#right)

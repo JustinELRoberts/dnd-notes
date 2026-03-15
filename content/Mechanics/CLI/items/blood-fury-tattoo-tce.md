@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/wondrous/tattoo
+publish: true
 aliases:
-- "Blood Fury Tattoo"
+  - Blood Fury Tattoo
+created: 2026-03-09T12:15:34.047-04:00
+modified: 2026-03-09T12:15:34.047-04:00
+published: 2026-03-09T12:15:34.047-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/wondrous/tattoo
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Blood Fury Tattoo
 *Wondrous item (tattoo), legendary (requires attunement)*  
 

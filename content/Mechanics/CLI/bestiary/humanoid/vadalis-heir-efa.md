@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid/human
+publish: true
 aliases:
-- "Vadalis Heir"
+  - Vadalis Heir
+created: 2026-03-09T12:15:34.012-04:00
+modified: 2026-03-09T12:15:34.012-04:00
+published: 2026-03-09T12:15:34.012-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/humanoid/human
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Vadalis Heir
 *Source: Eberron: Forge of the Artificer p. 85*  
 ![](Mechanics/CLI/bestiary/humanoid/img/vadalis-heir.webp#right)

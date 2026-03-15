@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/white-magic
+publish: true
 aliases:
-- "Spells for White Magic"
+  - Spells for White Magic
+created: 2026-03-09T12:15:34.430-04:00
+modified: 2026-03-09T12:15:34.430-04:00
+published: 2026-03-09T12:15:34.430-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/white-magic
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for White Magic
 
 ## Cantrip

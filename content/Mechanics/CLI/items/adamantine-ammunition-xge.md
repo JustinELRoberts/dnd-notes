@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Adamantine Ammunition"
-- "Adamantine Arrow"
-- "Adamantine Bolt"
-- "Adamantine Firearm Bullet"
-- "Adamantine Grenade"
-- "Adamantine Needle"
-- "Adamantine Sling Bullet"
+  - Adamantine Ammunition
+  - Adamantine Arrow
+  - Adamantine Bolt
+  - Adamantine Firearm Bullet
+  - Adamantine Grenade
+  - Adamantine Needle
+  - Adamantine Sling Bullet
+created: 2026-03-09T12:15:34.106-04:00
+modified: 2026-03-09T12:15:34.106-04:00
+published: 2026-03-09T12:15:34.106-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/rarity/unknown
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Adamantine Ammunition
 *Ammunition, minor*  
 

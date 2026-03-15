@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Selling a Magic Item; Magic Item Offer"
+  - Selling a Magic Item; Magic Item Offer
+created: 2026-03-09T12:15:34.373-04:00
+modified: 2026-03-09T12:15:34.373-04:00
+published: 2026-03-09T12:15:34.373-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Selling a Magic Item; Magic Item Offer
 *Source: Xanathar's Guide to Everything p. 133* 
 

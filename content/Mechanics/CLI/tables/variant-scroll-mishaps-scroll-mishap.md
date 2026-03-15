@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Variant: Scroll Mishaps; Scroll Mishap"
+  - "Variant: Scroll Mishaps; Scroll Mishap"
+created: 2026-03-09T12:15:34.408-04:00
+modified: 2026-03-09T12:15:34.408-04:00
+published: 2026-03-09T12:15:34.408-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Variant: Scroll Mishaps; Scroll Mishap
 *Source: Dungeon Master's Guide p. 140* 
 

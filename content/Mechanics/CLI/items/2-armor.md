@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "+2 Armor"
-- "+2 Breastplate"
-- "+2 Chain Mail"
-- "+2 Chain Shirt"
-- "+2 Half Plate Armor"
-- "+2 Hide Armor"
-- "+2 Leather Armor"
-- "+2 Padded Armor"
-- "+2 Plate Armor"
-- "+2 Ring Mail"
-- "+2 Scale Mail"
-- "+2 Spiked Armor"
-- "+2 Splint Armor"
-- "+2 Studded Leather Armor"
+  - +2 Armor
+  - +2 Breastplate
+  - +2 Chain Mail
+  - +2 Chain Shirt
+  - +2 Half Plate Armor
+  - +2 Hide Armor
+  - +2 Leather Armor
+  - +2 Padded Armor
+  - +2 Plate Armor
+  - +2 Ring Mail
+  - +2 Scale Mail
+  - +2 Spiked Armor
+  - +2 Splint Armor
+  - +2 Studded Leather Armor
+created: 2026-03-09T12:15:34.088-04:00
+modified: 2026-03-09T12:15:34.088-04:00
+published: 2026-03-09T12:15:34.088-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +2 Armor
 *Major, very rare*  
 

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "+2 Weapon (no damage)"
+  - +2 Weapon (no damage)
+created: 2026-03-09T12:15:34.132-04:00
+modified: 2026-03-09T12:15:34.132-04:00
+published: 2026-03-09T12:15:34.132-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +2 Weapon (no damage)
 *Major, rare*  
 

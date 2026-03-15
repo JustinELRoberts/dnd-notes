@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/thrall
+publish: true
 aliases:
-- "Bone Beast"
+  - Bone Beast
+created: 2026-03-09T12:15:33.956-04:00
+modified: 2026-03-09T12:15:33.956-04:00
+published: 2026-03-09T12:15:33.956-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead/thrall
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Bone Beast
 *Source: Valda's Spire of Secrets (2024) p. 0*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaNecromancer/Creatures/Bone%20Beast.webp#right)

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Scribing Spell Scrolls; Spell Scroll Costs"
+  - Scribing Spell Scrolls; Spell Scroll Costs
+created: 2026-03-09T12:15:34.370-04:00
+modified: 2026-03-09T12:15:34.370-04:00
+published: 2026-03-09T12:15:34.370-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Scribing Spell Scrolls; Spell Scroll Costs
 *Source: Player's Handbook (2024) p. 233. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

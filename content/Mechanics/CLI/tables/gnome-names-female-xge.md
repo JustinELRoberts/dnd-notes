@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Gnome Names – Female"
+  - Gnome Names – Female
+created: 2026-03-09T12:15:34.376-04:00
+modified: 2026-03-09T12:15:34.376-04:00
+published: 2026-03-09T12:15:34.376-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Gnome Names – Female
 *Source: Xanathar's Guide to Everything p. 178* 
 

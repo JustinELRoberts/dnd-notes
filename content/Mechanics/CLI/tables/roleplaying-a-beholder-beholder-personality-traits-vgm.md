@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
+publish: true
 aliases:
-- "Roleplaying a Beholder; Beholder Personality Traits"
+  - Roleplaying a Beholder; Beholder Personality Traits
+created: 2026-03-09T12:15:34.373-04:00
+modified: 2026-03-09T12:15:34.373-04:00
+published: 2026-03-09T12:15:34.373-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Roleplaying a Beholder; Beholder Personality Traits
 *Source: Volo's Guide to Monsters p. 8* 
 

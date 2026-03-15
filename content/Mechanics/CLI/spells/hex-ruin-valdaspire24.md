@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/death-domain
-classes:
-- Cleric (Death Domain)
-- Witch
+publish: true
 aliases:
-- "Hex: Ruin"
+  - "Hex: Ruin"
+created: 2026-03-09T12:15:33.994-04:00
+modified: 2026-03-09T12:15:33.994-04:00
+published: 2026-03-09T12:15:33.994-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/death-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Cleric (Death Domain)
+  - Witch
 ---
+
 # Hex: Ruin
 *cantrip, Necromancy*  
 

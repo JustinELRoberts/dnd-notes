@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Hippogriff"
+  - Hippogriff
+created: 2026-03-09T12:15:34.109-04:00
+modified: 2026-03-09T12:15:34.109-04:00
+published: 2026-03-09T12:15:34.109-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Hippogriff
 *Source: Monster Manual p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/hippogriff.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/ranger/horizon-walker
+publish: true
 aliases:
-- "Horizon Walker"
+  - Horizon Walker
+created: 2026-03-09T12:15:33.799-04:00
+modified: 2026-03-09T12:15:33.799-04:00
+published: 2026-03-09T12:15:33.799-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/ranger/horizon-walker
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Horizon Walker
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
 *Source: Xanathar's Guide to Everything p. 42*  

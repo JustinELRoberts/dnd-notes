@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/ranger/monster-slayer
+publish: true
 aliases:
-- "Monster Slayer"
+  - Monster Slayer
+created: 2026-03-09T12:15:33.968-04:00
+modified: 2026-03-09T12:15:33.968-04:00
+published: 2026-03-09T12:15:33.968-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/ranger/monster-slayer
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Monster Slayer
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
 *Source: Xanathar's Guide to Everything p. 43*  

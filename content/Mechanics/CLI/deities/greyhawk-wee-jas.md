@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/greyhawk
-- ttrpg-cli/domain/arcana
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/order
+publish: true
 aliases:
-- "Wee Jas"
+  - Wee Jas
+created: 2026-03-09T12:15:33.994-04:00
+modified: 2026-03-09T12:15:33.994-04:00
+published: 2026-03-09T12:15:33.994-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/deity/greyhawk
+  - ttrpg-cli/domain/arcana
+  - ttrpg-cli/domain/death
+  - ttrpg-cli/domain/grave
+  - ttrpg-cli/domain/knowledge
+  - ttrpg-cli/domain/order
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Wee Jas
 
 

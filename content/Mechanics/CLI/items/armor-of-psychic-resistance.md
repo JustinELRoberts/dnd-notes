@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Armor of Psychic Resistance"
-- "Breastplate of Psychic Resistance"
-- "Chain Mail of Psychic Resistance"
-- "Chain Shirt of Psychic Resistance"
-- "Half Plate Armor of Psychic Resistance"
-- "Hide Armor of Psychic Resistance"
-- "Leather Armor of Psychic Resistance"
-- "Padded Armor of Psychic Resistance"
-- "Plate Armor of Psychic Resistance"
-- "Ring Mail of Psychic Resistance"
-- "Scale Mail of Psychic Resistance"
-- "Spiked Armor of Psychic Resistance"
-- "Splint Armor of Psychic Resistance"
-- "Studded Leather Armor of Psychic Resistance"
+  - Armor of Psychic Resistance
+  - Breastplate of Psychic Resistance
+  - Chain Mail of Psychic Resistance
+  - Chain Shirt of Psychic Resistance
+  - Half Plate Armor of Psychic Resistance
+  - Hide Armor of Psychic Resistance
+  - Leather Armor of Psychic Resistance
+  - Padded Armor of Psychic Resistance
+  - Plate Armor of Psychic Resistance
+  - Ring Mail of Psychic Resistance
+  - Scale Mail of Psychic Resistance
+  - Spiked Armor of Psychic Resistance
+  - Splint Armor of Psychic Resistance
+  - Studded Leather Armor of Psychic Resistance
+created: 2026-03-09T12:15:33.873-04:00
+modified: 2026-03-09T12:15:33.873-04:00
+published: 2026-03-09T12:15:33.873-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Armor of Psychic Resistance
 *Major, rare (requires attunement)*  
 

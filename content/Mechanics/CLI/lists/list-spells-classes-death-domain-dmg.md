@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/death-domain
+publish: true
 aliases:
-- "Spells for Death Domain"
+  - Spells for Death Domain
+created: 2026-03-09T12:15:34.432-04:00
+modified: 2026-03-09T12:15:34.432-04:00
+published: 2026-03-09T12:15:34.432-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/death-domain
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Death Domain
 
 ## Cantrip

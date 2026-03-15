@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Hezrou"
+  - Hezrou
+created: 2026-03-09T12:15:34.007-04:00
+modified: 2026-03-09T12:15:34.007-04:00
+published: 2026-03-09T12:15:34.007-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Hezrou
 *Source: Monster Manual p. 60. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/fiend/img/hezrou.webp#right)

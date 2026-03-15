@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Feywild Time Warp"
+  - Feywild Time Warp
+created: 2026-03-09T12:15:34.380-04:00
+modified: 2026-03-09T12:15:34.380-04:00
+published: 2026-03-09T12:15:34.380-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Feywild Time Warp
 *Source: Dungeon Master's Guide p. 50* 
 

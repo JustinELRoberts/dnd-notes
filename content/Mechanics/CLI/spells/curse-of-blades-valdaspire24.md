@@ -1,25 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Necromancer
-- Warmage (House of Bishops)
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Curse of Blades"
+  - Curse of Blades
+created: 2026-03-09T12:15:34.106-04:00
+modified: 2026-03-09T12:15:34.106-04:00
+published: 2026-03-09T12:15:34.106-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Necromancer
+  - Warmage (House of Bishops)
+  - Witch
+  - Wizard
 ---
+
 # Curse of Blades
 *2nd-level, Enchantment*  
 

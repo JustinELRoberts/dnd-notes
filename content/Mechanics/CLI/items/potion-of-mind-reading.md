@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/potion
+publish: true
 aliases:
-- "Potion of Mind Reading"
+  - Potion of Mind Reading
+created: 2026-03-09T12:15:33.872-04:00
+modified: 2026-03-09T12:15:33.872-04:00
+published: 2026-03-09T12:15:33.872-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/potion
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Potion of Mind Reading
 *Potion, minor, rare*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/lizardfolk
+publish: true
 aliases:
-- "Lizardfolk"
+  - Lizardfolk
+created: 2026-03-09T12:15:34.081-04:00
+modified: 2026-03-09T12:15:34.082-04:00
+published: 2026-03-09T12:15:34.082-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/lizardfolk
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Lizardfolk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 26*  
 ![](Mechanics/CLI/races/img/lizardfolk.webp#right)

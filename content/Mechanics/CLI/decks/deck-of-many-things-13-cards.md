@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Deck of Many Things (13 Cards)"
+  - Deck of Many Things (13 Cards)
+created: 2026-03-09T12:15:33.975-04:00
+modified: 2026-03-09T12:15:33.975-04:00
+published: 2026-03-09T12:15:33.975-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-deck
+obsidianUIMode: preview
 ---
+
 # Deck of Many Things (13 Cards)
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.

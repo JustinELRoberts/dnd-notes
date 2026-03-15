@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Inquisitive"
+  - Inquisitive
+created: 2026-03-09T12:15:33.859-04:00
+modified: 2026-03-09T12:15:33.859-04:00
+published: 2026-03-09T12:15:33.859-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # Inquisitive
 *Source: Eberron: Forge of the Artificer p. 33*  
 ![](Mechanics/CLI/backgrounds/img/inquisitive.webp#right)

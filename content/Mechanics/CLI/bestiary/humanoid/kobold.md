@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/kobold
+publish: true
 aliases:
-- "Kobold"
+  - Kobold
+created: 2026-03-09T12:15:33.947-04:00
+modified: 2026-03-09T12:15:33.947-04:00
+published: 2026-03-09T12:15:33.947-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid/kobold
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Kobold
 *Source: Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold.webp#right)

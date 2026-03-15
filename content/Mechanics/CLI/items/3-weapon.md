@@ -1,105 +1,110 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "+3 Weapon"
-- "+3 Antimatter Rifle"
-- "+3 Atlatl"
-- "+3 Automatic Pistol"
-- "+3 Automatic Rifle"
-- "+3 Ballista"
-- "+3 Bastard Sword"
-- "+3 Battleaxe"
-- "+3 Blowgun"
-- "+3 Bomb"
-- "+3 Boomerang"
-- "+3 Cestus"
-- "+3 Claw Gauntlet"
-- "+3 Club"
-- "+3 Cutlass"
-- "+3 Dagger"
-- "+3 Dart"
-- "+3 Double-Bladed Scimitar"
-- "+3 Edged Card"
-- "+3 Estoc"
-- "+3 Fishhook"
-- "+3 Flail"
-- "+3 Glaive"
-- "+3 Greataxe"
-- "+3 Greatbow"
-- "+3 Greatclub"
-- "+3 Greatsword"
-- "+3 Grim Scythe"
-- "+3 Halberd"
-- "+3 Hand Crossbow"
-- "+3 Handaxe"
-- "+3 Heavy Crossbow"
-- "+3 Hooked Hammer"
-- "+3 Hooked Shortspear"
-- "+3 Hoopak"
-- "+3 Hunting Rifle"
-- "+3 Javelin"
-- "+3 Katana"
-- "+3 Khopesh"
-- "+3 Lance"
-- "+3 Laser Pistol"
-- "+3 Laser Rifle"
-- "+3 Light Crossbow"
-- "+3 Light Hammer"
-- "+3 Light Repeating Crossbow"
-- "+3 Longbow"
-- "+3 Longsword"
-- "+3 Mace"
-- "+3 Machete"
-- "+3 Maul"
-- "+3 Meteor Chain"
-- "+3 Morningstar"
-- "+3 Musket"
-- "+3 Naginata"
-- "+3 Nunchaku"
-- "+3 Parrying Dagger"
-- "+3 Pickaxe"
-- "+3 Pike"
-- "+3 Pistol"
-- "+3 Punching Dagger"
-- "+3 Quarterstaff"
-- "+3 Rapier"
-- "+3 Repeating Crossbow"
-- "+3 Revolver"
-- "+3 Sai"
-- "+3 Scimitar"
-- "+3 Scorpion on a Stick"
-- "+3 Scourge"
-- "+3 Shortbow"
-- "+3 Shortsword"
-- "+3 Shotgun"
-- "+3 Shovel"
-- "+3 Sickle"
-- "+3 Sling"
-- "+3 Spear"
-- "+3 Spiked Chain"
-- "+3 Throwing Dagger"
-- "+3 Tonfa"
-- "+3 Trident"
-- "+3 Volley Crossbow"
-- "+3 War Pick"
-- "+3 Warhammer"
-- "+3 Whip"
-- "+3 Yklwa"
+  - +3 Weapon
+  - +3 Antimatter Rifle
+  - +3 Atlatl
+  - +3 Automatic Pistol
+  - +3 Automatic Rifle
+  - +3 Ballista
+  - +3 Bastard Sword
+  - +3 Battleaxe
+  - +3 Blowgun
+  - +3 Bomb
+  - +3 Boomerang
+  - +3 Cestus
+  - +3 Claw Gauntlet
+  - +3 Club
+  - +3 Cutlass
+  - +3 Dagger
+  - +3 Dart
+  - +3 Double-Bladed Scimitar
+  - +3 Edged Card
+  - +3 Estoc
+  - +3 Fishhook
+  - +3 Flail
+  - +3 Glaive
+  - +3 Greataxe
+  - +3 Greatbow
+  - +3 Greatclub
+  - +3 Greatsword
+  - +3 Grim Scythe
+  - +3 Halberd
+  - +3 Hand Crossbow
+  - +3 Handaxe
+  - +3 Heavy Crossbow
+  - +3 Hooked Hammer
+  - +3 Hooked Shortspear
+  - +3 Hoopak
+  - +3 Hunting Rifle
+  - +3 Javelin
+  - +3 Katana
+  - +3 Khopesh
+  - +3 Lance
+  - +3 Laser Pistol
+  - +3 Laser Rifle
+  - +3 Light Crossbow
+  - +3 Light Hammer
+  - +3 Light Repeating Crossbow
+  - +3 Longbow
+  - +3 Longsword
+  - +3 Mace
+  - +3 Machete
+  - +3 Maul
+  - +3 Meteor Chain
+  - +3 Morningstar
+  - +3 Musket
+  - +3 Naginata
+  - +3 Nunchaku
+  - +3 Parrying Dagger
+  - +3 Pickaxe
+  - +3 Pike
+  - +3 Pistol
+  - +3 Punching Dagger
+  - +3 Quarterstaff
+  - +3 Rapier
+  - +3 Repeating Crossbow
+  - +3 Revolver
+  - +3 Sai
+  - +3 Scimitar
+  - +3 Scorpion on a Stick
+  - +3 Scourge
+  - +3 Shortbow
+  - +3 Shortsword
+  - +3 Shotgun
+  - +3 Shovel
+  - +3 Sickle
+  - +3 Sling
+  - +3 Spear
+  - +3 Spiked Chain
+  - +3 Throwing Dagger
+  - +3 Tonfa
+  - +3 Trident
+  - +3 Volley Crossbow
+  - +3 War Pick
+  - +3 Warhammer
+  - +3 Whip
+  - +3 Yklwa
+created: 2026-03-09T12:15:34.112-04:00
+modified: 2026-03-09T12:15:34.112-04:00
+published: 2026-03-09T12:15:34.112-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/age/renaissance
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +3 Weapon
 *Major, very rare*  
 

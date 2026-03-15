@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Hellfire Engine"
+  - Hellfire Engine
+created: 2026-03-09T12:15:33.802-04:00
+modified: 2026-03-09T12:15:33.802-04:00
+published: 2026-03-09T12:15:33.802-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/16
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Hellfire Engine
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 152*  
 ![](Mechanics/CLI/bestiary/construct/img/hellfire-engine.webp#right)

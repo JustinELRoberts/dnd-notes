@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/path-of-the-wild-heart
-- ttrpg-cli/spell/subclass/sky-magic
-classes:
-- Barbarian (Path of the Wild Heart)
-- Bard
-- Druid
-- Paladin (Oath of the Ancients)
-- Ranger
-- Witch (Sky Magic)
+publish: true
 aliases:
-- "Commune with Nature"
+  - Commune with Nature
+created: 2026-03-09T12:15:34.093-04:00
+modified: 2026-03-09T12:15:34.093-04:00
+published: 2026-03-09T12:15:34.093-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+  - ttrpg-cli/spell/subclass/path-of-the-wild-heart
+  - ttrpg-cli/spell/subclass/sky-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Barbarian (Path of the Wild Heart)
+  - Bard
+  - Druid
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Witch (Sky Magic)
 ---
+
 # Commune with Nature
 *5th-level, Divination (ritual)*  
 

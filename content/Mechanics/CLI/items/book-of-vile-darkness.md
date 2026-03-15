@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
+publish: true
 aliases:
-- "Book of Vile Darkness"
+  - Book of Vile Darkness
+created: 2026-03-09T12:15:33.791-04:00
+modified: 2026-03-09T12:15:33.791-04:00
+published: 2026-03-09T12:15:33.791-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/book-of-vile-darkness.webp#right)

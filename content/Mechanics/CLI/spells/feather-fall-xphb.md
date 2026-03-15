@@ -1,45 +1,50 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/aberrant-dragonmark
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/mark-of-storm
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-odyssey
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/house-of-rooks
-- ttrpg-cli/spell/subclass/sky-magic
-- ttrpg-cli/spell/subrace/genasi-air
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Odyssey)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warmage (House of Bishops)
-- Warmage (House of Rooks)
-- Witch (Sky Magic)
-- Wizard
+publish: true
 aliases:
-- "Feather Fall"
+  - Feather Fall
+created: 2026-03-09T12:15:34.045-04:00
+modified: 2026-03-09T12:15:34.045-04:00
+published: 2026-03-09T12:15:34.045-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/mark-of-storm
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-odyssey
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/house-of-rooks
+  - ttrpg-cli/spell/subclass/sky-magic
+  - ttrpg-cli/spell/subrace/genasi-air
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Odyssey)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warmage (House of Bishops)
+  - Warmage (House of Rooks)
+  - Witch (Sky Magic)
+  - Wizard
 ---
+
 # Feather Fall
 *1st-level, Transmutation*  
 

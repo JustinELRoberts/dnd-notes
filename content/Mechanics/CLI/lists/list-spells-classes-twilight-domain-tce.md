@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/twilight-domain
+publish: true
 aliases:
-- "Spells for Twilight Domain"
+  - Spells for Twilight Domain
+created: 2026-03-09T12:15:34.426-04:00
+modified: 2026-03-09T12:15:34.426-04:00
+published: 2026-03-09T12:15:34.426-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/twilight-domain
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Twilight Domain
 
 ## 1st Level

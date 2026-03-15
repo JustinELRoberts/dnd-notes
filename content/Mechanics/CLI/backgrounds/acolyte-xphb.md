@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Acolyte"
+  - Acolyte
+created: 2026-03-09T12:15:33.812-04:00
+modified: 2026-03-09T12:15:33.813-04:00
+published: 2026-03-09T12:15:33.813-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # Acolyte
 *Source: Player's Handbook (2024) p. 178. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/backgrounds/img/acolyte.webp#right)

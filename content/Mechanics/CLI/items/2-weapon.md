@@ -1,105 +1,110 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "+2 Weapon"
-- "+2 Antimatter Rifle"
-- "+2 Atlatl"
-- "+2 Automatic Pistol"
-- "+2 Automatic Rifle"
-- "+2 Ballista"
-- "+2 Bastard Sword"
-- "+2 Battleaxe"
-- "+2 Blowgun"
-- "+2 Bomb"
-- "+2 Boomerang"
-- "+2 Cestus"
-- "+2 Claw Gauntlet"
-- "+2 Club"
-- "+2 Cutlass"
-- "+2 Dagger"
-- "+2 Dart"
-- "+2 Double-Bladed Scimitar"
-- "+2 Edged Card"
-- "+2 Estoc"
-- "+2 Fishhook"
-- "+2 Flail"
-- "+2 Glaive"
-- "+2 Greataxe"
-- "+2 Greatbow"
-- "+2 Greatclub"
-- "+2 Greatsword"
-- "+2 Grim Scythe"
-- "+2 Halberd"
-- "+2 Hand Crossbow"
-- "+2 Handaxe"
-- "+2 Heavy Crossbow"
-- "+2 Hooked Hammer"
-- "+2 Hooked Shortspear"
-- "+2 Hoopak"
-- "+2 Hunting Rifle"
-- "+2 Javelin"
-- "+2 Katana"
-- "+2 Khopesh"
-- "+2 Lance"
-- "+2 Laser Pistol"
-- "+2 Laser Rifle"
-- "+2 Light Crossbow"
-- "+2 Light Hammer"
-- "+2 Light Repeating Crossbow"
-- "+2 Longbow"
-- "+2 Longsword"
-- "+2 Mace"
-- "+2 Machete"
-- "+2 Maul"
-- "+2 Meteor Chain"
-- "+2 Morningstar"
-- "+2 Musket"
-- "+2 Naginata"
-- "+2 Nunchaku"
-- "+2 Parrying Dagger"
-- "+2 Pickaxe"
-- "+2 Pike"
-- "+2 Pistol"
-- "+2 Punching Dagger"
-- "+2 Quarterstaff"
-- "+2 Rapier"
-- "+2 Repeating Crossbow"
-- "+2 Revolver"
-- "+2 Sai"
-- "+2 Scimitar"
-- "+2 Scorpion on a Stick"
-- "+2 Scourge"
-- "+2 Shortbow"
-- "+2 Shortsword"
-- "+2 Shotgun"
-- "+2 Shovel"
-- "+2 Sickle"
-- "+2 Sling"
-- "+2 Spear"
-- "+2 Spiked Chain"
-- "+2 Throwing Dagger"
-- "+2 Tonfa"
-- "+2 Trident"
-- "+2 Volley Crossbow"
-- "+2 War Pick"
-- "+2 Warhammer"
-- "+2 Whip"
-- "+2 Yklwa"
+  - +2 Weapon
+  - +2 Antimatter Rifle
+  - +2 Atlatl
+  - +2 Automatic Pistol
+  - +2 Automatic Rifle
+  - +2 Ballista
+  - +2 Bastard Sword
+  - +2 Battleaxe
+  - +2 Blowgun
+  - +2 Bomb
+  - +2 Boomerang
+  - +2 Cestus
+  - +2 Claw Gauntlet
+  - +2 Club
+  - +2 Cutlass
+  - +2 Dagger
+  - +2 Dart
+  - +2 Double-Bladed Scimitar
+  - +2 Edged Card
+  - +2 Estoc
+  - +2 Fishhook
+  - +2 Flail
+  - +2 Glaive
+  - +2 Greataxe
+  - +2 Greatbow
+  - +2 Greatclub
+  - +2 Greatsword
+  - +2 Grim Scythe
+  - +2 Halberd
+  - +2 Hand Crossbow
+  - +2 Handaxe
+  - +2 Heavy Crossbow
+  - +2 Hooked Hammer
+  - +2 Hooked Shortspear
+  - +2 Hoopak
+  - +2 Hunting Rifle
+  - +2 Javelin
+  - +2 Katana
+  - +2 Khopesh
+  - +2 Lance
+  - +2 Laser Pistol
+  - +2 Laser Rifle
+  - +2 Light Crossbow
+  - +2 Light Hammer
+  - +2 Light Repeating Crossbow
+  - +2 Longbow
+  - +2 Longsword
+  - +2 Mace
+  - +2 Machete
+  - +2 Maul
+  - +2 Meteor Chain
+  - +2 Morningstar
+  - +2 Musket
+  - +2 Naginata
+  - +2 Nunchaku
+  - +2 Parrying Dagger
+  - +2 Pickaxe
+  - +2 Pike
+  - +2 Pistol
+  - +2 Punching Dagger
+  - +2 Quarterstaff
+  - +2 Rapier
+  - +2 Repeating Crossbow
+  - +2 Revolver
+  - +2 Sai
+  - +2 Scimitar
+  - +2 Scorpion on a Stick
+  - +2 Scourge
+  - +2 Shortbow
+  - +2 Shortsword
+  - +2 Shotgun
+  - +2 Shovel
+  - +2 Sickle
+  - +2 Sling
+  - +2 Spear
+  - +2 Spiked Chain
+  - +2 Throwing Dagger
+  - +2 Tonfa
+  - +2 Trident
+  - +2 Volley Crossbow
+  - +2 War Pick
+  - +2 Warhammer
+  - +2 Whip
+  - +2 Yklwa
+created: 2026-03-09T12:15:33.945-04:00
+modified: 2026-03-09T12:15:33.945-04:00
+published: 2026-03-09T12:15:33.945-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/age/renaissance
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +2 Weapon
 *Major, rare*  
 

@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Venom Troll"
+  - Venom Troll
+created: 2026-03-09T12:15:33.838-04:00
+modified: 2026-03-09T12:15:33.838-04:00
+published: 2026-03-09T12:15:33.838-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Venom Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248*  
 ![](Mechanics/CLI/bestiary/giant/img/venom-troll.webp#right)

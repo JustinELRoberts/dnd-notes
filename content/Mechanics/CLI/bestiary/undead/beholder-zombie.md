@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Beholder Zombie"
+  - Beholder Zombie
+created: 2026-03-09T12:15:33.837-04:00
+modified: 2026-03-09T12:15:33.837-04:00
+published: 2026-03-09T12:15:33.837-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Beholder Zombie
 *Source: Monster Manual p. 316*  
 ![](Mechanics/CLI/bestiary/undead/img/beholder-zombie.webp#right)

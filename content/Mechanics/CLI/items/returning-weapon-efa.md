@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Returning Weapon"
-- "Returning Bomb"
-- "Returning Boomerang"
-- "Returning Dagger"
-- "Returning Dart"
-- "Returning Edged Card"
-- "Returning Handaxe"
-- "Returning Javelin"
-- "Returning Light Hammer"
-- "Returning Spear"
-- "Returning Throwing Dagger"
-- "Returning Trident"
+  - Returning Weapon
+  - Returning Bomb
+  - Returning Boomerang
+  - Returning Dagger
+  - Returning Dart
+  - Returning Edged Card
+  - Returning Handaxe
+  - Returning Javelin
+  - Returning Light Hammer
+  - Returning Spear
+  - Returning Throwing Dagger
+  - Returning Trident
+created: 2026-03-09T12:15:33.827-04:00
+modified: 2026-03-09T12:15:33.828-04:00
+published: 2026-03-09T12:15:33.828-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Returning Weapon
 *Uncommon*  
 

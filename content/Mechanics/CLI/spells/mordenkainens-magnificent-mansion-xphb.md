@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Wizard
+publish: true
 aliases:
-- "Mordenkainen's Magnificent Mansion"
+  - Mordenkainen's Magnificent Mansion
+created: 2026-03-09T12:15:34.052-04:00
+modified: 2026-03-09T12:15:34.052-04:00
+published: 2026-03-09T12:15:34.052-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Wizard
 ---
+
 # Mordenkainen's Magnificent Mansion
 *7th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/mordenkainens-magnificent-mansion.webp#right)

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/celtic
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/life
+publish: true
 aliases:
-- "Goibhniu"
+  - Goibhniu
+created: 2026-03-09T12:15:34.122-04:00
+modified: 2026-03-09T12:15:34.122-04:00
+published: 2026-03-09T12:15:34.122-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/deity/celtic
+  - ttrpg-cli/domain/forge
+  - ttrpg-cli/domain/knowledge
+  - ttrpg-cli/domain/life
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Goibhniu
 
 

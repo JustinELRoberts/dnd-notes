@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
+publish: true
 aliases:
-- "Mezzoloth"
+  - Mezzoloth
+created: 2026-03-09T12:15:34.022-04:00
+modified: 2026-03-09T12:15:34.022-04:00
+published: 2026-03-09T12:15:34.022-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/yugoloth
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Mezzoloth
 *Source: Monster Manual p. 313*  
 ![](Mechanics/CLI/bestiary/fiend/img/mezzoloth.webp#right)

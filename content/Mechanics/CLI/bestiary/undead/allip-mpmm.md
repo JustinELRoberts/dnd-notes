@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Allip"
+  - Allip
+created: 2026-03-09T12:15:34.053-04:00
+modified: 2026-03-09T12:15:34.053-04:00
+published: 2026-03-09T12:15:34.053-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Allip
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 45*  
 ![](Mechanics/CLI/bestiary/undead/img/allip.webp#right)

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Talking Doll"
+  - Talking Doll
+created: 2026-03-09T12:15:33.815-04:00
+modified: 2026-03-09T12:15:33.815-04:00
+published: 2026-03-09T12:15:33.815-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Talking Doll
 *Wondrous item, minor, common (requires attunement)*  
 ![](Mechanics/CLI/items/img/talking-doll.webp#right)

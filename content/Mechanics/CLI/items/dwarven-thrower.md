@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Dwarven Thrower"
+  - Dwarven Thrower
+created: 2026-03-09T12:15:33.834-04:00
+modified: 2026-03-09T12:15:33.834-04:00
+published: 2026-03-09T12:15:33.834-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Dwarven Thrower
 *Weapon ([warhammer](Mechanics/CLI/items/warhammer-xphb.md)), major, very rare (requires attunement by a dwarf)*  
 ![](Mechanics/CLI/items/img/dwarven-thrower.webp#right)

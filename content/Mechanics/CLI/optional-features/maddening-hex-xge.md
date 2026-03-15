@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/optional-feature/ei
+publish: true
 aliases:
-- "Maddening Hex"
+  - Maddening Hex
+created: 2026-03-09T12:15:34.039-04:00
+modified: 2026-03-09T12:15:34.039-04:00
+published: 2026-03-09T12:15:34.039-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/optional-feature/ei
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Maddening Hex 
 
 

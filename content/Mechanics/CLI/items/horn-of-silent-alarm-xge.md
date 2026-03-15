@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Horn of Silent Alarm"
+  - Horn of Silent Alarm
+created: 2026-03-09T12:15:33.797-04:00
+modified: 2026-03-09T12:15:33.797-04:00
+published: 2026-03-09T12:15:33.797-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Horn of Silent Alarm
 *Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), minor, common*  
 

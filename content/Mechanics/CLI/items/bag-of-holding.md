@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Bag of Holding"
+  - Bag of Holding
+created: 2026-03-09T12:15:34.082-04:00
+modified: 2026-03-09T12:15:34.082-04:00
+published: 2026-03-09T12:15:34.082-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Bag of Holding
 *Wondrous item, minor, uncommon*  
 ![](Mechanics/CLI/items/img/bag-of-holding.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/item/rarity/uncommon
+publish: true
 aliases:
-- "Helm of Awareness"
+  - Helm of Awareness
+created: 2026-03-09T12:15:34.006-04:00
+modified: 2026-03-09T12:15:34.006-04:00
+published: 2026-03-09T12:15:34.006-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/item/rarity/uncommon
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Helm of Awareness
 *Wondrous item, uncommon*  
 

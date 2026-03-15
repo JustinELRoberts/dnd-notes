@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Half-Ogre (Ogrillon)"
+  - Half-Ogre (Ogrillon)
+created: 2026-03-09T12:15:33.850-04:00
+modified: 2026-03-09T12:15:33.850-04:00
+published: 2026-03-09T12:15:33.850-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Half-Ogre (Ogrillon)
 *Source: Monster Manual p. 238*  
 ![](Mechanics/CLI/bestiary/giant/img/half-ogre-ogrillon.webp#right)

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Medallion of Thoughts"
+  - Medallion of Thoughts
+created: 2026-03-09T12:15:34.039-04:00
+modified: 2026-03-09T12:15:34.039-04:00
+published: 2026-03-09T12:15:34.039-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Medallion of Thoughts
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](Mechanics/CLI/items/img/medallion-of-thoughts.webp#right)

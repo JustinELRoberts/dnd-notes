@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/rod
+publish: true
 aliases:
-- "+1 Rod of the Pact Keeper"
+  - +1 Rod of the Pact Keeper
+created: 2026-03-09T12:15:33.908-04:00
+modified: 2026-03-09T12:15:33.908-04:00
+published: 2026-03-09T12:15:33.908-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/rod
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +1 Rod of the Pact Keeper
 *Rod, major, uncommon (requires attunement by a warlock)*  
 

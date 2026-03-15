@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/pale-master
+publish: true
 aliases:
-- "Spells for Pale Master"
+  - Spells for Pale Master
+created: 2026-03-09T12:15:34.427-04:00
+modified: 2026-03-09T12:15:34.427-04:00
+published: 2026-03-09T12:15:34.427-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/pale-master
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Pale Master
 
 ## 1st Level

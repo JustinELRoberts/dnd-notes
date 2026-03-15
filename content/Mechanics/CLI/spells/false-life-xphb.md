@@ -1,49 +1,54 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/aberrant-dragonmark
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/mark-of-healing
-- ttrpg-cli/spell/feat/shadow-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/fiendish-vigor
-- ttrpg-cli/spell/race/tiefling/chthonic
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/corpse-florist
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/grave-domain
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/reaper
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Cleric (Death Domain)
-- Cleric (Grave Domain)
-- Fighter (Eldritch Knight)
-- Necromancer (Corpse Florist)
-- Necromancer (Reaper)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "False Life"
+  - False Life
+created: 2026-03-09T12:15:34.023-04:00
+modified: 2026-03-09T12:15:34.023-04:00
+published: 2026-03-09T12:15:34.023-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/mark-of-healing
+  - ttrpg-cli/spell/feat/shadow-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/optfeature/fiendish-vigor
+  - ttrpg-cli/spell/race/tiefling/chthonic
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/corpse-florist
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/grave-domain
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/reaper
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Fighter (Eldritch Knight)
+  - Necromancer (Corpse Florist)
+  - Necromancer (Reaper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # False Life
 *1st-level, Necromancy*  
 

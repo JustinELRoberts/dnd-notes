@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Gray Render"
+  - Gray Render
+created: 2026-03-09T12:15:33.803-04:00
+modified: 2026-03-09T12:15:33.803-04:00
+published: 2026-03-09T12:15:33.803-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Gray Render
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 146*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/gray-render.webp#right)

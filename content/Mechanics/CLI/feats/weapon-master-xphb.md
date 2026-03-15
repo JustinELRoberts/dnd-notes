@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Weapon Master"
+  - Weapon Master
+created: 2026-03-09T12:15:33.895-04:00
+modified: 2026-03-09T12:15:33.895-04:00
+published: 2026-03-09T12:15:33.895-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Weapon Master 
 ![](Mechanics/CLI/feats/img/weapon-master.webp#right)
 

@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Witch
+publish: true
 aliases:
-- "Mandy's Marvelous Dress"
+  - Mandy's Marvelous Dress
+created: 2026-03-09T12:15:33.926-04:00
+modified: 2026-03-09T12:15:33.926-04:00
+published: 2026-03-09T12:15:33.926-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Witch
 ---
+
 # Mandy's Marvelous Dress
 *4th-level, Conjuration*  
 

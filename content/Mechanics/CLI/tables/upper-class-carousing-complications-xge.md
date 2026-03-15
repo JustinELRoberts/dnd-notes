@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Upper-Class Carousing Complications"
+  - Upper-Class Carousing Complications
+created: 2026-03-09T12:15:34.406-04:00
+modified: 2026-03-09T12:15:34.406-04:00
+published: 2026-03-09T12:15:34.406-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Upper-Class Carousing Complications
 *Source: Xanathar's Guide to Everything p. 128* 
 

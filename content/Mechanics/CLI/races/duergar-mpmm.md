@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/duergar
+publish: true
 aliases:
-- "Duergar"
+  - Duergar
+created: 2026-03-09T12:15:34.098-04:00
+modified: 2026-03-09T12:15:34.098-04:00
+published: 2026-03-09T12:15:34.098-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/duergar
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Duergar
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 12*  
 ![](Mechanics/CLI/races/img/duergar.webp#right)

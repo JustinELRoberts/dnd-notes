@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Blackrazor"
+  - Blackrazor
+created: 2026-03-09T12:15:34.097-04:00
+modified: 2026-03-09T12:15:34.097-04:00
+published: 2026-03-09T12:15:34.097-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Blackrazor
 *Weapon ([greatsword](Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature of non-lawful alignment)*  
 ![](Mechanics/CLI/items/img/blackrazor.webp#right)

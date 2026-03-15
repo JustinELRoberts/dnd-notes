@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Mud Mephit"
+  - Mud Mephit
+created: 2026-03-09T12:15:33.802-04:00
+modified: 2026-03-09T12:15:33.802-04:00
+published: 2026-03-09T12:15:33.802-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Mud Mephit
 *Source: Monster Manual p. 216*  
 ![](Mechanics/CLI/bestiary/elemental/img/mud-mephit.webp#right)

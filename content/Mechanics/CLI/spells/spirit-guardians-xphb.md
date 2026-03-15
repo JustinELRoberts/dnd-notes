@@ -1,25 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/war-domain
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (War Domain)
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Spirit Guardians"
+  - Spirit Guardians
+created: 2026-03-09T12:15:34.021-04:00
+modified: 2026-03-09T12:15:34.021-04:00
+published: 2026-03-09T12:15:34.021-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/war-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (War Domain)
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Spirit Guardians
 *3rd-level, Conjuration*  
 

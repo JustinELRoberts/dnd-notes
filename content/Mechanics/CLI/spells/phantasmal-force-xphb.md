@@ -1,40 +1,45 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/illusionist
-- ttrpg-cli/spell/subclass/the-genie/dao
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Archfey Patron)
-- Warlock (Great Old One Patron)
-- Warlock (The Genie, Dao)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Phantasmal Force"
+  - Phantasmal Force
+created: 2026-03-09T12:15:34.019-04:00
+modified: 2026-03-09T12:15:34.019-04:00
+published: 2026-03-09T12:15:34.019-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/the-genie/dao
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Archfey Patron)
+  - Warlock (Great Old One Patron)
+  - Warlock (The Genie, Dao)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Phantasmal Force
 *2nd-level, Illusion*  
 

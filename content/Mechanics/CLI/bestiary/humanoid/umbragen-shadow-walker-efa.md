@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+publish: true
 aliases:
-- "Umbragen Shadow Walker"
+  - Umbragen Shadow Walker
+created: 2026-03-09T12:15:33.868-04:00
+modified: 2026-03-09T12:15:33.869-04:00
+published: 2026-03-09T12:15:33.869-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Umbragen Shadow Walker
 *Source: Eberron: Forge of the Artificer p. 99*  
 ![](Mechanics/CLI/bestiary/humanoid/img/umbragen-shadow-walker.webp#right)

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Eyes of the Eagle"
+  - Eyes of the Eagle
+created: 2026-03-09T12:15:33.867-04:00
+modified: 2026-03-09T12:15:33.867-04:00
+published: 2026-03-09T12:15:33.867-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Eyes of the Eagle
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](Mechanics/CLI/items/img/eyes-of-the-eagle.webp#right)

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/item/gear/monstrous-graft
-- ttrpg-cli/item/rarity/very-rare
+publish: true
 aliases:
-- "Angelic Wings"
+  - Angelic Wings
+created: 2026-03-09T12:15:33.833-04:00
+modified: 2026-03-09T12:15:33.833-04:00
+published: 2026-03-09T12:15:33.833-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/item/gear/monstrous-graft
+  - ttrpg-cli/item/rarity/very-rare
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Angelic Wings
 *Monstrous graft, very rare*  
 

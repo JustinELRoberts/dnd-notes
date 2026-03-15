@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
+publish: true
 aliases:
-- "Discovery Option"
+  - Discovery Option
+created: 2026-03-09T12:15:34.384-04:00
+modified: 2026-03-09T12:15:34.384-04:00
+published: 2026-03-09T12:15:34.384-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Discovery Option
 *Source: Valda's Spire of Secrets (2024)* 
 

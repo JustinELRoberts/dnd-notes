@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/hobgoblin
+publish: true
 aliases:
-- "Hobgoblin"
+  - Hobgoblin
+created: 2026-03-09T12:15:33.906-04:00
+modified: 2026-03-09T12:15:33.906-04:00
+published: 2026-03-09T12:15:33.906-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/race/hobgoblin
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Hobgoblin
 *Source: Dungeon Master's Guide p. 282*  
 

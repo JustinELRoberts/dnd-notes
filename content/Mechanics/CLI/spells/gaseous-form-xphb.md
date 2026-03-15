@@ -1,44 +1,49 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/alchemist
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-spores
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/dead-mist-acolyte
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/fragrant-magic
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/swarmkeeper
-classes:
-- Artificer (Alchemist)
-- Bard
-- Bard (College of Lore)
-- Druid (Circle of Spores)
-- Fighter (Eldritch Knight)
-- Necromancer (Dead Mist Acolyte)
-- Ranger (Swarmkeeper)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Witch (Fragrant Magic)
-- Wizard
+publish: true
 aliases:
-- "Gaseous Form"
+  - Gaseous Form
+created: 2026-03-09T12:15:33.889-04:00
+modified: 2026-03-09T12:15:33.889-04:00
+published: 2026-03-09T12:15:33.889-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/alchemist
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/circle-of-spores
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/dead-mist-acolyte
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/fragrant-magic
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/swarmkeeper
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Necromancer (Dead Mist Acolyte)
+  - Ranger (Swarmkeeper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Witch (Fragrant Magic)
+  - Wizard
 ---
+
 # Gaseous Form
 *3rd-level, Transmutation*  
 

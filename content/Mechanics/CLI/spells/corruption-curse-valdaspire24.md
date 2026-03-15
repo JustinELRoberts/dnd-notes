@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Witch
+publish: true
 aliases:
-- "Corruption Curse"
+  - Corruption Curse
+created: 2026-03-09T12:15:34.046-04:00
+modified: 2026-03-09T12:15:34.046-04:00
+published: 2026-03-09T12:15:34.046-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Witch
 ---
+
 # Corruption Curse
 *6th-level, Necromancy*  
 

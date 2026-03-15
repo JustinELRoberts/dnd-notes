@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast/dinosaur
+publish: true
 aliases:
-- "Stegosaurus"
+  - Stegosaurus
+created: 2026-03-09T12:15:33.938-04:00
+modified: 2026-03-09T12:15:33.938-04:00
+published: 2026-03-09T12:15:33.938-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/beast/dinosaur
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Stegosaurus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 ![](Mechanics/CLI/bestiary/beast/img/stegosaurus.webp#right)

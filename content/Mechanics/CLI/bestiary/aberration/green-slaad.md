@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration/shapechanger
+publish: true
 aliases:
-- "Green Slaad"
+  - Green Slaad
+created: 2026-03-09T12:15:34.024-04:00
+modified: 2026-03-09T12:15:34.024-04:00
+published: 2026-03-09T12:15:34.024-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration/shapechanger
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Green Slaad
 *Source: Monster Manual p. 277*  
 ![](Mechanics/CLI/bestiary/aberration/img/green-slaad.webp#right)

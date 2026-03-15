@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Ancient Gold Dragon"
+  - Ancient Gold Dragon
+created: 2026-03-09T12:15:33.949-04:00
+modified: 2026-03-09T12:15:33.949-04:00
+published: 2026-03-09T12:15:33.949-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/24
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Ancient Gold Dragon
 *Source: Monster Manual p. 113. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/gold-dragon.webp#right)

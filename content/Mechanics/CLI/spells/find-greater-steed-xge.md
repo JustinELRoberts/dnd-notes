@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Paladin
+publish: true
 aliases:
-- "Find Greater Steed"
+  - Find Greater Steed
+created: 2026-03-09T12:15:34.032-04:00
+modified: 2026-03-09T12:15:34.032-04:00
+published: 2026-03-09T12:15:34.032-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin
 ---
+
 # Find Greater Steed
 *4th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/find-greater-steed.webp#right)

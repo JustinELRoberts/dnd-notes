@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
+publish: true
 aliases:
-- "Orb of Dragonkind"
+  - Orb of Dragonkind
+created: 2026-03-09T12:15:33.902-04:00
+modified: 2026-03-09T12:15:33.902-04:00
+published: 2026-03-09T12:15:33.902-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/orb-of-dragonkind.webp#right)

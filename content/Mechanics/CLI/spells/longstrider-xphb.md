@@ -1,38 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/feat/wood-elf-magic
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/race/elf/wood-elf
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Druid
-- Fighter (Eldritch Knight)
-- Ranger
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Longstrider"
+  - Longstrider
+created: 2026-03-09T12:15:33.802-04:00
+modified: 2026-03-09T12:15:33.802-04:00
+published: 2026-03-09T12:15:33.802-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/feat/wood-elf-magic
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/race/elf/wood-elf
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Longstrider
 *1st-level, Transmutation*  
 

@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/house-of-knights
-classes:
-- Warmage (House of Knights)
-- Witch (Blood Magic)
+publish: true
 aliases:
-- "Hex: Blood Curse"
+  - "Hex: Blood Curse"
+created: 2026-03-09T12:15:34.131-04:00
+modified: 2026-03-09T12:15:34.131-04:00
+published: 2026-03-09T12:15:34.131-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/house-of-knights
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Warmage (House of Knights)
+  - Witch (Blood Magic)
 ---
+
 # Hex: Blood Curse
 *cantrip, Transmutation*  
 

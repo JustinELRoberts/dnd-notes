@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Buying a Magic Item; Buying Magic Items"
+  - Buying a Magic Item; Buying Magic Items
+created: 2026-03-09T12:15:34.396-04:00
+modified: 2026-03-09T12:15:34.396-04:00
+published: 2026-03-09T12:15:34.396-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Buying a Magic Item; Buying Magic Items
 *Source: Xanathar's Guide to Everything p. 126* 
 

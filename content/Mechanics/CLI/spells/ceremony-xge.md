@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Paladin
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Ceremony"
+  - Ceremony
+created: 2026-03-09T12:15:34.104-04:00
+modified: 2026-03-09T12:15:34.104-04:00
+published: 2026-03-09T12:15:34.104-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/feat/ritual-caster
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Ceremony
 *1st-level, Abjuration (ritual)*  
 

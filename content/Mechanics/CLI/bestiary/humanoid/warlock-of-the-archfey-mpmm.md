@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Warlock of the Archfey"
+  - Warlock of the Archfey
+created: 2026-03-09T12:15:34.062-04:00
+modified: 2026-03-09T12:15:34.062-04:00
+published: 2026-03-09T12:15:34.062-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Warlock of the Archfey
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Star Spawn Grue"
+  - Star Spawn Grue
+created: 2026-03-09T12:15:33.996-04:00
+modified: 2026-03-09T12:15:33.996-04:00
+published: 2026-03-09T12:15:33.996-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Star Spawn Grue
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-grue.webp#right)

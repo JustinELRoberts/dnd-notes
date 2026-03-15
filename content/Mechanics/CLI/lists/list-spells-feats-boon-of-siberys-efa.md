@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/boon-of-siberys
+publish: true
 aliases:
-- "Spells for Boon of Siberys"
+  - Spells for Boon of Siberys
+created: 2026-03-09T12:15:34.421-04:00
+modified: 2026-03-09T12:15:34.421-04:00
+published: 2026-03-09T12:15:34.421-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/boon-of-siberys
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Boon of Siberys
 
 ## 1st Level

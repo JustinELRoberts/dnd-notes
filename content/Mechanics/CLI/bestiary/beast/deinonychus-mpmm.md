@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast/dinosaur
+publish: true
 aliases:
-- "Deinonychus"
+  - Deinonychus
+created: 2026-03-09T12:15:33.844-04:00
+modified: 2026-03-09T12:15:33.844-04:00
+published: 2026-03-09T12:15:33.844-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/beast/dinosaur
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Deinonychus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 

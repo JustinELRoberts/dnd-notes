@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/wizard/illusionist
+publish: true
 aliases:
-- "Illusionist"
+  - Illusionist
+created: 2026-03-09T12:15:34.063-04:00
+modified: 2026-03-09T12:15:34.063-04:00
+published: 2026-03-09T12:15:34.063-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/wizard/illusionist
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Illusionist
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 175*  

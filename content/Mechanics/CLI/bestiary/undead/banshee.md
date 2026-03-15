@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Banshee"
+  - Banshee
+created: 2026-03-09T12:15:34.129-04:00
+modified: 2026-03-09T12:15:34.129-04:00
+published: 2026-03-09T12:15:34.129-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Banshee
 *Source: Monster Manual p. 23. Available in the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/undead/img/banshee.webp#right)

@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Pseudodragon"
+  - Pseudodragon
+created: 2026-03-09T12:15:34.034-04:00
+modified: 2026-03-09T12:15:34.035-04:00
+published: 2026-03-09T12:15:34.035-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Pseudodragon
 *Source: Monster Manual (2024) p. 249, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/bestiary/dragon/img/pseudodragon.webp#right)

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/gear/artisans-tools
-- ttrpg-cli/item/rarity/none
+publish: true
 aliases:
-- "Potter's Tools"
+  - Potter's Tools
+created: 2026-03-09T12:15:34.106-04:00
+modified: 2026-03-09T12:15:34.106-04:00
+published: 2026-03-09T12:15:34.106-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/gear/artisans-tools
+  - ttrpg-cli/item/rarity/none
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Potter's Tools
 *Artisan's tools*  
 

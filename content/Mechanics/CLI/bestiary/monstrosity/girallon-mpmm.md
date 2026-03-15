@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Girallon"
+  - Girallon
+created: 2026-03-09T12:15:34.011-04:00
+modified: 2026-03-09T12:15:34.011-04:00
+published: 2026-03-09T12:15:34.011-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Girallon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/girallon.webp#right)

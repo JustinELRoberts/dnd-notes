@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-scribing
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Ranger
-- Witch (Technicolor Magic)
+publish: true
 aliases:
-- "Animal Messenger"
+  - Animal Messenger
+created: 2026-03-09T12:15:33.870-04:00
+modified: 2026-03-09T12:15:33.870-04:00
+published: 2026-03-09T12:15:33.870-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-scribing
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
+  - Witch (Technicolor Magic)
 ---
+
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  
 

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/object/size/large
-- ttrpg-cli/object/type/siege-weapon
+publish: true
 aliases:
-- "Ram"
+  - Ram
+created: 2026-03-09T12:15:33.939-04:00
+modified: 2026-03-09T12:15:33.939-04:00
+published: 2026-03-09T12:15:33.939-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/object/size/large
+  - ttrpg-cli/object/type/siege-weapon
+cssclasses:
+  - json5e-object
+obsidianUIMode: preview
 ---
+
 # Ram
 *Source: Dungeon Master's Guide p. 255* 
 

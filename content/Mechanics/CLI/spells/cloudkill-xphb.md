@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/alchemist
-- ttrpg-cli/spell/subclass/black-magic
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/circle-of-spores
-- ttrpg-cli/spell/subclass/dead-mist-acolyte
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/fragrant-magic
-- ttrpg-cli/spell/subclass/oath-of-conquest
-- ttrpg-cli/spell/subclass/pale-master
-- ttrpg-cli/spell/subclass/sky-magic
-classes:
-- Artificer (Alchemist)
-- Bard
-- Cleric (Death Domain)
-- Druid (Circle of Spores)
-- Necromancer (Dead Mist Acolyte)
-- Necromancer (Pale Master)
-- Paladin (Oath of Conquest)
-- Sorcerer
-- Witch (Black Magic)
-- Witch (Blood Magic)
-- Witch (Fragrant Magic)
-- Witch (Sky Magic)
-- Wizard
+publish: true
 aliases:
-- "Cloudkill"
+  - Cloudkill
+created: 2026-03-09T12:15:34.056-04:00
+modified: 2026-03-09T12:15:34.056-04:00
+published: 2026-03-09T12:15:34.056-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/alchemist
+  - ttrpg-cli/spell/subclass/black-magic
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/circle-of-spores
+  - ttrpg-cli/spell/subclass/dead-mist-acolyte
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/fragrant-magic
+  - ttrpg-cli/spell/subclass/oath-of-conquest
+  - ttrpg-cli/spell/subclass/pale-master
+  - ttrpg-cli/spell/subclass/sky-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric (Death Domain)
+  - Druid (Circle of Spores)
+  - Necromancer (Dead Mist Acolyte)
+  - Necromancer (Pale Master)
+  - Paladin (Oath of Conquest)
+  - Sorcerer
+  - Witch (Black Magic)
+  - Witch (Blood Magic)
+  - Witch (Fragrant Magic)
+  - Witch (Sky Magic)
+  - Wizard
 ---
+
 # Cloudkill
 *5th-level, Conjuration*  
 

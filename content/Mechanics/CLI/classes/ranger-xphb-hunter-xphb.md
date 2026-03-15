@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/ranger/hunter
+publish: true
 aliases:
-- "Hunter"
+  - Hunter
+created: 2026-03-09T12:15:34.110-04:00
+modified: 2026-03-09T12:15:34.110-04:00
+published: 2026-03-09T12:15:34.110-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/ranger/hunter
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Hunter
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

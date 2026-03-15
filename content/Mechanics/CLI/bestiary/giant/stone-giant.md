@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Stone Giant"
+  - Stone Giant
+created: 2026-03-09T12:15:34.059-04:00
+modified: 2026-03-09T12:15:34.059-04:00
+published: 2026-03-09T12:15:34.059-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Stone Giant
 *Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/giant/img/stone-giant.webp#right)

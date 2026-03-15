@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant
+publish: true
 aliases:
-- "Myconid Sovereign"
+  - Myconid Sovereign
+created: 2026-03-09T12:15:34.045-04:00
+modified: 2026-03-09T12:15:34.045-04:00
+published: 2026-03-09T12:15:34.045-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/plant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Myconid Sovereign
 *Source: Monster Manual p. 232*  
 ![](Mechanics/CLI/bestiary/plant/img/myconids.webp#right)

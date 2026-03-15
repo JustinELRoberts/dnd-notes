@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/subclass/warden/diabolist
+publish: true
 aliases:
-- "Diabolist"
+  - Diabolist
+created: 2026-03-09T12:15:33.831-04:00
+modified: 2026-03-09T12:15:33.831-04:00
+published: 2026-03-09T12:15:33.831-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/subclass/warden/diabolist
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Diabolist
 *[Warden](./warden-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets Extras (2024)*  

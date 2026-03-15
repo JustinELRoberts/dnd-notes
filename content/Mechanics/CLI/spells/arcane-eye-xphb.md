@@ -1,40 +1,45 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-detection
-- ttrpg-cli/spell/feat/mark-of-scribing
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/optfeature/visions-of-distant-realms
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-anonymity
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/draconic-sorcery
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/swarmkeeper
-classes:
-- Artificer
-- Bard
-- Cleric (Light Domain)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Anonymity)
-- Ranger (Swarmkeeper)
-- Rogue (Arcane Trickster)
-- Sorcerer (Draconic Sorcery)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Arcane Eye"
+  - Arcane Eye
+created: 2026-03-09T12:15:34.064-04:00
+modified: 2026-03-09T12:15:34.064-04:00
+published: 2026-03-09T12:15:34.064-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-detection
+  - ttrpg-cli/spell/feat/mark-of-scribing
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/optfeature/visions-of-distant-realms
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-anonymity
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/draconic-sorcery
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/light-domain
+  - ttrpg-cli/spell/subclass/swarmkeeper
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Light Domain)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Anonymity)
+  - Ranger (Swarmkeeper)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Draconic Sorcery)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Arcane Eye
 *4th-level, Divination*  
 

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Adult Blue Dracolich"
+  - Adult Blue Dracolich
+created: 2026-03-09T12:15:33.941-04:00
+modified: 2026-03-09T12:15:33.941-04:00
+published: 2026-03-09T12:15:33.941-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/17
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Adult Blue Dracolich
 *Source: Monster Manual p. 84*  
 ![](Mechanics/CLI/bestiary/undead/img/blue-dracolich.webp#right)

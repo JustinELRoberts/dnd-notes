@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/mark-of-shadow
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/illusionist
-classes:
-- Bard
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Project Image"
+  - Project Image
+created: 2026-03-09T12:15:33.812-04:00
+modified: 2026-03-09T12:15:33.812-04:00
+published: 2026-03-09T12:15:33.812-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/mark-of-shadow
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/illusionist
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Project Image
 *7th-level, Illusion*  
 

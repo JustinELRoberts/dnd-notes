@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity/shapechanger
-- ttrpg-cli/monster/type/monstrosity/yuan-ti
+publish: true
 aliases:
-- "Yuan-ti Malison (Type 3)"
+  - Yuan-ti Malison (Type 3)
+created: 2026-03-09T12:15:33.868-04:00
+modified: 2026-03-09T12:15:33.868-04:00
+published: 2026-03-09T12:15:33.868-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity/shapechanger
+  - ttrpg-cli/monster/type/monstrosity/yuan-ti
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Yuan-ti Malison (Type 3)
 *Source: Monster Manual p. 309*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-malison.webp#right)

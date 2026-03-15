@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Elven Chain"
+  - Elven Chain
+created: 2026-03-09T12:15:33.881-04:00
+modified: 2026-03-09T12:15:33.881-04:00
+published: 2026-03-09T12:15:33.881-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Elven Chain
 *Medium armor, major, rare*  
 ![](Mechanics/CLI/items/img/elven-chain.webp#right)

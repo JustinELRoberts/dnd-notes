@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/race/tiefling/infernal
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/oathbreaker
-classes:
-- Paladin (Oathbreaker)
-- Warlock
+publish: true
 aliases:
-- "Hellish Rebuke"
+  - Hellish Rebuke
+created: 2026-03-09T12:15:33.856-04:00
+modified: 2026-03-09T12:15:33.856-04:00
+published: 2026-03-09T12:15:33.856-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/race/tiefling/infernal
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/oathbreaker
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin (Oathbreaker)
+  - Warlock
 ---
+
 # Hellish Rebuke
 *1st-level, Evocation*  
 

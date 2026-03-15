@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/craftsman/forgeknights
+publish: true
 aliases:
-- "Forgeknights' Guild"
+  - Forgeknights' Guild
+created: 2026-03-09T12:15:33.798-04:00
+modified: 2026-03-09T12:15:33.798-04:00
+published: 2026-03-09T12:15:33.798-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/craftsman/forgeknights
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Forgeknights' Guild
 *[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

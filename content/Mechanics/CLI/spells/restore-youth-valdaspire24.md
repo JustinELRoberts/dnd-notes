@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Witch
+publish: true
 aliases:
-- "Restore Youth"
+  - Restore Youth
+created: 2026-03-09T12:15:33.858-04:00
+modified: 2026-03-09T12:15:33.858-04:00
+published: 2026-03-09T12:15:33.858-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Witch
 ---
+
 # Restore Youth
 *3rd-level, Transmutation (ritual)*  
 

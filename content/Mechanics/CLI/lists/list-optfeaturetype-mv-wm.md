@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
+publish: true
 aliases:
-- "Maneuver, Warmage"
+  - Maneuver, Warmage
+created: 2026-03-09T12:15:34.401-04:00
+modified: 2026-03-09T12:15:34.401-04:00
+published: 2026-03-09T12:15:34.401-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Maneuver, Warmage
 *Source: Valda's Spire of Secrets (2024)* 
 

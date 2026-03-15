@@ -1,46 +1,51 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/artillerist
-- ttrpg-cli/spell/subclass/circle-of-wildfire
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/red-magic
-- ttrpg-cli/spell/subclass/the-genie/efreeti
-classes:
-- Artificer (Artillerist)
-- Bard
-- Bard (College of Lore)
-- Cleric (Light Domain)
-- Druid (Circle of Wildfire)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Fiend Patron)
-- Warlock (The Genie, Efreeti)
-- Warmage (House of Bishops)
-- Witch (Red Magic)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Scorching Ray"
+  - Scorching Ray
+created: 2026-03-09T12:15:33.875-04:00
+modified: 2026-03-09T12:15:33.875-04:00
+published: 2026-03-09T12:15:33.875-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/artillerist
+  - ttrpg-cli/spell/subclass/circle-of-wildfire
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/fiend-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/light-domain
+  - ttrpg-cli/spell/subclass/red-magic
+  - ttrpg-cli/spell/subclass/the-genie/efreeti
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Light Domain)
+  - Druid (Circle of Wildfire)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Fiend Patron)
+  - Warlock (The Genie, Efreeti)
+  - Warmage (House of Bishops)
+  - Witch (Red Magic)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Scorching Ray
 *2nd-level, Evocation*  
 

@@ -1,37 +1,42 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Druid
-- Fighter (Eldritch Knight)
-- Ranger
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Snare"
+  - Snare
+created: 2026-03-09T12:15:34.015-04:00
+modified: 2026-03-09T12:15:34.015-04:00
+published: 2026-03-09T12:15:34.015-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Snare
 *1st-level, Abjuration*  
 

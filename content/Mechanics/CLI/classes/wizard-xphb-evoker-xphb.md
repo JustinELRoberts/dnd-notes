@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/wizard/evoker
+publish: true
 aliases:
-- "Evoker"
+  - Evoker
+created: 2026-03-09T12:15:33.822-04:00
+modified: 2026-03-09T12:15:33.822-04:00
+published: 2026-03-09T12:15:33.822-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/wizard/evoker
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Evoker
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

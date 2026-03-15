@@ -1,25 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard (College of Lore)
-- Cleric
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Word of Radiance"
+  - Word of Radiance
+created: 2026-03-09T12:15:34.125-04:00
+modified: 2026-03-09T12:15:34.125-04:00
+published: 2026-03-09T12:15:34.125-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Word of Radiance
 *cantrip, Evocation*  
 

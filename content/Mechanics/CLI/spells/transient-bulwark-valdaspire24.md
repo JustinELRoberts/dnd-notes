@@ -1,37 +1,42 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/investigator
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Investigator
-- Martyr
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Transient Bulwark"
+  - Transient Bulwark
+created: 2026-03-09T12:15:34.108-04:00
+modified: 2026-03-09T12:15:34.108-04:00
+published: 2026-03-09T12:15:34.108-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/investigator
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/ritual-caster
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Investigator
+  - Martyr
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Transient Bulwark
 *1st-level, Abjuration (ritual)*  
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Downtime Activity: Selling Magic Items"
+  - "Downtime Activity: Selling Magic Items"
+created: 2026-03-09T12:15:34.475-04:00
+modified: 2026-03-09T12:15:34.475-04:00
+published: 2026-03-09T12:15:34.475-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Downtime Activity: Selling Magic Items
 *Source: Dungeon Master's Guide p. 129* 
 

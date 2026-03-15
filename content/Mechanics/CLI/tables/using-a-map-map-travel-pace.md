@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Using a Map; Map Travel Pace"
+  - Using a Map; Map Travel Pace
+created: 2026-03-09T12:15:34.374-04:00
+modified: 2026-03-09T12:15:34.374-04:00
+published: 2026-03-09T12:15:34.374-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Using a Map; Map Travel Pace
 *Source: Dungeon Master's Guide p. 242* 
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/legendary-group
+publish: true
 aliases:
-- "Brass Dragon"
+  - Brass Dragon
+created: 2026-03-09T12:15:34.383-04:00
+modified: 2026-03-09T12:15:34.383-04:00
+published: 2026-03-09T12:15:34.383-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/legendary-group
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Brass Dragon
 
 ## Lair Actions

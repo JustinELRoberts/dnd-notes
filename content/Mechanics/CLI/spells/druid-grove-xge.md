@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/abjuration
-classes:
-- Bard
-- Druid
+publish: true
 aliases:
-- "Druid Grove"
+  - Druid Grove
+created: 2026-03-09T12:15:33.918-04:00
+modified: 2026-03-09T12:15:33.918-04:00
+published: 2026-03-09T12:15:33.918-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/abjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
 ---
+
 # Druid Grove
 *6th-level, Abjuration*  
 

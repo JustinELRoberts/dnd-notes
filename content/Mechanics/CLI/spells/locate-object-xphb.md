@@ -1,44 +1,49 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Artificer (Cartographer)
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Ascension)
-- Paladin
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Locate Object"
+  - Locate Object
+created: 2026-03-09T12:15:33.885-04:00
+modified: 2026-03-09T12:15:33.885-04:00
+published: 2026-03-09T12:15:33.885-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Ascension)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Locate Object
 *2nd-level, Divination*  
 

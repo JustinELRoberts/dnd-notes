@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/barbarian/storm-herald
+publish: true
 aliases:
-- "Path of the Storm Herald"
+  - Path of the Storm Herald
+created: 2026-03-09T12:15:33.967-04:00
+modified: 2026-03-09T12:15:33.967-04:00
+published: 2026-03-09T12:15:33.967-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/barbarian/storm-herald
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Path of the Storm Herald
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Xanathar's Guide to Everything p. 10*  

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/deity/orc
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/nature
+publish: true
 aliases:
-- "Luthic"
+  - Luthic
+created: 2026-03-09T12:15:34.000-04:00
+modified: 2026-03-09T12:15:34.000-04:00
+published: 2026-03-09T12:15:34.000-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/deity/orc
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/nature
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Luthic
 
 

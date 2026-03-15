@@ -1,1 +1,1 @@
-[[00-First Session]]
+[[Campaigns/Under The Ash/Sessions/00-First Session]]

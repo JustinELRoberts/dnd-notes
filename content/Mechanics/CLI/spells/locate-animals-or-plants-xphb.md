@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/green-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Ranger
-- Witch (Green Magic)
+publish: true
 aliases:
-- "Locate Animals or Plants"
+  - Locate Animals or Plants
+created: 2026-03-09T12:15:33.965-04:00
+modified: 2026-03-09T12:15:33.965-04:00
+published: 2026-03-09T12:15:33.965-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/green-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
+  - Witch (Green Magic)
 ---
+
 # Locate Animals or Plants
 *2nd-level, Divination (ritual)*  
 

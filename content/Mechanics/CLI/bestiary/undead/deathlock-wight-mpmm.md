@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/warlock
+publish: true
 aliases:
-- "Deathlock Wight"
+  - Deathlock Wight
+created: 2026-03-09T12:15:33.900-04:00
+modified: 2026-03-09T12:15:33.900-04:00
+published: 2026-03-09T12:15:33.900-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead/warlock
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Deathlock Wight
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
 ![](Mechanics/CLI/bestiary/undead/img/deathlock-wight.webp#right)

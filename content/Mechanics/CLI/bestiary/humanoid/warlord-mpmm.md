@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Warlord"
+  - Warlord
+created: 2026-03-09T12:15:33.929-04:00
+modified: 2026-03-09T12:15:33.929-04:00
+published: 2026-03-09T12:15:33.929-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Warlord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  
 ![](Mechanics/CLI/bestiary/humanoid/img/warlord.webp#right)

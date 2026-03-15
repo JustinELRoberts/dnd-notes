@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/wizard/bladesinging
+publish: true
 aliases:
-- "Bladesinging"
+  - Bladesinging
+created: 2026-03-09T12:15:33.858-04:00
+modified: 2026-03-09T12:15:33.858-04:00
+published: 2026-03-09T12:15:33.858-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/wizard/bladesinging
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Bladesinging
 *[Wizard](./wizard-xphb.md): Wizard Subclass*  
 *Source: Tasha's Cauldron of Everything p. 76*  

@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-classes:
-- Bard
-- Druid
-- Ranger
+publish: true
 aliases:
-- "Wrath of Nature"
+  - Wrath of Nature
+created: 2026-03-09T12:15:34.089-04:00
+modified: 2026-03-09T12:15:34.089-04:00
+published: 2026-03-09T12:15:34.089-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Ranger
 ---
+
 # Wrath of Nature
 *5th-level, Evocation*  
 

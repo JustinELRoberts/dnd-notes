@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/reward/boon
+publish: true
 aliases:
-- "Boon of High Magic"
+  - Boon of High Magic
+created: 2026-03-09T12:15:34.060-04:00
+modified: 2026-03-09T12:15:34.060-04:00
+published: 2026-03-09T12:15:34.060-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/reward/boon
+cssclasses:
+  - json5e-reward
+obsidianUIMode: preview
 ---
+
 # Boon of High Magic
 
 

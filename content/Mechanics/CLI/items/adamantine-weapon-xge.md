@@ -1,105 +1,110 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Adamantine Weapon"
-- "Adamantine Antimatter Rifle"
-- "Adamantine Atlatl"
-- "Adamantine Automatic Pistol"
-- "Adamantine Automatic Rifle"
-- "Adamantine Ballista"
-- "Adamantine Bastard Sword"
-- "Adamantine Battleaxe"
-- "Adamantine Blowgun"
-- "Adamantine Bomb"
-- "Adamantine Boomerang"
-- "Adamantine Cestus"
-- "Adamantine Claw Gauntlet"
-- "Adamantine Club"
-- "Adamantine Cutlass"
-- "Adamantine Dagger"
-- "Adamantine Dart"
-- "Adamantine Double-Bladed Scimitar"
-- "Adamantine Edged Card"
-- "Adamantine Estoc"
-- "Adamantine Fishhook"
-- "Adamantine Flail"
-- "Adamantine Glaive"
-- "Adamantine Greataxe"
-- "Adamantine Greatbow"
-- "Adamantine Greatclub"
-- "Adamantine Greatsword"
-- "Adamantine Grim Scythe"
-- "Adamantine Halberd"
-- "Adamantine Hand Crossbow"
-- "Adamantine Handaxe"
-- "Adamantine Heavy Crossbow"
-- "Adamantine Hooked Hammer"
-- "Adamantine Hooked Shortspear"
-- "Adamantine Hoopak"
-- "Adamantine Hunting Rifle"
-- "Adamantine Javelin"
-- "Adamantine Katana"
-- "Adamantine Khopesh"
-- "Adamantine Lance"
-- "Adamantine Laser Pistol"
-- "Adamantine Laser Rifle"
-- "Adamantine Light Crossbow"
-- "Adamantine Light Hammer"
-- "Adamantine Light Repeating Crossbow"
-- "Adamantine Longbow"
-- "Adamantine Longsword"
-- "Adamantine Mace"
-- "Adamantine Machete"
-- "Adamantine Maul"
-- "Adamantine Meteor Chain"
-- "Adamantine Morningstar"
-- "Adamantine Musket"
-- "Adamantine Naginata"
-- "Adamantine Nunchaku"
-- "Adamantine Parrying Dagger"
-- "Adamantine Pickaxe"
-- "Adamantine Pike"
-- "Adamantine Pistol"
-- "Adamantine Punching Dagger"
-- "Adamantine Quarterstaff"
-- "Adamantine Rapier"
-- "Adamantine Repeating Crossbow"
-- "Adamantine Revolver"
-- "Adamantine Sai"
-- "Adamantine Scimitar"
-- "Adamantine Scorpion on a Stick"
-- "Adamantine Scourge"
-- "Adamantine Shortbow"
-- "Adamantine Shortsword"
-- "Adamantine Shotgun"
-- "Adamantine Shovel"
-- "Adamantine Sickle"
-- "Adamantine Sling"
-- "Adamantine Spear"
-- "Adamantine Spiked Chain"
-- "Adamantine Throwing Dagger"
-- "Adamantine Tonfa"
-- "Adamantine Trident"
-- "Adamantine Volley Crossbow"
-- "Adamantine War Pick"
-- "Adamantine Warhammer"
-- "Adamantine Whip"
-- "Adamantine Yklwa"
+  - Adamantine Weapon
+  - Adamantine Antimatter Rifle
+  - Adamantine Atlatl
+  - Adamantine Automatic Pistol
+  - Adamantine Automatic Rifle
+  - Adamantine Ballista
+  - Adamantine Bastard Sword
+  - Adamantine Battleaxe
+  - Adamantine Blowgun
+  - Adamantine Bomb
+  - Adamantine Boomerang
+  - Adamantine Cestus
+  - Adamantine Claw Gauntlet
+  - Adamantine Club
+  - Adamantine Cutlass
+  - Adamantine Dagger
+  - Adamantine Dart
+  - Adamantine Double-Bladed Scimitar
+  - Adamantine Edged Card
+  - Adamantine Estoc
+  - Adamantine Fishhook
+  - Adamantine Flail
+  - Adamantine Glaive
+  - Adamantine Greataxe
+  - Adamantine Greatbow
+  - Adamantine Greatclub
+  - Adamantine Greatsword
+  - Adamantine Grim Scythe
+  - Adamantine Halberd
+  - Adamantine Hand Crossbow
+  - Adamantine Handaxe
+  - Adamantine Heavy Crossbow
+  - Adamantine Hooked Hammer
+  - Adamantine Hooked Shortspear
+  - Adamantine Hoopak
+  - Adamantine Hunting Rifle
+  - Adamantine Javelin
+  - Adamantine Katana
+  - Adamantine Khopesh
+  - Adamantine Lance
+  - Adamantine Laser Pistol
+  - Adamantine Laser Rifle
+  - Adamantine Light Crossbow
+  - Adamantine Light Hammer
+  - Adamantine Light Repeating Crossbow
+  - Adamantine Longbow
+  - Adamantine Longsword
+  - Adamantine Mace
+  - Adamantine Machete
+  - Adamantine Maul
+  - Adamantine Meteor Chain
+  - Adamantine Morningstar
+  - Adamantine Musket
+  - Adamantine Naginata
+  - Adamantine Nunchaku
+  - Adamantine Parrying Dagger
+  - Adamantine Pickaxe
+  - Adamantine Pike
+  - Adamantine Pistol
+  - Adamantine Punching Dagger
+  - Adamantine Quarterstaff
+  - Adamantine Rapier
+  - Adamantine Repeating Crossbow
+  - Adamantine Revolver
+  - Adamantine Sai
+  - Adamantine Scimitar
+  - Adamantine Scorpion on a Stick
+  - Adamantine Scourge
+  - Adamantine Shortbow
+  - Adamantine Shortsword
+  - Adamantine Shotgun
+  - Adamantine Shovel
+  - Adamantine Sickle
+  - Adamantine Sling
+  - Adamantine Spear
+  - Adamantine Spiked Chain
+  - Adamantine Throwing Dagger
+  - Adamantine Tonfa
+  - Adamantine Trident
+  - Adamantine Volley Crossbow
+  - Adamantine War Pick
+  - Adamantine Warhammer
+  - Adamantine Whip
+  - Adamantine Yklwa
+created: 2026-03-09T12:15:33.852-04:00
+modified: 2026-03-09T12:15:33.852-04:00
+published: 2026-03-09T12:15:33.852-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/age/renaissance
+  - ttrpg-cli/item/rarity/unknown
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Adamantine Weapon
 *Major*  
 

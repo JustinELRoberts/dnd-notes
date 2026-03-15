@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/burden-of-calamity
-classes:
-- Martyr (Burden of Ascension)
-- Martyr (Burden of Calamity)
-- Paladin
+publish: true
 aliases:
-- "Divine Favor"
+  - Divine Favor
+created: 2026-03-09T12:15:34.122-04:00
+modified: 2026-03-09T12:15:34.122-04:00
+published: 2026-03-09T12:15:34.122-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Martyr (Burden of Ascension)
+  - Martyr (Burden of Calamity)
+  - Paladin
 ---
+
 # Divine Favor
 *1st-level, Transmutation*  
 

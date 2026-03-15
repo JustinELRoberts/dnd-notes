@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/warmage
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/house-of-knights
-classes:
-- Warmage
-- Warmage (House of Knights)
+publish: true
 aliases:
-- "Force Buckler"
+  - Force Buckler
+created: 2026-03-09T12:15:33.895-04:00
+modified: 2026-03-09T12:15:33.895-04:00
+published: 2026-03-09T12:15:33.895-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/warmage
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/house-of-knights
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Warmage
+  - Warmage (House of Knights)
 ---
+
 # Force Buckler
 *cantrip, Abjuration*  
 

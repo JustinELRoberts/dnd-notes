@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Sword of Wounding"
-- "Double-Bladed Scimitar of Wounding"
-- "Greatsword of Wounding"
-- "Longsword of Wounding"
-- "Rapier of Wounding"
-- "Scimitar of Wounding"
-- "Shortsword of Wounding"
+  - Sword of Wounding
+  - Double-Bladed Scimitar of Wounding
+  - Greatsword of Wounding
+  - Longsword of Wounding
+  - Rapier of Wounding
+  - Scimitar of Wounding
+  - Shortsword of Wounding
+created: 2026-03-09T12:15:33.925-04:00
+modified: 2026-03-09T12:15:33.925-04:00
+published: 2026-03-09T12:15:33.925-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Sword of Wounding
 *Major, rare (requires attunement)*  
 

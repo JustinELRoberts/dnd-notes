@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Ranger
+publish: true
 aliases:
-- "Healing Spirit"
+  - Healing Spirit
+created: 2026-03-09T12:15:33.982-04:00
+modified: 2026-03-09T12:15:33.982-04:00
+published: 2026-03-09T12:15:33.982-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/college-of-lore
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 ---
+
 # Healing Spirit
 *2nd-level, Conjuration*  
 

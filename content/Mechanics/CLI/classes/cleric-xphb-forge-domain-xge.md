@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/domain/forge
-- ttrpg-cli/subclass/cleric/forge
+publish: true
 aliases:
-- "Forge Domain"
+  - Forge Domain
+created: 2026-03-09T12:15:33.844-04:00
+modified: 2026-03-09T12:15:33.844-04:00
+published: 2026-03-09T12:15:33.844-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/domain/forge
+  - ttrpg-cli/subclass/cleric/forge
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Forge Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Xanathar's Guide to Everything p. 18*  

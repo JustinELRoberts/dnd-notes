@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
+publish: true
 aliases:
-- "Kelemvor"
-- "The Lord of the Dead"
-- "The Judge of the Damned"
+  - Kelemvor
+  - The Lord of the Dead
+  - The Judge of the Damned
+created: 2026-03-09T12:15:33.911-04:00
+modified: 2026-03-09T12:15:33.911-04:00
+published: 2026-03-09T12:15:33.911-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/scag
+  - ttrpg-cli/deity/faerunian
+  - ttrpg-cli/domain/death
+  - ttrpg-cli/domain/grave
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Kelemvor
 ![](Mechanics/CLI/deities/img/scag-symbol-of-kelemvor.webp#symbol)
 

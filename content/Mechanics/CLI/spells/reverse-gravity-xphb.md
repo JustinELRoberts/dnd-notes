@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Bard
-- Druid
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Reverse Gravity"
+  - Reverse Gravity
+created: 2026-03-09T12:15:33.996-04:00
+modified: 2026-03-09T12:15:33.996-04:00
+published: 2026-03-09T12:15:33.996-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 ---
+
 # Reverse Gravity
 *7th-level, Transmutation*  
 

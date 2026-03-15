@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-classes:
-- Martyr
+publish: true
 aliases:
-- "Sanction"
+  - Sanction
+created: 2026-03-09T12:15:34.138-04:00
+modified: 2026-03-09T12:15:34.138-04:00
+published: 2026-03-09T12:15:34.138-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/abjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Martyr
 ---
+
 # Sanction
 *1st-level, Abjuration*  
 

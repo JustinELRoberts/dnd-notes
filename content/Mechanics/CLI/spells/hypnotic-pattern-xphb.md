@@ -1,48 +1,53 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/armorer
-- ttrpg-cli/spell/subclass/blood-ascendent
-- ttrpg-cli/spell/subclass/burden-of-fame
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/illusionist
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/purple-magic
-- ttrpg-cli/spell/subclass/trickery-domain
-classes:
-- Artificer (Armorer)
-- Bard
-- Bard (College of Lore)
-- Cleric (Trickery Domain)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Fame)
-- Necromancer (Blood Ascendent)
-- Paladin (Oath of Redemption)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Witch (Purple Magic)
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Hypnotic Pattern"
+  - Hypnotic Pattern
+created: 2026-03-09T12:15:33.777-04:00
+modified: 2026-03-09T12:15:33.777-04:00
+published: 2026-03-09T12:15:33.777-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/blood-ascendent
+  - ttrpg-cli/spell/subclass/burden-of-fame
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/purple-magic
+  - ttrpg-cli/spell/subclass/trickery-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Fame)
+  - Necromancer (Blood Ascendent)
+  - Paladin (Oath of Redemption)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Witch (Purple Magic)
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Hypnotic Pattern
 *3rd-level, Illusion*  
 

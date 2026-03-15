@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/legendary-group
+publish: true
 aliases:
-- "Annis Hag"
+  - Annis Hag
+created: 2026-03-09T12:15:34.407-04:00
+modified: 2026-03-09T12:15:34.407-04:00
+published: 2026-03-09T12:15:34.407-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/legendary-group
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Annis Hag
 
 ## Lair Actions

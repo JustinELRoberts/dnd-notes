@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Armor of Gleaming"
-- "Breastplate of Gleaming"
-- "Chain Mail of Gleaming"
-- "Chain Shirt of Gleaming"
-- "Half Plate Armor of Gleaming"
-- "Hide Armor of Gleaming"
-- "Plate Armor of Gleaming"
-- "Ring Mail of Gleaming"
-- "Scale Mail of Gleaming"
-- "Spiked Armor of Gleaming"
-- "Splint Armor of Gleaming"
+  - Armor of Gleaming
+  - Breastplate of Gleaming
+  - Chain Mail of Gleaming
+  - Chain Shirt of Gleaming
+  - Half Plate Armor of Gleaming
+  - Hide Armor of Gleaming
+  - Plate Armor of Gleaming
+  - Ring Mail of Gleaming
+  - Scale Mail of Gleaming
+  - Spiked Armor of Gleaming
+  - Splint Armor of Gleaming
+created: 2026-03-09T12:15:33.938-04:00
+modified: 2026-03-09T12:15:33.938-04:00
+published: 2026-03-09T12:15:33.938-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Armor of Gleaming
 *Minor, common*  
 

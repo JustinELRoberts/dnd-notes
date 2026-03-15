@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/race/githyanki
+publish: true
 aliases:
-- "Spells for Githyanki"
+  - Spells for Githyanki
+created: 2026-03-09T12:15:34.433-04:00
+modified: 2026-03-09T12:15:34.433-04:00
+published: 2026-03-09T12:15:34.433-04:00
+tags:
+  - ttrpg-cli/spell/list/race/githyanki
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Githyanki
 
 ## Cantrip

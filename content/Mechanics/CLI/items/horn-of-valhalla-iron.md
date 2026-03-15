@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Horn of Valhalla, Iron"
+  - Horn of Valhalla, Iron
+created: 2026-03-09T12:15:34.000-04:00
+modified: 2026-03-09T12:15:34.000-04:00
+published: 2026-03-09T12:15:34.000-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Horn of Valhalla, Iron
 *Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), major, legendary*  
 

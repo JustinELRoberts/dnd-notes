@@ -1,46 +1,51 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/armorer
-- ttrpg-cli/spell/subclass/battle-smith
-- ttrpg-cli/spell/subclass/circle-of-wildfire
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/the-genie/efreeti
-- ttrpg-cli/spell/subclass/war-domain
-classes:
-- Artificer (Armorer)
-- Artificer (Battle Smith)
-- Bard
-- Cleric (War Domain)
-- Druid
-- Druid (Circle of Wildfire)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Fiend Patron)
-- Warlock (The Genie, Efreeti)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Fire Shield"
+  - Fire Shield
+created: 2026-03-09T12:15:34.134-04:00
+modified: 2026-03-09T12:15:34.134-04:00
+published: 2026-03-09T12:15:34.134-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/battle-smith
+  - ttrpg-cli/spell/subclass/circle-of-wildfire
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/fiend-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/the-genie/efreeti
+  - ttrpg-cli/spell/subclass/war-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Armorer)
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Fiend Patron)
+  - Warlock (The Genie, Efreeti)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Fire Shield
 *4th-level, Evocation*  
 

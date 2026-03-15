@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/investigator
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Fighter (Eldritch Knight)
-- Investigator
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Map"
+  - Map
+created: 2026-03-09T12:15:33.835-04:00
+modified: 2026-03-09T12:15:33.835-04:00
+published: 2026-03-09T12:15:33.835-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/investigator
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Investigator
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Map
 *2nd-level, Divination (ritual)*  
 

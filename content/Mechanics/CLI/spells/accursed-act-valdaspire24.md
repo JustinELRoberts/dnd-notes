@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-classes:
-- Witch
+publish: true
 aliases:
-- "Accursed Act"
+  - Accursed Act
+created: 2026-03-09T12:15:33.952-04:00
+modified: 2026-03-09T12:15:33.953-04:00
+published: 2026-03-09T12:15:33.953-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Witch
 ---
+
 # Accursed Act
 *1st-level, Enchantment*  
 

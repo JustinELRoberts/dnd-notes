@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-storm
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-classes:
-- Bard
-- Druid
-- Druid (Circle of the Sea)
-- Wizard
+publish: true
 aliases:
-- "Conjure Elemental"
+  - Conjure Elemental
+created: 2026-03-09T12:15:34.107-04:00
+modified: 2026-03-09T12:15:34.107-04:00
+published: 2026-03-09T12:15:34.107-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-storm
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of the Sea)
+  - Wizard
 ---
+
 # Conjure Elemental
 *5th-level, Conjuration*  
 

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Candle of the Deep"
+  - Candle of the Deep
+created: 2026-03-09T12:15:34.122-04:00
+modified: 2026-03-09T12:15:34.122-04:00
+published: 2026-03-09T12:15:34.122-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Candle of the Deep
 *Wondrous item, minor, common*  
 

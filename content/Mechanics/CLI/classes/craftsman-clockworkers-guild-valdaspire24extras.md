@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/subclass/craftsman/clockworkers
+publish: true
 aliases:
-- "Clockworkers' Guild"
+  - Clockworkers' Guild
+created: 2026-03-09T12:15:33.812-04:00
+modified: 2026-03-09T12:15:33.812-04:00
+published: 2026-03-09T12:15:33.812-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/subclass/craftsman/clockworkers
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Clockworkers' Guild
 *[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets Extras (2024)*  

@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/feat/mark-of-detection
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/the-genie/dao
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Paladin
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Genie, Dao)
+publish: true
 aliases:
-- "Detect Evil and Good"
+  - Detect Evil and Good
+created: 2026-03-09T12:15:33.789-04:00
+modified: 2026-03-09T12:15:33.789-04:00
+published: 2026-03-09T12:15:33.789-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/feat/mark-of-detection
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/the-genie/dao
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
 ---
+
 # Detect Evil and Good
 *1st-level, Divination*  
 

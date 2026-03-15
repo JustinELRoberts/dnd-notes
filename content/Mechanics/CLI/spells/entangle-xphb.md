@@ -1,28 +1,33 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/green-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Rebirth)
-- Ranger
-- Witch (Green Magic)
+publish: true
 aliases:
-- "Entangle"
+  - Entangle
+created: 2026-03-09T12:15:33.845-04:00
+modified: 2026-03-09T12:15:33.845-04:00
+published: 2026-03-09T12:15:33.845-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/green-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Ranger
+  - Witch (Green Magic)
 ---
+
 # Entangle
 *1st-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/entangle.webp#right)

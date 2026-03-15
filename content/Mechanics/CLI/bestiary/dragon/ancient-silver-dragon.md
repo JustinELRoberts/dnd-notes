@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Ancient Silver Dragon"
+  - Ancient Silver Dragon
+created: 2026-03-09T12:15:33.835-04:00
+modified: 2026-03-09T12:15:33.835-04:00
+published: 2026-03-09T12:15:33.835-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Ancient Silver Dragon
 *Source: Monster Manual p. 116. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/silver-dragon.webp#right)

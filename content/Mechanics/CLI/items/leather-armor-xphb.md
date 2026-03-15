@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/rarity/none
+publish: true
 aliases:
-- "Leather Armor"
+  - Leather Armor
+created: 2026-03-09T12:15:34.134-04:00
+modified: 2026-03-09T12:15:34.134-04:00
+published: 2026-03-09T12:15:34.134-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/rarity/none
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Leather Armor
 *Light armor*  
 ![](Mechanics/CLI/items/img/leather-armor.webp#right)

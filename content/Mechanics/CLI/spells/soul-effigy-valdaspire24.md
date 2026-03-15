@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/crone
-classes:
-- Necromancer
-- Necromancer (Crone)
-- Witch
+publish: true
 aliases:
-- "Soul Effigy"
+  - Soul Effigy
+created: 2026-03-09T12:15:33.869-04:00
+modified: 2026-03-09T12:15:33.869-04:00
+published: 2026-03-09T12:15:33.869-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/crone
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Necromancer
+  - Necromancer (Crone)
+  - Witch
 ---
+
 # Soul Effigy
 *4th-level, Necromancy (ritual)*  
 

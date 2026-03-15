@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fiend/devil
+publish: true
 aliases:
-- "Spined Devil"
+  - Spined Devil
+created: 2026-03-09T12:15:33.799-04:00
+modified: 2026-03-09T12:15:33.799-04:00
+published: 2026-03-09T12:15:33.799-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fiend/devil
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Spined Devil
 *Source: Monster Manual p. 78*  
 ![](Mechanics/CLI/bestiary/fiend/img/spined-devil.webp#right)

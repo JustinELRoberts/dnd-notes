@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/shadow-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/house-of-knights
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Necromancer
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Warmage (House of Knights)
-- Witch
-- Witch (Blood Magic)
-- Wizard
+publish: true
 aliases:
-- "Hollowing Curse"
+  - Hollowing Curse
+created: 2026-03-09T12:15:33.916-04:00
+modified: 2026-03-09T12:15:33.916-04:00
+published: 2026-03-09T12:15:33.916-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/shadow-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/house-of-knights
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Necromancer
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Warmage (House of Knights)
+  - Witch
+  - Witch (Blood Magic)
+  - Wizard
 ---
+
 # Hollowing Curse
 *1st-level, Necromancy*  
 

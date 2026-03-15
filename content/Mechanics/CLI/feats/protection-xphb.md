@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Protection"
+  - Protection
+created: 2026-03-09T12:15:34.133-04:00
+modified: 2026-03-09T12:15:34.133-04:00
+published: 2026-03-09T12:15:34.133-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Protection 
 
 

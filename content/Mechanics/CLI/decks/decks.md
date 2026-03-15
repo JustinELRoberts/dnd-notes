@@ -1,9 +1,14 @@
 ---
-obsidianUIMode: preview
+publish: true
+created: 2026-03-09T12:15:34.147-04:00
+modified: 2026-03-09T12:15:34.147-04:00
+published: 2026-03-09T12:15:34.147-04:00
 cssclasses:
-- json5e-note
-- json5e-index
+  - json5e-note
+  - json5e-index
+obsidianUIMode: preview
 ---
+
 # Index of Decks
 
 - [Combat Step by Step Cards](./combat-step-by-step-cards-esk.md)

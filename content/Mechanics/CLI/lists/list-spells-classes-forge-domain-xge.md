@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/forge-domain
+publish: true
 aliases:
-- "Spells for Forge Domain"
+  - Spells for Forge Domain
+created: 2026-03-09T12:15:34.430-04:00
+modified: 2026-03-09T12:15:34.430-04:00
+published: 2026-03-09T12:15:34.430-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/forge-domain
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Forge Domain
 
 ## 1st Level

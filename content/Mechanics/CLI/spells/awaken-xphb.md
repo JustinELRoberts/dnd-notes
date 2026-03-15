@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/mark-of-handling
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/green-magic
-classes:
-- Bard
-- Druid
-- Martyr (Burden of Rebirth)
-- Witch (Green Magic)
+publish: true
 aliases:
-- "Awaken"
+  - Awaken
+created: 2026-03-09T12:15:34.006-04:00
+modified: 2026-03-09T12:15:34.006-04:00
+published: 2026-03-09T12:15:34.006-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/mark-of-handling
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/green-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Witch (Green Magic)
 ---
+
 # Awaken
 *5th-level, Transmutation*  
 

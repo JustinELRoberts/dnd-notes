@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Warlock
+publish: true
 aliases:
-- "Shadow of Moil"
+  - Shadow of Moil
+created: 2026-03-09T12:15:33.805-04:00
+modified: 2026-03-09T12:15:33.805-04:00
+published: 2026-03-09T12:15:33.805-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Warlock
 ---
+
 # Shadow of Moil
 *4th-level, Necromancy*  
 

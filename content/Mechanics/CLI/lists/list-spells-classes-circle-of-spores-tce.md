@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/circle-of-spores
+publish: true
 aliases:
-- "Spells for Circle of Spores"
+  - Spells for Circle of Spores
+created: 2026-03-09T12:15:34.422-04:00
+modified: 2026-03-09T12:15:34.422-04:00
+published: 2026-03-09T12:15:34.422-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/circle-of-spores
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Circle of Spores
 
 ## Cantrip

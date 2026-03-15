@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/war-domain
-classes:
-- Cleric (War Domain)
-- Paladin
+publish: true
 aliases:
-- "Crusader's Mantle"
+  - Crusader's Mantle
+created: 2026-03-09T12:15:34.055-04:00
+modified: 2026-03-09T12:15:34.055-04:00
+published: 2026-03-09T12:15:34.055-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/war-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Cleric (War Domain)
+  - Paladin
 ---
+
 # Crusader's Mantle
 *3rd-level, Evocation*  
 

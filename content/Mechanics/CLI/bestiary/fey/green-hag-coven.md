@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+publish: true
 aliases:
-- "Green Hag (Coven)"
+  - Green Hag (Coven)
+created: 2026-03-09T12:15:34.039-04:00
+modified: 2026-03-09T12:15:34.039-04:00
+published: 2026-03-09T12:15:34.039-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Green Hag (Coven)
 *Source: Monster Manual p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 

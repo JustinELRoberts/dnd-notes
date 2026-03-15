@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/blood-ascendent
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/burden-of-fame
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-- ttrpg-cli/spell/subclass/oath-of-conquest
-- ttrpg-cli/spell/subclass/oathbreaker
-- ttrpg-cli/spell/subclass/order-domain
-- ttrpg-cli/spell/subclass/overlord
-- ttrpg-cli/spell/subclass/trickery-domain
-classes:
-- Bard
-- Cleric (Order Domain)
-- Cleric (Trickery Domain)
-- Martyr (Burden of Fame)
-- Martyr (Burden of Tyranny)
-- Necromancer (Blood Ascendent)
-- Necromancer (Overlord)
-- Paladin (Oath of Conquest)
-- Paladin (Oathbreaker)
-- Sorcerer
-- Warlock (Archfey Patron)
-- Witch (Blood Magic)
-- Wizard
+publish: true
 aliases:
-- "Dominate Person"
+  - Dominate Person
+created: 2026-03-09T12:15:33.821-04:00
+modified: 2026-03-09T12:15:33.821-04:00
+published: 2026-03-09T12:15:33.821-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/blood-ascendent
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/burden-of-fame
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+  - ttrpg-cli/spell/subclass/oath-of-conquest
+  - ttrpg-cli/spell/subclass/oathbreaker
+  - ttrpg-cli/spell/subclass/order-domain
+  - ttrpg-cli/spell/subclass/overlord
+  - ttrpg-cli/spell/subclass/trickery-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (Order Domain)
+  - Cleric (Trickery Domain)
+  - Martyr (Burden of Fame)
+  - Martyr (Burden of Tyranny)
+  - Necromancer (Blood Ascendent)
+  - Necromancer (Overlord)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oathbreaker)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Witch (Blood Magic)
+  - Wizard
 ---
+
 # Dominate Person
 *5th-level, Enchantment*  
 

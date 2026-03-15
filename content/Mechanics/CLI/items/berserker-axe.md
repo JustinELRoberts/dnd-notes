@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Berserker Axe"
-- "Berserker Battleaxe"
-- "Berserker Greataxe"
-- "Berserker Handaxe"
+  - Berserker Axe
+  - Berserker Battleaxe
+  - Berserker Greataxe
+  - Berserker Handaxe
+created: 2026-03-09T12:15:33.876-04:00
+modified: 2026-03-09T12:15:33.876-04:00
+published: 2026-03-09T12:15:33.876-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Berserker Axe
 *Cursed item, major, rare (requires attunement)*  
 ![Berserker axe (Battleaxe)](Mechanics/CLI/items/img/berserker-axe.webp#right)

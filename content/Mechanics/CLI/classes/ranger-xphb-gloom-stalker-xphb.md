@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/ranger/gloom-stalker
+publish: true
 aliases:
-- "Gloom Stalker"
+  - Gloom Stalker
+created: 2026-03-09T12:15:34.049-04:00
+modified: 2026-03-09T12:15:34.049-04:00
+published: 2026-03-09T12:15:34.049-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/ranger/gloom-stalker
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Gloom Stalker
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 125*  

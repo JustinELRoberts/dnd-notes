@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/feat/mark-of-sentinel
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/war-domain
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (War Domain)
-- Paladin
-- Paladin (Oath of Devotion)
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Shield of Faith"
+  - Shield of Faith
+created: 2026-03-09T12:15:33.796-04:00
+modified: 2026-03-09T12:15:33.796-04:00
+published: 2026-03-09T12:15:33.796-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/feat/mark-of-sentinel
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/oath-of-devotion
+  - ttrpg-cli/spell/subclass/war-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (War Domain)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Shield of Faith
 *1st-level, Abjuration*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/hazard/mag
+publish: true
 aliases:
-- "Fire-Breathing Statue"
+  - Fire-Breathing Statue
+created: 2026-03-09T12:15:34.048-04:00
+modified: 2026-03-09T12:15:34.048-04:00
+published: 2026-03-09T12:15:34.048-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/hazard/mag
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Fire-Breathing Statue
 *Magical Trap*  
 

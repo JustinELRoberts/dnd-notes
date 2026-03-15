@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
+publish: true
 aliases:
-- "+2 Amulet of the Devout"
+  - +2 Amulet of the Devout
+created: 2026-03-09T12:15:33.829-04:00
+modified: 2026-03-09T12:15:33.829-04:00
+published: 2026-03-09T12:15:33.829-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +2 Amulet of the Devout
 *Wondrous item, rare (requires attunement by a cleric or paladin)*  
 

@@ -1,38 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-hospitality
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/blood-ascendent
-- ttrpg-cli/spell/subclass/burden-of-fame
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/purple-magic
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Artificer
-- Bard
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Fame)
-- Necromancer (Blood Ascendent)
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Witch (Purple Magic)
-- Witch (Tea Magic)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Mordenkainen's Private Sanctum"
+  - Mordenkainen's Private Sanctum
+created: 2026-03-09T12:15:33.885-04:00
+modified: 2026-03-09T12:15:33.885-04:00
+published: 2026-03-09T12:15:33.885-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-hospitality
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/blood-ascendent
+  - ttrpg-cli/spell/subclass/burden-of-fame
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/purple-magic
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Fame)
+  - Necromancer (Blood Ascendent)
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Witch (Purple Magic)
+  - Witch (Tea Magic)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Mordenkainen's Private Sanctum
 *4th-level, Abjuration*  
 

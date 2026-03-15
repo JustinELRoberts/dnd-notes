@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Cleric
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Temple of the Gods"
+  - Temple of the Gods
+created: 2026-03-09T12:15:33.947-04:00
+modified: 2026-03-09T12:15:33.947-04:00
+published: 2026-03-09T12:15:33.947-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Temple of the Gods
 *7th-level, Conjuration*  
 

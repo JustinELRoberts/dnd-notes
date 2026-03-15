@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/burden-of-revolution
-classes:
-- Martyr
-- Martyr (Burden of Revolution)
+publish: true
 aliases:
-- "Divine Wrath"
+  - Divine Wrath
+created: 2026-03-09T12:15:33.891-04:00
+modified: 2026-03-09T12:15:33.891-04:00
+published: 2026-03-09T12:15:33.891-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Martyr
+  - Martyr (Burden of Revolution)
 ---
+
 # Divine Wrath
 *3rd-level, Evocation*  
 

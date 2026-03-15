@@ -1,40 +1,45 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/artillerist
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/red-magic
-- ttrpg-cli/spell/subclass/the-fathomless
-- ttrpg-cli/spell/subclass/the-genie/marid
-- ttrpg-cli/spell/subclass/the-hexblade
-classes:
-- Artificer (Artillerist)
-- Bard
-- Druid
-- Druid (Circle of the Land, Polar Land)
-- Martyr (Burden of the End)
-- Sorcerer
-- Warlock (The Fathomless)
-- Warlock (The Genie, Marid)
-- Warlock (The Hexblade)
-- Witch (Red Magic)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Cone of Cold"
+  - Cone of Cold
+created: 2026-03-09T12:15:33.805-04:00
+modified: 2026-03-09T12:15:33.805-04:00
+published: 2026-03-09T12:15:33.805-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/artillerist
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/red-magic
+  - ttrpg-cli/spell/subclass/the-fathomless
+  - ttrpg-cli/spell/subclass/the-genie/marid
+  - ttrpg-cli/spell/subclass/the-hexblade
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Martyr (Burden of the End)
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Marid)
+  - Warlock (The Hexblade)
+  - Witch (Red Magic)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Cone of Cold
 *5th-level, Evocation*  
 ![](Mechanics/CLI/spells/img/cone-of-cold.webp#right)

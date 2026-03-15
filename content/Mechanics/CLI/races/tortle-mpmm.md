@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/tortle
+publish: true
 aliases:
-- "Tortle"
+  - Tortle
+created: 2026-03-09T12:15:34.053-04:00
+modified: 2026-03-09T12:15:34.053-04:00
+published: 2026-03-09T12:15:34.053-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/tortle
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Tortle
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 34*  
 ![](Mechanics/CLI/races/img/tortle.webp#right)

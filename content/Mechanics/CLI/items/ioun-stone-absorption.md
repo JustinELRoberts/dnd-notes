@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Ioun Stone, Absorption"
+  - Ioun Stone, Absorption
+created: 2026-03-09T12:15:34.104-04:00
+modified: 2026-03-09T12:15:34.104-04:00
+published: 2026-03-09T12:15:34.104-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ioun Stone, Absorption
 *Wondrous item, major, very rare (requires attunement)*  
 

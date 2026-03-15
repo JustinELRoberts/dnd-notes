@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/mark-of-passage
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/optfeature/commanders-steed
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Paladin
+publish: true
 aliases:
-- "Find Steed"
+  - Find Steed
+created: 2026-03-09T12:15:33.771-04:00
+modified: 2026-03-09T12:15:33.771-04:00
+published: 2026-03-09T12:15:33.771-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/mark-of-passage
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/optfeature/commanders-steed
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin
 ---
+
 # Find Steed
 *2nd-level, Conjuration*  
 

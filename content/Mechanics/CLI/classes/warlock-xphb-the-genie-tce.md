@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/warlock/genie
+publish: true
 aliases:
-- "The Genie"
+  - The Genie
+created: 2026-03-09T12:15:33.979-04:00
+modified: 2026-03-09T12:15:33.979-04:00
+published: 2026-03-09T12:15:33.979-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/warlock/genie
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # The Genie
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Tasha's Cauldron of Everything p. 73*  

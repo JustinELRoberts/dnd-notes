@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/druid
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Druid"
+  - Druid
+created: 2026-03-09T12:15:33.902-04:00
+modified: 2026-03-09T12:15:33.902-04:00
+published: 2026-03-09T12:15:33.902-04:00
+tags:
+  - ttrpg-cli/class/druid
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Druid
 *Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

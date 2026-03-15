@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Dwarven Plate"
+  - Dwarven Plate
+created: 2026-03-09T12:15:34.014-04:00
+modified: 2026-03-09T12:15:34.014-04:00
+published: 2026-03-09T12:15:34.014-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Dwarven Plate
 *Heavy armor ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md)), major, very rare*  
 ![](Mechanics/CLI/items/img/dwarven-plate.webp#right)

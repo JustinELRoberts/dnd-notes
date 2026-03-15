@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/oath-of-the-watchers
-- ttrpg-cli/spell/subclass/twilight-domain
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric (Twilight Domain)
-- Druid
-- Druid (Circle of the Moon)
-- Paladin (Oath of the Ancients)
-- Paladin (Oath of the Watchers)
+publish: true
 aliases:
-- "Moonbeam"
+  - Moonbeam
+created: 2026-03-09T12:15:33.891-04:00
+modified: 2026-03-09T12:15:33.891-04:00
+published: 2026-03-09T12:15:33.891-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/circle-of-the-moon
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+  - ttrpg-cli/spell/subclass/oath-of-the-watchers
+  - ttrpg-cli/spell/subclass/twilight-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Twilight Domain)
+  - Druid
+  - Druid (Circle of the Moon)
+  - Paladin (Oath of the Ancients)
+  - Paladin (Oath of the Watchers)
 ---
+
 # Moonbeam
 *2nd-level, Evocation*  
 

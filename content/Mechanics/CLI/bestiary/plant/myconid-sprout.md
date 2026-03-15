@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/plant
+publish: true
 aliases:
-- "Myconid Sprout"
+  - Myconid Sprout
+created: 2026-03-09T12:15:34.015-04:00
+modified: 2026-03-09T12:15:34.015-04:00
+published: 2026-03-09T12:15:34.015-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/plant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Myconid Sprout
 *Source: Monster Manual p. 230*  
 ![](Mechanics/CLI/bestiary/plant/img/myconids.webp#right)

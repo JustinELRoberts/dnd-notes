@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/optfeature/tower-apprentice
+publish: true
 aliases:
-- "Spells for Tower Apprentice"
+  - Spells for Tower Apprentice
+created: 2026-03-09T12:15:34.432-04:00
+modified: 2026-03-09T12:15:34.432-04:00
+published: 2026-03-09T12:15:34.432-04:00
+tags:
+  - ttrpg-cli/spell/list/optfeature/tower-apprentice
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Tower Apprentice
 
 ## Cantrip

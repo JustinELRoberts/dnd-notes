@@ -1,37 +1,42 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/feat/shadow-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/black-magic
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/burden-of-discord
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/evil
-- ttrpg-cli/spell/subclass/house-of-knights
-- ttrpg-cli/spell/subclass/oathbreaker
-- ttrpg-cli/spell/subclass/reaper
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Martyr (Burden of Discord)
-- Necromancer (Reaper)
-- Paladin (Oathbreaker)
-- Sorcerer (Divine Soul, Evil)
-- Warmage (House of Knights)
-- Witch (Black Magic)
-- Witch (Blood Magic)
+publish: true
 aliases:
-- "Inflict Wounds"
+  - Inflict Wounds
+created: 2026-03-09T12:15:33.950-04:00
+modified: 2026-03-09T12:15:33.950-04:00
+published: 2026-03-09T12:15:33.950-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/feat/shadow-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/black-magic
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/burden-of-discord
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/evil
+  - ttrpg-cli/spell/subclass/house-of-knights
+  - ttrpg-cli/spell/subclass/oathbreaker
+  - ttrpg-cli/spell/subclass/reaper
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Martyr (Burden of Discord)
+  - Necromancer (Reaper)
+  - Paladin (Oathbreaker)
+  - Sorcerer (Divine Soul, Evil)
+  - Warmage (House of Knights)
+  - Witch (Black Magic)
+  - Witch (Blood Magic)
 ---
+
 # Inflict Wounds
 *1st-level, Necromancy*  
 

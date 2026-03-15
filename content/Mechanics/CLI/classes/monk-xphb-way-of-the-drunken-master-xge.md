@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/monk/drunken-master
+publish: true
 aliases:
-- "Way of the Drunken Master"
+  - Way of the Drunken Master
+created: 2026-03-09T12:15:33.901-04:00
+modified: 2026-03-09T12:15:33.901-04:00
+published: 2026-03-09T12:15:33.901-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/monk/drunken-master
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Way of the Drunken Master
 *[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 33*  

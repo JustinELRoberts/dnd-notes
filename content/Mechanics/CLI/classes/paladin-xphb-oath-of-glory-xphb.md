@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/paladin/glory
+publish: true
 aliases:
-- "Oath of Glory"
+  - Oath of Glory
+created: 2026-03-09T12:15:34.137-04:00
+modified: 2026-03-09T12:15:34.137-04:00
+published: 2026-03-09T12:15:34.137-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/paladin/glory
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Oath of Glory
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 114*  

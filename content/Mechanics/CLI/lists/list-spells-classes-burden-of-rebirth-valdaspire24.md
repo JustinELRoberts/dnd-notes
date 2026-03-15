@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/burden-of-rebirth
+publish: true
 aliases:
-- "Spells for Burden of Rebirth"
+  - Spells for Burden of Rebirth
+created: 2026-03-09T12:15:34.430-04:00
+modified: 2026-03-09T12:15:34.430-04:00
+published: 2026-03-09T12:15:34.430-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/burden-of-rebirth
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Burden of Rebirth
 
 ## Cantrip

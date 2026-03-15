@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Mind Lash"
+  - Mind Lash
+created: 2026-03-09T12:15:34.121-04:00
+modified: 2026-03-09T12:15:34.121-04:00
+published: 2026-03-09T12:15:34.121-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Mind Lash
 *Melee weapon, rare (requires attunement by a mind flayer)*  
 

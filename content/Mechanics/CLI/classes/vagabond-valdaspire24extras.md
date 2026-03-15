@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/vagabond
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
+publish: true
 aliases:
-- "Vagabond"
+  - Vagabond
+created: 2026-03-09T12:15:33.792-04:00
+modified: 2026-03-09T12:15:33.792-04:00
+published: 2026-03-09T12:15:33.792-04:00
+tags:
+  - ttrpg-cli/class/vagabond
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Vagabond
 *Source: Valda's Spire of Secrets Extras (2024)*  
 

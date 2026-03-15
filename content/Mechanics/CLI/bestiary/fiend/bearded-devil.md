@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/devil
+publish: true
 aliases:
-- "Bearded Devil"
+  - Bearded Devil
+created: 2026-03-09T12:15:33.968-04:00
+modified: 2026-03-09T12:15:33.968-04:00
+published: 2026-03-09T12:15:33.968-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/devil
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Bearded Devil
 *Source: Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/fiend/img/bearded-devil.webp#right)

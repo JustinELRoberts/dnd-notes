@@ -1,43 +1,48 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/yuan-ti
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/blood-ascendent
-- ttrpg-cli/spell/subclass/burden-of-fame
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/purple-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Fame)
-- Necromancer (Blood Ascendent)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock
-- Warlock (Fiend Patron)
-- Warmage (House of Bishops)
-- Witch (Purple Magic)
-- Wizard
+publish: true
 aliases:
-- "Suggestion"
+  - Suggestion
+created: 2026-03-09T12:15:34.088-04:00
+modified: 2026-03-09T12:15:34.088-04:00
+published: 2026-03-09T12:15:34.088-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/race/yuan-ti
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/blood-ascendent
+  - ttrpg-cli/spell/subclass/burden-of-fame
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/fiend-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/purple-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Fame)
+  - Necromancer (Blood Ascendent)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warlock (Fiend Patron)
+  - Warmage (House of Bishops)
+  - Witch (Purple Magic)
+  - Wizard
 ---
+
 # Suggestion
 *2nd-level, Enchantment*  
 

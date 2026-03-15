@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Necromancer
+publish: true
 aliases:
-- "Flawed Resurrection"
+  - Flawed Resurrection
+created: 2026-03-09T12:15:34.113-04:00
+modified: 2026-03-09T12:15:34.113-04:00
+published: 2026-03-09T12:15:34.113-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Necromancer
 ---
+
 # Flawed Resurrection
 *5th-level, Necromancy*  
 

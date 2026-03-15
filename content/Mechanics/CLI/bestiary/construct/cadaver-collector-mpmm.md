@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Cadaver Collector"
+  - Cadaver Collector
+created: 2026-03-09T12:15:33.967-04:00
+modified: 2026-03-09T12:15:33.967-04:00
+published: 2026-03-09T12:15:33.967-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/14
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Cadaver Collector
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 68*  
 ![](Mechanics/CLI/bestiary/construct/img/cadaver-collector.webp#right)

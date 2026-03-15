@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Guard"
+  - Guard
+created: 2026-03-09T12:15:34.053-04:00
+modified: 2026-03-09T12:15:34.053-04:00
+published: 2026-03-09T12:15:34.053-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # Guard
 *Source: Player's Handbook (2024) p. 181*  
 ![](Mechanics/CLI/backgrounds/img/guard.webp#right)

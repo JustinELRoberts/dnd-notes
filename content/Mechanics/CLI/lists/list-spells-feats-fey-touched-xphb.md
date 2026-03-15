@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/fey-touched
+publish: true
 aliases:
-- "Spells for Fey-Touched"
+  - Spells for Fey-Touched
+created: 2026-03-09T12:15:34.422-04:00
+modified: 2026-03-09T12:15:34.422-04:00
+published: 2026-03-09T12:15:34.422-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/fey-touched
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Fey-Touched
 
 ## 1st Level

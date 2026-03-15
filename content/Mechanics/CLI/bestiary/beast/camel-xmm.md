@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Camel"
+  - Camel
+created: 2026-03-09T12:15:34.008-04:00
+modified: 2026-03-09T12:15:34.008-04:00
+published: 2026-03-09T12:15:34.008-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Camel
 *Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/bestiary/beast/img/camel.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/martyr/truth
+publish: true
 aliases:
-- "Burden of Truth"
+  - Burden of Truth
+created: 2026-03-09T12:15:33.827-04:00
+modified: 2026-03-09T12:15:33.827-04:00
+published: 2026-03-09T12:15:33.827-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/martyr/truth
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Burden of Truth
 *[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

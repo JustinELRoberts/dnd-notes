@@ -1,61 +1,66 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/tiefling/abyssal
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/burden-of-revolution
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-- ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/house-of-knights
-- ttrpg-cli/spell/subclass/oath-of-conquest
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-- ttrpg-cli/spell/subclass/order-domain
-- ttrpg-cli/spell/subclass/overlord
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Order Domain)
-- Druid
-- Druid (Circle of the Land, Polar Land)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Revolution)
-- Martyr (Burden of Tyranny)
-- Necromancer (Overlord)
-- Paladin (Oath of Conquest)
-- Paladin (Oath of Redemption)
-- Paladin (Oath of Vengeance)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Warmage (House of Knights)
-- Witch (Blood Magic)
-- Wizard
+publish: true
 aliases:
-- "Hold Person"
+  - Hold Person
+created: 2026-03-09T12:15:33.906-04:00
+modified: 2026-03-09T12:15:33.906-04:00
+published: 2026-03-09T12:15:33.906-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/race/tiefling/abyssal
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+  - ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/house-of-knights
+  - ttrpg-cli/spell/subclass/oath-of-conquest
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+  - ttrpg-cli/spell/subclass/order-domain
+  - ttrpg-cli/spell/subclass/overlord
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Order Domain)
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Revolution)
+  - Martyr (Burden of Tyranny)
+  - Necromancer (Overlord)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of Vengeance)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Warmage (House of Knights)
+  - Witch (Blood Magic)
+  - Wizard
 ---
+
 # Hold Person
 *2nd-level, Enchantment*  
 

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Beast of the Sea"
+  - Beast of the Sea
+created: 2026-03-09T12:15:33.878-04:00
+modified: 2026-03-09T12:15:33.878-04:00
+published: 2026-03-09T12:15:33.878-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Beast of the Sea
 *Source: Player's Handbook (2024) p. 124*  
 ![](Mechanics/CLI/bestiary/beast/img/beast-of-the-sea.webp#center)

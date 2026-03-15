@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/battle-smith
+publish: true
 aliases:
-- "Spells for Battle Smith"
+  - Spells for Battle Smith
+created: 2026-03-09T12:15:34.423-04:00
+modified: 2026-03-09T12:15:34.423-04:00
+published: 2026-03-09T12:15:34.423-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/battle-smith
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Battle Smith
 
 ## 1st Level

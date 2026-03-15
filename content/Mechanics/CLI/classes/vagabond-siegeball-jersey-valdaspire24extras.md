@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/subclass/vagabond/siegeball-jersey
+publish: true
 aliases:
-- "Siegeball Jersey"
+  - Siegeball Jersey
+created: 2026-03-09T12:15:33.878-04:00
+modified: 2026-03-09T12:15:33.878-04:00
+published: 2026-03-09T12:15:33.878-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/subclass/vagabond/siegeball-jersey
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Siegeball Jersey
 *[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets Extras (2024)*  

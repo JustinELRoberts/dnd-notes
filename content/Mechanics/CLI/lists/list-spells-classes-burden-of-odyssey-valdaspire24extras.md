@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/burden-of-odyssey
+publish: true
 aliases:
-- "Spells for Burden of Odyssey"
+  - Spells for Burden of Odyssey
+created: 2026-03-09T12:15:34.425-04:00
+modified: 2026-03-09T12:15:34.425-04:00
+published: 2026-03-09T12:15:34.425-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/burden-of-odyssey
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Burden of Odyssey
 
 ## 1st Level

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Manual of Bodily Health"
+  - Manual of Bodily Health
+created: 2026-03-09T12:15:33.868-04:00
+modified: 2026-03-09T12:15:33.868-04:00
+published: 2026-03-09T12:15:33.868-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Manual of Bodily Health
 *Wondrous item, major, very rare*  
 ![](Mechanics/CLI/items/img/manual-of-bodily-health.webp#right)

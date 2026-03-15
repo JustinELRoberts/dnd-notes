@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Eyes of Minute Seeing"
+  - Eyes of Minute Seeing
+created: 2026-03-09T12:15:34.058-04:00
+modified: 2026-03-09T12:15:34.058-04:00
+published: 2026-03-09T12:15:34.058-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Eyes of Minute Seeing
 *Wondrous item, minor, uncommon*  
 

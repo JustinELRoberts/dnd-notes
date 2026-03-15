@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/rogue/soulknife
+publish: true
 aliases:
-- "Soulknife"
+  - Soulknife
+created: 2026-03-09T12:15:33.842-04:00
+modified: 2026-03-09T12:15:33.842-04:00
+published: 2026-03-09T12:15:33.842-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/rogue/soulknife
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Soulknife
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 135*  

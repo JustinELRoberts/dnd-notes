@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/monk/kensei
+publish: true
 aliases:
-- "Way of the Kensei"
+  - Way of the Kensei
+created: 2026-03-09T12:15:34.062-04:00
+modified: 2026-03-09T12:15:34.062-04:00
+published: 2026-03-09T12:15:34.062-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/monk/kensei
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Way of the Kensei
 *[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 34*  

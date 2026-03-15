@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-sentinel
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/the-fathomless
-classes:
-- Artificer
-- Bard
-- Sorcerer
-- Warlock (The Fathomless)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Bigby's Hand"
+  - Bigby's Hand
+created: 2026-03-09T12:15:34.026-04:00
+modified: 2026-03-09T12:15:34.026-04:00
+published: 2026-03-09T12:15:34.026-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-sentinel
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/the-fathomless
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Sorcerer
+  - Warlock (The Fathomless)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Bigby's Hand
 *5th-level, Evocation*  
 ![](Mechanics/CLI/spells/img/bigbys-hand.webp#right)

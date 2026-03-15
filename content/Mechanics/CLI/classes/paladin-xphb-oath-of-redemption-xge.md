@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/paladin/redemption
+publish: true
 aliases:
-- "Oath of Redemption"
+  - Oath of Redemption
+created: 2026-03-09T12:15:34.028-04:00
+modified: 2026-03-09T12:15:34.028-04:00
+published: 2026-03-09T12:15:34.028-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/paladin/redemption
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Oath of Redemption
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Xanathar's Guide to Everything p. 38*  

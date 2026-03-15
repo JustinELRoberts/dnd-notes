@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/mark-of-scribing
+publish: true
 aliases:
-- "Spells for Mark of Scribing"
+  - Spells for Mark of Scribing
+created: 2026-03-09T12:15:34.430-04:00
+modified: 2026-03-09T12:15:34.430-04:00
+published: 2026-03-09T12:15:34.430-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/mark-of-scribing
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Mark of Scribing
 
 ## Cantrip

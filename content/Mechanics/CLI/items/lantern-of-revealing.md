@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Lantern of Revealing"
+  - Lantern of Revealing
+created: 2026-03-09T12:15:34.091-04:00
+modified: 2026-03-09T12:15:34.091-04:00
+published: 2026-03-09T12:15:34.091-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Lantern of Revealing
 *Wondrous item, minor, uncommon*  
 ![](Mechanics/CLI/items/img/lantern-of-revealing.webp#right)

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/corpse-florist
+publish: true
 aliases:
-- "Spells for Corpse Florist"
+  - Spells for Corpse Florist
+created: 2026-03-09T12:15:34.433-04:00
+modified: 2026-03-09T12:15:34.433-04:00
+published: 2026-03-09T12:15:34.433-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/corpse-florist
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Corpse Florist
 
 ## 1st Level

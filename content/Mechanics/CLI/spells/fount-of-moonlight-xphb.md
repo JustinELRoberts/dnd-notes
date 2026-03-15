@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-classes:
-- Bard
-- Druid
-- Druid (Circle of the Moon)
+publish: true
 aliases:
-- "Fount of Moonlight"
+  - Fount of Moonlight
+created: 2026-03-09T12:15:33.843-04:00
+modified: 2026-03-09T12:15:33.843-04:00
+published: 2026-03-09T12:15:33.843-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/circle-of-the-moon
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of the Moon)
 ---
+
 # Fount of Moonlight
 *4th-level, Evocation*  
 

@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Cleric
-- Druid
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "True Resurrection"
+  - True Resurrection
+created: 2026-03-09T12:15:34.123-04:00
+modified: 2026-03-09T12:15:34.123-04:00
+published: 2026-03-09T12:15:34.123-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/9th-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # True Resurrection
 *9th-level, Necromancy*  
 

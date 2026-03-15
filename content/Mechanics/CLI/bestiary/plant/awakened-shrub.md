@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/plant
+publish: true
 aliases:
-- "Awakened Shrub"
+  - Awakened Shrub
+created: 2026-03-09T12:15:33.857-04:00
+modified: 2026-03-09T12:15:33.857-04:00
+published: 2026-03-09T12:15:33.857-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/plant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Awakened Shrub
 *Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 

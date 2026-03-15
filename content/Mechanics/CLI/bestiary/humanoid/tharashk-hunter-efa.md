@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid/human
-- ttrpg-cli/monster/type/humanoid/orc
+publish: true
 aliases:
-- "Tharashk Hunter"
+  - Tharashk Hunter
+created: 2026-03-09T12:15:33.828-04:00
+modified: 2026-03-09T12:15:33.828-04:00
+published: 2026-03-09T12:15:33.828-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/humanoid/human
+  - ttrpg-cli/monster/type/humanoid/orc
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Tharashk Hunter
 *Source: Eberron: Forge of the Artificer p. 85*  
 ![](Mechanics/CLI/bestiary/humanoid/img/tharashk-hunter.webp#right)

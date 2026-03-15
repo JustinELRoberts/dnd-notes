@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Trident of Fish Command"
+  - Trident of Fish Command
+created: 2026-03-09T12:15:33.813-04:00
+modified: 2026-03-09T12:15:33.814-04:00
+published: 2026-03-09T12:15:33.814-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Trident of Fish Command
 *Weapon ([trident](Mechanics/CLI/items/trident-xphb.md)), major, uncommon (requires attunement)*  
 ![](Mechanics/CLI/items/img/trident-of-fish-command.webp#right)

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/object/size/varies
-- ttrpg-cli/object/type/generic
+publish: true
 aliases:
-- "Generic Object"
+  - Generic Object
+created: 2026-03-09T12:15:34.008-04:00
+modified: 2026-03-09T12:15:34.009-04:00
+published: 2026-03-09T12:15:34.009-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/object/size/varies
+  - ttrpg-cli/object/type/generic
+cssclasses:
+  - json5e-object
+obsidianUIMode: preview
 ---
+
 # Generic Object
 *Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/hazard/gen
+publish: true
 aliases:
-- "Improvised Damage"
+  - Improvised Damage
+created: 2026-03-09T12:15:34.096-04:00
+modified: 2026-03-09T12:15:34.096-04:00
+published: 2026-03-09T12:15:34.096-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/hazard/gen
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Improvised Damage
 *Generic Hazard*  
 

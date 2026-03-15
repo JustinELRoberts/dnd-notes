@@ -1,52 +1,57 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/aberrant-dragonmark
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/mark-of-storm
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/race/triton
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/dead-mist-acolyte
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/fragrant-magic
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/sky-magic
-- ttrpg-cli/spell/subclass/the-genie/marid
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Druid (Circle of the Land, Polar Land)
-- Druid (Circle of the Sea)
-- Fighter (Eldritch Knight)
-- Necromancer (Dead Mist Acolyte)
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (The Genie, Marid)
-- Warmage (House of Bishops)
-- Witch (Fragrant Magic)
-- Witch (Sky Magic)
-- Wizard
+publish: true
 aliases:
-- "Fog Cloud"
+  - Fog Cloud
+created: 2026-03-09T12:15:34.034-04:00
+modified: 2026-03-09T12:15:34.034-04:00
+published: 2026-03-09T12:15:34.034-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/mark-of-storm
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/race/triton
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/dead-mist-acolyte
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/fragrant-magic
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/sky-magic
+  - ttrpg-cli/spell/subclass/the-genie/marid
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of the Land, Polar Land)
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Necromancer (Dead Mist Acolyte)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (The Genie, Marid)
+  - Warmage (House of Bishops)
+  - Witch (Fragrant Magic)
+  - Witch (Sky Magic)
+  - Wizard
 ---
+
 # Fog Cloud
 *1st-level, Conjuration*  
 

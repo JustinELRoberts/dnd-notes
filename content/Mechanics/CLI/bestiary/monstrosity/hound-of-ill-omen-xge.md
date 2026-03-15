@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Hound of Ill Omen"
+  - Hound of Ill Omen
+created: 2026-03-09T12:15:33.795-04:00
+modified: 2026-03-09T12:15:33.796-04:00
+published: 2026-03-09T12:15:33.796-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Hound of Ill Omen
 *Source: Xanathar's Guide to Everything p. 50*  
 

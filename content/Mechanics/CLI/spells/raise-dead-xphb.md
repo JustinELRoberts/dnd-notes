@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/alchemist
-- ttrpg-cli/spell/subclass/burden-of-mercy
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/grave-domain
-- ttrpg-cli/spell/subclass/white-magic
-classes:
-- Artificer (Alchemist)
-- Bard
-- Cleric
-- Cleric (Grave Domain)
-- Martyr (Burden of Mercy)
-- Paladin
-- Sorcerer (Divine Soul, Good)
-- Witch (White Magic)
+publish: true
 aliases:
-- "Raise Dead"
+  - Raise Dead
+created: 2026-03-09T12:15:34.092-04:00
+modified: 2026-03-09T12:15:34.092-04:00
+published: 2026-03-09T12:15:34.092-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/alchemist
+  - ttrpg-cli/spell/subclass/burden-of-mercy
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/grave-domain
+  - ttrpg-cli/spell/subclass/white-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric
+  - Cleric (Grave Domain)
+  - Martyr (Burden of Mercy)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Witch (White Magic)
 ---
+
 # Raise Dead
 *5th-level, Necromancy*  
 ![](Mechanics/CLI/spells/img/raise-dead.webp#right)

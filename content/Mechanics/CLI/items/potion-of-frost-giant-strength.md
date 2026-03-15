@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/potion
+publish: true
 aliases:
-- "Potion of Frost Giant Strength"
+  - Potion of Frost Giant Strength
+created: 2026-03-09T12:15:34.133-04:00
+modified: 2026-03-09T12:15:34.133-04:00
+published: 2026-03-09T12:15:34.133-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/potion
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Potion of Frost Giant Strength
 *Potion, minor, rare*  
 

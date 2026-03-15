@@ -1,26 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Adamantine Armor"
-- "Adamantine Breastplate"
-- "Adamantine Chain Mail"
-- "Adamantine Chain Shirt"
-- "Adamantine Half Plate Armor"
-- "Adamantine Plate Armor"
-- "Adamantine Ring Mail"
-- "Adamantine Scale Mail"
-- "Adamantine Spiked Armor"
-- "Adamantine Splint Armor"
+  - Adamantine Armor
+  - Adamantine Breastplate
+  - Adamantine Chain Mail
+  - Adamantine Chain Shirt
+  - Adamantine Half Plate Armor
+  - Adamantine Plate Armor
+  - Adamantine Ring Mail
+  - Adamantine Scale Mail
+  - Adamantine Spiked Armor
+  - Adamantine Splint Armor
+created: 2026-03-09T12:15:33.902-04:00
+modified: 2026-03-09T12:15:33.902-04:00
+published: 2026-03-09T12:15:33.902-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Adamantine Armor
 *Major, uncommon*  
 

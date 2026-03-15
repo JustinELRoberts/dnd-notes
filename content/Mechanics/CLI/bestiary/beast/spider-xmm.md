@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Spider"
+  - Spider
+created: 2026-03-09T12:15:33.785-04:00
+modified: 2026-03-09T12:15:33.785-04:00
+published: 2026-03-09T12:15:33.785-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Spider
 *Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/bestiary/beast/img/spiders.webp#right)

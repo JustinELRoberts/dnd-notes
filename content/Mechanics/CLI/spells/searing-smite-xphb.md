@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/forge-domain
-classes:
-- Cleric (Forge Domain)
-- Paladin
-- Ranger
+publish: true
 aliases:
-- "Searing Smite"
+  - Searing Smite
+created: 2026-03-09T12:15:33.983-04:00
+modified: 2026-03-09T12:15:33.983-04:00
+published: 2026-03-09T12:15:33.983-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/forge-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Cleric (Forge Domain)
+  - Paladin
+  - Ranger
 ---
+
 # Searing Smite
 *1st-level, Evocation*  
 

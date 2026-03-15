@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-classes:
-- Bard
-- Cleric
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warlock
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "True Seeing"
+  - True Seeing
+created: 2026-03-09T12:15:34.121-04:00
+modified: 2026-03-09T12:15:34.121-04:00
+published: 2026-03-09T12:15:34.121-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # True Seeing
 *6th-level, Divination*  
 

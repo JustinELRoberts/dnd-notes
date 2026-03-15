@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Ranger
+publish: true
 aliases:
-- "Cordon of Arrows"
+  - Cordon of Arrows
+created: 2026-03-09T12:15:33.772-04:00
+modified: 2026-03-09T12:15:33.772-04:00
+published: 2026-03-09T12:15:33.772-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Ranger
 ---
+
 # Cordon of Arrows
 *2nd-level, Transmutation*  
 

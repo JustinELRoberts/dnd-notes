@@ -1,48 +1,53 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-atonement
-- ttrpg-cli/spell/subclass/burden-of-revolution
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/green-magic
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oath-of-conquest
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-classes:
-- Artificer
-- Bard
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Atonement)
-- Martyr (Burden of Revolution)
-- Paladin (Oath of Conquest)
-- Paladin (Oath of Redemption)
-- Paladin (Oath of the Ancients)
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warmage (House of Bishops)
-- Witch (Green Magic)
-- Wizard
+publish: true
 aliases:
-- "Stoneskin"
+  - Stoneskin
+created: 2026-03-09T12:15:34.132-04:00
+modified: 2026-03-09T12:15:34.132-04:00
+published: 2026-03-09T12:15:34.132-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-atonement
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/green-magic
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oath-of-conquest
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Atonement)
+  - Martyr (Burden of Revolution)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warmage (House of Bishops)
+  - Witch (Green Magic)
+  - Wizard
 ---
+
 # Stoneskin
 *4th-level, Transmutation*  
 

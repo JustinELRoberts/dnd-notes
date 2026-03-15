@@ -1,54 +1,59 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/dead-mist-acolyte
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/horizon-walker
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/monster-slayer
-- ttrpg-cli/spell/subclass/oath-of-the-watchers
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-classes:
-- Artificer (Cartographer)
-- Bard
-- Cleric
-- Fighter (Eldritch Knight)
-- Martyr (Burden of the End)
-- Necromancer (Dead Mist Acolyte)
-- Paladin
-- Paladin (Oath of Vengeance)
-- Paladin (Oath of the Watchers)
-- Ranger (Horizon Walker)
-- Ranger (Monster Slayer)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Banishment"
+  - Banishment
+created: 2026-03-09T12:15:33.884-04:00
+modified: 2026-03-09T12:15:33.884-04:00
+published: 2026-03-09T12:15:33.884-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/dead-mist-acolyte
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/horizon-walker
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/monster-slayer
+  - ttrpg-cli/spell/subclass/oath-of-the-watchers
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Bard
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of the End)
+  - Necromancer (Dead Mist Acolyte)
+  - Paladin
+  - Paladin (Oath of Vengeance)
+  - Paladin (Oath of the Watchers)
+  - Ranger (Horizon Walker)
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Banishment
 *4th-level, Abjuration*  
 

@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast/dinosaur
+publish: true
 aliases:
-- "Quetzalcoatlus"
+  - Quetzalcoatlus
+created: 2026-03-09T12:15:33.960-04:00
+modified: 2026-03-09T12:15:33.961-04:00
+published: 2026-03-09T12:15:33.961-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/beast/dinosaur
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Quetzalcoatlus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 

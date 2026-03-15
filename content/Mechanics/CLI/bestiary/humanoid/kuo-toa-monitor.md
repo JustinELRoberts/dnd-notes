@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/kuo-toa
+publish: true
 aliases:
-- "Kuo-toa Monitor"
+  - Kuo-toa Monitor
+created: 2026-03-09T12:15:33.813-04:00
+modified: 2026-03-09T12:15:33.813-04:00
+published: 2026-03-09T12:15:33.813-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/kuo-toa
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Kuo-toa Monitor
 *Source: Monster Manual p. 198*  
 ![](Mechanics/CLI/bestiary/humanoid/img/kuo-toa.webp#right)

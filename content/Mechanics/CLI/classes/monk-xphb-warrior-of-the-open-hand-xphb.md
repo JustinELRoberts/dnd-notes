@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/monk/open-hand
+publish: true
 aliases:
-- "Warrior of the Open Hand"
+  - Warrior of the Open Hand
+created: 2026-03-09T12:15:34.056-04:00
+modified: 2026-03-09T12:15:34.056-04:00
+published: 2026-03-09T12:15:34.056-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/monk/open-hand
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Warrior of the Open Hand
 *[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

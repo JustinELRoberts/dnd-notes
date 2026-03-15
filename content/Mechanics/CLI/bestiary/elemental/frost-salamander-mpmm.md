@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Frost Salamander"
+  - Frost Salamander
+created: 2026-03-09T12:15:33.818-04:00
+modified: 2026-03-09T12:15:33.818-04:00
+published: 2026-03-09T12:15:33.818-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Frost Salamander
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 132*  
 ![](Mechanics/CLI/bestiary/elemental/img/frost-salamander.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/minotaur
+publish: true
 aliases:
-- "Minotaur"
+  - Minotaur
+created: 2026-03-09T12:15:34.013-04:00
+modified: 2026-03-09T12:15:34.013-04:00
+published: 2026-03-09T12:15:34.013-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/minotaur
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Minotaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 27*  
 ![](Mechanics/CLI/races/img/minotaur.webp#right)

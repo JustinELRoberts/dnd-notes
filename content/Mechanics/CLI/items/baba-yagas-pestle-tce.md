@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Baba Yaga's Pestle"
+  - Baba Yaga's Pestle
+created: 2026-03-09T12:15:34.111-04:00
+modified: 2026-03-09T12:15:34.111-04:00
+published: 2026-03-09T12:15:34.111-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Baba Yaga's Pestle
 *Weapon ([quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)), artifact (requires attunement)*  
 

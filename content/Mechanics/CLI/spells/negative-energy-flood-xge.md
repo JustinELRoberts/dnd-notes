@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Bard
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Negative Energy Flood"
+  - Negative Energy Flood
+created: 2026-03-09T12:15:33.960-04:00
+modified: 2026-03-09T12:15:33.960-04:00
+published: 2026-03-09T12:15:33.960-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 ---
+
 # Negative Energy Flood
 *5th-level, Necromancy*  
 

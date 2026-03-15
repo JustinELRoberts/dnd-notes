@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Shield Guardian"
+  - Shield Guardian
+created: 2026-03-09T12:15:34.094-04:00
+modified: 2026-03-09T12:15:34.095-04:00
+published: 2026-03-09T12:15:34.095-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Shield Guardian
 *Source: Monster Manual p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/construct/img/shield-guardian.webp#right)

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/cohort
-- ttrpg-cli/monster/type/fiend/demon
-- ttrpg-cli/monster/type/fiend/demon-brand-subclass
+publish: true
 aliases:
-- "Demon Cohort"
+  - Demon Cohort
+created: 2026-03-09T12:15:33.892-04:00
+modified: 2026-03-09T12:15:33.892-04:00
+published: 2026-03-09T12:15:33.892-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/cohort
+  - ttrpg-cli/monster/type/fiend/demon
+  - ttrpg-cli/monster/type/fiend/demon-brand-subclass
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Demon Cohort
 *Source: Valda's Spire of Secrets (2024)*  
 

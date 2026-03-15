@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Shoosuva"
+  - Shoosuva
+created: 2026-03-09T12:15:33.839-04:00
+modified: 2026-03-09T12:15:33.839-04:00
+published: 2026-03-09T12:15:33.839-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Shoosuva
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  
 ![](Mechanics/CLI/bestiary/fiend/img/shoosuva.webp#right)

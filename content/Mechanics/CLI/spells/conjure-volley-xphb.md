@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Ranger
+publish: true
 aliases:
-- "Conjure Volley"
+  - Conjure Volley
+created: 2026-03-09T12:15:34.138-04:00
+modified: 2026-03-09T12:15:34.138-04:00
+published: 2026-03-09T12:15:34.138-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Ranger
 ---
+
 # Conjure Volley
 *5th-level, Conjuration*  
 

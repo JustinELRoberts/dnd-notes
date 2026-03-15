@@ -1,36 +1,41 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/burden-of-levity
-- ttrpg-cli/spell/subclass/crone
-- ttrpg-cli/spell/subclass/gloom-stalker
-- ttrpg-cli/spell/subclass/illusionist
-- ttrpg-cli/spell/subclass/purple-magic
-- ttrpg-cli/spell/subclass/the-genie/djinni
-classes:
-- Bard
-- Martyr (Burden of Levity)
-- Necromancer (Crone)
-- Ranger (Gloom Stalker)
-- Sorcerer
-- Warlock (Archfey Patron)
-- Warlock (The Genie, Djinni)
-- Witch (Purple Magic)
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Seeming"
+  - Seeming
+created: 2026-03-09T12:15:34.050-04:00
+modified: 2026-03-09T12:15:34.050-04:00
+published: 2026-03-09T12:15:34.050-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/burden-of-levity
+  - ttrpg-cli/spell/subclass/crone
+  - ttrpg-cli/spell/subclass/gloom-stalker
+  - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/purple-magic
+  - ttrpg-cli/spell/subclass/the-genie/djinni
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Martyr (Burden of Levity)
+  - Necromancer (Crone)
+  - Ranger (Gloom Stalker)
+  - Sorcerer
+  - Warlock (Archfey Patron)
+  - Warlock (The Genie, Djinni)
+  - Witch (Purple Magic)
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Seeming
 *5th-level, Illusion*  
 

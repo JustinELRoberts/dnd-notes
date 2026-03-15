@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/corpse-florist
-- ttrpg-cli/spell/subclass/the-genie/dao
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Rebirth)
-- Necromancer (Corpse Florist)
-- Ranger
-- Warlock (The Genie, Dao)
+publish: true
 aliases:
-- "Spike Growth"
+  - Spike Growth
+created: 2026-03-09T12:15:33.808-04:00
+modified: 2026-03-09T12:15:33.808-04:00
+published: 2026-03-09T12:15:33.808-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/corpse-florist
+  - ttrpg-cli/spell/subclass/the-genie/dao
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Necromancer (Corpse Florist)
+  - Ranger
+  - Warlock (The Genie, Dao)
 ---
+
 # Spike Growth
 *2nd-level, Transmutation*  
 

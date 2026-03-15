@@ -1,36 +1,41 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-detection
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/burden-of-truth
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/draconic-sorcery
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Bard
-- Cleric
-- Martyr (Burden of Ascension)
-- Martyr (Burden of Truth)
-- Paladin (Oath of Glory)
-- Sorcerer (Divine Soul, Good)
-- Sorcerer (Draconic Sorcery)
-- Witch (Tea Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Legend Lore"
+  - Legend Lore
+created: 2026-03-09T12:15:33.845-04:00
+modified: 2026-03-09T12:15:33.845-04:00
+published: 2026-03-09T12:15:33.845-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-detection
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/burden-of-truth
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/draconic-sorcery
+  - ttrpg-cli/spell/subclass/oath-of-glory
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Martyr (Burden of Ascension)
+  - Martyr (Burden of Truth)
+  - Paladin (Oath of Glory)
+  - Sorcerer (Divine Soul, Good)
+  - Sorcerer (Draconic Sorcery)
+  - Witch (Tea Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Legend Lore
 *5th-level, Divination*  
 

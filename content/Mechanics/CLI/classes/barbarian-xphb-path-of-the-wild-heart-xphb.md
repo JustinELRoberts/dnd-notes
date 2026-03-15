@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/barbarian/wild-heart
+publish: true
 aliases:
-- "Path of the Wild Heart"
+  - Path of the Wild Heart
+created: 2026-03-09T12:15:33.879-04:00
+modified: 2026-03-09T12:15:33.880-04:00
+published: 2026-03-09T12:15:33.880-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/barbarian/wild-heart
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Path of the Wild Heart
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 55*  

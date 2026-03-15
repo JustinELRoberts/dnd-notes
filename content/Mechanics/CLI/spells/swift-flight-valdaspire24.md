@@ -1,25 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Martyr
-- Sorcerer
-- Warmage (House of Bishops)
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Swift Flight"
+  - Swift Flight
+created: 2026-03-09T12:15:33.968-04:00
+modified: 2026-03-09T12:15:33.968-04:00
+published: 2026-03-09T12:15:33.968-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Martyr
+  - Sorcerer
+  - Warmage (House of Bishops)
+  - Witch
+  - Wizard
 ---
+
 # Swift Flight
 *2nd-level, Transmutation*  
 

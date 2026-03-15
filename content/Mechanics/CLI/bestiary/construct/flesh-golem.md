@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Flesh Golem"
+  - Flesh Golem
+created: 2026-03-09T12:15:33.888-04:00
+modified: 2026-03-09T12:15:33.888-04:00
+published: 2026-03-09T12:15:33.888-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Flesh Golem
 *Source: Monster Manual p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/construct/img/flesh-golem.webp#right)

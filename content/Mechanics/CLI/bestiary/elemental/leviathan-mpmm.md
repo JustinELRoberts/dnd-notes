@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Leviathan"
+  - Leviathan
+created: 2026-03-09T12:15:34.013-04:00
+modified: 2026-03-09T12:15:34.013-04:00
+published: 2026-03-09T12:15:34.013-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/20
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Leviathan
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 171*  
 ![](Mechanics/CLI/bestiary/elemental/img/leviathan.webp#right)

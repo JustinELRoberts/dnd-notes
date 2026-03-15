@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Frost Brand"
-- "Frost Brand Double-Bladed Scimitar"
-- "Frost Brand Greatsword"
-- "Frost Brand Longsword"
-- "Frost Brand Rapier"
-- "Frost Brand Scimitar"
-- "Frost Brand Shortsword"
+  - Frost Brand
+  - Frost Brand Double-Bladed Scimitar
+  - Frost Brand Greatsword
+  - Frost Brand Longsword
+  - Frost Brand Rapier
+  - Frost Brand Scimitar
+  - Frost Brand Shortsword
+created: 2026-03-09T12:15:33.981-04:00
+modified: 2026-03-09T12:15:33.981-04:00
+published: 2026-03-09T12:15:33.981-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Frost Brand
 *Major, very rare (requires attunement)*  
 ![Frost Brand (Scimitar)](Mechanics/CLI/items/img/frost-brand.webp#right)

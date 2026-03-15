@@ -1,34 +1,39 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/battle-smith
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/burden-of-revolution
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/order-domain
-- ttrpg-cli/spell/subclass/peace-domain
-- ttrpg-cli/spell/subclass/steel-magic
-classes:
-- Artificer (Battle Smith)
-- Bard
-- Cleric (Order Domain)
-- Cleric (Peace Domain)
-- Martyr (Burden of Ascension)
-- Martyr (Burden of Revolution)
-- Paladin
-- Paladin (Oath of Glory)
-- Witch (Steel Magic)
+publish: true
 aliases:
-- "Heroism"
+  - Heroism
+created: 2026-03-09T12:15:34.051-04:00
+modified: 2026-03-09T12:15:34.052-04:00
+published: 2026-03-09T12:15:34.052-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/battle-smith
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+  - ttrpg-cli/spell/subclass/oath-of-glory
+  - ttrpg-cli/spell/subclass/order-domain
+  - ttrpg-cli/spell/subclass/peace-domain
+  - ttrpg-cli/spell/subclass/steel-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric (Order Domain)
+  - Cleric (Peace Domain)
+  - Martyr (Burden of Ascension)
+  - Martyr (Burden of Revolution)
+  - Paladin
+  - Paladin (Oath of Glory)
+  - Witch (Steel Magic)
 ---
+
 # Heroism
 *1st-level, Enchantment*  
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Owning a Ship; Airborne and Waterborne Vehicles"
+  - Owning a Ship; Airborne and Waterborne Vehicles
+created: 2026-03-09T12:15:34.391-04:00
+modified: 2026-03-09T12:15:34.391-04:00
+published: 2026-03-09T12:15:34.391-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Owning a Ship; Airborne and Waterborne Vehicles
 *Source: Dungeon Master's Guide p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

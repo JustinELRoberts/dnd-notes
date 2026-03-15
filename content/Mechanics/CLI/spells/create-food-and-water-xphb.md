@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/mark-of-hospitality
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/gingerbread-magic
-- ttrpg-cli/spell/subclass/the-genie/dao
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Paladin
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Genie, Dao)
-- Witch (Gingerbread Magic)
+publish: true
 aliases:
-- "Create Food and Water"
+  - Create Food and Water
+created: 2026-03-09T12:15:34.017-04:00
+modified: 2026-03-09T12:15:34.017-04:00
+published: 2026-03-09T12:15:34.017-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/mark-of-hospitality
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/gingerbread-magic
+  - ttrpg-cli/spell/subclass/the-genie/dao
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
+  - Witch (Gingerbread Magic)
 ---
+
 # Create Food and Water
 *3rd-level, Conjuration*  
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Downtime Activity: Carousing"
+  - "Downtime Activity: Carousing"
+created: 2026-03-09T12:15:34.474-04:00
+modified: 2026-03-09T12:15:34.474-04:00
+published: 2026-03-09T12:15:34.474-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Downtime Activity: Carousing
 *Source: Xanathar's Guide to Everything p. 127* 
 

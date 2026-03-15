@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Undead Spirit (Ghostly)"
+  - Undead Spirit (Ghostly)
+created: 2026-03-09T12:15:34.001-04:00
+modified: 2026-03-09T12:15:34.001-04:00
+published: 2026-03-09T12:15:34.001-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Undead Spirit (Ghostly)
 *Source: Player's Handbook (2024) p. 328*  
 

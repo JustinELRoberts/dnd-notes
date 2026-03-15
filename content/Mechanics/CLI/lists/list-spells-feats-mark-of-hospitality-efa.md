@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/mark-of-hospitality
+publish: true
 aliases:
-- "Spells for Mark of Hospitality"
+  - Spells for Mark of Hospitality
+created: 2026-03-09T12:15:34.426-04:00
+modified: 2026-03-09T12:15:34.426-04:00
+published: 2026-03-09T12:15:34.426-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/mark-of-hospitality
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Mark of Hospitality
 
 ## 1st Level

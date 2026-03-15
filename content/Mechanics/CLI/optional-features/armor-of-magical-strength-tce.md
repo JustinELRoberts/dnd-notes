@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/optional-feature/ai
+publish: true
 aliases:
-- "Armor of Magical Strength"
+  - Armor of Magical Strength
+created: 2026-03-09T12:15:34.018-04:00
+modified: 2026-03-09T12:15:34.018-04:00
+published: 2026-03-09T12:15:34.018-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/optional-feature/ai
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Armor of Magical Strength 
 
 

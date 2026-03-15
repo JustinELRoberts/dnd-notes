@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Building a Party; Party Makeup"
+  - Building a Party; Party Makeup
+created: 2026-03-09T12:15:34.401-04:00
+modified: 2026-03-09T12:15:34.401-04:00
+published: 2026-03-09T12:15:34.401-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Building a Party; Party Makeup
 *Source: Eberron: Forge of the Artificer p. 68* 
 

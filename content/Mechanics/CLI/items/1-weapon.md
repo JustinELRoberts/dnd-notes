@@ -1,105 +1,110 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "+1 Weapon"
-- "+1 Antimatter Rifle"
-- "+1 Atlatl"
-- "+1 Automatic Pistol"
-- "+1 Automatic Rifle"
-- "+1 Ballista"
-- "+1 Bastard Sword"
-- "+1 Battleaxe"
-- "+1 Blowgun"
-- "+1 Bomb"
-- "+1 Boomerang"
-- "+1 Cestus"
-- "+1 Claw Gauntlet"
-- "+1 Club"
-- "+1 Cutlass"
-- "+1 Dagger"
-- "+1 Dart"
-- "+1 Double-Bladed Scimitar"
-- "+1 Edged Card"
-- "+1 Estoc"
-- "+1 Fishhook"
-- "+1 Flail"
-- "+1 Glaive"
-- "+1 Greataxe"
-- "+1 Greatbow"
-- "+1 Greatclub"
-- "+1 Greatsword"
-- "+1 Grim Scythe"
-- "+1 Halberd"
-- "+1 Hand Crossbow"
-- "+1 Handaxe"
-- "+1 Heavy Crossbow"
-- "+1 Hooked Hammer"
-- "+1 Hooked Shortspear"
-- "+1 Hoopak"
-- "+1 Hunting Rifle"
-- "+1 Javelin"
-- "+1 Katana"
-- "+1 Khopesh"
-- "+1 Lance"
-- "+1 Laser Pistol"
-- "+1 Laser Rifle"
-- "+1 Light Crossbow"
-- "+1 Light Hammer"
-- "+1 Light Repeating Crossbow"
-- "+1 Longbow"
-- "+1 Longsword"
-- "+1 Mace"
-- "+1 Machete"
-- "+1 Maul"
-- "+1 Meteor Chain"
-- "+1 Morningstar"
-- "+1 Musket"
-- "+1 Naginata"
-- "+1 Nunchaku"
-- "+1 Parrying Dagger"
-- "+1 Pickaxe"
-- "+1 Pike"
-- "+1 Pistol"
-- "+1 Punching Dagger"
-- "+1 Quarterstaff"
-- "+1 Rapier"
-- "+1 Repeating Crossbow"
-- "+1 Revolver"
-- "+1 Sai"
-- "+1 Scimitar"
-- "+1 Scorpion on a Stick"
-- "+1 Scourge"
-- "+1 Shortbow"
-- "+1 Shortsword"
-- "+1 Shotgun"
-- "+1 Shovel"
-- "+1 Sickle"
-- "+1 Sling"
-- "+1 Spear"
-- "+1 Spiked Chain"
-- "+1 Throwing Dagger"
-- "+1 Tonfa"
-- "+1 Trident"
-- "+1 Volley Crossbow"
-- "+1 War Pick"
-- "+1 Warhammer"
-- "+1 Whip"
-- "+1 Yklwa"
+  - +1 Weapon
+  - +1 Antimatter Rifle
+  - +1 Atlatl
+  - +1 Automatic Pistol
+  - +1 Automatic Rifle
+  - +1 Ballista
+  - +1 Bastard Sword
+  - +1 Battleaxe
+  - +1 Blowgun
+  - +1 Bomb
+  - +1 Boomerang
+  - +1 Cestus
+  - +1 Claw Gauntlet
+  - +1 Club
+  - +1 Cutlass
+  - +1 Dagger
+  - +1 Dart
+  - +1 Double-Bladed Scimitar
+  - +1 Edged Card
+  - +1 Estoc
+  - +1 Fishhook
+  - +1 Flail
+  - +1 Glaive
+  - +1 Greataxe
+  - +1 Greatbow
+  - +1 Greatclub
+  - +1 Greatsword
+  - +1 Grim Scythe
+  - +1 Halberd
+  - +1 Hand Crossbow
+  - +1 Handaxe
+  - +1 Heavy Crossbow
+  - +1 Hooked Hammer
+  - +1 Hooked Shortspear
+  - +1 Hoopak
+  - +1 Hunting Rifle
+  - +1 Javelin
+  - +1 Katana
+  - +1 Khopesh
+  - +1 Lance
+  - +1 Laser Pistol
+  - +1 Laser Rifle
+  - +1 Light Crossbow
+  - +1 Light Hammer
+  - +1 Light Repeating Crossbow
+  - +1 Longbow
+  - +1 Longsword
+  - +1 Mace
+  - +1 Machete
+  - +1 Maul
+  - +1 Meteor Chain
+  - +1 Morningstar
+  - +1 Musket
+  - +1 Naginata
+  - +1 Nunchaku
+  - +1 Parrying Dagger
+  - +1 Pickaxe
+  - +1 Pike
+  - +1 Pistol
+  - +1 Punching Dagger
+  - +1 Quarterstaff
+  - +1 Rapier
+  - +1 Repeating Crossbow
+  - +1 Revolver
+  - +1 Sai
+  - +1 Scimitar
+  - +1 Scorpion on a Stick
+  - +1 Scourge
+  - +1 Shortbow
+  - +1 Shortsword
+  - +1 Shotgun
+  - +1 Shovel
+  - +1 Sickle
+  - +1 Sling
+  - +1 Spear
+  - +1 Spiked Chain
+  - +1 Throwing Dagger
+  - +1 Tonfa
+  - +1 Trident
+  - +1 Volley Crossbow
+  - +1 War Pick
+  - +1 Warhammer
+  - +1 Whip
+  - +1 Yklwa
+created: 2026-03-09T12:15:33.993-04:00
+modified: 2026-03-09T12:15:33.993-04:00
+published: 2026-03-09T12:15:33.993-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/age/renaissance
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +1 Weapon
 *Major, uncommon*  
 

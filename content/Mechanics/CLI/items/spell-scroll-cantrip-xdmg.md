@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/scroll
+publish: true
 aliases:
-- "Spell Scroll (Cantrip)"
+  - Spell Scroll (Cantrip)
+created: 2026-03-09T12:15:33.947-04:00
+modified: 2026-03-09T12:15:33.947-04:00
+published: 2026-03-09T12:15:33.947-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/wondrous/scroll
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Spell Scroll (Cantrip)
 *Scroll, common*  
 ![](Mechanics/CLI/items/img/spell-scroll.webp#right)

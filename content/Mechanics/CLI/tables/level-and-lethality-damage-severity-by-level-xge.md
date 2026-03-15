@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Level and Lethality; Damage Severity by Level"
+  - Level and Lethality; Damage Severity by Level
+created: 2026-03-09T12:15:34.382-04:00
+modified: 2026-03-09T12:15:34.382-04:00
+published: 2026-03-09T12:15:34.382-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Level and Lethality; Damage Severity by Level
 *Source: Xanathar's Guide to Everything p. 116* 
 

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Dao (Wishes)"
+  - Dao (Wishes)
+created: 2026-03-09T12:15:34.018-04:00
+modified: 2026-03-09T12:15:34.018-04:00
+published: 2026-03-09T12:15:34.018-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dao (Wishes)
 *Source: Monster Manual p. 143*  
 

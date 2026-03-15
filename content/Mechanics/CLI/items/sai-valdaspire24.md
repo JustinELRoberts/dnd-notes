@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Sai"
+  - Sai
+created: 2026-03-09T12:15:34.033-04:00
+modified: 2026-03-09T12:15:34.033-04:00
+published: 2026-03-09T12:15:34.033-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/item/rarity/none
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Sai
 *Weapon*  
 

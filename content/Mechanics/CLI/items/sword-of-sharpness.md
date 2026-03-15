@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Sword of Sharpness"
-- "Double-Bladed Scimitar of Sharpness"
-- "Greatsword of Sharpness"
-- "Longsword of Sharpness"
-- "Scimitar of Sharpness"
+  - Sword of Sharpness
+  - Double-Bladed Scimitar of Sharpness
+  - Greatsword of Sharpness
+  - Longsword of Sharpness
+  - Scimitar of Sharpness
+created: 2026-03-09T12:15:33.929-04:00
+modified: 2026-03-09T12:15:33.929-04:00
+published: 2026-03-09T12:15:33.929-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Sword of Sharpness
 *Major, very rare (requires attunement)*  
 ![Sword of Sharpness (Greatsword)](Mechanics/CLI/items/img/sword-of-sharpness.webp#right)

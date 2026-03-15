@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/mark-of-warding
+publish: true
 aliases:
-- "Spells for Mark of Warding"
+  - Spells for Mark of Warding
+created: 2026-03-09T12:15:34.427-04:00
+modified: 2026-03-09T12:15:34.427-04:00
+published: 2026-03-09T12:15:34.427-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/mark-of-warding
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Mark of Warding
 
 ## 1st Level

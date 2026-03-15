@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Yeenoghu"
+  - Yeenoghu
+created: 2026-03-09T12:15:33.874-04:00
+modified: 2026-03-09T12:15:33.874-04:00
+published: 2026-03-09T12:15:33.874-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/24
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Yeenoghu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 270*  
 ![](Mechanics/CLI/bestiary/npc/img/yeenoghu.webp#right)

@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/evocation
-classes:
-- Warlock
-- Witch
+publish: true
 aliases:
-- "Shriek"
+  - Shriek
+created: 2026-03-09T12:15:33.904-04:00
+modified: 2026-03-09T12:15:33.904-04:00
+published: 2026-03-09T12:15:33.904-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/evocation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Warlock
+  - Witch
 ---
+
 # Shriek
 *cantrip, Evocation*  
 

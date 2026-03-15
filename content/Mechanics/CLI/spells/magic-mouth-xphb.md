@@ -1,33 +1,38 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-scribing
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/illusionist
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Magic Mouth"
+  - Magic Mouth
+created: 2026-03-09T12:15:33.960-04:00
+modified: 2026-03-09T12:15:33.960-04:00
+published: 2026-03-09T12:15:33.960-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-scribing
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/illusionist
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Magic Mouth
 *2nd-level, Illusion (ritual)*  
 

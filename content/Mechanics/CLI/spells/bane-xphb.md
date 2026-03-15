@@ -1,35 +1,40 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/chaos
-- ttrpg-cli/spell/subclass/grave-domain
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-- ttrpg-cli/spell/subclass/overlord
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Grave Domain)
-- Martyr (Burden of Tyranny)
-- Necromancer (Overlord)
-- Paladin (Oath of Vengeance)
-- Sorcerer (Divine Soul, Chaos)
-- Warlock
+publish: true
 aliases:
-- "Bane"
+  - Bane
+created: 2026-03-09T12:15:33.830-04:00
+modified: 2026-03-09T12:15:33.830-04:00
+published: 2026-03-09T12:15:33.830-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/chaos
+  - ttrpg-cli/spell/subclass/grave-domain
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+  - ttrpg-cli/spell/subclass/overlord
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Grave Domain)
+  - Martyr (Burden of Tyranny)
+  - Necromancer (Overlord)
+  - Paladin (Oath of Vengeance)
+  - Sorcerer (Divine Soul, Chaos)
+  - Warlock
 ---
+
 # Bane
 *1st-level, Enchantment*  
 

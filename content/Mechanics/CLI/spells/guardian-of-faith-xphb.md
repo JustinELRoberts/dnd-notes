@@ -1,28 +1,33 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/mark-of-sentinel
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/white-magic
-classes:
-- Bard
-- Cleric
-- Paladin (Oath of Devotion)
-- Sorcerer (Divine Soul, Good)
-- Warlock (Celestial Patron)
-- Witch (White Magic)
+publish: true
 aliases:
-- "Guardian of Faith"
+  - Guardian of Faith
+created: 2026-03-09T12:15:33.855-04:00
+modified: 2026-03-09T12:15:33.855-04:00
+published: 2026-03-09T12:15:33.855-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/mark-of-sentinel
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/celestial-patron
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/oath-of-devotion
+  - ttrpg-cli/spell/subclass/white-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
+  - Witch (White Magic)
 ---
+
 # Guardian of Faith
 *4th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/guardian-of-faith.webp#right)

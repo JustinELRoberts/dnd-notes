@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Guild Representative Roles"
+  - Guild Representative Roles
+created: 2026-03-09T12:15:34.413-04:00
+modified: 2026-03-09T12:15:34.413-04:00
+published: 2026-03-09T12:15:34.413-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Guild Representative Roles
 *Source: Tasha's Cauldron of Everything p. 95* 
 

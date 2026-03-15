@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/genasi
+publish: true
 aliases:
-- "Genasi"
+  - Genasi
+created: 2026-03-09T12:15:34.033-04:00
+modified: 2026-03-09T12:15:34.033-04:00
+published: 2026-03-09T12:15:34.033-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/genasi
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Genasi
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 16*  
 ![](Mechanics/CLI/races/img/genasi.webp#right)

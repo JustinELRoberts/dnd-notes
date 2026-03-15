@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Giant Rat"
+  - Giant Rat
+created: 2026-03-09T12:15:33.882-04:00
+modified: 2026-03-09T12:15:33.882-04:00
+published: 2026-03-09T12:15:33.882-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Giant Rat
 *Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/beast/img/giant-rat.webp#center)

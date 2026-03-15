@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Gem of Brightness"
+  - Gem of Brightness
+created: 2026-03-09T12:15:34.132-04:00
+modified: 2026-03-09T12:15:34.132-04:00
+published: 2026-03-09T12:15:34.132-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Gem of Brightness
 *Wondrous item, major, uncommon*  
 ![](Mechanics/CLI/items/img/gem-of-brightness.webp#right)

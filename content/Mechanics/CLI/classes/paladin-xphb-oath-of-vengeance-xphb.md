@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/paladin/vengeance
+publish: true
 aliases:
-- "Oath of Vengeance"
+  - Oath of Vengeance
+created: 2026-03-09T12:15:34.100-04:00
+modified: 2026-03-09T12:15:34.100-04:00
+published: 2026-03-09T12:15:34.100-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/paladin/vengeance
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Oath of Vengeance
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Player's Handbook (2024) p. 116*  

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Charlatan"
+  - Charlatan
+created: 2026-03-09T12:15:33.888-04:00
+modified: 2026-03-09T12:15:33.888-04:00
+published: 2026-03-09T12:15:33.888-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # Charlatan
 *Source: Player's Handbook (2024) p. 180*  
 ![](Mechanics/CLI/backgrounds/img/charlatan.webp#right)

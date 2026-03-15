@@ -1,105 +1,110 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Vicious Weapon"
-- "Vicious Antimatter Rifle"
-- "Vicious Atlatl"
-- "Vicious Automatic Pistol"
-- "Vicious Automatic Rifle"
-- "Vicious Ballista"
-- "Vicious Bastard Sword"
-- "Vicious Battleaxe"
-- "Vicious Blowgun"
-- "Vicious Bomb"
-- "Vicious Boomerang"
-- "Vicious Cestus"
-- "Vicious Claw Gauntlet"
-- "Vicious Club"
-- "Vicious Cutlass"
-- "Vicious Dagger"
-- "Vicious Dart"
-- "Vicious Double-Bladed Scimitar"
-- "Vicious Edged Card"
-- "Vicious Estoc"
-- "Vicious Fishhook"
-- "Vicious Flail"
-- "Vicious Glaive"
-- "Vicious Greataxe"
-- "Vicious Greatbow"
-- "Vicious Greatclub"
-- "Vicious Greatsword"
-- "Vicious Grim Scythe"
-- "Vicious Halberd"
-- "Vicious Hand Crossbow"
-- "Vicious Handaxe"
-- "Vicious Heavy Crossbow"
-- "Vicious Hooked Hammer"
-- "Vicious Hooked Shortspear"
-- "Vicious Hoopak"
-- "Vicious Hunting Rifle"
-- "Vicious Javelin"
-- "Vicious Katana"
-- "Vicious Khopesh"
-- "Vicious Lance"
-- "Vicious Laser Pistol"
-- "Vicious Laser Rifle"
-- "Vicious Light Crossbow"
-- "Vicious Light Hammer"
-- "Vicious Light Repeating Crossbow"
-- "Vicious Longbow"
-- "Vicious Longsword"
-- "Vicious Mace"
-- "Vicious Machete"
-- "Vicious Maul"
-- "Vicious Meteor Chain"
-- "Vicious Morningstar"
-- "Vicious Musket"
-- "Vicious Naginata"
-- "Vicious Nunchaku"
-- "Vicious Parrying Dagger"
-- "Vicious Pickaxe"
-- "Vicious Pike"
-- "Vicious Pistol"
-- "Vicious Punching Dagger"
-- "Vicious Quarterstaff"
-- "Vicious Rapier"
-- "Vicious Repeating Crossbow"
-- "Vicious Revolver"
-- "Vicious Sai"
-- "Vicious Scimitar"
-- "Vicious Scorpion on a Stick"
-- "Vicious Scourge"
-- "Vicious Shortbow"
-- "Vicious Shortsword"
-- "Vicious Shotgun"
-- "Vicious Shovel"
-- "Vicious Sickle"
-- "Vicious Sling"
-- "Vicious Spear"
-- "Vicious Spiked Chain"
-- "Vicious Throwing Dagger"
-- "Vicious Tonfa"
-- "Vicious Trident"
-- "Vicious Volley Crossbow"
-- "Vicious War Pick"
-- "Vicious Warhammer"
-- "Vicious Whip"
-- "Vicious Yklwa"
+  - Vicious Weapon
+  - Vicious Antimatter Rifle
+  - Vicious Atlatl
+  - Vicious Automatic Pistol
+  - Vicious Automatic Rifle
+  - Vicious Ballista
+  - Vicious Bastard Sword
+  - Vicious Battleaxe
+  - Vicious Blowgun
+  - Vicious Bomb
+  - Vicious Boomerang
+  - Vicious Cestus
+  - Vicious Claw Gauntlet
+  - Vicious Club
+  - Vicious Cutlass
+  - Vicious Dagger
+  - Vicious Dart
+  - Vicious Double-Bladed Scimitar
+  - Vicious Edged Card
+  - Vicious Estoc
+  - Vicious Fishhook
+  - Vicious Flail
+  - Vicious Glaive
+  - Vicious Greataxe
+  - Vicious Greatbow
+  - Vicious Greatclub
+  - Vicious Greatsword
+  - Vicious Grim Scythe
+  - Vicious Halberd
+  - Vicious Hand Crossbow
+  - Vicious Handaxe
+  - Vicious Heavy Crossbow
+  - Vicious Hooked Hammer
+  - Vicious Hooked Shortspear
+  - Vicious Hoopak
+  - Vicious Hunting Rifle
+  - Vicious Javelin
+  - Vicious Katana
+  - Vicious Khopesh
+  - Vicious Lance
+  - Vicious Laser Pistol
+  - Vicious Laser Rifle
+  - Vicious Light Crossbow
+  - Vicious Light Hammer
+  - Vicious Light Repeating Crossbow
+  - Vicious Longbow
+  - Vicious Longsword
+  - Vicious Mace
+  - Vicious Machete
+  - Vicious Maul
+  - Vicious Meteor Chain
+  - Vicious Morningstar
+  - Vicious Musket
+  - Vicious Naginata
+  - Vicious Nunchaku
+  - Vicious Parrying Dagger
+  - Vicious Pickaxe
+  - Vicious Pike
+  - Vicious Pistol
+  - Vicious Punching Dagger
+  - Vicious Quarterstaff
+  - Vicious Rapier
+  - Vicious Repeating Crossbow
+  - Vicious Revolver
+  - Vicious Sai
+  - Vicious Scimitar
+  - Vicious Scorpion on a Stick
+  - Vicious Scourge
+  - Vicious Shortbow
+  - Vicious Shortsword
+  - Vicious Shotgun
+  - Vicious Shovel
+  - Vicious Sickle
+  - Vicious Sling
+  - Vicious Spear
+  - Vicious Spiked Chain
+  - Vicious Throwing Dagger
+  - Vicious Tonfa
+  - Vicious Trident
+  - Vicious Volley Crossbow
+  - Vicious War Pick
+  - Vicious Warhammer
+  - Vicious Whip
+  - Vicious Yklwa
+created: 2026-03-09T12:15:33.966-04:00
+modified: 2026-03-09T12:15:33.966-04:00
+published: 2026-03-09T12:15:33.966-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/age/renaissance
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Vicious Weapon
 *Major, rare*  
 ![Vicious Weapon (Rapier)](Mechanics/CLI/items/img/vicious-weapon.webp#right)

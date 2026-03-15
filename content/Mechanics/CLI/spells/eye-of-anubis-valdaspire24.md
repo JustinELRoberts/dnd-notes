@@ -1,28 +1,33 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/death-domain
-classes:
-- Bard (College of Lore)
-- Cleric
-- Cleric (Death Domain)
-- Necromancer
-- Witch
+publish: true
 aliases:
-- "Eye of Anubis"
+  - Eye of Anubis
+created: 2026-03-09T12:15:33.856-04:00
+modified: 2026-03-09T12:15:33.856-04:00
+published: 2026-03-09T12:15:33.856-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/death-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Death Domain)
+  - Necromancer
+  - Witch
 ---
+
 # Eye of Anubis
 *cantrip, Necromancy*  
 

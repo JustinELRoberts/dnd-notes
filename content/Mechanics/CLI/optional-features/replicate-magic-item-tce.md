@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/optional-feature/ai
+publish: true
 aliases:
-- "Replicate Magic Item"
+  - Replicate Magic Item
+created: 2026-03-09T12:15:34.041-04:00
+modified: 2026-03-09T12:15:34.041-04:00
+published: 2026-03-09T12:15:34.041-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/optional-feature/ai
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Replicate Magic Item 
 
 

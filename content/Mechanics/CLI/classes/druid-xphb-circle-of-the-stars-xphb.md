@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/druid/stars
+publish: true
 aliases:
-- "Circle of the Stars"
+  - Circle of the Stars
+created: 2026-03-09T12:15:33.928-04:00
+modified: 2026-03-09T12:15:33.928-04:00
+published: 2026-03-09T12:15:33.928-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/druid/stars
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Circle of the Stars
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Player's Handbook (2024) p. 88*  

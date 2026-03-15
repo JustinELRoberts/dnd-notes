@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/orc
+publish: true
 aliases:
-- "Orc Red Fang of Shargaas"
+  - Orc Red Fang of Shargaas
+created: 2026-03-09T12:15:33.884-04:00
+modified: 2026-03-09T12:15:33.884-04:00
+published: 2026-03-09T12:15:33.884-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/orc
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Orc Red Fang of Shargaas
 *Source: Volo's Guide to Monsters p. 185*  
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-red-fang-of-shargaas.webp#right)

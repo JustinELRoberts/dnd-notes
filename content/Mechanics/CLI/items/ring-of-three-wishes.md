@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/ring
+publish: true
 aliases:
-- "Ring of Three Wishes"
+  - Ring of Three Wishes
+created: 2026-03-09T12:15:34.060-04:00
+modified: 2026-03-09T12:15:34.060-04:00
+published: 2026-03-09T12:15:34.060-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/ring
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ring of Three Wishes
 *Ring, major, legendary*  
 ![](Mechanics/CLI/items/img/ring-of-three-wishes.webp#right)

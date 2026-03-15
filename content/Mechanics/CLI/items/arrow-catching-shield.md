@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/shield/
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Arrow-Catching Shield"
+  - Arrow-Catching Shield
+created: 2026-03-09T12:15:33.922-04:00
+modified: 2026-03-09T12:15:33.922-04:00
+published: 2026-03-09T12:15:33.922-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/shield/
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Arrow-Catching Shield
 *Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), major, rare (requires attunement)*  
 

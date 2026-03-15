@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/red-magic
-classes:
-- Witch (Red Magic)
+publish: true
 aliases:
-- "Hex: Imperil"
+  - "Hex: Imperil"
+created: 2026-03-09T12:15:33.903-04:00
+modified: 2026-03-09T12:15:33.903-04:00
+published: 2026-03-09T12:15:33.903-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/red-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Witch (Red Magic)
 ---
+
 # Hex: Imperil
 *cantrip, Transmutation*  
 

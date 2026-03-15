@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/evoker
-classes:
-- Bard
-- Sorcerer
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Meteor Swarm"
+  - Meteor Swarm
+created: 2026-03-09T12:15:33.965-04:00
+modified: 2026-03-09T12:15:33.965-04:00
+published: 2026-03-09T12:15:33.965-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/9th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/evoker
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Meteor Swarm
 *9th-level, Evocation*  
 

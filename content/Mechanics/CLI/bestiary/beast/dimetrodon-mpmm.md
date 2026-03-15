@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast/dinosaur
+publish: true
 aliases:
-- "Dimetrodon"
+  - Dimetrodon
+created: 2026-03-09T12:15:34.136-04:00
+modified: 2026-03-09T12:15:34.136-04:00
+published: 2026-03-09T12:15:34.136-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/beast/dinosaur
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dimetrodon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 

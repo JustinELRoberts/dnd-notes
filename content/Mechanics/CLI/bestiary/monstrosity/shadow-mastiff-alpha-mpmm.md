@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Shadow Mastiff Alpha"
+  - Shadow Mastiff Alpha
+created: 2026-03-09T12:15:33.941-04:00
+modified: 2026-03-09T12:15:33.941-04:00
+published: 2026-03-09T12:15:33.941-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Shadow Mastiff Alpha
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 

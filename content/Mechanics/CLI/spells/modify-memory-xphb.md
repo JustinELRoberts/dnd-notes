@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/blood-ascendent
-- ttrpg-cli/spell/subclass/burden-of-anonymity
-- ttrpg-cli/spell/subclass/burden-of-levity
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/purple-magic
-- ttrpg-cli/spell/subclass/trickery-domain
-classes:
-- Bard
-- Cleric (Trickery Domain)
-- Martyr (Burden of Anonymity)
-- Martyr (Burden of Levity)
-- Necromancer (Blood Ascendent)
-- Warlock (Great Old One Patron)
-- Witch (Purple Magic)
-- Wizard
+publish: true
 aliases:
-- "Modify Memory"
+  - Modify Memory
+created: 2026-03-09T12:15:33.796-04:00
+modified: 2026-03-09T12:15:33.796-04:00
+published: 2026-03-09T12:15:33.796-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/blood-ascendent
+  - ttrpg-cli/spell/subclass/burden-of-anonymity
+  - ttrpg-cli/spell/subclass/burden-of-levity
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+  - ttrpg-cli/spell/subclass/purple-magic
+  - ttrpg-cli/spell/subclass/trickery-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (Trickery Domain)
+  - Martyr (Burden of Anonymity)
+  - Martyr (Burden of Levity)
+  - Necromancer (Blood Ascendent)
+  - Warlock (Great Old One Patron)
+  - Witch (Purple Magic)
+  - Wizard
 ---
+
 # Modify Memory
 *5th-level, Enchantment*  
 

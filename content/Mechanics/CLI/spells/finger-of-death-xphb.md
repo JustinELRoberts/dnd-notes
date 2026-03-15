@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Bard
-- Sorcerer
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Finger of Death"
+  - Finger of Death
+created: 2026-03-09T12:15:34.089-04:00
+modified: 2026-03-09T12:15:34.089-04:00
+published: 2026-03-09T12:15:34.089-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 ---
+
 # Finger of Death
 *7th-level, Necromancy*  
 

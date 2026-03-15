@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Star Spawn Seer"
+  - Star Spawn Seer
+created: 2026-03-09T12:15:34.095-04:00
+modified: 2026-03-09T12:15:34.095-04:00
+published: 2026-03-09T12:15:34.095-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/13
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Star Spawn Seer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 230*  
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-seer.webp#right)

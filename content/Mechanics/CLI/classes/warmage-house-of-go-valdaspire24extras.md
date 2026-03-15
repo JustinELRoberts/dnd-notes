@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/subclass/warmage/go
+publish: true
 aliases:
-- "House of Go"
+  - House of Go
+created: 2026-03-09T12:15:34.130-04:00
+modified: 2026-03-09T12:15:34.130-04:00
+published: 2026-03-09T12:15:34.130-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/subclass/warmage/go
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # House of Go
 *[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets Extras (2024)*  

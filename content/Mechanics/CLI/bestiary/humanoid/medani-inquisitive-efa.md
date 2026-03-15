@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid/khoravar
+publish: true
 aliases:
-- "Medani Inquisitive"
+  - Medani Inquisitive
+created: 2026-03-09T12:15:33.930-04:00
+modified: 2026-03-09T12:15:33.930-04:00
+published: 2026-03-09T12:15:33.930-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/humanoid/khoravar
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Medani Inquisitive
 *Source: Eberron: Forge of the Artificer p. 82*  
 ![](Mechanics/CLI/bestiary/humanoid/img/medani-inquisitive.webp#right)

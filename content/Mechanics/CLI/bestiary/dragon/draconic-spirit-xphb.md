@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Draconic Spirit"
+  - Draconic Spirit
+created: 2026-03-09T12:15:33.953-04:00
+modified: 2026-03-09T12:15:33.953-04:00
+published: 2026-03-09T12:15:33.953-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Draconic Spirit
 *Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/draconic-spirit.webp#center)

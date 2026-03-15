@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/sorcerer/shadow
+publish: true
 aliases:
-- "Shadow Magic"
+  - Shadow Magic
+created: 2026-03-09T12:15:34.025-04:00
+modified: 2026-03-09T12:15:34.025-04:00
+published: 2026-03-09T12:15:34.025-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/sorcerer/shadow
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Shadow Magic
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Xanathar's Guide to Everything p. 50*  

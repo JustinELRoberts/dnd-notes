@@ -1,38 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/light-domain
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Light Domain)
-- Druid
-- Paladin
-- Ranger
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warden (Drake-Blooded)
-- Warlock (Celestial Patron)
+publish: true
 aliases:
-- "Daylight"
+  - Daylight
+created: 2026-03-09T12:15:33.870-04:00
+modified: 2026-03-09T12:15:33.870-04:00
+published: 2026-03-09T12:15:33.870-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/celestial-patron
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/light-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Light Domain)
+  - Druid
+  - Paladin
+  - Ranger
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warden (Drake-Blooded)
+  - Warlock (Celestial Patron)
 ---
+
 # Daylight
 *3rd-level, Evocation*  
 ![](Mechanics/CLI/spells/img/daylight.webp#right)

@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/feywild
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fey
+publish: true
 aliases:
-- "Sprite"
+  - Sprite
+created: 2026-03-09T12:15:34.133-04:00
+modified: 2026-03-09T12:15:34.133-04:00
+published: 2026-03-09T12:15:34.133-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/feywild
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/fey
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Sprite
 *Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/bestiary/fey/img/sprite.webp#right)

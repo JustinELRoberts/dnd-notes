@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/burden-of-revolution
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/monster-slayer
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/oath-of-the-watchers
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-- ttrpg-cli/spell/subclass/war-domain
-classes:
-- Bard
-- Cleric (War Domain)
-- Druid (Circle of the Sea)
-- Martyr (Burden of Ascension)
-- Martyr (Burden of Revolution)
-- Martyr (Burden of Tyranny)
-- Paladin (Oath of Redemption)
-- Paladin (Oath of Vengeance)
-- Paladin (Oath of the Watchers)
-- Ranger (Monster Slayer)
-- Sorcerer
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Hold Monster"
+  - Hold Monster
+created: 2026-03-09T12:15:34.129-04:00
+modified: 2026-03-09T12:15:34.129-04:00
+published: 2026-03-09T12:15:34.129-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+  - ttrpg-cli/spell/subclass/monster-slayer
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/oath-of-the-watchers
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+  - ttrpg-cli/spell/subclass/war-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (War Domain)
+  - Druid (Circle of the Sea)
+  - Martyr (Burden of Ascension)
+  - Martyr (Burden of Revolution)
+  - Martyr (Burden of Tyranny)
+  - Paladin (Oath of Redemption)
+  - Paladin (Oath of Vengeance)
+  - Paladin (Oath of the Watchers)
+  - Ranger (Monster Slayer)
+  - Sorcerer
+  - Warlock
+  - Wizard
 ---
+
 # Hold Monster
 *5th-level, Enchantment*  
 

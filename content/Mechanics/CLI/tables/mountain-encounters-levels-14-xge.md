@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Mountain Encounters (Levels 1—4)"
+  - Mountain Encounters (Levels 1—4)
+created: 2026-03-09T12:15:34.389-04:00
+modified: 2026-03-09T12:15:34.389-04:00
+published: 2026-03-09T12:15:34.389-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Mountain Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 104* 
 

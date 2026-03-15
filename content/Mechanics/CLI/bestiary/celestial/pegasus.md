@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+publish: true
 aliases:
-- "Pegasus"
+  - Pegasus
+created: 2026-03-09T12:15:33.982-04:00
+modified: 2026-03-09T12:15:33.982-04:00
+published: 2026-03-09T12:15:33.982-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/celestial
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Pegasus
 *Source: Monster Manual p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/celestial/img/pegasus.webp#right)

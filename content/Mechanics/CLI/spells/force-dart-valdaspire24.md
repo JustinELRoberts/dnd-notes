@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/warmage
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/evocation
-classes:
-- Warmage
+publish: true
 aliases:
-- "Force Dart"
+  - Force Dart
+created: 2026-03-09T12:15:33.859-04:00
+modified: 2026-03-09T12:15:33.859-04:00
+published: 2026-03-09T12:15:33.859-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/warmage
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/evocation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Warmage
 ---
+
 # Force Dart
 *cantrip, Evocation*  
 

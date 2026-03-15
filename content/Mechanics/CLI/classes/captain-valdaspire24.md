@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/captain
-- ttrpg-cli/compendium/src/5e/valdaspire24
+publish: true
 aliases:
-- "Captain"
+  - Captain
+created: 2026-03-09T12:15:34.138-04:00
+modified: 2026-03-09T12:15:34.138-04:00
+published: 2026-03-09T12:15:34.138-04:00
+tags:
+  - ttrpg-cli/class/captain
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Captain
 *Source: Valda's Spire of Secrets (2024)*  
 

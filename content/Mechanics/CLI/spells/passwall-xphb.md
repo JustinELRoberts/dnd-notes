@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/armorer
-- ttrpg-cli/spell/subclass/burden-of-anonymity
-- ttrpg-cli/spell/subclass/burden-of-discord
-- ttrpg-cli/spell/subclass/burden-of-odyssey
-- ttrpg-cli/spell/subclass/reaper
-classes:
-- Artificer (Armorer)
-- Bard
-- Martyr (Burden of Anonymity)
-- Martyr (Burden of Discord)
-- Martyr (Burden of Odyssey)
-- Necromancer (Reaper)
-- Wizard
+publish: true
 aliases:
-- "Passwall"
+  - Passwall
+created: 2026-03-09T12:15:34.112-04:00
+modified: 2026-03-09T12:15:34.112-04:00
+published: 2026-03-09T12:15:34.112-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/burden-of-anonymity
+  - ttrpg-cli/spell/subclass/burden-of-discord
+  - ttrpg-cli/spell/subclass/burden-of-odyssey
+  - ttrpg-cli/spell/subclass/reaper
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Martyr (Burden of Anonymity)
+  - Martyr (Burden of Discord)
+  - Martyr (Burden of Odyssey)
+  - Necromancer (Reaper)
+  - Wizard
 ---
+
 # Passwall
 *5th-level, Transmutation*  
 

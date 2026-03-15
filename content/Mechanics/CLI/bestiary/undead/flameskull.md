@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Flameskull"
+  - Flameskull
+created: 2026-03-09T12:15:34.007-04:00
+modified: 2026-03-09T12:15:34.007-04:00
+published: 2026-03-09T12:15:34.007-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Flameskull
 *Source: Monster Manual p. 134. Available in the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/undead/img/flameskull.webp#right)

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/object/size/unknown
-- ttrpg-cli/object/type/unknown
+publish: true
 aliases:
-- "Eldritch Cannon, Force Ballista"
+  - Eldritch Cannon, Force Ballista
+created: 2026-03-09T12:15:34.105-04:00
+modified: 2026-03-09T12:15:34.105-04:00
+published: 2026-03-09T12:15:34.105-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/object/size/unknown
+  - ttrpg-cli/object/type/unknown
+cssclasses:
+  - json5e-object
+obsidianUIMode: preview
 ---
+
 # Eldritch Cannon, Force Ballista
 *Source: Tasha's Cauldron of Everything p. 17* 
 

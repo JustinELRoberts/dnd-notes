@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/firbolg
+publish: true
 aliases:
-- "Firbolg"
+  - Firbolg
+created: 2026-03-09T12:15:34.024-04:00
+modified: 2026-03-09T12:15:34.024-04:00
+published: 2026-03-09T12:15:34.024-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/firbolg
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Firbolg
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 15*  
 ![](Mechanics/CLI/races/img/firbolg.webp#right)

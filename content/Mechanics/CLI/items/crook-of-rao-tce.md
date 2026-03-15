@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
+publish: true
 aliases:
-- "Crook of Rao"
+  - Crook of Rao
+created: 2026-03-09T12:15:33.874-04:00
+modified: 2026-03-09T12:15:33.874-04:00
+published: 2026-03-09T12:15:33.874-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Crook of Rao
 *Wondrous item, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/crook-of-rao.webp#right)

@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/orc
+publish: true
 aliases:
-- "Orc Nurtured One of Yurtrus"
+  - Orc Nurtured One of Yurtrus
+created: 2026-03-09T12:15:33.992-04:00
+modified: 2026-03-09T12:15:33.992-04:00
+published: 2026-03-09T12:15:33.992-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/orc
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Orc Nurtured One of Yurtrus
 *Source: Volo's Guide to Monsters p. 184*  
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-nurtured-one-of-yurtrus.webp#right)

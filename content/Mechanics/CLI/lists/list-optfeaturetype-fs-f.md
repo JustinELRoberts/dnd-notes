@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/phb
+publish: true
 aliases:
-- "Fighting Style, Fighter"
+  - Fighting Style, Fighter
+created: 2026-03-09T12:15:34.417-04:00
+modified: 2026-03-09T12:15:34.417-04:00
+published: 2026-03-09T12:15:34.417-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Fighting Style, Fighter
 *Source: Player's Handbook, Xanathar's Guide to Everything p. 15, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 

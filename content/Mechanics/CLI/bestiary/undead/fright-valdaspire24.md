@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/undead/familiar
+publish: true
 aliases:
-- "Fright"
+  - Fright
+created: 2026-03-09T12:15:34.056-04:00
+modified: 2026-03-09T12:15:34.056-04:00
+published: 2026-03-09T12:15:34.056-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/undead/familiar
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Fright
 *Source: Valda's Spire of Secrets (2024) p. 0*  
 

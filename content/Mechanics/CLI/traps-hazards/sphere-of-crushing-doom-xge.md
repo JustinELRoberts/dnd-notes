@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/hazard/cmpx
+publish: true
 aliases:
-- "Sphere of Crushing Doom"
+  - Sphere of Crushing Doom
+created: 2026-03-09T12:15:34.125-04:00
+modified: 2026-03-09T12:15:34.125-04:00
+published: 2026-03-09T12:15:34.125-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/hazard/cmpx
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Sphere of Crushing Doom
 *Generic Hazard*  
 

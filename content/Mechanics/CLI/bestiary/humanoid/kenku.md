@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/kenku
+publish: true
 aliases:
-- "Kenku"
+  - Kenku
+created: 2026-03-09T12:15:34.094-04:00
+modified: 2026-03-09T12:15:34.094-04:00
+published: 2026-03-09T12:15:34.094-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/kenku
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Kenku
 *Source: Monster Manual p. 194*  
 ![](Mechanics/CLI/bestiary/humanoid/img/kenku.webp#right)

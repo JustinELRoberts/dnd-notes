@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+publish: true
 aliases:
-- "Priest"
+  - Priest
+created: 2026-03-09T12:15:33.833-04:00
+modified: 2026-03-09T12:15:33.833-04:00
+published: 2026-03-09T12:15:33.833-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/any-race
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Priest
 *Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+publish: true
 aliases:
-- "Larva"
+  - Larva
+created: 2026-03-09T12:15:34.138-04:00
+modified: 2026-03-09T12:15:34.138-04:00
+published: 2026-03-09T12:15:34.138-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Larva
 *Source: Dungeon Master's Guide p. 63*  
 

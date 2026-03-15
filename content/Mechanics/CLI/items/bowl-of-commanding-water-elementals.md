@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Bowl of Commanding Water Elementals"
+  - Bowl of Commanding Water Elementals
+created: 2026-03-09T12:15:33.813-04:00
+modified: 2026-03-09T12:15:33.813-04:00
+published: 2026-03-09T12:15:33.813-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Bowl of Commanding Water Elementals
 *Wondrous item, major, rare*  
 ![](Mechanics/CLI/items/img/bowl-of-commanding-water-elementals.webp#right)

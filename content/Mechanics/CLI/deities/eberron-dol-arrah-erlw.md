@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/erlw
-- ttrpg-cli/deity/eberron
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/twilight
-- ttrpg-cli/domain/war
+publish: true
 aliases:
-- "Dol Arrah"
+  - Dol Arrah
+created: 2026-03-09T12:15:33.849-04:00
+modified: 2026-03-09T12:15:33.849-04:00
+published: 2026-03-09T12:15:33.849-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/erlw
+  - ttrpg-cli/deity/eberron
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/domain/twilight
+  - ttrpg-cli/domain/war
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Dol Arrah
 ![The Sovereign Host](Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
 

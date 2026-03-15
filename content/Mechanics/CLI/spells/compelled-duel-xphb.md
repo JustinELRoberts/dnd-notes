@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/mark-of-sentinel
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-classes:
-- Paladin
+publish: true
 aliases:
-- "Compelled Duel"
+  - Compelled Duel
+created: 2026-03-09T12:15:34.123-04:00
+modified: 2026-03-09T12:15:34.123-04:00
+published: 2026-03-09T12:15:34.123-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/feat/mark-of-sentinel
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin
 ---
+
 # Compelled Duel
 *1st-level, Enchantment*  
 

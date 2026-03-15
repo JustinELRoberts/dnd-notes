@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/wood-elf-magic
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Artificer
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Resistance"
+  - Resistance
+created: 2026-03-09T12:15:33.988-04:00
+modified: 2026-03-09T12:15:33.988-04:00
+published: 2026-03-09T12:15:33.988-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/feat/druidic-warrior
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/feat/wood-elf-magic
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Resistance
 *cantrip, Abjuration*  
 

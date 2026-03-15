@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/drow-elf
+publish: true
 aliases:
-- "Drow"
+  - Drow
+created: 2026-03-09T12:15:33.843-04:00
+modified: 2026-03-09T12:15:33.843-04:00
+published: 2026-03-09T12:15:33.843-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/drow-elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Drow
 *Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![Drow](Mechanics/CLI/bestiary/humanoid/img/drow.webp#right)

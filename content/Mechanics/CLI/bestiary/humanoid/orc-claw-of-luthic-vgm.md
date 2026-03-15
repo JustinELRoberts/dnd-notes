@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/orc
+publish: true
 aliases:
-- "Orc Claw of Luthic"
+  - Orc Claw of Luthic
+created: 2026-03-09T12:15:33.981-04:00
+modified: 2026-03-09T12:15:33.981-04:00
+published: 2026-03-09T12:15:33.981-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/orc
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Orc Claw of Luthic
 *Source: Volo's Guide to Monsters p. 183*  
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-claw-of-luthic.webp#right)

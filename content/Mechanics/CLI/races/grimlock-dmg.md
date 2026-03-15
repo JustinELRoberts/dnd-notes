@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/grimlock
+publish: true
 aliases:
-- "Grimlock"
+  - Grimlock
+created: 2026-03-09T12:15:34.121-04:00
+modified: 2026-03-09T12:15:34.121-04:00
+published: 2026-03-09T12:15:34.121-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/race/grimlock
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Grimlock
 *Source: Dungeon Master's Guide p. 282*  
 

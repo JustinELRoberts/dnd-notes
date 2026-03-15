@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Artificer
+publish: true
 aliases:
-- "Homunculus Servant"
+  - Homunculus Servant
+created: 2026-03-09T12:15:34.107-04:00
+modified: 2026-03-09T12:15:34.107-04:00
+published: 2026-03-09T12:15:34.107-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
 ---
+
 # Homunculus Servant
 *2nd-level, Conjuration (ritual)*  
 

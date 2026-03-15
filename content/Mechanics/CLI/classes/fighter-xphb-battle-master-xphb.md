@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/fighter/battle-master
+publish: true
 aliases:
-- "Battle Master"
+  - Battle Master
+created: 2026-03-09T12:15:33.977-04:00
+modified: 2026-03-09T12:15:33.977-04:00
+published: 2026-03-09T12:15:33.977-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/fighter/battle-master
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Battle Master
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 93*  

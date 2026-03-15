@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/domain/peace
-- ttrpg-cli/subclass/cleric/peace
+publish: true
 aliases:
-- "Peace Domain"
+  - Peace Domain
+created: 2026-03-09T12:15:34.062-04:00
+modified: 2026-03-09T12:15:34.062-04:00
+published: 2026-03-09T12:15:34.062-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/domain/peace
+  - ttrpg-cli/subclass/cleric/peace
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Peace Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Tasha's Cauldron of Everything p. 32*  

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Item Types"
+  - Item Types
+created: 2026-03-09T12:15:34.476-04:00
+modified: 2026-03-09T12:15:34.476-04:00
+published: 2026-03-09T12:15:34.476-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Item Types
 
 ## Adventuring Gear

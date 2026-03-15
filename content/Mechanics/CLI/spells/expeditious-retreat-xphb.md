@@ -1,44 +1,49 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/aberrant-dragonmark
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/mark-of-passage
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-anonymity
-- ttrpg-cli/spell/subclass/burden-of-odyssey
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Anonymity)
-- Martyr (Burden of Odyssey)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Expeditious Retreat"
+  - Expeditious Retreat
+created: 2026-03-09T12:15:33.786-04:00
+modified: 2026-03-09T12:15:33.786-04:00
+published: 2026-03-09T12:15:33.786-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/mark-of-passage
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-anonymity
+  - ttrpg-cli/spell/subclass/burden-of-odyssey
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Anonymity)
+  - Martyr (Burden of Odyssey)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Expeditious Retreat
 *1st-level, Transmutation*  
 

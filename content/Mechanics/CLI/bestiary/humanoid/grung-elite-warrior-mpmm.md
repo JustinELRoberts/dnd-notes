@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Grung Elite Warrior"
+  - Grung Elite Warrior
+created: 2026-03-09T12:15:34.024-04:00
+modified: 2026-03-09T12:15:34.024-04:00
+published: 2026-03-09T12:15:34.024-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Grung Elite Warrior
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
 ![](Mechanics/CLI/bestiary/humanoid/img/grungs.webp#right)

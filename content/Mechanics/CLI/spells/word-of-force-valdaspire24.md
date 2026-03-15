@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/burden-of-truth
-classes:
-- Martyr
-- Martyr (Burden of Truth)
+publish: true
 aliases:
-- "Word of Force"
+  - Word of Force
+created: 2026-03-09T12:15:34.095-04:00
+modified: 2026-03-09T12:15:34.095-04:00
+published: 2026-03-09T12:15:34.095-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/burden-of-truth
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Martyr
+  - Martyr (Burden of Truth)
 ---
+
 # Word of Force
 *1st-level, Evocation*  
 

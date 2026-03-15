@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/divine-soul
+publish: true
 aliases:
-- "Spells for Divine Soul"
+  - Spells for Divine Soul
+created: 2026-03-09T12:15:34.428-04:00
+modified: 2026-03-09T12:15:34.428-04:00
+published: 2026-03-09T12:15:34.428-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/divine-soul
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Divine Soul
 
 ## Cantrip

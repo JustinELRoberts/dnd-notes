@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
-tags:
-- ttrpg-cli/compendium/src/5e/esk
+publish: true
 aliases:
-- "Condition Cards"
+  - Condition Cards
+created: 2026-03-09T12:15:33.999-04:00
+modified: 2026-03-09T12:15:33.999-04:00
+published: 2026-03-09T12:15:33.999-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/esk
+cssclasses:
+  - json5e-deck
+obsidianUIMode: preview
 ---
+
 # Condition Cards
 
 These cards describe various conditions that can affect creatures in the game. A player whose character is suffering from a condition can keep the card as a reminder, giving it back to you when the condition ends for that character; > [!note]

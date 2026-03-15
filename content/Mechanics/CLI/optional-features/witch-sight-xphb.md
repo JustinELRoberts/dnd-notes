@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/optional-feature/ei
+publish: true
 aliases:
-- "Witch Sight"
+  - Witch Sight
+created: 2026-03-09T12:15:33.977-04:00
+modified: 2026-03-09T12:15:33.977-04:00
+published: 2026-03-09T12:15:33.977-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/optional-feature/ei
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Witch Sight 
 
 

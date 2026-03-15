@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/barbarian/berserker
+publish: true
 aliases:
-- "Path of the Berserker"
+  - Path of the Berserker
+created: 2026-03-09T12:15:34.110-04:00
+modified: 2026-03-09T12:15:34.110-04:00
+published: 2026-03-09T12:15:34.110-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/barbarian/berserker
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Path of the Berserker
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  

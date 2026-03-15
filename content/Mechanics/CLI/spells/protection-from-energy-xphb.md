@@ -1,61 +1,66 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-sentinel
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/burden-of-revolution
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/forge-domain
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-- ttrpg-cli/spell/subclass/red-magic
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Forge Domain)
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Ascension)
-- Martyr (Burden of Revolution)
-- Paladin (Oath of Glory)
-- Paladin (Oath of Vengeance)
-- Paladin (Oath of the Ancients)
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Clockwork Sorcery)
-- Sorcerer (Divine Soul, Good)
-- Warden (Drake-Blooded)
-- Warmage (House of Bishops)
-- Witch (Red Magic)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Protection from Energy"
+  - Protection from Energy
+created: 2026-03-09T12:15:33.863-04:00
+modified: 2026-03-09T12:15:33.863-04:00
+published: 2026-03-09T12:15:33.863-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-sentinel
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+  - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/forge-domain
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oath-of-glory
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+  - ttrpg-cli/spell/subclass/red-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Forge Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Ascension)
+  - Martyr (Burden of Revolution)
+  - Paladin (Oath of Glory)
+  - Paladin (Oath of Vengeance)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warden (Drake-Blooded)
+  - Warmage (House of Bishops)
+  - Witch (Red Magic)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Protection from Energy
 *3rd-level, Abjuration*  
 

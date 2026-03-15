@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Ersatz Eye"
+  - Ersatz Eye
+created: 2026-03-09T12:15:34.079-04:00
+modified: 2026-03-09T12:15:34.081-04:00
+published: 2026-03-09T12:15:34.081-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ersatz Eye
 *Wondrous item, minor, common*  
 

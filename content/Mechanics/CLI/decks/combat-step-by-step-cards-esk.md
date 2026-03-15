@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
-tags:
-- ttrpg-cli/compendium/src/5e/esk
+publish: true
 aliases:
-- "Combat Step by Step Cards"
+  - Combat Step by Step Cards
+created: 2026-03-09T12:15:33.836-04:00
+modified: 2026-03-09T12:15:33.836-04:00
+published: 2026-03-09T12:15:33.836-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/esk
+cssclasses:
+  - json5e-deck
+obsidianUIMode: preview
 ---
+
 # Combat Step by Step Cards
 
 These identical cards outline the order of combat, as described in the "rulebook".

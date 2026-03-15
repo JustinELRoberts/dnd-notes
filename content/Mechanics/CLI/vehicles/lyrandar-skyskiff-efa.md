@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/vehicle/terrain/air
-- ttrpg-cli/vehicle/type/elemental-airship
+publish: true
 aliases:
-- "Lyrandar Skyskiff"
+  - Lyrandar Skyskiff
+created: 2026-03-09T12:15:33.773-04:00
+modified: 2026-03-09T12:15:33.773-04:00
+published: 2026-03-09T12:15:33.773-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/vehicle/terrain/air
+  - ttrpg-cli/vehicle/type/elemental-airship
+cssclasses:
+  - json5e-vehicle
+obsidianUIMode: preview
 ---
+
 # Lyrandar Skyskiff
 *Source: Eberron: Forge of the Artificer p. 107*  
 

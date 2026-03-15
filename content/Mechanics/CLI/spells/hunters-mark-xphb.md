@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-classes:
-- Paladin (Oath of Vengeance)
-- Ranger
+publish: true
 aliases:
-- "Hunter's Mark"
+  - Hunter's Mark
+created: 2026-03-09T12:15:33.790-04:00
+modified: 2026-03-09T12:15:33.790-04:00
+published: 2026-03-09T12:15:33.790-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin (Oath of Vengeance)
+  - Ranger
 ---
+
 # Hunter's Mark
 *1st-level, Divination*  
 

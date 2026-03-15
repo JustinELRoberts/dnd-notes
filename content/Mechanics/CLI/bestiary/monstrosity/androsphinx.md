@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Androsphinx"
+  - Androsphinx
+created: 2026-03-09T12:15:34.119-04:00
+modified: 2026-03-09T12:15:34.119-04:00
+published: 2026-03-09T12:15:34.119-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/17
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Androsphinx
 *Source: Monster Manual p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/androsphinx.webp#right)

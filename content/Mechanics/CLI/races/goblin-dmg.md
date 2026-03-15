@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/goblin
+publish: true
 aliases:
-- "Goblin"
+  - Goblin
+created: 2026-03-09T12:15:33.790-04:00
+modified: 2026-03-09T12:15:33.790-04:00
+published: 2026-03-09T12:15:33.790-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/race/goblin
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Goblin
 *Source: Dungeon Master's Guide p. 282*  
 

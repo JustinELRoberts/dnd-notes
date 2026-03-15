@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Clockwork Iron Cobra"
+  - Clockwork Iron Cobra
+created: 2026-03-09T12:15:33.885-04:00
+modified: 2026-03-09T12:15:33.885-04:00
+published: 2026-03-09T12:15:33.885-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Clockwork Iron Cobra
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
 ![](Mechanics/CLI/bestiary/construct/img/clockwork-iron-cobra.webp#right)

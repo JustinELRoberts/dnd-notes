@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/item/rarity/uncommon
+publish: true
 aliases:
-- "Bottled Ooze (Ochre Jelly)"
+  - Bottled Ooze (Ochre Jelly)
+created: 2026-03-09T12:15:33.831-04:00
+modified: 2026-03-09T12:15:33.831-04:00
+published: 2026-03-09T12:15:33.831-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/item/rarity/uncommon
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Bottled Ooze (Ochre Jelly)
 *Wondrous item, uncommon*  
 

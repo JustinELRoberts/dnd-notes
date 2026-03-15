@@ -1,36 +1,41 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/order-domain
-- ttrpg-cli/spell/subclass/overlord
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric (Order Domain)
-- Fighter (Eldritch Knight)
-- Necromancer (Overlord)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Slow"
+  - Slow
+created: 2026-03-09T12:15:33.790-04:00
+modified: 2026-03-09T12:15:33.790-04:00
+published: 2026-03-09T12:15:33.790-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/order-domain
+  - ttrpg-cli/spell/subclass/overlord
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Order Domain)
+  - Fighter (Eldritch Knight)
+  - Necromancer (Overlord)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Slow
 *3rd-level, Transmutation*  
 

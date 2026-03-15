@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/gnome
+publish: true
 aliases:
-- "Sivis Scribe"
+  - Sivis Scribe
+created: 2026-03-09T12:15:33.795-04:00
+modified: 2026-03-09T12:15:33.795-04:00
+published: 2026-03-09T12:15:33.795-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid/gnome
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Sivis Scribe
 *Source: Eberron: Forge of the Artificer p. 84*  
 ![](Mechanics/CLI/bestiary/humanoid/img/sivis-scribe.webp#right)

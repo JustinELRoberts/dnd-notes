@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Robe of Useful Items"
+  - Robe of Useful Items
+created: 2026-03-09T12:15:34.104-04:00
+modified: 2026-03-09T12:15:34.104-04:00
+published: 2026-03-09T12:15:34.104-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Robe of Useful Items
 *Wondrous item, minor, uncommon*  
 ![](Mechanics/CLI/items/img/robe-of-useful-items.webp#right)

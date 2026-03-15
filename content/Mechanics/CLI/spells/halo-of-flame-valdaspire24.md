@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/college-of-lore
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Martyr
+publish: true
 aliases:
-- "Halo of Flame"
+  - Halo of Flame
+created: 2026-03-09T12:15:33.891-04:00
+modified: 2026-03-09T12:15:33.891-04:00
+published: 2026-03-09T12:15:33.891-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/college-of-lore
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Martyr
 ---
+
 # Halo of Flame
 *2nd-level, Evocation*  
 

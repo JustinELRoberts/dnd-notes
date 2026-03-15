@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/diviner
-classes:
-- Bard
-- Warlock
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Contact Other Plane"
+  - Contact Other Plane
+created: 2026-03-09T12:15:33.856-04:00
+modified: 2026-03-09T12:15:33.856-04:00
+published: 2026-03-09T12:15:33.856-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/diviner
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Warlock
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Contact Other Plane
 *5th-level, Divination (ritual)*  
 

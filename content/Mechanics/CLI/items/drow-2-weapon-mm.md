@@ -1,119 +1,124 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Drow +2 Weapon"
-- "Drow +2 Antimatter Carbine"
-- "Drow +2 Antimatter Pistol"
-- "Drow +2 Antimatter Rifle"
-- "Drow +2 Atlatl"
-- "Drow +2 Automatic Rifle"
-- "Drow +2 Avia-Ra Sunstaff"
-- "Drow +2 Ballista"
-- "Drow +2 Bastard Sword"
-- "Drow +2 Battleaxe"
-- "Drow +2 Blitz Cannon"
-- "Drow +2 Blowgun"
-- "Drow +2 Bolt Caster"
-- "Drow +2 Bomb"
-- "Drow +2 Boomerang"
-- "Drow +2 Cestus"
-- "Drow +2 Claw Gauntlet"
-- "Drow +2 Club"
-- "Drow +2 Concussion Rifle"
-- "Drow +2 Cutlass"
-- "Drow +2 Dagger"
-- "Drow +2 Dart"
-- "Drow +2 Double-Bladed Scimitar"
-- "Drow +2 Dueling Laser"
-- "Drow +2 Edged Card"
-- "Drow +2 Estoc"
-- "Drow +2 Fishhook"
-- "Drow +2 Flail"
-- "Drow +2 Glaive"
-- "Drow +2 Greataxe"
-- "Drow +2 Greatbow"
-- "Drow +2 Greatclub"
-- "Drow +2 Greatsword"
-- "Drow +2 Grenade Launcher"
-- "Drow +2 Grim Scythe"
-- "Drow +2 Halberd"
-- "Drow +2 Hand Crossbow"
-- "Drow +2 Handaxe"
-- "Drow +2 Heavy Crossbow"
-- "Drow +2 Hooked Hammer"
-- "Drow +2 Hooked Shortspear"
-- "Drow +2 Hoopak"
-- "Drow +2 Hunting Rifle"
-- "Drow +2 Ion Cannon"
-- "Drow +2 Javelin"
-- "Drow +2 Katana"
-- "Drow +2 Khopesh"
-- "Drow +2 Lance"
-- "Drow +2 Laser Pistol"
-- "Drow +2 Laser Rifle"
-- "Drow +2 Light Crossbow"
-- "Drow +2 Light Hammer"
-- "Drow +2 Light Repeating Crossbow"
-- "Drow +2 Longbow"
-- "Drow +2 Longsword"
-- "Drow +2 Mace"
-- "Drow +2 Machete"
-- "Drow +2 Magnus"
-- "Drow +2 Maul"
-- "Drow +2 Meteor Chain"
-- "Drow +2 Morningstar"
-- "Drow +2 Musket"
-- "Drow +2 Naginata"
-- "Drow +2 Nunchaku"
-- "Drow +2 Parrying Dagger"
-- "Drow +2 Phaser"
-- "Drow +2 Pickaxe"
-- "Drow +2 Pike"
-- "Drow +2 Pistol"
-- "Drow +2 Plasma Launcher"
-- "Drow +2 Punching Dagger"
-- "Drow +2 Quarterstaff"
-- "Drow +2 Rapier"
-- "Drow +2 REC Gun"
-- "Drow +2 Repeater"
-- "Drow +2 Repeating Crossbow"
-- "Drow +2 Revolver"
-- "Drow +2 Sai"
-- "Drow +2 Scimitar"
-- "Drow +2 Scorpion on a Stick"
-- "Drow +2 Scourge"
-- "Drow +2 Semiautomatic Pistol"
-- "Drow +2 Shortbow"
-- "Drow +2 Shortsword"
-- "Drow +2 Shotgun"
-- "Drow +2 Shovel"
-- "Drow +2 Sickle"
-- "Drow +2 Sling"
-- "Drow +2 Spear"
-- "Drow +2 Spiked Chain"
-- "Drow +2 Standard Carbine"
-- "Drow +2 Swarm Pistol"
-- "Drow +2 Throwing Dagger"
-- "Drow +2 Tonfa"
-- "Drow +2 Trident"
-- "Drow +2 Volley Crossbow"
-- "Drow +2 War Pick"
-- "Drow +2 Warhammer"
-- "Drow +2 Whip"
-- "Drow +2 Yklwa"
+  - Drow +2 Weapon
+  - Drow +2 Antimatter Carbine
+  - Drow +2 Antimatter Pistol
+  - Drow +2 Antimatter Rifle
+  - Drow +2 Atlatl
+  - Drow +2 Automatic Rifle
+  - Drow +2 Avia-Ra Sunstaff
+  - Drow +2 Ballista
+  - Drow +2 Bastard Sword
+  - Drow +2 Battleaxe
+  - Drow +2 Blitz Cannon
+  - Drow +2 Blowgun
+  - Drow +2 Bolt Caster
+  - Drow +2 Bomb
+  - Drow +2 Boomerang
+  - Drow +2 Cestus
+  - Drow +2 Claw Gauntlet
+  - Drow +2 Club
+  - Drow +2 Concussion Rifle
+  - Drow +2 Cutlass
+  - Drow +2 Dagger
+  - Drow +2 Dart
+  - Drow +2 Double-Bladed Scimitar
+  - Drow +2 Dueling Laser
+  - Drow +2 Edged Card
+  - Drow +2 Estoc
+  - Drow +2 Fishhook
+  - Drow +2 Flail
+  - Drow +2 Glaive
+  - Drow +2 Greataxe
+  - Drow +2 Greatbow
+  - Drow +2 Greatclub
+  - Drow +2 Greatsword
+  - Drow +2 Grenade Launcher
+  - Drow +2 Grim Scythe
+  - Drow +2 Halberd
+  - Drow +2 Hand Crossbow
+  - Drow +2 Handaxe
+  - Drow +2 Heavy Crossbow
+  - Drow +2 Hooked Hammer
+  - Drow +2 Hooked Shortspear
+  - Drow +2 Hoopak
+  - Drow +2 Hunting Rifle
+  - Drow +2 Ion Cannon
+  - Drow +2 Javelin
+  - Drow +2 Katana
+  - Drow +2 Khopesh
+  - Drow +2 Lance
+  - Drow +2 Laser Pistol
+  - Drow +2 Laser Rifle
+  - Drow +2 Light Crossbow
+  - Drow +2 Light Hammer
+  - Drow +2 Light Repeating Crossbow
+  - Drow +2 Longbow
+  - Drow +2 Longsword
+  - Drow +2 Mace
+  - Drow +2 Machete
+  - Drow +2 Magnus
+  - Drow +2 Maul
+  - Drow +2 Meteor Chain
+  - Drow +2 Morningstar
+  - Drow +2 Musket
+  - Drow +2 Naginata
+  - Drow +2 Nunchaku
+  - Drow +2 Parrying Dagger
+  - Drow +2 Phaser
+  - Drow +2 Pickaxe
+  - Drow +2 Pike
+  - Drow +2 Pistol
+  - Drow +2 Plasma Launcher
+  - Drow +2 Punching Dagger
+  - Drow +2 Quarterstaff
+  - Drow +2 Rapier
+  - Drow +2 REC Gun
+  - Drow +2 Repeater
+  - Drow +2 Repeating Crossbow
+  - Drow +2 Revolver
+  - Drow +2 Sai
+  - Drow +2 Scimitar
+  - Drow +2 Scorpion on a Stick
+  - Drow +2 Scourge
+  - Drow +2 Semiautomatic Pistol
+  - Drow +2 Shortbow
+  - Drow +2 Shortsword
+  - Drow +2 Shotgun
+  - Drow +2 Shovel
+  - Drow +2 Sickle
+  - Drow +2 Sling
+  - Drow +2 Spear
+  - Drow +2 Spiked Chain
+  - Drow +2 Standard Carbine
+  - Drow +2 Swarm Pistol
+  - Drow +2 Throwing Dagger
+  - Drow +2 Tonfa
+  - Drow +2 Trident
+  - Drow +2 Volley Crossbow
+  - Drow +2 War Pick
+  - Drow +2 Warhammer
+  - Drow +2 Whip
+  - Drow +2 Yklwa
+created: 2026-03-09T12:15:33.865-04:00
+modified: 2026-03-09T12:15:33.865-04:00
+published: 2026-03-09T12:15:33.865-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Drow +2 Weapon
 
 

@@ -1,49 +1,54 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-detection
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/feat/mark-of-shadow
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/path-of-the-ancestral-guardian
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Artificer (Cartographer)
-- Barbarian (Path of the Ancestral Guardian)
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warden (Drake-Blooded)
-- Warlock (Great Old One Patron)
-- Warmage (House of Bishops)
-- Witch (Tea Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Clairvoyance"
+  - Clairvoyance
+created: 2026-03-09T12:15:34.083-04:00
+modified: 2026-03-09T12:15:34.083-04:00
+published: 2026-03-09T12:15:34.083-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-detection
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/feat/mark-of-shadow
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/path-of-the-ancestral-guardian
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Barbarian (Path of the Ancestral Guardian)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warden (Drake-Blooded)
+  - Warlock (Great Old One Patron)
+  - Warmage (House of Bishops)
+  - Witch (Tea Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Clairvoyance
 *3rd-level, Divination*  
 

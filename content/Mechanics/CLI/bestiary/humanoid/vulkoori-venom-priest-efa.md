@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+publish: true
 aliases:
-- "Vulkoori Venom Priest"
+  - Vulkoori Venom Priest
+created: 2026-03-09T12:15:34.028-04:00
+modified: 2026-03-09T12:15:34.028-04:00
+published: 2026-03-09T12:15:34.028-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Vulkoori Venom Priest
 *Source: Eberron: Forge of the Artificer p. 98*  
 ![](Mechanics/CLI/bestiary/humanoid/img/vulkoori-venom-priest.webp#right)

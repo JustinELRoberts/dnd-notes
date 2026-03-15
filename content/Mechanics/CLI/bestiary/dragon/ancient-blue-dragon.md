@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Ancient Blue Dragon"
+  - Ancient Blue Dragon
+created: 2026-03-09T12:15:34.089-04:00
+modified: 2026-03-09T12:15:34.089-04:00
+published: 2026-03-09T12:15:34.089-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Ancient Blue Dragon
 *Source: Monster Manual p. 90. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/ancient-blue-dragon.webp#right)

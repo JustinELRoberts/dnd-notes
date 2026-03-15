@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/object/size/gargantuan
-- ttrpg-cli/object/type/siege-weapon
+publish: true
 aliases:
-- "Siege Tower"
+  - Siege Tower
+created: 2026-03-09T12:15:33.871-04:00
+modified: 2026-03-09T12:15:33.871-04:00
+published: 2026-03-09T12:15:33.871-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/object/size/gargantuan
+  - ttrpg-cli/object/type/siege-weapon
+cssclasses:
+  - json5e-object
+obsidianUIMode: preview
 ---
+
 # Siege Tower
 *Source: Dungeon Master's Guide p. 256* 
 

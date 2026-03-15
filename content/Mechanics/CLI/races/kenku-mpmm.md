@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/kenku
+publish: true
 aliases:
-- "Kenku"
+  - Kenku
+created: 2026-03-09T12:15:33.789-04:00
+modified: 2026-03-09T12:15:33.789-04:00
+published: 2026-03-09T12:15:33.789-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/kenku
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Kenku
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 24*  
 ![](Mechanics/CLI/races/img/kenku.webp#right)

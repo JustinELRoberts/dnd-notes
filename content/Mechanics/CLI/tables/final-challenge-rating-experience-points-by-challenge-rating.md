@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Final Challenge Rating; Experience Points by Challenge Rating"
+  - Final Challenge Rating; Experience Points by Challenge Rating
+created: 2026-03-09T12:15:34.399-04:00
+modified: 2026-03-09T12:15:34.399-04:00
+published: 2026-03-09T12:15:34.399-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Final Challenge Rating; Experience Points by Challenge Rating
 *Source: Dungeon Master's Guide p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
 

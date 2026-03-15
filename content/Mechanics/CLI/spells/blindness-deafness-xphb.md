@@ -1,45 +1,50 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/gnome-deep
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/circle-of-spores
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/crone
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Death Domain)
-- Druid (Circle of Spores)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Calamity)
-- Necromancer (Crone)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warden (Drake-Blooded)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Blindness/Deafness"
+  - Blindness/Deafness
+created: 2026-03-09T12:15:33.829-04:00
+modified: 2026-03-09T12:15:33.829-04:00
+published: 2026-03-09T12:15:33.829-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/race/gnome-deep
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/circle-of-spores
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/crone
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Death Domain)
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Calamity)
+  - Necromancer (Crone)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warden (Drake-Blooded)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Blindness/Deafness
 *2nd-level, Transmutation*  
 

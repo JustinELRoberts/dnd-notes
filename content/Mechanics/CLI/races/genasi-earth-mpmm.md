@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/genasi/earth
+publish: true
 aliases:
-- "Genasi (Earth)"
+  - Genasi (Earth)
+created: 2026-03-09T12:15:33.988-04:00
+modified: 2026-03-09T12:15:33.988-04:00
+published: 2026-03-09T12:15:33.988-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/genasi/earth
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Genasi (Earth)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  
 ![](Mechanics/CLI/races/img/genasi.webp#right)

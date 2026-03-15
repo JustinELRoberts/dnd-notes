@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/reward/charm
+publish: true
 aliases:
-- "Charm of Khyber"
+  - Charm of Khyber
+created: 2026-03-09T12:15:33.777-04:00
+modified: 2026-03-09T12:15:33.777-04:00
+published: 2026-03-09T12:15:33.777-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/reward/charm
+cssclasses:
+  - json5e-reward
+obsidianUIMode: preview
 ---
+
 # Charm of Khyber
 
 

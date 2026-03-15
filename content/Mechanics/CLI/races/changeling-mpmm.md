@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/changeling
+publish: true
 aliases:
-- "Changeling"
+  - Changeling
+created: 2026-03-09T12:15:33.771-04:00
+modified: 2026-03-09T12:15:33.771-04:00
+published: 2026-03-09T12:15:33.771-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/changeling
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Changeling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 10*  
 ![](Mechanics/CLI/races/img/changeling.webp#right)

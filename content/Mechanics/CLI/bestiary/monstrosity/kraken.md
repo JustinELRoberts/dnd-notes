@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity/titan
+publish: true
 aliases:
-- "Kraken"
+  - Kraken
+created: 2026-03-09T12:15:34.039-04:00
+modified: 2026-03-09T12:15:34.039-04:00
+published: 2026-03-09T12:15:34.039-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/monstrosity/titan
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Kraken
 *Source: Monster Manual p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/kraken.webp#right)

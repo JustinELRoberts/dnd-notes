@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/the-hexblade
-classes:
-- Paladin
-- Warlock (The Hexblade)
+publish: true
 aliases:
-- "Staggering Smite"
+  - Staggering Smite
+created: 2026-03-09T12:15:34.101-04:00
+modified: 2026-03-09T12:15:34.101-04:00
+published: 2026-03-09T12:15:34.101-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/the-hexblade
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin
+  - Warlock (The Hexblade)
 ---
+
 # Staggering Smite
 *4th-level, Enchantment*  
 

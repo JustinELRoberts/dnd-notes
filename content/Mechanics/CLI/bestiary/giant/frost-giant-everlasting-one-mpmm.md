@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Frost Giant Everlasting One"
+  - Frost Giant Everlasting One
+created: 2026-03-09T12:15:34.001-04:00
+modified: 2026-03-09T12:15:34.001-04:00
+published: 2026-03-09T12:15:34.001-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Frost Giant Everlasting One
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
 ![](Mechanics/CLI/bestiary/giant/img/frost-giant-everlasting-one.webp#right)

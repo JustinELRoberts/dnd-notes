@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/thri-kreen
+publish: true
 aliases:
-- "Thri-kreen (Weapons and Psionics)"
+  - Thri-kreen (Weapons and Psionics)
+created: 2026-03-09T12:15:34.029-04:00
+modified: 2026-03-09T12:15:34.029-04:00
+published: 2026-03-09T12:15:34.029-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/thri-kreen
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Thri-kreen (Weapons and Psionics)
 *Source: Monster Manual p. 288*  
 

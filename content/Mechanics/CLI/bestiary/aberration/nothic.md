@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Nothic"
+  - Nothic
+created: 2026-03-09T12:15:34.046-04:00
+modified: 2026-03-09T12:15:34.046-04:00
+published: 2026-03-09T12:15:34.046-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Nothic
 *Source: Monster Manual p. 236. Available in the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/aberration/img/nothic.webp#right)

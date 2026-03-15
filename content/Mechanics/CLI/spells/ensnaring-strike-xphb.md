@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-classes:
-- Paladin (Oath of the Ancients)
-- Ranger
+publish: true
 aliases:
-- "Ensnaring Strike"
+  - Ensnaring Strike
+created: 2026-03-09T12:15:33.917-04:00
+modified: 2026-03-09T12:15:33.917-04:00
+published: 2026-03-09T12:15:33.917-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin (Oath of the Ancients)
+  - Ranger
 ---
+
 # Ensnaring Strike
 *1st-level, Conjuration*  
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Modify Total XP for Multiple Monsters; Encounter Multipliers"
+  - Modify Total XP for Multiple Monsters; Encounter Multipliers
+created: 2026-03-09T12:15:34.371-04:00
+modified: 2026-03-09T12:15:34.371-04:00
+published: 2026-03-09T12:15:34.371-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Modify Total XP for Multiple Monsters; Encounter Multipliers
 *Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)* 
 

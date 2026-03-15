@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/evoker
-classes:
-- Bard
-- Sorcerer
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Immolation"
+  - Immolation
+created: 2026-03-09T12:15:33.994-04:00
+modified: 2026-03-09T12:15:33.994-04:00
+published: 2026-03-09T12:15:33.994-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/evoker
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Immolation
 *5th-level, Evocation*  
 

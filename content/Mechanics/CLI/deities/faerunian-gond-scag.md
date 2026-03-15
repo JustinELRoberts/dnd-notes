@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/forge
-- ttrpg-cli/domain/knowledge
+publish: true
 aliases:
-- "Gond"
-- "The Wonderbringer"
-- "The Inspiration Divine"
-- "The Holy Maker of All Things"
+  - Gond
+  - The Wonderbringer
+  - The Inspiration Divine
+  - The Holy Maker of All Things
+created: 2026-03-09T12:15:33.958-04:00
+modified: 2026-03-09T12:15:33.958-04:00
+published: 2026-03-09T12:15:33.958-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/scag
+  - ttrpg-cli/deity/faerunian
+  - ttrpg-cli/domain/forge
+  - ttrpg-cli/domain/knowledge
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Gond
 ![](Mechanics/CLI/deities/img/scag-symbol-of-gond.webp#symbol)
 

@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Witch
+publish: true
 aliases:
-- "Curse Object"
+  - Curse Object
+created: 2026-03-09T12:15:33.893-04:00
+modified: 2026-03-09T12:15:33.894-04:00
+published: 2026-03-09T12:15:33.894-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Witch
 ---
+
 # Curse Object
 *5th-level, Transmutation (ritual)*  
 

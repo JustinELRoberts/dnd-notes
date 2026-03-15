@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/race/khoravar
+publish: true
 aliases:
-- "Spells for Khoravar"
+  - Spells for Khoravar
+created: 2026-03-09T12:15:34.433-04:00
+modified: 2026-03-09T12:15:34.433-04:00
+published: 2026-03-09T12:15:34.433-04:00
+tags:
+  - ttrpg-cli/spell/list/race/khoravar
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Khoravar
 
 ## Cantrip

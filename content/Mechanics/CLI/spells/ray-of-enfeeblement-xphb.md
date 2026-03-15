@@ -1,38 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/tiefling/chthonic
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/black-magic
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/grave-domain
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/pale-master
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric (Death Domain)
-- Cleric (Grave Domain)
-- Fighter (Eldritch Knight)
-- Necromancer (Pale Master)
-- Rogue (Arcane Trickster)
-- Warlock
-- Warmage (House of Bishops)
-- Witch (Black Magic)
-- Wizard
+publish: true
 aliases:
-- "Ray of Enfeeblement"
+  - Ray of Enfeeblement
+created: 2026-03-09T12:15:33.907-04:00
+modified: 2026-03-09T12:15:33.907-04:00
+published: 2026-03-09T12:15:33.907-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/race/tiefling/chthonic
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/black-magic
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/grave-domain
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/pale-master
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Fighter (Eldritch Knight)
+  - Necromancer (Pale Master)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Witch (Black Magic)
+  - Wizard
 ---
+
 # Ray of Enfeeblement
 *2nd-level, Necromancy*  
 

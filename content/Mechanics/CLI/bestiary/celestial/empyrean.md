@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/celestial/titan
+publish: true
 aliases:
-- "Empyrean"
+  - Empyrean
+created: 2026-03-09T12:15:33.875-04:00
+modified: 2026-03-09T12:15:33.875-04:00
+published: 2026-03-09T12:15:33.875-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/celestial/titan
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Empyrean
 *Source: Monster Manual p. 130*  
 ![](Mechanics/CLI/bestiary/celestial/img/empyrean.webp#right)

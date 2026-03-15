@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
+publish: true
 aliases:
-- "Guardian Emblem"
+  - Guardian Emblem
+created: 2026-03-09T12:15:33.809-04:00
+modified: 2026-03-09T12:15:33.809-04:00
+published: 2026-03-09T12:15:33.809-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Guardian Emblem
 *Wondrous item, uncommon (requires attunement by a cleric or paladin)*  
 

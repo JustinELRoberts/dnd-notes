@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Necklace of Fireballs"
+  - Necklace of Fireballs
+created: 2026-03-09T12:15:34.047-04:00
+modified: 2026-03-09T12:15:34.047-04:00
+published: 2026-03-09T12:15:34.047-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Necklace of Fireballs
 *Wondrous item, minor, rare*  
 ![](Mechanics/CLI/items/img/necklace-of-fireballs.webp#right)

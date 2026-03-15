@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/sorcerer/clockwork
+publish: true
 aliases:
-- "Clockwork Sorcery"
+  - Clockwork Sorcery
+created: 2026-03-09T12:15:33.887-04:00
+modified: 2026-03-09T12:15:33.887-04:00
+published: 2026-03-09T12:15:33.887-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/sorcerer/clockwork
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Clockwork Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 146*  

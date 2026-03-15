@@ -1,35 +1,40 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-passage
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/burden-of-fame
-- ttrpg-cli/spell/subclass/burden-of-odyssey
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/horizon-walker
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Artificer (Cartographer)
-- Bard
-- Martyr (Burden of Fame)
-- Martyr (Burden of Odyssey)
-- Ranger (Horizon Walker)
-- Sorcerer
-- Warlock
-- Witch (Technicolor Magic)
-- Wizard
+publish: true
 aliases:
-- "Teleportation Circle"
+  - Teleportation Circle
+created: 2026-03-09T12:15:33.955-04:00
+modified: 2026-03-09T12:15:33.955-04:00
+published: 2026-03-09T12:15:33.955-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-passage
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/burden-of-fame
+  - ttrpg-cli/spell/subclass/burden-of-odyssey
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/horizon-walker
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Bard
+  - Martyr (Burden of Fame)
+  - Martyr (Burden of Odyssey)
+  - Ranger (Horizon Walker)
+  - Sorcerer
+  - Warlock
+  - Witch (Technicolor Magic)
+  - Wizard
 ---
+
 # Teleportation Circle
 *5th-level, Conjuration*  
 

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/domain/death
-- ttrpg-cli/subclass/cleric/death
+publish: true
 aliases:
-- "Death Domain"
+  - Death Domain
+created: 2026-03-09T12:15:33.853-04:00
+modified: 2026-03-09T12:15:33.853-04:00
+published: 2026-03-09T12:15:33.853-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/domain/death
+  - ttrpg-cli/subclass/cleric/death
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Death Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Dungeon Master's Guide p. 96*  

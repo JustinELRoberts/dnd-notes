@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey/elf
+publish: true
 aliases:
-- "Summer Eladrin"
+  - Summer Eladrin
+created: 2026-03-09T12:15:33.945-04:00
+modified: 2026-03-09T12:15:33.945-04:00
+published: 2026-03-09T12:15:33.945-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey/elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Summer Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
 ![](Mechanics/CLI/bestiary/fey/img/summer-eladrin.webp#right)

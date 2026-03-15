@@ -1,46 +1,51 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/order-domain
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Artificer (Cartographer)
-- Bard
-- Cleric
-- Cleric (Order Domain)
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Ascension)
-- Paladin
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Warmage (House of Bishops)
-- Witch (Technicolor Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Locate Creature"
+  - Locate Creature
+created: 2026-03-09T12:15:33.962-04:00
+modified: 2026-03-09T12:15:33.962-04:00
+published: 2026-03-09T12:15:33.962-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/order-domain
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Bard
+  - Cleric
+  - Cleric (Order Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Ascension)
+  - Paladin
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warmage (House of Bishops)
+  - Witch (Technicolor Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Locate Creature
 *4th-level, Divination*  
 

@@ -1,10 +1,15 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
+publish: true
 aliases:
-- "Item Properties"
+  - Item Properties
+created: 2026-03-09T12:15:34.476-04:00
+modified: 2026-03-09T12:15:34.476-04:00
+published: 2026-03-09T12:15:34.476-04:00
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Item Properties
 
 ## Attunement

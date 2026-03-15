@@ -1,40 +1,45 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-storm
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/the-fathomless
-- ttrpg-cli/spell/subclass/the-genie/marid
-classes:
-- Bard
-- Cleric
-- Druid
-- Druid (Circle of the Sea)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Calamity)
-- Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Fathomless)
-- Warlock (The Genie, Marid)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Control Water"
+  - Control Water
+created: 2026-03-09T12:15:34.117-04:00
+modified: 2026-03-09T12:15:34.118-04:00
+published: 2026-03-09T12:15:34.118-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-storm
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/the-fathomless
+  - ttrpg-cli/spell/subclass/the-genie/marid
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Calamity)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Marid)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Control Water
 *4th-level, Transmutation*  
 

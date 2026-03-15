@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Nine Lives Stealer"
-- "Nine Lives Stealer Double-Bladed Scimitar"
-- "Nine Lives Stealer Greatsword"
-- "Nine Lives Stealer Longsword"
-- "Nine Lives Stealer Rapier"
-- "Nine Lives Stealer Scimitar"
-- "Nine Lives Stealer Shortsword"
+  - Nine Lives Stealer
+  - Nine Lives Stealer Double-Bladed Scimitar
+  - Nine Lives Stealer Greatsword
+  - Nine Lives Stealer Longsword
+  - Nine Lives Stealer Rapier
+  - Nine Lives Stealer Scimitar
+  - Nine Lives Stealer Shortsword
+created: 2026-03-09T12:15:34.106-04:00
+modified: 2026-03-09T12:15:34.106-04:00
+published: 2026-03-09T12:15:34.106-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Nine Lives Stealer
 *Major, very rare (requires attunement)*  
 ![Nine Lives Stealer (Greatsword)](Mechanics/CLI/items/img/nine-lives-stealer.webp#right)

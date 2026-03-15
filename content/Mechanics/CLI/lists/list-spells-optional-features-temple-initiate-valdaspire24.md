@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/optfeature/temple-initiate
+publish: true
 aliases:
-- "Spells for Temple Initiate"
+  - Spells for Temple Initiate
+created: 2026-03-09T12:15:34.421-04:00
+modified: 2026-03-09T12:15:34.421-04:00
+published: 2026-03-09T12:15:34.421-04:00
+tags:
+  - ttrpg-cli/spell/list/optfeature/temple-initiate
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Temple Initiate
 
 ## Cantrip

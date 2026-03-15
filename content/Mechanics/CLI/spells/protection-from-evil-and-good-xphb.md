@@ -1,52 +1,57 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-mercy
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/neutrality
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/horizon-walker
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/monster-slayer
-- ttrpg-cli/spell/subclass/oath-of-devotion
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Mercy)
-- Martyr (Burden of the End)
-- Paladin
-- Paladin (Oath of Devotion)
-- Ranger (Horizon Walker)
-- Ranger (Monster Slayer)
-- Rogue (Arcane Trickster)
-- Sorcerer (Clockwork Sorcery)
-- Sorcerer (Divine Soul, Neutrality)
-- Warlock
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Protection from Evil and Good"
+  - Protection from Evil and Good
+created: 2026-03-09T12:15:34.048-04:00
+modified: 2026-03-09T12:15:34.048-04:00
+published: 2026-03-09T12:15:34.048-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-mercy
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/neutrality
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/horizon-walker
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/monster-slayer
+  - ttrpg-cli/spell/subclass/oath-of-devotion
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Mercy)
+  - Martyr (Burden of the End)
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Ranger (Horizon Walker)
+  - Ranger (Monster Slayer)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Neutrality)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Protection from Evil and Good
 *1st-level, Abjuration*  
 

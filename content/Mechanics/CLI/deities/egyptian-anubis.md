@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/egyptian
-- ttrpg-cli/domain/death
-- ttrpg-cli/domain/grave
-- ttrpg-cli/domain/order
+publish: true
 aliases:
-- "Anubis"
+  - Anubis
+created: 2026-03-09T12:15:34.137-04:00
+modified: 2026-03-09T12:15:34.137-04:00
+published: 2026-03-09T12:15:34.137-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/deity/egyptian
+  - ttrpg-cli/domain/death
+  - ttrpg-cli/domain/grave
+  - ttrpg-cli/domain/order
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Anubis
 
 

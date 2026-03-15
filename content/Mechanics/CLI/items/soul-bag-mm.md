@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/wondrous/other
+publish: true
 aliases:
-- "Soul Bag"
+  - Soul Bag
+created: 2026-03-09T12:15:33.771-04:00
+modified: 2026-03-09T12:15:33.771-04:00
+published: 2026-03-09T12:15:33.771-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/wondrous/other
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Soul Bag
 *Very rare*  
 

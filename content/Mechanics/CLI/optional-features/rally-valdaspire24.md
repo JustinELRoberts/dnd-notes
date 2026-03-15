@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/optional-feature/mv-c
+publish: true
 aliases:
-- "Rally"
+  - Rally
+created: 2026-03-09T12:15:34.000-04:00
+modified: 2026-03-09T12:15:34.000-04:00
+published: 2026-03-09T12:15:34.000-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/optional-feature/mv-c
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Rally 
 
 

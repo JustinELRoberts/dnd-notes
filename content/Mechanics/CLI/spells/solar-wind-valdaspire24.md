@@ -1,33 +1,38 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/wood-elf-magic
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Sorcerer (Divine Soul, Good)
-- Witch
+publish: true
 aliases:
-- "Solar Wind"
+  - Solar Wind
+created: 2026-03-09T12:15:34.022-04:00
+modified: 2026-03-09T12:15:34.022-04:00
+published: 2026-03-09T12:15:34.022-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/feat/druidic-warrior
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/feat/wood-elf-magic
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
+  - Witch
 ---
+
 # Solar Wind
 *cantrip, Evocation*  
 

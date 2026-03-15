@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Tanarukk"
+  - Tanarukk
+created: 2026-03-09T12:15:34.009-04:00
+modified: 2026-03-09T12:15:34.009-04:00
+published: 2026-03-09T12:15:34.009-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Tanarukk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
 ![](Mechanics/CLI/bestiary/fiend/img/tanarukk.webp#right)

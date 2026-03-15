@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Artificer
-- Bard
-- Druid
-- Wizard
+publish: true
 aliases:
-- "Transmute Rock"
+  - Transmute Rock
+created: 2026-03-09T12:15:33.981-04:00
+modified: 2026-03-09T12:15:33.981-04:00
+published: 2026-03-09T12:15:33.981-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Wizard
 ---
+
 # Transmute Rock
 *5th-level, Transmutation*  
 

@@ -1,28 +1,33 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/forge-domain
-- ttrpg-cli/spell/subclass/gingerbread-magic
-classes:
-- Artificer
-- Bard
-- Cleric (Forge Domain)
-- Sorcerer
-- Witch (Gingerbread Magic)
-- Wizard
+publish: true
 aliases:
-- "Animate Objects"
+  - Animate Objects
+created: 2026-03-09T12:15:33.813-04:00
+modified: 2026-03-09T12:15:33.813-04:00
+published: 2026-03-09T12:15:33.813-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/forge-domain
+  - ttrpg-cli/spell/subclass/gingerbread-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Forge Domain)
+  - Sorcerer
+  - Witch (Gingerbread Magic)
+  - Wizard
 ---
+
 # Animate Objects
 *5th-level, Transmutation*  
 ![](Mechanics/CLI/spells/img/animate-objects.webp#right)

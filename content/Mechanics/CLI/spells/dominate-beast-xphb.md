@@ -1,37 +1,42 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-handling
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/green-magic
-- ttrpg-cli/spell/subclass/oath-of-conquest
-classes:
-- Bard
-- Druid
-- Martyr (Burden of Tyranny)
-- Paladin (Oath of Conquest)
-- Ranger
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Archfey Patron)
-- Witch (Blood Magic)
-- Witch (Green Magic)
+publish: true
 aliases:
-- "Dominate Beast"
+  - Dominate Beast
+created: 2026-03-09T12:15:33.931-04:00
+modified: 2026-03-09T12:15:33.931-04:00
+published: 2026-03-09T12:15:33.931-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-handling
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/green-magic
+  - ttrpg-cli/spell/subclass/oath-of-conquest
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Martyr (Burden of Tyranny)
+  - Paladin (Oath of Conquest)
+  - Ranger
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Archfey Patron)
+  - Witch (Blood Magic)
+  - Witch (Green Magic)
 ---
+
 # Dominate Beast
 *4th-level, Enchantment*  
 

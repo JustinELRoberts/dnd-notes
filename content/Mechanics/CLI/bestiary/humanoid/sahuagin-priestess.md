@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/sahuagin
+publish: true
 aliases:
-- "Sahuagin Priestess"
+  - Sahuagin Priestess
+created: 2026-03-09T12:15:34.054-04:00
+modified: 2026-03-09T12:15:34.054-04:00
+published: 2026-03-09T12:15:34.054-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/sahuagin
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Sahuagin Priestess
 *Source: Monster Manual p. 264*  
 ![](Mechanics/CLI/bestiary/humanoid/img/sahuagin.webp#right)

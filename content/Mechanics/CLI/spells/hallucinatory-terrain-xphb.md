@@ -1,40 +1,45 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-shadow
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/fragrant-magic
-- ttrpg-cli/spell/subclass/gingerbread-magic
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/illusionist
-- ttrpg-cli/spell/subclass/sky-magic
-classes:
-- Bard
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Rebirth)
-- Rogue (Arcane Trickster)
-- Warlock
-- Warmage (House of Bishops)
-- Witch (Fragrant Magic)
-- Witch (Gingerbread Magic)
-- Witch (Sky Magic)
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Hallucinatory Terrain"
+  - Hallucinatory Terrain
+created: 2026-03-09T12:15:33.770-04:00
+modified: 2026-03-09T12:15:33.770-04:00
+published: 2026-03-09T12:15:33.770-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-shadow
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/fragrant-magic
+  - ttrpg-cli/spell/subclass/gingerbread-magic
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/sky-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Rebirth)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Witch (Fragrant Magic)
+  - Witch (Gingerbread Magic)
+  - Witch (Sky Magic)
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Hallucinatory Terrain
 *4th-level, Illusion*  
 

@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Infernal Calling"
+  - Infernal Calling
+created: 2026-03-09T12:15:34.105-04:00
+modified: 2026-03-09T12:15:34.105-04:00
+published: 2026-03-09T12:15:34.105-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Warlock
+  - Wizard
 ---
+
 # Infernal Calling
 *5th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/infernal-calling.webp#right)

@@ -1,41 +1,46 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/crone
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oath-of-conquest
-- ttrpg-cli/spell/subclass/oathbreaker
-- ttrpg-cli/spell/subclass/pharaoh
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Tyranny)
-- Necromancer (Crone)
-- Necromancer (Pharaoh)
-- Paladin (Oath of Conquest)
-- Paladin (Oathbreaker)
-- Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Bestow Curse"
+  - Bestow Curse
+created: 2026-03-09T12:15:33.876-04:00
+modified: 2026-03-09T12:15:33.876-04:00
+published: 2026-03-09T12:15:33.876-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/crone
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oath-of-conquest
+  - ttrpg-cli/spell/subclass/oathbreaker
+  - ttrpg-cli/spell/subclass/pharaoh
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Tyranny)
+  - Necromancer (Crone)
+  - Necromancer (Pharaoh)
+  - Paladin (Oath of Conquest)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Bestow Curse
 *3rd-level, Necromancy*  
 

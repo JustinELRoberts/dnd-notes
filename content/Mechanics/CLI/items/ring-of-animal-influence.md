@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/ring
+publish: true
 aliases:
-- "Ring of Animal Influence"
+  - Ring of Animal Influence
+created: 2026-03-09T12:15:33.807-04:00
+modified: 2026-03-09T12:15:33.807-04:00
+published: 2026-03-09T12:15:33.807-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/ring
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ring of Animal Influence
 *Ring, major, rare*  
 ![](Mechanics/CLI/items/img/ring-of-animal-influence.webp#right)

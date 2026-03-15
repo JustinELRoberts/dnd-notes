@@ -1,51 +1,56 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-shadow
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/elf/drow
-- ttrpg-cli/spell/race/tiefling/infernal
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oathbreaker
-- ttrpg-cli/spell/subclass/pharaoh
-- ttrpg-cli/spell/subclass/shadow-magic
-- ttrpg-cli/spell/subclass/warrior-of-shadow
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Calamity)
-- Martyr (Burden of the End)
-- Monk (Warrior of Shadow)
-- Necromancer (Pharaoh)
-- Paladin (Oathbreaker)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Shadow Magic)
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Darkness"
+  - Darkness
+created: 2026-03-09T12:15:34.123-04:00
+modified: 2026-03-09T12:15:34.123-04:00
+published: 2026-03-09T12:15:34.123-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-shadow
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/race/elf/drow
+  - ttrpg-cli/spell/race/tiefling/infernal
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oathbreaker
+  - ttrpg-cli/spell/subclass/pharaoh
+  - ttrpg-cli/spell/subclass/shadow-magic
+  - ttrpg-cli/spell/subclass/warrior-of-shadow
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Calamity)
+  - Martyr (Burden of the End)
+  - Monk (Warrior of Shadow)
+  - Necromancer (Pharaoh)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Shadow Magic)
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Darkness
 *2nd-level, Evocation*  
 

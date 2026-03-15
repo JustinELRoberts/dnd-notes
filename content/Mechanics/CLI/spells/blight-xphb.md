@@ -1,56 +1,61 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/black-magic
-- ttrpg-cli/spell/subclass/blood-magic
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/circle-of-spores
-- ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
-- ttrpg-cli/spell/subclass/corpse-florist
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/grave-domain
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oathbreaker
-- ttrpg-cli/spell/subclass/pale-master
-classes:
-- Bard
-- Cleric (Death Domain)
-- Cleric (Grave Domain)
-- Druid
-- Druid (Circle of Spores)
-- Druid (Circle of the Land, Arid Land)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Calamity)
-- Martyr (Burden of the End)
-- Necromancer (Corpse Florist)
-- Necromancer (Pale Master)
-- Paladin (Oathbreaker)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Witch (Black Magic)
-- Witch (Blood Magic)
-- Wizard
+publish: true
 aliases:
-- "Blight"
+  - Blight
+created: 2026-03-09T12:15:33.869-04:00
+modified: 2026-03-09T12:15:33.869-04:00
+published: 2026-03-09T12:15:33.869-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/black-magic
+  - ttrpg-cli/spell/subclass/blood-magic
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/circle-of-spores
+  - ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
+  - ttrpg-cli/spell/subclass/corpse-florist
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/grave-domain
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oathbreaker
+  - ttrpg-cli/spell/subclass/pale-master
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Druid
+  - Druid (Circle of Spores)
+  - Druid (Circle of the Land, Arid Land)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Calamity)
+  - Martyr (Burden of the End)
+  - Necromancer (Corpse Florist)
+  - Necromancer (Pale Master)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Witch (Black Magic)
+  - Witch (Blood Magic)
+  - Wizard
 ---
+
 # Blight
 *4th-level, Necromancy*  
 

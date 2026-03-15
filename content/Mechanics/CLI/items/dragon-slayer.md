@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Dragon Slayer"
-- "Dragon Slayer Double-Bladed Scimitar"
-- "Dragon Slayer Greatsword"
-- "Dragon Slayer Longsword"
-- "Dragon Slayer Rapier"
-- "Dragon Slayer Scimitar"
-- "Dragon Slayer Shortsword"
+  - Dragon Slayer
+  - Dragon Slayer Double-Bladed Scimitar
+  - Dragon Slayer Greatsword
+  - Dragon Slayer Longsword
+  - Dragon Slayer Rapier
+  - Dragon Slayer Scimitar
+  - Dragon Slayer Shortsword
+created: 2026-03-09T12:15:33.933-04:00
+modified: 2026-03-09T12:15:33.933-04:00
+published: 2026-03-09T12:15:33.933-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Dragon Slayer
 *Major, rare*  
 ![Dragon Slayer (Greatsword)](Mechanics/CLI/items/img/dragon-slayer.webp#right)

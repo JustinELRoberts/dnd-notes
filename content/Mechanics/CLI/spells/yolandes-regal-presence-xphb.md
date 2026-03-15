@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/oath-of-glory
-classes:
-- Bard
-- Paladin (Oath of Glory)
-- Wizard
+publish: true
 aliases:
-- "Yolande's Regal Presence"
+  - Yolande's Regal Presence
+created: 2026-03-09T12:15:34.120-04:00
+modified: 2026-03-09T12:15:34.120-04:00
+published: 2026-03-09T12:15:34.120-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/oath-of-glory
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Paladin (Oath of Glory)
+  - Wizard
 ---
+
 # Yolande's Regal Presence
 *5th-level, Enchantment*  
 ![](Mechanics/CLI/spells/img/yolandes-regal-presence.webp#right)

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/lizardfolk
+publish: true
 aliases:
-- "Lizardfolk"
+  - Lizardfolk
+created: 2026-03-09T12:15:34.138-04:00
+modified: 2026-03-09T12:15:34.138-04:00
+published: 2026-03-09T12:15:34.138-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/lizardfolk
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Lizardfolk
 *Source: Monster Manual p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/humanoid/img/lizardfolk.webp#right)

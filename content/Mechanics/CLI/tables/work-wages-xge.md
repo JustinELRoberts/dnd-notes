@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Work; Wages"
+  - Work; Wages
+created: 2026-03-09T12:15:34.398-04:00
+modified: 2026-03-09T12:15:34.398-04:00
+published: 2026-03-09T12:15:34.398-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Work; Wages
 *Source: Xanathar's Guide to Everything p. 134* 
 

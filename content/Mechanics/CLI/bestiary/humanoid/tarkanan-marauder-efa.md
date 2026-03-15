@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Tarkanan Marauder"
+  - Tarkanan Marauder
+created: 2026-03-09T12:15:33.980-04:00
+modified: 2026-03-09T12:15:33.980-04:00
+published: 2026-03-09T12:15:33.980-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Tarkanan Marauder
 *Source: Eberron: Forge of the Artificer p. 73*  
 ![](Mechanics/CLI/bestiary/humanoid/img/tarkanan-marauder.webp#right)

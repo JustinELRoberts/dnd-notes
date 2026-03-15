@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/shapechanger
+publish: true
 aliases:
-- "Jackalwere"
+  - Jackalwere
+created: 2026-03-09T12:15:33.943-04:00
+modified: 2026-03-09T12:15:33.943-04:00
+published: 2026-03-09T12:15:33.943-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/shapechanger
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Jackalwere
 *Source: Monster Manual p. 193*  
 ![](Mechanics/CLI/bestiary/humanoid/img/jackalwere.webp#right)

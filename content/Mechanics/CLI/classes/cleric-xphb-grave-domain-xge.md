@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/domain/grave
-- ttrpg-cli/subclass/cleric/grave
+publish: true
 aliases:
-- "Grave Domain"
+  - Grave Domain
+created: 2026-03-09T12:15:34.135-04:00
+modified: 2026-03-09T12:15:34.135-04:00
+published: 2026-03-09T12:15:34.135-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/domain/grave
+  - ttrpg-cli/subclass/cleric/grave
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Grave Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Xanathar's Guide to Everything p. 19*  

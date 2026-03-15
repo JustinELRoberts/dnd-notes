@@ -1,48 +1,53 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/mark-of-sentinel
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/alchemist
-- ttrpg-cli/spell/subclass/black-magic
-- ttrpg-cli/spell/subclass/burden-of-ascension
-- ttrpg-cli/spell/subclass/burden-of-atonement
-- ttrpg-cli/spell/subclass/burden-of-mercy
-- ttrpg-cli/spell/subclass/dead-mist-acolyte
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/grave-domain
-- ttrpg-cli/spell/subclass/life-domain
-- ttrpg-cli/spell/subclass/pharaoh
-- ttrpg-cli/spell/subclass/steel-magic
-- ttrpg-cli/spell/subclass/white-magic
-classes:
-- Artificer (Alchemist)
-- Bard
-- Cleric
-- Cleric (Death Domain)
-- Cleric (Grave Domain)
-- Cleric (Life Domain)
-- Martyr (Burden of Ascension)
-- Martyr (Burden of Atonement)
-- Martyr (Burden of Mercy)
-- Necromancer (Dead Mist Acolyte)
-- Necromancer (Pharaoh)
-- Paladin
-- Sorcerer (Divine Soul, Good)
-- Witch (Black Magic)
-- Witch (Steel Magic)
-- Witch (White Magic)
+publish: true
 aliases:
-- "Death Ward"
+  - Death Ward
+created: 2026-03-09T12:15:33.882-04:00
+modified: 2026-03-09T12:15:33.882-04:00
+published: 2026-03-09T12:15:33.882-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/mark-of-sentinel
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/alchemist
+  - ttrpg-cli/spell/subclass/black-magic
+  - ttrpg-cli/spell/subclass/burden-of-ascension
+  - ttrpg-cli/spell/subclass/burden-of-atonement
+  - ttrpg-cli/spell/subclass/burden-of-mercy
+  - ttrpg-cli/spell/subclass/dead-mist-acolyte
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/grave-domain
+  - ttrpg-cli/spell/subclass/life-domain
+  - ttrpg-cli/spell/subclass/pharaoh
+  - ttrpg-cli/spell/subclass/steel-magic
+  - ttrpg-cli/spell/subclass/white-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Cleric
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Cleric (Life Domain)
+  - Martyr (Burden of Ascension)
+  - Martyr (Burden of Atonement)
+  - Martyr (Burden of Mercy)
+  - Necromancer (Dead Mist Acolyte)
+  - Necromancer (Pharaoh)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Witch (Black Magic)
+  - Witch (Steel Magic)
+  - Witch (White Magic)
 ---
+
 # Death Ward
 *4th-level, Abjuration*  
 

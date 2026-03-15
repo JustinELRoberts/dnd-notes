@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/sorcerer/storm
+publish: true
 aliases:
-- "Storm Sorcery"
+  - Storm Sorcery
+created: 2026-03-09T12:15:33.854-04:00
+modified: 2026-03-09T12:15:33.854-04:00
+published: 2026-03-09T12:15:33.854-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/sorcerer/storm
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Storm Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Xanathar's Guide to Everything p. 51*  

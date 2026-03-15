@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Spawn of Kyuss"
+  - Spawn of Kyuss
+created: 2026-03-09T12:15:33.900-04:00
+modified: 2026-03-09T12:15:33.900-04:00
+published: 2026-03-09T12:15:33.900-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Spawn of Kyuss
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192*  
 ![](Mechanics/CLI/bestiary/undead/img/spawn-of-kyuss.webp#right)

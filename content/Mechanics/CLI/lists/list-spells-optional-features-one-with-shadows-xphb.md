@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/optfeature/one-with-shadows
+publish: true
 aliases:
-- "Spells for One with Shadows"
+  - Spells for One with Shadows
+created: 2026-03-09T12:15:34.426-04:00
+modified: 2026-03-09T12:15:34.426-04:00
+published: 2026-03-09T12:15:34.426-04:00
+tags:
+  - ttrpg-cli/spell/list/optfeature/one-with-shadows
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for One with Shadows
 
 ## 2nd Level

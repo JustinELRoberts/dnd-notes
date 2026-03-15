@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Hill Encounters (Levels 1—4)"
+  - Hill Encounters (Levels 1—4)
+created: 2026-03-09T12:15:34.384-04:00
+modified: 2026-03-09T12:15:34.384-04:00
+published: 2026-03-09T12:15:34.384-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Hill Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 101* 
 

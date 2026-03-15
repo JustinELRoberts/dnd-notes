@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/sorcerer/wild-magic
+publish: true
 aliases:
-- "Wild Magic Sorcery"
+  - Wild Magic Sorcery
+created: 2026-03-09T12:15:34.020-04:00
+modified: 2026-03-09T12:15:34.020-04:00
+published: 2026-03-09T12:15:34.020-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/sorcerer/wild-magic
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Wild Magic Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 149*  

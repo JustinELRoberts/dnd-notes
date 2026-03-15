@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Cleric
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Gate"
+  - Gate
+created: 2026-03-09T12:15:33.879-04:00
+modified: 2026-03-09T12:15:33.879-04:00
+published: 2026-03-09T12:15:33.879-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/9th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Wizard
 ---
+
 # Gate
 *9th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/gate.webp#right)

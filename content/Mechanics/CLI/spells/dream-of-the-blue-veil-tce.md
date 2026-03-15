@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Sorcerer
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Dream of the Blue Veil"
+  - Dream of the Blue Veil
+created: 2026-03-09T12:15:34.100-04:00
+modified: 2026-03-09T12:15:34.101-04:00
+published: 2026-03-09T12:15:34.101-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
 ---
+
 # Dream of the Blue Veil
 *7th-level, Conjuration*  
 

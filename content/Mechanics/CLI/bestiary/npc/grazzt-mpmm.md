@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/24
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Graz'zt"
+  - Graz'zt
+created: 2026-03-09T12:15:33.959-04:00
+modified: 2026-03-09T12:15:33.959-04:00
+published: 2026-03-09T12:15:33.959-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/24
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Graz'zt
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 148*  
 ![](Mechanics/CLI/bestiary/npc/img/grazzt.webp#right)

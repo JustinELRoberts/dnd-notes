@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Druid
-- Necromancer
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Hunger of the Earth"
+  - Hunger of the Earth
+created: 2026-03-09T12:15:33.850-04:00
+modified: 2026-03-09T12:15:33.850-04:00
+published: 2026-03-09T12:15:33.850-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Druid
+  - Necromancer
+  - Sorcerer
+  - Wizard
 ---
+
 # Hunger of the Earth
 *4th-level, Transmutation*  
 

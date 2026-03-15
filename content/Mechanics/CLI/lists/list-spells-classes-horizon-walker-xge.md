@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/horizon-walker
+publish: true
 aliases:
-- "Spells for Horizon Walker"
+  - Spells for Horizon Walker
+created: 2026-03-09T12:15:34.428-04:00
+modified: 2026-03-09T12:15:34.428-04:00
+published: 2026-03-09T12:15:34.428-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/horizon-walker
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Horizon Walker
 
 ## 1st Level

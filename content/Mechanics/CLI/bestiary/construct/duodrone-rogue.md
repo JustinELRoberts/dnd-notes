@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Duodrone (Rogue)"
+  - Duodrone (Rogue)
+created: 2026-03-09T12:15:33.938-04:00
+modified: 2026-03-09T12:15:33.938-04:00
+published: 2026-03-09T12:15:33.938-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Duodrone (Rogue)
 *Source: Monster Manual p. 225*  
 

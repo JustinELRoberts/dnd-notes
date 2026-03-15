@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/fighter/champion
+publish: true
 aliases:
-- "Champion"
+  - Champion
+created: 2026-03-09T12:15:33.774-04:00
+modified: 2026-03-09T12:15:33.774-04:00
+published: 2026-03-09T12:15:33.774-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/fighter/champion
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Champion
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

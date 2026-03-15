@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast/cattle
+publish: true
 aliases:
-- "Aurochs"
+  - Aurochs
+created: 2026-03-09T12:15:34.094-04:00
+modified: 2026-03-09T12:15:34.094-04:00
+published: 2026-03-09T12:15:34.094-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast/cattle
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Aurochs
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 207*  
 ![](Mechanics/CLI/bestiary/beast/img/aurochs.webp#right)

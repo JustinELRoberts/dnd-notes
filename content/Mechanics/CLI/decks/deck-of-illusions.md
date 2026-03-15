@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Deck of Illusions"
+  - Deck of Illusions
+created: 2026-03-09T12:15:33.998-04:00
+modified: 2026-03-09T12:15:33.998-04:00
+published: 2026-03-09T12:15:33.998-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-deck
+obsidianUIMode: preview
 ---
+
 # Deck of Illusions
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing ` - 1` cards.

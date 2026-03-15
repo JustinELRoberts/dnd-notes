@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/quaggoth
+publish: true
 aliases:
-- "Quaggoth Thonot"
+  - Quaggoth Thonot
+created: 2026-03-09T12:15:33.952-04:00
+modified: 2026-03-09T12:15:33.952-04:00
+published: 2026-03-09T12:15:33.952-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/quaggoth
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Quaggoth Thonot
 *Source: Monster Manual p. 256*  
 ![](Mechanics/CLI/bestiary/humanoid/img/quaggoth.webp#right)

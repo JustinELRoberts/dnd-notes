@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/pale-master
-- ttrpg-cli/spell/subclass/the-fathomless
-classes:
-- Bard
-- Fighter (Eldritch Knight)
-- Necromancer (Pale Master)
-- Rogue (Arcane Trickster)
-- Sorcerer (Aberrant Sorcery)
-- Warlock (The Fathomless)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Evard's Black Tentacles"
+  - Evard's Black Tentacles
+created: 2026-03-09T12:15:33.796-04:00
+modified: 2026-03-09T12:15:33.796-04:00
+published: 2026-03-09T12:15:33.796-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/pale-master
+  - ttrpg-cli/spell/subclass/the-fathomless
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Necromancer (Pale Master)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock (The Fathomless)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Evard's Black Tentacles
 *4th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/evards-black-tentacles.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/aarakocra
+publish: true
 aliases:
-- "Aarakocra"
+  - Aarakocra
+created: 2026-03-09T12:15:34.018-04:00
+modified: 2026-03-09T12:15:34.018-04:00
+published: 2026-03-09T12:15:34.018-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/aarakocra
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Aarakocra
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 5*  
 ![](Mechanics/CLI/races/img/aarakocra.webp#right)

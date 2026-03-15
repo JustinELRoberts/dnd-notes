@@ -1,26 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/illusionist
-classes:
-- Bard
-- Sorcerer
-- Warlock
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Mental Prison"
+  - Mental Prison
+created: 2026-03-09T12:15:33.952-04:00
+modified: 2026-03-09T12:15:33.952-04:00
+published: 2026-03-09T12:15:33.952-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/illusionist
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Warlock
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Mental Prison
 *6th-level, Illusion*  
 

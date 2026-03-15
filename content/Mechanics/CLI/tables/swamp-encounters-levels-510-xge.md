@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Swamp Encounters (Levels 5—10)"
+  - Swamp Encounters (Levels 5—10)
+created: 2026-03-09T12:15:34.392-04:00
+modified: 2026-03-09T12:15:34.392-04:00
+published: 2026-03-09T12:15:34.392-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Swamp Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 105* 
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Military Force Types"
+  - Military Force Types
+created: 2026-03-09T12:15:34.378-04:00
+modified: 2026-03-09T12:15:34.378-04:00
+published: 2026-03-09T12:15:34.378-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Military Force Types
 *Source: Tasha's Cauldron of Everything p. 96* 
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/kalashtar
+publish: true
 aliases:
-- "Kalashtar"
+  - Kalashtar
+created: 2026-03-09T12:15:34.029-04:00
+modified: 2026-03-09T12:15:34.029-04:00
+published: 2026-03-09T12:15:34.029-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/race/kalashtar
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Kalashtar
 *Source: Eberron: Forge of the Artificer p. 35*  
 ![](Mechanics/CLI/races/img/kalashtar.webp#right)

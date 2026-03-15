@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Hero Points"
+  - Hero Points
+created: 2026-03-09T12:15:34.442-04:00
+modified: 2026-03-09T12:15:34.442-04:00
+published: 2026-03-09T12:15:34.442-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Hero Points
 *Source: Dungeon Master's Guide p. 264* 
 

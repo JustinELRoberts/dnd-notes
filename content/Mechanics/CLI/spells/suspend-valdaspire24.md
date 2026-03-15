@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Sorcerer
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Suspend"
+  - Suspend
+created: 2026-03-09T12:15:34.053-04:00
+modified: 2026-03-09T12:15:34.053-04:00
+published: 2026-03-09T12:15:34.053-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Sorcerer
+  - Warlock
+  - Wizard
 ---
+
 # Suspend
 *5th-level, Transmutation*  
 

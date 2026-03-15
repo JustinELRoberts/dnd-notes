@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/shapechanger
+publish: true
 aliases:
-- "Death Slaad"
+  - Death Slaad
+created: 2026-03-09T12:15:33.848-04:00
+modified: 2026-03-09T12:15:33.848-04:00
+published: 2026-03-09T12:15:33.848-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration/shapechanger
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Death Slaad
 *Source: Monster Manual p. 278*  
 ![](Mechanics/CLI/bestiary/aberration/img/death-slaad.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/optional-feature/ai
+publish: true
 aliases:
-- "Arcane Propulsion Armor"
+  - Arcane Propulsion Armor
+created: 2026-03-09T12:15:33.967-04:00
+modified: 2026-03-09T12:15:33.967-04:00
+published: 2026-03-09T12:15:33.967-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/optional-feature/ai
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Arcane Propulsion Armor 
 
 

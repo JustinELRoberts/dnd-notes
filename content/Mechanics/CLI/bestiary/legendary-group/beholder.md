@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/legendary-group
+publish: true
 aliases:
-- "Beholder"
+  - Beholder
+created: 2026-03-09T12:15:34.411-04:00
+modified: 2026-03-09T12:15:34.411-04:00
+published: 2026-03-09T12:15:34.411-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/legendary-group
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Beholder
 
 ## Lair Actions

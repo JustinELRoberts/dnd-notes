@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Druid
-- Necromancer
-- Sorcerer
-- Warlock
-- Wizard
+publish: true
 aliases:
-- "Rocks Fall"
+  - Rocks Fall
+created: 2026-03-09T12:15:34.031-04:00
+modified: 2026-03-09T12:15:34.031-04:00
+published: 2026-03-09T12:15:34.031-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Necromancer
+  - Sorcerer
+  - Warlock
+  - Wizard
 ---
+
 # Rocks Fall
 *8th-level, Conjuration*  
 

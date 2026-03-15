@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-passage
-- ttrpg-cli/spell/feat/mark-of-shadow
-- ttrpg-cli/spell/feat/wood-elf-magic
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/elf/wood-elf
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/trickery-domain
-- ttrpg-cli/spell/subrace/genasi-earth
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric (Trickery Domain)
-- Druid
-- Martyr (Burden of Rebirth)
-- Ranger
+publish: true
 aliases:
-- "Pass without Trace"
+  - Pass without Trace
+created: 2026-03-09T12:15:33.917-04:00
+modified: 2026-03-09T12:15:33.917-04:00
+published: 2026-03-09T12:15:33.917-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-passage
+  - ttrpg-cli/spell/feat/mark-of-shadow
+  - ttrpg-cli/spell/feat/wood-elf-magic
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/race/elf/wood-elf
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/trickery-domain
+  - ttrpg-cli/spell/subrace/genasi-earth
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Ranger
 ---
+
 # Pass without Trace
 *2nd-level, Abjuration*  
 

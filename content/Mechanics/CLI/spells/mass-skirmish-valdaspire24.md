@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Bard
-- Cleric
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Mass Skirmish"
+  - Mass Skirmish
+created: 2026-03-09T12:15:34.129-04:00
+modified: 2026-03-09T12:15:34.129-04:00
+published: 2026-03-09T12:15:34.129-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Sorcerer
+  - Wizard
 ---
+
 # Mass Skirmish
 *6th-level, Transmutation*  
 

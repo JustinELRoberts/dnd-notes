@@ -1,35 +1,40 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/circle-of-wildfire
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/corpse-florist
-- ttrpg-cli/spell/subclass/green-magic
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Druid (Circle of Wildfire)
-- Martyr (Burden of Rebirth)
-- Necromancer (Corpse Florist)
-- Paladin (Oath of the Ancients)
-- Ranger
-- Warlock (Archfey Patron)
-- Witch (Green Magic)
+publish: true
 aliases:
-- "Plant Growth"
+  - Plant Growth
+created: 2026-03-09T12:15:34.048-04:00
+modified: 2026-03-09T12:15:34.048-04:00
+published: 2026-03-09T12:15:34.048-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/circle-of-wildfire
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/corpse-florist
+  - ttrpg-cli/spell/subclass/green-magic
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Martyr (Burden of Rebirth)
+  - Necromancer (Corpse Florist)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Warlock (Archfey Patron)
+  - Witch (Green Magic)
 ---
+
 # Plant Growth
 *3rd-level, Transmutation*  
 

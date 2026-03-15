@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/phb
+publish: true
 aliases:
-- "Pact Boon"
+  - Pact Boon
+created: 2026-03-09T12:15:34.406-04:00
+modified: 2026-03-09T12:15:34.406-04:00
+published: 2026-03-09T12:15:34.406-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Pact Boon
 *Source: Player's Handbook, Tasha's Cauldron of Everything p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 

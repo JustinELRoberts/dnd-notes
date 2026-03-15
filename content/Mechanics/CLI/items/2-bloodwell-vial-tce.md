@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/rare
+publish: true
 aliases:
-- "+2 Bloodwell Vial"
+  - +2 Bloodwell Vial
+created: 2026-03-09T12:15:34.012-04:00
+modified: 2026-03-09T12:15:34.012-04:00
+published: 2026-03-09T12:15:34.012-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/rare
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +2 Bloodwell Vial
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 

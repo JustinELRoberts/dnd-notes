@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-bastion
-tags:
-- ttrpg-cli/bastion
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Museum"
+  - Museum
+created: 2026-03-09T12:15:33.805-04:00
+modified: 2026-03-09T12:15:33.805-04:00
+published: 2026-03-09T12:15:33.805-04:00
+tags:
+  - ttrpg-cli/bastion
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-bastion
+obsidianUIMode: preview
 ---
+
 # Museum
 *Level 13 Bastion facility*  
 

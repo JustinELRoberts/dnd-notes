@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/war
-- ttrpg-cli/subclass/cleric/war
+publish: true
 aliases:
-- "War Domain"
+  - War Domain
+created: 2026-03-09T12:15:34.014-04:00
+modified: 2026-03-09T12:15:34.014-04:00
+published: 2026-03-09T12:15:34.014-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/domain/war
+  - ttrpg-cli/subclass/cleric/war
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # War Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  

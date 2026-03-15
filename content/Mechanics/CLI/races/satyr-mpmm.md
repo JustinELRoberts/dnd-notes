@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/satyr
+publish: true
 aliases:
-- "Satyr"
+  - Satyr
+created: 2026-03-09T12:15:33.855-04:00
+modified: 2026-03-09T12:15:33.855-04:00
+published: 2026-03-09T12:15:33.855-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/satyr
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Satyr
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 29*  
 ![](Mechanics/CLI/races/img/satyr.webp#right)

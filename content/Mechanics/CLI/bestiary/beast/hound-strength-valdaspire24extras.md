@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Hound (Strength)"
+  - Hound (Strength)
+created: 2026-03-09T12:15:33.906-04:00
+modified: 2026-03-09T12:15:33.906-04:00
+published: 2026-03-09T12:15:33.906-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Hound (Strength)
 *Source: Valda's Spire of Secrets Extras (2024)*  
 

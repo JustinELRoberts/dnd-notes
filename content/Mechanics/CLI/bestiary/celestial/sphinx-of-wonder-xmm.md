@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/planar
-- ttrpg-cli/monster/environment/upper
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/celestial
+publish: true
 aliases:
-- "Sphinx of Wonder"
+  - Sphinx of Wonder
+created: 2026-03-09T12:15:34.025-04:00
+modified: 2026-03-09T12:15:34.025-04:00
+published: 2026-03-09T12:15:34.025-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/planar
+  - ttrpg-cli/monster/environment/upper
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/celestial
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Sphinx of Wonder
 *Source: Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/bestiary/celestial/img/sphinx-of-wonder.webp#right)

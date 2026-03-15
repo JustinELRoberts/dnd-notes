@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/plant
+publish: true
 aliases:
-- "Corpse Flower"
+  - Corpse Flower
+created: 2026-03-09T12:15:33.868-04:00
+modified: 2026-03-09T12:15:33.868-04:00
+published: 2026-03-09T12:15:33.868-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/plant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Corpse Flower
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 82*  
 ![](Mechanics/CLI/bestiary/plant/img/corpse-flower.webp#right)

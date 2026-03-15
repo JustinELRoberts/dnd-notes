@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/life
-- ttrpg-cli/subclass/cleric/life
+publish: true
 aliases:
-- "Life Domain"
+  - Life Domain
+created: 2026-03-09T12:15:33.854-04:00
+modified: 2026-03-09T12:15:33.854-04:00
+published: 2026-03-09T12:15:33.854-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/subclass/cleric/life
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Life Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

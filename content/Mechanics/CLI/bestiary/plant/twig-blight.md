@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/plant
+publish: true
 aliases:
-- "Twig Blight"
+  - Twig Blight
+created: 2026-03-09T12:15:33.961-04:00
+modified: 2026-03-09T12:15:33.961-04:00
+published: 2026-03-09T12:15:33.961-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/plant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Twig Blight
 *Source: Monster Manual p. 32. Available in the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/plant/img/twig-blight.webp#right)

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Well of Many Worlds"
+  - Well of Many Worlds
+created: 2026-03-09T12:15:33.989-04:00
+modified: 2026-03-09T12:15:33.989-04:00
+published: 2026-03-09T12:15:33.989-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Well of Many Worlds
 *Wondrous item, major, legendary*  
 

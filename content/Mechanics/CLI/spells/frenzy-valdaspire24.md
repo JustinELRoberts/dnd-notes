@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/enchantment
-classes:
-- Bard
-- Necromancer
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Frenzy"
+  - Frenzy
+created: 2026-03-09T12:15:34.023-04:00
+modified: 2026-03-09T12:15:34.023-04:00
+published: 2026-03-09T12:15:34.023-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Necromancer
+  - Witch
+  - Wizard
 ---
+
 # Frenzy
 *6th-level, Enchantment*  
 

@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Armor of Cold Resistance"
-- "Breastplate of Cold Resistance"
-- "Chain Mail of Cold Resistance"
-- "Chain Shirt of Cold Resistance"
-- "Half Plate Armor of Cold Resistance"
-- "Hide Armor of Cold Resistance"
-- "Leather Armor of Cold Resistance"
-- "Padded Armor of Cold Resistance"
-- "Plate Armor of Cold Resistance"
-- "Ring Mail of Cold Resistance"
-- "Scale Mail of Cold Resistance"
-- "Spiked Armor of Cold Resistance"
-- "Splint Armor of Cold Resistance"
-- "Studded Leather Armor of Cold Resistance"
+  - Armor of Cold Resistance
+  - Breastplate of Cold Resistance
+  - Chain Mail of Cold Resistance
+  - Chain Shirt of Cold Resistance
+  - Half Plate Armor of Cold Resistance
+  - Hide Armor of Cold Resistance
+  - Leather Armor of Cold Resistance
+  - Padded Armor of Cold Resistance
+  - Plate Armor of Cold Resistance
+  - Ring Mail of Cold Resistance
+  - Scale Mail of Cold Resistance
+  - Spiked Armor of Cold Resistance
+  - Splint Armor of Cold Resistance
+  - Studded Leather Armor of Cold Resistance
+created: 2026-03-09T12:15:33.838-04:00
+modified: 2026-03-09T12:15:33.838-04:00
+published: 2026-03-09T12:15:33.838-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Armor of Cold Resistance
 *Major, rare (requires attunement)*  
 

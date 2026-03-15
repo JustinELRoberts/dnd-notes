@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/subclass/captain/feylost
+publish: true
 aliases:
-- "Feylost"
+  - Feylost
+created: 2026-03-09T12:15:34.052-04:00
+modified: 2026-03-09T12:15:34.052-04:00
+published: 2026-03-09T12:15:34.052-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/subclass/captain/feylost
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Feylost
 *[Captain](./captain-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets Extras (2024)*  

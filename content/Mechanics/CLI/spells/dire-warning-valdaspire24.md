@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/investigator
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/divination
-classes:
-- Cleric
-- Investigator
-- Necromancer
-- Wizard
+publish: true
 aliases:
-- "Dire Warning"
+  - Dire Warning
+created: 2026-03-09T12:15:34.026-04:00
+modified: 2026-03-09T12:15:34.026-04:00
+published: 2026-03-09T12:15:34.026-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/investigator
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/divination
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Cleric
+  - Investigator
+  - Necromancer
+  - Wizard
 ---
+
 # Dire Warning
 *4th-level, Divination*  
 

@@ -1,43 +1,48 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/mark-of-warding
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oath-of-the-watchers
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Paladin (Oath of the Watchers)
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer (Clockwork Sorcery)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Alarm"
+  - Alarm
+created: 2026-03-09T12:15:33.930-04:00
+modified: 2026-03-09T12:15:33.930-04:00
+published: 2026-03-09T12:15:33.930-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/mark-of-warding
+  - ttrpg-cli/spell/feat/ritual-caster
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oath-of-the-watchers
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Watchers)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Clockwork Sorcery)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Alarm
 *1st-level, Abjuration (ritual)*  
 

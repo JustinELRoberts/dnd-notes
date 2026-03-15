@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/phb
+publish: true
 aliases:
-- "Maneuver, Battle Master"
+  - Maneuver, Battle Master
+created: 2026-03-09T12:15:34.410-04:00
+modified: 2026-03-09T12:15:34.410-04:00
+published: 2026-03-09T12:15:34.410-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Maneuver, Battle Master
 *Source: Player's Handbook, Tasha's Cauldron of Everything p. 42, Player's Handbook (2024)* 
 

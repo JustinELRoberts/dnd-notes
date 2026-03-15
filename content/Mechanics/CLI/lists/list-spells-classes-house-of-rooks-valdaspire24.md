@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/house-of-rooks
+publish: true
 aliases:
-- "Spells for House of Rooks"
+  - Spells for House of Rooks
+created: 2026-03-09T12:15:34.431-04:00
+modified: 2026-03-09T12:15:34.431-04:00
+published: 2026-03-09T12:15:34.431-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/house-of-rooks
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for House of Rooks
 
 ## 1st Level

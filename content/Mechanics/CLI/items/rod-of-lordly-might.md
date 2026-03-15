@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/rod
+publish: true
 aliases:
-- "Rod of Lordly Might"
+  - Rod of Lordly Might
+created: 2026-03-09T12:15:33.986-04:00
+modified: 2026-03-09T12:15:33.986-04:00
+published: 2026-03-09T12:15:33.986-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/rod
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Rod of Lordly Might
 *Rod ([mace](Mechanics/CLI/items/mace-xphb.md)), melee weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, legendary (requires attunement)*  
 ![](Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)

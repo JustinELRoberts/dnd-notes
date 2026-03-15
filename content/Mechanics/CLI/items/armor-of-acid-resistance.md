@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Armor of Acid Resistance"
-- "Breastplate of Acid Resistance"
-- "Chain Mail of Acid Resistance"
-- "Chain Shirt of Acid Resistance"
-- "Half Plate Armor of Acid Resistance"
-- "Hide Armor of Acid Resistance"
-- "Leather Armor of Acid Resistance"
-- "Padded Armor of Acid Resistance"
-- "Plate Armor of Acid Resistance"
-- "Ring Mail of Acid Resistance"
-- "Scale Mail of Acid Resistance"
-- "Spiked Armor of Acid Resistance"
-- "Splint Armor of Acid Resistance"
-- "Studded Leather Armor of Acid Resistance"
+  - Armor of Acid Resistance
+  - Breastplate of Acid Resistance
+  - Chain Mail of Acid Resistance
+  - Chain Shirt of Acid Resistance
+  - Half Plate Armor of Acid Resistance
+  - Hide Armor of Acid Resistance
+  - Leather Armor of Acid Resistance
+  - Padded Armor of Acid Resistance
+  - Plate Armor of Acid Resistance
+  - Ring Mail of Acid Resistance
+  - Scale Mail of Acid Resistance
+  - Spiked Armor of Acid Resistance
+  - Splint Armor of Acid Resistance
+  - Studded Leather Armor of Acid Resistance
+created: 2026-03-09T12:15:33.959-04:00
+modified: 2026-03-09T12:15:33.959-04:00
+published: 2026-03-09T12:15:33.959-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Armor of Acid Resistance
 *Major, rare (requires attunement)*  
 

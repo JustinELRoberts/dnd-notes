@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/twilight
+publish: true
 aliases:
-- "Helm"
-- "The Watcher"
-- "He of the Unsleeping Eyes"
-- "The Vigilant One"
+  - Helm
+  - The Watcher
+  - He of the Unsleeping Eyes
+  - The Vigilant One
+created: 2026-03-09T12:15:34.051-04:00
+modified: 2026-03-09T12:15:34.051-04:00
+published: 2026-03-09T12:15:34.051-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/scag
+  - ttrpg-cli/deity/faerunian
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/domain/twilight
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Helm
 ![](Mechanics/CLI/deities/img/scag-symbol-of-helm.webp#symbol)
 

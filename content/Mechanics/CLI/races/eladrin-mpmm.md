@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/eladrin
+publish: true
 aliases:
-- "Eladrin"
+  - Eladrin
+created: 2026-03-09T12:15:33.776-04:00
+modified: 2026-03-09T12:15:33.776-04:00
+published: 2026-03-09T12:15:33.776-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/eladrin
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Eladrin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 13*  
 ![](Mechanics/CLI/races/img/eladrin.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/genasi/fire
+publish: true
 aliases:
-- "Genasi (Fire)"
+  - Genasi (Fire)
+created: 2026-03-09T12:15:33.974-04:00
+modified: 2026-03-09T12:15:33.974-04:00
+published: 2026-03-09T12:15:33.974-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/genasi/fire
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Genasi (Fire)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  
 ![](Mechanics/CLI/races/img/genasi.webp#right)

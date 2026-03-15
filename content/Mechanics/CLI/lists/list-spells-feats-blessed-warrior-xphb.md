@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/blessed-warrior
+publish: true
 aliases:
-- "Spells for Blessed Warrior"
+  - Spells for Blessed Warrior
+created: 2026-03-09T12:15:34.424-04:00
+modified: 2026-03-09T12:15:34.424-04:00
+published: 2026-03-09T12:15:34.424-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/blessed-warrior
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Blessed Warrior
 
 ## Cantrip

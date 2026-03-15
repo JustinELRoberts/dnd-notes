@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
-- ttrpg-cli/spell/subclass/corpse-florist
-- ttrpg-cli/spell/subclass/green-magic
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-classes:
-- Bard
-- Druid
-- Druid (Circle of the Land, Temperate Land)
-- Necromancer (Corpse Florist)
-- Paladin (Oath of the Ancients)
-- Ranger
-- Witch (Green Magic)
+publish: true
 aliases:
-- "Tree Stride"
+  - Tree Stride
+created: 2026-03-09T12:15:34.089-04:00
+modified: 2026-03-09T12:15:34.089-04:00
+published: 2026-03-09T12:15:34.089-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
+  - ttrpg-cli/spell/subclass/corpse-florist
+  - ttrpg-cli/spell/subclass/green-magic
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Druid (Circle of the Land, Temperate Land)
+  - Necromancer (Corpse Florist)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Witch (Green Magic)
 ---
+
 # Tree Stride
 *5th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/tree-stride.webp#right)

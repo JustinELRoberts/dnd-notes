@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/scroll
+publish: true
 aliases:
-- "Spell Scroll"
+  - Spell Scroll
+created: 2026-03-09T12:15:33.913-04:00
+modified: 2026-03-09T12:15:33.914-04:00
+published: 2026-03-09T12:15:33.914-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/varies
+  - ttrpg-cli/item/wondrous/scroll
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Spell Scroll
 *Scroll*  
 

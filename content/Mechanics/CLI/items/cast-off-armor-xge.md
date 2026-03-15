@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Cast-Off Armor"
-- "Cast-Off Breastplate"
-- "Cast-Off Chain Mail"
-- "Cast-Off Chain Shirt"
-- "Cast-Off Half Plate Armor"
-- "Cast-Off Hide Armor"
-- "Cast-Off Leather Armor"
-- "Cast-Off Padded Armor"
-- "Cast-Off Plate Armor"
-- "Cast-Off Ring Mail"
-- "Cast-Off Scale Mail"
-- "Cast-Off Spiked Armor"
-- "Cast-Off Splint Armor"
-- "Cast-Off Studded Leather Armor"
+  - Cast-Off Armor
+  - Cast-Off Breastplate
+  - Cast-Off Chain Mail
+  - Cast-Off Chain Shirt
+  - Cast-Off Half Plate Armor
+  - Cast-Off Hide Armor
+  - Cast-Off Leather Armor
+  - Cast-Off Padded Armor
+  - Cast-Off Plate Armor
+  - Cast-Off Ring Mail
+  - Cast-Off Scale Mail
+  - Cast-Off Spiked Armor
+  - Cast-Off Splint Armor
+  - Cast-Off Studded Leather Armor
+created: 2026-03-09T12:15:34.040-04:00
+modified: 2026-03-09T12:15:34.040-04:00
+published: 2026-03-09T12:15:34.040-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Cast-Off Armor
 *Minor, common*  
 

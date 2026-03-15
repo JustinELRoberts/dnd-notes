@@ -1,51 +1,56 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/aberrant-dragonmark
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/reward/boon-of-the-stormborn
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/armorer
-- ttrpg-cli/spell/subclass/artillerist
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/the-fathomless
-- ttrpg-cli/spell/subclass/the-genie/djinni
-classes:
-- Artificer (Armorer)
-- Artificer (Artillerist)
-- Bard
-- Bard (College of Lore)
-- Druid
-- Druid (Circle of the Sea)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Calamity)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (The Fathomless)
-- Warlock (The Genie, Djinni)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Thunderwave"
+  - Thunderwave
+created: 2026-03-09T12:15:33.961-04:00
+modified: 2026-03-09T12:15:33.961-04:00
+published: 2026-03-09T12:15:33.961-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/reward/boon-of-the-stormborn
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/artillerist
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/the-fathomless
+  - ttrpg-cli/spell/subclass/the-genie/djinni
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Armorer)
+  - Artificer (Artillerist)
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Calamity)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Djinni)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Thunderwave
 *1st-level, Evocation*  
 

@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/celestial
+publish: true
 aliases:
-- "Ki-rin"
+  - Ki-rin
+created: 2026-03-09T12:15:33.980-04:00
+modified: 2026-03-09T12:15:33.980-04:00
+published: 2026-03-09T12:15:33.980-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/celestial
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Ki-rin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
 ![](Mechanics/CLI/bestiary/celestial/img/ki-rin.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/barbarian/wild-magic
+publish: true
 aliases:
-- "Path of Wild Magic"
+  - Path of Wild Magic
+created: 2026-03-09T12:15:34.061-04:00
+modified: 2026-03-09T12:15:34.061-04:00
+published: 2026-03-09T12:15:34.061-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/barbarian/wild-magic
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Path of Wild Magic
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Tasha's Cauldron of Everything p. 25*  

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/esk
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Expert"
+  - Expert
+created: 2026-03-09T12:15:33.814-04:00
+modified: 2026-03-09T12:15:33.814-04:00
+published: 2026-03-09T12:15:33.814-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/esk
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Expert
 *Source: Essentials Kit p. 63*  
 

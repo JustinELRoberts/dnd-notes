@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Alkilith"
+  - Alkilith
+created: 2026-03-09T12:15:34.123-04:00
+modified: 2026-03-09T12:15:34.124-04:00
+published: 2026-03-09T12:15:34.124-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Alkilith
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 44*  
 ![](Mechanics/CLI/bestiary/fiend/img/alkilith.webp#right)

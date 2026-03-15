@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Elder Tempest"
+  - Elder Tempest
+created: 2026-03-09T12:15:33.887-04:00
+modified: 2026-03-09T12:15:33.887-04:00
+published: 2026-03-09T12:15:33.887-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Elder Tempest
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 121*  
 ![](Mechanics/CLI/bestiary/elemental/img/elder-tempest.webp#right)

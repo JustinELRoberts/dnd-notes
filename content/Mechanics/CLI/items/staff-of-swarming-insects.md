@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Staff of Swarming Insects"
+  - Staff of Swarming Insects
+created: 2026-03-09T12:15:33.984-04:00
+modified: 2026-03-09T12:15:33.984-04:00
+published: 2026-03-09T12:15:33.984-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Staff of Swarming Insects
 *Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
 ![](Mechanics/CLI/items/img/staff-of-swarming-insects.webp#right)

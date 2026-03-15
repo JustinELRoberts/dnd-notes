@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/aberration/sorcerer
+publish: true
 aliases:
-- "Derro Savant"
+  - Derro Savant
+created: 2026-03-09T12:15:33.978-04:00
+modified: 2026-03-09T12:15:33.978-04:00
+published: 2026-03-09T12:15:33.978-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/aberration/sorcerer
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Derro Savant
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
 ![](Mechanics/CLI/bestiary/aberration/img/derro-savant.webp#right)

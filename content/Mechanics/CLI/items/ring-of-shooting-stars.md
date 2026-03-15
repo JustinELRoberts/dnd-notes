@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/ring
+publish: true
 aliases:
-- "Ring of Shooting Stars"
+  - Ring of Shooting Stars
+created: 2026-03-09T12:15:34.011-04:00
+modified: 2026-03-09T12:15:34.011-04:00
+published: 2026-03-09T12:15:34.011-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/ring
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ring of Shooting Stars
 *Ring, major, very rare (requires attunement outdoors at night)*  
 ![](Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right)

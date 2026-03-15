@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/warlock/fathomless
+publish: true
 aliases:
-- "The Fathomless"
+  - The Fathomless
+created: 2026-03-09T12:15:33.847-04:00
+modified: 2026-03-09T12:15:33.847-04:00
+published: 2026-03-09T12:15:33.847-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/warlock/fathomless
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # The Fathomless
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Tasha's Cauldron of Everything p. 72*  

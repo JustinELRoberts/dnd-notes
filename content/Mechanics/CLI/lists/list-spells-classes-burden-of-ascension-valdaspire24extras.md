@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/burden-of-ascension
+publish: true
 aliases:
-- "Spells for Burden of Ascension"
+  - Spells for Burden of Ascension
+created: 2026-03-09T12:15:34.431-04:00
+modified: 2026-03-09T12:15:34.431-04:00
+published: 2026-03-09T12:15:34.431-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/burden-of-ascension
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Burden of Ascension
 
 ## 1st Level

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Young Brass Dragon"
+  - Young Brass Dragon
+created: 2026-03-09T12:15:34.136-04:00
+modified: 2026-03-09T12:15:34.136-04:00
+published: 2026-03-09T12:15:34.136-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Young Brass Dragon
 *Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/brass-dragon.webp#right)

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Aristocrat Types"
+  - Aristocrat Types
+created: 2026-03-09T12:15:34.372-04:00
+modified: 2026-03-09T12:15:34.372-04:00
+published: 2026-03-09T12:15:34.372-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Aristocrat Types
 *Source: Tasha's Cauldron of Everything p. 89* 
 

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Dolphin"
+  - Dolphin
+created: 2026-03-09T12:15:34.133-04:00
+modified: 2026-03-09T12:15:34.133-04:00
+published: 2026-03-09T12:15:34.133-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dolphin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
 ![](Mechanics/CLI/bestiary/beast/img/dolphin.webp#right)

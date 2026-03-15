@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Fomorian"
+  - Fomorian
+created: 2026-03-09T12:15:33.993-04:00
+modified: 2026-03-09T12:15:33.993-04:00
+published: 2026-03-09T12:15:33.993-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Fomorian
 *Source: Monster Manual p. 136*  
 ![](Mechanics/CLI/bestiary/giant/img/fomorian.webp#right)

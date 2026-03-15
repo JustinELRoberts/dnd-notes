@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/dragonborn
+publish: true
 aliases:
-- "Dragonborn"
+  - Dragonborn
+created: 2026-03-09T12:15:34.119-04:00
+modified: 2026-03-09T12:15:34.119-04:00
+published: 2026-03-09T12:15:34.119-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/race/dragonborn
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Dragonborn
 *Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/races/img/dragonborn.webp#right)

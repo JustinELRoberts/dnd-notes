@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
+publish: true
 aliases:
-- "Demonomicon of Iggwilv"
+  - Demonomicon of Iggwilv
+created: 2026-03-09T12:15:34.057-04:00
+modified: 2026-03-09T12:15:34.057-04:00
+published: 2026-03-09T12:15:34.057-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/demonomicon-of-iggwilv.webp#right)

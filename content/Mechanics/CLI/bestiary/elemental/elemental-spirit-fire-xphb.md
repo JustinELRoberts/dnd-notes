@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Elemental Spirit (Fire)"
+  - Elemental Spirit (Fire)
+created: 2026-03-09T12:15:33.952-04:00
+modified: 2026-03-09T12:15:33.952-04:00
+published: 2026-03-09T12:15:33.952-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Elemental Spirit (Fire)
 *Source: Player's Handbook (2024) p. 325*  
 

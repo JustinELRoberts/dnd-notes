@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/expert-sidekick
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Expert Sidekick"
+  - Expert Sidekick
+created: 2026-03-09T12:15:34.057-04:00
+modified: 2026-03-09T12:15:34.057-04:00
+published: 2026-03-09T12:15:34.057-04:00
+tags:
+  - ttrpg-cli/class/expert-sidekick
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Expert Sidekick
 *Source: Tasha's Cauldron of Everything p. 142*  
 

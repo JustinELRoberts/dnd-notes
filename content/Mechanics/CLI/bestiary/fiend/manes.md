@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Manes"
+  - Manes
+created: 2026-03-09T12:15:33.785-04:00
+modified: 2026-03-09T12:15:33.785-04:00
+published: 2026-03-09T12:15:33.785-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Manes
 *Source: Monster Manual p. 60*  
 ![](Mechanics/CLI/bestiary/fiend/img/manes.webp#right)

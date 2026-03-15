@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "2,500 gp Art Objects"
+  - 2,500 gp Art Objects
+created: 2026-03-09T12:15:34.418-04:00
+modified: 2026-03-09T12:15:34.418-04:00
+published: 2026-03-09T12:15:34.418-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # 2,500 gp Art Objects
 *Source: Dungeon Master's Guide p. 134* 
 

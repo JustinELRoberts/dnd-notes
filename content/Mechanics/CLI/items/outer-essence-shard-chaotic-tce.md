@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/rare
+publish: true
 aliases:
-- "Outer Essence Shard (Chaotic)"
+  - Outer Essence Shard (Chaotic)
+created: 2026-03-09T12:15:34.135-04:00
+modified: 2026-03-09T12:15:34.136-04:00
+published: 2026-03-09T12:15:34.136-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/rare
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Outer Essence Shard (Chaotic)
 *Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 

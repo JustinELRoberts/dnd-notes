@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Giant Crocodile"
+  - Giant Crocodile
+created: 2026-03-09T12:15:34.011-04:00
+modified: 2026-03-09T12:15:34.011-04:00
+published: 2026-03-09T12:15:34.011-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Giant Crocodile
 *Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 

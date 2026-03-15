@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/evoker
-classes:
-- Bard
-- Cleric
-- Druid
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Sunburst"
+  - Sunburst
+created: 2026-03-09T12:15:33.988-04:00
+modified: 2026-03-09T12:15:33.988-04:00
+published: 2026-03-09T12:15:33.988-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/evoker
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Sunburst
 *8th-level, Evocation*  
 

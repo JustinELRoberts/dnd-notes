@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fey
+publish: true
 aliases:
-- "Fey Spirit (Mirthful)"
+  - Fey Spirit (Mirthful)
+created: 2026-03-09T12:15:33.904-04:00
+modified: 2026-03-09T12:15:33.904-04:00
+published: 2026-03-09T12:15:33.904-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fey
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Fey Spirit (Mirthful)
 *Source: Player's Handbook (2024) p. 326*  
 

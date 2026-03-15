@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-classes:
-- Bard
-- Druid
-- Martyr (Burden of Rebirth)
+publish: true
 aliases:
-- "Giant Insect"
+  - Giant Insect
+created: 2026-03-09T12:15:34.030-04:00
+modified: 2026-03-09T12:15:34.030-04:00
+published: 2026-03-09T12:15:34.030-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Martyr (Burden of Rebirth)
 ---
+
 # Giant Insect
 *4th-level, Conjuration*  
 

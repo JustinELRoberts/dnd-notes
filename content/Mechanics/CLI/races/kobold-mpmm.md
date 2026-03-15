@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/kobold
+publish: true
 aliases:
-- "Kobold"
+  - Kobold
+created: 2026-03-09T12:15:33.805-04:00
+modified: 2026-03-09T12:15:33.805-04:00
+published: 2026-03-09T12:15:33.805-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/kobold
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Kobold
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 25*  
 ![](Mechanics/CLI/races/img/kobold.webp#right)

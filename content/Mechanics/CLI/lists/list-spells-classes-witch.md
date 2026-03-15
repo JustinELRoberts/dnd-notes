@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/class/witch
+publish: true
 aliases:
-- "Witch Spells"
+  - Witch Spells
+created: 2026-03-09T12:15:34.421-04:00
+modified: 2026-03-09T12:15:34.421-04:00
+published: 2026-03-09T12:15:34.421-04:00
+tags:
+  - ttrpg-cli/spell/list/class/witch
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Witch Spells
 
 ## Cantrip

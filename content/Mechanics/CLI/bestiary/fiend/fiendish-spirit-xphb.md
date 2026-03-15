@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend
+publish: true
 aliases:
-- "Fiendish Spirit"
+  - Fiendish Spirit
+created: 2026-03-09T12:15:34.089-04:00
+modified: 2026-03-09T12:15:34.089-04:00
+published: 2026-03-09T12:15:34.089-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Fiendish Spirit
 *Source: Player's Handbook (2024) p. 327*  
 ![](Mechanics/CLI/bestiary/fiend/img/fiendish-spirit.webp#center)

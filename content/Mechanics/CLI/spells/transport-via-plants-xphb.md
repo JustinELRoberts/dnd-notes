@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Druid
+publish: true
 aliases:
-- "Transport via Plants"
+  - Transport via Plants
+created: 2026-03-09T12:15:33.910-04:00
+modified: 2026-03-09T12:15:33.910-04:00
+published: 2026-03-09T12:15:33.910-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
 ---
+
 # Transport via Plants
 *6th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/transport-via-plants.webp#right)

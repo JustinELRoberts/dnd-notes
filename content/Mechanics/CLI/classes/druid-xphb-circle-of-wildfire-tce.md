@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/druid/wildfire
+publish: true
 aliases:
-- "Circle of Wildfire"
+  - Circle of Wildfire
+created: 2026-03-09T12:15:34.112-04:00
+modified: 2026-03-09T12:15:34.112-04:00
+published: 2026-03-09T12:15:34.112-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/druid/wildfire
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Circle of Wildfire
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Tasha's Cauldron of Everything p. 39*  

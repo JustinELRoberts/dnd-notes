@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Spirit Troll"
+  - Spirit Troll
+created: 2026-03-09T12:15:34.044-04:00
+modified: 2026-03-09T12:15:34.044-04:00
+published: 2026-03-09T12:15:34.044-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Spirit Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
 ![](Mechanics/CLI/bestiary/giant/img/spirit-troll.webp#right)

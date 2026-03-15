@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "At Sea Encounters"
+  - At Sea Encounters
+created: 2026-03-09T12:15:34.406-04:00
+modified: 2026-03-09T12:15:34.406-04:00
+published: 2026-03-09T12:15:34.406-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # At Sea Encounters
 *Source: Dungeon Master's Guide p. 118* 
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/khoravar
+publish: true
 aliases:
-- "Khoravar"
+  - Khoravar
+created: 2026-03-09T12:15:34.139-04:00
+modified: 2026-03-09T12:15:34.139-04:00
+published: 2026-03-09T12:15:34.139-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/race/khoravar
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Khoravar
 *Source: Eberron: Forge of the Artificer p. 36*  
 ![](Mechanics/CLI/races/img/khoravar.webp#right)

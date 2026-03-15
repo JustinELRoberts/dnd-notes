@@ -1,26 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Cleric
-- Druid
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Earthquake"
+  - Earthquake
+created: 2026-03-09T12:15:33.814-04:00
+modified: 2026-03-09T12:15:33.814-04:00
+published: 2026-03-09T12:15:33.814-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Earthquake
 *8th-level, Transmutation*  
 

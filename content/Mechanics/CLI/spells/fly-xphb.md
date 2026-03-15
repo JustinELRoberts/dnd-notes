@@ -1,46 +1,51 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-odyssey
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/crone
-- ttrpg-cli/spell/subclass/draconic-sorcery
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/sky-magic
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Odyssey)
-- Necromancer (Crone)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Sorcerer (Draconic Sorcery)
-- Warden (Drake-Blooded)
-- Warlock
-- Warmage (House of Bishops)
-- Witch (Sky Magic)
-- Witch (Technicolor Magic)
-- Wizard
+publish: true
 aliases:
-- "Fly"
+  - Fly
+created: 2026-03-09T12:15:33.888-04:00
+modified: 2026-03-09T12:15:33.888-04:00
+published: 2026-03-09T12:15:33.888-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-odyssey
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/crone
+  - ttrpg-cli/spell/subclass/draconic-sorcery
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/sky-magic
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Odyssey)
+  - Necromancer (Crone)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Sorcerer (Draconic Sorcery)
+  - Warden (Drake-Blooded)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Witch (Sky Magic)
+  - Witch (Technicolor Magic)
+  - Wizard
 ---
+
 # Fly
 *3rd-level, Transmutation*  
 

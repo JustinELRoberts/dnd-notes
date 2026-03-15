@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/mark-of-healing
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/battle-smith
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/twilight-domain
-classes:
-- Artificer (Battle Smith)
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Twilight Domain)
-- Druid
-- Paladin
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Aura of Vitality"
+  - Aura of Vitality
+created: 2026-03-09T12:15:33.806-04:00
+modified: 2026-03-09T12:15:33.806-04:00
+published: 2026-03-09T12:15:33.806-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/mark-of-healing
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/battle-smith
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/twilight-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Twilight Domain)
+  - Druid
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Aura of Vitality
 *3rd-level, Abjuration*  
 

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/gith
+publish: true
 aliases:
-- "Githyanki Knight"
+  - Githyanki Knight
+created: 2026-03-09T12:15:34.014-04:00
+modified: 2026-03-09T12:15:34.014-04:00
+published: 2026-03-09T12:15:34.014-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/gith
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Githyanki Knight
 *Source: Monster Manual p. 160*  
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki.webp#right)

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Ruby of the War Mage"
+  - Ruby of the War Mage
+created: 2026-03-09T12:15:34.097-04:00
+modified: 2026-03-09T12:15:34.097-04:00
+published: 2026-03-09T12:15:34.097-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ruby of the War Mage
 *Wondrous item, minor, common (requires attunement by a spellcaster)*  
 

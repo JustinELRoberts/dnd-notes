@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/genasi/air
+publish: true
 aliases:
-- "Genasi (Air)"
+  - Genasi (Air)
+created: 2026-03-09T12:15:33.995-04:00
+modified: 2026-03-09T12:15:33.995-04:00
+published: 2026-03-09T12:15:33.995-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/genasi/air
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Genasi (Air)
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 16*  
 ![](Mechanics/CLI/races/img/genasi.webp#right)

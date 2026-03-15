@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-detection
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-truth
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/pharaoh
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Bard
-- Cleric
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Truth)
-- Necromancer (Pharaoh)
-- Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Warmage (House of Bishops)
-- Witch (Tea Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Divination"
+  - Divination
+created: 2026-03-09T12:15:33.957-04:00
+modified: 2026-03-09T12:15:33.957-04:00
+published: 2026-03-09T12:15:33.957-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-detection
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-truth
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/pharaoh
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Truth)
+  - Necromancer (Pharaoh)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warmage (House of Bishops)
+  - Witch (Tea Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Divination
 *4th-level, Divination (ritual)*  
 

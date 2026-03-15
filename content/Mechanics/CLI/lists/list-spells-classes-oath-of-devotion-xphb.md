@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/oath-of-devotion
+publish: true
 aliases:
-- "Spells for Oath of Devotion"
+  - Spells for Oath of Devotion
+created: 2026-03-09T12:15:34.424-04:00
+modified: 2026-03-09T12:15:34.424-04:00
+published: 2026-03-09T12:15:34.424-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/oath-of-devotion
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Oath of Devotion
 
 ## 1st Level

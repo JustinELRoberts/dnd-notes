@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Nabassu"
+  - Nabassu
+created: 2026-03-09T12:15:33.778-04:00
+modified: 2026-03-09T12:15:33.778-04:00
+published: 2026-03-09T12:15:33.778-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/15
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Nabassu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 188*  
 ![](Mechanics/CLI/bestiary/fiend/img/nabassu.webp#right)

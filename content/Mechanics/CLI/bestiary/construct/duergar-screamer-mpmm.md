@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct/dwarf
+publish: true
 aliases:
-- "Duergar Screamer"
+  - Duergar Screamer
+created: 2026-03-09T12:15:34.118-04:00
+modified: 2026-03-09T12:15:34.118-04:00
+published: 2026-03-09T12:15:34.118-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct/dwarf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Duergar Screamer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 

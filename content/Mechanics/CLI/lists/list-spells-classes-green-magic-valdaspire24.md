@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/green-magic
+publish: true
 aliases:
-- "Spells for Green Magic"
+  - Spells for Green Magic
+created: 2026-03-09T12:15:34.424-04:00
+modified: 2026-03-09T12:15:34.424-04:00
+published: 2026-03-09T12:15:34.424-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/green-magic
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Green Magic
 
 ## Cantrip

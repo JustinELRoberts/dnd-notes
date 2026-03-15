@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Neogi Hatchling"
+  - Neogi Hatchling
+created: 2026-03-09T12:15:33.923-04:00
+modified: 2026-03-09T12:15:33.923-04:00
+published: 2026-03-09T12:15:33.923-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Neogi Hatchling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179*  
 ![](Mechanics/CLI/bestiary/aberration/img/neogi-hatchling.webp#right)

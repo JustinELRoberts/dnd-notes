@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-vehicle
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/vehicle/size/large
-- ttrpg-cli/vehicle/terrain/sea
-- ttrpg-cli/vehicle/type/object
+publish: true
 aliases:
-- "Apparatus of Kwalish"
+  - Apparatus of Kwalish
+created: 2026-03-09T12:15:33.987-04:00
+modified: 2026-03-09T12:15:33.987-04:00
+published: 2026-03-09T12:15:33.987-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/vehicle/size/large
+  - ttrpg-cli/vehicle/terrain/sea
+  - ttrpg-cli/vehicle/type/object
+cssclasses:
+  - json5e-vehicle
+obsidianUIMode: preview
 ---
+
 # Apparatus of Kwalish
 *Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*  
 

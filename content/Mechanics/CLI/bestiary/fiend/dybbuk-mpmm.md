@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Dybbuk"
+  - Dybbuk
+created: 2026-03-09T12:15:33.903-04:00
+modified: 2026-03-09T12:15:33.903-04:00
+published: 2026-03-09T12:15:33.903-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dybbuk
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 113*  
 ![](Mechanics/CLI/bestiary/fiend/img/dybbuk.webp#right)

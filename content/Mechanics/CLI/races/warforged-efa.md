@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/warforged
+publish: true
 aliases:
-- "Warforged"
+  - Warforged
+created: 2026-03-09T12:15:33.917-04:00
+modified: 2026-03-09T12:15:33.917-04:00
+published: 2026-03-09T12:15:33.917-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/race/warforged
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Warforged
 *Source: Eberron: Forge of the Artificer p. 38*  
 ![](Mechanics/CLI/races/img/warforged.webp#right)

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Dungeon Dressing; Utensils and Personal Items"
+  - Dungeon Dressing; Utensils and Personal Items
+created: 2026-03-09T12:15:34.370-04:00
+modified: 2026-03-09T12:15:34.370-04:00
+published: 2026-03-09T12:15:34.370-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Dungeon Dressing; Utensils and Personal Items
 *Source: Dungeon Master's Guide p. 298* 
 

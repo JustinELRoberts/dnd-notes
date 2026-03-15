@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/rare
+publish: true
 aliases:
-- "Reveler's Concertina"
+  - Reveler's Concertina
+created: 2026-03-09T12:15:34.002-04:00
+modified: 2026-03-09T12:15:34.002-04:00
+published: 2026-03-09T12:15:34.002-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/rare
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Reveler's Concertina
 *Wondrous item, instrument, rare (requires attunement by a bard)*  
 

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/item/gear/monstrous-graft
-- ttrpg-cli/item/rarity/common
+publish: true
 aliases:
-- "Heart of Steel"
+  - Heart of Steel
+created: 2026-03-09T12:15:33.842-04:00
+modified: 2026-03-09T12:15:33.842-04:00
+published: 2026-03-09T12:15:33.842-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/item/gear/monstrous-graft
+  - ttrpg-cli/item/rarity/common
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Heart of Steel
 *Monstrous graft, common*  
 

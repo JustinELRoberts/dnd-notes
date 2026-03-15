@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Wild Magic"
+  - Wild Magic
+created: 2026-03-09T12:15:34.404-04:00
+modified: 2026-03-09T12:15:34.404-04:00
+published: 2026-03-09T12:15:34.404-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Wild Magic
 *Source: Tasha's Cauldron of Everything p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

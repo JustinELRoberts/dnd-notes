@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Life Transference"
+  - Life Transference
+created: 2026-03-09T12:15:33.981-04:00
+modified: 2026-03-09T12:15:33.981-04:00
+published: 2026-03-09T12:15:33.981-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Life Transference
 *3rd-level, Necromancy*  
 

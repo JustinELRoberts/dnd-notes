@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
+publish: true
 aliases:
-- "Cauldron of Rebirth"
+  - Cauldron of Rebirth
+created: 2026-03-09T12:15:34.026-04:00
+modified: 2026-03-09T12:15:34.026-04:00
+published: 2026-03-09T12:15:34.026-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Cauldron of Rebirth
 *Wondrous item, very rare (requires attunement by a druid or warlock)*  
 ![](Mechanics/CLI/items/img/cauldron-of-rebirth.webp#right)

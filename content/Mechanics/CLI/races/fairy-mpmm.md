@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/fairy
+publish: true
 aliases:
-- "Fairy"
+  - Fairy
+created: 2026-03-09T12:15:34.042-04:00
+modified: 2026-03-09T12:15:34.042-04:00
+published: 2026-03-09T12:15:34.042-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/fairy
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Fairy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 14*  
 ![](Mechanics/CLI/races/img/fairy.webp#right)

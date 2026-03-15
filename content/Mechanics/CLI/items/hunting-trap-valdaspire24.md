@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/item/gear/
-- ttrpg-cli/item/rarity/none
+publish: true
 aliases:
-- "Hunting Trap"
+  - Hunting Trap
+created: 2026-03-09T12:15:34.094-04:00
+modified: 2026-03-09T12:15:34.094-04:00
+published: 2026-03-09T12:15:34.094-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/item/gear/
+  - ttrpg-cli/item/rarity/none
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Hunting Trap
 *Adventuring gear*  
 

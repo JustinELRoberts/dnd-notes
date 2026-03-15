@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/bard/creation
+publish: true
 aliases:
-- "College of Creation"
+  - College of Creation
+created: 2026-03-09T12:15:34.120-04:00
+modified: 2026-03-09T12:15:34.120-04:00
+published: 2026-03-09T12:15:34.120-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/bard/creation
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # College of Creation
 *[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Tasha's Cauldron of Everything p. 28*  

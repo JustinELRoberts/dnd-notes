@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/burden-of-the-end
+publish: true
 aliases:
-- "Spells for Burden of the End"
+  - Spells for Burden of the End
+created: 2026-03-09T12:15:34.428-04:00
+modified: 2026-03-09T12:15:34.428-04:00
+published: 2026-03-09T12:15:34.428-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/burden-of-the-end
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Burden of the End
 
 ## Cantrip

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/hazard/smpl
+publish: true
 aliases:
-- "Scything Blade Trap"
+  - Scything Blade Trap
+created: 2026-03-09T12:15:34.058-04:00
+modified: 2026-03-09T12:15:34.058-04:00
+published: 2026-03-09T12:15:34.058-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/hazard/smpl
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Scything Blade Trap
 *Generic Hazard*  
 

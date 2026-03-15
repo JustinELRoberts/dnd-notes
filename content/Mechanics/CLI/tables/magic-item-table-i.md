@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Magic Item Table I"
+  - Magic Item Table I
+created: 2026-03-09T12:15:34.410-04:00
+modified: 2026-03-09T12:15:34.410-04:00
+published: 2026-03-09T12:15:34.410-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Magic Item Table I
 *Source: Dungeon Master's Guide p. 144* 
 

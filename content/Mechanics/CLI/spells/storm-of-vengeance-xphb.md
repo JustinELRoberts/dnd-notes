@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Druid
+publish: true
 aliases:
-- "Storm of Vengeance"
+  - Storm of Vengeance
+created: 2026-03-09T12:15:34.064-04:00
+modified: 2026-03-09T12:15:34.064-04:00
+published: 2026-03-09T12:15:34.064-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/9th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
 ---
+
 # Storm of Vengeance
 *9th-level, Conjuration*  
 

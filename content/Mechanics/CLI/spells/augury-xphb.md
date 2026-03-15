@@ -1,40 +1,45 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/path-of-the-ancestral-guardian
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Barbarian (Path of the Ancestral Guardian)
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer (Divine Soul, Good)
-- Warmage (House of Bishops)
-- Witch (Tea Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Augury"
+  - Augury
+created: 2026-03-09T12:15:34.132-04:00
+modified: 2026-03-09T12:15:34.132-04:00
+published: 2026-03-09T12:15:34.132-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/path-of-the-ancestral-guardian
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Barbarian (Path of the Ancestral Guardian)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Divine Soul, Good)
+  - Warmage (House of Bishops)
+  - Witch (Tea Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Augury
 *2nd-level, Divination (ritual)*  
 

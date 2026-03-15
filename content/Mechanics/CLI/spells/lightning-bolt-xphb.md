@@ -1,46 +1,51 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/armorer
-- ttrpg-cli/spell/subclass/burden-of-discord
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/the-fathomless
-classes:
-- Artificer (Armorer)
-- Bard
-- Bard (College of Lore)
-- Druid (Circle of the Land, Temperate Land)
-- Druid (Circle of the Sea)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Discord)
-- Martyr (Burden of the End)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (The Fathomless)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Lightning Bolt"
+  - Lightning Bolt
+created: 2026-03-09T12:15:33.788-04:00
+modified: 2026-03-09T12:15:33.788-04:00
+published: 2026-03-09T12:15:33.788-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/burden-of-discord
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/the-fathomless
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Bard (College of Lore)
+  - Druid (Circle of the Land, Temperate Land)
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Discord)
+  - Martyr (Burden of the End)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (The Fathomless)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Lightning Bolt
 *3rd-level, Evocation*  
 

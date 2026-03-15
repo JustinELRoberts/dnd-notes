@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-healing
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/burden-of-atonement
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/life-domain
-- ttrpg-cli/spell/subclass/peace-domain
-- ttrpg-cli/spell/subclass/pharaoh
-classes:
-- Artificer
-- Bard
-- Cleric
-- Cleric (Life Domain)
-- Cleric (Peace Domain)
-- Druid
-- Martyr (Burden of Atonement)
-- Necromancer (Pharaoh)
-- Paladin
-- Ranger
-- Sorcerer (Clockwork Sorcery)
-- Sorcerer (Divine Soul, Good)
-- Warlock (Celestial Patron)
+publish: true
 aliases:
-- "Greater Restoration"
+  - Greater Restoration
+created: 2026-03-09T12:15:33.866-04:00
+modified: 2026-03-09T12:15:33.866-04:00
+published: 2026-03-09T12:15:33.866-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-healing
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/burden-of-atonement
+  - ttrpg-cli/spell/subclass/celestial-patron
+  - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/life-domain
+  - ttrpg-cli/spell/subclass/peace-domain
+  - ttrpg-cli/spell/subclass/pharaoh
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Peace Domain)
+  - Druid
+  - Martyr (Burden of Atonement)
+  - Necromancer (Pharaoh)
+  - Paladin
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 ---
+
 # Greater Restoration
 *5th-level, Abjuration*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/rogue/phantom
+publish: true
 aliases:
-- "Phantom"
+  - Phantom
+created: 2026-03-09T12:15:33.880-04:00
+modified: 2026-03-09T12:15:33.880-04:00
+published: 2026-03-09T12:15:33.880-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/rogue/phantom
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Phantom
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Tasha's Cauldron of Everything p. 62*  

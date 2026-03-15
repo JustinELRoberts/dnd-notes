@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Giant Slayer"
-- "Giant Slayer Battleaxe"
-- "Giant Slayer Double-Bladed Scimitar"
-- "Giant Slayer Greataxe"
-- "Giant Slayer Greatsword"
-- "Giant Slayer Handaxe"
-- "Giant Slayer Longsword"
-- "Giant Slayer Rapier"
-- "Giant Slayer Scimitar"
-- "Giant Slayer Shortsword"
+  - Giant Slayer
+  - Giant Slayer Battleaxe
+  - Giant Slayer Double-Bladed Scimitar
+  - Giant Slayer Greataxe
+  - Giant Slayer Greatsword
+  - Giant Slayer Handaxe
+  - Giant Slayer Longsword
+  - Giant Slayer Rapier
+  - Giant Slayer Scimitar
+  - Giant Slayer Shortsword
+created: 2026-03-09T12:15:33.918-04:00
+modified: 2026-03-09T12:15:33.918-04:00
+published: 2026-03-09T12:15:33.918-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Giant Slayer
 *Major, rare*  
 ![](Mechanics/CLI/items/img/giant-slayer.webp#right)

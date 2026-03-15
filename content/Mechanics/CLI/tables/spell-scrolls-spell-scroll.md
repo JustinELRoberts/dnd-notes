@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Spell Scrolls; Spell Scroll"
+  - Spell Scrolls; Spell Scroll
+created: 2026-03-09T12:15:34.397-04:00
+modified: 2026-03-09T12:15:34.397-04:00
+published: 2026-03-09T12:15:34.397-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spell Scrolls; Spell Scroll
 *Source: Dungeon Master's Guide p. 139. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

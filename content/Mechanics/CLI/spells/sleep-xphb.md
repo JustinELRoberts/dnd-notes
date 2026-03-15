@@ -1,46 +1,51 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/aberrant-dragonmark
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/mark-of-hospitality
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/blood-ascendent
-- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/twilight-domain
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric (Twilight Domain)
-- Druid (Circle of the Land, Temperate Land)
-- Fighter (Eldritch Knight)
-- Necromancer (Blood Ascendent)
-- Paladin (Oath of Redemption)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Archfey Patron)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Sleep"
+  - Sleep
+created: 2026-03-09T12:15:33.976-04:00
+modified: 2026-03-09T12:15:33.976-04:00
+published: 2026-03-09T12:15:33.976-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/mark-of-hospitality
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/blood-ascendent
+  - ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/twilight-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Twilight Domain)
+  - Druid (Circle of the Land, Temperate Land)
+  - Fighter (Eldritch Knight)
+  - Necromancer (Blood Ascendent)
+  - Paladin (Oath of Redemption)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Archfey Patron)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Sleep
 *1st-level, Enchantment*  
 

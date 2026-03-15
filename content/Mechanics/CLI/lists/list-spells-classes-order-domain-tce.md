@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/order-domain
+publish: true
 aliases:
-- "Spells for Order Domain"
+  - Spells for Order Domain
+created: 2026-03-09T12:15:34.426-04:00
+modified: 2026-03-09T12:15:34.426-04:00
+published: 2026-03-09T12:15:34.426-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/order-domain
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Order Domain
 
 ## 1st Level

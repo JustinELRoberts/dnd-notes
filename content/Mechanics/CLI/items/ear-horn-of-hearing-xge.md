@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Ear Horn of Hearing"
+  - Ear Horn of Hearing
+created: 2026-03-09T12:15:34.010-04:00
+modified: 2026-03-09T12:15:34.010-04:00
+published: 2026-03-09T12:15:34.010-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ear Horn of Hearing
 *Wondrous item, minor, common*  
 

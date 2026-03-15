@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/armorer
-- ttrpg-cli/spell/subclass/artillerist
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/oath-of-redemption
-classes:
-- Artificer (Armorer)
-- Artificer (Artillerist)
-- Bard
-- Paladin (Oath of Redemption)
-- Sorcerer (Clockwork Sorcery)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Wall of Force"
+  - Wall of Force
+created: 2026-03-09T12:15:33.882-04:00
+modified: 2026-03-09T12:15:33.882-04:00
+published: 2026-03-09T12:15:33.882-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/artillerist
+  - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Armorer)
+  - Artificer (Artillerist)
+  - Bard
+  - Paladin (Oath of Redemption)
+  - Sorcerer (Clockwork Sorcery)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Wall of Force
 *5th-level, Evocation*  
 

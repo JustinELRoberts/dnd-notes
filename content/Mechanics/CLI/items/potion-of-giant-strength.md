@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/potion
+publish: true
 aliases:
-- "Potion of Giant Strength"
+  - Potion of Giant Strength
+created: 2026-03-09T12:15:34.058-04:00
+modified: 2026-03-09T12:15:34.058-04:00
+published: 2026-03-09T12:15:34.058-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/varies
+  - ttrpg-cli/item/wondrous/potion
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Potion of Giant Strength
 *Potion*  
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/dead-mist-acolyte
+publish: true
 aliases:
-- "Spells for Dead Mist Acolyte"
+  - Spells for Dead Mist Acolyte
+created: 2026-03-09T12:15:34.430-04:00
+modified: 2026-03-09T12:15:34.430-04:00
+published: 2026-03-09T12:15:34.430-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/dead-mist-acolyte
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Dead Mist Acolyte
 
 ## 1st Level

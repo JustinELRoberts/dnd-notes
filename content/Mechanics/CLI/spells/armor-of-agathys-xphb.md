@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/feat/mark-of-warding
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/oath-of-conquest
-classes:
-- Paladin (Oath of Conquest)
-- Warlock
+publish: true
 aliases:
-- "Armor of Agathys"
+  - Armor of Agathys
+created: 2026-03-09T12:15:33.921-04:00
+modified: 2026-03-09T12:15:33.921-04:00
+published: 2026-03-09T12:15:33.921-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/feat/mark-of-warding
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/oath-of-conquest
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin (Oath of Conquest)
+  - Warlock
 ---
+
 # Armor of Agathys
 *1st-level, Abjuration*  
 ![](Mechanics/CLI/spells/img/armor-of-agathys.webp#right)

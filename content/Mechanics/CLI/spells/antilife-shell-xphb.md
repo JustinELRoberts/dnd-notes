@@ -1,26 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/mark-of-warding
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/dead-mist-acolyte
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/grave-domain
-classes:
-- Bard
-- Cleric (Death Domain)
-- Cleric (Grave Domain)
-- Druid
-- Necromancer (Dead Mist Acolyte)
+publish: true
 aliases:
-- "Antilife Shell"
+  - Antilife Shell
+created: 2026-03-09T12:15:33.938-04:00
+modified: 2026-03-09T12:15:33.938-04:00
+published: 2026-03-09T12:15:33.938-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/mark-of-warding
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/dead-mist-acolyte
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/grave-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Druid
+  - Necromancer (Dead Mist Acolyte)
 ---
+
 # Antilife Shell
 *5th-level, Abjuration*  
 

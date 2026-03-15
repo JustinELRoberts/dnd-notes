@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Swarm of Cranium Rats"
+  - Swarm of Cranium Rats
+created: 2026-03-09T12:15:33.873-04:00
+modified: 2026-03-09T12:15:33.873-04:00
+published: 2026-03-09T12:15:33.873-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Swarm of Cranium Rats
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
 ![](Mechanics/CLI/bestiary/aberration/img/swarm-of-cranium-rats.webp#right)

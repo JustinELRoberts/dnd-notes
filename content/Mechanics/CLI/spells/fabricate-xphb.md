@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-making
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/forge-domain
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Artificer
-- Bard
-- Cleric (Forge Domain)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Fabricate"
+  - Fabricate
+created: 2026-03-09T12:15:34.032-04:00
+modified: 2026-03-09T12:15:34.032-04:00
+published: 2026-03-09T12:15:34.032-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-making
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/forge-domain
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Cleric (Forge Domain)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Fabricate
 *4th-level, Transmutation*  
 

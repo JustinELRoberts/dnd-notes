@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/overlord
-classes:
-- Bard
-- Cleric
-- Druid
-- Necromancer (Overlord)
-- Paladin
-- Sorcerer (Divine Soul, Good)
-- Warlock (Fiend Patron)
-- Wizard
+publish: true
 aliases:
-- "Geas"
+  - Geas
+created: 2026-03-09T12:15:34.058-04:00
+modified: 2026-03-09T12:15:34.058-04:00
+published: 2026-03-09T12:15:34.058-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/fiend-patron
+  - ttrpg-cli/spell/subclass/overlord
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Necromancer (Overlord)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Fiend Patron)
+  - Wizard
 ---
+
 # Geas
 *5th-level, Enchantment*  
 

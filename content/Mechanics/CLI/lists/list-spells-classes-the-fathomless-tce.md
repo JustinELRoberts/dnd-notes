@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/the-fathomless
+publish: true
 aliases:
-- "Spells for The Fathomless"
+  - Spells for The Fathomless
+created: 2026-03-09T12:15:34.425-04:00
+modified: 2026-03-09T12:15:34.425-04:00
+published: 2026-03-09T12:15:34.425-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/the-fathomless
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for The Fathomless
 
 ## 1st Level

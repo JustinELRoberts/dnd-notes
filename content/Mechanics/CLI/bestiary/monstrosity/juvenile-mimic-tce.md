@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/monster/cr/0
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity/shapechanger
+publish: true
 aliases:
-- "Juvenile Mimic"
+  - Juvenile Mimic
+created: 2026-03-09T12:15:34.095-04:00
+modified: 2026-03-09T12:15:34.095-04:00
+published: 2026-03-09T12:15:34.095-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/monster/cr/0
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/monstrosity/shapechanger
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Juvenile Mimic
 *Source: Tasha's Cauldron of Everything p. 167*  
 

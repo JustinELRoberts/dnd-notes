@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/xvart
+publish: true
 aliases:
-- "Xvart Speaker"
+  - Xvart Speaker
+created: 2026-03-09T12:15:33.810-04:00
+modified: 2026-03-09T12:15:33.810-04:00
+published: 2026-03-09T12:15:33.810-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid/xvart
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Xvart Speaker
 *Source: Volo's Guide to Monsters p. 200*  
 ![](Mechanics/CLI/bestiary/humanoid/img/xvart.webp#right)

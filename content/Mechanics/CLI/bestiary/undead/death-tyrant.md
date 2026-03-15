@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Death Tyrant"
+  - Death Tyrant
+created: 2026-03-09T12:15:33.808-04:00
+modified: 2026-03-09T12:15:33.808-04:00
+published: 2026-03-09T12:15:33.808-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/14
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Death Tyrant
 *Source: Monster Manual p. 29*  
 ![](Mechanics/CLI/bestiary/undead/img/death-tyrant.webp#right)

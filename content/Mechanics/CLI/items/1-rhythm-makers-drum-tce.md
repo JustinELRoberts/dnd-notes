@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/uncommon
+publish: true
 aliases:
-- "+1 Rhythm-Maker's Drum"
+  - +1 Rhythm-Maker's Drum
+created: 2026-03-09T12:15:34.033-04:00
+modified: 2026-03-09T12:15:34.033-04:00
+published: 2026-03-09T12:15:34.033-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/uncommon
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +1 Rhythm-Maker's Drum
 *Wondrous item, instrument ([drum](Mechanics/CLI/items/drum-xphb.md)), uncommon (requires attunement by a bard)*  
 

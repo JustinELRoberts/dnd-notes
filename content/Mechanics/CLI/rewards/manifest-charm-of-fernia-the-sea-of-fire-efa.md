@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/reward/charm
+publish: true
 aliases:
-- "Manifest Charm of Fernia, the Sea of Fire"
+  - Manifest Charm of Fernia, the Sea of Fire
+created: 2026-03-09T12:15:33.859-04:00
+modified: 2026-03-09T12:15:33.859-04:00
+published: 2026-03-09T12:15:33.859-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/reward/charm
+cssclasses:
+  - json5e-reward
+obsidianUIMode: preview
 ---
+
 # Manifest Charm of Fernia, the Sea of Fire
 *Charm*  
 

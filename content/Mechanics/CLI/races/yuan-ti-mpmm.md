@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/yuan-ti
+publish: true
 aliases:
-- "Yuan-Ti"
+  - Yuan-Ti
+created: 2026-03-09T12:15:34.121-04:00
+modified: 2026-03-09T12:15:34.121-04:00
+published: 2026-03-09T12:15:34.121-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/yuan-ti
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Yuan-Ti
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 36*  
 ![](Mechanics/CLI/races/img/yuan-ti.webp#right)

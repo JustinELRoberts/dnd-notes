@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/burden-of-truth
-classes:
-- Bard
-- Martyr
-- Martyr (Burden of Truth)
+publish: true
 aliases:
-- "Word of Control"
+  - Word of Control
+created: 2026-03-09T12:15:33.949-04:00
+modified: 2026-03-09T12:15:33.949-04:00
+published: 2026-03-09T12:15:33.949-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/burden-of-truth
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Martyr
+  - Martyr (Burden of Truth)
 ---
+
 # Word of Control
 *5th-level, Enchantment*  
 

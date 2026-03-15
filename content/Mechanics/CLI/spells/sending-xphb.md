@@ -1,47 +1,52 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-scribing
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/optfeature/far-scribe
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-anonymity
-- ttrpg-cli/spell/subclass/burden-of-truth
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/peace-domain
-- ttrpg-cli/spell/subclass/tea-magic
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Peace Domain)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Anonymity)
-- Martyr (Burden of Truth)
-- Rogue (Arcane Trickster)
-- Sorcerer (Aberrant Sorcery)
-- Sorcerer (Divine Soul, Good)
-- Warmage (House of Bishops)
-- Witch (Tea Magic)
-- Witch (Technicolor Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Sending"
+  - Sending
+created: 2026-03-09T12:15:34.090-04:00
+modified: 2026-03-09T12:15:34.090-04:00
+published: 2026-03-09T12:15:34.090-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-scribing
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/optfeature/far-scribe
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-anonymity
+  - ttrpg-cli/spell/subclass/burden-of-truth
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/peace-domain
+  - ttrpg-cli/spell/subclass/tea-magic
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Peace Domain)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Anonymity)
+  - Martyr (Burden of Truth)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warmage (House of Bishops)
+  - Witch (Tea Magic)
+  - Witch (Technicolor Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Sending
 *3rd-level, Divination*  
 

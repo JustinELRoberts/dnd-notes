@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/twilight
+publish: true
 aliases:
-- "Ilmater"
-- "The Crying God"
-- "The Rack-Broken Lord"
-- "He Who Endures"
+  - Ilmater
+  - The Crying God
+  - The Rack-Broken Lord
+  - He Who Endures
+created: 2026-03-09T12:15:33.953-04:00
+modified: 2026-03-09T12:15:33.953-04:00
+published: 2026-03-09T12:15:33.953-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/scag
+  - ttrpg-cli/deity/faerunian
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/twilight
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Ilmater
 ![](Mechanics/CLI/deities/img/scag-symbol-of-ilmater.webp#symbol)
 

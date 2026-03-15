@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey/goblinoid
+publish: true
 aliases:
-- "Hobgoblin Devastator"
+  - Hobgoblin Devastator
+created: 2026-03-09T12:15:33.950-04:00
+modified: 2026-03-09T12:15:33.950-04:00
+published: 2026-03-09T12:15:33.950-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey/goblinoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Hobgoblin Devastator
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
 ![](Mechanics/CLI/bestiary/fey/img/hobgoblin-devastator.webp#right)

@@ -1,38 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/feat/mark-of-warding
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/burden-of-atonement
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/peace-domain
-- ttrpg-cli/spell/subclass/tea-magic
-- ttrpg-cli/spell/subclass/the-genie/dao
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Peace Domain)
-- Martyr (Burden of Atonement)
-- Paladin (Oath of Redemption)
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Genie, Dao)
-- Witch (Tea Magic)
+publish: true
 aliases:
-- "Sanctuary"
+  - Sanctuary
+created: 2026-03-09T12:15:33.953-04:00
+modified: 2026-03-09T12:15:33.953-04:00
+published: 2026-03-09T12:15:33.953-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/feat/mark-of-warding
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/burden-of-atonement
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/peace-domain
+  - ttrpg-cli/spell/subclass/tea-magic
+  - ttrpg-cli/spell/subclass/the-genie/dao
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Peace Domain)
+  - Martyr (Burden of Atonement)
+  - Paladin (Oath of Redemption)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Dao)
+  - Witch (Tea Magic)
 ---
+
 # Sanctuary
 *1st-level, Abjuration*  
 

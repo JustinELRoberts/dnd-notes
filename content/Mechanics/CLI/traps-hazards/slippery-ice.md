@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/hazard/wld
+publish: true
 aliases:
-- "Slippery Ice"
+  - Slippery Ice
+created: 2026-03-09T12:15:33.947-04:00
+modified: 2026-03-09T12:15:33.947-04:00
+published: 2026-03-09T12:15:33.947-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/hazard/wld
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Slippery Ice
 *Wilderness Hazard*  
 

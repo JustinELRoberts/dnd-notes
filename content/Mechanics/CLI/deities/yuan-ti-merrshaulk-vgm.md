@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/deity/yuan-ti
+publish: true
 aliases:
-- "Merrshaulk"
+  - Merrshaulk
+created: 2026-03-09T12:15:33.978-04:00
+modified: 2026-03-09T12:15:33.978-04:00
+published: 2026-03-09T12:15:33.978-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/deity/yuan-ti
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Merrshaulk
 
 

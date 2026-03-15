@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Talisman of Ultimate Evil"
+  - Talisman of Ultimate Evil
+created: 2026-03-09T12:15:34.119-04:00
+modified: 2026-03-09T12:15:34.119-04:00
+published: 2026-03-09T12:15:34.119-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Talisman of Ultimate Evil
 *Wondrous item, major, legendary (requires attunement by a creature of evil alignment)*  
 ![](Mechanics/CLI/items/img/talisman-of-ultimate-evil.webp#right)

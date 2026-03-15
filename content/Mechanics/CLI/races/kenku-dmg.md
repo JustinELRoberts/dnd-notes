@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/race/kenku
+publish: true
 aliases:
-- "Kenku"
+  - Kenku
+created: 2026-03-09T12:15:33.912-04:00
+modified: 2026-03-09T12:15:33.912-04:00
+published: 2026-03-09T12:15:33.912-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/race/kenku
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Kenku
 *Source: Dungeon Master's Guide p. 282*  
 

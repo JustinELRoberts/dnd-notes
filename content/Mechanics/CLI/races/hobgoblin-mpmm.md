@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/hobgoblin
+publish: true
 aliases:
-- "Hobgoblin"
+  - Hobgoblin
+created: 2026-03-09T12:15:34.013-04:00
+modified: 2026-03-09T12:15:34.013-04:00
+published: 2026-03-09T12:15:34.013-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/hobgoblin
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Hobgoblin
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 23*  
 ![](Mechanics/CLI/races/img/hobgoblin.webp#right)

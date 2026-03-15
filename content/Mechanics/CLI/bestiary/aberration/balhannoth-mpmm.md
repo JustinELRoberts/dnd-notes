@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Balhannoth"
+  - Balhannoth
+created: 2026-03-09T12:15:33.786-04:00
+modified: 2026-03-09T12:15:33.786-04:00
+published: 2026-03-09T12:15:33.786-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Balhannoth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 55*  
 ![](Mechanics/CLI/bestiary/aberration/img/balhannoth.webp#right)

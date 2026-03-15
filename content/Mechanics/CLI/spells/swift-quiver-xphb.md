@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Ranger
+publish: true
 aliases:
-- "Swift Quiver"
+  - Swift Quiver
+created: 2026-03-09T12:15:34.034-04:00
+modified: 2026-03-09T12:15:34.034-04:00
+published: 2026-03-09T12:15:34.034-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Ranger
 ---
+
 # Swift Quiver
 *5th-level, Transmutation*  
 

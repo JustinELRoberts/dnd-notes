@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/vagabond/tower-banner
+publish: true
 aliases:
-- "Tower Banner"
+  - Tower Banner
+created: 2026-03-09T12:15:34.091-04:00
+modified: 2026-03-09T12:15:34.091-04:00
+published: 2026-03-09T12:15:34.091-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/vagabond/tower-banner
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Tower Banner
 *[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/the-fathomless
-classes:
-- Bard
-- Druid
-- Fighter (Eldritch Knight)
-- Ranger
-- Rogue (Arcane Trickster)
-- Warlock (The Fathomless)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Summon Elemental"
+  - Summon Elemental
+created: 2026-03-09T12:15:34.093-04:00
+modified: 2026-03-09T12:15:34.093-04:00
+published: 2026-03-09T12:15:34.093-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/the-fathomless
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Warlock (The Fathomless)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Summon Elemental
 *4th-level, Conjuration*  
 

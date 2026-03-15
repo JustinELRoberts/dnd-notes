@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/bard/whispers
+publish: true
 aliases:
-- "College of Whispers"
+  - College of Whispers
+created: 2026-03-09T12:15:33.800-04:00
+modified: 2026-03-09T12:15:33.800-04:00
+published: 2026-03-09T12:15:33.800-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/bard/whispers
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # College of Whispers
 *[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Xanathar's Guide to Everything p. 16*  

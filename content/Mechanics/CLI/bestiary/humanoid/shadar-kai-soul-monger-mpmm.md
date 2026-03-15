@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+publish: true
 aliases:
-- "Shadar-kai Soul Monger"
+  - Shadar-kai Soul Monger
+created: 2026-03-09T12:15:34.097-04:00
+modified: 2026-03-09T12:15:34.097-04:00
+published: 2026-03-09T12:15:34.097-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Shadar-kai Soul Monger
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 214*  
 ![](Mechanics/CLI/bestiary/humanoid/img/shadar-kai-soul-monger.webp#right)

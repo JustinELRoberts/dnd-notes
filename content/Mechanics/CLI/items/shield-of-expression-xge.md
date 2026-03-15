@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/shield/
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Shield of Expression"
+  - Shield of Expression
+created: 2026-03-09T12:15:33.958-04:00
+modified: 2026-03-09T12:15:33.958-04:00
+published: 2026-03-09T12:15:33.958-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/shield/
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Shield of Expression
 *Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), minor, common*  
 

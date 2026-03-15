@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/subclass/artificer/battle-smith
+publish: true
 aliases:
-- "Battle Smith"
+  - Battle Smith
+created: 2026-03-09T12:15:33.905-04:00
+modified: 2026-03-09T12:15:33.905-04:00
+published: 2026-03-09T12:15:33.905-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/subclass/artificer/battle-smith
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Battle Smith
 *[Artificer](./artificer-efa.md): Artificer Subclass*  
 *Source: Eberron: Forge of the Artificer p. 18*  

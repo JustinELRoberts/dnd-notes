@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+publish: true
 aliases:
-- "Dolphin Delighter"
+  - Dolphin Delighter
+created: 2026-03-09T12:15:33.989-04:00
+modified: 2026-03-09T12:15:33.989-04:00
+published: 2026-03-09T12:15:33.989-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dolphin Delighter
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
 ![](Mechanics/CLI/bestiary/fey/img/dolphin-delighter.webp#right)

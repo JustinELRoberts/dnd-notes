@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Warhorse Skeleton"
+  - Warhorse Skeleton
+created: 2026-03-09T12:15:33.877-04:00
+modified: 2026-03-09T12:15:33.877-04:00
+published: 2026-03-09T12:15:33.877-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Warhorse Skeleton
 *Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 

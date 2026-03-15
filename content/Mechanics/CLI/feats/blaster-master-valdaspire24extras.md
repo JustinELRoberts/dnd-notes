@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Blaster Master"
+  - Blaster Master
+created: 2026-03-09T12:15:34.105-04:00
+modified: 2026-03-09T12:15:34.105-04:00
+published: 2026-03-09T12:15:34.105-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Blaster Master 
 
 

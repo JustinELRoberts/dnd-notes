@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Mark of Healing"
+  - Mark of Healing
+created: 2026-03-09T12:15:34.134-04:00
+modified: 2026-03-09T12:15:34.134-04:00
+published: 2026-03-09T12:15:34.134-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Mark of Healing 
 ![](Mechanics/CLI/feats/img/mark-of-healing.webp#right)
 

@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/15
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/sorcerer
+publish: true
 aliases:
-- "Skull Lord"
+  - Skull Lord
+created: 2026-03-09T12:15:34.061-04:00
+modified: 2026-03-09T12:15:34.061-04:00
+published: 2026-03-09T12:15:34.061-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/15
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead/sorcerer
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Skull Lord
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220*  
 ![](Mechanics/CLI/bestiary/undead/img/skull-lord.webp#right)

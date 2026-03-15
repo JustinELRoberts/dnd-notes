@@ -1,41 +1,46 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/mark-of-handling
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/green-magic
-- ttrpg-cli/spell/subclass/oath-of-the-ancients
-- ttrpg-cli/spell/subclass/path-of-the-wild-heart
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Barbarian (Path of the Wild Heart)
-- Bard
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Rebirth)
-- Paladin (Oath of the Ancients)
-- Ranger
-- Warlock
-- Witch (Green Magic)
-- Witch (Technicolor Magic)
+publish: true
 aliases:
-- "Speak with Animals"
+  - Speak with Animals
+created: 2026-03-09T12:15:33.919-04:00
+modified: 2026-03-09T12:15:33.919-04:00
+published: 2026-03-09T12:15:33.919-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/feat/mark-of-handling
+  - ttrpg-cli/spell/feat/ritual-caster
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/green-magic
+  - ttrpg-cli/spell/subclass/oath-of-the-ancients
+  - ttrpg-cli/spell/subclass/path-of-the-wild-heart
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Barbarian (Path of the Wild Heart)
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Paladin (Oath of the Ancients)
+  - Ranger
+  - Warlock
+  - Witch (Green Magic)
+  - Witch (Technicolor Magic)
 ---
+
 # Speak with Animals
 *1st-level, Divination (ritual)*  
 ![](Mechanics/CLI/spells/img/speak-with-animals.webp#right)

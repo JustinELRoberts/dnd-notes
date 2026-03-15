@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/class/martyr
+publish: true
 aliases:
-- "Martyr Spells"
+  - Martyr Spells
+created: 2026-03-09T12:15:34.420-04:00
+modified: 2026-03-09T12:15:34.420-04:00
+published: 2026-03-09T12:15:34.420-04:00
+tags:
+  - ttrpg-cli/spell/list/class/martyr
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Martyr Spells
 
 ## 1st Level

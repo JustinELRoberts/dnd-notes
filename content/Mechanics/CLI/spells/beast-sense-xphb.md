@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-handling
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/path-of-the-wild-heart
-classes:
-- Barbarian (Path of the Wild Heart)
-- Bard
-- Bard (College of Lore)
-- Druid
-- Ranger
+publish: true
 aliases:
-- "Beast Sense"
+  - Beast Sense
+created: 2026-03-09T12:15:34.021-04:00
+modified: 2026-03-09T12:15:34.021-04:00
+published: 2026-03-09T12:15:34.021-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-handling
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/path-of-the-wild-heart
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Barbarian (Path of the Wild Heart)
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Ranger
 ---
+
 # Beast Sense
 *2nd-level, Divination (ritual)*  
 

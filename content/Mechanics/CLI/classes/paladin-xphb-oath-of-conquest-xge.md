@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/paladin/conquest
+publish: true
 aliases:
-- "Oath of Conquest"
+  - Oath of Conquest
+created: 2026-03-09T12:15:34.130-04:00
+modified: 2026-03-09T12:15:34.131-04:00
+published: 2026-03-09T12:15:34.131-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/paladin/conquest
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Oath of Conquest
 *[Paladin](./paladin-xphb.md): Paladin Subclass*  
 *Source: Xanathar's Guide to Everything p. 37*  

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Boon of Siberys"
+  - Boon of Siberys
+created: 2026-03-09T12:15:33.959-04:00
+modified: 2026-03-09T12:15:33.959-04:00
+published: 2026-03-09T12:15:33.959-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Boon of Siberys 
 ![](Mechanics/CLI/feats/img/siberys-mark-of-detection.webp#right)
 

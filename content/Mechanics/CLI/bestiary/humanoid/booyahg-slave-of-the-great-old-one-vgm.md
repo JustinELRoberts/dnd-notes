@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/any-race
+publish: true
 aliases:
-- "Booyahg Slave of the Great Old One"
+  - Booyahg Slave of the Great Old One
+created: 2026-03-09T12:15:33.956-04:00
+modified: 2026-03-09T12:15:33.956-04:00
+published: 2026-03-09T12:15:33.956-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/any-race
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Booyahg Slave of the Great Old One
 *Source: Volo's Guide to Monsters p. 42*  
 

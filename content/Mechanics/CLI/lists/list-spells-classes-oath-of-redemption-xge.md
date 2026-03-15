@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/oath-of-redemption
+publish: true
 aliases:
-- "Spells for Oath of Redemption"
+  - Spells for Oath of Redemption
+created: 2026-03-09T12:15:34.426-04:00
+modified: 2026-03-09T12:15:34.426-04:00
+published: 2026-03-09T12:15:34.426-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/oath-of-redemption
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Oath of Redemption
 
 ## 1st Level

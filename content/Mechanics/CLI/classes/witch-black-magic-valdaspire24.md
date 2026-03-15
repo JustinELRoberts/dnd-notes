@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/witch/black
+publish: true
 aliases:
-- "Black Magic"
+  - Black Magic
+created: 2026-03-09T12:15:33.797-04:00
+modified: 2026-03-09T12:15:33.797-04:00
+published: 2026-03-09T12:15:33.797-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/witch/black
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Black Magic
 *[Witch](./witch-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

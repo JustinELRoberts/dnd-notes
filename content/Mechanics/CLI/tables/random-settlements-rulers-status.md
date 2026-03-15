@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Random Settlements; Ruler's Status"
+  - Random Settlements; Ruler's Status
+created: 2026-03-09T12:15:34.381-04:00
+modified: 2026-03-09T12:15:34.382-04:00
+published: 2026-03-09T12:15:34.382-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Random Settlements; Ruler's Status
 *Source: Dungeon Master's Guide p. 112* 
 

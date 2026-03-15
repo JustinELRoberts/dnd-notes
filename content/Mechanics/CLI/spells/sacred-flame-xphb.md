@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/optfeature/temple-initiate
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/burden-of-the-end
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard (College of Lore)
-- Cleric
-- Martyr (Burden of the End)
-- Sorcerer (Divine Soul, Good)
-- Warlock (Celestial Patron)
+publish: true
 aliases:
-- "Sacred Flame"
+  - Sacred Flame
+created: 2026-03-09T12:15:34.099-04:00
+modified: 2026-03-09T12:15:34.099-04:00
+published: 2026-03-09T12:15:34.099-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/optfeature/temple-initiate
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/burden-of-the-end
+  - ttrpg-cli/spell/subclass/celestial-patron
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Martyr (Burden of the End)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 ---
+
 # Sacred Flame
 *cantrip, Evocation*  
 

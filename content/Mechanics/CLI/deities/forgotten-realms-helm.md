@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/phb
-- ttrpg-cli/deity/forgotten-realms
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/twilight
+publish: true
 aliases:
-- "Helm"
+  - Helm
+created: 2026-03-09T12:15:33.852-04:00
+modified: 2026-03-09T12:15:33.852-04:00
+published: 2026-03-09T12:15:33.852-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+  - ttrpg-cli/deity/forgotten-realms
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/domain/twilight
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Helm
 
 

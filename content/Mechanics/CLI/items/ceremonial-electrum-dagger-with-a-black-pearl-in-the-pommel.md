@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
+publish: true
 aliases:
-- "Ceremonial electrum dagger with a black pearl in the pommel"
+  - Ceremonial electrum dagger with a black pearl in the pommel
+created: 2026-03-09T12:15:33.831-04:00
+modified: 2026-03-09T12:15:33.831-04:00
+published: 2026-03-09T12:15:33.831-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/gear/treasure-art-object
+  - ttrpg-cli/item/rarity/none
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Ceremonial electrum dagger with a black pearl in the pommel
 *Treasure (art object)*  
 

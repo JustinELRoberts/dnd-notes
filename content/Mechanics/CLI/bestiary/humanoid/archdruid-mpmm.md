@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/druid
+publish: true
 aliases:
-- "Archdruid"
+  - Archdruid
+created: 2026-03-09T12:15:33.798-04:00
+modified: 2026-03-09T12:15:33.798-04:00
+published: 2026-03-09T12:15:33.798-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/druid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Archdruid
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210*  
 ![](Mechanics/CLI/bestiary/humanoid/img/archdruid.webp#right)

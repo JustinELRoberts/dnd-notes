@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/feat/shadow-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Necromancer
+publish: true
 aliases:
-- "Gahoul's Shrieking Skull"
+  - Gahoul's Shrieking Skull
+created: 2026-03-09T12:15:33.998-04:00
+modified: 2026-03-09T12:15:33.998-04:00
+published: 2026-03-09T12:15:33.998-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/feat/shadow-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Necromancer
 ---
+
 # Gahoul's Shrieking Skull
 *1st-level, Necromancy*  
 

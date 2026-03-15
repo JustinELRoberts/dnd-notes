@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Instrument of the Bards, Mac-Fuirmidh Cittern"
+  - Instrument of the Bards, Mac-Fuirmidh Cittern
+created: 2026-03-09T12:15:33.811-04:00
+modified: 2026-03-09T12:15:33.811-04:00
+published: 2026-03-09T12:15:33.811-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Instrument of the Bards, Mac-Fuirmidh Cittern
 *Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-mac-fuirmidh-cittern.webp#right)

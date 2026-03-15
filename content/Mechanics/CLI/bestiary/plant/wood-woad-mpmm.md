@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/plant
+publish: true
 aliases:
-- "Wood Woad"
+  - Wood Woad
+created: 2026-03-09T12:15:34.094-04:00
+modified: 2026-03-09T12:15:34.094-04:00
+published: 2026-03-09T12:15:34.094-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/plant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Wood Woad
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  
 ![](Mechanics/CLI/bestiary/plant/img/wood-woad.webp#right)

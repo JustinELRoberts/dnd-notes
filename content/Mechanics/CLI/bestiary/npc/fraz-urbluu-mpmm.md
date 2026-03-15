@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/23
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Fraz-Urb'luu"
+  - Fraz-Urb'luu
+created: 2026-03-09T12:15:34.026-04:00
+modified: 2026-03-09T12:15:34.026-04:00
+published: 2026-03-09T12:15:34.026-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/23
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Fraz-Urb'luu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 129*  
 ![](Mechanics/CLI/bestiary/npc/img/fraz-urbluu.webp#right)

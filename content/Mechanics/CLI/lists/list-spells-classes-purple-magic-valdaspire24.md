@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/purple-magic
+publish: true
 aliases:
-- "Spells for Purple Magic"
+  - Spells for Purple Magic
+created: 2026-03-09T12:15:34.426-04:00
+modified: 2026-03-09T12:15:34.426-04:00
+published: 2026-03-09T12:15:34.426-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/purple-magic
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Purple Magic
 
 ## Cantrip

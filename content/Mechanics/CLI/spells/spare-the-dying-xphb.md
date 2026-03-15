@@ -1,40 +1,45 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/wood-elf-magic
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/field-medic
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/optfeature/temple-initiate
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/death-domain
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/grave-domain
-- ttrpg-cli/spell/subclass/white-magic
-classes:
-- Artificer
-- Bard (College of Lore)
-- Cleric
-- Cleric (Death Domain)
-- Cleric (Grave Domain)
-- Druid
-- Sorcerer (Divine Soul, Good)
-- Witch (White Magic)
+publish: true
 aliases:
-- "Spare the Dying"
+  - Spare the Dying
+created: 2026-03-09T12:15:34.000-04:00
+modified: 2026-03-09T12:15:34.000-04:00
+published: 2026-03-09T12:15:34.000-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/feat/druidic-warrior
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/feat/wood-elf-magic
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/field-medic
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/optfeature/temple-initiate
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/death-domain
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/grave-domain
+  - ttrpg-cli/spell/subclass/white-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Death Domain)
+  - Cleric (Grave Domain)
+  - Druid
+  - Sorcerer (Divine Soul, Good)
+  - Witch (White Magic)
 ---
+
 # Spare the Dying
 *cantrip, Necromancy*  
 

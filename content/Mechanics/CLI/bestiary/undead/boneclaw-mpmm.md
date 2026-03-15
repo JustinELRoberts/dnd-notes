@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Boneclaw"
+  - Boneclaw
+created: 2026-03-09T12:15:34.048-04:00
+modified: 2026-03-09T12:15:34.048-04:00
+published: 2026-03-09T12:15:34.048-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Boneclaw
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 66*  
 ![](Mechanics/CLI/bestiary/undead/img/boneclaw.webp#right)

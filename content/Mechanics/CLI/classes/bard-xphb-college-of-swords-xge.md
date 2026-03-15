@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/bard/swords
+publish: true
 aliases:
-- "College of Swords"
+  - College of Swords
+created: 2026-03-09T12:15:34.108-04:00
+modified: 2026-03-09T12:15:34.108-04:00
+published: 2026-03-09T12:15:34.108-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/bard/swords
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # College of Swords
 *[Bard](./bard-xphb.md): Bard Subclass*  
 *Source: Xanathar's Guide to Everything p. 15*  

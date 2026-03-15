@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/drow-elf
+publish: true
 aliases:
-- "Drow Elite Warrior (Magic Equipment)"
+  - Drow Elite Warrior (Magic Equipment)
+created: 2026-03-09T12:15:34.133-04:00
+modified: 2026-03-09T12:15:34.133-04:00
+published: 2026-03-09T12:15:34.133-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/drow-elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Drow Elite Warrior (Magic Equipment)
 *Source: Monster Manual p. 128*  
 

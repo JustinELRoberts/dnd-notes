@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Boots of the Winterlands"
+  - Boots of the Winterlands
+created: 2026-03-09T12:15:33.916-04:00
+modified: 2026-03-09T12:15:33.916-04:00
+published: 2026-03-09T12:15:33.916-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Boots of the Winterlands
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](Mechanics/CLI/items/img/boots-of-the-winterlands.webp#right)

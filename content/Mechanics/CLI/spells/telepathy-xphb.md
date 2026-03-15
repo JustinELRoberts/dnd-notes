@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/diviner
-classes:
-- Bard
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Telepathy"
+  - Telepathy
+created: 2026-03-09T12:15:33.906-04:00
+modified: 2026-03-09T12:15:33.906-04:00
+published: 2026-03-09T12:15:33.906-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/diviner
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Telepathy
 *8th-level, Divination*  
 

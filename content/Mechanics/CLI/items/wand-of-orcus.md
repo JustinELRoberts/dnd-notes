@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/wand
+publish: true
 aliases:
-- "Wand of Orcus"
+  - Wand of Orcus
+created: 2026-03-09T12:15:34.063-04:00
+modified: 2026-03-09T12:15:34.063-04:00
+published: 2026-03-09T12:15:34.063-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/wand
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Wand of Orcus
 *Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), wand, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/wand-of-orcus.webp#right)

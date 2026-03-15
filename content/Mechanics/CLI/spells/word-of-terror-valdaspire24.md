@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/burden-of-truth
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-classes:
-- Martyr
-- Martyr (Burden of Truth)
-- Martyr (Burden of Tyranny)
-- Necromancer
+publish: true
 aliases:
-- "Word of Terror"
+  - Word of Terror
+created: 2026-03-09T12:15:34.121-04:00
+modified: 2026-03-09T12:15:34.121-04:00
+published: 2026-03-09T12:15:34.121-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/burden-of-truth
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Martyr
+  - Martyr (Burden of Truth)
+  - Martyr (Burden of Tyranny)
+  - Necromancer
 ---
+
 # Word of Terror
 *2nd-level, Enchantment*  
 

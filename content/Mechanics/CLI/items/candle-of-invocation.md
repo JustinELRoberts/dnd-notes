@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Candle of Invocation"
+  - Candle of Invocation
+created: 2026-03-09T12:15:34.015-04:00
+modified: 2026-03-09T12:15:34.015-04:00
+published: 2026-03-09T12:15:34.015-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Candle of Invocation
 *Wondrous item, major, very rare (requires attunement)*  
 ![](Mechanics/CLI/items/img/candle-of-invocation.webp#right)

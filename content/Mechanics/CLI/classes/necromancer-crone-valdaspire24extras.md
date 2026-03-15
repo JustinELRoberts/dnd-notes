@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/subclass/necromancer/crone
+publish: true
 aliases:
-- "Crone"
+  - Crone
+created: 2026-03-09T12:15:33.875-04:00
+modified: 2026-03-09T12:15:33.875-04:00
+published: 2026-03-09T12:15:33.875-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/subclass/necromancer/crone
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Crone
 *[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets Extras (2024)*  

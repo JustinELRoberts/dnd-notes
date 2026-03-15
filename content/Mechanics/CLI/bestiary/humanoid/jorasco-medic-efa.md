@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/halfling
+publish: true
 aliases:
-- "Jorasco Medic"
+  - Jorasco Medic
+created: 2026-03-09T12:15:33.880-04:00
+modified: 2026-03-09T12:15:33.880-04:00
+published: 2026-03-09T12:15:33.880-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid/halfling
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Jorasco Medic
 *Source: Eberron: Forge of the Artificer p. 81*  
 ![](Mechanics/CLI/bestiary/humanoid/img/jorasco-medic.webp#right)

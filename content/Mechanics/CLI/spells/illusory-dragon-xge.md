@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/illusionist
-classes:
-- Bard
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Illusory Dragon"
+  - Illusory Dragon
+created: 2026-03-09T12:15:34.041-04:00
+modified: 2026-03-09T12:15:34.041-04:00
+published: 2026-03-09T12:15:34.041-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/illusionist
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Illusory Dragon
 *8th-level, Illusion*  
 

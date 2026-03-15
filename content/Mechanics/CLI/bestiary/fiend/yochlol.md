@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
-- ttrpg-cli/monster/type/fiend/shapechanger
+publish: true
 aliases:
-- "Yochlol"
+  - Yochlol
+created: 2026-03-09T12:15:34.018-04:00
+modified: 2026-03-09T12:15:34.018-04:00
+published: 2026-03-09T12:15:34.018-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/demon
+  - ttrpg-cli/monster/type/fiend/shapechanger
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Yochlol
 *Source: Monster Manual p. 65*  
 ![](Mechanics/CLI/bestiary/fiend/img/yochlol.webp#right)

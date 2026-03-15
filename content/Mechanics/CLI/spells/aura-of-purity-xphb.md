@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/mark-of-healing
-- ttrpg-cli/spell/feat/mark-of-hospitality
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/battle-smith
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-the-watchers
-- ttrpg-cli/spell/subclass/peace-domain
-classes:
-- Artificer (Battle Smith)
-- Bard
-- Cleric
-- Cleric (Peace Domain)
-- Paladin
-- Paladin (Oath of the Watchers)
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Aura of Purity"
+  - Aura of Purity
+created: 2026-03-09T12:15:33.903-04:00
+modified: 2026-03-09T12:15:33.903-04:00
+published: 2026-03-09T12:15:33.903-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/mark-of-healing
+  - ttrpg-cli/spell/feat/mark-of-hospitality
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/battle-smith
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/oath-of-the-watchers
+  - ttrpg-cli/spell/subclass/peace-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric
+  - Cleric (Peace Domain)
+  - Paladin
+  - Paladin (Oath of the Watchers)
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Aura of Purity
 *4th-level, Abjuration*  
 

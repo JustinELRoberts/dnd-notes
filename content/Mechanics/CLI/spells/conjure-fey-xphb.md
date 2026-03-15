@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Druid
-- Warlock
+publish: true
 aliases:
-- "Conjure Fey"
+  - Conjure Fey
+created: 2026-03-09T12:15:34.121-04:00
+modified: 2026-03-09T12:15:34.121-04:00
+published: 2026-03-09T12:15:34.121-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Warlock
 ---
+
 # Conjure Fey
 *6th-level, Conjuration*  
 

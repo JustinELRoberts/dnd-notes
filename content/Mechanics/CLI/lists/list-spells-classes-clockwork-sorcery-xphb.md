@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/clockwork-sorcery
+publish: true
 aliases:
-- "Spells for Clockwork Sorcery"
+  - Spells for Clockwork Sorcery
+created: 2026-03-09T12:15:34.432-04:00
+modified: 2026-03-09T12:15:34.432-04:00
+published: 2026-03-09T12:15:34.432-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/clockwork-sorcery
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Clockwork Sorcery
 
 ## 1st Level

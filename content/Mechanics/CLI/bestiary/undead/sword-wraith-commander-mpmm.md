@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Sword Wraith Commander"
+  - Sword Wraith Commander
+created: 2026-03-09T12:15:33.927-04:00
+modified: 2026-03-09T12:15:33.927-04:00
+published: 2026-03-09T12:15:33.927-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Sword Wraith Commander
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 

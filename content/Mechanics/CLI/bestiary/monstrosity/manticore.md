@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Manticore"
+  - Manticore
+created: 2026-03-09T12:15:33.867-04:00
+modified: 2026-03-09T12:15:33.867-04:00
+published: 2026-03-09T12:15:33.867-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Manticore
 *Source: Monster Manual p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/manticore.webp#right)

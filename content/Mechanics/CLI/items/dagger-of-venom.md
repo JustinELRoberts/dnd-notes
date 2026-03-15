@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Dagger of Venom"
+  - Dagger of Venom
+created: 2026-03-09T12:15:33.879-04:00
+modified: 2026-03-09T12:15:33.879-04:00
+published: 2026-03-09T12:15:33.879-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Dagger of Venom
 *Weapon ([dagger](Mechanics/CLI/items/dagger-xphb.md)), major, rare*  
 ![](Mechanics/CLI/items/img/dagger-of-venom.webp#right)

@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Druid
-- Necromancer
-- Sorcerer
-- Warmage (House of Bishops)
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Intensify Gravity"
+  - Intensify Gravity
+created: 2026-03-09T12:15:33.955-04:00
+modified: 2026-03-09T12:15:33.955-04:00
+published: 2026-03-09T12:15:33.955-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Necromancer
+  - Sorcerer
+  - Warmage (House of Bishops)
+  - Witch
+  - Wizard
 ---
+
 # Intensify Gravity
 *4th-level, Transmutation*  
 

@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/mark-of-hospitality
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/corpse-florist
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Rebirth)
-- Necromancer (Corpse Florist)
-- Ranger
+publish: true
 aliases:
-- "Goodberry"
+  - Goodberry
+created: 2026-03-09T12:15:33.938-04:00
+modified: 2026-03-09T12:15:33.939-04:00
+published: 2026-03-09T12:15:33.939-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/feat/mark-of-hospitality
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/corpse-florist
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Necromancer (Corpse Florist)
+  - Ranger
 ---
+
 # Goodberry
 *1st-level, Conjuration*  
 

@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/burden-of-revolution
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/peace-domain
-- ttrpg-cli/spell/subclass/technicolor-magic
-classes:
-- Bard
-- Cleric (Peace Domain)
-- Martyr (Burden of Revolution)
-- Sorcerer (Aberrant Sorcery)
-- Witch (Technicolor Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Rary's Telepathic Bond"
+  - Rary's Telepathic Bond
+created: 2026-03-09T12:15:33.829-04:00
+modified: 2026-03-09T12:15:33.829-04:00
+published: 2026-03-09T12:15:33.829-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/peace-domain
+  - ttrpg-cli/spell/subclass/technicolor-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (Peace Domain)
+  - Martyr (Burden of Revolution)
+  - Sorcerer (Aberrant Sorcery)
+  - Witch (Technicolor Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Rary's Telepathic Bond
 *5th-level, Divination (ritual)*  
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/mm
+publish: true
 aliases:
-- "Player Characters as Vampires"
+  - Player Characters as Vampires
+created: 2026-03-09T12:15:34.437-04:00
+modified: 2026-03-09T12:15:34.437-04:00
+published: 2026-03-09T12:15:34.437-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Player Characters as Vampires
 *Source: Monster Manual p. 295, Van Richten's Guide to Ravenloft p. 236* 
 

@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-making
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/forge-domain
-- ttrpg-cli/spell/subclass/the-hexblade
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Cleric (Forge Domain)
-- Druid
-- Paladin
-- Ranger
-- Warlock (The Hexblade)
+publish: true
 aliases:
-- "Elemental Weapon"
+  - Elemental Weapon
+created: 2026-03-09T12:15:33.777-04:00
+modified: 2026-03-09T12:15:33.777-04:00
+published: 2026-03-09T12:15:33.777-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-making
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/forge-domain
+  - ttrpg-cli/spell/subclass/the-hexblade
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Forge Domain)
+  - Druid
+  - Paladin
+  - Ranger
+  - Warlock (The Hexblade)
 ---
+
 # Elemental Weapon
 *3rd-level, Transmutation*  
 

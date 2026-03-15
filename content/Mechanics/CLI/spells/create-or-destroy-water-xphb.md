@@ -1,29 +1,34 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/the-fathomless
-- ttrpg-cli/spell/subrace/genasi-water
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Fathomless)
+publish: true
 aliases:
-- "Create or Destroy Water"
+  - Create or Destroy Water
+created: 2026-03-09T12:15:33.910-04:00
+modified: 2026-03-09T12:15:33.910-04:00
+published: 2026-03-09T12:15:33.910-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/the-fathomless
+  - ttrpg-cli/spell/subrace/genasi-water
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Fathomless)
 ---
+
 # Create or Destroy Water
 *1st-level, Transmutation*  
 

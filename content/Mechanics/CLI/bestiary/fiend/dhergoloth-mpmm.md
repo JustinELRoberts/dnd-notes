@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
+publish: true
 aliases:
-- "Dhergoloth"
+  - Dhergoloth
+created: 2026-03-09T12:15:34.017-04:00
+modified: 2026-03-09T12:15:34.017-04:00
+published: 2026-03-09T12:15:34.017-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/yugoloth
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dhergoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
 ![](Mechanics/CLI/bestiary/fiend/img/dhergoloth.webp#right)

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/rarity/varies
-- ttrpg-cli/item/wondrous/tattoo
+publish: true
 aliases:
-- "Spellwrought Tattoo"
+  - Spellwrought Tattoo
+created: 2026-03-09T12:15:33.982-04:00
+modified: 2026-03-09T12:15:33.982-04:00
+published: 2026-03-09T12:15:33.982-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/rarity/varies
+  - ttrpg-cli/item/wondrous/tattoo
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Spellwrought Tattoo
 *Wondrous item (tattoo)*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/fighter/cavalier
+publish: true
 aliases:
-- "Cavalier"
+  - Cavalier
+created: 2026-03-09T12:15:33.892-04:00
+modified: 2026-03-09T12:15:33.892-04:00
+published: 2026-03-09T12:15:33.892-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/fighter/cavalier
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Cavalier
 *[Fighter](./fighter-xphb.md): Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 30*  

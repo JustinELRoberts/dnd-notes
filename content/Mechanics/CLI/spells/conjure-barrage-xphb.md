@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-making
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/battle-smith
-classes:
-- Artificer (Battle Smith)
-- Ranger
+publish: true
 aliases:
-- "Conjure Barrage"
+  - Conjure Barrage
+created: 2026-03-09T12:15:33.822-04:00
+modified: 2026-03-09T12:15:33.822-04:00
+published: 2026-03-09T12:15:33.822-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-making
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/battle-smith
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Battle Smith)
+  - Ranger
 ---
+
 # Conjure Barrage
 *3rd-level, Conjuration*  
 

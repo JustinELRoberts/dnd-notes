@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/class/warlock
+publish: true
 aliases:
-- "Warlock Spells"
+  - Warlock Spells
+created: 2026-03-09T12:15:34.421-04:00
+modified: 2026-03-09T12:15:34.421-04:00
+published: 2026-03-09T12:15:34.421-04:00
+tags:
+  - ttrpg-cli/spell/list/class/warlock
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Warlock Spells
 
 ## Cantrip

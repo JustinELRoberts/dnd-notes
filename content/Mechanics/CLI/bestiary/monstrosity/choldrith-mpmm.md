@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity/cleric
+publish: true
 aliases:
-- "Choldrith"
+  - Choldrith
+created: 2026-03-09T12:15:34.096-04:00
+modified: 2026-03-09T12:15:34.096-04:00
+published: 2026-03-09T12:15:34.096-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity/cleric
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Choldrith
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/choldrith.webp#right)

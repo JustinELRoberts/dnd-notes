@@ -1,36 +1,41 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/circle-of-the-stars
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/pharaoh
-- ttrpg-cli/spell/subclass/war-domain
-classes:
-- Artificer (Cartographer)
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (War Domain)
-- Druid (Circle of the Stars)
-- Necromancer (Pharaoh)
-- Paladin (Oath of Glory)
-- Sorcerer (Divine Soul, Good)
-- Warlock (Celestial Patron)
+publish: true
 aliases:
-- "Guiding Bolt"
+  - Guiding Bolt
+created: 2026-03-09T12:15:33.802-04:00
+modified: 2026-03-09T12:15:33.802-04:00
+published: 2026-03-09T12:15:33.802-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/celestial-patron
+  - ttrpg-cli/spell/subclass/circle-of-the-stars
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/oath-of-glory
+  - ttrpg-cli/spell/subclass/pharaoh
+  - ttrpg-cli/spell/subclass/war-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (War Domain)
+  - Druid (Circle of the Stars)
+  - Necromancer (Pharaoh)
+  - Paladin (Oath of Glory)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 ---
+
 # Guiding Bolt
 *1st-level, Evocation*  
 

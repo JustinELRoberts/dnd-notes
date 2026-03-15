@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/ring
+publish: true
 aliases:
-- "Mind Sharpener"
+  - Mind Sharpener
+created: 2026-03-09T12:15:34.025-04:00
+modified: 2026-03-09T12:15:34.025-04:00
+published: 2026-03-09T12:15:34.025-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/ring
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Mind Sharpener
 *Ring, uncommon (requires attunement)*  
 

@@ -1,35 +1,40 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/feat/ritual-caster
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-fame
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Fame)
-- Rogue (Arcane Trickster)
-- Warlock
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Unseen Servant"
+  - Unseen Servant
+created: 2026-03-09T12:15:33.822-04:00
+modified: 2026-03-09T12:15:33.822-04:00
+published: 2026-03-09T12:15:33.822-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/feat/ritual-caster
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-fame
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Fame)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Unseen Servant
 *1st-level, Conjuration (ritual)*  
 

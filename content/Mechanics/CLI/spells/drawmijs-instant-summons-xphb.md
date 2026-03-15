@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Wizard
+publish: true
 aliases:
-- "Drawmij's Instant Summons"
+  - Drawmij's Instant Summons
+created: 2026-03-09T12:15:34.022-04:00
+modified: 2026-03-09T12:15:34.022-04:00
+published: 2026-03-09T12:15:34.022-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Wizard
 ---
+
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  
 

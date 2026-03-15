@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Demon Armor"
+  - Demon Armor
+created: 2026-03-09T12:15:33.835-04:00
+modified: 2026-03-09T12:15:33.836-04:00
+published: 2026-03-09T12:15:33.836-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Demon Armor
 *Heavy armor, cursed item, major, very rare (requires attunement)*  
 ![Demon Armor (Plate Armor)](Mechanics/CLI/items/img/demon-armor.webp#right)

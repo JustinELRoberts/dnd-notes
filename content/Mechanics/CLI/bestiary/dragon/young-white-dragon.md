@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Young White Dragon"
+  - Young White Dragon
+created: 2026-03-09T12:15:33.785-04:00
+modified: 2026-03-09T12:15:33.786-04:00
+published: 2026-03-09T12:15:33.786-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Young White Dragon
 *Source: Monster Manual p. 101. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/white-dragon.webp#right)

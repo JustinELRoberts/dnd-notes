@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Human Names – Spanish, Male"
+  - Human Names – Spanish, Male
+created: 2026-03-09T12:15:34.416-04:00
+modified: 2026-03-09T12:15:34.416-04:00
+published: 2026-03-09T12:15:34.416-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Human Names – Spanish, Male
 *Source: Xanathar's Guide to Everything p. 181* 
 

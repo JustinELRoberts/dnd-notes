@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/college-of-lore
-classes:
-- Bard (College of Lore)
-- Cleric
+publish: true
 aliases:
-- "Eye of Ra"
+  - Eye of Ra
+created: 2026-03-09T12:15:33.828-04:00
+modified: 2026-03-09T12:15:33.828-04:00
+published: 2026-03-09T12:15:33.828-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/college-of-lore
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard (College of Lore)
+  - Cleric
 ---
+
 # Eye of Ra
 *cantrip, Evocation*  
 

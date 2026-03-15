@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/rogue/arcane-trickster
+publish: true
 aliases:
-- "Arcane Trickster"
+  - Arcane Trickster
+created: 2026-03-09T12:15:34.017-04:00
+modified: 2026-03-09T12:15:34.017-04:00
+published: 2026-03-09T12:15:34.017-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/rogue/arcane-trickster
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Arcane Trickster
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 132*  

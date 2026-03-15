@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deck
-tags:
-- ttrpg-cli/compendium/src/5e/esk
+publish: true
 aliases:
-- "Initiative Cards"
+  - Initiative Cards
+created: 2026-03-09T12:15:33.876-04:00
+modified: 2026-03-09T12:15:33.876-04:00
+published: 2026-03-09T12:15:33.876-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/esk
+cssclasses:
+  - json5e-deck
+obsidianUIMode: preview
 ---
+
 # Initiative Cards
 
 After the characters and each group of monsters involved in a combat roll initiative, distribute these cards among the combat participants, from the highest to lowest initiative count. For example, whoever rolls the highest initiative gets the "1" card and acts first, whoever rolls the second highest initiative gets the "2" card, and so on. Keep the numbered cards for the creatures you're running.

@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Druid
-- Warlock
-- Warmage (House of Bishops)
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Watery Tentacles"
+  - Watery Tentacles
+created: 2026-03-09T12:15:33.797-04:00
+modified: 2026-03-09T12:15:33.797-04:00
+published: 2026-03-09T12:15:33.797-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Warlock
+  - Warmage (House of Bishops)
+  - Witch
+  - Wizard
 ---
+
 # Watery Tentacles
 *4th-level, Conjuration*  
 

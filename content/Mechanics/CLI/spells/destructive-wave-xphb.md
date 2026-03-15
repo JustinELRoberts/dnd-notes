@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-classes:
-- Paladin
+publish: true
 aliases:
-- "Destructive Wave"
+  - Destructive Wave
+created: 2026-03-09T12:15:33.908-04:00
+modified: 2026-03-09T12:15:33.908-04:00
+published: 2026-03-09T12:15:33.908-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin
 ---
+
 # Destructive Wave
 *5th-level, Evocation*  
 

@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Bard
-- Druid
-- Wizard
+publish: true
 aliases:
-- "Shapechange"
+  - Shapechange
+created: 2026-03-09T12:15:33.930-04:00
+modified: 2026-03-09T12:15:33.930-04:00
+published: 2026-03-09T12:15:33.930-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/9th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Wizard
 ---
+
 # Shapechange
 *9th-level, Transmutation*  
 ![](Mechanics/CLI/spells/img/shapechange.webp#right)

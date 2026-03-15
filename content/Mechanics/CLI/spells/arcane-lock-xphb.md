@@ -1,34 +1,39 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-warding
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/gingerbread-magic
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Witch (Gingerbread Magic)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Arcane Lock"
+  - Arcane Lock
+created: 2026-03-09T12:15:33.986-04:00
+modified: 2026-03-09T12:15:33.986-04:00
+published: 2026-03-09T12:15:33.986-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-warding
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/gingerbread-magic
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Witch (Gingerbread Magic)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Arcane Lock
 *2nd-level, Abjuration*  
 

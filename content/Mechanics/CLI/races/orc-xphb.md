@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/orc
+publish: true
 aliases:
-- "Orc"
+  - Orc
+created: 2026-03-09T12:15:33.919-04:00
+modified: 2026-03-09T12:15:33.919-04:00
+published: 2026-03-09T12:15:33.919-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/race/orc
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Orc
 *Source: Player's Handbook (2024) p. 195. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/races/img/orc.webp#right)

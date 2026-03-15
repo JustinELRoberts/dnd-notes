@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/plant
+publish: true
 aliases:
-- "Vegepygmy"
+  - Vegepygmy
+created: 2026-03-09T12:15:33.816-04:00
+modified: 2026-03-09T12:15:33.816-04:00
+published: 2026-03-09T12:15:33.816-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/plant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Vegepygmy
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*  
 

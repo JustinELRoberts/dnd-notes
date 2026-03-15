@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/drow-elf
-- ttrpg-cli/monster/type/humanoid/wizard
+publish: true
 aliases:
-- "Drow Favored Consort"
+  - Drow Favored Consort
+created: 2026-03-09T12:15:33.807-04:00
+modified: 2026-03-09T12:15:33.807-04:00
+published: 2026-03-09T12:15:33.807-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/18
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/drow-elf
+  - ttrpg-cli/monster/type/humanoid/wizard
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Drow Favored Consort
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 100*  
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-favored-consort.webp#right)

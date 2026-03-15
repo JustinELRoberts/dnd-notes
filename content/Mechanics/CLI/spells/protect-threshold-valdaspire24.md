@@ -1,26 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/investigator
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/abjuration
-classes:
-- Investigator
-- Necromancer
-- Sorcerer
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Protect Threshold"
+  - Protect Threshold
+created: 2026-03-09T12:15:34.001-04:00
+modified: 2026-03-09T12:15:34.001-04:00
+published: 2026-03-09T12:15:34.001-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/investigator
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/abjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Investigator
+  - Necromancer
+  - Sorcerer
+  - Witch
+  - Wizard
 ---
+
 # Protect Threshold
 *2nd-level, Abjuration (ritual)*  
 

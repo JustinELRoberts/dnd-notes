@@ -1,33 +1,38 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Repeating Shot"
-- "Repeating Atlatl"
-- "Repeating Ballista"
-- "Repeating Blowgun"
-- "Repeating Greatbow"
-- "Repeating Grenade Launcher"
-- "Repeating Hand Crossbow"
-- "Repeating Heavy Crossbow"
-- "Repeating Light Crossbow"
-- "Repeating Longbow"
-- "Repeating Musket"
-- "Repeating Pistol"
-- "Repeating Repeating Crossbow"
-- "Repeating Shortbow"
-- "Repeating Sling"
-- "Repeating Volley Crossbow"
+  - Repeating Shot
+  - Repeating Atlatl
+  - Repeating Ballista
+  - Repeating Blowgun
+  - Repeating Greatbow
+  - Repeating Grenade Launcher
+  - Repeating Hand Crossbow
+  - Repeating Heavy Crossbow
+  - Repeating Light Crossbow
+  - Repeating Longbow
+  - Repeating Musket
+  - Repeating Pistol
+  - Repeating Repeating Crossbow
+  - Repeating Shortbow
+  - Repeating Sling
+  - Repeating Volley Crossbow
+created: 2026-03-09T12:15:34.020-04:00
+modified: 2026-03-09T12:15:34.020-04:00
+published: 2026-03-09T12:15:34.020-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Repeating Shot
 *Uncommon (requires attunement)*  
 

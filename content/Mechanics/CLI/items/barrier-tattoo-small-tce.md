@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/wondrous/tattoo
+publish: true
 aliases:
-- "Barrier Tattoo (Small)"
+  - Barrier Tattoo (Small)
+created: 2026-03-09T12:15:34.046-04:00
+modified: 2026-03-09T12:15:34.046-04:00
+published: 2026-03-09T12:15:34.046-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/wondrous/tattoo
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Barrier Tattoo (Small)
 *Wondrous item (tattoo), uncommon (requires attunement)*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/ranger/beast-master
+publish: true
 aliases:
-- "Beast Master"
+  - Beast Master
+created: 2026-03-09T12:15:33.823-04:00
+modified: 2026-03-09T12:15:33.823-04:00
+published: 2026-03-09T12:15:33.823-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/ranger/beast-master
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Beast Master
 *[Ranger](./ranger-xphb.md): Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 123*  

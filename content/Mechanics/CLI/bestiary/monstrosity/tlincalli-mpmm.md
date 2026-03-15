@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Tlincalli"
+  - Tlincalli
+created: 2026-03-09T12:15:34.018-04:00
+modified: 2026-03-09T12:15:34.018-04:00
+published: 2026-03-09T12:15:34.018-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Tlincalli
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/tlincalli.webp#right)

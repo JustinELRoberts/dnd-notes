@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/optional-feature/mv-v
+publish: true
 aliases:
-- "Bull Rush"
+  - Bull Rush
+created: 2026-03-09T12:15:33.917-04:00
+modified: 2026-03-09T12:15:33.918-04:00
+published: 2026-03-09T12:15:33.918-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/optional-feature/mv-v
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Bull Rush 
 
 

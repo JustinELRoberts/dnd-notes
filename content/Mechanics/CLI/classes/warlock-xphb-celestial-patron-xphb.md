@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/celestial
+publish: true
 aliases:
-- "Celestial Patron"
+  - Celestial Patron
+created: 2026-03-09T12:15:33.950-04:00
+modified: 2026-03-09T12:15:33.950-04:00
+published: 2026-03-09T12:15:33.950-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/warlock/celestial
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Celestial Patron
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 160*  

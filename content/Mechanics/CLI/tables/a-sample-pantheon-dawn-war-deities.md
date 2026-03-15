@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "A Sample Pantheon; Dawn War Deities"
+  - A Sample Pantheon; Dawn War Deities
+created: 2026-03-09T12:15:34.384-04:00
+modified: 2026-03-09T12:15:34.384-04:00
+published: 2026-03-09T12:15:34.384-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # A Sample Pantheon; Dawn War Deities
 *Source: Dungeon Master's Guide p. 11* 
 

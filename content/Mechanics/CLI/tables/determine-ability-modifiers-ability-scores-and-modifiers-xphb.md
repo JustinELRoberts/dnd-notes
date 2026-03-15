@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Determine Ability Modifiers; Ability Scores and Modifiers"
+  - Determine Ability Modifiers; Ability Scores and Modifiers
+created: 2026-03-09T12:15:34.419-04:00
+modified: 2026-03-09T12:15:34.419-04:00
+published: 2026-03-09T12:15:34.419-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Determine Ability Modifiers; Ability Scores and Modifiers
 *Source: Player's Handbook (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

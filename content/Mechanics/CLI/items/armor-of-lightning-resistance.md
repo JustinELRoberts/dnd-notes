@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Armor of Lightning Resistance"
-- "Breastplate of Lightning Resistance"
-- "Chain Mail of Lightning Resistance"
-- "Chain Shirt of Lightning Resistance"
-- "Half Plate Armor of Lightning Resistance"
-- "Hide Armor of Lightning Resistance"
-- "Leather Armor of Lightning Resistance"
-- "Padded Armor of Lightning Resistance"
-- "Plate Armor of Lightning Resistance"
-- "Ring Mail of Lightning Resistance"
-- "Scale Mail of Lightning Resistance"
-- "Spiked Armor of Lightning Resistance"
-- "Splint Armor of Lightning Resistance"
-- "Studded Leather Armor of Lightning Resistance"
+  - Armor of Lightning Resistance
+  - Breastplate of Lightning Resistance
+  - Chain Mail of Lightning Resistance
+  - Chain Shirt of Lightning Resistance
+  - Half Plate Armor of Lightning Resistance
+  - Hide Armor of Lightning Resistance
+  - Leather Armor of Lightning Resistance
+  - Padded Armor of Lightning Resistance
+  - Plate Armor of Lightning Resistance
+  - Ring Mail of Lightning Resistance
+  - Scale Mail of Lightning Resistance
+  - Spiked Armor of Lightning Resistance
+  - Splint Armor of Lightning Resistance
+  - Studded Leather Armor of Lightning Resistance
+created: 2026-03-09T12:15:34.103-04:00
+modified: 2026-03-09T12:15:34.103-04:00
+published: 2026-03-09T12:15:34.103-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Armor of Lightning Resistance
 *Major, rare (requires attunement)*  
 

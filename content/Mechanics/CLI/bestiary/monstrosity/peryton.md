@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Peryton"
+  - Peryton
+created: 2026-03-09T12:15:33.819-04:00
+modified: 2026-03-09T12:15:33.819-04:00
+published: 2026-03-09T12:15:33.819-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Peryton
 *Source: Monster Manual p. 251*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/peryton.webp#right)

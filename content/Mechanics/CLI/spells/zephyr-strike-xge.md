@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Ranger
+publish: true
 aliases:
-- "Zephyr Strike"
+  - Zephyr Strike
+created: 2026-03-09T12:15:33.849-04:00
+modified: 2026-03-09T12:15:33.849-04:00
+published: 2026-03-09T12:15:33.849-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Ranger
 ---
+
 # Zephyr Strike
 *1st-level, Transmutation*  
 

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Moonblade"
+  - Moonblade
+created: 2026-03-09T12:15:33.775-04:00
+modified: 2026-03-09T12:15:33.775-04:00
+published: 2026-03-09T12:15:33.775-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Moonblade
 *Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
 ![Moonblade (Longsword)](Mechanics/CLI/items/img/moonblade.webp#right)

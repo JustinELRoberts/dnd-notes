@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "House Deneith Heir"
+  - House Deneith Heir
+created: 2026-03-09T12:15:33.888-04:00
+modified: 2026-03-09T12:15:33.888-04:00
+published: 2026-03-09T12:15:33.888-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # House Deneith Heir
 *Source: Eberron: Forge of the Artificer p. 27*  
 ![](Mechanics/CLI/backgrounds/img/house-deneith-heir.webp#right)

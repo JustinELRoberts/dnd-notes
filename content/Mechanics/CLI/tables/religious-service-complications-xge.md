@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Religious Service Complications"
+  - Religious Service Complications
+created: 2026-03-09T12:15:34.399-04:00
+modified: 2026-03-09T12:15:34.399-04:00
+published: 2026-03-09T12:15:34.399-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Religious Service Complications
 *Source: Xanathar's Guide to Everything p. 132* 
 

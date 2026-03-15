@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Ability Score Improvement"
+  - Ability Score Improvement
+created: 2026-03-09T12:15:33.883-04:00
+modified: 2026-03-09T12:15:33.883-04:00
+published: 2026-03-09T12:15:33.883-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Ability Score Improvement 
 
 

@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Dire Troll"
+  - Dire Troll
+created: 2026-03-09T12:15:33.938-04:00
+modified: 2026-03-09T12:15:33.938-04:00
+published: 2026-03-09T12:15:33.938-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/13
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dire Troll
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 246*  
 ![](Mechanics/CLI/bestiary/giant/img/dire-troll.webp#right)

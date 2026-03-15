@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/17
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Goristro"
+  - Goristro
+created: 2026-03-09T12:15:33.909-04:00
+modified: 2026-03-09T12:15:33.909-04:00
+published: 2026-03-09T12:15:33.909-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/17
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Goristro
 *Source: Monster Manual p. 59*  
 ![](Mechanics/CLI/bestiary/fiend/img/goristro.webp#right)

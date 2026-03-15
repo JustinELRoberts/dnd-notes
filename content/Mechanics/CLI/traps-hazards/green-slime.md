@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Green Slime"
+  - Green Slime
+created: 2026-03-09T12:15:33.874-04:00
+modified: 2026-03-09T12:15:33.874-04:00
+published: 2026-03-09T12:15:33.874-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Green Slime
 *Generic Hazard*  
 

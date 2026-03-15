@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Druid
-- Ranger
+publish: true
 aliases:
-- "Grasping Vine"
+  - Grasping Vine
+created: 2026-03-09T12:15:33.872-04:00
+modified: 2026-03-09T12:15:33.872-04:00
+published: 2026-03-09T12:15:33.872-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Ranger
 ---
+
 # Grasping Vine
 *4th-level, Conjuration*  
 

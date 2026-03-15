@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Javelin of Lightning"
+  - Javelin of Lightning
+created: 2026-03-09T12:15:33.840-04:00
+modified: 2026-03-09T12:15:33.840-04:00
+published: 2026-03-09T12:15:33.840-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Javelin of Lightning
 *Weapon ([javelin](Mechanics/CLI/items/javelin-xphb.md)), major, uncommon*  
 ![](Mechanics/CLI/items/img/javelin-of-lightning.webp#right)

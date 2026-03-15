@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/race/changeling
+publish: true
 aliases:
-- "Changeling"
+  - Changeling
+created: 2026-03-09T12:15:33.990-04:00
+modified: 2026-03-09T12:15:33.990-04:00
+published: 2026-03-09T12:15:33.990-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/race/changeling
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Changeling
 *Source: Eberron: Forge of the Artificer p. 34*  
 ![](Mechanics/CLI/races/img/changeling.webp#right)

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Axe of the Dwarvish Lords"
+  - Axe of the Dwarvish Lords
+created: 2026-03-09T12:15:33.978-04:00
+modified: 2026-03-09T12:15:33.978-04:00
+published: 2026-03-09T12:15:33.978-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Axe of the Dwarvish Lords
 *Weapon ([battleaxe](Mechanics/CLI/items/battleaxe-xphb.md)), cursed item, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/axe-of-the-dwarvish-lords.webp#right)

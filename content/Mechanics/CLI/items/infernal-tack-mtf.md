@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
+publish: true
 aliases:
-- "Infernal Tack"
+  - Infernal Tack
+created: 2026-03-09T12:15:33.931-04:00
+modified: 2026-03-09T12:15:33.931-04:00
+published: 2026-03-09T12:15:33.931-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mtf
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  
 

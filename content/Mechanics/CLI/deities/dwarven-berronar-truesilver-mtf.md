@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/dwarven
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/light
-- ttrpg-cli/domain/peace
+publish: true
 aliases:
-- "Berronar Truesilver"
+  - Berronar Truesilver
+created: 2026-03-09T12:15:33.870-04:00
+modified: 2026-03-09T12:15:33.870-04:00
+published: 2026-03-09T12:15:33.870-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mtf
+  - ttrpg-cli/deity/dwarven
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/domain/peace
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Berronar Truesilver
 
 

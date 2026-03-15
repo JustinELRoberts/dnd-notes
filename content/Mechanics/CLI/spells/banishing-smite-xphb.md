@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/battle-smith
-- ttrpg-cli/spell/subclass/the-hexblade
-classes:
-- Artificer (Battle Smith)
-- Paladin
-- Warlock (The Hexblade)
+publish: true
 aliases:
-- "Banishing Smite"
+  - Banishing Smite
+created: 2026-03-09T12:15:33.794-04:00
+modified: 2026-03-09T12:15:33.794-04:00
+published: 2026-03-09T12:15:33.794-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/battle-smith
+  - ttrpg-cli/spell/subclass/the-hexblade
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Battle Smith)
+  - Paladin
+  - Warlock (The Hexblade)
 ---
+
 # Banishing Smite
 *5th-level, Conjuration*  
 

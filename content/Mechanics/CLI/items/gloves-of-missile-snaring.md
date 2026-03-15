@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Gloves of Missile Snaring"
+  - Gloves of Missile Snaring
+created: 2026-03-09T12:15:34.136-04:00
+modified: 2026-03-09T12:15:34.136-04:00
+published: 2026-03-09T12:15:34.136-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Gloves of Missile Snaring
 *Wondrous item, major, uncommon (requires attunement)*  
 ![](Mechanics/CLI/items/img/gloves-of-missile-snaring.webp#right)

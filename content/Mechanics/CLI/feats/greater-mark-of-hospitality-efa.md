@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Greater Mark of Hospitality"
+  - Greater Mark of Hospitality
+created: 2026-03-09T12:15:34.034-04:00
+modified: 2026-03-09T12:15:34.034-04:00
+published: 2026-03-09T12:15:34.034-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Greater Mark of Hospitality 
 
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/optional-feature/pb
+publish: true
 aliases:
-- "Pact of the Talisman"
+  - Pact of the Talisman
+created: 2026-03-09T12:15:33.941-04:00
+modified: 2026-03-09T12:15:33.941-04:00
+published: 2026-03-09T12:15:33.941-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/optional-feature/pb
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Pact of the Talisman 
 
 

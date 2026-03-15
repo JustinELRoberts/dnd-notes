@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Helmed Horror"
+  - Helmed Horror
+created: 2026-03-09T12:15:33.999-04:00
+modified: 2026-03-09T12:15:33.999-04:00
+published: 2026-03-09T12:15:33.999-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Helmed Horror
 *Source: Monster Manual p. 183*  
 ![](Mechanics/CLI/bestiary/construct/img/helmed-horror.webp#right)

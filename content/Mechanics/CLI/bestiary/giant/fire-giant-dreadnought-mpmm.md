@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/14
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Fire Giant Dreadnought"
+  - Fire Giant Dreadnought
+created: 2026-03-09T12:15:34.052-04:00
+modified: 2026-03-09T12:15:34.052-04:00
+published: 2026-03-09T12:15:34.052-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/14
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Fire Giant Dreadnought
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  
 ![](Mechanics/CLI/bestiary/giant/img/fire-giant-dreadnought.webp#right)

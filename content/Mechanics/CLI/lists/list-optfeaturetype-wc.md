@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
+publish: true
 aliases:
-- "Witch's Curse"
+  - Witch's Curse
+created: 2026-03-09T12:15:34.383-04:00
+modified: 2026-03-09T12:15:34.383-04:00
+published: 2026-03-09T12:15:34.383-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Witch's Curse
 *Source: Valda's Spire of Secrets (2024)* 
 

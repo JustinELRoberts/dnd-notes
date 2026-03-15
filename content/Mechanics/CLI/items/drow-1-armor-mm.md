@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/unknown/magic
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Drow +1 Armor"
-- "Drow +1 Breastplate"
-- "Drow +1 Chain Mail"
-- "Drow +1 Chain Shirt"
-- "Drow +1 Half Plate Armor"
-- "Drow +1 Hide Armor"
-- "Drow +1 Leather Armor"
-- "Drow +1 Padded Armor"
-- "Drow +1 Plate Armor"
-- "Drow +1 Ring Mail"
-- "Drow +1 Scale Mail"
-- "Drow +1 Spiked Armor"
-- "Drow +1 Splint Armor"
-- "Drow +1 Studded Leather Armor"
+  - Drow +1 Armor
+  - Drow +1 Breastplate
+  - Drow +1 Chain Mail
+  - Drow +1 Chain Shirt
+  - Drow +1 Half Plate Armor
+  - Drow +1 Hide Armor
+  - Drow +1 Leather Armor
+  - Drow +1 Padded Armor
+  - Drow +1 Plate Armor
+  - Drow +1 Ring Mail
+  - Drow +1 Scale Mail
+  - Drow +1 Spiked Armor
+  - Drow +1 Splint Armor
+  - Drow +1 Studded Leather Armor
+created: 2026-03-09T12:15:34.089-04:00
+modified: 2026-03-09T12:15:34.089-04:00
+published: 2026-03-09T12:15:34.089-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/unknown/magic
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Drow +1 Armor
 
 

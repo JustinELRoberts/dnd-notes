@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Variant: Spell Points; Spell Point Cost"
+  - "Variant: Spell Points; Spell Point Cost"
+created: 2026-03-09T12:15:34.411-04:00
+modified: 2026-03-09T12:15:34.411-04:00
+published: 2026-03-09T12:15:34.411-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Variant: Spell Points; Spell Point Cost
 *Source: Dungeon Master's Guide p. 288* 
 

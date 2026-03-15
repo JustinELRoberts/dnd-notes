@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Copper Dragon Wyrmling"
+  - Copper Dragon Wyrmling
+created: 2026-03-09T12:15:34.135-04:00
+modified: 2026-03-09T12:15:34.135-04:00
+published: 2026-03-09T12:15:34.135-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Copper Dragon Wyrmling
 *Source: Monster Manual p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/copper-dragon.webp#right)

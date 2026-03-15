@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "House Phiarlan Heir"
+  - House Phiarlan Heir
+created: 2026-03-09T12:15:34.100-04:00
+modified: 2026-03-09T12:15:34.100-04:00
+published: 2026-03-09T12:15:34.100-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # House Phiarlan Heir
 *Source: Eberron: Forge of the Artificer p. 31*  
 ![](Mechanics/CLI/backgrounds/img/house-phiarlan-heir.webp#right)

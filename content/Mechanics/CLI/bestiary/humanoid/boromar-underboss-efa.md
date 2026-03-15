@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/halfling
+publish: true
 aliases:
-- "Boromar Underboss"
+  - Boromar Underboss
+created: 2026-03-09T12:15:33.963-04:00
+modified: 2026-03-09T12:15:33.963-04:00
+published: 2026-03-09T12:15:33.963-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid/halfling
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Boromar Underboss
 *Source: Eberron: Forge of the Artificer p. 57*  
 ![](Mechanics/CLI/bestiary/humanoid/img/boromar-underboss.webp#right)

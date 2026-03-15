@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Faerie Dragon (Indigo)"
+  - Faerie Dragon (Indigo)
+created: 2026-03-09T12:15:33.996-04:00
+modified: 2026-03-09T12:15:33.996-04:00
+published: 2026-03-09T12:15:33.996-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Faerie Dragon (Indigo)
 *Source: Monster Manual p. 133*  
 ![](Mechanics/CLI/bestiary/dragon/img/faerie-dragon.webp#right)

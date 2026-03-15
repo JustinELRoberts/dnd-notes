@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid/halfling
+publish: true
 aliases:
-- "Boromar Smuggler"
+  - Boromar Smuggler
+created: 2026-03-09T12:15:34.033-04:00
+modified: 2026-03-09T12:15:34.033-04:00
+published: 2026-03-09T12:15:34.033-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid/halfling
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Boromar Smuggler
 *Source: Eberron: Forge of the Artificer p. 57*  
 ![](Mechanics/CLI/bestiary/humanoid/img/boromar-smuggler.webp#right)

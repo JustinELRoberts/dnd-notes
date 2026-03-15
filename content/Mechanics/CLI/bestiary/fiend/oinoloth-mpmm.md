@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/12
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/yugoloth
+publish: true
 aliases:
-- "Oinoloth"
+  - Oinoloth
+created: 2026-03-09T12:15:33.952-04:00
+modified: 2026-03-09T12:15:33.952-04:00
+published: 2026-03-09T12:15:33.952-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/12
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/yugoloth
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Oinoloth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 202*  
 ![](Mechanics/CLI/bestiary/fiend/img/oinoloth.webp#right)

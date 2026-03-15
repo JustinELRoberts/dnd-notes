@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Desert Encounters (Levels 11—16)"
+  - Desert Encounters (Levels 11—16)
+created: 2026-03-09T12:15:34.404-04:00
+modified: 2026-03-09T12:15:34.404-04:00
+published: 2026-03-09T12:15:34.404-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Desert Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 95* 
 

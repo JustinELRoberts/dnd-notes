@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Dretch"
+  - Dretch
+created: 2026-03-09T12:15:33.996-04:00
+modified: 2026-03-09T12:15:33.996-04:00
+published: 2026-03-09T12:15:33.996-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Dretch
 *Source: Monster Manual p. 57. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/fiend/img/dretch.webp#right)

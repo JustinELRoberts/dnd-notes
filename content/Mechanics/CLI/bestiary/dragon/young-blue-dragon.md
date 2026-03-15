@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/dragon
+publish: true
 aliases:
-- "Young Blue Dragon"
+  - Young Blue Dragon
+created: 2026-03-09T12:15:33.770-04:00
+modified: 2026-03-09T12:15:33.770-04:00
+published: 2026-03-09T12:15:33.770-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/dragon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Young Blue Dragon
 *Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/dragon/img/young-blue-dragon.webp#right)

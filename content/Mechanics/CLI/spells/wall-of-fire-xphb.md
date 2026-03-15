@@ -1,48 +1,53 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/artillerist
-- ttrpg-cli/spell/subclass/burden-of-revolution
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/forge-domain
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/red-magic
-classes:
-- Artificer (Artillerist)
-- Bard
-- Cleric (Forge Domain)
-- Cleric (Light Domain)
-- Druid
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Revolution)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Celestial Patron)
-- Warlock (Fiend Patron)
-- Warmage (House of Bishops)
-- Witch (Red Magic)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Wall of Fire"
+  - Wall of Fire
+created: 2026-03-09T12:15:33.983-04:00
+modified: 2026-03-09T12:15:33.983-04:00
+published: 2026-03-09T12:15:33.983-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/artillerist
+  - ttrpg-cli/spell/subclass/burden-of-revolution
+  - ttrpg-cli/spell/subclass/celestial-patron
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/fiend-patron
+  - ttrpg-cli/spell/subclass/forge-domain
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/light-domain
+  - ttrpg-cli/spell/subclass/red-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Cleric (Forge Domain)
+  - Cleric (Light Domain)
+  - Druid
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Revolution)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Celestial Patron)
+  - Warlock (Fiend Patron)
+  - Warmage (House of Bishops)
+  - Witch (Red Magic)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Wall of Fire
 *4th-level, Evocation*  
 

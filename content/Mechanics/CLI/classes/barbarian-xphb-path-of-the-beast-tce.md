@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/barbarian/beast
+publish: true
 aliases:
-- "Path of the Beast"
+  - Path of the Beast
+created: 2026-03-09T12:15:33.985-04:00
+modified: 2026-03-09T12:15:33.985-04:00
+published: 2026-03-09T12:15:33.985-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/barbarian/beast
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Path of the Beast
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Tasha's Cauldron of Everything p. 24*  

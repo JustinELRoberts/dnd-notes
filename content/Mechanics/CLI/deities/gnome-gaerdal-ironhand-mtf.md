@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/gnome
-- ttrpg-cli/domain/peace
-- ttrpg-cli/domain/war
+publish: true
 aliases:
-- "Gaerdal Ironhand"
+  - Gaerdal Ironhand
+created: 2026-03-09T12:15:34.024-04:00
+modified: 2026-03-09T12:15:34.024-04:00
+published: 2026-03-09T12:15:34.024-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mtf
+  - ttrpg-cli/deity/gnome
+  - ttrpg-cli/domain/peace
+  - ttrpg-cli/domain/war
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Gaerdal Ironhand
 
 

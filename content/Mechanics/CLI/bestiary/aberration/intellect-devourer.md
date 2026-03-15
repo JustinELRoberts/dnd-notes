@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Intellect Devourer"
+  - Intellect Devourer
+created: 2026-03-09T12:15:33.872-04:00
+modified: 2026-03-09T12:15:33.872-04:00
+published: 2026-03-09T12:15:33.872-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Intellect Devourer
 *Source: Monster Manual p. 191*  
 ![](Mechanics/CLI/bestiary/aberration/img/intellect-devourer.webp#right)

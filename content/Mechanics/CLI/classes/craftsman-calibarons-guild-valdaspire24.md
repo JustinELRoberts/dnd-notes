@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/craftsman/calibarons
+publish: true
 aliases:
-- "Calibarons' Guild"
+  - Calibarons' Guild
+created: 2026-03-09T12:15:34.082-04:00
+modified: 2026-03-09T12:15:34.082-04:00
+published: 2026-03-09T12:15:34.082-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/craftsman/calibarons
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Calibarons' Guild
 *[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

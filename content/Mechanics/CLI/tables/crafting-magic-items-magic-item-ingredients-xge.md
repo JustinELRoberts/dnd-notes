@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Crafting Magic Items; Magic Item Ingredients"
+  - Crafting Magic Items; Magic Item Ingredients
+created: 2026-03-09T12:15:34.375-04:00
+modified: 2026-03-09T12:15:34.375-04:00
+published: 2026-03-09T12:15:34.375-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Crafting Magic Items; Magic Item Ingredients
 *Source: Xanathar's Guide to Everything p. 128* 
 

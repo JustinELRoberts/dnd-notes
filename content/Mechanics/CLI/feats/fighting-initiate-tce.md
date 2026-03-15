@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Fighting Initiate"
+  - Fighting Initiate
+created: 2026-03-09T12:15:34.002-04:00
+modified: 2026-03-09T12:15:34.002-04:00
+published: 2026-03-09T12:15:34.002-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Fighting Initiate 
 
 

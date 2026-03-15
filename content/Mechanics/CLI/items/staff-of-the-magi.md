@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Staff of the Magi"
+  - Staff of the Magi
+created: 2026-03-09T12:15:33.917-04:00
+modified: 2026-03-09T12:15:33.917-04:00
+published: 2026-03-09T12:15:33.917-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Staff of the Magi
 *Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
 ![](Mechanics/CLI/items/img/staff-of-the-magi.webp#right)

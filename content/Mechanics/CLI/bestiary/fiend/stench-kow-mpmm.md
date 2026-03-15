@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/cattle
+publish: true
 aliases:
-- "Stench Kow"
+  - Stench Kow
+created: 2026-03-09T12:15:33.980-04:00
+modified: 2026-03-09T12:15:33.980-04:00
+published: 2026-03-09T12:15:33.980-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/cattle
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Stench Kow
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 

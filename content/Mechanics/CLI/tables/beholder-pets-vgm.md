@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
+publish: true
 aliases:
-- "Beholder Pets"
+  - Beholder Pets
+created: 2026-03-09T12:15:34.400-04:00
+modified: 2026-03-09T12:15:34.400-04:00
+published: 2026-03-09T12:15:34.400-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Beholder Pets
 *Source: Volo's Guide to Monsters p. 16* 
 

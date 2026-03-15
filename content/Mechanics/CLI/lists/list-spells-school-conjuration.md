@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/school/conjuration
+publish: true
 aliases:
-- "Conjuration Spells"
+  - Conjuration Spells
+created: 2026-03-09T12:15:34.420-04:00
+modified: 2026-03-09T12:15:34.420-04:00
+published: 2026-03-09T12:15:34.420-04:00
+tags:
+  - ttrpg-cli/spell/list/school/conjuration
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Conjuration Spells
 
 ## Cantrip

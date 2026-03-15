@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/corpse-florist
-classes:
-- Bard
-- Druid
-- Martyr (Burden of Rebirth)
-- Necromancer (Corpse Florist)
+publish: true
 aliases:
-- "Reincarnate"
+  - Reincarnate
+created: 2026-03-09T12:15:33.816-04:00
+modified: 2026-03-09T12:15:33.816-04:00
+published: 2026-03-09T12:15:33.816-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/corpse-florist
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Necromancer (Corpse Florist)
 ---
+
 # Reincarnate
 *5th-level, Necromancy*  
 

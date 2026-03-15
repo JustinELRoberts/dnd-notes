@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Mariner's Armor"
-- "Mariner's Breastplate"
-- "Mariner's Chain Mail"
-- "Mariner's Chain Shirt"
-- "Mariner's Half Plate Armor"
-- "Mariner's Hide Armor"
-- "Mariner's Leather Armor"
-- "Mariner's Padded Armor"
-- "Mariner's Plate Armor"
-- "Mariner's Ring Mail"
-- "Mariner's Scale Mail"
-- "Mariner's Spiked Armor"
-- "Mariner's Splint Armor"
-- "Mariner's Studded Leather Armor"
+  - Mariner's Armor
+  - Mariner's Breastplate
+  - Mariner's Chain Mail
+  - Mariner's Chain Shirt
+  - Mariner's Half Plate Armor
+  - Mariner's Hide Armor
+  - Mariner's Leather Armor
+  - Mariner's Padded Armor
+  - Mariner's Plate Armor
+  - Mariner's Ring Mail
+  - Mariner's Scale Mail
+  - Mariner's Spiked Armor
+  - Mariner's Splint Armor
+  - Mariner's Studded Leather Armor
+created: 2026-03-09T12:15:33.954-04:00
+modified: 2026-03-09T12:15:33.954-04:00
+published: 2026-03-09T12:15:33.954-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Mariner's Armor
 *Minor, uncommon*  
 

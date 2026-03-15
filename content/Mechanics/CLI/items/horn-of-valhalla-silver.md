@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Horn of Valhalla, Silver"
+  - Horn of Valhalla, Silver
+created: 2026-03-09T12:15:34.058-04:00
+modified: 2026-03-09T12:15:34.058-04:00
+published: 2026-03-09T12:15:34.058-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Horn of Valhalla, Silver
 *Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), major, rare*  
 

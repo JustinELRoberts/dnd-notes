@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Manual of Iron Golems"
+  - Manual of Iron Golems
+created: 2026-03-09T12:15:33.874-04:00
+modified: 2026-03-09T12:15:33.874-04:00
+published: 2026-03-09T12:15:33.874-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Manual of Iron Golems
 *Wondrous item, major, very rare*  
 ![](Mechanics/CLI/items/img/manual-of-iron-golems.webp#right)

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/13
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Angry Sorrowsworn"
+  - Angry Sorrowsworn
+created: 2026-03-09T12:15:33.901-04:00
+modified: 2026-03-09T12:15:33.901-04:00
+published: 2026-03-09T12:15:33.901-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/13
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Angry Sorrowsworn
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/angry-sorrowsworn.webp#right)

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration/shapechanger
+publish: true
 aliases:
-- "Gray Slaad"
+  - Gray Slaad
+created: 2026-03-09T12:15:34.093-04:00
+modified: 2026-03-09T12:15:34.093-04:00
+published: 2026-03-09T12:15:34.093-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration/shapechanger
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Gray Slaad
 *Source: Monster Manual p. 277*  
 ![](Mechanics/CLI/bestiary/aberration/img/gray-slaad.webp#right)

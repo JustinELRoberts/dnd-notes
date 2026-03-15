@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Aristocrat Retainer Roles"
+  - Aristocrat Retainer Roles
+created: 2026-03-09T12:15:34.405-04:00
+modified: 2026-03-09T12:15:34.405-04:00
+published: 2026-03-09T12:15:34.405-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Aristocrat Retainer Roles
 *Source: Tasha's Cauldron of Everything p. 90* 
 

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/kuo-toa
+publish: true
 aliases:
-- "Kuo-toa Archpriest"
+  - Kuo-toa Archpriest
+created: 2026-03-09T12:15:34.098-04:00
+modified: 2026-03-09T12:15:34.099-04:00
+published: 2026-03-09T12:15:34.099-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/kuo-toa
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Kuo-toa Archpriest
 *Source: Monster Manual p. 200*  
 ![](Mechanics/CLI/bestiary/humanoid/img/kuo-toa-archpriest.webp#right)

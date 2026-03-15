@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/gnoll
+publish: true
 aliases:
-- "Gnoll Pack Lord"
+  - Gnoll Pack Lord
+created: 2026-03-09T12:15:33.906-04:00
+modified: 2026-03-09T12:15:33.906-04:00
+published: 2026-03-09T12:15:33.906-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/gnoll
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Gnoll Pack Lord
 *Source: Monster Manual p. 163*  
 ![](Mechanics/CLI/bestiary/humanoid/img/gnoll.webp#right)

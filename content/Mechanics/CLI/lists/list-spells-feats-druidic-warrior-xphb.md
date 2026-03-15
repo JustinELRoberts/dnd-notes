@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/druidic-warrior
+publish: true
 aliases:
-- "Spells for Druidic Warrior"
+  - Spells for Druidic Warrior
+created: 2026-03-09T12:15:34.432-04:00
+modified: 2026-03-09T12:15:34.432-04:00
+published: 2026-03-09T12:15:34.432-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/druidic-warrior
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Druidic Warrior
 
 ## Cantrip

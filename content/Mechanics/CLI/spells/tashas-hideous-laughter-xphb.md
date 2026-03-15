@@ -1,41 +1,46 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-levity
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/crone
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/gingerbread-magic
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Levity)
-- Necromancer (Crone)
-- Rogue (Arcane Trickster)
-- Warlock
-- Warlock (Great Old One Patron)
-- Warmage (House of Bishops)
-- Witch (Gingerbread Magic)
-- Witch (Tea Magic)
-- Wizard
+publish: true
 aliases:
-- "Tasha's Hideous Laughter"
+  - Tasha's Hideous Laughter
+created: 2026-03-09T12:15:34.020-04:00
+modified: 2026-03-09T12:15:34.020-04:00
+published: 2026-03-09T12:15:34.020-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-levity
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/crone
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/gingerbread-magic
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Levity)
+  - Necromancer (Crone)
+  - Rogue (Arcane Trickster)
+  - Warlock
+  - Warlock (Great Old One Patron)
+  - Warmage (House of Bishops)
+  - Witch (Gingerbread Magic)
+  - Witch (Tea Magic)
+  - Wizard
 ---
+
 # Tasha's Hideous Laughter
 *1st-level, Enchantment*  
 

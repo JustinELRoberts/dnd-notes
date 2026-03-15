@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Dragonmarked Intrigue Adventures; House Intrigue"
+  - Dragonmarked Intrigue Adventures; House Intrigue
+created: 2026-03-09T12:15:34.414-04:00
+modified: 2026-03-09T12:15:34.414-04:00
+published: 2026-03-09T12:15:34.414-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Dragonmarked Intrigue Adventures; House Intrigue
 *Source: Eberron: Forge of the Artificer p. 80* 
 

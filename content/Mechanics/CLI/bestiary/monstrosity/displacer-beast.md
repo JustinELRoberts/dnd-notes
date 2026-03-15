@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Displacer Beast"
+  - Displacer Beast
+created: 2026-03-09T12:15:33.870-04:00
+modified: 2026-03-09T12:15:33.870-04:00
+published: 2026-03-09T12:15:33.870-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Displacer Beast
 *Source: Monster Manual p. 81*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/displacer-beast.webp#right)

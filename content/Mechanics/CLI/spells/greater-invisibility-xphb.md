@@ -1,49 +1,54 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-shadow
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/armorer
-- ttrpg-cli/spell/subclass/burden-of-anonymity
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/gloom-stalker
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/house-of-rooks
-- ttrpg-cli/spell/subclass/illusionist
-- ttrpg-cli/spell/subclass/reaper
-- ttrpg-cli/spell/subclass/the-genie/djinni
-- ttrpg-cli/spell/subclass/twilight-domain
-classes:
-- Artificer (Armorer)
-- Bard
-- Cleric (Twilight Domain)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Anonymity)
-- Necromancer (Reaper)
-- Ranger (Gloom Stalker)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Archfey Patron)
-- Warlock (The Genie, Djinni)
-- Warmage (House of Bishops)
-- Warmage (House of Rooks)
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Greater Invisibility"
+  - Greater Invisibility
+created: 2026-03-09T12:15:34.111-04:00
+modified: 2026-03-09T12:15:34.111-04:00
+published: 2026-03-09T12:15:34.111-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-shadow
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/burden-of-anonymity
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/gloom-stalker
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/house-of-rooks
+  - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/reaper
+  - ttrpg-cli/spell/subclass/the-genie/djinni
+  - ttrpg-cli/spell/subclass/twilight-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Armorer)
+  - Bard
+  - Cleric (Twilight Domain)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Anonymity)
+  - Necromancer (Reaper)
+  - Ranger (Gloom Stalker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Archfey Patron)
+  - Warlock (The Genie, Djinni)
+  - Warmage (House of Bishops)
+  - Warmage (House of Rooks)
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Greater Invisibility
 *4th-level, Illusion*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/great-old-one
+publish: true
 aliases:
-- "Great Old One Patron"
+  - Great Old One Patron
+created: 2026-03-09T12:15:33.938-04:00
+modified: 2026-03-09T12:15:33.938-04:00
+published: 2026-03-09T12:15:33.938-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/warlock/great-old-one
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Great Old One Patron
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 162*  

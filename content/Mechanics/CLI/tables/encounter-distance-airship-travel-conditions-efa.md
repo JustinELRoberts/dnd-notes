@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Encounter Distance; Airship Travel Conditions"
+  - Encounter Distance; Airship Travel Conditions
+created: 2026-03-09T12:15:34.413-04:00
+modified: 2026-03-09T12:15:34.413-04:00
+published: 2026-03-09T12:15:34.413-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Encounter Distance; Airship Travel Conditions
 *Source: Eberron: Forge of the Artificer p. 110* 
 

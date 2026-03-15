@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/githyanki
+publish: true
 aliases:
-- "Githyanki"
+  - Githyanki
+created: 2026-03-09T12:15:33.929-04:00
+modified: 2026-03-09T12:15:33.929-04:00
+published: 2026-03-09T12:15:33.929-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/githyanki
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Githyanki
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 18*  
 ![](Mechanics/CLI/races/img/githyanki.webp#right)

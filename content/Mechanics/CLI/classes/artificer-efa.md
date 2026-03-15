@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/artificer
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Artificer"
+  - Artificer
+created: 2026-03-09T12:15:34.137-04:00
+modified: 2026-03-09T12:15:34.137-04:00
+published: 2026-03-09T12:15:34.137-04:00
+tags:
+  - ttrpg-cli/class/artificer
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Artificer
 *Source: Eberron: Forge of the Artificer p. 7*  
 

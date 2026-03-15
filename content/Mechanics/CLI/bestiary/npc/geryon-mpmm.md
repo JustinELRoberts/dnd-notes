@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/22
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/devil
+publish: true
 aliases:
-- "Geryon"
+  - Geryon
+created: 2026-03-09T12:15:33.954-04:00
+modified: 2026-03-09T12:15:33.954-04:00
+published: 2026-03-09T12:15:33.954-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/22
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/fiend/devil
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Geryon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  
 ![](Mechanics/CLI/bestiary/npc/img/geryon.webp#right)

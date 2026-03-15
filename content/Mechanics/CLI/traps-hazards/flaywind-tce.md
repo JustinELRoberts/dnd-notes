@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/hazard/est
+publish: true
 aliases:
-- "Flaywind"
+  - Flaywind
+created: 2026-03-09T12:15:33.841-04:00
+modified: 2026-03-09T12:15:33.841-04:00
+published: 2026-03-09T12:15:33.841-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/hazard/est
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Flaywind
 *Eldritch Storm*  
 

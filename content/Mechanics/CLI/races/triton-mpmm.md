@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/triton
+publish: true
 aliases:
-- "Triton"
+  - Triton
+created: 2026-03-09T12:15:33.925-04:00
+modified: 2026-03-09T12:15:33.925-04:00
+published: 2026-03-09T12:15:33.925-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/triton
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Triton
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  
 ![](Mechanics/CLI/races/img/triton.webp#right)

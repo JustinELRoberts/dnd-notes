@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/corpse-florist
-- ttrpg-cli/spell/subclass/green-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Rebirth)
-- Necromancer (Corpse Florist)
-- Ranger
-- Witch (Green Magic)
+publish: true
 aliases:
-- "Speak with Plants"
+  - Speak with Plants
+created: 2026-03-09T12:15:33.867-04:00
+modified: 2026-03-09T12:15:33.867-04:00
+published: 2026-03-09T12:15:33.867-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/corpse-florist
+  - ttrpg-cli/spell/subclass/green-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Rebirth)
+  - Necromancer (Corpse Florist)
+  - Ranger
+  - Witch (Green Magic)
 ---
+
 # Speak with Plants
 *3rd-level, Transmutation*  
 

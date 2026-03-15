@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/hazard/mech
+publish: true
 aliases:
-- "Poison Darts"
+  - Poison Darts
+created: 2026-03-09T12:15:33.891-04:00
+modified: 2026-03-09T12:15:33.891-04:00
+published: 2026-03-09T12:15:33.891-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/hazard/mech
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Poison Darts
 *Mechanical Trap*  
 

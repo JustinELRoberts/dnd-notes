@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/optional-feature/t
+publish: true
 aliases:
-- "Silent Cantrip"
+  - Silent Cantrip
+created: 2026-03-09T12:15:33.881-04:00
+modified: 2026-03-09T12:15:33.881-04:00
+published: 2026-03-09T12:15:33.881-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/optional-feature/t
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Silent Cantrip 
 
 

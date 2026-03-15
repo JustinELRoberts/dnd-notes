@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xdmg
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/wondrous/potion
+publish: true
 aliases:
-- "Potion of Healing"
+  - Potion of Healing
+created: 2026-03-09T12:15:33.895-04:00
+modified: 2026-03-09T12:15:33.895-04:00
+published: 2026-03-09T12:15:33.895-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xdmg
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/wondrous/potion
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Potion of Healing
 *Potion, common*  
 ![](Mechanics/CLI/items/img/potion-of-healing.webp#right)

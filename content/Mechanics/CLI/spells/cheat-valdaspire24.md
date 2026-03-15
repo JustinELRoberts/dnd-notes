@@ -1,33 +1,38 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/warmage
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Necromancer
-- Sorcerer
-- Warlock
-- Warmage
-- Warmage (House of Bishops)
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Cheat"
+  - Cheat
+created: 2026-03-09T12:15:33.873-04:00
+modified: 2026-03-09T12:15:33.873-04:00
+published: 2026-03-09T12:15:33.873-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/warmage
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Necromancer
+  - Sorcerer
+  - Warlock
+  - Warmage
+  - Warmage (House of Bishops)
+  - Witch
+  - Wizard
 ---
+
 # Cheat
 *cantrip, Divination*  
 

@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Cleric
-- Druid
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Find the Path"
+  - Find the Path
+created: 2026-03-09T12:15:33.818-04:00
+modified: 2026-03-09T12:15:33.818-04:00
+published: 2026-03-09T12:15:33.818-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Find the Path
 *6th-level, Divination*  
 

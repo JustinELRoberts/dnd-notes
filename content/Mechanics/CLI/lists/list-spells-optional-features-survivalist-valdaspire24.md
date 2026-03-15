@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/optfeature/survivalist
+publish: true
 aliases:
-- "Spells for Survivalist"
+  - Spells for Survivalist
+created: 2026-03-09T12:15:34.427-04:00
+modified: 2026-03-09T12:15:34.427-04:00
+published: 2026-03-09T12:15:34.427-04:00
+tags:
+  - ttrpg-cli/spell/list/optfeature/survivalist
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Survivalist
 
 ## Cantrip

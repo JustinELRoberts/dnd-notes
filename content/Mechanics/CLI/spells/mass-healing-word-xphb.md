@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/mark-of-healing
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/alchemist
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/life-domain
-- ttrpg-cli/spell/subclass/order-domain
-classes:
-- Artificer (Alchemist)
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Life Domain)
-- Cleric (Order Domain)
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Mass Healing Word"
+  - Mass Healing Word
+created: 2026-03-09T12:15:33.774-04:00
+modified: 2026-03-09T12:15:33.774-04:00
+published: 2026-03-09T12:15:33.774-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/mark-of-healing
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/alchemist
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/life-domain
+  - ttrpg-cli/spell/subclass/order-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Alchemist)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Order Domain)
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Mass Healing Word
 *3rd-level, Abjuration*  
 

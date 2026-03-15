@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/yuan-ti
+publish: true
 aliases:
-- "Yuan-ti Pureblood"
+  - Yuan-ti Pureblood
+created: 2026-03-09T12:15:34.017-04:00
+modified: 2026-03-09T12:15:34.018-04:00
+published: 2026-03-09T12:15:34.018-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/yuan-ti
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Yuan-ti Pureblood
 *Source: Monster Manual p. 310*  
 ![](Mechanics/CLI/bestiary/humanoid/img/yuan-ti-pureblood.webp#right)

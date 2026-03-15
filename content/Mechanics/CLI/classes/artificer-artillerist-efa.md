@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/subclass/artificer/artillerist
+publish: true
 aliases:
-- "Artillerist"
+  - Artillerist
+created: 2026-03-09T12:15:33.974-04:00
+modified: 2026-03-09T12:15:33.974-04:00
+published: 2026-03-09T12:15:33.974-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/subclass/artificer/artillerist
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Artillerist
 *[Artificer](./artificer-efa.md): Artificer Subclass*  
 *Source: Eberron: Forge of the Artificer p. 16*  

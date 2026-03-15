@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/elf
+publish: true
 aliases:
-- "Shadar-kai Shadow Dancer"
+  - Shadar-kai Shadow Dancer
+created: 2026-03-09T12:15:33.873-04:00
+modified: 2026-03-09T12:15:33.873-04:00
+published: 2026-03-09T12:15:33.873-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Shadar-kai Shadow Dancer
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
 ![](Mechanics/CLI/bestiary/humanoid/img/shadar-kai-shadow-dancer.webp#right)

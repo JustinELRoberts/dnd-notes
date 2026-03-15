@@ -1,26 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/pale-master
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Necromancer
-- Necromancer (Pale Master)
+publish: true
 aliases:
-- "Might of the Abyss"
+  - Might of the Abyss
+created: 2026-03-09T12:15:33.983-04:00
+modified: 2026-03-09T12:15:33.983-04:00
+published: 2026-03-09T12:15:33.983-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/pale-master
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Necromancer
+  - Necromancer (Pale Master)
 ---
+
 # Might of the Abyss
 *1st-level, Evocation*  
 

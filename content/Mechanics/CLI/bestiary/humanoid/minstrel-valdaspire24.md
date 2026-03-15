@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid/cohort
+publish: true
 aliases:
-- "Minstrel"
+  - Minstrel
+created: 2026-03-09T12:15:33.933-04:00
+modified: 2026-03-09T12:15:33.933-04:00
+published: 2026-03-09T12:15:33.933-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/humanoid/cohort
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Minstrel
 *Source: Valda's Spire of Secrets (2024)*  
 

@@ -1,49 +1,54 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-passage
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/optfeature/tricksters-escape
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/burden-of-odyssey
-- ttrpg-cli/spell/subclass/burden-of-truth
-- ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/corpse-florist
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/steel-magic
-- ttrpg-cli/spell/subclass/technicolor-magic
-- ttrpg-cli/spell/subclass/war-domain
-classes:
-- Artificer
-- Bard
-- Cleric
-- Cleric (War Domain)
-- Druid
-- Druid (Circle of the Land, Temperate Land)
-- Martyr (Burden of Odyssey)
-- Martyr (Burden of Truth)
-- Necromancer (Corpse Florist)
-- Paladin (Oath of Devotion)
-- Paladin (Oath of Glory)
-- Ranger
-- Sorcerer (Clockwork Sorcery)
-- Sorcerer (Divine Soul, Good)
-- Witch (Steel Magic)
-- Witch (Technicolor Magic)
+publish: true
 aliases:
-- "Freedom of Movement"
+  - Freedom of Movement
+created: 2026-03-09T12:15:33.974-04:00
+modified: 2026-03-09T12:15:33.974-04:00
+published: 2026-03-09T12:15:33.974-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-passage
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/optfeature/tricksters-escape
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/burden-of-odyssey
+  - ttrpg-cli/spell/subclass/burden-of-truth
+  - ttrpg-cli/spell/subclass/circle-of-the-land/temperate-land
+  - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/corpse-florist
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/oath-of-devotion
+  - ttrpg-cli/spell/subclass/oath-of-glory
+  - ttrpg-cli/spell/subclass/steel-magic
+  - ttrpg-cli/spell/subclass/technicolor-magic
+  - ttrpg-cli/spell/subclass/war-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Cleric
+  - Cleric (War Domain)
+  - Druid
+  - Druid (Circle of the Land, Temperate Land)
+  - Martyr (Burden of Odyssey)
+  - Martyr (Burden of Truth)
+  - Necromancer (Corpse Florist)
+  - Paladin (Oath of Devotion)
+  - Paladin (Oath of Glory)
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Witch (Steel Magic)
+  - Witch (Technicolor Magic)
 ---
+
 # Freedom of Movement
 *4th-level, Abjuration*  
 

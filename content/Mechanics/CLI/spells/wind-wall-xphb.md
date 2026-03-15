@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-storm
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/artillerist
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/the-genie/djinni
-classes:
-- Artificer (Artillerist)
-- Bard
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Calamity)
-- Ranger
-- Warlock (The Genie, Djinni)
+publish: true
 aliases:
-- "Wind Wall"
+  - Wind Wall
+created: 2026-03-09T12:15:33.837-04:00
+modified: 2026-03-09T12:15:33.837-04:00
+published: 2026-03-09T12:15:33.837-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-storm
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/artillerist
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/the-genie/djinni
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Artillerist)
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Calamity)
+  - Ranger
+  - Warlock (The Genie, Djinni)
 ---
+
 # Wind Wall
 *3rd-level, Evocation*  
 

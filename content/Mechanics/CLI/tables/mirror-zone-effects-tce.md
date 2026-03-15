@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Mirror Zone Effects"
+  - Mirror Zone Effects
+created: 2026-03-09T12:15:34.411-04:00
+modified: 2026-03-09T12:15:34.411-04:00
+published: 2026-03-09T12:15:34.411-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Mirror Zone Effects
 *Source: Tasha's Cauldron of Everything p. 157* 
 

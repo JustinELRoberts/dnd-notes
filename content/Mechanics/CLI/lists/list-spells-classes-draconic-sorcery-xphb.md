@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/draconic-sorcery
+publish: true
 aliases:
-- "Spells for Draconic Sorcery"
+  - Spells for Draconic Sorcery
+created: 2026-03-09T12:15:34.431-04:00
+modified: 2026-03-09T12:15:34.431-04:00
+published: 2026-03-09T12:15:34.431-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/draconic-sorcery
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Draconic Sorcery
 
 ## 1st Level

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Decanter of Endless Water"
+  - Decanter of Endless Water
+created: 2026-03-09T12:15:33.955-04:00
+modified: 2026-03-09T12:15:33.955-04:00
+published: 2026-03-09T12:15:33.955-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Decanter of Endless Water
 *Wondrous item, minor, uncommon*  
 ![](Mechanics/CLI/items/img/decanter-of-endless-water.webp#right)

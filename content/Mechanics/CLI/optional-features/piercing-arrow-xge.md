@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/optional-feature/as
+publish: true
 aliases:
-- "Piercing Arrow"
+  - Piercing Arrow
+created: 2026-03-09T12:15:33.984-04:00
+modified: 2026-03-09T12:15:33.984-04:00
+published: 2026-03-09T12:15:33.984-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/optional-feature/as
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Piercing Arrow 
 
 

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Necklace of Prayer Beads"
+  - Necklace of Prayer Beads
+created: 2026-03-09T12:15:33.961-04:00
+modified: 2026-03-09T12:15:33.961-04:00
+published: 2026-03-09T12:15:33.961-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Necklace of Prayer Beads
 *Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*  
 ![](Mechanics/CLI/items/img/necklace-of-prayer-beads.webp#right)

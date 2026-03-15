@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Mirror of Life Trapping"
+  - Mirror of Life Trapping
+created: 2026-03-09T12:15:33.813-04:00
+modified: 2026-03-09T12:15:33.813-04:00
+published: 2026-03-09T12:15:33.813-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Mirror of Life Trapping
 *Wondrous item, major, very rare*  
 ![](Mechanics/CLI/items/img/mirror-of-life-trapping.webp#right)

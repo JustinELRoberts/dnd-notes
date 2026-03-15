@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/feat
+publish: true
 aliases:
-- "Mark of Hospitality"
+  - Mark of Hospitality
+created: 2026-03-09T12:15:33.859-04:00
+modified: 2026-03-09T12:15:33.859-04:00
+published: 2026-03-09T12:15:33.859-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/feat
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Mark of Hospitality 
 ![](Mechanics/CLI/feats/img/mark-of-hospitality.webp#right)
 

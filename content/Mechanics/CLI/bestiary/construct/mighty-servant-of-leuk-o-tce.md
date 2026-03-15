@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Mighty Servant of Leuk-o"
+  - Mighty Servant of Leuk-o
+created: 2026-03-09T12:15:33.887-04:00
+modified: 2026-03-09T12:15:33.887-04:00
+published: 2026-03-09T12:15:33.887-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Mighty Servant of Leuk-o
 *Source: Tasha's Cauldron of Everything p. 131*  
 ![](Mechanics/CLI/bestiary/construct/img/mighty-servant-of-leuk-o.webp#center)

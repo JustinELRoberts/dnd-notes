@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/16
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Steel Predator"
+  - Steel Predator
+created: 2026-03-09T12:15:33.923-04:00
+modified: 2026-03-09T12:15:33.923-04:00
+published: 2026-03-09T12:15:33.923-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/16
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Steel Predator
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232*  
 ![](Mechanics/CLI/bestiary/construct/img/steel-predator.webp#right)

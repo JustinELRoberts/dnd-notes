@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Druid
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Incendiary Cloud"
+  - Incendiary Cloud
+created: 2026-03-09T12:15:33.968-04:00
+modified: 2026-03-09T12:15:33.968-04:00
+published: 2026-03-09T12:15:33.968-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
+  - Sorcerer
+  - Wizard
 ---
+
 # Incendiary Cloud
 *8th-level, Conjuration*  
 

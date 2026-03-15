@@ -1,51 +1,56 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-storm
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/race/aarakocra
-- ttrpg-cli/spell/race/triton
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-odyssey
-- ttrpg-cli/spell/subclass/circle-of-the-sea
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/sky-magic
-- ttrpg-cli/spell/subclass/the-fathomless
-- ttrpg-cli/spell/subclass/the-genie/djinni
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Druid (Circle of the Sea)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Odyssey)
-- Ranger
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (The Fathomless)
-- Warlock (The Genie, Djinni)
-- Warmage (House of Bishops)
-- Witch (Sky Magic)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Gust of Wind"
+  - Gust of Wind
+created: 2026-03-09T12:15:33.841-04:00
+modified: 2026-03-09T12:15:33.841-04:00
+published: 2026-03-09T12:15:33.841-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-storm
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/race/aarakocra
+  - ttrpg-cli/spell/race/triton
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-odyssey
+  - ttrpg-cli/spell/subclass/circle-of-the-sea
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/sky-magic
+  - ttrpg-cli/spell/subclass/the-fathomless
+  - ttrpg-cli/spell/subclass/the-genie/djinni
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of the Sea)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Odyssey)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (The Fathomless)
+  - Warlock (The Genie, Djinni)
+  - Warmage (House of Bishops)
+  - Witch (Sky Magic)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Gust of Wind
 *2nd-level, Evocation*  
 

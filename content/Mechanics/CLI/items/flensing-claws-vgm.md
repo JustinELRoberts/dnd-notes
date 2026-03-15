@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
-- ttrpg-cli/item/rarity/unknown
-- ttrpg-cli/item/wondrous/other
+publish: true
 aliases:
-- "Flensing Claws"
+  - Flensing Claws
+created: 2026-03-09T12:15:33.811-04:00
+modified: 2026-03-09T12:15:33.811-04:00
+published: 2026-03-09T12:15:33.811-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+  - ttrpg-cli/item/rarity/unknown
+  - ttrpg-cli/item/wondrous/other
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Flensing Claws
 
 

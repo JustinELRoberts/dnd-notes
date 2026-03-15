@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities"
+  - Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
+created: 2026-03-09T12:15:34.380-04:00
+modified: 2026-03-09T12:15:34.380-04:00
+published: 2026-03-09T12:15:34.380-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
 *Source: Dungeon Master's Guide p. 277* 
 

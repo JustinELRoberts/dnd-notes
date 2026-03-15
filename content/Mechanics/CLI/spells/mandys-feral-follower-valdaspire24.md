@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Warmage (House of Bishops)
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Mandy's Feral Follower"
+  - Mandy's Feral Follower
+created: 2026-03-09T12:15:34.057-04:00
+modified: 2026-03-09T12:15:34.057-04:00
+published: 2026-03-09T12:15:34.057-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Warmage (House of Bishops)
+  - Witch
+  - Wizard
 ---
+
 # Mandy's Feral Follower
 *4th-level, Transmutation*  
 

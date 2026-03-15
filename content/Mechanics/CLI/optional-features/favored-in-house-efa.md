@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/optional-feature/rp
+publish: true
 aliases:
-- "Favored in House"
+  - Favored in House
+created: 2026-03-09T12:15:33.829-04:00
+modified: 2026-03-09T12:15:33.829-04:00
+published: 2026-03-09T12:15:33.829-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/optional-feature/rp
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Favored in House 
 
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/reaper
+publish: true
 aliases:
-- "Spells for Reaper"
+  - Spells for Reaper
+created: 2026-03-09T12:15:34.422-04:00
+modified: 2026-03-09T12:15:34.422-04:00
+published: 2026-03-09T12:15:34.422-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/reaper
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Reaper
 
 ## 1st Level

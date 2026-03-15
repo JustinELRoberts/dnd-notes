@@ -1,38 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/artificer-initiate
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/mark-of-finding
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/race/elf/drow
-- ttrpg-cli/spell/race/fairy
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/swarmkeeper
-- ttrpg-cli/spell/subclass/twilight-domain
-classes:
-- Artificer
-- Artificer (Cartographer)
-- Bard
-- Bard (College of Lore)
-- Cleric (Light Domain)
-- Cleric (Twilight Domain)
-- Druid
-- Ranger (Swarmkeeper)
-- Warlock (Archfey Patron)
+publish: true
 aliases:
-- "Faerie Fire"
+  - Faerie Fire
+created: 2026-03-09T12:15:33.907-04:00
+modified: 2026-03-09T12:15:33.907-04:00
+published: 2026-03-09T12:15:33.907-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/artificer-initiate
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/feat/mark-of-finding
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/race/elf/drow
+  - ttrpg-cli/spell/race/fairy
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/light-domain
+  - ttrpg-cli/spell/subclass/swarmkeeper
+  - ttrpg-cli/spell/subclass/twilight-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Artificer (Cartographer)
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Light Domain)
+  - Cleric (Twilight Domain)
+  - Druid
+  - Ranger (Swarmkeeper)
+  - Warlock (Archfey Patron)
 ---
+
 # Faerie Fire
 *1st-level, Evocation*  
 

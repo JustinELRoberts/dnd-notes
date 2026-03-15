@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Light Crossbow"
+  - Light Crossbow
+created: 2026-03-09T12:15:34.106-04:00
+modified: 2026-03-09T12:15:34.106-04:00
+published: 2026-03-09T12:15:34.106-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/rarity/none
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Light Crossbow
 *Weapon*  
 ![](Mechanics/CLI/items/img/light-crossbow.webp#right)

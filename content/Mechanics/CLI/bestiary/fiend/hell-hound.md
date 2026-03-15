@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+publish: true
 aliases:
-- "Hell Hound"
+  - Hell Hound
+created: 2026-03-09T12:15:34.049-04:00
+modified: 2026-03-09T12:15:34.049-04:00
+published: 2026-03-09T12:15:34.049-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Hell Hound
 *Source: Monster Manual p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/fiend/img/hell-hound.webp#right)

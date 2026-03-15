@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/burden-of-fame
-- ttrpg-cli/spell/subclass/fragrant-magic
-- ttrpg-cli/spell/subclass/oath-of-glory
-- ttrpg-cli/spell/subclass/order-domain
-- ttrpg-cli/spell/subclass/overlord
-classes:
-- Bard
-- Cleric (Order Domain)
-- Martyr (Burden of Fame)
-- Necromancer (Overlord)
-- Paladin (Oath of Glory)
-- Witch (Fragrant Magic)
+publish: true
 aliases:
-- "Compulsion"
+  - Compulsion
+created: 2026-03-09T12:15:33.901-04:00
+modified: 2026-03-09T12:15:33.901-04:00
+published: 2026-03-09T12:15:33.901-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/burden-of-fame
+  - ttrpg-cli/spell/subclass/fragrant-magic
+  - ttrpg-cli/spell/subclass/oath-of-glory
+  - ttrpg-cli/spell/subclass/order-domain
+  - ttrpg-cli/spell/subclass/overlord
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (Order Domain)
+  - Martyr (Burden of Fame)
+  - Necromancer (Overlord)
+  - Paladin (Oath of Glory)
+  - Witch (Fragrant Magic)
 ---
+
 # Compulsion
 *4th-level, Enchantment*  
 

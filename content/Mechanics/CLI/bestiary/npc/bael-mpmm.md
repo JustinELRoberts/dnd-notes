@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/19
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/fiend/devil
+publish: true
 aliases:
-- "Bael"
+  - Bael
+created: 2026-03-09T12:15:34.103-04:00
+modified: 2026-03-09T12:15:34.103-04:00
+published: 2026-03-09T12:15:34.103-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/19
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/fiend/devil
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Bael
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 54*  
 ![](Mechanics/CLI/bestiary/npc/img/bael.webp#right)

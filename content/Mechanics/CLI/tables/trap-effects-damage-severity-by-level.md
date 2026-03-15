@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Trap Effects; Damage Severity by Level"
+  - Trap Effects; Damage Severity by Level
+created: 2026-03-09T12:15:34.380-04:00
+modified: 2026-03-09T12:15:34.380-04:00
+published: 2026-03-09T12:15:34.380-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Trap Effects; Damage Severity by Level
 *Source: Dungeon Master's Guide p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
 

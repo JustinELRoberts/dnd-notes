@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/gnoll
+publish: true
 aliases:
-- "Daask Bruiser"
+  - Daask Bruiser
+created: 2026-03-09T12:15:33.916-04:00
+modified: 2026-03-09T12:15:33.916-04:00
+published: 2026-03-09T12:15:33.916-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/gnoll
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Daask Bruiser
 *Source: Eberron: Forge of the Artificer p. 58*  
 ![](Mechanics/CLI/bestiary/humanoid/img/daask-bruiser.webp#right)

@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Cloud Giant"
+  - Cloud Giant
+created: 2026-03-09T12:15:33.989-04:00
+modified: 2026-03-09T12:15:33.990-04:00
+published: 2026-03-09T12:15:33.990-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Cloud Giant
 *Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/giant/img/cloud-giant.webp#right)

@@ -1,33 +1,38 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/circle-of-wildfire
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/steel-magic
-- ttrpg-cli/spell/subclass/the-genie/efreeti
-classes:
-- Bard
-- Cleric
-- Cleric (Light Domain)
-- Druid (Circle of Wildfire)
-- Martyr (Burden of Calamity)
-- Paladin (Oath of Devotion)
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Genie, Efreeti)
-- Witch (Steel Magic)
+publish: true
 aliases:
-- "Flame Strike"
+  - Flame Strike
+created: 2026-03-09T12:15:33.833-04:00
+modified: 2026-03-09T12:15:33.833-04:00
+published: 2026-03-09T12:15:33.833-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/circle-of-wildfire
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/light-domain
+  - ttrpg-cli/spell/subclass/oath-of-devotion
+  - ttrpg-cli/spell/subclass/steel-magic
+  - ttrpg-cli/spell/subclass/the-genie/efreeti
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Cleric (Light Domain)
+  - Druid (Circle of Wildfire)
+  - Martyr (Burden of Calamity)
+  - Paladin (Oath of Devotion)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Genie, Efreeti)
+  - Witch (Steel Magic)
 ---
+
 # Flame Strike
 *5th-level, Evocation*  
 

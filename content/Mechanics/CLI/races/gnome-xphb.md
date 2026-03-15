@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/gnome
+publish: true
 aliases:
-- "Gnome"
+  - Gnome
+created: 2026-03-09T12:15:33.852-04:00
+modified: 2026-03-09T12:15:33.852-04:00
+published: 2026-03-09T12:15:33.852-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/race/gnome
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Gnome
 *Source: Player's Handbook (2024) p. 191. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 ![](Mechanics/CLI/races/img/gnome.webp#right)

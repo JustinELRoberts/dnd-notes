@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/9
-- ttrpg-cli/monster/environment/arctic
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Abominable Yeti"
+  - Abominable Yeti
+created: 2026-03-09T12:15:33.907-04:00
+modified: 2026-03-09T12:15:33.907-04:00
+published: 2026-03-09T12:15:33.907-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/9
+  - ttrpg-cli/monster/environment/arctic
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Abominable Yeti
 *Source: Monster Manual p. 306*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/yeti.webp#right)

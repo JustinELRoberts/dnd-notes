@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Power Level; Magic Item Power by Rarity"
+  - Power Level; Magic Item Power by Rarity
+created: 2026-03-09T12:15:34.400-04:00
+modified: 2026-03-09T12:15:34.400-04:00
+published: 2026-03-09T12:15:34.400-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Power Level; Magic Item Power by Rarity
 *Source: Dungeon Master's Guide p. 285* 
 

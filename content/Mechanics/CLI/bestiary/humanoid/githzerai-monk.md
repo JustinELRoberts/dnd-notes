@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/gith
+publish: true
 aliases:
-- "Githzerai Monk"
+  - Githzerai Monk
+created: 2026-03-09T12:15:34.013-04:00
+modified: 2026-03-09T12:15:34.013-04:00
+published: 2026-03-09T12:15:34.013-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/gith
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Githzerai Monk
 *Source: Monster Manual p. 161*  
 ![](Mechanics/CLI/bestiary/humanoid/img/githzerai.webp#right)

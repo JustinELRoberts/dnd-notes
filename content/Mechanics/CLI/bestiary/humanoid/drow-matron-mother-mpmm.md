@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/20
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/cleric
-- ttrpg-cli/monster/type/humanoid/drow-elf
+publish: true
 aliases:
-- "Drow Matron Mother"
+  - Drow Matron Mother
+created: 2026-03-09T12:15:33.914-04:00
+modified: 2026-03-09T12:15:33.914-04:00
+published: 2026-03-09T12:15:33.914-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/20
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/cleric
+  - ttrpg-cli/monster/type/humanoid/drow-elf
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Drow Matron Mother
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 104*  
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-matron-mother.webp#right)

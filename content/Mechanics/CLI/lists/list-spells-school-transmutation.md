@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/school/transmutation
+publish: true
 aliases:
-- "Transmutation Spells"
+  - Transmutation Spells
+created: 2026-03-09T12:15:34.419-04:00
+modified: 2026-03-09T12:15:34.419-04:00
+published: 2026-03-09T12:15:34.419-04:00
+tags:
+  - ttrpg-cli/spell/list/school/transmutation
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Transmutation Spells
 
 ## Cantrip

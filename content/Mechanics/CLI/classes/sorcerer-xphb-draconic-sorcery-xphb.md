@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/sorcerer/draconic
+publish: true
 aliases:
-- "Draconic Sorcery"
+  - Draconic Sorcery
+created: 2026-03-09T12:15:34.101-04:00
+modified: 2026-03-09T12:15:34.101-04:00
+published: 2026-03-09T12:15:34.101-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/sorcerer/draconic
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Draconic Sorcery
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

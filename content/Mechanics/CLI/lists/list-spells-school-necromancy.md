@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/school/necromancy
+publish: true
 aliases:
-- "Necromancy Spells"
+  - Necromancy Spells
+created: 2026-03-09T12:15:34.419-04:00
+modified: 2026-03-09T12:15:34.419-04:00
+published: 2026-03-09T12:15:34.419-04:00
+tags:
+  - ttrpg-cli/spell/list/school/necromancy
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Necromancy Spells
 
 ## Cantrip

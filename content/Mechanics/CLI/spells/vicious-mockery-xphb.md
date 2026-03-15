@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/mystical-retort
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/enchantment
-classes:
-- Bard
+publish: true
 aliases:
-- "Vicious Mockery"
+  - Vicious Mockery
+created: 2026-03-09T12:15:33.952-04:00
+modified: 2026-03-09T12:15:33.952-04:00
+published: 2026-03-09T12:15:33.952-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/mystical-retort
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
 ---
+
 # Vicious Mockery
 *cantrip, Enchantment*  
 ![](Mechanics/CLI/spells/img/vicious-mockery.webp#right)

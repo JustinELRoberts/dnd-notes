@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/class/investigator
+publish: true
 aliases:
-- "Investigator Spells"
+  - Investigator Spells
+created: 2026-03-09T12:15:34.420-04:00
+modified: 2026-03-09T12:15:34.420-04:00
+published: 2026-03-09T12:15:34.420-04:00
+tags:
+  - ttrpg-cli/spell/list/class/investigator
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Investigator Spells
 
 ## 1st Level

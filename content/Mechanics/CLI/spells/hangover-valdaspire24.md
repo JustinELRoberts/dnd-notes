@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/enchantment
-classes:
-- Bard
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Hangover"
+  - Hangover
+created: 2026-03-09T12:15:34.060-04:00
+modified: 2026-03-09T12:15:34.060-04:00
+published: 2026-03-09T12:15:34.060-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 ---
+
 # Hangover
 *2nd-level, Enchantment*  
 

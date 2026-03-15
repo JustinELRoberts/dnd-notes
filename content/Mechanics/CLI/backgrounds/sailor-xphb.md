@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Sailor"
+  - Sailor
+created: 2026-03-09T12:15:34.052-04:00
+modified: 2026-03-09T12:15:34.052-04:00
+published: 2026-03-09T12:15:34.052-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # Sailor
 *Source: Player's Handbook (2024) p. 184*  
 ![](Mechanics/CLI/backgrounds/img/sailor.webp#right)

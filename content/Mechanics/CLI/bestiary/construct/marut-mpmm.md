@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/25
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct/inevitable
+publish: true
 aliases:
-- "Marut"
+  - Marut
+created: 2026-03-09T12:15:34.133-04:00
+modified: 2026-03-09T12:15:34.133-04:00
+published: 2026-03-09T12:15:34.133-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/25
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct/inevitable
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Marut
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 173*  
 ![](Mechanics/CLI/bestiary/construct/img/marut.webp#right)

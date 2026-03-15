@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/bard
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Bard"
+  - Bard
+created: 2026-03-09T12:15:34.129-04:00
+modified: 2026-03-09T12:15:34.130-04:00
+published: 2026-03-09T12:15:34.130-04:00
+tags:
+  - ttrpg-cli/class/bard
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Bard
 *Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

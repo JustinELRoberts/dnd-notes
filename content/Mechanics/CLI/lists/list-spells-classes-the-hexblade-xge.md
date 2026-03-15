@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/the-hexblade
+publish: true
 aliases:
-- "Spells for The Hexblade"
+  - Spells for The Hexblade
+created: 2026-03-09T12:15:34.423-04:00
+modified: 2026-03-09T12:15:34.423-04:00
+published: 2026-03-09T12:15:34.423-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/the-hexblade
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for The Hexblade
 
 ## 1st Level

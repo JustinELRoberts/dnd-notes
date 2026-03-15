@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Sage"
+  - Sage
+created: 2026-03-09T12:15:33.925-04:00
+modified: 2026-03-09T12:15:33.925-04:00
+published: 2026-03-09T12:15:33.925-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # Sage
 *Source: Player's Handbook (2024) p. 183. Available in the Free Rules (2024)*  
 ![](Mechanics/CLI/backgrounds/img/sage.webp#right)

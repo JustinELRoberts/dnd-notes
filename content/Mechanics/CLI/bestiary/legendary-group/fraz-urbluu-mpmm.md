@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/legendary-group
+publish: true
 aliases:
-- "Fraz-Urb'luu"
+  - Fraz-Urb'luu
+created: 2026-03-09T12:15:34.412-04:00
+modified: 2026-03-09T12:15:34.412-04:00
+published: 2026-03-09T12:15:34.412-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/legendary-group
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Fraz-Urb'luu
 
 ## Lair Actions

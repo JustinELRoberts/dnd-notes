@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Staff of Striking"
+  - Staff of Striking
+created: 2026-03-09T12:15:33.901-04:00
+modified: 2026-03-09T12:15:33.902-04:00
+published: 2026-03-09T12:15:33.902-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Staff of Striking
 *Staff, weapon, major, very rare (requires attunement)*  
 

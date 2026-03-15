@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/alchemist/ooze-rancher
+publish: true
 aliases:
-- "Ooze Rancher"
+  - Ooze Rancher
+created: 2026-03-09T12:15:33.997-04:00
+modified: 2026-03-09T12:15:33.997-04:00
+published: 2026-03-09T12:15:33.997-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/alchemist/ooze-rancher
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Ooze Rancher
 *[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

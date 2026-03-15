@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/undead/warlock
+publish: true
 aliases:
-- "Deathlock"
+  - Deathlock
+created: 2026-03-09T12:15:34.117-04:00
+modified: 2026-03-09T12:15:34.117-04:00
+published: 2026-03-09T12:15:34.117-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/undead/warlock
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Deathlock
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 86*  
 ![](Mechanics/CLI/bestiary/undead/img/deathlock.webp#right)

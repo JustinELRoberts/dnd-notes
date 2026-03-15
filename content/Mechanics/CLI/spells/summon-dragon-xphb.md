@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/draconic-sorcery
-classes:
-- Bard
-- Sorcerer (Draconic Sorcery)
-- Wizard
+publish: true
 aliases:
-- "Summon Dragon"
+  - Summon Dragon
+created: 2026-03-09T12:15:33.891-04:00
+modified: 2026-03-09T12:15:33.891-04:00
+published: 2026-03-09T12:15:33.891-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/draconic-sorcery
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer (Draconic Sorcery)
+  - Wizard
 ---
+
 # Summon Dragon
 *5th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/summon-dragon.webp#right)

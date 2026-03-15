@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/grassland
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/goblinoid
+publish: true
 aliases:
-- "Bugbear Chief"
+  - Bugbear Chief
+created: 2026-03-09T12:15:34.055-04:00
+modified: 2026-03-09T12:15:34.055-04:00
+published: 2026-03-09T12:15:34.055-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/goblinoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Bugbear Chief
 *Source: Monster Manual p. 33*  
 ![](Mechanics/CLI/bestiary/humanoid/img/bugbear.webp#right)

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/level/8th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Necromancer
+publish: true
 aliases:
-- "Gahoul's Glorious Gothic"
+  - Gahoul's Glorious Gothic
+created: 2026-03-09T12:15:34.124-04:00
+modified: 2026-03-09T12:15:34.124-04:00
+published: 2026-03-09T12:15:34.124-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/level/8th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Necromancer
 ---
+
 # Gahoul's Glorious Gothic
 *8th-level, Conjuration*  
 

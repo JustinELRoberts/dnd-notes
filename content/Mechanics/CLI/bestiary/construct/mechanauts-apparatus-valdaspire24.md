@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Mechanaut's Apparatus"
+  - Mechanaut's Apparatus
+created: 2026-03-09T12:15:34.132-04:00
+modified: 2026-03-09T12:15:34.132-04:00
+published: 2026-03-09T12:15:34.132-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Mechanaut's Apparatus
 *Source: Valda's Spire of Secrets (2024)*  
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCraftsman/Class/Mechanauts.webp#center)

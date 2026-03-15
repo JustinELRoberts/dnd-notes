@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Martyr
+publish: true
 aliases:
-- "Word of Frailty"
+  - Word of Frailty
+created: 2026-03-09T12:15:33.982-04:00
+modified: 2026-03-09T12:15:33.982-04:00
+published: 2026-03-09T12:15:33.982-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Martyr
 ---
+
 # Word of Frailty
 *3rd-level, Necromancy*  
 

@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/boon-of-siberys/mark-of-healing
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Cleric
-- Druid
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Regenerate"
+  - Regenerate
+created: 2026-03-09T12:15:33.919-04:00
+modified: 2026-03-09T12:15:33.920-04:00
+published: 2026-03-09T12:15:33.920-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/boon-of-siberys/mark-of-healing
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Regenerate
 *7th-level, Transmutation*  
 

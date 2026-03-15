@@ -1,42 +1,47 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-hospitality
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/celestial-patron
-- ttrpg-cli/spell/subclass/clockwork-sorcery
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/life-domain
-- ttrpg-cli/spell/subclass/oath-of-devotion
-- ttrpg-cli/spell/subclass/peace-domain
-classes:
-- Artificer
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Cleric (Life Domain)
-- Cleric (Peace Domain)
-- Druid
-- Paladin
-- Paladin (Oath of Devotion)
-- Ranger
-- Sorcerer (Clockwork Sorcery)
-- Sorcerer (Divine Soul, Good)
-- Warlock (Celestial Patron)
+publish: true
 aliases:
-- "Aid"
+  - Aid
+created: 2026-03-09T12:15:34.135-04:00
+modified: 2026-03-09T12:15:34.135-04:00
+published: 2026-03-09T12:15:34.135-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-hospitality
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/celestial-patron
+  - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/life-domain
+  - ttrpg-cli/spell/subclass/oath-of-devotion
+  - ttrpg-cli/spell/subclass/peace-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Cleric (Life Domain)
+  - Cleric (Peace Domain)
+  - Druid
+  - Paladin
+  - Paladin (Oath of Devotion)
+  - Ranger
+  - Sorcerer (Clockwork Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Celestial Patron)
 ---
+
 # Aid
 *2nd-level, Abjuration*  
 

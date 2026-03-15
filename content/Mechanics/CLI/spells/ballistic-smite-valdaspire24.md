@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-classes:
-- Paladin
+publish: true
 aliases:
-- "Ballistic Smite"
+  - Ballistic Smite
+created: 2026-03-09T12:15:33.853-04:00
+modified: 2026-03-09T12:15:33.853-04:00
+published: 2026-03-09T12:15:33.853-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/evocation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin
 ---
+
 # Ballistic Smite
 *1st-level, Evocation*  
 

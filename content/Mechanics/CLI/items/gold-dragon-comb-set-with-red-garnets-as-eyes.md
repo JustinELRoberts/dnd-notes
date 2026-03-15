@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/gear/treasure-art-object
-- ttrpg-cli/item/rarity/none
+publish: true
 aliases:
-- "Gold dragon comb set with red garnets as eyes"
+  - Gold dragon comb set with red garnets as eyes
+created: 2026-03-09T12:15:33.884-04:00
+modified: 2026-03-09T12:15:33.884-04:00
+published: 2026-03-09T12:15:33.884-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/gear/treasure-art-object
+  - ttrpg-cli/item/rarity/none
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Gold dragon comb set with red garnets as eyes
 *Treasure (art object)*  
 

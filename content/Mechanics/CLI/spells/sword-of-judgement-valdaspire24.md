@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/martyr
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-classes:
-- Bard
-- Cleric
-- Martyr
-- Paladin
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Sword of Judgement"
+  - Sword of Judgement
+created: 2026-03-09T12:15:34.027-04:00
+modified: 2026-03-09T12:15:34.027-04:00
+published: 2026-03-09T12:15:34.027-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/martyr
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Martyr
+  - Paladin
+  - Sorcerer
+  - Wizard
 ---
+
 # Sword of Judgement
 *5th-level, Conjuration*  
 

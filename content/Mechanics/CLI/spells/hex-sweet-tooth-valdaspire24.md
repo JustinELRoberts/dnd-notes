@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/gingerbread-magic
-classes:
-- Witch (Gingerbread Magic)
+publish: true
 aliases:
-- "Hex: Sweet Tooth"
+  - "Hex: Sweet Tooth"
+created: 2026-03-09T12:15:33.873-04:00
+modified: 2026-03-09T12:15:33.873-04:00
+published: 2026-03-09T12:15:33.873-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/gingerbread-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Witch (Gingerbread Magic)
 ---
+
 # Hex: Sweet Tooth
 *cantrip, Transmutation*  
 

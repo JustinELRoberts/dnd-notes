@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/weapon/explosive
+publish: true
 aliases:
-- "Smoke Grenade"
+  - Smoke Grenade
+created: 2026-03-09T12:15:33.952-04:00
+modified: 2026-03-09T12:15:33.952-04:00
+published: 2026-03-09T12:15:33.952-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/rarity/none
+  - ttrpg-cli/item/weapon/explosive
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Smoke Grenade
 *Explosive*  
 

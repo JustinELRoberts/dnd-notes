@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Wave"
+  - Wave
+created: 2026-03-09T12:15:34.030-04:00
+modified: 2026-03-09T12:15:34.030-04:00
+published: 2026-03-09T12:15:34.030-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Wave
 *Weapon ([trident](Mechanics/CLI/items/trident-xphb.md)), legendary (requires attunement by a creature that worships a god of the sea)*  
 ![](Mechanics/CLI/items/img/wave.webp#right)

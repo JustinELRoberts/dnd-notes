@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
+publish: true
 aliases:
-- "Mighty Servant of Leuk-o"
+  - Mighty Servant of Leuk-o
+created: 2026-03-09T12:15:33.960-04:00
+modified: 2026-03-09T12:15:33.960-04:00
+published: 2026-03-09T12:15:33.960-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Mighty Servant of Leuk-o
 *Wondrous item, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/mighty-servant-of-leuk-o.webp#right)

@@ -1,123 +1,128 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/spellcasting-focus
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Dazzling Weapon"
-- "Dazzling Antimatter Carbine"
-- "Dazzling Antimatter Pistol"
-- "Dazzling Antimatter Rifle"
-- "Dazzling Atlatl"
-- "Dazzling Automatic Rifle"
-- "Dazzling Avia-Ra Sunstaff"
-- "Dazzling Ballista"
-- "Dazzling Bastard Sword"
-- "Dazzling Battleaxe"
-- "Dazzling Blitz Cannon"
-- "Dazzling Blowgun"
-- "Dazzling Bolt Caster"
-- "Dazzling Bomb"
-- "Dazzling Boomerang"
-- "Dazzling Cestus"
-- "Dazzling Claw Gauntlet"
-- "Dazzling Club"
-- "Dazzling Concussion Rifle"
-- "Dazzling Cutlass"
-- "Dazzling Dagger"
-- "Dazzling Dart"
-- "Dazzling Double-Bladed Scimitar"
-- "Dazzling Dueling Laser"
-- "Dazzling Edged Card"
-- "Dazzling Estoc"
-- "Dazzling Fishhook"
-- "Dazzling Flail"
-- "Dazzling Glaive"
-- "Dazzling Greataxe"
-- "Dazzling Greatbow"
-- "Dazzling Greatclub"
-- "Dazzling Greatsword"
-- "Dazzling Grenade Launcher"
-- "Dazzling Grim Scythe"
-- "Dazzling Halberd"
-- "Dazzling Hand Crossbow"
-- "Dazzling Handaxe"
-- "Dazzling Heavy Crossbow"
-- "Dazzling Hooked Hammer"
-- "Dazzling Hooked Shortspear"
-- "Dazzling Hoopak"
-- "Dazzling Hunting Rifle"
-- "Dazzling Ion Cannon"
-- "Dazzling Javelin"
-- "Dazzling Katana"
-- "Dazzling Khopesh"
-- "Dazzling Lance"
-- "Dazzling Laser Pistol"
-- "Dazzling Laser Rifle"
-- "Dazzling Light Crossbow"
-- "Dazzling Light Hammer"
-- "Dazzling Light Repeating Crossbow"
-- "Dazzling Longbow"
-- "Dazzling Longsword"
-- "Dazzling Mace"
-- "Dazzling Machete"
-- "Dazzling Magnus"
-- "Dazzling Maul"
-- "Dazzling Meteor Chain"
-- "Dazzling Morningstar"
-- "Dazzling Musket"
-- "Dazzling Naginata"
-- "Dazzling Nunchaku"
-- "Dazzling Parrying Dagger"
-- "Dazzling Phaser"
-- "Dazzling Pickaxe"
-- "Dazzling Pike"
-- "Dazzling Pistol"
-- "Dazzling Plasma Launcher"
-- "Dazzling Punching Dagger"
-- "Dazzling Quarterstaff"
-- "Dazzling Rapier"
-- "Dazzling REC Gun"
-- "Dazzling Repeater"
-- "Dazzling Repeating Crossbow"
-- "Dazzling Revolver"
-- "Dazzling Sai"
-- "Dazzling Scimitar"
-- "Dazzling Scorpion on a Stick"
-- "Dazzling Scourge"
-- "Dazzling Semiautomatic Pistol"
-- "Dazzling Shortbow"
-- "Dazzling Shortsword"
-- "Dazzling Shotgun"
-- "Dazzling Shovel"
-- "Dazzling Sickle"
-- "Dazzling Sling"
-- "Dazzling Spear"
-- "Dazzling Spiked Chain"
-- "Dazzling Staff"
-- "Dazzling Standard Carbine"
-- "Dazzling Swarm Pistol"
-- "Dazzling Throwing Dagger"
-- "Dazzling Tonfa"
-- "Dazzling Trident"
-- "Dazzling Volley Crossbow"
-- "Dazzling War Pick"
-- "Dazzling Warhammer"
-- "Dazzling Whip"
-- "Dazzling Wooden Staff"
-- "Dazzling Yklwa"
+  - Dazzling Weapon
+  - Dazzling Antimatter Carbine
+  - Dazzling Antimatter Pistol
+  - Dazzling Antimatter Rifle
+  - Dazzling Atlatl
+  - Dazzling Automatic Rifle
+  - Dazzling Avia-Ra Sunstaff
+  - Dazzling Ballista
+  - Dazzling Bastard Sword
+  - Dazzling Battleaxe
+  - Dazzling Blitz Cannon
+  - Dazzling Blowgun
+  - Dazzling Bolt Caster
+  - Dazzling Bomb
+  - Dazzling Boomerang
+  - Dazzling Cestus
+  - Dazzling Claw Gauntlet
+  - Dazzling Club
+  - Dazzling Concussion Rifle
+  - Dazzling Cutlass
+  - Dazzling Dagger
+  - Dazzling Dart
+  - Dazzling Double-Bladed Scimitar
+  - Dazzling Dueling Laser
+  - Dazzling Edged Card
+  - Dazzling Estoc
+  - Dazzling Fishhook
+  - Dazzling Flail
+  - Dazzling Glaive
+  - Dazzling Greataxe
+  - Dazzling Greatbow
+  - Dazzling Greatclub
+  - Dazzling Greatsword
+  - Dazzling Grenade Launcher
+  - Dazzling Grim Scythe
+  - Dazzling Halberd
+  - Dazzling Hand Crossbow
+  - Dazzling Handaxe
+  - Dazzling Heavy Crossbow
+  - Dazzling Hooked Hammer
+  - Dazzling Hooked Shortspear
+  - Dazzling Hoopak
+  - Dazzling Hunting Rifle
+  - Dazzling Ion Cannon
+  - Dazzling Javelin
+  - Dazzling Katana
+  - Dazzling Khopesh
+  - Dazzling Lance
+  - Dazzling Laser Pistol
+  - Dazzling Laser Rifle
+  - Dazzling Light Crossbow
+  - Dazzling Light Hammer
+  - Dazzling Light Repeating Crossbow
+  - Dazzling Longbow
+  - Dazzling Longsword
+  - Dazzling Mace
+  - Dazzling Machete
+  - Dazzling Magnus
+  - Dazzling Maul
+  - Dazzling Meteor Chain
+  - Dazzling Morningstar
+  - Dazzling Musket
+  - Dazzling Naginata
+  - Dazzling Nunchaku
+  - Dazzling Parrying Dagger
+  - Dazzling Phaser
+  - Dazzling Pickaxe
+  - Dazzling Pike
+  - Dazzling Pistol
+  - Dazzling Plasma Launcher
+  - Dazzling Punching Dagger
+  - Dazzling Quarterstaff
+  - Dazzling Rapier
+  - Dazzling REC Gun
+  - Dazzling Repeater
+  - Dazzling Repeating Crossbow
+  - Dazzling Revolver
+  - Dazzling Sai
+  - Dazzling Scimitar
+  - Dazzling Scorpion on a Stick
+  - Dazzling Scourge
+  - Dazzling Semiautomatic Pistol
+  - Dazzling Shortbow
+  - Dazzling Shortsword
+  - Dazzling Shotgun
+  - Dazzling Shovel
+  - Dazzling Sickle
+  - Dazzling Sling
+  - Dazzling Spear
+  - Dazzling Spiked Chain
+  - Dazzling Staff
+  - Dazzling Standard Carbine
+  - Dazzling Swarm Pistol
+  - Dazzling Throwing Dagger
+  - Dazzling Tonfa
+  - Dazzling Trident
+  - Dazzling Volley Crossbow
+  - Dazzling War Pick
+  - Dazzling Warhammer
+  - Dazzling Whip
+  - Dazzling Wooden Staff
+  - Dazzling Yklwa
+created: 2026-03-09T12:15:33.817-04:00
+modified: 2026-03-09T12:15:33.817-04:00
+published: 2026-03-09T12:15:33.817-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/spellcasting-focus
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Dazzling Weapon
 *Rare (requires attunement)*  
 

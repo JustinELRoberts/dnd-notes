@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Conjurer Wizard"
+  - Conjurer Wizard
+created: 2026-03-09T12:15:33.882-04:00
+modified: 2026-03-09T12:15:33.882-04:00
+published: 2026-03-09T12:15:33.882-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Conjurer Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*  
 ![](Mechanics/CLI/bestiary/humanoid/img/conjurer-wizard.webp#right)

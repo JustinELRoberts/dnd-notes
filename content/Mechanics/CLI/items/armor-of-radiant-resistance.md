@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/armor/heavy
-- ttrpg-cli/item/armor/light
-- ttrpg-cli/item/armor/medium
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Armor of Radiant Resistance"
-- "Breastplate of Radiant Resistance"
-- "Chain Mail of Radiant Resistance"
-- "Chain Shirt of Radiant Resistance"
-- "Half Plate Armor of Radiant Resistance"
-- "Hide Armor of Radiant Resistance"
-- "Leather Armor of Radiant Resistance"
-- "Padded Armor of Radiant Resistance"
-- "Plate Armor of Radiant Resistance"
-- "Ring Mail of Radiant Resistance"
-- "Scale Mail of Radiant Resistance"
-- "Spiked Armor of Radiant Resistance"
-- "Splint Armor of Radiant Resistance"
-- "Studded Leather Armor of Radiant Resistance"
+  - Armor of Radiant Resistance
+  - Breastplate of Radiant Resistance
+  - Chain Mail of Radiant Resistance
+  - Chain Shirt of Radiant Resistance
+  - Half Plate Armor of Radiant Resistance
+  - Hide Armor of Radiant Resistance
+  - Leather Armor of Radiant Resistance
+  - Padded Armor of Radiant Resistance
+  - Plate Armor of Radiant Resistance
+  - Ring Mail of Radiant Resistance
+  - Scale Mail of Radiant Resistance
+  - Spiked Armor of Radiant Resistance
+  - Splint Armor of Radiant Resistance
+  - Studded Leather Armor of Radiant Resistance
+created: 2026-03-09T12:15:34.043-04:00
+modified: 2026-03-09T12:15:34.043-04:00
+published: 2026-03-09T12:15:34.043-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/armor/heavy
+  - ttrpg-cli/item/armor/light
+  - ttrpg-cli/item/armor/medium
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Armor of Radiant Resistance
 *Major, rare (requires attunement)*  
 

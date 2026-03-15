@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/mark-of-finding
+publish: true
 aliases:
-- "Spells for Mark of Finding"
+  - Spells for Mark of Finding
+created: 2026-03-09T12:15:34.430-04:00
+modified: 2026-03-09T12:15:34.430-04:00
+published: 2026-03-09T12:15:34.430-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/mark-of-finding
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Mark of Finding
 
 ## 1st Level

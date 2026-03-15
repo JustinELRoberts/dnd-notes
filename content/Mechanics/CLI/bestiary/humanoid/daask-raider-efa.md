@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/gnoll
+publish: true
 aliases:
-- "Daask Raider"
+  - Daask Raider
+created: 2026-03-09T12:15:34.130-04:00
+modified: 2026-03-09T12:15:34.130-04:00
+published: 2026-03-09T12:15:34.130-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/gnoll
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Daask Raider
 *Source: Eberron: Forge of the Artificer p. 58*  
 ![](Mechanics/CLI/bestiary/humanoid/img/daask-raider.webp#right)

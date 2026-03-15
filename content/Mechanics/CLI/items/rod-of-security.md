@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/rod
+publish: true
 aliases:
-- "Rod of Security"
+  - Rod of Security
+created: 2026-03-09T12:15:34.100-04:00
+modified: 2026-03-09T12:15:34.100-04:00
+published: 2026-03-09T12:15:34.100-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/rod
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Rod of Security
 *Rod, major, very rare*  
 

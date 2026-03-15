@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/scag
-- ttrpg-cli/deity/faerunian
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/nature
-- ttrpg-cli/domain/peace
+publish: true
 aliases:
-- "Eldath"
-- "The Quiet One"
-- "The Guardian of Groves"
-- "The Mother of the Waters"
+  - Eldath
+  - The Quiet One
+  - The Guardian of Groves
+  - The Mother of the Waters
+created: 2026-03-09T12:15:33.884-04:00
+modified: 2026-03-09T12:15:33.884-04:00
+published: 2026-03-09T12:15:33.884-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/scag
+  - ttrpg-cli/deity/faerunian
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/nature
+  - ttrpg-cli/domain/peace
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Eldath
 ![](Mechanics/CLI/deities/img/scag-symbol-of-eldath.webp#symbol)
 

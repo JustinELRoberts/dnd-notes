@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/8
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/devil
+publish: true
 aliases:
-- "Chain Devil"
+  - Chain Devil
+created: 2026-03-09T12:15:34.063-04:00
+modified: 2026-03-09T12:15:34.063-04:00
+published: 2026-03-09T12:15:34.063-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/8
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/devil
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Chain Devil
 *Source: Monster Manual p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/fiend/img/chain-devil.webp#right)

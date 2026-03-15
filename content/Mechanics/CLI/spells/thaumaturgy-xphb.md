@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/blessed-warrior
-- ttrpg-cli/spell/feat/magic-initiate/cleric-spells
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/race/tiefling/abyssal
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/pharaoh
-classes:
-- Bard (College of Lore)
-- Cleric
-- Martyr (Burden of Calamity)
-- Necromancer (Pharaoh)
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Thaumaturgy"
+  - Thaumaturgy
+created: 2026-03-09T12:15:34.083-04:00
+modified: 2026-03-09T12:15:34.083-04:00
+published: 2026-03-09T12:15:34.083-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/blessed-warrior
+  - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/race/tiefling/abyssal
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/pharaoh
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard (College of Lore)
+  - Cleric
+  - Martyr (Burden of Calamity)
+  - Necromancer (Pharaoh)
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Thaumaturgy
 *cantrip, Transmutation*  
 

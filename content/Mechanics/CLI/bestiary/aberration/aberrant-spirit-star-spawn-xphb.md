@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Aberrant Spirit (Star Spawn)"
+  - Aberrant Spirit (Star Spawn)
+created: 2026-03-09T12:15:33.853-04:00
+modified: 2026-03-09T12:15:33.853-04:00
+published: 2026-03-09T12:15:33.853-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Aberrant Spirit (Star Spawn)
 *Source: Player's Handbook (2024) p. 322*  
 

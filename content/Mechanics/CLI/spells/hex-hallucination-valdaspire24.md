@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/purple-magic
-classes:
-- Witch (Purple Magic)
+publish: true
 aliases:
-- "Hex: Hallucination"
+  - "Hex: Hallucination"
+created: 2026-03-09T12:15:34.122-04:00
+modified: 2026-03-09T12:15:34.122-04:00
+published: 2026-03-09T12:15:34.122-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/purple-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Witch (Purple Magic)
 ---
+
 # Hex: Hallucination
 *cantrip, Enchantment*  
 

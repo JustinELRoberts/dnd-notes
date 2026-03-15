@@ -1,28 +1,33 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/gear/ammunition-firearm
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "+3 Ammunition"
-- "+3 Arrow"
-- "+3 Blowgun Needle"
-- "+3 Crossbow Bolt"
-- "+3 Energy Cell"
-- "+3 Grenade"
-- "+3 Modern Bullet"
-- "+3 Renaissance Bullet"
-- "+3 Sling Bullet"
+  - +3 Ammunition
+  - +3 Arrow
+  - +3 Blowgun Needle
+  - +3 Crossbow Bolt
+  - +3 Energy Cell
+  - +3 Grenade
+  - +3 Modern Bullet
+  - +3 Renaissance Bullet
+  - +3 Sling Bullet
+created: 2026-03-09T12:15:34.021-04:00
+modified: 2026-03-09T12:15:34.021-04:00
+published: 2026-03-09T12:15:34.021-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/age/renaissance
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/gear/ammunition-firearm
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +3 Ammunition
 *Ammunition, minor, very rare*  
 

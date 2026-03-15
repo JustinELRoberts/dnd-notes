@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
+publish: true
 aliases:
-- "Random Yuan-ti Servants; Yuan-ti Protectors"
+  - Random Yuan-ti Servants; Yuan-ti Protectors
+created: 2026-03-09T12:15:34.371-04:00
+modified: 2026-03-09T12:15:34.371-04:00
+published: 2026-03-09T12:15:34.371-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Random Yuan-ti Servants; Yuan-ti Protectors
 *Source: Volo's Guide to Monsters p. 102* 
 

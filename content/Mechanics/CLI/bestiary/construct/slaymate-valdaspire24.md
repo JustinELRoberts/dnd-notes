@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/monster/cr/1-8
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/construct/thrall
+publish: true
 aliases:
-- "Slaymate"
+  - Slaymate
+created: 2026-03-09T12:15:34.017-04:00
+modified: 2026-03-09T12:15:34.017-04:00
+published: 2026-03-09T12:15:34.017-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/construct/thrall
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Slaymate
 *Source: Valda's Spire of Secrets (2024) p. 0*  
 

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/11
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Morkoth"
+  - Morkoth
+created: 2026-03-09T12:15:34.058-04:00
+modified: 2026-03-09T12:15:34.058-04:00
+published: 2026-03-09T12:15:34.058-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/11
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Morkoth
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
 ![](Mechanics/CLI/bestiary/aberration/img/morkoth.webp#right)

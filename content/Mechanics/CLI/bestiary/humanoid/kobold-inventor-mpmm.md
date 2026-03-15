@@ -1,20 +1,25 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Kobold Inventor"
+  - Kobold Inventor
+created: 2026-03-09T12:15:33.859-04:00
+modified: 2026-03-09T12:15:33.859-04:00
+published: 2026-03-09T12:15:33.859-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Kobold Inventor
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166*  
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold-inventor.webp#right)

@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Bard
-- Druid
+publish: true
 aliases:
-- "Bones of the Earth"
+  - Bones of the Earth
+created: 2026-03-09T12:15:34.011-04:00
+modified: 2026-03-09T12:15:34.011-04:00
+published: 2026-03-09T12:15:34.011-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Druid
 ---
+
 # Bones of the Earth
 *6th-level, Transmutation*  
 

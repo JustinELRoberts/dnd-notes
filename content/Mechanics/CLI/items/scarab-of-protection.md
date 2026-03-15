@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Scarab of Protection"
+  - Scarab of Protection
+created: 2026-03-09T12:15:33.842-04:00
+modified: 2026-03-09T12:15:33.842-04:00
+published: 2026-03-09T12:15:33.842-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Scarab of Protection
 *Wondrous item, major, legendary (requires attunement)*  
 ![](Mechanics/CLI/items/img/scarab-of-protection.webp#right)

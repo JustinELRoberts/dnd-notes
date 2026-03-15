@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/tea-magic
+publish: true
 aliases:
-- "Spells for Tea Magic"
+  - Spells for Tea Magic
+created: 2026-03-09T12:15:34.424-04:00
+modified: 2026-03-09T12:15:34.424-04:00
+published: 2026-03-09T12:15:34.424-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/tea-magic
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Tea Magic
 
 ## Cantrip

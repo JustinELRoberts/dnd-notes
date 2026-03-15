@@ -1,52 +1,57 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/aberrant-dragonmark
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/magic-initiate/wizard-spells
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/reward/boon-of-the-fire-soul
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
-- ttrpg-cli/spell/subclass/circle-of-wildfire
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/red-magic
-- ttrpg-cli/spell/subclass/the-genie/efreeti
-- ttrpg-cli/spell/subclass/way-of-the-sun-soul
-- ttrpg-cli/spell/subrace/genasi-fire
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric (Light Domain)
-- Druid (Circle of Wildfire)
-- Druid (Circle of the Land, Arid Land)
-- Fighter (Eldritch Knight)
-- Monk (Way of the Sun Soul)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Fiend Patron)
-- Warlock (The Genie, Efreeti)
-- Warmage (House of Bishops)
-- Witch (Red Magic)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Burning Hands"
+  - Burning Hands
+created: 2026-03-09T12:15:34.057-04:00
+modified: 2026-03-09T12:15:34.057-04:00
+published: 2026-03-09T12:15:34.057-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/aberrant-dragonmark
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/magic-initiate/wizard-spells
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/reward/boon-of-the-fire-soul
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
+  - ttrpg-cli/spell/subclass/circle-of-wildfire
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/fiend-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/light-domain
+  - ttrpg-cli/spell/subclass/red-magic
+  - ttrpg-cli/spell/subclass/the-genie/efreeti
+  - ttrpg-cli/spell/subclass/way-of-the-sun-soul
+  - ttrpg-cli/spell/subrace/genasi-fire
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Light Domain)
+  - Druid (Circle of Wildfire)
+  - Druid (Circle of the Land, Arid Land)
+  - Fighter (Eldritch Knight)
+  - Monk (Way of the Sun Soul)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Fiend Patron)
+  - Warlock (The Genie, Efreeti)
+  - Warmage (House of Bishops)
+  - Witch (Red Magic)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Burning Hands
 *1st-level, Evocation*  
 

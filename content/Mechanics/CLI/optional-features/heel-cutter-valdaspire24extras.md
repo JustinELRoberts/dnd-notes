@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/optional-feature/mv-v
+publish: true
 aliases:
-- "Heel-Cutter"
+  - Heel-Cutter
+created: 2026-03-09T12:15:34.008-04:00
+modified: 2026-03-09T12:15:34.008-04:00
+published: 2026-03-09T12:15:34.008-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/optional-feature/mv-v
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Heel-Cutter 
 
 

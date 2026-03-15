@@ -1,35 +1,40 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-scribing
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/ritual
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/burden-of-anonymity
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/house-of-rooks
-- ttrpg-cli/spell/subclass/reaper
-- ttrpg-cli/spell/subclass/the-fathomless
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Martyr (Burden of Anonymity)
-- Necromancer (Reaper)
-- Ranger
-- Sorcerer (Divine Soul, Good)
-- Warlock (The Fathomless)
-- Warmage (House of Rooks)
+publish: true
 aliases:
-- "Silence"
+  - Silence
+created: 2026-03-09T12:15:33.987-04:00
+modified: 2026-03-09T12:15:33.987-04:00
+published: 2026-03-09T12:15:33.987-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-scribing
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/ritual
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/burden-of-anonymity
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/house-of-rooks
+  - ttrpg-cli/spell/subclass/reaper
+  - ttrpg-cli/spell/subclass/the-fathomless
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Martyr (Burden of Anonymity)
+  - Necromancer (Reaper)
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (The Fathomless)
+  - Warmage (House of Rooks)
 ---
+
 # Silence
 *2nd-level, Illusion (ritual)*  
 

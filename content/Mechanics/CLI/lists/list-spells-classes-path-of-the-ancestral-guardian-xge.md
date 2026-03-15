@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/path-of-the-ancestral-guardian
+publish: true
 aliases:
-- "Spells for Path of the Ancestral Guardian"
+  - Spells for Path of the Ancestral Guardian
+created: 2026-03-09T12:15:34.424-04:00
+modified: 2026-03-09T12:15:34.424-04:00
+published: 2026-03-09T12:15:34.424-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/path-of-the-ancestral-guardian
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Path of the Ancestral Guardian
 
 ## 2nd Level

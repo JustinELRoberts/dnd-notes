@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/cleric
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Cleric"
+  - Cleric
+created: 2026-03-09T12:15:34.111-04:00
+modified: 2026-03-09T12:15:34.111-04:00
+published: 2026-03-09T12:15:34.111-04:00
+tags:
+  - ttrpg-cli/class/cleric
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Cleric
 *Source: Player's Handbook (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
 

@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/school/evocation
-classes:
-- Warlock
+publish: true
 aliases:
-- "Eldritch Blast"
+  - Eldritch Blast
+created: 2026-03-09T12:15:33.916-04:00
+modified: 2026-03-09T12:15:33.916-04:00
+published: 2026-03-09T12:15:33.916-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/school/evocation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Warlock
 ---
+
 # Eldritch Blast
 *cantrip, Evocation*  
 

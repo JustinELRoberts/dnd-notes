@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Molydeus"
+  - Molydeus
+created: 2026-03-09T12:15:33.913-04:00
+modified: 2026-03-09T12:15:33.913-04:00
+published: 2026-03-09T12:15:33.913-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/21
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Molydeus
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 184*  
 ![](Mechanics/CLI/bestiary/fiend/img/molydeus.webp#right)

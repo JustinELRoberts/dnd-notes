@@ -1,51 +1,56 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/feat/mark-of-scribing
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/burden-of-discord
-- ttrpg-cli/spell/subclass/burden-of-levity
-- ttrpg-cli/spell/subclass/circle-of-spores
-- ttrpg-cli/spell/subclass/drake-blooded
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/gingerbread-magic
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oathbreaker
-- ttrpg-cli/spell/subclass/overlord
-- ttrpg-cli/spell/subclass/purple-magic
-- ttrpg-cli/spell/subclass/trickery-domain
-classes:
-- Bard
-- Cleric (Trickery Domain)
-- Druid
-- Druid (Circle of Spores)
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Discord)
-- Martyr (Burden of Levity)
-- Necromancer (Overlord)
-- Paladin (Oathbreaker)
-- Rogue (Arcane Trickster)
-- Sorcerer
-- Warden (Drake-Blooded)
-- Warlock (Great Old One Patron)
-- Warmage (House of Bishops)
-- Witch (Gingerbread Magic)
-- Witch (Purple Magic)
-- Wizard
+publish: true
 aliases:
-- "Confusion"
+  - Confusion
+created: 2026-03-09T12:15:34.014-04:00
+modified: 2026-03-09T12:15:34.014-04:00
+published: 2026-03-09T12:15:34.014-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/feat/mark-of-scribing
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/burden-of-discord
+  - ttrpg-cli/spell/subclass/burden-of-levity
+  - ttrpg-cli/spell/subclass/circle-of-spores
+  - ttrpg-cli/spell/subclass/drake-blooded
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/gingerbread-magic
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oathbreaker
+  - ttrpg-cli/spell/subclass/overlord
+  - ttrpg-cli/spell/subclass/purple-magic
+  - ttrpg-cli/spell/subclass/trickery-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric (Trickery Domain)
+  - Druid
+  - Druid (Circle of Spores)
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Discord)
+  - Martyr (Burden of Levity)
+  - Necromancer (Overlord)
+  - Paladin (Oathbreaker)
+  - Rogue (Arcane Trickster)
+  - Sorcerer
+  - Warden (Drake-Blooded)
+  - Warlock (Great Old One Patron)
+  - Warmage (House of Bishops)
+  - Witch (Gingerbread Magic)
+  - Witch (Purple Magic)
+  - Wizard
 ---
+
 # Confusion
 *4th-level, Enchantment*  
 

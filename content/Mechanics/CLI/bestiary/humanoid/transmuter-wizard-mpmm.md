@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid
+publish: true
 aliases:
-- "Transmuter Wizard"
+  - Transmuter Wizard
+created: 2026-03-09T12:15:34.097-04:00
+modified: 2026-03-09T12:15:34.097-04:00
+published: 2026-03-09T12:15:34.097-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Transmuter Wizard
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218*  
 ![](Mechanics/CLI/bestiary/humanoid/img/transmuter-wizard.webp#right)

@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Bard
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Disintegrate"
+  - Disintegrate
+created: 2026-03-09T12:15:33.788-04:00
+modified: 2026-03-09T12:15:33.788-04:00
+published: 2026-03-09T12:15:33.788-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 ---
+
 # Disintegrate
 *6th-level, Transmutation*  
 

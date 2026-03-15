@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/path-of-the-wild-heart
+publish: true
 aliases:
-- "Spells for Path of the Wild Heart"
+  - Spells for Path of the Wild Heart
+created: 2026-03-09T12:15:34.422-04:00
+modified: 2026-03-09T12:15:34.423-04:00
+published: 2026-03-09T12:15:34.423-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/path-of-the-wild-heart
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Path of the Wild Heart
 
 ## 1st Level

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/gear/ammunition
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Crossbow Bolt of Slaying"
+  - Crossbow Bolt of Slaying
+created: 2026-03-09T12:15:33.906-04:00
+modified: 2026-03-09T12:15:33.906-04:00
+published: 2026-03-09T12:15:33.906-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/gear/ammunition
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Crossbow Bolt of Slaying
 *Ammunition, minor, very rare*  
 ![](Mechanics/CLI/items/img/arrow-of-slaying.webp#right)

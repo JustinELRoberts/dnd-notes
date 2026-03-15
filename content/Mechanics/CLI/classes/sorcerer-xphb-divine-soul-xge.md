@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/sorcerer/divine-soul
+publish: true
 aliases:
-- "Divine Soul"
+  - Divine Soul
+created: 2026-03-09T12:15:33.986-04:00
+modified: 2026-03-09T12:15:33.986-04:00
+published: 2026-03-09T12:15:33.986-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/sorcerer/divine-soul
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Divine Soul
 *[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
 *Source: Xanathar's Guide to Everything p. 50*  

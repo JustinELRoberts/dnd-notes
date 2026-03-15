@@ -1,38 +1,43 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/mark-of-detection
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/race/deep-gnome
-- ttrpg-cli/spell/race/gnome-deep
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/abjurer
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/oath-of-the-watchers
-- ttrpg-cli/spell/subclass/trickery-domain
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric (Trickery Domain)
-- Fighter (Eldritch Knight)
-- Paladin (Oath of the Watchers)
-- Ranger
-- Rogue (Arcane Trickster)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Abjurer)
+publish: true
 aliases:
-- "Nondetection"
+  - Nondetection
+created: 2026-03-09T12:15:33.925-04:00
+modified: 2026-03-09T12:15:33.925-04:00
+published: 2026-03-09T12:15:33.925-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/mark-of-detection
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/race/deep-gnome
+  - ttrpg-cli/spell/race/gnome-deep
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/abjurer
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/oath-of-the-watchers
+  - ttrpg-cli/spell/subclass/trickery-domain
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric (Trickery Domain)
+  - Fighter (Eldritch Knight)
+  - Paladin (Oath of the Watchers)
+  - Ranger
+  - Rogue (Arcane Trickster)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Abjurer)
 ---
+
 # Nondetection
 *3rd-level, Abjuration*  
 

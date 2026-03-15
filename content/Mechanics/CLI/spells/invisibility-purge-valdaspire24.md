@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/investigator
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Investigator
-- Sorcerer
-- Warmage (House of Bishops)
-- Witch
-- Wizard
+publish: true
 aliases:
-- "Invisibility Purge"
+  - Invisibility Purge
+created: 2026-03-09T12:15:34.025-04:00
+modified: 2026-03-09T12:15:34.025-04:00
+published: 2026-03-09T12:15:34.025-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/investigator
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Investigator
+  - Sorcerer
+  - Warmage (House of Bishops)
+  - Witch
+  - Wizard
 ---
+
 # Invisibility Purge
 *4th-level, Abjuration*  
 

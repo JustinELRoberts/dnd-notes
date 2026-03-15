@@ -1,37 +1,42 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/battle-smith
-- ttrpg-cli/spell/subclass/burden-of-atonement
-- ttrpg-cli/spell/subclass/burden-of-mercy
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-- ttrpg-cli/spell/subclass/circle-of-wildfire
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/life-domain
-- ttrpg-cli/spell/subclass/white-magic
-classes:
-- Artificer (Battle Smith)
-- Bard
-- Cleric
-- Cleric (Life Domain)
-- Druid
-- Druid (Circle of Wildfire)
-- Druid (Circle of the Moon)
-- Martyr (Burden of Atonement)
-- Martyr (Burden of Mercy)
-- Sorcerer (Divine Soul, Good)
-- Witch (White Magic)
+publish: true
 aliases:
-- "Mass Cure Wounds"
+  - Mass Cure Wounds
+created: 2026-03-09T12:15:34.011-04:00
+modified: 2026-03-09T12:15:34.011-04:00
+published: 2026-03-09T12:15:34.011-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/battle-smith
+  - ttrpg-cli/spell/subclass/burden-of-atonement
+  - ttrpg-cli/spell/subclass/burden-of-mercy
+  - ttrpg-cli/spell/subclass/circle-of-the-moon
+  - ttrpg-cli/spell/subclass/circle-of-wildfire
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/life-domain
+  - ttrpg-cli/spell/subclass/white-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Battle Smith)
+  - Bard
+  - Cleric
+  - Cleric (Life Domain)
+  - Druid
+  - Druid (Circle of Wildfire)
+  - Druid (Circle of the Moon)
+  - Martyr (Burden of Atonement)
+  - Martyr (Burden of Mercy)
+  - Sorcerer (Divine Soul, Good)
+  - Witch (White Magic)
 ---
+
 # Mass Cure Wounds
 *5th-level, Abjuration*  
 

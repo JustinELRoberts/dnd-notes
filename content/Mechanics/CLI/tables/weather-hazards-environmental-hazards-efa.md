@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Weather Hazards; Environmental Hazards"
+  - Weather Hazards; Environmental Hazards
+created: 2026-03-09T12:15:34.386-04:00
+modified: 2026-03-09T12:15:34.386-04:00
+published: 2026-03-09T12:15:34.386-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Weather Hazards; Environmental Hazards
 *Source: Eberron: Forge of the Artificer p. 111* 
 

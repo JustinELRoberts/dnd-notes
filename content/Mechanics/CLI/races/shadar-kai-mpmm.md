@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/shadar-kai
+publish: true
 aliases:
-- "Shadar-Kai"
+  - Shadar-Kai
+created: 2026-03-09T12:15:33.981-04:00
+modified: 2026-03-09T12:15:33.981-04:00
+published: 2026-03-09T12:15:33.981-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/shadar-kai
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Shadar-Kai
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 31*  
 ![](Mechanics/CLI/races/img/shadar-kai.webp#right)

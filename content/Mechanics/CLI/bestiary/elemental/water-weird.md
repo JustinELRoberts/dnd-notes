@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Water Weird"
+  - Water Weird
+created: 2026-03-09T12:15:34.043-04:00
+modified: 2026-03-09T12:15:34.043-04:00
+published: 2026-03-09T12:15:34.043-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Water Weird
 *Source: Monster Manual p. 299*  
 ![](Mechanics/CLI/bestiary/elemental/img/water-weird.webp#right)

@@ -1,41 +1,46 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/diviner
-- ttrpg-cli/spell/subclass/light-domain
-- ttrpg-cli/spell/subclass/oath-of-the-watchers
-- ttrpg-cli/spell/subclass/oath-of-vengeance
-- ttrpg-cli/spell/subclass/pale-master
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Artificer (Cartographer)
-- Bard
-- Cleric
-- Cleric (Light Domain)
-- Druid
-- Necromancer (Pale Master)
-- Paladin (Oath of Vengeance)
-- Paladin (Oath of the Watchers)
-- Sorcerer (Divine Soul, Good)
-- Warlock
-- Witch (Tea Magic)
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Scrying"
+  - Scrying
+created: 2026-03-09T12:15:34.108-04:00
+modified: 2026-03-09T12:15:34.108-04:00
+published: 2026-03-09T12:15:34.108-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/light-domain
+  - ttrpg-cli/spell/subclass/oath-of-the-watchers
+  - ttrpg-cli/spell/subclass/oath-of-vengeance
+  - ttrpg-cli/spell/subclass/pale-master
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Bard
+  - Cleric
+  - Cleric (Light Domain)
+  - Druid
+  - Necromancer (Pale Master)
+  - Paladin (Oath of Vengeance)
+  - Paladin (Oath of the Watchers)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock
+  - Witch (Tea Magic)
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Scrying
 *5th-level, Divination*  
 ![](Mechanics/CLI/spells/img/scrying.webp#right)

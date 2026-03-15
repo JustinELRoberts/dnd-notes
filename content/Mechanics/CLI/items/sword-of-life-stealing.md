@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Sword of Life Stealing"
-- "Double-Bladed Scimitar of Life Stealing"
-- "Greatsword of Life Stealing"
-- "Longsword of Life Stealing"
-- "Rapier of Life Stealing"
-- "Scimitar of Life Stealing"
-- "Shortsword of Life Stealing"
+  - Sword of Life Stealing
+  - Double-Bladed Scimitar of Life Stealing
+  - Greatsword of Life Stealing
+  - Longsword of Life Stealing
+  - Rapier of Life Stealing
+  - Scimitar of Life Stealing
+  - Shortsword of Life Stealing
+created: 2026-03-09T12:15:34.027-04:00
+modified: 2026-03-09T12:15:34.027-04:00
+published: 2026-03-09T12:15:34.027-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Sword of Life Stealing
 *Major, rare (requires attunement)*  
 ![Sword of Life Stealing (Longsword)](Mechanics/CLI/items/img/sword-of-life-stealing.webp#right)

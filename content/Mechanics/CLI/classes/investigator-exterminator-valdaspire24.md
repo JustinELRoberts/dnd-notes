@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/investigator/exterminator
+publish: true
 aliases:
-- "Exterminator"
+  - Exterminator
+created: 2026-03-09T12:15:33.906-04:00
+modified: 2026-03-09T12:15:33.906-04:00
+published: 2026-03-09T12:15:33.906-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/investigator/exterminator
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Exterminator
 *[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

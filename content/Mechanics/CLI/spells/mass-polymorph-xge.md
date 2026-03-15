@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/9th-level
-- ttrpg-cli/spell/school/transmutation
-classes:
-- Bard
-- Sorcerer
-- Wizard
+publish: true
 aliases:
-- "Mass Polymorph"
+  - Mass Polymorph
+created: 2026-03-09T12:15:34.120-04:00
+modified: 2026-03-09T12:15:34.120-04:00
+published: 2026-03-09T12:15:34.120-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/9th-level
+  - ttrpg-cli/spell/school/transmutation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
 ---
+
 # Mass Polymorph
 *9th-level, Transmutation*  
 

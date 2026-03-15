@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/eldritch-knight
+publish: true
 aliases:
-- "Spells for Eldritch Knight"
+  - Spells for Eldritch Knight
+created: 2026-03-09T12:15:34.427-04:00
+modified: 2026-03-09T12:15:34.427-04:00
+published: 2026-03-09T12:15:34.427-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/eldritch-knight
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Eldritch Knight
 
 ## Cantrip

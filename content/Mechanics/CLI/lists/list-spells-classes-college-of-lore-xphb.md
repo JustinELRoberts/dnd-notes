@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/college-of-lore
+publish: true
 aliases:
-- "Spells for College of Lore"
+  - Spells for College of Lore
+created: 2026-03-09T12:15:34.424-04:00
+modified: 2026-03-09T12:15:34.424-04:00
+published: 2026-03-09T12:15:34.424-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/college-of-lore
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for College of Lore
 
 ## Cantrip

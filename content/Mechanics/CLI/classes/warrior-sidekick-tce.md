@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/warrior-sidekick
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Warrior Sidekick"
+  - Warrior Sidekick
+created: 2026-03-09T12:15:33.866-04:00
+modified: 2026-03-09T12:15:33.866-04:00
+published: 2026-03-09T12:15:33.866-04:00
+tags:
+  - ttrpg-cli/class/warrior-sidekick
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Warrior Sidekick
 *Source: Tasha's Cauldron of Everything p. 146*  
 

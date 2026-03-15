@@ -1,107 +1,112 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/age/futuristic
-- ttrpg-cli/item/age/modern
-- ttrpg-cli/item/age/renaissance
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/ranged
-- ttrpg-cli/item/weapon/simple
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Weapon of Warning"
-- "Antimatter Rifle of Warning"
-- "Atlatl of Warning"
-- "Automatic Pistol of Warning"
-- "Automatic Rifle of Warning"
-- "Ballista of Warning"
-- "Bastard Sword of Warning"
-- "Battleaxe of Warning"
-- "Blowgun of Warning"
-- "Bomb of Warning"
-- "Boomerang of Warning"
-- "Cestus of Warning"
-- "Claw Gauntlet of Warning"
-- "Club of Warning"
-- "Cutlass of Warning"
-- "Dagger of Warning"
-- "Dart of Warning"
-- "Double-Bladed Scimitar of Warning"
-- "Edged Card of Warning"
-- "Estoc of Warning"
-- "Fishhook of Warning"
-- "Flail of Warning"
-- "Glaive of Warning"
-- "Greataxe of Warning"
-- "Greatbow of Warning"
-- "Greatclub of Warning"
-- "Greatsword of Warning"
-- "Grim Scythe of Warning"
-- "Halberd of Warning"
-- "Hand Crossbow of Warning"
-- "Handaxe of Warning"
-- "Heavy Crossbow of Warning"
-- "Hooked Hammer of Warning"
-- "Hooked Shortspear of Warning"
-- "Hoopak of Warning"
-- "Hunting Rifle of Warning"
-- "Javelin of Warning"
-- "Katana of Warning"
-- "Khopesh of Warning"
-- "Lance of Warning"
-- "Laser Pistol of Warning"
-- "Laser Rifle of Warning"
-- "Light Crossbow of Warning"
-- "Light Hammer of Warning"
-- "Light Repeating Crossbow of Warning"
-- "Longbow of Warning"
-- "Longsword of Warning"
-- "Mace of Warning"
-- "Machete of Warning"
-- "Maul of Warning"
-- "Meteor Chain of Warning"
-- "Morningstar of Warning"
-- "Musket of Warning"
-- "Naginata of Warning"
-- "Net of Warning"
-- "Nunchaku of Warning"
-- "Parrying Dagger of Warning"
-- "Pickaxe of Warning"
-- "Pike of Warning"
-- "Pistol of Warning"
-- "Punching Dagger of Warning"
-- "Quarterstaff of Warning"
-- "Rapier of Warning"
-- "Repeating Crossbow of Warning"
-- "Revolver of Warning"
-- "Sai of Warning"
-- "Scimitar of Warning"
-- "Scorpion on a Stick of Warning"
-- "Scourge of Warning"
-- "Shortbow of Warning"
-- "Shortsword of Warning"
-- "Shotgun of Warning"
-- "Shovel of Warning"
-- "Sickle of Warning"
-- "Sling of Warning"
-- "Spear of Warning"
-- "Spiked Chain of Warning"
-- "Throwing Dagger of Warning"
-- "Tonfa of Warning"
-- "Trident of Warning"
-- "Volley Crossbow of Warning"
-- "War Pick of Warning"
-- "Warhammer of Warning"
-- "Whip of Warning"
-- "Yklwa of Warning"
+  - Weapon of Warning
+  - Antimatter Rifle of Warning
+  - Atlatl of Warning
+  - Automatic Pistol of Warning
+  - Automatic Rifle of Warning
+  - Ballista of Warning
+  - Bastard Sword of Warning
+  - Battleaxe of Warning
+  - Blowgun of Warning
+  - Bomb of Warning
+  - Boomerang of Warning
+  - Cestus of Warning
+  - Claw Gauntlet of Warning
+  - Club of Warning
+  - Cutlass of Warning
+  - Dagger of Warning
+  - Dart of Warning
+  - Double-Bladed Scimitar of Warning
+  - Edged Card of Warning
+  - Estoc of Warning
+  - Fishhook of Warning
+  - Flail of Warning
+  - Glaive of Warning
+  - Greataxe of Warning
+  - Greatbow of Warning
+  - Greatclub of Warning
+  - Greatsword of Warning
+  - Grim Scythe of Warning
+  - Halberd of Warning
+  - Hand Crossbow of Warning
+  - Handaxe of Warning
+  - Heavy Crossbow of Warning
+  - Hooked Hammer of Warning
+  - Hooked Shortspear of Warning
+  - Hoopak of Warning
+  - Hunting Rifle of Warning
+  - Javelin of Warning
+  - Katana of Warning
+  - Khopesh of Warning
+  - Lance of Warning
+  - Laser Pistol of Warning
+  - Laser Rifle of Warning
+  - Light Crossbow of Warning
+  - Light Hammer of Warning
+  - Light Repeating Crossbow of Warning
+  - Longbow of Warning
+  - Longsword of Warning
+  - Mace of Warning
+  - Machete of Warning
+  - Maul of Warning
+  - Meteor Chain of Warning
+  - Morningstar of Warning
+  - Musket of Warning
+  - Naginata of Warning
+  - Net of Warning
+  - Nunchaku of Warning
+  - Parrying Dagger of Warning
+  - Pickaxe of Warning
+  - Pike of Warning
+  - Pistol of Warning
+  - Punching Dagger of Warning
+  - Quarterstaff of Warning
+  - Rapier of Warning
+  - Repeating Crossbow of Warning
+  - Revolver of Warning
+  - Sai of Warning
+  - Scimitar of Warning
+  - Scorpion on a Stick of Warning
+  - Scourge of Warning
+  - Shortbow of Warning
+  - Shortsword of Warning
+  - Shotgun of Warning
+  - Shovel of Warning
+  - Sickle of Warning
+  - Sling of Warning
+  - Spear of Warning
+  - Spiked Chain of Warning
+  - Throwing Dagger of Warning
+  - Tonfa of Warning
+  - Trident of Warning
+  - Volley Crossbow of Warning
+  - War Pick of Warning
+  - Warhammer of Warning
+  - Whip of Warning
+  - Yklwa of Warning
+created: 2026-03-09T12:15:34.108-04:00
+modified: 2026-03-09T12:15:34.109-04:00
+published: 2026-03-09T12:15:34.109-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/age/futuristic
+  - ttrpg-cli/item/age/modern
+  - ttrpg-cli/item/age/renaissance
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/ranged
+  - ttrpg-cli/item/weapon/simple
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Weapon of Warning
 *Major, uncommon (requires attunement)*  
 ![Weapon of Warning (Trident)](Mechanics/CLI/items/img/weapon-of-warning.webp#right)

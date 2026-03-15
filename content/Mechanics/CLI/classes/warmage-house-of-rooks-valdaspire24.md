@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/warmage/rooks
+publish: true
 aliases:
-- "House of Rooks"
+  - House of Rooks
+created: 2026-03-09T12:15:34.007-04:00
+modified: 2026-03-09T12:15:34.007-04:00
+published: 2026-03-09T12:15:34.007-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/warmage/rooks
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # House of Rooks
 *[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

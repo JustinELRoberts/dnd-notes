@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/item/rarity/common
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/wand
+publish: true
 aliases:
-- "Wand of Conducting"
+  - Wand of Conducting
+created: 2026-03-09T12:15:33.981-04:00
+modified: 2026-03-09T12:15:33.981-04:00
+published: 2026-03-09T12:15:33.981-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/item/rarity/common
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/wand
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Wand of Conducting
 *Wand, minor, common*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-reward
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/reward/boon
+publish: true
 aliases:
-- "Boon of Resilience"
+  - Boon of Resilience
+created: 2026-03-09T12:15:34.082-04:00
+modified: 2026-03-09T12:15:34.082-04:00
+published: 2026-03-09T12:15:34.082-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/reward/boon
+cssclasses:
+  - json5e-reward
+obsidianUIMode: preview
 ---
+
 # Boon of Resilience
 
 

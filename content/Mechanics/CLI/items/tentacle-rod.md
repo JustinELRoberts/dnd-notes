@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/wondrous/rod
+publish: true
 aliases:
-- "Tentacle Rod"
+  - Tentacle Rod
+created: 2026-03-09T12:15:33.978-04:00
+modified: 2026-03-09T12:15:33.978-04:00
+published: 2026-03-09T12:15:33.978-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/wondrous/rod
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Tentacle Rod
 *Rod, major, rare (requires attunement)*  
 ![](Mechanics/CLI/items/img/tentacle-rod.webp#right)

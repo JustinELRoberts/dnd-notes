@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/construct
+publish: true
 aliases:
-- "Stone Cursed"
+  - Stone Cursed
+created: 2026-03-09T12:15:34.040-04:00
+modified: 2026-03-09T12:15:34.040-04:00
+published: 2026-03-09T12:15:34.040-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/construct
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Stone Cursed
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 233*  
 ![](Mechanics/CLI/bestiary/construct/img/stone-cursed.webp#right)

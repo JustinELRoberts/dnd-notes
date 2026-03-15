@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Skill Variants"
+  - Skill Variants
+created: 2026-03-09T12:15:34.435-04:00
+modified: 2026-03-09T12:15:34.435-04:00
+published: 2026-03-09T12:15:34.435-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Skill Variants
 *Source: Dungeon Master's Guide p. 263* 
 

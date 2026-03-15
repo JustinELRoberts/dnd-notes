@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/monk/shadow
+publish: true
 aliases:
-- "Warrior of Shadow"
+  - Warrior of Shadow
+created: 2026-03-09T12:15:33.953-04:00
+modified: 2026-03-09T12:15:33.953-04:00
+published: 2026-03-09T12:15:33.953-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/monk/shadow
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Warrior of Shadow
 *[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Player's Handbook (2024) p. 105*  

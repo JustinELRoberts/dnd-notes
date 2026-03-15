@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/phb
+publish: true
 aliases:
-- "Metamagic"
+  - Metamagic
+created: 2026-03-09T12:15:34.418-04:00
+modified: 2026-03-09T12:15:34.418-04:00
+published: 2026-03-09T12:15:34.418-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/phb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Metamagic
 *Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
 

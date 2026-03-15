@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/gear/instrument
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Instrument of the Bards, Canaith Mandolin"
+  - Instrument of the Bards, Canaith Mandolin
+created: 2026-03-09T12:15:34.063-04:00
+modified: 2026-03-09T12:15:34.063-04:00
+published: 2026-03-09T12:15:34.063-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/gear/instrument
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Instrument of the Bards, Canaith Mandolin
 *Wondrous item, instrument, major, rare (requires attunement by a bard)*  
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-canaith-mandolin.webp#right)

@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/underwater
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/humanoid/sahuagin
+publish: true
 aliases:
-- "Sahuagin Baron"
+  - Sahuagin Baron
+created: 2026-03-09T12:15:34.021-04:00
+modified: 2026-03-09T12:15:34.021-04:00
+published: 2026-03-09T12:15:34.021-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/humanoid/sahuagin
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Sahuagin Baron
 *Source: Monster Manual p. 264*  
 ![](Mechanics/CLI/bestiary/humanoid/img/sahuagin-baron.webp#right)

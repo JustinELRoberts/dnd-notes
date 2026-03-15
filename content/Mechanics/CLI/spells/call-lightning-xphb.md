@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/cartographer
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/sky-magic
-classes:
-- Artificer (Cartographer)
-- Bard
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Calamity)
-- Witch (Sky Magic)
+publish: true
 aliases:
-- "Call Lightning"
+  - Call Lightning
+created: 2026-03-09T12:15:34.010-04:00
+modified: 2026-03-09T12:15:34.010-04:00
+published: 2026-03-09T12:15:34.010-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/sky-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer (Cartographer)
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Calamity)
+  - Witch (Sky Magic)
 ---
+
 # Call Lightning
 *3rd-level, Conjuration*  
 

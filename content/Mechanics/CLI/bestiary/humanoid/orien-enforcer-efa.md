@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid/human
+publish: true
 aliases:
-- "Orien Enforcer"
+  - Orien Enforcer
+created: 2026-03-09T12:15:33.937-04:00
+modified: 2026-03-09T12:15:33.937-04:00
+published: 2026-03-09T12:15:33.937-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/humanoid/human
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Orien Enforcer
 *Source: Eberron: Forge of the Artificer p. 83*  
 ![](Mechanics/CLI/bestiary/humanoid/img/orien-enforcer.webp#right)

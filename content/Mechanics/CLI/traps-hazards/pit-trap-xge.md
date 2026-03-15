@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/hazard/smpl
+publish: true
 aliases:
-- "Pit Trap"
+  - Pit Trap
+created: 2026-03-09T12:15:34.113-04:00
+modified: 2026-03-09T12:15:34.113-04:00
+published: 2026-03-09T12:15:34.113-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/hazard/smpl
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Pit Trap
 *Generic Hazard*  
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/rogue/assassin
+publish: true
 aliases:
-- "Assassin"
+  - Assassin
+created: 2026-03-09T12:15:33.910-04:00
+modified: 2026-03-09T12:15:33.910-04:00
+published: 2026-03-09T12:15:33.910-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/rogue/assassin
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Assassin
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Player's Handbook (2024) p. 134*  

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/goliath
+publish: true
 aliases:
-- "Goliath"
+  - Goliath
+created: 2026-03-09T12:15:33.829-04:00
+modified: 2026-03-09T12:15:33.829-04:00
+published: 2026-03-09T12:15:33.829-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/race/goliath
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Goliath
 *Source: Player's Handbook (2024) p. 192. Available in the Free Rules (2024)*  
 ![](Mechanics/CLI/races/img/goliath.webp#right)

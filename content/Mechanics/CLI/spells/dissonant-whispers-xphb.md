@@ -1,22 +1,27 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/feat/fey-touched
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/great-old-one-patron
-classes:
-- Bard
-- Sorcerer (Aberrant Sorcery)
-- Warlock (Great Old One Patron)
+publish: true
 aliases:
-- "Dissonant Whispers"
+  - Dissonant Whispers
+created: 2026-03-09T12:15:34.019-04:00
+modified: 2026-03-09T12:15:34.019-04:00
+published: 2026-03-09T12:15:34.019-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/feat/fey-touched
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock (Great Old One Patron)
 ---
+
 # Dissonant Whispers
 *1st-level, Enchantment*  
 

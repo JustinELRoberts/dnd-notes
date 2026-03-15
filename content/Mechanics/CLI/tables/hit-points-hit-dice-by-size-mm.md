@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/mm
+publish: true
 aliases:
-- "Hit Points; Hit Dice by Size"
+  - Hit Points; Hit Dice by Size
+created: 2026-03-09T12:15:34.383-04:00
+modified: 2026-03-09T12:15:34.383-04:00
+published: 2026-03-09T12:15:34.383-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Hit Points; Hit Dice by Size
 *Source: Monster Manual p. 7* 
 

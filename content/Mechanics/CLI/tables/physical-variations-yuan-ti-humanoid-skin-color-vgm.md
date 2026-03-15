@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
+publish: true
 aliases:
-- "Physical Variations; Yuan-ti Humanoid Skin Color"
+  - Physical Variations; Yuan-ti Humanoid Skin Color
+created: 2026-03-09T12:15:34.374-04:00
+modified: 2026-03-09T12:15:34.374-04:00
+published: 2026-03-09T12:15:34.374-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Physical Variations; Yuan-ti Humanoid Skin Color
 *Source: Volo's Guide to Monsters p. 97* 
 

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/rarity/common
+publish: true
 aliases:
-- "Prosthetic Limb"
+  - Prosthetic Limb
+created: 2026-03-09T12:15:33.961-04:00
+modified: 2026-03-09T12:15:33.961-04:00
+published: 2026-03-09T12:15:33.961-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/rarity/common
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Prosthetic Limb
 *Wondrous item, common*  
 ![](Mechanics/CLI/items/img/prosthetic-limb.webp#right)

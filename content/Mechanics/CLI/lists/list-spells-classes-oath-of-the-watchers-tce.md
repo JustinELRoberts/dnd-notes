@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/oath-of-the-watchers
+publish: true
 aliases:
-- "Spells for Oath of the Watchers"
+  - Spells for Oath of the Watchers
+created: 2026-03-09T12:15:34.433-04:00
+modified: 2026-03-09T12:15:34.433-04:00
+published: 2026-03-09T12:15:34.433-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/oath-of-the-watchers
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Oath of the Watchers
 
 ## 1st Level

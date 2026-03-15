@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/great-old-one-patron
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Bard
-- Fighter (Eldritch Knight)
-- Rogue (Arcane Trickster)
-- Sorcerer (Aberrant Sorcery)
-- Warlock
-- Warlock (Great Old One Patron)
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Summon Aberration"
+  - Summon Aberration
+created: 2026-03-09T12:15:33.779-04:00
+modified: 2026-03-09T12:15:33.779-04:00
+published: 2026-03-09T12:15:33.779-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Rogue (Arcane Trickster)
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock
+  - Warlock (Great Old One Patron)
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Summon Aberration
 *4th-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/summon-aberration.webp#right)

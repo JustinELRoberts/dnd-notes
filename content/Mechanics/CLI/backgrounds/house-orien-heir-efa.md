@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-background
-tags:
-- ttrpg-cli/background
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "House Orien Heir"
+  - House Orien Heir
+created: 2026-03-09T12:15:33.909-04:00
+modified: 2026-03-09T12:15:33.909-04:00
+published: 2026-03-09T12:15:33.909-04:00
+tags:
+  - ttrpg-cli/background
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-background
+obsidianUIMode: preview
 ---
+
 # House Orien Heir
 *Source: Eberron: Forge of the Artificer p. 30*  
 ![](Mechanics/CLI/backgrounds/img/house-orien-heir.webp#right)

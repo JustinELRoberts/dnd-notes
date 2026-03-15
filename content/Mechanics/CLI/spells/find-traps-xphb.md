@@ -1,28 +1,33 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-detection
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Druid
-- Ranger
-- Sorcerer (Divine Soul, Good)
+publish: true
 aliases:
-- "Find Traps"
+  - Find Traps
+created: 2026-03-09T12:15:33.847-04:00
+modified: 2026-03-09T12:15:33.847-04:00
+published: 2026-03-09T12:15:33.847-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-detection
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Druid
+  - Ranger
+  - Sorcerer (Divine Soul, Good)
 ---
+
 # Find Traps
 *2nd-level, Divination*  
 

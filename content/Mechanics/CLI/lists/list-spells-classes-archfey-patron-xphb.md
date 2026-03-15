@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/subclass/archfey-patron
+publish: true
 aliases:
-- "Spells for Archfey Patron"
+  - Spells for Archfey Patron
+created: 2026-03-09T12:15:34.429-04:00
+modified: 2026-03-09T12:15:34.429-04:00
+published: 2026-03-09T12:15:34.429-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/archfey-patron
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Archfey Patron
 
 ## 1st Level

@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Cubic Gate"
+  - Cubic Gate
+created: 2026-03-09T12:15:33.939-04:00
+modified: 2026-03-09T12:15:33.939-04:00
+published: 2026-03-09T12:15:33.939-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Cubic Gate
 *Wondrous item, major, legendary*  
 ![](Mechanics/CLI/items/img/cubic-gate.webp#right)

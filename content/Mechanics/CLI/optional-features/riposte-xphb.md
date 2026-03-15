@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/optional-feature/mv-b
+publish: true
 aliases:
-- "Riposte"
+  - Riposte
+created: 2026-03-09T12:15:33.999-04:00
+modified: 2026-03-09T12:15:33.999-04:00
+published: 2026-03-09T12:15:33.999-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/optional-feature/mv-b
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Riposte 
 
 

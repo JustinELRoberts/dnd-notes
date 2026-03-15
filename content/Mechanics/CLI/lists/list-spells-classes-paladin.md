@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/class/paladin
+publish: true
 aliases:
-- "Paladin Spells"
+  - Paladin Spells
+created: 2026-03-09T12:15:34.421-04:00
+modified: 2026-03-09T12:15:34.421-04:00
+published: 2026-03-09T12:15:34.421-04:00
+tags:
+  - ttrpg-cli/spell/list/class/paladin
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Paladin Spells
 
 ## 1st Level

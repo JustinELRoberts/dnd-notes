@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/aberration
+publish: true
 aliases:
-- "Star Spawn Mangler"
+  - Star Spawn Mangler
+created: 2026-03-09T12:15:34.009-04:00
+modified: 2026-03-09T12:15:34.009-04:00
+published: 2026-03-09T12:15:34.009-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/aberration
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Star Spawn Mangler
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 229*  
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-mangler.webp#right)

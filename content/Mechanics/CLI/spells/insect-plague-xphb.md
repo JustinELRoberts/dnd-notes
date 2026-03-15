@@ -1,36 +1,41 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/burden-of-calamity
-- ttrpg-cli/spell/subclass/circle-of-the-land/tropical-land
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/fiend-patron
-- ttrpg-cli/spell/subclass/pharaoh
-- ttrpg-cli/spell/subclass/swarmkeeper
-classes:
-- Bard
-- Cleric
-- Druid
-- Druid (Circle of the Land, Tropical Land)
-- Martyr (Burden of Calamity)
-- Necromancer (Pharaoh)
-- Ranger (Swarmkeeper)
-- Sorcerer
-- Sorcerer (Divine Soul, Good)
-- Warlock (Fiend Patron)
+publish: true
 aliases:
-- "Insect Plague"
+  - Insect Plague
+created: 2026-03-09T12:15:34.060-04:00
+modified: 2026-03-09T12:15:34.060-04:00
+published: 2026-03-09T12:15:34.060-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/burden-of-calamity
+  - ttrpg-cli/spell/subclass/circle-of-the-land/tropical-land
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/fiend-patron
+  - ttrpg-cli/spell/subclass/pharaoh
+  - ttrpg-cli/spell/subclass/swarmkeeper
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Druid (Circle of the Land, Tropical Land)
+  - Martyr (Burden of Calamity)
+  - Necromancer (Pharaoh)
+  - Ranger (Swarmkeeper)
+  - Sorcerer
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Fiend Patron)
 ---
+
 # Insect Plague
 *5th-level, Conjuration*  
 

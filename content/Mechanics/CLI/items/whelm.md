@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
+publish: true
 aliases:
-- "Whelm"
+  - Whelm
+created: 2026-03-09T12:15:33.822-04:00
+modified: 2026-03-09T12:15:33.822-04:00
+published: 2026-03-09T12:15:33.822-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Whelm
 *Weapon ([warhammer](Mechanics/CLI/items/warhammer-xphb.md)), legendary (requires attunement by a dwarf)*  
 ![](Mechanics/CLI/items/img/whelm.webp#right)

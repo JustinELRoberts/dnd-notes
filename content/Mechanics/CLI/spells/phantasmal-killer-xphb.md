@@ -1,37 +1,42 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/arcane-trickster
-- ttrpg-cli/spell/subclass/blood-ascendent
-- ttrpg-cli/spell/subclass/burden-of-tyranny
-- ttrpg-cli/spell/subclass/eldritch-knight
-- ttrpg-cli/spell/subclass/house-of-bishops
-- ttrpg-cli/spell/subclass/illusionist
-- ttrpg-cli/spell/subclass/reaper
-- ttrpg-cli/spell/subclass/the-genie/dao
-- ttrpg-cli/spell/subclass/the-hexblade
-classes:
-- Bard
-- Fighter (Eldritch Knight)
-- Martyr (Burden of Tyranny)
-- Necromancer (Blood Ascendent)
-- Necromancer (Reaper)
-- Rogue (Arcane Trickster)
-- Warlock (The Genie, Dao)
-- Warlock (The Hexblade)
-- Warmage (House of Bishops)
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Phantasmal Killer"
+  - Phantasmal Killer
+created: 2026-03-09T12:15:33.830-04:00
+modified: 2026-03-09T12:15:33.830-04:00
+published: 2026-03-09T12:15:33.830-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/arcane-trickster
+  - ttrpg-cli/spell/subclass/blood-ascendent
+  - ttrpg-cli/spell/subclass/burden-of-tyranny
+  - ttrpg-cli/spell/subclass/eldritch-knight
+  - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/reaper
+  - ttrpg-cli/spell/subclass/the-genie/dao
+  - ttrpg-cli/spell/subclass/the-hexblade
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Fighter (Eldritch Knight)
+  - Martyr (Burden of Tyranny)
+  - Necromancer (Blood Ascendent)
+  - Necromancer (Reaper)
+  - Rogue (Arcane Trickster)
+  - Warlock (The Genie, Dao)
+  - Warlock (The Hexblade)
+  - Warmage (House of Bishops)
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Phantasmal Killer
 *4th-level, Illusion*  
 

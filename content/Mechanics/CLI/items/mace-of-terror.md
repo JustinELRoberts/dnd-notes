@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "Mace of Terror"
+  - Mace of Terror
+created: 2026-03-09T12:15:33.956-04:00
+modified: 2026-03-09T12:15:33.956-04:00
+published: 2026-03-09T12:15:33.956-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Mace of Terror
 *Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, rare (requires attunement)*  
 ![](Mechanics/CLI/items/img/mace-of-terror.webp#right)

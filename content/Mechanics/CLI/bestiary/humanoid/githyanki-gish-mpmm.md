@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/humanoid/gith
-- ttrpg-cli/monster/type/humanoid/wizard
+publish: true
 aliases:
-- "Githyanki Gish"
+  - Githyanki Gish
+created: 2026-03-09T12:15:34.112-04:00
+modified: 2026-03-09T12:15:34.112-04:00
+published: 2026-03-09T12:15:34.112-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/humanoid/gith
+  - ttrpg-cli/monster/type/humanoid/wizard
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Githyanki Gish
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki-gish.webp#right)

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/class/spellcaster-sidekick
-- ttrpg-cli/compendium/src/5e/tce
+publish: true
 aliases:
-- "Spellcaster Sidekick"
+  - Spellcaster Sidekick
+created: 2026-03-09T12:15:33.930-04:00
+modified: 2026-03-09T12:15:33.930-04:00
+published: 2026-03-09T12:15:33.930-04:00
+tags:
+  - ttrpg-cli/class/spellcaster-sidekick
+  - ttrpg-cli/compendium/src/5e/tce
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Spellcaster Sidekick
 *Source: Tasha's Cauldron of Everything p. 144*  
 

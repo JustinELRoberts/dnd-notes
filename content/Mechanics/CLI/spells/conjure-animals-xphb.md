@@ -1,26 +1,31 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/feat/mark-of-handling
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/circle-of-the-moon
-- ttrpg-cli/spell/subclass/college-of-lore
-classes:
-- Bard
-- Bard (College of Lore)
-- Druid
-- Druid (Circle of the Moon)
-- Ranger
+publish: true
 aliases:
-- "Conjure Animals"
+  - Conjure Animals
+created: 2026-03-09T12:15:34.089-04:00
+modified: 2026-03-09T12:15:34.089-04:00
+published: 2026-03-09T12:15:34.089-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/feat/mark-of-handling
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/circle-of-the-moon
+  - ttrpg-cli/spell/subclass/college-of-lore
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Druid
+  - Druid (Circle of the Moon)
+  - Ranger
 ---
+
 # Conjure Animals
 *3rd-level, Conjuration*  
 

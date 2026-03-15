@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Creature Size and Space"
+  - Creature Size and Space
+created: 2026-03-09T12:15:34.412-04:00
+modified: 2026-03-09T12:15:34.412-04:00
+published: 2026-03-09T12:15:34.412-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Creature Size and Space
 *Source: Player's Handbook (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
 

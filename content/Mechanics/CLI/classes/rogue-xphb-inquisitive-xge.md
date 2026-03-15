@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/rogue/inquisitive
+publish: true
 aliases:
-- "Inquisitive"
+  - Inquisitive
+created: 2026-03-09T12:15:33.845-04:00
+modified: 2026-03-09T12:15:33.845-04:00
+published: 2026-03-09T12:15:33.845-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/rogue/inquisitive
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Inquisitive
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Xanathar's Guide to Everything p. 45*  

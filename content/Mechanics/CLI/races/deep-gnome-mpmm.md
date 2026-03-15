@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/deep-gnome
+publish: true
 aliases:
-- "Deep Gnome"
+  - Deep Gnome
+created: 2026-03-09T12:15:34.000-04:00
+modified: 2026-03-09T12:15:34.000-04:00
+published: 2026-03-09T12:15:34.000-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/deep-gnome
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Deep Gnome
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 11*  
 ![](Mechanics/CLI/races/img/deep-gnome.webp#right)

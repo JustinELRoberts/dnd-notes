@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/rogue/mastermind
+publish: true
 aliases:
-- "Mastermind"
+  - Mastermind
+created: 2026-03-09T12:15:34.053-04:00
+modified: 2026-03-09T12:15:34.053-04:00
+published: 2026-03-09T12:15:34.053-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/rogue/mastermind
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Mastermind
 *[Rogue](./rogue-xphb.md): Rogue Subclass*  
 *Source: Xanathar's Guide to Everything p. 46*  

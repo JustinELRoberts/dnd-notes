@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/hazard/wld
+publish: true
 aliases:
-- "Falling onto a Creature"
+  - Falling onto a Creature
+created: 2026-03-09T12:15:34.009-04:00
+modified: 2026-03-09T12:15:34.009-04:00
+published: 2026-03-09T12:15:34.009-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/hazard/wld
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Falling onto a Creature
 *Wilderness Hazard*  
 

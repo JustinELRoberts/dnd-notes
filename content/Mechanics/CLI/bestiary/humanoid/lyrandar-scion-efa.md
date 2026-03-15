@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/monster/cr/4
-- ttrpg-cli/monster/size/small-or-medium
-- ttrpg-cli/monster/type/humanoid/khoravar
+publish: true
 aliases:
-- "Lyrandar Scion"
+  - Lyrandar Scion
+created: 2026-03-09T12:15:34.101-04:00
+modified: 2026-03-09T12:15:34.101-04:00
+published: 2026-03-09T12:15:34.101-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/monster/cr/4
+  - ttrpg-cli/monster/size/small-or-medium
+  - ttrpg-cli/monster/type/humanoid/khoravar
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Lyrandar Scion
 *Source: Eberron: Forge of the Artificer p. 82*  
 ![](Mechanics/CLI/bestiary/humanoid/img/lyrandar-scion.webp#right)

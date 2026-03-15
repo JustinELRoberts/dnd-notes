@@ -1,27 +1,32 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/feat/druidic-warrior
-- ttrpg-cli/spell/feat/magic-initiate/druid-spells
-- ttrpg-cli/spell/feat/wood-elf-magic
-- ttrpg-cli/spell/level/cantrip
-- ttrpg-cli/spell/optfeature/pact-of-the-tome
-- ttrpg-cli/spell/optfeature/survivalist
-- ttrpg-cli/spell/race/khoravar
-- ttrpg-cli/spell/school/transmutation
-- ttrpg-cli/spell/subclass/burden-of-rebirth
-- ttrpg-cli/spell/subclass/college-of-lore
-classes:
-- Bard (College of Lore)
-- Druid
-- Martyr (Burden of Rebirth)
+publish: true
 aliases:
-- "Shillelagh"
+  - Shillelagh
+created: 2026-03-09T12:15:33.830-04:00
+modified: 2026-03-09T12:15:33.830-04:00
+published: 2026-03-09T12:15:33.830-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/feat/druidic-warrior
+  - ttrpg-cli/spell/feat/magic-initiate/druid-spells
+  - ttrpg-cli/spell/feat/wood-elf-magic
+  - ttrpg-cli/spell/level/cantrip
+  - ttrpg-cli/spell/optfeature/pact-of-the-tome
+  - ttrpg-cli/spell/optfeature/survivalist
+  - ttrpg-cli/spell/race/khoravar
+  - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/college-of-lore
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard (College of Lore)
+  - Druid
+  - Martyr (Burden of Rebirth)
 ---
+
 # Shillelagh
 *cantrip, Transmutation*  
 

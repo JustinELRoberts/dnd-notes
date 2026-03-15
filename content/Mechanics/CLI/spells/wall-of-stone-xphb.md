@@ -1,32 +1,37 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/artificer
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
-- ttrpg-cli/spell/subclass/evoker
-- ttrpg-cli/spell/subclass/the-genie/dao
-classes:
-- Artificer
-- Bard
-- Druid
-- Druid (Circle of the Land, Arid Land)
-- Sorcerer
-- Warlock (The Genie, Dao)
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Wall of Stone"
+  - Wall of Stone
+created: 2026-03-09T12:15:34.027-04:00
+modified: 2026-03-09T12:15:34.027-04:00
+published: 2026-03-09T12:15:34.027-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/circle-of-the-land/arid-land
+  - ttrpg-cli/spell/subclass/evoker
+  - ttrpg-cli/spell/subclass/the-genie/dao
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Artificer
+  - Bard
+  - Druid
+  - Druid (Circle of the Land, Arid Land)
+  - Sorcerer
+  - Warlock (The Genie, Dao)
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Wall of Stone
 *5th-level, Evocation*  
 

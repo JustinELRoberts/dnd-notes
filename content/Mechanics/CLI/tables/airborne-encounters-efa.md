@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/efa
+publish: true
 aliases:
-- "Airborne Encounters"
+  - Airborne Encounters
+created: 2026-03-09T12:15:34.396-04:00
+modified: 2026-03-09T12:15:34.396-04:00
+published: 2026-03-09T12:15:34.396-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Airborne Encounters
 *Source: Eberron: Forge of the Artificer p. 111* 
 

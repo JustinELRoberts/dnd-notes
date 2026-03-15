@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/xge
+publish: true
 aliases:
-- "Distribution by Rarity; Magic Items Awarded by Tier"
+  - Distribution by Rarity; Magic Items Awarded by Tier
+created: 2026-03-09T12:15:34.367-04:00
+modified: 2026-03-09T12:15:34.367-04:00
+published: 2026-03-09T12:15:34.367-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Distribution by Rarity; Magic Items Awarded by Tier
 *Source: Xanathar's Guide to Everything p. 135* 
 

@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Necromancer
-- Warlock
+publish: true
 aliases:
-- "Gahoul's Spectral Scythe"
+  - Gahoul's Spectral Scythe
+created: 2026-03-09T12:15:34.108-04:00
+modified: 2026-03-09T12:15:34.108-04:00
+published: 2026-03-09T12:15:34.108-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Necromancer
+  - Warlock
 ---
+
 # Gahoul's Spectral Scythe
 *6th-level, Necromancy*  
 

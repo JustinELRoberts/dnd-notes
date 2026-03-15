@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/legendary
-- ttrpg-cli/item/tier/major
-- ttrpg-cli/item/weapon/martial
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/wondrous/generic-variant
+publish: true
 aliases:
-- "Luck Blade"
-- "Luck Blade Double-Bladed Scimitar"
-- "Luck Blade Greatsword"
-- "Luck Blade Longsword"
-- "Luck Blade Rapier"
-- "Luck Blade Scimitar"
-- "Luck Blade Shortsword"
+  - Luck Blade
+  - Luck Blade Double-Bladed Scimitar
+  - Luck Blade Greatsword
+  - Luck Blade Longsword
+  - Luck Blade Rapier
+  - Luck Blade Scimitar
+  - Luck Blade Shortsword
+created: 2026-03-09T12:15:34.044-04:00
+modified: 2026-03-09T12:15:34.044-04:00
+published: 2026-03-09T12:15:34.044-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/legendary
+  - ttrpg-cli/item/tier/major
+  - ttrpg-cli/item/weapon/martial
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/wondrous/generic-variant
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Luck Blade
 *Major, legendary (requires attunement)*  
 ![Luck Blade (Shortsword)](Mechanics/CLI/items/img/luck-blade.webp#right)

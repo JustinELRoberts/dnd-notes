@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Wildfire Spirit"
+  - Wildfire Spirit
+created: 2026-03-09T12:15:34.010-04:00
+modified: 2026-03-09T12:15:34.010-04:00
+published: 2026-03-09T12:15:34.010-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Wildfire Spirit
 *Source: Tasha's Cauldron of Everything p. 40*  
 

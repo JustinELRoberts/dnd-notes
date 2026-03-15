@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/environment/swamp
-- ttrpg-cli/monster/environment/underdark
-- ttrpg-cli/monster/environment/urban
-- ttrpg-cli/monster/size/small
-- ttrpg-cli/monster/type/fey
+publish: true
 aliases:
-- "Darkling"
+  - Darkling
+created: 2026-03-09T12:15:33.973-04:00
+modified: 2026-03-09T12:15:33.973-04:00
+published: 2026-03-09T12:15:33.973-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/environment/swamp
+  - ttrpg-cli/monster/environment/underdark
+  - ttrpg-cli/monster/environment/urban
+  - ttrpg-cli/monster/size/small
+  - ttrpg-cli/monster/type/fey
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Darkling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 ![](Mechanics/CLI/bestiary/fey/img/darkling.webp#right)

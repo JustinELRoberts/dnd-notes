@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/5
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend
+publish: true
 aliases:
-- "Night Hag"
+  - Night Hag
+created: 2026-03-09T12:15:34.012-04:00
+modified: 2026-03-09T12:15:34.012-04:00
+published: 2026-03-09T12:15:34.012-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/5
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Night Hag
 *Source: Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 ![](Mechanics/CLI/bestiary/fiend/img/night-hag.webp#right)

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/mm
+publish: true
 aliases:
-- "Experience Points by Challenge Rating"
+  - Experience Points by Challenge Rating
+created: 2026-03-09T12:15:34.382-04:00
+modified: 2026-03-09T12:15:34.382-04:00
+published: 2026-03-09T12:15:34.382-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Experience Points by Challenge Rating
 *Source: Monster Manual p. 9* 
 

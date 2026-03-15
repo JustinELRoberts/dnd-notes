@@ -1,25 +1,30 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/investigator
-- ttrpg-cli/spell/class/ranger
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/4th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/house-of-bishops
-classes:
-- Cleric
-- Investigator
-- Ranger
-- Warmage (House of Bishops)
-- Wizard
+publish: true
 aliases:
-- "Scrutinize Foe"
+  - Scrutinize Foe
+created: 2026-03-09T12:15:33.984-04:00
+modified: 2026-03-09T12:15:33.984-04:00
+published: 2026-03-09T12:15:33.984-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/investigator
+  - ttrpg-cli/spell/class/ranger
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/house-of-bishops
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Cleric
+  - Investigator
+  - Ranger
+  - Warmage (House of Bishops)
+  - Wizard
 ---
+
 # Scrutinize Foe
 *4th-level, Divination*  
 

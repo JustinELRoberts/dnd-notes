@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Galeb Duhr"
+  - Galeb Duhr
+created: 2026-03-09T12:15:33.830-04:00
+modified: 2026-03-09T12:15:33.830-04:00
+published: 2026-03-09T12:15:33.830-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Galeb Duhr
 *Source: Monster Manual p. 139*  
 ![](Mechanics/CLI/bestiary/elemental/img/galeb-duhr.webp#right)

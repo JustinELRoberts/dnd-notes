@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/necromancer
-- ttrpg-cli/spell/class/witch
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/necromancy
-classes:
-- Necromancer
-- Witch
+publish: true
 aliases:
-- "Pharaoh's Curse"
+  - Pharaoh's Curse
+created: 2026-03-09T12:15:33.810-04:00
+modified: 2026-03-09T12:15:33.810-04:00
+published: 2026-03-09T12:15:33.810-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/necromancer
+  - ttrpg-cli/spell/class/witch
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/necromancy
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Necromancer
+  - Witch
 ---
+
 # Pharaoh's Curse
 *5th-level, Necromancy*  
 

@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/undead
+publish: true
 aliases:
-- "Demilich (Trap Soul)"
+  - Demilich (Trap Soul)
+created: 2026-03-09T12:15:34.029-04:00
+modified: 2026-03-09T12:15:34.029-04:00
+published: 2026-03-09T12:15:34.029-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/21
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/undead
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Demilich (Trap Soul)
 *Source: Monster Manual p. 48*  
 

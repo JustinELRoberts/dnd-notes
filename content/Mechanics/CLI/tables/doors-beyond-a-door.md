@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
+publish: true
 aliases:
-- "Doors; Beyond a Door"
+  - Doors; Beyond a Door
+created: 2026-03-09T12:15:34.417-04:00
+modified: 2026-03-09T12:15:34.417-04:00
+published: 2026-03-09T12:15:34.417-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Doors; Beyond a Door
 *Source: Dungeon Master's Guide p. 291* 
 

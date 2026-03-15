@@ -1,23 +1,28 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/divination
-- ttrpg-cli/spell/subclass/diviner
-classes:
-- Bard
-- Cleric
-- Wizard
-- Wizard (Diviner)
+publish: true
 aliases:
-- "Impressions of the Past"
+  - Impressions of the Past
+created: 2026-03-09T12:15:34.126-04:00
+modified: 2026-03-09T12:15:34.126-04:00
+published: 2026-03-09T12:15:34.126-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/diviner
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Wizard
+  - Wizard (Diviner)
 ---
+
 # Impressions of the Past
 *7th-level, Divination*  
 

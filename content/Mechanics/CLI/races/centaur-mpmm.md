@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/race/centaur
+publish: true
 aliases:
-- "Centaur"
+  - Centaur
+created: 2026-03-09T12:15:34.120-04:00
+modified: 2026-03-09T12:15:34.120-04:00
+published: 2026-03-09T12:15:34.120-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/race/centaur
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Centaur
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 9*  
 ![](Mechanics/CLI/races/img/centaur.webp#right)

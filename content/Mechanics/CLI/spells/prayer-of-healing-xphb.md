@@ -1,30 +1,35 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/feat/mark-of-healing
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/abjuration
-- ttrpg-cli/spell/subclass/burden-of-mercy
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/white-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Martyr (Burden of Mercy)
-- Paladin
-- Sorcerer (Divine Soul, Good)
-- Witch (White Magic)
+publish: true
 aliases:
-- "Prayer of Healing"
+  - Prayer of Healing
+created: 2026-03-09T12:15:34.025-04:00
+modified: 2026-03-09T12:15:34.025-04:00
+published: 2026-03-09T12:15:34.025-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/feat/mark-of-healing
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/abjuration
+  - ttrpg-cli/spell/subclass/burden-of-mercy
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/white-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Martyr (Burden of Mercy)
+  - Paladin
+  - Sorcerer (Divine Soul, Good)
+  - Witch (White Magic)
 ---
+
 # Prayer of Healing
 *2nd-level, Abjuration*  
 

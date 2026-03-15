@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mm
-- ttrpg-cli/monster/cr/6
-- ttrpg-cli/monster/environment/desert
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/monstrosity
+publish: true
 aliases:
-- "Medusa"
+  - Medusa
+created: 2026-03-09T12:15:33.866-04:00
+modified: 2026-03-09T12:15:33.866-04:00
+published: 2026-03-09T12:15:33.866-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/6
+  - ttrpg-cli/monster/environment/desert
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/monstrosity
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Medusa
 *Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/medusa.webp#right)

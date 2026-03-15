@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/21
-- ttrpg-cli/monster/size/gargantuan
-- ttrpg-cli/monster/type/monstrosity/titan
+publish: true
 aliases:
-- "Astral Dreadnought"
+  - Astral Dreadnought
+created: 2026-03-09T12:15:34.056-04:00
+modified: 2026-03-09T12:15:34.056-04:00
+published: 2026-03-09T12:15:34.056-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/21
+  - ttrpg-cli/monster/size/gargantuan
+  - ttrpg-cli/monster/type/monstrosity/titan
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Astral Dreadnought
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 51*  
 ![](Mechanics/CLI/bestiary/monstrosity/img/astral-dreadnought.webp#right)

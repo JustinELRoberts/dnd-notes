@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/18
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/devil
+publish: true
 aliases:
-- "Amnizu"
+  - Amnizu
+created: 2026-03-09T12:15:33.911-04:00
+modified: 2026-03-09T12:15:33.911-04:00
+published: 2026-03-09T12:15:33.911-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/18
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/devil
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Amnizu
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46*  
 ![](Mechanics/CLI/bestiary/fiend/img/amnizu.webp#right)

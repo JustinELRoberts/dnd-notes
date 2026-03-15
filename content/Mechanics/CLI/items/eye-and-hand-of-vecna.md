@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/artifact
+publish: true
 aliases:
-- "Eye and Hand of Vecna"
+  - Eye and Hand of Vecna
+created: 2026-03-09T12:15:33.789-04:00
+modified: 2026-03-09T12:15:33.789-04:00
+published: 2026-03-09T12:15:33.789-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/artifact
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Eye and Hand of Vecna
 *Wondrous item, artifact (requires attunement)*  
 ![](Mechanics/CLI/items/img/eye-and-hand-of-vecna.webp#right)

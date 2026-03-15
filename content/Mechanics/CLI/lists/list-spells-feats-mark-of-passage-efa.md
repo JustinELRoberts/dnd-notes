@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/spell/list/feat/mark-of-passage
+publish: true
 aliases:
-- "Spells for Mark of Passage"
+  - Spells for Mark of Passage
+created: 2026-03-09T12:15:34.432-04:00
+modified: 2026-03-09T12:15:34.432-04:00
+published: 2026-03-09T12:15:34.432-04:00
+tags:
+  - ttrpg-cli/spell/list/feat/mark-of-passage
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Spells for Mark of Passage
 
 ## 1st Level

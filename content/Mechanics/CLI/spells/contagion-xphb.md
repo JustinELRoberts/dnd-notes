@@ -1,31 +1,36 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/class/druid
-- ttrpg-cli/spell/level/5th-level
-- ttrpg-cli/spell/school/necromancy
-- ttrpg-cli/spell/subclass/black-magic
-- ttrpg-cli/spell/subclass/circle-of-spores
-- ttrpg-cli/spell/subclass/crone
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/oathbreaker
-classes:
-- Bard
-- Cleric
-- Druid
-- Druid (Circle of Spores)
-- Necromancer (Crone)
-- Paladin (Oathbreaker)
-- Sorcerer (Divine Soul, Good)
-- Witch (Black Magic)
+publish: true
 aliases:
-- "Contagion"
+  - Contagion
+created: 2026-03-09T12:15:33.797-04:00
+modified: 2026-03-09T12:15:33.797-04:00
+published: 2026-03-09T12:15:33.797-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/class/druid
+  - ttrpg-cli/spell/level/5th-level
+  - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/black-magic
+  - ttrpg-cli/spell/subclass/circle-of-spores
+  - ttrpg-cli/spell/subclass/crone
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/oathbreaker
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Cleric
+  - Druid
+  - Druid (Circle of Spores)
+  - Necromancer (Crone)
+  - Paladin (Oathbreaker)
+  - Sorcerer (Divine Soul, Good)
+  - Witch (Black Magic)
 ---
+
 # Contagion
 *5th-level, Necromancy*  
 

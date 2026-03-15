@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/very-rare
-- ttrpg-cli/item/tier/major
+publish: true
 aliases:
-- "Carpet of Flying, 5 ft. × 7 ft."
+  - Carpet of Flying, 5 ft. × 7 ft.
+created: 2026-03-09T12:15:34.104-04:00
+modified: 2026-03-09T12:15:34.104-04:00
+published: 2026-03-09T12:15:34.104-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/very-rare
+  - ttrpg-cli/item/tier/major
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Carpet of Flying, 5 ft. × 7 ft.
 *Wondrous item, major, very rare*  
 

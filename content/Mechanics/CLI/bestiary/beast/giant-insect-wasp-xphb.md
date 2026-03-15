@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/monster/cr/
-- ttrpg-cli/monster/size/large
-- ttrpg-cli/monster/type/beast
+publish: true
 aliases:
-- "Giant Insect (Wasp)"
+  - Giant Insect (Wasp)
+created: 2026-03-09T12:15:34.123-04:00
+modified: 2026-03-09T12:15:34.123-04:00
+published: 2026-03-09T12:15:34.123-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/monster/cr/
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Giant Insect (Wasp)
 *Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
 

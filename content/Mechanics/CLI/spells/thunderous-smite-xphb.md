@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/paladin
-- ttrpg-cli/spell/level/1st-level
-- ttrpg-cli/spell/school/evocation
-classes:
-- Paladin
+publish: true
 aliases:
-- "Thunderous Smite"
+  - Thunderous Smite
+created: 2026-03-09T12:15:34.103-04:00
+modified: 2026-03-09T12:15:34.103-04:00
+published: 2026-03-09T12:15:34.103-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/paladin
+  - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/school/evocation
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Paladin
 ---
+
 # Thunderous Smite
 *1st-level, Evocation*  
 

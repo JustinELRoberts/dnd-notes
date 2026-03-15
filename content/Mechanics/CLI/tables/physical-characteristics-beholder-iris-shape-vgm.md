@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/vgm
+publish: true
 aliases:
-- "Physical Characteristics; Beholder Iris Shape"
+  - Physical Characteristics; Beholder Iris Shape
+created: 2026-03-09T12:15:34.402-04:00
+modified: 2026-03-09T12:15:34.402-04:00
+published: 2026-03-09T12:15:34.402-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Physical Characteristics; Beholder Iris Shape
 *Source: Volo's Guide to Monsters p. 8* 
 

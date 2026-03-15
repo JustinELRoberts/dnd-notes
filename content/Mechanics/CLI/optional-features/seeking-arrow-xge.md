@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/optional-feature/as
+publish: true
 aliases:
-- "Seeking Arrow"
+  - Seeking Arrow
+created: 2026-03-09T12:15:33.872-04:00
+modified: 2026-03-09T12:15:33.872-04:00
+published: 2026-03-09T12:15:33.872-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/optional-feature/as
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Seeking Arrow 
 
 

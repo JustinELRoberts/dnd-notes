@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/domain/light
-- ttrpg-cli/subclass/cleric/light
+publish: true
 aliases:
-- "Light Domain"
+  - Light Domain
+created: 2026-03-09T12:15:33.911-04:00
+modified: 2026-03-09T12:15:33.911-04:00
+published: 2026-03-09T12:15:33.911-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/domain/light
+  - ttrpg-cli/subclass/cleric/light
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Light Domain
 *[Cleric](./cleric-xphb.md): Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 74*  

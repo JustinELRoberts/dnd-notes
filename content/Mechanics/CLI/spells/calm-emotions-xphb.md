@@ -1,39 +1,44 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/cleric
-- ttrpg-cli/spell/feat/mark-of-handling
-- ttrpg-cli/spell/feat/mark-of-hospitality
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/archfey-patron
-- ttrpg-cli/spell/subclass/burden-of-atonement
-- ttrpg-cli/spell/subclass/burden-of-levity
-- ttrpg-cli/spell/subclass/college-of-lore
-- ttrpg-cli/spell/subclass/divine-soul/good
-- ttrpg-cli/spell/subclass/fragrant-magic
-- ttrpg-cli/spell/subclass/oath-of-redemption
-- ttrpg-cli/spell/subclass/tea-magic
-classes:
-- Bard
-- Bard (College of Lore)
-- Cleric
-- Martyr (Burden of Atonement)
-- Martyr (Burden of Levity)
-- Paladin (Oath of Redemption)
-- Sorcerer (Aberrant Sorcery)
-- Sorcerer (Divine Soul, Good)
-- Warlock (Archfey Patron)
-- Witch (Fragrant Magic)
-- Witch (Tea Magic)
+publish: true
 aliases:
-- "Calm Emotions"
+  - Calm Emotions
+created: 2026-03-09T12:15:33.844-04:00
+modified: 2026-03-09T12:15:33.844-04:00
+published: 2026-03-09T12:15:33.844-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/cleric
+  - ttrpg-cli/spell/feat/mark-of-handling
+  - ttrpg-cli/spell/feat/mark-of-hospitality
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/archfey-patron
+  - ttrpg-cli/spell/subclass/burden-of-atonement
+  - ttrpg-cli/spell/subclass/burden-of-levity
+  - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/divine-soul/good
+  - ttrpg-cli/spell/subclass/fragrant-magic
+  - ttrpg-cli/spell/subclass/oath-of-redemption
+  - ttrpg-cli/spell/subclass/tea-magic
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Bard (College of Lore)
+  - Cleric
+  - Martyr (Burden of Atonement)
+  - Martyr (Burden of Levity)
+  - Paladin (Oath of Redemption)
+  - Sorcerer (Aberrant Sorcery)
+  - Sorcerer (Divine Soul, Good)
+  - Warlock (Archfey Patron)
+  - Witch (Fragrant Magic)
+  - Witch (Tea Magic)
 ---
+
 # Calm Emotions
 *2nd-level, Enchantment*  
 

@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-note
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
+publish: true
 aliases:
-- "Grand Hex"
+  - Grand Hex
+created: 2026-03-09T12:15:34.399-04:00
+modified: 2026-03-09T12:15:34.399-04:00
+published: 2026-03-09T12:15:34.399-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
 ---
+
 # Grand Hex
 *Source: Valda's Spire of Secrets (2024)* 
 

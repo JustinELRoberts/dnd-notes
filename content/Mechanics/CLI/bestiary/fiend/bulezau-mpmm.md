@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/3
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fiend/demon
+publish: true
 aliases:
-- "Bulezau"
+  - Bulezau
+created: 2026-03-09T12:15:34.038-04:00
+modified: 2026-03-09T12:15:34.039-04:00
+published: 2026-03-09T12:15:34.039-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/3
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fiend/demon
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Bulezau
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 67*  
 ![](Mechanics/CLI/bestiary/fiend/img/bulezau.webp#right)

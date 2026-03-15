@@ -1,17 +1,22 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-deity
-tags:
-- ttrpg-cli/compendium/src/5e/mtf
-- ttrpg-cli/deity/elven
-- ttrpg-cli/domain/knowledge
-- ttrpg-cli/domain/life
-- ttrpg-cli/domain/peace
-- ttrpg-cli/domain/war
+publish: true
 aliases:
-- "Angharradh"
+  - Angharradh
+created: 2026-03-09T12:15:33.820-04:00
+modified: 2026-03-09T12:15:33.820-04:00
+published: 2026-03-09T12:15:33.820-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mtf
+  - ttrpg-cli/deity/elven
+  - ttrpg-cli/domain/knowledge
+  - ttrpg-cli/domain/life
+  - ttrpg-cli/domain/peace
+  - ttrpg-cli/domain/war
+cssclasses:
+  - json5e-deity
+obsidianUIMode: preview
 ---
+
 # Angharradh
 
 

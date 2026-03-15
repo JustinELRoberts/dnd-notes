@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/illusion
-- ttrpg-cli/spell/subclass/illusionist
-classes:
-- Bard
-- Wizard
-- Wizard (Illusionist)
+publish: true
 aliases:
-- "Programmed Illusion"
+  - Programmed Illusion
+created: 2026-03-09T12:15:34.051-04:00
+modified: 2026-03-09T12:15:34.051-04:00
+published: 2026-03-09T12:15:34.051-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/illusion
+  - ttrpg-cli/spell/subclass/illusionist
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Wizard
+  - Wizard (Illusionist)
 ---
+
 # Programmed Illusion
 *6th-level, Illusion*  
 ![](Mechanics/CLI/spells/img/programmed-illusion.webp#right)

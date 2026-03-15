@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/monster/cr/1-2
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/fey
+publish: true
 aliases:
-- "Reflection"
+  - Reflection
+created: 2026-03-09T12:15:33.893-04:00
+modified: 2026-03-09T12:15:33.893-04:00
+published: 2026-03-09T12:15:33.893-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/monster/cr/1-2
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/fey
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Reflection
 *Source: Tasha's Cauldron of Everything p. 158*  
 ![](Mechanics/CLI/bestiary/fey/img/reflection.webp#center)

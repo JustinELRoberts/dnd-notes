@@ -1,19 +1,24 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/level/6th-level
-- ttrpg-cli/spell/school/enchantment
-classes:
-- Bard
-- Wizard
+publish: true
 aliases:
-- "Otto's Irresistible Dance"
+  - Otto's Irresistible Dance
+created: 2026-03-09T12:15:34.100-04:00
+modified: 2026-03-09T12:15:34.100-04:00
+published: 2026-03-09T12:15:34.100-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/level/6th-level
+  - ttrpg-cli/spell/school/enchantment
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Wizard
 ---
+
 # Otto's Irresistible Dance
 *6th-level, Enchantment*  
 

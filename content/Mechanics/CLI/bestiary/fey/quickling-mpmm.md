@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/1
-- ttrpg-cli/monster/environment/forest
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/fey
+publish: true
 aliases:
-- "Quickling"
+  - Quickling
+created: 2026-03-09T12:15:34.015-04:00
+modified: 2026-03-09T12:15:34.015-04:00
+published: 2026-03-09T12:15:34.015-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/1
+  - ttrpg-cli/monster/environment/forest
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/fey
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Quickling
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
 ![](Mechanics/CLI/bestiary/fey/img/quickling.webp#right)

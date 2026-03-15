@@ -1,18 +1,23 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/10
-- ttrpg-cli/monster/environment/coastal
-- ttrpg-cli/monster/environment/hill
-- ttrpg-cli/monster/environment/mountain
-- ttrpg-cli/monster/size/huge
-- ttrpg-cli/monster/type/giant
+publish: true
 aliases:
-- "Stone Giant Dreamwalker"
+  - Stone Giant Dreamwalker
+created: 2026-03-09T12:15:33.991-04:00
+modified: 2026-03-09T12:15:33.991-04:00
+published: 2026-03-09T12:15:33.991-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/10
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/hill
+  - ttrpg-cli/monster/environment/mountain
+  - ttrpg-cli/monster/size/huge
+  - ttrpg-cli/monster/type/giant
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Stone Giant Dreamwalker
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
 ![](Mechanics/CLI/bestiary/giant/img/stone-giant-dreamwalker.webp#right)

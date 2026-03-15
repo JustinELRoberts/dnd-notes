@@ -1,12 +1,17 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-hazard
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
+publish: true
 aliases:
-- "Malnutrition"
+  - Malnutrition
+created: 2026-03-09T12:15:33.808-04:00
+modified: 2026-03-09T12:15:33.808-04:00
+published: 2026-03-09T12:15:33.808-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-hazard
+obsidianUIMode: preview
 ---
+
 # Malnutrition
 *Generic Hazard*  
 

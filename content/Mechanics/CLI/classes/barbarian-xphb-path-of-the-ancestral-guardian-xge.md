@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/barbarian/ancestral-guardian
+publish: true
 aliases:
-- "Path of the Ancestral Guardian"
+  - Path of the Ancestral Guardian
+created: 2026-03-09T12:15:34.061-04:00
+modified: 2026-03-09T12:15:34.061-04:00
+published: 2026-03-09T12:15:34.061-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/barbarian/ancestral-guardian
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Path of the Ancestral Guardian
 *[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
 *Source: Xanathar's Guide to Everything p. 9*  

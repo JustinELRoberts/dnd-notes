@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/subclass/monk/astral-self
+publish: true
 aliases:
-- "Way of the Astral Self"
+  - Way of the Astral Self
+created: 2026-03-09T12:15:33.987-04:00
+modified: 2026-03-09T12:15:33.987-04:00
+published: 2026-03-09T12:15:33.987-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/subclass/monk/astral-self
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Way of the Astral Self
 *[Monk](./monk-xphb.md): Monk Subclass*  
 *Source: Tasha's Cauldron of Everything p. 50*  

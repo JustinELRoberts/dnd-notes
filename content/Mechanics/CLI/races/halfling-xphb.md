@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-race
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/race/halfling
+publish: true
 aliases:
-- "Halfling"
+  - Halfling
+created: 2026-03-09T12:15:34.117-04:00
+modified: 2026-03-09T12:15:34.117-04:00
+published: 2026-03-09T12:15:34.117-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/race/halfling
+cssclasses:
+  - json5e-race
+obsidianUIMode: preview
 ---
+
 # Halfling
 *Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)*  
 ![](Mechanics/CLI/races/img/halfling.webp#right)

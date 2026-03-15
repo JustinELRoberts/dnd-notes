@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/subclass/captain/tower-banner
+publish: true
 aliases:
-- "Tower Banner"
+  - Tower Banner
+created: 2026-03-09T12:15:34.059-04:00
+modified: 2026-03-09T12:15:34.059-04:00
+published: 2026-03-09T12:15:34.059-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/subclass/captain/tower-banner
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Tower Banner
 *[Captain](./captain-valdaspire24.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets (2024)*  

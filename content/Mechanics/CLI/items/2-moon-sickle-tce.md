@@ -1,16 +1,21 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/item/attunement/required
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/weapon/melee
-- ttrpg-cli/item/weapon/simple
+publish: true
 aliases:
-- "+2 Moon Sickle"
+  - +2 Moon Sickle
+created: 2026-03-09T12:15:33.909-04:00
+modified: 2026-03-09T12:15:33.910-04:00
+published: 2026-03-09T12:15:33.910-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/item/attunement/required
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/weapon/melee
+  - ttrpg-cli/item/weapon/simple
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # +2 Moon Sickle
 *Weapon ([sickle](Mechanics/CLI/items/sickle-xphb.md)), rare (requires attunement by a druid or ranger)*  
 

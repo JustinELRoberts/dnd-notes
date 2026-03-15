@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/mpmm
-- ttrpg-cli/monster/cr/7
-- ttrpg-cli/monster/size/medium
-- ttrpg-cli/monster/type/elemental
+publish: true
 aliases:
-- "Water Elemental Myrmidon"
+  - Water Elemental Myrmidon
+created: 2026-03-09T12:15:33.787-04:00
+modified: 2026-03-09T12:15:33.787-04:00
+published: 2026-03-09T12:15:33.787-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mpmm
+  - ttrpg-cli/monster/cr/7
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/elemental
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Water Elemental Myrmidon
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
 ![](Mechanics/CLI/bestiary/elemental/img/water-elemental-myrmidon.webp#right)

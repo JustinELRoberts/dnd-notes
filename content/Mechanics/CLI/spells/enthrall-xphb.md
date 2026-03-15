@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/2nd-level
-- ttrpg-cli/spell/school/enchantment
-- ttrpg-cli/spell/subclass/blood-ascendent
-classes:
-- Bard
-- Necromancer (Blood Ascendent)
-- Warlock
+publish: true
 aliases:
-- "Enthrall"
+  - Enthrall
+created: 2026-03-09T12:15:33.930-04:00
+modified: 2026-03-09T12:15:33.930-04:00
+published: 2026-03-09T12:15:33.930-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/level/2nd-level
+  - ttrpg-cli/spell/school/enchantment
+  - ttrpg-cli/spell/subclass/blood-ascendent
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Necromancer (Blood Ascendent)
+  - Warlock
 ---
+
 # Enthrall
 *2nd-level, Enchantment*  
 

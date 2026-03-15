@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/uncommon
-- ttrpg-cli/item/tier/minor
+publish: true
 aliases:
-- "Helm of Comprehending Languages"
+  - Helm of Comprehending Languages
+created: 2026-03-09T12:15:34.031-04:00
+modified: 2026-03-09T12:15:34.031-04:00
+published: 2026-03-09T12:15:34.031-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/uncommon
+  - ttrpg-cli/item/tier/minor
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Helm of Comprehending Languages
 *Wondrous item, minor, uncommon*  
 ![](Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)

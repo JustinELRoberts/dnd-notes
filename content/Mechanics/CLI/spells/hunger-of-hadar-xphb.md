@@ -1,21 +1,26 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/warlock
-- ttrpg-cli/spell/level/3rd-level
-- ttrpg-cli/spell/school/conjuration
-- ttrpg-cli/spell/subclass/aberrant-sorcery
-- ttrpg-cli/spell/subclass/great-old-one-patron
-classes:
-- Sorcerer (Aberrant Sorcery)
-- Warlock
-- Warlock (Great Old One Patron)
+publish: true
 aliases:
-- "Hunger of Hadar"
+  - Hunger of Hadar
+created: 2026-03-09T12:15:33.779-04:00
+modified: 2026-03-09T12:15:33.779-04:00
+published: 2026-03-09T12:15:33.779-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/warlock
+  - ttrpg-cli/spell/level/3rd-level
+  - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/aberrant-sorcery
+  - ttrpg-cli/spell/subclass/great-old-one-patron
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Sorcerer (Aberrant Sorcery)
+  - Warlock
+  - Warlock (Great Old One Patron)
 ---
+
 # Hunger of Hadar
 *3rd-level, Conjuration*  
 ![](Mechanics/CLI/spells/img/hunger-of-hadar.webp#right)

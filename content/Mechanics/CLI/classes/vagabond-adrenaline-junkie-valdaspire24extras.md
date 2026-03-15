@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24extras
-- ttrpg-cli/subclass/vagabond/adrenaline-junkie
+publish: true
 aliases:
-- "Adrenaline Junkie"
+  - Adrenaline Junkie
+created: 2026-03-09T12:15:33.927-04:00
+modified: 2026-03-09T12:15:33.927-04:00
+published: 2026-03-09T12:15:33.927-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24extras
+  - ttrpg-cli/subclass/vagabond/adrenaline-junkie
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Adrenaline Junkie
 *[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
 *Source: Valda's Spire of Secrets Extras (2024)*  

@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-feat
-tags:
-- ttrpg-cli/compendium/src/5e/tce
-- ttrpg-cli/optional-feature/rn
+publish: true
 aliases:
-- "Stone Rune"
+  - Stone Rune
+created: 2026-03-09T12:15:33.974-04:00
+modified: 2026-03-09T12:15:33.974-04:00
+published: 2026-03-09T12:15:33.974-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/tce
+  - ttrpg-cli/optional-feature/rn
+cssclasses:
+  - json5e-feat
+obsidianUIMode: preview
 ---
+
 # Stone Rune 
 
 

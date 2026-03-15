@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/dmg
-- ttrpg-cli/item/rarity/rare
-- ttrpg-cli/item/tier/minor
-- ttrpg-cli/item/wondrous/scroll
+publish: true
 aliases:
-- "Spell Scroll (4th Level)"
+  - Spell Scroll (4th Level)
+created: 2026-03-09T12:15:33.921-04:00
+modified: 2026-03-09T12:15:33.921-04:00
+published: 2026-03-09T12:15:33.921-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+  - ttrpg-cli/item/rarity/rare
+  - ttrpg-cli/item/tier/minor
+  - ttrpg-cli/item/wondrous/scroll
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Spell Scroll (4th Level)
 *Scroll, minor, rare*  
 

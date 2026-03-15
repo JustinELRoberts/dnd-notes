@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/subclass/warlock/fiend
+publish: true
 aliases:
-- "Fiend Patron"
+  - Fiend Patron
+created: 2026-03-09T12:15:33.878-04:00
+modified: 2026-03-09T12:15:33.878-04:00
+published: 2026-03-09T12:15:33.878-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/subclass/warlock/fiend
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Fiend Patron
 *[Warlock](./warlock-xphb.md): Warlock Subclass*  
 *Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  

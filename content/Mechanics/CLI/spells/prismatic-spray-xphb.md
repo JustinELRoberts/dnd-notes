@@ -1,24 +1,29 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-spell
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/spell/class/bard
-- ttrpg-cli/spell/class/sorcerer
-- ttrpg-cli/spell/class/wizard
-- ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
-- ttrpg-cli/spell/level/7th-level
-- ttrpg-cli/spell/school/evocation
-- ttrpg-cli/spell/subclass/evoker
-classes:
-- Bard
-- Sorcerer
-- Wizard
-- Wizard (Evoker)
+publish: true
 aliases:
-- "Prismatic Spray"
+  - Prismatic Spray
+created: 2026-03-09T12:15:33.915-04:00
+modified: 2026-03-09T12:15:33.915-04:00
+published: 2026-03-09T12:15:33.915-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/sorcerer
+  - ttrpg-cli/spell/class/wizard
+  - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
+  - ttrpg-cli/spell/level/7th-level
+  - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/evoker
+cssclasses:
+  - json5e-spell
+obsidianUIMode: preview
+classes:
+  - Bard
+  - Sorcerer
+  - Wizard
+  - Wizard (Evoker)
 ---
+
 # Prismatic Spray
 *7th-level, Evocation*  
 

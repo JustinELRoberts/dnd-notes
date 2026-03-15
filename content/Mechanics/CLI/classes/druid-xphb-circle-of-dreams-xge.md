@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/druid/dreams
+publish: true
 aliases:
-- "Circle of Dreams"
+  - Circle of Dreams
+created: 2026-03-09T12:15:33.976-04:00
+modified: 2026-03-09T12:15:33.976-04:00
+published: 2026-03-09T12:15:33.976-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/druid/dreams
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Circle of Dreams
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Xanathar's Guide to Everything p. 22*  

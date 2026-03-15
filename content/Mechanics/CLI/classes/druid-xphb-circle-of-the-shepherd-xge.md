@@ -1,13 +1,18 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-class
-tags:
-- ttrpg-cli/compendium/src/5e/xge
-- ttrpg-cli/subclass/druid/shepherd
+publish: true
 aliases:
-- "Circle of the Shepherd"
+  - Circle of the Shepherd
+created: 2026-03-09T12:15:33.804-04:00
+modified: 2026-03-09T12:15:33.804-04:00
+published: 2026-03-09T12:15:33.804-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/subclass/druid/shepherd
+cssclasses:
+  - json5e-class
+obsidianUIMode: preview
 ---
+
 # Circle of the Shepherd
 *[Druid](./druid-xphb.md): Druid Subclass*  
 *Source: Xanathar's Guide to Everything p. 23*  

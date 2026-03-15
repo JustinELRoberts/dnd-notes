@@ -1,15 +1,20 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-monster
-tags:
-- ttrpg-cli/compendium/src/5e/valdaspire24
-- ttrpg-cli/monster/cr/1-4
-- ttrpg-cli/monster/size/tiny
-- ttrpg-cli/monster/type/monstrosity/familiar
+publish: true
 aliases:
-- "Death Snail"
+  - Death Snail
+created: 2026-03-09T12:15:33.917-04:00
+modified: 2026-03-09T12:15:33.917-04:00
+published: 2026-03-09T12:15:33.917-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/monster/cr/1-4
+  - ttrpg-cli/monster/size/tiny
+  - ttrpg-cli/monster/type/monstrosity/familiar
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
 ---
+
 # Death Snail
 *Source: Valda's Spire of Secrets (2024) p. 0*  
 

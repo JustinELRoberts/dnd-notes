@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-item
-tags:
-- ttrpg-cli/compendium/src/5e/xphb
-- ttrpg-cli/item/rarity/none
-- ttrpg-cli/item/shield/
+publish: true
 aliases:
-- "Shield"
+  - Shield
+created: 2026-03-09T12:15:34.088-04:00
+modified: 2026-03-09T12:15:34.088-04:00
+published: 2026-03-09T12:15:34.088-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/item/rarity/none
+  - ttrpg-cli/item/shield/
+cssclasses:
+  - json5e-item
+obsidianUIMode: preview
 ---
+
 # Shield
 *Armor ([shield](Mechanics/CLI/items/shield-xphb.md))*  
 ![](Mechanics/CLI/items/img/shield.webp#right)

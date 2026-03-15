@@ -1,14 +1,19 @@
 ---
-obsidianUIMode: preview
-cssclasses:
-- json5e-object
-tags:
-- ttrpg-cli/compendium/src/5e/efa
-- ttrpg-cli/object/size/unknown
-- ttrpg-cli/object/type/unknown
+publish: true
 aliases:
-- "Eldritch Cannon"
+  - Eldritch Cannon
+created: 2026-03-09T12:15:33.857-04:00
+modified: 2026-03-09T12:15:33.857-04:00
+published: 2026-03-09T12:15:33.857-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/efa
+  - ttrpg-cli/object/size/unknown
+  - ttrpg-cli/object/type/unknown
+cssclasses:
+  - json5e-object
+obsidianUIMode: preview
 ---
+
 # Eldritch Cannon
 *Source: Eberron: Forge of the Artificer p. 16* 
 
