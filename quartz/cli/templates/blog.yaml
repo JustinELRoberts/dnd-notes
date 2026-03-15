@@ -196,10 +196,10 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: "TODO:username/repo-name"
-        repoId: "TODO:your-repo-id"
-        category: Announcements
-        categoryId: "TODO:your-category-id"
+        repo: "JustinELRoberts/dnd-notes"
+        repoId: "R_kgDORn6Eew"
+        category: Ideas
+        categoryId: "DIC_kwDORn6Ee84C4eF3"
         mapping: url
         strict: true
         reactionsEnabled: true
