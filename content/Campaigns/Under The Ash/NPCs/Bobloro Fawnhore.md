@@ -6,7 +6,7 @@ published: 2026-03-12T22:57:16.880-04:00
 cssclasses: ""
 Age: Not known
 Gender: Male
-Race: "[[Mechanics/CLI/races/goliath-xphb\|Goliath]]"
+Race: "[[Mechanics/CLI/races/goliath-xphb|Goliath]]"
 Relationship: Neutral
 Location:
   - "[[The Unnamed City]]"
