@@ -2,8 +2,8 @@ import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: "Untitled",
-    description: "No description provided",
+    title: "DnD Notes",
+    description: "Notes for my ongoing DnD campaigns",
   },
   components: {
     callout: {
