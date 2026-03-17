@@ -231,9 +231,9 @@ plugins:
     enabled: true
     options:
       includeAll: true
-      excludedProperties: []
+      excludedProperties: ["aliases"]
       hidePropertiesView: false
-      delimiters: ---
+      delimiters: "---"
       language: yaml
     order: 5
     layout:
