@@ -110,6 +110,9 @@ npx quartz plugin check
 
 Remove installed plugins that are no longer referenced in your `quartz.config.yaml`. This is useful for cleaning up after removing plugin entries from your configuration.
 
+> [!note]
+> The `resolve` command also removes orphaned plugins as part of its synchronization. Use `prune` when you only want to clean up without installing anything new.
+
 ```shell
 npx quartz plugin prune
 ```
@@ -122,7 +125,7 @@ npx quartz plugin prune --dry-run
 
 ### resolve
 
-Install plugins that are listed in your `quartz.config.yaml` but missing from the lockfile. This is the inverse of `prune` — it ensures your installed plugins match your configuration.
+Synchronize your installed plugins with your `quartz.config.yaml`. This installs plugins that are in your config but missing from the lockfile, and removes plugins that are in the lockfile but no longer referenced in your config.
 
 ```shell
 npx quartz plugin resolve
@@ -170,7 +173,7 @@ npx quartz plugin prune            # remove orphaned plugins
 
 ### Setting Up from Config
 
-When setting up on a new machine or in CI, resolve any plugins referenced in your config that aren't yet installed:
+When setting up on a new machine or in CI, resolve ensures your installed plugins match your config — installing missing plugins and removing any that are no longer referenced:
 
 ```shell
 npx quartz plugin resolve
@@ -209,6 +212,37 @@ To switch a local plugin back to a git source:
 npx quartz plugin remove my-local-plugin
 npx quartz plugin add github:username/my-local-plugin
 ```
+
+### Subdirectory (Monorepo) Plugins
+
+Some plugins live in a subdirectory of a larger repository rather than at the root. For these, you can specify the plugin source as an object in `quartz.config.yaml` with a `subdir` field:
+
+```yaml title="quartz.config.yaml"
+plugins:
+  - source:
+      repo: "https://github.com/username/monorepo.git"
+      subdir: plugin
+    enabled: true
+```
+
+This tells Quartz to clone the full repository but install only the contents of the specified subdirectory.
+
+You can combine `subdir` with `ref` to pin a branch or tag, and `name` to override the plugin directory name:
+
+```yaml title="quartz.config.yaml"
+plugins:
+  - source:
+      repo: "https://github.com/username/monorepo.git"
+      subdir: packages/my-plugin
+      ref: v2.0
+      name: my-plugin
+    enabled: true
+```
+
+See [[configuration#Advanced Source Options|Advanced Source Options]] for the full reference on object source fields.
+
+> [!note]
+> The `plugin add` CLI command works with string sources. To use the object source format with `subdir`, edit `quartz.config.yaml` directly, then run `npx quartz plugin resolve` to install it.
 
 ## Interactive Mode
 

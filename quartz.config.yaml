@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: dnd-notes.justinedwardleo.workers.dev
+  baseUrl: dnd.jelr.dev
   ignorePatterns:
     - private
     - templates
@@ -231,7 +231,7 @@ plugins:
     enabled: true
     options:
       includeAll: true
-      excludedProperties: ["aliases"]
+      excludedProperties: ["publish", "created", "modified", "published", "cssclasses", "title"]
       hidePropertiesView: false
       delimiters: "---"
       language: yaml
