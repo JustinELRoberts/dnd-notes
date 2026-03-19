@@ -3,7 +3,6 @@ publish: true
 created: 2026-03-12T17:47:07.478-04:00
 modified: 2026-03-12T18:17:54.681-04:00
 published: 2026-03-12T18:17:54.681-04:00
-cssclasses: ""
 Gender: Male
 Race: "[[human-xphb|Human]]"
 Class: "[[ranger-xphb|Ranger]]"

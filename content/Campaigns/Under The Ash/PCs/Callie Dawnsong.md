@@ -6,7 +6,6 @@ aliases:
 created: 2026-03-12T17:01:19.797-04:00
 modified: 2026-03-12T22:11:22.584-04:00
 published: 2026-03-12T22:11:22.584-04:00
-cssclasses: ""
 Gender: Female
 Race:
 Class: "[[bard-xphb|Bard]]"
