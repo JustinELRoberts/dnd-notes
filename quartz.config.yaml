@@ -245,8 +245,7 @@ plugins:
   - source: github:saberzero1/quartz-themes
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: anuppuccin
 layout:
   groups:
     toolbar:
