@@ -3,7 +3,6 @@ publish: true
 created: 2026-03-12T17:00:26.852-04:00
 modified: 2026-03-12T18:22:11.915-04:00
 published: 2026-03-12T18:22:11.915-04:00
-cssclasses: ""
 Gender: Male
 Race: "[[warforged-efa|Warforged]]"
 Class: "[[necromancer-valdaspire24|Necromancer]]"

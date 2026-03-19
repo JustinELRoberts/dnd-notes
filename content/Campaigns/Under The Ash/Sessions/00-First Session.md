@@ -2,7 +2,15 @@
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
 modified: 2026-03-15T21:15:21.359-04:00
-cssclasses: ""
+published: 2026-03-15T21:15:21.359-04:00
+Party:
+  - "[[Campaigns/Under The Ash/PCs/Avenj]]"
+  - "[[Campaigns/Under The Ash/PCs/Raelor]]"
+  - "[[Roz Rozum]]"
+  - "[[Theodore Shellington]]"
+  - "[[Yharov Stonebrow]]"
+Start Day: 1
+End Day: 2
 ---
 
 ## Events
@@ -51,7 +59,7 @@ cssclasses: ""
 	- [[Campaigns/Under The Ash/PCs/Avenj]] begins interrogating him (during combat)
 		- He takes the man's satchel
 		- The man [[Mechanics/CLI/spells/thunderwave-xphb\|Thunderwave]]s [[Campaigns/Under The Ash/PCs/Avenj]] away and takes the satchel back
-		- [[Campaigns/Under The Ash/PCs/Raelor]] shoots his right arm
+		- [[Raelor]] shoots his right arm
 			- It, too, falls off as if stitched on
 -  He surrenders ([[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] rolled a nat 20 on his intimidation check) and we interrogate him
 	- Each of his limbs on the ground appear to be of a different species, are purified, and are still moving despite not being attached to his body
@@ -126,7 +134,7 @@ cssclasses: ""
 		- The source of the conflict is that [[The Council of Coldvale]] did some experiments, causing the ice rift to spread further which led to [[Karvok Thuldor]] to not have its natural lava season
 			- They are gearing up for war
 	- He said a man walked into the city without a head and walked out with one late last night
-		- The head is gone from [[Campaigns/Under The Ash/PCs/Avenj]]'s bag, but the diamond and book remain
+		- The head is gone from [[Avenj]]'s bag, but the diamond and book remain
 		- This is obviously the man we buried alive
 - [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] finds the little girl on the beach and asks her where the nearest library is
 	- It is in the inner city
