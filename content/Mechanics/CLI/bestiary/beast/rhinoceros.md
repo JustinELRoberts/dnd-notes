@@ -1,0 +1,54 @@
+---
+publish: true
+aliases:
+  - Rhinoceros
+created: 2026-03-09T12:15:33.794-04:00
+modified: 2026-03-09T12:15:33.794-04:00
+published: 2026-03-09T12:15:33.794-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/mm
+  - ttrpg-cli/monster/cr/2
+  - ttrpg-cli/monster/environment/grassland
+  - ttrpg-cli/monster/size/large
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
+---
+
+# Rhinoceros
+*Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+```ad-statblock
+title: Rhinoceros
+![](Mechanics/CLI/bestiary/beast/token/rhinoceros.webp#token)
+*Large beast, Unaligned*
+
+- **Armor Class** 11 (natural armor)
+- **Hit Points** 45 (`6d10 + 12`) 
+- **Speed** 40 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|21 (+5)| 8 (-1)|15 (+2)| 2 (-4)|12 (+1)| 6 (-2)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** ⏤
+- **Senses** passive Perception 11
+- **Languages** —
+- **Challenge** 2
+
+## Traits
+
+***Charge.*** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+
+## Actions
+
+***Gore.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) bludgeoning damage.
+```
+^statblock
+
+## Environment
+
+grassland

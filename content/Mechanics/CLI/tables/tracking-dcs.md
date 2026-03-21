@@ -1,0 +1,27 @@
+---
+publish: true
+aliases:
+  - Tracking DCs
+created: 2026-03-09T12:15:34.367-04:00
+modified: 2026-03-09T12:15:34.367-04:00
+published: 2026-03-09T12:15:34.367-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Tracking DCs
+*Source: Dungeon Master's Guide p. 244* 
+
+**Tracking DCs**
+
+| Ground Surface | DC |
+|----------------|----|
+| Soft surface such as snow | 10 |
+| Dirt or grass | 15 |
+| Bare stone | 20 |
+| Each day since the creature passed | +5 |
+| Creature left a trail such as blood | -5 |
+^tracking-dcs

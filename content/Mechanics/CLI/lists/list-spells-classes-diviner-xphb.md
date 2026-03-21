@@ -1,0 +1,71 @@
+---
+publish: true
+aliases:
+  - Spells for Diviner
+created: 2026-03-09T12:15:34.433-04:00
+modified: 2026-03-09T12:15:34.433-04:00
+published: 2026-03-09T12:15:34.433-04:00
+tags:
+  - ttrpg-cli/spell/list/subclass/diviner
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Spells for Diviner
+
+## Cantrip
+
+- [True Strike](Mechanics/CLI/spells/true-strike-xphb.md "XPHB") at class level 7
+
+## 1st Level
+
+- [Clue](Mechanics/CLI/spells/clue-valdaspire24.md "ValdaSpire24") at class level 7
+- [Comprehend Languages](Mechanics/CLI/spells/comprehend-languages-xphb.md "XPHB") at class level 7
+- [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") at class level 7
+- [Identify](Mechanics/CLI/spells/identify-xphb.md "XPHB") at class level 7
+
+## 2nd Level
+
+- [Augury](Mechanics/CLI/spells/augury-xphb.md "XPHB") at class level 7
+- [Detect Thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 7
+- [Locate Object](Mechanics/CLI/spells/locate-object-xphb.md "XPHB") at class level 7
+- [Map](Mechanics/CLI/spells/map-valdaspire24.md "ValdaSpire24") at class level 7
+- [Mind Spike](Mechanics/CLI/spells/mind-spike-xphb.md "XPHB") at class level 7
+- [See Invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md "XPHB") at class level 7
+
+## 3rd Level
+
+- [Clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 7
+- [Flashback](Mechanics/CLI/spells/flashback-valdaspire24.md "ValdaSpire24") at class level 7
+- [Sending](Mechanics/CLI/spells/sending-xphb.md "XPHB") at class level 7
+- [Tongues](Mechanics/CLI/spells/tongues-xphb.md "XPHB") at class level 7
+
+## 4th Level
+
+- [Arcane Eye](Mechanics/CLI/spells/arcane-eye-xphb.md "XPHB") at class level 7
+- [Divination](Mechanics/CLI/spells/divination-xphb.md "XPHB") at class level 7
+- [Locate Creature](Mechanics/CLI/spells/locate-creature-xphb.md "XPHB") at class level 7
+
+## 5th Level
+
+- [Contact Other Plane](Mechanics/CLI/spells/contact-other-plane-xphb.md "XPHB") at class level 7
+- [Legend Lore](Mechanics/CLI/spells/legend-lore-xphb.md "XPHB") at class level 7
+- [Rary's Telepathic Bond](Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md "XPHB") at class level 7
+- [Scrying](Mechanics/CLI/spells/scrying-xphb.md "XPHB") at class level 7
+
+## 6th Level
+
+- [True Seeing](Mechanics/CLI/spells/true-seeing-xphb.md "XPHB") at class level 7
+
+## 7th Level
+
+- [Impressions of the Past](Mechanics/CLI/spells/impressions-of-the-past-valdaspire24.md "ValdaSpire24") at class level 7
+
+## 8th Level
+
+- [Telepathy](Mechanics/CLI/spells/telepathy-xphb.md "XPHB") at class level 7
+
+## 9th Level
+
+- [Foresight](Mechanics/CLI/spells/foresight-xphb.md "XPHB") at class level 7

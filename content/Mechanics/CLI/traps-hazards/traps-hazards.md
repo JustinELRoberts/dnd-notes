@@ -1,0 +1,63 @@
+---
+publish: true
+created: 2026-03-09T12:15:34.139-04:00
+modified: 2026-03-09T12:15:34.139-04:00
+published: 2026-03-09T12:15:34.139-04:00
+cssclasses:
+  - json5e-note
+  - json5e-index
+obsidianUIMode: preview
+---
+
+# Index of Traps-hazards
+
+- [Avalanche](./avalanche-tce.md)
+- [Bear Trap](./bear-trap-xge.md)
+- [Brown Mold](./brown-mold.md)
+- [Burning](./burning-xphb.md)
+- [Collapsing Roof](./collapsing-roof.md)
+- [Crossbow Trap](./crossbow-trap-xge.md)
+- [Dehydration](./dehydration-xphb.md)
+- [Desecrated Ground](./desecrated-ground.md)
+- [Extreme Cold](./extreme-cold.md)
+- [Extreme Heat](./extreme-heat.md)
+- [Falling into Water](./falling-into-water-tce.md)
+- [Falling Net](./falling-net.md)
+- [Falling onto a Creature](./falling-onto-a-creature-tce.md)
+- [Falling Portcullis](./falling-portcullis-xge.md)
+- [Falling](./falling-xphb.md)
+- [Fiery Blast Trap](./fiery-blast-trap-xge.md)
+- [Fire-Breathing Statue](./fire-breathing-statue.md)
+- [Flame Storm](./flame-storm-tce.md)
+- [Flaywind](./flaywind-tce.md)
+- [Frigid Water](./frigid-water.md)
+- [Green Slime](./green-slime.md)
+- [Heavy Precipitation](./heavy-precipitation.md)
+- [High Altitude](./high-altitude.md)
+- [Improvised Damage](./improvised-damage.md)
+- [Malnutrition](./malnutrition-xphb.md)
+- [Necrotic Tempest](./necrotic-tempest-tce.md)
+- [Net Trap](./net-trap-xge.md)
+- [Path of Blades](./path-of-blades-xge.md)
+- [Pit Trap](./pit-trap-xge.md)
+- [Pits](./pits.md)
+- [Poison Darts](./poison-darts.md)
+- [Poison Needle Trap](./poison-needle-trap-xge.md)
+- [Poison Needle](./poison-needle.md)
+- [Poisoned Tempest](./poisoned-tempest-xge.md)
+- [Quicksand](./quicksand.md)
+- [Razorvine](./razorvine.md)
+- [Rolling Sphere](./rolling-sphere.md)
+- [Rot Grub](./rot-grub-vgm.md)
+- [Russet Mold](./russet-mold-vgm.md)
+- [Scything Blade Trap](./scything-blade-trap-xge.md)
+- [Sleep of Ages Trap](./sleep-of-ages-trap-xge.md)
+- [Slippery Ice](./slippery-ice.md)
+- [Sphere of Annihilation](./sphere-of-annihilation.md)
+- [Sphere of Crushing Doom](./sphere-of-crushing-doom-xge.md)
+- [Strong Wind](./strong-wind.md)
+- [Suffocation](./suffocation-xphb.md)
+- [Thin Ice](./thin-ice.md)
+- [Thrym's Howl](./thryms-howl-tce.md)
+- [Webs](./webs.md)
+- [Yellow Mold](./yellow-mold.md)

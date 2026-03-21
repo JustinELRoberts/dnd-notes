@@ -1,0 +1,34 @@
+---
+publish: true
+aliases:
+  - Random Hag Minions; Brutes
+created: 2026-03-09T12:15:34.417-04:00
+modified: 2026-03-09T12:15:34.417-04:00
+published: 2026-03-09T12:15:34.417-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/vgm
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Random Hag Minions; Brutes
+*Source: Volo's Guide to Monsters p. 61* 
+
+**Brutes**
+
+| dice: d12 | Brute(s) |
+|-----------|----------|
+| 1 | [Bugbears](Mechanics/CLI/bestiary/humanoid/bugbear.md) |
+| 2 | [Doppelgangers](Mechanics/CLI/bestiary/monstrosity/doppelganger.md) |
+| 3 | [Ettercaps](Mechanics/CLI/bestiary/monstrosity/ettercap.md) |
+| 4 | [Gargoyles](Mechanics/CLI/bestiary/elemental/gargoyle.md) |
+| 5 | [Jackalweres](Mechanics/CLI/bestiary/humanoid/jackalwere.md) |
+| 6 | [Kenku](Mechanics/CLI/bestiary/humanoid/kenku.md) |
+| 7 | [Meenlocks](Mechanics/CLI/bestiary/fey/meenlock-mpmm.md) |
+| 8 | [Oni](Mechanics/CLI/bestiary/giant/oni.md) |
+| 9 | [Quicklings](Mechanics/CLI/bestiary/fey/quickling-mpmm.md) |
+| 10 | [Redcaps](Mechanics/CLI/bestiary/fey/redcap-mpmm.md) |
+| 11 | [Wererats](Mechanics/CLI/bestiary/humanoid/wererat.md) |
+| 12 | [Werewolves](Mechanics/CLI/bestiary/humanoid/werewolf.md) |
+^brutes

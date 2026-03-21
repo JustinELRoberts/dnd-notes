@@ -1,0 +1,65 @@
+---
+publish: true
+aliases:
+  - Giant Crab
+created: 2026-03-09T12:15:34.016-04:00
+modified: 2026-03-09T12:15:34.016-04:00
+published: 2026-03-09T12:15:34.016-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xmm
+  - ttrpg-cli/monster/cr/1-8
+  - ttrpg-cli/monster/environment/coastal
+  - ttrpg-cli/monster/environment/underwater
+  - ttrpg-cli/monster/size/medium
+  - ttrpg-cli/monster/type/beast
+cssclasses:
+  - json5e-monster
+obsidianUIMode: preview
+---
+
+# Giant Crab
+*Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+![](Mechanics/CLI/bestiary/beast/img/crab.webp#right)
+
+## Animals
+
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+
+> [!gallery]
+![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp "A druid calls on animals of the hills and mountains to aid her cause")
+![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp "Aquatic animals swim alongside a druid exploring the sea")
+![Inhabitants of the rain fo...](Mechanics/CLI/bestiary/beast/img/animals-rainforest.webp "Inhabitants of the rain forest answer a druid's summons")
+
+```ad-statblock
+title: Giant Crab
+![](Mechanics/CLI/bestiary/beast/token/giant-crab-xmm.webp#token)
+*Medium beast, Unaligned*
+
+- **Armor Class** 15 
+- **Hit Points** 13 (`3d8`) 
+- **Speed** 30 ft., swim 30 ft.
+
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|13 (+1)|13 (+1)|11 (+0)| 1 (-5)| 9 (-1)| 3 (-4)|
+
+- **Proficiency Bonus** +2
+- **Saving Throws** ⏤
+- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
+- **Senses** [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive Perception 9
+- **Languages** —
+- **Challenge** 1/8
+
+## Traits
+
+***Amphibious.*** The crab can breathe air and water.
+
+## Actions
+
+***Claw.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 4 (`1d6 + 1`) Bludgeoning damage. If the target is a Medium or smaller creature, it has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC 11) from one of two claws.
+```
+^statblock
+
+## Environment
+
+coastal, underwater

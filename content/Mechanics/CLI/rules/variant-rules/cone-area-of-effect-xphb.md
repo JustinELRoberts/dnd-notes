@@ -1,0 +1,20 @@
+---
+publish: true
+aliases:
+  - Cone [Area of Effect]
+created: 2026-03-09T12:15:34.444-04:00
+modified: 2026-03-09T12:15:34.444-04:00
+published: 2026-03-09T12:15:34.444-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Cone [Area of Effect]
+*Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+A Cone is an area of effect that extends in straight lines from a point of origin in a direction its creator chooses. A Cone's width at any point along its length is equal to that point's distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
+
+A Cone's point of origin isn't included in the area of effect unless its creator decides otherwise.
