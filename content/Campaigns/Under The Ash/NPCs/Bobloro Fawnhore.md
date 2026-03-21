@@ -5,7 +5,7 @@ modified: 2026-03-15T21:14:48.210-04:00
 published: 2026-03-15T21:14:48.210-04:00
 Age: Not known
 Gender: Male
-Race: "[[Mechanics/CLI/races/goliath-xphb\|Goliath]]"
+Race: "[[Mechanics/CLI/races/goliath-xphb|Goliath]]"
 Relationship: Neutral
 Factions:
 Locations:
