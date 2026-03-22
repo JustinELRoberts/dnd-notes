@@ -6,9 +6,9 @@ published: 2026-03-21T23:10:11.025-04:00
 Party:
   - "[[Campaigns/Under The Ash/PCs/Avenj]]"
   - "[[Campaigns/Under The Ash/PCs/Raelor]]"
-  - "[[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]]"
-  - "[[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]]"
-  - "[[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]]"
+  - "[[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]]"
+  - "[[Campaigns/Under The Ash/PCs/Theodore Shellington|Theodore]]"
+  - "[[Campaigns/Under The Ash/PCs/Yharov Stonebrow|Yharov]]"
 Start Day: 1
 End Day: 2
 ---
@@ -20,12 +20,12 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 	- Starting at [[Zar'Vasha]] in the morning, the 5 party members getting onto that caravan
 - A few hours into our travel (still in the desert), [[a hooded, masked man]] join us
 	- It is still the desert; we aren't yet near our destination
-	- [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] recognizes him as a member of 1 of the 3 [[Magic Guilds]] but is unsure which (too low of a roll)
+	- [[Campaigns/Under The Ash/PCs/Theodore Shellington|Theodore]] recognizes him as a member of 1 of the 3 [[Magic Guilds]] but is unsure which (too low of a roll)
 		- The three guilds are: [[The Coldvale]], [[The Starbound]], and [[The Magic Guild Ledgers]]
 	- [[Campaigns/Under The Ash/PCs/Raelor]] notices he is tightly clutching his bag, and inside it is some sort of gem
 - A few hours later again and the cart stops abruptly
-	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] puts the man to [[Mechanics/CLI/spells/sleep-xphb\|Sleep]]
-	- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]] takes the masked man's bag
+	- [[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]] puts the man to [[Mechanics/CLI/spells/sleep-xphb|Sleep]]
+	- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow|Yharov]] takes the masked man's bag
 	- Blood from the driver's cabin splashes into the back of the cart (the driver was killed)
 	- We step out of the cart and it immediately goes up in flame and turns to ash
 		- The masked man appears unharmed, yet still asleep
@@ -33,10 +33,10 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 	- He rips the mask off the original masked figure, revealing a young sorcerer roughly 19 years old
 	- The new masked man puts his finger to the old one's head and eviscerates him
 	- He then steps up to us and with a deep, demonic voice asks, "where are the contents of his bag?"
-		- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]] drops the bag
+		- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow|Yharov]] drops the bag
 	- He claims the bag contains 1 of 12 items he needs
 		- We know there were 12 dark artifacts that were created by [[Campaigns/Under The Ash/NPCs/The Unknown]] during his reign of terror
-	- He takes a [[Campaigns/Under The Ash/Items/Diamond of 20 Monsters\|massive red diamond]] out of the bag and puts it in his own bag
+	- He takes a [[Campaigns/Under The Ash/Items/Diamond of 20 Monsters|massive red diamond]] out of the bag and puts it in his own bag
 		- "Enjoy life while you still have it. When the moon shines red, as the color of this diamond, all Hell will begin to break loose", he says in his demonic voice
 	- We could tell that he was a human but corrupted by something
 	- He was bearing a symbol indicating he was a member of [[Campaigns/Under The Ash/Factions/The Awakening]] (group that tried to awaken [[Campaigns/Under The Ash/NPCs/The Unknown]])
@@ -48,26 +48,26 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 		- "You must hurry. Bring the artifact to the [[Kingdom of Caer Thalor]]  so that we can lock it in the vault. We have more to collect before him. He is the last one"
 		- Signed the Minister of [[The Council of Coldvale]] (from that cold city at the top right)
 		- TODO: Create a quest for this
-- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]] collects the dead man's mask and bag
+- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow|Yharov]] collects the dead man's mask and bag
 - We follow after the scary masked man at a distance
 - He stops and pours a vial of liquid on a sapling which causes it to grow into a new plant
 	- We recognize the plant as a [[Campaigns/Under The Ash/Items/Velvet Thorn]]
-- Because we have cover and high ground, [[Campaigns/Under The Ash/PCs/Raelor]] secretly attacks him using [[Mechanics/CLI/spells/concealed-shot-valdaspire24\|Concealed Shot]] 
+- Because we have cover and high ground, [[Campaigns/Under The Ash/PCs/Raelor]] secretly attacks him using [[Mechanics/CLI/spells/concealed-shot-valdaspire24|Concealed Shot]] 
 	- The shot moves his mask, revealing that he may just be a normal man (also a 15 hit)
 		- This gives us the courage to fight him for real
 	- When a thrown dagger hits his left leg, it falls off as if it was simply stitched on
-	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] casts [[Mechanics/CLI/spells/command-xphb\|Command]] to make him take his mask off, revealing that he has the face of a 16 year old [[Mechanics/CLI/races/human-xphb\|Human]] boy
+	- [[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]] casts [[Mechanics/CLI/spells/command-xphb|Command]] to make him take his mask off, revealing that he has the face of a 16 year old [[Mechanics/CLI/races/human-xphb|Human]] boy
 	- [[Campaigns/Under The Ash/PCs/Avenj]] begins interrogating him (during combat)
 		- He takes the man's satchel
-		- The man [[Mechanics/CLI/spells/thunderwave-xphb\|Thunderwave]]s [[Campaigns/Under The Ash/PCs/Avenj]] away and takes the satchel back
+		- The man [[Mechanics/CLI/spells/thunderwave-xphb|Thunderwave]]s [[Campaigns/Under The Ash/PCs/Avenj]] away and takes the satchel back
 		- [[Raelor]] shoots his right arm
 			- It, too, falls off as if stitched on
--  He surrenders ([[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] rolled a nat 20 on his intimidation check) and we interrogate him
+-  He surrenders ([[Campaigns/Under The Ash/PCs/Theodore Shellington|Theodore]] rolled a nat 20 on his intimidation check) and we interrogate him
 	- Each of his limbs on the ground appear to be of a different species, are purified, and are still moving despite not being attached to his body
-		- Face and torso is [[Mechanics/CLI/races/human-xphb\|Human]] boy but has the limbs of a [[Mechanics/CLI/races/dragonborn-xphb\|Dragonborn]], [[Mechanics/CLI/races/elf-xphb\|Elf]],  [[Mechanics/CLI/bestiary/humanoid/drow\|Drow]], and one other that I missed
+		- Face and torso is [[Mechanics/CLI/races/human-xphb|Human]] boy but has the limbs of a [[Mechanics/CLI/races/dragonborn-xphb|Dragonborn]], [[Mechanics/CLI/races/elf-xphb|Elf]],  [[Mechanics/CLI/bestiary/humanoid/drow|Drow]], and one other that I missed
 	- He claims he was created to kill [[Campaigns/Under The Ash/NPCs/The Unknown]] and claims he will not pronounce the name of his creator in front of mortals
 		- We (IRL) are skeptical of this claim given [[Campaigns/Under The Ash/Factions/The Awakening]] symbol he is wearing
-	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] tries to use [[Sending]] to get the creator's name nonverbally, but it caused him to make a CON save and he couldn't comprehend the name despite succeeding
+	- [[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]] tries to use [[Sending]] to get the creator's name nonverbally, but it caused him to make a CON save and he couldn't comprehend the name despite succeeding
 	- He has TONS of random spell components
 		- So many that we all now have all the components we need to cast any spell levels 0-3 once
 		- Interestingly, the components are for multiple classes
@@ -76,14 +76,14 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 		- Scratched on the front is abyssal writing
 		- On the back is a lock
 	- He implies he plans to somehow leverage the fact that many are at war to achieve his evil goals
-	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] uses [[Mechanics/CLI/spells/mold-earth-xge\|Mold Earth]] to bury his torso and head alive
+	- [[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]] uses [[Mechanics/CLI/spells/mold-earth-xge|Mold Earth]] to bury his torso and head alive
 - In his bag is:
 	- A [[notebook with a sleeping face on its cover]] on the cover
 	- 3 vials all containing different liquids:
 		- A purple one that transformed the plant
 		- A silvery one with transmutation magic
 		- A green one with necromancy magic
-- [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] takes the spell components and mask
+- [[Campaigns/Under The Ash/PCs/Theodore Shellington|Theodore]] takes the spell components and mask
 - Someone plucks the plant and it is still alive and moving post plucking
 - We arrive at the [[Unnamed City]] (the southeastern corner)
 	- In the center is a small, prospering city that grants passage to the other side
@@ -106,7 +106,7 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 		- The third riddle we answer correctly on our first try: "hope"
 			- The book unlocks
 	- The pages of the book are blank
-		- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] casts [[Mechanics/CLI/spells/see-invisibility-xphb\|See Invisibility]]
+		- [[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]] casts [[Mechanics/CLI/spells/see-invisibility-xphb|See Invisibility]]
 			- It does nothing
 	- In the back of the book, we see a drawn diamond with blurry words underneath it
 		- As we move the red diamond closer, the words become more visible
@@ -116,8 +116,8 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 	- Another page appears/renders
 		- It looks like a crooked staff with blurry text below (we probably need some crooked staff to proceed, if that is even desired)
 - We take the diamond out of the book and decide its best to store them separately
-	- [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] hides the book amongst his other books in his bag
-	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] puts the diamond in his bag
+	- [[Campaigns/Under The Ash/PCs/Theodore Shellington|Theodore]] hides the book amongst his other books in his bag
+	- [[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]] puts the diamond in his bag
 - We search the hideout and find:
 	- 10 GP (we do not take it; it clearly belongs to [[Campaigns/Under The Ash/NPCs/Theratina]])
 	- A map of [[Campaigns/Under The Ash/Locations/Evermore]] with [[Mazcatan]] circled; [[Campaigns/Under The Ash/NPCs/Theratina]] seems to want to go here
@@ -125,9 +125,9 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 		- Her with two older lizard folk
 		- A dark evil shadow with dark, amethyst like eyes
 		- Her walking alone
-- Because [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] is carrying the diamond, he has a nightmare in some [[Campaigns/Under The Ash/Locations/Dimensional Blue Arena]] where some large demon with red eyes says to him, "Give me back what is rightfully mine!"
+- Because [[Campaigns/Under The Ash/PCs/Roz Rozum|Roz]] is carrying the diamond, he has a nightmare in some [[Campaigns/Under The Ash/Locations/Dimensional Blue Arena]] where some large demon with red eyes says to him, "Give me back what is rightfully mine!"
 	- He declines and succeeds on a CON save before waking
-- The [[Mechanics/CLI/spells/alarm-xphb\|Alarm]] spell goes off as a guard named [[Campaigns/Under The Ash/NPCs/Bobloro Fawnhore]] walks in
+- The [[Mechanics/CLI/spells/alarm-xphb|Alarm]] spell goes off as a guard named [[Campaigns/Under The Ash/NPCs/Bobloro Fawnhore]] walks in
 	- Evidently he was just doing a patrol and noticed us
 	- He offers to take us to the [[Border City]]
 	- The south part and north part of the world is feuding
@@ -150,9 +150,9 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 		- The things we found
 		- A small rapier
 		- A canoe
-	- Everyone (except [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] who is too heavy and swims alongside) rides the canoe to the docks of the center city
+	- Everyone (except [[Campaigns/Under The Ash/PCs/Theodore Shellington|Theodore]] who is too heavy and swims alongside) rides the canoe to the docks of the center city
 - Two people at the dock offer to take our canoe to the water on the other side of the passage in exchange for 5C
-	- We pay 10C and tell them to fix the dent [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] left when trying to enter it
+	- We pay 10C and tell them to fix the dent [[Campaigns/Under The Ash/PCs/Theodore Shellington|Theodore]] left when trying to enter it
 - She takes us to the courthouse
 	- We go in and the line moves quickly
 		- A small gnomish man with glasses sits at a table with a massive amount of scrolls surrounding him
@@ -164,7 +164,7 @@ During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City
 		- Once through, she tries to pay us her 10G
 			- We decline
 - We make our way to the north port. 
-	- We stop by a shop with a giant [[Mechanics/CLI/races/bugbear-mpmm\|Bugbear]] working at the counter
+	- We stop by a shop with a giant [[Mechanics/CLI/races/bugbear-mpmm|Bugbear]] working at the counter
 	- Everything in there is hundreds of gold or platinum
 	- [[Theodore Shellington|Theodore]] eats a magic mushroom (reluctantly) in exchange for 2 free pouches of premium tobacco (worth hundreds of gold)
 		- He rolled well and now has advantage on strength checks for the rest of the day
