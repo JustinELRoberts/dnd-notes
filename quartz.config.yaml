@@ -127,7 +127,7 @@ plugins:
   - source: github:quartz-community/favicon
     enabled: true
   - source: github:quartz-community/og-image
-    enabled: true
+    enabled: false
   - source: github:quartz-community/cname
     enabled: true
   - source: github:quartz-community/canvas-page
@@ -200,10 +200,15 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: JustinELRoberts/dnd-notes
+        repoId: R_kgDORn6Eew
+        category: General
+        categoryId: DIC_kwDORn6Ee84C4eF1
+        lang: en
     layout:
       position: afterBody
       priority: 10
@@ -231,9 +236,15 @@ plugins:
     enabled: true
     options:
       includeAll: true
-      excludedProperties: ["publish", "created", "modified", "published", "cssclasses", "title"]
+      excludedProperties:
+        - publish
+        - created
+        - modified
+        - published
+        - cssclasses
+        - title
       hidePropertiesView: false
-      delimiters: "---"
+      delimiters: ---
       language: yaml
     order: 5
     layout:
