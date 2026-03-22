@@ -1,18 +1,20 @@
 ---
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-03-15T21:15:21.359-04:00
-published: 2026-03-15T21:15:21.359-04:00
+modified: 2026-03-21T23:10:11.025-04:00
+published: 2026-03-21T23:10:11.025-04:00
 Party:
   - "[[Campaigns/Under The Ash/PCs/Avenj]]"
   - "[[Campaigns/Under The Ash/PCs/Raelor]]"
-  - "[[Roz Rozum]]"
-  - "[[Theodore Shellington]]"
-  - "[[Yharov Stonebrow]]"
+  - "[[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]]"
+  - "[[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]]"
+  - "[[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]]"
 Start Day: 1
 End Day: 2
 ---
 
+## Summary
+During a caravan journey to [[Campaigns/Under The Ash/Locations/The Unnamed City]], the party witnessed a mysterious courier be executed by a stitched-together agent of [[Campaigns/Under The Ash/Factions/The Awakening]] who then seized a massive red diamond from his body. A note on the courier revealed his mission to deliver the artifact to the kingdom of [[Caer Thalor]] to be locked away by the [[Council of Coldvale]]. After a battle where the party cut the limbs off of and buried the Awakening agent alive (who later miraculously regenerated), they recovered a [[notebook with a sleeping face on its cover]]. By using the red diamond as a key, they unlocked the book to reveal it describes the [[Campaigns/Under The Ash/Items/Diamond of 20 Monsters]], an army-summoning tool used by [[Campaigns/Under The Ash/NPCs/The Unknown]]. The party successfully smuggled the artifact and their new guide, [[Campaigns/Under The Ash/NPCs/Theratina]], through [[Campaigns/Under The Ash/Locations/The Unnamed City]]'s border, heading north just as regional tensions between the [[Council of Coldvale]] and [[Karvok Thuldor]] push the land toward open war.
 ## Events
 - Begins on a cart passage to [[Campaigns/Under The Ash/Locations/The Unnamed City]]
 	- Starting at [[Zar'Vasha]] in the morning, the 5 party members getting onto that caravan
@@ -20,7 +22,6 @@ End Day: 2
 	- It is still the desert; we aren't yet near our destination
 	- [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] recognizes him as a member of 1 of the 3 [[Magic Guilds]] but is unsure which (too low of a roll)
 		- The three guilds are: [[The Coldvale]], [[The Starbound]], and [[The Magic Guild Ledgers]]
-			- TODO: Add this to [[Magic Guilds]] note
 	- [[Campaigns/Under The Ash/PCs/Raelor]] notices he is tightly clutching his bag, and inside it is some sort of gem
 - A few hours later again and the cart stops abruptly
 	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] puts the man to [[Mechanics/CLI/spells/sleep-xphb\|Sleep]]
@@ -28,17 +29,17 @@ End Day: 2
 	- Blood from the driver's cabin splashes into the back of the cart (the driver was killed)
 	- We step out of the cart and it immediately goes up in flame and turns to ash
 		- The masked man appears unharmed, yet still asleep
-- [[A second masked man]] with red eyes appears
-	- He walks up to the sleeping masked man, puts his hand to his temple, and turns his body to ash (killing him in the process)
+- A second [[masked man with red eyes]] appears
+	- He rips the mask off the original masked figure, revealing a young sorcerer roughly 19 years old
+	- The new masked man puts his finger to the old one's head and eviscerates him
 	- He then steps up to us and with a deep, demonic voice asks, "where are the contents of his bag?"
 		- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]] drops the bag
-	- He rips the mask off the original masked figure, revealing a young sorcerer roughly 19 years old
-	- The new masked figure puts his finger to the old one's head and eviscerates him
 	- He claims the bag contains 1 of 12 items he needs
-		- We know there were 12 dark artifacts that were created by [[The Unknown]] during his reign of terror
-	- He takes a [[massive red diamond]] out of the bag and puts it in his own
+		- We know there were 12 dark artifacts that were created by [[Campaigns/Under The Ash/NPCs/The Unknown]] during his reign of terror
+	- He takes a [[Campaigns/Under The Ash/Items/Diamond of 20 Monsters\|massive red diamond]] out of the bag and puts it in his own bag
 		- "Enjoy life while you still have it. When the moon shines red, as the color of this diamond, all Hell will begin to break loose", he says in his demonic voice
-	- We could tell that he was a human but corrupted by something. He was bearing a symbol: he was a member of [[The Awakening]] (group that tried to awaken [[The Unknown]])
+	- We could tell that he was a human but corrupted by something
+	- He was bearing a symbol indicating he was a member of [[Campaigns/Under The Ash/Factions/The Awakening]] (group that tried to awaken [[Campaigns/Under The Ash/NPCs/The Unknown]])
 	- He simply walks away; everyone is afraid to stop him
 - The dead body of the first masked man (the 19yo boy) had:
 	- 1P, 35G
@@ -50,7 +51,7 @@ End Day: 2
 - [[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]] collects the dead man's mask and bag
 - We follow after the scary masked man at a distance
 - He stops and pours a vial of liquid on a sapling which causes it to grow into a new plant
-	- We know the plant as a [[Velvet Thorn]] ( a plant of beauty that existed during the reign of the unknown that used to bloom everywhere but is now extinct. People used to view these plants as a sign the unknown was defeated)
+	- We recognize the plant as a [[Campaigns/Under The Ash/Items/Velvet Thorn]]
 - Because we have cover and high ground, [[Campaigns/Under The Ash/PCs/Raelor]] secretly attacks him using [[Mechanics/CLI/spells/concealed-shot-valdaspire24\|Concealed Shot]] 
 	- The shot moves his mask, revealing that he may just be a normal man (also a 15 hit)
 		- This gives us the courage to fight him for real
@@ -64,8 +65,8 @@ End Day: 2
 -  He surrenders ([[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] rolled a nat 20 on his intimidation check) and we interrogate him
 	- Each of his limbs on the ground appear to be of a different species, are purified, and are still moving despite not being attached to his body
 		- Face and torso is [[Mechanics/CLI/races/human-xphb\|Human]] boy but has the limbs of a [[Mechanics/CLI/races/dragonborn-xphb\|Dragonborn]], [[Mechanics/CLI/races/elf-xphb\|Elf]],  [[Mechanics/CLI/bestiary/humanoid/drow\|Drow]], and one other that I missed
-	- He claims he was created to kill [[The Unknown]] and claims he will not pronounce the name of his creator in front of mortals
-		- We (IRL) are skeptical of this claim given [[The Awakening]] symbol he is wearing
+	- He claims he was created to kill [[Campaigns/Under The Ash/NPCs/The Unknown]] and claims he will not pronounce the name of his creator in front of mortals
+		- We (IRL) are skeptical of this claim given [[Campaigns/Under The Ash/Factions/The Awakening]] symbol he is wearing
 	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] tries to use [[Sending]] to get the creator's name nonverbally, but it caused him to make a CON save and he couldn't comprehend the name despite succeeding
 	- He has TONS of random spell components
 		- So many that we all now have all the components we need to cast any spell levels 0-3 once
@@ -77,7 +78,7 @@ End Day: 2
 	- He implies he plans to somehow leverage the fact that many are at war to achieve his evil goals
 	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] uses [[Mechanics/CLI/spells/mold-earth-xge\|Mold Earth]] to bury his torso and head alive
 - In his bag is:
-	- A notebook with a sleeping face on the cover
+	- A [[notebook with a sleeping face on its cover]] on the cover
 	- 3 vials all containing different liquids:
 		- A purple one that transformed the plant
 		- A silvery one with transmutation magic
@@ -87,10 +88,10 @@ End Day: 2
 - We arrive at the [[Unnamed City]] (the southeastern corner)
 	- In the center is a small, prospering city that grants passage to the other side
 	- The water isnt very deep; we could swim through in a day
-	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] pays a little lizard girl a copper to find us a place to sleep
+	- [[Roz RozumķRoz]] pays a little lizard girl a copper to find us a place to sleep
 		- She brings us to a cave hideout at the southeastern beach with some cots and toy
 			- Clearly this where she lives
-		- Her name is [[Theratina]]
+		- Her name is [[Campaigns/Under The Ash/NPCs/Theratina]]
 		- When asked if we should stay at an inn, she shakes her head and says "bad people"
 		- The girl leaves despite us offering for her to stay with us
 			- She is not very trusting
@@ -110,7 +111,7 @@ End Day: 2
 	- In the back of the book, we see a drawn diamond with blurry words underneath it
 		- As we move the red diamond closer, the words become more visible
 		- We touch the diamond to the page and it absorbs into the book; text appears
-			- "The diamond of 20 monsters: This artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[GrindleDarks]]"
+			- "The diamond of 20 monsters: This artifact was used by [[Campaigns/Under The Ash/NPCs/The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[GrindleDarks]]"
 		- The diamond is removable still if you stick your hand in the page
 	- Another page appears/renders
 		- It looks like a crooked staff with blurry text below (we probably need some crooked staff to proceed, if that is even desired)
@@ -118,13 +119,13 @@ End Day: 2
 	- [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] hides the book amongst his other books in his bag
 	- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] puts the diamond in his bag
 - We search the hideout and find:
-	- 10 GP (we do not take it; it clearly belongs to [[Theratina]])
-	- A map of [[Campaigns/Under The Ash/Locations/Evermore]] with [[Mazcatan]] circled; [[Theratina]] seems to want to go here
+	- 10 GP (we do not take it; it clearly belongs to [[Campaigns/Under The Ash/NPCs/Theratina]])
+	- A map of [[Campaigns/Under The Ash/Locations/Evermore]] with [[Mazcatan]] circled; [[Campaigns/Under The Ash/NPCs/Theratina]] seems to want to go here
 	- Three of her poorly rendered drawings:
 		- Her with two older lizard folk
 		- A dark evil shadow with dark, amethyst like eyes
 		- Her walking alone
-- Because [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] is carrying the diamond, he has a nightmare in [[some dimensional blue arena]] where some large demon with red eyes says to him, "Give me back what is rightfully mine!"
+- Because [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] is carrying the diamond, he has a nightmare in some [[Campaigns/Under The Ash/Locations/Dimensional Blue Arena]] where some large demon with red eyes says to him, "Give me back what is rightfully mine!"
 	- He declines and succeeds on a CON save before waking
 - The [[Mechanics/CLI/spells/alarm-xphb\|Alarm]] spell goes off as a guard named [[Campaigns/Under The Ash/NPCs/Bobloro Fawnhore]] walks in
 	- Evidently he was just doing a patrol and noticed us
@@ -136,11 +137,11 @@ End Day: 2
 	- He said a man walked into the city without a head and walked out with one late last night
 		- The head is gone from [[Avenj]]'s bag, but the diamond and book remain
 		- This is obviously the man we buried alive
-- [[Campaigns/Under The Ash/PCs/Roz Rozum\|Roz]] finds the little girl on the beach and asks her where the nearest library is
+- [[Roz Rozum|Roz]] finds the little girl on the beach and asks her where the nearest library is
 	- It is in the inner city
 	- When asked where her parents are, she simply leaves (touchy subject)
 - She later returns
-	- [[Campaigns/Under The Ash/PCs/Yharov Stonebrow\|Yharov]] gives her a doll he knit and she offers to take us to the library
+	- [[Yharov Stonebrow|Yharov]] gives her a doll he knit and she offers to take us to the library
 		- She claims they just wont let her past the border bc she is too young
 		- She does _want_ to pass the border bc she is "going somewhere"
 			- We know this to be [[Mazcatan]] from the map we found
@@ -165,7 +166,7 @@ End Day: 2
 - We make our way to the north port. 
 	- We stop by a shop with a giant [[Mechanics/CLI/races/bugbear-mpmm\|Bugbear]] working at the counter
 	- Everything in there is hundreds of gold or platinum
-	- [[Campaigns/Under The Ash/PCs/Theodore Shellington\|Theodore]] eats a magic mushroom (reluctantly) in exchange for 2 free pouches of premium tobacco (worth hundreds of gold)
+	- [[Theodore Shellington|Theodore]] eats a magic mushroom (reluctantly) in exchange for 2 free pouches of premium tobacco (worth hundreds of gold)
 		- He rolled well and now has advantage on strength checks for the rest of the day
 - Our canoe is at the dock and repaired
 	- As we begin to depart, we notice some elvish spellcasters on the way by

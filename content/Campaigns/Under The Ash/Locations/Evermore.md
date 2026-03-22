@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-08T20:14:29.683-04:00
-modified: 2026-03-12T21:31:45.580-04:00
-published: 2026-03-12T21:31:45.580-04:00
+modified: 2026-03-21T17:06:31.965-04:00
+published: 2026-03-21T17:06:31.965-04:00
 LocationType: World
 Sublocations:
 aliases:
@@ -17,8 +17,8 @@ imageBases:
 markers: Campaigns/Under The Ash/Locations/markers/Evermore.markers.json
 markerLayers:
   - Default
-minZoom: 0.66
-maxZoom: 8
+minZoom: 0.17
+maxZoom: 2
 wrap: false
 responsive: false
 width: 100%
