@@ -17,11 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Giff
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 138*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 138_\
 ![](Mechanics/CLI/bestiary/humanoid/img/giff.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > My travels in Wildspace are always brightened by my giff associates. Their use of gunpowder reminds me of my own explosive wizardry. Spectacular!
 
 It's easy to spot giff in a room: these burly folk are 7-foot-tall, hippopotamus-headed people. In Wildspace and the associated ports, giff are most often encountered as spacefaring mercenaries. These troops are renowned for their martial training and love of explosives and are typically armed with gleaming pistols and muskets. The stat block here represents one of those mercenaries.
@@ -77,6 +78,7 @@ title: Giff
 
 ***Fragmentation Grenade (1/Day).*** The giff throws a grenade up to 60 feet, and the grenade explodes in a 20-foot-radius sphere. Each creature in that area must make a DC 15 Dexterity saving throw, taking 17 (`5d6`) piercing damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

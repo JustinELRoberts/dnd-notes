@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Plague Lord
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Harness the Vile Power of Sickness and Rot*
+_Harness the Vile Power of Sickness and Rot_
 
 If elemental Necromancy thrives anywhere on the Material Plane, it is perhaps at a miniscule size of a bacterium. There, the greatest of plagues are born to ravage entire kingdoms and continents with inexorable sickness. Necromancers that seeks to harness this form of Necromancy are known as Plague Lords, commanders of vermin and disease alike.
 
@@ -56,7 +57,7 @@ If elemental Necromancy thrives anywhere on the Material Plane, it is perhaps at
 
 ### Charnel Toxin (Level 3)
 
-When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), the target has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition until the start of your next turn.
+When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition until the start of your next turn.
 
 ### Necrotoxin (Level 3)
 
@@ -68,21 +69,21 @@ Leagues of vermin cling to your skin and swarm over others nearby. Whenever an e
 
 ### Projectile Spew (Level 6)
 
-Your reach with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) and spells with a range of Touch is 10 feet greater than normal, as magically imbued projectile vomit delivers the effect.
+Your reach with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) and spells with a range of Touch is 10 feet greater than normal, as magically imbued projectile vomit delivers the effect.
 
 ### Bloated Thralls (Level 10)
 
 When one of your thralls is reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or you release it, you can cause it to explode in a shower of toxic gore. Each creature you choose within 5 feet of the thrall makes a Dexterity saving throw against your spell save DC. On a failed save, a creature takes `4d6` Poison damage and has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition until the start of your next turn. On a successful save, a creature takes half as much Poison damage.
 
-### Corpulent Lich [Lichdom] (Level 20)
+### Corpulent Lich \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your obsession with disease and rot has affected your transformation: you bloat like a waterlogged corpse and your skin turns a sickly green. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your obsession with disease and rot has affected your transformation: you bloat like a waterlogged corpse and your skin turns a sickly green. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Gore Burst.** When you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), your body explodes in a shower of necromantic energy.
 
 Each creature you choose within 20 feet of you makes a Dexterity saving throw against your Necromancer spell save DC. On a failed save, a creature takes `5d10` Poison damage and `5d10` Necrotic damage and has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition until the start of your next turn. On a successful save, a creature takes half as much damage.
 
-**Master of Disease.** When you deal 25 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), the target has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition and is cursed for 1 minute. Choose two of the following effects which afflict the target while it is cursed. At the end of each of its turns, the target can make a Constitution saving throw against your spell save DC, ending the curse and the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition on a success.
+**Master of Disease.** When you deal 25 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition and is cursed for 1 minute. Choose two of the following effects which afflict the target while it is cursed. At the end of each of its turns, the target can make a Constitution saving throw against your spell save DC, ending the curse and the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition on a success.
 
 **Bleeding.** Each time the target takes damage, it takes an extra `1d6` Necrotic damage
 

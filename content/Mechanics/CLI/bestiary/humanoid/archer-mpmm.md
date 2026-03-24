@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Archer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210_\
 ![](Mechanics/CLI/bestiary/humanoid/img/archer.webp#right)
 
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
@@ -76,6 +77,7 @@ title: Archer
 
 ***Archer's Eye (3/Day).*** Immediately after making an attack roll or a damage roll with a ranged weapon, the archer can roll a `d10` and add the number rolled to the total.
 ```
+
 ^statblock
 
 ## Environment

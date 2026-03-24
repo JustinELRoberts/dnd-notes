@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Bell
-*Adventuring gear*  
 
+_Adventuring gear_
 
 - **Cost**: 1 gp
 
 When rung as a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action, a Bell produces a sound that can be heard up to 60 feet away.
 
-*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

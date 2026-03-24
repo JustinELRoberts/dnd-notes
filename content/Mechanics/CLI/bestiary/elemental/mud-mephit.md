@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mud Mephit
-*Source: Monster Manual p. 216*  
+
+_Source: Monster Manual p. 216_\
 ![](Mechanics/CLI/bestiary/elemental/img/mud-mephit.webp#right)
 
 ## Mephits
@@ -70,6 +71,7 @@ title: Mud Mephit
 
 ***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Daggermark
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -56,7 +57,7 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 
 The GM decides if a subclass should be cross-compatible in your campaign.
 
-*Use Stealth and Subterfuge to Achieve Victory*
+_Use Stealth and Subterfuge to Achieve Victory_
 
 Captains that bear the Daggermark—a tattoo, scar, or insignia representing a blade—utilize stealth and clandestine tactics to defeat their foes. Though they prefer ambushes and assassinations, they may acquiesce to direct confrontation if they have an underhanded tactic up their sleeve to safeguard victory. These Captains might be leaders in a Thieves' Guild, career assassins, or bandit captains that mark their closest confidants with the Daggermark to induct them into their ranks.
 
@@ -72,7 +73,7 @@ Your experience in striking from the shadows grants you the following benefits.
 
 **Quick Hide.** You can take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
 
-### Effortless Dodge [Maneuver] (Level 3)
+### Effortless Dodge \[Maneuver] (Level 3)
 
 As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action. You can't use this maneuver while wearing Medium or Heavy armor.
 

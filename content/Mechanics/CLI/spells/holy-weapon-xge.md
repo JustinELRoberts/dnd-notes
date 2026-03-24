@@ -24,8 +24,8 @@ classes:
 ---
 
 # Holy Weapon
-*5th-level, Evocation*  
 
+_5th-level, Evocation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch
@@ -38,4 +38,4 @@ As a bonus action on your turn, you can dismiss this spell and cause the weapon 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Xanathar's Guide to Everything p. 157*
+_Source: Xanathar's Guide to Everything p. 157_

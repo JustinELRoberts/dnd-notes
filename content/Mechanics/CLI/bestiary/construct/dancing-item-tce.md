@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Dancing Item
-*Source: Tasha's Cauldron of Everything p. 29*  
+
+_Source: Tasha's Cauldron of Everything p. 29_
 
 ```ad-statblock
 title: Dancing Item
@@ -50,4 +51,5 @@ title: Dancing Item
 
 ***Force-Empowered Slam.*** *Melee Weapon Attack:* your spell attack modifier to hit, reach 5 ft., one target you can see. *Hit:* `1d10 + PB` force damage.
 ```
+
 ^statblock

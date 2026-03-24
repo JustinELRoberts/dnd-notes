@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Priest
-*Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Priests bring the teachings of their gods to the common folk. They are the spiritual leaders of temples and shrines and often hold positions of influence in their communities. Evil priests might work openly under a tyrant, or they might be the leaders of religious sects hidden in the shadows of good society, overseeing depraved rites. A priest typically has one or more acolytes to help with religious ceremonies and other sacred duties.
 
@@ -61,6 +61,7 @@ title: Priest
 
 ***Mace.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

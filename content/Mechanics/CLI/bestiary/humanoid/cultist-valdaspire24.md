@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Cultist
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Creatures/Cultist.webp#right)
 
 Dogmatic and often unhinged, cultists draw upon forbidden, eldritch allies for a taste of arcane might.
@@ -68,4 +69,5 @@ title: Cultist
 
 ***Level 13.*** Hellish Rebuke. The cultist casts [Hellish Rebuke](Mechanics/CLI/spells/hellish-rebuke-xphb.md) in response to the spell's trigger, using your Charisma as the spellcasting ability (spell save DC equals your Cohort save DC).
 ```
+
 ^statblock

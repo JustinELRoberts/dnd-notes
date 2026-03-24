@@ -27,8 +27,8 @@ classes:
 ---
 
 # Investiture of Stone
-*6th-level, Transmutation*  
 
+_6th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -37,10 +37,10 @@ classes:
 
 Until the spell ends, bits of rock spread across your body, and you gain the following benefits:
 
-- You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.  
-- You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
-- You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of your next turn.  
+- You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+- You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+- You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of your next turn.
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 159*
+_Source: Xanathar's Guide to Everything p. 159_

@@ -19,11 +19,12 @@ obsidianUIMode: preview
 ---
 
 # Tanarukk
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186_\
 ![](Mechanics/CLI/bestiary/fiend/img/tanarukk.webp#right)
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > I believe spite can be an excellent motivator. But unchecked fury? That rarely leads to anything more than a big mess.
 
 When demonic influence corrupts the leadership of a people or an organization, the leaders might embrace abyssal magic to make tanarukks, using these ferocious warriors to bolster their followers' strength.
@@ -74,6 +75,7 @@ title: Tanarukk
 
 ***Unbridled Fury.*** In response to being hit by a melee attack, the tanarukk can make one Bite or Greatsword attack with advantage against the attacker.
 ```
+
 ^statblock
 
 ## Environment

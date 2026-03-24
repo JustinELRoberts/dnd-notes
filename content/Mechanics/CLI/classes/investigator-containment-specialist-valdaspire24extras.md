@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Containment Specialist
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Contain and Conceal Anomalous Magic Artifacts*
+_Contain and Conceal Anomalous Magic Artifacts_
 
 Though the study of magic is diverse and wonderous, it contains mysteries better left unexplored. Such topics in magic are seldom studied, for their very existence poses an existential threat to the multiverse itself: chronomancy, protomancy, and quantumancy are among the few graced with names at all. When a sinister (or merely curious) arcanist pulls on one of these threads of knowledge, they open a Pandora's box of unpredictable effects. The results are usually catastrophic. Such dangerous arcana leaves lasting scars on people and objects, metaphysical reverberations of the terrible secrets at their source.
 
@@ -72,7 +73,7 @@ You can use the following trinkets.
 
 ### Arcane Disruption (Level 6)
 
-When you use your [Exploit Weakness](Mechanics/CLI/classes/investigator-valdaspire24.md#Exploit%20Weakness%20(Level%205)) and the target has the Magic Resistance trait, that trait doesn't function until the start of your next turn.
+When you use your [Exploit Weakness](Mechanics/CLI/classes/investigator-valdaspire24.md#Exploit%20Weakness%20\(Level%205\)) and the target has the Magic Resistance trait, that trait doesn't function until the start of your next turn.
 
 ### Nothing to See Here (Level 10)
 

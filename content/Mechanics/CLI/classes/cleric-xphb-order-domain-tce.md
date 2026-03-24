@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Order Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Tasha's Cauldron of Everything p. 31*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Tasha's Cauldron of Everything p. 31_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

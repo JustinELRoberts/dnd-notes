@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Eldritch Cannon, Flamethrower
-*Source: Tasha's Cauldron of Everything p. 17* 
+
+_Source: Tasha's Cauldron of Everything p. 17_
 
 ![Human Artillerist with Eldritch Cannon](Mechanics/CLI/objects/img/eldritch-cannon.webp#right)
 
@@ -23,6 +24,7 @@ obsidianUIMode: preview
 > Created by the Eldritch Cannon subclass feature.
 
 ![The Gnome Artificer Vi and...](Mechanics/CLI/objects/img/eldritch-cannon-2.webp#center "The Gnome Artificer Vi and Her Cockatrice-like Eldritch Cannon Battle Foes Atop a Lightning Train")
+
 ```ad-statblock
 title: Eldritch Cannon, Flamethrower
 *Unknown Unknown*
@@ -42,4 +44,5 @@ title: Eldritch Cannon, Flamethrower
 
 ***Flamethrower.*** The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking `2d8` fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren't being worn or carried.
 ```
+
 ^statblock

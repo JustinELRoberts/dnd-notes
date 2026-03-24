@@ -28,8 +28,8 @@ classes:
 ---
 
 # Legendary Libation
-*cantrip, Conjuration*  
 
+_cantrip, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
@@ -42,4 +42,4 @@ A container of your choice magically fills with a drink, such as ale or tea, whi
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

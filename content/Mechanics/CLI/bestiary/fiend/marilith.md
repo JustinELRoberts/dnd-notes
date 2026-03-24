@@ -16,15 +16,16 @@ obsidianUIMode: preview
 ---
 
 # Marilith
-*Source: Monster Manual p. 61. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 61. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/marilith.webp#right)
 
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
 
 These demons possess keen minds and a finely honed sense of tactics, and they are able to lead and unite other demons in common cause. Mariliths are often encountered as captains at the head of a demonic horde, where they embrace any opportunity to rush headlong into battle.
 
-> [!quote] A quote from Nelumé, a young half-elf wizard, chronicling her one and only visit to the Temple of Elemental Evil  
-> 
+> [!quote] A quote from Nelumé, a young half-elf wizard, chronicling her one and only visit to the Temple of Elemental Evil
+>
 > The temple was strewn with body parts. We concluded that the cultists had summoned a powerful demon and not lived to regret it. Not wanting to get hacked to pieces ourselves, we cut short our expedition and returned to the village of Hommlet with our tails between our legs. Rufus and Burne had a good laugh at our expense, let me tell you.
 
 ## Demons
@@ -166,33 +167,32 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 ^demons-by-type
 
 > [!note] Demon True Names
-> 
+>
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
-> 
+>
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
-^demon-true-names
+> ^demon-true-names
 
 > [!note] Variant: Demon Summoning
-> 
+>
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
-> 
-> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.  
-> - A barlgura has a 30 percent chance of summoning one barlgura.  
-> - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.  
-> - A yochlol has a 50 percent chance of summoning one yochlol.  
-> 
+>
+> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.
+> - A barlgura has a 30 percent chance of summoning one barlgura.
+> - A chasme has a 30 percent chance of summoning one chasme.
+> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.
+> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.
+> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.
+> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.
+> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.
+> - A yochlol has a 50 percent chance of summoning one yochlol.
+>
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-^variant-demon-summoning
+> ^variant-demon-summoning
 
-> [!quote] A quote from From the Demonomicon of Iggwilv  
-> 
+> [!quote] A quote from From the Demonomicon of Iggwilv
+>
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
-
 
 ## Statblock
 
@@ -242,4 +242,5 @@ title: Marilith
 
 ***Parry.*** The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock

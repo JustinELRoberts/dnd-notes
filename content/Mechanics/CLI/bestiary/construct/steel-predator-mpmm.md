@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Steel Predator
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 232*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 232_\
 ![](Mechanics/CLI/bestiary/construct/img/steel-predator.webp#right)
 
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
@@ -73,6 +74,7 @@ title: Steel Predator
 
 **3/day each:** [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md) (self only), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
 ```
+
 ^statblock
 
 ## Environment

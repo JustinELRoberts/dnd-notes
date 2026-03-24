@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Dressing; Mage Furnishings
-*Source: Dungeon Master's Guide p. 298* 
+
+_Source: Dungeon Master's Guide p. 298_
 
 **Mage Furnishings**
 

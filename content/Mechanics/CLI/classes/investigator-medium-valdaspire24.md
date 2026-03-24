@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Medium
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Foretell the Future and Commune with the Dead*
+_Foretell the Future and Commune with the Dead_
 
 As conduits between the living and dead, Mediums offer an essential glimpse past the veil of mortality. Using their auguries, seances, and divinations, Mediums can retrieve morsels of information from the afterlife to settle debts between the living or dead, and to assist ongoing investigations. This information, however cryptic, can point an interested party toward clues or evidence that only the deceased are able to provide.
 
@@ -78,7 +79,7 @@ Once per turn when you deal damage with a weapon, you can replace one of the dam
 
 As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can receive a hint from beyond. The GM gives a one-word hint pertaining to your best course of action, a fruitful line of inquiry, or some other useful direction.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) (no action required).
+Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
 
 ### Third Eye (Level 14)
 

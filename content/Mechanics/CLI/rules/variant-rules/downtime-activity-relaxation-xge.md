@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Relaxation
-*Source: Xanathar's Guide to Everything p. 131* 
+
+_Source: Xanathar's Guide to Everything p. 131_
 
 Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break. This option is also ideal for players who don't want to make use of the downtime system.
 

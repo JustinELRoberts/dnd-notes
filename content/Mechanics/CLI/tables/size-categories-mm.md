@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Size Categories
-*Source: Monster Manual p. 6* 
+
+_Source: Monster Manual p. 6_
 
 **Size Categories**
 

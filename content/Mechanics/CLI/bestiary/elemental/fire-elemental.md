@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Fire Elemental
-*Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/fire-elemental.webp#right)
 
 A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
@@ -81,6 +82,7 @@ title: Fire Elemental
 
 ***Touch.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (`1d10`) fire damage at the start of each of its turns.
 ```
+
 ^statblock
 
 ## Environment

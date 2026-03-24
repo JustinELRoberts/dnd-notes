@@ -53,8 +53,8 @@ classes:
 ---
 
 # Protection from Evil and Good
-*1st-level, Abjuration*  
 
+_1st-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -65,4 +65,4 @@ Until the spell ends, one willing creature you touch is protected against creatu
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Mercy)](Mechanics/CLI/lists/list-spells-classes-burden-of-mercy-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr (Burden of the End)](Mechanics/CLI/lists/list-spells-classes-burden-of-the-end-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Devotion)](Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger (Horizon Walker)](Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE;class=XPHB"); [Ranger (Monster Slayer)](Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Neutrality)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

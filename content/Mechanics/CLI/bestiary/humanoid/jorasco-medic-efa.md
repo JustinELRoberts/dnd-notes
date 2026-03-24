@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Jorasco Medic
-*Source: Eberron: Forge of the Artificer p. 81*  
+
+_Source: Eberron: Forge of the Artificer p. 81_\
 ![](Mechanics/CLI/bestiary/humanoid/img/jorasco-medic.webp#right)
 
 Dragonmarked heirs of House Jorasco served alongside every nation's armies in the Last War, providing medical care and magical healing to the injured. Though the warring nations treated Jorasco medics as sacrosanct, these medics also learned to channel their healing power into dazzling light to help them reach the wounded and escape from the thick of combat when necessary.
@@ -57,4 +58,5 @@ title: Jorasco Medic
 ***Mark of Healing (2/Day).*** The medic casts [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md) or [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), using Wisdom as the spellcasting ability.
 
 ```
+
 ^statblock

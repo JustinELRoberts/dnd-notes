@@ -31,8 +31,8 @@ classes:
 ---
 
 # Rary's Telepathic Bond
-*5th-level, Divination (ritual)*  
 
+_5th-level, Divination (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet
@@ -45,4 +45,4 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Martyr (Burden of Revolution)](Mechanics/CLI/lists/list-spells-classes-burden-of-revolution-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Sorcerer (Aberrant Sorcery)](Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Technicolor Magic)](Mechanics/CLI/lists/list-spells-classes-technicolor-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Telepathic Bond") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Telepathic Bond") and the Free Rules (2024)_

@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Inquisitive Agency
-*Level 13 Bastion facility*  
+
+_Level 13 Bastion facility_
 
 - **Prerequisites**: None
 - **Space**: Roomy (16 sq)
@@ -27,11 +28,11 @@ This facility is an office for an inquisitive agency—either the headquarters o
 
 When you issue the Research order to this facility, you commission the agency's secretary to gather information from contacts and agents regarding a specific individual you designate, assembling a comprehensive picture of that person's activities during the previous 7 days and over the course of the next 7 days, within 10 miles of your Bastion. Unless the DM deems that certain information is beyond these agents' ability to uncover, you learn the following information:
 
-- Where the person is and has been staying  
-- What they've spent money on  
-- Whom they've met with  
-- Where they've shown identification papers to the authorities  
+- Where the person is and has been staying
+- What they've spent money on
+- Whom they've met with
+- Where they've shown identification papers to the authorities
 
 If your Bastion is mobile, it takes time to establish this network of agents in a new place. When your Bastion is traveling, you can't issue the Research order to this facility. After it arrives at its destination, the first time you issue the Research order, this facility's hireling spends 7 days establishing a new network, after which you can use the Research order normally.
 
-*Source: Eberron: Forge of the Artificer p. 49*
+_Source: Eberron: Forge of the Artificer p. 49_

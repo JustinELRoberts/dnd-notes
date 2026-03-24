@@ -49,8 +49,8 @@ classes:
 ---
 
 # Death Ward
-*4th-level, Abjuration*  
 
+_4th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -63,4 +63,4 @@ If the spell is still in effect when the target is subjected to an effect that w
 
 **Classes**: [Artificer (Alchemist)](Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Grave Domain)](Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Cleric (Life Domain)](Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Ascension)](Mechanics/CLI/lists/list-spells-classes-burden-of-ascension-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Atonement)](Mechanics/CLI/lists/list-spells-classes-burden-of-atonement-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr (Burden of Mercy)](Mechanics/CLI/lists/list-spells-classes-burden-of-mercy-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Dead Mist Acolyte)](Mechanics/CLI/lists/list-spells-classes-dead-mist-acolyte-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Pharaoh)](Mechanics/CLI/lists/list-spells-classes-pharaoh-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Witch (Black Magic)](Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Steel Magic)](Mechanics/CLI/lists/list-spells-classes-steel-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (White Magic)](Mechanics/CLI/lists/list-spells-classes-white-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

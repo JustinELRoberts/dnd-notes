@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Wilderness Chase Complications
-*Source: Dungeon Master's Guide p. 253* 
+
+_Source: Dungeon Master's Guide p. 253_
 
 **Wilderness Chase Complications**
 

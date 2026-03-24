@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Topaz
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 500 gp
 
 A transparent golden yellow gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

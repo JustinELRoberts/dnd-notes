@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Quick Matchups
-*Source: Xanathar's Guide to Everything p. 91* 
+
+_Source: Xanathar's Guide to Everything p. 91_
 
 **Quick Matchups**
 

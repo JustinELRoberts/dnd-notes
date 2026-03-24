@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Grappler 
+# Grappler
 
-
-***Prerequisites*** 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
+_**Prerequisites**_ 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Attack Advantage.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against a creature [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) by you.
 
 **Fast Wrestler.** You don't have to spend extra movement to move a creature [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) by you if the creature is your size or smaller.
+
 ## Sources
 
-*Player's Handbook (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Player's Handbook (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

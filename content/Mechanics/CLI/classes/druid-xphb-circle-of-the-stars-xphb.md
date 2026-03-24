@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Circle of the Stars
-*[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Player's Handbook (2024) p. 88*  
+
+_[Druid](./druid-xphb.md): Druid Subclass_\
+_Source: Player's Handbook (2024) p. 88_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/stars-druid.webp#right)
 
-*Harness Secrets Hidden in Constellations*
+_Harness Secrets Hidden in Constellations_
 
 The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.
 
@@ -100,8 +101,8 @@ A constellation of a wise dragon appears on you. When you make an Intelligence o
 
 Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can consult your Star Map for omens and roll a die. Until you finish your next [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you gain access to a special [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) based on whether you rolled an even or an odd number on the die:
 
-- **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to roll `1d6` and add the number rolled to the total.  
-- **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to roll `1d6` and subtract the number rolled from the total.  
+- **Weal (even).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to roll `1d6` and add the number rolled to the total.
+- **Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to roll `1d6` and subtract the number rolled from the total.
 
 You can use this [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 

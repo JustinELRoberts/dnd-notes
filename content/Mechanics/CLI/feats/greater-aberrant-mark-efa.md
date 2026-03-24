@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Aberrant Mark 
+# Greater Aberrant Mark
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Mark of Inspiration.** When you cast a cantrip, you can roll one or two of your unexpended [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md). You gain a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to the number rolled plus your Constitution modifier, and one creature of your choice within 30 feet of you (not including you) takes Force damage equal to the number rolled. Those dice are then expended.
 
 You can use this benefit a number of times equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 43*
+_Eberron: Forge of the Artificer p. 43_

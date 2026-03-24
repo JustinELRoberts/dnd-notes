@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Githyanki Kith'rak
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 140_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki-kithrak.webp#right)
 
 Militarized githyanki cultures assign ranks and responsibilities to citizens. Groups of ten warriors follow the commands of sarths ([githyanki warriors](Mechanics/CLI/bestiary/humanoid/githyanki-warrior.md)), while ten sarths obey the commands of a mighty kith'rak. These champions undergo torturous training and psionic testing until they can command the respect of their underlings.
@@ -75,6 +76,7 @@ title: Githyanki Kith'rak
 
 ***Parry.*** The githyanki adds 4 to its AC against one melee attack that would hit it. To do so, the githyanki must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock
 
 ## Environment

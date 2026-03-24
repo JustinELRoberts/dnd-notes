@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Kid Sleuth
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Solve Mysteries with Your Talking Animal Sidekick*
+_Solve Mysteries with Your Talking Animal Sidekick_
 
 Though Kid Sleuths are not all literally youths, they are all amateur detectives with a knack for solving tricky crimes. Assisted by their ubiquitous animal sidekicks, Kid Sleuths will happily dive into the details of a grim crime scene to emerge with a handful of clues and a lead on the bad guy. These sleuths generally prefer to run away from trouble, rather than engage head-on, since mysteries only get harder to solve with more dead bodies, but they are more than capable of defending themselves if backed into a corner.
 
@@ -56,7 +57,7 @@ Though Kid Sleuths are not all literally youths, they are all amateur detectives
 
 ### Animal Sidekick (Level 3)
 
-You gain a Kid Sleuth's constant companion: a talking animal sidekick. You add [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md) to your grimoire for free. You can use [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) to cast the spell without expending a use of the feature, and you don't need to read from your grimoire to cast it. The spell is improved in the following ways when you cast it.
+You gain a Kid Sleuth's constant companion: a talking animal sidekick. You add [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md) to your grimoire for free. You can use [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) to cast the spell without expending a use of the feature, and you don't need to read from your grimoire to cast it. The spell is improved in the following ways when you cast it.
 
 **Expanded Options.** You can choose one of the normal forms for your familiar or one of the following special forms: [Goat](Mechanics/CLI/bestiary/beast/goat-xmm.md), [Mastiff](Mechanics/CLI/bestiary/beast/mastiff-xmm.md), or [Weasel](Mechanics/CLI/bestiary/beast/weasel-xmm.md).
 
@@ -76,7 +77,7 @@ You can use the following trinkets.
 
 ### Split Up, Gang (Level 6)
 
-When you use your [Exploit Weakness](Mechanics/CLI/classes/investigator-valdaspire24.md#Exploit%20Weakness%20(Level%205)), you can immediately move up to half your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack). Alternatively, you can choose one ally you can see within 30 feet of you who can see or hear you. The ally can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to move up to half its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+When you use your [Exploit Weakness](Mechanics/CLI/classes/investigator-valdaspire24.md#Exploit%20Weakness%20\(Level%205\)), you can immediately move up to half your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack). Alternatively, you can choose one ally you can see within 30 feet of you who can see or hear you. The ally can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to move up to half its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
 
 ### Cunning Companion (Level 10)
 

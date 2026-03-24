@@ -27,8 +27,8 @@ classes:
 ---
 
 # Mental Prison
-*6th-level, Illusion*  
 
+_6th-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -39,4 +39,4 @@ You attempt to bind a creature within an illusory cell that only it perceives. O
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 161*
+_Source: Xanathar's Guide to Everything p. 161_

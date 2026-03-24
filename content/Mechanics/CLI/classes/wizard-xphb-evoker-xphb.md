@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Evoker
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Wizard](./wizard-xphb.md): Wizard Subclass_\
+_Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/evoker-wizard.webp#right)
 
-*Create Explosive Elemental Effects*
+_Create Explosive Elemental Effects_
 
 Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.
 

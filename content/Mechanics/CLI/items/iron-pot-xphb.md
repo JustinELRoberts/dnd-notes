@@ -15,12 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Iron Pot
-*Adventuring gear*  
 
+_Adventuring gear_
 
 - **Cost**: 2 gp
 - **Weight**: 10.0 lbs.
 
 An Iron Pot holds up to 1 gallon.
 
-*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -15,20 +15,20 @@ obsidianUIMode: preview
 ---
 
 # Robe of Useful Items
-*Wondrous item, minor, uncommon*  
-![](Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
 
+_Wondrous item, minor, uncommon_\
+![](Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 
 The robe has two of each of the following patches:
 
-- Dagger  
-- Bullseye lantern (filled and lit)  
-- Steel mirror  
-- 10-foot pole  
-- Hempen rope (50 feet, coiled)  
-- Sack  
+- Dagger
+- Bullseye lantern (filled and lit)
+- Steel mirror
+- 10-foot pole
+- Hempen rope (50 feet, coiled)
+- Sack
 
 In addition, the robe has `4d4` other patches. The DM chooses the patches or determines them randomly.
 
@@ -49,4 +49,4 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 97-00 | [Portable ram](Mechanics/CLI/items/portable-ram-xphb.md) |
 ^patch
 
-*Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

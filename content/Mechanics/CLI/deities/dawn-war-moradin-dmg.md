@@ -18,14 +18,11 @@ obsidianUIMode: preview
 
 # Moradin
 
-
 - **Alignment**: Lawful Good
 - **Domains**: Forge, Knowledge, War
 - **Pantheon**: Dawn War
 - **Symbol**: Flaming anvil
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10, Xanathar's Guide to Everything p. 18*
+_Dungeon Master's Guide p. 10, Xanathar's Guide to Everything p. 18_

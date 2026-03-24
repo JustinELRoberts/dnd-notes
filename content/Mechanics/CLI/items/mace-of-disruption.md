@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Mace of Disruption
-*Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, rare (requires attunement)*  
+
+_Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/mace-of-disruption.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -28,4 +29,4 @@ When you hit a fiend or an undead with this magic weapon, that creature takes an
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
-*Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

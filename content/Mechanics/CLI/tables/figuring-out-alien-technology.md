@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Figuring Out Alien Technology
-*Source: Dungeon Master's Guide p. 268* 
+
+_Source: Dungeon Master's Guide p. 268_
 
 **Figuring Out Alien Technology**
 

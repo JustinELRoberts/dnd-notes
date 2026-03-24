@@ -21,8 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Orc Blade of Ilneval
-*Source: Volo's Guide to Monsters p. 183*  
 
+_Source: Volo's Guide to Monsters p. 183_
 
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
 
@@ -34,10 +34,9 @@ Orcs know better. Different groups of orcs exist within a tribe, the actions of 
 
 In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
 
-> [!quote] A quote from Elminster  
-> 
+> [!quote] A quote from Elminster
+>
 > An orc life is a god-ridden life. Luthic's at birth, Luthic's at death, and striving to prove themselves to Gruumsh in between.
-
 
 ```ad-statblock
 title: Orc Blade of Ilneval
@@ -76,6 +75,7 @@ title: Orc Blade of Ilneval
 
 ***Ilneval's Command (Recharge 4-6).*** Up to three allied orcs within 120 feet of this orc that can hear it can use their reactions to each make one weapon attack.
 ```
+
 ^statblock
 
 ## Environment

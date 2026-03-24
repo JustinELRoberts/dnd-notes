@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Dynamite (stick)
-*Explosive*  
 
+_Explosive_
 
 - **Weight**: 1.0 lbs.
 
@@ -27,4 +27,4 @@ A character can bind sticks of dynamite together so they explode at the same tim
 
 Dynamite can be rigged with a longer fuse to explode after a set amount of time, usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

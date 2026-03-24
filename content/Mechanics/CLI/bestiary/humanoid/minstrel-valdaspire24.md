@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Minstrel
-*Source: Valda's Spire of Secrets (2024)*  
 
+_Source: Valda's Spire of Secrets (2024)_
 
 With lute in hand, a minstrel keeps their traveling companions in high spirits and slings vicious taunts at their enemies.
 
@@ -66,4 +66,5 @@ title: Minstrel
 
 ***Level 17.*** Inspiring Song (1/Day). The minstrel gives [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) to each creature it chooses within a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from it.
 ```
+
 ^statblock

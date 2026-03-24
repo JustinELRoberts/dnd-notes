@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Deep Ethereal; Ethereal Curtains
-*Source: Dungeon Master's Guide p. 48* 
+
+_Source: Dungeon Master's Guide p. 48_
 
 **Ethereal Curtains**
 

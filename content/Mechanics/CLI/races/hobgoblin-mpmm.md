@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Hobgoblin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 23*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 23_\
 ![](Mechanics/CLI/races/img/hobgoblin.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -42,9 +43,9 @@ You can use this trait to take the [Help](Mechanics/CLI/rules/actions.md#Help) a
 
 Starting at 3rd level, choose one of the options below each time you take the [Help](Mechanics/CLI/rules/actions.md#Help) action with this trait:
 
-- **Hospitality.** You and the creature you help each gain a number of temporary hit points equal to `1d6` plus your proficiency bonus.  
-- **Passage.** You and the creature you help each increase your walking speeds by 10 feet until the start of your next turn.  
-- **Spite.** Until the start of your next turn, the first time the creature you help hits a target with an attack roll, that target has disadvantage on the next attack roll it makes within the next minute.  
+- **Hospitality.** You and the creature you help each gain a number of temporary hit points equal to `1d6` plus your proficiency bonus.
+- **Passage.** You and the creature you help each increase your walking speeds by 10 feet until the start of your next turn.
+- **Spite.** Until the start of your next turn, the first time the creature you help hits a target with an attack roll, that target has disadvantage on the next attack roll it makes within the next minute.
 
 ### Fortune from the Many
 

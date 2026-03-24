@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Charm of Xen'drik
 
-
 While you have this Charm, you know the Giant language. As a Bonus Action, you can expend the Charm to change your Strength score to 25 for 1 hour.
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 51*
+_Eberron: Forge of the Artificer p. 51_

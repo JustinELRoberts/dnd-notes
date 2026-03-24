@@ -16,11 +16,11 @@ obsidianUIMode: preview
 ---
 
 # Crystal Ball
-*Wondrous item, major, very rare (requires attunement)*  
 
+_Wondrous item, major, very rare (requires attunement)_
 
 - **Weight**: 3.0 lbs.
 
 This crystal ball is about 6 inches in diameter. While touching it, you can cast the [scrying](Mechanics/CLI/spells/scrying-xphb.md) spell (save DC 17) with it.
 
-*Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

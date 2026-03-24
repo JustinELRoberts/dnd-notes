@@ -20,8 +20,8 @@ classes:
 ---
 
 # Compelled Duel
-*1st-level, Enchantment*  
 
+_1st-level, Enchantment_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
@@ -34,4 +34,4 @@ The spell ends if you make an attack roll against a creature other than the targ
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 252*
+_Source: Player's Handbook (2024) p. 252_

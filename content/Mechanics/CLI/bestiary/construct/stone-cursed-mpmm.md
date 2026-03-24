@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Stone Cursed
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 233*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 233_\
 ![](Mechanics/CLI/bestiary/construct/img/stone-cursed.webp#right)
 
 Stone cursed are spawned through a foul alchemical ritual performed on a Humanoid that has been turned to stone. The ritual, which requires a mixture of basilisk blood and the ashes from the burned feathers of a cockatrice, awakens a dim echo of the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) victim's spirit, animating the statue and turning it into a useful guardian.
@@ -69,6 +70,7 @@ title: Stone Cursed
 
 ***Petrifying Claws.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) slashing damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw, or it begins to turn to stone and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the end of its next turn, when it must repeat the saving throw. The effect ends if the second save is successful; otherwise the target is [petrified](Mechanics/CLI/rules/conditions.md#Petrified) for 24 hours.
 ```
+
 ^statblock
 
 ## Environment

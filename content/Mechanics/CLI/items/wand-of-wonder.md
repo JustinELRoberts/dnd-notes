@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Wonder
-*Wand, major, rare (requires attunement by a spellcaster)*  
+
+_Wand, major, rare (requires attunement by a spellcaster)_\
 ![](Mechanics/CLI/items/img/wand-of-wonder.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -56,4 +57,4 @@ The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wan
 | 98-00 | If you targeted a creature, it must make a DC 15 Constitution saving throw. If you didn't target a creature, you become the target and must make the saving throw. If the saving throw fails by 5 or more, the target is instantly [petrified](Mechanics/CLI/rules/conditions.md#Petrified). On any other failed save, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and begins to turn to stone. While [restrained](Mechanics/CLI/rules/conditions.md#Restrained) in this way, the target must repeat the saving throw at the end of its next turn, becoming [petrified](Mechanics/CLI/rules/conditions.md#Petrified) on a failure or ending the effect on a success. The petrification lasts until the target is freed by the [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic. |
 ^effect
 
-*Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

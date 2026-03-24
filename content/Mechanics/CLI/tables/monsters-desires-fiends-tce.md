@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Monsters' Desires; Fiends
-*Source: Tasha's Cauldron of Everything p. 148* 
+
+_Source: Tasha's Cauldron of Everything p. 148_
 
 **Fiends**
 

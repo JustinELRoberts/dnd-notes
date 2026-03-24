@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Cult Fanatic
-*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/cult-fanatic.webp#right)
 
 Fanatics are often part of a cult's leadership, using their charisma and dogma to influence and prey on those of weak will. Most are interested in personal power above all else
@@ -61,6 +62,7 @@ title: Cult Fanatic
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+4` to hit, reach 5 ft. or range 20/60 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

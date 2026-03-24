@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Geryon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 136*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 136_\
 ![](Mechanics/CLI/bestiary/npc/img/geryon.webp#right)
 
 Geryon is locked in an endless struggle with Levistus for control of Stygia. The two have fought for centuries, each displacing the other innumerable times. Currently, Levistus claims lordship over Stygia, but he has been trapped in an enormous block of ice at the command of Asmodeus. In response, Geryon is marshaling his followers, hoping to use this opportunity to replace his hated rival.
@@ -109,4 +110,5 @@ The region containing Geryon's lair is warped by his magic, creating one or more
 
 If Geryon dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock

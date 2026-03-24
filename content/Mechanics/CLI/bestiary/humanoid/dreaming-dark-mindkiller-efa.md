@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Dreaming Dark Mindkiller
-*Source: Eberron: Forge of the Artificer p. 60*  
+
+_Source: Eberron: Forge of the Artificer p. 60_\
 ![](Mechanics/CLI/bestiary/humanoid/img/dreaming-dark-mindkiller.webp#right)
 
 Mindkillers are the assassins of the Dreaming Dark, sent to terrify their foes before striking to kill. Mindkillers force foes to attack their own allies, causing physical and emotional devastation to grow the power of the Dreaming Dark.
@@ -56,4 +57,5 @@ title: Dreaming Dark Mindkiller
 ***Slayer's Puppet (1/Day).*** The mindkiller casts [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md), requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 17).
 
 ```
+
 ^statblock

@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of Luck
 
-
-You can add a `d10` roll to any ability check, attack roll, or saving throw you make. Once you use this boon, you can't use it again until you finish a short rest. 
+You can add a `d10` roll to any ability check, attack roll, or saving throw you make. Once you use this boon, you can't use it again until you finish a short rest.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

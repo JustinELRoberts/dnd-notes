@@ -23,7 +23,8 @@ obsidianUIMode: preview
 ---
 
 # Lost Sorrowsworn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 224*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 224_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/lost-sorrowsworn.webp#right)
 
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
@@ -69,6 +70,7 @@ title: Lost Sorrowsworn
 
 ***Tightening Embrace.*** If the sorrowsworn takes damage, the creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by Embrace takes 18 (`4d8`) psychic damage.
 ```
+
 ^statblock
 
 ## Environment

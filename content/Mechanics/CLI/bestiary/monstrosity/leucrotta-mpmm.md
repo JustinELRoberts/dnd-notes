@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Leucrotta
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/leucrotta.webp#right)
 
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
@@ -69,6 +70,7 @@ title: Leucrotta
 
 ***Kicking Retreat.*** Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action.
 ```
+
 ^statblock
 
 ## Environment

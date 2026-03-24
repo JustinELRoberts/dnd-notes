@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Fear
-*Wand, major, rare (requires attunement)*  
+
+_Wand, major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/wand-of-fear.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -32,4 +33,4 @@ While holding the wand, you can use an action to expend 1 charge and command ano
 
 While holding the wand, you can use an action to expend 2 charges, causing the wand's tip to emit a 60-foot cone of amber light. Each creature in the cone must succeed on a DC 15 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of you for 1 minute. While it is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](Mechanics/CLI/rules/actions.md#Dash) action or try to escape from an effect that prevent it from moving. If it has nowhere it can move, the creature can use the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action. At the end of each of its turns, a creature can repeat the saving throw, ending the effect on itself on a success.
 
-*Source: Dungeon Master's Guide p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

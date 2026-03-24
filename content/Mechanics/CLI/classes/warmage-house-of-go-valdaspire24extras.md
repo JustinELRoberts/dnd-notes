@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Go
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Go.webp#right)
 
-*Dominate Your Foes Through Cunning Formations*
+_Dominate Your Foes Through Cunning Formations_
 
 The renowned House of Go predates the other Warmage colleges by centuries. Unlike its successors, the strategies pioneered by the House of Go focus upon formations and cooperation, rather than individual excellence. Which isn't to suggest that Warmages of this college are anything other than brilliant strategists—they rival the House of Kings in this regard. Rather, the footsoldiers of the House of Go are greater than the sum of their parts, fluidly adopting motions to isolate and flank their foes.
 
@@ -82,4 +83,4 @@ Your formation moves as if your [Allies](Mechanics/CLI/rules/variant-rules/ally-
 
 ### End Game (Level 18)
 
-On your turn, when you reduce a creature to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) with a Warmage cantrip, you can cast another cantrip as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). You can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20(Level%201)) to this cantrip, even if you have already used it on your turn.
+On your turn, when you reduce a creature to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) with a Warmage cantrip, you can cast another cantrip as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). You can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to this cantrip, even if you have already used it on your turn.

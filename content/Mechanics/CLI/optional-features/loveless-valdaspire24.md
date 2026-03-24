@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Loveless 
-
+# Loveless
 
 You are cursed to never find true love. You have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

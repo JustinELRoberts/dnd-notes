@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spellcasting; Multiclass Spellcaster: Spell Slots per Spell Level
-*Source: Player's Handbook (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 **Multiclass Spellcaster: Spell Slots per Spell Level**
 

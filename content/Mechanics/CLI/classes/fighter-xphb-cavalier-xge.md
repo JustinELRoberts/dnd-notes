@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Cavalier
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
-*Source: Xanathar's Guide to Everything p. 30*  
+
+_[Fighter](./fighter-xphb.md): Fighter Subclass_\
+_Source: Xanathar's Guide to Everything p. 30_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

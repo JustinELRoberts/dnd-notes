@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Cleaving Through Creatures
-*Source: Dungeon Master's Guide p. 272* 
+
+_Source: Dungeon Master's Guide p. 272_
 
 If your player characters regularly fight hordes of lower-level monsters, consider using this optional rule to help speed up such fights.
 

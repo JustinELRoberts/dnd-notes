@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Gold dragon comb set with red garnets as eyes
-*Treasure (art object)*  
 
+_Treasure (art object)_
 
 - **Cost**: 750 gp
 
-*Source: Dungeon Master's Guide p. 135*
+_Source: Dungeon Master's Guide p. 135_

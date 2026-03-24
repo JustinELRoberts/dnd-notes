@@ -15,12 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Draconis Fundamentum
-*Monstrous graft*  
 
+_Monstrous graft_
 
 - **Properties**: [Internal Slot](Mechanics/CLI/rules/item-properties.md#Internal%20Slot)
 
-*Donor: Any Dragon with a Breath Weapon, Such as Fire Breath*
+_Donor: Any Dragon with a Breath Weapon, Such as Fire Breath_
 
 This graft installs the source of breath weapons into your body. When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can replace one of your attacks with an exhalation of magical energy in a [Cone](Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md). Each creature in that [Cone](Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md) must make a Dexterity saving throw, taking damage as shown on the Draconis Fundamentum table of the same type as the donor's breath weapon, or half as much damage on a successful save. The breath weapon's damage, save DC, and area of effect vary with the donor's [Challenge Rating](Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md), as shown on the Draconis Fundamentum table.
 
@@ -36,4 +36,4 @@ Once you activate this graft, you can't do so again until you finish a [Long Res
 | Ancient | 17+ | 8d8 | 19 | 90 feet | 6 | Legendary |
 ^draconis-fundamentum
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

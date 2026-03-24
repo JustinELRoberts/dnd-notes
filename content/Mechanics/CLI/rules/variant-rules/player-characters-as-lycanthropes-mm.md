@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Player Characters as Lycanthropes
-*Source: Monster Manual p. 207, Curse of Strahd p. 242, Waterdeep: Dungeon of the Mad Mage p. 317, Van Richten's Guide to Ravenloft p. 237* 
+
+_Source: Monster Manual p. 207, Curse of Strahd p. 242, Waterdeep: Dungeon of the Mad Mage p. 317, Van Richten's Guide to Ravenloft p. 237_
 
 A character who becomes a lycanthrope retains his or her statistics except as specified by lycanthrope type. The character gains the lycanthrope's speeds in non-humanoid form, damage immunities, traits, and actions that don't involve equipment. The character is proficient with the lycanthrope's natural attacks, such as its bite or claws, which deal damage as shown in the lycanthrope's statistics. The character can't speak while in animal form.
 
@@ -42,16 +43,19 @@ The character gains a Strength of 17 if his or her score isn't already higher. A
 The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 
 ## Wereraven
+
 _Source: Curse of Strahd_
 
 A character cursed with wereraven lycanthropy gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the wereraven's bite are based on whichever is higher of the character's Strength and Dexterity. The bite of a wereraven in raven form deals 1 piercing damage (no ability modifier applies to this damage) and carries the curse of lycanthropy.
 
 ## Werebat
+
 _Source: Waterdeep: Dungeon of the Mad Mage_
 
 A player character who becomes a werebat gains a Dexterity of 17 if their score isn't already higher. Attack and damage rolls for the werebat's bite attack are based on the character's Strength or Dexterity score, whichever is higher.
 
 ## Loup Garou
+
 _Source: Van Richten's Guide to Ravenloft_
 
 A Humanoid who succumbs to a loup garou's lycanthropy becomes a [werewolf](Mechanics/CLI/bestiary/humanoid/werewolf.md) (see above). This form of lycanthropy can't be removed while the loup garou that inflicted the curse lives.

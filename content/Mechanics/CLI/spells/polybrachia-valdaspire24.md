@@ -32,8 +32,8 @@ classes:
 ---
 
 # Polybrachia
-*3rd-level, Conjuration*  
 
+_3rd-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -44,4 +44,4 @@ Two muscular arms of brilliant arcane energy appear on a willing creature that y
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

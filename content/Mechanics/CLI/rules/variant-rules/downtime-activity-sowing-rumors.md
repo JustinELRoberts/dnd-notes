@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Sowing Rumors
-*Source: Dungeon Master's Guide p. 131* 
+
+_Source: Dungeon Master's Guide p. 131_
 
 Swaying public opinion can be an effective way to bring down a villain or elevate a friend. Spreading rumors is an efficient, if underhanded, way to accomplish that goal. Well-placed rumors can increase the subject's standing in a community or embroil someone in scandal. A rumor needs to be simple, concrete, and hard to disprove. An effective rumor also has to be believable, playing off what people want to believe about the person in question.
 

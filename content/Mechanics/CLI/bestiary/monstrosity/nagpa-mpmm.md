@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Nagpa
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 189*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 189_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/nagpa.webp#right)
 
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
@@ -73,6 +74,7 @@ title: Nagpa
 
 ***Paralysis (Recharge 6-6).*** The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom saving throw, excluding Undead and Constructs. On a failed save, a target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. A [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

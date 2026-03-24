@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Gas Spore
-*Source: Monster Manual p. 138*  
+
+_Source: Monster Manual p. 138_\
 ![](Mechanics/CLI/bestiary/plant/img/gas-spore.webp#right)
 
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
@@ -78,6 +79,7 @@ Spores invade an infected creature's system, killing the creature in a number of
 
 ***Touch.*** *Melee Weapon Attack:* `+0` to hit, reach 5 ft., one creature. *Hit:* 1 poison damage, and the creature must succeed on a DC 10 Constitution saving throw or become infected with the disease described in the Death Burst trait.
 ```
+
 ^statblock
 
 ## Environment

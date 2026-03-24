@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Myconid Sovereign
-*Source: Monster Manual p. 232*  
+
+_Source: Monster Manual p. 232_\
 ![](Mechanics/CLI/bestiary/plant/img/myconids.webp#right)
 
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
@@ -74,6 +75,7 @@ title: Myconid Sovereign
 
 ***Rapport Spores.*** A 30-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
 ```
+
 ^statblock
 
 ## Environment

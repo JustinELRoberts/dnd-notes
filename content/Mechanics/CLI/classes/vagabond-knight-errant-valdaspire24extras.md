@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Knight Errant
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Uphold Your Chivalrous Values*
+_Uphold Your Chivalrous Values_
 
 Knights that have failed, forsaken, or betrayed their masters are known as Knights Errant. Though they no longer follow the dictates of a lord, these knights are usually reluctant to abandon their vows of ethics entirely. Many wander the lands seeking out honorable quests and worthy adversaries, for disgraced knights are knights nonetheless.
 

@@ -16,11 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Demogorgon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 90*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 90_\
 ![](Mechanics/CLI/bestiary/npc/img/demogorgon.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Are two heads better than one? In Demogorgon's case, the two double the horror and the chaos.
 
 Prince of Demons, the Sibilant Beast, and Master of the Spiraling Depths, Demogorgon is the embodiment of chaos, confusion, and destruction, seeking to corrupt all that is good and undermine order in the multiverse, to see everything dragged howling into the infinite depths of the Abyss.
@@ -118,4 +119,5 @@ The region containing Demogorgon's lair is warped by his magic, creating one or 
 
 If Demogorgon dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock

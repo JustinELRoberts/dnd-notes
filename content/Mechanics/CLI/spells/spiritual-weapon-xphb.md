@@ -29,7 +29,8 @@ classes:
 ---
 
 # Spiritual Weapon
-*2nd-level, Evocation*  
+
+_2nd-level, Evocation_\
 ![](Mechanics/CLI/spells/img/spiritual-weapon.webp#right)
 
 - **Casting time:** 1 Bonus Action
@@ -45,4 +46,4 @@ As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on y
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of Conquest)](Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

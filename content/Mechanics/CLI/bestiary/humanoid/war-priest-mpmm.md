@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # War Priest
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218_\
 ![](Mechanics/CLI/bestiary/humanoid/img/war-priest.webp#right)
 
 War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [warlord](Mechanics/CLI/bestiary/humanoid/warlord-mpmm.md) (appears in "this book") on the battlefield.
@@ -78,6 +79,7 @@ title: War Priest
 
 ***Healing Light (Recharge 4-6).*** The war priest or one creature of its choice within 60 feet of it regains 12 (`2d8 + 3`) hit points.
 ```
+
 ^statblock
 
 ## Environment

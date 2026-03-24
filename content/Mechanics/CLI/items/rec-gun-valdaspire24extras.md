@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # REC Gun
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 radiant
 - **Range**: 100/400
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 The Revolving Exothermic Cannon (or REC gun, for short) operates on the same principle as a conventional blaster, with an arcane battery hooked up to an aperture barrel and so forth, but mounts several blasters on a revolving cylinder and fires each in rapid succession. A tripod mount keeps the blaster stable despite its heft and shocking recoil.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

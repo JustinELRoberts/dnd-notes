@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Brazier of Commanding Fire Elementals
-*Wondrous item, major, rare*  
+
+_Wondrous item, major, rare_\
 ![](Mechanics/CLI/items/img/brazier-of-commanding-fire-elementals.webp#right)
 
 - **Weight**: 5.0 lbs.
@@ -24,4 +25,4 @@ While a fire burns in this brass brazier, you can use an action to speak the bra
 
 The brazier weighs 5 pounds.
 
-*Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

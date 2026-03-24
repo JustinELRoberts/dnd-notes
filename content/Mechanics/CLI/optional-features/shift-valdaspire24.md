@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Shift 
+# Shift
 
-
-***Prerequisites*** Level 2 Craftsman; Melee Weapon, Light or Finesse Property
+_**Prerequisites**_ Level 2 Craftsman; Melee Weapon, Light or Finesse Property
 
 If you hit a creature with this weapon, you can immediately move 10 feet without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

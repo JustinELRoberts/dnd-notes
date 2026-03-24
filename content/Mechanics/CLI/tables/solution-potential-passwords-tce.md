@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Solution; Potential Passwords
-*Source: Tasha's Cauldron of Everything p. 183* 
+
+_Source: Tasha's Cauldron of Everything p. 183_
 
 **Potential Passwords**
 

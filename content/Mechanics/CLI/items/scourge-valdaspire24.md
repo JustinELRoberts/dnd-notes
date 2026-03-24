@@ -16,11 +16,11 @@ obsidianUIMode: preview
 ---
 
 # Scourge
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d8 slashing
 - **Cost**: 60 gp
 - **Weight**: 7.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

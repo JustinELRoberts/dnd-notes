@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Airborne Encounters
-*Source: Eberron: Forge of the Artificer p. 111* 
+
+_Source: Eberron: Forge of the Artificer p. 111_
 
 **Airborne Encounters**
 

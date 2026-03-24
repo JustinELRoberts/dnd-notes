@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Aberrant Dragonmark 
+# Aberrant Dragonmark
 
-
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Aberrant Magic.** You know one cantrip of your choice from the Sorcerer spell list. Also, choose a level 1 spell from that spell list. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also cast this spell using any spell slots you have. Constitution is your spellcasting ability for this spell.
 
 **Aberrant Surge.** When you cast the level 1 spell from this feat, you can expend one of your [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md) and roll it. If you roll an even number, you gain a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to the number rolled. If you roll an odd number, one creature within 30 feet of you (not including you) takes Force damage equal to the number rolled. If no other creatures are in range, you take the damage.
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 39*
+_Eberron: Forge of the Artificer p. 39_

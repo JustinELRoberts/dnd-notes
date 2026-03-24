@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Earth Elemental Myrmidon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 122*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 122_\
 ![](Mechanics/CLI/bestiary/elemental/img/earth-elemental-myrmidon.webp#right)
 
 ## Elemental Myrmidons
@@ -55,4 +56,5 @@ title: Earth Elemental Myrmidon
 
 ***Thunderous Strike (Recharge 6).*** The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (`4d10`) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock

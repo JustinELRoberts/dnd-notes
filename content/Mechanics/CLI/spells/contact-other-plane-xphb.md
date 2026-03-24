@@ -25,8 +25,8 @@ classes:
 ---
 
 # Contact Other Plane
-*5th-level, Divination (ritual)*  
 
+_5th-level, Divination (ritual)_
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Self
@@ -39,4 +39,4 @@ On a failed save, you take `6d6` Psychic damage and have the [Incapacitated](Mec
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

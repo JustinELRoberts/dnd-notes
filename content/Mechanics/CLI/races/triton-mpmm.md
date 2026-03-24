@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Triton
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 35*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 35_\
 ![](Mechanics/CLI/races/img/triton.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1

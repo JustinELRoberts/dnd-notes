@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Chambers; Chamber Exits
-*Source: Dungeon Master's Guide p. 291* 
+
+_Source: Dungeon Master's Guide p. 291_
 
 **Chamber Exits**
 

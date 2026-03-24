@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of the Magi
-*Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)*  
+
+_Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or wizard)_\
 ![](Mechanics/CLI/items/img/staff-of-the-magi.webp#right)
 
 - **Damage**:
@@ -53,4 +54,4 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 ^distance-from-origin-damage
 
-*Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Supplemental Tables; Family
-*Source: Xanathar's Guide to Everything p. 63* 
+
+_Source: Xanathar's Guide to Everything p. 63_
 
 **Family**
 

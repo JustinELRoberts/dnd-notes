@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Rooks
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Rooks.webp#right)
 
-*Practice Furtive Magic and Mystical Stealth*
+_Practice Furtive Magic and Mystical Stealth_
 
 The clandestine members of the House of Rooks make adept spies, assassins, and scouts, though they might just as easily pick up jobs run by rogues and brigands. In addition to their suite of cantrips, Rooks are light on their feet and know a few tricks to magically open doors in utter silence.
 
@@ -70,7 +71,7 @@ You gain proficiency in one of the following skills of your choice: [Acrobatics]
 
 You learn a suite of furtive magic practiced by Rooks. You can cast each of the following spells without using a spell slot or Verbal components: [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md), [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [Knock](Mechanics/CLI/spells/knock-xphb.md) (silent when you cast it using this feature), [Silence](Mechanics/CLI/spells/silence-xphb.md), and [Spider Climb](Mechanics/CLI/spells/spider-climb-xphb.md).
 
-Once you cast a spell using this feature, you can't cast it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can expend a use of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20(Level%205)) to regain your use of all of these spells (no action required).
+Once you cast a spell using this feature, you can't cast it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can expend a use of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)) to regain your use of all of these spells (no action required).
 
 ### Fleeting Decoy (Level 10)
 

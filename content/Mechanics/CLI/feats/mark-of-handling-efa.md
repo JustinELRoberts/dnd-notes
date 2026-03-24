@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Handling 
+# Mark of Handling
+
 ![](Mechanics/CLI/feats/img/mark-of-handling.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ You gain the following benefits.
 | 4 | [Aura of Life](Mechanics/CLI/spells/aura-of-life-xphb.md), [Dominate Beast](Mechanics/CLI/spells/dominate-beast-xphb.md) |
 | 5 | [Awaken](Mechanics/CLI/spells/awaken-xphb.md) |
 ^mark-of-handling-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 39*
+_Eberron: Forge of the Artificer p. 39_

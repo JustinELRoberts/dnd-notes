@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Alkilith
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 44*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 44_\
 ![](Mechanics/CLI/bestiary/fiend/img/alkilith.webp#right)
 
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
@@ -74,6 +75,7 @@ If the saving throw against Foment Confusion fails by 5 or more, the creature is
 
 ***Tentacle.*** *Melee Weapon Attack:* `+8` to hit, reach 15 ft., one target. *Hit:* 18 (`4d6 + 4`) acid damage.
 ```
+
 ^statblock
 
 ## Environment

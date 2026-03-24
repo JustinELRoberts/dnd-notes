@@ -17,12 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Revolver
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
 - **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

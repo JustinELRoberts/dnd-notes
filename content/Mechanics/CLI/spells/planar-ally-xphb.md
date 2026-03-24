@@ -22,8 +22,8 @@ classes:
 ---
 
 # Planar Ally
-*6th-level, Conjuration*  
 
+_6th-level, Conjuration_
 
 - **Casting time:** 10 minutes
 - **Range:** 60 feet
@@ -42,4 +42,4 @@ After the creature completes the task, or when the agreed-upon duration of servi
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

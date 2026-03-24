@@ -23,8 +23,8 @@ classes:
 ---
 
 # Game of Fate
-*6th-level, Enchantment (ritual)*  
 
+_6th-level, Enchantment (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 60 feet
@@ -39,4 +39,4 @@ Lastly, no spell, magical effect, or creature other than you and the target can 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Moon Jelly
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Though incapable of surviving on land, moon jellies are favored for their bioluminescence by witches that intend to explore deep underwater.
 
@@ -51,4 +51,5 @@ title: Moon Jelly
 
 ***Sting.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 5 (`2d4`) Poison damage.
 ```
+
 ^statblock

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Green Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 40_\
 ![](Mechanics/CLI/bestiary/fiend/img/green-abishai.webp#right)
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
@@ -75,6 +76,7 @@ title: Green Abishai
 
 **1/day each:** [confusion](Mechanics/CLI/spells/confusion-xphb.md), [dominate person](Mechanics/CLI/spells/dominate-person-xphb.md), [mass suggestion](Mechanics/CLI/spells/mass-suggestion-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

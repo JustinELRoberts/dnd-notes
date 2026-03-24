@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Necromancer Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 264, Volo's Guide to Monsters p. 217_\
 ![](Mechanics/CLI/bestiary/humanoid/img/necromancer-wizard.webp#right)
 
 Necromancers study the interaction of life, death, and undeath. Some necromancers dig up or purchase corpses to create Undead servitors. A few instead use their powers for good, hunting Undead.
@@ -72,6 +73,7 @@ title: Necromancer Wizard
 
 ***Grim Harvest (1/Turn).*** When the necromancer kills a creature with necrotic damage, the necromancer regains 9 (`2d8`) hit points. 
 ```
+
 ^statblock
 
 ## Environment

@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Obfuscate
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (20-foot Emanation)
@@ -31,4 +31,4 @@ You produce fog in a 20-foot [Emanation](Mechanics/CLI/rules/variant-rules/emana
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -20,8 +20,8 @@ classes:
 ---
 
 # Pharaoh's Curse
-*5th-level, Necromancy*  
 
+_5th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 10 feet
@@ -32,4 +32,4 @@ Opening your palm, you release a puff of dust containing the pestilence of mummy
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

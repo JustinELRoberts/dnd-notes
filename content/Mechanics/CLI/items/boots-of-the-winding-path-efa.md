@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Boots of the Winding Path
-*Wondrous item, uncommon (requires attunement)*  
 
-
+_Wondrous item, uncommon (requires attunement)_
 
 While wearing these boots, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to teleport up to 15 feet to an unoccupied space you can see. You must have occupied that space at some point during the current turn.
 
-*Source: Eberron: Forge of the Artificer p. 112*
+_Source: Eberron: Forge of the Artificer p. 112_

@@ -13,15 +13,16 @@ obsidianUIMode: preview
 ---
 
 # Physical Variations; Type 2 Malison: Arms
-*Source: Volo's Guide to Monsters p. 97* 
+
+_Source: Volo's Guide to Monsters p. 97_
 
 **Type 2 Malison: Arms**
 
-| dice: d10 | Malison Type 2 Arm* |
+| dice: d10 | Malison Type 2 Arm\* |
 |-----------|---------------------|
 | 1-4 | Cluster of small snakes |
 | 5-9 | One large snake |
 | 10 | Scaly humanoid with snake head for a hand |
 ^type-2-malison-arms
 
-* Roll once for each arm
+- Roll once for each arm

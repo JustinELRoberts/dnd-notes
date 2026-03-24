@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Prismatic Bomb 
-
+# Prismatic Bomb
 
 By adding an ounce of polyjuice, an unpredictable, multicolored chemical, to your [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) explosive contents, you can change it into a Prismatic Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals a randomly-determined damage type instead of Fire damage, and the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property requires a randomly-determined type of saving throw. Roll on each of the Prismatic Bomb tables.
 
@@ -34,6 +33,7 @@ By adding an ounce of polyjuice, an unpredictable, multicolored chemical, to you
 | 3-4 | Constitution |
 | 5-6 | Wisdom |
 ^saving-throw
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

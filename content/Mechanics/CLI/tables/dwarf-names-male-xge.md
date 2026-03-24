@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dwarf Names – Male
-*Source: Xanathar's Guide to Everything p. 176* 
+
+_Source: Xanathar's Guide to Everything p. 176_
 
 **Dwarf Names – Male**
 

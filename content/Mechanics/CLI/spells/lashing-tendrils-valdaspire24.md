@@ -28,8 +28,8 @@ classes:
 ---
 
 # Lashing Tendrils
-*1st-level, Transmutation*  
 
+_1st-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (5-foot Emanation)
@@ -42,4 +42,4 @@ You sprout grotesque tendrils that [whip](Mechanics/CLI/items/whip-xphb.md) arou
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

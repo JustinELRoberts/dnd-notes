@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Crystalline Chronicle
-*Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)*  
+
+_Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)_\
 ![](Mechanics/CLI/items/img/crystalline-chronicle.webp#right)
 
 - **Weight**: 3.0 lbs.
@@ -27,7 +28,7 @@ While you are holding the crystal, you can use it as a spellcasting focus for yo
 
 The crystal has 3 charges, and it regains `1d3` expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
-- If you spend 1 minute studying the information within the crystal, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book.  
-- When you cast a wizard spell, you can expend 1 charge to cast the spell without verbal, somatic, or material components of up to 100 gp value.  
+- If you spend 1 minute studying the information within the crystal, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book.
+- When you cast a wizard spell, you can expend 1 charge to cast the spell without verbal, somatic, or material components of up to 100 gp value.
 
-*Source: Tasha's Cauldron of Everything p. 124*
+_Source: Tasha's Cauldron of Everything p. 124_

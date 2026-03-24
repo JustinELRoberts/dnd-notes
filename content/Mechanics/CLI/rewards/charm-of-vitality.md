@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Charm of Vitality
 
-
 This charm allows you to give yourself the benefit of a [potion of vitality](Mechanics/CLI/items/potion-of-vitality.md) as an action. Once you do so, the charm vanishes from you.
 
 ## Sources
 
-*Dungeon Master's Guide p. 228*
+_Dungeon Master's Guide p. 228_

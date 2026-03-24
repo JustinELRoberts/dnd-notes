@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Aristocrat Types
-*Source: Tasha's Cauldron of Everything p. 89* 
+
+_Source: Tasha's Cauldron of Everything p. 89_
 
 **Aristocrat Types**
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Distribution by Rarity; Magic Items Awarded by Tier
-*Source: Xanathar's Guide to Everything p. 135* 
+
+_Source: Xanathar's Guide to Everything p. 135_
 
 **Magic Items Awarded by Tier**
 

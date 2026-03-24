@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grung
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156_\
 ![](Mechanics/CLI/bestiary/humanoid/img/grungs.webp#right)
 
 The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.
@@ -67,6 +68,7 @@ title: Grung
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+4` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage plus 5 (`2d4`) poison damage.
 ```
+
 ^statblock
 
 ## Environment

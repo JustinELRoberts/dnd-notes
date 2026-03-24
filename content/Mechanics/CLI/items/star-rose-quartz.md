@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Star rose quartz
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 50 gp
 
 A translucent rosy stone with white star-shaped center gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

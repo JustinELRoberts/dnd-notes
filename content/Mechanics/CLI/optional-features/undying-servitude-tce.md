@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Undying Servitude 
+# Undying Servitude
 
-
-***Prerequisites*** Level 5
+_**Prerequisites**_ Level 5
 
 You can cast [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md) without using a spell slot. Once you do so, you can't cast it in this way again until you finish a long rest.
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 71*
+_Tasha's Cauldron of Everything p. 71_

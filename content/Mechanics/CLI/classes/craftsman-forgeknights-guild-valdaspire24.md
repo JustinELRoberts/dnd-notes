@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Forgeknights' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Superheat Your Weapons and Strike with Explosions*
+_Superheat Your Weapons and Strike with Explosions_
 
 To Craftsmen of the Forgeknights' Guild, heat is not merely integral to forging, curing, and welding gear, it is a weapon in its own right. The swing of a white-hot blade bites not only with steel, but with flame. A Forgeknight carries the intensity of a forge with them, storing it in their armor and building it up in their weapons, before unleashing it in a scorching blast.
 

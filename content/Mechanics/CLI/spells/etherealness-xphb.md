@@ -29,8 +29,8 @@ classes:
 ---
 
 # Etherealness
-*7th-level, Conjuration*  
 
+_7th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -49,4 +49,4 @@ This spell ends instantly if you cast it while you are on the Ethereal Plane or 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

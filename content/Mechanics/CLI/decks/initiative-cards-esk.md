@@ -22,42 +22,50 @@ After the characters and each group of monsters involved in a combat roll initia
 ## Cards
 
 ### One
+
 ![](Mechanics/CLI/decks/img/initiative-initiative1.webp#card)
 You will go first in the initiative order.
 
 ### Two
+
 ![](Mechanics/CLI/decks/img/initiative-initiative2.webp#card)
 You will go second in the initiative order.
 
 ### Three
+
 ![](Mechanics/CLI/decks/img/initiative-initiative3.webp#card)
 You will go third in the initiative order.
 
 ### Four
+
 ![](Mechanics/CLI/decks/img/initiative-initiative4.webp#card)
 You will go fourth in the initiative order.
 
 ### Five
+
 ![](Mechanics/CLI/decks/img/initiative-initiative5.webp#card)
 You will go fifth in the initiative order.
 
 ### Six
+
 ![](Mechanics/CLI/decks/img/initiative-initiative6.webp#card)
 You will go sixth in the initiative order.
 
 ### Seven
+
 ![](Mechanics/CLI/decks/img/initiative-initiative7.webp#card)
 You will go seventh in the initiative order.
 
 ### Eight
+
 ![](Mechanics/CLI/decks/img/initiative-initiative8.webp#card)
 You will go eighth in the initiative order.
 
 ### Nine
+
 ![](Mechanics/CLI/decks/img/initiative-initiative9.webp#card)
 You will go ninth in the initiative order.
 
-
 ## Sources
 
-*Essentials Kit p. 3*
+_Essentials Kit p. 3_

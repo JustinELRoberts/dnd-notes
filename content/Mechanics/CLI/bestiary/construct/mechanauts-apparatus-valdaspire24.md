@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Mechanaut's Apparatus
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCraftsman/Class/Mechanauts.webp#center)
 
 ```ad-statblock
@@ -54,4 +55,5 @@ title: Mechanaut's Apparatus
 
 ***Maul (Right Hand).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `2d6` plus your Intelligence modifier Bludgeoning damage.
 ```
+
 ^statblock

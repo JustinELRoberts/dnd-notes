@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Dwarf
-*Source: Player's Handbook (2024) p. 188. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 188. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/races/img/dwarf.webp#right)
 
 - **Ability Scores**: None

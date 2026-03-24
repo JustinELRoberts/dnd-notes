@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Diagonals
-*Source: Dungeon Master's Guide p. 252* 
+
+_Source: Dungeon Master's Guide p. 252_
 
 The "Player's Handbook" presents a simple method for counting movement and measuring range on a grid: count every square as 5 feet, even if you're moving diagonally. Though this is fast in play, it breaks the laws of geometry and is inaccurate over long distances. This optional rule provides more realism, but it requires more effort during combat.
 

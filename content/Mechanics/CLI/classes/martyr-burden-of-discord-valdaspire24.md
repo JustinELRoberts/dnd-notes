@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Discord
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Wreak Havoc and Disrupt the Status Quo*
+_Wreak Havoc and Disrupt the Status Quo_
 
 Martyrs of Discord are chosen at random to sow chaos wherever they travel. They light things on fire, commit petty crimes, and even murder when the fancy strikes. Apt to follow their own predilections, Martyrs of Discord are unified only by their charge to disrupt the status quo as much as possible.
 

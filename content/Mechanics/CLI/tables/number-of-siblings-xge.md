@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Number of Siblings
-*Source: Xanathar's Guide to Everything p. 62* 
+
+_Source: Xanathar's Guide to Everything p. 62_
 
 **Number of Siblings**
 

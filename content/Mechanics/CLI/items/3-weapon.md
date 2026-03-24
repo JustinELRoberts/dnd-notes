@@ -106,13 +106,13 @@ obsidianUIMode: preview
 ---
 
 # +3 Weapon
-*Major, very rare*  
 
-
+_Major, very rare_
 
 You have a +3 bonus to attack and damage rolls made with this magic weapon.
 
 **Variants**:
+
 - [+3 Antimatter Rifle](#+3%20Antimatter%20Rifle)
 - [+3 Atlatl](#+3%20Atlatl)
 - [+3 Automatic Pistol](#+3%20Automatic%20Pistol)
@@ -748,5 +748,4 @@ You have a +3 bonus to attack and damage rolls made with this magic weapon.
 - **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+_Source: Dungeon Master's Guide p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

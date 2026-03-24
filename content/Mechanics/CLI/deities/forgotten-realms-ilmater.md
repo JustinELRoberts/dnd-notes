@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Ilmater
 
-
 - **Alignment**: Lawful Good
 - **Domains**: Life, Twilight
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Hands bound at the wrist with red cord
 
-
-
 ## Sources
 
-*Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)*
+_Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)_

@@ -16,11 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Moloch
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 183*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 183_\
 ![](Mechanics/CLI/bestiary/npc/img/moloch.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Moloch obsesses over the power he lost, rather than thinking of the power he could gain elsewhere in the planes. What a pity he so wastes his potential.
 
 Exiled from the Nine Hells, Moloch would do anything to reclaim his position. Long ago, Moloch earned his place among the other archdevils through the glory he won driving demons out of the Nine Hells. Asmodeus rewarded him by elevating him to the rulership of Malbolge.
@@ -94,4 +95,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, Moloch can 
 
 ***Cast a Spell (Costs 2 Actions).*** Moloch uses Spellcasting.
 ```
+
 ^statblock

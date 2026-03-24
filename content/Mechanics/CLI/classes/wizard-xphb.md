@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Wizard
-*Source: Player's Handbook (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
@@ -58,16 +59,15 @@ obsidianUIMode: preview
 ## Starting Wizard
 
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 
-**Starting Equipment:** *Choose A or B:* (A) 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)), [Robe](Mechanics/CLI/items/robe-xphb.md), Spellbook, [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 5 GP; or (B) 55 GP
-
+**Starting Equipment:** _Choose A or B:_ (A) 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)), [Robe](Mechanics/CLI/items/robe-xphb.md), Spellbook, [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 5 GP; or (B) 55 GP
 
 > [!gallery]
-![The elf queen Yolande awes...](Mechanics/CLI/classes/img/120-04-035-elf-queen-yolande.webp "The elf queen Yolande awes a red dragon with her spell, Yolande's Regal Presence")
-![](Mechanics/CLI/classes/img/121-04-036-wizard-book.webp)
-![The Wizard Leomund studies...](Mechanics/CLI/classes/img/122-04-037-wizard-leomund.webp "The Wizard Leomund studies spellbooks to prepare his magic")
+> ![The elf queen Yolande awes...](Mechanics/CLI/classes/img/120-04-035-elf-queen-yolande.webp)
+> ![](Mechanics/CLI/classes/img/121-04-036-wizard-book.webp)
+> ![The Wizard Leomund studies...](Mechanics/CLI/classes/img/122-04-037-wizard-leomund.webp)
 
 ## Wizard
 
@@ -110,15 +110,15 @@ If another Wizard feature gives you spells that you always have prepared, those 
 **Spellcasting Focus.** You can use an [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) or your spellbook as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
 
 > [!note] Expanding and Replacing a Spellbook
-> 
+>
 > The spells you add to your spellbook as you gain levels reflect your ongoing magical research, but you might find other spells during your adventures that you can add to the book. You could discover a Wizard spell on a Spell Scroll, for example, and then copy it into your spellbook.
-> 
+>
 > **Copying a Spell into the Book.** When you find a level 1+ Wizard spell, you can copy it into your spellbook if it's of a level you can prepare and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP. Afterward you can prepare the spell like the other spells in your spellbook.
-> 
+>
 > **Copying the Book.** You can copy a spell from your spellbook into another book. This is like copying a new spell into your spellbook but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
-> 
+>
 > If you lose your spellbook, you can use the same procedure to transcribe the Wizard spells that you have prepared into a new spellbook. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many wizards keep a backup spellbook.
-^expanding-and-replacing-a-spellbook
+> ^expanding-and-replacing-a-spellbook
 
 ### Ritual Adept (Level 1)
 

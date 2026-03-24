@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Fighting Style, Fighter
-*Source: Player's Handbook, Xanathar's Guide to Everything p. 15, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
+
+_Source: Player's Handbook, Xanathar's Guide to Everything p. 15, Tasha's Cauldron of Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - [Archery](Mechanics/CLI/feats/archery-xphb.md)
 - [Blind Fighting](Mechanics/CLI/feats/blind-fighting-xphb.md)

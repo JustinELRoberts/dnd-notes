@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Anonymity
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Kill in the Shadows, Die in the Shadows*
+_Kill in the Shadows, Die in the Shadows_
 
 Like other Martyrs, you were chosen to accomplish great things and die for a noble cause. However, you were not destined for glory; no one will ever know your name. Martyrs chosen for the Burden of Anonymity work in the shadows to influence the world for the greater good, and will inevitably die in the shadows, unknown to all. Your divinely-appointed task might be secret, such as assassination or infiltration, and your role as a Martyr might be incognito, even to your allies. Anonymous Martyrs might disguise themselves as Paladins, mercenaries, or Rogues with hidden agendas and abundant conspiracies.
 
@@ -92,9 +93,9 @@ Furthermore, if you covertly notify the GM, you can also convince other players 
 Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
 > [!note] Cheating Death
-> 
+>
 > At the GM's discretion, Martyrs with the Burden of Anonymity can use their False Martyrdom to avoid their inevitable death detailed in the Final Martyrdom feature. This still concludes the character's story with a glorious sacrifice but leaves the potential for the character to retire or simply disappear into a crowd once their ultimate goal has been achieved.
-^cheating-death
+> ^cheating-death
 
 ### Divine Assassin (Level 18)
 

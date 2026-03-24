@@ -25,8 +25,8 @@ classes:
 ---
 
 # Abduct
-*7th-level, Conjuration*  
 
+_7th-level, Conjuration_
 
 - **Casting time:** 1 minute
 - **Range:** 1 miles
@@ -37,4 +37,4 @@ This spell attempts to teleport a creature within range to your location. You mu
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

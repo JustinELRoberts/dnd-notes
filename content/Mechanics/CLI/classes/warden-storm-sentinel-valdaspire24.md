@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Storm Sentinel
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Become Imbued with a Roaring Storm*
+_Become Imbued with a Roaring Storm_
 
 Your call sounded like furious storm clouds and the flash of lightning. As a Storm Sentinel, you protect wayward sailors and coastal villages from the wrath of the tempests and the arrival of pirates and other raiders. From your fingertips, you deliver the awe of lightning and the roar of thunder, and with practice, you can fly among the squalls and rain thunderbolts from above.
 

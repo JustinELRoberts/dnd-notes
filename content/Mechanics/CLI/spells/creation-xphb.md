@@ -32,8 +32,8 @@ classes:
 ---
 
 # Creation
-*5th-level, Illusion*  
 
+_5th-level, Illusion_
 
 - **Casting time:** 1 minute
 - **Range:** 30 feet
@@ -59,4 +59,4 @@ The spell's duration depends on the object's material, as shown in the Materials
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Genie, Dao)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

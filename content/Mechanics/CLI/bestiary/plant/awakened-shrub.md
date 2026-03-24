@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Awakened Shrub
-*Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](Mechanics/CLI/spells/awaken-xphb.md) spell or similar magic.
 
@@ -52,6 +52,7 @@ title: Awakened Shrub
 
 ***Rake.*** *Melee Weapon Attack:* `+1` to hit, reach 5 ft., one target. *Hit:* 1 (`1d4 - 1`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

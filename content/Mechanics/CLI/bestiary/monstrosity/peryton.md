@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Peryton
-*Source: Monster Manual p. 251*  
+
+_Source: Monster Manual p. 251_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/peryton.webp#right)
 
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
@@ -76,6 +77,7 @@ title: Peryton
 
 ***Talons.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 8 (`2d4 + 3`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

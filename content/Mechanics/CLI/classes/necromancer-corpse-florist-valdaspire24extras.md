@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Corpse Florist
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Cultivate a Garden of Corpses*
+_Cultivate a Garden of Corpses_
 
 Some Necromancers arrive at the realization that Necromancy is the gateway to new life flourishing in the rot and waste of the recently dead. Perhaps unsurprisingly, horticulture is their main inspiration.
 
@@ -72,7 +73,7 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 ### Garden of the Grave (Level 3)
 
-When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) ritual, you can choose to plant corpse flowers in any of your thralls, causing each such thrall to have the following benefits.
+When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can choose to plant corpse flowers in any of your thralls, causing each such thrall to have the following benefits.
 
 **Plant.** The thrall is a Plant instead of an Undead, but counts as Undead for the purpose of your Necromancer features.
 
@@ -80,7 +81,7 @@ When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdas
 
 ### Charnel Entangle (Level 3)
 
-When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), the target must succeed on a Strength saving throw against your spell save DC or have the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition until the end of your next turn as weeds and brambles grasp at it.
+When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target must succeed on a Strength saving throw against your spell save DC or have the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition until the end of your next turn as weeds and brambles grasp at it.
 
 ### Rotten Seed (Level 6)
 
@@ -94,9 +95,9 @@ The damage of this feature changes when you reach level 11 (`1d10`) and 17 (`1d1
 
 Once on each of your turns when a Medium or Small creature under the effect of your Rotten Seed dies, you can animate that creature's corpse as a [Skeleton](Mechanics/CLI/bestiary/undead/skeleton-valdaspire24.md), [Spirit](Mechanics/CLI/bestiary/undead/spirit-valdaspire24.md), or [Zombie](Mechanics/CLI/bestiary/undead/zombie-valdaspire24.md) (your choice) under your control. This Undead counts as one of your thralls and gains the benefit of your Garden of the Grave.
 
-### Botanical Lich [Lichdom] (Level 20)
+### Botanical Lich \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your body becomes a fertile garden of flowers that bloom from every inch of your skin, and exotic flowers bloom in your wake. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your body becomes a fertile garden of flowers that bloom from every inch of your skin, and exotic flowers bloom in your wake. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Spirit Flowers.** Your spirit jar is a set of thirteen immortal flowers of different types located in places important to you. Each one has a specific weakness, which you must discuss with your GM. When you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you reform in the soil at your nearest spirit flower.
 

@@ -25,15 +25,16 @@ obsidianUIMode: preview
 ---
 
 # Defender
-*Major, legendary (requires attunement)*  
-![Defender (Greatsword)](Mechanics/CLI/items/img/defender.webp#right)
 
+_Major, legendary (requires attunement)_\
+![Defender (Greatsword)](Mechanics/CLI/items/img/defender.webp#right)
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon.
 
 The first time you attack with the sword on each of your turns, you can transfer some or all of the sword's bonus to your Armor Class, instead of using the bonus on any attacks that turn. For example, you could reduce the bonus to your attack and damage rolls to +1 and gain a +2 bonus to AC. The adjusted bonuses remain in effect until the start of your next turn, although you must hold the sword to gain a bonus to AC from it.
 
 **Variants**:
+
 - [Defender Double-Bladed Scimitar](#Defender%20Double-Bladed%20Scimitar)
 - [Defender Greatsword](#Defender%20Greatsword)
 - [Defender Longsword](#Defender%20Longsword)
@@ -79,5 +80,4 @@ The first time you attack with the sword on each of your turns, you can transfer
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

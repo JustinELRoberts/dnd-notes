@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Flash of Brilliance 
-
+# Flash of Brilliance
 
 When you fail an Intelligence or Wisdom check, you can expend one Battle Die to add it to the roll, potentially turning it into a success. You can only use this maneuver once per turn.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

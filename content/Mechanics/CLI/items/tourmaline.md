@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Tourmaline
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 100 gp
 
 A transparent pale green, blue, brown, or red gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

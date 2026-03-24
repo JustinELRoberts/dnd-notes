@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Tarkanan Ruffian
-*Source: Eberron: Forge of the Artificer p. 73*  
+
+_Source: Eberron: Forge of the Artificer p. 73_\
 ![](Mechanics/CLI/bestiary/humanoid/img/tarkanan-ruffian.webp#right)
 
 This rank-and-file gang member, recruited off the streets of Sharn, uses sinister lightning powers to supplement ordinary weaponry.
@@ -56,4 +57,5 @@ title: Tarkanan Ruffian
 
 **1/day:** [Witch Bolt](Mechanics/CLI/spells/witch-bolt-xphb.md)
 ```
+
 ^statblock

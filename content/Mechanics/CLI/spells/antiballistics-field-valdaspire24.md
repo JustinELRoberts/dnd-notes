@@ -26,8 +26,8 @@ classes:
 ---
 
 # Antiballistics Field
-*6th-level, Abjuration*  
 
+_6th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self (40-foot Emanation)
@@ -38,4 +38,4 @@ A 40-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

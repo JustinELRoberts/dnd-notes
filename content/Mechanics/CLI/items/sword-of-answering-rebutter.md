@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sword of Answering (Rebutter)
-*Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), major, legendary (requires attunement by a neutral good creature)*  
 
+_Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), major, legendary (requires attunement by a neutral good creature)_
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -33,4 +33,4 @@ Rebutter, the Neutral Good sword, has a topaz set in its pommel.
 
 You gain a +3 bonus to attack and damage rolls made with this sword. In addition, while you hold the sword, you can use your reaction to make one melee attack with it against any creature in your reach that deals damage to you. You have advantage on the attack roll, and any damage dealt with this special attack ignores any damage immunity or resistance the target has.
 
-*Source: Dungeon Master's Guide p. 206*
+_Source: Dungeon Master's Guide p. 206_

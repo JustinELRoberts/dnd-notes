@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Rōnin
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -54,7 +55,7 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 
 The GM decides if a subclass should be cross-compatible in your campaign.
 
-*Master the Sword to Survive in a Harsh World*
+_Master the Sword to Survive in a Harsh World_
 
 You were once an honorable blademaster without peer. But those days are long gone...
 

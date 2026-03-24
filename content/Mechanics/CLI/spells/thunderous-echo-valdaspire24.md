@@ -19,8 +19,8 @@ classes:
 ---
 
 # Thunderous Echo
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (10-foot Cone)
@@ -35,4 +35,4 @@ An echo of this noise persists for the spell's duration. If you cast this spell 
 
 **Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

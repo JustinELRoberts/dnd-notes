@@ -27,8 +27,8 @@ classes:
 ---
 
 # Protect Threshold
-*2nd-level, Abjuration (ritual)*  
 
+_2nd-level, Abjuration (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
@@ -41,4 +41,4 @@ Tracing arcane sigils along its boundary, you can ward a doorway, window, or oth
 
 **Classes**: [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

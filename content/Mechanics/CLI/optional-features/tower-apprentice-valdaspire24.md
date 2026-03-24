@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Tower Apprentice 
-
+# Tower Apprentice
 
 You apprenticed under a spellcaster for some time, who taught you the fundamentals of arcana. You learn the [Prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md) and [Shocking Grasp](Mechanics/CLI/spells/shocking-grasp-xphb.md) cantrips and you gain proficiency in the [Arcana](Mechanics/CLI/rules/skills.md#Arcana) skill.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

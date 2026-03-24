@@ -18,8 +18,8 @@ classes:
 ---
 
 # Corruption Curse
-*6th-level, Necromancy*  
 
+_6th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -44,4 +44,4 @@ The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xph
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

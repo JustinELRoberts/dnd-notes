@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Experience for Complex Traps; Complex Trap Experience Awards
-*Source: Xanathar's Guide to Everything p. 118* 
+
+_Source: Xanathar's Guide to Everything p. 118_
 
 **Complex Trap Experience Awards**
 

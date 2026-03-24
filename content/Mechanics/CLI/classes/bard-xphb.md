@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Bard
-*Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
@@ -63,13 +64,14 @@ obsidianUIMode: preview
 - **Tool Proficiencies**: Choose three [Musical Instruments](Mechanics/CLI/items/musical-instrument-xphb.md)
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), 2 [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md) of your choice, [Entertainer's Pack](Mechanics/CLI/items/entertainers-pack-xphb.md), 19 GP; or (B) 90 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), 2 [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md) of your choice, [Entertainer's Pack](Mechanics/CLI/items/entertainers-pack-xphb.md), 19 GP; or (B) 90 GP
 
 ## Multiclassing Bard
 
 - **Skill Proficiencies**: Choose 1 [skill](Mechanics/CLI/rules/skills.md)
 - **Tool Proficiencies**: Choose one [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md)
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
+
 ## Bard
 
 Invoking magic through music, dance, and verse, Bards are expert at inspiring others, soothing hurts, disheartening foes, and creating illusions. Bards believe the multiverse was spoken into existence and that remnants of its Words of Creation still resound and glimmer on every plane of existence. Bardic magic attempts to harness those words, which transcend any language.
@@ -129,11 +131,11 @@ You can add half your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/prof
 For example, if you make a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check and lack [Athletics](Mechanics/CLI/rules/skills.md#Athletics) proficiency, you can add half your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to the check.
 
 > [!note] A Bard's Repertoire
-> 
+>
 > Does your Bard beat a [drum](Mechanics/CLI/items/drum-xphb.md) while chanting the deeds of ancient heroes? Strum a [lute](Mechanics/CLI/items/lute-xphb.md) while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?
-> 
+>
 > When you play a Bard, consider the style of artistic performance you favor, the moods you might invoke, and the themes that inspire your own creations. Are your poems inspired by moments of natural beauty, or are they brooding reflections on loss? Do you prefer lofty hymns or rowdy tavern songs? Are you drawn to laments for the fallen or celebrations of joy? Do you dance merry jigs or perform elaborate interpretive choreography? Do you focus on one style of performance or strive to master them all?
-^a-bards-repertoire
+> ^a-bards-repertoire
 
 ### Bard Subclass (Level 3)
 

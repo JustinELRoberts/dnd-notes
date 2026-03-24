@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Ear Horn of Hearing
-*Wondrous item, minor, common*  
 
-
+_Wondrous item, minor, common_
 
 While held up to your ear, this horn suppresses the effects of the [deafened](Mechanics/CLI/rules/conditions.md#Deafened) condition on you, allowing you to hear normally.
 
-*Source: Xanathar's Guide to Everything p. 137*
+_Source: Xanathar's Guide to Everything p. 137_

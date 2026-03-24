@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sword Wraith Commander
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 239_
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
 
@@ -73,6 +73,7 @@ title: Sword Wraith Commander
 
 ***Martial Fury.*** The commander makes one Longsword or Longbow attack, which deals an extra 9 (`2d8`) necrotic damage on a hit, and attack rolls against it have advantage until the start of its next turn.
 ```
+
 ^statblock
 
 ## Environment

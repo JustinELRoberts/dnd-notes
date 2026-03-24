@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Food and Water Needs
-*Source: Dungeon Master's Guide p. 111* 
+
+_Source: Dungeon Master's Guide p. 111_
 
 **Food and Water Needs**
 

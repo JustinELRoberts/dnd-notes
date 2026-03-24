@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Arcane Shot
-*Source: Xanathar's Guide to Everything* 
+
+_Source: Xanathar's Guide to Everything_
 
 - [Banishing Arrow](Mechanics/CLI/optional-features/banishing-arrow-xge.md)
 - [Beguiling Arrow](Mechanics/CLI/optional-features/beguiling-arrow-xge.md)

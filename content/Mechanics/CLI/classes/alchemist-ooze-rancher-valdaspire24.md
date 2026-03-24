@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Ooze Rancher
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Brew Bottled Ooze Minions*
+_Brew Bottled Ooze Minions_
 
 Unsurprisingly, Oozes, jellies, and slimes are a fascinating subject for Alchemists who wish to figure out how inanimate chemicals can form together and rise up in a moving, hungry mass. The answer to this question may very well be at the heart of alchemy itself. Alchemists who choose to research slimes in depth are called Ooze Ranchers, for they breed and keep numerous slimes upon which to experiment.
 
@@ -62,13 +63,13 @@ Your experience with Oozes grants you the following benefits.
 
 **Ooze Empathy.** Additionally, whenever an Ooze tries to attack you, it makes a Wisdom saving throw against your Alchemist save DC. On a failed save, the attack automatically misses you. On a successful save, the Ooze is immune to this feature for the next 24 hours.
 
-### Slime Bomb [Formula] (Level 3)
+### Slime Bomb \[Formula] (Level 3)
 
 By mixing your [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) explosive contents with the remnants of an Ooze, you can change it into a Slime Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage, but instead causes the target or each creature within the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) of the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property to become coated in a viscous, green slime. A creature coated in slime can't take Bonus Actions or the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action. This slime lasts for 1 minute or until it or another creature takes the [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action to remove the slime.
 
 ### Bottled Oozes (Level 6)
 
-Whenever you brew potions, you can spend 2 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) to create a Bottled Ooze, which contains a Gray Ooze. This item retains potency until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), after which it becomes inert.
+Whenever you brew potions, you can spend 2 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to create a Bottled Ooze, which contains a Gray Ooze. This item retains potency until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), after which it becomes inert.
 
 An Ooze produced by your Bottled Oozes uses your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) for its attack rolls. If the Ooze forces a creature to make a saving throw, it uses your Alchemist save DC.
 

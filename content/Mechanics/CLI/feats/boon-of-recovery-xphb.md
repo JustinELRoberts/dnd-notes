@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Boon of Recovery 
+# Boon of Recovery
 
-
-***Prerequisites*** 19th
+_**Prerequisites**_ 19th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Last Stand.** When you would be reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you can drop to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead and regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to half your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum. Once you use this benefit, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
 **Recover Vitality.** You have a pool of ten d10s. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend dice from the pool, roll those dice, and regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the roll's total. You regain all the expended dice when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 211*
+_Player's Handbook (2024) p. 211_

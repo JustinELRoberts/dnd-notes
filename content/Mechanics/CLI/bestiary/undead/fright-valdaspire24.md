@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fright
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Hauntings can usually be attributed to the usual spectral suspects: ghosts, specters, shadows, and poltergeists. But benign hauntings, where the restless spirit merely plays tricks on the living, is usually caused by a fright. These spirits are usually the artifacts of children or entertainers, clinging to the afterlife for company and a semblance of affection, and are as such preoccupied with fun. They never willingly harm others when they haunt a house, and will serve any master that conjures them, if only for the sake of inclusion.
 
@@ -52,4 +52,5 @@ title: Fright
 
 ***Life Drain.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 9 (`2d8`) Necrotic damage. If the target is a creature, its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken.
 ```
+
 ^statblock

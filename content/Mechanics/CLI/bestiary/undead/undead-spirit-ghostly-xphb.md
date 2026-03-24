@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Undead Spirit (Ghostly)
-*Source: Player's Handbook (2024) p. 328*  
+
+_Source: Player's Handbook (2024) p. 328_
 
 ```ad-statblock
 title: Undead Spirit (Ghostly)
@@ -49,4 +50,5 @@ title: Undead Spirit (Ghostly)
 
 ***Deathly Touch.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Necrotic damage, and the target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of its next turn.
 ```
+
 ^statblock

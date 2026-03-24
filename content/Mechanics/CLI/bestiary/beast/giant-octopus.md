@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Octopus
-*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-octopus.webp#center)
 
 ```ad-statblock
@@ -54,6 +55,7 @@ title: Giant Octopus
 
 ***Ink Cloud (Recharges after a Short or Long Rest).*** A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the [Dash](Mechanics/CLI/rules/actions.md#Dash) action as a bonus action.
 ```
+
 ^statblock
 
 ## Environment

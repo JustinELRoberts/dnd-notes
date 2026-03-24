@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Oni
-*Source: Monster Manual p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/oni.webp#right)
 
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
@@ -31,24 +32,23 @@ By the light of day, an oni hides its true form with magic, gaining the trust of
 
 Oni are sometimes called ogre mages because of their innate magical ability. Though they are only distantly related to true ogres, they share the ogres' habit of joining forces with other evil creatures. An oni serves a master if doing so proves lucrative or provides it with a luxurious, well-defended home. Oni covet magic, and they work for evil wizards and hags in exchange for useful magic items.
 
-> [!quote] A quote from Children's rhyme  
-> 
+> [!quote] A quote from Children's rhyme
+>
 > Lock the door, blow out the light;
-> 
+>
 > The hungry oni haunts the night.
-> 
+>
 > Hide and tremble, little one;
-> 
+>
 > The oni wants to have some fun.
-> 
+>
 > Hear it scratching on the door;
-> 
+>
 > See its shadow cross the floor.
-> 
+>
 > The sun won't rise for quite a while;
-> 
+>
 > Till then, beware the oni's smile.
-
 
 ## Statblock
 
@@ -95,6 +95,7 @@ title: Oni
 
 ***Change Shape.*** The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.
 ```
+
 ^statblock
 
 ## Environment

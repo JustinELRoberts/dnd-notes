@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Will-o'-Wisp
-*Source: Monster Manual p. 301. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 301. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/will-o-wisp.webp#right)
 
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
@@ -83,6 +84,7 @@ title: Will-o'-Wisp
 
 ***Invisibility.*** The will-o'-wisp and its light magically become [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until it attacks or uses its Consume Life, or until its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) ends (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell).
 ```
+
 ^statblock
 
 ## Environment

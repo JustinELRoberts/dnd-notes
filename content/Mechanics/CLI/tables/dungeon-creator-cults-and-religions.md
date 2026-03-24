@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Creator; Cults and Religions
-*Source: Dungeon Master's Guide p. 99* 
+
+_Source: Dungeon Master's Guide p. 99_
 
 **Cults and Religions**
 

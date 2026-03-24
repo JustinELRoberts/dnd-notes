@@ -20,8 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Warlock of the Fiend
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219_
 
 Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](Mechanics/CLI/bestiary/fiend/imp-xmm.md) or [quasits](Mechanics/CLI/bestiary/fiend/quasit-xmm.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 
@@ -74,6 +74,7 @@ title: Warlock of the Fiend
 
 ***Fiendish Rebuke (3/Day).*** In response to being damaged by a visible creature within 60 feet of it, the warlock forces that creature to make a DC 15 Constitution saving throw, taking 22 (`4d10`) necrotic damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

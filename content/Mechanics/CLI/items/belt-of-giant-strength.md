@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Belt of Giant Strength
-*Wondrous item (requires attunement)*  
-![](Mechanics/CLI/items/img/belt-of-giant-strength.webp#right)
 
+_Wondrous item (requires attunement)_\
+![](Mechanics/CLI/items/img/belt-of-giant-strength.webp#right)
 
 **Items in this group:**
 
@@ -28,4 +28,4 @@ obsidianUIMode: preview
 - [Belt of Stone Giant Strength](Mechanics/CLI/items/belt-of-stone-giant-strength.md)
 - [Belt of Storm Giant Strength](Mechanics/CLI/items/belt-of-storm-giant-strength.md)
 
-*Source: Dungeon Master's Guide p. 155*
+_Source: Dungeon Master's Guide p. 155_

@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Scribing 
+# Mark of Scribing
+
 ![](Mechanics/CLI/feats/img/mark-of-scribing.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ When you reach character level 3, you also always have the [Magic Mouth](Mechani
 | 4 | [Arcane Eye](Mechanics/CLI/spells/arcane-eye-xphb.md), [Confusion](Mechanics/CLI/spells/confusion-xphb.md) |
 | 5 | [Dream](Mechanics/CLI/spells/dream-xphb.md) |
 ^mark-of-scribing-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 41*
+_Eberron: Forge of the Artificer p. 41_

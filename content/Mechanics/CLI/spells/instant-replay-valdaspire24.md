@@ -26,8 +26,8 @@ classes:
 ---
 
 # Instant Replay
-*1st-level, Transmutation*  
 
+_1st-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -38,4 +38,4 @@ As your attack misses the target, you instantly reset yourself to the moment bef
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

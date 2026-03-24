@@ -19,8 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Shadow Mastiff Alpha
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190_
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
 
@@ -67,6 +67,7 @@ title: Shadow Mastiff Alpha
 
 ***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
 ```
+
 ^statblock
 
 ## Environment

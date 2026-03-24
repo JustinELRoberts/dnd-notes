@@ -17,7 +17,6 @@ obsidianUIMode: preview
 
 # Gaerdal Ironhand
 
-
 - **Alignment**: Lawful Good
 - **Domains**: War, Peace
 - **Pantheon**: Gnome
@@ -32,4 +31,4 @@ Gnomes build their homes in hidden and defensible places because Gaerdal teaches
 
 ## Sources
 
-*Mordenkainen's Tome of Foes p. 112, Tasha's Cauldron of Everything p. 33*
+_Mordenkainen's Tome of Foes p. 112, Tasha's Cauldron of Everything p. 33_

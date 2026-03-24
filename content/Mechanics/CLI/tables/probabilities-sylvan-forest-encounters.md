@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Probabilities; Sylvan Forest Encounters
-*Source: Dungeon Master's Guide p. 86* 
+
+_Source: Dungeon Master's Guide p. 86_
 
 **Sylvan Forest Encounters**
 

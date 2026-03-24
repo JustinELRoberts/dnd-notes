@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Aberrant Spirit (Beholderkin)
-*Source: Player's Handbook (2024) p. 322*  
+
+_Source: Player's Handbook (2024) p. 322_
 
 ```ad-statblock
 title: Aberrant Spirit (Beholderkin)
@@ -44,4 +45,5 @@ title: Aberrant Spirit (Beholderkin)
 
 ***Eye Ray.*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 150 ft. *Hit:* `1d8 + 3` + the spell's level Psychic damage.
 ```
+
 ^statblock

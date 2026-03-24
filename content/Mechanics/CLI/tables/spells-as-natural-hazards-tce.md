@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spells as Natural Hazards
-*Source: Tasha's Cauldron of Everything p. 170* 
+
+_Source: Tasha's Cauldron of Everything p. 170_
 
 **Spells as Natural Hazards**
 

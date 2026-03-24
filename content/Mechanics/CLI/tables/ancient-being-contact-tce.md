@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Being Contact
-*Source: Tasha's Cauldron of Everything p. 87* 
+
+_Source: Tasha's Cauldron of Everything p. 87_
 
 **Ancient Being Contact**
 

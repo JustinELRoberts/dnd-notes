@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Abominable Familiar
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 ```ad-statblock
 title: Abominable Familiar
@@ -49,4 +50,5 @@ title: Abominable Familiar
 
 ***Rampage.*** Immediately after dealing damage to a creature that is already [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), the familiar moves up to half its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md), and it makes one Rend attack.
 ```
+
 ^statblock

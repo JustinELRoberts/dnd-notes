@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Way of the Drunken Master
-*[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Xanathar's Guide to Everything p. 33*  
+
+_[Monk](./monk-xphb.md): Monk Subclass_\
+_Source: Xanathar's Guide to Everything p. 33_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -71,10 +72,10 @@ Starting at 6th level, you can move in sudden, swaying ways. You gain the follow
 
 Options:
 
-- **Leap to Your Feet**  
-    When you're [prone](Mechanics/CLI/rules/conditions.md#Prone), you can stand up by spending 5 feet of movement, rather than half your speed.  
-- **Redirect Attack**  
-    When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.  
+- **Leap to Your Feet**\
+  When you're [prone](Mechanics/CLI/rules/conditions.md#Prone), you can stand up by spending 5 feet of movement, rather than half your speed.
+- **Redirect Attack**\
+  When a creature misses you with a melee attack roll, you can spend 1 ki point as a reaction to cause that attack to hit one creature of your choice, other than the attacker, that you can see within 5 feet of you.
 
 ### Drunkard's Luck (Level 11)
 

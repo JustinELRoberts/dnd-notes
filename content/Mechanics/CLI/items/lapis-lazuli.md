@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Lapis Lazuli
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 10 gp
 
 An opaque light and dark blue with yellow flecks gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

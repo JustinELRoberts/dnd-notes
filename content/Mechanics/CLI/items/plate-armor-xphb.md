@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Plate Armor
-*Heavy armor*  
+
+_Heavy armor_\
 ![](Mechanics/CLI/items/img/plate-armor.webp#right)
 
 - **Armor Class**: 18
@@ -24,4 +25,4 @@ obsidianUIMode: preview
 - **Cost**: 1,500 gp
 - **Weight**: 65.0 lbs.
 
-*Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

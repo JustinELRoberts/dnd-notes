@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fragmentation Grenade
-*Explosive*  
 
+_Explosive_
 
 - **Weight**: 1.0 lbs.
 
@@ -25,4 +25,4 @@ As an action, a character can throw a grenade at a point up to 60 feet away. Wit
 
 Each creature within 20 feet of an exploding fragmentation grenade must make a DC 15 Dexterity saving throw, taking `5d6` piercing damage on a failed save, or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

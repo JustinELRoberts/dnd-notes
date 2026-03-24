@@ -27,8 +27,8 @@ classes:
 ---
 
 # Fire Storm
-*7th-level, Evocation*  
 
+_7th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -41,4 +41,4 @@ Flammable objects in the area that aren't being worn or carried start [burning](
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
 
-*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

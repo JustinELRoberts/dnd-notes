@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Marid (Disguises)
-*Source: Monster Manual p. 146*  
+
+_Source: Monster Manual p. 146_
 
 ```ad-statblock
 title: Marid (Disguises)
@@ -65,6 +66,7 @@ title: Marid (Disguises)
 
 ***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (`6d6`) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

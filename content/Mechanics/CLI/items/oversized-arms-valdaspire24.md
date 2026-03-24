@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Oversized Arms
-*Monstrous graft, rare*  
 
+_Monstrous graft, rare_
 
 - **Properties**: [Arms Slot](Mechanics/CLI/rules/item-properties.md#Arms%20Slot)
 
-*Donor: Any Giant*
+_Donor: Any Giant_
 
 Once this graft is installed, your reach is 5 feet greater whenever you make an attack with a Melee weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

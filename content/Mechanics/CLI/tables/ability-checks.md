@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ability Checks
-*Source: Dungeon Master's Guide p. 237* 
+
+_Source: Dungeon Master's Guide p. 237_
 
 **Ability Checks**
 

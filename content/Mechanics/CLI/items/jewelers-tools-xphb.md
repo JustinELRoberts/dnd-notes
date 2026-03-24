@@ -15,14 +15,17 @@ obsidianUIMode: preview
 ---
 
 # Jeweler's Tools
-*Artisan's tools*  
 
+_Artisan's tools_
 
 - **Cost**: 25 gp
+
 - **Weight**: 2.0 lbs.
 
-- **Ability.** Intelligence  
-- **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md)  
+- **Ability.** Intelligence
 
-*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Discern a gem's value (DC 15)
+
+- **Craft.** [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md)
+
+_Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

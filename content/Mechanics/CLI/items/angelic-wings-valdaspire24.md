@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Angelic Wings
-*Monstrous graft, very rare*  
 
+_Monstrous graft, very rare_
 
 - **Properties**: [External Slot](Mechanics/CLI/rules/item-properties.md#External%20Slot)
 
-*Donor: Any Celestial with a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md)*
+_Donor: Any Celestial with a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md)_
 
 While this graft is attached, you have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

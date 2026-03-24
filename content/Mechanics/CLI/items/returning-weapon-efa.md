@@ -30,13 +30,13 @@ obsidianUIMode: preview
 ---
 
 # Returning Weapon
-*Uncommon*  
 
-
+_Uncommon_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.
 
 **Variants**:
+
 - [Returning Bomb](#Returning%20Bomb)
 - [Returning Boomerang](#Returning%20Boomerang)
 - [Returning Dagger](#Returning%20Dagger)
@@ -129,5 +129,4 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
 - **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-
-*Source: Eberron: Forge of the Artificer p. 112*
+_Source: Eberron: Forge of the Artificer p. 112_

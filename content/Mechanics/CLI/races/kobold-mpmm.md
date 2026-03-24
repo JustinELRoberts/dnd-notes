@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Kobold
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 25*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 25_\
 ![](Mechanics/CLI/races/img/kobold.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -36,9 +37,9 @@ As a bonus action, you let out a cry at your enemies within 10 feet of you. Unti
 
 Kobold's connections to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options for your kobold.
 
-- **Craftiness.** You have proficiency in one of the following skills of your choice: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Survival](Mechanics/CLI/rules/skills.md#Survival).  
-- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition on yourself.  
-- **Draconic Sorcery.** You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).  
+- **Craftiness.** You have proficiency in one of the following skills of your choice: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Survival](Mechanics/CLI/rules/skills.md#Survival).
+- **Defiance.** You have advantage on saving throws to avoid or end the [frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition on yourself.
+- **Draconic Sorcery.** You know one cantrip of your choice from the sorcerer spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for that cantrip (choose when you select this race).
 
 ## Description
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ending a Chase; Escape Factors
-*Source: Dungeon Master's Guide p. 253* 
+
+_Source: Dungeon Master's Guide p. 253_
 
 **Escape Factors**
 

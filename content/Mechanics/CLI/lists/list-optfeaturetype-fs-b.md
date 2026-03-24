@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Fighting Style, Bard
-*Source: Xanathar's Guide to Everything, Player's Handbook p. 72* 
+
+_Source: Xanathar's Guide to Everything, Player's Handbook p. 72_
 
 - [Dueling](Mechanics/CLI/feats/dueling-xphb.md)
 - [Two-Weapon Fighting](Mechanics/CLI/feats/two-weapon-fighting-xphb.md)

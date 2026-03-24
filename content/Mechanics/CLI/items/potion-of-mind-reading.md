@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Potion of Mind Reading
-*Potion, minor, rare*  
 
-
+_Potion, minor, rare_
 
 When you drink this potion, you gain the effect of the [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md) spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.
 
-*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

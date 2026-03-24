@@ -19,8 +19,8 @@ classes:
 ---
 
 # Frigid Blade
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -33,4 +33,4 @@ Encasing the weapon used in the spell's casting in ice, you make one attack. The
 
 **Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

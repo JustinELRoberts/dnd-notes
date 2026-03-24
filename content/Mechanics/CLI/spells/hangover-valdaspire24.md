@@ -22,8 +22,8 @@ classes:
 ---
 
 # Hangover
-*2nd-level, Enchantment*  
 
+_2nd-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -36,4 +36,4 @@ You emit a drunken aura that quickly washes away, leaving an intense hangover. A
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

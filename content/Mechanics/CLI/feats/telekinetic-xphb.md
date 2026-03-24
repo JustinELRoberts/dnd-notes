@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Telekinetic 
+# Telekinetic
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Minor Telekinesis.** You learn the [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md) spell. You can cast it without Verbal or Somatic components, you can make the spectral hand [Invisible](Mechanics/CLI/rules/conditions.md#Invisible), and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.
 
 **Telekinetic Shove.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or be moved 5 feet toward or away from you.
+
 ## Sources
 
-*Player's Handbook (2024) p. 208*
+_Player's Handbook (2024) p. 208_

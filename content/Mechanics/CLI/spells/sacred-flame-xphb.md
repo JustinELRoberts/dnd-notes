@@ -31,8 +31,8 @@ classes:
 ---
 
 # Sacred Flame
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -45,4 +45,4 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of the End)](Mechanics/CLI/lists/list-spells-classes-burden-of-the-end-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (Celestial Patron)](Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

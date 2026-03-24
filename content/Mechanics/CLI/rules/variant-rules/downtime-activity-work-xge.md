@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Work
-*Source: Xanathar's Guide to Everything p. 134* 
+
+_Source: Xanathar's Guide to Everything p. 134_
 
 When all else fails, an adventurer can turn to an honest trade to earn a living. This activity represents a character's attempt to find temporary work, the quality and wages of which are difficult to predict.
 

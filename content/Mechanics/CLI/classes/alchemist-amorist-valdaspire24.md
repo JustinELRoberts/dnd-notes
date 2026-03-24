@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Amorist
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Brew Love Potions and Charm Your Foes*
+_Brew Love Potions and Charm Your Foes_
 
 The study of mind-affecting alchemy is a delicate one, practiced only by a small number of Alchemists, known as Amorists. Often called "love doctors" by their clientele, Amorists specialize in the brewing of potions that produce strong emotional responses in their drinkers. While love potions are by far their most popular product, Amorists can also craft pungent pheromone bombs that can even soften the hearts of terrible monsters.
 
@@ -58,9 +59,9 @@ The study of mind-affecting alchemy is a delicate one, practiced only by a small
 
 You gain proficiency in the [Deception](Mechanics/CLI/rules/skills.md#Deception) and [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) skills. Additionally, when you make a Charisma check using these skills, you can make it as an Intelligence check.
 
-When you brew potions, you can create a Philter of Love for 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)).
+When you brew potions, you can create a Philter of Love for 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
 
-### Pheromone Bomb [Formula] (Level 3)
+### Pheromone Bomb \[Formula] (Level 3)
 
 By adding a potent pheromone to your [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into a Pheromone Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage. When you use the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, each creature within the explosion makes a Wisdom saving throw, instead of Dexterity. A target hit by this [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) or that fails its saving throw against it has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition until the start of your next turn or until it takes damage.
 
@@ -74,7 +75,7 @@ You wear a mind-altering perfume that endears others to you. When an enemy withi
 
 ### Alchemical Romance (Level 14)
 
-When you use your Pheromone Bomb, you can expend 1-4 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) to improve it. Choose a number of benefits equal to the number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) expended.
+When you use your Pheromone Bomb, you can expend 1-4 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to improve it. Choose a number of benefits equal to the number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) expended.
 
 **Dreamy Haze.** Choose one creature that has the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition. While [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), that creature falls into a dreamy state in which it regards every creature it sees as the condition's charmer.
 

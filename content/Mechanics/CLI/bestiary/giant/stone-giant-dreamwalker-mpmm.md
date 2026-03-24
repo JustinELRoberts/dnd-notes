@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Stone Giant Dreamwalker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150_\
 ![](Mechanics/CLI/bestiary/giant/img/stone-giant-dreamwalker.webp#right)
 
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
@@ -66,6 +67,7 @@ title: Stone Giant Dreamwalker
 
 ***Petrifying Touch.*** The giant touches one Medium or smaller creature within 10 feet of it that is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes [petrified](Mechanics/CLI/rules/conditions.md#Petrified), and the giant can adhere the target to its stony body. [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spells and other magic that can undo petrification have no effect on a [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creature adhered to the giant unless the giant is dead, in which case the magic works normally, freeing the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creature as well as ending the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) condition on it.
 ```
+
 ^statblock
 
 ## Environment

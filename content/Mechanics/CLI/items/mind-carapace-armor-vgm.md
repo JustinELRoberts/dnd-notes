@@ -21,13 +21,13 @@ obsidianUIMode: preview
 ---
 
 # Mind Carapace Armor
-*Uncommon (requires attunement by a specific individual)*  
 
-
+_Uncommon (requires attunement by a specific individual)_
 
 Any nonmagical suit of heavy armor can be turned by mind flayers into mind carapace armor. Only one creature can attune to it: either a specific mind flayer or one of its thralls. While worn by any other creature, the mind carapace armor functions as normal armor of its kind. To its intended wearer, the armor grants advantage on Intelligence, Wisdom, and Charisma saving throws and makes its wearer immune to the [frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition.
 
 **Variants**:
+
 - [Mind Carapace Chain Mail](#Mind%20Carapace%20Chain%20Mail)
 - [Mind Carapace Plate Armor](#Mind%20Carapace%20Plate%20Armor)
 - [Mind Carapace Ring Mail](#Mind%20Carapace%20Ring%20Mail)
@@ -60,5 +60,4 @@ Any nonmagical suit of heavy armor can be turned by mind flayers into mind carap
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
 
-
-*Source: Volo's Guide to Monsters p. 81*
+_Source: Volo's Guide to Monsters p. 81_

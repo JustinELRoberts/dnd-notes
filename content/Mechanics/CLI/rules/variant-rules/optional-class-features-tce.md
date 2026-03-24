@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Optional Class Features
-*Source: Tasha's Cauldron of Everything p. 24* 
+
+_Source: Tasha's Cauldron of Everything p. 24_
 
 You gain class features in the "Player's Handbook" when you reach certain levels in your class. An optional feature is an additional feature that you can gain beyond these.
 

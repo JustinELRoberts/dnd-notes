@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Types of Criminal Syndicates; Syndicate Types
-*Source: Tasha's Cauldron of Everything p. 91* 
+
+_Source: Tasha's Cauldron of Everything p. 91_
 
 **Syndicate Types**
 

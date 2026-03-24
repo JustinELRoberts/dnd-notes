@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Eldritch Cannon, Protector
-*Source: Tasha's Cauldron of Everything p. 17* 
+
+_Source: Tasha's Cauldron of Everything p. 17_
 
 ![Human Artillerist with Eldritch Cannon](Mechanics/CLI/objects/img/eldritch-cannon.webp#right)
 
@@ -23,6 +24,7 @@ obsidianUIMode: preview
 > Created by the Eldritch Cannon subclass feature.
 
 ![The Gnome Artificer Vi and...](Mechanics/CLI/objects/img/eldritch-cannon-2.webp#center "The Gnome Artificer Vi and Her Cockatrice-like Eldritch Cannon Battle Foes Atop a Lightning Train")
+
 ```ad-statblock
 title: Eldritch Cannon, Protector
 *Unknown Unknown*
@@ -42,4 +44,5 @@ title: Eldritch Cannon, Protector
 
 ***Protector.*** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to `1d8` + your Intelligence modifier (minimum of +1).
 ```
+
 ^statblock

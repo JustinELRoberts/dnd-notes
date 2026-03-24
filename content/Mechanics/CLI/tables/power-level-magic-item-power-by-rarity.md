@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Power Level; Magic Item Power by Rarity
-*Source: Dungeon Master's Guide p. 285* 
+
+_Source: Dungeon Master's Guide p. 285_
 
 **Magic Item Power by Rarity**
 

@@ -18,17 +18,18 @@ obsidianUIMode: preview
 ---
 
 # Summer Eladrin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 116_\
 ![](Mechanics/CLI/bestiary/fey/img/summer-eladrin.webp#right)
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
 
 ## Eladrin
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
-> 
+>
 > Note to self: send some of my spring eladrin friends to visit Mordenkainen. That'll teach him to lighten up.
 
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
@@ -87,6 +88,7 @@ title: Summer Eladrin
 
 ***Parry.*** The eladrin adds 3 to its AC against one melee attack that would hit it. To do so, the eladrin must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock
 
 ## Environment

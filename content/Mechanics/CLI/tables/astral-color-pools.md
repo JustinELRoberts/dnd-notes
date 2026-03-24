@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Astral Color Pools
-*Source: Dungeon Master's Guide p. 47* 
+
+_Source: Dungeon Master's Guide p. 47_
 
 **Astral Color Pools**
 

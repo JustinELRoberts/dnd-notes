@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Young Red Shadow Dragon
-*Source: Monster Manual p. 85*  
+
+_Source: Monster Manual p. 85_\
 ![](Mechanics/CLI/bestiary/dragon/img/shadow-dragon.webp#right)
 
 Shadow dragons are true dragons that were either born in the Shadowfell or transformed by years spent within its dismal confines. Some shadow dragons embrace the Shadowfell for its bleak landscapes and desolation. Others seek to return to the Material Plane, hungry to spread the darkness and evil of the Plane of Shadow.
@@ -110,6 +111,7 @@ title: Young Red Shadow Dragon
 
 ***Shadow Breath (Recharge 5-6).*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (`16d6`) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead [shadow](Mechanics/CLI/bestiary/undead/shadow.md) rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
 ```
+
 ^statblock
 
 ## Environment

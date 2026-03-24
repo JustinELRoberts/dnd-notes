@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Gray Ooze
-*Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/ooze/img/gray-ooze.webp#right)
 
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.
@@ -86,6 +87,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ***Pseudopod.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage plus 7 (`2d6`) acid damage, and if the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative −1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 ```
+
 ^statblock
 
 ## Environment

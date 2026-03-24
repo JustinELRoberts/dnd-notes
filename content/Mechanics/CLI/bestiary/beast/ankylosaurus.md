@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ankylosaurus
-*Source: Monster Manual p. 79. Available in the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 79. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/dinosaurs.webp#right)
 
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.
@@ -54,6 +55,7 @@ title: Ankylosaurus
 
 ***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

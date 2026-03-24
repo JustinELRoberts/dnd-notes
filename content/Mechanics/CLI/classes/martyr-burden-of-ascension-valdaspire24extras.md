@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Ascension
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Ascend to Godhood*
+_Ascend to Godhood_
 
 The gods have set an arduous path for your life, replete with labors, challenges, and trials designed to test your morality and resolve. You likely won't succeed. However, if you best the gods' trials and die in marvelous glory, you will ascend to the afterlife as a demigod.
 

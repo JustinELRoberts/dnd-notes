@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Ascetic (Level 1+)
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 ```ad-statblock
 title: Ascetic (Level 1+)
@@ -50,4 +51,5 @@ title: Ascetic (Level 1+)
 
 ***Focused Movement (2/Day).*** The ascetic takes the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action.
 ```
+
 ^statblock

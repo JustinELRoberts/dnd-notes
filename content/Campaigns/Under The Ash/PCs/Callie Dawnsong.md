@@ -12,6 +12,6 @@ Class: "[[bard-xphb|Bard]]"
 Subclass:
 ---
 
-![](<Campaigns/Under The Ash/PCs/img/Callie Dawnsong.png>)
-## Description
+![](Campaigns/Under The Ash/PCs/img/Callie Dawnsong.png)
 
+## Description

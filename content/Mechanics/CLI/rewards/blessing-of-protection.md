@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Blessing of Protection
 
-
 You gain a +1 bonus to AC and saving throws.
 
 ## Sources
 
-*Dungeon Master's Guide p. 228*
+_Dungeon Master's Guide p. 228_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fire Elemental Myrmidon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 123_\
 ![](Mechanics/CLI/bestiary/elemental/img/fire-elemental-myrmidon.webp#right)
 
 ## Elemental Myrmidons
@@ -61,4 +62,5 @@ title: Fire Elemental Myrmidon
 
 ***Fiery Strikes (Recharge 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 7 (`2d6`) fire damage.
 ```
+
 ^statblock

@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Boon of Skill 
+# Boon of Skill
+
 ![](Mechanics/CLI/feats/img/boon-of-skill.webp#right)
 
-***Prerequisites*** 19th
+_**Prerequisites**_ 19th
 
 You gain the following benefits.
 
@@ -25,6 +26,7 @@ You gain the following benefits.
 **All-Around Adept.** You gain proficiency in all skills.
 
 **Expertise.** Choose one skill in which you lack [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in that skill.
+
 ## Sources
 
-*Player's Handbook (2024) p. 211*
+_Player's Handbook (2024) p. 211_

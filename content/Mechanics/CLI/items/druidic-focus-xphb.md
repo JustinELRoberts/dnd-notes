@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Druidic Focus
-*Spellcasting focus*  
 
-
+_Spellcasting focus_
 
 **Items in this group:**
 
@@ -25,4 +24,4 @@ obsidianUIMode: preview
 - [Wooden staff](Mechanics/CLI/items/wooden-staff-xphb.md)
 - [Yew wand](Mechanics/CLI/items/yew-wand-xphb.md)
 
-*Source: Player's Handbook (2024) p. 225*
+_Source: Player's Handbook (2024) p. 225_

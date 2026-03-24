@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Warrior of Mercy
-*[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Player's Handbook (2024) p. 104*  
+
+_[Monk](./monk-xphb.md): Monk Subclass_\
+_Source: Player's Handbook (2024) p. 104_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/mercy-monk.webp#right)
 
-*Manipulate Forces of Life and Death*
+_Manipulate Forces of Life and Death_
 
 Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.
 

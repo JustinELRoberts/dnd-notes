@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Clockwork Iron Cobra
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 79_\
 ![](Mechanics/CLI/bestiary/construct/img/clockwork-iron-cobra.webp#right)
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
@@ -101,6 +102,7 @@ title: Clockwork Iron Cobra
 - **3–4 Paralysis.** The target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) until the end of its next turn.  
 - **5–6 Poison.** The target takes 13 (`3d8`) poison damage.  
 ```
+
 ^statblock
 
 ## Environment

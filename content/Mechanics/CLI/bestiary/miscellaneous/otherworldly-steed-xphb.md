@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Otherworldly Steed
-*Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/miscellaneous/img/otherworldly-steed.webp#center)
 
 ```ad-statblock
@@ -55,4 +56,5 @@ title: Otherworldly Steed
 
 ***Healing Touch (Celestial Only; Recharges after a Long Rest).*** One creature within 5 feet of the steed regains a number of Hit Points equal to `2d8` + the spell's level.
 ```
+
 ^statblock

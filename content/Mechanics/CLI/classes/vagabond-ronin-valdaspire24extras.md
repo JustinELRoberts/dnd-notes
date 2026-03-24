@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Rōnin
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Master the Sword to Survive in a Harsh World*
+_Master the Sword to Survive in a Harsh World_
 
 You were once an honorable blademaster without peer. But those days are long gone. Disgraced and despised, people know you only as a dangerous swordmaster—someone to be feared. You may search for purpose, a way to redeem the black mark on your honor, or simply to survive another day in your endless journey. Perhaps your broken vows still guide you, or perhaps you have abandoned all semblance of honor; only your conduct and your blade define you.
 

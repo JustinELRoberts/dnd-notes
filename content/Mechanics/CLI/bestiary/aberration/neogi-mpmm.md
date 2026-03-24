@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Neogi
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180_\
 ![](Mechanics/CLI/bestiary/aberration/img/neogi.webp#right)
 
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
@@ -27,8 +28,8 @@ Neogi mark themselves and those they capture through the use of dyes, transforma
 
 ## Neogi
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Only the malevolent or the desperate do business with neogi. I generally advise against working with beings who view you as property or prey.
 
 A neogi looks like an outsize spider with an eel's neck and head. It can poison the body and the mind of its targets and can subjugate even beings that are physically superior.
@@ -75,6 +76,7 @@ title: Neogi
 
 ***Enslave (Recharges after a Short or Long Rest).*** The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

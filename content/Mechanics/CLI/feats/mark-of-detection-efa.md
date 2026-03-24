@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Detection 
+# Mark of Detection
+
 ![](Mechanics/CLI/feats/img/mark-of-detection.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ When you reach character level 3, you also always have the [See Invisibility](Me
 | 4 | [Arcane Eye](Mechanics/CLI/spells/arcane-eye-xphb.md), [Divination](Mechanics/CLI/spells/divination-xphb.md) |
 | 5 | [Legend Lore](Mechanics/CLI/spells/legend-lore-xphb.md) |
 ^mark-of-detection-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 39*
+_Eberron: Forge of the Artificer p. 39_

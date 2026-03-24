@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Witch
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Witch
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Sickle](Mechanics/CLI/items/sickle-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (orb)](Mechanics/CLI/items/orb-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 5 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Sickle](Mechanics/CLI/items/sickle-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (orb)](Mechanics/CLI/items/orb-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 5 GP; or (B) 50 GP
 
 ## Multiclassing Witch
 
@@ -118,17 +119,17 @@ You are wracked by a terrible curse which infects your body and soul. Choose the
 
 Options (choose 1):
 
-- [Burned](Mechanics/CLI/optional-features/burned-valdaspire24.md)  
-- [Drowned](Mechanics/CLI/optional-features/drowned-valdaspire24.md)  
-- [Feral](Mechanics/CLI/optional-features/feral-valdaspire24.md)  
-- [Hideous](Mechanics/CLI/optional-features/hideous-valdaspire24.md)  
-- [Hollow](Mechanics/CLI/optional-features/hollow-valdaspire24.md)  
-- [Infested](Mechanics/CLI/optional-features/infested-valdaspire24.md)  
-- [Loveless](Mechanics/CLI/optional-features/loveless-valdaspire24.md)  
-- [Possessed](Mechanics/CLI/optional-features/possessed-valdaspire24.md)  
-- [Starving](Mechanics/CLI/optional-features/starving-valdaspire24.md)  
-- [Visions](Mechanics/CLI/optional-features/visions-valdaspire24.md)  
-- [Whispers](Mechanics/CLI/optional-features/whispers-valdaspire24.md)  
+- [Burned](Mechanics/CLI/optional-features/burned-valdaspire24.md)
+- [Drowned](Mechanics/CLI/optional-features/drowned-valdaspire24.md)
+- [Feral](Mechanics/CLI/optional-features/feral-valdaspire24.md)
+- [Hideous](Mechanics/CLI/optional-features/hideous-valdaspire24.md)
+- [Hollow](Mechanics/CLI/optional-features/hollow-valdaspire24.md)
+- [Infested](Mechanics/CLI/optional-features/infested-valdaspire24.md)
+- [Loveless](Mechanics/CLI/optional-features/loveless-valdaspire24.md)
+- [Possessed](Mechanics/CLI/optional-features/possessed-valdaspire24.md)
+- [Starving](Mechanics/CLI/optional-features/starving-valdaspire24.md)
+- [Visions](Mechanics/CLI/optional-features/visions-valdaspire24.md)
+- [Whispers](Mechanics/CLI/optional-features/whispers-valdaspire24.md)
 
 ### Hexes (Level 1)
 
@@ -157,17 +158,17 @@ You always have the [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md) 
 **Spell Channeling.** When you cast a spell with a range other than Self on your turn, you can cast it as if you were in your familiar's space. The familiar must be within 100 feet of you, and it must take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to deliver the spell when you cast the spell as normal.
 
 > [!note] Witch Familiar
-> 
+>
 > As a Witch, the stat block of a familiar you summon is improved in the following ways.
-> 
+>
 > **Hit Points.** You add twice your Witch level to your familiar's [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum.
-> 
+>
 > **Your Spell Attack Modifier.** Your familiar can use your spell attack modifier for its attack rolls.
-> 
+>
 > **Your Saving Throw.** If your familiar forces a creature to make a saving throw, it uses your spell save DC.
-> 
+>
 > **Your Proficiency Bonus.** Your familiar adds your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to its AC, saving throws, and damage rolls.
-^witch-familiar
+> ^witch-familiar
 
 ### Witch Subclass (Level 3)
 
@@ -207,7 +208,7 @@ You gain a feature from your Witch Subclass.
 
 ### Grand Hex (Level 11)
 
-You have perfected deeply malevolent forms of magic. You gain one Grand Hex^[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
+You have perfected deeply malevolent forms of magic. You gain one Grand Hex^\[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
 
 ### Ability Score Improvement (Level 12)
 
@@ -215,7 +216,7 @@ You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-impro
 
 ### Grand Hex (Level 13)
 
-You have perfected deeply malevolent forms of magic. You gain one Grand Hex^[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
+You have perfected deeply malevolent forms of magic. You gain one Grand Hex^\[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
 
 ### Subclass Feature (Level 14)
 
@@ -223,7 +224,7 @@ You gain a feature from your Witch Subclass.
 
 ### Grand Hex (Level 15)
 
-You have perfected deeply malevolent forms of magic. You gain one Grand Hex^[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
+You have perfected deeply malevolent forms of magic. You gain one Grand Hex^\[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
 
 ### Ability Score Improvement (Level 16)
 
@@ -231,7 +232,7 @@ You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-impro
 
 ### Grand Hex (Level 17)
 
-You have perfected deeply malevolent forms of magic. You gain one Grand Hex^[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
+You have perfected deeply malevolent forms of magic. You gain one Grand Hex^\[Optional features from [Grand Hex](Mechanics/CLI/lists/list-optfeaturetype-gh.md); defined in valdawitch] of your choice. Whenever you gain a Witch level, you can replace one of your Grand Hexes with another one.
 
 ### Vengeful Curse (Level 18)
 

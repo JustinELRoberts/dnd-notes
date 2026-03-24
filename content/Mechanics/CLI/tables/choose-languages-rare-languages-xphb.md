@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Choose Languages; Rare Languages
-*Source: Player's Handbook (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 37. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 **Rare Languages**
 
@@ -24,10 +25,10 @@ obsidianUIMode: preview
 | Deep Speech | Aberrations |
 | Druidic | Druidic circles |
 | Infernal | Devils of the Nine Hells |
-| Primordial* | Elementals |
+| Primordial\* | Elementals |
 | Sylvan | The Feywild |
 | Thieves' Cant | Various criminal guilds |
 | Undercommon | The Underdark |
 ^rare-languages
 
-*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.
+\*Primordial includes the Aquan, Auran, Ignan, and Terran dialects. Creatures that know one of these dialects can communicate with those that know a different one.

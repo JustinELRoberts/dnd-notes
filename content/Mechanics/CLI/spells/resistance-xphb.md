@@ -33,8 +33,8 @@ classes:
 ---
 
 # Resistance
-*cantrip, Abjuration*  
 
+_cantrip, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -45,4 +45,4 @@ You touch a willing creature and choose a damage type: Acid, Bludgeoning, Cold, 
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Kraken Priest
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 167, Volo's Guide to Monsters p. 215_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/kraken-priest.webp#right)
 
 A kraken can seem godlike to folk who have faced its fury. Those who mistake its might for divine power and those who seek to appease the monster through veneration are sometimes rewarded with power, to serve thereafter as kraken priests.
@@ -67,6 +68,7 @@ title: Kraken Priest
 
 **1/day:** [Evard's black tentacles](Mechanics/CLI/spells/evards-black-tentacles-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

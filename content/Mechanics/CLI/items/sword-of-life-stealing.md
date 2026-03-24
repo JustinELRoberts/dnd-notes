@@ -25,9 +25,9 @@ obsidianUIMode: preview
 ---
 
 # Sword of Life Stealing
-*Major, rare (requires attunement)*  
-![Sword of Life Stealing (Longsword)](Mechanics/CLI/items/img/sword-of-life-stealing.webp#right)
 
+_Major, rare (requires attunement)_\
+![Sword of Life Stealing (Longsword)](Mechanics/CLI/items/img/sword-of-life-stealing.webp#right)
 
 When you attack a creature with this magic weapon and roll a 20 on the attack roll, that target takes an extra 10 necrotic damage if it isn't a construct or an undead. You also gain 10 temporary hit points.
 
@@ -35,6 +35,7 @@ When you attack a creature with this magic weapon and roll a 20 on the attack ro
 > Note: According to the SRD, it is an extra `3d6` necrotic damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 **Variants**:
+
 - [Double-Bladed Scimitar of Life Stealing](#Double-Bladed%20Scimitar%20of%20Life%20Stealing)
 - [Greatsword of Life Stealing](#Greatsword%20of%20Life%20Stealing)
 - [Longsword of Life Stealing](#Longsword%20of%20Life%20Stealing)
@@ -80,5 +81,4 @@ When you attack a creature with this magic weapon and roll a 20 on the attack ro
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 206. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 206. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

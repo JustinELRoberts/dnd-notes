@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Force Breastplate 
+# Force Breastplate
 
-
-***Prerequisites*** Level 10 Warmage (House of Knights)
+_**Prerequisites**_ Level 10 Warmage (House of Knights)
 
 While you have all of your [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

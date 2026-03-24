@@ -19,8 +19,8 @@ classes:
 ---
 
 # Gahoul's Shrieking Skull
-*1st-level, Necromancy*  
 
+_1st-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -33,4 +33,4 @@ You throw a cackling skull at a point you can see within range, which emits a mo
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

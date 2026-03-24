@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Erathis
 
-
 - **Alignment**: Lawful Neutral
 - **Domains**: Knowledge, Order
 - **Pantheon**: Dawn War
 - **Symbol**: Upper half of a clockwork gear
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

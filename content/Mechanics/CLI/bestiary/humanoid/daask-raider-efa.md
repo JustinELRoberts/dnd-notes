@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Daask Raider
-*Source: Eberron: Forge of the Artificer p. 58*  
+
+_Source: Eberron: Forge of the Artificer p. 58_\
 ![](Mechanics/CLI/bestiary/humanoid/img/daask-raider.webp#right)
 
 Raiders use guerrilla tactics to ambush warehouses and beat down opponents. These skilled fistfighters work in tandem to claim goods and territory for Daask.
@@ -53,4 +54,5 @@ title: Daask Raider
 
 ***Smackback.*** Trigger: The raider takes damage from a creature within 5 feet. _Response:_ The raider makes one Pummel attack, targeting the triggering creature.
 ```
+
 ^statblock

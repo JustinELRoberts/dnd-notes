@@ -24,8 +24,8 @@ classes:
 ---
 
 # Weird
-*9th-level, Illusion*  
 
+_9th-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -38,4 +38,4 @@ A [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) target makes a Wisd
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

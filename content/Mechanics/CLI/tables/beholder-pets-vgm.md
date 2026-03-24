@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Beholder Pets
-*Source: Volo's Guide to Monsters p. 16* 
+
+_Source: Volo's Guide to Monsters p. 16_
 
 **Beholder Pets**
 

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Knights
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Wield Blades of Fire, Lightning, Frost, and Force*
+_Wield Blades of Fire, Lightning, Frost, and Force_
 
 The House of Knights has a long and storied tradition of melding swordplay with the Warmage's potent spellcasting. Unlike other warriors, however, Knights carry neither swords nor shields into combat, for they can forge both out of magical force at a moment's notice.
 

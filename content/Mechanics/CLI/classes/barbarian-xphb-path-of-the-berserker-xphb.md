@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Path of the Berserker
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
-*Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
+_Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/berserker-barbarian.webp#right)
 
-*Channel Rage into Violent Fury*
+_Channel Rage into Violent Fury_
 
 Barbarians who walk the Path of the Berserker direct their Rage primarily toward violence. Their path is one of untrammeled fury, and they thrill in the chaos of battle as they allow their Rage to seize and empower them.
 

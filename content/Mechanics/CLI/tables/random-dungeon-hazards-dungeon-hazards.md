@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Dungeon Hazards; Dungeon Hazards
-*Source: Dungeon Master's Guide p. 296* 
+
+_Source: Dungeon Master's Guide p. 296_
 
 **Dungeon Hazards**
 

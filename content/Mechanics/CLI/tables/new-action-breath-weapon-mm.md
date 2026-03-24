@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # New Action: Breath Weapon
-*Source: Monster Manual p. 180* 
+
+_Source: Monster Manual p. 180_
 
 | Size | Breath Weapon | Optional Prerequisite |
 |------|---------------|-----------------------|

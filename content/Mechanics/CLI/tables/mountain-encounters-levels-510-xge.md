@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Mountain Encounters (Levels 5—10)
-*Source: Xanathar's Guide to Everything p. 104* 
+
+_Source: Xanathar's Guide to Everything p. 104_
 
 **Mountain Encounters (Levels 5—10)**
 

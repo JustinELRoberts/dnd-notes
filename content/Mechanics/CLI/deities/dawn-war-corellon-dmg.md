@@ -16,14 +16,11 @@ obsidianUIMode: preview
 
 # Corellon
 
-
 - **Alignment**: Chaotic Good
 - **Domains**: Light
 - **Pantheon**: Dawn War
 - **Symbol**: Eight-pointed star
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Passages; Passage
-*Source: Dungeon Master's Guide p. 290* 
+
+_Source: Dungeon Master's Guide p. 290_
 
 **Passage**
 
@@ -29,7 +30,7 @@ obsidianUIMode: preview
 | 11-12 | Continue straight 20 ft., then the passage turns left and continues 10 ft. |
 | 13-14 | Continue straight 20 ft., then the passage turns right and continues 10 ft. |
 | 15-19 | Chamber (roll on the Chamber table) |
-| 20 | Stairs* (roll on the Stairs table) |
+| 20 | Stairs\* (roll on the Stairs table) |
 ^passage
 
-* The existence of stairs presumes a dungeon with more than one level. If you don't want a multilevel dungeon, reroll this result, use the stairs as an alternative entrance, or replace them with another feature of your choice.
+- The existence of stairs presumes a dungeon with more than one level. If you don't want a multilevel dungeon, reroll this result, use the stairs as an alternative entrance, or replace them with another feature of your choice.

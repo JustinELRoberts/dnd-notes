@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of Resilience
 
-
 You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

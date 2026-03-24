@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Ioun Stone
-*Wondrous item (requires attunement)*  
 
-
+_Wondrous item (requires attunement)_
 
 **Items in this group:**
 
@@ -36,4 +35,4 @@ obsidianUIMode: preview
 - [Ioun Stone, Strength](Mechanics/CLI/items/ioun-stone-strength.md)
 - [Ioun Stone, Sustenance](Mechanics/CLI/items/ioun-stone-sustenance.md)
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

@@ -21,8 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Wolf Spider
-*Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Smaller than a giant spider, a giant wolf spider hunts prey across open ground or hides in a burrow or crevice, or in a hidden cavity beneath debris.
 
@@ -58,6 +58,7 @@ title: Giant Wolf Spider
 
 ***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (`2d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
 ```
+
 ^statblock
 
 ## Environment

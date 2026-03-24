@@ -18,8 +18,8 @@ classes:
 ---
 
 # Hail of Thorns
-*1st-level, Conjuration*  
 
+_1st-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -32,4 +32,4 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 **Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 283*
+_Source: Player's Handbook (2024) p. 283_

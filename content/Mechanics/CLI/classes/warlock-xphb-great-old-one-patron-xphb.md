@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Great Old One Patron
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
-*Source: Player's Handbook (2024) p. 162*  
+
+_[Warlock](./warlock-xphb.md): Warlock Subclass_\
+_Source: Player's Handbook (2024) p. 162_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/great-old-one-warlock.webp#right)
 
-*Unearth Forbidden Lore of Ineffable Beings*
+_Unearth Forbidden Lore of Ineffable Beings_
 
 When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
 

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drow Arachnomancer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 99*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 99_\
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-arachnomancer.webp#right)
 
 Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
@@ -73,6 +74,7 @@ title: Drow Arachnomancer
 
 ***Change Shape (Recharges after a Short or Long Rest).*** The drow magically transforms into a Large spider, remaining in that form for up to 1 hour, or back into its true form. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in spider form. Any equipment it is wearing or carrying in Humanoid form melds into the spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its Humanoid form if it dies.
 ```
+
 ^statblock
 
 ## Environment

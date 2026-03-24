@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Research Outcomes
-*Source: Xanathar's Guide to Everything p. 132* 
+
+_Source: Xanathar's Guide to Everything p. 132_
 
 **Research Outcomes**
 

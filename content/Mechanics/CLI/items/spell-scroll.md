@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Spell Scroll
-*Scroll*  
 
-
+_Scroll_
 
 **Items in this group:**
 
@@ -32,4 +31,4 @@ obsidianUIMode: preview
 - [Spell Scroll (8th Level)](Mechanics/CLI/items/spell-scroll-8th-level.md)
 - [Spell Scroll (9th Level)](Mechanics/CLI/items/spell-scroll-9th-level.md)
 
-*Source: Dungeon Master's Guide p. 200*
+_Source: Dungeon Master's Guide p. 200_

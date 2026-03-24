@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Blitz Cannon
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d8 radiant
 - **Range**: 20/60
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 With its imposing rectangular muzzle, this brutalist weapon has a clear right and wrong end. Pulling its trigger unleashes a torrent of lightning bolts in a wide, imprecise spray, making it extremely dangerous at point-blank range.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

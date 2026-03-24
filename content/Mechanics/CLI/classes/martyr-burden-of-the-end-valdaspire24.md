@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of the End
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Prevent a Looming Disaster, or Die Trying*
+_Prevent a Looming Disaster, or Die Trying_
 
 The gods have seen a great cataclysm on the horizon and tasked you with protecting the world from catastrophe. The coming end may entail the collapse of a kingdom, the arrival of an evil entity, or the quiet vanishing of a village, temple, or way of life. However destructive or temperate, the coming cataclysm disrupts the gods' plans or threatens their hold on the mortal plane. To this end, the gods imbue you with ancient and powerful spells, tools once gifted only to prophets. The life of a Martyr is always forfeit, so long as the cataclysm can be forestalled or defeated.
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Creating a Gnoll War Band; War Band Leadership
-*Source: Volo's Guide to Monsters p. 39* 
+
+_Source: Volo's Guide to Monsters p. 39_
 
 **War Band Leadership**
 

@@ -13,72 +13,73 @@ obsidianUIMode: preview
 ---
 
 # Chapter 1: Playing the Game
-*Source: Player's Handbook (2024), p. 7* 
+
+_Source: Player's Handbook (2024), p. 7_
 
 ![While adventuring in the D...](Mechanics/CLI/books/players-handbook-2024/img/000-01-013-opening-art.webp#center "While adventuring in the Dragonlance setting, the siblings Caramon Majere, Raistlin Majere, and Kitiara uth Matar provoke the rage of a wyvern")
 
 Imagination is a key ingredient of Dungeons & Dragons, a cooperative game in which the characters that you roleplay embark on adventures together in fantasy worlds filled with monsters and magic.
 
-In D&D, the action takes place in the imaginations of the players, and it's narrated by everyone together. Here's a glimpse at what that looks like:
+In D\&D, the action takes place in the imaginations of the players, and it's narrated by everyone together. Here's a glimpse at what that looks like:
 
-- **Jared (as Dungeon Master).** After your long journey, Castle Ravenloft towers before you. Crumbling towers of stone—perhaps abandoned guardhouses—loom over the approach. Beyond them, you see a gaping chasm disappearing into deep fog below. A lowered drawbridge spans the chasm, its chains creaking in the wind. Stone gargoyles stare down at you from the high walls, and a pale light spills into the courtyard from the open castle doors beyond.  
-- **Phillip (as Gareth).** I examine the gargoyles. I have a feeling they're not just statues!  
-- **Maeve (as Mirabella).** I want to see how sturdy the drawbridge is. Do I think we can cross it, or is it going to collapse under our weight?  
-- **Jared.** All right, one at a time. Phillip, Gareth's looking at the gargoyles?  
-- **Phillip.** Yeah. Is there any hint they might be creatures and not just decorations?  
-- **Jared.** Make an Intelligence check.  
-- **Phillip.** Does my Investigation skill apply?  
-- **Jared.** Sure!  
-- **Phillip (rolling a `d20`).** Ugh. Seven.  
-- **Jared.** They look like decorations to you. And Maeve, Mirabella is examining the drawbridge?  
+- **Jared (as Dungeon Master).** After your long journey, Castle Ravenloft towers before you. Crumbling towers of stone—perhaps abandoned guardhouses—loom over the approach. Beyond them, you see a gaping chasm disappearing into deep fog below. A lowered drawbridge spans the chasm, its chains creaking in the wind. Stone gargoyles stare down at you from the high walls, and a pale light spills into the courtyard from the open castle doors beyond.
+- **Phillip (as Gareth).** I examine the gargoyles. I have a feeling they're not just statues!
+- **Maeve (as Mirabella).** I want to see how sturdy the drawbridge is. Do I think we can cross it, or is it going to collapse under our weight?
+- **Jared.** All right, one at a time. Phillip, Gareth's looking at the gargoyles?
+- **Phillip.** Yeah. Is there any hint they might be creatures and not just decorations?
+- **Jared.** Make an Intelligence check.
+- **Phillip.** Does my Investigation skill apply?
+- **Jared.** Sure!
+- **Phillip (rolling a `d20`).** Ugh. Seven.
+- **Jared.** They look like decorations to you. And Maeve, Mirabella is examining the drawbridge?
 
-The adventure continues from there, relying on the DM's descriptions to set the scenes. Later in the chapter, other examples of play focus on certain aspects of D&D play: "social interaction", "exploration", and "combat".
+The adventure continues from there, relying on the DM's descriptions to set the scenes. Later in the chapter, other examples of play focus on certain aspects of D\&D play: "social interaction", "exploration", and "combat".
 
 > [!note] Rules Glossary
-> 
-> If you read a rules term in this book and want to know its definition, consult the rules glossary, which is "appendix C". This chapter provides an overview of how to play D&D and focuses on the big picture. Many places in this chapter reference that glossary.
-^rules-glossary
+>
+> If you read a rules term in this book and want to know its definition, consult the rules glossary, which is "appendix C". This chapter provides an overview of how to play D\&D and focuses on the big picture. Many places in this chapter reference that glossary.
+> ^rules-glossary
 
 ## Player or DM?
 
-To play D&D, you need one person to be the Dungeon Master and other players (three to six are best) to play adventurers. Which role is right for you?
+To play D\&D, you need one person to be the Dungeon Master and other players (three to six are best) to play adventurers. Which role is right for you?
 
 ### Being a Player
 
 If you want to be one of the protagonists in your group's adventures, consider being a player. Here's what players do:
 
-- **Make a Character.** Your character is your alter ego in the fantasy world of the game. After you read this chapter, use the rules in "chapter 2" to create your character.  
-- **Team Up.** Your character joins the other players' characters to form an adventuring party. These adventurers are allies who face challenges and fantastical situations together. Each character brings distinctive capabilities, which ideally complement those of the other characters.  
-- **Venture Forth.** Your character's group explores locations and events presented by the DM. You can respond to them in any way you can imagine, guided by the rules in this book. Although the DM controls all the monsters you encounter, the DM isn't your adversary. The DM guides your party's journey as your characters become more powerful.  
+- **Make a Character.** Your character is your alter ego in the fantasy world of the game. After you read this chapter, use the rules in "chapter 2" to create your character.
+- **Team Up.** Your character joins the other players' characters to form an adventuring party. These adventurers are allies who face challenges and fantastical situations together. Each character brings distinctive capabilities, which ideally complement those of the other characters.
+- **Venture Forth.** Your character's group explores locations and events presented by the DM. You can respond to them in any way you can imagine, guided by the rules in this book. Although the DM controls all the monsters you encounter, the DM isn't your adversary. The DM guides your party's journey as your characters become more powerful.
 
 ### Being the Dungeon Master
 
 If you want to be the mastermind of the game, consider being the DM. Here's what DMs do:
 
-- **Build Adventures.** You prepare the adventures that the players experience. In the Dungeon Master's Guide, you'll find advice for how to create adventures and even whole worlds.  
-- **Guide the Story.** You narrate much of the action during play, describing locations and creatures that the adventurers face. The players decide what their characters do as they navigate hazards and choose what to explore. Then you use a combination of imagination and the game's rules to determine the results of the adventurers' decisions.  
-- **Adjudicate the Rules.** You oversee how the group uses the game's rules, making sure the rules serve the group's fun. You'll want to read the rest of this chapter to understand those rules, and you'll find the "rules glossary" essential.  
+- **Build Adventures.** You prepare the adventures that the players experience. In the Dungeon Master's Guide, you'll find advice for how to create adventures and even whole worlds.
+- **Guide the Story.** You narrate much of the action during play, describing locations and creatures that the adventurers face. The players decide what their characters do as they navigate hazards and choose what to explore. Then you use a combination of imagination and the game's rules to determine the results of the adventurers' decisions.
+- **Adjudicate the Rules.** You oversee how the group uses the game's rules, making sure the rules serve the group's fun. You'll want to read the rest of this chapter to understand those rules, and you'll find the "rules glossary" essential.
 
 ## Rhythm of Play
 
-The three main pillars of D&D play are "social interaction", "exploration", and "combat". Whichever one you're experiencing, the game unfolds according to this basic pattern:
+The three main pillars of D\&D play are "social interaction", "exploration", and "combat". Whichever one you're experiencing, the game unfolds according to this basic pattern:
 
-- **The Dungeon Master Describes a Scene.** The DM tells the players where their adventurers are and what's around them (how many doors lead out of a room, what's on a table, and so on).  
-- **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the DM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.  
-- **The DM Narrates the Results of the Adventurers' Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the DM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the DM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.  
+- **The Dungeon Master Describes a Scene.** The DM tells the players where their adventurers are and what's around them (how many doors lead out of a room, what's on a table, and so on).
+- **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the DM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.
+- **The DM Narrates the Results of the Adventurers' Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the DM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the DM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.
 
-This pattern holds during every game session (each time you sit down to play D&D), whether the adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations—particularly combat—the action is more structured, and everyone takes turns.
+This pattern holds during every game session (each time you sit down to play D\&D), whether the adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations—particularly combat—the action is more structured, and everyone takes turns.
 
 > [!note] Exceptions Supersede General Rules
-> 
+>
 > General rules govern each part of the game. For example, the combat rules tell you that melee attacks use Strength and ranged attacks use Dexterity. That's a general rule, and a general rule is in effect as long as something in the game doesn't explicitly say otherwise.
-> 
+>
 > The game also includes elements—class features, feats, weapon properties, spells, magic items, monster abilities, and the like—that sometimes contradict a general rule. When an exception and a general rule disagree, the exception wins. For example, if a feature says you can make melee attacks using your Charisma, you can do so, even though that statement disagrees with the general rule.
-^exceptions-supersede-general-rules
+> ^exceptions-supersede-general-rules
 
 ## An Ongoing Game
 
-Sometimes a session of D&D is a complete game in itself (often called a "one-shot"), where you play a short adventure that lasts for just one session. More often, though, D&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.
+Sometimes a session of D\&D is a complete game in itself (often called a "one-shot"), where you play a short adventure that lasts for just one session. More often, though, D\&D sessions are connected in a longer adventure that takes several sessions to complete, and adventures can be strung together into a larger narrative called a campaign.
 
 A campaign is like a TV series, while an adventure is like a season of the series. And a game session is like a single episode—it might be self-contained, but it usually links to the larger plot if there is one.
 
@@ -96,22 +97,22 @@ A campaign is a series of adventures with a consistent group of adventurers foll
 
 Some campaigns are episodic, where each adventure is its own tale and not much besides the player characters links it to the next one. Other campaigns involve long-running plots, a cast of recurring NPCs, and themes that span multiple adventures, leading toward a climactic conclusion.
 
-As with adventures, a DM might create a campaign from scratch, assemble a campaign from published adventures, or mix homemade material with published material. And the campaign might take place in a world of the DM's creation or in a published campaign setting, such as the Forgotten Realms or Greyhawk (the latter is described in the *Dungeon Master's Guide*).
+As with adventures, a DM might create a campaign from scratch, assemble a campaign from published adventures, or mix homemade material with published material. And the campaign might take place in a world of the DM's creation or in a published campaign setting, such as the Forgotten Realms or Greyhawk (the latter is described in the _Dungeon Master's Guide_).
 
 ## Dice
 
 Dice add randomness to the game. They help determine whether characters and monsters are successful at the things they attempt.
 
-![From left to right: `D4`, ...](Mechanics/CLI/books/players-handbook-2024/img/001-01-002-dice.webp#center "From left to right: `D4`, `D6`, `D8`, `D10` (ones digit), `D10` (tens digit), `D12`, `D20`")
+![From left to right: D4, ...](Mechanics/CLI/books/players-handbook-2024/img/001-01-002-dice.webp#center "From left to right: `D4`, `D6`, `D8`, `D10` (ones digit), `D10` (tens digit), `D12`, `D20`")
 
 > [!note] Round Down
-> 
+>
 > Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
-^round-down
+> ^round-down
 
 ### Dice Notation
 
-The dice used in D&D are referred to by the letter *d* followed by the die's number of sides: `d4`, `d6`, `d8`, `d10`, `d12`, and `d20`. For instance, a `d6` is a six-sided die (the cube that many games use). The illustration on this page shows what each die looks like.
+The dice used in D\&D are referred to by the letter _d_ followed by the die's number of sides: `d4`, `d6`, `d8`, `d10`, `d12`, and `d20`. For instance, a `d6` is a six-sided die (the cube that many games use). The illustration on this page shows what each die looks like.
 
 When you need to roll dice, the rules tell you how many dice to roll of a certain type, along with any numbers to add or subtract. For example, "`3d8 + 5`" means you roll three eight-sided dice, add them together, and add 5 to the total.
 
@@ -123,11 +124,11 @@ Some ten-sided dice are numbered in tens (00, 10, 20, and so on), making it easi
 
 #### D3
 
-The same *d* notation appears in the expression "`1d3`," even though it's rare to find dice with only three sides. To simulate rolling `1d3`, roll `1d6` and divide the number rolled by 2 (round up).
+The same _d_ notation appears in the expression "`1d3`," even though it's rare to find dice with only three sides. To simulate rolling `1d3`, roll `1d6` and divide the number rolled by 2 (round up).
 
 ### What Are Dice For?
 
-Here are the most common uses of dice in D&D.
+Here are the most common uses of dice in D\&D.
 
 #### D20 Test
 
@@ -146,9 +147,9 @@ Occasionally, you'll see a table that uses a die roll to generate a random resul
 Sometimes you might see a rule describing a percentage chance of something happening. For example, a rule might say there is a 5 percent chance of something happening. You can determine whether that thing happens by rolling percentile dice; if the roll is equal to or less than the percentage chance (a 01 to 05, in this example), it happens.
 
 > [!note] Interpreting Die Rolls in the Story
-> 
-> Part of the fun of D&D is interpreting what die rolls mean in the story. The randomness that dice bring often introduces the unexpected: an expert fails, a novice succeeds, or any number of other twists. When a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) or another roll produces a surprise, the Dungeon Master often gives a fun description of what happened. If you're a player, look for opportunities to interpret your character's die rolls and describe why things unfolded unexpectedly or even humorously.
-^interpreting-die-rolls-in-the-story
+>
+> Part of the fun of D\&D is interpreting what die rolls mean in the story. The randomness that dice bring often introduces the unexpected: an expert fails, a novice succeeds, or any number of other twists. When a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) or another roll produces a surprise, the Dungeon Master often gives a fun description of what happened. If you're a player, look for opportunities to interpret your character's die rolls and describe why things unfolded unexpectedly or even humorously.
+> ^interpreting-die-rolls-in-the-story
 
 ## The Six Abilities
 
@@ -172,12 +173,14 @@ Each ability has a modifier that you apply whenever you make a [D20 Test](Mechan
 
 When the outcome of an action is uncertain, the game uses a `d20` roll to determine success or failure. These rolls are called [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), and they come in three kinds: "ability checks", "saving throws", and "attack rolls". They follow these steps:
 
-- **Roll 1d20.** You always want to roll high. If the roll has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) (described "later in this chapter"), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.  
-- **Add Modifiers.** Add these modifiers to the number rolled on the `d20`:  
--     - **The Relevant Ability Modifier.** This chapter and the "rules glossary" explain which ability modifiers to use for various [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md).    
-        - **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) that uses something, such as a skill, in which the creature has proficiency. See ""Proficiency"" later in this chapter.    
-        - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
-- **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](Mechanics/CLI/rules/variant-rules/difficulty-class-xphb.md) (DC). The target number for an attack roll is called an [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) (AC), which appears on a character sheet or in a [stat block](Mechanics/CLI/rules/variant-rules/stat-block-xphb.md).  
+- **Roll 1d20.** You always want to roll high. If the roll has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) (described "later in this chapter"), you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.
+- **Add Modifiers.** Add these modifiers to the number rolled on the `d20`:
+- ```
+  - **The Relevant Ability Modifier.** This chapter and the "rules glossary" explain which ability modifiers to use for various [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md).    
+    - **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) that uses something, such as a skill, in which the creature has proficiency. See ""Proficiency"" later in this chapter.    
+    - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
+  ```
+- **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [Difficulty Class](Mechanics/CLI/rules/variant-rules/difficulty-class-xphb.md) (DC). The target number for an attack roll is called an [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) (AC), which appears on a character sheet or in a [stat block](Mechanics/CLI/rules/variant-rules/stat-block-xphb.md).
 
 ![A D20 Test can result in a...](Mechanics/CLI/books/players-handbook-2024/img/002-01-003-d20-test.webp#center "A D20 Test can result in a dramatic success, a simple accomplishment, or a catastrophe")
 
@@ -284,15 +287,15 @@ When you have Advantage or Disadvantage and something in the game lets you rerol
 For example, if you have [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) (see the sidebar) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.
 
 > [!note] Heroic Inspiration
-> 
+>
 > Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
-> 
+>
 > **Only One at a Time.** You can never have more than one instance of Heroic Inspiration. If something gives you Heroic Inspiration and you already have it, you can give it to a player character in your group who lacks it.
-> 
+>
 > **Gaining Heroic Inspiration.** Your DM can give you Heroic Inspiration for a variety of reasons. Typically, DMs award it when you do something particularly heroic, in character, or entertaining. It's a reward for making the game more fun for everyone playing.
-> 
+>
 > Other rules might allow your character to gain Heroic Inspiration independent of the DM's decision. For example, Human characters start each day with Heroic Inspiration.
-^heroic-inspiration
+> ^heroic-inspiration
 
 ## Proficiency
 
@@ -325,9 +328,9 @@ The skills are shown on the Skills table, which notes example uses for each skil
 A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in its stat block.
 
 > [!note] Skills with Different Abilities
-> 
+>
 > Each skill proficiency is associated with an ability check. For example, the [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) skill is associated with Charisma. In some situations, the DM might allow you to apply your skill proficiency to a different ability check. For example, if a character tries to intimidate someone through a show of physical strength, the DM might ask for a Strength ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) check rather than a Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) check. That character would make a Strength check and add their Proficiency Bonus if they have [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) proficiency.
-^skills-with-different-abilities
+> ^skills-with-different-abilities
 
 ### Saving Throw Proficiencies
 
@@ -339,8 +342,8 @@ Each class gives proficiency in at least two saving throws, representing that cl
 
 A character gains proficiency with various weapons and tools from their class and background. There are two categories of equipment proficiency:
 
-- **Weapons.** Anyone can wield a weapon, but proficiency makes you better at wielding it. If you have proficiency with a weapon, you add your Proficiency Bonus to attack rolls you make with it.  
-- **Tools.** If you have proficiency with a tool, you can add your Proficiency Bonus to any ability check you make that uses the tool. If you have Proficiency in the skill that's also used with that check, you have Advantage on the check too. This means you can benefit from both skill proficiency and tool proficiency on the same ability check.  
+- **Weapons.** Anyone can wield a weapon, but proficiency makes you better at wielding it. If you have proficiency with a weapon, you add your Proficiency Bonus to attack rolls you make with it.
+- **Tools.** If you have proficiency with a tool, you can add your Proficiency Bonus to any ability check you make that uses the tool. If you have Proficiency in the skill that's also used with that check, you have Advantage on the check too. This means you can benefit from both skill proficiency and tool proficiency on the same ability check.
 
 ## Actions
 
@@ -373,11 +376,11 @@ When you take a Reaction, you can't take another one until the start of your nex
 In terms of timing, a Reaction takes place immediately after its trigger unless the Reaction's description says otherwise.
 
 > [!note] What Would Your Character Do?
-> 
-> Ask yourself as you play, "What would my character do?" Playing a role involves some amount of getting into another person's head and understanding what motivates them and how those motivations translate into action. In D&D, those actions unfold against the backdrop of a fantastic world full of situations we can only imagine. How does your character react to those situations?
-> 
+>
+> Ask yourself as you play, "What would my character do?" Playing a role involves some amount of getting into another person's head and understanding what motivates them and how those motivations translate into action. In D\&D, those actions unfold against the backdrop of a fantastic world full of situations we can only imagine. How does your character react to those situations?
+>
 > This advice comes with one important caveat: avoid character choices that ruin the fun of the other players and the DM. Choose actions that delight you and your friends.
-^what-would-your-character-do
+> ^what-would-your-character-do
 
 ## Social Interaction
 
@@ -413,79 +416,103 @@ Pay attention to your skill proficiencies when thinking of how you will interact
 
 In this scene, players engage in a social interaction encounter. You and your group determine how similar scenes play out in your adventures.
 
-*Four adventurers—Shreeve, Mirabella, Auro, and Gareth—have traveled to the Blood on the Vine tavern in the grim village of Barovia*.
+_Four adventurers—Shreeve, Mirabella, Auro, and Gareth—have traveled to the Blood on the Vine tavern in the grim village of Barovia_.
 
-- **Jared (as DM).** This tavern might have been finely appointed once, but it has grown shoddy with the passage of years. A blazing fire in the hearth barely gives any warmth to the room. You see a man behind the counter, methodically cleaning glasses. Three older women huddle together at one table. And a handsome young man sits by himself at a corner table, sipping a glass of wine. He looks up as you enter, but the other people ignore you. "Welcome to Barovia," he says. He holds a coin toward the bartender: "A pitcher for the visitors." The glint of silver catches the server's attention.  
-- **Maeve (as Mirabella).** "Thank you, friend. May we know to whom we're indebted?"  
-- **Jared.** "I am Ismark Kolyanovich, though around here, I am often called Ismark the Lesser."  
-- **Russell (as Shreeve).** "That's unfortunate."  
-- **Jared.** "Indeed. I hope one day to live up to my father's example and rid myself of that title. And so, my new friends, who are you?"  
-- **Amy (as Auro).** "I'm Auro."  
-- **Russell.** "Shreeve."  
-- **Phillip (as Gareth).** "My name is Gareth."  
-- **Maeve (as Mirabella).** "I'm called Mirabella. You said your name was Kolyanovich. Are you related to Kolyan Indirovich, the burgomaster of this town?"  
-- **Jared.** He looks a little surprised. He says, "Kolyan Indirovich is my esteemed father, yes."  
-- **Maeve.** "Then he's the one who summoned us!" I show him the letter that drew us here.  
-- **Phillip.** I watch his reaction as he reads it.  
+- **Jared (as DM).** This tavern might have been finely appointed once, but it has grown shoddy with the passage of years. A blazing fire in the hearth barely gives any warmth to the room. You see a man behind the counter, methodically cleaning glasses. Three older women huddle together at one table. And a handsome young man sits by himself at a corner table, sipping a glass of wine. He looks up as you enter, but the other people ignore you. "Welcome to Barovia," he says. He holds a coin toward the bartender: "A pitcher for the visitors." The glint of silver catches the server's attention.
 
-- **Jared.** He reaches for the letter but pulls back before touching it. "That seal—it's not my father's." Gareth, make a Wisdom (Insight) check.  
-- **Phillip.** Gareth got 18.  
+- **Maeve (as Mirabella).** "Thank you, friend. May we know to whom we're indebted?"
 
-- **Jared.** You notice that Ismark is trying to conceal his terror. He's afraid to even touch the letter's seal.  
-- **Phillip.** I ask him what's frightening him.  
-- **Russell.** "Yeah, whose seal is it?"  
-- **Jared.** "The Devil Strahd."  
-- **Amy.** "Sounds like a pleasant fellow."  
-- **Jared.** "No! He is the vampire lord of Castle Ravenloft and a plague to my sister. You must help her!"  
+- **Jared.** "I am Ismark Kolyanovich, though around here, I am often called Ismark the Lesser."
+
+- **Russell (as Shreeve).** "That's unfortunate."
+
+- **Jared.** "Indeed. I hope one day to live up to my father's example and rid myself of that title. And so, my new friends, who are you?"
+
+- **Amy (as Auro).** "I'm Auro."
+
+- **Russell.** "Shreeve."
+
+- **Phillip (as Gareth).** "My name is Gareth."
+
+- **Maeve (as Mirabella).** "I'm called Mirabella. You said your name was Kolyanovich. Are you related to Kolyan Indirovich, the burgomaster of this town?"
+
+- **Jared.** He looks a little surprised. He says, "Kolyan Indirovich is my esteemed father, yes."
+
+- **Maeve.** "Then he's the one who summoned us!" I show him the letter that drew us here.
+
+- **Phillip.** I watch his reaction as he reads it.
+
+- **Jared.** He reaches for the letter but pulls back before touching it. "That seal—it's not my father's." Gareth, make a Wisdom (Insight) check.
+
+- **Phillip.** Gareth got 18.
+
+- **Jared.** You notice that Ismark is trying to conceal his terror. He's afraid to even touch the letter's seal.
+
+- **Phillip.** I ask him what's frightening him.
+
+- **Russell.** "Yeah, whose seal is it?"
+
+- **Jared.** "The Devil Strahd."
+
+- **Amy.** "Sounds like a pleasant fellow."
+
+- **Jared.** "No! He is the vampire lord of Castle Ravenloft and a plague to my sister. You must help her!"
 
 > [!note] Active Roleplaying
-> 
+>
 > Notice throughout the example how Russell and Amy actively roleplay their characters' behavior. In this active approach, they speak with their characters' voices, like an actor taking on a role. The players might even echo their characters' body language. They still need to describe things that can't reasonably be acted out.
-^active-roleplaying
+> ^active-roleplaying
 
 > [!note] Descriptive Roleplaying
-> 
+>
 > Notice how Phillip describes his character's words and action. Drawing on his mental image of his character, he says what his character does and how the character does it. If this approach is most comfortable for you, keep these things in mind:
-> 
-> - Describe your character's emotions and attitude.  
-> - Focus on your character's intent and how others might perceive it.  
-> - Provide as much embellishment as you feel comfortable with.  
-> 
+>
+> - Describe your character's emotions and attitude.
+> - Focus on your character's intent and how others might perceive it.
+> - Provide as much embellishment as you feel comfortable with.
+>
 > Don't worry about getting things exactly right. Focus on what your character would do, and describe what you see in your mind.
-^descriptive-roleplaying
+> ^descriptive-roleplaying
 
 > [!note] (1)—Ability Checks
-> 
+>
 > Phillip's character, Gareth, makes a Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check to determine whether he reads Ismark's unspoken cues. Wisdom is the ability that measures perceptiveness and intuition. Insight reflects a character's skill at reading other people's moods and intentions. The DM set the DC at 15, which Gareth beats. With a successful Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check, Gareth gleans information that wasn't obvious, so it wasn't part of the DM's earlier narration. For more information, see ""Ability Scores"" and ""Proficiency"" earlier in this chapter and the [Search](Mechanics/CLI/rules/actions.md#Search) action in the "rules glossary".
-^1-ability-checks
+> ^1-ability-checks
 
-- **Amy.** "So Strahd wrote this letter, pretending to be the burgomaster, imploring us to come to Barovia and rescue Ireena Kolyana from a deadly affliction... which is him? Why would he do that?"  
-- **Russell.** "Why would he want us to come here?"  
-- **Maeve.** "Clearly, he doesn't think we're a threat."  
-- **Amy.** "Well, he hasn't met us yet!"  
-- **Jared.** "He's toying with you. He delights in the destruction of all things good, like my dear sister."  
+- **Amy.** "So Strahd wrote this letter, pretending to be the burgomaster, imploring us to come to Barovia and rescue Ireena Kolyana from a deadly affliction... which is him? Why would he do that?"
 
-- **Phillip.** Gareth draws closer and compassionately asks Ismark whether his sister has been bitten by the vampire.  
-- **Jared.** Please make a Charisma (Persuasion) check to see how well he responds to your pastoral manner. You have Advantage because he's Friendly.  
-- **Phillip.** Oh, good thing. My first roll was a 7, but with Advantage... ugh, not much better. Well, 10 plus 5 is 15.  
+- **Russell.** "Why would he want us to come here?"
 
-- **Jared.** Ismark leans toward you, Gareth, with a suspicious glance at the other people in the tavern, like he's worried they're eavesdropping. He whispers, "The Devil Strahd desires to make Ireena his latest plaything. Twice he has visited her in the night, using his devilry to secure an invitation into the house—for he can't enter where he isn't invited. Twice he has bitten her, yet she clings to life. But I fear she won't survive another visit!"  
-- **Russell.** "All right, Ismark. You bought us drinks and told us about the Devil Strahd and your sister. How can we help?"  
+- **Maeve.** "Clearly, he doesn't think we're a threat."
+
+- **Amy.** "Well, he hasn't met us yet!"
+
+- **Jared.** "He's toying with you. He delights in the destruction of all things good, like my dear sister."
+
+- **Phillip.** Gareth draws closer and compassionately asks Ismark whether his sister has been bitten by the vampire.
+
+- **Jared.** Please make a Charisma (Persuasion) check to see how well he responds to your pastoral manner. You have Advantage because he's Friendly.
+
+- **Phillip.** Oh, good thing. My first roll was a 7, but with Advantage... ugh, not much better. Well, 10 plus 5 is 15.
+
+- **Jared.** Ismark leans toward you, Gareth, with a suspicious glance at the other people in the tavern, like he's worried they're eavesdropping. He whispers, "The Devil Strahd desires to make Ireena his latest plaything. Twice he has visited her in the night, using his devilry to secure an invitation into the house—for he can't enter where he isn't invited. Twice he has bitten her, yet she clings to life. But I fear she won't survive another visit!"
+
+- **Russell.** "All right, Ismark. You bought us drinks and told us about the Devil Strahd and your sister. How can we help?"
 
 > [!note] (2)—Influencing NPCs
-> 
+>
 > Gareth takes the [Influence](Mechanics/CLI/rules/actions.md#Influence) action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [Friendly](Mechanics/CLI/rules/variant-rules/friendly-attitude-xphb.md) attitude gives Phillip Advantage on the roll. In this case, [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) made the difference between success and failure.
-^2-influencing-npcs
+> ^2-influencing-npcs
 
-- **Jared.** "You are too kind! First, I need your help transporting Ireena to the town of Vallaki."  
-- **Maeve.** "Where's Vallaki?"  
-- **Jared.** "It lies to the northwest, in the heart of the valley. As the raven flies, it is less than ten miles, but the road winds among the hills and woods, and the journey takes at least five hours at speed."  
-- **Russell.** "And why there?"  
-- **Jared.** "The town lies beyond the view of Castle Ravenloft, so I hope it's beyond Strahd's spies. And I have heard that Vallaki is well defended, with a wooden palisade and iron gates."  
-- **Russell.** "As if such defenses would stop a vampire."  
-- **Jared.** "Indeed. But if moving her there can keep him away from her for even a few days, we have time for the second part of our task."  
-- **Russell.** "A part where you help us?"  
-- **Jared.** "Yes, when I help you face the vampire!"  
+- **Jared.** "You are too kind! First, I need your help transporting Ireena to the town of Vallaki."
+- **Maeve.** "Where's Vallaki?"
+- **Jared.** "It lies to the northwest, in the heart of the valley. As the raven flies, it is less than ten miles, but the road winds among the hills and woods, and the journey takes at least five hours at speed."
+- **Russell.** "And why there?"
+- **Jared.** "The town lies beyond the view of Castle Ravenloft, so I hope it's beyond Strahd's spies. And I have heard that Vallaki is well defended, with a wooden palisade and iron gates."
+- **Russell.** "As if such defenses would stop a vampire."
+- **Jared.** "Indeed. But if moving her there can keep him away from her for even a few days, we have time for the second part of our task."
+- **Russell.** "A part where you help us?"
+- **Jared.** "Yes, when I help you face the vampire!"
 
 ## Exploration
 
@@ -588,13 +615,13 @@ During an adventure, the characters might travel long distances on trips that co
 If you need to know how fast you can move when every second matters, see the movement rules in ""Combat"" later in this chapter.
 
 > [!note] Marching Order
-> 
+>
 > The adventurers should establish a marching order while they travel, whether indoors or outdoors. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies if a fight breaks out. You can change your marching order outside combat and record the order any way you like: write it down, for example, or arrange miniatures to show it.
-^marching-order
+> ^marching-order
 
 #### Travel Pace
 
-While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) before they can move at that increased pace again (see "chapter 6" for a selection of mounts for sale). The *Dungeon Master's Guide* has rules that affect which pace you can choose in certain types of terrain.
+While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) before they can move at that increased pace again (see "chapter 6" for a selection of mounts for sale). The _Dungeon Master's Guide_ has rules that affect which pace you can choose in certain types of terrain.
 
 ![Travel Pace](Mechanics/CLI/tables/travel-pace-xphb.md)
 
@@ -622,96 +649,125 @@ This scene finds the player characters investigating a mysterious and potentiall
 
 ![](Mechanics/CLI/books/players-handbook-2024/img/007-01-008-exploration-example.webp#center)
 
-*The characters are exploring Castle Ravenloft, and the DM describes the room the characters have entered*.
+_The characters are exploring Castle Ravenloft, and the DM describes the room the characters have entered_.
 
-- **Jared (as DM).** A blazing hearth fire fills this room with warm light. Firelight glints off a poker beside the fireplace, and the walls are lined with ancient books. A huge painting hangs above the mantelpiece in a gilded frame. The firelight illuminates the portrait—an exact likeness of Ireena Kolyana.  
-- **Phillip (as Gareth).** How old does the painting look?  
-- **Maeve (as Mirabella).** I'm going to check the books!  
-- **Jared.** OK, I'll get to those in a second. Russell and Amy, what are your characters doing?  
-- **Russell (as Shreeve).** I stand near the door, sword drawn, ready for danger. This place is creepy!  
-- **Amy (as Auro).** I go near the fireplace. A warm fire sounds nice. But I'm also alert for danger.  
+- **Jared (as DM).** A blazing hearth fire fills this room with warm light. Firelight glints off a poker beside the fireplace, and the walls are lined with ancient books. A huge painting hangs above the mantelpiece in a gilded frame. The firelight illuminates the portrait—an exact likeness of Ireena Kolyana.
 
-- **Jared.** Got it. OK, Phillip, please make an Intelligence (History) check as Gareth looks at the painting.  
-- **Phillip.** I don't have proficiency in History, but here goes. I got—oh! A 20! For a total of... 20.  
+- **Phillip (as Gareth).** How old does the painting look?
 
-- **Jared.** Two things leap out at Gareth about the painting. First, the woman's clothes look old-fashioned. Second, the paint is flaking in places, and the whole thing is covered by a thin layer of soot. You'd say this painting is a few centuries old.  
-- **Phillip.** So maybe an ancestor of Ireena's? Unless she's already a vampire and this "bitten by Strahd" thing is a ruse.  
-- **Jared.** Who knows? Now, Mirabella's looking at the books?  
-- **Maeve.** Yeah, I pull one off the shelf at random.  
+- **Maeve (as Mirabella).** I'm going to check the books!
+
+- **Jared.** OK, I'll get to those in a second. Russell and Amy, what are your characters doing?
+
+- **Russell (as Shreeve).** I stand near the door, sword drawn, ready for danger. This place is creepy!
+
+- **Amy (as Auro).** I go near the fireplace. A warm fire sounds nice. But I'm also alert for danger.
+
+- **Jared.** Got it. OK, Phillip, please make an Intelligence (History) check as Gareth looks at the painting.
+
+- **Phillip.** I don't have proficiency in History, but here goes. I got—oh! A 20! For a total of... 20.
+
+- **Jared.** Two things leap out at Gareth about the painting. First, the woman's clothes look old-fashioned. Second, the paint is flaking in places, and the whole thing is covered by a thin layer of soot. You'd say this painting is a few centuries old.
+
+- **Phillip.** So maybe an ancestor of Ireena's? Unless she's already a vampire and this "bitten by Strahd" thing is a ruse.
+
+- **Jared.** Who knows? Now, Mirabella's looking at the books?
+
+- **Maeve.** Yeah, I pull one off the shelf at random.
 
 > [!note] Everyone Is Accounted For
-> 
+>
 > Exploration is open-ended; the players don't take turns moving around the dungeon the way they do in combat. But the DM frequently checks in to make sure it's clear where everyone is and what they're doing.
-^everyone-is-accounted-for
+> ^everyone-is-accounted-for
 
 > [!note] Teamwork Matters
-> 
+>
 > The player characters are working toward a common goal. They move together through the dungeon and cooperate to overcome its challenges. When the characters enter the room, they explore different parts of the room. When Auro finds a secret door behind the fireplace later in the example, they come together again to examine it, and Gareth figures out how to bypass the fire. It might seem like Russell's character wasn't doing much, but Shreeve was protecting the group by guarding the door.
-^teamwork-matters
+> ^teamwork-matters
 
 > [!note] (3)—Worth Rolling with or without Proficiency
-> 
+>
 > You usually have a chance of success on an ability check even if you don't have proficiency in a relevant skill. In the example, Phillip gets a 20 without proficiency. The `d20` brings many surprises to the game—surprises that the DM then interprets.
-^3-worth-rolling-with-or-without-proficiency
+> ^3-worth-rolling-with-or-without-proficiency
 
-- **Jared.** It's a book written in Common called *On the Habitations of the Divine in the Celestial and Infernal Realms*.  
-- **Russell.** Did you just make that up?  
-- **Jared.** I'll never tell. As you flip through the book, you notice it's very academic, almost impenetrable.  
-- **Maeve.** OK, I put that one back and pull out another.  
-- **Jared.** Are Shreeve and Auro doing anything else?  
+- **Jared.** It's a book written in Common called _On the Habitations of the Divine in the Celestial and Infernal Realms_.
 
-- **Amy.** I grab the poker and poke at logs in the fire.  
-- **Jared.** As soon as you lift the poker, you hear a grinding sound, and the back of the fireplace slides to the side, revealing a room behind it!  
+- **Russell.** Did you just make that up?
 
-- **Amy.** "Uh, folks? I found something!" Can I see anything in the room beyond?  
-- **Jared.** Past the flames and smoke, you see a glimmering pile of coins heaped near a chest.  
+- **Jared.** I'll never tell. As you flip through the book, you notice it's very academic, almost impenetrable.
 
-- **Amy.** Anybody have a quick way to put out a fire?  
-- **Phillip.** And you laughed at me for preparing Create or Destroy Water! I clutch my Holy Symbol and cast the spell, drenching the fireplace.  
-- **Jared.** What does the spell's description say?  
-- **Phillip.** It causes 10 gallons of water to rain down in a 30-foot Cube, extinguishing flames there.  
+- **Maeve.** OK, I put that one back and pull out another.
 
-- **Jared.** Great! That puts out the fire. Without the light from the hearth, you're back to the magic glow of Shreeve's sword, which casts your shadows into the room beyond. But you can see, through clouds of lingering smoke, a closed chest on the floor, surrounded by piles of coins. There are two torch sconces on the far wall—one holding an unlit torch with an intricate metal base, the other empty. A skeleton in broken plate armor is lying against that wall, with one hand at its throat and the other holding the matching torch from the empty sconce.  
+- **Jared.** Are Shreeve and Auro doing anything else?
 
-- **Amy.** I check out the chest!  
-- **Jared.** And the rest of you?  
-- **Phillip.** Gareth enters and looks at the skeleton.  
-- **Maeve.** I keep watch on this side of the fireplace.  
-- **Russell.** I'm still back by the first door.  
-- **Jared.** Amy, the chest seems expertly made, with elegant fittings and clawed feet.  
+- **Amy.** I grab the poker and poke at logs in the fire.
 
-- **Amy.** I try to open it. Is it locked?  
-- **Jared.** It's not locked and opens easily—and it releases a cloud of sweet-smelling gas.  
-- **Amy.** Oh, no.  
-- **Jared.** Oh, yes. I need Auro and Gareth to make Constitution saving throws.  
-- **Amy.** Sorry, Phillip! I got an 8.  
-- **Phillip.** And a 5 for Gareth.  
-- **Jared.** As you draw this gas into your lungs, you feel a chill grip you, and your bodies stiffen. You both have the Paralyzed condition!  
+- **Jared.** As soon as you lift the poker, you hear a grinding sound, and the back of the fireplace slides to the side, revealing a room behind it!
+
+- **Amy.** "Uh, folks? I found something!" Can I see anything in the room beyond?
+
+- **Jared.** Past the flames and smoke, you see a glimmering pile of coins heaped near a chest.
+
+- **Amy.** Anybody have a quick way to put out a fire?
+
+- **Phillip.** And you laughed at me for preparing Create or Destroy Water! I clutch my Holy Symbol and cast the spell, drenching the fireplace.
+
+- **Jared.** What does the spell's description say?
+
+- **Phillip.** It causes 10 gallons of water to rain down in a 30-foot Cube, extinguishing flames there.
+
+- **Jared.** Great! That puts out the fire. Without the light from the hearth, you're back to the magic glow of Shreeve's sword, which casts your shadows into the room beyond. But you can see, through clouds of lingering smoke, a closed chest on the floor, surrounded by piles of coins. There are two torch sconces on the far wall—one holding an unlit torch with an intricate metal base, the other empty. A skeleton in broken plate armor is lying against that wall, with one hand at its throat and the other holding the matching torch from the empty sconce.
+
+- **Amy.** I check out the chest!
+
+- **Jared.** And the rest of you?
+
+- **Phillip.** Gareth enters and looks at the skeleton.
+
+- **Maeve.** I keep watch on this side of the fireplace.
+
+- **Russell.** I'm still back by the first door.
+
+- **Jared.** Amy, the chest seems expertly made, with elegant fittings and clawed feet.
+
+- **Amy.** I try to open it. Is it locked?
+
+- **Jared.** It's not locked and opens easily—and it releases a cloud of sweet-smelling gas.
+
+- **Amy.** Oh, no.
+
+- **Jared.** Oh, yes. I need Auro and Gareth to make Constitution saving throws.
+
+- **Amy.** Sorry, Phillip! I got an 8.
+
+- **Phillip.** And a 5 for Gareth.
+
+- **Jared.** As you draw this gas into your lungs, you feel a chill grip you, and your bodies stiffen. You both have the Paralyzed condition!
 
 > [!note] (4)—Finding Hidden Objects
-> 
+>
 > Adventure environments are full of secrets: traps, concealed doors, loose floorboards, and hidden treasures. Characters often use Wisdom checks to find things—see the [Search](Mechanics/CLI/rules/actions.md#Search) action in the "rules glossary"—but sometimes they stumble on them accidentally, as Auro did here.
-^4-finding-hidden-objects
+> ^4-finding-hidden-objects
 
 > [!note] (5)—Casting Spells
-> 
+>
 > Many characters have the ability to cast spells, which have a huge variety of effects. Some spells are mostly useful in combat, by dealing damage or imposing conditions. Other spells have utility in exploration. If you're playing a spellcaster, look for a mix of combat-effective and utilitarian spells to help deal with varied challenges.
-^5-casting-spells
+> ^5-casting-spells
 
 > [!note] Know Your Spells!
-> 
+>
 > Have your Player's Handbook open to the description of a spell before you cast it. Don't expect the DM to know how your spell works, and be ready to answer any questions about it.
-^know-your-spells
+> ^know-your-spells
 
 > [!note] (6)—Vision and Light
-> 
+>
 > The DM determines what the adventurers can perceive, which means being aware of light sources—like the leaping flames in the fireplace and Shreeve's glowing sword—as well as obscuring factors like smoke and fog. See ""Vision and Light"" earlier in this chapter for more information.
-^6-vision-and-light
+> ^6-vision-and-light
 
 > [!note] (7)—Saving Throws
-> 
+>
 > A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip's and Amy's characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures' capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) condition. See ""Conditions"" later in this chapter for more information.
-^7-saving-throws
+> ^7-saving-throws
 
 ## Combat
 
@@ -727,9 +783,9 @@ A typical combat encounter is a clash between two sides: a flurry of weapon swin
 
 Combat unfolds in these steps:
 
-- **Establish Positions.** The Dungeon Master determines where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction.  
-- **Roll Initiative.** Everyone involved in the combat encounter rolls [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), determining the order of combatants' turns.  
-- **Take Turns.** Each participant in the battle takes a turn in Initiative order. When everyone involved in the combat has had a turn, the round ends. Repeat this step until the fighting stops.  
+- **Establish Positions.** The Dungeon Master determines where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction.
+- **Roll Initiative.** Everyone involved in the combat encounter rolls [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), determining the order of combatants' turns.
+- **Take Turns.** Each participant in the battle takes a turn in Initiative order. When everyone involved in the combat has had a turn, the round ends. Repeat this step until the fighting stops.
 
 #### Initiative
 
@@ -794,19 +850,19 @@ Combatants are often slowed down by Difficult Terrain. Low furniture, rubble, un
 Every foot of movement in Difficult Terrain costs 1 extra foot, even if multiple things in a space count as Difficult Terrain.
 
 > [!note] Playing on a Grid
-> 
+>
 > If you play using a square grid and miniatures or other tokens, follow these rules.
-> 
+>
 > **Squares.** Each square represents 5 feet.
-> 
+>
 > **Speed.** Rather than moving foot by foot, move square by square on the grid, using your Speed in 5-foot segments. You can translate your Speed into squares by dividing it by 5. For example, a Speed of 30 feet translates into 6 squares. If you use a grid often, consider writing your Speed in squares on your character sheet.
-> 
+>
 > **Entering a Square.** To enter a square, you must have enough movement left to pay for entering. It costs 1 square of movement to enter an unoccupied square that's adjacent to your space (orthogonally or diagonally adjacent). A square of Difficult Terrain costs 2 squares to enter. Other effects might make a square cost even more.
-> 
+>
 > **Corners.** Diagonal movement can't cross the corner of a wall, a large tree, or another terrain feature that fills its space.
-> 
+>
 > **Ranges.** To determine the range on a grid between two things—whether creatures or objects—count squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
-^playing-on-a-grid
+> ^playing-on-a-grid
 
 #### Breaking Up Your Move
 
@@ -836,9 +892,9 @@ You can't willingly end a move in a space occupied by another creature. If you s
 
 When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you make an attack. Some other actions, Bonus Actions, and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
-- **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.  
-- **Determine Modifiers.** The DM determines whether the target has [Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) (see the next section) and whether you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.  
-- **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.  
+- **Choose a Target.** Pick a target within your attack's range: a creature, an object, or a location.
+- **Determine Modifiers.** The DM determines whether the target has [Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) (see the next section) and whether you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+- **Resolve the Attack.** Make the attack roll, as detailed earlier in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 ### Cover
 
@@ -849,13 +905,13 @@ A target can benefit from cover only when an attack or other effect originates o
 ![Cover](Mechanics/CLI/tables/cover-xphb.md)
 
 > [!note] Unseen Attackers and Targets
-> 
+>
 > When you make an attack roll against a target you can't see, you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
-> 
+>
 > When a creature can't see you, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against it.
-> 
+>
 > If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
-^unseen-attackers-and-targets
+> ^unseen-attackers-and-targets
 
 ### Ranged Attacks
 
@@ -931,7 +987,7 @@ Anything underwater has Resistance to Fire damage (explained in "Damage and Heal
 
 ## Damage and Healing
 
-Injury and death are frequent threats in D&D, as detailed in the following rules.
+Injury and death are frequent threats in D\&D, as detailed in the following rules.
 
 ### Hit Points
 
@@ -942,9 +998,9 @@ Whenever you take damage, subtract it from your Hit Points. Hit Point loss has n
 If you have half your Hit Points or fewer, you're Bloodied, which has no game effect on its own but which might trigger other game effects.
 
 > [!note] Resting
-> 
+>
 > Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long [Short Rests](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) in the midst of a day and an 8-hour [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) to end it. Regaining Hit Points is one of the main benefits of a rest. The "rules glossary" provides the rules for Short and Long Rests.
-^resting
+> ^resting
 
 ### Damage Rolls
 
@@ -1025,9 +1081,9 @@ If your character dies, others might find a magical way to revive your character
 If you reach 0 Hit Points and don't die instantly, you have the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition until you regain any Hit Points, and you now face making [Death Saving Throws](Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md) (see below).
 
 > [!note] Knocking Out a Creature
-> 
+>
 > When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition. It then starts a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check.
-^knocking-out-a-creature
+> ^knocking-out-a-creature
 
 #### Death Saving Throws
 
@@ -1123,135 +1179,163 @@ If multiple effects impose the same condition on you, each instance of the condi
 
 In this scene, threats force a group of adventurers into battle. This example demonstrates the turn-based flow of combat that gives each player a chance to detail what they do during the high-stakes moments of a fight.
 
-*Below Castle Ravenloft, the characters enter combat!*
+_Below Castle Ravenloft, the characters enter combat!_
 
-- **Jared (as DM).** Yellow lichen covers the ceiling in this passage, which has alcoves along both sides.  
-- **Russell (as Shreeve).** I peer into the nearest alcoves.  
+- **Jared (as DM).** Yellow lichen covers the ceiling in this passage, which has alcoves along both sides.
 
-- **Jared.** They each contain human skeletal remains. The silence is broken suddenly by the rattle of bones as the skeletons lurch to their feet all around you and prepare to attack!  
+- **Russell (as Shreeve).** I peer into the nearest alcoves.
 
-- **Russell.** Ack! How many skeletons?  
+- **Jared.** They each contain human skeletal remains. The silence is broken suddenly by the rattle of bones as the skeletons lurch to their feet all around you and prepare to attack!
 
-- **Jared.** Ten in all, and they're hostile. Roll Initiative!  
+- **Russell.** Ack! How many skeletons?
 
-- **Russell.** Ten skeletons? Yikes! I got a 16.  
-- **Maeve (as Mirabella).** I got 8.  
-- **Phillip (as Gareth).** An incredible 2 for Gareth.  
-- **Amy (as Auro).** I got a 19!  
+- **Jared.** Ten in all, and they're hostile. Roll Initiative!
 
-- **Jared.** The Rogue is quick to react—but not as quick as the skeletons! They got a 20. The first four attack the person in the lead: Shreeve.  
+- **Russell.** Ten skeletons? Yikes! I got a 16.
 
-- **Russell.** Oh, boy.  
+- **Maeve (as Mirabella).** I got 8.
 
-- **Jared.** Their attack roll totals are 8, 16, 18, and 20.  
-- **Russell.** The 8 and 16 miss my AC, but the others hit.  
-- **Jared.** Two of them stick you with their broken blades, dealing a total of 9 Piercing damage.  
+- **Phillip (as Gareth).** An incredible 2 for Gareth.
 
-- **Russell.** Is that the best you can do?  
-- **Phillip.** Never say that to the DM.  
-- **Jared.** Heh. Now two of them attack Auro. The first roll is a natural 1: a miss. The second roll is 16.  
-- **Amy.** That hits.  
-- **Jared.** You take 4 Piercing damage, and one of them attacks Mirabella with a roll of 14.  
+- **Amy (as Auro).** I got a 19!
 
-- **Maeve.** Hits. No, wait! I cast Shield, so that misses.  
+- **Jared.** The Rogue is quick to react—but not as quick as the skeletons! They got a 20. The first four attack the person in the lead: Shreeve.
 
-- **Jared.** The skeleton's blade bounces off your shield of magical force. Then two of them attack Gareth. One misses with a 5, but the other one lands a solid blow with a 21, dealing 7 piercing damage.  
-- **Phillip.** That got my attention!  
-- **Jared.** That's nine attacks. There's one more skeleton at the end of the hall. It moves up and waits for an opening. Now it's Auro's turn.  
-- **Amy.** I attack one close to me. Does a 24 hit?  
-- **Jared.** A solid hit!  
-- **Amy.** And it's next to one of my allies, right?  
-- **Jared.** Yes.  
+- **Russell.** Oh, boy.
 
-- **Amy.** So with my Sneak Attack, that's 22 damage!  
+- **Jared.** Their attack roll totals are 8, 16, 18, and 20.
 
-- **Jared.** Your blade slides into an empty eye socket, and the skeleton clatters to the ground, now inanimate and harmless.  
+- **Russell.** The 8 and 16 miss my AC, but the others hit.
 
-- **Amy.** Then I use Cunning Action to Disengage as a Bonus Action and move 20 feet out of the melee.  
+- **Jared.** Two of them stick you with their broken blades, dealing a total of 9 Piercing damage.
 
-- **Jared.** Very good. Shreeve?  
+- **Russell.** Is that the best you can do?
 
-- **Russell.** I drop my sword and pull out my warhammer. Time to break some bones! My first attack is a 21 to hit for 7 Bludgeoning damage.  
+- **Phillip.** Never say that to the DM.
+
+- **Jared.** Heh. Now two of them attack Auro. The first roll is a natural 1: a miss. The second roll is 16.
+
+- **Amy.** That hits.
+
+- **Jared.** You take 4 Piercing damage, and one of them attacks Mirabella with a roll of 14.
+
+- **Maeve.** Hits. No, wait! I cast Shield, so that misses.
+
+- **Jared.** The skeleton's blade bounces off your shield of magical force. Then two of them attack Gareth. One misses with a 5, but the other one lands a solid blow with a 21, dealing 7 piercing damage.
+
+- **Phillip.** That got my attention!
+
+- **Jared.** That's nine attacks. There's one more skeleton at the end of the hall. It moves up and waits for an opening. Now it's Auro's turn.
+
+- **Amy.** I attack one close to me. Does a 24 hit?
+
+- **Jared.** A solid hit!
+
+- **Amy.** And it's next to one of my allies, right?
+
+- **Jared.** Yes.
+
+- **Amy.** So with my Sneak Attack, that's 22 damage!
+
+- **Jared.** Your blade slides into an empty eye socket, and the skeleton clatters to the ground, now inanimate and harmless.
+
+- **Amy.** Then I use Cunning Action to Disengage as a Bonus Action and move 20 feet out of the melee.
+
+- **Jared.** Very good. Shreeve?
+
+- **Russell.** I drop my sword and pull out my warhammer. Time to break some bones! My first attack is a 21 to hit for 7 Bludgeoning damage.
 
 > [!note] (8)—Starting Combat
-> 
+>
 > While describing the skeletons animating, the DM gets ready to start combat by mentally figuring out where everyone is, referring to the map of the area and the party's established marching order.
-^8-starting-combat
+> ^8-starting-combat
 
 > [!note] (9)—Rolling Initiative
-> 
+>
 > The next step in combat is for everyone involved to roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md).
-^9-rolling-initiative
+> ^9-rolling-initiative
 
 > [!note] (10)—Taking Turns
-> 
+>
 > Now each participant in the battle takes a turn in Initiative order. The skeletons go first because they got the highest Initiative: 20.
-^10-taking-turns
+> ^10-taking-turns
 
 > [!note] (11)—Attack Rolls
-> 
+>
 > When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target's [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) (AC), the attack hits.
-^11-attack-rolls
+> ^11-attack-rolls
 
 > [!note] (12)—Spells and Reactions
-> 
+>
 > Mirabella casts the [Shield](Mechanics/CLI/spells/shield-xphb.md) spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
-^12-spells-and-reactions
+> ^12-spells-and-reactions
 
 > [!note] (13)—Special Abilities
-> 
+>
 > Auro's Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him [Disengage](Mechanics/CLI/rules/actions.md#Disengage) as a Bonus Action. These are examples of class features (described in "chapter 3") that let characters bend the rules.
-^13-special-abilities
+> ^13-special-abilities
 
 > [!note] (14)—Vulnerability
-> 
+>
 > An attack that deals Bludgeoning damage is deadly to skeletons. Shreeve knows this from past experience, which is why she drops her sword and switches to a Bludgeoning weapon. She rolls only 7 damage, but the DM knows the skeleton actually takes 14 damage.
-^14-vulnerability
+> ^14-vulnerability
 
-- **Jared.** It tries to block your swing, but the force of your blow destroys the skeleton!  
-- **Russell.** I swing at the next skeleton with 11 to hit.  
-- **Jared.** The skeleton dodges out of the way.  
-- **Russell.** Rats. That's my turn.  
-- **Jared.** Mirabella?  
+- **Jared.** It tries to block your swing, but the force of your blow destroys the skeleton!
 
-- **Maeve.** How many can I get in a 15-foot Cube?  
+- **Russell.** I swing at the next skeleton with 11 to hit.
 
-- **Jared.** Three if you don't want to get Shreeve too.  
+- **Jared.** The skeleton dodges out of the way.
 
-- **Maeve.** That's probably best. I cast Thunderwave at those three, using a level 2 spell slot. So there's a loud boom, and a wave of thunderous force sweeps over the skeletons. They need to make DC 15 Constitution saves.  
-- **Jared.** They all fail!  
+- **Russell.** Rats. That's my turn.
 
-- **Maeve.** Because I used a level 2 slot, that's 15 Thunder damage, and they're pushed 10 feet away.  
-- **Jared.** They're pushed back and shattered.  
-- **Maeve.** Excellent! Four down, six to go.  
-- **Jared.** And it's Gareth's turn at last!  
-- **Phillip.** How many of them are within 30 feet of me?  
-- **Jared.** All six.  
+- **Jared.** Mirabella?
 
-- **Phillip.** I hold up my Holy Symbol and ask Pelor the Holy Sun to sear these skeletons. They need to make DC 15 Wisdom saves.  
+- **Maeve.** How many can I get in a 15-foot Cube?
 
-- **Jared (rolling).** Oh, those are not good numbers. None of them even got close.  
-- **Phillip.** They each take 18 Radiant damage and—  
-- **Jared.** Never mind the "and." Pelor does indeed smite these skeletons! They're silhouetted for a moment in a burst of brilliant light, then they vanish, leaving only their broken swords behind.  
+- **Jared.** Three if you don't want to get Shreeve too.
+
+- **Maeve.** That's probably best. I cast Thunderwave at those three, using a level 2 spell slot. So there's a loud boom, and a wave of thunderous force sweeps over the skeletons. They need to make DC 15 Constitution saves.
+
+- **Jared.** They all fail!
+
+- **Maeve.** Because I used a level 2 slot, that's 15 Thunder damage, and they're pushed 10 feet away.
+
+- **Jared.** They're pushed back and shattered.
+
+- **Maeve.** Excellent! Four down, six to go.
+
+- **Jared.** And it's Gareth's turn at last!
+
+- **Phillip.** How many of them are within 30 feet of me?
+
+- **Jared.** All six.
+
+- **Phillip.** I hold up my Holy Symbol and ask Pelor the Holy Sun to sear these skeletons. They need to make DC 15 Wisdom saves.
+
+- **Jared (rolling).** Oh, those are not good numbers. None of them even got close.
+
+- **Phillip.** They each take 18 Radiant damage and—
+
+- **Jared.** Never mind the "and." Pelor does indeed smite these skeletons! They're silhouetted for a moment in a burst of brilliant light, then they vanish, leaving only their broken swords behind.
 
 > [!note] (15)—Areas of Effect
-> 
+>
 > Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) of the [Thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) spell. See the "rules glossary" for more on areas of effect.
-^15-areas-of-effect
+> ^15-areas-of-effect
 
 > [!note] (16)—Saving Throws
-> 
+>
 > The skeletons make Constitution saving throws to resist the [Thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) spell. When they fail those saves, they take damage and are pushed, as defined in that spell's description.
-^16-saving-throws
+> ^16-saving-throws
 
 > [!note] Damage and Hit Points
-> 
+>
 > The skeletons have 13 Hit Points each, so the spells and attacks in this example deal enough damage to destroy them. If a spell or an attack dealt less than 13 damage, the DM would keep track of the damage each skeleton has taken until it is reduced to 0 Hit Points and is destroyed.
-^damage-and-hit-points
+> ^damage-and-hit-points
 
 > [!note] (17)—Saving Throws
-> 
+>
 > Gareth's Sear Undead is a class feature (see "chapter 3"). As with Mirabella's [Thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) spell, Sear Undead forces the skeletons to make a saving throw.
-^17-saving-throws
+> ^17-saving-throws
 
 ![](Mechanics/CLI/books/players-handbook-2024/img/011-01-012-combat-example.webp#center)

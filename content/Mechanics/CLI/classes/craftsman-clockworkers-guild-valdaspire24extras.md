@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Clockworkers' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Build and Command Clockwork Minions*
+_Build and Command Clockwork Minions_
 
 Masters of machinery, the tinkers and gearsmiths of the Clockworkers' Guild study and perfect the art of fashioning Constructs. Their designs are as elegant as they are functional, translating single ticking movements through a kaleidoscope of gears and pistons to create lifelike, even a seemingly intelligent, clockwork creatures. Nearly all Clockworkers are attended by a pair of their Construct servants that serve a dual purpose as attentive assistants and relentless bodyguards. Veteran Clockworkers, however, walk astride Constructs taller than themselves, great gear-driven golems of formidable strength.
 

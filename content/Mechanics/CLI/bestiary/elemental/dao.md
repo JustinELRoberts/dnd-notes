@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Dao
-*Source: Monster Manual p. 143*  
+
+_Source: Monster Manual p. 143_\
 ![](Mechanics/CLI/bestiary/elemental/img/dao.webp#right)
 
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
@@ -114,6 +115,7 @@ title: Dao
 
 ***Maul.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 20 (`4d6 + 6`) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

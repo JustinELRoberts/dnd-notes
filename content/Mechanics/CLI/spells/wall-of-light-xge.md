@@ -27,8 +27,8 @@ classes:
 ---
 
 # Wall of Light
-*5th-level, Evocation*  
 
+_5th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -47,4 +47,4 @@ Until the spell ends, you can use an action to launch a beam of radiance from th
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 170*
+_Source: Xanathar's Guide to Everything p. 170_

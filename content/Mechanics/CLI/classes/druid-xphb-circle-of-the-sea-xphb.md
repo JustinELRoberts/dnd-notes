@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Circle of the Sea
-*[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Player's Handbook (2024) p. 87*  
+
+_[Druid](./druid-xphb.md): Druid Subclass_\
+_Source: Player's Handbook (2024) p. 87_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/sea-druid.webp#right)
 
-*Become One with Tides and Storms*
+_Become One with Tides and Storms_
 
 Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.
 

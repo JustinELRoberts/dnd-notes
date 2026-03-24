@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Yochlol
-*Source: Monster Manual p. 65*  
+
+_Source: Monster Manual p. 65_\
 ![](Mechanics/CLI/bestiary/fiend/img/yochlol.webp#right)
 
 The yochlols are the Handmaidens of Lolth-extensions of the Spider Queen's will dedicated to acting as her spies, taskmasters, and agents of villainy. They attend their goddess in the Demonweb Pits, but Lolth sometimes dispatches yochlols to the Material Plane to guard her temples and to aid her most devout priestesses. Yochlols don't form outside Lolth's realm of the Demonweb, and they serve no demon lords except their queen.
@@ -163,33 +164,32 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 ^demons-by-type
 
 > [!note] Demon True Names
-> 
+>
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
-> 
+>
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
-^demon-true-names
+> ^demon-true-names
 
 > [!note] Variant: Demon Summoning
-> 
+>
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
-> 
-> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.  
-> - A barlgura has a 30 percent chance of summoning one barlgura.  
-> - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.  
-> - A yochlol has a 50 percent chance of summoning one yochlol.  
-> 
+>
+> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.
+> - A barlgura has a 30 percent chance of summoning one barlgura.
+> - A chasme has a 30 percent chance of summoning one chasme.
+> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.
+> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.
+> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.
+> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.
+> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.
+> - A yochlol has a 50 percent chance of summoning one yochlol.
+>
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-^variant-demon-summoning
+> ^variant-demon-summoning
 
-> [!quote] A quote from From the Demonomicon of Iggwilv  
-> 
+> [!quote] A quote from From the Demonomicon of Iggwilv
+>
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
-
 
 ## Statblock
 
@@ -244,4 +244,5 @@ While in mist form, the yochlol is [incapacitated](Mechanics/CLI/rules/condition
 
 While in mist form, the yochlol can enter a creature's space and stop there. Each time that creature starts its turn with the yochlol in its space, the creature must succeed on a DC 14 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of its next turn. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
 ```
+
 ^statblock

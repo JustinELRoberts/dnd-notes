@@ -17,12 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Antimatter Rifle
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
 - **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

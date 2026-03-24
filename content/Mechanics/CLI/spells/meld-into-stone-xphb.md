@@ -31,8 +31,8 @@ classes:
 ---
 
 # Meld into Stone
-*3rd-level, Transmutation (ritual)*  
 
+_3rd-level, Transmutation (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
@@ -47,4 +47,4 @@ Minor physical damage to the stone doesn't harm you, but its partial destruction
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Genie, Dao)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

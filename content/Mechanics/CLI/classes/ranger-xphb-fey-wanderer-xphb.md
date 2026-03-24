@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Fey Wanderer
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
-*Source: Player's Handbook (2024) p. 124*  
+
+_[Ranger](./ranger-xphb.md): Ranger Subclass_\
+_Source: Player's Handbook (2024) p. 124_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/fey-wanderer-ranger.webp#right)
 
-*Wield Fey Mirth and Fury*
+_Wield Fey Mirth and Fury_
 
 A fey mystique surrounds you, thanks to the boon of an archfey or a location in the Feywild that transformed you. However you gained fey magic, you are now a Fey Wanderer. Your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.
 

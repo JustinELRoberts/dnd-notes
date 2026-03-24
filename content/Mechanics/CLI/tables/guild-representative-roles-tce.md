@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Guild Representative Roles
-*Source: Tasha's Cauldron of Everything p. 95* 
+
+_Source: Tasha's Cauldron of Everything p. 95_
 
 **Guild Representative Roles**
 

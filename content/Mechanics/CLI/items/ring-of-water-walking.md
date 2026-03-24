@@ -16,10 +16,10 @@ obsidianUIMode: preview
 ---
 
 # Ring of Water Walking
-*Ring, major, uncommon*  
-![](Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
+_Ring, major, uncommon_\
+![](Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
 While wearing this ring, you can stand on and move across any liquid surface as if it were solid ground.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

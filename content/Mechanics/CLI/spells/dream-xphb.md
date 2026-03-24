@@ -27,8 +27,8 @@ classes:
 ---
 
 # Dream
-*5th-level, Illusion*  
 
+_5th-level, Illusion_
 
 - **Casting time:** 1 minute
 - **Range:** Self
@@ -45,4 +45,4 @@ You can make the messenger terrifying to the target. If you do so, the messenger
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch (Gingerbread Magic)](Mechanics/CLI/lists/list-spells-classes-gingerbread-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

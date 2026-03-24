@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Rise or Fall of a Leader or an Era; Leader Types
-*Source: Dungeon Master's Guide p. 27* 
+
+_Source: Dungeon Master's Guide p. 27_
 
 **Leader Types**
 

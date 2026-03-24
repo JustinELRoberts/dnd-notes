@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Monk
-*Source: Player's Handbook (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Monk
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
+- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Light property
 - **Tool Proficiencies**: Choose one type of [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Spear](Mechanics/CLI/items/spear-xphb.md), 5 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md) chosen for the tool proficiency above, [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 11 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Spear](Mechanics/CLI/items/spear-xphb.md), 5 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) or [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md) chosen for the tool proficiency above, [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 11 GP; or (B) 50 GP
 
 ## Monk
 
@@ -80,8 +81,8 @@ Monks generally view adventures as tests of their physical and mental developmen
 
 Your practice of martial arts gives you mastery of combat styles that use your [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) and Monk weapons, which are the following:
 
-- Simple Melee Weapons  
-- Martial Melee Weapons that have the Light property  
+- Simple Melee Weapons
+- Martial Melee Weapons that have the Light property
 
 You gain the following benefits while you are unarmed or wielding only Monk weapons and you aren't wearing armor or wielding a [Shield](Mechanics/CLI/items/shield-xphb.md).
 

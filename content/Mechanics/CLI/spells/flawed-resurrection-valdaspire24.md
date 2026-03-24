@@ -18,8 +18,8 @@ classes:
 ---
 
 # Flawed Resurrection
-*5th-level, Necromancy*  
 
+_5th-level, Necromancy_
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -34,4 +34,4 @@ The Undead body deteriorates over time. Whenever the creature finishes a [Long R
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

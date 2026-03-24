@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Storm Giant Quintessent
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151_\
 ![](Mechanics/CLI/bestiary/giant/img/storm-giant-quintessent.webp#right)
 
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
@@ -101,6 +102,7 @@ The region containing a storm giant quintessent's lair is warped by the giant's 
 
 If the giant dies, the lightning, thunder, and high wind regional effects end immediately. Rain, snow, and blowing dust abate gradually within `1d8` days.
 ```
+
 ^statblock
 
 ## Environment

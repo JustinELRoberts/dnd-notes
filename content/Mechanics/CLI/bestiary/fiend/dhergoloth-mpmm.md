@@ -17,13 +17,14 @@ obsidianUIMode: preview
 ---
 
 # Dhergoloth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 94*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 94_\
 ![](Mechanics/CLI/bestiary/fiend/img/dhergoloth.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > A dhergoloth's head doesn't turn along with its furiously spinning torso, and its torso can spin a different direction from its dancing legs.
-> 
+>
 > I'd like to vivisect one a some point to find out how this can be.
 
 A kind of yugoloth, dhergoloths rush into battle like whirlwinds of destruction, lashing out with the five sets of claws that extend from their squat, barrel-shaped bodies. They take contracts to put down uprisings, clear out rabble, and eliminate scouts and skirmishers, and they revel in the butchery they create, their gleeful laughter rising above their victims' screams.
@@ -71,6 +72,7 @@ title: Dhergoloth
 
 **At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

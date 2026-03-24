@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Faerie Dragon (Indigo)
-*Source: Monster Manual p. 133*  
+
+_Source: Monster Manual p. 133_\
 ![](Mechanics/CLI/bestiary/dragon/img/faerie-dragon.webp#right)
 
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
@@ -109,6 +110,7 @@ A green or older faerie dragon's CR increases to 2.
 
 5–6. The target doesn't move, and the only thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

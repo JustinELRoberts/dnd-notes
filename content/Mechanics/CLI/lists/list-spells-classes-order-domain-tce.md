@@ -16,25 +16,25 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Command](Mechanics/CLI/spells/command-xphb.md "XPHB") 
-- [Heroism](Mechanics/CLI/spells/heroism-xphb.md "XPHB") 
+- [Command](Mechanics/CLI/spells/command-xphb.md "XPHB")
+- [Heroism](Mechanics/CLI/spells/heroism-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Hold Person](Mechanics/CLI/spells/hold-person-xphb.md "XPHB") 
-- [Zone of Truth](Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB") 
+- [Hold Person](Mechanics/CLI/spells/hold-person-xphb.md "XPHB")
+- [Zone of Truth](Mechanics/CLI/spells/zone-of-truth-xphb.md "XPHB")
 
 ## 3rd Level
 
-- [Mass Healing Word](Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB") 
-- [Slow](Mechanics/CLI/spells/slow-xphb.md "XPHB") 
+- [Mass Healing Word](Mechanics/CLI/spells/mass-healing-word-xphb.md "XPHB")
+- [Slow](Mechanics/CLI/spells/slow-xphb.md "XPHB")
 
 ## 4th Level
 
-- [Compulsion](Mechanics/CLI/spells/compulsion-xphb.md "XPHB") 
-- [Locate Creature](Mechanics/CLI/spells/locate-creature-xphb.md "XPHB") 
+- [Compulsion](Mechanics/CLI/spells/compulsion-xphb.md "XPHB")
+- [Locate Creature](Mechanics/CLI/spells/locate-creature-xphb.md "XPHB")
 
 ## 5th Level
 
-- [Commune](Mechanics/CLI/spells/commune-xphb.md "XPHB") 
+- [Commune](Mechanics/CLI/spells/commune-xphb.md "XPHB")
 - [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md "XPHB")

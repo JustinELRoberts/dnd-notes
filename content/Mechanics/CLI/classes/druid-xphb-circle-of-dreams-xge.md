@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Circle of Dreams
-*[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Xanathar's Guide to Everything p. 22*  
+
+_[Druid](./druid-xphb.md): Druid Subclass_\
+_Source: Xanathar's Guide to Everything p. 22_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

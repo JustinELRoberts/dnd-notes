@@ -25,8 +25,8 @@ classes:
 ---
 
 # Psychedelics
-*1st-level, Illusion*  
 
+_1st-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** Self (20-foot Emanation)
@@ -37,4 +37,4 @@ For a moment, the colors in a 20-foot [Emanation](Mechanics/CLI/rules/variant-ru
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

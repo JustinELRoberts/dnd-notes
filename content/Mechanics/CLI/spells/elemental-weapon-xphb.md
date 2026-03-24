@@ -33,8 +33,8 @@ classes:
 ---
 
 # Elemental Weapon
-*3rd-level, Transmutation*  
 
+_3rd-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -47,4 +47,4 @@ A nonmagical weapon you touch becomes a magic weapon. Choose one of the followin
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock (The Hexblade)](Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 267*
+_Source: Player's Handbook (2024) p. 267_

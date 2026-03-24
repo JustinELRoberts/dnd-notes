@@ -21,8 +21,8 @@ classes:
 ---
 
 # Scurry
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -35,4 +35,4 @@ The object animates, wriggles free of its owner (if it has one), sprouts two leg
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

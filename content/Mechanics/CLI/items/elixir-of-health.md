@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Elixir of Health
-*Potion, minor, rare*  
 
-
+_Potion, minor, rare_
 
 When you drink this potion, it cures any disease afflicting you, and it removes the [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions. The clear red liquid has tiny bubbles of light in it.
 
-*Source: Dungeon Master's Guide p. 168*
+_Source: Dungeon Master's Guide p. 168_

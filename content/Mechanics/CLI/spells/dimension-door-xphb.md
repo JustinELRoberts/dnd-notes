@@ -44,8 +44,8 @@ classes:
 ---
 
 # Dimension Door
-*4th-level, Conjuration*  
 
+_4th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 500 feet
@@ -60,4 +60,4 @@ If you, the other creature, or both would arrive in a space occupied by a creatu
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Levity)](Mechanics/CLI/lists/list-spells-classes-burden-of-levity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Odyssey)](Mechanics/CLI/lists/list-spells-classes-burden-of-odyssey-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Paladin (Oath of Vengeance)](Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Fey Wanderer)](Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

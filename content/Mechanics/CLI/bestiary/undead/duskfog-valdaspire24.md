@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Duskfog
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 ```ad-statblock
 title: Duskfog
@@ -48,4 +49,5 @@ title: Duskfog
 
 ***Misty Embrace.*** *Constitution Saving Throw:* DC 14, one creature the duskfog can see within 5 feet. *Failure:* 18 (`4d8`) Necrotic damage and the duskfog regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the Necrotic damage dealt.
 ```
+
 ^statblock

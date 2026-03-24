@@ -106,15 +106,15 @@ obsidianUIMode: preview
 ---
 
 # Adamantine Weapon
-*Major*  
 
-
+_Major_
 
 Melee weapons made of or coated with adamantine are unusually effective when used to break objects. Whenever an adamantine weapon hits an object, the hit is a critical hit.
 
 The adamantine version of a melee weapon costs 500 gp more than the normal version, whether the weapon is made of the metal or coated with it.
 
 **Variants**:
+
 - [Adamantine Antimatter Rifle](#Adamantine%20Antimatter%20Rifle)
 - [Adamantine Atlatl](#Adamantine%20Atlatl)
 - [Adamantine Automatic Pistol](#Adamantine%20Automatic%20Pistol)
@@ -833,5 +833,4 @@ The adamantine version of a melee weapon costs 500 gp more than the normal versi
 - **Cost**: 501 gp
 - **Weight**: 3.0 lbs.
 
-
-*Source: Xanathar's Guide to Everything p. 78*
+_Source: Xanathar's Guide to Everything p. 78_

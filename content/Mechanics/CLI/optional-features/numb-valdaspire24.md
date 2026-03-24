@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Numb 
+# Numb
 
-
-***Prerequisites*** Level 5 Craftsman, Masterwork Weapon, Cold Damage
+_**Prerequisites**_ Level 5 Craftsman, Masterwork Weapon, Cold Damage
 
 If you hit a creature with this weapon and deal damage to it, the target can't take the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action or have Advantage on attacks until the start of your next turn.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

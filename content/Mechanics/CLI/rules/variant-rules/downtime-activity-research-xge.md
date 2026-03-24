@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Research
-*Source: Xanathar's Guide to Everything p. 132* 
+
+_Source: Xanathar's Guide to Everything p. 132_
 
 Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
 

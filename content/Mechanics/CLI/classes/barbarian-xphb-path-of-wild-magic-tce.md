@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Path of Wild Magic
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
-*Source: Tasha's Cauldron of Everything p. 25*  
+
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
+_Source: Tasha's Cauldron of Everything p. 25_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -57,7 +58,7 @@ Many places in the multiverse abound with beauty, intense emotion, and rampant m
 
 ### Magic Awareness (Level 3)
 
-*3rd-level Path of Wild Magic feature*
+_3rd-level Path of Wild Magic feature_
 
 As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn't behind total cover. When you sense a spell, you learn which school of magic it belongs to.
 
@@ -65,7 +66,7 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 ### Wild Surge (Level 3)
 
-*3rd-level Path of Wild Magic feature*
+_3rd-level Path of Wild Magic feature_
 
 The magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.
 
@@ -75,23 +76,23 @@ If the effect requires a saving throw, the DC equals 8 + your proficiency bonus 
 
 ### Bolstering Magic (Level 6)
 
-*6th-level Path of Wild Magic feature*
+_6th-level Path of Wild Magic feature_
 
 You can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:
 
-- For 10 minutes, the creature can roll a `d3` whenever making an attack roll or an ability check and add the number rolled to the `d20` roll.  
-- Roll a `d3`. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.  
+- For 10 minutes, the creature can roll a `d3` whenever making an attack roll or an ability check and add the number rolled to the `d20` roll.
+- Roll a `d3`. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature's choice). Once a creature receives this benefit, that creature can't receive it again until after a long rest.
 
 You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Unstable Backlash (Level 10)
 
-*10th-level Path of Wild Magic feature*
+_10th-level Path of Wild Magic feature_
 
 When you are imperiled during your rage, the magic within you can lash out; immediately after you take damage or fail a saving throw while raging, you can use your reaction to roll on the Wild Magic table and immediately produce the effect rolled. This effect replaces your current Wild Magic effect.
 
 ### Controlled Surge (Level 14)
 
-*14th-level Path of Wild Magic feature*
+_14th-level Path of Wild Magic feature_
 
 Whenever you roll on the Wild Magic table, you can roll the die twice and choose which of the two effects to unleash. If you roll the same number on both dice, you can ignore the number and choose any effect on the table.

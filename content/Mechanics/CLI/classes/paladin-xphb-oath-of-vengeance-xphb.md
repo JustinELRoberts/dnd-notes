@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Oath of Vengeance
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
-*Source: Player's Handbook (2024) p. 116*  
+
+_[Paladin](./paladin-xphb.md): Paladin Subclass_\
+_Source: Player's Handbook (2024) p. 116_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,15 +51,15 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/vengeance-paladin.webp#right)
 
-*Punish Evildoers at Any Cost*
+_Punish Evildoers at Any Cost_
 
 The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent, when a dragon rampages through the countryside—at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.
 
 These paladins share the following tenets:
 
-- Show the wicked no mercy.  
-- Fight injustice and its causes.  
-- Aid those harmed by injustice.  
+- Show the wicked no mercy.
+- Fight injustice and its causes.
+- Aid those harmed by injustice.
 
 ## Subclass Features
 

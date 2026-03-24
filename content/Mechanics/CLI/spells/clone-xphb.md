@@ -20,8 +20,8 @@ classes:
 ---
 
 # Clone
-*8th-level, Necromancy*  
 
+_8th-level, Necromancy_
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -34,4 +34,4 @@ If the original creature dies after the clone finishes forming, the creature's s
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

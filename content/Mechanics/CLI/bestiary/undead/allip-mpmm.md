@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Allip
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 45*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 45_\
 ![](Mechanics/CLI/bestiary/undead/img/allip.webp#right)
 
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
@@ -68,6 +69,7 @@ title: Allip
 
 ***Whispers of Compulsion.*** The allip chooses up to three creatures it can see within 60 feet of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 12 (`2d8 + 3`) psychic damage and must use its reaction to make a melee weapon attack against one creature of the allip's choice that the allip can see. Constructs and Undead are immune to this effect.
 ```
+
 ^statblock
 
 ## Environment

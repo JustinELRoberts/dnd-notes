@@ -16,14 +16,11 @@ obsidianUIMode: preview
 
 # Sehanine
 
-
 - **Alignment**: Chaotic Good
 - **Domains**: Trickery
 - **Pantheon**: Dawn War
 - **Symbol**: Crescent moon
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

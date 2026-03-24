@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Duplicity
-*cantrip, Illusion*  
 
+_cantrip, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -31,4 +31,4 @@ You create an illusory duplicate of yourself in your space. When a creature hits
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

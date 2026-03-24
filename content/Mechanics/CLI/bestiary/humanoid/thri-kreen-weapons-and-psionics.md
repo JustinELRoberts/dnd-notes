@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Thri-kreen (Weapons and Psionics)
-*Source: Monster Manual p. 288*  
+
+_Source: Monster Manual p. 288_
 
 ```ad-statblock
 title: Thri-kreen (Weapons and Psionics)
@@ -67,6 +68,7 @@ title: Thri-kreen (Weapons and Psionics)
 
 ***Chatkcha.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

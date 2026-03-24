@@ -42,7 +42,8 @@ classes:
 ---
 
 # Find Familiar
-*1st-level, Conjuration (ritual)*  
+
+_1st-level, Conjuration (ritual)_\
 ![](Mechanics/CLI/spells/img/find-familiar.webp#right)
 
 - **Casting time:** 1 hour unless cast as a ritual
@@ -74,4 +75,4 @@ You can't have more than one familiar at a time. If you cast this spell while yo
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Crone)](Mechanics/CLI/lists/list-spells-classes-crone-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

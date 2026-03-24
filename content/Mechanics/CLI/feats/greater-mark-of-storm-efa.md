@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Mark of Storm 
+# Greater Mark of Storm
+
 ![](Mechanics/CLI/feats/img/greater-mark-of-storm.webp#right)
 
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +26,7 @@ You gain the following benefits.
 **Improved Intuition.** When you use the Windwright's Intuition benefit of your [Mark of Storm](Mechanics/CLI/feats/mark-of-storm-efa.md) feat, you can roll `1d6` instead of `1d4`.
 
 **Improved Storm.** When you use the Storm Magic benefit of your [Mark of Storm](Mechanics/CLI/feats/mark-of-storm-efa.md) feat to cast [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) without a spell slot, you also gain a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 60 feet for the duration of the spell.
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 45*
+_Eberron: Forge of the Artificer p. 45_

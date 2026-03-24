@@ -20,8 +20,8 @@ classes:
 ---
 
 # Bones of the Earth
-*6th-level, Transmutation*  
 
+_6th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -38,4 +38,4 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Xanathar's Guide to Everything p. 150*
+_Source: Xanathar's Guide to Everything p. 150_

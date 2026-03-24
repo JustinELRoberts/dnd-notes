@@ -28,8 +28,8 @@ classes:
 ---
 
 # Sword of Judgement
-*5th-level, Conjuration*  
 
+_5th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -44,4 +44,4 @@ Whenever a creature within the [Sphere](Mechanics/CLI/rules/variant-rules/sphere
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

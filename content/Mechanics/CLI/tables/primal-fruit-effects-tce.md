@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Primal Fruit Effects
-*Source: Tasha's Cauldron of Everything p. 168* 
+
+_Source: Tasha's Cauldron of Everything p. 168_
 
 **Primal Fruit Effects**
 

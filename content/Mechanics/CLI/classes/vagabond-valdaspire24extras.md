@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Vagabond
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Vagabond
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Heavy armor](Mechanics/CLI/rules/item-types.md#Heavy%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Greatsword](Mechanics/CLI/items/greatsword-xphb.md), 4 [Handaxes](Mechanics/CLI/items/handaxe-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 15 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Scimitars](Mechanics/CLI/items/scimitar-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 13 GP; or (C) 170 GP
+**Starting Equipment:** _Choose A, B, or C:_ (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Greatsword](Mechanics/CLI/items/greatsword-xphb.md), 4 [Handaxes](Mechanics/CLI/items/handaxe-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 15 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Scimitars](Mechanics/CLI/items/scimitar-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 13 GP; or (C) 170 GP
 
 ## Multiclassing Vagabond
 
@@ -93,15 +94,15 @@ For a reason that you keep utterly secret, you have committed to a life of endle
 
 Options (choose 1):
 
-- [Avenger](Mechanics/CLI/optional-features/avenger-valdaspire24extras.md)  
-- [Cursed](Mechanics/CLI/optional-features/cursed-valdaspire24extras.md)  
-- [Dying](Mechanics/CLI/optional-features/dying-valdaspire24extras.md)  
-- [Faction Agent](Mechanics/CLI/optional-features/faction-agent-valdaspire24extras.md)  
-- [False Identity](Mechanics/CLI/optional-features/false-identity-valdaspire24extras.md)  
-- [Fugitive](Mechanics/CLI/optional-features/fugitive-valdaspire24extras.md)  
-- [Heretic](Mechanics/CLI/optional-features/heretic-valdaspire24extras.md)  
-- [Monstrous](Mechanics/CLI/optional-features/monstrous-valdaspire24extras.md)  
-- [Nobility](Mechanics/CLI/optional-features/nobility-valdaspire24extras.md)  
+- [Avenger](Mechanics/CLI/optional-features/avenger-valdaspire24extras.md)
+- [Cursed](Mechanics/CLI/optional-features/cursed-valdaspire24extras.md)
+- [Dying](Mechanics/CLI/optional-features/dying-valdaspire24extras.md)
+- [Faction Agent](Mechanics/CLI/optional-features/faction-agent-valdaspire24extras.md)
+- [False Identity](Mechanics/CLI/optional-features/false-identity-valdaspire24extras.md)
+- [Fugitive](Mechanics/CLI/optional-features/fugitive-valdaspire24extras.md)
+- [Heretic](Mechanics/CLI/optional-features/heretic-valdaspire24extras.md)
+- [Monstrous](Mechanics/CLI/optional-features/monstrous-valdaspire24extras.md)
+- [Nobility](Mechanics/CLI/optional-features/nobility-valdaspire24extras.md)
 
 ### Battle Tactics (Level 1)
 
@@ -211,4 +212,4 @@ Once you use this feature, you can't use it again until you finish a [Short](Mec
 
 > [!example]- Optional Features: Maneuver, Vagabond
 > ![Maneuver, Vagabond](Mechanics/CLI/lists/list-optfeaturetype-mv-v.md#Maneuver,%20Vagabond)
-^list-optfeature-mv-v
+> ^list-optfeature-mv-v

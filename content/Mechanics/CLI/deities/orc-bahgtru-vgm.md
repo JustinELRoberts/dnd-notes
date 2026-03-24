@@ -16,7 +16,6 @@ obsidianUIMode: preview
 
 # Bahgtru
 
-
 - **Alignment**: Lawful Evil
 - **Domains**: War
 - **Pantheon**: Orc
@@ -38,4 +37,4 @@ Orcs of Bahgtru sometimes enter battle astride [aurochs](Mechanics/CLI/bestiary/
 
 ## Sources
 
-*Volo's Guide to Monsters p. 83*
+_Volo's Guide to Monsters p. 83_

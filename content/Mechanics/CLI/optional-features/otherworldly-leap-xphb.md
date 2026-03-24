@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Otherworldly Leap 
+# Otherworldly Leap
 
-
-***Prerequisites*** Level 2
+_**Prerequisites**_ Level 2
 
 You can cast [Jump](Mechanics/CLI/spells/jump-xphb.md) on yourself without expending a spell slot.
+
 ## Sources
 
-*Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

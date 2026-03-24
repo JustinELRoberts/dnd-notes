@@ -20,8 +20,8 @@ classes:
 ---
 
 # Time Hop
-*1st-level, Conjuration*  
 
+_1st-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -34,4 +34,4 @@ You shunt yourself a few seconds into the future. Choose a duration: 1 round, 2 
 
 **Classes**: [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

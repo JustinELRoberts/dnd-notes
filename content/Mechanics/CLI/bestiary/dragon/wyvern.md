@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Wyvern
-*Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/dragon/img/wyvern.webp#right)
 
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.
@@ -71,6 +72,7 @@ title: Wyvern
 
 ***Stinger.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one creature. *Hit:* 11 (`2d6 + 4`) piercing damage. The target must make a DC 15 Constitution saving throw, taking 24 (`7d6`) poison damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

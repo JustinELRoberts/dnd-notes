@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Troll (Loathsome Limb; Severed Leg)
-*Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Troll (Loathsome Limb; Severed Leg)
@@ -47,6 +48,7 @@ title: Troll (Loathsome Limb; Severed Leg)
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 ```
+
 ^statblock
 
 ## Environment

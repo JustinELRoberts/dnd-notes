@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Bodak
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127_\
 ![](Mechanics/CLI/bestiary/undead/img/bodak.webp#right)
 
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
@@ -73,6 +74,7 @@ Unless [surprised](Mechanics/CLI/rules/conditions.md#Surprised), a creature can 
 
 ***Aura of Annihilation.*** The bodak activates or deactivates this deathly aura. While active, the aura deals 5 necrotic damage to any creature that ends its turn within 30 feet of the bodak. Undead and Fiends ignore this effect.
 ```
+
 ^statblock
 
 ## Environment

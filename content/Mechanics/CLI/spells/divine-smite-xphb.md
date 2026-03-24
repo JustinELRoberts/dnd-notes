@@ -18,7 +18,8 @@ classes:
 ---
 
 # Divine Smite
-*1st-level, Evocation*  
+
+_1st-level, Evocation_\
 ![](Mechanics/CLI/spells/img/divine-smite.webp#right)
 
 - **Casting time:** 1 Bonus Action
@@ -32,4 +33,4 @@ The target takes an extra `2d8` Radiant damage from the attack. The damage incre
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

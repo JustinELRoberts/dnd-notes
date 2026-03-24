@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of Undetectability
 
-
 You gain a +10 bonus to Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks, and you can't be detected or targeted by divination magic, including scrying sensors.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

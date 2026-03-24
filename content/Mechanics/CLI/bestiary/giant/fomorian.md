@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Fomorian
-*Source: Monster Manual p. 136*  
+
+_Source: Monster Manual p. 136_\
 ![](Mechanics/CLI/bestiary/giant/img/fomorian.webp#right)
 
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
@@ -75,6 +76,7 @@ title: Fomorian
 
 The transformed creature can repeat the saving throw whenever it finishes a long rest, ending the effect on a success.
 ```
+
 ^statblock
 
 ## Environment

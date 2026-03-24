@@ -10,6 +10,7 @@ tags:
 ---
 
 ## Map
+
 ```zoommap
 imageBases:
   - path: Campaigns/Under The Ash/Locations/img/<%tp.file.title%> Map.png
@@ -28,6 +29,8 @@ resizeHandle: native
 render: canvas
 id: <%tp.file.title%>-map
 ```
+
 ## Description
+
 <% tp.file.cursor(1) %>
 <%await tp.file.move(`Campaigns/Under The Ash/Locations/${tp.file.title}`)%>

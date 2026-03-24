@@ -10,6 +10,7 @@ tags:
 ---
 
 ## Map
+
 ```zoommap
 imageBases:
   - path: Campaigns/Under The Ash/Locations/img/Evermore Map.png
@@ -28,5 +29,7 @@ resizeHandle: native
 render: canvas
 id: Evermore-map
 ```
+
 ## Description
-[[Campaigns/Under The Ash/Sessions/00-First Session]]
+
+[[00-First Session]]

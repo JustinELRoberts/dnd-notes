@@ -22,8 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Bandit
-*Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
@@ -56,6 +56,7 @@ title: Bandit
 
 ***Light Crossbow.*** *Ranged Weapon Attack:* `+3` to hit, range 80/320 ft., one target. *Hit:* 5 (`1d8 + 1`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

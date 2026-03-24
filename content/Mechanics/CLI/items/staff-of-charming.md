@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Charming
-*Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
+
+_Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)_\
 ![](Mechanics/CLI/items/img/staff-of-charming.webp#right)
 
 - **Damage**:
@@ -32,4 +33,4 @@ If you are holding the staff and fail a saving throw against an enchantment spel
 
 The staff regains `1d8 + 2` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff becomes a nonmagical quarterstaff.
 
-*Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Bladeworkers' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Craft Lethal Melee Weapons*
+_Craft Lethal Melee Weapons_
 
 Blade and bow, axe and mace: these are the tools with which the Guild of Bladeworkers aim to change the world. They believe that the right blade in the right hand can make a warrior unstoppable.
 

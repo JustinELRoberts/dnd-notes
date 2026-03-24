@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Orc Claw of Luthic
-*Source: Volo's Guide to Monsters p. 183*  
+
+_Source: Volo's Guide to Monsters p. 183_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-claw-of-luthic.webp#right)
 
 Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.
@@ -31,10 +32,9 @@ Orcs know better. Different groups of orcs exist within a tribe, the actions of 
 
 In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
 
-> [!quote] A quote from Elminster  
-> 
+> [!quote] A quote from Elminster
+>
 > An orc life is a god-ridden life. Luthic's at birth, Luthic's at death, and striving to prove themselves to Gruumsh in between.
-
 
 ```ad-statblock
 title: Orc Claw of Luthic
@@ -76,6 +76,7 @@ title: Orc Claw of Luthic
 
 ***Claw.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Drake-Blooded
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th><th colspan='4'>Spell Slots per Spell Level</th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Channel Draconic Magic with Your Blood*
+_Channel Draconic Magic with Your Blood_
 
 Your call was the booming roar of dragons. As such, you have struck a pact with an ancient wyrm to protect its hoard from enemies that might despoil it. In turn, the surged through your veins like fire and granted you a measure of draconic power. Fire alights at your fingertips and your eyes bear reptilian slits. As a Drake-Blooded wyrm granted you a few drops of its blood to drink, which Warden, you are a champion among half-dragons and a titan among kobolds.
 

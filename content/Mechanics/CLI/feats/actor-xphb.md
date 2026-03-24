@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Actor 
+# Actor
 
-
-***Prerequisites*** 4th; Charisma 13 or higher
+_**Prerequisites**_ 4th; Charisma 13 or higher
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Impersonation.** While you're disguised as a real or fictional person, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception) or [Performance](Mechanics/CLI/rules/skills.md#Performance)) checks to convince others that you are that person.
 
 **Mimicry.** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check to determine the effect is faked (DC 8 plus your Charisma modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)).
+
 ## Sources
 
-*Player's Handbook (2024) p. 202*
+_Player's Handbook (2024) p. 202_

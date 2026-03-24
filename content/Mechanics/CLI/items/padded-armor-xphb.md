@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Padded Armor
-*Light armor*  
+
+_Light armor_\
 ![](Mechanics/CLI/items/img/padded-armor.webp#right)
 
 - **Armor Class**: 11 + Dex modifier
@@ -23,4 +24,4 @@ obsidianUIMode: preview
 - **Cost**: 5 gp
 - **Weight**: 8.0 lbs.
 
-*Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

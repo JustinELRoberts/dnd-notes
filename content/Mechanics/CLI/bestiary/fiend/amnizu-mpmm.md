@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Amnizu
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 46*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 46_\
 ![](Mechanics/CLI/bestiary/fiend/img/amnizu.webp#right)
 
 Amnizus lead infernal legions into battle and command guardians at the gateways to the Hells. Amnizus are arrogant, bullying, and ruthless, but they're also highly intelligent tacticians and unfailingly loyal—qualities the hellish archdukes value.
@@ -74,4 +75,5 @@ title: Amnizu
 
 ***Instinctive Charm.*** When a creature within 60 feet of the amnizu makes an attack roll against it, and another creature is within the attack's range, the attacker must make a DC 19 Wisdom saving throw. On a failed save, the attacker must target the creature that is closest to it, not including the amnizu or itself. If multiple creatures are closest, the attacker chooses which one to target. If the saving throw is successful, the attacker is immune to the amnizu's Instinctive Charm for 24 hours.
 ```
+
 ^statblock

@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Bahamut
 
-
 - **Alignment**: Lawful Good
 - **Domains**: Life, War
 - **Pantheon**: Dawn War
 - **Symbol**: Dragon's head, in profile, facing left
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

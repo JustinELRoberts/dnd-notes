@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Displacer Beast
-*Source: Monster Manual p. 81*  
+
+_Source: Monster Manual p. 81_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/displacer-beast.webp#right)
 
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
@@ -70,6 +71,7 @@ title: Displacer Beast
 
 ***Tentacle.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 7 (`1d6 + 4`) bludgeoning damage plus 3 (`1d6`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -59,77 +59,97 @@ Attunement is required for this item.
 ## General and Weapon Properties
 
 ### Ammunition
+
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.
 
 ### Ammunition
+
 _Source: Dungeon Master's Guide p. 267_
 You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. Loading a one-handed weapon requires a free hand. The ammunition of a firearm is destroyed upon use.
 
 If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon. A sling must be loaded to deal any damage when used in this way.
 
 ### Any Slot
+
 _Source: Valda's Spire of Secrets (2024)_
 
 ### Arms Slot
+
 _Source: Valda's Spire of Secrets (2024)_
 
 ### Blaster
+
 _Source: Valda's Spire of Secrets Extras (2024)_
 A weapon with the Blaster property is a Ranged weapon that requires no ammunition. This property counts as [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition).
 
 ### Burst Fire
+
 _Source: Dungeon Master's Guide p. 267_
 A weapon that has the burst fire property can make a single-target attack, or it can spray a 10-foot-cube area within normal range with shots. Each creature in the area must succeed on a DC 15 Dexterity saving throw or take the weapon's normal damage. This action uses ten pieces of ammunition.
 
 ### Cooldown
+
 _Source: Valda's Spire of Secrets Extras (2024)_
 Because this weapon requires cooldown time between uses, you can only fire it once when you use an action, [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to fire it, regardless of the number of attacks you normally make. This property counts as [Loading](Mechanics/CLI/rules/item-properties.md#Loading).
 
 ### Destructible
+
 _Source: Valda's Spire of Secrets (2024)_
 After you make an attack with this weapon, it is destroyed.
 
 ### External Slot
+
 _Source: Valda's Spire of Secrets (2024)_
 
 ### Finesse
+
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ### Futuristic Era
+
 _Source: Valda's Spire of Secrets Extras (2024)_
 
 ### Head Slot
+
 _Source: Valda's Spire of Secrets (2024)_
 
 ### Heavy
+
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 You have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ### Internal Slot
+
 _Source: Valda's Spire of Secrets (2024)_
 
 ### Legs Slot
+
 _Source: Valda's Spire of Secrets (2024)_
 
 ### Light
+
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn and attack with a Light weapon, you can make one extra attack as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [Shortsword](Mechanics/CLI/items/shortsword-xphb.md) in one hand and a [Dagger](Mechanics/CLI/items/dagger-xphb.md) in the other using the [Attack](Mechanics/CLI/rules/actions.md#Attack) action and a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), but you don't add your Strength or Dexterity modifier to the damage roll of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) unless that modifier is negative.
 
 ### Loading
+
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 You can fire only one piece of ammunition from a Loading weapon when you use an action, a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to fire it, regardless of the number of attacks you can normally make.
 
 ### Reach
+
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) with it.
 
 ### Reload
+
 _Source: Dungeon Master's Guide p. 267_
 A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or a bonus action (the character's choice).
 
 ### Reload
+
 _Source: Valda's Spire of Secrets (2024)_
 This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes an action or a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md); otherwise, reloading it takes an action. The number of attacks is determined by the size of the weapon's damage die or dice, as shown on the Reload Attacks table.
 
@@ -145,14 +165,17 @@ This weapon can be used to make a number of attacks before it must be reloaded. 
 ^reload-attacks
 
 ### Thrown
+
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
 
 ### Two-Handed
+
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 A Two-Handed weapon requires two hands when you attack with it.
 
 ### Versatile
+
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
 

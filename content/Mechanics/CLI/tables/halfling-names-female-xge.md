@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Halfling Names – Female
-*Source: Xanathar's Guide to Everything p. 179* 
+
+_Source: Xanathar's Guide to Everything p. 179_
 
 **Halfling Names – Female**
 

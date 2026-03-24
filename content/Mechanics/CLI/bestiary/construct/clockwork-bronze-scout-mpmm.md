@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Clockwork Bronze Scout
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 79*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 79_\
 ![](Mechanics/CLI/bestiary/construct/img/clockwork-bronze-scout.webp#right)
 
 A bronze scout seldom emerges from underground. Its telescoping eyestalks observe foes at close range while most of its segmented body remains buried. If detected, it sends electrical shocks through the ground toward pursuers while it retreats.
@@ -101,6 +102,7 @@ title: Clockwork Bronze Scout
 
 ***Lightning Flare (Recharges after a Short or Long Rest).*** Each creature in contact with the ground within 15 feet of the clockwork must make a DC 13 Dexterity saving throw, taking 14 (`4d6`) lightning damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

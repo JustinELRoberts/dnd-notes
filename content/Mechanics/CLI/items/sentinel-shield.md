@@ -16,12 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Sentinel Shield
-*Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), major, uncommon*  
 
+_Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), major, uncommon_
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
 While holding this shield, you have advantage on initiative rolls and Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks. The shield is emblazoned with a symbol of an eye.
 
-*Source: Dungeon Master's Guide p. 199*
+_Source: Dungeon Master's Guide p. 199_

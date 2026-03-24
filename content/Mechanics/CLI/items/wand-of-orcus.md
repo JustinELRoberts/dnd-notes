@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Orcus
-*Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), wand, artifact (requires attunement)*  
+
+_Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), wand, artifact (requires attunement)_\
 ![](Mechanics/CLI/items/img/wand-of-orcus.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -36,10 +37,10 @@ In the hands of one who is attuned to it, the wand can be wielded as a magic [ma
 
 The Wand of Orcus has the following random properties:
 
-- 2 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
-- 2 [minor detrimental properties](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)  
-- 1 [major detrimental property](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)  
+- 2 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
+- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)
+- 2 [minor detrimental properties](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)
+- 1 [major detrimental property](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)
 
 The detrimental properties of the Wand of Orcus are suppressed while the wand is attuned to [Orcus](Mechanics/CLI/bestiary/npc/orcus-mpmm.md) himself.
 
@@ -75,4 +76,4 @@ Destroying the Wand of Orcus requires that it be taken to the Positive Energy Pl
 
 Bathing the wand in positive energy causes it to crack and explode, but unless the above conditions are met, the wand instantly reforms on [Orcus's](Mechanics/CLI/bestiary/npc/orcus-mpmm.md) layer of the Abyss.
 
-*Source: Dungeon Master's Guide p. 227*
+_Source: Dungeon Master's Guide p. 227_

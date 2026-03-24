@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # College of Whispers
-*[Bard](./bard-xphb.md): Bard Subclass*  
-*Source: Xanathar's Guide to Everything p. 16*  
+
+_[Bard](./bard-xphb.md): Bard Subclass_\
+_Source: Xanathar's Guide to Everything p. 16_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

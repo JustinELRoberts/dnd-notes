@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Doomward
-*cantrip, Abjuration*  
 
+_cantrip, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -31,4 +31,4 @@ You touch a willing creature. The first time the target would drop to 0 [Hit Poi
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

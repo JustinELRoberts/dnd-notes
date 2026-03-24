@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Adjudicating Areas of Effect; Targets in Areas of Effect
-*Source: Dungeon Master's Guide p. 249* 
+
+_Source: Dungeon Master's Guide p. 249_
 
 **Targets in Areas of Effect**
 

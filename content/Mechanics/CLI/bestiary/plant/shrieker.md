@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Shrieker
-*Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/plant/img/shrieker.webp#right)
 
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
@@ -61,6 +62,7 @@ title: Shrieker
 
 ***Shriek.*** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for `1d4` of the shrieker's turns afterward.
 ```
+
 ^statblock
 
 ## Environment

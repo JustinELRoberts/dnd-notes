@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grung Wildling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_\
 ![](Mechanics/CLI/bestiary/humanoid/img/grungs.webp#right)
 
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
@@ -77,6 +78,7 @@ title: Grung Wildling
 
 **2/day:** [plant growth](Mechanics/CLI/spells/plant-growth-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

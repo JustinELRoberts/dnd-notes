@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Hellfire Engine
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 152*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 152_\
 ![](Mechanics/CLI/bestiary/construct/img/hellfire-engine.webp#right)
 
 Hellfire engines are semiautonomous bringers of destruction. Amnizus (in this book) and other devilish generals hold them in reserve until they are needed to repel an incursion by demons or crusading mortals, but occasionally one of these magical-mechanical hybrids gets loose, driven berserk by its need to destroy.
@@ -70,4 +71,5 @@ If the hellfire engine remains in the [prone](Mechanics/CLI/rules/conditions.md#
 
     If the chosen option kills a creature, the creature's soul rises from the River Styx as a [lemure](Mechanics/CLI/bestiary/fiend/lemure.md) in Avernus in `1d4` hours. If the creature isn't revived before then, only a [wish](Mechanics/CLI/spells/wish-xphb.md) spell or killing the [lemure](Mechanics/CLI/bestiary/fiend/lemure.md) and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.  
 ```
+
 ^statblock

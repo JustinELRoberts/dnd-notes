@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Dimetrodon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139_
 
 This sail-backed reptile is commonly found in areas where dinosaurs live. It hunts on shores and in shallow water, filling a similar role to a crocodile.
 
@@ -47,6 +47,7 @@ title: Dimetrodon
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 9 (`2d6 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

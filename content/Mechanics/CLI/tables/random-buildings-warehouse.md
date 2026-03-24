@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Buildings; Warehouse
-*Source: Dungeon Master's Guide p. 113* 
+
+_Source: Dungeon Master's Guide p. 113_
 
 **Warehouse**
 

@@ -20,26 +20,26 @@ obsidianUIMode: preview
 ---
 
 # Zombie
-*Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/undead/img/zombies.webp#right)
 
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
 
 ## Zombies
 
-*Relentless Reanimated Corpses*
+_Relentless Reanimated Corpses_
 
-- **Habitat.** Planar (Shadowfell), Underdark, Urban  
-- **Treasure.** None  
+- **Habitat.** Planar (Shadowfell), Underdark, Urban
+- **Treasure.** None
 
 Zombies are unthinking, reanimated corpses, often gruesomely marred by decay and lethal traumas. They serve whatever supernatural force animates them—typically evil necromancers or fiendish spirits. Zombies are relentless, merciless, and resilient, and their dead flesh can carry on even after suffering grievous wounds. While they can follow simple orders, they rely on primal drives rather than thought. They fulfill commands by working tirelessly or battering through foes, but they are easily stymied by barriers or unexpected circumstances.
 
 Zombies are usually created from Humanoid corpses, but the remains of other creatures can also become zombies. Such monstrous zombies might possess the strength they had in life or a measure of their supernatural abilities, but they employ such abilities haphazardly at best.
 
-> [!quote] A quote from Account of the Night of the Walking Dead  
-> 
+> [!quote] A quote from Account of the Night of the Walking Dead
+>
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
-
 
 ## Statblock
 
@@ -73,6 +73,7 @@ title: Zombie
 
 ***Slam.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 5 (`1d8 + 1`) Bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -25,7 +25,8 @@ classes:
 ---
 
 # Heroes' Feast
-*6th-level, Conjuration*  
+
+_6th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/heroes-feast.webp#right)
 
 - **Casting time:** 10 minutes
@@ -39,4 +40,4 @@ A creature that partakes gains several benefits, which last for 24 hours. The cr
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

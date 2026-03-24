@@ -26,8 +26,8 @@ classes:
 ---
 
 # Candy Blast
-*cantrip, Conjuration*  
 
+_cantrip, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -40,4 +40,4 @@ You summon a handful of hard candy—boiled sweets, mints, jelly beans, etc.—a
 
 **Classes**: [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

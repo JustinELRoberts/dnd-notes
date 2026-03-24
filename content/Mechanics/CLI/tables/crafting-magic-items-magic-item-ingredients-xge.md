@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Crafting Magic Items; Magic Item Ingredients
-*Source: Xanathar's Guide to Everything p. 128* 
+
+_Source: Xanathar's Guide to Everything p. 128_
 
 **Magic Item Ingredients**
 

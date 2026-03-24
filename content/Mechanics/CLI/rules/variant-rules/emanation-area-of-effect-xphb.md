@@ -12,8 +12,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Emanation [Area of Effect]
-*Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+# Emanation \[Area of Effect]
+
+_Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 An Emanation is an area of effect that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
 

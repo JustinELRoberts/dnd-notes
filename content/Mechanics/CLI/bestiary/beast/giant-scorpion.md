@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Scorpion
-*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Scorpion
@@ -47,6 +48,7 @@ title: Giant Scorpion
 
 ***Sting.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Steel Defender
-*Source: Eberron: Forge of the Artificer p. 19*  
+
+_Source: Eberron: Forge of the Artificer p. 19_
 
 ```ad-statblock
 title: Steel Defender
@@ -54,4 +55,5 @@ title: Steel Defender
 
 ***Deflect Attack.*** Trigger: A creature the defender can see within 5 feet of itself makes an attack roll against a creature other than the defender. _Response:_ The triggering creature makes the attack roll with [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
 ```
+
 ^statblock

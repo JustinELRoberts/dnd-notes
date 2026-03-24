@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Crawling Claw
-*Source: Monster Manual p. 44*  
+
+_Source: Monster Manual p. 44_\
 ![](Mechanics/CLI/bestiary/undead/img/crawling-claw.webp#right)
 
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
@@ -47,10 +48,9 @@ Made whole again, the murderer acts as though the hand had never been severed an
 
 A crawling claw doesn't require air, food, drink, or sleep.
 
-> [!quote] A quote from Evangeliza Lavain, necromancer  
-> 
+> [!quote] A quote from Evangeliza Lavain, necromancer
+>
 > Makes you wonder what can be done with all those other murderer parts, doesn't it?
-
 
 ## Statblock
 
@@ -84,4 +84,5 @@ title: Crawling Claw
 
 ***Claw.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d4 + 1`) bludgeoning or slashing damage (claw's choice).
 ```
+
 ^statblock

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Expert
-*Source: Essentials Kit p. 63*  
+
+_Source: Essentials Kit p. 63_
 
 ```ad-statblock
 title: Expert
@@ -53,4 +54,5 @@ title: Expert
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+4` to hit, range 80/320 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock

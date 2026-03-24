@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Medani Inquisitive
-*Source: Eberron: Forge of the Artificer p. 82*  
+
+_Source: Eberron: Forge of the Artificer p. 82_\
 ![](Mechanics/CLI/bestiary/humanoid/img/medani-inquisitive.webp#right)
 
 The most prized inquisitives of House Medani, a house of mostly Khoravar, employ their dragonmarks and their keen intellects to anticipate threats from any quarter. Some are part of a secretive order called the Basilisk's Gaze, dedicated to hunting down fugitive war criminals who committed atrocities during the Last War.
@@ -60,4 +61,5 @@ At Will : Guidance
 
 ***Spontaneous Barrier (Recharge 4-6).*** Trigger: The inquisitive or an ally it can see is hit with an attack roll. _Response:_ The inquisitive adds 2 to its or the ally's AC against that attack, possibly causing it to miss.
 ```
+
 ^statblock

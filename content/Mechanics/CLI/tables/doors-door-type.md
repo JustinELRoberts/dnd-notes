@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Doors; Door Type
-*Source: Dungeon Master's Guide p. 291* 
+
+_Source: Dungeon Master's Guide p. 291_
 
 **Door Type**
 

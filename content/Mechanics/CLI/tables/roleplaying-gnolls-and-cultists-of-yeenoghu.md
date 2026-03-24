@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying Gnolls and Cultists of Yeenoghu
-*Source: Volo's Guide to Monsters p. 36* 
+
+_Source: Volo's Guide to Monsters p. 36_
 
 **Gnoll/Cultist Physical Features**
 

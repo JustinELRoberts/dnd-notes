@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Adult Copper Dragon
-*Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/copper-dragon.webp#right)
 
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
@@ -167,6 +168,7 @@ If the dragon dies, the magic carvings fade over the course of `1d10` days. The 
 - **Distant Melodies.** The ethereal music of woodwinds and bells can be heard carried on the wind within 1 mile of the dragon's lair.  
 - **Starlit Stones.** Standing stones are common on hilltops within 1 mile of the dragon's lair. The stones shed dim light in a 10-foot radius at night. (If the dragon dies, the stones remain, but they no longer shed light.)  
 ```
+
 ^statblock
 
 ## Environment

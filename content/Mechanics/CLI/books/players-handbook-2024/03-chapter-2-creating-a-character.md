@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Chapter 2: Creating a Character
-*Source: Player's Handbook (2024), p. 33* 
+
+_Source: Player's Handbook (2024), p. 33_
 
 ![World-traveling explorers ...](Mechanics/CLI/books/players-handbook-2024/img/012-02-001-world-traveling-explorers.webp#center "World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure")
 
-You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as "Fighter" or "Wizard"), a background (such as "Sailor" or "Acolyte"), and a species (such as "Human" or "Elf"). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
+You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as "Fighter" or "Wizard"), a background (such as "Sailor" or "Acolyte"), and a species (such as "Human" or "Elf"). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D\&D multiverse.
 
 ## Get Ready
 
@@ -25,26 +26,26 @@ Before you dive into character creation, there are a few things to do to get rea
 
 ### Talk with Your DM
 
-Start by talking with your Dungeon Master about the type of D&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don't know where to begin, look at the character illustrations in this book for inspiration.
+Start by talking with your Dungeon Master about the type of D\&D game they plan to run. If the DM draws inspiration from Greek myth, for example, you might choose a different direction for your character than if the DM is planning for swashbuckling on the high seas. Think about the kind of adventurer you want to play in this game. If you don't know where to begin, look at the character illustrations in this book for inspiration.
 
 > [!note] Session Zero
-> 
+>
 > Some Dungeon Masters start a campaign with a "session zero," an initial gathering focused on creating characters and setting expectations, including topics to avoid as well as those to embrace. A session zero provides a great opportunity to talk to the other players and the DM and decide whether your characters know one another, how they met, and what sorts of quests the group might undertake together.
-^session-zero
+> ^session-zero
 
 ### Choose a Character Sheet
 
-You'll record the main details of your character on a character sheet. Throughout this chapter, we use the term "character sheet" to mean whatever you use to track your character's details, whether it's a printed character sheet, a digital character sheet like the one on D&D Beyond (https://www.dndbeyond.com/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
+You'll record the main details of your character on a character sheet. Throughout this chapter, we use the term "character sheet" to mean whatever you use to track your character's details, whether it's a printed character sheet, a digital character sheet like the one on D\&D Beyond (https://www.dndbeyond.com/characters), or plain paper. Choose whichever style of sheet works for you, and then embark on creating a character!
 
 ## Create Your Character
 
 Here are the steps to make a character; each step is explored in detail in this chapter:
 
-- **Choose a Class.** Every adventurer is a member of a class. A class broadly describes a character's vocation, special talents, and favored tactics.  
-- **Determine Origin.** A character's origin includes two elements: background and species. How did the character spend the years leading up to a life of adventure? Who are the character's ancestors? You can also choose your character's languages.  
-- **Determine Ability Scores.** Much of what your character does in the game depends on the character's six abilities.  
-- **Choose an Alignment.** Alignment is a shorthand for your character's moral compass.  
-- **Fill in Details.** Using the choices you've made, fill in the remaining details on your character sheet.  
+- **Choose a Class.** Every adventurer is a member of a class. A class broadly describes a character's vocation, special talents, and favored tactics.
+- **Determine Origin.** A character's origin includes two elements: background and species. How did the character spend the years leading up to a life of adventure? Who are the character's ancestors? You can also choose your character's languages.
+- **Determine Ability Scores.** Much of what your character does in the game depends on the character's six abilities.
+- **Choose an Alignment.** Alignment is a shorthand for your character's moral compass.
+- **Fill in Details.** Using the choices you've made, fill in the remaining details on your character sheet.
 
 On the character sheet on the following pages, many spaces are labeled with a number that corresponds with one of those steps.
 
@@ -55,14 +56,14 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 ![Choose a Class; Class Overview](Mechanics/CLI/tables/choose-a-class-class-overview-xphb.md)
 
 > [!note] A Balanced Party
-> 
-> The classic D&D party comprises a [Cleric](Mechanics/CLI/classes/cleric-xphb.md), [Fighter](Mechanics/CLI/classes/fighter-xphb.md), [Rogue](Mechanics/CLI/classes/rogue-xphb.md), and [Wizard](Mechanics/CLI/classes/wizard-xphb.md). Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
-> 
-> - **Cleric.** Replace with [Bard](Mechanics/CLI/classes/bard-xphb.md) or [Druid](Mechanics/CLI/classes/druid-xphb.md)  
-> - **Fighter.** Replace with [Barbarian](Mechanics/CLI/classes/barbarian-xphb.md), [Monk](Mechanics/CLI/classes/monk-xphb.md), [Paladin](Mechanics/CLI/classes/paladin-xphb.md), or [Ranger](Mechanics/CLI/classes/ranger-xphb.md)  
-> - **Rogue.** Replace with [Bard](Mechanics/CLI/classes/bard-xphb.md) or [Ranger](Mechanics/CLI/classes/ranger-xphb.md)  
-> - **Wizard.** Replace with [Bard](Mechanics/CLI/classes/bard-xphb.md), [Sorcerer](Mechanics/CLI/classes/sorcerer-xphb.md), or [Warlock](Mechanics/CLI/classes/warlock-xphb.md)  
-^a-balanced-party
+>
+> The classic D\&D party comprises a [Cleric](Mechanics/CLI/classes/cleric-xphb.md), [Fighter](Mechanics/CLI/classes/fighter-xphb.md), [Rogue](Mechanics/CLI/classes/rogue-xphb.md), and [Wizard](Mechanics/CLI/classes/wizard-xphb.md). Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
+>
+> - **Cleric.** Replace with [Bard](Mechanics/CLI/classes/bard-xphb.md) or [Druid](Mechanics/CLI/classes/druid-xphb.md)
+> - **Fighter.** Replace with [Barbarian](Mechanics/CLI/classes/barbarian-xphb.md), [Monk](Mechanics/CLI/classes/monk-xphb.md), [Paladin](Mechanics/CLI/classes/paladin-xphb.md), or [Ranger](Mechanics/CLI/classes/ranger-xphb.md)
+> - **Rogue.** Replace with [Bard](Mechanics/CLI/classes/bard-xphb.md) or [Ranger](Mechanics/CLI/classes/ranger-xphb.md)
+> - **Wizard.** Replace with [Bard](Mechanics/CLI/classes/bard-xphb.md), [Sorcerer](Mechanics/CLI/classes/sorcerer-xphb.md), or [Warlock](Mechanics/CLI/classes/warlock-xphb.md)\
+>   ^a-balanced-party
 
 #### Write Your Level
 
@@ -130,18 +131,18 @@ Your character's [size](Mechanics/CLI/rules/variant-rules/size-xphb.md) and [Spe
 
 Let your character's background and species inspire how you imagine their past. That past fed into the character's present. With that in mind, consider answers to the following questions as your character:
 
-- Who raised you?  
-- Who was your dearest childhood friend?  
-- Did you grow up with a pet?  
-- Have you fallen in love? If so, with whom?  
-- Did you join an organization, such as a guild or religion? If so, are you still a member of it?  
-- What elements of your past inspire you to go on adventures now?  
+- Who raised you?
+- Who was your dearest childhood friend?
+- Did you grow up with a pet?
+- Have you fallen in love? If so, with whom?
+- Did you join an organization, such as a guild or religion? If so, are you still a member of it?
+- What elements of your past inspire you to go on adventures now?
 
 #### Choose Languages
 
 Your character knows at least three languages: Common plus two languages you roll or choose from the Standard Languages table. Knowledge of a language means your character can communicate in it, read it, and write it. Your class and other features might also give you languages.
 
-The Standard Languages table lists languages that are widespread on D&D worlds. Every player character knows Common, which originated in the planar metropolis of Sigil, the hub of the multiverse. The other standard languages originated with the first members of the most prominent species in the worlds of D&D and have since spread widely.
+The Standard Languages table lists languages that are widespread on D\&D worlds. Every player character knows Common, which originated in the planar metropolis of Sigil, the hub of the multiverse. The other standard languages originated with the first members of the most prominent species in the worlds of D\&D and have since spread widely.
 
 ![Choose Languages; Standard Languages](Mechanics/CLI/tables/choose-languages-standard-languages-xphb.md)
 
@@ -186,13 +187,13 @@ After assigning your ability scores, adjust them according to your background. Y
 Some players like to increase their class's primary ability, while others prefer to increase a low score.
 
 > [!note] Backgrounds and Species from Older Books
-> 
-> Backgrounds in older D&D books don't include ability score adjustments. If you're using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
-> 
+>
+> Backgrounds in older D\&D books don't include ability score adjustments. If you're using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
+>
 > Similarly, species in older books include ability score increases. If you're using a species from an older book, ignore those increases and use only the ones given by your background.
-> 
+>
 > Also, if the background you choose doesn't provide a feat, you gain an "Origin feat" of your choice.
-^backgrounds-and-species-from-older-books
+> ^backgrounds-and-species-from-older-books
 
 #### Determine Ability Modifiers
 
@@ -234,7 +235,7 @@ Note your character's appearance and personality on your character sheet.
 
 Choose your character's alignment from the options below, and note it on your character sheet.
 
-D&D assumes that player characters aren't of an evil alignment. Check with your DM before making an evil character.
+D\&D assumes that player characters aren't of an evil alignment. Check with your DM before making an evil character.
 
 #### The Nine Alignments
 
@@ -281,9 +282,9 @@ Neutral Evil is the alignment of those who are untroubled by the harm they cause
 Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
 > [!note] Unaligned Creatures
-> 
+>
 > Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. [Sharks](Mechanics/CLI/bestiary/beast/reef-shark-xmm.md) are savage predators, for example, but they aren't evil; they are unaligned.
-^unaligned-creatures
+> ^unaligned-creatures
 
 #### Alignment and Personality
 
@@ -373,10 +374,10 @@ Choose a name for your character, and write it on your character sheet. The name
 
 As you finish creating your character, consider whether you'd like to make up any other details about the character. Here are the sorts of things you might ask yourself as the character:
 
-- What's your gender?  
-- What person or people do you care most about?  
-- What's your deepest fear?  
-- On your adventures, will you seek knowledge, wealth, glory, enlightenment, justice, mercy, power, or something else?  
+- What's your gender?
+- What person or people do you care most about?
+- What's your deepest fear?
+- On your adventures, will you seek knowledge, wealth, glory, enlightenment, justice, mercy, power, or something else?
 
 ## Level Advancement
 
@@ -392,13 +393,13 @@ The Character Advancement table lists the XP you need to advance to a level and 
 
 When you gain a level, follow these steps:
 
-- **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the ""Multiclassing"" section later in this chapter.  
-- **Adjust Hit Points and Hit Point Dice.** Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.  
+- **Choose a Class.** Most characters advance in the same class. However, you might decide to gain a level in another class using the rules in the ""Multiclassing"" section later in this chapter.
+- **Adjust Hit Points and Hit Point Dice.** Each time you gain a level, you gain an additional Hit Die. Roll that die, add your Constitution modifier to the roll, and add the total (minimum of 1) to your Hit Point maximum. Instead of rolling, you can use the fixed value shown in the Fixed Hit Points by Class table.
 
-    ![Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class](Mechanics/CLI/tables/adjust-hit-points-and-hit-point-dice-fixed-hit-points-by-class-xphb.md)  
-- **Record New Class Features.** Look at your class features table in "chapter 3" and note the features you gain at your new level in that class. Make any choices offered by a new feature.  
-- **Adjust Proficiency Bonus.** A character's Proficiency Bonus increases at certain levels, as shown in the "Character Advancement table" and your class features table in "chapter 3". When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.  
-- **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character's Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.  
+  ![Adjust Hit Points and Hit Point Dice; Fixed Hit Points by Class](Mechanics/CLI/tables/adjust-hit-points-and-hit-point-dice-fixed-hit-points-by-class-xphb.md)
+- **Record New Class Features.** Look at your class features table in "chapter 3" and note the features you gain at your new level in that class. Make any choices offered by a new feature.
+- **Adjust Proficiency Bonus.** A character's Proficiency Bonus increases at certain levels, as shown in the "Character Advancement table" and your class features table in "chapter 3". When your Proficiency Bonus increases, increase all the numbers on your character sheet that include your Proficiency Bonus.
+- **Adjust Ability Modifiers.** If you choose a feat that increases one or more of your ability scores, your ability modifier also changes if the new score is an even number. When that happens, adjust all the numbers on your character sheet that use that ability modifier. When your Constitution modifier increases by 1, your Hit Point maximum increases by 1 for each level you have attained. For example, if a character reaches level 8 and increases their Constitution score from 17 to 18, the Constitution modifier increases to +4. The character's Hit Point maximum then increases by 8, in addition to the Hit Points gained for reaching level 8.
 
 ### Tiers of Play
 
@@ -421,13 +422,13 @@ In tier 3, characters have reached a level of power that makes them special amon
 At tier 4, characters achieve the pinnacle of their class features, becoming heroic archetypes. The fate of the world or even the order of the multiverse might hang in the balance during their adventures.
 
 > [!note] Bonus Feats at Level 20
-> 
+>
 > A DM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. "Epic Boon" feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
-^bonus-feats-at-level-20
+> ^bonus-feats-at-level-20
 
 ## Starting at Higher Levels
 
-Your DM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D&D players.
+Your DM might start your group's characters at a level higher than 1. It is particularly recommended to start at level 3 if your group is composed of seasoned D\&D players.
 
 ### Creating Your Character
 
@@ -503,9 +504,9 @@ If a cantrip of yours increases in power at higher levels, the increase is based
 
 You determine your available spell slots by adding together the following:
 
-- All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes  
-- Half your levels (round up) in the Paladin and Ranger classes  
-- One third of your Fighter or Rogue levels (round down) if you have the Eldritch Knight or Arcane Trickster subclass.  
+- All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes
+- Half your levels (round up) in the Paladin and Ranger classes
+- One third of your Fighter or Rogue levels (round down) if you have the Eldritch Knight or Arcane Trickster subclass.
 
 Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
 

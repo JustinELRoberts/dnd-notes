@@ -15,12 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Amulet
-*Spellcasting focus*  
 
+_Spellcasting focus_
 
 - **Cost**: 5 gp
 - **Weight**: 1.0 lbs.
 
 For an Amulet to be an effective Holy Symbol, it must be worn or held.
 
-*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

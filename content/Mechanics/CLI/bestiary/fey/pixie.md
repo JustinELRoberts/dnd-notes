@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Pixie
-*Source: Monster Manual p. 253*  
+
+_Source: Monster Manual p. 253_\
 ![](Mechanics/CLI/bestiary/fey/img/pixie.webp#right)
 
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
@@ -44,10 +45,9 @@ While the arrival of visitors piques their curiosity, pixies are too shy to reve
 
 Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner flee than get into a physical altercation with any enemy.
 
-> [!quote] A quote from Rivergleam, pixie fashionista  
-> 
+> [!quote] A quote from Rivergleam, pixie fashionista
+>
 > Petal gowns and acorn caps are so last summer!
-
 
 ## Statblock
 
@@ -85,6 +85,7 @@ title: Pixie
 
 ***Superior Invisibility.*** The pixie magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) ends (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the pixie wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
 ```
+
 ^statblock
 
 ## Environment

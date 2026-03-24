@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Crook of Rao
-*Wondrous item, artifact (requires attunement)*  
-![](Mechanics/CLI/items/img/crook-of-rao.webp#right)
 
+_Wondrous item, artifact (requires attunement)_\
+![](Mechanics/CLI/items/img/crook-of-rao.webp#right)
 
 Ages ago, the serene god Rao created a tool to shield his fledgling faithful against the evils of the Lower Planes. Yet, as eons passed, mortals developed their own methods of dealing with existential threats, and the crook was largely forgotten. In recent ages, though, the Crook of Rao was rediscovered and leveraged against the rising power of the Witch Queen Iggwilv (one of the names of the wizard Tasha). Although she was defeated, Iggwilv managed to damage the crook during the battle, infecting it with an insidious curse-and the potential for future victory. In the aftermath, the crook was again lost. Occasionally it reappears, but the famed artifact is not what it was. Whether or not the artifact's bearers realize its full threat, few risk using the Crook of Rao -potentially for the final time.
 
@@ -25,9 +25,9 @@ Ages ago, the serene god Rao created a tool to shield his fledgling faithful aga
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties  
-- 1 [major beneficial](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property  
-- 1 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property  
+- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties
+- 1 [major beneficial](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property
+- 1 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property
 
 ## Spells
 
@@ -63,4 +63,4 @@ When the Crook was last used against Iggwilv, the Witch Queen lashed out at the 
 
 The Crook of Rao can either be destroyed or repaired by journeying to Mount Celestia and obtaining a tear from the eternally serene god Rao. One way to make the emotionless god cry would be to reunite Rao with the spirit of his first worshiper who sought revelations beyond the multiverse long ago. The Crook dissolves if immersed in the god's tear for a year and a day. If washed in the tear daily for 30 days, the Crook loses its Failing Matrix property.
 
-*Source: Tasha's Cauldron of Everything p. 123*
+_Source: Tasha's Cauldron of Everything p. 123_

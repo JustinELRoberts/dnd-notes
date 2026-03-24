@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Blackguard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 63, Volo's Guide to Monsters p. 211_\
 ![](Mechanics/CLI/bestiary/humanoid/img/blackguard.webp#right)
 
 Blackguards are paladins who broke their sacred oaths and now indulge their own villainous ambitions. They consort with Fiends and Undead, and they reject many of the goodly things from their former lives.
@@ -82,6 +83,7 @@ title: Blackguard
 
 ***Shove.*** The target is pushed up to 10 feet away and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

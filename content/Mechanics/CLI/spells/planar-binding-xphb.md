@@ -30,8 +30,8 @@ classes:
 ---
 
 # Planar Binding
-*5th-level, Abjuration*  
 
+_5th-level, Abjuration_
 
 - **Casting time:** 1 hour
 - **Range:** 60 feet
@@ -46,4 +46,4 @@ A bound creature must follow your commands to the best of its ability. You might
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

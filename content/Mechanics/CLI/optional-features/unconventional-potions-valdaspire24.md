@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Unconventional Potions 
-
+# Unconventional Potions
 
 Your research has chiefly revealed how to deliver potions quickly. You gain the following benefits.
 
@@ -25,6 +24,7 @@ You can take a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action to hurl 
 ## Reactionary Gulp
 
 Immediately after you take damage from a creature you can see, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to drink a potion. You can use this ability to drink a potion that restores your [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), even if the triggering damage reduces you to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

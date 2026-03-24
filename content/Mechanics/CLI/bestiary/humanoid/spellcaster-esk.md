@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Spellcaster
-*Source: Essentials Kit p. 63*  
+
+_Source: Essentials Kit p. 63_
 
 ```ad-statblock
 title: Spellcaster
@@ -59,4 +60,5 @@ title: Spellcaster
 
 ***Quarterstaff.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage, or 4 (`1d8`) bludgeoning damage if used with two hands.
 ```
+
 ^statblock

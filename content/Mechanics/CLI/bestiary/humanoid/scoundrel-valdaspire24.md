@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Scoundrel
-*Source: Valda's Spire of Secrets (2024)*  
 
+_Source: Valda's Spire of Secrets (2024)_
 
 Stealthy and subversive, the scoundrel is as adept an assassin as a burglar or thief.
 
@@ -68,4 +68,5 @@ title: Scoundrel
 
 ***Level 13.*** Uncanny Dodge. Trigger: The scoundrel is hit by an attack roll. _Response:_ The scoundrel halves the damage (round down).
 ```
+
 ^statblock

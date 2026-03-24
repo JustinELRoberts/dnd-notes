@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Sovereign Proxy Roles
-*Source: Tasha's Cauldron of Everything p. 102* 
+
+_Source: Tasha's Cauldron of Everything p. 102_
 
 **Sovereign Proxy Roles**
 

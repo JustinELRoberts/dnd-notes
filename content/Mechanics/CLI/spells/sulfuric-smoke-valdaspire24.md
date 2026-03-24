@@ -35,8 +35,8 @@ classes:
 ---
 
 # Sulfuric Smoke
-*cantrip, Conjuration*  
 
+_cantrip, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -49,4 +49,4 @@ You create a 5-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -17,12 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Automatic Pistol
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
 - **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

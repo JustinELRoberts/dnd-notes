@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Buildings; Building Type
-*Source: Dungeon Master's Guide p. 113* 
+
+_Source: Dungeon Master's Guide p. 113_
 
 **Building Type**
 

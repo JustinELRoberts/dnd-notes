@@ -22,8 +22,8 @@ classes:
 ---
 
 # Antipathy/Sympathy
-*8th-level, Enchantment*  
 
+_8th-level, Enchantment_
 
 - **Casting time:** 1 hour
 - **Range:** 60 feet
@@ -32,8 +32,8 @@ classes:
 
 As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
 
-- **Antipathy.** The creature has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition. The [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.  
-- **Sympathy.** The creature has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition. The [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature, that creature can make a Wisdom saving throw to end the effect, as described below.  
+- **Antipathy.** The creature has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition. The [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.
+- **Sympathy.** The creature has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition. The [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature, that creature can make a Wisdom saving throw to end the effect, as described below.
 
 ## Ending the Effect
 
@@ -43,4 +43,4 @@ If the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) or [Charmed](M
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

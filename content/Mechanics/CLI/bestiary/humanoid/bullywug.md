@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Bullywug
-*Source: Monster Manual p. 35*  
+
+_Source: Monster Manual p. 35_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bullywug.webp#right)
 
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
@@ -83,6 +84,7 @@ title: Bullywug
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+3` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage, or 5 (`1d8 + 1`) piercing damage if used with two hands to make a melee attack.
 ```
+
 ^statblock
 
 ## Environment

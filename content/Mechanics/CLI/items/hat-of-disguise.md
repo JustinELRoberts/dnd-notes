@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Hat of Disguise
-*Wondrous item, major, uncommon (requires attunement)*  
 
-
+_Wondrous item, major, uncommon (requires attunement)_
 
 While wearing this hat, you can use an action to cast the [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md) spell from it at will. The spell ends if the hat is removed.
 
-*Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

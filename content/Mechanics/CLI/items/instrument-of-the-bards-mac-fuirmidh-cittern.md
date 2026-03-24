@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Instrument of the Bards, Mac-Fuirmidh Cittern
-*Wondrous item, instrument, major, uncommon (requires attunement by a bard)*  
+
+_Wondrous item, instrument, major, uncommon (requires attunement by a bard)_\
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-mac-fuirmidh-cittern.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -32,4 +33,4 @@ All instruments of the bards can be used to cast the following spells: [fly](Mec
 
 In addition, the Mac-Fuirmidh cittern can be used to cast [barkskin](Mechanics/CLI/spells/barkskin-xphb.md), [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), and [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md).
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

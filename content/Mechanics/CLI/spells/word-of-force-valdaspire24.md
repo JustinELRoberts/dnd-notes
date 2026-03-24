@@ -20,8 +20,8 @@ classes:
 ---
 
 # Word of Force
-*1st-level, Evocation*  
 
+_1st-level, Evocation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
@@ -34,4 +34,4 @@ You recite a word of magical force to a creature you can see within range, which
 
 **Classes**: [Martyr (Burden of Truth)](Mechanics/CLI/lists/list-spells-classes-burden-of-truth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

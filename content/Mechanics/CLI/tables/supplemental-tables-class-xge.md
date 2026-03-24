@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Supplemental Tables; Class
-*Source: Xanathar's Guide to Everything p. 72* 
+
+_Source: Xanathar's Guide to Everything p. 72_
 
 **Class**
 

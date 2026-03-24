@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Orc Red Fang of Shargaas
-*Source: Volo's Guide to Monsters p. 185*  
+
+_Source: Volo's Guide to Monsters p. 185_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-red-fang-of-shargaas.webp#right)
 
 Shargaas is the orc deity of deep darkness and sneakiness, a murderous god who hates anything that lives that isn't an orc. Orcs consider Shargaas to be a divinity suited to pariahs and weaklings, all of them unfit for true roles in tribal life. These outsiders live in the most remote, deepest parts of the tribe's domain.
@@ -36,10 +37,9 @@ Orcs know better. Different groups of orcs exist within a tribe, the actions of 
 
 In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
 
-> [!quote] A quote from Elminster  
-> 
+> [!quote] A quote from Elminster
+>
 > An orc life is a god-ridden life. Luthic's at birth, Luthic's at death, and striving to prove themselves to Gruumsh in between.
-
 
 ```ad-statblock
 title: Orc Red Fang of Shargaas
@@ -82,6 +82,7 @@ title: Orc Red Fang of Shargaas
 
 ***Veil of Shargaas (Recharges after a Short or Long Rest).*** The orc casts [darkness](Mechanics/CLI/spells/darkness-xphb.md) without any components. Wisdom is its spellcasting ability.
 ```
+
 ^statblock
 
 ## Environment

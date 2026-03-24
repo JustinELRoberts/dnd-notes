@@ -43,8 +43,8 @@ classes:
 ---
 
 # Cloudkill
-*5th-level, Conjuration*  
 
+_5th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -61,4 +61,4 @@ The [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) mo
 
 **Classes**: [Artificer (Alchemist)](Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Druid (Circle of Spores)](Mechanics/CLI/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Necromancer (Dead Mist Acolyte)](Mechanics/CLI/lists/list-spells-classes-dead-mist-acolyte-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Pale Master)](Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Conquest)](Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Witch (Black Magic)](Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Fragrant Magic)](Mechanics/CLI/lists/list-spells-classes-fragrant-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Witch (Sky Magic)](Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

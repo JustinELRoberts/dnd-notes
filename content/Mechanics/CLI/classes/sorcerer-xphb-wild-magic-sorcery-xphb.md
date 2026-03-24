@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Wild Magic Sorcery
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
-*Source: Player's Handbook (2024) p. 149*  
+
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
+_Source: Player's Handbook (2024) p. 149_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/wild-magic-sorcerer.webp#right)
 
-*Unleash Chaotic Magic*
+_Unleash Chaotic Magic_
 
 Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.
 

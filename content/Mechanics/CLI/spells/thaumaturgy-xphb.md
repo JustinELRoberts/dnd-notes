@@ -31,8 +31,8 @@ classes:
 ---
 
 # Thaumaturgy
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -69,4 +69,4 @@ You cause harmless tremors in the ground for 1 minute.
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Calamity)](Mechanics/CLI/lists/list-spells-classes-burden-of-calamity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Pharaoh)](Mechanics/CLI/lists/list-spells-classes-pharaoh-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

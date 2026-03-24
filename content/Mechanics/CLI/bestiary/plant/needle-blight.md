@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Needle Blight
-*Source: Monster Manual p. 32*  
+
+_Source: Monster Manual p. 32_\
 ![](Mechanics/CLI/bestiary/plant/img/needle-blight.webp#right)
 
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
@@ -42,10 +43,9 @@ In forests infested with blights, trees and plants grow with supernatural speed.
 
 Blights are independent creatures, but most act under a Gulthias tree's control, often displaying the habits and traits of the life force or spirit that spawned them. By attacking their progenitor's old foes or seeking out treasures valuable to it, they carry on the legacy of long-lost evil.
 
-> [!quote]  
-> 
+> [!quote]
+>
 > Behold the legacy of Gulthias the vampire: plants with a taste for blood.
-
 
 ## Statblock
 
@@ -76,6 +76,7 @@ title: Needle Blight
 
 ***Needles.*** *Ranged Weapon Attack:* `+3` to hit, range 30/60 ft., one target. *Hit:* 8 (`2d6 + 1`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

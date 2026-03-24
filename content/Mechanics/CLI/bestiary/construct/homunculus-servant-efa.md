@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Homunculus Servant
-*Source: Eberron: Forge of the Artificer p. 21*  
+
+_Source: Eberron: Forge of the Artificer p. 21_
 
 ```ad-statblock
 title: Homunculus Servant
@@ -54,4 +55,5 @@ title: Homunculus Servant
 
 ***Channel Magic.*** Trigger: You cast a spell that has a range of touch while the homunculus is within 120 feet of you. _Response:_ The homunculus delivers the spell through its touch.
 ```
+
 ^statblock

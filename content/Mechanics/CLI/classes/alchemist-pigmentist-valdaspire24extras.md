@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Pigmentist
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Splash Paint Everywhere to Support Your Allies*
+_Splash Paint Everywhere to Support Your Allies_
 
 One of the lesser-known duties of Alchemists is synthesizing new and increasingly vibrant pigments from mundane and magical materials—in many cases, creating new colors from whole cloth. Alchemists that specialize in this field are called Pigmentists. An artful and imaginative lot, they seek to brighten the world with their newly-invented hues, or failing that, simply splatter it with marvelous combinations of paint.
 

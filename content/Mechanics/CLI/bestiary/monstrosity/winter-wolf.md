@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Winter Wolf
-*Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 340. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/winter-wolf.webp#right)
 
 The arctic-dwelling winter wolf is as large as a dire wolf but has snow-white fur and pale blue eyes. Frost giants use these evil creatures as guards and hunting companions, putting the wolves' deadly breath weapon to use against their foes. Winter wolves communicate with one another using growls and barks, but they speak Common and Giant well enough to follow simple conversations.
@@ -57,6 +58,7 @@ title: Winter Wolf
 
 ***Cold Breath (Recharge 5-6).*** The wolf exhales a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (`4d8`) cold damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

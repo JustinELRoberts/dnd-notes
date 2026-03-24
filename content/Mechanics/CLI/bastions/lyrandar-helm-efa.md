@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Lyrandar Helm
-*Level 13 Bastion facility*  
+
+_Level 13 Bastion facility_
 
 - **Prerequisites**: Renown 25+ with "House Lyrandar"
 - **Space**: Cramped (4 sq)
@@ -29,4 +30,4 @@ When you issue the Empower order to this facility, you instruct its hireling to 
 
 When you issue the Empower order to this facility, the DM rolls on the "Bastion Events table" as if you had issued the Maintain order to your Bastion.
 
-*Source: Eberron: Forge of the Artificer p. 49*
+_Source: Eberron: Forge of the Artificer p. 49_

@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Fundamental Alchemy 
-
+# Fundamental Alchemy
 
 Your research has revealed the finer points of brewing basic alchemical substances. You gain the following benefits.
 
@@ -31,6 +30,7 @@ When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action to prim
 ## Potent Flasks
 
 [Acid](Mechanics/CLI/items/acid-xphb.md), [Alchemist's Fire](Mechanics/CLI/items/alchemists-fire-xphb.md), and [Holy Water](Mechanics/CLI/items/holy-water-xphb.md) that you brew deal an additional die of damage. [Alchemist's Fire](Mechanics/CLI/items/alchemists-fire-xphb.md) also deals this extra dice of damage to burning creatures. [Burning](Mechanics/CLI/traps-hazards/burning-xphb.md) [Oil](Mechanics/CLI/items/oil-xphb.md) adds your Intelligence modifier to the extra Fire damage it deals.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

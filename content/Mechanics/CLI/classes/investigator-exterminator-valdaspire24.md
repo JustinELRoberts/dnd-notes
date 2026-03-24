@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Exterminator
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Slay Vampires, Werewolves, and Other Terrible Creatures*
+_Slay Vampires, Werewolves, and Other Terrible Creatures_
 
 An Exterminator suffers no monster to live. Trained in the art of slaying Aberrations, Fiends, and Undead, you stand against evil where others falter, and draw your blade before others recognize a threat. Grand schemes and plots are less important than retribution against monsters which stalk the night, and your thirst for such retribution is unquenchable. There is always another werewolf to be slain, another vampire to be staked, another demon to be banished; people rarely thank you, but you find satisfaction enough in your work.
 
@@ -88,4 +89,4 @@ Your monster-killing expertise grants you the following benefits.
 
 ### Killer Instinct (Level 14)
 
-You can use your [Exploit Weakness](Mechanics/CLI/classes/investigator-valdaspire24.md#Exploit%20Weakness%20(Level%205)) twice on your turn, but can't use it against the same target more than once.
+You can use your [Exploit Weakness](Mechanics/CLI/classes/investigator-valdaspire24.md#Exploit%20Weakness%20\(Level%205\)) twice on your turn, but can't use it against the same target more than once.

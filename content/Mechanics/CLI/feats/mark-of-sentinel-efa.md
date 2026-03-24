@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Sentinel 
+# Mark of Sentinel
+
 ![](Mechanics/CLI/feats/img/mark-of-sentinel.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ You gain the following benefits.
 | 4 | [Death Ward](Mechanics/CLI/spells/death-ward-xphb.md), [Guardian of Faith](Mechanics/CLI/spells/guardian-of-faith-xphb.md) |
 | 5 | [Bigby's Hand](Mechanics/CLI/spells/bigbys-hand-xphb.md) |
 ^mark-of-sentinel-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 41*
+_Eberron: Forge of the Artificer p. 41_

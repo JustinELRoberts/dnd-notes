@@ -35,8 +35,8 @@ classes:
 ---
 
 # Zone of Truth
-*2nd-level, Enchantment*  
 
+_2nd-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -49,4 +49,4 @@ An affected creature is aware of the spell and can avoid answering questions to 
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Truth)](Mechanics/CLI/lists/list-spells-classes-burden-of-truth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Devotion)](Mechanics/CLI/lists/list-spells-classes-oath-of-devotion-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger (Monster Slayer)](Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

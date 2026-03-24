@@ -24,8 +24,8 @@ classes:
 ---
 
 # Sorcerous Burst
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -40,4 +40,4 @@ If you roll an 8 on a `d8` for this spell, you can roll another `d8`, and add it
 
 **Classes**: [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

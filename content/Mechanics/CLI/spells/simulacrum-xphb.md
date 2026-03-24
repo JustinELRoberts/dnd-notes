@@ -22,8 +22,8 @@ classes:
 ---
 
 # Simulacrum
-*7th-level, Illusion*  
 
+_7th-level, Illusion_
 
 - **Casting time:** 12 hours
 - **Range:** Touch
@@ -40,4 +40,4 @@ The simulacrum lasts until it drops to 0 [Hit Points](Mechanics/CLI/rules/varian
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

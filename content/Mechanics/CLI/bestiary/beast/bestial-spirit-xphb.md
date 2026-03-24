@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Bestial Spirit
-*Source: Player's Handbook (2024) p. 323*  
+
+_Source: Player's Handbook (2024) p. 323_\
 ![](Mechanics/CLI/bestiary/beast/img/bestial-spirit.webp#center)
 
 ```ad-statblock
@@ -53,4 +54,5 @@ title: Bestial Spirit
 
 ***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 4` + the spell's level Piercing damage.
 ```
+
 ^statblock

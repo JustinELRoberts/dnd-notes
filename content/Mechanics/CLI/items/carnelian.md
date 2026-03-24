@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Carnelian
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 50 gp
 
 An opaque orange to red-brown gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

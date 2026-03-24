@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Necrodancer
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Groove Down*
+_Groove Down_
 
 Neon lights, thumping beats, and impeccable fashion are the calling cards of Necrodancers, spellcasters that see the potential for [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md) to create the greatest troupe of backup dancers of all time. A Necrodancer's minions don't shamble aimlessly, but instead move in perfect rhythm with one another, busting moves and empowering their master through choreography.
 
@@ -80,21 +81,21 @@ Each of your thralls gains the ability to take the Dance action, which allows it
 
 ### Charnel Groove (Level 3)
 
-When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), the target is compelled to dance, spending all of its movement to do so without leaving its space, until the start of your next turn.
+When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target is compelled to dance, spending all of its movement to do so without leaving its space, until the start of your next turn.
 
 ### Graveyard Tango (Level 6)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend 5 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points to bestow your grace and style on an ally. Choose an ally within 30 feet of yourself that can see or hear you to gain the bonus to AC, damage rolls, and [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) that use Dexterity or Charisma from your [Backup Dancers](Mechanics/CLI/classes/necromancer-necrodancer-valdaspire24extras.md#Backup%20Dancers%20(Level%203)) feature until the start of your next turn.
+As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend 5 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to bestow your grace and style on an ally. Choose an ally within 30 feet of yourself that can see or hear you to gain the bonus to AC, damage rolls, and [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) that use Dexterity or Charisma from your [Backup Dancers](Mechanics/CLI/classes/necromancer-necrodancer-valdaspire24extras.md#Backup%20Dancers%20\(Level%203\)) feature until the start of your next turn.
 
 ### Disco of the Dead (Level 10)
 
 Whenever one of your thralls takes the Dance action, you can choose for it to enter the Ethereal Plane until the start of its next turn. While on the Ethereal Plane, it can affect and be affected only by creatures, objects, and effects on that plane. An ethereal thrall is faintly visible in a blur of disco lights.
 
-### Thriller [Lichdom] (Level 20)
+### Thriller \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. You appear ageless, with smooth, alabaster skin, and boast supernatural grace and rhythm. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. You appear ageless, with smooth, alabaster skin, and boast supernatural grace and rhythm. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
-**Dance-Off.** You take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 20 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points to magically challenge up to ten creatures you can see within 60 feet of you to a dance competition. Each creature you challenge makes a Charisma saving throw against your spell save DC, taking `8d6` Psychic damage on a failed save, or half as much damage on a successful one.
+**Dance-Off.** You take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 20 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to magically challenge up to ten creatures you can see within 60 feet of you to a dance competition. Each creature you challenge makes a Charisma saving throw against your spell save DC, taking `8d6` Psychic damage on a failed save, or half as much damage on a successful one.
 
 **Moonwalk.** You can cast [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) on your thralls or yourself without a spell slot.
 

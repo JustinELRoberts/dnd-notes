@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # The Calendar of Harptos
-*Source: Dungeon Master's Guide p. 33* 
+
+_Source: Dungeon Master's Guide p. 33_
 
 | Month | Name | Common Name |
 |-------|------|-------------|

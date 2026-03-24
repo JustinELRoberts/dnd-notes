@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Gorgon
-*Source: Monster Manual p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/gorgon.webp#right)
 
 Few creatures that encounter a gorgon live to tell about it. Its body is covered in iron plates, and its nostrils fume with green vapor.
@@ -67,6 +68,7 @@ title: Gorgon
 
 ***Petrifying Breath (Recharge 5-6).*** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). The [restrained](Mechanics/CLI/rules/conditions.md#Restrained) target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is [petrified](Mechanics/CLI/rules/conditions.md#Petrified) until freed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
 ```
+
 ^statblock
 
 ## Environment

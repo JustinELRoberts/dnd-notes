@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grung Elite Warrior (Blue)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_
 
 ```ad-statblock
 title: Grung Elite Warrior (Blue)
@@ -59,6 +60,7 @@ title: Grung Elite Warrior (Blue)
 
 ***Mesmerizing Chirr (Recharge 6).*** The grung makes a chirring noise to which grungs are immune. Each Humanoid or Beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the grung's next turn.
 ```
+
 ^statblock
 
 ## Environment

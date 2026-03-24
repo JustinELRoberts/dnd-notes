@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Framing Events
-*Source: Dungeon Master's Guide p. 79* 
+
+_Source: Dungeon Master's Guide p. 79_
 
 **Framing Events**
 

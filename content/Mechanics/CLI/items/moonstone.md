@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Moonstone
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 50 gp
 
 A translucent white with pale blue glow gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

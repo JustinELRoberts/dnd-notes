@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Water Weird
-*Source: Monster Manual p. 299*  
+
+_Source: Monster Manual p. 299_\
 ![](Mechanics/CLI/bestiary/elemental/img/water-weird.webp#right)
 
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
@@ -35,10 +36,9 @@ A neutral good water weird tries to frighten away interlopers rather than kill t
 
 A water weird doesn't require air, food, drink, or sleep.
 
-> [!quote] A quote from X the Mystic's 2nd rule of dungeon survival  
-> 
+> [!quote] A quote from X the Mystic's 2nd rule of dungeon survival
+>
 > Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life.
-
 
 ## Statblock
 
@@ -75,6 +75,7 @@ title: Water Weird
 
 ***Constrict.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one creature. *Hit:* 13 (`3d6 + 3`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), the water weird tries to drown it, and the water weird can't constrict another target.
 ```
+
 ^statblock
 
 ## Environment

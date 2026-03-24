@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Wintercarvers' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Sculpt Elegant Weapons from Solid Ice*
+_Sculpt Elegant Weapons from Solid Ice_
 
 Many Craftsmen are accustomed to extreme cold, but only a few have learned the ephemeral art of ice-crafting. The Guild of Wintercarvers specializes in sculpting ice into majestic and dangerous forms and working with supercooled material that possesses strange, unconventional properties.
 

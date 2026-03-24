@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Swamp Encounters (Levels 11—20)
-*Source: Xanathar's Guide to Everything p. 105* 
+
+_Source: Xanathar's Guide to Everything p. 105_
 
 **Swamp Encounters (Levels 11—20)**
 

@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Longship
-*Ship, vehicle (water)*  
 
+_Ship, vehicle (water)_
 
 - **Cost**: 10,000 gp
 
-*Source: Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

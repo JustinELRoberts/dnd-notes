@@ -15,14 +15,17 @@ obsidianUIMode: preview
 ---
 
 # Calligrapher's Supplies
-*Artisan's tools*  
 
+_Artisan's tools_
 
 - **Cost**: 10 gp
+
 - **Weight**: 5.0 lbs.
 
-- **Ability.** Dexterity  
-- **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
-- **Craft.** [Ink](Mechanics/CLI/items/ink-xphb.md), Spell Scroll  
+- **Ability.** Dexterity
 
-*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)
+
+- **Craft.** [Ink](Mechanics/CLI/items/ink-xphb.md), Spell Scroll
+
+_Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

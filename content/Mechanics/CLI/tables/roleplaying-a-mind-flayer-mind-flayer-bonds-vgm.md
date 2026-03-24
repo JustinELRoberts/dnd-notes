@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying a Mind Flayer; Mind Flayer Bonds
-*Source: Volo's Guide to Monsters p. 74* 
+
+_Source: Volo's Guide to Monsters p. 74_
 
 **Mind Flayer Bonds**
 

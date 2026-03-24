@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Xen'drik Journeys
-*Source: Eberron: Forge of the Artificer p. 97* 
+
+_Source: Eberron: Forge of the Artificer p. 97_
 
 **Xen'drik Journeys**
 

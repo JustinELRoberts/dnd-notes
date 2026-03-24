@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Religious Service
-*Source: Xanathar's Guide to Everything p. 131* 
+
+_Source: Xanathar's Guide to Everything p. 131_
 
 **Religious Service**
 

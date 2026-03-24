@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Duergar Hammerer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 112*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 112_\
 ![](Mechanics/CLI/bestiary/construct/img/duergar-hammerer.webp#right)
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
@@ -69,6 +70,7 @@ title: Duergar Hammerer
 
 ***Engine of Pain.*** Immediately after a creature within 5 feet of the hammerer hits it with an attack roll, the hammerer makes a Hammer attack against that creature.
 ```
+
 ^statblock
 
 ## Environment

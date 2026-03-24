@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Grick
-*Source: Monster Manual p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/grick.webp#right)
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -70,6 +71,7 @@ title: Grick
 
 ***Beak.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

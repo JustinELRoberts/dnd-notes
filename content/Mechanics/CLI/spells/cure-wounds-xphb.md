@@ -49,8 +49,8 @@ classes:
 ---
 
 # Cure Wounds
-*1st-level, Abjuration*  
 
+_1st-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -63,4 +63,4 @@ A creature you touch regains a number of [Hit Points](Mechanics/CLI/rules/varian
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of Wildfire)](Mechanics/CLI/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE;class=XPHB"); [Druid (Circle of the Moon)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Atonement)](Mechanics/CLI/lists/list-spells-classes-burden-of-atonement-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr (Burden of Mercy)](Mechanics/CLI/lists/list-spells-classes-burden-of-mercy-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (Celestial Patron)](Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Witch (White Magic)](Mechanics/CLI/lists/list-spells-classes-white-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 259. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

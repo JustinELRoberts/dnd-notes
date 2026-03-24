@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Height and Weight
-*Source: Volo's Guide to Monsters p. 120* 
+
+_Source: Volo's Guide to Monsters p. 120_
 
 | Race | Base Height | Base Weight | Height Modifier | Weight Modifier |
 |------|-------------|-------------|-----------------|-----------------|

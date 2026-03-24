@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Swamp Encounters (Levels 5—10)
-*Source: Xanathar's Guide to Everything p. 105* 
+
+_Source: Xanathar's Guide to Everything p. 105_
 
 **Swamp Encounters (Levels 5—10)**
 
@@ -29,7 +30,7 @@ obsidianUIMode: preview
 | 14-16 | `2d8` [scouts](Mechanics/CLI/bestiary/humanoid/scout.md) |
 | 17-19 | `2d10` [orcs](Mechanics/CLI/bestiary/humanoid/orc.md) |
 | 20-22 | `2d4` [giant spiders](Mechanics/CLI/bestiary/beast/giant-spider-xmm.md) |
-| 23-24 | Tainted water that exposes creatures that move through it to [sight rot](Mechanics/CLI/rules/diseases.md#Sight%20Rot) (see ""Diseases"" in chapter 8 of the *Dungeon Master's Guide*) |
+| 23-24 | Tainted water that exposes creatures that move through it to [sight rot](Mechanics/CLI/rules/diseases.md#Sight%20Rot) (see ""Diseases"" in chapter 8 of the _Dungeon Master's Guide_) |
 | 25-27 | `1d6 + 2` [giant toads](Mechanics/CLI/bestiary/beast/giant-toad.md) |
 | 28-30 | `3d6` [lizardfolk](Mechanics/CLI/bestiary/humanoid/lizardfolk.md) |
 | 31-33 | `1d8 + 1` [yuan-ti purebloods](Mechanics/CLI/bestiary/humanoid/yuan-ti-pureblood.md) |

@@ -23,9 +23,9 @@ obsidianUIMode: preview
 ---
 
 # Sword of Sharpness
-*Major, very rare (requires attunement)*  
-![Sword of Sharpness (Greatsword)](Mechanics/CLI/items/img/sword-of-sharpness.webp#right)
 
+_Major, very rare (requires attunement)_\
+![Sword of Sharpness (Greatsword)](Mechanics/CLI/items/img/sword-of-sharpness.webp#right)
 
 When you attack an object with this magic sword and hit, maximize your weapon damage dice against the target.
 
@@ -37,6 +37,7 @@ When you attack a creature with this weapon and roll a 20 on the attack roll, th
 In addition, you can speak the sword's command to cause the blade to shed bright light in a 10-foot radius and dim light for an additional 10 feet. Speaking the command word again or sheathing the sword puts out the light.
 
 **Variants**:
+
 - [Double-Bladed Scimitar of Sharpness](#Double-Bladed%20Scimitar%20of%20Sharpness)
 - [Greatsword of Sharpness](#Greatsword%20of%20Sharpness)
 - [Longsword of Sharpness](#Longsword%20of%20Sharpness)
@@ -68,5 +69,4 @@ In addition, you can speak the sword's command to cause the blade to shed bright
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 206. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 206. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

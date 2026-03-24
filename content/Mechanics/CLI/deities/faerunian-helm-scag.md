@@ -20,6 +20,7 @@ obsidianUIMode: preview
 ---
 
 # Helm
+
 ![](Mechanics/CLI/deities/img/scag-symbol-of-helm.webp#symbol)
 
 - **Alternate Names**: The Watcher, He of the Unsleeping Eyes, The Vigilant One
@@ -38,4 +39,4 @@ Helm's priests teach that one must be ever vigilant, ever aware, ever prepared f
 
 ## Sources
 
-*Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34*
+_Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Oath of Conquest
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
-*Source: Xanathar's Guide to Everything p. 37*  
+
+_[Paladin](./paladin-xphb.md): Paladin Subclass_\
+_Source: Xanathar's Guide to Everything p. 37_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -110,8 +111,8 @@ Starting at 15th level, those who dare to strike you are psychically punished fo
 
 At 20th level, you gain the ability to harness extraordinary martial prowess. As an action, you can magically become an avatar of conquest, gaining the following benefits for 1 minute:
 
-- You have resistance to all damage.  
-- When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can make one additional attack as part of that action.  
-- Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the `d20`.  
+- You have resistance to all damage.
+- When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can make one additional attack as part of that action.
+- Your melee weapon attacks score a critical hit on a roll of 19 or 20 on the `d20`.
 
 Once you use this feature, you can't use it again until you finish a long rest.

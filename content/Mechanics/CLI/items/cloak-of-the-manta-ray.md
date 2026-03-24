@@ -15,10 +15,10 @@ obsidianUIMode: preview
 ---
 
 # Cloak of the Manta Ray
-*Wondrous item, minor, uncommon*  
-![](Mechanics/CLI/items/img/cloak-of-the-manta-ray.webp#right)
 
+_Wondrous item, minor, uncommon_\
+![](Mechanics/CLI/items/img/cloak-of-the-manta-ray.webp#right)
 
 While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.
 
-*Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

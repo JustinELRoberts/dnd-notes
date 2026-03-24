@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Sseth
 
-
 - **Alignment**: Unaligned
 - **Pantheon**: Yuan-ti
 
@@ -25,4 +24,4 @@ His most devout followers, known as mind whisperers, use their god-given magic t
 
 ## Sources
 
-*Volo's Guide to Monsters p. 94*
+_Volo's Guide to Monsters p. 94_

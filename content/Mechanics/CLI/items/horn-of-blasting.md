@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Horn of Blasting
-*Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), major, rare*  
+
+_Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), major, rare_\
 ![](Mechanics/CLI/items/img/horn-of-blasting.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -25,4 +26,4 @@ You can use an action to speak the horn's command word and then blow the horn, w
 
 Each use of the horn's magic has a 20 percent chance of causing the horn to explode. The explosion deals `10d6` fire damage to the blower and destroys the horn.
 
-*Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

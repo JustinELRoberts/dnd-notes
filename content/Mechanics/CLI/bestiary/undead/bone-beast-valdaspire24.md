@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Bone Beast
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaNecromancer/Creatures/Bone%20Beast.webp#right)
 
 Constructed of haphazardly assembled humanoid bones, a bone beast looks nothing like a man. Lumbering about on four legs with great boney fangs, the beast can run as fast as a bear and strike as viciously as a lion.
@@ -52,4 +53,5 @@ title: Bone Beast
 
 ***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Piercing damage, and the target has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition if it is Large or smaller.
 ```
+
 ^statblock

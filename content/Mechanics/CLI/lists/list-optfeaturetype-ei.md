@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Eldritch Invocation
-*Source: Player's Handbook, Tasha's Cauldron of Everything, Player's Handbook (2024), Xanathar's Guide to Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
+
+_Source: Player's Handbook, Tasha's Cauldron of Everything, Player's Handbook (2024), Xanathar's Guide to Everything. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - [Agonizing Blast](Mechanics/CLI/optional-features/agonizing-blast-xphb.md)
 - [Armor of Shadows](Mechanics/CLI/optional-features/armor-of-shadows-xphb.md)

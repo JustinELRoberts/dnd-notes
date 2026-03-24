@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Lizard (Hold Breath and Spider Climb)
-*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Lizard (Hold Breath and Spider Climb)
@@ -52,6 +53,7 @@ title: Giant Lizard (Hold Breath and Spider Climb)
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Firenewt Warrior
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142_\
 ![](Mechanics/CLI/bestiary/elemental/img/firenewt-warrior.webp#right)
 
 A firenewt warrior can spew fire. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
@@ -65,6 +66,7 @@ title: Firenewt Warrior
 
 ***Spit Fire (Recharges after a Short or Long Rest).*** The firenewt spits fire at a creature within 10 feet of it. The creature must make a DC 11 Dexterity saving throw, taking 9 (`2d8`) fire damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

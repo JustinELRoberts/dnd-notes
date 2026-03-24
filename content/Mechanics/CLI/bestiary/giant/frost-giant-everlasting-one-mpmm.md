@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Frost Giant Everlasting One
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148_\
 ![](Mechanics/CLI/bestiary/giant/img/frost-giant-everlasting-one.webp#right)
 
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
@@ -70,6 +71,7 @@ title: Frost Giant Everlasting One
 - When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.  
 - The giant has resistance to bludgeoning, piercing, and slashing damage.  
 ```
+
 ^statblock
 
 ## Environment

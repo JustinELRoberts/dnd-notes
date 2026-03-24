@@ -24,8 +24,8 @@ classes:
 ---
 
 # Blade of Disaster
-*9th-level, Conjuration*  
 
+_9th-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
@@ -40,4 +40,4 @@ The blade can harmlessly pass through any barrier, including a [wall of force](M
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Tasha's Cauldron of Everything p. 106*
+_Source: Tasha's Cauldron of Everything p. 106_

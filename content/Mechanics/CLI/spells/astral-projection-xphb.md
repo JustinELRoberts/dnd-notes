@@ -28,8 +28,8 @@ classes:
 ---
 
 # Astral Projection
-*9th-level, Necromancy*  
 
+_9th-level, Necromancy_
 
 - **Casting time:** 1 hour
 - **Range:** 10 feet
@@ -48,4 +48,4 @@ When the spell ends for a target who isn't dead, the target reappears in its bod
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Monk](Mechanics/CLI/lists/list-spells-classes-monk.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

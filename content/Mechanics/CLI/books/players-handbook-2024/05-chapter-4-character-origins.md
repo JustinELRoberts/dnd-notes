@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Chapter 4: Character Origins
-*Source: Player's Handbook (2024), p. 176* 
+
+_Source: Player's Handbook (2024), p. 176_
 
 ![Not even a white dragon's ...](Mechanics/CLI/books/players-handbook-2024/img/127-05-001-laeral-drizzt-vajra.webp#center "Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr")
 
@@ -59,7 +60,7 @@ Each background offers a choice between a package of equipment and 50 GP.
 
 When you choose your character's species, you determine whether your character is a human or a member of a fantastical species, such as dragonborn or gnome.
 
-The peoples of the D&D multiverse hail from different worlds and include many kinds of sapient life forms. A player character's species is the set of game traits that an adventurer gains from being one of those life forms.
+The peoples of the D\&D multiverse hail from different worlds and include many kinds of sapient life forms. A player character's species is the set of game traits that an adventurer gains from being one of those life forms.
 
 Some species can trace their origin to a single world, plane of existence, or god, while other species first appeared in multiple realms at once. Whatever a species' genesis, its members have spread across the multiverse and contribute to many different cultures.
 
@@ -71,7 +72,7 @@ A species includes the following parts.
 
 ##### Creature Type
 
-A character's species determines the character's creature type, which is described in the rules glossary. Every species in this chapter is Humanoid; playable non-Humanoid species appear in other D&D books.
+A character's species determines the character's creature type, which is described in the rules glossary. Every species in this chapter is Humanoid; playable non-Humanoid species appear in other D\&D books.
 
 ##### Size
 
@@ -89,22 +90,22 @@ Each species gives a character special traits—unique characteristics based on 
 
 Sixteen backgrounds are presented in this section in alphabetical order:
 
-- [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md)  
-- [Artisan](Mechanics/CLI/backgrounds/artisan-xphb.md)  
-- [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md)  
-- [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md)  
-- [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md)  
-- [Farmer](Mechanics/CLI/backgrounds/farmer-xphb.md)  
-- [Guard](Mechanics/CLI/backgrounds/guard-xphb.md)  
-- [Guide](Mechanics/CLI/backgrounds/guide-xphb.md)  
-- [Hermit](Mechanics/CLI/backgrounds/hermit-xphb.md)  
-- [Merchant](Mechanics/CLI/backgrounds/merchant-xphb.md)  
-- [Noble](Mechanics/CLI/backgrounds/noble-xphb.md)  
-- [Sage](Mechanics/CLI/backgrounds/sage-xphb.md)  
-- [Sailor](Mechanics/CLI/backgrounds/sailor-xphb.md)  
-- [Scribe](Mechanics/CLI/backgrounds/scribe-xphb.md)  
-- [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md)  
-- [Wayfarer](Mechanics/CLI/backgrounds/wayfarer-xphb.md)  
+- [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md)
+- [Artisan](Mechanics/CLI/backgrounds/artisan-xphb.md)
+- [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md)
+- [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md)
+- [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md)
+- [Farmer](Mechanics/CLI/backgrounds/farmer-xphb.md)
+- [Guard](Mechanics/CLI/backgrounds/guard-xphb.md)
+- [Guide](Mechanics/CLI/backgrounds/guide-xphb.md)
+- [Hermit](Mechanics/CLI/backgrounds/hermit-xphb.md)
+- [Merchant](Mechanics/CLI/backgrounds/merchant-xphb.md)
+- [Noble](Mechanics/CLI/backgrounds/noble-xphb.md)
+- [Sage](Mechanics/CLI/backgrounds/sage-xphb.md)
+- [Sailor](Mechanics/CLI/backgrounds/sailor-xphb.md)
+- [Scribe](Mechanics/CLI/backgrounds/scribe-xphb.md)
+- [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md)
+- [Wayfarer](Mechanics/CLI/backgrounds/wayfarer-xphb.md)
 
 ## Species Descriptions
 

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Whelm
-*Weapon ([warhammer](Mechanics/CLI/items/warhammer-xphb.md)), legendary (requires attunement by a dwarf)*  
+
+_Weapon ([warhammer](Mechanics/CLI/items/warhammer-xphb.md)), legendary (requires attunement by a dwarf)_\
 ![](Mechanics/CLI/items/img/whelm.webp#right)
 
 - **Damage**:
@@ -53,4 +54,4 @@ The weapon communicates telepathically with its wielder and can speak, read, and
 
 Whelm's purpose is to slaughter giants and goblinoids. It also seeks to protect dwarves against all enemies. Conflict arises if the wielder fails to destroy goblins and giants or to protect dwarves. Whelm has ties to the dwarf clan that created it, variously called the Dankil or the Mightyhammer clan. It longs to be returned to that clan. It would do anything to protect those dwarves from harm. The hammer also carries a secret shame. Centuries ago, a dwarf named Ctenmiir wielded it valiantly for a time. But Ctenmiir was turned into a [vampire](Mechanics/CLI/bestiary/undead/vampire.md). His will was strong enough that he bent Whelm to his evil purposes, even killing members of his own clan.
 
-*Source: Dungeon Master's Guide p. 218*
+_Source: Dungeon Master's Guide p. 218_

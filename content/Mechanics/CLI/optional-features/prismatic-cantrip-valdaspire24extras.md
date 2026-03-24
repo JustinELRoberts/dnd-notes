@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Prismatic Cantrip 
-
+# Prismatic Cantrip
 
 Once on each of your turns, when you deal Force damage with a Warmage cantrip, you can roll a `d6` on the Prismatic Cantrip table to change the cantrip's damage type for this casting. You can apply tricks to the casting as normal using the new damage type. Additionally, you can apply the trick corresponding to the rolled damage type, even if you don't know the trick.
 
@@ -31,6 +30,7 @@ You can use this trick a number of times equal to your Intelligence modifier (mi
 | 5 | Poison | [Draining Cantrip](Mechanics/CLI/optional-features/draining-cantrip-valdaspire24.md) |
 | 6 | Thunder | [Silent Cantrip](Mechanics/CLI/optional-features/silent-cantrip-valdaspire24.md) |
 ^prismatic-cantrip
+
 ## Sources
 
-*Valda's Spire of Secrets Extras (2024)*
+_Valda's Spire of Secrets Extras (2024)_

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Death Snail
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 A death snail is formed from a vile concoction of forest troll bone meal, giant eagle blood, and goblin fingernails, sealed up in a hollowed-out efreet horn, and capped shut with an ettercap tongue. The resulting monstrosity possesses a dull intelligence, but its only impulse is to slay all creatures other than its master.
 
@@ -46,4 +46,5 @@ title: Death Snail
 
 ***Leech.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Necrotic damage and the snail regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the Necrotic damage dealt.
 ```
+
 ^statblock

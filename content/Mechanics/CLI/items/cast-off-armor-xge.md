@@ -32,13 +32,13 @@ obsidianUIMode: preview
 ---
 
 # Cast-Off Armor
-*Minor, common*  
 
-
+_Minor, common_
 
 You can doff this armor as an action.
 
 **Variants**:
+
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)
 - [Cast-Off Chain Mail](#Cast-Off%20Chain%20Mail)
 - [Cast-Off Chain Shirt](#Cast-Off%20Chain%20Shirt)
@@ -129,5 +129,4 @@ You can doff this armor as an action.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
-*Source: Xanathar's Guide to Everything p. 136*
+_Source: Xanathar's Guide to Everything p. 136_

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Quickling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187_\
 ![](Mechanics/CLI/bestiary/fey/img/quickling.webp#right)
 
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
@@ -65,6 +66,7 @@ title: Quickling
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+8` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 8 (`1d4 + 6`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

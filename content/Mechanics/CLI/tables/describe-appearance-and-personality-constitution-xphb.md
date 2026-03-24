@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Describe Appearance and Personality; Constitution
-*Source: Player's Handbook (2024) p. 38* 
+
+_Source: Player's Handbook (2024) p. 38_
 
 **Constitution**
 

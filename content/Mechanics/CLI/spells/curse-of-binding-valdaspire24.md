@@ -19,8 +19,8 @@ classes:
 ---
 
 # Curse of Binding
-*7th-level, Enchantment (ritual)*  
 
+_7th-level, Enchantment (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 60 feet
@@ -31,4 +31,4 @@ You attempt to bind a creature or object to a location. Choose a target and a po
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

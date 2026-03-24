@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Gond
 
-
 - **Alignment**: Neutral
 - **Domains**: Forge, Knowledge
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Toothed cog with four spokes
 
-
-
 ## Sources
 
-*Player's Handbook p. 294, Xanathar's Guide to Everything p. 18. Available in the Basic Rules (2014)*
+_Player's Handbook p. 294, Xanathar's Guide to Everything p. 18. Available in the Basic Rules (2014)_

@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Retriever
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 209*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 209_\
 ![](Mechanics/CLI/bestiary/construct/img/retriever.webp#right)
 
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
@@ -68,6 +69,7 @@ If the [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) creature is Medi
 
 **3/day each:** [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (only self and up to one incapacitated creature, which is considered willing for the spell), [web](Mechanics/CLI/spells/web-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

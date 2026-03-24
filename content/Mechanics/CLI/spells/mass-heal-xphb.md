@@ -22,8 +22,8 @@ classes:
 ---
 
 # Mass Heal
-*9th-level, Abjuration*  
 
+_9th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -34,4 +34,4 @@ A flood of healing energy flows from you into creatures around you. You restore 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

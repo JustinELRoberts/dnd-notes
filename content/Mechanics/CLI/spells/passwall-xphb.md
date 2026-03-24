@@ -30,8 +30,8 @@ classes:
 ---
 
 # Passwall
-*5th-level, Transmutation*  
 
+_5th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -44,4 +44,4 @@ When the opening disappears, any creatures or objects still in the passage creat
 
 **Classes**: [Artificer (Armorer)](Mechanics/CLI/lists/list-spells-classes-armorer-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr (Burden of Anonymity)](Mechanics/CLI/lists/list-spells-classes-burden-of-anonymity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Discord)](Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr (Burden of Odyssey)](Mechanics/CLI/lists/list-spells-classes-burden-of-odyssey-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Reaper)](Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

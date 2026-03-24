@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Salamander
-*Source: Monster Manual p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/salamander.webp#right)
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
@@ -88,6 +89,7 @@ title: Salamander
 
 ***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage plus 7 (`2d6`) fire damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 ```
+
 ^statblock
 
 ## Environment

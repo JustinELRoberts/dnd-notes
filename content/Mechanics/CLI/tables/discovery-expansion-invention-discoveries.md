@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Discovery, Expansion, Invention; Discoveries
-*Source: Dungeon Master's Guide p. 31* 
+
+_Source: Dungeon Master's Guide p. 31_
 
 **Discoveries**
 

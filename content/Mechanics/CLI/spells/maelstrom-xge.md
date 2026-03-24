@@ -20,8 +20,8 @@ classes:
 ---
 
 # Maelstrom
-*5th-level, Evocation*  
 
+_5th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -32,4 +32,4 @@ A swirling mass of 5-foot-deep water appears in a 30-foot radius centered on a p
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Xanathar's Guide to Everything p. 160*
+_Source: Xanathar's Guide to Everything p. 160_

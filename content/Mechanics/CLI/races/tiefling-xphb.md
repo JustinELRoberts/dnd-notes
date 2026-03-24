@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Tiefling
-*Source: Player's Handbook (2024) p. 197. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 197. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/races/img/tiefling.webp#right)
 
 - **Ability Scores**: None
@@ -66,7 +67,6 @@ Tieflings who have the chthonic legacy feel not only the tug of Carceri but also
 
 The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils.
 
-
 > [!gallery]
-![Infernal Tiefling, Chthoni...](Mechanics/CLI/races/img/156-05-029-infernal-chthonic-abyssal.webp "Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling")
-![](Mechanics/CLI/races/img/157-05-028-armored-tiefling.webp)
+> ![Infernal Tiefling, Chthoni...](Mechanics/CLI/races/img/156-05-029-infernal-chthonic-abyssal.webp)
+> ![](Mechanics/CLI/races/img/157-05-028-armored-tiefling.webp)

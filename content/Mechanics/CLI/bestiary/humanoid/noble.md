@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Noble
-*Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/noble.webp#right)
 
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
@@ -53,6 +54,7 @@ title: Noble
 
 ***Parry.*** The noble adds 2 to its AC against one melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock
 
 ## Environment

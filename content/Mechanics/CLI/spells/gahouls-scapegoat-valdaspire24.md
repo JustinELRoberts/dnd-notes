@@ -20,8 +20,8 @@ classes:
 ---
 
 # Gahoul's Scapegoat
-*4th-level, Abjuration*  
 
+_4th-level, Abjuration_
 
 - **Casting time:** 1 minute
 - **Range:** Touch
@@ -32,4 +32,4 @@ You trace a complex arcane symbol on the flesh of a willing creature you touch, 
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

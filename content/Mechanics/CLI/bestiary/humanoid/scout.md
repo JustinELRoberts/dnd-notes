@@ -25,7 +25,8 @@ obsidianUIMode: preview
 ---
 
 # Scout
-*Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/scout.webp#right)
 
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
@@ -63,6 +64,7 @@ title: Scout
 
 ***Longbow.*** *Ranged Weapon Attack:* `+4` to hit, ranged 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

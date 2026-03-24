@@ -16,14 +16,11 @@ obsidianUIMode: preview
 
 # Torog
 
-
 - **Alignment**: Neutral Evil
 - **Domains**: Death
 - **Pantheon**: Dawn War
 - **Symbol**: T attached to a circular shackle
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

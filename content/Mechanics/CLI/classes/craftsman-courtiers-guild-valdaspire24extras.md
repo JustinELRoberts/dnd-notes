@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Courtiers' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Look Sharp, Dress Sharper*
+_Look Sharp, Dress Sharper_
 
 The Courtiers' Guild works less with steel and more with fabric and lace. Dressmakers, tailors, hatters, and accessorists, these craftsmen specialize in making their wealthy clientele look their very best. No other craftsperson possesses a keener eye for fashion or a swifter needle and thread, and few can pass as easily in royal attire as a well-dressed courtier.
 

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Rebirth
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Regenerate and Regrow the Natural World*
+_Regenerate and Regrow the Natural World_
 
 When the natural world is threatened by the needs of growing industry, the ravages of war, or a catastrophic event, the gods may choose a Martyr to protect the wild places of the world. Martyrs with this burden don't seek to prevent the destruction of the world; that would be impossible given the number of factors that threaten it. Instead, those tasked with the Burden of Rebirth give their lives to regenerate what has been razed, ushering in new life in places devastated by death.
 

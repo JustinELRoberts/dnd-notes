@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Gnoll Names
-*Source: Volo's Guide to Monsters p. 36* 
+
+_Source: Volo's Guide to Monsters p. 36_
 
 **Gnoll Names**
 

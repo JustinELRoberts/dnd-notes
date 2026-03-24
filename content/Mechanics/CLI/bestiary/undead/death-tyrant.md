@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Death Tyrant
-*Source: Monster Manual p. 29*  
+
+_Source: Monster Manual p. 29_\
 ![](Mechanics/CLI/bestiary/undead/img/death-tyrant.webp#right)
 
 On rare occasions, a beholder's sleeping mind drifts to places beyond its normal madness, imagining a reality in which it exists beyond death. When such dreams take hold, a beholder can transform, its flesh sloughing away to leave a death tyrant behind. This monster possesses the cunning and much of the magic it had in life, but it is fueled by the power of undeath. A death tyrant appears as a massive, naked skull, with a pinpoint of red light gleaming in its hollow eye socket. With its eyestalks rotted away, ten spectral eyes hover above the creature and glare in all directions.
@@ -38,8 +39,8 @@ A death tyrant that embraces undeath becomes an engine of destruction. Driven by
 
 A death tyrant doesn't require air, food, drink, or sleep.
 
-> [!quote] A quote from From the Journal of Jastus Hollowquill, explorer of Undermountain  
-> 
+> [!quote] A quote from From the Journal of Jastus Hollowquill, explorer of Undermountain
+>
 > A cluster of tiny lights descended from a dark crevice in the ceiling. These motes cast an eerie glow on the great, alien skull that hung beneath them.
 
 ## A Death Tyrant's Lair
@@ -124,6 +125,7 @@ A region containing a death tyrant's lair is warped by the creature's unnatural 
 
 If the death tyrant dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock
 
 ## Environment

@@ -34,8 +34,8 @@ classes:
 ---
 
 # Otiluke's Resilient Sphere
-*4th-level, Abjuration*  
 
+_4th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -52,4 +52,4 @@ A [Disintegrate](Mechanics/CLI/spells/disintegrate-xphb.md) spell targeting the 
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of Redemption)](Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge.md "subclass=XGE;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Resilient Sphere") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Resilient Sphere") and the Free Rules (2024)_

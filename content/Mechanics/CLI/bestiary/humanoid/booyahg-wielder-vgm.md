@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Booyahg Wielder
-*Source: Volo's Guide to Monsters p. 42*  
 
+_Source: Volo's Guide to Monsters p. 42_
 
 This goblin found a magic item (a [necklace of fireballs](Mechanics/CLI/items/necklace-of-fireballs.md), a [circlet of blasting](Mechanics/CLI/items/circlet-of-blasting.md), or the like) and learned how to use it.
 
@@ -64,4 +64,5 @@ title: Booyahg Wielder
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+4` to hit, range 80/320 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock

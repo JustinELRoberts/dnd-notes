@@ -16,11 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Morningstar
-*Weapon*  
+
+_Weapon_\
 ![](Mechanics/CLI/items/img/morningstar.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Cost**: 15 gp
 - **Weight**: 4.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

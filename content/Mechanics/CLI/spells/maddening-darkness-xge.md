@@ -24,8 +24,8 @@ classes:
 ---
 
 # Maddening Darkness
-*8th-level, Evocation*  
 
+_8th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -38,4 +38,4 @@ Shrieks, gibbering, and mad laughter can be heard within the sphere. Whenever a 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 160*
+_Source: Xanathar's Guide to Everything p. 160_

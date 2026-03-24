@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Slithering Tracker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191_\
 ![](Mechanics/CLI/bestiary/ooze/img/slithering-tracker.webp#right)
 
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
@@ -72,6 +73,7 @@ While grappling the target, the slithering tracker takes only half any damage de
 
 ***Watery Stealth.*** If underwater, the slithering tracker takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action, and it makes the Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) check with advantage.
 ```
+
 ^statblock
 
 ## Environment

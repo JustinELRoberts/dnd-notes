@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Selling a Magic Item; Magic Item Offer
-*Source: Xanathar's Guide to Everything p. 133* 
+
+_Source: Xanathar's Guide to Everything p. 133_
 
 **Magic Item Offer**
 

@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Avalanche
-*Wilderness Hazard*  
 
+_Wilderness Hazard_
 
 A typical avalanche (or rockslide) is 300 feet wide, 150 feet long, and 30 feet thick. Creatures in the path of an avalanche can avoid it or escape it if they're close to its edge, but outrunning one is almost impossible.
 
@@ -27,4 +27,4 @@ A creature that is not [restrained](Mechanics/CLI/rules/conditions.md#Restrained
 
 ## Sources
 
-*Tasha's Cauldron of Everything p. 169*
+_Tasha's Cauldron of Everything p. 169_

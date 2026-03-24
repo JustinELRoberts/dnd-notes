@@ -13,15 +13,16 @@ obsidianUIMode: preview
 ---
 
 # Injuries
-*Source: Dungeon Master's Guide p. 272* 
+
+_Source: Dungeon Master's Guide p. 272_
 
 Damage normally leaves no lingering effects. This option introduces the potential for long-term injuries.
 
 It's up to you to decide when to check for a lingering injury. A creature might sustain a lingering injury under the following circumstances:
 
-- When it takes a critical hit  
-- When it drops to 0 hit points but isn't killed outright  
-- When it fails a death saving throw by 5 or more  
+- When it takes a critical hit
+- When it drops to 0 hit points but isn't killed outright
+- When it fails a death saving throw by 5 or more
 
 To determine the nature of the injury, roll on the Lingering Injuries table. This table assumes a typical humanoid physiology, but you can adapt the results for creatures with different body types.
 

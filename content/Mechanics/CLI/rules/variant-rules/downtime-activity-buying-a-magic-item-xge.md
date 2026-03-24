@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Buying a Magic Item
-*Source: Xanathar's Guide to Everything p. 126* 
+
+_Source: Xanathar's Guide to Everything p. 126_
 
 Purchasing a magic item requires time and money to seek out and contact people willing to sell items. Even then, there is no guarantee a seller will have the items a character desires.
 
@@ -50,7 +51,7 @@ If the characters seek a specific magic item, first decide if it's an item you w
 
 **Magic Item Price**
 
-| Rarity | Asking Price* |
+| Rarity | Asking Price\* |
 |--------|---------------|
 | Common | (`1d6 + 1`) × 10 gp |
 | Uncommon | `1d6 × 100` gp |
@@ -59,7 +60,7 @@ If the characters seek a specific magic item, first decide if it's an item you w
 | Legendary | `2d6 × 25,000` gp |
 ^magic-item-price
 
-*Halved for a consumable item like a potion or scroll
+\*Halved for a consumable item like a potion or scroll
 
 ## Complications
 

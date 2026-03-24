@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# War Caster 
+# War Caster
 
-
-***Prerequisites*** 4th; Spellcasting or Pact Magic feature
+_**Prerequisites**_ 4th; Spellcasting or Pact Magic feature
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Reactive Spell.** When a creature provokes an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from you by leaving your reach, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to cast a spell at the creature rather than making an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack). The spell must have a casting time of one action and must target only that creature.
 
 **Somatic Components.** You can perform the Somatic components of spells even when you have weapons or a [Shield](Mechanics/CLI/items/shield-xphb.md) in one or both hands.
+
 ## Sources
 
-*Player's Handbook (2024) p. 209*
+_Player's Handbook (2024) p. 209_

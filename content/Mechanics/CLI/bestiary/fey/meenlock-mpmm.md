@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Meenlock
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170_\
 ![](Mechanics/CLI/bestiary/fey/img/meenlock.webp#right)
 
 Meenlocks are Fey that invoke terror and seek to destroy all that is good, innocent, and beautiful. These bipeds have the heads and claws of crustaceans, and they primarily live in forests, although they adapt well to urban and subterranean settings.
@@ -69,6 +70,7 @@ title: Meenlock
 
 ***Shadow Teleport (Recharge 5-6).*** The meenlock teleports to an unoccupied space within 30 feet of it, provided that both the space it's teleporting from and its destination are in dim light or darkness. The destination need not be within line of sight.
 ```
+
 ^statblock
 
 ## Environment

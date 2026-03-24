@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Melora
 
-
 - **Alignment**: Neutral
 - **Domains**: Nature, Tempest
 - **Pantheon**: Dawn War
 - **Symbol**: Wavelike swirl
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

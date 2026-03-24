@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Magmin
-*Source: Monster Manual p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/magmin.webp#right)
 
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
@@ -65,4 +66,5 @@ title: Magmin
 
 ***Touch.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d6`) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 3 (`1d6`) fire damage at the end of each of its turns.
 ```
+
 ^statblock

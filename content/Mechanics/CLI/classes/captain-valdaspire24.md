@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Captain
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Captain
 
 - **Saving Throw Proficiencies**: Charisma, Constitution
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)
+- **Skill Proficiencies**: _Choose 2:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Heavy armor](Mechanics/CLI/rules/item-types.md#Heavy%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [Chain Shirt](Mechanics/CLI/items/chain-shirt-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Longsword](Mechanics/CLI/items/longsword-xphb.md), 6 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 54 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Shortswords](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 11 GP; or (C) 140 GP
+**Starting Equipment:** _Choose A, B, or C:_ (A) [Chain Shirt](Mechanics/CLI/items/chain-shirt-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Longsword](Mechanics/CLI/items/longsword-xphb.md), 6 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 54 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Shortswords](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 11 GP; or (C) 140 GP
 
 ## Multiclassing Captain
 
@@ -99,11 +100,11 @@ You learn maneuvers that are fueled by special dice called Battle Dice.
 
 **Maneuver Options.** Options:
 
-- [Bolster](Mechanics/CLI/optional-features/bolster-valdaspire24.md)  
-- [Born Leader](Mechanics/CLI/optional-features/born-leader-valdaspire24.md)  
-- [Morale Boost](Mechanics/CLI/optional-features/morale-boost-valdaspire24.md)  
-- [Rally](Mechanics/CLI/optional-features/rally-valdaspire24.md)  
-- [Staggering Strike](Mechanics/CLI/optional-features/staggering-strike-valdaspire24.md)  
+- [Bolster](Mechanics/CLI/optional-features/bolster-valdaspire24.md)
+- [Born Leader](Mechanics/CLI/optional-features/born-leader-valdaspire24.md)
+- [Morale Boost](Mechanics/CLI/optional-features/morale-boost-valdaspire24.md)
+- [Rally](Mechanics/CLI/optional-features/rally-valdaspire24.md)
+- [Staggering Strike](Mechanics/CLI/optional-features/staggering-strike-valdaspire24.md)
 
 ### Weapon Mastery (Level 1)
 
@@ -126,32 +127,32 @@ You gain a loyal Cohort who carries your banner and follows your lead.
 **Proficiencies.** Your Cohort has proficiency in skills and saving throws listed in its statistics. Your Cohort uses your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) instead of its own. Because Cohort statistics already include a +2 [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), you need only adjust skill and saving throw proficiencies starting at level 5.
 
 > [!note] Cohort Species
-> 
+>
 > When you initiate a new Humanoid Cohort, you can also give it one of the following traits to reflect its species.
-> 
+>
 > **Dragonborn Draconic Ancestry.** The Cohort has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to one of the following types of damage associated with its dragon progenitor (Captain's choice): Acid, Cold, Fire, Lightning, or Poison.
-> 
+>
 > **Dwarf Resistances and Immunities.** The Cohort has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Poison damage and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition.
-> 
+>
 > **Elf Fey Ancestry.** The Cohort has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws it makes to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition.
-> 
+>
 > **Gnome Saving Throws.** The Cohort has proficiency in one of the following saving throws: Intelligence, Wisdom, or Charisma.
-> 
+>
 > **Goliath Powerful Build.** The Cohort has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check it makes to end the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition. It also counts as one size larger when determining its carrying capacity.
-> 
+>
 > **Halfling Brave.** The Cohort has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws it makes to avoid or end the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition.
-> 
+>
 > **Human Skillful.** The Cohort has proficiency with one skill of your choice.
-> 
+>
 > **Orc Relentless (1/Day).** When the Cohort is reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), it is reduced to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead.
-> 
+>
 > **Tiefling Fiendish Ancestry.** The Cohort has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to one of the following types of damage associated with its fiendish progenitor (Captain's choice): Fire, Necrotic, or Poison.
-^cohort-species
+> ^cohort-species
 
 > [!note] Cohort Spells
-> 
+>
 > Throughout your adventure, you may wish to customize the spells listed in a Cohort's stat block. You can exchange one of the spells listed in the Spellcasting feature with another of the same level. Your GM decides if a spell is appropriate for a Cohort. Generally, the Priest's spells are from the Cleric spell list, the Mage's spells are from the Wizard spell list, and the Shaman's spells are from the Druid spell list.
-^cohort-spells
+> ^cohort-spells
 
 ### Fighting Style (Level 2)
 

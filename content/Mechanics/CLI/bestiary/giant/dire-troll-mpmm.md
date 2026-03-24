@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Dire Troll
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 246*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 246_\
 ![](Mechanics/CLI/bestiary/giant/img/dire-troll.webp#right)
 
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
@@ -76,6 +77,7 @@ title: Dire Troll
 
 ***Whirlwind of Claws (Recharge 5-6).*** Each creature within 10 feet of the troll must make a DC 19 Dexterity saving throw, taking 44 (`8d10`) slashing damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mindwitness
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 181, Volo's Guide to Monsters p. 176_\
 ![](Mechanics/CLI/bestiary/aberration/img/mindwitness.webp#right)
 
 If a beholder is [stunned](Mechanics/CLI/rules/conditions.md#Stunned) and brought to the brine pool of an elder brain, the beholder can be converted into a mindwitness. This alters some of its eye rays and transforms four of its eyestalks into tentacles similar to a mind flayer's. The mindwitness is psychically imprinted with devotion to the elder brain and submission to illithid commands.
@@ -70,6 +71,7 @@ title: Mindwitness
 
     If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is telekinetically moved up to 30 feet in any direction. The mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.  
 ```
+
 ^statblock
 
 ## Environment

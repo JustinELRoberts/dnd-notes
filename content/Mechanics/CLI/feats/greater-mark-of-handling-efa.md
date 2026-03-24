@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Mark of Handling 
+# Greater Mark of Handling
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Improved Handling.** While you are mounted, immediately after you hit a target within 5 feet of your mount with a melee attack roll, your mount can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to move up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) or take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action to make one attack only (your choice).
 
 **Subdue Animal.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you exert command over one Beast or Monstrosity you can see within 30 feet of yourself. The target must succeed on a Wisdom saving throw (DC 8 plus your Wisdom modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the start of your next turn. You can use this benefit a number of times equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 43*
+_Eberron: Forge of the Artificer p. 43_

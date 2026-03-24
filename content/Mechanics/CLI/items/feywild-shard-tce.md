@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Feywild Shard
-*Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)*  
+
+_Wondrous item, spellcasting focus, uncommon (requires attunement by a sorcerer)_\
 ![](Mechanics/CLI/items/img/feywild-shard.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -27,4 +28,4 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 If you don't have the Wild Magic Sorcerous Origin, once this property is used to roll on the [Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md) table, it can't be used again until the next dawn.
 
-*Source: Tasha's Cauldron of Everything p. 127*
+_Source: Tasha's Cauldron of Everything p. 127_

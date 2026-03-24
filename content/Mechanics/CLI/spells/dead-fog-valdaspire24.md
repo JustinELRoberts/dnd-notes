@@ -20,8 +20,8 @@ classes:
 ---
 
 # Dead Fog
-*3rd-level, Necromancy*  
 
+_3rd-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -38,4 +38,4 @@ As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can move the fog 
 
 **Classes**: [Necromancer (Dead Mist Acolyte)](Mechanics/CLI/lists/list-spells-classes-dead-mist-acolyte-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

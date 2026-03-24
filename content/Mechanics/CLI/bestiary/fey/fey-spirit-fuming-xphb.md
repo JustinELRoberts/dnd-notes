@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fey Spirit (Fuming)
-*Source: Player's Handbook (2024) p. 326*  
+
+_Source: Player's Handbook (2024) p. 326_
 
 ```ad-statblock
 title: Fey Spirit (Fuming)
@@ -48,4 +49,5 @@ title: Fey Spirit (Fuming)
 
 ***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. The spirit has Advantage on the next attack roll it makes before the end of this turn.
 ```
+
 ^statblock

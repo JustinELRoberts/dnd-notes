@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Hitting Cover
-*Source: Dungeon Master's Guide p. 272* 
+
+_Source: Dungeon Master's Guide p. 272_
 
 When a ranged attack misses a target that has cover, you can use this optional rule to determine whether the cover was struck by the attack.
 

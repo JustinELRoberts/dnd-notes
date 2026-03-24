@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Warlock
-*Source: Player's Handbook (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='8'></th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Warlock
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Sickle](Mechanics/CLI/items/sickle-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([orb](Mechanics/CLI/items/orb-xphb.md)), [Book](Mechanics/CLI/items/book-xphb.md) (occult lore), [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Sickle](Mechanics/CLI/items/sickle-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([orb](Mechanics/CLI/items/orb-xphb.md)), [Book](Mechanics/CLI/items/book-xphb.md) (occult lore), [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 15 GP; or (B) 100 GP
 
 ## Multiclassing Warlock
 
@@ -82,7 +83,7 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 ### Eldritch Invocations (Level 1)
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^[Optional features from [Eldritch Invocation](Mechanics/CLI/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^\[Optional features from [Eldritch Invocation](Mechanics/CLI/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 **Prerequisites.** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
@@ -122,34 +123,34 @@ Eldritch Invocation options appear in alphabetical order.
 
 Options (choose 1):
 
-- [Agonizing Blast](Mechanics/CLI/optional-features/agonizing-blast-xphb.md)  
-- [Armor of Shadows](Mechanics/CLI/optional-features/armor-of-shadows-xphb.md)  
-- [Ascendant Step](Mechanics/CLI/optional-features/ascendant-step-xphb.md)  
-- [Devil's Sight](Mechanics/CLI/optional-features/devils-sight-xphb.md)  
-- [Devouring Blade](Mechanics/CLI/optional-features/devouring-blade-xphb.md)  
-- [Eldritch Mind](Mechanics/CLI/optional-features/eldritch-mind-xphb.md)  
-- [Eldritch Smite](Mechanics/CLI/optional-features/eldritch-smite-xphb.md)  
-- [Eldritch Spear](Mechanics/CLI/optional-features/eldritch-spear-xphb.md)  
-- [Fiendish Vigor](Mechanics/CLI/optional-features/fiendish-vigor-xphb.md)  
-- [Gaze of Two Minds](Mechanics/CLI/optional-features/gaze-of-two-minds-xphb.md)  
-- [Gift of the Depths](Mechanics/CLI/optional-features/gift-of-the-depths-xphb.md)  
-- [Gift of the Protectors](Mechanics/CLI/optional-features/gift-of-the-protectors-xphb.md)  
-- [Investment of the Chain Master](Mechanics/CLI/optional-features/investment-of-the-chain-master-xphb.md)  
-- [Lessons of the First Ones](Mechanics/CLI/optional-features/lessons-of-the-first-ones-xphb.md)  
-- [Lifedrinker](Mechanics/CLI/optional-features/lifedrinker-xphb.md)  
-- [Mask of Many Faces](Mechanics/CLI/optional-features/mask-of-many-faces-xphb.md)  
-- [Master of Myriad Forms](Mechanics/CLI/optional-features/master-of-myriad-forms-xphb.md)  
-- [Misty Visions](Mechanics/CLI/optional-features/misty-visions-xphb.md)  
-- [One with Shadows](Mechanics/CLI/optional-features/one-with-shadows-xphb.md)  
-- [Otherworldly Leap](Mechanics/CLI/optional-features/otherworldly-leap-xphb.md)  
-- [Pact of the Blade](Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md)  
-- [Pact of the Chain](Mechanics/CLI/optional-features/pact-of-the-chain-xphb.md)  
-- [Pact of the Tome](Mechanics/CLI/optional-features/pact-of-the-tome-xphb.md)  
-- [Repelling Blast](Mechanics/CLI/optional-features/repelling-blast-xphb.md)  
-- [Thirsting Blade](Mechanics/CLI/optional-features/thirsting-blade-xphb.md)  
-- [Visions of Distant Realms](Mechanics/CLI/optional-features/visions-of-distant-realms-xphb.md)  
-- [Whispers of the Grave](Mechanics/CLI/optional-features/whispers-of-the-grave-xphb.md)  
-- [Witch Sight](Mechanics/CLI/optional-features/witch-sight-xphb.md)  
+- [Agonizing Blast](Mechanics/CLI/optional-features/agonizing-blast-xphb.md)
+- [Armor of Shadows](Mechanics/CLI/optional-features/armor-of-shadows-xphb.md)
+- [Ascendant Step](Mechanics/CLI/optional-features/ascendant-step-xphb.md)
+- [Devil's Sight](Mechanics/CLI/optional-features/devils-sight-xphb.md)
+- [Devouring Blade](Mechanics/CLI/optional-features/devouring-blade-xphb.md)
+- [Eldritch Mind](Mechanics/CLI/optional-features/eldritch-mind-xphb.md)
+- [Eldritch Smite](Mechanics/CLI/optional-features/eldritch-smite-xphb.md)
+- [Eldritch Spear](Mechanics/CLI/optional-features/eldritch-spear-xphb.md)
+- [Fiendish Vigor](Mechanics/CLI/optional-features/fiendish-vigor-xphb.md)
+- [Gaze of Two Minds](Mechanics/CLI/optional-features/gaze-of-two-minds-xphb.md)
+- [Gift of the Depths](Mechanics/CLI/optional-features/gift-of-the-depths-xphb.md)
+- [Gift of the Protectors](Mechanics/CLI/optional-features/gift-of-the-protectors-xphb.md)
+- [Investment of the Chain Master](Mechanics/CLI/optional-features/investment-of-the-chain-master-xphb.md)
+- [Lessons of the First Ones](Mechanics/CLI/optional-features/lessons-of-the-first-ones-xphb.md)
+- [Lifedrinker](Mechanics/CLI/optional-features/lifedrinker-xphb.md)
+- [Mask of Many Faces](Mechanics/CLI/optional-features/mask-of-many-faces-xphb.md)
+- [Master of Myriad Forms](Mechanics/CLI/optional-features/master-of-myriad-forms-xphb.md)
+- [Misty Visions](Mechanics/CLI/optional-features/misty-visions-xphb.md)
+- [One with Shadows](Mechanics/CLI/optional-features/one-with-shadows-xphb.md)
+- [Otherworldly Leap](Mechanics/CLI/optional-features/otherworldly-leap-xphb.md)
+- [Pact of the Blade](Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md)
+- [Pact of the Chain](Mechanics/CLI/optional-features/pact-of-the-chain-xphb.md)
+- [Pact of the Tome](Mechanics/CLI/optional-features/pact-of-the-tome-xphb.md)
+- [Repelling Blast](Mechanics/CLI/optional-features/repelling-blast-xphb.md)
+- [Thirsting Blade](Mechanics/CLI/optional-features/thirsting-blade-xphb.md)
+- [Visions of Distant Realms](Mechanics/CLI/optional-features/visions-of-distant-realms-xphb.md)
+- [Whispers of the Grave](Mechanics/CLI/optional-features/whispers-of-the-grave-xphb.md)
+- [Witch Sight](Mechanics/CLI/optional-features/witch-sight-xphb.md)
 
 ### Magical Cunning (Level 2)
 
@@ -227,4 +228,4 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 
 > [!example]- Optional Features: Eldritch Invocation
 > ![Eldritch Invocation](Mechanics/CLI/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
-^list-optfeature-ei
+> ^list-optfeature-ei

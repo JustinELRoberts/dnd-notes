@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Power
-*Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
+
+_Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or wizard)_\
 ![](Mechanics/CLI/items/img/staff-of-power.webp#right)
 
 - **Damage**:
@@ -51,4 +52,4 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 ^distance-from-origin-effect
 
-*Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

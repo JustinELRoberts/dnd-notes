@@ -34,15 +34,15 @@ obsidianUIMode: preview
 ---
 
 # Repeating Shot
-*Uncommon (requires attunement)*  
 
-
+_Uncommon (requires attunement)_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the [Loading](Mechanics/CLI/rules/item-properties.md#Loading) property if it has that property.
 
 If the weapon lacks ammunition, it produces its own, automatically creating one piece of magic ammunition when the wielder makes a ranged attack roll with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.
 
 **Variants**:
+
 - [Repeating Atlatl](#Repeating%20Atlatl)
 - [Repeating Ballista](#Repeating%20Ballista)
 - [Repeating Blowgun](#Repeating%20Blowgun)
@@ -163,5 +163,4 @@ If the weapon lacks ammunition, it produces its own, automatically creating one 
 - **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
-
-*Source: Eberron: Forge of the Artificer p. 112*
+_Source: Eberron: Forge of the Artificer p. 112_

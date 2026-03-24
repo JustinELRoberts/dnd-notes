@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying a Beholder; Beholder Ideals
-*Source: Volo's Guide to Monsters p. 8* 
+
+_Source: Volo's Guide to Monsters p. 8_
 
 **Beholder Ideals**
 

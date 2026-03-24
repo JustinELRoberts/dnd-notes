@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Diviner Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213_\
 ![](Mechanics/CLI/bestiary/humanoid/img/diviner-wizard.webp#right)
 
 Diviners peer into the future and know that knowledge is power. They might act aloof and mysterious, hinting at omens and secrets, or they might be know-it-alls, spilling insights to advance their own status.
@@ -68,6 +69,7 @@ title: Diviner Wizard
 
 ***Portent (3/Day).*** When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner rolls a `d20` and chooses whether to use that roll in place of the `d20` rolled for the attack roll, saving throw, or ability check. 
 ```
+
 ^statblock
 
 ## Environment

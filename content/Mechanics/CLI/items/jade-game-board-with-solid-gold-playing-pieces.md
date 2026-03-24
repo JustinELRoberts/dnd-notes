@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Jade game board with solid gold playing pieces
-*Treasure (art object)*  
 
+_Treasure (art object)_
 
 - **Cost**: 7,500 gp
 
-*Source: Dungeon Master's Guide p. 135*
+_Source: Dungeon Master's Guide p. 135_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Physical Variations; Type 4 Malison: Lower Body
-*Source: Volo's Guide to Monsters p. 97* 
+
+_Source: Volo's Guide to Monsters p. 97_
 
 **Type 4 Malison: Lower Body**
 

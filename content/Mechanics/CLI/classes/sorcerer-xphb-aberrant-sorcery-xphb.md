@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Aberrant Sorcery
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
-*Source: Player's Handbook (2024) p. 145*  
+
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
+_Source: Player's Handbook (2024) p. 145_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/aberrant-sorcerer.webp#right)
 
-*Wield Unnatural Psionic Power*
+_Wield Unnatural Psionic Power_
 
 An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?
 

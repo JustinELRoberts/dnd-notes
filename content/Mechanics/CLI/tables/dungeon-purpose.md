@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Purpose
-*Source: Dungeon Master's Guide p. 101* 
+
+_Source: Dungeon Master's Guide p. 101_
 
 **Dungeon Purpose**
 

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Beholder Zombie
-*Source: Monster Manual p. 316*  
+
+_Source: Monster Manual p. 316_\
 ![](Mechanics/CLI/bestiary/undead/img/beholder-zombie.webp#right)
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -44,10 +45,9 @@ A zombie can follow simple orders and distinguish friends from foes, but its abi
 
 A zombie doesn't require air, food, drink, or sleep.
 
-> [!quote] A quote from Fonkin Hoodypeak  
-> 
+> [!quote] A quote from Fonkin Hoodypeak
+>
 > After Beek died, we cast an [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
-
 
 ## Statblock
 
@@ -90,6 +90,7 @@ title: Beholder Zombie
 
     If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger nonmagical object or creation of magical force, this ray disintegrates a 10-foot cube of it.  
 ```
+
 ^statblock
 
 ## Environment

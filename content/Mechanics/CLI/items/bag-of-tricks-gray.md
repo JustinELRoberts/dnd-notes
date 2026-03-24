@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Bag of Tricks, Gray
-*Wondrous item, major, uncommon*  
 
+_Wondrous item, major, uncommon_
 
 - **Weight**: 0.5 lbs.
 
@@ -40,4 +40,4 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 | 8 | [Giant elk](Mechanics/CLI/bestiary/beast/giant-elk.md) |
 ^creature
 
-*Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -22,8 +22,8 @@ classes:
 ---
 
 # Word of Control
-*5th-level, Enchantment*  
 
+_5th-level, Enchantment_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
@@ -36,4 +36,4 @@ While [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), the target doesn't m
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr (Burden of Truth)](Mechanics/CLI/lists/list-spells-classes-burden-of-truth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

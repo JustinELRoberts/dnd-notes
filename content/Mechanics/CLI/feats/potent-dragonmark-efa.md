@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Potent Dragonmark 
+# Potent Dragonmark
 
-
-***Prerequisites*** 4th, Any D Feat
+_**Prerequisites**_ 4th, Any D Feat
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Dragonmark Preparation.** You always have the spells on your Spells of the Mark list (if any) prepared.
 
 **Dragonmark Spellcasting.** You have one extra spell slot to cast the spells granted by your Dragonmark feat. The spell slot's level is half your level (round up), to a maximum of level 5. You regain the expended slot when you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can use this spell slot to cast only a spell you have prepared because of your Dragonmark feat or the Dragonmark Preparation benefit of this feat.
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 45*
+_Eberron: Forge of the Artificer p. 45_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Treasure; Orc Trophies
-*Source: Volo's Guide to Monsters p. 90* 
+
+_Source: Volo's Guide to Monsters p. 90_
 
 **Orc Trophies**
 
@@ -28,7 +29,7 @@ obsidianUIMode: preview
 | 7 | `1d8` eyeballs |
 | 8 | Flayed elf skin |
 | 9 | Dire wolf hide |
-| 10 | [Random trinket](Mechanics/CLI/items/trinket-xphb.md)* |
+| 10 | [Random trinket](Mechanics/CLI/items/trinket-xphb.md)\* |
 ^orc-trophies
 
-* Roll on the Trinkets table in chapter 5 of the Player's Handbook.
+- Roll on the Trinkets table in chapter 5 of the Player's Handbook.

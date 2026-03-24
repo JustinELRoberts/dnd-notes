@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Arcane Trickster
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
-*Source: Player's Handbook (2024) p. 132*  
+
+_[Rogue](./rogue-xphb.md): Rogue Subclass_\
+_Source: Player's Handbook (2024) p. 132_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th><th colspan='4'>Spell Slots per Spell Level</th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/arcane-trickster-rogue.webp#right)
 
-*Enhance Stealth with Arcane Spells*
+_Enhance Stealth with Arcane Spells_
 
 Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.
 

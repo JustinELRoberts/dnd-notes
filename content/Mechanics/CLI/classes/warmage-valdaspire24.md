@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Warmage
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th></tr>
@@ -58,16 +59,16 @@ obsidianUIMode: preview
 ## Starting Warmage
 
 - **Saving Throw Proficiencies**: Constitution, Intelligence
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (Staff)](Mechanics/CLI/items/staff-xphb.md), [Gaming Set](Mechanics/CLI/items/gaming-set-xphb.md) of your choice, [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 22 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (Staff)](Mechanics/CLI/items/staff-xphb.md), [Gaming Set](Mechanics/CLI/items/gaming-set-xphb.md) of your choice, [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 22 GP; or (B) 50 GP
 
 ## Multiclassing Warmage
 
-- Gain the Hit Point Die trait from the Core Warmage Traits table.  
-- Gain the Warmage's level 1 features, which are listed in the Warmage Features table.  
+- Gain the Hit Point Die trait from the Core Warmage Traits table.
+- Gain the Warmage's level 1 features, which are listed in the Warmage Features table.
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Warmage-Cover.webp#center)
 
@@ -113,19 +114,19 @@ Choose where you first learned the basics of magic.
 
 Options (choose 1):
 
-- [Adventurer](Mechanics/CLI/optional-features/adventurer-valdaspire24.md)  
-- [Arcane Event](Mechanics/CLI/optional-features/arcane-event-valdaspire24.md)  
-- [Circus Performer](Mechanics/CLI/optional-features/circus-performer-valdaspire24.md)  
-- [Mercenary](Mechanics/CLI/optional-features/mercenary-valdaspire24.md)  
-- [Self-Taught](Mechanics/CLI/optional-features/self-taught-valdaspire24.md)  
-- [Survivalist](Mechanics/CLI/optional-features/survivalist-valdaspire24.md)  
-- [Temple Initiate](Mechanics/CLI/optional-features/temple-initiate-valdaspire24.md)  
-- [Tower Apprentice](Mechanics/CLI/optional-features/tower-apprentice-valdaspire24.md)  
+- [Adventurer](Mechanics/CLI/optional-features/adventurer-valdaspire24.md)
+- [Arcane Event](Mechanics/CLI/optional-features/arcane-event-valdaspire24.md)
+- [Circus Performer](Mechanics/CLI/optional-features/circus-performer-valdaspire24.md)
+- [Mercenary](Mechanics/CLI/optional-features/mercenary-valdaspire24.md)
+- [Self-Taught](Mechanics/CLI/optional-features/self-taught-valdaspire24.md)
+- [Survivalist](Mechanics/CLI/optional-features/survivalist-valdaspire24.md)
+- [Temple Initiate](Mechanics/CLI/optional-features/temple-initiate-valdaspire24.md)
+- [Tower Apprentice](Mechanics/CLI/optional-features/tower-apprentice-valdaspire24.md)
 
 > [!note] Making Your Own Initiation
-> 
+>
 > You can work with your GM to create an Arcane Initiation to suit your character's background. Choose two cantrips of your choice from any class's spell list; one cantrip should be suitable for combat, and the other for utility. Avoid choosing cantrips that are otherwise exclusive to another spellcaster. Also choose one skill.
-^making-your-own-initiation
+> ^making-your-own-initiation
 
 ### Warmage Edge (Level 1)
 
@@ -137,7 +138,7 @@ Once per turn when you cast a Warmage cantrip, you can improve the spell, gainin
 
 ### Reliable Cantrip (Level 2)
 
-When you cast a Warmage cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes the cantrip's minimum amount of damage (if any) but suffers no additional effect from the cantrip. You can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20(Level%201)) to this damage (which also deals minimum damage), but you can't use this damage to trigger [Warmage Tricks](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Tricks%20(Level%202)). For example, if you cast [Force Dart](Mechanics/CLI/spells/force-dart-valdaspire24.md) and miss, you can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20(Level%201)) to deal Force damage equal to 1 plus your Intelligence modifier.
+When you cast a Warmage cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes the cantrip's minimum amount of damage (if any) but suffers no additional effect from the cantrip. You can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to this damage (which also deals minimum damage), but you can't use this damage to trigger [Warmage Tricks](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Tricks%20\(Level%202\)). For example, if you cast [Force Dart](Mechanics/CLI/spells/force-dart-valdaspire24.md) and miss, you can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to deal Force damage equal to 1 plus your Intelligence modifier.
 
 ### Warmage Tricks (Level 2)
 
@@ -179,7 +180,7 @@ You gain a feature from your Warmage Subclass.
 
 ### Arcane Surge Improvement (Level 11)
 
-You gain an additional use of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20(Level%205)).
+You gain an additional use of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)).
 
 ### Ability Score Improvement (Level 12)
 
@@ -209,10 +210,10 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Master Warmage (Level 20)
 
-Whenever you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) and have no uses of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20(Level%205)) left, you regain one expended use of it.
+Whenever you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) and have no uses of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)) left, you regain one expended use of it.
 
 ## Optional Features
 
 > [!example]- Optional Features: Trick
 > ![Trick](Mechanics/CLI/lists/list-optfeaturetype-t.md#Trick)
-^list-optfeature-t
+> ^list-optfeature-t

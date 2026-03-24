@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Gold Dragon
-*Source: Monster Manual p. 113. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 113. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/gold-dragon.webp#right)
 
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
@@ -176,6 +177,7 @@ If the dragon dies, these effects end immediately.
 - **Emanation of Justice.** Creatures that spend a year within 6 miles of the dragon's lair value fairness and justice over their personal feelings.  
 - **Liar's Revelation.** Within 6 miles of the dragon's lair, any creature attempting to tell a deliberate lie must succeed on a DC 15 Charisma saving throw or find itself accidentally revealing the truth it was attempting to conceal. The first time a creature fails this saving throw, it is immune to this effect for 24 hours.  
 ```
+
 ^statblock
 
 ## Environment

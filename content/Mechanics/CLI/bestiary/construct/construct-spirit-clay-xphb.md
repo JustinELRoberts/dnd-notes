@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Construct Spirit (Clay)
-*Source: Player's Handbook (2024) p. 324*  
+
+_Source: Player's Handbook (2024) p. 324_
 
 ```ad-statblock
 title: Construct Spirit (Clay)
@@ -49,4 +50,5 @@ title: Construct Spirit (Clay)
 
 ***Berserk Lashing.*** Trigger: The spirit takes damage from a creature. _Response:_ The spirit makes a Slam attack against that creature if possible, or the spirit moves up to half its Speed toward that creature without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
 ```
+
 ^statblock

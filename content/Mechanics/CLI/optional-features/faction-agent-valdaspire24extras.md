@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Faction Agent 
-
+# Faction Agent
 
 You are secretly a member of an organization, such as a Thieves' Guild or a secret society. You gain proficiency and [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) with any skill of your choice.
 
 Additionally, you gain proficiency in one tool and learn one language of your choice.
+
 ## Sources
 
-*Valda's Spire of Secrets Extras (2024)*
+_Valda's Spire of Secrets Extras (2024)_

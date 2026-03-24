@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Gray Ooze (Psychic)
-*Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Gray Ooze (Psychic)
@@ -56,6 +57,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ***Psychic Crush (Recharge 5-6).*** The ooze targets one creature that it can sense within 60 feet of it. The target must make a DC 10 Intelligence saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

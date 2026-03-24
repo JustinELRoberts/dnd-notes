@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Gorger
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaNecromancer/Creatures/Gorger.webp#right)
 
 An unholy tangling of flesh, the gorger still vaguely resembles a humanoid in profile, except for the gaping, toothed maw in its chest. Its colossal teeth are little more than sharpened ribs, but its monstrous bite can easily decapitate.
@@ -47,4 +48,5 @@ title: Gorger
 
 ***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 10 (`2d6 + 3`) Piercing damage. If the target is a Large or smaller creature, it has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC 13).
 ```
+
 ^statblock

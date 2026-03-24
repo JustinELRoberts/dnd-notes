@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Riposte 
-
+# Riposte
 
 When a creature misses you with a melee attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) and expend one Superiority Die to make a melee attack roll with a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) against the creature. If you hit, add the Superiority Die to the attack's damage.
+
 ## Sources
 
-*Player's Handbook (2024) p. 95*
+_Player's Handbook (2024) p. 95_

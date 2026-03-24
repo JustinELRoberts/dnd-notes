@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Charlatan's Die
-*Wondrous item, minor, common (requires attunement)*  
 
-
+_Wondrous item, minor, common (requires attunement)_
 
 Whenever you roll this six-sided die, you can control which number it rolls.
 
-*Source: Xanathar's Guide to Everything p. 136*
+_Source: Xanathar's Guide to Everything p. 136_

@@ -18,17 +18,18 @@ obsidianUIMode: preview
 ---
 
 # Star Spawn Grue
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 227*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 227_\
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-grue.webp#right)
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
 
 ## Star Spawn
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Stars don't spawn these creatures.
-> 
+>
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -41,11 +42,11 @@ The creatures known as star spawn are the heralds, servants, and soldiers of the
 
 Disciples of certain Elder Evils can bestow supernatural gifts on those who serve that cult, including star spawn. The following powers are unique to specific cults; typically a creature has only one.
 
-- Cult of Atropus, the World Born Dead  
-- Cult of Borem, of the Lake of Boiling Mud  
-- Cult of Haask, the Voice of Hargut  
-- Cult of Tharizdun, the Chained God  
-- Cult of Tyranthraxus, the Flamed One  
+- Cult of Atropus, the World Born Dead
+- Cult of Borem, of the Lake of Boiling Mud
+- Cult of Haask, the Voice of Hargut
+- Cult of Tharizdun, the Chained God
+- Cult of Tyranthraxus, the Flamed One
 
 ## Statblock
 
@@ -78,6 +79,7 @@ title: Star Spawn Grue
 
 ***Confounding Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) piercing damage, and the target must succeed on a DC 10 Wisdom saving throw or attack rolls against it have advantage until the start of the grue's next turn.
 ```
+
 ^statblock
 
 ## Environment

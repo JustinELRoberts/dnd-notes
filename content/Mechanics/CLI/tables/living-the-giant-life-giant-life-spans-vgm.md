@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Living the Giant Life; Giant Life Spans
-*Source: Volo's Guide to Monsters p. 22* 
+
+_Source: Volo's Guide to Monsters p. 22_
 
 **Giant Life Spans**
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Proficiency Dice
-*Source: Dungeon Master's Guide p. 263* 
+
+_Source: Dungeon Master's Guide p. 263_
 
 **Proficiency Dice**
 

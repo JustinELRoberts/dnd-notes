@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Object Hit Points
-*Source: Dungeon Master's Guide p. 247. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+
+_Source: Dungeon Master's Guide p. 247. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 **Object Hit Points**
 

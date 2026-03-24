@@ -22,8 +22,8 @@ classes:
 ---
 
 # Secret Enclave
-*9th-level, Conjuration*  
 
+_9th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -42,4 +42,4 @@ You can create Secret Enclaves within Secret Enclaves, but only if the original 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

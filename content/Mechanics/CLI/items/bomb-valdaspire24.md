@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Bomb
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d10 fire
 - **Range**: 30/90
@@ -26,8 +26,8 @@ obsidianUIMode: preview
 - **Weight**: 1.0 lbs.
 
 > [!note] Missed Bombs
-> 
+>
 > For simplicity, we assume that a missed attack roll using a Bomb explodes harmlessly in the background or fails to detonate altogether. The GM decides the secondary effects of a miss, if any.
-^missed-bombs
+> ^missed-bombs
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

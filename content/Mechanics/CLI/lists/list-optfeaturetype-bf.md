@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Bomb Formula
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Acid Bomb](Mechanics/CLI/optional-features/acid-bomb-valdaspire24.md)
 - [Bramble Bomb](Mechanics/CLI/optional-features/bramble-bomb-valdaspire24.md)

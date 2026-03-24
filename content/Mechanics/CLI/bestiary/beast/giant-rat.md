@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Rat
-*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-rat.webp#center)
 
 ```ad-statblock
@@ -53,6 +54,7 @@ title: Giant Rat
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

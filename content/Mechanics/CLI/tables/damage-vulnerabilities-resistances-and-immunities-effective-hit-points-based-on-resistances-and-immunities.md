@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Damage Vulnerabilities, Resistances, and Immunities; Effective Hit Points Based on Resistances and Immunities
-*Source: Dungeon Master's Guide p. 277* 
+
+_Source: Dungeon Master's Guide p. 277_
 
 **Effective Hit Points Based on Resistances and Immunities**
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Half-Orc Names – Male
-*Source: Xanathar's Guide to Everything p. 179* 
+
+_Source: Xanathar's Guide to Everything p. 179_
 
 **Half-Orc Names – Male**
 

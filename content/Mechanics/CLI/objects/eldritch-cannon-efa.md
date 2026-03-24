@@ -15,10 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Eldritch Cannon
-*Source: Eberron: Forge of the Artificer p. 16* 
+
+_Source: Eberron: Forge of the Artificer p. 16_
 
 > [!note]
-> Created by the [Eldritch Cannon](Mechanics/CLI/classes/artificer-artillerist-efa.md#Eldritch%20Cannon%20(Level%203)) subclass feature.
+> Created by the [Eldritch Cannon](Mechanics/CLI/classes/artificer-artillerist-efa.md#Eldritch%20Cannon%20\(Level%203\)) subclass feature.
+
 ```ad-statblock
 title: Eldritch Cannon
 ![](Mechanics/CLI/objects/token/eldritch-cannon-efa.webp#token)
@@ -42,4 +44,5 @@ title: Eldritch Cannon
 - **Force Ballista.** Make a ranged spell attack originating from the cannon at one creature or object within 120 feet of it. On a hit, the target takes `2d8` Force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.  
 - **Protector.** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of the cannon a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to `1d8` plus your Intelligence modifier (minimum of +1).  
 ```
+
 ^statblock

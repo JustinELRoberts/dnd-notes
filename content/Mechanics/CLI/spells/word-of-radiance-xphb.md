@@ -26,8 +26,8 @@ classes:
 ---
 
 # Word of Radiance
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (5-foot Emanation)
@@ -40,4 +40,4 @@ Burning radiance erupts from you in a 5-foot [Emanation](Mechanics/CLI/rules/var
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 343*
+_Source: Player's Handbook (2024) p. 343_

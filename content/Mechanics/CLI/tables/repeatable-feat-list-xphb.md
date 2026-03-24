@@ -13,13 +13,14 @@ obsidianUIMode: preview
 ---
 
 # Repeatable; Feat List
-*Source: Player's Handbook (2024) p. 199* 
+
+_Source: Player's Handbook (2024) p. 199_
 
 **Feat List**
 
 | Feat | Category |
 |------|----------|
-| [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md)* | "General" |
+| [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md)\* | "General" |
 | [Actor](Mechanics/CLI/feats/actor-xphb.md) | "General" |
 | [Alert](Mechanics/CLI/feats/alert-xphb.md) | "Origin" |
 | [Archery](Mechanics/CLI/feats/archery-xphb.md) | "Fighting Style" |
@@ -47,7 +48,7 @@ obsidianUIMode: preview
 | [Dual Wielder](Mechanics/CLI/feats/dual-wielder-xphb.md) | "General" |
 | [Dueling](Mechanics/CLI/feats/dueling-xphb.md) | "Fighting Style" |
 | [Durable](Mechanics/CLI/feats/durable-xphb.md) | "General" |
-| [Elemental Adept](Mechanics/CLI/feats/elemental-adept-xphb.md)* | "General" |
+| [Elemental Adept](Mechanics/CLI/feats/elemental-adept-xphb.md)\* | "General" |
 | [Fey-Touched](Mechanics/CLI/feats/fey-touched-xphb.md) | "General" |
 | [Grappler](Mechanics/CLI/feats/grappler-xphb.md) | "General" |
 | [Great Weapon Fighting](Mechanics/CLI/feats/great-weapon-fighting-xphb.md) | "Fighting Style" |
@@ -61,7 +62,7 @@ obsidianUIMode: preview
 | [Lightly Armored](Mechanics/CLI/feats/lightly-armored-xphb.md) | "General" |
 | [Lucky](Mechanics/CLI/feats/lucky-xphb.md) | "Origin" |
 | [Mage Slayer](Mechanics/CLI/feats/mage-slayer-xphb.md) | "General" |
-| [Magic Initiate](Mechanics/CLI/feats/magic-initiate-xphb.md)* | "Origin" |
+| [Magic Initiate](Mechanics/CLI/feats/magic-initiate-xphb.md)\* | "Origin" |
 | [Martial Weapon Training](Mechanics/CLI/feats/martial-weapon-training-xphb.md) | "General" |
 | [Medium Armor Master](Mechanics/CLI/feats/medium-armor-master-xphb.md) | "General" |
 | [Moderately Armored](Mechanics/CLI/feats/moderately-armored-xphb.md) | "General" |
@@ -79,7 +80,7 @@ obsidianUIMode: preview
 | [Shadow-Touched](Mechanics/CLI/feats/shadow-touched-xphb.md) | "General" |
 | [Sharpshooter](Mechanics/CLI/feats/sharpshooter-xphb.md) | "General" |
 | [Shield Master](Mechanics/CLI/feats/shield-master-xphb.md) | "General" |
-| [Skilled](Mechanics/CLI/feats/skilled-xphb.md)* | "Origin" |
+| [Skilled](Mechanics/CLI/feats/skilled-xphb.md)\* | "Origin" |
 | [Skill Expert](Mechanics/CLI/feats/skill-expert-xphb.md) | "General" |
 | [Skulker](Mechanics/CLI/feats/skulker-xphb.md) | "General" |
 | [Slasher](Mechanics/CLI/feats/slasher-xphb.md) | "General" |
@@ -96,4 +97,4 @@ obsidianUIMode: preview
 | [Weapon Master](Mechanics/CLI/feats/weapon-master-xphb.md) | "General" |
 ^feat-list
 
-*This feat can be taken more than once.
+\*This feat can be taken more than once.

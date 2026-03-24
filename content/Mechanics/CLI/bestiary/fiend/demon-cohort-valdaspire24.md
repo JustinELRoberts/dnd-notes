@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Demon Cohort
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 ```ad-statblock
 title: Demon Cohort
@@ -59,4 +60,5 @@ title: Demon Cohort
 
 ***Level 5.*** Hurl Flame (2/Day). *Dexterity Saving Throw:* DC equals your Cohort save DC, each creature within a 15-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the demon can see within 120 feet. *Failure:* `6d6` Fire damage. *Success:* Half damage. This damage increases by `2d6` at Captain level 9 (`8d6`), 13 (`10d6`), and 17 (`12d6`).
 ```
+
 ^statblock

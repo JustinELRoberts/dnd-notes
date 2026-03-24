@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Underdark Encounters (Levels 1—4)
-*Source: Xanathar's Guide to Everything p. 106* 
+
+_Source: Xanathar's Guide to Everything p. 106_
 
 **Underdark Encounters (Levels 1—4)**
 

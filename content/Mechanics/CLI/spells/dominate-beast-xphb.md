@@ -38,8 +38,8 @@ classes:
 ---
 
 # Dominate Beast
-*4th-level, Enchantment*  
 
+_4th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -56,4 +56,4 @@ You can command the target to take a [Reaction](Mechanics/CLI/rules/variant-rule
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Tyranny)](Mechanics/CLI/lists/list-spells-classes-burden-of-tyranny-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Conquest)](Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock (Archfey Patron)](Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

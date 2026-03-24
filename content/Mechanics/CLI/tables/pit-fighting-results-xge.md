@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Pit Fighting Results
-*Source: Xanathar's Guide to Everything p. 131* 
+
+_Source: Xanathar's Guide to Everything p. 131_
 
 **Pit Fighting Results**
 

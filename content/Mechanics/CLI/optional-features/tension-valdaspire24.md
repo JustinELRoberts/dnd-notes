@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Tension 
+# Tension
 
-
-***Prerequisites*** Level 2 Craftsman, Ammunition and Two-Handed Properties
+_**Prerequisites**_ Level 2 Craftsman, Ammunition and Two-Handed Properties
 
 When making a Ranged attack with this weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

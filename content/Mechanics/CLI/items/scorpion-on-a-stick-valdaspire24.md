@@ -16,11 +16,11 @@ obsidianUIMode: preview
 ---
 
 # Scorpion on a Stick
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d6 poison
 - **Cost**: 1 sp
 - **Weight**: 0.5 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

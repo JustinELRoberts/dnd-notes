@@ -18,8 +18,8 @@ classes:
 ---
 
 # Blinding Smite
-*3rd-level, Evocation*  
 
+_3rd-level, Evocation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -32,4 +32,4 @@ The target hit by the strike takes an extra `3d8` Radiant damage from the attack
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 247*
+_Source: Player's Handbook (2024) p. 247_

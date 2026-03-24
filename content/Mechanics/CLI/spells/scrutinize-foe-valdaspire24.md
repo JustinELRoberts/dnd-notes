@@ -26,8 +26,8 @@ classes:
 ---
 
 # Scrutinize Foe
-*4th-level, Divination*  
 
+_4th-level, Divination_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
@@ -38,4 +38,4 @@ You discern minute details concerning one creature you can see within range. You
 
 **Classes**: [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

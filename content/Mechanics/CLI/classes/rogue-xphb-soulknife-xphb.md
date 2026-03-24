@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Soulknife
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
-*Source: Player's Handbook (2024) p. 135*  
+
+_[Rogue](./rogue-xphb.md): Rogue Subclass_\
+_Source: Player's Handbook (2024) p. 135_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/soulknife-rogue.webp#right)
 
-*Strike Foes with Psionic Blades*
+_Strike Foes with Psionic Blades_
 
 A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.
 

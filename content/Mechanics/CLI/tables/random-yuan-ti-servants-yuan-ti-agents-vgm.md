@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Yuan-ti Servants; Yuan-ti Agents
-*Source: Volo's Guide to Monsters p. 102* 
+
+_Source: Volo's Guide to Monsters p. 102_
 
 **Yuan-ti Agents**
 

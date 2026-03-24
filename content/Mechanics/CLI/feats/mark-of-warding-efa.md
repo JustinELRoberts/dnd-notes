@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Warding 
+# Mark of Warding
+
 ![](Mechanics/CLI/feats/img/mark-of-warding.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -40,6 +41,7 @@ When you reach character level 3, you also always have the [Arcane Lock](Mechani
 | 4 | [Leomund's Secret Chest](Mechanics/CLI/spells/leomunds-secret-chest-xphb.md), [Mordenkainen's Faithful Hound](Mechanics/CLI/spells/mordenkainens-faithful-hound-xphb.md) |
 | 5 | [Antilife Shell](Mechanics/CLI/spells/antilife-shell-xphb.md) |
 ^mark-of-warding-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 42*
+_Eberron: Forge of the Artificer p. 42_

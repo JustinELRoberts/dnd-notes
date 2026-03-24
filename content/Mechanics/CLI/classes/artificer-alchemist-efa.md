@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Alchemist
-*[Artificer](./artificer-efa.md): Artificer Subclass*  
-*Source: Eberron: Forge of the Artificer p. 12*  
+
+_[Artificer](./artificer-efa.md): Artificer Subclass_\
+_Source: Eberron: Forge of the Artificer p. 12_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/alchemist-artificer.webp#right)
 
-*Craft Magic Elixirs and Potions*
+_Craft Magic Elixirs and Potions_
 
 An Alchemist is an expert at combining reagents to produce magical effects. Alchemists use their creations to give life and to leech it away.
 

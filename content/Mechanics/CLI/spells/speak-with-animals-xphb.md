@@ -42,7 +42,8 @@ classes:
 ---
 
 # Speak with Animals
-*1st-level, Divination (ritual)*  
+
+_1st-level, Divination (ritual)_\
 ![](Mechanics/CLI/spells/img/speak-with-animals.webp#right)
 
 - **Casting time:** 1 Action unless cast as a ritual
@@ -56,4 +57,4 @@ Most Beasts have little to say about topics that don't pertain to survival or co
 
 **Classes**: [Barbarian (Path of the Wild Heart)](Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of the Ancients)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Technicolor Magic)](Mechanics/CLI/lists/list-spells-classes-technicolor-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

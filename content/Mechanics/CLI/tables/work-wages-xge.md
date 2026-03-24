@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Work; Wages
-*Source: Xanathar's Guide to Everything p. 134* 
+
+_Source: Xanathar's Guide to Everything p. 134_
 
 **Wages**
 

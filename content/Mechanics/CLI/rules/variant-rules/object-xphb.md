@@ -13,6 +13,7 @@ obsidianUIMode: preview
 ---
 
 # Object
-*Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 An object is a nonliving, distinct thing. Composite things, like buildings, comprise more than one object.

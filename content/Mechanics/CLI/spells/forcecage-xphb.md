@@ -24,8 +24,8 @@ classes:
 ---
 
 # Forcecage
-*7th-level, Evocation*  
 
+_7th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 100 feet
@@ -44,4 +44,4 @@ This spell can't be dispelled by [Dispel Magic](Mechanics/CLI/spells/dispel-magi
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

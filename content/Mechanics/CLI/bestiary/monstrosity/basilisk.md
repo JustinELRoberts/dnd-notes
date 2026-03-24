@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Basilisk
-*Source: Monster Manual p. 24. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 24. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/basilisk.webp#right)
 
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
@@ -34,10 +35,9 @@ Basilisks are ponderous for hunting creatures, but they needn't chase prey. Meet
 
 Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creature, such as its head, is detached.
 
-> [!quote] A quote from X the Mystic's 4th rule of dungeon survival  
-> 
+> [!quote] A quote from X the Mystic's 4th rule of dungeon survival
+>
 > No one carves statues of frightened warriors. If you see one, keep your eyes closed and your ears open.
-
 
 ## Statblock
 
@@ -73,6 +73,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage plus 7 (`2d6`) poison damage.
 ```
+
 ^statblock
 
 ## Environment

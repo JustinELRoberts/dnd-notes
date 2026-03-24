@@ -19,6 +19,7 @@ obsidianUIMode: preview
 ---
 
 # Ilmater
+
 ![](Mechanics/CLI/deities/img/scag-symbol-of-ilmater.webp#symbol)
 
 - **Alternate Names**: The Crying God, The Rack-Broken Lord, He Who Endures
@@ -39,4 +40,4 @@ Most folk deeply respect the work and the sacrifice of Ilmater's faith, and lend
 
 ## Sources
 
-*Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34*
+_Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34_

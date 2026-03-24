@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grung Elite Warrior
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_\
 ![](Mechanics/CLI/bestiary/humanoid/img/grungs.webp#right)
 
 A grung elite warrior typically leads a group of grung and other warriors into battle and is often accompanied by a grung wildling.
@@ -71,6 +72,7 @@ title: Grung Elite Warrior
 
 ***Mesmerizing Chirr (Recharge 6).*** The grung makes a chirring noise to which grungs are immune. Each Humanoid or Beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the grung's next turn.
 ```
+
 ^statblock
 
 ## Environment

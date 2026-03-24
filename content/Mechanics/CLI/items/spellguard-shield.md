@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Spellguard Shield
-*Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), major, very rare (requires attunement)*  
+
+_Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/spellguard-shield.webp#right)
 
 - **Armor Class**: 2
@@ -25,4 +26,4 @@ obsidianUIMode: preview
 
 While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
 
-*Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

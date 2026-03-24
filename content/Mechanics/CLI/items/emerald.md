@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Emerald
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 1,000 gp
 
 A transparent deep bright green gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

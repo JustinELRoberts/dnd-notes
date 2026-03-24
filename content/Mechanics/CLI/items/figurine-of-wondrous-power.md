@@ -14,9 +14,9 @@ obsidianUIMode: preview
 ---
 
 # Figurine of Wondrous Power
-*Wondrous item*  
-![](Mechanics/CLI/items/img/figurine-of-wondrous-power.webp#right)
 
+_Wondrous item_\
+![](Mechanics/CLI/items/img/figurine-of-wondrous-power.webp#right)
 
 **Items in this group:**
 
@@ -30,4 +30,4 @@ obsidianUIMode: preview
 - [Figurine of Wondrous Power, Serpentine Owl](Mechanics/CLI/items/figurine-of-wondrous-power-serpentine-owl.md)
 - [Figurine of Wondrous Power, Silver Raven](Mechanics/CLI/items/figurine-of-wondrous-power-silver-raven.md)
 
-*Source: Dungeon Master's Guide p. 169*
+_Source: Dungeon Master's Guide p. 169_

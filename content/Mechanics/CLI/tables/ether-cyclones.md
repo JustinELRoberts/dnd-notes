@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ether Cyclones
-*Source: Dungeon Master's Guide p. 49* 
+
+_Source: Dungeon Master's Guide p. 49_
 
 **Ether Cyclones**
 

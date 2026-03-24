@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Carrion King
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Command an Army of Vermin*
+_Command an Army of Vermin_
 
 A champion of vermin, you are called to defend the lowliest creatures of all: insects, rats, spiders, and other pests. These creatures mean no harm; they're merely trying to survive in a world too large for them, and so they flock to your side. Unmistakably, your coming is signaled by the scrambling of little claws and the cawing of the crows. Legions of pests wait at your command to swarm, bite, and infest anyone who might thin their numbers.
 

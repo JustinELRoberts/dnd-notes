@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Javelin of Lightning
-*Weapon ([javelin](Mechanics/CLI/items/javelin-xphb.md)), major, uncommon*  
+
+_Weapon ([javelin](Mechanics/CLI/items/javelin-xphb.md)), major, uncommon_\
 ![](Mechanics/CLI/items/img/javelin-of-lightning.webp#right)
 
 - **Damage**: 1d6 piercing
@@ -29,4 +30,4 @@ This javelin is a magic weapon. When you hurl it and speak its command word, it 
 
 The javelin's property can't be used again until the next dawn. In the meantime, the javelin can still be used as a magic weapon.
 
-*Source: Dungeon Master's Guide p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Construct Cohort
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Creatures/Construct%20Cohort.webp#right)
 
 With the help of a tinkerer or a mage, you gain the unwavering, mechanical loyalty of a golem, shield guardian, or clockwork construct. Your Construct is of a smaller variety than most golems, but can be built and repaired in far less time.
@@ -67,4 +68,5 @@ title: Construct Cohort
 
 ***Level 9.*** Charged Strike. The construct's attack deals an extra `1d8` Lightning or Thunder damage.
 ```
+
 ^statblock

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Smoke Mephit
-*Source: Monster Manual p. 217*  
+
+_Source: Monster Manual p. 217_\
 ![](Mechanics/CLI/bestiary/elemental/img/smoke-mephit.webp#right)
 
 ## Mephits
@@ -71,6 +72,7 @@ title: Smoke Mephit
 
 ***Cinder Breath (Recharge 6).*** The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of the mephit's next turn.
 ```
+
 ^statblock
 
 ## Environment

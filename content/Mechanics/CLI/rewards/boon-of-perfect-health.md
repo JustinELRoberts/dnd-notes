@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of Perfect Health
 
-
 You are immune to all diseases and poisons, and you have advantage on Constitution saving throws.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

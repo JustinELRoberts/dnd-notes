@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Armorer
-*[Artificer](./artificer-efa.md): Artificer Subclass*  
-*Source: Eberron: Forge of the Artificer p. 14*  
+
+_[Artificer](./artificer-efa.md): Artificer Subclass_\
+_Source: Eberron: Forge of the Artificer p. 14_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/armorer-artificer.webp#right)
 
-*Craft Magic Armor to Enhance Your Abilities*
+_Craft Magic Armor to Enhance Your Abilities_
 
 An Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the Armorer's magic, unleash potent attacks, and generate a formidable defense.
 
@@ -95,7 +96,7 @@ You gain the following benefits while wearing your Arcane Armor.
 
 ### Armor Model (Level 3)
 
-You can customize your Arcane Armor. When you do so, choose one of the following armor models: [Dreadnaught](Mechanics/CLI/classes/artificer-armorer-efa.md#Dreadnaught%20(Level%203)), [Guardian](Mechanics/CLI/classes/artificer-armorer-efa.md#Guardian%20(Level%203)), or [Infiltrator](Mechanics/CLI/classes/artificer-armorer-efa.md#Infiltrator%20(Level%203)). The model you choose gives you special benefits while you wear it.
+You can customize your Arcane Armor. When you do so, choose one of the following armor models: [Dreadnaught](Mechanics/CLI/classes/artificer-armorer-efa.md#Dreadnaught%20\(Level%203\)), [Guardian](Mechanics/CLI/classes/artificer-armorer-efa.md#Guardian%20\(Level%203\)), or [Infiltrator](Mechanics/CLI/classes/artificer-armorer-efa.md#Infiltrator%20\(Level%203\)). The model you choose gives you special benefits while you wear it.
 
 Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of your Strength or Dexterity modifier, to the attack and damage rolls.
 
@@ -105,8 +106,8 @@ You can change the armor's model whenever you finish a [Short](Mechanics/CLI/rul
 
 You design your armor to become a towering juggernaut in battle. It has the following features:
 
-- **Force Demolisher.** An arcane wrecking ball or sledgehammer projects from your armor. The demolisher counts as a Simple Melee weapon with the [Reach](Mechanics/CLI/rules/item-properties.md#Reach) property, and it deals `1d10` Force damage on a hit. If you hit a creature that is at least one size smaller than you with the demolisher, you can push the creature up to 10 feet straight away from yourself or pull the creature up to 10 feet toward yourself.  
-- **Giant Stature.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you transform and enlarge your armor for 1 minute. For the duration, your reach increases by 5 feet, and if you are smaller than Large, you become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change. You can use this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).  
+- **Force Demolisher.** An arcane wrecking ball or sledgehammer projects from your armor. The demolisher counts as a Simple Melee weapon with the [Reach](Mechanics/CLI/rules/item-properties.md#Reach) property, and it deals `1d10` Force damage on a hit. If you hit a creature that is at least one size smaller than you with the demolisher, you can push the creature up to 10 feet straight away from yourself or pull the creature up to 10 feet toward yourself.
+- **Giant Stature.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you transform and enlarge your armor for 1 minute. For the duration, your reach increases by 5 feet, and if you are smaller than Large, you become Large, along with anything you are wearing. If there isn't enough room for you to increase your size, your size doesn't change. You can use this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
 ### Guardian (Level 3)
 
@@ -120,9 +121,9 @@ You design your armor to be in the front line of conflict. It has the following 
 
 You customize your armor for subtler undertakings. It has the following features:
 
-- **Lightning Launcher.** A gemlike node appears on your armor, from which you can shoot bolts of lightning. The launcher counts as a Simple Ranged weapon with a normal range of 90 feet and a long range of 300 feet, and it deals `1d6` Lightning damage on a hit. Once on each of your turns when you hit a creature with the launcher, you can deal an extra `1d6` Lightning damage to that target.  
-- **Powered Steps.** Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 5 feet.  
-- **Dampening Field.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks. If the armor imposes [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on such checks, the [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) and [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) cancel each other, as normal.  
+- **Lightning Launcher.** A gemlike node appears on your armor, from which you can shoot bolts of lightning. The launcher counts as a Simple Ranged weapon with a normal range of 90 feet and a long range of 300 feet, and it deals `1d6` Lightning damage on a hit. Once on each of your turns when you hit a creature with the launcher, you can deal an extra `1d6` Lightning damage to that target.
+- **Powered Steps.** Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 5 feet.
+- **Dampening Field.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks. If the armor imposes [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on such checks, the [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) and [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) cancel each other, as normal.
 
 ### Extra Attack (Level 5)
 

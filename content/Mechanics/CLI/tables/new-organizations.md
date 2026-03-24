@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # New Organizations
-*Source: Dungeon Master's Guide p. 31* 
+
+_Source: Dungeon Master's Guide p. 31_
 
 **New Organizations**
 

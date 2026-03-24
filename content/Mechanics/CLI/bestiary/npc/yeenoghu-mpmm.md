@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Yeenoghu
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 270*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 270_\
 ![](Mechanics/CLI/bestiary/npc/img/yeenoghu.webp#right)
 
 The Beast of Butchery appears as a great scarred gnoll, towering 14 feet tall. Yeenoghu is the Gnoll Lord, and his creations are made in his twisted image. When the demon lord hunted across the Material Plane, packs of hyenas followed in his wake, and those that ate of great Yeenoghu's kills became gnolls. Few others worship the Beast of Butchery, but those who do tend to take on a gnoll-like aspect, hunching over and filing their teeth down to points.
@@ -118,4 +119,5 @@ The region containing Yeenoghu's lair is warped by his magic, creating one or mo
 - **Spiky Terrain.** Within 1 mile of the lair, large iron spikes grow out of the ground and stone surfaces. Yeenoghu impales the bodies of the slain on these spikes.  
 - If Yeenoghu dies, these effects fade over the course of `1d10` days.  
 ```
+
 ^statblock

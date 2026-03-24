@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Sleep of Ages Trap
-*Generic Hazard*  
 
+_Generic Hazard_
 
 When a sleep of ages trap activates, a pressure plate unleashes a spell that threatens to send intruders into a deep slumber. The dungeon's guardians can then more easily dispose of the sleepers.
 
 ## Sources
 
-*Xanathar's Guide to Everything p. 114*
+_Xanathar's Guide to Everything p. 114_

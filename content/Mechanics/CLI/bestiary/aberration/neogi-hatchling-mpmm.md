@@ -18,15 +18,16 @@ obsidianUIMode: preview
 ---
 
 # Neogi Hatchling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179_\
 ![](Mechanics/CLI/bestiary/aberration/img/neogi-hatchling.webp#right)
 
 A neogi lives about a century. When an individual is rendered weak by advanced age, the other neogi in the group overpower it and inject it with a special poison. The toxin transforms the old neogi into a bloated mass of flesh. Younger neogi lay their eggs atop it, and when the hatchlings emerge, they devour the old neogi and one another until only a few of the strongest newborns are left. The surviving neogi hatchlings begin their lives under the control of adult neogi. They must learn about their society and earn a place in it, and each one starts its training by gaining mastery over an umber hulk.
 
 ## Neogi
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Only the malevolent or the desperate do business with neogi. I generally advise against working with beings who view you as property or prey.
 
 A neogi looks like an outsize spider with an eel's neck and head. It can poison the body and the mind of its targets and can subjugate even beings that are physically superior.
@@ -65,6 +66,7 @@ title: Neogi Hatchling
 
 ***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d4 + 1`) piercing damage plus 3 (`1d6`) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Background; I became...
-*Source: Xanathar's Guide to Everything p. 64* 
+
+_Source: Xanathar's Guide to Everything p. 64_
 
 **Acolyte**
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Dressing; General Furnishings and Appointments
-*Source: Dungeon Master's Guide p. 298* 
+
+_Source: Dungeon Master's Guide p. 298_
 
 **General Furnishings and Appointments**
 

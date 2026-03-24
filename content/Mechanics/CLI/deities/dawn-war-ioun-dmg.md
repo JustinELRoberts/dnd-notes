@@ -16,14 +16,11 @@ obsidianUIMode: preview
 
 # Ioun
 
-
 - **Alignment**: Neutral
 - **Domains**: Knowledge
 - **Pantheon**: Dawn War
 - **Symbol**: Crook shaped like a stylized eye
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

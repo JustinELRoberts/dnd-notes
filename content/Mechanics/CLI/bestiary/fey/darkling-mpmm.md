@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Darkling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134_\
 ![](Mechanics/CLI/bestiary/fey/img/darkling.webp#right)
 
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
@@ -62,6 +63,7 @@ title: Darkling
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage plus 7 (`2d6`) necrotic damage.
 ```
+
 ^statblock
 
 ## Environment

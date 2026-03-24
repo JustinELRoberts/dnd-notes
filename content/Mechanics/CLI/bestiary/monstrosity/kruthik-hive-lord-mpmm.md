@@ -19,19 +19,20 @@ obsidianUIMode: preview
 ---
 
 # Kruthik Hive Lord
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 169_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/kruthik-hive-lord.webp#right)
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
 
 ## Kruthiks
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Imagine a hive of ants the size of horses, but the ants are wearing armor.
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies.
 
 Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels—evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
@@ -82,6 +83,7 @@ title: Kruthik Hive Lord
 
 ***Acid Spray (Recharge 5-6).*** The kruthik sprays acid in a 15-foot cone. Each creature in that area must make a DC 14 Dexterity saving throw, taking 22 (`4d10`) acid damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

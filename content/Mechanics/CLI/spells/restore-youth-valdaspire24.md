@@ -19,8 +19,8 @@ classes:
 ---
 
 # Restore Youth
-*3rd-level, Transmutation (ritual)*  
 
+_3rd-level, Transmutation (ritual)_
 
 - **Casting time:** 8 hours unless cast as a ritual
 - **Range:** Touch
@@ -31,4 +31,4 @@ You perform a complex ritual for a creature you touch, reducing its apparent age
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

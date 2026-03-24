@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Banshee
-*Source: Monster Manual p. 23. Available in the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 23. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/banshee.webp#right)
 
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
@@ -78,6 +79,7 @@ title: Banshee
 
 ***Wail (1/Day).*** The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (`3d6`) psychic damage.
 ```
+
 ^statblock
 
 ## Environment

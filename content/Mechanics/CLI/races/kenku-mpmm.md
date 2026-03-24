@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Kenku
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 24*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 24_\
 ![](Mechanics/CLI/races/img/kenku.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1

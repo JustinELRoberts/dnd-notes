@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Bheur Hag
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 62, Volo's Guide to Monsters p. 160_\
 ![](Mechanics/CLI/bestiary/fey/img/bheur-hag.webp#right)
 
 Bheur hags live in wintry lands, favoring snowy mountains. These hags become more active during winter, using their ice and weather magic to make life miserable for nearby settlements.
@@ -73,6 +74,7 @@ title: Bheur Hag
 
 **1/day each:** [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md), [ice storm](Mechanics/CLI/spells/ice-storm-xphb.md), [wall of ice](Mechanics/CLI/spells/wall-of-ice-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying an Orc; Orc Personality Traits
-*Source: Volo's Guide to Monsters p. 87* 
+
+_Source: Volo's Guide to Monsters p. 87_
 
 **Orc Personality Traits**
 

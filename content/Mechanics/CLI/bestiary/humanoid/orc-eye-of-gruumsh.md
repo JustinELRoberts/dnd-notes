@@ -23,7 +23,8 @@ obsidianUIMode: preview
 ---
 
 # Orc Eye of Gruumsh
-*Source: Monster Manual p. 247*  
+
+_Source: Monster Manual p. 247_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc.webp#right)
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -103,6 +104,7 @@ title: Orc Eye of Gruumsh
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (`1d6 + 3` plus `1d8`) piercing damage, or 12 (`2d8 + 3`) piercing damage if used with two hands to make a melee attack.
 ```
+
 ^statblock
 
 ## Environment

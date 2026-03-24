@@ -22,8 +22,8 @@ classes:
 ---
 
 # Séance
-*3rd-level, Necromancy*  
 
+_3rd-level, Necromancy_
 
 - **Casting time:** 10 minutes
 - **Range:** Self
@@ -36,4 +36,4 @@ Until the spell ends, you can ask up to three questions of the specter. The spec
 
 **Classes**: [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

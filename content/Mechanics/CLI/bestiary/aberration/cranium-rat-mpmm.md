@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Cranium Rat
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133_\
 ![](Mechanics/CLI/bestiary/aberration/img/swarm-of-cranium-rats.webp#right)
 
 ## Cranium Rat
@@ -59,6 +60,7 @@ title: Cranium Rat
 
 ***Illumination.*** The cranium rat sheds dim light from its exposed brain in a 5-foot radius or extinguishes the light.
 ```
+
 ^statblock
 
 ## Environment

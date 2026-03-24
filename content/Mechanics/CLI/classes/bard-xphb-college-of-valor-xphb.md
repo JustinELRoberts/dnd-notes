@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # College of Valor
-*[Bard](./bard-xphb.md): Bard Subclass*  
-*Source: Player's Handbook (2024) p. 67*  
+
+_[Bard](./bard-xphb.md): Bard Subclass_\
+_Source: Player's Handbook (2024) p. 67_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/valor-bard.webp#right)
 
-*Sing the Deeds of Ancient Heroes*
+_Sing the Deeds of Ancient Heroes_
 
 Bards of the College of Valor are daring storytellers whose tales preserve the memory of the great heroes of the past. These Bards sing the deeds of the mighty in vaulted halls or to crowds gathered around great bonfires. They travel to witness great events firsthand and to ensure that the memory of these events doesn't pass away. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.
 

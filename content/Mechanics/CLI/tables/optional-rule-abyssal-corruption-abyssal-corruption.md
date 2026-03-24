@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Optional Rule: Abyssal Corruption; Abyssal Corruption
-*Source: Dungeon Master's Guide p. 62* 
+
+_Source: Dungeon Master's Guide p. 62_
 
 **Abyssal Corruption**
 

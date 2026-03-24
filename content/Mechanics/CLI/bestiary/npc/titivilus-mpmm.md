@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Titivilus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 242*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 242_\
 ![](Mechanics/CLI/bestiary/npc/img/titivilus.webp#right)
 
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
@@ -90,4 +91,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, Titivilus c
 
 ***Assault (Costs 2 Actions).*** Titivilus makes one Silver Sword attack, or he uses Frightful Word.
 ```
+
 ^statblock

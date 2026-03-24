@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Shadow Spirit (Fear)
-*Source: Tasha's Cauldron of Everything p. 114*  
+
+_Source: Tasha's Cauldron of Everything p. 114_
 
 ```ad-statblock
 title: Shadow Spirit (Fear)
@@ -51,4 +52,5 @@ title: Shadow Spirit (Fear)
 
 ***Shadow Stealth.*** While in dim light or darkness, the spirit takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock

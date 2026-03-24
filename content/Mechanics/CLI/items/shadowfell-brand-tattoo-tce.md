@@ -16,9 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Shadowfell Brand Tattoo
-*Wondrous item (tattoo), rare (requires attunement)*  
 
-
+_Wondrous item (tattoo), rare (requires attunement)_
 
 Produced by a special needle, this magic tattoo is dark in color and abstract.
 
@@ -36,4 +35,4 @@ You gain [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 
 
 When you take damage, you can use your reaction to become insubstantial for a moment, halving the damage you take. Then the reaction can't be used again until the next sunset.
 
-*Source: Tasha's Cauldron of Everything p. 134*
+_Source: Tasha's Cauldron of Everything p. 134_

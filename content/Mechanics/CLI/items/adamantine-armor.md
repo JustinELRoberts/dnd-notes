@@ -27,13 +27,13 @@ obsidianUIMode: preview
 ---
 
 # Adamantine Armor
-*Major, uncommon*  
 
-
+_Major, uncommon_
 
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.
 
 **Variants**:
+
 - [Adamantine Breastplate](#Adamantine%20Breastplate)
 - [Adamantine Chain Mail](#Adamantine%20Chain%20Mail)
 - [Adamantine Chain Shirt](#Adamantine%20Chain%20Shirt)
@@ -99,5 +99,4 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

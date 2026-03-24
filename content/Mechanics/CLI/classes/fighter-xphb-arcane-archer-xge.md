@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Arcane Archer
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
-*Source: Xanathar's Guide to Everything p. 28*  
+
+_[Fighter](./fighter-xphb.md): Fighter Subclass_\
+_Source: Xanathar's Guide to Everything p. 28_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -77,14 +78,14 @@ If an option requires a saving throw, your Arcane Shot save DC is calculated as 
 
 Options (choose 2):
 
-- [Banishing Arrow](Mechanics/CLI/optional-features/banishing-arrow-xge.md)  
-- [Beguiling Arrow](Mechanics/CLI/optional-features/beguiling-arrow-xge.md)  
-- [Bursting Arrow](Mechanics/CLI/optional-features/bursting-arrow-xge.md)  
-- [Enfeebling Arrow](Mechanics/CLI/optional-features/enfeebling-arrow-xge.md)  
-- [Grasping Arrow](Mechanics/CLI/optional-features/grasping-arrow-xge.md)  
-- [Piercing Arrow](Mechanics/CLI/optional-features/piercing-arrow-xge.md)  
-- [Seeking Arrow](Mechanics/CLI/optional-features/seeking-arrow-xge.md)  
-- [Shadow Arrow](Mechanics/CLI/optional-features/shadow-arrow-xge.md)  
+- [Banishing Arrow](Mechanics/CLI/optional-features/banishing-arrow-xge.md)
+- [Beguiling Arrow](Mechanics/CLI/optional-features/beguiling-arrow-xge.md)
+- [Bursting Arrow](Mechanics/CLI/optional-features/bursting-arrow-xge.md)
+- [Enfeebling Arrow](Mechanics/CLI/optional-features/enfeebling-arrow-xge.md)
+- [Grasping Arrow](Mechanics/CLI/optional-features/grasping-arrow-xge.md)
+- [Piercing Arrow](Mechanics/CLI/optional-features/piercing-arrow-xge.md)
+- [Seeking Arrow](Mechanics/CLI/optional-features/seeking-arrow-xge.md)
+- [Shadow Arrow](Mechanics/CLI/optional-features/shadow-arrow-xge.md)
 
 ### Magic Arrow (Level 7)
 
@@ -118,4 +119,4 @@ You gain an additional Arcane Shot option of your choice when you reach 18th lev
 
 > [!example]- Optional Features: Arcane Shot
 > ![Arcane Shot](Mechanics/CLI/lists/list-optfeaturetype-as.md#Arcane%20Shot)
-^list-optfeature-as
+> ^list-optfeature-as

@@ -22,7 +22,8 @@ classes:
 ---
 
 # Shapechange
-*9th-level, Transmutation*  
+
+_9th-level, Transmutation_\
 ![](Mechanics/CLI/spells/img/shapechange.webp#right)
 
 - **Casting time:** 1 Action
@@ -40,4 +41,4 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

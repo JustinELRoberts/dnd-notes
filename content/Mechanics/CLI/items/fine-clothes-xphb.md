@@ -15,12 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Fine Clothes
-*Adventuring gear*  
 
+_Adventuring gear_
 
 - **Cost**: 15 gp
 - **Weight**: 6.0 lbs.
 
 Fine Clothes are made of expensive fabrics and adorned with expertly crafted details. Some events and locations admit only people wearing these clothes.
 
-*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

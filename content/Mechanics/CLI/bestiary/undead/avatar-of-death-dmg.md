@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Avatar of Death
-*Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
 
+_Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 Summoned by the "Skull" card from the [Deck of Many Things](Mechanics/CLI/items/deck-of-many-things.md).
 
@@ -53,4 +53,5 @@ title: Avatar of Death
 
 ***Reaping Scythe.*** The avatar sweeps its spectral scythe through a creature within 5 feet of it, dealing 7 (`1d8 + 3`) slashing damage plus 4 (`1d8`) necrotic damage.
 ```
+
 ^statblock

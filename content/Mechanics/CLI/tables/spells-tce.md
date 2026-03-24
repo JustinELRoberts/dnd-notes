@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spells
-*Source: Tasha's Cauldron of Everything p. 105* 
+
+_Source: Tasha's Cauldron of Everything p. 105_
 
 | Level | Spell | School | Conc. | Ritual | Class |
 |-------|-------|--------|-------|--------|-------|

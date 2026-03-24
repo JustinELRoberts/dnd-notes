@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Charm of Ashtakala
 
-
 While you have this Charm, you know Abyssal and Infernal. You can expend the Charm to cast [Ray of Sickness](Mechanics/CLI/spells/ray-of-sickness-xphb.md) (level 4 version).
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 51*
+_Eberron: Forge of the Artificer p. 51_

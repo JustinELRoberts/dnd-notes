@@ -24,8 +24,8 @@ classes:
 ---
 
 # Find the Path
-*6th-level, Divination*  
 
+_6th-level, Divination_
 
 - **Casting time:** 1 minute
 - **Range:** Self
@@ -38,4 +38,4 @@ For the duration, as long as you are on the same plane of existence as the desti
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

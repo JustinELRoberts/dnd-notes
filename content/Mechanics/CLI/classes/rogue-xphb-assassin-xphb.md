@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Assassin
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
-*Source: Player's Handbook (2024) p. 134*  
+
+_[Rogue](./rogue-xphb.md): Rogue Subclass_\
+_Source: Player's Handbook (2024) p. 134_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/assassin-rogue.webp#right)
 
-*Practice the Grim Art of Death*
+_Practice the Grim Art of Death_
 
 An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.
 

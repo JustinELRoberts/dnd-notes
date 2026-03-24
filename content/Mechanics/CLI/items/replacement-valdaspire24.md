@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Replacement
-*Monstrous graft, common*  
 
+_Monstrous graft, common_
 
 - **Properties**: [Any Slot](Mechanics/CLI/rules/item-properties.md#Any%20Slot)
 
-*Donor: Any Donor*
+_Donor: Any Donor_
 
 This graft replaces an organ or limb. A Replacement can replace an amputated limb or missing organ but can't revive a creature that has died. A Replacement organ or limb takes up one body slot relevant to it; for example, a monstrous hand takes the Arms slot and a Replacement kidney takes up the Internal slot. You can have more than one Replacement in a single body slot.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

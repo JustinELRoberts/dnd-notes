@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Daask Bruiser
-*Source: Eberron: Forge of the Artificer p. 58*  
+
+_Source: Eberron: Forge of the Artificer p. 58_\
 ![](Mechanics/CLI/bestiary/humanoid/img/daask-bruiser.webp#right)
 
 Intimidating and powerful, bruisers lead Daask operations when more violent and decisive shows of force are needed. These enforcers relish the brutality of their work.
@@ -57,4 +58,5 @@ title: Daask Bruiser
 
 ***Smackback.*** Trigger: The bruiser takes damage from a creature within 5 feet. _Response:_ The bruiser makes one Pummel attack, targeting the triggering creature.
 ```
+
 ^statblock

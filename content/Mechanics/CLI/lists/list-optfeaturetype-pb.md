@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Pact Boon
-*Source: Player's Handbook, Tasha's Cauldron of Everything p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
+
+_Source: Player's Handbook, Tasha's Cauldron of Everything p. 71. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - [Pact of the Blade](Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md)
 - [Pact of the Chain](Mechanics/CLI/optional-features/pact-of-the-chain-xphb.md)

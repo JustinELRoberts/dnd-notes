@@ -21,8 +21,8 @@ classes:
 ---
 
 # Face Swap
-*1st-level, Transmutation (ritual)*  
 
+_1st-level, Transmutation (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet
@@ -35,4 +35,4 @@ For the duration, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) a
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

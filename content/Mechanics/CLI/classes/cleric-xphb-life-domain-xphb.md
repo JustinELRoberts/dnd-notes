@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Life Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -51,7 +52,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/life-cleric.webp#right)
 
-*Soothe the Hurts of the World*
+_Soothe the Hurts of the World_
 
 The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.
 

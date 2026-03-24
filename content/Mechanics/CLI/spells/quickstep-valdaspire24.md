@@ -19,8 +19,8 @@ classes:
 ---
 
 # Quickstep
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -31,4 +31,4 @@ This spell imparts a flash of speed. Your [Speed](Mechanics/CLI/rules/variant-ru
 
 **Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

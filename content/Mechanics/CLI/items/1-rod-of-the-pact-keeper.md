@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # +1 Rod of the Pact Keeper
-*Rod, major, uncommon (requires attunement by a warlock)*  
 
+_Rod, major, uncommon (requires attunement by a warlock)_
 
 - **Weight**: 2.0 lbs.
 
@@ -26,4 +26,4 @@ While holding this rod, you gain a +1 bonus to spell attack rolls and to the sav
 
 In addition, you can regain one warlock spell slot as an action while holding the rod. You can't use this property again until you finish a long rest.
 
-*Source: Dungeon Master's Guide p. 197*
+_Source: Dungeon Master's Guide p. 197_

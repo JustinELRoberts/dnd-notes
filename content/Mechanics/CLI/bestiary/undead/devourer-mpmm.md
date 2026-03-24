@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Devourer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 93, Volo's Guide to Monsters p. 138_\
 ![](Mechanics/CLI/bestiary/undead/img/devourer.webp#right)
 
 Of all the abominations unleashed by [Orcus](Mechanics/CLI/bestiary/npc/orcus-mpmm.md), devourers are among the most feared. These tall, mummy-like Undead wander the planes, consuming souls and spreading Orcus's creed of replacing all life with everlasting death.
@@ -63,6 +64,7 @@ title: Devourer
 
 ***Soul Rend (Recharge 6).*** The devourer creates a vortex of life-draining energy in a 20-foot radius centered on itself. Each creature in that area must make a DC 18 Constitution saving throw, taking 44 (`8d10`) necrotic damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

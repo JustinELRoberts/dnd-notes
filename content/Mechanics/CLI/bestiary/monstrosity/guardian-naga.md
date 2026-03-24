@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Guardian Naga
-*Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/guardian-naga.webp#right)
 
 Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
@@ -95,6 +96,7 @@ title: Guardian Naga
 
 ***Spit Poison.*** *Ranged Weapon Attack:* `+8` to hit, range 15/30 ft., one creature. *Hit:* The target must make a DC 15 Constitution saving throw, taking 45 (`10d8`) poison damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

@@ -20,7 +20,8 @@ classes:
 ---
 
 # Mighty Fortress
-*8th-level, Conjuration*  
+
+_8th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/mighty-fortress.webp#right)
 
 - **Casting time:** 1 minute
@@ -44,4 +45,4 @@ Casting this spell on the same spot once every 7 days for a year makes the fortr
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 161*
+_Source: Xanathar's Guide to Everything p. 161_

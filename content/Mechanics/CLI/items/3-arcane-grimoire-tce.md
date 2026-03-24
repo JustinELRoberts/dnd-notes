@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # +3 Arcane Grimoire
-*Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)*  
 
+_Wondrous item, spellcasting focus, very rare (requires attunement by a wizard)_
 
 - **Weight**: 3.0 lbs.
 
@@ -25,4 +25,4 @@ While you are holding this leather-bound book, you can use it as a spellcasting 
 
 You can use this book as a spellbook. In addition, when you use your Arcane Recovery feature, you can increase the number of spell slot levels you regain by 1.
 
-*Source: Tasha's Cauldron of Everything p. 120*
+_Source: Tasha's Cauldron of Everything p. 120_

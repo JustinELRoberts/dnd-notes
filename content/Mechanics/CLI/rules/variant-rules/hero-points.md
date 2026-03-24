@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Hero Points
-*Source: Dungeon Master's Guide p. 264* 
+
+_Source: Dungeon Master's Guide p. 264_
 
 Hero points work well in epic fantasy and mythic campaigns in which the characters are meant to be more like superheroes than the average adventurer is.
 

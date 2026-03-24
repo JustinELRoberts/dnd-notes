@@ -18,21 +18,22 @@ obsidianUIMode: preview
 ---
 
 # Duergar Warlord
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 111_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar-warlord.webp#right)
 
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.
 
 ## Duergar
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Duergar architecture is remarkable for its brutalist grandeur. It is not a style I would use for my towers—I prefer gold, gems, and tracery—but I admire the boldness of dwarven stonework.
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > The mental power that duergar wield was given to them by illithids. But why would illithids create servants who could turn invisible or grow to ogre size?
-> 
+>
 > Most likely because those servants would excel at herding their masters' other minions. In retrospect, it seems arguable that duergar escaped bondage because their jailers had given them the keys.
 
 Duergar are dwarves of the deep reaches of the Underdark and other sunless realms. Their personalities and abilities have been deeply impacted by their ancestors' captivity and torment by mind flayers; they were infused with powerful psionic abilities but also a profound gloom. In some, this strain of sorrow inspires works of grand but melancholic beauty, while in others, it manifests as rage.
@@ -93,6 +94,7 @@ title: Duergar Warlord
 
 ***Scouring Instruction.*** When an ally that the duergar can see makes a `d20` roll, the duergar can roll a `d6`, and the ally can add the number rolled to the `d20` by taking 3 (`1d6`) psychic damage.
 ```
+
 ^statblock
 
 ## Environment

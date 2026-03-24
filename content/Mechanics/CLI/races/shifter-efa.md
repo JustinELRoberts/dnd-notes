@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Shifter
-*Source: Eberron: Forge of the Artificer p. 37*  
+
+_Source: Eberron: Forge of the Artificer p. 37_\
 ![](Mechanics/CLI/races/img/shifter.webp#right)
 
 - **Ability Scores**: None
@@ -38,10 +39,10 @@ As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you
 
 Whenever you shift, you gain the benefit of one of the following options (choose when you select this species)
 
-- **Beasthide.** You gain `1d6` additional [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md). While shifted, you have a +1 bonus to your [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md).  
-- **Longtooth.** When you shift and as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your other turns while shifted, you can use your elongated fangs to make an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). If you hit with this [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) and deal damage, you can deal Piercing damage equal to `1d6` plus your Strength modifier, instead of the normal damage of an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).  
-- **Swiftstride.** While you are shifted, your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet. Additionally, you can move up to 10 feet as a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).  
-- **Wildhunt.** While shifted, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Wisdom checks. Additionally, no creature within 30 feet of you can have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on an attack roll against you unless you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.  
+- **Beasthide.** You gain `1d6` additional [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md). While shifted, you have a +1 bonus to your [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md).
+- **Longtooth.** When you shift and as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your other turns while shifted, you can use your elongated fangs to make an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). If you hit with this [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) and deal damage, you can deal Piercing damage equal to `1d6` plus your Strength modifier, instead of the normal damage of an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+- **Swiftstride.** While you are shifted, your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet. Additionally, you can move up to 10 feet as a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) when a creature ends its turn within 5 feet of you. This reactive movement doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+- **Wildhunt.** While shifted, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Wisdom checks. Additionally, no creature within 30 feet of you can have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on an attack roll against you unless you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
 
 ## Description
 

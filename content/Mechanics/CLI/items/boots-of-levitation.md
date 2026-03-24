@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Boots of Levitation
-*Wondrous item, major, rare (requires attunement)*  
 
-
+_Wondrous item, major, rare (requires attunement)_
 
 While you wear these boots, you can use an action to cast the [levitate](Mechanics/CLI/spells/levitate-xphb.md) spell on yourself at will.
 
-*Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Forms of Government
-*Source: Dungeon Master's Guide p. 18* 
+
+_Source: Dungeon Master's Guide p. 18_
 
 **Forms of Government**
 

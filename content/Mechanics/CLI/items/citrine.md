@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Citrine
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 50 gp
 
 A transparent pale yellow-brown gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

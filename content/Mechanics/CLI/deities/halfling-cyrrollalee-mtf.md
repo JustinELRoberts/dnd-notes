@@ -17,7 +17,6 @@ obsidianUIMode: preview
 
 # Cyrrollalee
 
-
 - **Alignment**: Lawful Good
 - **Domains**: Life, Peace
 - **Pantheon**: Halfling
@@ -34,4 +33,4 @@ Cyrrollalee returned a hero, and from that day forward all the townsfolk remembe
 
 ## Sources
 
-*Mordenkainen's Tome of Foes p. 104, Tasha's Cauldron of Everything p. 33*
+_Mordenkainen's Tome of Foes p. 104, Tasha's Cauldron of Everything p. 33_

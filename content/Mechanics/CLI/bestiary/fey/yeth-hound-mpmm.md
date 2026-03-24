@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Yeth Hound
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 271, Volo's Guide to Monsters p. 201_\
 ![](Mechanics/CLI/bestiary/fey/img/yeth-hound.webp#right)
 
 Granted by mighty Fey to individuals who please them, yeth hounds serve their masters like hunting dogs. They race in pursuit of their prey, running it down until it's too exhausted to fight back. Only the threat of dawn drives the pack back into hiding.
@@ -60,6 +61,7 @@ title: Yeth Hound
 
 ***Baleful Baying.*** The yeth hound bays magically. Every enemy within 300 feet of the hound that can hear it must succeed on a DC 13 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the hound until the end of the hound's next turn or until the hound is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target that starts its turn within 30 feet of the hound must use all its movement on that turn to get as far from the hound as possible, must finish the move before taking an action, and must take the most direct route, even if hazards lie that way. A target that successfully saves is immune to the baying of all yeth hounds for the next 24 hours.
 ```
+
 ^statblock
 
 ## Environment

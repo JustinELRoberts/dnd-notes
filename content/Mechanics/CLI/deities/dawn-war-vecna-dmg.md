@@ -18,14 +18,11 @@ obsidianUIMode: preview
 
 # Vecna
 
-
 - **Alignment**: Neutral Evil
 - **Domains**: Death, Knowledge, Arcana
 - **Pantheon**: Dawn War
 - **Symbol**: Partially shattered one-eyed skull
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10, Sword Coast Adventurer's Guide p. 125*
+_Dungeon Master's Guide p. 10, Sword Coast Adventurer's Guide p. 125_

@@ -17,17 +17,18 @@ obsidianUIMode: preview
 ---
 
 # Octopus
-*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/octopus.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
-![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp "A druid calls on animals of the hills and mountains to aid her cause")
-![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp "Aquatic animals swim alongside a druid exploring the sea")
-![Inhabitants of the rain fo...](Mechanics/CLI/bestiary/beast/img/animals-rainforest.webp "Inhabitants of the rain forest answer a druid's summons")
+> ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
+> ![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp)
+> ![Inhabitants of the rain fo...](Mechanics/CLI/bestiary/beast/img/animals-rainforest.webp)
 
 ```ad-statblock
 title: Octopus
@@ -63,6 +64,7 @@ title: Octopus
 
 ***Ink Cloud (1/Day).*** Trigger: A creature ends its turn within 5 feet of the octopus while underwater. _Response:_ The octopus releases ink that fills a 5-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) centered on itself, and the octopus moves up to its [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md). The [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) is [Heavily Obscured](Mechanics/CLI/rules/variant-rules/heavily-obscured-xphb.md) for 1 minute or until a strong current or similar effect disperses the ink.
 ```
+
 ^statblock
 
 ## Environment

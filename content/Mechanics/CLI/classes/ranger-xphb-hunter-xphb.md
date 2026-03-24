@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Hunter
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
-*Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Ranger](./ranger-xphb.md): Ranger Subclass_\
+_Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/hunter-ranger.webp#right)
 
-*Protect Nature and People from Destruction*
+_Protect Nature and People from Destruction_
 
 You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.
 

@@ -19,8 +19,8 @@ classes:
 ---
 
 # Force Weapon
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 5 feet
@@ -33,4 +33,4 @@ You conjure a blade of magical force in the air, which strikes at a creature wit
 
 **Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Trick
-*Source: Valda's Spire of Secrets (2024), Valda's Spire of Secrets Extras (2024)* 
+
+_Source: Valda's Spire of Secrets (2024), Valda's Spire of Secrets Extras (2024)_
 
 - [Bishop's Maneuver](Mechanics/CLI/optional-features/bishops-maneuver-valdaspire24.md)
 - [Blackjack](Mechanics/CLI/optional-features/blackjack-valdaspire24.md)

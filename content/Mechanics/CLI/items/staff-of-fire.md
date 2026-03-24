@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Fire
-*Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
+
+_Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)_\
 ![](Mechanics/CLI/items/img/staff-of-fire.webp#right)
 
 - **Damage**:
@@ -32,4 +33,4 @@ The staff has 10 charges. While holding it, you can use an action to expend 1 or
 
 The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
 
-*Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

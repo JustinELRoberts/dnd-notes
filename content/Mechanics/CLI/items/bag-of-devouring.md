@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Bag of Devouring
-*Wondrous item, minor, very rare*  
+
+_Wondrous item, minor, very rare_\
 ![](Mechanics/CLI/items/img/bag-of-devouring.webp#right)
 
 - **Weight**: 15.0 lbs.
@@ -28,4 +29,4 @@ Inanimate objects can be stored in the bag, which can hold a cubic foot of such 
 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
-*Source: Dungeon Master's Guide p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

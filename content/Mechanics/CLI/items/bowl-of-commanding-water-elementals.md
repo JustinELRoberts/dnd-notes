@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Bowl of Commanding Water Elementals
-*Wondrous item, major, rare*  
+
+_Wondrous item, major, rare_\
 ![](Mechanics/CLI/items/img/bowl-of-commanding-water-elementals.webp#right)
 
 - **Weight**: 3.0 lbs.
@@ -24,4 +25,4 @@ While this bowl is filled with water, you can use an action to speak the bowl's 
 
 The bowl is about 1 foot in diameter and half as deep. It weighs 3 pounds and holds about 3 gallons.
 
-*Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

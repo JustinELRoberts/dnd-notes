@@ -17,6 +17,7 @@ obsidianUIMode: preview
 # Actions
 
 ## Activate an Item
+
 _Source: Dungeon Master's Guide p. 141. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 - **Duration**: 1 action
@@ -46,6 +47,7 @@ A magic item, such as certain staffs, may require you to use your own spellcasti
 Some magic items have charges that you expend to activate its properties. The number of charges an item has remaining is revealed when an identify spell is cast on the item, or when a creature attunes to the item. Additionally, when an item regains charges, the creature attuned to that item learns how many charges it regained.
 
 ## Attack
+
 _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -63,6 +65,7 @@ If you move on your turn and have a feature, such as Extra Attack, that gives yo
 See also: [Two-Weapon Fighting](Mechanics/CLI/rules/actions.md#Two-Weapon%20Fighting)
 
 ## Climb onto a Bigger Creature
+
 _Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
@@ -76,6 +79,7 @@ The smaller creature can move around within the larger creature's space, treatin
 This action is an optional addition to the game, from the optional/variant rule [Action Options](Mechanics/CLI/rules/variant-rules/action-options.md).
 
 ## Dash
+
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -85,6 +89,7 @@ When you take the Dash action, you gain extra movement for the current turn. The
 If you have a special speed, such as a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) or [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md), you can use that speed instead of your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) when you take this action. You choose which speed to use each time you take it.
 
 ## Disarm
+
 _Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
@@ -98,6 +103,7 @@ See also: [Attack](Mechanics/CLI/rules/actions.md#Attack)
 This action is an optional addition to the game, from the optional/variant rule [Action Options](Mechanics/CLI/rules/variant-rules/action-options.md).
 
 ## Disengage
+
 _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -105,6 +111,7 @@ _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems 
 If you take the Disengage action, your movement doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) for the rest of the current turn.
 
 ## Dodge
+
 _Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -114,6 +121,7 @@ lf you take the Dodge action, you gain the following benefits: until the start o
 You lose these benefits if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition or if your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0.
 
 ## Don or Doff a Shield
+
 _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
@@ -121,6 +129,7 @@ _Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems 
 A [Shield](Mechanics/CLI/items/shield-xphb.md) can be donned or doffed as an action.
 
 ## End Concentration
+
 _Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: Free
@@ -128,6 +137,7 @@ _Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems 
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. You can end Concentration at any time (no action required).
 
 ## Escape a Grapple
+
 _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 action
@@ -135,6 +145,7 @@ _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems 
 A Grappled creature can use its action to make a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check against the grapple's escape DC, ending the [condition](Mechanics/CLI/rules/variant-rules/condition-xphb.md) on itself on a success. The [condition](Mechanics/CLI/rules/variant-rules/condition-xphb.md) also ends if the grappler has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition or if the distance between the Grappled target and the grappler exceeds the grapple's range.
 
 ## Healing Surge
+
 _Source: Dungeon Master's Guide p. 266_
 
 - **Duration**: 1 action
@@ -146,6 +157,7 @@ A character who uses a healing surge can't do so again until he or she finishes 
 This action is an optional addition to the game, from the optional/variant rule [Healing](Mechanics/CLI/rules/variant-rules/healing.md).
 
 ## Help
+
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -164,6 +176,7 @@ You momentarily distract an enemy within 5 feet of you, giving [Advantage](Mecha
 > Additionally, the Help action may be used to "stabilize a creature".
 
 ## Hide
+
 _Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -175,6 +188,7 @@ On a successful check, you have the [Invisible](Mechanics/CLI/rules/conditions.m
 You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
 ## Identify a Spell
+
 _Source: Xanathar's Guide to Everything p. 85_
 
 - **Duration**: 1 reaction, 1 action
@@ -188,6 +202,7 @@ This Intelligence ([Arcana](Mechanics/CLI/rules/skills.md#Arcana)) check represe
 This action is an optional addition to the game, from the optional/variant rule [Spellcasting](Mechanics/CLI/rules/variant-rules/spellcasting-xge.md).
 
 ## Improvising an Action
+
 _Source: Player's Handbook (2024) p. 15. Available in the Free Rules (2024)_
 
 - **Duration**: Varies
@@ -195,6 +210,7 @@ _Source: Player's Handbook (2024) p. 15. Available in the Free Rules (2024)_
 Player characters and monsters can also do things not covered by other actions. Many class features and other abilities provide additional action options, and you can improvise other actions. When you describe an action not detailed elsewhere in the rules, the Dungeon Master tells you whether that action is possible and what kind of [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) you need to make, if any.
 
 ## Influence
+
 _Source: Player's Handbook (2024) p. 369_
 
 - **Duration**: 1 action
@@ -225,6 +241,7 @@ If you urge the monster to do something that it is hesitant to do, you must make
 ^influence-checks
 
 ## Magic
+
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -234,6 +251,7 @@ When you take the Magic action, you cast a spell that has a casting time of an a
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) while you do so. If your [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken, the spell fails, but you don't expend a spell slot.
 
 ## Mark
+
 _Source: Dungeon Master's Guide p. 271_
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
@@ -245,6 +263,7 @@ See also: [Attack](Mechanics/CLI/rules/actions.md#Attack)
 This action is an optional addition to the game, from the optional/variant rule [Action Options](Mechanics/CLI/rules/variant-rules/action-options.md).
 
 ## Opportunity Attack
+
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 reaction
@@ -252,6 +271,7 @@ _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems 
 You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), its [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md), or one of its speeds. To make the Opportunity Attack, take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to make one melee attack with a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) against the provoking creature. The attack occurs right before the creature leaves your reach.
 
 ## Overrun
+
 _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action, 1 bonus
@@ -263,6 +283,7 @@ See also: [Tumble](Mechanics/CLI/rules/actions.md#Tumble)
 This action is an optional addition to the game, from the optional/variant rule [Action Options](Mechanics/CLI/rules/variant-rules/action-options.md).
 
 ## Ready
+
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -276,6 +297,7 @@ When the trigger occurs, you can either take your [Reaction](Mechanics/CLI/rules
 When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [Concentration](Mechanics/CLI/rules/conditions.md#Concentration), which you can maintain up to the start of your next turn. If your [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken, the spell dissipates without taking effect.
 
 ## Search
+
 _Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -293,6 +315,7 @@ When you take the Search action, you make a Wisdom check to discern something th
 ^search
 
 ## Shove Aside
+
 _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action
@@ -302,6 +325,7 @@ With this option, a creature uses the special [shove](Mechanics/CLI/rules/varian
 This action is an optional addition to the game, from the optional/variant rule [Action Options](Mechanics/CLI/rules/variant-rules/action-options.md).
 
 ## Study
+
 _Source: Player's Handbook (2024) p. 375_
 
 - **Duration**: 1 action
@@ -322,6 +346,7 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 ^areas-of-knowledge
 
 ## Tumble
+
 _Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action, 1 bonus
@@ -333,6 +358,7 @@ See also: [Overrun](Mechanics/CLI/rules/actions.md#Overrun)
 This action is an optional addition to the game, from the optional/variant rule [Action Options](Mechanics/CLI/rules/variant-rules/action-options.md).
 
 ## Two-Weapon Fighting
+
 _Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 - **Duration**: 1 bonus
@@ -342,6 +368,7 @@ When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your
 See also: [Attack](Mechanics/CLI/rules/actions.md#Attack)
 
 ## Utilize
+
 _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
@@ -349,6 +376,7 @@ _Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems 
 You normally interact with an object while doing something else, such as when you draw a sword as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action. When an object requires an action for its use, you take the Utilize action.
 
 ## Waking Someone
+
 _Source: Xanathar's Guide to Everything p. 77_
 
 - **Duration**: 1 action

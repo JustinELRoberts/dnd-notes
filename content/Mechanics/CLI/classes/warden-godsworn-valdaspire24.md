@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Godsworn
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Wield Divine Power to Protect the Weak*
+_Wield Divine Power to Protect the Weak_
 
 The whispers of gods, the ringing of bells, and the meter of hymns called you, compelling you to swear an oath of protection. With your blade, you defend temples, holy sites, and other sacred ground, and with your shield, you protect pilgrims as they make their grand journeys. Your purpose is grander than just one life, and you look forward to seeing what designs the gods have set on your travels.
 

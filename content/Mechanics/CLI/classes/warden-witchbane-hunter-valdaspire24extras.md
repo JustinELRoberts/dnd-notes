@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Witchbane Hunter
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Hunt Mages and Supernatural Foes*
+_Hunt Mages and Supernatural Foes_
 
 Where there is magic, there is evil. Witches, warlocks, and hags lurk in the shadows, plying their myriad curses upon the innocent. But your ever-vigilant sword is ready for them, ready to defend the nonmagical folk from evil spellcasters the world-over. You slay vampires, hexers, devils, and fey with impunity, for anyone who might despoil the world with magic shall be hunted and put to the stake.
 

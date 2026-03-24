@@ -17,9 +17,9 @@ obsidianUIMode: preview
 ---
 
 # Ring of Resistance
-*Ring, major, rare (requires attunement)*  
-![](Mechanics/CLI/items/img/ring-of-resistance.webp#right)
 
+_Ring, major, rare (requires attunement)_\
+![](Mechanics/CLI/items/img/ring-of-resistance.webp#right)
 
 You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly.
 
@@ -50,4 +50,4 @@ You have resistance to one damage type while wearing this ring. The gem in the r
 - [Ring of Radiant Resistance](Mechanics/CLI/items/ring-of-radiant-resistance.md)
 - [Ring of Thunder Resistance](Mechanics/CLI/items/ring-of-thunder-resistance.md)
 
-*Source: Dungeon Master's Guide p. 192*
+_Source: Dungeon Master's Guide p. 192_

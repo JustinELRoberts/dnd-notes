@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # +2 Weapon (no damage)
-*Major, rare*  
 
-
+_Major, rare_
 
 You have a +2 bonus to attack rolls made with this weapon.
 
-*Source: Dungeon Master's Guide p. 213*
+_Source: Dungeon Master's Guide p. 213_

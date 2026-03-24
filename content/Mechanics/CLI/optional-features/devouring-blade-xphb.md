@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Devouring Blade 
+# Devouring Blade
 
-
-***Prerequisites*** Level 12, thirsting blade|xphb
+_**Prerequisites**_ Level 12, thirsting blade|xphb
 
 The Extra Attack of your [Thirsting Blade](Mechanics/CLI/optional-features/thirsting-blade-xphb.md) invocation confers two extra attacks rather than one.
+
 ## Sources
 
-*Player's Handbook (2024) p. 155*
+_Player's Handbook (2024) p. 155_

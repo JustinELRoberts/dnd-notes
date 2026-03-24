@@ -13,13 +13,14 @@ obsidianUIMode: preview
 ---
 
 # Firearms
-*Source: Dungeon Master's Guide p. 267* 
+
+_Source: Dungeon Master's Guide p. 267_
 
 If you want to model the swashbuckling style of The Three Musketeers and similar tales, you can introduce gunpowder weapon to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear. The Firearms table provides examples of firearms from all three of those periods. The modern and futuristic items are priceless.
 
 ## Proficiency
 
-It's up to you to decide whether a character has proficiency with a firearm. Characters in most D&D worlds wouldn't have such proficiency. During their downtime, characters can use the <span title="Player's Handbook">training</span> rules in the "Player's Handbook" to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.
+It's up to you to decide whether a character has proficiency with a firearm. Characters in most D\&D worlds wouldn't have such proficiency. During their downtime, characters can use the <span title="Player's Handbook">training</span> rules in the "Player's Handbook" to acquire proficiency, assuming that they have enough ammunition to keep the weapons working while mastering their use.
 
 ## Properties
 

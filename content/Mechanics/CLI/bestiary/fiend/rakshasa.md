@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Rakshasa
-*Source: Monster Manual p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/rakshasa.webp#right)
 
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
@@ -34,12 +35,11 @@ When the rakshasa is reborn, it has all the memories and knowledge of its former
 
 Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 
-> [!quote] A quote from Rakshasa maxim  
-> 
+> [!quote] A quote from Rakshasa maxim
+>
 > Slay me once, shame on you.
-> 
+>
 > Slay me twice, shame on me.
-
 
 ## Statblock
 
@@ -83,6 +83,7 @@ title: Rakshasa
 
 ***Claw.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 9 (`2d6 + 2`) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Arcane Initiation
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Adventurer](Mechanics/CLI/optional-features/adventurer-valdaspire24.md)
 - [Arcane Event](Mechanics/CLI/optional-features/arcane-event-valdaspire24.md)

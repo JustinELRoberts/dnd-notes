@@ -27,8 +27,8 @@ classes:
 ---
 
 # Flesh to Stone
-*6th-level, Transmutation*  
 
+_6th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -43,4 +43,4 @@ If you maintain your [Concentration](Mechanics/CLI/rules/conditions.md#Concentra
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 275. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

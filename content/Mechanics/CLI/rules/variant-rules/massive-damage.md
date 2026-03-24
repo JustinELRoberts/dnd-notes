@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Massive Damage
-*Source: Dungeon Master's Guide p. 273* 
+
+_Source: Dungeon Master's Guide p. 273_
 
 This optional rule makes it easier for a creature to be felled by massive damage.
 

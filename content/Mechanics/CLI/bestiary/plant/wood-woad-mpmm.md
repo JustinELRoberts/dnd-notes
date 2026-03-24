@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wood Woad
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198_\
 ![](Mechanics/CLI/bestiary/plant/img/wood-woad.webp#right)
 
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
@@ -72,6 +73,7 @@ title: Wood Woad
 
 ***Club.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 14 (`4d4 + 4`) force damage.
 ```
+
 ^statblock
 
 ## Environment

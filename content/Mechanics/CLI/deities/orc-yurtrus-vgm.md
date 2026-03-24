@@ -16,7 +16,6 @@ obsidianUIMode: preview
 
 # Yurtrus
 
-
 - **Alignment**: Neutral Evil
 - **Domains**: Death
 - **Pantheon**: Orc
@@ -40,4 +39,4 @@ Orcs that suffer from gruesome diseases are brought into Yurtrus's fold and tend
 
 ## Sources
 
-*Volo's Guide to Monsters p. 84*
+_Volo's Guide to Monsters p. 84_

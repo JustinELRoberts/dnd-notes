@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drow
-*Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![Drow](Mechanics/CLI/bestiary/humanoid/img/drow.webp#right)
 
 ## Drow
@@ -61,18 +62,17 @@ In drow society, males are subservient to females. A male drow might lead an Und
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
-> 
+>
 > Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.
-> 
-> - A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 bonus on attack and damage rolls with shortsword attacks.  
-> - A drow elite warrior wearing +2 studded leather and carrying a +2 shortsword has AC 20 and a +2 bonus on attack and damage rolls with shortsword attacks.  
-> - A drow priestess of Lolth wearing +3 scale mail has AC 19.  
-^variant-drow-magic-armor-and-weapons
+>
+> - A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 bonus on attack and damage rolls with shortsword attacks.
+> - A drow elite warrior wearing +2 studded leather and carrying a +2 shortsword has AC 20 and a +2 bonus on attack and damage rolls with shortsword attacks.
+> - A drow priestess of Lolth wearing +3 scale mail has AC 19.\
+>   ^variant-drow-magic-armor-and-weapons
 
-> [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
-> 
+> [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian
+>
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
-
 
 ```ad-statblock
 title: Drow
@@ -113,6 +113,7 @@ title: Drow
 
 ***Hand Crossbow.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 ```
+
 ^statblock
 
 ## Environment

@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Aasimar
-*Source: Player's Handbook (2024) p. 186*  
+
+_Source: Player's Handbook (2024) p. 186_\
 ![](Mechanics/CLI/races/img/aasimar.webp#right)
 
 - **Ability Scores**: None
@@ -49,9 +50,9 @@ Once on each of your turns before the transformation ends, you can deal extra da
 
 Here are the transformation options:
 
-- **Heavenly Wings.** Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).  
-- **Inner Radiance.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes Radiant damage equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).  
-- **Necrotic Shroud.** Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of your next turn.  
+- **Heavenly Wings.** Two spectral wings sprout from your back temporarily. Until the transformation ends, you have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+- **Inner Radiance.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) in a 10-foot radius and [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes Radiant damage equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+- **Necrotic Shroud.** Your eyes briefly become pools of darkness, and flightless wings sprout from your back temporarily. Creatures other than your allies within 10 feet of you must succeed on a Charisma saving throw (DC 8 plus your Charisma modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of your next turn.
 
 ## Description
 

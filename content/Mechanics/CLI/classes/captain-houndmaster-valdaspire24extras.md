@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Houndmaster
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -55,13 +56,13 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 The GM decides if a subclass should be cross-compatible in your campaign.
 
 > [!note] Cross-Compatability Modifictaions
-> 
+>
 > **Level 3: Faithful Hound.** The Hound is your Cohort and uses the rules in the Cohort feature. The Hound uses your Charisma modifier for attack and damage rolls. The Hound also has the Martial Excellence trait.
-> 
+>
 > **Level 5: Martial Excellence.** The hound has a +1 bonus to its attack and damage rolls. This bonus increases to +2 at Captain level 9, and +3 at Captain level 13.
-^cross-compatability-modifictaions
+> ^cross-compatability-modifictaions
 
-*Travel the Land with a Good Dog at Your Side*
+_Travel the Land with a Good Dog at Your Side_
 
 Stretching ever onward, the road is grueling and unforgiving. But, as Houndmasters know, it need not be lonely. A single dog, mankind's most loyal companion, can make all the difference in the world. Houndmasters are never found without their dogs, who both serve as inseparable companions and fearsome defenders as the need arises.
 
@@ -76,14 +77,14 @@ Your loyal hound is always at your side. It uses the Hound stat block and the fo
 **The Hound Dropping to 0 Hit Points.** If the hound drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), it has the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) or it regains any [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). When you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), it regains all of its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and loses this condition. See the sidebar "Does the Dog Die?" for information about losing or replacing your hound.
 
 > [!note] Does the Dog Die?
-> 
+>
 > Your hound isn't just a minion to be sacrificed in combat. It's your most loyal companion and an integral component of your playstyle. Therefore, discuss with your GM how to handle losing your dog. It might be narratively impossible to lose your dog. Or the kidnapping or death of your dog might represent a pivotal moment in your story. You may even want to adopt another subclass, such as Adrenaline Junkie, during your dog's absence.
-^does-the-dog-die
+> ^does-the-dog-die
 
 > [!embed-monster]- Hound
 > ![Hound](Mechanics/CLI/bestiary/beast/hound-valdaspire24extras.md#^statblock)
 
-### Sick 'Em! [Maneuver] (Level 3)
+### Sick 'Em! \[Maneuver] (Level 3)
 
 As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to command your hound to attack a creature you can see within 40 feet of it. The hound moves up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) and makes one Bite attack against the target, adding the Battle Die to its attack and damage roll.
 

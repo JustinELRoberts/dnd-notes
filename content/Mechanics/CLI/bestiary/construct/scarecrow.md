@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Scarecrow
-*Source: Monster Manual p. 268*  
+
+_Source: Monster Manual p. 268_\
 ![](Mechanics/CLI/bestiary/construct/img/scarecrow.webp#right)
 
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
@@ -64,6 +65,7 @@ title: Scarecrow
 
 ***Terrifying Glare.*** The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11 Wisdom saving throw or be magically [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the scarecrow's next turn. The [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed).
 ```
+
 ^statblock
 
 ## Environment

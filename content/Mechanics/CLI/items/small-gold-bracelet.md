@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Small gold bracelet
-*Treasure (art object)*  
 
+_Treasure (art object)_
 
 - **Cost**: 25 gp
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

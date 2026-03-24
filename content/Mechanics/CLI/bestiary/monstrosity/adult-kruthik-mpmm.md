@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Adult Kruthik
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 169*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 169_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/adult-kruthik.webp#right)
 
 It takes six months of steady eating for a [young kruthik](Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
@@ -28,12 +29,12 @@ Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-s
 
 ## Kruthiks
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Imagine a hive of ants the size of horses, but the ants are wearing armor.
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies.
 
 Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels—evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
@@ -82,6 +83,7 @@ title: Adult Kruthik
 
 ***Spike.*** *Ranged Weapon Attack:* `+5` to hit, range 20/60 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

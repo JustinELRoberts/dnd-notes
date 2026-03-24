@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Drow Inquisitor
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 102*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 102_\
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-inquisitor.webp#right)
 
 Lolth's worshipers expect treachery—the Spider Queen encourages it, after all. A certain amount of backstabbing and double-crossing can be managed, but too much can undermine an entire community. To keep some semblance of order and to root out traitors, priestesses of Lolth employ inquisitors. Inquisitors are chosen from the ranks of the priesthood, and their authority is equaled only by that of the [drow matron mothers](Mechanics/CLI/bestiary/humanoid/drow-matron-mother-mpmm.md) (also in this book) of the noble houses. Anyone they decide is at odds with the hierarchy faces painful interrogation and usually an excruciating death.
@@ -70,6 +71,7 @@ title: Drow Inquisitor
 
 The dagger lasts for 1 minute. As a bonus action on later turns, the drow can move the dagger up to 20 feet and repeat the attack against one creature within 5 feet of the dagger.
 ```
+
 ^statblock
 
 ## Environment

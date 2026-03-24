@@ -18,14 +18,11 @@ obsidianUIMode: preview
 
 # Anubis
 
-
 - **Alignment**: Lawful Neutral
 - **Domains**: Death, Grave, Order
 - **Pantheon**: Egyptian
 - **Symbol**: Black jackal
 
-
-
 ## Sources
 
-*Player's Handbook p. 299, Xanathar's Guide to Everything p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Player's Handbook p. 299, Xanathar's Guide to Everything p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

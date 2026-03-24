@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # A Sample Pantheon; Dawn War Deities
-*Source: Dungeon Master's Guide p. 11* 
+
+_Source: Dungeon Master's Guide p. 11_
 
 **Dawn War Deities**
 

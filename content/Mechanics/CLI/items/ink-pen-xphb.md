@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Ink Pen
-*Adventuring gear*  
 
+_Adventuring gear_
 
 - **Cost**: 2 cp
 
 Using [Ink](Mechanics/CLI/items/ink-xphb.md), an Ink Pen is used to write or draw.
 
-*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

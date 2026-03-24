@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Shroud of Shadow 
+# Shroud of Shadow
 
-
-***Prerequisites*** Level 15
+_**Prerequisites**_ Level 15
 
 You can cast [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) at will, without expending a spell slot.
+
 ## Sources
 
-*Xanathar's Guide to Everything p. 57*
+_Xanathar's Guide to Everything p. 57_

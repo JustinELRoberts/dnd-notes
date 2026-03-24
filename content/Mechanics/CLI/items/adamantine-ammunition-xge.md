@@ -23,15 +23,15 @@ obsidianUIMode: preview
 ---
 
 # Adamantine Ammunition
-*Ammunition, minor*  
 
-
+_Ammunition, minor_
 
 Ammunition made of or coated with adamantine is unusually effective when used to break objects. Whenever a piece of adamantine ammunition hits an object, the hit is a critical hit.
 
 The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it.
 
 **Variants**:
+
 - [Adamantine Arrow](#Adamantine%20Arrow)
 - [Adamantine Bolt](#Adamantine%20Bolt)
 - [Adamantine Firearm Bullet](#Adamantine%20Firearm%20Bullet)
@@ -63,5 +63,4 @@ The adamantine version of ten pieces of ammunition costs 500 gp more than the no
 
 - **Weight**: 0.075 lbs.
 
-
-*Source: Xanathar's Guide to Everything p. 78*
+_Source: Xanathar's Guide to Everything p. 78_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # NPC Low Abilities
-*Source: Dungeon Master's Guide p. 88* 
+
+_Source: Dungeon Master's Guide p. 88_
 
 **NPC Low Abilities**
 

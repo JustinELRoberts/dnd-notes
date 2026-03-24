@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Swarm Pistol
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d4 radiant
 - **Range**: 20/60
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 This handheld blaster, styled much like a [Repeater](Mechanics/CLI/items/repeater-valdaspire24extras.md), has a wickedly fast automatic fire, capable of spewing dozens of rays in seconds. Dexterous users might even find it possible to use one in each hand for a dazzling spectacle of plasma bolts.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

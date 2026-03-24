@@ -17,9 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ring of Water Elemental Command
-*Ring, major, legendary (requires attunement)*  
 
-
+_Ring, major, legendary (requires attunement)_
 
 While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Water and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Water.
 
@@ -29,7 +28,7 @@ You can expend 2 of the ring's charges to cast [dominate monster](Mechanics/CLI/
 
 If you help slay a [water elemental](Mechanics/CLI/bestiary/elemental/water-elemental.md) while attuned to the ring, you gain access to the following additional properties:
 
-- You can breathe underwater and have a swimming speed equal to your walking speed.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [create or destroy water](Mechanics/CLI/spells/create-or-destroy-water-xphb.md) (1 charge), [control water](Mechanics/CLI/spells/control-water-xphb.md) (3 charges), [ice storm](Mechanics/CLI/spells/ice-storm-xphb.md) (2 charges), or [wall of ice](Mechanics/CLI/spells/wall-of-ice-xphb.md) (3 charges).  
+- You can breathe underwater and have a swimming speed equal to your walking speed.
+- You can cast the following spells from the ring, expending the necessary number of charges: [create or destroy water](Mechanics/CLI/spells/create-or-destroy-water-xphb.md) (1 charge), [control water](Mechanics/CLI/spells/control-water-xphb.md) (3 charges), [ice storm](Mechanics/CLI/spells/ice-storm-xphb.md) (2 charges), or [wall of ice](Mechanics/CLI/spells/wall-of-ice-xphb.md) (3 charges).
 
-*Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

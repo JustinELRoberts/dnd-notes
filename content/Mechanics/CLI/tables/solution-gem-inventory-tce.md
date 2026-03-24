@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Solution; Gem Inventory
-*Source: Tasha's Cauldron of Everything p. 176* 
+
+_Source: Tasha's Cauldron of Everything p. 176_
 
 **Gem Inventory**
 

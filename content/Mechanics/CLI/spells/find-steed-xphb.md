@@ -20,8 +20,8 @@ classes:
 ---
 
 # Find Steed
-*2nd-level, Conjuration*  
 
+_2nd-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -48,4 +48,4 @@ Use the spell slot's level for the spell's level in the stat block.
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

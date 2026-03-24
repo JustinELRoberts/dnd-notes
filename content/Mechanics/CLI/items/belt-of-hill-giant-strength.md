@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Belt of Hill Giant Strength
-*Wondrous item, major, rare (requires attunement)*  
 
-
+_Wondrous item, major, rare (requires attunement)_
 
 While wearing this belt, your Strength score changes to 21. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
 
-*Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of the Stormborn
 
-
 You have immunity to lightning and thunder damage. You can also cast [thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) (save DC 15) at will, without using a spell slot or any components.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

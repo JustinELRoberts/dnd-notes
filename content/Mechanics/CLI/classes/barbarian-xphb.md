@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Barbarian
-*Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Barbarian
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Greataxe](Mechanics/CLI/items/greataxe-xphb.md), 4 [Handaxes](Mechanics/CLI/items/handaxe-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 15 GP; or (B) 75 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Greataxe](Mechanics/CLI/items/greataxe-xphb.md), 4 [Handaxes](Mechanics/CLI/items/handaxe-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 15 GP; or (B) 75 GP
 
 ## Multiclassing Barbarian
 
@@ -99,9 +100,9 @@ While active, your Rage follows the rules below.
 
 **Duration.** The Rage lasts until the end of your next turn, and it ends early if you don Heavy armor or have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. If your Rage is still active on your next turn, you can extend the Rage for another round by doing one of the following:
 
-- Make an attack roll against an enemy.  
-- Force an enemy to make a saving throw.  
-- Take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to extend your Rage.  
+- Make an attack roll against an enemy.
+- Force an enemy to make a saving throw.
+- Take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to extend your Rage.
 
 Each time the Rage is extended, it lasts until the end of your next turn. You can maintain a Rage for up to 10 minutes.
 

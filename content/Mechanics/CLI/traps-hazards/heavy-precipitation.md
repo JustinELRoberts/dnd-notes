@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Heavy Precipitation
-*Weather*  
 
+_Weather_
 
 Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing.
 
 ## Sources
 
-*Dungeon Master's Guide p. 110*
+_Dungeon Master's Guide p. 110_

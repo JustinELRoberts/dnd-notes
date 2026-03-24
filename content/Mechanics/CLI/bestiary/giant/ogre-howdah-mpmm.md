@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Ogre Howdah
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 201*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 201_\
 ![](Mechanics/CLI/bestiary/giant/img/ogre-howdah.webp#right)
 
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](Mechanics/CLI/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](Mechanics/CLI/bestiary/humanoid/kobold.md) or [deep gnomes](Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
@@ -59,6 +60,7 @@ title: Ogre Howdah
 
 ***Mace.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

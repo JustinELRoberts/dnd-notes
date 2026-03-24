@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Yuan-ti Mind Whisperer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-mind-whisperer.webp#right)
 
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
@@ -79,6 +80,7 @@ title: Yuan-ti Mind Whisperer
 
 ***Change Shape.*** The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
 ```
+
 ^statblock
 
 ## Environment

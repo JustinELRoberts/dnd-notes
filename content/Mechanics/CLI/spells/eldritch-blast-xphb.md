@@ -19,8 +19,8 @@ classes:
 ---
 
 # Eldritch Blast
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -33,4 +33,4 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 **Classes**: [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

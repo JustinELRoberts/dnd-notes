@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Ooze Infusion
-*Monstrous graft, uncommon*  
 
+_Monstrous graft, uncommon_
 
 - **Properties**: [Internal Slot](Mechanics/CLI/rules/item-properties.md#Internal%20Slot)
 
-*Donor: Any Ooze*
+_Donor: Any Ooze_
 
 This graft causes your internal anatomy to become semi-fluid. Any [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

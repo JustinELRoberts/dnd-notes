@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Dragon Banner
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Class/Dragon%20Banner.webp#right)
 
-*Defeat Your Foes with an Arsenal of Maneuvers*
+_Defeat Your Foes with an Arsenal of Maneuvers_
 
 Captains under the Dragon Banner are a scourge upon the battlefield. Armed with an array of lethal maneuvers, these captains cut through lesser combatants with ease, turning the tides of battle on their own, if needed. The visage of the Dragon Banner inspires fear and loyalty in equal measure, for the carnage left in a dragon warrior's wake speaks volumes of their skill.
 
@@ -64,7 +65,7 @@ You enter a flow state in combat, granting you the following benefits.
 
 **Chain Critical.** Whenever you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against an enemy, your [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) range increases. After the first such attack, your attacks score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 18-20 on the `d20`; after the second, you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 17-20; after the third, you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 16-20. Your [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) range resets after 1 minute or when you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
 
-### Rampage [Maneuver] (Level 3)
+### Rampage \[Maneuver] (Level 3)
 
 Once on each of your turns, immediately after you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) with a melee attack roll, you can expend one Battle Die to move up to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) and make a melee attack (no action required). On a hit, you add the Battle Die to the attack's damage roll.
 
@@ -80,6 +81,6 @@ Whenever you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules
 
 Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
-### Coup de Grâce [Maneuver] (Level 14)
+### Coup de Grâce \[Maneuver] (Level 14)
 
 When you hit a creature with an attack using a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend two Battle Dice as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to attempt to execute the target. Add the Battle Dice to the attack's damage roll. If you reduce the target to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), this maneuver doesn't expend any Battle Dice.

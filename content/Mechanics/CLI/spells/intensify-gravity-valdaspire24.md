@@ -30,8 +30,8 @@ classes:
 ---
 
 # Intensify Gravity
-*4th-level, Transmutation*  
 
+_4th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 100 feet
@@ -50,4 +50,4 @@ Lastly, creatures and objects take double damage from falling.
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

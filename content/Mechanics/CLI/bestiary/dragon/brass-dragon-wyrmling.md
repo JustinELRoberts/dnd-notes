@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Brass Dragon Wyrmling
-*Source: Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/brass-dragon.webp#right)
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -117,4 +118,5 @@ title: Brass Dragon Wyrmling
 - **Fire Breath.** The dragon exhales fire in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (`4d6`) fire damage on a failed save, or half as much damage on a successful one.  
 - **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.  
 ```
+
 ^statblock

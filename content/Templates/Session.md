@@ -15,6 +15,8 @@ End Day:
 ---
 
 ## Summary
+
 ## Events
+
 - <%tp.file.cursor()%>
-<%await tp.file.move(`Campaigns/Under The Ash/Sessions/${tp.file.title}`)%>
+  <%await tp.file.move(`Campaigns/Under The Ash/Sessions/${tp.file.title}`)%>

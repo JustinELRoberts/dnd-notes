@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Religious Order Quests
-*Source: Tasha's Cauldron of Everything p. 100* 
+
+_Source: Tasha's Cauldron of Everything p. 100_
 
 **Religious Order Quests**
 

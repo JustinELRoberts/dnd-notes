@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # 2,500 gp Art Objects
-*Source: Dungeon Master's Guide p. 134* 
+
+_Source: Dungeon Master's Guide p. 134_
 
 **2,500 gp Art Objects**
 

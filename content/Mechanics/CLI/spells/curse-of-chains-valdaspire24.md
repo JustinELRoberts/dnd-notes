@@ -19,8 +19,8 @@ classes:
 ---
 
 # Curse of Chains
-*1st-level, Enchantment*  
 
+_1st-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -31,4 +31,4 @@ A black brand resembling iron shackles appears on a creature you can see within 
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

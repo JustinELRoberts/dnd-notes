@@ -16,11 +16,11 @@ obsidianUIMode: preview
 ---
 
 # Psychic Blade
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d6 psychic
 - **Range**: 60/120
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
 
-*Source: Player's Handbook (2024) p. 136*
+_Source: Player's Handbook (2024) p. 136_

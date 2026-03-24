@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Bestial Spirit (Water)
-*Source: Player's Handbook (2024) p. 323*  
+
+_Source: Player's Handbook (2024) p. 323_
 
 ```ad-statblock
 title: Bestial Spirit (Water)
@@ -49,4 +50,5 @@ title: Bestial Spirit (Water)
 
 ***Rend.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 4` + the spell's level Piercing damage.
 ```
+
 ^statblock

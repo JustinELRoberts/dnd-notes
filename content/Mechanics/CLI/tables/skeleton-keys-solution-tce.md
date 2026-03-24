@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Skeleton Keys Solution
-*Source: Tasha's Cauldron of Everything p. 175* 
+
+_Source: Tasha's Cauldron of Everything p. 175_
 
 **Skeleton Keys Solution**
 

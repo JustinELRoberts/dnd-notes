@@ -17,10 +17,10 @@ obsidianUIMode: preview
 ---
 
 # Ring of Telekinesis
-*Ring, major, very rare (requires attunement)*  
-![](Mechanics/CLI/items/img/ring-of-telekinesis.webp#right)
 
+_Ring, major, very rare (requires attunement)_\
+![](Mechanics/CLI/items/img/ring-of-telekinesis.webp#right)
 
 While wearing this ring, you can cast the [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md) spell at will, but you can target only objects that aren't being worn or carried.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -15,10 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Lyrandar Air Cruiser
-*Source: Eberron: Forge of the Artificer p. 106*  
+
+_Source: Eberron: Forge of the Artificer p. 106_\
 ![](Mechanics/CLI/vehicles/img/lyrandar-air-cruiser.webp#right)
 
 Haloed by their enormous rings of elemental energy, Lyrandar Air Cruisers cast imposing shadows as they sail through the skies. These airships are the largest and most iconic means of air travel in "Khorvaire", ferrying the wealthy and elite across the "Five Nations" and beyond. Though airships have become marginally more common since their introduction a few years ago, a fully operational air cruiser is still an impressive sight.
+
 ```ad-statblock
 title: Lyrandar Air Cruiser
 ![](Mechanics/CLI/vehicles/token/lyrandar-air-cruiser-efa.webp#token)
@@ -27,4 +29,5 @@ title: Lyrandar Air Cruiser
 - **Creature Capacity** 10 crew, 40 passengers
 - **Cargo Capacity** 2 tons
 ```
+
 ^statblock

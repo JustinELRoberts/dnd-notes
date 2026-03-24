@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Darts
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Make Bullseye Shots with Ranged Cantrips*
+_Make Bullseye Shots with Ranged Cantrips_
 
 Every Warmage understands the importance of precision, but the House of Darts flaunts a competitive excellence when it comes to landing shots. Daggers, bolts of magic, and of course, darts are their weapons of choice, but they don't stop at mere bullseyes. A wire array of trick shots set these Warmages apart from their contemporaries, even if they lack the grand strategies or discipline of the more martial colleges.
 
@@ -66,11 +67,11 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 ### Bullseye (Level 3)
 
-You can sink a shot exactly where you need to. Record the number rolled on the `d20` whenever you make a ranged spell attack roll with a Warmage cantrip. Rolls that have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) and [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) record the higher and lower `d20` roll, respectively. If a `d20` roll is increased or decreased using your [Trick Shot](Mechanics/CLI/classes/warmage-house-of-darts-valdaspire24.md#Trick%20Shot%20(Level%203)) feature, use the new number. A recorded roll lasts for 1 minute. If you roll one of your recorded numbers again when making a spell attack roll with a Warmage cantrip, you gain one of the following benefits of your choice.
+You can sink a shot exactly where you need to. Record the number rolled on the `d20` whenever you make a ranged spell attack roll with a Warmage cantrip. Rolls that have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) and [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) record the higher and lower `d20` roll, respectively. If a `d20` roll is increased or decreased using your [Trick Shot](Mechanics/CLI/classes/warmage-house-of-darts-valdaspire24.md#Trick%20Shot%20\(Level%203\)) feature, use the new number. A recorded roll lasts for 1 minute. If you roll one of your recorded numbers again when making a spell attack roll with a Warmage cantrip, you gain one of the following benefits of your choice.
 
 **Extra Damage.** You can deal an extra `1d10` Force damage to the target.
 
-**Recovery.** You regain one expended use of your [Trick Shot](Mechanics/CLI/classes/warmage-house-of-darts-valdaspire24.md#Trick%20Shot%20(Level%203)) feature.
+**Recovery.** You regain one expended use of your [Trick Shot](Mechanics/CLI/classes/warmage-house-of-darts-valdaspire24.md#Trick%20Shot%20\(Level%203\)) feature.
 
 **Reroll.** You can reroll the `d20` and must use the new roll. Record this new `d20` roll.
 
@@ -88,6 +89,6 @@ You master the house's signature technique for recovering darts. Whenever you ca
 
 ### Dart Burst (Level 18)
 
-If you have recorded ten or more unique numbers using your [Bullseye](Mechanics/CLI/classes/warmage-house-of-darts-valdaspire24.md#Bullseye%20(Level%203)) feature, you can take an action to clear all of your recorded numbers and throw a burst of darts. Each creature in a 60-foot cone must make a Dexterity saving throw. A creature takes `1d8` Force damage for each unique recorded number on a failed save, or half as much damage on a successful one.
+If you have recorded ten or more unique numbers using your [Bullseye](Mechanics/CLI/classes/warmage-house-of-darts-valdaspire24.md#Bullseye%20\(Level%203\)) feature, you can take an action to clear all of your recorded numbers and throw a burst of darts. Each creature in a 60-foot cone must make a Dexterity saving throw. A creature takes `1d8` Force damage for each unique recorded number on a failed save, or half as much damage on a successful one.
 
 Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Unraveling Magic Effects
-*Source: Tasha's Cauldron of Everything p. 161* 
+
+_Source: Tasha's Cauldron of Everything p. 161_
 
 **Unraveling Magic Effects**
 

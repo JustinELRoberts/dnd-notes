@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Potion of Giant Strength
-*Potion*  
 
-
+_Potion_
 
 **Items in this group:**
 
@@ -28,4 +27,4 @@ obsidianUIMode: preview
 - [Potion of Stone Giant Strength](Mechanics/CLI/items/potion-of-stone-giant-strength.md)
 - [Potion of Storm Giant Strength](Mechanics/CLI/items/potion-of-storm-giant-strength.md)
 
-*Source: Dungeon Master's Guide p. 187*
+_Source: Dungeon Master's Guide p. 187_

@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Blue Quartz
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 10 gp
 
 A transparent pale blue gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

@@ -22,8 +22,8 @@ classes:
 ---
 
 # Holy Aura
-*8th-level, Abjuration*  
 
+_8th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -34,4 +34,4 @@ For the duration, you emit an aura in a 30-foot [Emanation](Mechanics/CLI/rules/
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 286. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

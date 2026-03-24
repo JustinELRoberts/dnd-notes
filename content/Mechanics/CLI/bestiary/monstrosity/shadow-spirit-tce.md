@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Shadow Spirit
-*Source: Tasha's Cauldron of Everything p. 114*  
+
+_Source: Tasha's Cauldron of Everything p. 114_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/summon-shadowspawn.webp#center)
 
 ```ad-statblock
@@ -59,4 +60,5 @@ title: Shadow Spirit
 
 ***Shadow Stealth (Fear Only).*** While in dim light or darkness, the spirit takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock

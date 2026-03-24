@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Necklace of Prayer Beads
-*Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)*  
+
+_Wondrous item, major, rare (requires attunement by a cleric, druid, or paladin)_\
 ![](Mechanics/CLI/items/img/necklace-of-prayer-beads.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -35,4 +36,4 @@ Six types of magic beads exist. The DM decides the type of each bead on the neck
 | 20 | Wind walking | [Wind walk](Mechanics/CLI/spells/wind-walk-xphb.md) |
 ^bead-of-spell
 
-*Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

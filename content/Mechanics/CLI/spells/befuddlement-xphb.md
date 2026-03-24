@@ -24,8 +24,8 @@ classes:
 ---
 
 # Befuddlement
-*8th-level, Enchantment*  
 
+_8th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -40,4 +40,4 @@ On a successful save, the target takes half as much damage only.
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

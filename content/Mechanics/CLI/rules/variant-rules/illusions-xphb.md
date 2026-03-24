@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Illusions
-*Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 Spells and other effects sometimes create magical illusions. Such an effect defines what the illusion does and which senses or mental faculties it deceives.
 

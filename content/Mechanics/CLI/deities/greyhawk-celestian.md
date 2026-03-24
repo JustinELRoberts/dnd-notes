@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Celestian
 
-
 - **Alignment**: Neutral
 - **Domains**: Knowledge, Twilight
 - **Pantheon**: Greyhawk
 - **Symbol**: Arc of seven stars inside a circle
 
-
-
 ## Sources
 
-*Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34*
+_Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34_

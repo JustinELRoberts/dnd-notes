@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Mercy
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Heal the Sick and Wounded*
+_Heal the Sick and Wounded_
 
 When the suffering of the world grows too heavy and the cries of the anguished grow too loud, the gods deliver a Martyr to ease the strife and bring peace to the masses. This burden, however, has no end. A Martyr may spend all their days healing the sick and driving demons out of the possessed, but they will scarcely impact the world at large. Indeed, the onus upon them is not to mend every wound or comfort every widow, but to provide hope in the darkest of times that the gods have not forsaken their people, that peace will soon reign, and that light will be victorious.
 

@@ -124,15 +124,15 @@ obsidianUIMode: preview
 ---
 
 # Dazzling Weapon
-*Rare (requires attunement)*  
 
-
+_Rare (requires attunement)_
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to cause it to shed [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for an additional 30 feet. You can extinguish the light as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
 
 The weapon has 4 charges. You can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) immediately after being hit by an attack roll to expend 1 of the weapon's charges and force the attacker to make a DC 15 Constitution saving throw. On a failed save, the attacker has the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition until the end of its next turn. The weapon regains `1d4` expended charges daily at dawn.
 
 **Variants**:
+
 - [Dazzling Antimatter Carbine](#Dazzling%20Antimatter%20Carbine)
 - [Dazzling Antimatter Pistol](#Dazzling%20Antimatter%20Pistol)
 - [Dazzling Antimatter Rifle](#Dazzling%20Antimatter%20Rifle)
@@ -917,5 +917,4 @@ The weapon has 4 charges. You can take a [Reaction](Mechanics/CLI/rules/variant-
 - **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
-
-*Source: Eberron: Forge of the Artificer p. 112*
+_Source: Eberron: Forge of the Artificer p. 112_

@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Hippogriff
-*Source: Monster Manual p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/hippogriff.webp#right)
 
 A beast whose magical origins are lost to history, a hippogriff possesses the wings and forelimbs of an eagle, the hindquarters of a horse, and a head that combines the features of both animals.
@@ -66,6 +67,7 @@ title: Hippogriff
 
 ***Claws.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

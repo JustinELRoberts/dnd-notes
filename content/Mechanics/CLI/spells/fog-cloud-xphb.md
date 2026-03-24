@@ -53,8 +53,8 @@ classes:
 ---
 
 # Fog Cloud
-*1st-level, Conjuration*  
 
+_1st-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -67,4 +67,4 @@ You create a 20-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-ar
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Polar Land)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Necromancer (Dead Mist Acolyte)](Mechanics/CLI/lists/list-spells-classes-dead-mist-acolyte-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock (The Genie, Marid)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Fragrant Magic)](Mechanics/CLI/lists/list-spells-classes-fragrant-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Witch (Sky Magic)](Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

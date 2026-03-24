@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Baba Yaga's Mortar and Pestle
-*Wondrous item, artifact (requires attunement)*  
-![](Mechanics/CLI/items/img/baba-yagas-mortar-and-pestle.webp#right)
 
+_Wondrous item, artifact (requires attunement)_\
+![](Mechanics/CLI/items/img/baba-yagas-mortar-and-pestle.webp#right)
 
 The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among the notorious implements that cement her legend on countless worlds are the artifacts that propel her through the planes: Baba Yaga's Mortar and Pestle. These signature tools of Baba Yaga are a single artifact for purposes of attunement. Should the two objects become separated, the pestle appears next to the mortar at the next dawn.
 
@@ -25,9 +25,9 @@ The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among
 
 This artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties  
-- 1 [major beneficial](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property  
-- 1 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property  
+- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties
+- 1 [major beneficial](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property
+- 1 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property
 
 ## Properties of the Mortar
 
@@ -61,6 +61,6 @@ When you command the mortar to travel, you can instead throw out the dust or pas
 
 ## Destroying the Mortar and Pestle
 
-The mortar and pestle are destroyed if they are crushed underfoot by the *Dancing Hut of Baba Yaga* or by Baba Yaga herself.
+The mortar and pestle are destroyed if they are crushed underfoot by the _Dancing Hut of Baba Yaga_ or by Baba Yaga herself.
 
-*Source: Tasha's Cauldron of Everything p. 121*
+_Source: Tasha's Cauldron of Everything p. 121_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fey Spirit (Tricksy)
-*Source: Player's Handbook (2024) p. 326*  
+
+_Source: Player's Handbook (2024) p. 326_
 
 ```ad-statblock
 title: Fey Spirit (Tricksy)
@@ -48,4 +49,5 @@ title: Fey Spirit (Tricksy)
 
 ***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which lasts until the end of its next turn.
 ```
+
 ^statblock

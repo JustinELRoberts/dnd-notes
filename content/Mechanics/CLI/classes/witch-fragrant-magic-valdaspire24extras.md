@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Fragrant Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Choke Foes and Enchant Allies*
+_Choke Foes and Enchant Allies_
 
 Magic based on the swirling smoke of strong-smelling herbs has been practiced since the time of ancient elves. Today, the discipline, a mix of aromatherapy and mystical arcana, is kept alive by the so-called "perfumed Witches", who can purify the body and still the mind with their collection of fragrances and herbal smokes. Their Fragrant Magic, however, is not always evident. Sometimes, it would appear their magic is more about relaxation and meditation, while other times, they summon foul clouds that disorientate and kill.
 

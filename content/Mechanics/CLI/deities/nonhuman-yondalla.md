@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Yondalla
 
-
 - **Alignment**: Lawful Good
 - **Domains**: Life, Twilight
 - **Pantheon**: Nonhuman
 - **Symbol**: Shield
 
-
-
 ## Sources
 
-*Player's Handbook p. 296, Tasha's Cauldron of Everything p. 34*
+_Player's Handbook p. 296, Tasha's Cauldron of Everything p. 34_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Undersea Encounters
-*Source: Dungeon Master's Guide p. 116* 
+
+_Source: Dungeon Master's Guide p. 116_
 
 **Undersea Encounters**
 

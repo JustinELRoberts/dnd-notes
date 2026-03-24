@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mystical Weaponmaster 
+# Mystical Weaponmaster
 
-
-***Prerequisites*** Level 5 Warmage; [Force Weapon](Mechanics/CLI/spells/force-weapon-valdaspire24.md) cantrip or [Magic Daggers](Mechanics/CLI/spells/magic-daggers-valdaspire24.md) cantrip
+_**Prerequisites**_ Level 5 Warmage; [Force Weapon](Mechanics/CLI/spells/force-weapon-valdaspire24.md) cantrip or [Magic Daggers](Mechanics/CLI/spells/magic-daggers-valdaspire24.md) cantrip
 
 When you cast [Force Weapon](Mechanics/CLI/spells/force-weapon-valdaspire24.md) or [Magic Daggers](Mechanics/CLI/spells/magic-daggers-valdaspire24.md), you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to make one additional spell attack with that cantrip.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

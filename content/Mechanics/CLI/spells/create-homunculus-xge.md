@@ -20,8 +20,8 @@ classes:
 ---
 
 # Create Homunculus
-*6th-level, Transmutation*  
 
+_6th-level, Transmutation_
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -36,4 +36,4 @@ You can have only one homunculus at a time. If you cast this spell while your ho
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 152*
+_Source: Xanathar's Guide to Everything p. 152_

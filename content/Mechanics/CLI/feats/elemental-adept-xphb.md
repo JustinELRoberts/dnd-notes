@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Elemental Adept 
+# Elemental Adept
 
-
-***Prerequisites*** 4th; Spellcasting or Pact Magic feature
+_**Prerequisites**_ 4th; Spellcasting or Pact Magic feature
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Energy Mastery.** Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.
 
 **Repeatable.** You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.
+
 ## Sources
 
-*Player's Handbook (2024) p. 203*
+_Player's Handbook (2024) p. 203_

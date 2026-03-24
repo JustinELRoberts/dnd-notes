@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Potion of Growth
-*Potion, minor, uncommon*  
 
-
+_Potion, minor, uncommon_
 
 When you drink this potion, you gain the "enlarge" effect of the [enlarge/reduce](Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell for `1d4` hours (no [concentration](Mechanics/CLI/rules/conditions.md#Concentration) required). The red in the potion's liquid continuously expands from a tiny bead to color the clear liquid around it and then contracts. Shaking the bottle fails to interrupt this process.
 
-*Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

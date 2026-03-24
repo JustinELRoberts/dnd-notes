@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Minotaur
-*Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/minotaur.webp#right)
 
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
@@ -77,6 +78,7 @@ title: Minotaur
 
 ***Gore.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Physical Variations; Scale Color
-*Source: Volo's Guide to Monsters p. 66* 
+
+_Source: Volo's Guide to Monsters p. 66_
 
 **Scale Color**
 

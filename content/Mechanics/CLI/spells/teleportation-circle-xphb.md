@@ -36,8 +36,8 @@ classes:
 ---
 
 # Teleportation Circle
-*5th-level, Conjuration*  
 
+_5th-level, Conjuration_
 
 - **Casting time:** 1 minute
 - **Range:** 10 feet
@@ -54,4 +54,4 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 **Classes**: [Artificer (Cartographer)](Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr (Burden of Fame)](Mechanics/CLI/lists/list-spells-classes-burden-of-fame-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Odyssey)](Mechanics/CLI/lists/list-spells-classes-burden-of-odyssey-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger (Horizon Walker)](Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch (Technicolor Magic)](Mechanics/CLI/lists/list-spells-classes-technicolor-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

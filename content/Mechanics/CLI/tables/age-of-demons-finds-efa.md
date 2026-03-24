@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Age of Demons Finds
-*Source: Eberron: Forge of the Artificer p. 95* 
+
+_Source: Eberron: Forge of the Artificer p. 95_
 
 **Age of Demons Finds**
 

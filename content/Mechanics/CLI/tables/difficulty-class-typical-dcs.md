@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Difficulty Class; Typical DCs
-*Source: Dungeon Master's Guide p. 238* 
+
+_Source: Dungeon Master's Guide p. 238_
 
 **Typical DCs**
 

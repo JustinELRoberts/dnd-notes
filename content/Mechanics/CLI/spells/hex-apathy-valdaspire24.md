@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Apathy
-*cantrip, Enchantment*  
 
+_cantrip, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -31,4 +31,4 @@ One creature you can see within range makes a Charisma saving throw. On a failed
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

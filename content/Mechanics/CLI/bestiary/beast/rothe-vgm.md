@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Rothé
-*Source: Volo's Guide to Monsters p. 208*  
 
+_Source: Volo's Guide to Monsters p. 208_
 
 Ordinary rothé resemble musk oxen and have [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 30 feet.
 
@@ -50,6 +50,7 @@ title: Rothé
 
 ***Gore.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

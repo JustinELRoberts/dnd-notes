@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Psychic Resonance Effects
-*Source: Tasha's Cauldron of Everything p. 160* 
+
+_Source: Tasha's Cauldron of Everything p. 160_
 
 **Psychic Resonance Effects**
 

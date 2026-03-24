@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Wuxia Weapon Names
-*Source: Dungeon Master's Guide p. 41* 
+
+_Source: Dungeon Master's Guide p. 41_
 
 **Wuxia Weapon Names**
 

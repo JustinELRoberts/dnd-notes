@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Quiver of Ehlonna
-*Wondrous item, major, uncommon*  
+
+_Wondrous item, major, uncommon_\
 ![](Mechanics/CLI/items/img/quiver-of-ehlonna.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -24,4 +25,4 @@ Each of the quiver's three compartments connects to an extradimensional space th
 
 You can draw any item the quiver contains as if doing so from a regular quiver or scabbard.
 
-*Source: Dungeon Master's Guide p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Efficient Quiver")*
+_Source: Dungeon Master's Guide p. 189. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Efficient Quiver")_

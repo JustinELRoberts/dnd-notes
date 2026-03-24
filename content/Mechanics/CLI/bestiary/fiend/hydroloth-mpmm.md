@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Hydroloth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 158*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 158_\
 ![](Mechanics/CLI/bestiary/fiend/img/hydroloth.webp#right)
 
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
@@ -75,4 +76,5 @@ title: Hydroloth
 
 **3/day each:** [control water](Mechanics/CLI/spells/control-water-xphb.md), [crown of madness](Mechanics/CLI/spells/crown-of-madness-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
 ```
+
 ^statblock

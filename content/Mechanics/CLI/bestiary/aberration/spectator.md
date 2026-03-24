@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Spectator
-*Source: Monster Manual p. 30. Available in the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 30. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/aberration/img/spectator.webp#right)
 
 A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
@@ -76,6 +77,7 @@ title: Spectator
 
 ***Spell Reflection.*** If the spectator makes a successful saving throw against a spell, or a spell attack misses it, the spectator can choose another creature (including the spellcaster) it can see within 30 feet of it. The spell targets the chosen creature instead of the spectator. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against the chosen creature.
 ```
+
 ^statblock
 
 ## Environment

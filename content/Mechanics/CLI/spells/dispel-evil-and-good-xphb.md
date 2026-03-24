@@ -24,7 +24,8 @@ classes:
 ---
 
 # Dispel Evil and Good
-*5th-level, Abjuration*  
+
+_5th-level, Abjuration_\
 ![](Mechanics/CLI/spells/img/dispel-evil-and-good.webp#right)
 
 - **Casting time:** 1 Action
@@ -46,4 +47,4 @@ As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you target one creatu
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 263. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

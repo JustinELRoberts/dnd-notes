@@ -22,8 +22,8 @@ classes:
 ---
 
 # Contingency
-*6th-level, Abjuration*  
 
+_6th-level, Abjuration_
 
 - **Casting time:** 10 minutes
 - **Range:** Self
@@ -38,4 +38,4 @@ The contingent spell takes effect only on you, even if it can normally target ot
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

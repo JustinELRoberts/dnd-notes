@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Chuul
-*Source: Monster Manual p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/aberration/img/chuul.webp#right)
 
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
@@ -76,6 +77,7 @@ title: Chuul
 
 ***Tentacles.*** One creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the chuul must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. Until this poison ends, the target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

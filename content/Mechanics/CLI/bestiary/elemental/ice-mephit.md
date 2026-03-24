@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ice Mephit
-*Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/ice-mephit.webp#right)
 
 ## Mephits
@@ -74,6 +75,7 @@ title: Ice Mephit
 
 ***Frost Breath (Recharge 6).*** The mephit exhales a 15-foot cone of cold air. Each creature in that area must succeed on a DC 10 Dexterity saving throw, taking 5 (`2d4`) cold damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

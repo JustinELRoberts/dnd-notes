@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Detective
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Chase Down Clues and Crack the Mystery*
+_Chase Down Clues and Crack the Mystery_
 
 Prowling at the edge of darkness, Detectives chase down clues and pull on threads to unravel conspiracies that bring darkness into the world. Sometimes, this requires that you infiltrate a cult's secret meetings, other times it calls on you to reconstruct a person's last moments at a murder scene. No matter what the mystery, however, you know that there is always an explanation.
 
@@ -86,4 +87,4 @@ Your sleuthing experience grants you the following benefits.
 
 ### Power of Deduction (Level 14)
 
-You can use your [Predictive Intuition](Mechanics/CLI/classes/investigator-detective-valdaspire24.md#Predictive%20Intuition%20(Level%206)) on a target an unlimited number of times.
+You can use your [Predictive Intuition](Mechanics/CLI/classes/investigator-detective-valdaspire24.md#Predictive%20Intuition%20\(Level%206\)) on a target an unlimited number of times.

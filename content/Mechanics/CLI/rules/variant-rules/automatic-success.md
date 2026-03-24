@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Automatic Success
-*Source: Dungeon Master's Guide p. 239* 
+
+_Source: Dungeon Master's Guide p. 239_
 
 Sometimes the randomness of a `d20` roll leads to ludicrous results. Let's say a door requires a DC 15 Strength check to batter down. A fighter with Strength 20 might helplessly flail against the door due to bad die rolls. Meanwhile, the rogue with a 10 Strength rolls a natural 20 on her first check and knocks the door from its hinges.
 

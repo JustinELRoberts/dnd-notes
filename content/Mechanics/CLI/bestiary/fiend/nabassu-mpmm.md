@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Nabassu
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 188*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 188_\
 ![](Mechanics/CLI/bestiary/fiend/img/nabassu.webp#right)
 
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
@@ -69,6 +70,7 @@ title: Nabassu
 
 ***Soul-Stealing Gaze.*** The nabassu targets one creature it can see within 30 feet of it. If the target isn't a Construct or an Undead, it must succeed on a DC 16 Charisma saving throw or take 13 (`2d12`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the nabassu regains hit points equal to half that amount. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a Humanoid, it immediately rises as a [ghoul](Mechanics/CLI/bestiary/undead/ghoul.md) under the nabassu's control.
 ```
+
 ^statblock
 
 ## Environment

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Cave Fisher
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/cave-fisher.webp#right)
 
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
@@ -72,6 +73,7 @@ title: Cave Fisher
 
 ***Adhesive Filament.*** The cave fisher extends a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature the filament adheres to is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage). A weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament deals no damage to the cave fisher. The filament crumbles away if the cave fisher takes this bonus action again.
 ```
+
 ^statblock
 
 ## Environment

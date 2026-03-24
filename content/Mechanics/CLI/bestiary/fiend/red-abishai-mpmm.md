@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Red Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 40*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 40_\
 ![](Mechanics/CLI/bestiary/fiend/img/red-abishai.webp#right)
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
@@ -76,6 +77,7 @@ title: Red Abishai
 
 ***Power of the Dragon Queen.*** The abishai targets one Dragon it can see within 120 feet of it. The Dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this save with disadvantage. On a successful save, the target is immune to the abishai's Power of the Dragon Queen for 1 hour. On a failed save, the target is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the abishai for 1 hour. While [charmed](Mechanics/CLI/rules/conditions.md#Charmed) in this way, the target regards the abishai as a trusted friend to be heeded and protected. This effect ends if the abishai or its companions deal damage to the target.
 ```
+
 ^statblock
 
 ## Environment

@@ -22,8 +22,8 @@ classes:
 ---
 
 # Temple of the Gods
-*7th-level, Conjuration*  
 
+_7th-level, Conjuration_
 
 - **Casting time:** 1 hour
 - **Range:** 120 feet
@@ -48,4 +48,4 @@ Casting this spell on the same spot every day for a year makes this effect perma
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Xanathar's Guide to Everything p. 167*
+_Source: Xanathar's Guide to Everything p. 167_

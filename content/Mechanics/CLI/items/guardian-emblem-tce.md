@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Guardian Emblem
-*Wondrous item, uncommon (requires attunement by a cleric or paladin)*  
 
-
+_Wondrous item, uncommon (requires attunement by a cleric or paladin)_
 
 This emblem is the symbol of a deity or a spiritual tradition. As an action, you can attach the emblem to a suit of armor or a shield or remove it.
 
@@ -25,4 +24,4 @@ The emblem has 3 charges. When you or a creature you can see within 30 feet of y
 
 The emblem regains all expended charges daily at dawn.
 
-*Source: Tasha's Cauldron of Everything p. 128*
+_Source: Tasha's Cauldron of Everything p. 128_

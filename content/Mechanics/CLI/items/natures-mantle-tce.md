@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Nature's Mantle
-*Wondrous item, uncommon (requires attunement by a druid or ranger)*  
+
+_Wondrous item, uncommon (requires attunement by a druid or ranger)_\
 ![](Mechanics/CLI/items/img/natures-mantle.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -24,4 +25,4 @@ This cloak shifts color and texture to blend with the terrain surrounding you. W
 
 While you are in an area that is lightly obscured, you can [Hide](Mechanics/CLI/rules/actions.md#Hide) as a bonus action even if you are being directly observed.
 
-*Source: Tasha's Cauldron of Everything p. 133*
+_Source: Tasha's Cauldron of Everything p. 133_

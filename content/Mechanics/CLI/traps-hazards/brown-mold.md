@@ -13,8 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Brown Mold
-*Generic Hazard*  
 
+_Generic Hazard_
 
 Brown mold feeds on warmth, drawing heat from anything around it. A patch of brown mold typically covers a 10-foot square, and the temperature within 30 feet of it is always frigid.
 
@@ -24,4 +24,4 @@ Brown mold is immune to fire, and any source of fire brought within 5 feet of a 
 
 ## Sources
 
-*Dungeon Master's Guide p. 105*
+_Dungeon Master's Guide p. 105_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Improvising Damage
-*Source: Dungeon Master's Guide p. 249* 
+
+_Source: Dungeon Master's Guide p. 249_
 
 **Improvising Damage**
 

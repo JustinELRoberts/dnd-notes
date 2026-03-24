@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Roc
-*Source: Monster Manual p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/roc.webp#right)
 
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
@@ -74,6 +75,7 @@ title: Roc
 
 ***Talons.*** *Melee Weapon Attack:* `+13` to hit, reach 5 ft., one target. *Hit:* 23 (`4d6 + 9`) slashing damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 19). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the roc can't use its talons on another target.
 ```
+
 ^statblock
 
 ## Environment

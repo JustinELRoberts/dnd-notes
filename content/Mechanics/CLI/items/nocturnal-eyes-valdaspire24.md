@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Nocturnal Eyes
-*Monstrous graft, uncommon*  
 
+_Monstrous graft, uncommon_
 
 - **Properties**: [Head Slot](Mechanics/CLI/rules/item-properties.md#Head%20Slot)
 
-*Donor: Any Creature with [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision)*
+_Donor: Any Creature with [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision)_
 
 These eyes can see in the dark. Once installed, you gain [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

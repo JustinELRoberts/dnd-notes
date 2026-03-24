@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Kobold Names
-*Source: Volo's Guide to Monsters p. 66* 
+
+_Source: Volo's Guide to Monsters p. 66_
 
 **Kobold Names**
 

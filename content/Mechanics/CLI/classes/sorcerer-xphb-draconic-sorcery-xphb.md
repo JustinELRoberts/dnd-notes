@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Draconic Sorcery
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
-*Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
+_Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/draconic-sorcerer.webp#right)
 
-*Breathe the Magic of Dragons*
+_Breathe the Magic of Dragons_
 
 Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons' power. Or perhaps you handled a treasure taken from a dragon's hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
 

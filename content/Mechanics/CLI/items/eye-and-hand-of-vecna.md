@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Eye and Hand of Vecna
-*Wondrous item, artifact (requires attunement)*  
-![](Mechanics/CLI/items/img/eye-and-hand-of-vecna.webp#right)
 
+_Wondrous item, artifact (requires attunement)_\
+![](Mechanics/CLI/items/img/eye-and-hand-of-vecna.webp#right)
 
 Seldom is the name of Vecna spoken except in a hushed voice. Vecna was, in his time, one of the mightiest of all wizards. Through dark magic and conquest, he forged a terrible empire. For all his power, Vecna couldn't escape his own mortality. He began to fear death and take steps to prevent his end from ever coming about.
 
@@ -35,36 +35,36 @@ To attune to the hand, you must lop off your left hand at the wrist and the pres
 
 The [Eye of Vecna](Mechanics/CLI/items/eye-of-vecna.md) and the [Hand of Vecna](Mechanics/CLI/items/hand-of-vecna.md) each have the following random properties:
 
-- 1 [minor beneficial property](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
-- 1 [minor detrimental property](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)  
+- 1 [minor beneficial property](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
+- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)
+- 1 [minor detrimental property](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)
 
 ## Properties of the Eye
 
 Your alignment changes to neutral evil, and you gain the following benefits:
 
-- You have [truesight](Mechanics/CLI/rules/senses.md#Truesight).  
-- You can use an action to see as if you were wearing a [ring of X-ray vision](Mechanics/CLI/items/ring-of-x-ray-vision.md). You can end this effect as a bonus action.  
-- The eye has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md) (2 charges), [crown of madness](Mechanics/CLI/spells/crown-of-madness-xphb.md) (1 charge), [disintegrate](Mechanics/CLI/spells/disintegrate-xphb.md) (4 charges), [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md) (5 charges), or [eyebite](Mechanics/CLI/spells/eyebite-xphb.md) (4 charges). The eye regains `1d4 + 4` expended charges daily at dawn. Each time you cast a spell from the eye, there is a 5 percent chance that Vecna tears your soul from your body, devours it, and then takes control of the body like a puppet. If that happens, you become an NPC under the DM's control.  
+- You have [truesight](Mechanics/CLI/rules/senses.md#Truesight).
+- You can use an action to see as if you were wearing a [ring of X-ray vision](Mechanics/CLI/items/ring-of-x-ray-vision.md). You can end this effect as a bonus action.
+- The eye has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md) (2 charges), [crown of madness](Mechanics/CLI/spells/crown-of-madness-xphb.md) (1 charge), [disintegrate](Mechanics/CLI/spells/disintegrate-xphb.md) (4 charges), [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md) (5 charges), or [eyebite](Mechanics/CLI/spells/eyebite-xphb.md) (4 charges). The eye regains `1d4 + 4` expended charges daily at dawn. Each time you cast a spell from the eye, there is a 5 percent chance that Vecna tears your soul from your body, devours it, and then takes control of the body like a puppet. If that happens, you become an NPC under the DM's control.
 
 ## Properties of the Hand
 
 Your alignment changes to neutral evil, and you gain the following benefits:
 
-- Your Strength score becomes 20, unless it is already 20 or higher.  
-- Any melee spell attack you make with the hand, and any melee weapon attack made with a weapon held by it, deals an extra `2d8` cold damage on a hit.  
-- The hand has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [finger of death](Mechanics/CLI/spells/finger-of-death-xphb.md) (5 charges), [sleep](Mechanics/CLI/spells/sleep-xphb.md) (1 charge), [slow](Mechanics/CLI/spells/slow-xphb.md) (2 charges), or [teleport](Mechanics/CLI/spells/teleport-xphb.md) (3 charges). The hand regains `1d4 + 4` expended charges daily at dawn. Each time you cast a spell from the hand, it casts the [suggestion](Mechanics/CLI/spells/suggestion-xphb.md) spell on you (save DC 18), demanding that you commit an evil act. The hand might have a specific act in mind or leave it up to you.  
+- Your Strength score becomes 20, unless it is already 20 or higher.
+- Any melee spell attack you make with the hand, and any melee weapon attack made with a weapon held by it, deals an extra `2d8` cold damage on a hit.
+- The hand has 8 charges. You can use an action and expend 1 or more charges to cast one of the following spells (save DC 18) from it: [finger of death](Mechanics/CLI/spells/finger-of-death-xphb.md) (5 charges), [sleep](Mechanics/CLI/spells/sleep-xphb.md) (1 charge), [slow](Mechanics/CLI/spells/slow-xphb.md) (2 charges), or [teleport](Mechanics/CLI/spells/teleport-xphb.md) (3 charges). The hand regains `1d4 + 4` expended charges daily at dawn. Each time you cast a spell from the hand, it casts the [suggestion](Mechanics/CLI/spells/suggestion-xphb.md) spell on you (save DC 18), demanding that you commit an evil act. The hand might have a specific act in mind or leave it up to you.
 
 ## Properties of the Eye and Hand
 
 If you are attuned to both the hand and eye, you gain the following additional benefits:
 
-- You are immune to disease and poison.  
-- Using the eye's X-ray vision never causes you to suffer [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion).  
-- You experience premonitions of danger and, unless you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), can't be [surprised](Mechanics/CLI/rules/conditions.md#Surprised).  
-- If you start your turn with at least 1 hit point, you regain `1d10` hit points.  
-- If a creature has a skeleton, you can attempt to turn its bones to jelly with a touch of the [Hand of Vecna](Mechanics/CLI/items/hand-of-vecna.md). You can do so by using an action to make a melee attack against a creature you can reach, using your choice of your melee attack bonus for weapons or spells. On a hit, the target must succeed on a DC 18 Constitution saving throw or drop to 0 hit points.  
-- You can use an action to cast [wish](Mechanics/CLI/spells/wish-xphb.md). This property can't be used again until 30 days have passed.  
+- You are immune to disease and poison.
+- Using the eye's X-ray vision never causes you to suffer [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion).
+- You experience premonitions of danger and, unless you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), can't be [surprised](Mechanics/CLI/rules/conditions.md#Surprised).
+- If you start your turn with at least 1 hit point, you regain `1d10` hit points.
+- If a creature has a skeleton, you can attempt to turn its bones to jelly with a touch of the [Hand of Vecna](Mechanics/CLI/items/hand-of-vecna.md). You can do so by using an action to make a melee attack against a creature you can reach, using your choice of your melee attack bonus for weapons or spells. On a hit, the target must succeed on a DC 18 Constitution saving throw or drop to 0 hit points.
+- You can use an action to cast [wish](Mechanics/CLI/spells/wish-xphb.md). This property can't be used again until 30 days have passed.
 
 ## Destroying the Eye and Hand
 
@@ -75,4 +75,4 @@ If the [Eye of Vecna](Mechanics/CLI/items/eye-of-vecna.md) and the [Hand of Vecn
 - [Eye of Vecna](Mechanics/CLI/items/eye-of-vecna.md)
 - [Hand of Vecna](Mechanics/CLI/items/hand-of-vecna.md)
 
-*Source: Dungeon Master's Guide p. 224*
+_Source: Dungeon Master's Guide p. 224_

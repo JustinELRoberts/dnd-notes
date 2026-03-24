@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Magic Missiles
-*Wand, major, uncommon*  
+
+_Wand, major, uncommon_\
 ![](Mechanics/CLI/items/img/wand-of-magic-missiles.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -25,4 +26,4 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 or 
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll a `d20`. On a 1, the wand crumbles into ashes and is destroyed.
 
-*Source: Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+_Source: Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

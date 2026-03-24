@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Pyrotechnics
-*Wand, minor, common*  
 
+_Wand, minor, common_
 
 - **Weight**: 1.0 lbs.
 
@@ -25,4 +25,4 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll a `d20`. On a 1, the wand erupts in a harmless pyrotechnic display and is destroyed.
 
-*Source: Xanathar's Guide to Everything p. 140*
+_Source: Xanathar's Guide to Everything p. 140_

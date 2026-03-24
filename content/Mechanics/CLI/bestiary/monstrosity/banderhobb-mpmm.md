@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Banderhobb
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 56, Volo's Guide to Monsters p. 122_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/banderhobb.webp#right)
 
 A banderhobb is a hybrid of shadow and flesh. Through vile magic, these components take on an enormous and horrific upright shape resembling a bipedal toad. In this form, a banderhobb temporarily serves its creator as a thug, a thief, and a kidnapper that swallows the unwary.
@@ -71,6 +72,7 @@ The banderhobb can have only one creature swallowed at a time. While the banderh
 
 ***Shadow Stealth.*** While in dim light or darkness, the banderhobb takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock
 
 ## Environment

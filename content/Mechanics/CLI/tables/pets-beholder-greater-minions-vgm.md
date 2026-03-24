@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Pets; Beholder Greater Minions
-*Source: Volo's Guide to Monsters p. 16* 
+
+_Source: Volo's Guide to Monsters p. 16_
 
 **Beholder Greater Minions**
 
-| dice: d100 | Greater Minions* |
+| dice: d100 | Greater Minions\* |
 |------------|------------------|
 | 1-3 | `2d4` [barlguras](Mechanics/CLI/bestiary/fiend/barlgura.md) |
 | 4-10 | `1d12` [ettins](Mechanics/CLI/bestiary/giant/ettin.md) |
@@ -31,4 +32,4 @@ obsidianUIMode: preview
 | 76-100 | Roll twice, ignoring results above 75 |
 ^beholder-greater-minions
 
-* For death tyrant lairs, use this table, but replace approximately half of its living minions with ogre zombies.
+- For death tyrant lairs, use this table, but replace approximately half of its living minions with ogre zombies.

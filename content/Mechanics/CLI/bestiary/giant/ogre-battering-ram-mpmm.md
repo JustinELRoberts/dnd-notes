@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Ogre Battering Ram
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 200*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 200_\
 ![](Mechanics/CLI/bestiary/giant/img/ogre-battering-ram.webp#right)
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
@@ -64,6 +65,7 @@ title: Ogre Battering Ram
 
 ***Block the Path.*** When a creature enters a space within 5 feet of the ogre, the ogre makes a Bash attack against that creature. If the attack hits, the target's speed is reduced to 0 until the start of the ogre's next turn.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Gift of the Ever-Living Ones 
+# Gift of the Ever-Living Ones
 
-
-***Prerequisites*** Pact of the Chain
+_**Prerequisites**_ Pact of the Chain
 
 Whenever you regain hit points while your familiar is within 100 feet of you, treat any dice rolled to determine the hit points you regain as having rolled their maximum value for you.
+
 ## Sources
 
-*Xanathar's Guide to Everything p. 57*
+_Xanathar's Guide to Everything p. 57_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Archfey Patron
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
-*Source: Player's Handbook (2024) p. 159*  
+
+_[Warlock](./warlock-xphb.md): Warlock Subclass_\
+_Source: Player's Handbook (2024) p. 159_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/archfey-warlock.webp#right)
 
-*Bargain with Whimsical Fey*
+_Bargain with Whimsical Fey_
 
 Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.
 

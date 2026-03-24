@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Thri-kreen
-*Source: Monster Manual p. 288*  
+
+_Source: Monster Manual p. 288_\
 ![](Mechanics/CLI/bestiary/humanoid/img/thri-kreen.webp#right)
 
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
@@ -77,6 +78,7 @@ title: Thri-kreen
 
 ***Claws.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

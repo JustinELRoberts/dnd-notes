@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Celestial Spirit
-*Source: Player's Handbook (2024) p. 323*  
+
+_Source: Player's Handbook (2024) p. 323_\
 ![](Mechanics/CLI/bestiary/celestial/img/celestial-spirit.webp#center)
 
 ```ad-statblock
@@ -51,4 +52,5 @@ title: Celestial Spirit
 
 ***Healing Touch (1/Day).*** The spirit touches another creature. The target regains Hit Points equal to `2d8` + the spell's level.
 ```
+
 ^statblock

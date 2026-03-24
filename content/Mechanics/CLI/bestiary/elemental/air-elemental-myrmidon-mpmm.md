@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Air Elemental Myrmidon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 122*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 122_\
 ![](Mechanics/CLI/bestiary/elemental/img/air-elemental-myrmidon.webp#right)
 
 ## Elemental Myrmidons
@@ -55,4 +56,5 @@ title: Air Elemental Myrmidon
 
 ***Lightning Strike (Recharge 6).*** The myrmidon makes one Flail attack. On a hit, the target takes an extra 18 (`4d8`) lightning damage, and the target must succeed on a DC 13 Constitution saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the myrmidon's next turn.
 ```
+
 ^statblock

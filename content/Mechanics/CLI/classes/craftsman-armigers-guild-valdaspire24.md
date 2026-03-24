@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Armigers' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Build Invulnerable Armor*
+_Build Invulnerable Armor_
 
 The Guild of Armigers devote their skills to the art of armor smithing, with the firm belief that the right plate in the right place can make a warrior invincible.
 

@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Flaywind
-*Eldritch Storm*  
 
+_Eldritch Storm_
 
 Supernaturally powerful winds—like those from planes such as Pandemonium or Minethys, the third layer of Carceri—can spawn flaywinds. A flaywind is an intense sandstorm, gathering large rocks and other debris in addition to sand or grit. The area within the storm is heavily obscured, and a creature exposed to the storm takes `1d4` slashing damage at the start of each of its turns. Only substantial cover or shelter offers protection against the flensing grit.
 
@@ -23,4 +23,4 @@ A flaywind leaves `4d6` feet of sand or debris in its wake. A successful DC 15 I
 
 ## Sources
 
-*Tasha's Cauldron of Everything p. 163*
+_Tasha's Cauldron of Everything p. 163_

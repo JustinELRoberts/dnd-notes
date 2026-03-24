@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Brigand
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,13 +49,13 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Take What You Need at Knifepoint*
+_Take What You Need at Knifepoint_
 
 Brigands encompass all manner of highwaymen, pirates, raiders, and dastardly folk. No tactic, no matter how heinous, is off the table for a band of Brigands, whether that means roadside ambushes or taking hostages at knifepoint. Ultimately, most Brigands are driven to their thievery through desperation; it is fitting that they leave others as few choices as were afforded to them.
 
 ## Subclass Features
 
-### Ambush [Maneuver] (Level 3)
+### Ambush \[Maneuver] (Level 3)
 
 When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can expend one Battle Die immediately after regaining your Battle Dice to draw up to two weapons and make one weapon attack. You can't use this maneuver if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
 

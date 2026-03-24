@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Alignment and Personality; Personality Traits by Alignment
-*Source: Player's Handbook (2024) p. 40* 
+
+_Source: Player's Handbook (2024) p. 40_
 
 **Personality Traits by Alignment**
 

@@ -23,8 +23,8 @@ classes:
 ---
 
 # Eldritch Orb
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -37,4 +37,4 @@ You fling a ball of eldritch energy at a creature or object within range. Make a
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

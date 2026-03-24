@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Lance of Lethargy 
+# Lance of Lethargy
 
-
-***Prerequisites*** [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md) cantrip
+_**Prerequisites**_ [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md) cantrip
 
 Once on each of your turns when you hit a creature with your [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md), you can reduce that creature's speed by 10 feet until the end of your next turn.
+
 ## Sources
 
-*Xanathar's Guide to Everything p. 57*
+_Xanathar's Guide to Everything p. 57_

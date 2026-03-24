@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Lyrandar Scion
-*Source: Eberron: Forge of the Artificer p. 82*  
+
+_Source: Eberron: Forge of the Artificer p. 82_\
 ![](Mechanics/CLI/bestiary/humanoid/img/lyrandar-scion.webp#right)
 
 The Khoravar dragonmarked scions of House Lyrandar include swashbuckling sky captains, seafaring adventurers, and sinister cultists of the Hurricane Harvest. The power of their dragonmarks manifests as easy control of wind, thunder, and lightning, which they wield as readily in combat as in navigating the sea and sky.
@@ -65,4 +66,5 @@ title: Lyrandar Scion
 ***Feather Fall (2/Day).*** The scion casts [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md) in response to that spell's trigger, using the same spellcasting ability as Spellcasting.
 
 ```
+
 ^statblock

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Spy
-*Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/spy.webp#right)
 
 Rulers, nobles, merchants, guildmasters, and other wealthy individuals use spies to gain the upper hand in a world of cutthroat politics. A spy is trained to secretly gather information. Loyal spies would rather die than divulge information that could compromise them or their employers.
@@ -57,6 +58,7 @@ title: Spy
 
 ***Hand Crossbow.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

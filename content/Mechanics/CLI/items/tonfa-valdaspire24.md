@@ -16,12 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Tonfa
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d4 bludgeoning
 - **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Cost**: 1 sp
 - **Weight**: 1.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

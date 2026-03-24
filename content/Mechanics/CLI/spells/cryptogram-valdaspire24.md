@@ -34,8 +34,8 @@ classes:
 ---
 
 # Cryptogram
-*cantrip, Conjuration*  
 
+_cantrip, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Unlimited
@@ -46,4 +46,4 @@ You send a small scroll with a message to a creature of your choice. The recipie
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Spellwrought Tattoo
-*Wondrous item (tattoo)*  
 
-
+_Wondrous item (tattoo)_
 
 **Items in this group:**
 
@@ -28,4 +27,4 @@ obsidianUIMode: preview
 - [Spellwrought Tattoo (4th Level)](Mechanics/CLI/items/spellwrought-tattoo-4th-level-tce.md)
 - [Spellwrought Tattoo (5th Level)](Mechanics/CLI/items/spellwrought-tattoo-5th-level-tce.md)
 
-*Source: Tasha's Cauldron of Everything p. 135*
+_Source: Tasha's Cauldron of Everything p. 135_

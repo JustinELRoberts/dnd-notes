@@ -18,8 +18,8 @@ classes:
 ---
 
 # Ballistic Smite
-*1st-level, Evocation*  
 
+_1st-level, Evocation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -32,4 +32,4 @@ Choose Acid, Cold, Fire, Lightning, Poison, or Thunder damage. The target hit by
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

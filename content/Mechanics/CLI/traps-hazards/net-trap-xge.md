@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Net Trap
-*Generic Hazard*  
 
+_Generic Hazard_
 
 Goblins, with their propensity to enslave their enemies, prefer traps that leave intruders intact so the victims can be put to work in the mines or elsewhere.
 
 ## Sources
 
-*Xanathar's Guide to Everything p. 113*
+_Xanathar's Guide to Everything p. 113_

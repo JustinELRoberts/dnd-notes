@@ -16,9 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Energy Cell
-*Ammunition (firearm)*  
 
+_Ammunition (firearm)_
 
 - **Weight**: 0.3125 lbs.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

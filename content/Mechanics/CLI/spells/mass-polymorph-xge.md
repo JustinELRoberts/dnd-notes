@@ -22,8 +22,8 @@ classes:
 ---
 
 # Mass Polymorph
-*9th-level, Transmutation*  
 
+_9th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -42,4 +42,4 @@ The target's gear melds into the new form. The target can't activate, use, wield
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 160*
+_Source: Xanathar's Guide to Everything p. 160_

@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Rot Troll
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 247_\
 ![](Mechanics/CLI/bestiary/giant/img/rot-troll.webp#right)
 
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
@@ -70,6 +71,7 @@ title: Rot Troll
 
 ***Claws.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage plus 7 (`2d6`) necrotic damage.
 ```
+
 ^statblock
 
 ## Environment

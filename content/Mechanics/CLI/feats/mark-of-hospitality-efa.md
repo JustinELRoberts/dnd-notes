@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Hospitality 
+# Mark of Hospitality
+
 ![](Mechanics/CLI/feats/img/mark-of-hospitality.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ When you reach character level 3, you also always have the [Calm Emotions](Mecha
 | 4 | [Aura of Purity](Mechanics/CLI/spells/aura-of-purity-xphb.md), [Mordenkainen's Private Sanctum](Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md) |
 | 5 | [Hallow](Mechanics/CLI/spells/hallow-xphb.md) |
 ^mark-of-hospitality-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 40*
+_Eberron: Forge of the Artificer p. 40_

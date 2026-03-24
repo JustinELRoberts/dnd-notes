@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Gray Slaad
-*Source: Monster Manual p. 277*  
+
+_Source: Monster Manual p. 277_\
 ![](Mechanics/CLI/bestiary/aberration/img/gray-slaad.webp#right)
 
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
@@ -43,24 +44,23 @@ Slaadi have horrific cycles of reproduction. Slaadi reproduce either by implanti
 Some slaadi can transform into the humanoid creatures from which they were originally spawned. These slaadi return to the Material Plane to sow discord in the guise of their former selves.
 
 > [!note] Variant: Slaad Control Gems
-> 
+>
 > As a slaad emerges from the Spawning Stone, the stone magically implants a fragment of itself in the slaad's brain. This fragment takes the form of a magic gem roughly the size and shape of a human child's fist. The gem is the same color as the slaad. Another creature can use magic to draw forth a slaad's gem and use it to subjugate the slaad. The slaad must obey whoever possesses its gem. If a slaad's gem is destroyed, the slaad can no longer be controlled in this way.
-> 
+>
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
-> 
+>
 > **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) while so controlled.
-> 
+>
 > Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](Mechanics/CLI/spells/wish-xphb.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
-> 
+>
 > A [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the slaad destroys the gem without harming the slaad.
-> 
+>
 > Someone who is proficient in Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
-^variant-slaad-control-gems
+> ^variant-slaad-control-gems
 
-> [!quote]  
-> 
+> [!quote]
+>
 > Embedded in a slaad's brain is a magic gem. Acquire it, and the slaad is yours to command.
-
 
 ## Statblock
 
@@ -114,6 +114,7 @@ title: Gray Slaad
 
 ***Greatsword.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

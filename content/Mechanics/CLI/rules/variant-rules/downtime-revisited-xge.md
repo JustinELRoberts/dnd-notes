@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Revisited
-*Source: Xanathar's Guide to Everything p. 123* 
+
+_Source: Xanathar's Guide to Everything p. 123_
 
 It's possible for the characters to start a campaign at 1st level, dive into an epic story, and reach 10th level and beyond in a short amount of game time. Although that pace works fine for many campaigns, some DMs prefer a campaign story with pauses built into it—times when adventurers are not going on adventures. The downtime rules given in this section can be used as alternatives to the approach in the "Player's Handbook" and the "Dungeon Master's Guide", or you can use the material here to inspire the creation of your own options.
 
@@ -109,16 +110,16 @@ The following activities are suitable for any character who can afford to pursue
 
 See the following entries for details:
 
-- [Buying a Magic Item](Mechanics/CLI/rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md)  
-- [Carousing](Mechanics/CLI/rules/variant-rules/downtime-activity-carousing-xge.md)  
-- [Crafting an Item](Mechanics/CLI/rules/variant-rules/downtime-activity-crafting-an-item-xge.md)  
-- [Crime](Mechanics/CLI/rules/variant-rules/downtime-activity-crime-xge.md)  
-- [Gambling](Mechanics/CLI/rules/variant-rules/downtime-activity-gambling-xge.md)  
-- [Pit Fighting](Mechanics/CLI/rules/variant-rules/downtime-activity-pit-fighting-xge.md)  
-- [Relaxation](Mechanics/CLI/rules/variant-rules/downtime-activity-relaxation-xge.md)  
-- [Religious Service](Mechanics/CLI/rules/variant-rules/downtime-activity-religious-service-xge.md)  
-- [Research](Mechanics/CLI/rules/variant-rules/downtime-activity-research-xge.md)  
-- [Scribing a Spell Scroll](Mechanics/CLI/rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md)  
-- [Selling a Magic Item](Mechanics/CLI/rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md)  
-- [Training](Mechanics/CLI/rules/variant-rules/downtime-activity-training-xge.md)  
+- [Buying a Magic Item](Mechanics/CLI/rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md)
+- [Carousing](Mechanics/CLI/rules/variant-rules/downtime-activity-carousing-xge.md)
+- [Crafting an Item](Mechanics/CLI/rules/variant-rules/downtime-activity-crafting-an-item-xge.md)
+- [Crime](Mechanics/CLI/rules/variant-rules/downtime-activity-crime-xge.md)
+- [Gambling](Mechanics/CLI/rules/variant-rules/downtime-activity-gambling-xge.md)
+- [Pit Fighting](Mechanics/CLI/rules/variant-rules/downtime-activity-pit-fighting-xge.md)
+- [Relaxation](Mechanics/CLI/rules/variant-rules/downtime-activity-relaxation-xge.md)
+- [Religious Service](Mechanics/CLI/rules/variant-rules/downtime-activity-religious-service-xge.md)
+- [Research](Mechanics/CLI/rules/variant-rules/downtime-activity-research-xge.md)
+- [Scribing a Spell Scroll](Mechanics/CLI/rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md)
+- [Selling a Magic Item](Mechanics/CLI/rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md)
+- [Training](Mechanics/CLI/rules/variant-rules/downtime-activity-training-xge.md)
 - [Work](Mechanics/CLI/rules/variant-rules/downtime-activity-work-xge.md)

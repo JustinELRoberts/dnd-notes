@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Psychic Wind
-*Source: Dungeon Master's Guide p. 47* 
+
+_Source: Dungeon Master's Guide p. 47_
 
 **Psychic Wind Effects**
 

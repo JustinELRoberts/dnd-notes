@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Wildfire Spirit
-*Source: Tasha's Cauldron of Everything p. 40*  
+
+_Source: Tasha's Cauldron of Everything p. 40_
 
 ```ad-statblock
 title: Wildfire Spirit
@@ -46,4 +47,5 @@ title: Wildfire Spirit
 
 ***Fiery Teleportation.*** The spirit and each willing creature of your choice within 5 feet of it teleport up to 15 feet to unoccupied spaces you can see. Then each creature within 5 feet of the space that the spirit left must succeed on a Dexterity saving throw against your spell save DC or take `1d6 + PB` fire damage.
 ```
+
 ^statblock

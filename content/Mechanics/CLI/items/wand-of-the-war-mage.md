@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of the War Mage
-*Wand, major (requires attunement by a spellcaster)*  
 
+_Wand, major (requires attunement by a spellcaster)_
 
 - **Weight**: 1.0 lbs.
 
@@ -28,4 +28,4 @@ obsidianUIMode: preview
 - [+2 Wand of the War Mage](Mechanics/CLI/items/2-wand-of-the-war-mage.md)
 - [+3 Wand of the War Mage](Mechanics/CLI/items/3-wand-of-the-war-mage.md)
 
-*Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

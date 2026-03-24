@@ -32,7 +32,8 @@ classes:
 ---
 
 # Druidcraft
-*cantrip, Transmutation*  
+
+_cantrip, Transmutation_\
 ![](Mechanics/CLI/spells/img/druidcraft.webp#right)
 
 - **Casting time:** 1 Action
@@ -62,4 +63,4 @@ You light or snuff out a candle, a torch, or a campfire.
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB"); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

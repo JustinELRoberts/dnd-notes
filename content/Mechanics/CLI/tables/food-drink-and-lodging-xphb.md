@@ -13,30 +13,31 @@ obsidianUIMode: preview
 ---
 
 # Food, Drink, and Lodging
-*Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 **Food, Drink, and Lodging**
 
 | Item | Cost |
 |------|------|
-| &emsp;[Ale (mug)](Mechanics/CLI/items/ale-mug-xphb.md) | 4 CP |
-| &emsp;[Bread (loaf)](Mechanics/CLI/items/bread-loaf-xphb.md) | 2 CP |
-| &emsp;[Cheese (wedge)](Mechanics/CLI/items/cheese-wedge-xphb.md) | 1 SP |
-| *Inn Stay per Day* |
-| &emsp;Squalid | 7 CP |
-| &emsp;Poor | 1 SP |
-| &emsp;Modest | 5 SP |
-| &emsp;Comfortable | 8 SP |
-| &emsp;Wealthy | 2 GP |
-| &emsp;Aristocratic | 4 GP |
-| *Meal* |
-| &emsp;Squalid | 1 CP |
-| &emsp;Poor | 2 CP |
-| &emsp;Modest | 1 SP |
-| &emsp;Comfortable | 2 SP |
-| &emsp;Wealthy | 3 SP |
-| &emsp;Aristocratic | 6 SP |
-| *Wine (bottle)* |
-| &emsp;[Common](Mechanics/CLI/items/common-wine-bottle-xphb.md) | 2 SP |
-| &emsp;[Fine](Mechanics/CLI/items/fine-wine-bottle-xphb.md) | 10 GP |
+|  [Ale (mug)](Mechanics/CLI/items/ale-mug-xphb.md) | 4 CP |
+|  [Bread (loaf)](Mechanics/CLI/items/bread-loaf-xphb.md) | 2 CP |
+|  [Cheese (wedge)](Mechanics/CLI/items/cheese-wedge-xphb.md) | 1 SP |
+| _Inn Stay per Day_ |
+|  Squalid | 7 CP |
+|  Poor | 1 SP |
+|  Modest | 5 SP |
+|  Comfortable | 8 SP |
+|  Wealthy | 2 GP |
+|  Aristocratic | 4 GP |
+| _Meal_ |
+|  Squalid | 1 CP |
+|  Poor | 2 CP |
+|  Modest | 1 SP |
+|  Comfortable | 2 SP |
+|  Wealthy | 3 SP |
+|  Aristocratic | 6 SP |
+| _Wine (bottle)_ |
+|  [Common](Mechanics/CLI/items/common-wine-bottle-xphb.md) | 2 SP |
+|  [Fine](Mechanics/CLI/items/fine-wine-bottle-xphb.md) | 10 GP |
 ^food-drink-and-lodging

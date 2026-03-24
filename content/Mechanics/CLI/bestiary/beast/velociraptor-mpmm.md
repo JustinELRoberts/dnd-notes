@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Velociraptor
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
 
@@ -55,6 +55,7 @@ title: Velociraptor
 
 ***Claw.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

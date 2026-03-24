@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Evoker Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 262, Volo's Guide to Monsters p. 214_\
 ![](Mechanics/CLI/bestiary/humanoid/img/evoker-wizard.webp#right)
 
 Evokers harness arcane energy to destroy. Many armies employ evokers to rain destruction down on enemy forces.
@@ -64,6 +65,7 @@ title: Evoker Wizard
 
 **1/day each:** [wall of ice](Mechanics/CLI/spells/wall-of-ice-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

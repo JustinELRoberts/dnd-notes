@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Wild Magic
-*Source: Tasha's Cauldron of Everything p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Tasha's Cauldron of Everything p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 **Wild Magic**
 

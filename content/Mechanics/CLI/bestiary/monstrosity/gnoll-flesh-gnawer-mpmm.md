@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Gnoll Flesh Gnawer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/gnoll-flesh-gnawer.webp#right)
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
@@ -66,6 +67,7 @@ title: Gnoll Flesh Gnawer
 
 ***Rampage.*** After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
 ```
+
 ^statblock
 
 ## Environment

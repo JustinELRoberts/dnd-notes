@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Underwater Encounters (Levels 5—10)
-*Source: Xanathar's Guide to Everything p. 109* 
+
+_Source: Xanathar's Guide to Everything p. 109_
 
 **Underwater Encounters (Levels 5—10)**
 
@@ -26,7 +27,7 @@ obsidianUIMode: preview
 | 09-10 | `2d10` [merfolk](Mechanics/CLI/bestiary/humanoid/merfolk.md) with `1d4` [giant sea horses](Mechanics/CLI/bestiary/beast/giant-seahorse-xmm.md) |
 | 11-15 | `1d4` [sea hags](Mechanics/CLI/bestiary/fey/sea-hag.md) |
 | 16-20 | `2d4` [swarms of quippers](Mechanics/CLI/bestiary/beast/swarm-of-quippers.md) |
-| 21-25 | A sunken galleon with a 50% chance of a random treasure hoard inside (roll on the [Treasure Hoard: Challenge 5—10](Mechanics/CLI/tables/treasure-hoard-challenge-510.md) table in chapter 7 of the *Dungeon Master's Guide*) |
+| 21-25 | A sunken galleon with a 50% chance of a random treasure hoard inside (roll on the [Treasure Hoard: Challenge 5—10](Mechanics/CLI/tables/treasure-hoard-challenge-510.md) table in chapter 7 of the _Dungeon Master's Guide_) |
 | 26-30 | `1d4` [plesiosauruses](Mechanics/CLI/bestiary/beast/plesiosaurus.md) |
 | 31-35 | `3d6` [reef sharks](Mechanics/CLI/bestiary/beast/reef-shark-xmm.md) |
 | 36-40 | An abandoned bathysphere |

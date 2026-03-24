@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Flying Book
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Creatures/Flying%20Book.webp#right)
 
 Little can be said about the flying book that is not readily apparent. Though it is indistinguishable from an arcanist's spellbook while motionless, this animated arcane tome can flutter through the air at a moment's notice, using its cover as rudimentary wings. Flying books are playful, and enjoy the sensation of being written in.
@@ -48,4 +49,5 @@ title: Flying Book
 
 ***Slam.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 4 (`1d4 + 2`) Bludgeoning damage.
 ```
+
 ^statblock

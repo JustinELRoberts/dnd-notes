@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Githzerai Anarch
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 142*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 142_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githzerai-anarch.webp#right)
 
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
@@ -100,4 +101,5 @@ The region containing an anarch's lair is warped by its presence, which creates 
 
 If the anarch dies, these effects end after `1d6` rounds. All formed substance becomes a chaotic churn of energy and matter, unraveling into unformed substance that dissipates `1d6` rounds later.
 ```
+
 ^statblock

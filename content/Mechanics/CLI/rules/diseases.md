@@ -15,6 +15,7 @@ obsidianUIMode: preview
 # Diseases
 
 ## Cackle Fever
+
 _Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: "the shrieks."
@@ -28,6 +29,7 @@ On a failed save, the creature takes 5 (`1d10`) psychic damage and becomes [inca
 At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by `1d6`. When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of [indefinite madness](Mechanics/CLI/rules/variant-rules/madness.md).
 
 ## Sewer Plague
+
 _Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as rats and otyughs.
@@ -41,6 +43,7 @@ At the end of each long rest, an infected creature must make a DC 11 Constitutio
 On a successful save, the character's [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level decreases by one level. If a successful saving throw reduces the infected creature's level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) below 1, the creature recovers from the disease.
 
 ## Sight Rot
+
 _Source: Dungeon Master's Guide p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 This painful infection causes bleeding from the eyes and eventually blinds the victim.

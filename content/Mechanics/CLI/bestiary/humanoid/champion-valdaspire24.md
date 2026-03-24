@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Champion
-*Source: Valda's Spire of Secrets (2024)*  
 
+_Source: Valda's Spire of Secrets (2024)_
 
 A champion is a skilled, tactical fighter, just as comfortable in the saddle during military drills as armored on the field of battle.
 
@@ -66,4 +66,5 @@ title: Champion
 
 ***Level 9.*** Keen Strike. The champion deals `1d8` extra damage on a hit with a weapon. The damage is the same type dealt by the weapon.
 ```
+
 ^statblock

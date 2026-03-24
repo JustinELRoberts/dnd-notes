@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Witch's Broom 
-
+# Witch's Broom
 
 You can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to enchant a mundane object—such as a broom, cauldron, or rug—with the power of flight. While holding this item, you have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 60 feet. This object remains enchanted until you use this Grand Hex to enchant a different object.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

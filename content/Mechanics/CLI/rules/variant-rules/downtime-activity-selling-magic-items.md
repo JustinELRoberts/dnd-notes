@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Selling Magic Items
-*Source: Dungeon Master's Guide p. 129* 
+
+_Source: Dungeon Master's Guide p. 129_
 
 Few people can afford to buy a magic item, and fewer still know how to find one. Adventurers are exceptional in this regard due to the nature of their profession.
 
@@ -29,7 +30,7 @@ You determine a buyer's identity. Buyers sometimes procure rare and very rare it
 
 **Salable Magic Items**
 
-| Rarity | Base Price | Days to Find Buyer | d100 Roll Modifier* |
+| Rarity | Base Price | Days to Find Buyer | d100 Roll Modifier\* |
 |--------|------------|--------------------|---------------------|
 | Common | 100 gp | `1d4` | +10 |
 | Uncommon | 500 gp | `1d6` | +0 |
@@ -37,7 +38,7 @@ You determine a buyer's identity. Buyers sometimes procure rare and very rare it
 | Very rare | 50,000 gp | `1d10` | -20 |
 ^salable-magic-items
 
-*Apply this modifier to rolls on the Selling a Magic Item table.
+\*Apply this modifier to rolls on the Selling a Magic Item table.
 
 **Selling a Magic Item**
 

@@ -21,8 +21,8 @@ classes:
 ---
 
 # Maze
-*8th-level, Conjuration*  
 
+_8th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -37,4 +37,4 @@ When the spell ends, the target reappears in the space it left or, if that space
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

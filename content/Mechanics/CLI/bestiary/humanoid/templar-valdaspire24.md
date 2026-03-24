@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Templar
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Creatures/Templar.webp#right)
 
 A daring knight, sworn to virtue and station, a templar knows no fear in their heart and no equal in battle.
@@ -68,4 +69,5 @@ title: Templar
 
 ***Level 5.*** Parry. Trigger: The templar is hit by a melee attack roll while holding a weapon. _Response:_ The templar adds your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to its AC against that attack, possibly causing it to miss.
 ```
+
 ^statblock

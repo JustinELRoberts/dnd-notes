@@ -15,10 +15,10 @@ obsidianUIMode: preview
 ---
 
 # Dread Helm
-*Wondrous item, minor, common*  
-![](Mechanics/CLI/items/img/dread-helm.webp#right)
 
+_Wondrous item, minor, common_\
+![](Mechanics/CLI/items/img/dread-helm.webp#right)
 
 This fearsome steel helm makes your eyes glow red while you wear it.
 
-*Source: Xanathar's Guide to Everything p. 137*
+_Source: Xanathar's Guide to Everything p. 137_

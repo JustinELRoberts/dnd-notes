@@ -19,11 +19,12 @@ obsidianUIMode: preview
 ---
 
 # Canoloth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 69*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 69_\
 ![](Mechanics/CLI/bestiary/fiend/img/canoloth.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Canoloths are glorified guard dogs. If you must engage one, just find out exactly what it's been assigned to do. I've often found I can waltz right past them by taking advantage of a relevant loophole.
 
 A type of yugoloth, canoloths are fiendish trackers and guardians employed by evil powers. They prefer to enter into contracts to guard valuable treasures and important locations. They always do exactly as asked—never any more, never any less.
@@ -71,6 +72,7 @@ title: Canoloth
 
 ***Tongue.*** *Melee Weapon Attack:* `+7` to hit, reach 30 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage plus 7 (`2d6`) acid damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15), pulled up to 30 feet toward the canoloth, and [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the grapple ends. The canoloth can grapple one target at a time with its tongue.
 ```
+
 ^statblock
 
 ## Environment

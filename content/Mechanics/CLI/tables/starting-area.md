@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Starting Area
-*Source: Dungeon Master's Guide p. 290* 
+
+_Source: Dungeon Master's Guide p. 290_
 
 **Starting Area**
 

@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Whispers 
-
+# Whispers
 
 Unseen voices murmur in your ears at all times. You have [Telepathy](Mechanics/CLI/rules/variant-rules/telepathy-xphb.md) with a range of 60 feet.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

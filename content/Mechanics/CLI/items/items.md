@@ -732,7 +732,7 @@ obsidianUIMode: preview
 - [Potion of Giant Strength](./potion-of-giant-strength.md)
 - [Potion of Greater Healing](./potion-of-greater-healing.md)
 - [Potion of Growth](./potion-of-growth.md)
-- [Potion of Healing (*)](./potion-of-healing-gv.md)
+- [Potion of Healing (\*)](./potion-of-healing-gv.md)
 - [Potion of Healing](./potion-of-healing-xdmg.md)
 - [Potion of Heroism](./potion-of-heroism.md)
 - [Potion of Hill Giant Strength](./potion-of-hill-giant-strength.md)

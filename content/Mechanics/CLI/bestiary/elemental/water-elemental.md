@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Water Elemental
-*Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/water-elemental.webp#right)
 
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
@@ -85,6 +86,7 @@ title: Water Elemental
 
 The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it takes 13 (`2d8 + 4`) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Maneuver, Captain
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Bolster](Mechanics/CLI/optional-features/bolster-valdaspire24.md)
 - [Born Leader](Mechanics/CLI/optional-features/born-leader-valdaspire24.md)

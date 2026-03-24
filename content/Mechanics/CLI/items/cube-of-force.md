@@ -16,9 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Cube of Force
-*Wondrous item, major, rare (requires attunement)*  
-![](Mechanics/CLI/items/img/cube-of-force.webp#right)
 
+_Wondrous item, major, rare (requires attunement)_\
+![](Mechanics/CLI/items/img/cube-of-force.webp#right)
 
 This cube is about an inch across. Each face has a distinct marking on it that can be pressed. The cube starts with 36 charges, and it regains `1d20` expended charges daily at dawn.
 
@@ -47,4 +47,4 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 | [Wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) | `1d4` |
 ^spell-or-item-charges-lost
 
-*Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

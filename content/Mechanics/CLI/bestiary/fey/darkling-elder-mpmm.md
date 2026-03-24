@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Darkling Elder
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134_\
 ![](Mechanics/CLI/bestiary/fey/img/darkling-elder.webp#right)
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
@@ -65,6 +66,7 @@ title: Darkling Elder
 ***Darkness (Recharges after a Short or Long Rest).*** The darkling elder casts [darkness](Mechanics/CLI/spells/darkness-xphb.md), requiring no spell components and using Wisdom as the spellcasting ability.
 
 ```
+
 ^statblock
 
 ## Environment

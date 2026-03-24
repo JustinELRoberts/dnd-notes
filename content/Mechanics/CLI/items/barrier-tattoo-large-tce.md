@@ -16,9 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Barrier Tattoo (Large)
-*Wondrous item (tattoo), very rare (requires attunement)*  
 
-
+_Wondrous item (tattoo), very rare (requires attunement)_
 
 Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.
 
@@ -32,4 +31,4 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 While you aren't wearing armor, the tattoo grants you an Armor Class of 18. You can use a shield and still gain this benefit.
 
-*Source: Tasha's Cauldron of Everything p. 122*
+_Source: Tasha's Cauldron of Everything p. 122_

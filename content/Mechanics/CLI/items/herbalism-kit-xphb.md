@@ -15,14 +15,17 @@ obsidianUIMode: preview
 ---
 
 # Herbalism Kit
-*Tool*  
 
+_Tool_
 
 - **Cost**: 5 gp
+
 - **Weight**: 3.0 lbs.
 
-- **Ability.** Intelligence  
-- **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md), [Candle](Mechanics/CLI/items/candle-xphb.md), [Healer's Kit](Mechanics/CLI/items/healers-kit-xphb.md), [Potion of Healing](Mechanics/CLI/items/potion-of-healing-xdmg.md)  
+- **Ability.** Intelligence
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Identify a plant (DC 10)
+
+- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md), [Candle](Mechanics/CLI/items/candle-xphb.md), [Healer's Kit](Mechanics/CLI/items/healers-kit-xphb.md), [Potion of Healing](Mechanics/CLI/items/potion-of-healing-xdmg.md)
+
+_Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

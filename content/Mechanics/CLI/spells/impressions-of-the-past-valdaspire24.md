@@ -24,8 +24,8 @@ classes:
 ---
 
 # Impressions of the Past
-*7th-level, Divination*  
 
+_7th-level, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -36,4 +36,4 @@ You cast your senses back in time to perceive your current location as it was at
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

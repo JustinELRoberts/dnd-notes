@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Creating a Gnoll War Band; Demonic Influence
-*Source: Volo's Guide to Monsters p. 39* 
+
+_Source: Volo's Guide to Monsters p. 39_
 
 **Demonic Influence**
 

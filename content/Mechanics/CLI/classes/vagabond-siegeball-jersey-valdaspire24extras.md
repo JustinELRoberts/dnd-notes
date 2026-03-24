@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Siegeball Jersey
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -55,11 +56,11 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 The GM decides if a subclass should be cross-compatible in your campaign.
 
 > [!note] Cross-Compatability Modifictaions
-> 
+>
 > **Level 6: Game Plan.** Replace "When you use your Blitz feature, you can direct your Cohort or an ally within 60 feet of yourself" with "When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can replace one of your attacks with directing an ally within 60 feet of yourself".
-^cross-compatability-modifictaions
+> ^cross-compatability-modifictaions
 
-*Cheer and Coach Your Team to Victory*
+_Cheer and Coach Your Team to Victory_
 
 Siegeball is a beloved sport, and Captains adorned with a Siegeball Jersey live and breathe it. Such Captains view the entire world through sports metaphors and place themselves in the privileged position of the team captain or perhaps the coach...
 
@@ -73,7 +74,7 @@ Your absolute devotion to your sport of choice grants you the following benefits
 
 **Number One Fan.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check you make to recall information about a sport, its teams, and its players.
 
-### Team Inspiration [Maneuver] (Level 3)
+### Team Inspiration \[Maneuver] (Level 3)
 
 You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to inspire another creature within 60 feet of yourself who can see or hear you. Give that creature one of your unexpended Battle Dice. A creature can have only one Battle Die from this maneuver at a time.
 

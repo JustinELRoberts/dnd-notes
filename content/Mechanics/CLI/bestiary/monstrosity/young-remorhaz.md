@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Young Remorhaz
-*Source: Monster Manual p. 258*  
+
+_Source: Monster Manual p. 258_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/remorhaz.webp#right)
 
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
@@ -61,6 +62,7 @@ title: Young Remorhaz
 
 ***Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 20 (`3d10 + 4`) piercing damage plus 7 (`2d6`) fire damage.
 ```
+
 ^statblock
 
 ## Environment

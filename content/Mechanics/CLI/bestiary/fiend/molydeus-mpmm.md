@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Molydeus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 184*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 184_\
 ![](Mechanics/CLI/bestiary/fiend/img/molydeus.webp#right)
 
 The fearsome molydeus speaks for the demon lord it serves and enforces its master's will. This demon is 12 feet tall, and its bipedal body has a slavering wolfs head and a fanged serpent's head. Its demon lord can speak and see through the serpent head; this master also uses the molydeus to guard treasures, slay foes, and terrify troops into obedience.
@@ -78,4 +79,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the molydeu
 
 ***Cast a Spell (Costs 2 Actions).*** The molydeus uses Spellcasting.
 ```
+
 ^statblock

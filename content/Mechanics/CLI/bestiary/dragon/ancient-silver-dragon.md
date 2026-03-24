@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Silver Dragon
-*Source: Monster Manual p. 116. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 116. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/silver-dragon.webp#right)
 
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
@@ -172,6 +173,7 @@ The region containing a legendary silver dragon's lair is warped by the dragon's
 
 If the dragon dies, changed weather reverts to normal, as described in the spell, and the other effects fade in `1d10` days.
 ```
+
 ^statblock
 
 ## Environment

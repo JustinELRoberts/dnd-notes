@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Bronze Dragon
-*Source: Monster Manual p. 107. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 107. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/bronze-dragon.webp#right)
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -175,6 +176,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
 - **Underwater Pursuit.** Sailors glimpse the shadowy, illusory form of a dragon in the depths below them, keeping pace with their vessel.  
 - **Unfailing Faithfulness.** Sapient creatures that spend a year within 10 miles of the dragon's lair find it nearly impossible to break a promise.  
 ```
+
 ^statblock
 
 ## Environment

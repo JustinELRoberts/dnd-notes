@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Cloud Giant
-*Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/cloud-giant.webp#right)
 
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
@@ -71,22 +72,21 @@ At the highest level of the ordning, the races of the giants are also ranked acc
 Regardless of a giant's rank among its own race, the chief of a hill giant tribe is inferior to the most common of stone giants. The lowest ranked giant of any type is superior to the highest ranked giant of an inferior type. It isn't considered evil to disrespect or even betray a giant of another type, merely rude.
 
 > [!note] Giant Gods
-> 
+>
 > When the giants' ancient empires fell, Annam, father of all giants, forsook his children and the world. He swore never to look upon either again until the giants had returned to their glory and reclaimed their birthright as rulers of the world. As a result, giants pray not to Annam but to his divine children, along with a host of hero-deities and godly villains that make up the giants' pantheon.
-> 
+>
 > Chief among these gods are the children of Annam, whose sons represent each type of giant: Stronmaus for storm giants, Memnor for cloud giants, Skoraeus Stonebones for stone giants, Thrym for frost giants, Surtur for fire giants, and Grolantor for hill giants. Not all giants automatically revere their kind's primary deity, however. Many good cloud giants refuse to worship the deceitful Memnor, and a storm giant dwelling in the icy mountains of the north might pay more homage to Thrym than Stronmaus. Other giants feel a stronger connection to Annam's daughters, who include Hiatea, the huntress and home warden; Iallanis, goddess of love and peace; and Diancastra, an impetuous and arrogant trickster.
-> 
+>
 > Some giants abandon their own gods and fall prey to demon cults, paying homage to Baphomet or Kostchtchie. To worship them or any other non-giant deity is a great sin against the ordning, and almost certain to make a giant an outcast.
-^giant-gods
+> ^giant-gods
 
-> [!quote] A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate  
-> 
+> [!quote] A quote from Captain Dwern Addlestone's partial account of the Siege of Sterngate
+>
 > Boulders assailed our walls and cast them down, leavin' gaps through which the giants strode, weapons in hand.
 
-> [!quote] A quote from Elder Zelane of Istivin, recounting the Giant Wars  
-> 
+> [!quote] A quote from Elder Zelane of Istivin, recounting the Giant Wars
+>
 > And here is where Angerroth the barbarian fell against the giant horde. His bones are under that boulder over there.
-
 
 ## Statblock
 
@@ -131,6 +131,7 @@ title: Cloud Giant
 
 ***Rock.*** *Ranged Weapon Attack:* `+12` to hit, range 60/240 ft., one target. *Hit:* 30 (`4d10 + 8`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

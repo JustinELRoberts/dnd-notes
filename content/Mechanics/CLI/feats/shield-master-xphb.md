@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Shield Master 
+# Shield Master
 
-
-***Prerequisites*** 4th, Proficiency with shield armor
+_**Prerequisites**_ 4th, Proficiency with shield armor
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Shield Bash.** If you attack a creature within 5 feet of you as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action and hit with a Melee weapon, you can immediately bash the target with your [Shield](Mechanics/CLI/items/shield-xphb.md) if it's equipped, forcing the target to make a Strength saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, you either push the target 5 feet from you or cause it to have the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition (your choice). You can use this benefit only once on each of your turns.
 
 **Interpose Shield.** If you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to take no damage if you succeed on the saving throw and are holding a [Shield](Mechanics/CLI/items/shield-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 207*
+_Player's Handbook (2024) p. 207_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Human Names – Greek, Male
-*Source: Xanathar's Guide to Everything p. 181* 
+
+_Source: Xanathar's Guide to Everything p. 181_
 
 **Human Names – Greek, Male**
 

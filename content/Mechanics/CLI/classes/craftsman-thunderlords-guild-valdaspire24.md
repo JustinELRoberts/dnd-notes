@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Thunderlords' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Charge Your Weapons with Electricity*
+_Charge Your Weapons with Electricity_
 
 From the earliest days of life, storms (and particularly lightning) have struck the creatures caught in them with awe and terror. The Thunderlords' Guild, by contrast, draws wild inspiration from the majesty of nature, and seeks to, quite literally, capture lightning in a bottle.
 

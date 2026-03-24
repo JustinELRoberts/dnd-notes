@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Determine the Party's Goals; Event-Based Goals
-*Source: Dungeon Master's Guide p. 76* 
+
+_Source: Dungeon Master's Guide p. 76_
 
 **Event-Based Goals**
 

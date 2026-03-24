@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Frost Salamander
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 132*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 132_\
 ![](Mechanics/CLI/bestiary/elemental/img/frost-salamander.webp#right)
 
 Frost salamanders are natives of the Plane of Ice, also called the Frostfell, which rests between the Plane of Air and the Plane of Water. Frost salamanders especially like to hunt warm-blooded creatures. They sometimes travel to frigid climes on the Material Plane by wandering through planar gates.
@@ -66,6 +67,7 @@ title: Frost Salamander
 
 ***Freezing Breath (Recharge 6).*** The salamander exhales chill wind in a 60-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 44 (`8d10`) cold damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

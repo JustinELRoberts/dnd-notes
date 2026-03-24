@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Pact of the Tome 
-
+# Pact of the Tome
 
 Stitching together strands of shadow, you conjure forth a book in your hand at the end of a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). This Book of Shadows (you determine its appearance) contains eldritch magic that only you can access, granting you the benefits below. The book disappears if you conjure another book with this feature or if you die.
 
@@ -25,6 +24,7 @@ When the book appears, choose three cantrips, and choose two level 1 spells that
 ## Spellcasting Focus
 
 You can use the book as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Cauldron 
-
+# Cauldron
 
 You can brew potions in a bubbling cauldron using ingredients scavenged from nature.
 
@@ -46,6 +45,7 @@ When you brew potions, you can also distill potions you have already brewed, des
 | Potion of Resistance | 1 |
 | Potion of Water Breathing | 1 |
 ^cauldron-potions
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Status Symbols
-*Source: Volo's Guide to Monsters p. 42* 
+
+_Source: Volo's Guide to Monsters p. 42_
 
 **Status Symbols**
 

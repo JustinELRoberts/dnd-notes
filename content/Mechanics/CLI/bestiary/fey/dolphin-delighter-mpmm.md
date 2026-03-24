@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Dolphin Delighter
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 97*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 97_\
 ![](Mechanics/CLI/bestiary/fey/img/dolphin-delighter.webp#right)
 
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
@@ -67,6 +68,7 @@ title: Dolphin Delighter
 
 ***Fey Leap.*** The dolphin teleports up to 30 feet to an unoccupied space it can see. Immediately before teleporting, the dolphin can choose one creature within 5 feet of it. That creature can teleport with the dolphin, appearing in an unoccupied space within 5 feet of the dolphin's destination space.
 ```
+
 ^statblock
 
 ## Environment

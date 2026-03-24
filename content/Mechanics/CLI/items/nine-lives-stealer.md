@@ -25,15 +25,16 @@ obsidianUIMode: preview
 ---
 
 # Nine Lives Stealer
-*Major, very rare (requires attunement)*  
-![Nine Lives Stealer (Greatsword)](Mechanics/CLI/items/img/nine-lives-stealer.webp#right)
 
+_Major, very rare (requires attunement)_\
+![Nine Lives Stealer (Greatsword)](Mechanics/CLI/items/img/nine-lives-stealer.webp#right)
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon.
 
 The sword has `1d8 + 1` charges. If you score a critical hit against a creature that has fewer than 100 hit points, it must succeed on a DC 15 Constitution saving throw or be slain instantly as the sword tears its life force from its body (a construct or an undead is immune). The sword loses 1 charge if the creature is slain. When the sword has no charges remaining, it loses this property.
 
 **Variants**:
+
 - [Nine Lives Stealer Double-Bladed Scimitar](#Nine%20Lives%20Stealer%20Double-Bladed%20Scimitar)
 - [Nine Lives Stealer Greatsword](#Nine%20Lives%20Stealer%20Greatsword)
 - [Nine Lives Stealer Longsword](#Nine%20Lives%20Stealer%20Longsword)
@@ -79,5 +80,4 @@ The sword has `1d8 + 1` charges. If you score a critical hit against a creature 
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

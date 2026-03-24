@@ -22,8 +22,8 @@ classes:
 ---
 
 # Conjure Fey
-*6th-level, Conjuration*  
 
+_6th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -38,4 +38,4 @@ As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

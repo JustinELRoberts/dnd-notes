@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Maneuver, Vagabond
-*Source: Valda's Spire of Secrets (2024), Valda's Spire of Secrets Extras (2024)* 
+
+_Source: Valda's Spire of Secrets (2024), Valda's Spire of Secrets Extras (2024)_
 
 - [Battle Edge](Mechanics/CLI/optional-features/battle-edge-valdaspire24extras.md)
 - [Bear Hug](Mechanics/CLI/optional-features/bear-hug-valdaspire24extras.md)

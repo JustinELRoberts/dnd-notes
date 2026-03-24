@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Path of the World Tree
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
-*Source: Player's Handbook (2024) p. 56*  
+
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
+_Source: Player's Handbook (2024) p. 56_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/world-tree-barbarian.webp#right)
 
-*Trace the Roots and Branches of the Multiverse*
+_Trace the Roots and Branches of the Multiverse_
 
 Barbarians who follow the Path of the World Tree connect with the cosmic tree Yggdrasil through their Rage. This tree grows among the Outer Planes, connecting them to each other and the Material Plane. These Barbarians draw on the tree's magic for vitality and as a means of dimensional travel.
 

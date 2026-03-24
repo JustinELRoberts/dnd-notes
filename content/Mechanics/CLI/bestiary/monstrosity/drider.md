@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drider
-*Source: Monster Manual p. 120. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 120. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/drider.webp#right)
 
 When a drow shows great promise, Lolth summons it to the Demonweb Pits for a test of faith and strength. Those that pass the test rise higher in the Spider Queen's favor. Those that fail are transformed into driders-a horrid hybrid of a drow and a giant spider that serves as a living reminder of Lolth's power. Only drow can be turned into driders, and the power to create these creatures resides with Lolth alone.
@@ -28,10 +29,9 @@ Drow transformed into driders return to the Material Plane as twisted and debase
 
 On rare occasion, a drider returns to the fringes of drow society despite its curse, most often to fulfill some longstanding vow or vendetta from its former life. Drow fear and shun the driders, holding them in lower esteem than slaves. However, they tolerate the presence of these creatures as living representatives of Lolth's will, and a reminder of the fate that awaits all who fail the Spider Queen.
 
-> [!quote] A quote from Pellanistra the drider  
-> 
+> [!quote] A quote from Pellanistra the drider
+>
 > I failed the Spider Queen once. Never again.
-
 
 ## Statblock
 
@@ -82,6 +82,7 @@ title: Drider
 
 ***Longbow.*** *Ranged Weapon Attack:* `+6` to hit, range 150/600 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage plus 4 (`1d8`) poison damage.
 ```
+
 ^statblock
 
 ## Environment

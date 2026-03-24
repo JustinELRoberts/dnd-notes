@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Supplemental Tables; Absent Parent
-*Source: Xanathar's Guide to Everything p. 63* 
+
+_Source: Xanathar's Guide to Everything p. 63_
 
 **Absent Parent**
 

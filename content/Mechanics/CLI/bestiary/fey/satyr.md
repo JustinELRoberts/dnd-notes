@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Satyr
-*Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/fey/img/satyr.webp#right)
 
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
@@ -30,36 +31,35 @@ Satyrs crave the strongest drink, the most fragrant spices, and the most dizzyin
 
 Inebriated on drink and pleasure, satyrs give no thought to the consequences of the hedonism they incite in others. They leave such creatures mystified at their own behavior. Such revelers might have to scrounge for excuses to explain their disordered state to parents, employers, family, or friends.
 
-> [!quote] A quote from Sonnet of a Naughty Satyr  
-> 
+> [!quote] A quote from Sonnet of a Naughty Satyr
+>
 > Twixt day and night the spirits goad me on
-> 
+>
 > They pine for ages past when hearts were pure
-> 
+>
 > Against all reason now they seem unsure
-> 
+>
 > They laugh and scream between mine ears anon.
-> 
+>
 > Now fill my cup not once, not twice, but thrice
-> 
+>
 > With flag's brim upon my lips I dance
-> 
+>
 > Let unseen pixies toss their gowns askance
-> 
+>
 > While I, the Carnal King, indulge my vice.
-> 
+>
 > With folded boughs, the treants take their leave
-> 
+>
 > As merry damsels' corsets come undone
-> 
+>
 > My song doth stir them like a summer breeze
-> 
+>
 > They fill mine empty cup without reprieve.
-> 
+>
 > The sun becomes the moon becomes the sun
-> 
+>
 > I while away the hours as I please.
-
 
 ## Statblock
 
@@ -96,6 +96,7 @@ title: Satyr
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+5` to hit, range 80/320 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

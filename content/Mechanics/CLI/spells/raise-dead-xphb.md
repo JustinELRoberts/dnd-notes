@@ -32,7 +32,8 @@ classes:
 ---
 
 # Raise Dead
-*5th-level, Necromancy*  
+
+_5th-level, Necromancy_\
 ![](Mechanics/CLI/spells/img/raise-dead.webp#right)
 
 - **Casting time:** 1 hour
@@ -50,4 +51,4 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Te
 
 **Classes**: [Artificer (Alchemist)](Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Mercy)](Mechanics/CLI/lists/list-spells-classes-burden-of-mercy-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Witch (White Magic)](Mechanics/CLI/lists/list-spells-classes-white-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

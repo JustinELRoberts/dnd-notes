@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Shadow 
+# Mark of Shadow
+
 ![](Mechanics/CLI/feats/img/mark-of-shadow.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -36,6 +37,7 @@ You gain the following benefits.
 | 4 | [Greater Invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md), [Hallucinatory Terrain](Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) |
 | 5 | [Mislead](Mechanics/CLI/spells/mislead-xphb.md) |
 ^mark-of-shadow-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 42*
+_Eberron: Forge of the Artificer p. 42_

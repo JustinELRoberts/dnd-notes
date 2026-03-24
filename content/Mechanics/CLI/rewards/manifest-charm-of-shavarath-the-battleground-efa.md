@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Manifest Charm of Shavarath, the Battleground
-*Charm*  
 
+_Charm_
 
 When you score a Critical Hit, you can expend the Charm (no action required) to deal an extra 10 damage of one of the types dealt by the attack.
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 50*
+_Eberron: Forge of the Artificer p. 50_

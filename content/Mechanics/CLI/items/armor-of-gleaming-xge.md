@@ -28,13 +28,13 @@ obsidianUIMode: preview
 ---
 
 # Armor of Gleaming
-*Minor, common*  
 
-
+_Minor, common_
 
 This armor never gets dirty.
 
 **Variants**:
+
 - [Breastplate of Gleaming](#Breastplate%20of%20Gleaming)
 - [Chain Mail of Gleaming](#Chain%20Mail%20of%20Gleaming)
 - [Chain Shirt of Gleaming](#Chain%20Shirt%20of%20Gleaming)
@@ -106,5 +106,4 @@ This armor never gets dirty.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
 
-
-*Source: Xanathar's Guide to Everything p. 136*
+_Source: Xanathar's Guide to Everything p. 136_

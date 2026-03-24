@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Nightwalker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 194*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 194_\
 ![](Mechanics/CLI/bestiary/undead/img/nightwalker.webp#right)
 
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
@@ -68,6 +69,7 @@ title: Nightwalker
 
 ***Finger of Doom (Recharge 6).*** The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (`6d12`) necrotic damage and become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the nightwalker's next turn. While [frightened](Mechanics/CLI/rules/conditions.md#Frightened) in this way, the creature is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed). If a target's saving throw is successful, the target is immune to the nightwalker's Finger of Doom for the next 24 hours.
 ```
+
 ^statblock
 
 ## Environment

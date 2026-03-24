@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Warrior of Shadow
-*[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Player's Handbook (2024) p. 105*  
+
+_[Monk](./monk-xphb.md): Monk Subclass_\
+_Source: Player's Handbook (2024) p. 105_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/shadow-monk.webp#right)
 
-*Harness Shadow Power for Stealth and Subterfuge*
+_Harness Shadow Power for Stealth and Subterfuge_
 
 Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow, and take on a wraithlike form.
 

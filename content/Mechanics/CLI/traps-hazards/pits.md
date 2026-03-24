@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Pits
-*Mechanical Trap*  
 
+_Mechanical Trap_
 
 ## Simple Pit
 
@@ -45,4 +45,4 @@ This pit trap is a simple, hidden, or locking pit trap with sharpened wooden or 
 
 ## Sources
 
-*Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Arrow
-*Ammunition*  
 
+_Ammunition_
 
 - **Cost**: 5 cp
 - **Weight**: 0.05 lbs.
@@ -25,4 +25,4 @@ Arrows are used with a weapon that has the ammunition property to make a ranged 
 
 Arrows are typically stored in a [Quiver](Mechanics/CLI/items/quiver-xphb.md) (bought separately).
 
-*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

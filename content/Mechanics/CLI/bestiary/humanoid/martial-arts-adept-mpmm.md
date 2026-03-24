@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Martial Arts Adept
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216_\
 ![](Mechanics/CLI/bestiary/humanoid/img/martial-arts-adept.webp#right)
 
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
@@ -78,6 +79,7 @@ title: Martial Arts Adept
 
 ***Deflect Missile.*** In response to being hit by a ranged weapon attack, the adept deflects the missile. The damage it takes from the attack is reduced by `1d10 + 3`. If the damage is reduced to 0, the adept catches the missile if it's small enough to hold in one hand and the adept has a hand free.
 ```
+
 ^statblock
 
 ## Environment

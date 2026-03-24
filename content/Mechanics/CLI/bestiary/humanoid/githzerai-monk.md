@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Githzerai Monk
-*Source: Monster Manual p. 161*  
+
+_Source: Monster Manual p. 161_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githzerai.webp#right)
 
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
@@ -61,10 +62,9 @@ Zerthimon challenged Gith's motives, claiming that her strict martial leadership
 
 Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](Mechanics/CLI/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
-> [!quote] A quote from Aristul the Yellow, master of planar lore  
-> 
+> [!quote] A quote from Aristul the Yellow, master of planar lore
+>
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
-
 
 ## Statblock
 
@@ -104,4 +104,5 @@ title: Githzerai Monk
 
 ***Unarmed Strike.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) bludgeoning damage plus 9 (`2d8`) psychic damage. This is a magic weapon attack.
 ```
+
 ^statblock

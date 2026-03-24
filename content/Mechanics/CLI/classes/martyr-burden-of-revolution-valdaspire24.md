@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Revolution
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Liberate Others and Slay Tyrants*
+_Liberate Others and Slay Tyrants_
 
 Kings and leaders are bound by an unspoken covenant to the gods to govern their people justly and peacefully. When a monarch turns their back on the gods, embraces tyranny, or uses cruel measures against their own people, a Martyr is called to end their reign. Rarely does a Martyr of Revolution come with peaceful measures, for when a king must fall, only the sword can provide the necessary leverage.
 

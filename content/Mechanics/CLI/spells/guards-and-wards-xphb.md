@@ -22,8 +22,8 @@ classes:
 ---
 
 # Guards and Wards
-*6th-level, Abjuration*  
 
+_6th-level, Abjuration_
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -52,14 +52,14 @@ Webs fill all stairs in the warded area from top to bottom, as in the [Web](Mech
 
 Place one of the following magical effects within the warded area:
 
-- [Dancing Lights](Mechanics/CLI/spells/dancing-lights-xphb.md) in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts  
-- [Magic Mouth](Mechanics/CLI/spells/magic-mouth-xphb.md) in two locations  
-- [Stinking Cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md) in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)  
-- [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) in one corridor or room (the wind blows continuously while the spell lasts)  
-- [Suggestion](Mechanics/CLI/spells/suggestion-xphb.md) in one 5-foot square; any creature that enters that square receives the suggestion mentally  
+- [Dancing Lights](Mechanics/CLI/spells/dancing-lights-xphb.md) in four corridors, with a simple program that the lights repeat as long as Guards and Wards lasts
+- [Magic Mouth](Mechanics/CLI/spells/magic-mouth-xphb.md) in two locations
+- [Stinking Cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md) in two locations (the vapors return within 10 minutes if dispersed while Guards and Wards lasts)
+- [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) in one corridor or room (the wind blows continuously while the spell lasts)
+- [Suggestion](Mechanics/CLI/spells/suggestion-xphb.md) in one 5-foot square; any creature that enters that square receives the suggestion mentally
 
 ## Summary
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

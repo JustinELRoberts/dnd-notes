@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Holy Icon
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Champion a Divine Cause*
+_Champion a Divine Cause_
 
 Captains adorned with a Holy Icon are the champions of a god or ideology, embarking on minor quests and holy crusades in furtherance of their ideals. Though not imbued with grand divine powers, they command a suite of lesser miracles to heal and strengthen their allies for the long road ahead and a surety of purpose to propel them onward.
 

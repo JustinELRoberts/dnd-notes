@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Trappers' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Deploy a Minefield of Lethal Traps*
+_Deploy a Minefield of Lethal Traps_
 
 Craftsmen are no strangers to turrets, bombs, and clockwork mechanisms, but members of the Trappers' Guild raise this to a level of artistry. Given enough time and resources, a trapsmith can veritably blanket a room in dangerous implements, setting the stage to slay an intruder in a half-dozen unique ways. While the traps do the dirty work, the trapsmith is free to lounge about some distance away, enjoying a cold beverage and dreaming up new, dangerous designs.
 
@@ -64,10 +65,10 @@ You are a deadly master of trapsmithing with the following benefits.
 
 **Trapsmithing.** You can craft an array of traps. Traps and their costs in materials are detailed at the end of the subclass description.
 
-- [Ball Bearings](Mechanics/CLI/items/ball-bearings-valdaspire24.md)  
-- [Ballista Trap](Mechanics/CLI/items/ballista-trap-valdaspire24.md)  
-- [Caltrops](Mechanics/CLI/items/caltrops-valdaspire24.md)  
-- [Hunting Trap](Mechanics/CLI/items/hunting-trap-valdaspire24.md)  
+- [Ball Bearings](Mechanics/CLI/items/ball-bearings-valdaspire24.md)
+- [Ballista Trap](Mechanics/CLI/items/ballista-trap-valdaspire24.md)
+- [Caltrops](Mechanics/CLI/items/caltrops-valdaspire24.md)
+- [Hunting Trap](Mechanics/CLI/items/hunting-trap-valdaspire24.md)
 
 **Quick Deployment.** You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to deploy a trap of your choice. You can take this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your Craftsman level. You also regain one expended use when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 

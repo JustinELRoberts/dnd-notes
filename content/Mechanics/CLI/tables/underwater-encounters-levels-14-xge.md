@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Underwater Encounters (Levels 1—4)
-*Source: Xanathar's Guide to Everything p. 109* 
+
+_Source: Xanathar's Guide to Everything p. 109_
 
 **Underwater Encounters (Levels 1—4)**
 

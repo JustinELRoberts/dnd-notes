@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Diabolist
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Strike Contracts and Command the Powers of Hell*
+_Strike Contracts and Command the Powers of Hell_
 
 Your call was a bellow from below, foul with brimstone and the cries of the damned. Diabolists are well-spoken advocates for demons, devils, and other Fiends, mediating their pacts and trading souls for their service. Often, Diabolists are called upon to defend portals to the underworld, safeguarding the innocent from wandering down below and trapping condemned souls within.
 

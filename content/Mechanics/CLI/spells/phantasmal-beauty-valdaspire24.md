@@ -24,8 +24,8 @@ classes:
 ---
 
 # Phantasmal Beauty
-*3rd-level, Illusion*  
 
+_3rd-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -40,4 +40,4 @@ The target makes a Wisdom saving throw whenever it takes damage and at the end o
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Mark of Detection 
+# Greater Mark of Detection
+
 ![](Mechanics/CLI/feats/img/greater-mark-of-detection.webp#right)
 
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +26,7 @@ You gain the following benefits.
 **Improved Intuition.** When you use the Deductive Intuition benefit of your [Mark of Detection](Mechanics/CLI/feats/mark-of-detection-efa.md) feat, you can roll `1d6` instead of `1d4`.
 
 **Shared Detection.** When you use the Magical Detection benefit of your [Mark of Detection](Mechanics/CLI/feats/mark-of-detection-efa.md) feat to cast [See Invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md) without a spell slot, you can choose one creature you can see within 30 feet of yourself. That creature also gains the benefits of the spell for its duration.
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 43*
+_Eberron: Forge of the Artificer p. 43_

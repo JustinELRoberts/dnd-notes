@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Tyrannosaurus Rex
-*Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/tyrannosaurus-rex.webp#right)
 
 This enormous predator terrorizes all other creatures in its territory. Despite its size and weight, a tyrannosaurus is a swift runner. It chases anything it thinks it can eat, and there are few creatures it won't try to devour whole. While prowling for substantial prey, a tyrannosaurus subsists on carrion, and on any smaller creatures that try to dart in to steal its meal.
@@ -58,6 +59,7 @@ title: Tyrannosaurus Rex
 
 ***Tail.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 20 (`3d8 + 7`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

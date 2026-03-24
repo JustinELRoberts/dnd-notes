@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Desecrated Ground
-*Wilderness Hazard*  
 
+_Wilderness Hazard_
 
 Some cemeteries and catacombs are imbued with the unseen traces of ancient evil. An area of desecrated ground can be any size, and a [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spell cast within range reveals its presence.
 
@@ -25,4 +25,4 @@ A vial of [holy water](Mechanics/CLI/items/holy-water-xphb.md) purifies a 10-foo
 
 ## Sources
 
-*Dungeon Master's Guide p. 110*
+_Dungeon Master's Guide p. 110_

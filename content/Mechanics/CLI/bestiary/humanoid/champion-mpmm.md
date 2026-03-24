@@ -18,11 +18,12 @@ obsidianUIMode: preview
 ---
 
 # Champion
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212_\
 ![](Mechanics/CLI/bestiary/humanoid/img/champion.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Bountiful and overrated. You can't spit in this realm without hitting one. I have witnessed the birth, death, and unlife of more champions than I dare recount. Few are worth remembering.
 
 Champions are mighty warriors who have honed their fighting skills in wars or gladiatorial pits. To soldiers and other people who fight for a living, champions are as influential as nobles, and their presence is courted as a sign of status among rulers.
@@ -84,6 +85,7 @@ title: Champion
 
 ***Second Wind (Recharges after a Short or Long Rest).*** The champion regains 20 hit points.
 ```
+
 ^statblock
 
 ## Environment

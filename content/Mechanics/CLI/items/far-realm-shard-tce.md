@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Far Realm Shard
-*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
+
+_Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)_\
 ![](Mechanics/CLI/items/img/far-realm-shard.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -25,4 +26,4 @@ This writhing crystal is steeped in the warped essence of the Far Realm. As an a
 
 When you use a Metamagic option on a spell while you are holding or wearing the shard, you can cause a slimy tentacle to rip through the fabric of reality and strike one creature you can see within 30 feet of you. The creature must succeed on a Charisma saving throw against your spell save DC or take `3d6` psychic damage and become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of you until the start of your next turn.
 
-*Source: Tasha's Cauldron of Everything p. 127*
+_Source: Tasha's Cauldron of Everything p. 127_

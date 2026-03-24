@@ -20,6 +20,7 @@ obsidianUIMode: preview
 ---
 
 # Selûne
+
 ![](Mechanics/CLI/deities/img/scag-symbol-of-selune.webp#symbol)
 
 - **Alternate Names**: Our Lady of Silver, The Moonmaiden, The Night White Lady
@@ -36,4 +37,4 @@ Milk, a symbol of motherhood, is used in many rites performed by the worshipers 
 
 ## Sources
 
-*Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34*
+_Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 34_

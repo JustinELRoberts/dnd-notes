@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Horn of Valhalla, Brass
-*Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), major, rare*  
 
+_Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), major, rare_
 
 - **Weight**: 2.0 lbs.
 
@@ -27,4 +27,4 @@ A brass horn summons `3d4 + 3` [berserkers](Mechanics/CLI/bestiary/humanoid/bers
 
 If you blow the horn without meeting its requirement, the summoned [berserkers](Mechanics/CLI/bestiary/humanoid/berserker.md) attack you. If you meet the requirement, they are friendly to you and your companions and follow your commands.
 
-*Source: Dungeon Master's Guide p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -20,8 +20,8 @@ classes:
 ---
 
 # Tsunami
-*8th-level, Conjuration*  
 
+_8th-level, Conjuration_
 
 - **Casting time:** 1 minute
 - **Range:** 1 miles
@@ -38,4 +38,4 @@ A creature caught in the wall can move by swimming. Because of the wave's force,
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Skill Variants
-*Source: Dungeon Master's Guide p. 263* 
+
+_Source: Dungeon Master's Guide p. 263_
 
 A skill dictates the circumstances under which a character can add his or her proficiency bonus to an ability check. Skills define those circumstances by referring to different aspects of the six ability scores. For example, [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) and [Stealth](Mechanics/CLI/rules/skills.md#Stealth) are two different aspects of Dexterity, and a character can specialize in either or both.
 

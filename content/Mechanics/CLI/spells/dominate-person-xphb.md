@@ -43,8 +43,8 @@ classes:
 ---
 
 # Dominate Person
-*5th-level, Enchantment*  
 
+_5th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -61,4 +61,4 @@ You can command the target to take a [Reaction](Mechanics/CLI/rules/variant-rule
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric (Trickery Domain)](Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Fame)](Mechanics/CLI/lists/list-spells-classes-burden-of-fame-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Tyranny)](Mechanics/CLI/lists/list-spells-classes-burden-of-tyranny-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Blood Ascendent)](Mechanics/CLI/lists/list-spells-classes-blood-ascendent-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Overlord)](Mechanics/CLI/lists/list-spells-classes-overlord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Conquest)](Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Paladin (Oathbreaker)](Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (Archfey Patron)](Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

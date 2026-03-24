@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Magma Mephit
-*Source: Monster Manual p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/magma-mephit.webp#right)
 
 ## Mephits
@@ -74,6 +75,7 @@ title: Magma Mephit
 
 ***Fire Breath (Recharge 6).*** The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

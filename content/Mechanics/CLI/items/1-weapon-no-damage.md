@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # +1 Weapon (no damage)
-*Major, uncommon*  
 
-
+_Major, uncommon_
 
 You have a +1 bonus to attack rolls made with this weapon.
 
-*Source: Dungeon Master's Guide p. 213*
+_Source: Dungeon Master's Guide p. 213_

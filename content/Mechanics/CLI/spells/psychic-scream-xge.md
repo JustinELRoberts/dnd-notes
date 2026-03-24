@@ -24,8 +24,8 @@ classes:
 ---
 
 # Psychic Scream
-*9th-level, Enchantment*  
 
+_9th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -40,4 +40,4 @@ A [stunned](Mechanics/CLI/rules/conditions.md#Stunned) target can make an Intell
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 163*
+_Source: Xanathar's Guide to Everything p. 163_

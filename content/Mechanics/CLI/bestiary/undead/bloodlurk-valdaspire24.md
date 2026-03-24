@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Bloodlurk
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 An awful hybrid of Undead and Ooze, a bloodlurk is animated from the coagulated blood of the dead and bubbles with necromantic malice.
 
@@ -52,4 +52,5 @@ title: Bloodlurk
 
 ***Blood Splash.*** *Constitution Saving Throw:* DC 13, each creature of the bloodlurk's choice in a 5-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) origination from the lurker. *Failure:* 17 (`5d6`) Necrotic damage. *Success:* Half damage.
 ```
+
 ^statblock

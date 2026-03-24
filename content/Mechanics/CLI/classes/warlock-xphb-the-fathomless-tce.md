@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # The Fathomless
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
-*Source: Tasha's Cauldron of Everything p. 72*  
+
+_[Warlock](./warlock-xphb.md): Warlock Subclass_\
+_Source: Tasha's Cauldron of Everything p. 72_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -61,7 +62,7 @@ Entities of the deep that might empower a warlock include krakens, ancient water
 
 ### Expanded Spell List (Level 3)
 
-*1st-level Fathomless feature*
+_1st-level Fathomless feature_
 
 The Fathomless lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
@@ -78,7 +79,7 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 ### Tentacle of the Deeps (Level 1)
 
-*1st-level Fathomless feature*
+_1st-level Fathomless feature_
 
 You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.
 
@@ -90,25 +91,25 @@ You can summon the tentacle a number of times equal to your proficiency bonus, a
 
 ### Gift of the Sea (Level 1)
 
-*1st-level Fathomless feature*
+_1st-level Fathomless feature_
 
 You gain a swimming speed of 40 feet, and you can breathe underwater.
 
 ### Oceanic Soul (Level 6)
 
-*6th-level Fathomless feature*
+_6th-level Fathomless feature_
 
 You are now even more at home in the depths. You gain resistance to cold damage. In addition, when you are fully submerged, any creature that is also fully submerged can understand your speech, and you can understand theirs.
 
 ### Guardian Coil (Level 6)
 
-*6th-level Fathomless feature*
+_6th-level Fathomless feature_
 
 Your Tentacle of the Deeps can defend you and others, interposing itself between them and harm. When you or a creature you can see takes damage while within 10 feet of the tentacle, you can use your reaction to choose one of those creatures and reduce the damage to that creature by `1d8`. When you reach 10th level in this class, the damage reduced by the tentacle increases to `2d8`.
 
 ### Grasping Tentacles (Level 10)
 
-*10th-level Fathomless feature*
+_10th-level Fathomless feature_
 
 You learn the spell [Evard's black tentacles](Mechanics/CLI/spells/evards-black-tentacles-xphb.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
@@ -116,7 +117,7 @@ Whenever you cast this spell, your patron's magic bolsters you, granting you a n
 
 ### Fathomless Plunge (Level 14)
 
-*14th-level Fathomless feature*
+_14th-level Fathomless feature_
 
 You can magically open temporary conduits to watery destinations. As an action, you can teleport yourself and up to five other willing creatures that you can see within 30 feet of you. Amid a whirl of tentacles, you all vanish and then reappear up to 1 mile away in a body of water you've seen (pond size or larger) or within 30 feet of it, each of you appearing in an unoccupied space within 30 feet of the others.
 

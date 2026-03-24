@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # The Outer Planes
-*Source: Dungeon Master's Guide p. 57* 
+
+_Source: Dungeon Master's Guide p. 57_
 
 **The Outer Planes**
 

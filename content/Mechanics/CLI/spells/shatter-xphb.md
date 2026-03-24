@@ -48,8 +48,8 @@ classes:
 ---
 
 # Shatter
-*2nd-level, Evocation*  
 
+_2nd-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -64,4 +64,4 @@ A nonmagical object that isn't being worn or carried also takes the damage if it
 
 **Classes**: [Artificer (Armorer)](Mechanics/CLI/lists/list-spells-classes-armorer-efa.md "subclass=EFA;class=EFA"); [Artificer (Artillerist)](Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Sea)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Discord)](Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr (Burden of the End)](Mechanics/CLI/lists/list-spells-classes-burden-of-the-end-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 316. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

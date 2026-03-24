@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Elemental Essence Shard (Fire)
-*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)_
 
 - **Weight**: 1.0 lbs.
 
@@ -29,4 +29,4 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 One target of the spell that you can see catches fire. The burning target takes `2d10` fire damage at the start of its next turn, and then the flames go out.
 
-*Source: Tasha's Cauldron of Everything p. 127*
+_Source: Tasha's Cauldron of Everything p. 127_

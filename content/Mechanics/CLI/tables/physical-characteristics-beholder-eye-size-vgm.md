@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Physical Characteristics; Beholder Eye Size
-*Source: Volo's Guide to Monsters p. 8* 
+
+_Source: Volo's Guide to Monsters p. 8_
 
 **Beholder Eye Size**
 

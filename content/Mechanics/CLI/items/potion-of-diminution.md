@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Potion of Diminution
-*Potion, minor, rare*  
 
-
+_Potion, minor, rare_
 
 When you drink this potion, you gain the "reduce" effect of the [enlarge/reduce](Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell for `1d4` hours (no [concentration](Mechanics/CLI/rules/conditions.md#Concentration) required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.
 
-*Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

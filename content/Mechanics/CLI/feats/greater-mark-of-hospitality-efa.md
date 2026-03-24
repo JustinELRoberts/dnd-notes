@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Mark of Hospitality 
+# Greater Mark of Hospitality
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Improved Intuition.** When you use the Ever Hospitable benefit of your [Mark of Hospitality](Mechanics/CLI/feats/mark-of-hospitality-efa.md) feat, you can roll `1d6` instead of `1d4`.
 
 **Improved Hospitality.** When you cast [Purify Food and Drink](Mechanics/CLI/spells/purify-food-and-drink-xphb.md), you can modify the spell so that instead of its normal effect, each creature of your choice within 30 feet of you is refreshed. Each affected creature's [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level is reduced by 1, and the creature gains [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) plus your Intelligence, Wisdom, or Charisma modifier (choose when you select this feat). Once you modify the spell with this benefit, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 44*
+_Eberron: Forge of the Artificer p. 44_

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Master Thief
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 174, Volo's Guide to Monsters p. 216_\
 ![](Mechanics/CLI/bestiary/humanoid/img/master-thief.webp#right)
 
 Master thieves are known for perpetrating daring heists. They tend to develop a romanticized reputation. A master thief might "retire" from hands-on work to run a thieves' guild, spearhead some covert enterprise, or enjoy a quiet life of luxury.
@@ -81,6 +82,7 @@ title: Master Thief
 
 ***Uncanny Dodge.*** The thief halves the damage that it takes from an attack that hits it. The thief must be able to see the attacker.
 ```
+
 ^statblock
 
 ## Environment

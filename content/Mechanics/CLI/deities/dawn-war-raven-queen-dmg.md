@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Raven Queen
 
-
 - **Alignment**: Lawful Neutral
 - **Domains**: Life, Death
 - **Pantheon**: Dawn War
 - **Symbol**: Raven's head, in profile, facing left
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

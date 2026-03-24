@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Charm of Argonnessen
 
-
 While you have this Charm, you know Draconic. You can expend the Charm to cast [Dragon's Breath](Mechanics/CLI/spells/dragons-breath-xphb.md) (level 4 version), targeting yourself only.
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 51*
+_Eberron: Forge of the Artificer p. 51_

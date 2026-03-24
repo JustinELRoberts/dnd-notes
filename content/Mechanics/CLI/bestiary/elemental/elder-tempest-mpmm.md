@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Elder Tempest
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 121*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 121_\
 ![](Mechanics/CLI/bestiary/elemental/img/elder-tempest.webp#right)
 
 Terrifying storms manifest in the bodies of elder tempests. Beings carved from clouds, wind, rain, and lightning, elder tempests assume the shape of serpents that slither through the sky. They drown the land beneath them with rain and stab the earth with lances of lightning. Punishing winds scream around them as they fly, feeding the chaos they create.
@@ -79,6 +80,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the elder t
 
 ***Screaming Gale (Costs 3 Actions).*** The tempest releases a blast of thunder and wind in a line that is 300 feet long and 20 feet wide. Objects in that area take 22 (`4d10`) thunder damage. Each creature there must succeed on a DC 21 Dexterity saving throw or take 22 (`4d10`) thunder damage and be flung up to 60 feet in a direction away from the line. If a thrown target collides with an immovable object (such as a wall or floor) or another creature, the target takes 3 (`1d6`) bludgeoning damage for every 10 feet it was thrown before impact. If the target collides with another creature, that other creature must succeed on a DC 19 Dexterity saving throw or take the same impact damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

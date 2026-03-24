@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Drow Favored Consort
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 100*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 100_\
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-favored-consort.webp#right)
 
 Nearly every priestess of Lolth, including the powerful [drow matron mother](Mechanics/CLI/bestiary/humanoid/drow-matron-mother-mpmm.md) in this book, takes an attractive drow as consort. Chosen as much for beauty as for magical might, a drow favored consort can hold their own in both conversation and combat. Combining the roles of advisor, protector, and beloved, some favored consorts are content with a supporting role, while more ambitious consorts aspire to be the power behind the throne—or even to claim the throne themselves.
@@ -74,6 +75,7 @@ title: Drow Favored Consort
 
 ***Protective Shield (3/Day).*** When the drow or a creature within 10 feet of it is hit by an attack roll, the drow gives the target a +5 bonus to its AC until the start of the drow's next turn, which can cause the triggering attack roll to miss.
 ```
+
 ^statblock
 
 ## Environment

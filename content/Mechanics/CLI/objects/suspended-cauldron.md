@@ -15,11 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Suspended Cauldron
-*Source: Dungeon Master's Guide p. 255* 
+
+_Source: Dungeon Master's Guide p. 255_
 
 A cauldron is an iron pot suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled-and its contents must usually be reheated-before it can be used again. It takes three actions to fill a cauldron and one action to tip it.
 
 Cauldrons can be filled with other liquids, such as acid or [green slime](Mechanics/CLI/traps-hazards/green-slime.md), with different effects.
+
 ```ad-statblock
 title: Suspended Cauldron
 ![](Mechanics/CLI/objects/token/suspended-cauldron.webp#token)
@@ -39,4 +41,5 @@ title: Suspended Cauldron
 
 ***Boiling Oil.*** The cauldron pours boiling oil onto a 10-foot-square area directly below it. Any creature in the area must make a DC 15 Dexterity saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock

@@ -17,9 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ring of Fire Elemental Command
-*Ring, major, legendary (requires attunement)*  
 
-
+_Ring, major, legendary (requires attunement)_
 
 While wearing this ring, you have advantage on attack rolls against elementals from the Elemental Plane of Fire and they have disadvantage on attack rolls against you. In addition, you have access to properties based on the Elemental Plane of Fire.
 
@@ -29,7 +28,7 @@ You can expend 2 of the ring's charges to cast [dominate monster](Mechanics/CLI/
 
 If you help slay a [fire elemental](Mechanics/CLI/bestiary/elemental/fire-elemental.md) while attuned to the ring, you gain access to the following additional properties:
 
-- You are immune to fire damage.  
-- You can cast the following spells from the ring, expending the necessary number of charges: [burning hands](Mechanics/CLI/spells/burning-hands-xphb.md) (1 charge), [fireball](Mechanics/CLI/spells/fireball-xphb.md) (2 charges), and [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) (3 charges).  
+- You are immune to fire damage.
+- You can cast the following spells from the ring, expending the necessary number of charges: [burning hands](Mechanics/CLI/spells/burning-hands-xphb.md) (1 charge), [fireball](Mechanics/CLI/spells/fireball-xphb.md) (2 charges), and [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) (3 charges).
 
-*Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

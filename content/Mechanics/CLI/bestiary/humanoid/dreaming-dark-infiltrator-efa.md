@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Dreaming Dark Infiltrator
-*Source: Eberron: Forge of the Artificer p. 59*  
+
+_Source: Eberron: Forge of the Artificer p. 59_\
 ![](Mechanics/CLI/bestiary/humanoid/img/dreaming-dark-infiltrator.webp#right)
 
 Dreaming Dark Infiltrators are spies sent to gather intelligence. They plant psychic seeds in their minds of their foes that enhance the infiltrators' combat prowess against those enemies.
@@ -59,4 +60,5 @@ title: Dreaming Dark Infiltrator
 
 ***Mind Curse.*** *Wisdom Saving Throw:* DC 15, one creature hit by the infiltrator's Mind Blade attack this turn. *Failure:* The target takes 14 (`4d6`) Psychic damage and is cursed. While cursed in this way, it has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against the infiltrator, and the infiltrator always knows its location while it and the infiltrator are on the same plane of existence. A cursed creature repeats the save whenever it finishes a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), ending the effect on itself on a success. *Success:* Half damage only.
 ```
+
 ^statblock

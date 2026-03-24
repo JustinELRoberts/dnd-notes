@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Lingering Injuries
-*Source: Dungeon Master's Guide p. 272* 
+
+_Source: Dungeon Master's Guide p. 272_
 
 **Lingering Injuries**
 

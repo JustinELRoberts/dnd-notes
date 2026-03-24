@@ -19,8 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Quetzalcoatlus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
 
@@ -52,6 +52,7 @@ title: Quetzalcoatlus
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one creature. *Hit:* 12 (`3d6 + 2`) piercing damage. If the quetzalcoatlus flew least 30 feet toward the target immediately before the hit, the target takes an extra 10 (`3d6`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Berserker
-*Source: Valda's Spire of Secrets (2024)*  
 
+_Source: Valda's Spire of Secrets (2024)_
 
 Ruthless and fierce, the berserker tears across the battlefield in a wild frenzy, devastating their enemies with boundless rage.
 
@@ -68,4 +68,5 @@ title: Berserker
 
 ***Level 17.*** Retaliation. Trigger: A creature within 5 feet of the berserker deals damage to it. _Response:_ The berserker makes one melee attack.
 ```
+
 ^statblock

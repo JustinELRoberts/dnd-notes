@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Manifold Tool
-*Wondrous item, common (requires attunement)*  
 
-
+_Wondrous item, common (requires attunement)_
 
 This tool takes the form of a wrench, a screwdriver, or another basic tool. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can touch the item and transform it into a type of [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) of your choice. Whatever form the tool takes, you have proficiency with it when you use it.
 
-*Source: Eberron: Forge of the Artificer p. 112*
+_Source: Eberron: Forge of the Artificer p. 112_

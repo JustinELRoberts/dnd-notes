@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Quadrone (Rogue)
-*Source: Monster Manual p. 226*  
+
+_Source: Monster Manual p. 226_
 
 ```ad-statblock
 title: Quadrone (Rogue)
@@ -50,4 +51,5 @@ title: Quadrone (Rogue)
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+4` to hit, range 80/320 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock

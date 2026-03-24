@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Grand Hex
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Abominable Familiar](Mechanics/CLI/optional-features/abominable-familiar-valdaspire24.md)
 - [Cauldron](Mechanics/CLI/optional-features/cauldron-valdaspire24.md)

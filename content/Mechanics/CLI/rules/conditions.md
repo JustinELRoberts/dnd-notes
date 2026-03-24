@@ -15,6 +15,7 @@ obsidianUIMode: preview
 # Conditions
 
 ## Blinded
+
 _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Blinded condition, you experience the following effects.
@@ -24,11 +25,13 @@ While you have the Blinded condition, you experience the following effects.
 **Attacks Affected.** [Attack](Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md), and your attack rolls have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
 
 ## Bloodied
+
 _Source: Player's Handbook (2024) p. 362. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 A creature is Bloodied while it has half its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or fewer remaining.
 
 ## Charmed
+
 _Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Charmed condition, you experience the following effects.
@@ -38,6 +41,7 @@ While you have the Charmed condition, you experience the following effects.
 **Social Advantage.** The charmer has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check to interact with you socially.
 
 ## Concentration
+
 _Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect's creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect's description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
@@ -49,6 +53,7 @@ Some spells and other effects require Concentration to remain active, as specifi
 **Incapacitated or Dead.** Your Concentration ends if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition or you die.
 
 ## Deafened
+
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Deafened condition, you experience the following effect.
@@ -56,6 +61,7 @@ While you have the Deafened condition, you experience the following effect.
 **Can't Hear.** You can't hear and automatically fail any ability check that requires hearing.
 
 ## Exhaustion
+
 _Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Exhaustion condition, you experience the following effects.
@@ -69,6 +75,7 @@ While you have the Exhaustion condition, you experience the following effects.
 **Removing Exhaustion Levels.** Finishing a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.
 
 ## Frightened
+
 _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Frightened condition, you experience the following effects.
@@ -78,6 +85,7 @@ While you have the Frightened condition, you experience the following effects.
 **Can't Approach.** You can't willingly move closer to the source of fear.
 
 ## Grappled
+
 _Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Grappled condition, you experience the following effects.
@@ -89,6 +97,7 @@ While you have the Grappled condition, you experience the following effects.
 **Movable.** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
 
 ## Incapacitated
+
 _Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Incapacitated condition, you experience the following effects.
@@ -102,6 +111,7 @@ While you have the Incapacitated condition, you experience the following effects
 **Surprised.** If you're Incapacitated when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the roll.
 
 ## Invisible
+
 _Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Invisible condition, you experience the following effects.
@@ -113,6 +123,7 @@ While you have the Invisible condition, you experience the following effects.
 **Attacks Affected.** [Attack](Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md), and your attack rolls have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md). If a creature can somehow see you, you don't gain this benefit against that creature.
 
 ## Paralyzed
+
 _Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Paralyzed condition, you experience the following effects.
@@ -128,6 +139,7 @@ While you have the Paralyzed condition, you experience the following effects.
 **Automatic Critical Hits.** Any attack roll that hits you is a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) if the attacker is within 5 feet of you.
 
 ## Petrified
+
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Petrified condition, you experience the following effects.
@@ -147,6 +159,7 @@ While you have the Petrified condition, you experience the following effects.
 **Poison Immunity.** You have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition.
 
 ## Poisoned
+
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Poisoned condition, you experience the following effect.
@@ -154,6 +167,7 @@ While you have the Poisoned condition, you experience the following effect.
 **Ability Checks and Attacks Affected.** You have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks.
 
 ## Prone
+
 _Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Prone condition, you experience the following effects.
@@ -163,6 +177,7 @@ While you have the Prone condition, you experience the following effects.
 **Attacks Affected.** You have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls. An attack roll against you has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) if the attacker is within 5 feet of you. Otherwise, that attack roll has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
 
 ## Restrained
+
 _Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Restrained condition, you experience the following effects.
@@ -174,6 +189,7 @@ While you have the Restrained condition, you experience the following effects.
 **Saving Throws Affected.** You have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Dexterity [saving throws](Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md).
 
 ## Stunned
+
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Stunned condition, you experience the following effects.
@@ -185,11 +201,13 @@ While you have the Stunned condition, you experience the following effects.
 **Attacks Affected.** [Attack](Mechanics/CLI/rules/actions.md#Attack) rolls against you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
 
 ## Surprised
+
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 If a creature is caught unawares by the start of combat, that creature is surprised, which causes it to have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on its [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) roll.
 
 ## Unconscious
+
 _Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 While you have the Unconscious condition, you experience the following effects.

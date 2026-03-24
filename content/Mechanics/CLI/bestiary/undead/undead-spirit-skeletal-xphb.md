@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Undead Spirit (Skeletal)
-*Source: Player's Handbook (2024) p. 328*  
+
+_Source: Player's Handbook (2024) p. 328_
 
 ```ad-statblock
 title: Undead Spirit (Skeletal)
@@ -45,4 +46,5 @@ title: Undead Spirit (Skeletal)
 
 ***Grave Bolt.*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 150 ft. *Hit:* `2d4 + 3` + the spell's level Necrotic damage.
 ```
+
 ^statblock

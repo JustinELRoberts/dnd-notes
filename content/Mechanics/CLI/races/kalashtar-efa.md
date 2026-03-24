@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Kalashtar
-*Source: Eberron: Forge of the Artificer p. 35*  
+
+_Source: Eberron: Forge of the Artificer p. 35_\
 ![](Mechanics/CLI/races/img/kalashtar.webp#right)
 
 - **Ability Scores**: None

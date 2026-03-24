@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Ballista
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
@@ -25,4 +25,4 @@ obsidianUIMode: preview
 - **Cost**: 500 gp
 - **Weight**: 40.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

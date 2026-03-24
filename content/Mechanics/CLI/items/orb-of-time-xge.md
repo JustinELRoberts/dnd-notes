@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Orb of Time
-*Wondrous item, minor, common*  
 
+_Wondrous item, minor, common_
 
 - **Weight**: 3.0 lbs.
 
 While holding this orb, you can use an action to determine whether it is morning, afternoon, evening, or nighttime outside. This property functions only on the Material Plane.
 
-*Source: Xanathar's Guide to Everything p. 138*
+_Source: Xanathar's Guide to Everything p. 138_

@@ -18,8 +18,8 @@ classes:
 ---
 
 # Destructive Wave
-*5th-level, Evocation*  
 
+_5th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Sphere)
@@ -30,4 +30,4 @@ Destructive energy ripples outward from you in a 30-foot [Emanation](Mechanics/C
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 261*
+_Source: Player's Handbook (2024) p. 261_

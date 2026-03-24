@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Secondary Tables; Weird Stuff
-*Source: Xanathar's Guide to Everything p. 70* 
+
+_Source: Xanathar's Guide to Everything p. 70_
 
 **Weird Stuff**
 

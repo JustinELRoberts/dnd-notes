@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Physical Variations; Yuan-ti Snake Head Shape
-*Source: Volo's Guide to Monsters p. 97* 
+
+_Source: Volo's Guide to Monsters p. 97_
 
 **Yuan-ti Snake Head Shape**
 

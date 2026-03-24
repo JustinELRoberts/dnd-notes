@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Demilich
-*Source: Monster Manual p. 48*  
+
+_Source: Monster Manual p. 48_\
 ![](Mechanics/CLI/bestiary/undead/img/demilich.webp#right)
 
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
@@ -51,10 +52,9 @@ The demilich targets one creature that it can see within 30 feet of it. The targ
 
 If the demilich drops to 0 hit points, it is destroyed and turns to powder, leaving behind its gems. Crushing a gem releases any soul trapped within, at which point the target's body re-forms in an unoccupied space nearest to the gem and in the same state as when it was trapped.
 
-> [!quote] A quote from Epitaph of a demilich  
-> 
+> [!quote] A quote from Epitaph of a demilich
+>
 > I, Acererak the Eternal, beckon you to your doom. Come, foolish ones, plunger my treasures, if you dare! Others have tried. All have failed! From your skin, tapestries shall be woven, and your bones will carpet my tomb. Only I am beyond Death's reach. Only I know the secret to true immortality!
-
 
 ## Statblock
 
@@ -125,4 +125,5 @@ A demilich's tomb might have any or all of the following effects in place:
 
 If the demilich is destroyed, these effects fade over the course of 10 days.
 ```
+
 ^statblock

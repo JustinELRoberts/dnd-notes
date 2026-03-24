@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Action Options
-*Source: Dungeon Master's Guide p. 271* 
+
+_Source: Dungeon Master's Guide p. 271_
 
 This section provides new action options for combat. They can be added as a group or individually to your game.
 

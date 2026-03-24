@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Climbing Apparatus
-*Monstrous graft, uncommon*  
 
+_Monstrous graft, uncommon_
 
 - **Properties**: [Legs Slot](Mechanics/CLI/rules/item-properties.md#Legs%20Slot)
 
-*Donor: Any Creature with a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md)*
+_Donor: Any Creature with a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md)_
 
 Once attached, this graft allows you to cling to surfaces and climb with agility. You gain a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

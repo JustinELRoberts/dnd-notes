@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Charm of Khyber
 
-
 While you have this Charm, you have [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 120 feet. You can expend the Charm to gain [Truesight](Mechanics/CLI/rules/senses.md#Truesight) with a range of 60 feet for 1 minute.
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 51*
+_Eberron: Forge of the Artificer p. 51_

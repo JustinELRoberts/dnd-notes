@@ -17,24 +17,24 @@ obsidianUIMode: preview
 ---
 
 # Imp
-*Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/fiend/img/imp.webp#right)
 
 ## Imp
 
-*Devil of Pettiness and Suspicion*
+_Devil of Pettiness and Suspicion_
 
-- **Habitat.** Any  
-- **Treasure.** None  
+- **Habitat.** Any
+- **Treasure.** None
 
 Known for their cowardice and toadying, imps serve devils and wicked magic-users. Their abilities to shape-shift and pass unseen make them skillful spies and adept at fleeing danger. Imps sent to surveil other creatures relate what they discover to their masters, but they frequently omit important details or cast events in the worst possible light to mislead their masters into following the imps' devilish council.
 
 Imps without masters delight in manipulating other creatures and inflating their own egos. They might take over bands of weaker monsters, or they might pose as helpful spirits and trick influential individuals into pursuing nefarious ends.
 
-> [!quote] A quote from Skeever, Imp Servant of Firan Zal'Honan  
-> 
+> [!quote] A quote from Skeever, Imp Servant of Firan Zal'Honan
+>
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
-
 
 ```ad-statblock
 title: Imp
@@ -72,6 +72,7 @@ title: Imp
 ***Invisibility.*** The imp casts [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
 ```
+
 ^statblock
 
 ## Environment

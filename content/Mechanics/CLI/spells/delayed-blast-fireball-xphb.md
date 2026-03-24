@@ -25,8 +25,8 @@ classes:
 ---
 
 # Delayed Blast Fireball
-*7th-level, Evocation*  
 
+_7th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -45,4 +45,4 @@ When the bead explodes, flammable objects in the explosion that aren't being wor
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

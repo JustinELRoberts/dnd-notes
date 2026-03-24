@@ -21,8 +21,8 @@ classes:
 ---
 
 # Force Buckler
-*cantrip, Abjuration*  
 
+_cantrip, Abjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -33,4 +33,4 @@ You summon a translucent field of force, which springs forth from the gauntlet u
 
 **Classes**: [Warmage (House of Knights)](Mechanics/CLI/lists/list-spells-classes-house-of-knights-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

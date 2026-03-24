@@ -18,8 +18,8 @@ classes:
 ---
 
 # Gahoul's Glorious Gothic
-*8th-level, Conjuration*  
 
+_8th-level, Conjuration_
 
 - **Casting time:** 1 hour
 - **Range:** 1 miles
@@ -36,4 +36,4 @@ When the spell ends, the manor is magically drawn back into the rift. If you cas
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

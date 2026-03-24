@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Finding 
+# Mark of Finding
+
 ![](Mechanics/CLI/feats/img/mark-of-finding.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ When you reach character level 3, you also always have the [Locate Object](Mecha
 | 4 | [Divination](Mechanics/CLI/spells/divination-xphb.md), [Locate Creature](Mechanics/CLI/spells/locate-creature-xphb.md) |
 | 5 | [Commune with Nature](Mechanics/CLI/spells/commune-with-nature-xphb.md) |
 ^mark-of-finding-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 39*
+_Eberron: Forge of the Artificer p. 39_

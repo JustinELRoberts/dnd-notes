@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Rod of the Pact Keeper
-*Rod, major (requires attunement by a warlock)*  
 
+_Rod, major (requires attunement by a warlock)_
 
 - **Weight**: 2.0 lbs.
 
@@ -28,4 +28,4 @@ obsidianUIMode: preview
 - [+2 Rod of the Pact Keeper](Mechanics/CLI/items/2-rod-of-the-pact-keeper.md)
 - [+3 Rod of the Pact Keeper](Mechanics/CLI/items/3-rod-of-the-pact-keeper.md)
 
-*Source: Dungeon Master's Guide p. 197*
+_Source: Dungeon Master's Guide p. 197_

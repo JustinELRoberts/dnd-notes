@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Venomsmith
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Cripple Your Foes with Deadly Poisons*
+_Cripple Your Foes with Deadly Poisons_
 
 For every Alchemist that devotes their life to healing the sick, another hears a darker calling. Commonly called poisoners or Venomsmiths, these Alchemists are masters in the art of crafting deadly and debilitating poisons. Whether employed by an assassin's guild or performing assassinations themselves, a Venomsmith's presence is usually accompanied by untimely death.
 

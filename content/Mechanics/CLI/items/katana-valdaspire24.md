@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Katana
-*Weapon*  
 
+_Weapon_
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -26,4 +26,4 @@ obsidianUIMode: preview
 - **Cost**: 50 gp
 - **Weight**: 3.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

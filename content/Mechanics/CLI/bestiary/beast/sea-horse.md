@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Sea Horse
-*Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Sea Horse
@@ -42,4 +43,5 @@ title: Sea Horse
 
 ***Water Breathing.*** The sea horse can breathe only underwater.
 ```
+
 ^statblock

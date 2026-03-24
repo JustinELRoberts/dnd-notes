@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Bloodstone
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 50 gp
 
 An opaque dark gray with red flecks gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

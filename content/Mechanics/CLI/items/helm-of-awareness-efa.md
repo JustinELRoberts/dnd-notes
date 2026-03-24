@@ -14,10 +14,9 @@ obsidianUIMode: preview
 ---
 
 # Helm of Awareness
-*Wondrous item, uncommon*  
 
-
+_Wondrous item, uncommon_
 
 While wearing this helmet, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls.
 
-*Source: Eberron: Forge of the Artificer p. 112*
+_Source: Eberron: Forge of the Artificer p. 112_

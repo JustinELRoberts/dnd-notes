@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Owl
-*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-owl.webp#right)
 
 Giant owls often befriend fey and other sylvan creatures and are guardians of their woodland realms.
@@ -54,6 +55,7 @@ title: Giant Owl
 
 ***Talons.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 8 (`2d6 + 1`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

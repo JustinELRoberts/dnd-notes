@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Siegeball Jersey
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Cheer and Coach Your Team to Victory*
+_Cheer and Coach Your Team to Victory_
 
 Siegeball is a beloved sport, and Captains adorned with a Siegeball Jersey live and breathe it. Such Captains view the entire world through sports metaphors and place themselves in the privileged position of the team captain or perhaps the coach. Foes are naturally the opposing team, the referees, or even a rowdy crowd. Quests are no different from a sports season, in which the team is destined to break records and bring home the cup. For Siegeball Captains, sportsmanship and rowdy competition go hand-in-hand. One can expect rousing speeches and inappropriate jeers meted out between downfield sprints and breathtaking tackles.
 
@@ -62,7 +63,7 @@ Your absolute devotion to your sport of choice grants you the following benefits
 
 **Number One Fan.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check you make to recall information about a sport, its teams, and its players.
 
-### Team Inspiration [Maneuver] (Level 3)
+### Team Inspiration \[Maneuver] (Level 3)
 
 You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to inspire another creature within 60 feet of yourself who can see or hear you. Give that creature one of your unexpended Battle Dice. A creature can have only one Battle Die from this maneuver at a time.
 

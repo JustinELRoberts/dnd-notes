@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Charger 
+# Charger
 
-
-***Prerequisites*** 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
+_**Prerequisites**_ 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Improved Dash.** When you take the [Dash](Mechanics/CLI/rules/actions.md#Dash) action, your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet for that action.
 
 **Charge Attack.** If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, choose one of the following effects: gain a `1d8` bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.
+
 ## Sources
 
-*Player's Handbook (2024) p. 202*
+_Player's Handbook (2024) p. 202_

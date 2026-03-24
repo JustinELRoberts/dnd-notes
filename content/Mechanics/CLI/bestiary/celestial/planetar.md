@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Planetar
-*Source: Monster Manual p. 17. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 17. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/planetar.webp#right)
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -92,4 +93,5 @@ title: Planetar
 
 ***Healing Touch (4/Day).*** The planetar touches another creature. The target magically regains 30 (`6d8 + 3`) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 ```
+
 ^statblock

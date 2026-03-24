@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Jolt 
+# Jolt
 
-
-***Prerequisites*** Level 5 Craftsman, Masterwork Weapon, Lightning Damage
+_**Prerequisites**_ Level 5 Craftsman, Masterwork Weapon, Lightning Damage
 
 If you hit a creature with this weapon, the creature can't make [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) until the start of its next turn.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

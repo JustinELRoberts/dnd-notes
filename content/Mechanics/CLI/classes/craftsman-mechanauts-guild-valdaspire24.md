@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Mechanauts' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Pilot an Enormous Crab Tank*
+_Pilot an Enormous Crab Tank_
 
 For centuries, the pinnacle of mechanized vehicles was the Apparatus of the Crab, a singular device capable of exploring inhospitable environments, from the sea floor to lava-strewn volcanic fields. However, ambitious Craftsmen from the Mechanauts' Guild have drawn up designs for a new vehicle, mightier and more customizable than the old apparatus. This device is a walking tank, equipped with savage fists, scuttling legs, and climate control enhancements—a vehicle to dwarf all others, a true feat of engineering.
 
@@ -77,9 +78,9 @@ The apparatus gains the benefits of taking a [Short](Mechanics/CLI/rules/variant
 At Craftsman level 11, you gain the benefits of any Weapon Enchantment on an integrated weapon. At level 13, you can apply the Adamantine Armor Enchantment to the apparatus. At level 18, the apparatus gains the benefits of your Spellwrought Armor while you pilot it.
 
 > [!note] Can the Apparatus Go There?
-> 
+>
 > Adventuring with a Large-sized Mechanaut's Apparatus can prove challenging when exploring tunnels and underground chambers. The GM has the final say on if the apparatus can fit in a space or treats tight spaces as [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md). As a rule of thumb: an apparatus should be able to follow the party wherever they go, even if it is hindered for a while.
-^can-the-apparatus-go-there
+> ^can-the-apparatus-go-there
 
 ### Cockpit Upgrade (Level 3)
 

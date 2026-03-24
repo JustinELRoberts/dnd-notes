@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Gourmand
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Cook Monsters into Culinary Masterpieces*
+_Cook Monsters into Culinary Masterpieces_
 
 Gourmands travel the land in search of the perfect flavor. To this end, they scrounge up rare ingredients from far-off continents, hunt monsters for unique proteins, and tinker with their recipes wherever they travel.
 
@@ -72,19 +73,19 @@ If you add ingredients taken from a monster, a creature that eats the meal also 
 
 | Creature Type | Benefit |
 |---------------|---------|
-| Aberration | ***Strange Sushi.*** Any [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit. |
-| Celestial | ***Heavenly Trifle.*** The creature can add `1d4` to attack rolls and saving throws it makes. |
-| Dragon | ***Wyvern Wings.*** The creature has a +2 bonus to AC. |
-| Elemental | ***Maelstrom Stew.*** The creature's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet. |
-| Fey | ***Pixie Sticks.*** The creature has [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) and [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) conditions. |
-| Fiend | ***Diablo Barbeque.*** The creature has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Cold and Fire damage. |
-| Giant | ***Colossal Steak.*** The creature has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on ability checks and saving throws using Strength. |
-| Monstrosity | ***Dire Sandwich.*** The target's [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum and current [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) increase by 5 for the duration. |
-| Ooze | ***Gelatinous Soup.*** The creature has [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 10 feet. |
-| Plant | ***Treant Salad.*** [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost the creature extra movement. |
+| Aberration | _**Strange Sushi.**_ Any [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit. |
+| Celestial | _**Heavenly Trifle.**_ The creature can add `1d4` to attack rolls and saving throws it makes. |
+| Dragon | _**Wyvern Wings.**_ The creature has a +2 bonus to AC. |
+| Elemental | _**Maelstrom Stew.**_ The creature's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet. |
+| Fey | _**Pixie Sticks.**_ The creature has [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) and [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) conditions. |
+| Fiend | _**Diablo Barbeque.**_ The creature has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Cold and Fire damage. |
+| Giant | _**Colossal Steak.**_ The creature has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on ability checks and saving throws using Strength. |
+| Monstrosity | _**Dire Sandwich.**_ The target's [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum and current [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) increase by 5 for the duration. |
+| Ooze | _**Gelatinous Soup.**_ The creature has [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 10 feet. |
+| Plant | _**Treant Salad.**_ [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost the creature extra movement. |
 ^monster-meal
 
-### Carve [Maneuver] (Level 6)
+### Carve \[Maneuver] (Level 6)
 
 When you hit a creature with an attack using a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend two Battle Dice as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to attempt to butcher the target. Add the Battle Dice to the attack's damage roll. If the creature's type is listed on the Monster Meal table, you gain the related benefit for 1 hour.
 

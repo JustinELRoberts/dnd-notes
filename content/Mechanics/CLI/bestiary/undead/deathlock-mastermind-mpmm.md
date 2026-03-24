@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Deathlock Mastermind
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 87_\
 ![](Mechanics/CLI/bestiary/undead/img/deathlock-mastermind.webp#right)
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
@@ -75,6 +76,7 @@ title: Deathlock Mastermind
 
 **1/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

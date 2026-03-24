@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Handling Mobs; Mob Attacks
-*Source: Dungeon Master's Guide p. 250* 
+
+_Source: Dungeon Master's Guide p. 250_
 
 **Mob Attacks**
 

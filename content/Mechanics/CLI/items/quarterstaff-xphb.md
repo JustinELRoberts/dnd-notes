@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Quarterstaff
-*Weapon*  
+
+_Weapon_\
 ![](Mechanics/CLI/items/img/quarterstaff.webp#right)
 
 - **Damage**:
@@ -26,4 +27,4 @@ obsidianUIMode: preview
 - **Cost**: 2 sp
 - **Weight**: 4.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -33,8 +33,8 @@ classes:
 ---
 
 # Pass without Trace
-*2nd-level, Abjuration*  
 
+_2nd-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -45,4 +45,4 @@ You radiate a concealing aura in a 30-foot [Emanation](Mechanics/CLI/rules/varia
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

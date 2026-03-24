@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Githyanki Supreme Commander
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 141*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 141_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki-supreme-commander.webp#right)
 
 Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) into battle.
@@ -84,6 +85,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the githyan
 
 ***Attack (2 Actions).*** The githyanki makes one Silver Greatsword attack.
 ```
+
 ^statblock
 
 ## Environment

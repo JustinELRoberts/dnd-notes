@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Military Quests
-*Source: Tasha's Cauldron of Everything p. 98* 
+
+_Source: Tasha's Cauldron of Everything p. 98_
 
 **Military Quests**
 

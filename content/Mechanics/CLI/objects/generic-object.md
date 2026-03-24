@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Generic Object
-*Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+
+_Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
@@ -48,6 +49,7 @@ Objects are immune to poison and psychic damage. You might decide that some dama
 ### Damage Threshold
 
 Big objects such as castle walls often have extra resilience represented by a damage threshold. An object with a damage threshold has immunity to all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes damage as normal. Any damage that fails to meet or exceed the object's damage threshold is considered superficial and doesn't reduce the object's hit points.
+
 ## Statblock
 
 ```ad-statblock
@@ -65,4 +67,5 @@ title: Generic Object
 
 - **Damage Immunities** Varies (see below)
 ```
+
 ^statblock

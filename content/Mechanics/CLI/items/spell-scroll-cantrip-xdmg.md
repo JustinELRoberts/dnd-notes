@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Spell Scroll (Cantrip)
-*Scroll, common*  
+
+_Scroll, common_\
 ![](Mechanics/CLI/items/img/spell-scroll.webp#right)
 
 - **Cost**: 30 gp
@@ -26,4 +27,4 @@ If the spell is on your spell list but of a higher level than you can normally c
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `+5`.
 
-*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -12,8 +12,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Cylinder [Area of Effect]
-*Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+# Cylinder \[Area of Effect]
+
+_Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder's base and the Cylinder's height.
 

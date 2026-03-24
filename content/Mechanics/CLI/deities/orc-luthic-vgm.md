@@ -17,7 +17,6 @@ obsidianUIMode: preview
 
 # Luthic
 
-
 - **Alignment**: Lawful Evil
 - **Domains**: Life, Nature
 - **Pantheon**: Orc
@@ -37,4 +36,4 @@ Along with protecting the young and the tribe's food stores, the worshipers of L
 
 ## Sources
 
-*Volo's Guide to Monsters p. 84*
+_Volo's Guide to Monsters p. 84_

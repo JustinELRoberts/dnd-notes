@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ideals
-*Source: Dungeon Master's Guide p. 90* 
+
+_Source: Dungeon Master's Guide p. 90_
 
 **Good Ideals**
 

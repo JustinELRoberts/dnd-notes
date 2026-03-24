@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drow (Magic Equipment)
-*Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 128. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Drow (Magic Equipment)
@@ -59,6 +60,7 @@ title: Drow (Magic Equipment)
 
 ***Hand Crossbow.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 ```
+
 ^statblock
 
 ## Environment

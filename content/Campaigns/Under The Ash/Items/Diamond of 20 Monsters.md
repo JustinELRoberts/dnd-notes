@@ -9,7 +9,10 @@ tags:
 ---
 
 ## Description
-A massive red diamond. According to the [[Campaigns/Under The Ash/Items/notebook with a sleeping face on its cover]], "this artifact was used by [[Campaigns/Under The Ash/NPCs/The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[GrindleDarks]]".
+
+A massive red diamond. According to the [[notebook with a sleeping face on its cover]], "this artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[GrindleDarks]]".
+
 ## Uses
-- When inserted into the [[Campaigns/Under The Ash/Items/notebook with a sleeping face on its cover]], it rendered the text shown above
+
+- When inserted into the [[notebook with a sleeping face on its cover]], it rendered the text shown above
 - Presumably it can still be used to (re)spawn those 20 hideous monsters?

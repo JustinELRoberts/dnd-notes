@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Alien Technology
-*Source: Dungeon Master's Guide p. 268* 
+
+_Source: Dungeon Master's Guide p. 268_
 
 When adventurers find a piece of technology that isn't from their world or time period, the players might understand what the object is, but the characters rarely will. To simulate a character's ignorance about the technology, have the character make a series of Intelligence checks to figure it out.
 

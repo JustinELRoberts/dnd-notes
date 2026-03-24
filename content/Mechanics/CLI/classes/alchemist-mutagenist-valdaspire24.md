@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Mutagenist
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Mutate Yourself to Adapt to Any Situation*
+_Mutate Yourself to Adapt to Any Situation_
 
 The study of alchemy is fundamentally the study of transformation. All Alchemists transmute mundane materials into magical substances—potions, elixirs, and bombs—yet some take it one step further. You have discovered the secrets of the mutagen, the keystone of transmutation, which allows you to transform your very body, gaining supernatural strength or speed, sprouting additional limbs or claws, or thickening your skin into a stony aegis.
 
@@ -70,7 +71,7 @@ You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xph
 
 ### Shared Mutagen (Level 6)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) and expend 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) to inject an ally within 5 feet of you with a Mutagen of your choice. A creature can only be under the effect of one Mutagen at a time. Once you have injected another creature with a Mutagen, you can't do so again until the original Mutagen ends.
+You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) and expend 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to inject an ally within 5 feet of you with a Mutagen of your choice. A creature can only be under the effect of one Mutagen at a time. Once you have injected another creature with a Mutagen, you can't do so again until the original Mutagen ends.
 
 ### Advanced Mutation (Level 10)
 

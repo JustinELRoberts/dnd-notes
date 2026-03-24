@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Twists
-*Source: Dungeon Master's Guide p. 80* 
+
+_Source: Dungeon Master's Guide p. 80_
 
 **Twists**
 

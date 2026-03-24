@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mage Slayer 
+# Mage Slayer
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Concentration Breaker.** When you damage a creature that is [Concentrating](Mechanics/CLI/rules/conditions.md#Concentration), it has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the saving throw it makes to maintain [Concentration](Mechanics/CLI/rules/conditions.md#Concentration).
 
 **Guarded Mind.** If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 205*
+_Player's Handbook (2024) p. 205_

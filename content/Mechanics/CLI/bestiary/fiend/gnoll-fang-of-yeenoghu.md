@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Gnoll Fang of Yeenoghu
-*Source: Monster Manual p. 163*  
+
+_Source: Monster Manual p. 163_\
 ![](Mechanics/CLI/bestiary/fiend/img/gnoll-fang-of-yeenoghu.webp#right)
 
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
@@ -79,6 +80,7 @@ title: Gnoll Fang of Yeenoghu
 
 ***Claw.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Lyre of Building
-*Wondrous item, instrument ([lyre](Mechanics/CLI/items/lyre-xphb.md)), rare (requires attunement by a bard)*  
 
+_Wondrous item, instrument ([lyre](Mechanics/CLI/items/lyre-xphb.md)), rare (requires attunement by a bard)_
 
 - **Weight**: 2.0 lbs.
 
@@ -25,4 +25,4 @@ While holding this [lyre](Mechanics/CLI/items/lyre-xphb.md), you can cast [mendi
 
 In addition, you can play the [lyre](Mechanics/CLI/items/lyre-xphb.md) as an action to cast [fabricate](Mechanics/CLI/spells/fabricate-xphb.md), [move earth](Mechanics/CLI/spells/move-earth-xphb.md), [passwall](Mechanics/CLI/spells/passwall-xphb.md), or [summon construct](Mechanics/CLI/spells/summon-construct-xphb.md), and that spell can't be cast from it again until the next dawn.
 
-*Source: Tasha's Cauldron of Everything p. 131*
+_Source: Tasha's Cauldron of Everything p. 131_

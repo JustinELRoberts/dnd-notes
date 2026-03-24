@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Shadar-kai Shadow Dancer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 213_\
 ![](Mechanics/CLI/bestiary/humanoid/img/shadar-kai-shadow-dancer.webp#right)
 
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
@@ -84,6 +85,7 @@ It can use Shadow Jump after one of these attacks.
 
 ***Shadow Jump.*** The shadar-kai teleports, along with any equipment is it wearing or carrying, up to 30 feet to an unoccupied space it can see. Both the space it teleports from and the space it teleports to must be in dim light or darkness.
 ```
+
 ^statblock
 
 ## Environment

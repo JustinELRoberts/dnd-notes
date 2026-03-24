@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Rank, Status, and Title
-*Source: Volo's Guide to Monsters p. 46* 
+
+_Source: Volo's Guide to Monsters p. 46_
 
 |    |    |
 |----|----|

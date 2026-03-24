@@ -19,6 +19,7 @@ obsidianUIMode: preview
 ---
 
 # Gond
+
 ![](Mechanics/CLI/deities/img/scag-symbol-of-gond.webp#symbol)
 
 - **Alternate Names**: The Wonderbringer, The Inspiration Divine, The Holy Maker of All Things
@@ -37,4 +38,4 @@ The center of Gond's worship on the Sword Coast lies in Baldur's Gate, where the
 
 ## Sources
 
-*Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18*
+_Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18_

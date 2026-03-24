@@ -19,8 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Deinonychus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139_
 
 This larger cousin of the velociraptor kills by gripping its target with its claws and feeding.
 
@@ -56,6 +56,7 @@ title: Deinonychus
 
 ***Claw.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

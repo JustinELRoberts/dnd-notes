@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Cow
-*Source: Volo's Guide to Monsters p. 207*  
 
+_Source: Volo's Guide to Monsters p. 207_
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
 
@@ -50,6 +50,7 @@ title: Cow
 
 ***Gore.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

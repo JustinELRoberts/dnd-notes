@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Antimatter Carbine
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 necrotic
 - **Range**: 80/320
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 A more lethal model of the [Standard Carbine](Mechanics/CLI/items/standard-carbine-valdaspire24extras.md), this rifle can automatically fire bolts of antimatter with surprising accuracy.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

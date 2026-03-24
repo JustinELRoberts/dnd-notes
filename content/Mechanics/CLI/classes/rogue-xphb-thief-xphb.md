@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Thief
-*[Rogue](./rogue-xphb.md): Rogue Subclass*  
-*Source: Player's Handbook (2024) p. 137. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Rogue](./rogue-xphb.md): Rogue Subclass_\
+_Source: Player's Handbook (2024) p. 137. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/thief-rogue.webp#right)
 
-*Hunt for Treasure as a Classic Adventurer*
+_Hunt for Treasure as a Classic Adventurer_
 
 A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.
 

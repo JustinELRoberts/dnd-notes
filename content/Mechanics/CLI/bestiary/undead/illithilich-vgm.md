@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Illithilich
-*Source: Volo's Guide to Monsters p. 172*  
+
+_Source: Volo's Guide to Monsters p. 172_\
 ![](Mechanics/CLI/bestiary/undead/img/alhoon.webp#right)
 
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.
@@ -60,10 +61,10 @@ Unlike with true lichdom, the periapt of mind trapping doesn't restore the alhoo
 
 The path to true lichdom is something only the most powerful mind flayer mages can pursue, since it requires the ability to craft a phylactery and cast the [imprisonment](Mechanics/CLI/spells/imprisonment-xphb.md) spell. A mind flayer lich uses the lich stat block (see the Monster Manual), with the following changes:
 
-- It has a challenge rating of 22 (41,000 XP).  
-- It speaks Deep Speech and Undercommon, and has telepathy out to a range of 120 feet.  
-- It has the Magic Resistance and Innate Spellcasting (Psionics) traits, as well as the Tentacles, Extract Brain, and Mind Blast action options (all described below). So long as a mind flayer lich feeds captured souls to its phylactery, it maintains the muscular power of its tentacles and the ability to extract brains.  
-- Its suite of legendary actions (described below) is different from that of the normal lich.  
+- It has a challenge rating of 22 (41,000 XP).
+- It speaks Deep Speech and Undercommon, and has telepathy out to a range of 120 feet.
+- It has the Magic Resistance and Innate Spellcasting (Psionics) traits, as well as the Tentacles, Extract Brain, and Mind Blast action options (all described below). So long as a mind flayer lich feeds captured souls to its phylactery, it maintains the muscular power of its tentacles and the ability to extract brains.
+- Its suite of legendary actions (described below) is different from that of the normal lich.
 
 ### Magic Resistance
 
@@ -204,6 +205,7 @@ On initiative count 20 (losing initiative ties), the illithilich can take a lair
 - The illithilich targets one creature it can see within 30 feet of it. A crackling cord of negative energy tethers the illithilich to the target. Whenever the illithilich takes damage, the target must make a DC 18 Constitution saving throw. On a failed save, the illithilich takes half the damage (rounded down), and the target takes the remaining damage. This tether lasts until initiative count 20 on the next round or until the illithilich or the target is no longer in the illithilich's lair.  
 - The illithilich calls forth the spirits of creatures that died in its lair. These apparitions materialize and attack one creature that the illithilich can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw, taking 52 (`15d6`) necrotic damage on a failed save, or half as much damage on a success. The apparitions then disappear.  
 ```
+
 ^statblock
 
 ## Environment

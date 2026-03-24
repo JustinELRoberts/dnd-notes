@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Doppelganger
-*Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/doppelganger.webp#right)
 
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
@@ -74,6 +75,7 @@ title: Doppelganger
 
 ***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) isn't broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) and Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), and [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) checks against the target.
 ```
+
 ^statblock
 
 ## Environment

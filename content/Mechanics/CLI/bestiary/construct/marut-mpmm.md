@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Marut
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 173*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 173_\
 ![](Mechanics/CLI/bestiary/construct/img/marut.webp#right)
 
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
@@ -69,4 +70,5 @@ title: Marut
 ***Plane Shift (3/Day).*** The marut casts [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), requiring no material components and using Intelligence as the spellcasting ability. The marut can cast the spell normally, or it can cast the spell on an unwilling creature it can see within 60 feet of it. If it uses the latter option, the targeted creature must succeed on a DC 20 Charisma saving throw or be banished to a teleportation circle in the Hall of Concordance in Sigil.
 
 ```
+
 ^statblock

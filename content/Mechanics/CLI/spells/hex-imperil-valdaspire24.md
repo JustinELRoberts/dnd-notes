@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Imperil
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -31,4 +31,4 @@ You gesture at a creature you can see within range and choose a damage type. The
 
 **Classes**: [Witch (Red Magic)](Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

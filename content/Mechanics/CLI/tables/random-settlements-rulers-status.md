@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Settlements; Ruler's Status
-*Source: Dungeon Master's Guide p. 112* 
+
+_Source: Dungeon Master's Guide p. 112_
 
 **Ruler's Status**
 

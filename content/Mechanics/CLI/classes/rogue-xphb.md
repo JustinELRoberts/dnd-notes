@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Rogue
-*Source: Player's Handbook (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th></tr>
@@ -58,23 +59,23 @@ obsidianUIMode: preview
 ## Starting Rogue
 
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
-- **Skill Proficiencies**: *Choose 4:* [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
+- **Skill Proficiencies**: _Choose 4:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons that have the Finesse or Light property
 - **Tool Proficiencies**: [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md)
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Shortbow](Mechanics/CLI/items/shortbow-xphb.md), [20 Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md), [Burglar's Pack](Mechanics/CLI/items/burglars-pack-xphb.md), and 8 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Shortbow](Mechanics/CLI/items/shortbow-xphb.md), [20 Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md), [Burglar's Pack](Mechanics/CLI/items/burglars-pack-xphb.md), and 8 GP; or (B) 100 GP
 
 ## Multiclassing Rogue
 
-- **Skill Proficiencies**: *Choose 1:* [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
+- **Skill Proficiencies**: _Choose 1:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
 - **Tool Proficiencies**: [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md)
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
 > [!gallery]
-![](Mechanics/CLI/classes/img/099-04-014-cunning-rogue.webp)
-![](Mechanics/CLI/classes/img/101-04-016-rogue-v-dragon.webp)
-![](Mechanics/CLI/classes/img/104-04-019-sneak-attack.webp)
+> ![](Mechanics/CLI/classes/img/099-04-014-cunning-rogue.webp)
+> ![](Mechanics/CLI/classes/img/101-04-016-rogue-v-dragon.webp)
+> ![](Mechanics/CLI/classes/img/104-04-019-sneak-attack.webp)
 
 ## Rogue
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Scroll Mishaps
-*Source: Dungeon Master's Guide p. 140* 
+
+_Source: Dungeon Master's Guide p. 140_
 
 A creature who tries and fails to cast a spell from a [spell scroll](Mechanics/CLI/items/spell-scroll.md) must make a DC 10 Intelligence saving throw. If the saving throw fails, roll on the Scroll Mishap table.
 

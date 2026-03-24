@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Gnome Names – Clan
-*Source: Xanathar's Guide to Everything p. 178* 
+
+_Source: Xanathar's Guide to Everything p. 178_
 
 **Gnome Names – Clan**
 

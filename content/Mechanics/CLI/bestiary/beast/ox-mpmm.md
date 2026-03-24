@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Ox
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208_
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
 
@@ -57,6 +57,7 @@ title: Ox
 
 ***Gore.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage. If the ox moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (`2d6`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

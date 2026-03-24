@@ -22,8 +22,8 @@ classes:
 ---
 
 # Ruby-Eye Curse
-*3rd-level, Necromancy*  
 
+_3rd-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -34,4 +34,4 @@ A red haze clouds the eyes of a creature that meets your gaze. A creature you ch
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

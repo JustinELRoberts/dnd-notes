@@ -17,17 +17,18 @@ obsidianUIMode: preview
 ---
 
 # Star Spawn Larva Mage
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 228*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 228_\
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-larva-mage.webp#right)
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
 
 ## Star Spawn
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Stars don't spawn these creatures.
-> 
+>
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -40,11 +41,11 @@ The creatures known as star spawn are the heralds, servants, and soldiers of the
 
 Disciples of certain Elder Evils can bestow supernatural gifts on those who serve that cult, including star spawn. The following powers are unique to specific cults; typically a creature has only one.
 
-- Cult of Atropus, the World Born Dead  
-- Cult of Borem, of the Lake of Boiling Mud  
-- Cult of Haask, the Voice of Hargut  
-- Cult of Tharizdun, the Chained God  
-- Cult of Tyranthraxus, the Flamed One  
+- Cult of Atropus, the World Born Dead
+- Cult of Borem, of the Lake of Boiling Mud
+- Cult of Haask, the Voice of Hargut
+- Cult of Tharizdun, the Chained God
+- Cult of Tyranthraxus, the Flamed One
 
 ## Statblock
 
@@ -105,6 +106,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the star sp
 
 ***Feed (Costs 3 Actions).*** Each creature [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the mage's Plague of Worms takes 13 (`3d8`) necrotic damage, and the mage gains 6 temporary hit points.
 ```
+
 ^statblock
 
 ## Environment

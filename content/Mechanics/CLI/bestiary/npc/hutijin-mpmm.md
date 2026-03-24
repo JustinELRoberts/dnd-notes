@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Hutijin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 157*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 157_\
 ![](Mechanics/CLI/bestiary/npc/img/hutijin.webp#right)
 
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
@@ -95,4 +96,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, Hutijin can
 
 ***Lightning Storm (Costs 2 Actions).*** Hutijin releases lightning in a 30-foot radius, blocked only by total cover. All other creatures in that area must each make a DC 22 Dexterity saving throw, taking 18 (`4d8`) lightning damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock

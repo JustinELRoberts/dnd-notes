@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Doors; Beyond a Door
-*Source: Dungeon Master's Guide p. 291* 
+
+_Source: Dungeon Master's Guide p. 291_
 
 **Beyond a Door**
 

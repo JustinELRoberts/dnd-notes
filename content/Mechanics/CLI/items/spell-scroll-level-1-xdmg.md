@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Spell Scroll (Level 1)
-*Scroll, common*  
+
+_Scroll, common_\
 ![](Mechanics/CLI/items/img/spell-scroll.webp#right)
 
 - **Cost**: 50 gp
@@ -30,4 +31,4 @@ If the spell requires a saving throw or an attack roll, the spell save DC is 13,
 
 A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 1 spell is copied in this way, the copier must succeed on a DC 11 Intelligence ([Arcana](Mechanics/CLI/rules/skills.md#Arcana)). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

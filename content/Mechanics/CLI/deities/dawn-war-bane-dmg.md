@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Bane
 
-
 - **Alignment**: Lawful Evil
 - **Domains**: War, Order
 - **Pantheon**: Dawn War
 - **Symbol**: Claw with three talons pointing down
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

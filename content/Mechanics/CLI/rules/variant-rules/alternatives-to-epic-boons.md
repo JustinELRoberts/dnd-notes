@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Alternatives to Epic Boons
-*Source: Dungeon Master's Guide p. 230* 
+
+_Source: Dungeon Master's Guide p. 230_
 
 You might decide to grant one of the following rewards to a 20th-level character, instead of awarding an epic boon. These two options can be awarded to a character more than once.
 

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Swarm of Cranium Rats
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133_\
 ![](Mechanics/CLI/bestiary/aberration/img/swarm-of-cranium-rats.webp#right)
 
 ## Cranium Rat
@@ -69,6 +70,7 @@ title: Swarm of Cranium Rats
 
 ***Illumination.*** The swarm sheds dim light from its brains in a 5-foot radius, increases the illumination to bright light in a 5- to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguishes the light.
 ```
+
 ^statblock
 
 ## Environment

@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Diamond
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 5,000 gp
 
 A transparent blue-white, canary, pink, brown, or blue gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Froghemoth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 130, Volo's Guide to Monsters p. 145_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/froghemoth.webp#right)
 
 A froghemoth is an amphibious predator as big as an elephant. It lairs in swamps and has four tentacles, a thick rubbery hide, a fang-filled maw with a prehensile tongue, and an extendable stalk sporting three bulbous eyes that face in different directions.
@@ -68,6 +69,7 @@ The froghemoth's gullet can hold up to two creatures at a time. If the froghemot
 
 ***Tongue.*** The froghemoth targets one Medium or smaller creature that it can see within 20 feet of it. The target must make a DC 18 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the froghemoth.
 ```
+
 ^statblock
 
 ## Environment

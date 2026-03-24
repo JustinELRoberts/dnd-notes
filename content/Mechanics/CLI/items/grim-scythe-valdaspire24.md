@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Grim Scythe
-*Weapon*  
 
+_Weapon_
 
 - **Damage**:
   - One-handed: 1d6 slashing
@@ -26,4 +26,4 @@ obsidianUIMode: preview
 - **Cost**: 65 gp
 - **Weight**: 6.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

@@ -34,7 +34,8 @@ classes:
 ---
 
 # Melf's Acid Arrow
-*2nd-level, Evocation*  
+
+_2nd-level, Evocation_\
 ![](Mechanics/CLI/spells/img/melfs-acid-arrow.webp#right)
 
 - **Casting time:** 1 Action
@@ -48,4 +49,4 @@ A shimmering green arrow streaks toward a target within range and bursts in a sp
 
 **Classes**: [Artificer (Alchemist)](Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Acid Arrow") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Acid Arrow") and the Free Rules (2024)_

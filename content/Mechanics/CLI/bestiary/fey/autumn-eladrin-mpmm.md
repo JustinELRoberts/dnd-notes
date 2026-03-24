@@ -17,17 +17,18 @@ obsidianUIMode: preview
 ---
 
 # Autumn Eladrin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 115*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 115_\
 ![](Mechanics/CLI/bestiary/fey/img/autumn-eladrin.webp#right)
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
 
 ## Eladrin
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
-> 
+>
 > Note to self: send some of my spring eladrin friends to visit Mordenkainen. That'll teach him to lighten up.
 
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
@@ -96,6 +97,7 @@ Whenever the eladrin deals damage to the [charmed](Mechanics/CLI/rules/condition
 
 ***Foster Peace.*** If a creature [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the eladrin hits with an attack roll while within 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.
 ```
+
 ^statblock
 
 ## Environment

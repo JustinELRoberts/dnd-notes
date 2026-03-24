@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Supplemental Tables; Family Lifestyle
-*Source: Xanathar's Guide to Everything p. 63* 
+
+_Source: Xanathar's Guide to Everything p. 63_
 
 **Family Lifestyle**
 
-| dice: 3d6 | Lifestyle* |
+| dice: 3d6 | Lifestyle\* |
 |-----------|------------|
 | 3 | Wretched (-40) |
 | 4-5 | Squalid (-20) |
@@ -28,4 +29,4 @@ obsidianUIMode: preview
 | 18 | Aristocratic (+40) |
 ^family-lifestyle
 
-* Use the number in this result as a modifier to your roll on the Childhood Home table.
+- Use the number in this result as a modifier to your roll on the Childhood Home table.

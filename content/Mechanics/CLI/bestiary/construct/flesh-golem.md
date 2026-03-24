@@ -16,15 +16,16 @@ obsidianUIMode: preview
 ---
 
 # Flesh Golem
-*Source: Monster Manual p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 169. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/construct/img/flesh-golem.webp#right)
 
 A flesh golem is a grisly assortment of humanoid body parts stitched and bolted together into a muscled brute imbued with formidable strength. Its brain is capable of simple reason, though its thoughts are no more sophisticated than those of a young child. The golem's muscle tissue responds to the power of lightning, invigorating the creature with vitality and strength. Powerful enchantments protect the golem's skin, deflecting spells and all but the most potent weapons.
 
 A flesh golem lurches with a stiff-jointed gait, as if not in complete control of its body. Its dead flesh isn't an ideal container for an elemental spirit, which sometimes howls incoherently to vent its outrage. If the spirit breaks free of its creator's will, the golem goes berserk until calmed, or until its shell of flesh is destroyed or completely healed.
 
-> [!quote] A quote from From the diary of Evangeliza Lavain, necromancer  
-> 
+> [!quote] A quote from From the diary of Evangeliza Lavain, necromancer
+>
 > Two of my gravediggers were caught and hanged yesterday. The other two are understandably reluctant to meet a similar fate, but I shan't let their concerns stall my progress. I need fresh corpses, and if those bumpkins can't get them for me, I'll use theirs instead.
 
 ## Golems
@@ -101,4 +102,5 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Slam.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage.
 ```
+
 ^statblock

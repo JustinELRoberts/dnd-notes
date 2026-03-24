@@ -18,8 +18,8 @@ classes:
 ---
 
 # Word of Frailty
-*3rd-level, Necromancy*  
 
+_3rd-level, Necromancy_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
@@ -30,4 +30,4 @@ You recite a withering magical word to a creature you can see within range, whic
 
 **Classes**: [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

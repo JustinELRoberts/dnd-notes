@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Healing
-*Staff, weapon, major, rare (requires attunement by a bard, cleric, or druid)*  
+
+_Staff, weapon, major, rare (requires attunement by a bard, cleric, or druid)_\
 ![](Mechanics/CLI/items/img/staff-of-healing.webp#right)
 
 - **Damage**:
@@ -30,4 +31,4 @@ This staff has 10 charges. While holding it, you can use an action to expend 1 o
 
 The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1. the staff vanishes in a flash of light, lost forever.
 
-*Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

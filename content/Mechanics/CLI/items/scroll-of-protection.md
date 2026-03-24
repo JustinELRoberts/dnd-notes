@@ -16,9 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Scroll of Protection
-*Scroll, minor, rare*  
 
-
+_Scroll, minor, rare_
 
 **Items in this group:**
 
@@ -31,4 +30,4 @@ obsidianUIMode: preview
 - [Scroll of Protection from Plants](Mechanics/CLI/items/scroll-of-protection-from-plants.md)
 - [Scroll of Protection from Undead](Mechanics/CLI/items/scroll-of-protection-from-undead.md)
 
-*Source: Dungeon Master's Guide p. 199*
+_Source: Dungeon Master's Guide p. 199_

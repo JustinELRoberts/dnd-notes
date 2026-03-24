@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Yagnoloth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 268*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 268_\
 ![](Mechanics/CLI/bestiary/fiend/img/yagnoloth.webp#right)
 
 Anyone who would contract yugoloths for a task usually ends up dealing with a yagnoloth. Cunning negotiators, these strange Fiends handle the writing of contracts for their fellow yugoloths. Once a yagnoloth is hired, it communicates its employer's desires to the yugoloths it commands.
@@ -73,6 +74,7 @@ title: Yagnoloth
 
 **3/day:** [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

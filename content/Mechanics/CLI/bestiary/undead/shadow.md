@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Shadow
-*Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/shadow.webp#right)
 
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
@@ -73,6 +74,7 @@ title: Shadow
 
 If a non-evil humanoid dies from this attack, a new [shadow](Mechanics/CLI/bestiary/undead/shadow.md) rises from the corpse `1d4` hours later.
 ```
+
 ^statblock
 
 ## Environment

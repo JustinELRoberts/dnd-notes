@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Rod of Absorption
-*Rod, major, very rare (requires attunement)*  
+
+_Rod, major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/rod-of-absorption.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -30,4 +31,4 @@ If you are a spellcaster holding the rod, you can convert energy stored in it in
 
 A newly found rod has `1d10` levels of spell energy stored in it already. A rod that can no longer absorb spell energy and has no energy remaining becomes nonmagical.
 
-*Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

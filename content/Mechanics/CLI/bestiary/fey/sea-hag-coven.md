@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sea Hag (Coven)
-*Source: Monster Manual p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Sea Hag (Coven)
@@ -103,6 +104,7 @@ A powerful sea hag creates one or more of the following additional regional effe
 - Currents and tides are exceptionally strong and treacherous. Any ability check made to safely navigate or control a vessel moving through these waters has disadvantage.  
 - Shores are littered with dead, rotting fish. The hag can sense when one of the fish is handled and cause it to speak with her voice.  
 ```
+
 ^statblock
 
 ## Environment

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Yellow Sign
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -55,17 +56,17 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 The GM decides if a subclass should be cross-compatible in your campaign.
 
 > [!note] Cross-Compatability Modifictaions
-> 
+>
 > **Level 10: Frenzied Blitz.** Replace with "You can give a creature that has the Frenzied condition [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on its attack rolls."
-^cross-compatability-modifictaions
+> ^cross-compatability-modifictaions
 
-*Enthrall Your Friends and Foes with Eldritch Madness*
+_Enthrall Your Friends and Foes with Eldritch Madness_
 
 The Yellow Sign is a twisting symbol of eldritch chaos, the signature of an otherworldly leviathan ready to consume all of reality. Captains bearing its distinctive mark upon their Shields and armor aren't commanders—they are cult leaders dedicated to incomprehensible alien masters...
 
 ## Subclass Features
 
-### Frenzied Strike [Maneuver] (Level 3)
+### Frenzied Strike \[Maneuver] (Level 3)
 
 When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to infect the target's mind. The creature has the Frenzied condition until the end of its next turn.
 

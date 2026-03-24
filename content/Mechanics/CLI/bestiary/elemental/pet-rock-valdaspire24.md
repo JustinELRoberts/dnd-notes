@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Pet Rock
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Creatures/Pet%20Rock.webp#right)
 
 Widely considered to be the perfect familiar, requiring no food or water and possessing extremely high natural defenses, a pet rock can be conjured by most spellcasters. Though it does not act with any agility (indeed, it does not move at all), it can make a formidable weapon when thrown.
@@ -48,4 +49,5 @@ title: Pet Rock
 
 ***Just a Rock.*** The rock counts as an object. Additionally, it can't take actions and its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) can't be increased.
 ```
+
 ^statblock

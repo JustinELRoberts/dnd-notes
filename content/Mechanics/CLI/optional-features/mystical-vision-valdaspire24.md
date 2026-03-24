@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mystical Vision 
-
+# Mystical Vision
 
 You can cast the [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md) spell without expending a spell slot.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

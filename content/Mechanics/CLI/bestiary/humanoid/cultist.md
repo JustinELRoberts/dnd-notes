@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Cultist
-*Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/cultist.webp#right)
 
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
@@ -51,6 +52,7 @@ title: Cultist
 
 ***Scimitar.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -21,8 +21,8 @@ classes:
 ---
 
 # Drawmij's Instant Summons
-*6th-level, Conjuration (ritual)*  
 
+_6th-level, Conjuration (ritual)_
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Touch
@@ -37,4 +37,4 @@ If another creature is holding or carrying the object, crushing the sapphire doe
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons") and the Free Rules (2024)_

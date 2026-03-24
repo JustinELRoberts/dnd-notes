@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Rune Knight
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
-*Source: Tasha's Cauldron of Everything p. 44*  
+
+_[Fighter](./fighter-xphb.md): Fighter Subclass_\
+_Source: Tasha's Cauldron of Everything p. 44_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -57,13 +58,13 @@ Rune Knights enhance their martial prowess using the supernatural power of runes
 
 ### Bonus Proficiencies (Level 3)
 
-*3rd-level Rune Knight feature*
+_3rd-level Rune Knight feature_
 
 You gain proficiency with [smith's tools](Mechanics/CLI/items/smiths-tools-xphb.md), and you learn to speak, read, and write Giant.
 
 ### Rune Carver (Level 3)
 
-*3rd-level Rune Knight feature*
+_3rd-level Rune Knight feature_
 
 You can use magic runes to enhance your gear. You learn two runes of your choice, from among the runes described below, and each time you gain a level in this class, you can replace one rune you know with a different one from this feature. When you reach certain levels in this class, you learn additional runes, as shown in the Runes Known table.
 
@@ -83,28 +84,28 @@ The following runes are available to you when you learn a rune. If a rune has a 
 
 Options (choose 2):
 
-- [Cloud Rune](Mechanics/CLI/optional-features/cloud-rune-tce.md)  
-- [Fire Rune](Mechanics/CLI/optional-features/fire-rune-tce.md)  
-- [Frost Rune](Mechanics/CLI/optional-features/frost-rune-tce.md)  
-- [Stone Rune](Mechanics/CLI/optional-features/stone-rune-tce.md)  
-- [Hill Rune](Mechanics/CLI/optional-features/hill-rune-tce.md)  
-- [Storm Rune](Mechanics/CLI/optional-features/storm-rune-tce.md)  
+- [Cloud Rune](Mechanics/CLI/optional-features/cloud-rune-tce.md)
+- [Fire Rune](Mechanics/CLI/optional-features/fire-rune-tce.md)
+- [Frost Rune](Mechanics/CLI/optional-features/frost-rune-tce.md)
+- [Stone Rune](Mechanics/CLI/optional-features/stone-rune-tce.md)
+- [Hill Rune](Mechanics/CLI/optional-features/hill-rune-tce.md)
+- [Storm Rune](Mechanics/CLI/optional-features/storm-rune-tce.md)
 
 ### Giant's Might (Level 3)
 
-*3rd-level Rune Knight feature*
+_3rd-level Rune Knight feature_
 
 You have learned how to imbue yourself with the might of giants. As a bonus action, you magically gain the following benefits, which last for 1 minute:
 
-- If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.  
-- You have advantage on Strength checks and Strength saving throws.  
-- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra `1d6` damage to a target on a hit.  
+- If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn't change.
+- You have advantage on Strength checks and Strength saving throws.
+- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra `1d6` damage to a target on a hit.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 
 ### Runic Shield (Level 7)
 
-*7th-level Rune Knight feature*
+_7th-level Rune Knight feature_
 
 You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the `d20` and use the new roll.
 
@@ -112,13 +113,13 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 
 ### Additional Rune Known (Level 7)
 
-*7th-level Rune Knight feature*
+_7th-level Rune Knight feature_
 
 You learn an additional Rune.
 
 ### Great Stature (Level 10)
 
-*10th-level Rune Knight feature*
+_10th-level Rune Knight feature_
 
 The magic of your runes permanently alters you. When you gain this feature, roll `3d4`. You grow a number of inches in height equal to the roll.
 
@@ -126,25 +127,25 @@ Moreover, the extra damage you deal with your Giant's Might feature increases to
 
 ### Additional Rune Known (Level 10)
 
-*10th-level Rune Knight feature*
+_10th-level Rune Knight feature_
 
 You learn an additional Rune.
 
 ### Master of Runes (Level 15)
 
-*15th-level Rune Knight feature*
+_15th-level Rune Knight feature_
 
 You can invoke each rune you know from your Rune Carver feature twice, rather than once, and you regain all expended uses when you finish a short or long rest.
 
 ### Additional Rune Known (Level 15)
 
-*15th-level Rune Knight feature*
+_15th-level Rune Knight feature_
 
 You learn an additional Rune.
 
 ### Runic Juggernaut (Level 18)
 
-*18th-level Rune Knight feature*
+_18th-level Rune Knight feature_
 
 You learn how to amplify your rune-powered transformation. As a result, the extra damage you deal with the Giant's Might feature increases to `1d10`. Moreover, when you use that feature, your size can increase to Huge, and while you are that size, your reach increases by 5 feet.
 
@@ -152,4 +153,4 @@ You learn how to amplify your rune-powered transformation. As a result, the extr
 
 > [!example]- Optional Features: Rune Knight Rune
 > ![Rune Knight Rune](Mechanics/CLI/lists/list-optfeaturetype-rn.md#Rune%20Knight%20Rune)
-^list-optfeature-rn
+> ^list-optfeature-rn

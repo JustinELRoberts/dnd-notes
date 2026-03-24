@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Maneuver, Warmage
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Blitz](Mechanics/CLI/optional-features/blitz-valdaspire24.md)
 - [Check](Mechanics/CLI/optional-features/check-valdaspire24.md)

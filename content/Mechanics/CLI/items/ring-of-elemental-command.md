@@ -17,9 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ring of Elemental Command
-*Ring, major, legendary (requires attunement)*  
 
-
+_Ring, major, legendary (requires attunement)_
 
 **Items in this group:**
 
@@ -28,4 +27,4 @@ obsidianUIMode: preview
 - [Ring of Fire Elemental Command](Mechanics/CLI/items/ring-of-fire-elemental-command.md)
 - [Ring of Water Elemental Command](Mechanics/CLI/items/ring-of-water-elemental-command.md)
 
-*Source: Dungeon Master's Guide p. 190*
+_Source: Dungeon Master's Guide p. 190_

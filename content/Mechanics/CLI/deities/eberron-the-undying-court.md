@@ -18,15 +18,12 @@ obsidianUIMode: preview
 
 # The Undying Court
 
-
 - **Alignment**: Neutral Good
 - **Category**: Other Faiths of Eberron
 - **Domains**: Grave, Knowledge, Life
 - **Pantheon**: Eberron
 - **Symbol**: Varies
 
-
-
 ## Sources
 
-*Player's Handbook p. 296, Xanathar's Guide to Everything p. 19*
+_Player's Handbook p. 296, Xanathar's Guide to Everything p. 19_

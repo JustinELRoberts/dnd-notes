@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # College of Lore
-*[Bard](./bard-xphb.md): Bard Subclass*  
-*Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Bard](./bard-xphb.md): Bard Subclass_\
+_Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/lore-bard.webp#right)
 
-*Plumb the Depths of Magical Knowledge*
+_Plumb the Depths of Magical Knowledge_
 
 Bards of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college's members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.
 

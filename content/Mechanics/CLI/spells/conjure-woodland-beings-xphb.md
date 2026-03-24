@@ -22,8 +22,8 @@ classes:
 ---
 
 # Conjure Woodland Beings
-*4th-level, Conjuration*  
 
+_4th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self (10-foot Emanation)
@@ -38,4 +38,4 @@ In addition, you can take the [Disengage](Mechanics/CLI/rules/actions.md#Disenga
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

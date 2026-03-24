@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Pit Trap
-*Generic Hazard*  
 
+_Generic Hazard_
 
 The simplest of pit traps consists of a 10-foot-deep hole in the floor, concealed by tattered canvas that's covered with leaves and dirt to look like solid ground. This type of trap is useful for blocking off the entrance to a monster lair, and usually has narrow ledges along its sides to allow for movement around it.
 
 ## Sources
 
-*Xanathar's Guide to Everything p. 114*
+_Xanathar's Guide to Everything p. 114_

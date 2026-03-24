@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Potion of Animal Friendship
-*Potion, minor, uncommon*  
 
-
+_Potion, minor, uncommon_
 
 When you drink this potion, you can cast the [animal friendship](Mechanics/CLI/spells/animal-friendship-xphb.md) spell (save DC 13) for 1 hour at will. Agitating this muddy liquid brings little bits into view: a fish scale, a hummingbird tongue, a cat claw, or a squirrel hair.
 
-*Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Archivist
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Expand Your Rituals Through Ancient Lore*
+_Expand Your Rituals Through Ancient Lore_
 
 Though most Investigators fill their grimoires with hard-won knowledge borne from encounters with supernatural threats, some prefer to do bookkeeping instead. Such Archivists seek to accumulate knowledge, more so than trinkets, by spending untold hours digging through disparate tomes of occult secrets and compiling them into encyclopedic texts. Through their research, Archivists become academic masters of the arcane and priceless reservoirs of obscure knowledge.
 
@@ -74,7 +75,7 @@ You can use the following trinkets.
 
 When you cast a spell that forces a creature to make a saving throw, you can give one target of the spell [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on saves against the spell.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
 
 ### Encyclopedic Expertise (Level 10)
 
@@ -86,4 +87,4 @@ You can effortlessly duplicate spells you see or hear, granting you the followin
 
 **Ritual Recall.** If you see or hear an Investigator spell being cast, you can thereafter copy it into your grimoire.
 
-**Spell Duplication.** When you see or hear a spell of level 5 or lower being cast, you can fix the spell in your mind. Within the next minute, you can expend a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) to cast the spell without a spell slot. Once you use this benefit to cast a spell, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Duplication.** When you see or hear a spell of level 5 or lower being cast, you can fix the spell in your mind. Within the next minute, you can expend a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) to cast the spell without a spell slot. Once you use this benefit to cast a spell, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).

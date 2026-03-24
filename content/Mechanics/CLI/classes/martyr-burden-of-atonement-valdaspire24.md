@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Atonement
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Seek Redemption Through Sacrifice*
+_Seek Redemption Through Sacrifice_
 
 For all the wrong you have done in your life, the gods have graced you with an undeserved second chance. Your burden is to atone, to undo all the evils you have done in your life, and to seek redemption before the gods. How you accomplish this is your choice, so long as you remove any dark marks you leave behind. Ultimately, your final martyrdom might be a grand act, averting a great disaster or banishing a force of evil, or it might be as humble as redirecting the life of an evil person and causing them to seek redemption, passing the torch to a new Martyr of Atonement.
 
@@ -85,11 +86,11 @@ You can transfer multiple negative effects of the same type to yourself, affecti
 
 You can transfer the following negative effects.
 
-- 1 [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level  
-- A curse, including the target's [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md) to a cursed magic item  
-- Any reduction to one of the target's ability scores  
-- Any reduction to the target's [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum  
-- The [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [Petrified](Mechanics/CLI/rules/conditions.md#Petrified), [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), or [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) conditions  
+- 1 [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level
+- A curse, including the target's [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md) to a cursed magic item
+- Any reduction to one of the target's ability scores
+- Any reduction to the target's [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum
+- The [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [Petrified](Mechanics/CLI/rules/conditions.md#Petrified), [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), or [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) conditions
 
 ### Selfless Sacrifice (Level 14)
 

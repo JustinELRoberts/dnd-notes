@@ -30,8 +30,8 @@ classes:
 ---
 
 # Skirmish
-*3rd-level, Transmutation*  
 
+_3rd-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch
@@ -42,4 +42,4 @@ You enhance the mobility of one willing creature you touch, enabling them to mov
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Book of Vile Darkness
-*Wondrous item, artifact (requires attunement)*  
+
+_Wondrous item, artifact (requires attunement)_\
 ![](Mechanics/CLI/items/img/book-of-vile-darkness.webp#right)
 
 - **Weight**: 5.0 lbs.
@@ -38,10 +39,10 @@ The Book of Vile Darkness remains with you only as long as you strive to work ev
 
 The Book of Vile Darkness has the following random properties:
 
-- 3 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
-- 3 [minor detrimental properties](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)  
-- 2 [major detrimental properties](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)  
+- 3 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
+- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)
+- 3 [minor detrimental properties](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)
+- 2 [major detrimental properties](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)
 
 ## Adjusted Ability Scores
 
@@ -73,4 +74,4 @@ A creature attuned to the book for one hundred years can unearth a phrase hidden
 
 If all evil in the multiverse is wiped out, the book turns to dust and is forever destroyed.
 
-*Source: Dungeon Master's Guide p. 222*
+_Source: Dungeon Master's Guide p. 222_

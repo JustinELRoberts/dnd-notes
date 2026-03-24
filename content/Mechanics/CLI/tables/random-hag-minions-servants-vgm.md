@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Hag Minions; Servants
-*Source: Volo's Guide to Monsters p. 61* 
+
+_Source: Volo's Guide to Monsters p. 61_
 
 **Servants**
 

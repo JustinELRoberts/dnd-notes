@@ -26,8 +26,8 @@ classes:
 ---
 
 # Demand
-*6th-level, Enchantment*  
 
+_6th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -42,4 +42,4 @@ You can project the spell across any distance, and even to other planes of exist
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

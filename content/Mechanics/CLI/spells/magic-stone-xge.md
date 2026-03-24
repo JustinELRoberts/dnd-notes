@@ -30,8 +30,8 @@ classes:
 ---
 
 # Magic Stone
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch
@@ -44,4 +44,4 @@ If you cast this spell again, the spell ends on any pebbles still affected by yo
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Xanathar's Guide to Everything p. 160*
+_Source: Xanathar's Guide to Everything p. 160_

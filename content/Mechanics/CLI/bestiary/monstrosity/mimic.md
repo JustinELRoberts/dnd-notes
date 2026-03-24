@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Mimic
-*Source: Monster Manual p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/mimic.webp#right)
 
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
@@ -33,10 +34,9 @@ When it changes shape, a mimic excretes an adhesive that helps it seize prey and
 
 Mimics live and hunt alone, though they occasionally share their feeding grounds with other creatures. Although most mimics have only predatory intelligence, a rare few evolve greater cunning and the ability to carry on simple conversations in Common or Undercommon. Such mimics might allow safe passage through their domains or provide useful information in exchange for food.
 
-> [!quote] A quote from X the Mystic's 3rd rule of dungeon survival  
-> 
+> [!quote] A quote from X the Mystic's 3rd rule of dungeon survival
+>
 > Sometimes a chest is just a chest, but don't bet on it.
-
 
 ## Statblock
 
@@ -78,6 +78,7 @@ title: Mimic
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage plus 4 (`1d8`) acid damage.
 ```
+
 ^statblock
 
 ## Environment

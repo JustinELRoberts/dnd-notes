@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Umbragen Shadow Walker
-*Source: Eberron: Forge of the Artificer p. 99*  
+
+_Source: Eberron: Forge of the Artificer p. 99_\
 ![](Mechanics/CLI/bestiary/humanoid/img/umbragen-shadow-walker.webp#right)
 
 Umbragen drow are the descendants of drow who fled the giants and found refuge underground. For countless generations, they have lived in the lightless caverns of Khyber. There, they tapped into a mysterious magical shadow they called the Umbra. Though some have emerged to haunt the surface in the wake of the giant empire's fall, they retain a spiritual and physical connection to the darkness below. Umbragen shadow walkers weave shadow magic to confound foes.
@@ -60,4 +61,5 @@ title: Umbragen Shadow Walker
 
 **At will:** [Dancing Lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [Darkness](Mechanics/CLI/spells/darkness-xphb.md), [Minor Illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
 ```
+
 ^statblock

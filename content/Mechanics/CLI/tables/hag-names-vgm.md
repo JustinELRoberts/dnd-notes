@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Hag Names
-*Source: Volo's Guide to Monsters p. 55* 
+
+_Source: Volo's Guide to Monsters p. 55_
 
 **Hag Names**
 

@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Orthon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 205*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 205_\
 ![](Mechanics/CLI/bestiary/fiend/img/orthon.webp#right)
 
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
@@ -76,6 +77,7 @@ title: Orthon
 
 ***Explosive Retribution.*** In response to dropping to 15 hit points or fewer, the orthon explodes. All other creatures within 30 feet of it must each make a DC 17 Dexterity saving throw, taking 9 (`2d8`) fire damage plus 9 (`2d8`) thunder damage on a failed save, or half as much damage on a successful one. The orthon, its infernal dagger, and its brass crossbow are destroyed.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Using a Map; Map Travel Pace
-*Source: Dungeon Master's Guide p. 242* 
+
+_Source: Dungeon Master's Guide p. 242_
 
 **Map Travel Pace**
 

@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Boneclaw
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 66*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 66_\
 ![](Mechanics/CLI/bestiary/undead/img/boneclaw.webp#right)
 
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
@@ -76,6 +77,7 @@ The boneclaw then teleports up to 60 feet to an unoccupied space it can see. It 
 
 ***Deadly Reach.*** In response to a creature entering a space within 15 feet of it, the boneclaw makes one Piercing Claw attack against that creature.
 ```
+
 ^statblock
 
 ## Environment

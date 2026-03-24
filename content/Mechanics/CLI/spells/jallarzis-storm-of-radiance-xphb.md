@@ -24,7 +24,8 @@ classes:
 ---
 
 # Jallarzi's Storm of Radiance
-*5th-level, Evocation*  
+
+_5th-level, Evocation_\
 ![](Mechanics/CLI/spells/img/jallarzis-storm-of-radiance.webp#right)
 
 - **Casting time:** 1 Action
@@ -40,4 +41,4 @@ When the storm appears, each creature in it makes a Constitution saving throw, t
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 289*
+_Source: Player's Handbook (2024) p. 289_

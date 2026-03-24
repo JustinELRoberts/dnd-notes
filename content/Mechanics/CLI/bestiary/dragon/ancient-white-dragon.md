@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient White Dragon
-*Source: Monster Manual p. 100. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 100. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/white-dragon.webp#right)
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
@@ -184,6 +185,7 @@ If the dragon dies, the fog and precipitation fade within 1 day. The ice walls m
 - **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the "Dungeon Master's Guide" for rules on "extreme cold"). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
 - **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
 ```
+
 ^statblock
 
 ## Environment

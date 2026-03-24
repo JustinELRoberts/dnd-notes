@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Azer
-*Source: Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/azer.webp#right)
 
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
@@ -43,10 +44,9 @@ When azers are called by magic to the Material Plane, it is typically to help fo
 
 An azer doesn't require food, drink, or sleep.
 
-> [!quote] A quote from Arakses al-Saqar, efreeti pasha  
-> 
+> [!quote] A quote from Arakses al-Saqar, efreeti pasha
+>
 > Give me a hundred azer slaves, and I can forge an empire that would make the gods tremble.
-
 
 ## Statblock
 
@@ -85,4 +85,5 @@ title: Azer
 
 ***Warhammer.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage, or 8 (`1d10 + 3`) bludgeoning damage if used with two hands to make a melee attack, plus 3 (`1d6`) fire damage.
 ```
+
 ^statblock

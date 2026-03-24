@@ -16,9 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Instrument of the Bards
-*Wondrous item, instrument (requires attunement by a bard)*  
 
-
+_Wondrous item, instrument (requires attunement by a bard)_
 
 An instrument of the bards is an exquisite example of its kind, superior to an ordinary instrument in every way. Seven types of these instruments exist, each named after a legendary bard college. A creature that attempts to play the instrument without being attuned to it must succeed on a DC 15 Wisdom saving throw or take `2d4` psychic damage.
 
@@ -38,4 +37,4 @@ All instruments of the bards can be used to cast the following spells: [fly](Mec
 - [Instrument of the Bards, Mac-Fuirmidh Cittern](Mechanics/CLI/items/instrument-of-the-bards-mac-fuirmidh-cittern.md)
 - [Instrument of the Bards, Ollamh Harp](Mechanics/CLI/items/instrument-of-the-bards-ollamh-harp.md)
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

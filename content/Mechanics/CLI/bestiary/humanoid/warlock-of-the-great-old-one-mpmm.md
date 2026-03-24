@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Warlock of the Great Old One
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 256, Volo's Guide to Monsters p. 220_\
 ![](Mechanics/CLI/bestiary/humanoid/img/warlock-of-the-great-old-one.webp#right)
 
 Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars.
@@ -72,6 +73,7 @@ title: Warlock of the Great Old One
 
 **1/day each:** [arcane gate](Mechanics/CLI/spells/arcane-gate-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [true seeing](Mechanics/CLI/spells/true-seeing-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

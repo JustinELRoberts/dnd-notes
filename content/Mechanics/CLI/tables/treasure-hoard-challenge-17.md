@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Treasure Hoard: Challenge 17+
-*Source: Dungeon Master's Guide p. 133* 
+
+_Source: Dungeon Master's Guide p. 133_
 
 **Treasure Hoard: Challenge 17+**
 

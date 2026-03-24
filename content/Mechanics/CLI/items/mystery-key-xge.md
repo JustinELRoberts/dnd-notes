@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Mystery Key
-*Wondrous item, minor, common*  
 
-
+_Wondrous item, minor, common_
 
 A question mark is worked into the head of this key. The key has a 5 percent chance of unlocking any lock into which it's inserted. Once it unlocks something, the key disappears.
 
-*Source: Xanathar's Guide to Everything p. 138*
+_Source: Xanathar's Guide to Everything p. 138_

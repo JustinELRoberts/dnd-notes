@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mummy
-*Source: Monster Manual p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/mummy.webp#right)
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -52,10 +53,9 @@ Though they seldom bother to do so, mummies can speak. As a result, some serve a
 
 A mummy doesn't require air, food, drink, or sleep.
 
-> [!quote] A quote from X the Mystic's 7th rule of dungeon survival  
-> 
+> [!quote] A quote from X the Mystic's 7th rule of dungeon survival
+>
 > Before opening a sarcophagus, light a torch.
-
 
 ## Statblock
 
@@ -91,6 +91,7 @@ title: Mummy
 
 ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 ```
+
 ^statblock
 
 ## Environment

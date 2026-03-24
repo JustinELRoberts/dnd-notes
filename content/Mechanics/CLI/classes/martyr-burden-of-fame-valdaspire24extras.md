@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Fame
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Get Famous*
+_Get Famous_
 
 You were destined to see your name in lights, to be the talk of the town, to be a superstar. Unfortunately, the gods also chose you to go out in a blaze of glory. The Burden of Fame entails a life of renown matched only by royalty, coupled with incredible duties undertaken in the public eye. Your flame burns brightly for half as long, but when your journey is complete, nobody will forget your name.
 

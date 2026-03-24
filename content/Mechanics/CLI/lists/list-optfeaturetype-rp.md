@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Renown Perk
-*Source: Player's Handbook, Eberron: Forge of the Artificer* 
+
+_Source: Player's Handbook, Eberron: Forge of the Artificer_
 
 - [Celebrated in House](Mechanics/CLI/optional-features/celebrated-in-house-efa.md)
 - [Favored in House](Mechanics/CLI/optional-features/favored-in-house-efa.md)

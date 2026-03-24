@@ -106,9 +106,9 @@ obsidianUIMode: preview
 ---
 
 # Vicious Weapon
-*Major, rare*  
-![Vicious Weapon (Rapier)](Mechanics/CLI/items/img/vicious-weapon.webp#right)
 
+_Major, rare_\
+![Vicious Weapon (Rapier)](Mechanics/CLI/items/img/vicious-weapon.webp#right)
 
 When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.
 
@@ -116,6 +116,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 > Note: According to the SRD, it is an extra `2d6` damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
 **Variants**:
+
 - [Vicious Antimatter Rifle](#Vicious%20Antimatter%20Rifle)
 - [Vicious Atlatl](#Vicious%20Atlatl)
 - [Vicious Automatic Pistol](#Vicious%20Automatic%20Pistol)
@@ -751,5 +752,4 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

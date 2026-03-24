@@ -36,8 +36,8 @@ classes:
 ---
 
 # Plant Growth
-*3rd-level, Transmutation*  
 
+_3rd-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -58,4 +58,4 @@ All plants in a half-mile radius centered on a point within range become enriche
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of Wildfire)](Mechanics/CLI/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Corpse Florist)](Mechanics/CLI/lists/list-spells-classes-corpse-florist-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Paladin (Oath of the Ancients)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock (Archfey Patron)](Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

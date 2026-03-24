@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Tremors
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (5-foot Emanation)
@@ -31,4 +31,4 @@ A miniature earthquake shakes the ground in a 5-foot [Emanation](Mechanics/CLI/r
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -20,11 +20,12 @@ obsidianUIMode: preview
 ---
 
 # Gnoll Witherling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155_\
 ![](Mechanics/CLI/bestiary/undead/img/gnoll-witherling.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > The life cycle of Yeenoghu's gnolls begins and ends with eating. They eat their enemies, they eat one another, and they're freed from their hunger only in death.
 
 Sometimes the gnolls of Yeenoghu turn against each other, perhaps to determine who rules a war band or because of extreme starvation. Even under ordinary circumstances, gnolls that are deprived of victims for too long struggle to control their hunger and violent urges. Eventually, they fight among themselves.
@@ -75,6 +76,7 @@ title: Gnoll Witherling
 
 ***Vengeful Strike.*** In response to a gnoll being reduced to 0 hit points within 30 feet of the witherling, the witherling makes one Bite or Spiked Club attack.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Indefinite Madness
-*Source: Dungeon Master's Guide p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+
+_Source: Dungeon Master's Guide p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 **Indefinite Madness**
 

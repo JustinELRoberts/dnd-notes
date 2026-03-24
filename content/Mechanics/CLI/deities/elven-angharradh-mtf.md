@@ -19,7 +19,6 @@ obsidianUIMode: preview
 
 # Angharradh
 
-
 - **Alignment**: Chaotic Good
 - **Category**: The Seldarine
 - **Domains**: Knowledge, Life, War, Peace
@@ -27,8 +26,6 @@ obsidianUIMode: preview
 - **Province**: Wisdom, growth, protection
 - **Symbol**: Three interlocking circles
 
-
-
 ## Sources
 
-*Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 33*
+_Mordenkainen's Tome of Foes p. 43, Tasha's Cauldron of Everything p. 33_

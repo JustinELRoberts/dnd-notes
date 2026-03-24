@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Tiny Servant
-*Source: Xanathar's Guide to Everything p. 169*  
+
+_Source: Xanathar's Guide to Everything p. 169_
 
 ```ad-statblock
 title: Tiny Servant
@@ -44,4 +45,5 @@ title: Tiny Servant
 
 ***Slam.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) bludgeoning damage.
 ```
+
 ^statblock

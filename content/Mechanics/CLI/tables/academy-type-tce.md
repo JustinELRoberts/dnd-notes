@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Academy Type
-*Source: Tasha's Cauldron of Everything p. 84* 
+
+_Source: Tasha's Cauldron of Everything p. 84_
 
 **Academy Type**
 

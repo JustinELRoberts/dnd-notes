@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Genasi (Earth)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 17*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 17_\
 ![](Mechanics/CLI/races/img/genasi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1

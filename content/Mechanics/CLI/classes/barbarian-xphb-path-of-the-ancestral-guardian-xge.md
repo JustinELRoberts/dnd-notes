@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Path of the Ancestral Guardian
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
-*Source: Xanathar's Guide to Everything p. 9*  
+
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
+_Source: Xanathar's Guide to Everything p. 9_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

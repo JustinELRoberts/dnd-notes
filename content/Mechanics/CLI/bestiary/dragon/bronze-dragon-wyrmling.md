@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Bronze Dragon Wyrmling
-*Source: Monster Manual p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/bronze-dragon-wyrmling.webp#right)
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -121,4 +122,5 @@ title: Bronze Dragon Wyrmling
 - **Lightning Breath.** The dragon exhales lightning in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Dexterity saving throw, taking 16 (`3d10`) lightning damage on a failed save, or half as much damage on a successful one.  
 - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 12 Strength saving throw. On a failed save, the creature is pushed 30 feet away from the dragon.  
 ```
+
 ^statblock

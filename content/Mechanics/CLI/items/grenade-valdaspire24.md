@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Grenade
-*Ammunition*  
 
+_Ammunition_
 
 - **Cost**: 5 gp
 - **Weight**: 0.6 lbs.
@@ -25,4 +25,4 @@ Ammunition is required by a weapon that has [Ammunition](Mechanics/CLI/rules/ite
 
 Firearm ammunition is destroyed upon use.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

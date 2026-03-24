@@ -34,8 +34,8 @@ classes:
 ---
 
 # Curse Ward
-*1st-level, Abjuration*  
 
+_1st-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -46,4 +46,4 @@ You reach out your hand and touch a willing creature, raising a smoke-like barri
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

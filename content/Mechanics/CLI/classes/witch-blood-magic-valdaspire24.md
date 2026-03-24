@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Blood Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Fuel Your Curses with Blood*
+_Fuel Your Curses with Blood_
 
 Forbidden by most Witch covens, Blood Magic centers on the use of dark spells and Hexes that draw from the spellcaster's life essence. It is fundamentally more perilous than other Witch crafts, but its many risks come with copious rewards.
 

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sun Blade
-*Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), major, rare (requires attunement)*  
+
+_Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/sun-blade.webp#right)
 
 - **Damage**:
@@ -33,4 +34,4 @@ You gain a +2 bonus to attack and damage rolls made with this weapon, which deal
 
 The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 
-*Source: Dungeon Master's Guide p. 205. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 205. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

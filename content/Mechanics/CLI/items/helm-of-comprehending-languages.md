@@ -15,10 +15,10 @@ obsidianUIMode: preview
 ---
 
 # Helm of Comprehending Languages
-*Wondrous item, minor, uncommon*  
-![](Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
 
+_Wondrous item, minor, uncommon_\
+![](Mechanics/CLI/items/img/helm-of-comprehending-languages.webp#right)
 
 While wearing this helm, you can use an action to cast the [comprehend languages](Mechanics/CLI/spells/comprehend-languages-xphb.md) spell from it at will.
 
-*Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

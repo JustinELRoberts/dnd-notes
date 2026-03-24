@@ -28,8 +28,8 @@ classes:
 ---
 
 # Call Lightning
-*3rd-level, Conjuration*  
 
+_3rd-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -48,4 +48,4 @@ If you're outdoors in a storm when you cast this spell, the spell gives you cont
 
 **Classes**: [Artificer (Cartographer)](Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Calamity)](Mechanics/CLI/lists/list-spells-classes-burden-of-calamity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Witch (Sky Magic)](Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 248. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

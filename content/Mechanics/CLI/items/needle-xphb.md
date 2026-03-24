@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Needle
-*Ammunition*  
 
+_Ammunition_
 
 - **Cost**: 2 cp
 - **Weight**: 0.02 lbs.
@@ -25,4 +25,4 @@ Blowgun needles are used with a weapon that has the ammunition property to make 
 
 Needles are typically stored in a [Pouch](Mechanics/CLI/items/pouch-xphb.md) (bought separately).
 
-*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

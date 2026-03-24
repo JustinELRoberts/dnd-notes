@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Javelin
-*Weapon*  
+
+_Weapon_\
 ![](Mechanics/CLI/items/img/javelin.webp#right)
 
 - **Damage**: 1d6 piercing
@@ -25,4 +26,4 @@ obsidianUIMode: preview
 - **Cost**: 5 sp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

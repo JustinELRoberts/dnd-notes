@@ -26,8 +26,8 @@ classes:
 ---
 
 # Swift Flight
-*2nd-level, Transmutation*  
 
+_2nd-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch
@@ -38,4 +38,4 @@ Streaks of energy flow from the back of a creature you touch, tracing the shapes
 
 **Classes**: [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Deathlock
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 86*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 86_\
 ![](Mechanics/CLI/bestiary/undead/img/deathlock.webp#right)
 
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
@@ -75,6 +76,7 @@ title: Deathlock
 
 **1/day each:** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [hunger of Hadar](Mechanics/CLI/spells/hunger-of-hadar-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [spider climb](Mechanics/CLI/spells/spider-climb-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

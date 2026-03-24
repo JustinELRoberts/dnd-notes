@@ -11,6 +11,7 @@ tags:
 ---
 
 ## Map
+
 ```zoommap
 imageBases:
   - path: Campaigns/Under The Ash/Locations/img/Dimensional Blue Arena Map.png
@@ -29,5 +30,7 @@ resizeHandle: native
 render: canvas
 id: some dimensional blue arena-map
 ```
+
 ## Description
-When [[Roz]] slept with the [[massive red diamond]] during [[Campaigns/Under The Ash/Sessions/00-First Session]], he had a dream he was here; perhaps this is where [[The Awakening]] is dwelling/imprisoned?
+
+When [[Roz]] slept with the [[massive red diamond]] during [[00-First Session]], he had a dream he was here; perhaps this is where [[The Awakening]] is dwelling/imprisoned?

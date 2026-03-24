@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Bottle stopper cork embossed with gold leaf and set with amethysts
-*Treasure (art object)*  
 
+_Treasure (art object)_
 
 - **Cost**: 750 gp
 
-*Source: Dungeon Master's Guide p. 135*
+_Source: Dungeon Master's Guide p. 135_

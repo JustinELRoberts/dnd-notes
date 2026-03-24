@@ -25,7 +25,8 @@ obsidianUIMode: preview
 ---
 
 # Winged Kobold
-*Source: Monster Manual p. 195*  
+
+_Source: Monster Manual p. 195_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold.webp#right)
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -77,6 +78,7 @@ title: Winged Kobold
 
 ***Dropped Rock.*** *Ranged Weapon Attack:* `+5` to hit, one target directly below the kobold. *Hit:* 6 (`1d6 + 3`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

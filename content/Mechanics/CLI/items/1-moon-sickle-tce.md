@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # +1 Moon Sickle
-*Weapon ([sickle](Mechanics/CLI/items/sickle-xphb.md)), uncommon (requires attunement by a druid or ranger)*  
 
+_Weapon ([sickle](Mechanics/CLI/items/sickle-xphb.md)), uncommon (requires attunement by a druid or ranger)_
 
 - **Damage**: 1d4 slashing
 - **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
@@ -28,4 +28,4 @@ This silver-bladed sickle glimmers softly with moonlight. While holding this mag
 
 When you cast a spell that restores hit points, you can roll a `d4` and add the number rolled to the amount of hit points restored, provided you are holding the sickle.
 
-*Source: Tasha's Cauldron of Everything p. 133*
+_Source: Tasha's Cauldron of Everything p. 133_

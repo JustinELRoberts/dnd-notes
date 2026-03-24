@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Star Spawn Seer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 230*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 230_\
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-seer.webp#right)
 
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.
@@ -30,10 +31,10 @@ A star spawn seer is almost always accompanied by one or more star spawn hulks (
 
 ## Star Spawn
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Stars don't spawn these creatures.
-> 
+>
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -46,11 +47,11 @@ The creatures known as star spawn are the heralds, servants, and soldiers of the
 
 Disciples of certain Elder Evils can bestow supernatural gifts on those who serve that cult, including star spawn. The following powers are unique to specific cults; typically a creature has only one.
 
-- Cult of Atropus, the World Born Dead  
-- Cult of Borem, of the Lake of Boiling Mud  
-- Cult of Haask, the Voice of Hargut  
-- Cult of Tharizdun, the Chained God  
-- Cult of Tyranthraxus, the Flamed One  
+- Cult of Atropus, the World Born Dead
+- Cult of Borem, of the Lake of Boiling Mud
+- Cult of Haask, the Voice of Hargut
+- Cult of Tharizdun, the Chained God
+- Cult of Tyranthraxus, the Flamed One
 
 ## Statblock
 
@@ -99,6 +100,7 @@ The seer takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
 ***Bend Space.*** When the seer would be hit by an attack roll, it teleports, along with any equipment it is wearing or carrying, exchanging positions with another star spawn it can see within 60 feet of it. The other star spawn is hit by the attack instead.
 ```
+
 ^statblock
 
 ## Environment

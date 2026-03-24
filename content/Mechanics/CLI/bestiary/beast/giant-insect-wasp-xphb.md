@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Insect (Wasp)
-*Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Giant Insect (Wasp)
@@ -47,4 +48,5 @@ title: Giant Insect (Wasp)
 
 ***Poison Jab.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 10 ft. *Hit:* `1d6 + 3` + the spell's level Piercing damage plus `1d4` Poison damage.
 ```
+
 ^statblock

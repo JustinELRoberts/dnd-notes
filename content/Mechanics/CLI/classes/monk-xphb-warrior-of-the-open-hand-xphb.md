@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Warrior of the Open Hand
-*[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Monk](./monk-xphb.md): Monk Subclass_\
+_Source: Player's Handbook (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/open-hand-monk.webp#right)
 
-*Master Unarmed Combat Techniques*
+_Master Unarmed Combat Techniques_
 
 Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.
 

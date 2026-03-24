@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Antiquarian
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Wield a Museum's Worth of Powerful Arcane Trinkets*
+_Wield a Museum's Worth of Powerful Arcane Trinkets_
 
 Festooned with magical trinkets from every corner of the globe, Antiquarians have a tool for every occasion: silver arrowheads for lycanthropes, heartwood stakes for vampires, blessed relics for fiends, and so on. As they expand their collections from piles of trinkets to veritable museums, they become adept historians and arcanists, familiar with the stories of every magic item in their care, as well as how to use them in dire situations.
 
@@ -56,7 +57,7 @@ Festooned with magical trinkets from every corner of the globe, Antiquarians hav
 
 ### Artifact Hoarder (Level 3)
 
-You gain one additional use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20(Level%203)) before a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You gain one additional use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)) before a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
 ### Trinkets (Level 3)
 
@@ -90,7 +91,7 @@ This magic item is always attuned to you and doesn't count against your total nu
 
 **Temporary Hit Points.** You can expend 1 charge as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Investigator level.
 
-**Trinket Recharge.** You can expend 1 charge as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to regain one expended use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20(Level%203)).
+**Trinket Recharge.** You can expend 1 charge as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to regain one expended use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)).
 
 **Undead Fortitude.** When you are reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can expend 2 charges to drop to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead. You can use this benefit only once per turn.
 

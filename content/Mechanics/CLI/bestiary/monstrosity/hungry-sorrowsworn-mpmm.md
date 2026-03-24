@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Hungry Sorrowsworn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 223*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 223_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/hungry-sorrowsworn.webp#right)
 
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
@@ -63,6 +64,7 @@ title: Hungry Sorrowsworn
 
 ***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) slashing damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 16), and it is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the grapple ends. While grappling a creature, the sorrowsworn can't make a Claw attack.
 ```
+
 ^statblock
 
 ## Environment

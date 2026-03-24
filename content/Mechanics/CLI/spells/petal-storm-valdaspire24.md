@@ -20,8 +20,8 @@ classes:
 ---
 
 # Petal Storm
-*2nd-level, Conjuration*  
 
+_2nd-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -36,4 +36,4 @@ When the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) a
 
 **Classes**: [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

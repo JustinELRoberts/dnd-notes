@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Troubadour
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Inspire Your Allies Wherever You Travel*
+_Inspire Your Allies Wherever You Travel_
 
 A lyre, a flute, or perhaps a set of bagpipes at their side, a Troubadour sets out on the open road, playing music wherever they go. While Troubadours often travel in musical troupes, they might also ply their trade alone, wandering between taverns and street corners in search of an audience, coin, and perhaps fame.
 
@@ -62,7 +63,7 @@ You have an instrument at your side and a tune in your heart, granting you the f
 
 **Pantomime.** You know enough smatterings of languages that you can communicate simple ideas to any creature that understands at least one language. Doing so takes twice as long as communicating normally.
 
-### Inspiring Tune [Maneuver] (Level 3)
+### Inspiring Tune \[Maneuver] (Level 3)
 
 You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to inspire another creature within 60 feet of yourself who can see or hear you. Give that creature one of your unexpended Battle Dice. A creature can have only one Battle Die from this maneuver at a time.
 

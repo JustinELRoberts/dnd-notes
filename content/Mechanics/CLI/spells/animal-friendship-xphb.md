@@ -28,8 +28,8 @@ classes:
 ---
 
 # Animal Friendship
-*1st-level, Enchantment*  
 
+_1st-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -42,4 +42,4 @@ Target a Beast that you can see within range. The target must succeed on a Wisdo
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

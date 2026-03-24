@@ -28,8 +28,8 @@ classes:
 ---
 
 # Thorn Whip
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -42,4 +42,4 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 333*
+_Source: Player's Handbook (2024) p. 333_

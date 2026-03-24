@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Oath of the Ancients
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
-*Source: Player's Handbook (2024) p. 115*  
+
+_[Paladin](./paladin-xphb.md): Paladin Subclass_\
+_Source: Player's Handbook (2024) p. 115_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,15 +51,15 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/ancients-paladin.webp#right)
 
-*Preserve Life and Light in the World*
+_Preserve Life and Light in the World_
 
 The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They often adorn their armor and clothing with images of growing things—leaves, antlers, or flowers—to reflect their commitment to preserving life and light.
 
 These paladins share the following tenets:
 
-- Kindle the light of hope.  
-- Shelter life.  
-- Delight in art and laughter.  
+- Kindle the light of hope.
+- Shelter life.
+- Delight in art and laughter.
 
 ## Subclass Features
 

@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Merrshaulk
 
-
 - **Alignment**: Unaligned
 - **Pantheon**: Yuan-ti
 
@@ -25,4 +24,4 @@ The leaders of Merrshaulk's worshipers, called pit masters, are malison warlocks
 
 ## Sources
 
-*Volo's Guide to Monsters p. 94*
+_Volo's Guide to Monsters p. 94_

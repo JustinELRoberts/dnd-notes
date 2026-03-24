@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Kobold Inventor
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 164, Volo's Guide to Monsters p. 166_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold-inventor.webp#right)
 
 A kobold inventor builds improvised weapons to gain an advantage in combat. These weapons last for only one or two attacks before they break and typically work only for the inventor, but they might be surprisingly effective in the meantime. The weapons don't have to be lethal—often one serves its purpose if it distracts, scares, or confuses a creature long enough for the inventor to kill that foe.
@@ -70,6 +71,7 @@ title: Kobold Inventor
 - **7 Skunk in a Cage.** The kobold releases a skunk into an unoccupied space within 5 feet of it. The skunk has a walking speed of 20 feet, AC 10, 1 hit point, and no effective attacks. It rolls initiative and, on its turn, uses its action to spray musk at a random creature within 5 feet of it. The target must succeed on a DC 9 Constitution saving throw, or it retches and is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that doesn't need to breathe or is immune to poison automatically succeeds on the saving throw. Once the skunk has sprayed its musk, it can't do so again until it finishes a short or long rest.  
 - **8 Wasp Nest in a Bag.** The kobold throws a small bag into a 5-foot-square space within 20 feet of it. A [swarm of insects (wasps)](Mechanics/CLI/bestiary/beast/swarm-of-wasps.md) with 11 hit points emerges from the bag and rolls initiative. At the end of each of the swarm's turns, there's a 50 percent chance that the swarm disperses.  
 ```
+
 ^statblock
 
 ## Environment

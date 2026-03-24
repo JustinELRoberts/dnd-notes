@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Lizardfolk
-*Source: Monster Manual p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/lizardfolk.webp#right)
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -53,10 +54,9 @@ Lizardfolk born in Sess'inek's image are larger and more cunning than other liza
 
 Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers.
 
-> [!quote] A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh  
-> 
+> [!quote] A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh
+>
 > In all my dealings with the lizardfolk, I was never able to tell what they were thinking. Their reptilian eyes belied no hint of their intentions. I gave them supplies. They gave me the willies.
-
 
 ## Statblock
 
@@ -97,6 +97,7 @@ title: Lizardfolk
 
 ***Spiked Shield.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

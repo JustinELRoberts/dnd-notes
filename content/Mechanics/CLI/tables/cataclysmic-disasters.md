@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Cataclysmic Disasters
-*Source: Dungeon Master's Guide p. 28* 
+
+_Source: Dungeon Master's Guide p. 28_
 
 **Cataclysmic Disasters**
 

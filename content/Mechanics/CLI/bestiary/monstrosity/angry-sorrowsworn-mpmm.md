@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Angry Sorrowsworn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 222*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 222_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/angry-sorrowsworn.webp#right)
 
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
@@ -64,6 +65,7 @@ On its turn, the sorrowsworn has disadvantage on attack rolls if no other creatu
 
 ***Hook.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 16 (`2d12 + 3`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Mind Flayer Names
-*Source: Volo's Guide to Monsters p. 75* 
+
+_Source: Volo's Guide to Monsters p. 75_
 
 **Mind Flayer Names**
 

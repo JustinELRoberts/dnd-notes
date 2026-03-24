@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Being
-*Source: Tasha's Cauldron of Everything p. 86* 
+
+_Source: Tasha's Cauldron of Everything p. 86_
 
 **Ancient Being**
 

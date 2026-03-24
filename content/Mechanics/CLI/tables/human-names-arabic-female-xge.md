@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Human Names – Arabic, Female
-*Source: Xanathar's Guide to Everything p. 181* 
+
+_Source: Xanathar's Guide to Everything p. 181_
 
 **Human Names – Arabic, Female**
 

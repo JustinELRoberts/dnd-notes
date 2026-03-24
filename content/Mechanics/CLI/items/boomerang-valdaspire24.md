@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Boomerang
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 60/180
@@ -25,4 +25,4 @@ obsidianUIMode: preview
 - **Cost**: 2 gp
 - **Weight**: 0.25 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

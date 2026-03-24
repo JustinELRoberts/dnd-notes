@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Clockwork Oaken Bolter
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 80*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 80_\
 ![](Mechanics/CLI/bestiary/construct/img/clockwork-oaken-bolter.webp#right)
 
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.
@@ -107,6 +108,7 @@ title: Clockwork Oaken Bolter
 
 ***Reel In.*** The clockwork pulls the creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by its Harpoon up to 20 feet closer.
 ```
+
 ^statblock
 
 ## Environment

@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Bulette
-*Source: Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/bulette.webp#right)
 
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
@@ -74,6 +75,7 @@ title: Bulette
 
 ***Deadly Leap.*** If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone) and take 14 (`3d6 + 4`) bludgeoning damage plus 14 (`3d6 + 4`) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone), and is pushed 5 feet out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls [prone](Mechanics/CLI/rules/conditions.md#Prone) in the bulette's space.
 ```
+
 ^statblock
 
 ## Environment

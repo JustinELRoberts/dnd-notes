@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Book of Exalted Deeds
-*Wondrous item, artifact (requires attunement by a creature of good alignment)*  
+
+_Wondrous item, artifact (requires attunement by a creature of good alignment)_\
 ![](Mechanics/CLI/items/img/book-of-exalted-deeds.webp#right)
 
 - **Weight**: 5.0 lbs.
@@ -32,8 +33,8 @@ Benefits granted by the Book of Exalted Deeds last only as long as you strive to
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 2 [major beneficial properties](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
+- 2 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
+- 2 [major beneficial properties](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)
 
 ## Increased Wisdom
 
@@ -51,4 +52,4 @@ Once you've read and studied the book, you gain a protective halo. This halo she
 
 It is rumored that the Book of Exalted Deeds can't be destroyed as long as good exists in the multiverse. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for `1d100` years.
 
-*Source: Dungeon Master's Guide p. 222*
+_Source: Dungeon Master's Guide p. 222_

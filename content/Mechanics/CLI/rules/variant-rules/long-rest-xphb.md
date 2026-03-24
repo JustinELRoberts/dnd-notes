@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Long Rest
-*Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
 
@@ -23,19 +24,19 @@ During sleep, you have the [Unconscious](Mechanics/CLI/rules/conditions.md#Uncon
 
 To start a Long Rest, you must have at least 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). When you finish the rest, you gain the following benefits:
 
-- **Regain All HP.** You regain all lost [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and all spent [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md). If your Hit Point maximum was reduced, it returns to normal.  
-- **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.  
-- **Exhaustion Reduced.** If you have the [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) condition, its level decreases by 1.  
-- **Special Feature.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.  
+- **Regain All HP.** You regain all lost [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and all spent [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md). If your Hit Point maximum was reduced, it returns to normal.
+- **Ability Scores Restored.** If any of your ability scores were reduced, they return to normal.
+- **Exhaustion Reduced.** If you have the [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) condition, its level decreases by 1.
+- **Special Feature.** Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.
 
 ## Interrupting the Rest
 
 A Long Rest is stopped by the following interruptions:
 
-- Rolling [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md)  
-- Casting a spell other than a cantrip  
-- Taking any damage.  
-- 1 hour of walking or other physical exertion.  
+- Rolling [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md)
+- Casting a spell other than a cantrip
+- Taking any damage.
+- 1 hour of walking or other physical exertion.
 
 If you rested at least 1 hour before the interruption you gain the benefits of a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md).
 

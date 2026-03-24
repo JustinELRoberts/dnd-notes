@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Grep
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Creatures/Grep.webp#right)
 
 A grep is an underground scavenger, known for using its keen vision, acute hearing, and silent flight to trick and steal from travelers, hoarding its possessions in well-hidden troves. Arcanists use greps as messengers and scouts, but they excel as retrievers; a grep can be given the name of an important object and sent to find it, returning a short time later with its prize.
@@ -49,4 +50,5 @@ title: Grep
 
 ***Claw.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 7 (`1d6 + 4`) Slashing damage.
 ```
+
 ^statblock

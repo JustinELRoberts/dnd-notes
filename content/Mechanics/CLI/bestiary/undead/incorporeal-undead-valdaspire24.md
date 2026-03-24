@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Incorporeal Undead
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 ```ad-statblock
 title: Incorporeal Undead
@@ -63,4 +64,5 @@ title: Incorporeal Undead
 ***Level 5:.*** Invisibility. The undead casts [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
 ```
+
 ^statblock

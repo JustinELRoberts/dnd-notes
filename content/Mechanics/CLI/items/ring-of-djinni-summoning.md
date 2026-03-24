@@ -17,9 +17,9 @@ obsidianUIMode: preview
 ---
 
 # Ring of Djinni Summoning
-*Ring, major, legendary (requires attunement)*  
-![](Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)
 
+_Ring, major, legendary (requires attunement)_\
+![](Mechanics/CLI/items/img/ring-of-djinni-summoning.webp#right)
 
 While wearing this ring, you can speak its command word as an action to summon a particular [djinni](Mechanics/CLI/bestiary/elemental/djinni.md) from the Elemental Plane of Air. The [djinni](Mechanics/CLI/bestiary/elemental/djinni.md) appears in an unoccupied space you choose within 120 feet of you. It remains as long as you concentrate (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell), to a maximum of 1 hour, or until it drops to 0 hit points. It then returns to its home plane.
 
@@ -27,4 +27,4 @@ While summoned, the [djinni](Mechanics/CLI/bestiary/elemental/djinni.md) is frie
 
 After the [djinni](Mechanics/CLI/bestiary/elemental/djinni.md) departs, it can't be summoned again for 24 hours, and the ring becomes nonmagical if the [djinni](Mechanics/CLI/bestiary/elemental/djinni.md) dies.
 
-*Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

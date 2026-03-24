@@ -22,8 +22,8 @@ classes:
 ---
 
 # Enthrall
-*2nd-level, Enchantment*  
 
+_2nd-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -34,4 +34,4 @@ You weave a distracting string of words, causing creatures of your choice that y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Necromancer (Blood Ascendent)](Mechanics/CLI/lists/list-spells-classes-blood-ascendent-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Player's Handbook (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

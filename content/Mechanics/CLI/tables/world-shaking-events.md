@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # World-Shaking Events
-*Source: Dungeon Master's Guide p. 27* 
+
+_Source: Dungeon Master's Guide p. 27_
 
 **World-Shaking Events**
 

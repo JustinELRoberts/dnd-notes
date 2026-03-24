@@ -55,8 +55,8 @@ classes:
 ---
 
 # Banishment
-*4th-level, Abjuration*  
 
+_4th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -71,4 +71,4 @@ If the target is an Aberration, a Celestial, an Elemental, a Fey, or a Fiend, th
 
 **Classes**: [Artificer (Cartographer)](Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of the End)](Mechanics/CLI/lists/list-spells-classes-burden-of-the-end-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Dead Mist Acolyte)](Mechanics/CLI/lists/list-spells-classes-dead-mist-acolyte-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Paladin (Oath of Vengeance)](Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Watchers)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger (Horizon Walker)](Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE;class=XPHB"); [Ranger (Monster Slayer)](Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge.md "subclass=XGE;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

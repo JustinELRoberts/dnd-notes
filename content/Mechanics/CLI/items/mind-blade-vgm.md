@@ -24,13 +24,13 @@ obsidianUIMode: preview
 ---
 
 # Mind Blade
-*Rare (requires attunement by a specific individual)*  
 
-
+_Rare (requires attunement by a specific individual)_
 
 Mind flayers can turn any nonmagical sword into a mind blade. Only one creature can attune to it: either a specific mind flayer or one of its thralls. In the hands of any other creature, the mind blade functions as a normal sword of its kind. In the hands of its intended wielder, the mind blade is a magic weapon that deals an extra `2d6` psychic damage to any target it hits.
 
 **Variants**:
+
 - [Mind Blade Double-Bladed Scimitar](#Mind%20Blade%20Double-Bladed%20Scimitar)
 - [Mind Blade Greatsword](#Mind%20Blade%20Greatsword)
 - [Mind Blade Longsword](#Mind%20Blade%20Longsword)
@@ -76,5 +76,4 @@ Mind flayers can turn any nonmagical sword into a mind blade. Only one creature 
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Volo's Guide to Monsters p. 81*
+_Source: Volo's Guide to Monsters p. 81_

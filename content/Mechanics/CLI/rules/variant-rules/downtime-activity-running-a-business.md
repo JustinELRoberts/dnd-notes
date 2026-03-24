@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Running a Business
-*Source: Dungeon Master's Guide p. 129* 
+
+_Source: Dungeon Master's Guide p. 129_
 
 Adventurers can end up owning businesses that have nothing to do with delving into dungeons or saving the world. A character might inherit a smithy, or the party might be given a parcel of farmland or a tavern as a reward. If they hold on to the business, they might feel obliged to spend time between adventures maintaining the venture and making sure it runs smoothly.
 

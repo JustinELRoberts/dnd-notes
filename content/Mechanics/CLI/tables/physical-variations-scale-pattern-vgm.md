@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Physical Variations; Scale Pattern
-*Source: Volo's Guide to Monsters p. 66* 
+
+_Source: Volo's Guide to Monsters p. 66_
 
 **Scale Pattern**
 

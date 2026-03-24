@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Dressing; Odor
-*Source: Dungeon Master's Guide p. 298* 
+
+_Source: Dungeon Master's Guide p. 298_
 
 **Odor**
 

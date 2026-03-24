@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Merrenoloth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 180*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 180_\
 ![](Mechanics/CLI/bestiary/fiend/img/merrenoloth.webp#right)
 
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
@@ -84,6 +85,7 @@ A merrenoloth imbues its vessel with magic that creates one or more of the follo
 
 If the merrenoloth dies, these effects fade over the course of `1d6` hours.
 ```
+
 ^statblock
 
 ## Environment

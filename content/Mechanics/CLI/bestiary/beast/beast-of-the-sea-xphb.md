@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Beast of the Sea
-*Source: Player's Handbook (2024) p. 124*  
+
+_Source: Player's Handbook (2024) p. 124_\
 ![](Mechanics/CLI/bestiary/beast/img/beast-of-the-sea.webp#center)
 
 ```ad-statblock
@@ -49,4 +50,5 @@ title: Beast of the Sea
 
 ***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d6 + 2` plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC equals your spell save DC).
 ```
+
 ^statblock

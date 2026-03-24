@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Rimekeeper
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarden/Class/Rimekeeper.webp#right)
 
-*Channel the Polar Winds*
+_Channel the Polar Winds_
 
 Your call was the howling, icy winds of a remote arctic land. As a Rimekeeper, you defend the people of these frigid lands from colossal creatures that thrive in the frost and invaders that hail from warmer places. Wherever you travel, the north wind follows, summoned at your fingertips with hailstones and ice.
 

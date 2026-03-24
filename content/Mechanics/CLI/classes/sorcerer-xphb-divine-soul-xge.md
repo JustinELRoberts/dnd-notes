@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Divine Soul
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
-*Source: Xanathar's Guide to Everything p. 50*  
+
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
+_Source: Xanathar's Guide to Everything p. 50_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

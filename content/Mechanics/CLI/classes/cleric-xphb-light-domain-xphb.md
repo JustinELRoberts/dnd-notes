@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Light Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Player's Handbook (2024) p. 74*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Player's Handbook (2024) p. 74_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -51,7 +52,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/light-cleric.webp#right)
 
-*Bring Light to Banish Darkness*
+_Bring Light to Banish Darkness_
 
 The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.
 

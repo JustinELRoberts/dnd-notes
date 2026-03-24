@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Emerald Claw Knight
-*Source: Eberron: Forge of the Artificer p. 90*  
+
+_Source: Eberron: Forge of the Artificer p. 90_\
 ![](Mechanics/CLI/bestiary/humanoid/img/emerald-claw-knight.webp#right)
 
 Knights of the Emerald Claw command squads of Humanoid or Undead soldiers. As they draw nearer to death, the chill of the grave suff uses their weapon attacks.
@@ -50,4 +51,5 @@ title: Emerald Claw Knight
 
 ***Javelin.*** *Melee  or Ranged Attack Roll:* `+5`, reach 5 ft. or range 30/120 ft. *Hit:* 6 (`1d6 + 3`) Piercing damage—plus 4 (`1d8`) Necrotic damage if the knight is [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied).
 ```
+
 ^statblock

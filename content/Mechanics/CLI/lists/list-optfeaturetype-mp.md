@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Mastery Property
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Bludgeon](Mechanics/CLI/optional-features/bludgeon-valdaspire24.md)
 - [Cleave](Mechanics/CLI/optional-features/cleave-valdaspire24.md)

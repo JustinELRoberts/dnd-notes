@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Athlete 
+# Athlete
 
-
-***Prerequisites*** 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
+_**Prerequisites**_ 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Hop Up.** When you have the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition, you can right yourself with only 5 feet of movement.
 
 **Jumping.** You can make a running [Long](Mechanics/CLI/rules/variant-rules/long-jump-xphb.md) or [High Jump](Mechanics/CLI/rules/variant-rules/high-jump-xphb.md) after moving only 5 feet.
+
 ## Sources
 
-*Player's Handbook (2024) p. 202*
+_Player's Handbook (2024) p. 202_

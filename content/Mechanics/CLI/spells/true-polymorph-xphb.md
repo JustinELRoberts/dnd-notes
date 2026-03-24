@@ -22,8 +22,8 @@ classes:
 ---
 
 # True Polymorph
-*9th-level, Transmutation*  
 
+_9th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -58,4 +58,4 @@ If you turn a creature into an object, it transforms along with whatever it is w
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 335. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

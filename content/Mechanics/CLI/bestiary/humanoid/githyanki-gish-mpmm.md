@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Githyanki Gish
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 140*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 140_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki-gish.webp#right)
 
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
@@ -72,6 +73,7 @@ title: Githyanki Gish
 
 ***Astral Step (Recharge 4-6).*** The githyanki teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
 ```
+
 ^statblock
 
 ## Environment

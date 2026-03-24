@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Rag Doll
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Crudely constructed, but oddly endearing, rag dolls are constructs formed from children's toys, stuffed with soft material and adorned with smiling faces. Besides being generally comforting to have around, spellcasters favor rag dolls as familiars for their fairly durable construction and inconspicuous nature; nobody questions a discarded doll, after all.
 
@@ -48,4 +48,5 @@ title: Rag Doll
 
 ***Slam.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 3 (`1d4 + 1`) Bludgeoning damage.
 ```
+
 ^statblock

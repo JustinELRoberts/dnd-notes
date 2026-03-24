@@ -19,11 +19,12 @@ obsidianUIMode: preview
 ---
 
 # Yuan-ti Broodguard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-broodguard.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Tasha once likened histachii to the bees that tend to larvae in beehives. It is a fanciful view of a horrific process.
 
 Broodguards were once Humanoids, but they have been transformed by yuan-ti into simpleminded, scaly Monstrosities that do their serpentine masters' bidding. The transformation process warps not only a subject's body but also their mind, making them instinctively obey any yuan-ti and filling them with a seething rage at the sight of non-reptilian creatures.
@@ -66,6 +67,7 @@ title: Yuan-ti Broodguard
 
 ***Claw.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

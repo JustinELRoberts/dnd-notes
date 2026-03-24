@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Undead Spirit (Putrid)
-*Source: Player's Handbook (2024) p. 328*  
+
+_Source: Player's Handbook (2024) p. 328_
 
 ```ad-statblock
 title: Undead Spirit (Putrid)
@@ -49,4 +50,5 @@ title: Undead Spirit (Putrid)
 
 ***Rotting Claw.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d6 + 3` + the spell's level Slashing damage. If the target has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition, it has the [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) condition until the end of its next turn.
 ```
+
 ^statblock

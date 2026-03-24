@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Improvised Damage
-*Generic Hazard*  
 
+_Generic Hazard_
 
 In some cases you need to determine damage on the fly. The Improvising Damage table gives you suggestions for when you do so.
 
@@ -41,4 +41,4 @@ As the name suggests, **deadly** damage is enough to drop a character of the lev
 
 ## Sources
 
-*Dungeon Master's Guide p. 249*
+_Dungeon Master's Guide p. 249_

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Intellect Devourer
-*Source: Monster Manual p. 191*  
+
+_Source: Monster Manual p. 191_\
 ![](Mechanics/CLI/bestiary/aberration/img/intellect-devourer.webp#right)
 
 An intellect devourer resembles a walking brain protected by a crusty covering and set on bestial clawed legs. This foul aberration feeds on the intelligence of sentient creatures, taking over a victim's body on behalf of its mind flayer masters.
@@ -30,10 +31,9 @@ Mind flayers breed intellect devourers to serve as roaming hunters of the Underd
 
 An intellect devourer consumes a creature's mind and memories, then turns the host body into a puppet under its control. An intellect devourer typically uses its puppet host to lure others into the domain of the mind flayers to be enthralled or consumed.
 
-> [!quote] A quote from Qorik el-Slurrk, mind flayer  
-> 
+> [!quote] A quote from Qorik el-Slurrk, mind flayer
+>
 > Don't cry. We have no intention of eating your brain. In fact, your brain is going on a wonderful journey!
-
 
 ## Statblock
 
@@ -75,6 +75,7 @@ title: Intellect Devourer
 
 If the host body dies, the intellect devourer must leave it. A [protection from evil and good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) spell cast on the body drives the intellect devourer out. The intellect devourer is also forced out if the target regains its devoured brain by means of a [wish](Mechanics/CLI/spells/wish-xphb.md). By spending 5 feet of its movement, the intellect devourer can voluntarily leave the body, teleporting to the nearest unoccupied space within 5 feet of it. The body then dies, unless its brain is restored within 1 round.
 ```
+
 ^statblock
 
 ## Environment

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Pharaoh
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaNecromancer/Class/Pharaoh.webp#right)
 
-*Embrace Pseudo-Divinity*
+_Embrace Pseudo-Divinity_
 
 The godlike monarchs of ancient kingdoms practiced a unique style of Necromancy, forgotten to time. Through the extraction of organs, the desiccation of flesh, and innumerable enchantments, those ancient pharaohs were able to rule their subjects as divine, Undead beings, long past their mortal deaths. While those kingdoms have been lost to the shifting sands and wild jungles of the world, their methods have been preserved in the carvings of colossal temples and revived by modern Necromancers, who take on the guise of the erstwhile pharaohs. Their magic is a hybrid of divine and arcane influences, the legacy of deific monarchs from a forgotten age.
 
@@ -78,7 +79,7 @@ You can use a [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md) as a [Spell
 
 You can channel your pseudo-divinity to fuel magical effects. You start with one such effect: Ankh of Radiance, which is described below. You gain additional effect options at higher Necromancer levels. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create.
 
-You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore one use of it by expending 15 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points (no action required).
+You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore one use of it by expending 15 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points (no action required).
 
 **Ankh of Radiance.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can brandish your [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md) and bless a number of allies up to your Intelligence modifier (minimum of one) that you can see within 60 feet of you for 1 minute. The first time a blessed creature takes damage, it has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to that damage. If it took damage from a melee attack, the attacker takes `1d6` Radiant damage. The blessing then ends for that creature.
 
@@ -96,18 +97,18 @@ You can convincingly reflect the trappings of a demigod walking the earth. When 
 
 ### Scarab of Judgement (Level 10)
 
-You can expend a use of your [Channel Divinity](Mechanics/CLI/classes/necromancer-pharaoh-valdaspire24.md#Channel%20Divinity%20(Level%203)) to transfer life from the Undead to the living. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can touch one of your thralls and choose a willing Humanoid you can see within 60 feet of you. The Undead is destroyed and reduced to dust, and the Humanoid regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the Undead's [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+You can expend a use of your [Channel Divinity](Mechanics/CLI/classes/necromancer-pharaoh-valdaspire24.md#Channel%20Divinity%20\(Level%203\)) to transfer life from the Undead to the living. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can touch one of your thralls and choose a willing Humanoid you can see within 60 feet of you. The Undead is destroyed and reduced to dust, and the Humanoid regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the Undead's [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
 
 Once a creature regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) in this way, it can't do so again until it finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
-### Mummy Lord [Lichdom] (Level 20)
+### Mummy Lord \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. This entails undergoing the ancient funeral rites of the pharaohs, removing your organs and entombing your body in a sarcophagus amongst your worldly possessions. You become the oldest and most exalted type of lich: a mummy lord. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. This entails undergoing the ancient funeral rites of the pharaohs, removing your organs and entombing your body in a sarcophagus amongst your worldly possessions. You become the oldest and most exalted type of lich: a mummy lord. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Canopic Jars.** Your spirit jar is a set of four canopic jars containing your stomach, lungs, intestines, and liver. Each one has a specific weakness, which you must discuss with your GM. Your rejuvenation is only stopped when all four canopic jars are destroyed. When you are destroyed, you reform at your sarcophagus.
 
 **Magic Resistance.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
 
-**Mummy Rot.** When you deal 20 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), the target is cursed. While cursed, the target can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum doesn't return to normal when finishing a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), and its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum decreases by `3d6` every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) by this attack.
+**Mummy Rot.** When you deal 20 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target is cursed. While cursed, the target can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum doesn't return to normal when finishing a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), and its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum decreases by `3d6` every 24 hours that elapse. A creature dies and turns to dust if reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) by this attack.
 
 **Whirlwind of Sand.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can transform into a whirlwind of sand, move up to 60 feet, and revert to your normal form. While in whirlwind form, you are Immune to all damage and to the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled), [Petrified](Mechanics/CLI/rules/conditions.md#Petrified), [Prone](Mechanics/CLI/rules/conditions.md#Prone), [Restrained](Mechanics/CLI/rules/conditions.md#Restrained), and [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) conditions. Equipment you are wearing or carrying remains in your possession.

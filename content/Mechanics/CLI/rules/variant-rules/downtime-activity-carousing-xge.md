@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Carousing
-*Source: Xanathar's Guide to Everything p. 127* 
+
+_Source: Xanathar's Guide to Everything p. 127_
 
 Carousing is a default downtime activity for many characters. Between adventures, who doesn't want to relax with a few drinks and a group of friends at a tavern?
 

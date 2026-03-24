@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Young Bronze Dragon
-*Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/bronze-dragon.webp#right)
 
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
@@ -126,6 +127,7 @@ title: Young Bronze Dragon
 - **Lightning Breath.** The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 15 Dexterity saving throw, taking 55 (`10d10`) lightning damage on a failed save, or half as much damage on a successful one.  
 - **Repulsion Breath.** The dragon exhales repulsion energy in a 30-foot cone. Each creature in that area must succeed on a DC 15 Strength saving throw. On a failed save, the creature is pushed 40 feet away from the dragon.  
 ```
+
 ^statblock
 
 ## Environment

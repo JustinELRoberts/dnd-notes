@@ -17,11 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Drow House Captain
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 101*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 101_\
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-house-captain.webp#right)
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > House captains will do anything to protect their family—whether that's their birth house or their platoon of scrappy rebels. I'd do anything for my (sometimes infuriating) mother and for my chosen family, so I admire their dedication.
 
 A drow house captain leads the troops of an Underdark faction, whether defending a stronghold or leading forces against enemies. These officers make extensive study of strategy and tactics to become effective leaders in battle.
@@ -79,6 +80,7 @@ title: Drow House Captain
 
 ***Parry.*** The drow adds 3 to its AC against one melee attack roll that would hit it. To do so, the drow must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock
 
 ## Environment

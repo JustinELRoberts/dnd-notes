@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Potion of Resurrection
-*Potion, very rare*  
 
-
+_Potion, very rare_
 
 You can administer this potion to a dead creature as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). The creature gains the effect of the [Raise Dead](Mechanics/CLI/spells/raise-dead-xphb.md) spell.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

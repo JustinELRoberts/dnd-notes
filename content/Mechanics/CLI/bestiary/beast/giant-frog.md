@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Frog
-*Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-frog.webp#center)
 
 ```ad-statblock
@@ -53,6 +54,7 @@ title: Giant Frog
 
 ***Swallow.*** The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) and [restrained](Mechanics/CLI/rules/conditions.md#Restrained), it has total cover against attacks and other effects outside the frog, and it takes 5 (`2d4`) acid damage at the start of each of the frog's turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by it and can escape from the corpse using 5 feet of movement, exiting [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

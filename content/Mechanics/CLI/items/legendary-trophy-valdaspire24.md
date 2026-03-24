@@ -15,15 +15,15 @@ obsidianUIMode: preview
 ---
 
 # Legendary Trophy
-*Monstrous graft, rare*  
 
+_Monstrous graft, rare_
 
 - **Properties**: [Any Slot](Mechanics/CLI/rules/item-properties.md#Any%20Slot)
 
-*Donor: Any Creature with Legendary Actions*
+_Donor: Any Creature with Legendary Actions_
 
 You can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to display this trophy-graft and give yourself and each of your allies within 30 feet of yourself [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md).
 
 Once you activate this graft, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

@@ -22,8 +22,8 @@ classes:
 ---
 
 # Chaos Bolt
-*1st-level, Evocation*  
 
+_1st-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -54,4 +54,4 @@ A creature can be targeted only once by each casting of this spell.
 
 **Classes**: [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Xanathar's Guide to Everything p. 151*
+_Source: Xanathar's Guide to Everything p. 151_

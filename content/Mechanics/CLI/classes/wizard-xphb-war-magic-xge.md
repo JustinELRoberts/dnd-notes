@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # War Magic
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Xanathar's Guide to Everything p. 59*  
+
+_[Wizard](./wizard-xphb.md): Wizard Subclass_\
+_Source: Xanathar's Guide to Everything p. 59_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

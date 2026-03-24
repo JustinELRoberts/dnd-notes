@@ -25,8 +25,8 @@ classes:
 ---
 
 # Awaken
-*5th-level, Transmutation*  
 
+_5th-level, Transmutation_
 
 - **Casting time:** 8 hours
 - **Range:** Touch
@@ -39,4 +39,4 @@ The awakened target has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed)
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dwarf Names – Female
-*Source: Xanathar's Guide to Everything p. 176* 
+
+_Source: Xanathar's Guide to Everything p. 176_
 
 **Dwarf Names – Female**
 

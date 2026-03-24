@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Desert Encounters (Levels 17—20)
-*Source: Xanathar's Guide to Everything p. 95* 
+
+_Source: Xanathar's Guide to Everything p. 95_
 
 **Desert Encounters (Levels 17—20)**
 
@@ -27,7 +28,7 @@ obsidianUIMode: preview
 | 23-25 | An abandoned city made from white marble, empty during the day. At night, harmless apparitions roam the streets, replaying the final moments of their lives. |
 | 26-30 | `1d3` [young blue dragons](Mechanics/CLI/bestiary/dragon/young-blue-dragon.md) |
 | 31-35 | 1 [mummy lord](Mechanics/CLI/bestiary/undead/mummy-lord.md) |
-| 36-40 | `1d4` hours of extreme heat (see chapter 5 of the *Dungeon Master's Guide*) |
+| 36-40 | `1d4` hours of extreme heat (see chapter 5 of the _Dungeon Master's Guide_) |
 | 41-50 | `1d3` [guardian nagas](Mechanics/CLI/bestiary/monstrosity/guardian-naga.md) |
 | 51-60 | `1d4` [efreet](Mechanics/CLI/bestiary/elemental/efreeti.md) |
 | 61-63 | An old signpost identifying a single destination, called Pazar |

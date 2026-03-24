@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Chapter 6: Equipment
-*Source: Player's Handbook (2024), p. 213* 
+
+_Source: Player's Handbook (2024), p. 213_
 
 ![In the skies of Eberron, t...](Mechanics/CLI/books/players-handbook-2024/img/168-07-001-inventor-vi.webp#center "In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!")
 
@@ -28,19 +29,19 @@ A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 ![Coins; Coin Values](Mechanics/CLI/tables/coins-coin-values-xphb.md)
 
 > [!note] Selling Equipment
-> 
-> Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The *Dungeon Master's Guide* has prices for magic items.
-^selling-equipment
+>
+> Equipment fetches half its cost when sold. In contrast, trade goods and valuables—like gems and art objects—retain their full value in the marketplace. The _Dungeon Master's Guide_ has prices for magic items.
+> ^selling-equipment
 
 ## Weapons
 
 The Weapons table in this section shows the game's main weapons. The table lists the cost and weight of each weapon, as well as the following details:
 
-- **Category.** Every weapon falls into a category: Simple or Martial. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.  
-- **Melee or Ranged.** A weapon is classified as either Melee or Ranged. A Melee weapon is used to attack a target within 5 feet, whereas a Ranged weapon is used to attack at a greater distance.  
-- **Damage.** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.  
-- **Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the ""Properties"" section.  
-- **Mastery.** Each weapon has a mastery property, which is defined in the ""Mastery Properties"" section later in this chapter. To use that property, you must have a feature that lets you use it.  
+- **Category.** Every weapon falls into a category: Simple or Martial. Weapon proficiencies are usually tied to one of these categories. For example, you might have proficiency with Simple weapons.
+- **Melee or Ranged.** A weapon is classified as either Melee or Ranged. A Melee weapon is used to attack a target within 5 feet, whereas a Ranged weapon is used to attack at a greater distance.
+- **Damage.** The table lists the amount of damage a weapon deals when an attacker hits with it as well as the type of that damage.
+- **Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the ""Properties"" section.
+- **Mastery.** Each weapon has a mastery property, which is defined in the ""Mastery Properties"" section later in this chapter. To use that property, you must have a feature that lets you use it.
 
 ![Weapons](Mechanics/CLI/tables/weapons-xphb.md)
 
@@ -73,9 +74,9 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 You have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 > [!note] Improvised Weapons
-> 
+>
 > If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[Improvised Weapons](Mechanics/CLI/rules/variant-rules/improvised-weapons-xphb.md)" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
-^improvised-weapons
+> ^improvised-weapons
 
 #### Light
 
@@ -145,12 +146,12 @@ If you hit a creature with this weapon and deal damage to the creature, you have
 
 The Armor table lists the game's main armor. The table includes the cost and weight of armor, as well as the following details:
 
-- **Category.** Every type of armor falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armor (as shown in the table).  
+- **Category.** Every type of armor falls into a category: Light, Medium, or Heavy. The category determines how long it takes to don or doff the armor (as shown in the table).
 
 **Armor Class (AC**). The table's Armor Class column tells you what your base AC is when you wear a type of armor. For example, if you wear Leather Armor, your base AC is 11 plus your Dexterity modifier, whereas your AC is 16 in Chain Mail.
 
-- **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.  
-- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks.  
+- **Strength.** If the table shows a Strength score in the Strength column for an armor type, that armor reduces the wearer's speed by 10 feet unless the wearer has a Strength score equal to or higher than the listed score.
+- **Stealth.** If the table shows "Disadvantage" in the Stealth column for an armor type, the wearer has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks.
 
 ![Armor](Mechanics/CLI/tables/armor-xphb.md)
 
@@ -177,22 +178,22 @@ You gain the Armor Class benefit of a Shield only if you have training with it.
 A creature can wear only one suit of armor at a time and wield only one Shield at a time.
 
 > [!note] Variant: Equipment Sizes
-> 
+>
 > In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, an orc adventurer won't fit in a halfling's Leather Armor, and a cloud giant's robe would be far too large for a gnome.
-> 
+>
 > The DM can impose more realism. For example, a suit of Plate Armor made for one human might not fit another one without significant alterations, and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
-> 
+>
 > Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit a smith, a tailor, a leatherworker, or a similar expert to make the item wearable. The cost for such work is `1d4 × 10` percent of the market price of the item.
-^variant-equipment-sizes
+> ^variant-equipment-sizes
 
 ## Tools
 
 A tool helps you make specialized ability checks, craft certain items, or both. A tool's description includes the tool's cost and weight, as well as the following entries:
 
-- **Ability.** This entry lists the ability to use when making an ability check with the tool.  
-- **Utilize.** This entry lists things you can do with the tool when you take the [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action. You can do one of those things each time you take the action. This entry also provides the DC for the action.  
-- **Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see ""Crafting Equipment"" later in the chapter.  
-- **Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.  
+- **Ability.** This entry lists the ability to use when making an ability check with the tool.
+- **Utilize.** This entry lists things you can do with the tool when you take the [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action. You can do one of those things each time you take the action. This entry also provides the DC for the action.
+- **Craft.** This entry lists what, if anything, you can craft with the tool. For crafting rules, see ""Crafting Equipment"" later in the chapter.
+- **Variants.** This entry appears if the tool has variants, which are listed. Each requires a separate proficiency.
 
 ![](Mechanics/CLI/books/players-handbook-2024/img/176-07-002-tools.webp#center)
 
@@ -208,122 +209,122 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each of
 
 #### Alchemist's Supplies (50 GP)
 
-- **Ability.** Intelligence  
-- **Weight.** 8 lb.  
-- **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [Acid](Mechanics/CLI/items/acid-xphb.md), [Alchemist's Fire](Mechanics/CLI/items/alchemists-fire-xphb.md), [Component Pouch](Mechanics/CLI/items/component-pouch-xphb.md), [Oil](Mechanics/CLI/items/oil-xphb.md), [Paper](Mechanics/CLI/items/paper-xphb.md), [Perfume](Mechanics/CLI/items/perfume-xphb.md)  
+- **Ability.** Intelligence
+- **Weight.** 8 lb.
+- **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)
+- **Craft.** [Acid](Mechanics/CLI/items/acid-xphb.md), [Alchemist's Fire](Mechanics/CLI/items/alchemists-fire-xphb.md), [Component Pouch](Mechanics/CLI/items/component-pouch-xphb.md), [Oil](Mechanics/CLI/items/oil-xphb.md), [Paper](Mechanics/CLI/items/paper-xphb.md), [Perfume](Mechanics/CLI/items/perfume-xphb.md)
 
 #### Brewer's Supplies (20 GP)
 
-- **Ability.** Intelligence  
-- **Weight.** 9 lb.  
-- **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
-- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md)  
+- **Ability.** Intelligence
+- **Weight.** 9 lb.
+- **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)
+- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md)
 
 #### Calligrapher's Supplies (10 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
-- **Craft.** [Ink](Mechanics/CLI/items/ink-xphb.md), Spell Scroll  
+- **Ability.** Dexterity
+- **Weight.** 5 lb.
+- **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)
+- **Craft.** [Ink](Mechanics/CLI/items/ink-xphb.md), Spell Scroll
 
 #### Carpenter's Tools (8 GP)
 
-- **Ability.** Strength  
-- **Weight.** 6 lb.  
-- **Utilize.** Seal or pry open a door or container (DC 20)  
-- **Craft.** [Club](Mechanics/CLI/items/club-xphb.md), [Greatclub](Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md), [Barrel](Mechanics/CLI/items/barrel-xphb.md), [Chest](Mechanics/CLI/items/chest-xphb.md), [Ladder](Mechanics/CLI/items/ladder-xphb.md), [Pole](Mechanics/CLI/items/pole-xphb.md), [Portable Ram](Mechanics/CLI/items/portable-ram-xphb.md), [Torch](Mechanics/CLI/items/torch-xphb.md)  
+- **Ability.** Strength
+- **Weight.** 6 lb.
+- **Utilize.** Seal or pry open a door or container (DC 20)
+- **Craft.** [Club](Mechanics/CLI/items/club-xphb.md), [Greatclub](Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md), [Barrel](Mechanics/CLI/items/barrel-xphb.md), [Chest](Mechanics/CLI/items/chest-xphb.md), [Ladder](Mechanics/CLI/items/ladder-xphb.md), [Pole](Mechanics/CLI/items/pole-xphb.md), [Portable Ram](Mechanics/CLI/items/portable-ram-xphb.md), [Torch](Mechanics/CLI/items/torch-xphb.md)
 
 #### Cartographer's Tools (15 GP)
 
-- **Ability.** Wisdom  
-- **Weight.** 6 lb.  
-- **Utilize.** Draft a map of a small area (DC 15)  
-- **Craft.** [Map](Mechanics/CLI/items/map-xphb.md)  
+- **Ability.** Wisdom
+- **Weight.** 6 lb.
+- **Utilize.** Draft a map of a small area (DC 15)
+- **Craft.** [Map](Mechanics/CLI/items/map-xphb.md)
 
 #### Cobbler's Tools (5 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Modify footwear to give [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the wearer's next Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check (DC 10)  
-- **Craft.** [Climber's Kit](Mechanics/CLI/items/climbers-kit-xphb.md)  
+- **Ability.** Dexterity
+- **Weight.** 5 lb.
+- **Utilize.** Modify footwear to give [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the wearer's next Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check (DC 10)
+- **Craft.** [Climber's Kit](Mechanics/CLI/items/climbers-kit-xphb.md)
 
 #### Cook's Utensils (1 GP)
 
-- **Ability.** Wisdom  
-- **Weight.** 8 lb.  
-- **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)  
-- **Craft.** [Rations](Mechanics/CLI/items/rations-xphb.md)  
+- **Ability.** Wisdom
+- **Weight.** 8 lb.
+- **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)
+- **Craft.** [Rations](Mechanics/CLI/items/rations-xphb.md)
 
 #### Glassblower's Tools (30 GP)
 
-- **Ability.** Intelligence  
-- **Weight.** 5 lb.  
-- **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [Glass Bottle](Mechanics/CLI/items/glass-bottle-xphb.md), [Magnifying Glass](Mechanics/CLI/items/magnifying-glass-xphb.md), [Spyglass](Mechanics/CLI/items/spyglass-xphb.md), [Vial](Mechanics/CLI/items/vial-xphb.md)  
+- **Ability.** Intelligence
+- **Weight.** 5 lb.
+- **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)
+- **Craft.** [Glass Bottle](Mechanics/CLI/items/glass-bottle-xphb.md), [Magnifying Glass](Mechanics/CLI/items/magnifying-glass-xphb.md), [Spyglass](Mechanics/CLI/items/spyglass-xphb.md), [Vial](Mechanics/CLI/items/vial-xphb.md)
 
 #### Jeweler's Tools (25 GP)
 
-- **Ability.** Intelligence  
-- **Weight.** 2 lb.  
-- **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md)  
+- **Ability.** Intelligence
+- **Weight.** 2 lb.
+- **Utilize.** Discern a gem's value (DC 15)
+- **Craft.** [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md)
 
 #### Leatherworker's Tools (5 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [Sling](Mechanics/CLI/items/sling-xphb.md), [Whip](Mechanics/CLI/items/whip-xphb.md), [Hide Armor](Mechanics/CLI/items/hide-armor-xphb.md), [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Backpack](Mechanics/CLI/items/backpack-xphb.md), [Crossbow Bolt Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](Mechanics/CLI/items/map-or-scroll-case-xphb.md), [Parchment](Mechanics/CLI/items/parchment-xphb.md), [Pouch](Mechanics/CLI/items/pouch-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Waterskin](Mechanics/CLI/items/waterskin-xphb.md)  
+- **Ability.** Dexterity
+- **Weight.** 5 lb.
+- **Utilize.** Add a design to a leather item (DC 10)
+- **Craft.** [Sling](Mechanics/CLI/items/sling-xphb.md), [Whip](Mechanics/CLI/items/whip-xphb.md), [Hide Armor](Mechanics/CLI/items/hide-armor-xphb.md), [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Backpack](Mechanics/CLI/items/backpack-xphb.md), [Crossbow Bolt Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Map or Scroll Case](Mechanics/CLI/items/map-or-scroll-case-xphb.md), [Parchment](Mechanics/CLI/items/parchment-xphb.md), [Pouch](Mechanics/CLI/items/pouch-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Waterskin](Mechanics/CLI/items/waterskin-xphb.md)
 
 #### Mason's Tools (10 GP)
 
-- **Ability.** Strength  
-- **Weight.** 8 lb.  
-- **Utilize.** Chisel a symbol or hole in stone (DC 10)  
-- **Craft.** [Block and Tackle](Mechanics/CLI/items/block-and-tackle-xphb.md)  
+- **Ability.** Strength
+- **Weight.** 8 lb.
+- **Utilize.** Chisel a symbol or hole in stone (DC 10)
+- **Craft.** [Block and Tackle](Mechanics/CLI/items/block-and-tackle-xphb.md)
 
 #### Painter's Supplies (10 GP)
 
-- **Ability.** Wisdom  
-- **Weight.** 5 lb.  
-- **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
-- **Craft.** [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md)  
+- **Ability.** Wisdom
+- **Weight.** 5 lb.
+- **Utilize.** Paint a recognizable image of something you've seen (DC 10)
+- **Craft.** [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md)
 
 #### Potter's Tools (10 GP)
 
-- **Ability.** Intelligence  
-- **Weight.** 3 lb.  
-- **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [Jug](Mechanics/CLI/items/jug-xphb.md), [Lamp](Mechanics/CLI/items/lamp-xphb.md)  
+- **Ability.** Intelligence
+- **Weight.** 3 lb.
+- **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)
+- **Craft.** [Jug](Mechanics/CLI/items/jug-xphb.md), [Lamp](Mechanics/CLI/items/lamp-xphb.md)
 
 #### Smith's Tools (20 GP)
 
-- **Ability.** Strength  
-- **Weight.** 8 lb.  
-- **Utilize.** Pry open a door or container (DC 20)  
-- **Craft.** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, [Ball Bearings](Mechanics/CLI/items/ball-bearings-xphb.md), [Bucket](Mechanics/CLI/items/bucket-xphb.md), [Caltrops](Mechanics/CLI/items/caltrops-xphb.md), [Chain](Mechanics/CLI/items/chain-xphb.md), [Crowbar](Mechanics/CLI/items/crowbar-xphb.md), [Firearm Bullets](Mechanics/CLI/items/firearm-bullets-10-xphb.md), [Grappling Hook](Mechanics/CLI/items/grappling-hook-xphb.md), [Iron Pot](Mechanics/CLI/items/iron-pot-xphb.md), [Iron Spikes](Mechanics/CLI/items/iron-spikes-xphb.md), [Sling Bullets](Mechanics/CLI/items/sling-bullet-xphb.md)  
+- **Ability.** Strength
+- **Weight.** 8 lb.
+- **Utilize.** Pry open a door or container (DC 20)
+- **Craft.** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, [Ball Bearings](Mechanics/CLI/items/ball-bearings-xphb.md), [Bucket](Mechanics/CLI/items/bucket-xphb.md), [Caltrops](Mechanics/CLI/items/caltrops-xphb.md), [Chain](Mechanics/CLI/items/chain-xphb.md), [Crowbar](Mechanics/CLI/items/crowbar-xphb.md), [Firearm Bullets](Mechanics/CLI/items/firearm-bullets-10-xphb.md), [Grappling Hook](Mechanics/CLI/items/grappling-hook-xphb.md), [Iron Pot](Mechanics/CLI/items/iron-pot-xphb.md), [Iron Spikes](Mechanics/CLI/items/iron-spikes-xphb.md), [Sling Bullets](Mechanics/CLI/items/sling-bullet-xphb.md)
 
 #### Tinker's Tools (50 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 10 lb.  
-- **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-- **Craft.** [Musket](Mechanics/CLI/items/musket-xphb.md), [Pistol](Mechanics/CLI/items/pistol-xphb.md), [Bell](Mechanics/CLI/items/bell-xphb.md), [Bullseye Lantern](Mechanics/CLI/items/bullseye-lantern-xphb.md), [Flask](Mechanics/CLI/items/flask-xphb.md), [Hooded Lantern](Mechanics/CLI/items/hooded-lantern-xphb.md), [Hunter's Trap](Mechanics/CLI/items/hunting-trap-xphb.md), [Lock](Mechanics/CLI/items/lock-xphb.md), [Manacles](Mechanics/CLI/items/manacles-xphb.md), [Mirror](Mechanics/CLI/items/mirror-xphb.md), [Shovel](Mechanics/CLI/items/shovel-xphb.md), [Signal Whistle](Mechanics/CLI/items/signal-whistle-xphb.md), [Tinderbox](Mechanics/CLI/items/tinderbox-xphb.md)  
+- **Ability.** Dexterity
+- **Weight.** 10 lb.
+- **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)
+- **Craft.** [Musket](Mechanics/CLI/items/musket-xphb.md), [Pistol](Mechanics/CLI/items/pistol-xphb.md), [Bell](Mechanics/CLI/items/bell-xphb.md), [Bullseye Lantern](Mechanics/CLI/items/bullseye-lantern-xphb.md), [Flask](Mechanics/CLI/items/flask-xphb.md), [Hooded Lantern](Mechanics/CLI/items/hooded-lantern-xphb.md), [Hunter's Trap](Mechanics/CLI/items/hunting-trap-xphb.md), [Lock](Mechanics/CLI/items/lock-xphb.md), [Manacles](Mechanics/CLI/items/manacles-xphb.md), [Mirror](Mechanics/CLI/items/mirror-xphb.md), [Shovel](Mechanics/CLI/items/shovel-xphb.md), [Signal Whistle](Mechanics/CLI/items/signal-whistle-xphb.md), [Tinderbox](Mechanics/CLI/items/tinderbox-xphb.md)
 
 #### Weaver's Tools (1 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
-- **Craft.** [Padded Armor](Mechanics/CLI/items/padded-armor-xphb.md), [Basket](Mechanics/CLI/items/basket-xphb.md), [Bedroll](Mechanics/CLI/items/bedroll-xphb.md), [Blanket](Mechanics/CLI/items/blanket-xphb.md), [Fine Clothes](Mechanics/CLI/items/fine-clothes-xphb.md), [Net](Mechanics/CLI/items/net-xphb.md), [Robe](Mechanics/CLI/items/robe-xphb.md), [Rope](Mechanics/CLI/items/rope-xphb.md), [Sack](Mechanics/CLI/items/sack-xphb.md), [String](Mechanics/CLI/items/string-xphb.md), [Tent](Mechanics/CLI/items/tent-xphb.md), [Traveler's Clothes](Mechanics/CLI/items/travelers-clothes-xphb.md)  
+- **Ability.** Dexterity
+- **Weight.** 5 lb.
+- **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)
+- **Craft.** [Padded Armor](Mechanics/CLI/items/padded-armor-xphb.md), [Basket](Mechanics/CLI/items/basket-xphb.md), [Bedroll](Mechanics/CLI/items/bedroll-xphb.md), [Blanket](Mechanics/CLI/items/blanket-xphb.md), [Fine Clothes](Mechanics/CLI/items/fine-clothes-xphb.md), [Net](Mechanics/CLI/items/net-xphb.md), [Robe](Mechanics/CLI/items/robe-xphb.md), [Rope](Mechanics/CLI/items/rope-xphb.md), [Sack](Mechanics/CLI/items/sack-xphb.md), [String](Mechanics/CLI/items/string-xphb.md), [Tent](Mechanics/CLI/items/tent-xphb.md), [Traveler's Clothes](Mechanics/CLI/items/travelers-clothes-xphb.md)
 
 #### Woodcarver's Tools (1 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [Club](Mechanics/CLI/items/club-xphb.md), [Greatclub](Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md), Ranged weapons (except Pistol, Musket, and Sling), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md), [Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Bolts](Mechanics/CLI/items/bolts-20-xphb.md), [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md), [Ink Pen](Mechanics/CLI/items/ink-pen-xphb.md), [Needles](Mechanics/CLI/items/needles-50-xphb.md)  
+- **Ability.** Dexterity
+- **Weight.** 5 lb.
+- **Utilize.** Carve a pattern in wood (DC 10)
+- **Craft.** [Club](Mechanics/CLI/items/club-xphb.md), [Greatclub](Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md), Ranged weapons (except Pistol, Musket, and Sling), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md), [Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Bolts](Mechanics/CLI/items/bolts-20-xphb.md), [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md), [Ink Pen](Mechanics/CLI/items/ink-pen-xphb.md), [Needles](Mechanics/CLI/items/needles-50-xphb.md)
 
 ### Other Tools
 
@@ -331,56 +332,56 @@ These tools support adventure and other pursuits.
 
 #### Disguise Kit (25 GP)
 
-- **Ability.** Charisma  
-- **Weight.** 3 lb.  
-- **Utilize.** Apply makeup (DC 10)  
-- **Craft.** [Costume](Mechanics/CLI/items/costume-xphb.md)  
+- **Ability.** Charisma
+- **Weight.** 3 lb.
+- **Utilize.** Apply makeup (DC 10)
+- **Craft.** [Costume](Mechanics/CLI/items/costume-xphb.md)
 
 #### Forgery Kit (15 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)  
+- **Ability.** Dexterity
+- **Weight.** 5 lb.
+- **Utilize.** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)
 
 #### Gaming Set (Varies)
 
-- **Ability.** Wisdom  
-- **Weight.** —  
-- **Utilize.** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
-- **Variants.** [Dice](Mechanics/CLI/items/dice-set-xphb.md) (1 SP), [dragonchess](Mechanics/CLI/items/dragonchess-set-xphb.md) (1 GP), [playing cards](Mechanics/CLI/items/playing-cards-xphb.md) (5 SP), [three-dragon ante](Mechanics/CLI/items/three-dragon-ante-set-xphb.md) (1 GP)  
+- **Ability.** Wisdom
+- **Weight.** —
+- **Utilize.** Discern whether someone is cheating (DC 10), or win the game (DC 20)
+- **Variants.** [Dice](Mechanics/CLI/items/dice-set-xphb.md) (1 SP), [dragonchess](Mechanics/CLI/items/dragonchess-set-xphb.md) (1 GP), [playing cards](Mechanics/CLI/items/playing-cards-xphb.md) (5 SP), [three-dragon ante](Mechanics/CLI/items/three-dragon-ante-set-xphb.md) (1 GP)
 
 #### Herbalism Kit (5 GP)
 
-- **Ability.** Intelligence  
-- **Weight.** 3 lb.  
-- **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md), [Candle](Mechanics/CLI/items/candle-xphb.md), [Healer's Kit](Mechanics/CLI/items/healers-kit-xphb.md), [Potion of Healing](Mechanics/CLI/items/potion-of-healing-xdmg.md)  
+- **Ability.** Intelligence
+- **Weight.** 3 lb.
+- **Utilize.** Identify a plant (DC 10)
+- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md), [Candle](Mechanics/CLI/items/candle-xphb.md), [Healer's Kit](Mechanics/CLI/items/healers-kit-xphb.md), [Potion of Healing](Mechanics/CLI/items/potion-of-healing-xdmg.md)
 
 #### Musical Instrument (Varies)
 
-- **Ability.** Charisma  
-- **Weight.** Varies  
-- **Utilize.** Play a known tune (DC 10), or improvise a song (DC 15)  
-- **Variants.** [Bagpipes](Mechanics/CLI/items/bagpipes-xphb.md) (30 GP, 6 lb.), [drum](Mechanics/CLI/items/drum-xphb.md) (6 GP, 3 lb.), [dulcimer](Mechanics/CLI/items/dulcimer-xphb.md) (25 GP, 10 lb.), [flute](Mechanics/CLI/items/flute-xphb.md) (2 GP, 1 lb.), horn (3 GP, 2 lb.), [lute](Mechanics/CLI/items/lute-xphb.md) (35 GP, 2 lb.), [lyre](Mechanics/CLI/items/lyre-xphb.md) (30 GP, 2 lb.), [pan flute](Mechanics/CLI/items/pan-flute-xphb.md) (12 GP, 2 lb.), [shawm](Mechanics/CLI/items/shawm-xphb.md) (2 GP, 1 lb.), [viol](Mechanics/CLI/items/viol-xphb.md) (30 GP, 1 lb.)  
+- **Ability.** Charisma
+- **Weight.** Varies
+- **Utilize.** Play a known tune (DC 10), or improvise a song (DC 15)
+- **Variants.** [Bagpipes](Mechanics/CLI/items/bagpipes-xphb.md) (30 GP, 6 lb.), [drum](Mechanics/CLI/items/drum-xphb.md) (6 GP, 3 lb.), [dulcimer](Mechanics/CLI/items/dulcimer-xphb.md) (25 GP, 10 lb.), [flute](Mechanics/CLI/items/flute-xphb.md) (2 GP, 1 lb.), horn (3 GP, 2 lb.), [lute](Mechanics/CLI/items/lute-xphb.md) (35 GP, 2 lb.), [lyre](Mechanics/CLI/items/lyre-xphb.md) (30 GP, 2 lb.), [pan flute](Mechanics/CLI/items/pan-flute-xphb.md) (12 GP, 2 lb.), [shawm](Mechanics/CLI/items/shawm-xphb.md) (2 GP, 1 lb.), [viol](Mechanics/CLI/items/viol-xphb.md) (30 GP, 1 lb.)
 
 #### Navigator's Tools (25 GP)
 
-- **Ability.** Wisdom  
-- **Weight.** 2 lb.  
-- **Utilize.** Plot a course (DC 10), or determine position by stargazing (DC 15)  
+- **Ability.** Wisdom
+- **Weight.** 2 lb.
+- **Utilize.** Plot a course (DC 10), or determine position by stargazing (DC 15)
 
 #### Poisoner's Kit (50 GP)
 
-- **Ability.** Intelligence  
-- **Weight.** 2 lb.  
-- **Utilize.** Detect a poisoned object (DC 10)  
-- **Craft.** [Basic Poison](Mechanics/CLI/items/basic-poison-xphb.md)  
+- **Ability.** Intelligence
+- **Weight.** 2 lb.
+- **Utilize.** Detect a poisoned object (DC 10)
+- **Craft.** [Basic Poison](Mechanics/CLI/items/basic-poison-xphb.md)
 
 #### Thieves' Tools (25 GP)
 
-- **Ability.** Dexterity  
-- **Weight.** 1 lb.  
-- **Utilize.** Pick a lock (DC 15), or disarm a trap (DC 15)  
+- **Ability.** Dexterity
+- **Weight.** 1 lb.
+- **Utilize.** Pick a lock (DC 15), or disarm a trap (DC 15)
 
 ## Adventuring Gear
 
@@ -432,7 +433,7 @@ A Basket holds up to 40 pounds within 2 cubic feet.
 
 ### Bedroll (1 GP)
 
-A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the *Dungeon Master's Guide*).
+A Bedroll sleeps one Small or Medium creature. While in a Bedroll, you automatically succeed on saving throws against extreme cold (see the _Dungeon Master's Guide_).
 
 ### Bell (1 GP)
 
@@ -440,7 +441,7 @@ When rung as a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action, a Bell 
 
 ### Blanket (5 SP)
 
-While wrapped in a blanket, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against extreme cold (see the *Dungeon Master's Guide*).
+While wrapped in a blanket, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against extreme cold (see the _Dungeon Master's Guide_).
 
 ### Block and Tackle (1 GP)
 
@@ -710,7 +711,7 @@ When blown as a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action, a Sign
 
 ### Spell Scroll (Cantrip, 30 GP Level 1, 50 GP)
 
-A *Spell Scroll* (Cantrip) or *Spell Scroll* (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
+A _Spell Scroll_ (Cantrip) or _Spell Scroll_ (Level 1) is a magic item that bears the words of a cantrip or level 1 spell, respectively, determined by the scroll's creator. If the spell is on your class's spell list, you can read the scroll and cast the spell using its normal casting time and without providing any Material components.
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is +5. The scroll disintegrates when the casting is completed.
 
@@ -862,7 +863,7 @@ Most settlements contain individuals who are willing to cast spells in exchange 
 
 ## Magic Items
 
-Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in the *Dungeon Master's Guide*, since the DM decides when you find such an item. Here's what you need to know about using magic items.
+Adventures hold the promise—but not a guarantee—of finding magic items. Hundreds of magic items are detailed in the _Dungeon Master's Guide_, since the DM decides when you find such an item. Here's what you need to know about using magic items.
 
 ### Identifying a Magic Item
 

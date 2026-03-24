@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Dust Mephit
-*Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/dust-mephit.webp#right)
 
 ## Mephits
@@ -72,6 +73,7 @@ title: Dust Mephit
 
 ***Blinding Breath (Recharge 6).*** The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

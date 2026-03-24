@@ -108,13 +108,14 @@ obsidianUIMode: preview
 ---
 
 # Weapon of Warning
-*Major, uncommon (requires attunement)*  
-![Weapon of Warning (Trident)](Mechanics/CLI/items/img/weapon-of-warning.webp#right)
 
+_Major, uncommon (requires attunement)_\
+![Weapon of Warning (Trident)](Mechanics/CLI/items/img/weapon-of-warning.webp#right)
 
 This magic weapon warns you of danger. While the weapon is on your person, you have advantage on initiative rolls. In addition, you and any of your companions within 30 feet of you can't be [surprised](Mechanics/CLI/rules/conditions.md#Surprised), except when [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) by something other than nonmagical sleep. The weapon magically awakens you and your companions within range if any of you are sleeping naturally when combat begins.
 
 **Variants**:
+
 - [Antimatter Rifle of Warning](#Antimatter%20Rifle%20of%20Warning)
 - [Atlatl of Warning](#Atlatl%20of%20Warning)
 - [Automatic Pistol of Warning](#Automatic%20Pistol%20of%20Warning)
@@ -756,5 +757,4 @@ This magic weapon warns you of danger. While the weapon is on your person, you h
 - **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 213*
+_Source: Dungeon Master's Guide p. 213_

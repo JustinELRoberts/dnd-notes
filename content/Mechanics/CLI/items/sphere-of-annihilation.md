@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Sphere of Annihilation
-*Wondrous item, major, legendary*  
 
-
+_Wondrous item, major, legendary_
 
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 
@@ -36,4 +35,4 @@ If the sphere comes into contact with a planar portal, such as that created by t
 | 86-00 | A spatial rift sends each creature and object within 180 feet of the sphere, including the sphere, to a random plane of existence. |
 ^result
 
-*Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

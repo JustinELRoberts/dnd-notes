@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Arctic Encounters (Levels 5—10)
-*Source: Xanathar's Guide to Everything p. 92* 
+
+_Source: Xanathar's Guide to Everything p. 92_
 
 **Arctic Encounters (Levels 5—10)**
 
@@ -34,7 +35,7 @@ obsidianUIMode: preview
 | 54-55 | `2d4` [griffons](Mechanics/CLI/bestiary/monstrosity/griffon.md) |
 | 56-57 | `1d4` [veterans](Mechanics/CLI/bestiary/humanoid/veteran.md) |
 | 58-60 | 1 [bandit captain](Mechanics/CLI/bestiary/humanoid/bandit-captain.md) with 1 [druid](Mechanics/CLI/bestiary/humanoid/druid.md), `1d3` [berserkers](Mechanics/CLI/bestiary/humanoid/berserker.md), and `2d10 + 5` [bandits](Mechanics/CLI/bestiary/humanoid/bandit.md) |
-| 61-65 | `1d4` hours of extreme cold (see chapter 5 of the *Dungeon Master's Guide*) |
+| 61-65 | `1d4` hours of extreme cold (see chapter 5 of the _Dungeon Master's Guide_) |
 | 66-68 | 1 [young remorhaz](Mechanics/CLI/bestiary/monstrosity/young-remorhaz.md) |
 | 69-72 | 1 [orc Eye of Gruumsh](Mechanics/CLI/bestiary/humanoid/orc-eye-of-gruumsh.md) with `1d6` [orogs](Mechanics/CLI/bestiary/humanoid/orog.md) and `2d8 + 6` [orcs](Mechanics/CLI/bestiary/humanoid/orc.md) |
 | 73-75 | 1 [revenant](Mechanics/CLI/bestiary/undead/revenant.md) |

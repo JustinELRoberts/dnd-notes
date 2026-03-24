@@ -18,8 +18,8 @@ classes:
 ---
 
 # Zephyr Strike
-*1st-level, Transmutation*  
 
+_1st-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -32,4 +32,4 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 
 **Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Xanathar's Guide to Everything p. 171*
+_Source: Xanathar's Guide to Everything p. 171_

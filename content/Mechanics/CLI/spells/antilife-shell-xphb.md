@@ -27,8 +27,8 @@ classes:
 ---
 
 # Antilife Shell
-*5th-level, Abjuration*  
 
+_5th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self (10-foot Emanation)
@@ -41,4 +41,4 @@ If you move so that an affected creature is forced to pass through the barrier, 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Grave Domain)](Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Necromancer (Dead Mist Acolyte)](Mechanics/CLI/lists/list-spells-classes-dead-mist-acolyte-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

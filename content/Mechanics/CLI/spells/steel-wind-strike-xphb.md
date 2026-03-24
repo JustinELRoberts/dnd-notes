@@ -24,8 +24,8 @@ classes:
 ---
 
 # Steel Wind Strike
-*5th-level, Conjuration*  
 
+_5th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -38,4 +38,4 @@ You then teleport to an unoccupied space you can see within 5 feet of one of the
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (War Domain)](Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 320*
+_Source: Player's Handbook (2024) p. 320_

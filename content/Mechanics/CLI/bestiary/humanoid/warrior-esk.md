@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Warrior
-*Source: Essentials Kit p. 63*  
+
+_Source: Essentials Kit p. 63_
 
 ```ad-statblock
 title: Warrior
@@ -56,4 +57,5 @@ title: Warrior
 
 ***Protection (Defender Only).*** The warrior imposes disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the warrior. The warrior must be able to see the attacker.
 ```
+
 ^statblock

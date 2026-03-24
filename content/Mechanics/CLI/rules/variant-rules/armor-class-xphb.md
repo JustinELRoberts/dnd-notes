@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Armor Class
-*Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 An Armor Class (AC) is the target number for an attack roll. AC represents how difficult it is to hit a target.
 

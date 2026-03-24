@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Explosives
-*Source: Dungeon Master's Guide p. 267* 
+
+_Source: Dungeon Master's Guide p. 267_
 
 A campaign might include explosives from the Renaissance or the modern world (the latter are priceless), as presented in the Explosives table.
 

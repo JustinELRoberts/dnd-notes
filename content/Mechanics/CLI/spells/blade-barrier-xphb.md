@@ -22,8 +22,8 @@ classes:
 ---
 
 # Blade Barrier
-*6th-level, Evocation*  
 
+_6th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -36,4 +36,4 @@ Any creature in the wall's space makes a Dexterity saving throw, taking `6d10` F
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Traps; Trap Damage Severity
-*Source: Dungeon Master's Guide p. 297* 
+
+_Source: Dungeon Master's Guide p. 297_
 
 **Trap Damage Severity**
 

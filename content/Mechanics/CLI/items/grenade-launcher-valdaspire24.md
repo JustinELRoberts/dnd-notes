@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Grenade Launcher
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d8 fire
 - **Range**: 40/160
@@ -25,4 +25,4 @@ obsidianUIMode: preview
 - **Cost**: 1,000 gp
 - **Weight**: 10.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

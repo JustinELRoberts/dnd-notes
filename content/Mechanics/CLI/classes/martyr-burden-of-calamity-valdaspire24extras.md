@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Calamity
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Leave Catastrophic Plagues and Disasters in Your Wake*
+_Leave Catastrophic Plagues and Disasters in Your Wake_
 
 A grim task awaits those shouldering the Burden of Calamity. These Martyrs spark wars, conjure floods, raise plagues of locusts, call down fire and brimstone, and set apocalypses in motion. As benevolent as the gods might seem, their mercy is tempered with disasters such as these, events that the gods deem necessary to cleanse unjust societies or wipe the slate clean for new advancements. Martyrs of Calamity are therefore harbingers of doom, the first omen of terrible things to follow.
 

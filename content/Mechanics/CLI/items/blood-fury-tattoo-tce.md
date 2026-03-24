@@ -16,9 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Blood Fury Tattoo
-*Wondrous item (tattoo), legendary (requires attunement)*  
 
-
+_Wondrous item (tattoo), legendary (requires attunement)_
 
 Produced by a special needle, this magic tattoo evokes fury in its form and colors.
 
@@ -32,7 +31,7 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 The tattoo has 10 charges, and it regains all expended charges daily at dawn. While this tattoo is on your skin, you gain the following benefits:
 
-- When you hit a creature with a weapon attack, you can expend a charge to deal an extra `4d6` necrotic damage to the target, and you regain a number of hit points equal to the necrotic damage dealt.  
-- When a creature you can see damages you, you can expend a charge and use your reaction to make a melee attack against that creature, with advantage on your attack roll.  
+- When you hit a creature with a weapon attack, you can expend a charge to deal an extra `4d6` necrotic damage to the target, and you regain a number of hit points equal to the necrotic damage dealt.
+- When a creature you can see damages you, you can expend a charge and use your reaction to make a melee attack against that creature, with advantage on your attack roll.
 
-*Source: Tasha's Cauldron of Everything p. 122*
+_Source: Tasha's Cauldron of Everything p. 122_

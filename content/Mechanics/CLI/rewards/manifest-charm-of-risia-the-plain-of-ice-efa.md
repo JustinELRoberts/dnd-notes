@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Manifest Charm of Risia, the Plain of Ice
-*Charm*  
 
+_Charm_
 
 When you use a spell slot to cast a spell that deals Cold damage, you can expend the Charm (no action required) to treat the spell as if it were cast using a spell slot 1 level above the slot expended.
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 50*
+_Eberron: Forge of the Artificer p. 50_

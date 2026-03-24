@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drow Priestess of Lolth (Magic Equipment)
-*Source: Monster Manual p. 129*  
+
+_Source: Monster Manual p. 129_
 
 ```ad-statblock
 title: Drow Priestess of Lolth (Magic Equipment)
@@ -74,6 +75,7 @@ title: Drow Priestess of Lolth (Magic Equipment)
 
 ***Summon Demon (1/Day).*** The drow attempts to magically summon a [yochlol](Mechanics/CLI/bestiary/fiend/yochlol.md) with a 30 percent chance of success. If the attempt fails, the drow takes 5 (`1d10`) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 ```
+
 ^statblock
 
 ## Environment

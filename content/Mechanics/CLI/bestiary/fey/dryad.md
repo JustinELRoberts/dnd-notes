@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Dryad
-*Source: Monster Manual p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fey/img/dryad.webp#right)
 
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
@@ -87,6 +88,7 @@ Each time the dryad or its allies do anything harmful to the target, it can repe
 
 The dryad can have no more than one humanoid and up to three beasts [charmed](Mechanics/CLI/rules/conditions.md#Charmed) at a time.
 ```
+
 ^statblock
 
 ## Environment

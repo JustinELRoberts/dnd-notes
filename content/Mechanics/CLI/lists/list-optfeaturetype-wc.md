@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Witch's Curse
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Burned](Mechanics/CLI/optional-features/burned-valdaspire24.md)
 - [Drowned](Mechanics/CLI/optional-features/drowned-valdaspire24.md)

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Lamia
-*Source: Monster Manual p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/lamia.webp#right)
 
 Ruined desert cities and the tombs of forgotten monarchs make perfect lairs for the wicked lamias. These decadent monsters take what has been forgotten and make it the seat of their hedonistic rule, surrounding themselves with sycophants. Lamias rely on [jackalweres](Mechanics/CLI/bestiary/humanoid/jackalwere.md) to perform various tasks, sending them across the wastes to capture slaves or steal treasures from caravans, encampments, or villages, concealed by the lamia's magic as they attack.
@@ -85,6 +86,7 @@ title: Lamia
 
 ***Intoxicating Touch.*** *Melee Spell Attack:* `+5` to hit, reach 5 ft., one creature. *Hit:* The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.
 ```
+
 ^statblock
 
 ## Environment

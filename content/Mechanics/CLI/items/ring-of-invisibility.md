@@ -17,10 +17,10 @@ obsidianUIMode: preview
 ---
 
 # Ring of Invisibility
-*Ring, major, legendary (requires attunement)*  
-![](Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
 
+_Ring, major, legendary (requires attunement)_\
+![](Mechanics/CLI/items/img/ring-of-invisibility.webp#right)
 
 While wearing this ring, you can turn [invisible](Mechanics/CLI/rules/conditions.md#Invisible) as an action. Anything you are wearing or carrying is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with you. You remain [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until the ring is removed, until you attack or cast a spell, or until you use a bonus action to become visible again.
 
-*Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

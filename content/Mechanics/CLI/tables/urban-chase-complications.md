@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Urban Chase Complications
-*Source: Dungeon Master's Guide p. 253* 
+
+_Source: Dungeon Master's Guide p. 253_
 
 **Urban Chase Complications**
 

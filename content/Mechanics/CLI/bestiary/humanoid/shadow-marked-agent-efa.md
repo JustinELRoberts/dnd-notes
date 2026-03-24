@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Shadow-Marked Agent
-*Source: Eberron: Forge of the Artificer p. 84*  
+
+_Source: Eberron: Forge of the Artificer p. 84_\
 ![](Mechanics/CLI/bestiary/humanoid/img/shadow-marked-agent.webp#right)
 
 Agents of House Phiarlan and House Thuranni, who are primarily elves, combine stealth and espionage with mastery of the performing arts—and dragonmarked heirs augment those skills with shadow magic. This stat block can serve for an agent of either house.
@@ -60,4 +61,5 @@ title: Shadow-Marked Agent
 
 ***Shadow Cloak.*** The agent has the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the start of its next turn. This invisibility ends early immediately after the agent makes an attack roll.
 ```
+
 ^statblock

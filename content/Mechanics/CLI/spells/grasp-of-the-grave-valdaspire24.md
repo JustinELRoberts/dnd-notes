@@ -18,8 +18,8 @@ classes:
 ---
 
 # Grasp of the Grave
-*4th-level, Necromancy*  
 
+_4th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -36,4 +36,4 @@ When a creature tries to leave the area, you can force it to make a Strength sav
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

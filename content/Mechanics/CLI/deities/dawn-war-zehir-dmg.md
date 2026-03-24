@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Zehir
 
-
 - **Alignment**: Chaotic Evil
 - **Domains**: Trickery, Death
 - **Pantheon**: Dawn War
 - **Symbol**: Snake in the shape of a dagger
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

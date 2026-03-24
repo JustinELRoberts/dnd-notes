@@ -31,8 +31,8 @@ classes:
 ---
 
 # Geomantic Discernment
-*3rd-level, Divination (ritual)*  
 
+_3rd-level, Divination (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self (60-foot Emanation)
@@ -43,4 +43,4 @@ You gain the ability to sense valuable minerals in a 60-foot [Emanation](Mechani
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

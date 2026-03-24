@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Fear and Horror
-*Source: Dungeon Master's Guide p. 266* 
+
+_Source: Dungeon Master's Guide p. 266_
 
 The rules for fear and horror can help you sustain an atmosphere of dread in a dark fantasy campaign.
 

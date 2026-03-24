@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Black Dragon Scale Mail
-*Medium armor, major, very rare (requires attunement)*  
 
+_Medium armor, major, very rare (requires attunement)_
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
@@ -28,4 +28,4 @@ Dragon scale mail is made of the scales of one kind of dragon. Sometimes dragons
 
 Additionally, you can focus your senses as an action to magically discern the distance and direction to the closest black dragon within 30 miles of you. This special action can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

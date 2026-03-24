@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Hunter
-*Source: Valda's Spire of Secrets (2024)*  
 
+_Source: Valda's Spire of Secrets (2024)_
 
 A hunter is a naturally skilled tracker and outlander, as comfortable in the depths of the woods as in a tavern or town.
 
@@ -70,4 +70,5 @@ title: Hunter
 
 ***Level 17.*** Kill Shot (1/Day). The hunter deals `4d10` extra damage on a hit with a Ranged weapon. If the target has 50 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or fewer after taking damage, it dies.
 ```
+
 ^statblock

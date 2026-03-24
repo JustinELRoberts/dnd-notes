@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Feylost
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -54,7 +55,7 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 
 The GM decides if a subclass should be cross-compatible in your campaign.
 
-*Master Your Magical Mood Swings*
+_Master Your Magical Mood Swings_
 
 The Feywild is a labyrinth of winding, magical paths, leading to delightful glades and nightmarish grottos alike. Mortals that wander there often become lost, vanishing for decades before returning without having aged a day. However, they return with infectious fey enchantments that sometimes overwhelm their minds and the minds of those nearby.
 
@@ -68,17 +69,17 @@ Your time in the Feywild has afflicted you with magical mood swings known as Fey
 
 | dice: d8 | Mood |
 |----------|------|
-| 1 | ***Arrogant.*** Enemies within 5 feet of you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you. |
-| 2 | ***Elated.*** At the start of each of your turns, you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Constitution modifier. |
-| 3 | ***Fearful.*** [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) against you. |
-| 4 | ***Forlorn.*** When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the attack to hit you instead. |
-| 5 | ***Manic.*** When you roll a 1 on the `d20` for a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the roll becomes a 20. |
-| 6 | ***Paranoid.*** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Dexterity ability checks and saving throws. |
-| 7 | ***Serene.*** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Intelligence, Wisdom, and Charisma saving throws. |
-| 8 | ***Spiteful.*** When a creature deals damage to you, the next time you hit that creature with an attack before the end of your next turn, the target takes an extra `1d8` Force damage. |
+| 1 | _**Arrogant.**_ Enemies within 5 feet of you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you. |
+| 2 | _**Elated.**_ At the start of each of your turns, you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Constitution modifier. |
+| 3 | _**Fearful.**_ [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) against you. |
+| 4 | _**Forlorn.**_ When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the attack to hit you instead. |
+| 5 | _**Manic.**_ When you roll a 1 on the `d20` for a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the roll becomes a 20. |
+| 6 | _**Paranoid.**_ You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Dexterity ability checks and saving throws. |
+| 7 | _**Serene.**_ You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Intelligence, Wisdom, and Charisma saving throws. |
+| 8 | _**Spiteful.**_ When a creature deals damage to you, the next time you hit that creature with an attack before the end of your next turn, the target takes an extra `1d8` Force damage. |
 ^fey-moods
 
-### Frenzied Strike [Maneuver] (Level 3)
+### Frenzied Strike \[Maneuver] (Level 3)
 
 When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to infect the target's mind. The creature has the Frenzied condition until the end of its next turn.
 

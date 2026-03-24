@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Chamber Contents
-*Source: Dungeon Master's Guide p. 296* 
+
+_Source: Dungeon Master's Guide p. 296_
 
 **Dungeon Chamber Contents**
 

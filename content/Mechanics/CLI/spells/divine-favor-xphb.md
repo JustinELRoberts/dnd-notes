@@ -22,8 +22,8 @@ classes:
 ---
 
 # Divine Favor
-*1st-level, Transmutation*  
 
+_1st-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -34,4 +34,4 @@ Until the spell ends, your attacks with weapons deal an extra `1d4` Radiant dama
 
 **Classes**: [Martyr (Burden of Ascension)](Mechanics/CLI/lists/list-spells-classes-burden-of-ascension-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Calamity)](Mechanics/CLI/lists/list-spells-classes-burden-of-calamity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -27,7 +27,8 @@ classes:
 ---
 
 # Control Weather
-*8th-level, Transmutation*  
+
+_8th-level, Transmutation_\
 ![](Mechanics/CLI/spells/img/control-weather.webp#right)
 
 - **Casting time:** 10 minutes
@@ -77,4 +78,4 @@ When you change the weather conditions, find a current condition on the followin
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

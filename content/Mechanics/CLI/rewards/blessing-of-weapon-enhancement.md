@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Blessing of Weapon Enhancement
 
-
 One nonmagical weapon in your possession becomes a +1 weapon whenever you wield it.
 
 ## Sources
 
-*Dungeon Master's Guide p. 228*
+_Dungeon Master's Guide p. 228_

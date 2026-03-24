@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Circle of the Shepherd
-*[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Xanathar's Guide to Everything p. 23*  
+
+_[Druid](./druid-xphb.md): Druid Subclass_\
+_Source: Xanathar's Guide to Everything p. 23_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -83,8 +84,8 @@ The effect of the spirit's aura depends on the type of spirit you summon from th
 
 Starting at 6th level, beasts and fey that you conjure are more resilient than normal. Any beast or fey summoned or created by a spell that you cast gains the following benefits:
 
-- The creature appears with more hit points than normal: 2 extra hit points per Hit Die it has.  
-- The damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.  
+- The creature appears with more hit points than normal: 2 extra hit points per Hit Die it has.
+- The damage from its natural weapons is considered magical for the purpose of overcoming immunity and resistance to nonmagical attacks and damage.
 
 ### Guardian Spirit (Level 10)
 

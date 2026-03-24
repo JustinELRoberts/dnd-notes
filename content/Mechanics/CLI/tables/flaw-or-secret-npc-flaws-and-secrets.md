@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Flaw or Secret; NPC Flaws and Secrets
-*Source: Dungeon Master's Guide p. 91* 
+
+_Source: Dungeon Master's Guide p. 91_
 
 **NPC Flaws and Secrets**
 

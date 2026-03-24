@@ -34,8 +34,8 @@ classes:
 ---
 
 # Bless
-*1st-level, Enchantment*  
 
+_1st-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -48,4 +48,4 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Necromancer (Pharaoh)](Mechanics/CLI/lists/list-spells-classes-pharaoh-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Law)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Witch (White Magic)](Mechanics/CLI/lists/list-spells-classes-white-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

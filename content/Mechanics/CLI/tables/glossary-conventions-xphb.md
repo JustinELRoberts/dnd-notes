@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Glossary Conventions
-*Source: Player's Handbook (2024) p. 360* 
+
+_Source: Player's Handbook (2024) p. 360_
 
 |    |    |
 |----|----|

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Dybbuk
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 113*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 113_\
 ![](Mechanics/CLI/bestiary/fiend/img/dybbuk.webp#right)
 
 Dybbuks are demons that terrorize mortals on the Material Plane by possessing corpses and giving them a semblance of life, after which the demons use them to engage in a range of sordid activities.
@@ -70,6 +71,7 @@ title: Dybbuk
 
 ***Control Corpse.*** While Possess Corpse is active, the dybbuk makes the corpse do something unnatural, such as vomit blood, twist its head all the way around, or cause a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior must succeed on a DC 12 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the dybbuk for 1 minute. The [frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that succeeds on a saving throw against this ability is immune to Control Corpse for 24 hours.
 ```
+
 ^statblock
 
 ## Environment

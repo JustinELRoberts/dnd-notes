@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Orc Nurtured One of Yurtrus
-*Source: Volo's Guide to Monsters p. 184*  
+
+_Source: Volo's Guide to Monsters p. 184_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-nurtured-one-of-yurtrus.webp#right)
 
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
@@ -32,10 +33,9 @@ Orcs know better. Different groups of orcs exist within a tribe, the actions of 
 
 In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
 
-> [!quote] A quote from Elminster  
-> 
+> [!quote] A quote from Elminster
+>
 > An orc life is a god-ridden life. Luthic's at birth, Luthic's at death, and striving to prove themselves to Gruumsh in between.
-
 
 ```ad-statblock
 title: Orc Nurtured One of Yurtrus
@@ -71,6 +71,7 @@ title: Orc Nurtured One of Yurtrus
 
 ***Corrupted Vengeance.*** The orc reduces itself to 0 hit points, triggering its Corrupted Carrier trait.
 ```
+
 ^statblock
 
 ## Environment

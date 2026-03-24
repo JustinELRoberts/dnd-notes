@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Human Names – Greek, Female
-*Source: Xanathar's Guide to Everything p. 181* 
+
+_Source: Xanathar's Guide to Everything p. 181_
 
 **Human Names – Greek, Female**
 

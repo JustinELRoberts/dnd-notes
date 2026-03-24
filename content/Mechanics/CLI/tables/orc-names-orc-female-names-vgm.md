@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Orc Names; Orc Female Names
-*Source: Volo's Guide to Monsters p. 88* 
+
+_Source: Volo's Guide to Monsters p. 88_
 
 **Orc Female Names**
 

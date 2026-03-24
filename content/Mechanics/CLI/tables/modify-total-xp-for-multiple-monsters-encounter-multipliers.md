@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Modify Total XP for Multiple Monsters; Encounter Multipliers
-*Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)* 
+
+_Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)_
 
 **Encounter Multipliers**
 

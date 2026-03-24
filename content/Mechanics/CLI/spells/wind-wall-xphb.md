@@ -31,8 +31,8 @@ classes:
 ---
 
 # Wind Wall
-*3rd-level, Evocation*  
 
+_3rd-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -47,4 +47,4 @@ The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flyin
 
 **Classes**: [Artificer (Artillerist)](Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Calamity)](Mechanics/CLI/lists/list-spells-classes-burden-of-calamity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock (The Genie, Djinni)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

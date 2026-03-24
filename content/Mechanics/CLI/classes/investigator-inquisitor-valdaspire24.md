@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Inquisitor
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Drive Out Fiends and Root out Heresy*
+_Drive Out Fiends and Root out Heresy_
 
 The church has long been the first line of defense against the tide of impending darkness. Yet, the clergy's stubborn devotion to righteousness impedes them where it counts: you must sometimes be willing to do evil to counter evil. That's where the inquisition comes in.
 
@@ -80,10 +81,10 @@ Once on each of your turns when you take the [Attack](Mechanics/CLI/rules/action
 
 ### Rote Piety (Level 10)
 
-You can use your [Holy Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Holy%20Trinkets%20(Level%207)) three times without expending a use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20(Level%203)). You regain these uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use your [Holy Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Holy%20Trinkets%20\(Level%207\)) three times without expending a use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)). You regain these uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
 ### Excommunication (Level 14)
 
 As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can emblazon a mark of condemnation upon a creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw against your spell save DC or be marked for 1 minute. While marked, the target takes `6d6` Radiant damage at the start of each of its turns, can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), and can't have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md). A marked target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-Once you mark a creature using this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) (no action required).
+Once you mark a creature using this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).

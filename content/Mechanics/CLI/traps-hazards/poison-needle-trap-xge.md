@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Poison Needle Trap
-*Generic Hazard*  
 
+_Generic Hazard_
 
 A tiny, poisoned needle hidden in a lock is a good way to discourage thieves from plundering a hoard. Such a trap is usually put in a chest or in the door to a treasure chamber.
 
 ## Sources
 
-*Xanathar's Guide to Everything p. 114*
+_Xanathar's Guide to Everything p. 114_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Gingerbread Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Class/Gingerbread.webp#right)
 
-*Live in a Candyland*
+_Live in a Candyland_
 
 Witches that learn the fine details of Gingerbread Magic become masters in all things confectionery. Some Witches, particularly those with a sweet tooth, use their magic to delight others. Evil gingerbread Witches, by contrast, have a penchant for cruelty, and use their delectable powers to tempt others into traps or transform valuables into sweet treats.
 
@@ -78,9 +79,9 @@ You gain the [Hex: Sweet Tooth](Mechanics/CLI/spells/hex-sweet-tooth-valdaspire2
 
 When you summon your familiar, you can conjure a version of it made from gingerbread. It gains the following benefits:
 
-- **Blindsight.** Your familiar has [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 10 feet.  
-- **Distracting Aroma.** An enemy within 5 feet of the familiar that can see and smell it has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than it.  
-- **Fragile.** Your familiar only adds your Witch level, instead of twice your Witch level, to its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum.  
+- **Blindsight.** Your familiar has [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 10 feet.
+- **Distracting Aroma.** An enemy within 5 feet of the familiar that can see and smell it has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than it.
+- **Fragile.** Your familiar only adds your Witch level, instead of twice your Witch level, to its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum.
 
 ### Sugar Rush (Level 6)
 

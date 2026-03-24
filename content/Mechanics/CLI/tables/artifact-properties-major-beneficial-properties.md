@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Artifact Properties; Major Beneficial Properties
-*Source: Dungeon Master's Guide p. 219* 
+
+_Source: Dungeon Master's Guide p. 219_
 
 **Major Beneficial Properties**
 

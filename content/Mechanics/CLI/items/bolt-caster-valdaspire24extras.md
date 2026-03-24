@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Bolt Caster
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 force
 - **Range**: 30/120
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 An early but reliable blaster design that resembles a crossbow, the Bolt Caster issues single shots of plasma with a long cooldown between shots.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

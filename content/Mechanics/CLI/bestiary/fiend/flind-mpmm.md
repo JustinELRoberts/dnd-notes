@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Flind
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153_\
 ![](Mechanics/CLI/bestiary/fiend/img/flind.webp#right)
 
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
@@ -66,6 +67,7 @@ title: Flind
 
 ***Longbow.*** *Ranged Weapon Attack:* `+6` to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Monster Lore
-*Source: Volo's Guide to Monsters p. 5* 
+
+_Source: Volo's Guide to Monsters p. 5_
 
 |    |    |    |
 |----|----|----|

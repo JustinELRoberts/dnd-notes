@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Construct Spirit (Stone)
-*Source: Player's Handbook (2024) p. 324*  
+
+_Source: Player's Handbook (2024) p. 324_
 
 ```ad-statblock
 title: Construct Spirit (Stone)
@@ -49,4 +50,5 @@ title: Construct Spirit (Stone)
 
 ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 4` + the spell's level Bludgeoning damage.
 ```
+
 ^statblock

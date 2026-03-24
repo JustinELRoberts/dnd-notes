@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Armor of Shadows 
-
+# Armor of Shadows
 
 You can cast [Mage Armor](Mechanics/CLI/spells/mage-armor-xphb.md) on yourself without expending a spell slot.
+
 ## Sources
 
-*Player's Handbook (2024) p. 155. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Player's Handbook (2024) p. 155. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

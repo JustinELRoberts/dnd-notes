@@ -22,7 +22,8 @@ classes:
 ---
 
 # Summon Fiend
-*6th-level, Conjuration*  
+
+_6th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/summon-fiend.webp#right)
 
 - **Casting time:** 1 Action
@@ -38,4 +39,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 326*
+_Source: Player's Handbook (2024) p. 326_

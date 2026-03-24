@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Cards
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Push Your Luck With Hands of Cards*
+_Push Your Luck With Hands of Cards_
 
 Warmages who join the House of Cards approach combat the same way they do games of chance: with high stakes and calculated gambles. Each Warmage of this house wields a special deck of cards tied to the very threads of fate, through which they can empower their magic with deft flurries of hands. However, while these Warmages command incredible power, their magical surges are at the whims of the cards, and so they must make strategic, ingenious plays to master them.
 
@@ -80,7 +81,7 @@ Whenever you target an enemy with a Warmage spell that deals damage, you can tak
 
 ### High Stakes (Level 7)
 
-On your turn, you can choose any number of cards from your hand and place them on the bottom of your [Deck of Fate](Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20(Level%203)) (no action required), losing 2 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) per card you choose. You then draw until you have five cards in your hand again.
+On your turn, you can choose any number of cards from your hand and place them on the bottom of your [Deck of Fate](Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20\(Level%203\)) (no action required), losing 2 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) per card you choose. You then draw until you have five cards in your hand again.
 
 ### Dealer's Choice (Level 10)
 
@@ -94,7 +95,7 @@ You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xph
 
 ### Card Reading (Level 15)
 
-Once on each of your turns when you draw a card from your deck as part of your [Deck of Fate](Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20(Level%203)) feature, you can declare a suit (Clubs, Diamonds, Hearts, or Spades) and check the top card of your deck. If you guessed the suit correctly, you can take the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or Use an [Object](Mechanics/CLI/rules/variant-rules/object-xphb.md) action as part of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) used for the feature.
+Once on each of your turns when you draw a card from your deck as part of your [Deck of Fate](Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20\(Level%203\)) feature, you can declare a suit (Clubs, Diamonds, Hearts, or Spades) and check the top card of your deck. If you guessed the suit correctly, you can take the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or Use an [Object](Mechanics/CLI/rules/variant-rules/object-xphb.md) action as part of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) used for the feature.
 
 ### Ace in the Hole (Level 18)
 

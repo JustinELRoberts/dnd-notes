@@ -25,8 +25,8 @@ classes:
 ---
 
 # Regenerate
-*7th-level, Transmutation*  
 
+_7th-level, Transmutation_
 
 - **Casting time:** 1 minute
 - **Range:** Touch
@@ -37,4 +37,4 @@ A creature you touch regains `4d8 + 15` [Hit Points](Mechanics/CLI/rules/variant
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

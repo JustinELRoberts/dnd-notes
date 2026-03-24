@@ -18,11 +18,12 @@ obsidianUIMode: preview
 ---
 
 # Babau
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136_\
 ![](Mechanics/CLI/bestiary/fiend/img/babau.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > I'm unimpressed by most children. They are a blend of their ancestors but often more disappointing. You'd think two of the most beautiful, bloodthirsty beings of the Lower Planes would create a creature of greater potential. Instead, the ghastly babau fails to match the fiendish splendor of its parents.
 
 Demons and devils clash endlessly for control of the Lower Planes. One of these battles pitted the legions of the archdevil Glasya against the screaming hordes of the demon lord Graz'zt. It is said that when Glasya wounded Graz'zt with her sword, the first babaus arose where his blood struck the ground. Their sudden appearance helped rout Glasya and secured Graz'zt's place as one of the preeminent demon lords of the Abyss.
@@ -64,6 +65,7 @@ title: Babau
 
 **At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md), [heat metal](Mechanics/CLI/spells/heat-metal-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

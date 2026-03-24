@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Beast Master
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
-*Source: Player's Handbook (2024) p. 123*  
+
+_[Ranger](./ranger-xphb.md): Ranger Subclass_\
+_Source: Player's Handbook (2024) p. 123_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/beast-master-ranger.webp#right)
 
-*Bond with a Primal Beast*
+_Bond with a Primal Beast_
 
 A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.
 

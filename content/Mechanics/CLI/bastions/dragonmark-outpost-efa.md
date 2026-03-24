@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Dragonmark Outpost
-*Level 5 Bastion facility*  
+
+_Level 5 Bastion facility_
 
 - **Prerequisites**: Renown 10+ with any "dragonmarked house"
 - **Space**: Roomy (16 sq)
@@ -33,4 +34,4 @@ When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.m
 
 When you issue the Empower order to this facility, you instruct your hireling to call in a favor from your dragonmarked house. You can use any benefit of your house that your Renown Score affords you (as described in "chapter 5"), and this favor doesn't count against the total number of favors available to you. Once you use this feature, you can't use it again until your Renown Score with your house increases.
 
-*Source: Eberron: Forge of the Artificer p. 48*
+_Source: Eberron: Forge of the Artificer p. 48_

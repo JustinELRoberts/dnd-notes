@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Enchanter Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 261, Volo's Guide to Monsters p. 213_
 
 Enchanters know how to magically influence minds. Benign enchanters use this magic to defuse violence and sow peace, while malevolent enchanters are some of the most evil of all spellcasters.
 
@@ -64,6 +64,7 @@ title: Enchanter Wizard
 
 ***Instinctive Charm (Recharge 4-6).*** When a visible creature within 30 feet of the enchanter makes an attack roll against it, the enchanter forces the attacker to make a DC 14 Wisdom saving throw. On a failed save, the attacker redirects the attack roll to the creature closest to it, other than the enchanter or itself. If multiple eligible creatures are closest, the attacker chooses which one to target.
 ```
+
 ^statblock
 
 ## Environment

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Repeating Crossbow
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
@@ -25,4 +25,4 @@ obsidianUIMode: preview
 - **Cost**: 75 gp
 - **Weight**: 20.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

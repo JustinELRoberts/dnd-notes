@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Yuan-ti Pit Master
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 276, Volo's Guide to Monsters p. 206_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-pit-master.webp#right)
 
 With snakes for arms, pit masters are yuan-ti malison priests who have made a pact with the god Merrshaulk and seek to rouse him from his slumber by sacrificing Humanoids to him. They are the most traditionalist yuan-ti and believe that they are best equipped to achieve the goals of their people.
@@ -76,6 +77,7 @@ title: Yuan-ti Pit Master
 
 ***Change Shape.*** The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
 ```
+
 ^statblock
 
 ## Environment

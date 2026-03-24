@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Secret
-*Source: Valda's Spire of Secrets (2024), Valda's Spire of Secrets Extras (2024)* 
+
+_Source: Valda's Spire of Secrets (2024), Valda's Spire of Secrets Extras (2024)_
 
 - [Avenger](Mechanics/CLI/optional-features/avenger-valdaspire24extras.md)
 - [Cursed](Mechanics/CLI/optional-features/cursed-valdaspire24extras.md)

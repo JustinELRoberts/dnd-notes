@@ -25,8 +25,8 @@ classes:
 ---
 
 # Arcane Gate
-*6th-level, Conjuration*  
 
+_6th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 500 feet
@@ -41,4 +41,4 @@ A portal is open on only one side (you choose which). Anything entering the open
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 242*
+_Source: Player's Handbook (2024) p. 242_

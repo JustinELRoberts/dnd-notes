@@ -21,8 +21,8 @@ classes:
 ---
 
 # Hex: Disorient
-*cantrip, Necromancy*  
 
+_cantrip, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -35,4 +35,4 @@ One creature you can see within range makes a Wisdom saving throw. On a failed s
 
 **Classes**: [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

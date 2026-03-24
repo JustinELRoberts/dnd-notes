@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Iron Flask
-*Wondrous item, major, legendary*  
+
+_Wondrous item, major, legendary_\
 ![](Mechanics/CLI/items/img/iron-flask.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -60,4 +61,4 @@ An [identify](Mechanics/CLI/spells/identify-xphb.md) spell reveals that a creatu
 | 00 | [Xorn](Mechanics/CLI/bestiary/elemental/xorn.md) |
 ^contents
 
-*Source: Dungeon Master's Guide p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

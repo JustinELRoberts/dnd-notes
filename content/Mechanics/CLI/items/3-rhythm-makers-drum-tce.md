@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # +3 Rhythm-Maker's Drum
-*Wondrous item, instrument ([drum](Mechanics/CLI/items/drum-xphb.md)), very rare (requires attunement by a bard)*  
 
+_Wondrous item, instrument ([drum](Mechanics/CLI/items/drum-xphb.md)), very rare (requires attunement by a bard)_
 
 - **Weight**: 3.0 lbs.
 
@@ -25,4 +25,4 @@ While holding this [drum](Mechanics/CLI/items/drum-xphb.md), you gain a +3 bonus
 
 As an action, you can play the [drum](Mechanics/CLI/items/drum-xphb.md) to regain one use of your Bardic Inspiration feature. This property of the [drum](Mechanics/CLI/items/drum-xphb.md) can't be used again until the next dawn.
 
-*Source: Tasha's Cauldron of Everything p. 134*
+_Source: Tasha's Cauldron of Everything p. 134_

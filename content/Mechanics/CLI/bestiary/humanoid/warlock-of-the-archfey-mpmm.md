@@ -21,8 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Warlock of the Archfey
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219_
 
 Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](Mechanics/CLI/bestiary/fey/boggle-mpmm.md), [quicklings](Mechanics/CLI/bestiary/fey/quickling-mpmm.md), and [redcaps](Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (all appear in "this book") or even [satyrs](Mechanics/CLI/bestiary/fey/satyr.md) and [sprites](Mechanics/CLI/bestiary/fey/sprite-xmm.md).
 
@@ -72,6 +72,7 @@ title: Warlock of the Archfey
 
 ***Misty Escape (Recharges after a Short or Long Rest).*** In response to taking damage, the warlock turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Speedy 
+# Speedy
 
-
-***Prerequisites*** 4th; Dexterity 13 or higher or 4th; Constitution 13 or higher
+_**Prerequisites**_ 4th; Dexterity 13 or higher or 4th; Constitution 13 or higher
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Dash over Difficult Terrain.** When you take the [Dash](Mechanics/CLI/rules/actions.md#Dash) action on your turn, [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement for the rest of that turn.
 
 **Agile Movement.** [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) against you.
+
 ## Sources
 
-*Player's Handbook (2024) p. 208*
+_Player's Handbook (2024) p. 208_

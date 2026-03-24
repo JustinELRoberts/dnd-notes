@@ -18,8 +18,8 @@ classes:
 ---
 
 # Thunderous Smite
-*1st-level, Evocation*  
 
+_1st-level, Evocation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -32,4 +32,4 @@ Your strike rings with thunder that is audible within 300 feet of you, and the t
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 334*
+_Source: Player's Handbook (2024) p. 334_

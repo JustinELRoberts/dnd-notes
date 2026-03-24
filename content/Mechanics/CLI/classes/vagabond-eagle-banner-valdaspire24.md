@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Eagle Banner
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -56,13 +57,13 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 
 The GM decides if a subclass should be cross-compatible in your campaign.
 
-*Deliver Shots with Pinpoint Accuracy*
+_Deliver Shots with Pinpoint Accuracy_
 
 With sharp eyes and even sharper arrows, Captains of the Eagle Banner seek to master bows, slings, and ballistae alike. Such Captains are just as dangerous in close range as they are perched on the horizon, for they can accurately deliver an arrow or a crossbow bolt at point blank range.
 
 ## Subclass Features
 
-### Eagle Eye [Maneuver] (Level 3)
+### Eagle Eye \[Maneuver] (Level 3)
 
 Once per turn when you miss with a ranged attack roll, you can expend one Battle Die and add it to the attack roll, potentially causing the attack to hit.
 
@@ -78,7 +79,7 @@ Your skill at scaling walls and gaining a perch above your foes grants you the f
 
 **High Ground Shot.** When you make a ranged attack roll from an elevation of 15 feet or more above the target, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll.
 
-### Counter-Shot [Maneuver] (Level 10)
+### Counter-Shot \[Maneuver] (Level 10)
 
 When an enemy you can see hits a creature with a ranged attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) and expend one Battle Die to attempt to intercept the attack. You must be holding a Ranged weapon and the creature must be within your weapon's range to use this maneuver. Subtract the Battle Die from the attack roll, potentially causing it to miss.
 

@@ -23,8 +23,8 @@ classes:
 ---
 
 # Dissonant Whispers
-*1st-level, Enchantment*  
 
+_1st-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -37,4 +37,4 @@ One creature of your choice that you can see within range hears a discordant mel
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Aberrant Sorcery)](Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

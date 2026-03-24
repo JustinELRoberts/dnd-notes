@@ -17,8 +17,7 @@ obsidianUIMode: preview
 ---
 
 # Ring of Thunder Resistance
-*Ring, major, rare (requires attunement)*  
 
+_Ring, major, rare (requires attunement)_
 
-
-*Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+_Source: Dungeon Master's Guide p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

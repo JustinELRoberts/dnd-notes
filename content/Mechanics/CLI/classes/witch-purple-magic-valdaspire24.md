@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Purple Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Enchant and Beguile Your Foes*
+_Enchant and Beguile Your Foes_
 
 Purple Magic holds sway over the domains of illusions and enchantments that take hold over people's minds, as well as anything that is not quite as it seems. Practitioners of this craft are puppet masters, shaping the apparent reality around them with the ease of a marionette.
 

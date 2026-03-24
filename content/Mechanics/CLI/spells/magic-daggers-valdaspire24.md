@@ -21,8 +21,8 @@ classes:
 ---
 
 # Magic Daggers
-*cantrip, Conjuration*  
 
+_cantrip, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -35,4 +35,4 @@ With a flourish, you conjure two daggers composed of magical force and flick the
 
 **Classes**: [Warmage (House of Darts)](Mechanics/CLI/lists/list-spells-classes-house-of-darts-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

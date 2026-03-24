@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Griffon
-*Source: Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/griffon.webp#right)
 
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
@@ -78,6 +79,7 @@ title: Griffon
 
 ***Claws.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Orb of Dragonkind
-*Wondrous item, artifact (requires attunement)*  
+
+_Wondrous item, artifact (requires attunement)_\
 ![](Mechanics/CLI/items/img/orb-of-dragonkind.webp#right)
 
 - **Weight**: 3.0 lbs.
@@ -36,9 +37,9 @@ While you are [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the orb, y
 
 An Orb of Dragonkind has the following random properties:
 
-- 2 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [minor detrimental property](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)  
-- 1 [major detrimental property](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)  
+- 2 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
+- 1 [minor detrimental property](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)
+- 1 [major detrimental property](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)
 
 ## Spells
 
@@ -52,4 +53,4 @@ While you control the orb, you can use an action to cause the artifact to issue 
 
 An Orb of Dragonkind appears fragile but is impervious to most damage, including the attacks and breath weapons of dragons. A [disintegrate](Mechanics/CLI/spells/disintegrate-xphb.md) spell or one good hit from a +3 magic weapon is sufficient to destroy an orb, however.
 
-*Source: Dungeon Master's Guide p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 225. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

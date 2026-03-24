@@ -24,15 +24,16 @@ obsidianUIMode: preview
 ---
 
 # Dragon Slayer
-*Major, rare*  
-![Dragon Slayer (Greatsword)](Mechanics/CLI/items/img/dragon-slayer.webp#right)
 
+_Major, rare_\
+![Dragon Slayer (Greatsword)](Mechanics/CLI/items/img/dragon-slayer.webp#right)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When you hit a dragon with this weapon, the dragon takes an extra `3d6` damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
 
 **Variants**:
+
 - [Dragon Slayer Double-Bladed Scimitar](#Dragon%20Slayer%20Double-Bladed%20Scimitar)
 - [Dragon Slayer Greatsword](#Dragon%20Slayer%20Greatsword)
 - [Dragon Slayer Longsword](#Dragon%20Slayer%20Longsword)
@@ -78,5 +79,4 @@ When you hit a dragon with this weapon, the dragon takes an extra `3d6` damage o
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

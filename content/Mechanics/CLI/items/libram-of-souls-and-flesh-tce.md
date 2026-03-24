@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Libram of Souls and Flesh
-*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a wizard)_
 
 - **Weight**: 3.0 lbs.
 
@@ -27,7 +27,7 @@ While you are holding the book, you can use it as a spellcasting focus for your 
 
 The book has 3 charges, and it regains `1d3` expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
-- If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the necromancy school.  
-- As an action, you can expend 1 charge to take on a semblance of undeath for 10 minutes. For the duration, you take on a deathly appearance, and undead creatures are indifferent to you, unless you have damaged them. You also appear undead to all outward inspection and to spells used to determine the target's status. The effect ends if you deal damage or force a creature to make a saving throw.  
+- If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the necromancy school.
+- As an action, you can expend 1 charge to take on a semblance of undeath for 10 minutes. For the duration, you take on a deathly appearance, and undead creatures are indifferent to you, unless you have damaged them. You also appear undead to all outward inspection and to spells used to determine the target's status. The effect ends if you deal damage or force a creature to make a saving throw.
 
-*Source: Tasha's Cauldron of Everything p. 129*
+_Source: Tasha's Cauldron of Everything p. 129_

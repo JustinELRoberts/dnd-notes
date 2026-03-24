@@ -25,8 +25,8 @@ classes:
 ---
 
 # Enervation
-*5th-level, Necromancy*  
 
+_5th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -41,4 +41,4 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 155*
+_Source: Xanathar's Guide to Everything p. 155_

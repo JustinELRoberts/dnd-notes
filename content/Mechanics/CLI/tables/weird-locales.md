@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Weird Locales
-*Source: Dungeon Master's Guide p. 109* 
+
+_Source: Dungeon Master's Guide p. 109_
 
 **Weird Locales**
 

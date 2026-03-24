@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Carrion Crawler
-*Source: Monster Manual p. 37*  
+
+_Source: Monster Manual p. 37_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/carrion-crawler.webp#right)
 
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
@@ -66,6 +67,7 @@ title: Carrion Crawler
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

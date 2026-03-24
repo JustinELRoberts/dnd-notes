@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Silver-plated steel longsword with jet set in hilt
-*Treasure (art object)*  
 
+_Treasure (art object)_
 
 - **Cost**: 750 gp
 
-*Source: Dungeon Master's Guide p. 135*
+_Source: Dungeon Master's Guide p. 135_

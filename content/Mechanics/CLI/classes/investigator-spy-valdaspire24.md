@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Spy
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Infiltrate, Assassinate, and Lie with Aplomb*
+_Infiltrate, Assassinate, and Lie with Aplomb_
 
 Infiltration, disguise, and lying through their teeth: these are the principal skills of a Spy. A talented Spy rarely needs to draw a dagger to silence someone, for their honeyed words and agreeable disposition are all that is needed to draw out someone's secrets. Of course, when they do strike, it is decisive and without warning. Such skills are invaluable for governments and organizations of all types, used for stealing confidential information, sabotage, monitoring persons of interest, and everything in between.
 
@@ -78,7 +79,7 @@ As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can assume the id
 
 To discern that you are disguised, a creature must take the [Study](Mechanics/CLI/rules/actions.md#Study) action to inspect your appearance and succeed on an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
 
 ### Glib (Level 14)
 

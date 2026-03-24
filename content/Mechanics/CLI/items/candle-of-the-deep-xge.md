@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Candle of the Deep
-*Wondrous item, minor, common*  
 
-
+_Wondrous item, minor, common_
 
 The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle.
 
-*Source: Xanathar's Guide to Everything p. 136*
+_Source: Xanathar's Guide to Everything p. 136_

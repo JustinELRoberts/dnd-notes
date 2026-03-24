@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Path of the Beast
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
-*Source: Tasha's Cauldron of Everything p. 24*  
+
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
+_Source: Tasha's Cauldron of Everything p. 24_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -69,42 +70,42 @@ Such a barbarian might be inhabited by a primal spirit or be descended from shap
 
 ### Form of the Beast (Level 3)
 
-*3rd-level Path of the Beast feature*
+_3rd-level Path of the Beast feature_
 
 When you enter your rage, you can transform, revealing the bestial power within you. Until the rage ends, you manifest a natural weapon. It counts as a simple melee weapon for you, and you add your Strength modifier to the attack and damage rolls when you attack with it, as normal.
 
 You choose the weapon's form each time you rage:
 
-- **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `1d8` piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.  
-- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `1d6` slashing damage on a hit. Once on each of your turns when you attack with a claw using the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can make one additional claw attack as part of the same action.  
-- **Tail.** You grow a lashing, spiny tail, which deals `1d8` piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `d8`, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.  
+- **Bite.** Your mouth transforms into a bestial muzzle or great mandibles (your choice). It deals `1d8` piercing damage on a hit. Once on each of your turns when you damage a creature with this bite, you regain a number of hit points equal to your proficiency bonus, provided you have less than half your hit points when you hit.
+- **Claws.** Each of your hands transforms into a claw, which you can use as a weapon if it's empty. It deals `1d6` slashing damage on a hit. Once on each of your turns when you attack with a claw using the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can make one additional claw attack as part of the same action.
+- **Tail.** You grow a lashing, spiny tail, which deals `1d8` piercing damage on a hit and has the reach property. If a creature you can see within 10 feet of you hits you with an attack roll, you can use your reaction to swipe your tail and roll a `d8`, applying a bonus to your AC equal to the number rolled, potentially causing the attack to miss you.
 
 ### Bestial Soul (Level 6)
 
-*6th-level Path of the Beast feature*
+_6th-level Path of the Beast feature_
 
 The feral power within you increases, causing the natural weapons of your Form of the Beast to count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 You can also alter your form to help you adapt to your surroundings. When you finish a short or long rest, choose one of the following benefits, which lasts until you finish your next short or long rest:
 
-- You gain a swimming speed equal to your walking speed, and you can breathe underwater.  
-- You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.  
-- When you jump, you can make a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.  
+- You gain a swimming speed equal to your walking speed, and you can breathe underwater.
+- You gain a climbing speed equal to your walking speed, and you can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+- When you jump, you can make a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check and extend your jump by a number of feet equal to the check's total. You can make this special check only once per turn.
 
 ### Infectious Fury (Level 10)
 
-*10th-level Path of the Beast feature*
+_10th-level Path of the Beast feature_
 
 When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):
 
-- The target must use its reaction to make a melee attack against another creature of your choice that you can see.  
-- The target takes `2d12` psychic damage.  
+- The target must use its reaction to make a melee attack against another creature of your choice that you can see.
+- The target takes `2d12` psychic damage.
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Call the Hunt (Level 14)
 
-*14th-level Path of the Beast feature*
+_14th-level Path of the Beast feature_
 
 The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature).
 

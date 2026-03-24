@@ -13,6 +13,7 @@ obsidianUIMode: preview
 ---
 
 # Immunity
-*Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 369. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 If you have Immunity to a [damage type](Mechanics/CLI/rules/variant-rules/damage-types-xphb.md) or a [condition](Mechanics/CLI/rules/variant-rules/condition-xphb.md), it doesn't affect you in any way.

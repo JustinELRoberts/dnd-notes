@@ -25,8 +25,8 @@ classes:
 ---
 
 # Mass Suggestion
-*6th-level, Enchantment*  
 
+_6th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -41,4 +41,4 @@ Each target must succeed on a Wisdom saving throw or have the [Charmed](Mechanic
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

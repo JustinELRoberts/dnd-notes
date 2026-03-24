@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Instrument of the Bards, Cli Lyre
-*Wondrous item, instrument ([lyre](Mechanics/CLI/items/lyre-xphb.md)), major, rare (requires attunement by a bard)*  
+
+_Wondrous item, instrument ([lyre](Mechanics/CLI/items/lyre-xphb.md)), major, rare (requires attunement by a bard)_\
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-cli-lyre.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -32,4 +33,4 @@ All instruments of the bards can be used to cast the following spells: [fly](Mec
 
 In addition, the Cli lyre can be used to cast [stone shape](Mechanics/CLI/spells/stone-shape-xphb.md), [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md), and [wind wall](Mechanics/CLI/spells/wind-wall-xphb.md).
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

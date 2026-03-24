@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Poisonous Snake
-*Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Poisonous Snake
@@ -48,6 +49,7 @@ title: Giant Poisonous Snake
 
 ***Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 6 (`1d4 + 4`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

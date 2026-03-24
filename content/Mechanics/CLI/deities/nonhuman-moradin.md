@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Moradin
 
-
 - **Alignment**: Lawful Good
 - **Domains**: Forge, Knowledge
 - **Pantheon**: Nonhuman
 - **Symbol**: Hammer and anvil
 
-
-
 ## Sources
 
-*Player's Handbook p. 296, Xanathar's Guide to Everything p. 18*
+_Player's Handbook p. 296, Xanathar's Guide to Everything p. 18_

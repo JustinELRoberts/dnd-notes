@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Spinel
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 100 gp
 
 A transparent red, red-brown, or deep green gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

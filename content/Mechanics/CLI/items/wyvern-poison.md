@@ -15,12 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Wyvern Poison
-*Adventuring gear, poison (injury)*  
 
+_Adventuring gear, poison (injury)_
 
 - **Properties**: [Poison](Mechanics/CLI/rules/item-properties.md#Poison)
 - **Cost**: 1,200 gp
 
 This poison must be harvested from a dead or [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) [wyvern](Mechanics/CLI/bestiary/dragon/wyvern.md). A creature subjected to this poison must make a DC 15 Constitution saving throw, taking 24 (`7d6`) poison damage on a failed save, or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

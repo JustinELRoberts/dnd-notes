@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Interactions with Others; NPC Interaction Traits
-*Source: Dungeon Master's Guide p. 90* 
+
+_Source: Dungeon Master's Guide p. 90_
 
 **NPC Interaction Traits**
 

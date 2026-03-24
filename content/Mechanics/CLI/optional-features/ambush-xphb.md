@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Ambush 
-
+# Ambush
 
 When you make a Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) check or an [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) roll, you can expend one Superiority Die and add the die to the roll, unless you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+
 ## Sources
 
-*Player's Handbook (2024) p. 94*
+_Player's Handbook (2024) p. 94_

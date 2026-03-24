@@ -20,8 +20,8 @@ classes:
 ---
 
 # Mandy's Marvelous Dress
-*4th-level, Conjuration*  
 
+_4th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -46,4 +46,4 @@ This spell's duration varies depending upon when and where it was cast. If cast 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

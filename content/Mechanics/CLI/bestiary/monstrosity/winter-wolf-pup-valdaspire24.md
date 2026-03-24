@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Winter Wolf Pup
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 When fully grown, a winter wolf is an apex predator of the snow, a terror of teeth and fur, stalking the tundra in packs. But before they develop their fearsome freezing breath, winter wolf pups are far more amicable (perhaps because they have yet to realize the scope of their own might), and will dutifully follow a master that feeds them well and treats them with respect.
 
@@ -50,4 +50,5 @@ title: Winter Wolf Pup
 
 ***Bite.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 3 (`1d4 + 1`) Piercing damage plus 2 (`1d4`) Cold damage.
 ```
+
 ^statblock

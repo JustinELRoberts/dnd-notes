@@ -18,8 +18,8 @@ classes:
 ---
 
 # Lightning Arrow
-*3rd-level, Transmutation*  
 
+_3rd-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -34,4 +34,4 @@ The weapon or ammunition then returns to its normal form.
 
 **Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 292*
+_Source: Player's Handbook (2024) p. 292_

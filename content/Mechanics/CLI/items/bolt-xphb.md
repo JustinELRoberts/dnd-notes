@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Bolt
-*Ammunition*  
 
+_Ammunition_
 
 - **Cost**: 5 cp
 - **Weight**: 0.075 lbs.
@@ -25,4 +25,4 @@ Crossbow bolts are used with a weapon that has the ammunition property to make a
 
 Bolts are typically stored in a [Crossbow Bolt Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md) (bought separately).
 
-*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

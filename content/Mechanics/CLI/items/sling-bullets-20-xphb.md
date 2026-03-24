@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Sling Bullets (20)
-*Ammunition*  
 
+_Ammunition_
 
 - **Cost**: 4 cp
 - **Weight**: 1.5 lbs.
@@ -25,4 +25,4 @@ Sling bullets are used with a weapon that has the ammunition property to make a 
 
 Sling Bullets are typically stored in a [Pouch](Mechanics/CLI/items/pouch-xphb.md) (bought separately).
 
-*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

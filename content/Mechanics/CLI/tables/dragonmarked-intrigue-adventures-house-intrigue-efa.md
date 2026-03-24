@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dragonmarked Intrigue Adventures; House Intrigue
-*Source: Eberron: Forge of the Artificer p. 80* 
+
+_Source: Eberron: Forge of the Artificer p. 80_
 
 **House Intrigue**
 

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Polar Bear
-*Source: Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Polar Bear
@@ -52,6 +53,7 @@ title: Polar Bear
 
 ***Claws.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

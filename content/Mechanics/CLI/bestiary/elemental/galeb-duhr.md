@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Galeb Duhr
-*Source: Monster Manual p. 139*  
+
+_Source: Monster Manual p. 139_\
 ![](Mechanics/CLI/bestiary/elemental/img/galeb-duhr.webp#right)
 
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
@@ -72,6 +73,7 @@ title: Galeb Duhr
 
 ***Animate Boulders (1/Day).*** The galeb duhr magically animates up to two boulders it can see within 60 feet of it. A boulder has statistics like those of a galeb duhr, except it has Intelligence 1 and Charisma 1, it can't be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and it lacks this action option. A boulder remains animated as long as the galeb duhr maintains [concentration](Mechanics/CLI/rules/conditions.md#Concentration), up to 1 minute (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell).
 ```
+
 ^statblock
 
 ## Environment

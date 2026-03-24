@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Musical Interlude
-*cantrip, Divination*  
 
+_cantrip, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -33,4 +33,4 @@ With an uplifting speech or an encouraging musical number, each creature you cho
 
 **Classes**: [Witch (Technicolor Magic)](Mechanics/CLI/lists/list-spells-classes-technicolor-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

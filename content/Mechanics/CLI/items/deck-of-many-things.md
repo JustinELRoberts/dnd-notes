@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Deck of Many Things
-*Wondrous item, major, legendary*  
-![](Mechanics/CLI/items/img/deck-of-many-things.webp#right)
 
+_Wondrous item, major, legendary_\
+![](Mechanics/CLI/items/img/deck-of-many-things.webp#right)
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 
@@ -33,31 +33,31 @@ In the case of the [Rogue](Mechanics/CLI/decks/deck-of-many-things.md#Rogue) car
 
 | dice: 1d22 | Playing Card | Card |
 |------------|--------------|------|
-| 1 | Ace of diamonds | Vizier* |
+| 1 | Ace of diamonds | Vizier\* |
 | 2 | King of diamonds | Sun |
 | 3 | Queen of diamonds | Moon |
 | 4 | Jack of diamonds | Star |
-| 5 | Two of diamonds | Comet* |
-| 6 | Ace of hearts | The Fates* |
+| 5 | Two of diamonds | Comet\* |
+| 6 | Ace of hearts | The Fates\* |
 | 7 | King of hearts | Throne |
 | 8 | Queen of hearts | Key |
 | 9 | Jack of hearts | Knight |
-| 10 | Two of hearts | Gem* |
-| 11 | Ace of clubs | Talons* |
+| 10 | Two of hearts | Gem\* |
+| 11 | Ace of clubs | Talons\* |
 | 12 | King of clubs | The Void |
 | 13 | Queen of clubs | Flames |
 | 14 | Jack of clubs | Skull |
-| 15 | Two of clubs | Idiot* |
-| 16 | Ace of spades | Donjon* |
+| 15 | Two of clubs | Idiot\* |
+| 16 | Ace of spades | Donjon\* |
 | 17 | King of spades | Ruin |
 | 18 | Queen of spades | Euryale |
 | 19 | Jack of spades | Rogue |
-| 20 | Two of spades | Balance* |
-| 21 | Joker (with TM) | Fool* |
+| 20 | Two of spades | Balance\* |
+| 21 | Joker (with TM) | Fool\* |
 | 22 | Joker (without TM) | Jester |
 ^1-playing-card-card
 
-* Found only in a deck with twenty-two cards
+- Found only in a deck with twenty-two cards
 
 ## Vizier
 
@@ -147,4 +147,4 @@ You lose 10,000 XP, discard this card, and draw from the deck again, counting bo
 
 You gain 10,000 XP, or you can draw two additional cards beyond your declared draws.
 
-*Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

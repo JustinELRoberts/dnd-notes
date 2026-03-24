@@ -17,7 +17,6 @@ obsidianUIMode: preview
 
 # Yondalla
 
-
 - **Alignment**: Lawful Good
 - **Domains**: Life, Twilight
 - **Pantheon**: Halfling
@@ -32,4 +31,4 @@ To the halflings, Yondalla is responsible for the spring in their step and the b
 
 ## Sources
 
-*Mordenkainen's Tome of Foes p. 102, Tasha's Cauldron of Everything p. 34*
+_Mordenkainen's Tome of Foes p. 102, Tasha's Cauldron of Everything p. 34_

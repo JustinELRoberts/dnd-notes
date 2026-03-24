@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Ankheg
-*Source: Monster Manual p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/ankheg.webp#right)
 
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
@@ -63,6 +64,7 @@ title: Ankheg
 
 ***Acid Spray (Recharge 6).*** The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled). Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (`3d6`) acid damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

@@ -17,13 +17,14 @@ obsidianUIMode: preview
 ---
 
 # Female Steeder
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 231*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 231_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/female-steeder.webp#right)
 
 ## Steeders
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Steeders resemble spiders as much as worgs resemble wolves. The creatures may appear similar, but steeders are more than mere vermin.
 
 Giant hunting spiders, steeders prowl the depths of the Underdark. Female steeders grow larger and stronger than males, and the female often devours the male after breeding. Numerous Underdark folk domesticate steeders, particularly duergar (also in this book). Typically the females serve as steeds in battle, while the males are used as draft animals.
@@ -66,6 +67,7 @@ title: Female Steeder
 
 ***Sticky Leg.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The target is stuck to the steeder's leg and [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 12). The steeder can have only one creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) at a time.
 ```
+
 ^statblock
 
 ## Environment

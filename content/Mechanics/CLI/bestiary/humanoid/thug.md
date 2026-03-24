@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Thug
-*Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/thug.webp#right)
 
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
@@ -55,6 +56,7 @@ title: Thug
 
 ***Heavy Crossbow.*** *Ranged Weapon Attack:* `+2` to hit, range 100/400 ft., one target. *Hit:* 5 (`1d10`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

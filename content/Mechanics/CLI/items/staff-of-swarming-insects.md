@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Swarming Insects
-*Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)*  
+
+_Staff, weapon, major, rare (requires attunement by a bard, cleric, druid, sorcerer, warlock, or wizard)_\
 ![](Mechanics/CLI/items/img/staff-of-swarming-insects.webp#right)
 
 - **Damage**:
@@ -36,4 +37,4 @@ While holding the staff, you can use an action to expend some of its charges to 
 
 While holding the staff, you can use an action and expend 1 charge to cause a swarm of harmless flying insects to spread out in a 30-foot radius from you. The insects remain for 10 minutes, making the area heavily obscured for creatures other than you. The swarm moves with you, remaining centered on you. A wind of at least 10 miles per hour disperses the swarm and ends the effect.
 
-*Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -13,8 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Falling
-*Generic Hazard*  
 
+_Generic Hazard_
 
 A creature that falls takes `1d6` Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of `20d6`. When the creature lands, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition unless it avoids taking any damage from the fall.
 
@@ -22,4 +22,4 @@ A creature that falls into water or another liquid can use its [Reaction](Mechan
 
 ## Sources
 
-*Player's Handbook (2024) p. 367*
+_Player's Handbook (2024) p. 367_

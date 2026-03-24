@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Magic Mushrooms; Magic Mushroom Effects
-*Source: Tasha's Cauldron of Everything p. 166* 
+
+_Source: Tasha's Cauldron of Everything p. 166_
 
 **Magic Mushroom Effects**
 

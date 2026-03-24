@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Potion of Vitality
-*Potion, minor, very rare*  
 
-
+_Potion, minor, very rare_
 
 When you drink this potion, it removes any [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) you are suffering and cures any disease or poison affecting you. For the next 24 hours, you regain the maximum number of hit points for any Hit Die you spend. The potion's crimson liquid regularly pulses with dull light, calling to mind a heartbeat.
 
-*Source: Dungeon Master's Guide p. 188. Available in the Basic Rules (2014)*
+_Source: Dungeon Master's Guide p. 188. Available in the Basic Rules (2014)_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Holy Symbol (Varies); Holy Symbols
-*Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 **Holy Symbols**
 

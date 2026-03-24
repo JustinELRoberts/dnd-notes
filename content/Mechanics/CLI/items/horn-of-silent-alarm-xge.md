@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Horn of Silent Alarm
-*Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), minor, common*  
 
-
+_Wondrous item, instrument ([horn](Mechanics/CLI/items/horn-xphb.md)), minor, common_
 
 This horn has 4 charges. When you use an action to blow it, one creature of your choice can hear the horn's blare, provided the creature is within 600 feet of the horn and not [deafened](Mechanics/CLI/rules/conditions.md#Deafened). No other creature hears sound coming from the horn. The horn regains `1d4` expended charges daily at dawn.
 
-*Source: Xanathar's Guide to Everything p. 137*
+_Source: Xanathar's Guide to Everything p. 137_

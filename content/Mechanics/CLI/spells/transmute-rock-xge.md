@@ -24,8 +24,8 @@ classes:
 ---
 
 # Transmute Rock
-*5th-level, Transmutation*  
 
+_5th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -50,4 +50,4 @@ Nonmagical mud or quicksand in the area no more than 10 feet deep transforms int
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 169*
+_Source: Xanathar's Guide to Everything p. 169_

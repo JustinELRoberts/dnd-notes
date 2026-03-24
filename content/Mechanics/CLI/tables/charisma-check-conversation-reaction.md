@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Charisma Check; Conversation Reaction
-*Source: Dungeon Master's Guide p. 245* 
+
+_Source: Dungeon Master's Guide p. 245_
 
 **Conversation Reaction**
 

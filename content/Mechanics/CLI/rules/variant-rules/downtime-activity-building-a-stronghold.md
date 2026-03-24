@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Building a Stronghold
-*Source: Dungeon Master's Guide p. 128* 
+
+_Source: Dungeon Master's Guide p. 128_
 
 A character can spend time between adventures building a stronghold. Before work can begin, the character must acquire a plot of land. If the estate lies within a kingdom or similar domain, the character will need a royal charter (a legal document granting permission to oversee the estate in the name of the crown), a land grant (a legal document bequeathing custody of the land to the character for as long as he or she remains loyal to the crown), or a deed (a legal document that serves as proof of ownership). Land can also be acquired by inheritance or other means.
 

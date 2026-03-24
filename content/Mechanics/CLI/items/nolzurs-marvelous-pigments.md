@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Nolzur's Marvelous Pigments
-*Wondrous item, minor, very rare*  
+
+_Wondrous item, minor, very rare_\
 ![](Mechanics/CLI/items/img/nolzurs-marvelous-pigments.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -30,4 +31,4 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
 
-*Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Marvelous Pigments")*
+_Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Marvelous Pigments")_

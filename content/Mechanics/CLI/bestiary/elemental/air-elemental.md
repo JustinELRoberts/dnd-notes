@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Air Elemental
-*Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/air-elemental.webp#right)
 
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
@@ -84,6 +85,7 @@ title: Air Elemental
 
 If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

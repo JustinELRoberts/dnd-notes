@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Trickster's Escape 
+# Trickster's Escape
 
-
-***Prerequisites*** Level 7
+_**Prerequisites**_ Level 7
 
 You can cast [freedom of movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) once on yourself without expending a spell slot. You regain the ability to do so when you finish a long rest.
+
 ## Sources
 
-*Xanathar's Guide to Everything p. 57*
+_Xanathar's Guide to Everything p. 57_

@@ -16,12 +16,12 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Disguise Self](Mechanics/CLI/spells/disguise-self-xphb.md "XPHB") 
+- [Disguise Self](Mechanics/CLI/spells/disguise-self-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Blindness/Deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") 
-- [Blur](Mechanics/CLI/spells/blur-xphb.md "XPHB") 
+- [Blindness/Deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB")
+- [Blur](Mechanics/CLI/spells/blur-xphb.md "XPHB")
 
 ## 3rd Level
 

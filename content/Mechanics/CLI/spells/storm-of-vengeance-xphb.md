@@ -20,8 +20,8 @@ classes:
 ---
 
 # Storm of Vengeance
-*9th-level, Conjuration*  
 
+_9th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 1 miles
@@ -52,4 +52,4 @@ Gusts and freezing rain assail the area under the cloud. Each creature there tak
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 321. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

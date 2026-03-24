@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Triceratops
-*Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/dinosaurs.webp#right)
 
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.
@@ -60,6 +61,7 @@ title: Triceratops
 
 ***Stomp.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one [prone](Mechanics/CLI/rules/conditions.md#Prone) creature. *Hit:* 22 (`3d10 + 6`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

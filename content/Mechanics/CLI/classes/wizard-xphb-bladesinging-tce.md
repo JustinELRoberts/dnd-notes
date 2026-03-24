@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Bladesinging
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Tasha's Cauldron of Everything p. 76*  
+
+_[Wizard](./wizard-xphb.md): Wizard Subclass_\
+_Source: Tasha's Cauldron of Everything p. 76_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -71,10 +72,10 @@ You can use a bonus action to start the Bladesong, which lasts for 1 minute. It 
 
 While your bladesong is active, you gain the following benefits:
 
-- You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).  
-- Your walking speed increases by 10 feet.  
-- You have advantage on Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) checks.  
-- You gain a bonus to any Constitution saving throws you make to maintain [concentration](Mechanics/CLI/rules/conditions.md#Concentration) on a spell. The bonus equals your Intelligence modifier (minimum of +1).  
+- You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).
+- Your walking speed increases by 10 feet.
+- You have advantage on Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) checks.
+- You gain a bonus to any Constitution saving throws you make to maintain [concentration](Mechanics/CLI/rules/conditions.md#Concentration) on a spell. The bonus equals your Intelligence modifier (minimum of +1).
 
 You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
 

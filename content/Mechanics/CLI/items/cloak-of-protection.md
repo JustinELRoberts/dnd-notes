@@ -16,10 +16,10 @@ obsidianUIMode: preview
 ---
 
 # Cloak of Protection
-*Wondrous item, major, uncommon (requires attunement)*  
-![](Mechanics/CLI/items/img/cloak-of-protection.webp#right)
 
+_Wondrous item, major, uncommon (requires attunement)_\
+![](Mechanics/CLI/items/img/cloak-of-protection.webp#right)
 
 You gain a +1 bonus to AC and saving throws while you wear this cloak.
 
-*Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 159. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

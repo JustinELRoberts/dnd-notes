@@ -24,8 +24,8 @@ classes:
 ---
 
 # Mandy's Feral Follower
-*4th-level, Transmutation*  
 
+_4th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -52,4 +52,4 @@ You can shape-shift one additional Beast for each spell slot level above 4.
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

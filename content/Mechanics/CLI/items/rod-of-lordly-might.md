@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Rod of Lordly Might
-*Rod ([mace](Mechanics/CLI/items/mace-xphb.md)), melee weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, legendary (requires attunement)*  
+
+_Rod ([mace](Mechanics/CLI/items/mace-xphb.md)), melee weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, legendary (requires attunement)_\
 ![](Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -53,4 +54,4 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 
 While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of you for 1 minute. A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

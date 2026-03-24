@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Recurring Expenses; Maintenance Costs
-*Source: Dungeon Master's Guide p. 126* 
+
+_Source: Dungeon Master's Guide p. 126_
 
 **Maintenance Costs**
 

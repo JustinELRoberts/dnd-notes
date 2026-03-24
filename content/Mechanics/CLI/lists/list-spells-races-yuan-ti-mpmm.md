@@ -16,11 +16,11 @@ obsidianUIMode: preview
 
 ## Cantrip
 
-- [Poison Spray](Mechanics/CLI/spells/poison-spray-xphb.md "XPHB") 
+- [Poison Spray](Mechanics/CLI/spells/poison-spray-xphb.md "XPHB")
 
 ## 1st Level
 
-- [Animal Friendship](Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB") 
+- [Animal Friendship](Mechanics/CLI/spells/animal-friendship-xphb.md "XPHB")
 
 ## 2nd Level
 

@@ -30,7 +30,8 @@ classes:
 ---
 
 # Summon Construct
-*4th-level, Conjuration*  
+
+_4th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/summon-construct.webp#right)
 
 - **Casting time:** 1 Action
@@ -46,4 +47,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 324*
+_Source: Player's Handbook (2024) p. 324_

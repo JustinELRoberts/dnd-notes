@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Truth
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Bring a Prophet's Message to the World*
+_Bring a Prophet's Message to the World_
 
 Tasked with unveiling the world's deceptions and delivering to the people a profound truth, Martyrs carrying the Burden of Truth face an endless battle with disillusionment and lies. Such a Martyr must earn the people's hearts and minds, turning their favors away from evil influences and toward divine ones. It is an uphill battle, but one that rarely requires grievous violence except in the most dire of circumstances.
 

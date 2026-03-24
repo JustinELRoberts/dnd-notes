@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Sap 
+# Sap
 
-
-***Prerequisites*** Level 2 Craftsman; Versatile Property or No Weapon Property
+_**Prerequisites**_ Level 2 Craftsman; Versatile Property or No Weapon Property
 
 If you hit a creature with this weapon, that creature has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on its next attack roll before the start of your next turn.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

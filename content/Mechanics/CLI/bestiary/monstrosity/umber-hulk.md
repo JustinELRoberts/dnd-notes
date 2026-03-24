@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Umber Hulk
-*Source: Monster Manual p. 292*  
+
+_Source: Monster Manual p. 292_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/umber-hulk.webp#right)
 
 An abominable horror from deep beneath the earth, an umber hulk burrows into cave complexes, dungeons, or Underdark settlements in search of food. Those lucky enough to survive an umber hulk attack often remember precious little of the incident, thanks to the umber hulk's mind-scrambling gaze.
@@ -32,10 +33,9 @@ Burrowing into the wall of a cavern or passageway, an umber hulk lies in wait fo
 
 Many survivors of an umber hulk encounter recollect little about the attack, because the monster's confusing gaze scrambles their memory of the event. Those who have fought and killed umber hulks recognize the signs. For other denizens of the Underdark, grisly tales of vanished explorers and wanton destruction speak of an unknown foe. Umber hulks take on supernatural status in these harrowing stories, many of which convey the same warning: once an umber hulk has been spotted, it is already too late to escape it.
 
-> [!quote] A quote from A survivor's account of an umber hulk attack  
-> 
+> [!quote] A quote from A survivor's account of an umber hulk attack
+>
 > The wall caved in. That's the last thing I remember.
-
 
 ## Statblock
 
@@ -77,6 +77,7 @@ Unless [surprised](Mechanics/CLI/rules/conditions.md#Surprised), a creature can 
 
 ***Mandibles.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Sidekicks
-*Source: Essentials Kit p. 63* 
+
+_Source: Essentials Kit p. 63_
 
 On your adventures, the DM might reveal that you've befriended a special character called a sidekick, who joins your party. This appendix presents the game statistics for sidekicks, of which there are three types:
 
@@ -33,9 +34,9 @@ These stat blocks work with any character race. If you and the DM agree, you may
 
 For more information on stat blocks, see the "Creatures" section.
 
-- [Spellcaster](Mechanics/CLI/bestiary/humanoid/spellcaster-esk.md)  
-- [Expert](Mechanics/CLI/bestiary/humanoid/expert-esk.md)  
-- [Warrior](Mechanics/CLI/bestiary/humanoid/warrior-esk.md)  
+- [Spellcaster](Mechanics/CLI/bestiary/humanoid/spellcaster-esk.md)
+- [Expert](Mechanics/CLI/bestiary/humanoid/expert-esk.md)
+- [Warrior](Mechanics/CLI/bestiary/humanoid/warrior-esk.md)
 
 ## Proficiencies
 

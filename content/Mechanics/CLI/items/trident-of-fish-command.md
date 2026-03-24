@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Trident of Fish Command
-*Weapon ([trident](Mechanics/CLI/items/trident-xphb.md)), major, uncommon (requires attunement)*  
+
+_Weapon ([trident](Mechanics/CLI/items/trident-xphb.md)), major, uncommon (requires attunement)_\
 ![](Mechanics/CLI/items/img/trident-of-fish-command.webp#right)
 
 - **Damage**:
@@ -30,4 +31,4 @@ obsidianUIMode: preview
 
 This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast [dominate beast](Mechanics/CLI/spells/dominate-beast-xphb.md) (save DC 15) from it on a beast that has an innate swimming speed. The trident regains `1d3` expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

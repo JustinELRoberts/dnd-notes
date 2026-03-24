@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Hill Encounters (Levels 11—16)
-*Source: Xanathar's Guide to Everything p. 101* 
+
+_Source: Xanathar's Guide to Everything p. 101_
 
 **Hill Encounters (Levels 11—16)**
 

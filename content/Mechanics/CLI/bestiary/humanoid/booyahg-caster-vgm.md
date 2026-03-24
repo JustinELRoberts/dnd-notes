@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Booyahg Caster
-*Source: Volo's Guide to Monsters p. 42*  
 
+_Source: Volo's Guide to Monsters p. 42_
 
 This goblin served under a hobgoblin wizard, stole a look at its master's spellbook, and learned a little wizardry by aping the gestures and words it remembered. The goblin can cast a randomly determined 1st-level wizard spell once per day. Intelligence is its spellcasting ability.
 
@@ -65,4 +65,5 @@ title: Booyahg Caster
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+4` to hit, range 80/320 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock

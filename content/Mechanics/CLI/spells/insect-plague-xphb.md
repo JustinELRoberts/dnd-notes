@@ -37,8 +37,8 @@ classes:
 ---
 
 # Insect Plague
-*5th-level, Conjuration*  
 
+_5th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 300 feet
@@ -53,4 +53,4 @@ When the swarm appears, each creature in it makes a Constitution saving throw, t
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Land, Tropical Land)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Calamity)](Mechanics/CLI/lists/list-spells-classes-burden-of-calamity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Pharaoh)](Mechanics/CLI/lists/list-spells-classes-pharaoh-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Ranger (Swarmkeeper)](Mechanics/CLI/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (Fiend Patron)](Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

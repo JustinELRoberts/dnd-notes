@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Githzerai Enlightened
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 143*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 143_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githzerai-enlightened.webp#right)
 
 Some spiritual githzerai spend long hours in meditation to transcend the limits of their forms and to apprehend the nature of reality. Zerths who complete the next tier of their training become known as the enlightened.
@@ -74,6 +75,7 @@ title: Githzerai Enlightened
 
 ***Slow Fall.*** When the githzerai falls, it reduces any falling damage it takes by 50.
 ```
+
 ^statblock
 
 ## Environment

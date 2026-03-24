@@ -19,19 +19,20 @@ obsidianUIMode: preview
 ---
 
 # Young Kruthik
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 168*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 168_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/young-kruthik.webp#right)
 
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
 
 ## Kruthiks
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Imagine a hive of ants the size of horses, but the ants are wearing armor.
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies.
 
 Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels—evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
@@ -76,6 +77,7 @@ title: Young Kruthik
 
 ***Stab.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

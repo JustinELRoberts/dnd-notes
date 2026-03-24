@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Hydra
-*Source: Monster Manual p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/hydra.webp#right)
 
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
@@ -72,6 +73,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 
 ***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

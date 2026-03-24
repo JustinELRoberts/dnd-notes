@@ -18,8 +18,8 @@ classes:
 ---
 
 # Shadow of Moil
-*4th-level, Necromancy*  
 
+_4th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -32,4 +32,4 @@ Until the spell ends, you have resistance to radiant damage. In addition, whenev
 
 **Classes**: [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Xanathar's Guide to Everything p. 164*
+_Source: Xanathar's Guide to Everything p. 164_

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Efreeti Chain
-*Heavy armor ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md)), major, legendary (requires attunement)*  
+
+_Heavy armor ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md)), major, legendary (requires attunement)_\
 ![](Mechanics/CLI/items/img/efreeti-chain.webp#right)
 
 - **Armor Class**: 16
@@ -27,4 +28,4 @@ obsidianUIMode: preview
 
 While wearing this armor, you gain a +3 bonus to AC, you are immune to fire damage, and you can understand and speak Primordial. In addition, you can stand on and walk across molten rock as if it were solid ground.
 
-*Source: Dungeon Master's Guide p. 167*
+_Source: Dungeon Master's Guide p. 167_

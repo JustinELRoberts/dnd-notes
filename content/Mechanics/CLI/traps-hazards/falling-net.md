@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Falling Net
-*Mechanical Trap*  
 
+_Mechanical Trap_
 
 This trap uses a trip wire to release a net suspended from the ceiling.
 
@@ -29,4 +29,4 @@ Dealing 5 slashing damage to the net (AC 10) destroys a 5-foot-square section of
 
 ## Sources
 
-*Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

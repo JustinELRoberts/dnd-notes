@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Creating a Rival; Rival
-*Source: Xanathar's Guide to Everything p. 124* 
+
+_Source: Xanathar's Guide to Everything p. 124_
 
 **Rival**
 

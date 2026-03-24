@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Planecaller's Codex
-*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a wizard)_
 
 - **Weight**: 3.0 lbs.
 
@@ -27,7 +27,7 @@ While you are holding the book, you can use it as a spellcasting focus for your 
 
 The book has 3 charges, and it regains `1d3` expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
-- If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the conjuration school.  
-- When you cast a conjuration spell that summons or creates one creature, you can expend 1 charge to grant that creature advantage on attack rolls for 1 minute.  
+- If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the conjuration school.
+- When you cast a conjuration spell that summons or creates one creature, you can expend 1 charge to grant that creature advantage on attack rolls for 1 minute.
 
-*Source: Tasha's Cauldron of Everything p. 134*
+_Source: Tasha's Cauldron of Everything p. 134_

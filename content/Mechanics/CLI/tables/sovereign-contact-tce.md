@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Sovereign Contact
-*Source: Tasha's Cauldron of Everything p. 102* 
+
+_Source: Tasha's Cauldron of Everything p. 102_
 
 **Sovereign Contact**
 

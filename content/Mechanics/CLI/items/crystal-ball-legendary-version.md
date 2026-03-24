@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Crystal Ball (Legendary Version)
-*Wondrous item, major, legendary (requires attunement)*  
 
+_Wondrous item, major, legendary (requires attunement)_
 
 - **Weight**: 3.0 lbs.
 
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 - [Crystal Ball of Telepathy](Mechanics/CLI/items/crystal-ball-of-telepathy.md)
 - [Crystal Ball of True Seeing](Mechanics/CLI/items/crystal-ball-of-true-seeing.md)
 
-*Source: Dungeon Master's Guide p. 159*
+_Source: Dungeon Master's Guide p. 159_

@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Hollow 
-
+# Hollow
 
 Your soul has been divorced from your body, trapping you in a limbo between life and death. Whenever you or your familiar reduces an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Charisma modifier + your Witch level (minimum of 1).
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

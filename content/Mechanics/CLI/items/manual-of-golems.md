@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Manual of Golems
-*Wondrous item, major, very rare*  
+
+_Wondrous item, major, very rare_\
 ![](Mechanics/CLI/items/img/manual-of-golems.webp#right)
 
 - **Weight**: 5.0 lbs.
@@ -27,4 +28,4 @@ obsidianUIMode: preview
 - [Manual of Iron Golems](Mechanics/CLI/items/manual-of-iron-golems.md)
 - [Manual of Stone Golems](Mechanics/CLI/items/manual-of-stone-golems.md)
 
-*Source: Dungeon Master's Guide p. 180*
+_Source: Dungeon Master's Guide p. 180_

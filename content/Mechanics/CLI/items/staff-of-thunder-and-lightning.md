@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Thunder and Lightning
-*Staff, weapon, major, very rare (requires attunement)*  
+
+_Staff, weapon, major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/staff-of-thunder-and-lightning.webp#right)
 
 - **Damage**:
@@ -48,4 +49,4 @@ You can use an action to cause the staff to issue a deafening thunderclap, audib
 
 You can use an action to use the Lightning Strike and Thunderclap properties at the same time. Doing so doesn't expend the daily use of those properties, only the use of this one.
 
-*Source: Dungeon Master's Guide p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

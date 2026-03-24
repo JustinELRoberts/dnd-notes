@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of the Woodlands
-*Staff, weapon, major, rare (requires attunement by a druid)*  
+
+_Staff, weapon, major, rare (requires attunement by a druid)_\
 ![](Mechanics/CLI/items/img/staff-of-the-woodlands.webp#right)
 
 - **Damage**:
@@ -40,4 +41,4 @@ You can also use an action to cast the [pass without trace](Mechanics/CLI/spells
 
 You can use an action to plant one end of the staff in fertile earth and expend 1 charge to transform the staff into a healthy tree. The tree is 60 feet tall and has a 5-foot-diameter trunk, and its branches at the top spread out in a 20-foot radius. The tree appears ordinary but radiates a faint aura of transmutation magic if targeted by [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md). While touching the tree and using another action to speak its command word, you return the staff to its normal form. Any creature in the tree falls when it reverts to a staff.
 
-*Source: Dungeon Master's Guide p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

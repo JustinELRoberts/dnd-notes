@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Dueling 
+# Dueling
 
-
-***Prerequisites*** Fighting Style Feature
+_**Prerequisites**_ Fighting Style Feature
 
 When you're holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
 ## Sources
 
-*Player's Handbook (2024) p. 209*
+_Player's Handbook (2024) p. 209_

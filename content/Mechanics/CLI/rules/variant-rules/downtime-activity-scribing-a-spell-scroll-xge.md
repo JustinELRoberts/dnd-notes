@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Scribing a Spell Scroll
-*Source: Xanathar's Guide to Everything p. 133* 
+
+_Source: Xanathar's Guide to Everything p. 133_
 
 With time and patience, a spellcaster can transfer a spell to a scroll, creating a [spell scroll](Mechanics/CLI/items/spell-scroll.md).
 

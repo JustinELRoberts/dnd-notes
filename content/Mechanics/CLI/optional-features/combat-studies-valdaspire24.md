@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Combat Studies 
-
+# Combat Studies
 
 Your research extends into the strategy and tactics of warfare. You gain the following benefits.
 
@@ -28,7 +27,8 @@ You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xph
 
 ## Fire Brand
 
-When you hit a creature with an attack using a Melee weapon, you can expend 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) to deal an extra `1d10` Fire damage to the target.
+When you hit a creature with an attack using a Melee weapon, you can expend 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to deal an extra `1d10` Fire damage to the target.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

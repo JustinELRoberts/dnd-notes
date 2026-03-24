@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Investment of the Chain Master 
+# Investment of the Chain Master
 
-
-***Prerequisites*** Level 5, pact of the chain|xphb
+_**Prerequisites**_ Level 5, pact of the chain|xphb
 
 When you cast [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
@@ -39,6 +38,7 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 ## Resistance
 
 When the familiar takes damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to grant it [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) against that damage.
+
 ## Sources
 
-*Player's Handbook (2024) p. 156*
+_Player's Handbook (2024) p. 156_

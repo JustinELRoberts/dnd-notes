@@ -29,8 +29,8 @@ classes:
 ---
 
 # Leomund's Secret Chest
-*4th-level, Conjuration*  
 
+_4th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -45,4 +45,4 @@ After 60 days, there is a cumulative  chance at the end of each day that the spe
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Secret Chest") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Secret Chest") and the Free Rules (2024)_

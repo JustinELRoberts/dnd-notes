@@ -21,8 +21,8 @@ classes:
 ---
 
 # Conjure Barrage
-*3rd-level, Conjuration*  
 
+_3rd-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self (60-foot Cone)
@@ -35,4 +35,4 @@ You brandish the weapon used to cast the spell and conjure similar spectral weap
 
 **Classes**: [Artificer (Battle Smith)](Mechanics/CLI/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 254*
+_Source: Player's Handbook (2024) p. 254_

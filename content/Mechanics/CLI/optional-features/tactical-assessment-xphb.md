@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Tactical Assessment 
-
+# Tactical Assessment
 
 When you make an Intelligence ([History](Mechanics/CLI/rules/skills.md#History) or [Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check or a Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check, you can expend one Superiority Die and add that die to the ability check.
+
 ## Sources
 
-*Player's Handbook (2024) p. 95*
+_Player's Handbook (2024) p. 95_

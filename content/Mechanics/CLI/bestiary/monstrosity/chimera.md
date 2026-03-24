@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Chimera
-*Source: Monster Manual p. 39. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 39. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/chimera.webp#right)
 
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
@@ -69,6 +70,7 @@ title: Chimera
 
 ***Fire Breath (Recharge 5-6).*** The dragon head exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 31 (`7d8`) fire damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

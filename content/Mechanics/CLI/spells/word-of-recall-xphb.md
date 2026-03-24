@@ -22,8 +22,8 @@ classes:
 ---
 
 # Word of Recall
-*6th-level, Conjuration*  
 
+_6th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 5 feet
@@ -36,4 +36,4 @@ You must designate a location, such as a temple, as a sanctuary by casting this 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 343. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

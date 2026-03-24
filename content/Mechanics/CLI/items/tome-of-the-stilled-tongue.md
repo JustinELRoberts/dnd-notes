@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Tome of the Stilled Tongue
-*Wondrous item, major, legendary (requires attunement by a wizard)*  
 
+_Wondrous item, major, legendary (requires attunement by a wizard)_
 
 - **Weight**: 5.0 lbs.
 
@@ -29,4 +29,4 @@ While attuned to the book, you can remove the tongue from the book's cover. If y
 
 Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read.
 
-*Source: Dungeon Master's Guide p. 208*
+_Source: Dungeon Master's Guide p. 208_

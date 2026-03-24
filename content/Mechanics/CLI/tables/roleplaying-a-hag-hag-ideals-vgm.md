@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying a Hag; Hag Ideals
-*Source: Volo's Guide to Monsters p. 54* 
+
+_Source: Volo's Guide to Monsters p. 54_
 
 **Hag Ideals**
 

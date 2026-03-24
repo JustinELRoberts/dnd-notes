@@ -16,11 +16,11 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") 
+- [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Levitate](Mechanics/CLI/spells/levitate-xphb.md "XPHB") 
+- [Levitate](Mechanics/CLI/spells/levitate-xphb.md "XPHB")
 
 ## 3rd Level
 

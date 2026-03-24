@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Government; Sample Hierarchy of Noble Titles
-*Source: Dungeon Master's Guide p. 17* 
+
+_Source: Dungeon Master's Guide p. 17_
 
 **Sample Hierarchy of Noble Titles**
 

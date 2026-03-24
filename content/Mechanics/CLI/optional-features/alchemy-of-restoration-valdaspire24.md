@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Alchemy of Restoration 
-
+# Alchemy of Restoration
 
 Your research has unveiled a plethora of medicines and remedies. You gain the following benefits.
 
@@ -42,6 +41,7 @@ You can brew the following potions at the Alchemist levels given.
 | Potion of Vitality | 4 |
 | Potion of Supreme Healing | 6 |
 ^expanded-potions
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

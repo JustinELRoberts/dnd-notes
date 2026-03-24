@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Bone Naga (Spirit)
-*Source: Monster Manual p. 233*  
+
+_Source: Monster Manual p. 233_\
 ![](Mechanics/CLI/bestiary/undead/img/bone-naga.webp#right)
 
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
@@ -82,6 +83,7 @@ title: Bone Naga (Spirit)
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one creature. *Hit:* 10 (`2d6 + 3`) piercing damage plus 10 (`3d6`) poison damage.
 ```
+
 ^statblock
 
 ## Environment

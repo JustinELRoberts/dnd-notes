@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Becoming Lost; Wilderness Navigation
-*Source: Dungeon Master's Guide p. 111* 
+
+_Source: Dungeon Master's Guide p. 111_
 
 **Wilderness Navigation**
 

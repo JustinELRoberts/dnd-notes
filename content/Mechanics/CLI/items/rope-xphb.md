@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Rope
-*Adventuring gear*  
 
+_Adventuring gear_
 
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.
@@ -25,4 +25,4 @@ As a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action, you can tie a kno
 
 You can bind an unwilling creature with the Rope only if the creature has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled), [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), or [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition. If the creature's legs are bound, the creature has the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition until it escapes. Escaping the Rope requires the creature to make a successful DC 15 Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check as an action.
 
-*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

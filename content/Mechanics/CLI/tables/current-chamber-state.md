@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Current Chamber State
-*Source: Dungeon Master's Guide p. 295* 
+
+_Source: Dungeon Master's Guide p. 295_
 
 **Current Chamber State**
 

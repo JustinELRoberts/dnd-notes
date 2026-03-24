@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Dendar
 
-
 - **Alignment**: Unaligned
 - **Pantheon**: Yuan-ti
 
@@ -25,4 +24,4 @@ Yuan-ti worshipers of Dendar are led by nightmare speakers, malison warlocks tha
 
 ## Sources
 
-*Volo's Guide to Monsters p. 93*
+_Volo's Guide to Monsters p. 93_

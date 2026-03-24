@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Rust Monster
-*Source: Monster Manual p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/rust-monster.webp#right)
 
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
@@ -36,10 +37,9 @@ A rust monster doesn't care if the rust it consumes comes from a spike or a swor
 
 Rust monsters are rarely found in large numbers, preferring to hunt alone or in small groups. They meander along tunnels, moving from cave to cave in their tireless search for ferrous metals to consume. Their wanderings often bring them into contact with other Underdark denizens that find them harmless or unappetizing. Thus, rust monsters may be found in close proximity to other subterranean monsters. If they are well treated and well fed, they can also become friendly companions or pets.
 
-> [!quote] A quote from Brawn Thunderstones, dwarf paladin of Dumathoin  
-> 
+> [!quote] A quote from Brawn Thunderstones, dwarf paladin of Dumathoin
+>
 > Destroyed me hammer and me axe, it did. Put me faith to the test that day, it did.
-
 
 ## Statblock
 
@@ -77,6 +77,7 @@ title: Rust Monster
 
 If the object touched is either metal armor or a metal shield being worn or carried, it takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.
 ```
+
 ^statblock
 
 ## Environment

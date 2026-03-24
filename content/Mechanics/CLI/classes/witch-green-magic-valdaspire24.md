@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Green Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Class/Green.webp#right)
 
-*Wield Nature and an Empowered Familiar*
+_Wield Nature and an Empowered Familiar_
 
 Plants, nature, and things that grow are the domain of Green Magic. Normally a branch of arcana championed by Druids, some Witches have a close tie to the powers of Green Magic and can coax plants and animals to do their bidding.
 

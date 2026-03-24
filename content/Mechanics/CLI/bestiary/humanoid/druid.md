@@ -25,7 +25,8 @@ obsidianUIMode: preview
 ---
 
 # Druid
-*Source: Monster Manual p. 346. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 346. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/druid.webp#right)
 
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
@@ -65,6 +66,7 @@ title: Druid
 
 ***Quarterstaff.*** *Melee Weapon Attack:* `+2` to hit (`+4` to hit with shillelagh), reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage, 4 (`1d8`) bludgeoning damage if wielded with two hands, or 6 (`1d8 + 2`) bludgeoning damage with [shillelagh](Mechanics/CLI/spells/shillelagh-xphb.md).
 ```
+
 ^statblock
 
 ## Environment

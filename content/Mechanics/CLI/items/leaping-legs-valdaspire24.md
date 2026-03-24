@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Leaping Legs
-*Monstrous graft, uncommon*  
 
+_Monstrous graft, uncommon_
 
 - **Properties**: [Legs Slot](Mechanics/CLI/rules/item-properties.md#Legs%20Slot)
 
-*Donor: Any Creature with the Standing Leap Trait or Leap Bonus Action*
+_Donor: Any Creature with the Standing Leap Trait or Leap Bonus Action_
 
 You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to jump up to 15 feet by spending 5 feet of movement.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Draconic Spirit
-*Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/draconic-spirit.webp#center)
 
 ```ad-statblock
@@ -53,4 +54,5 @@ title: Draconic Spirit
 
 ***Breath Weapon.*** *Dexterity Saving Throw:* DC equals your spell save DC, each creature in a 30-foot Cone. *Failure:* `2d6` damage of a type this spirit has Resistance to (your choice when you cast the spell). *Success:* Half damage.
 ```
+
 ^statblock

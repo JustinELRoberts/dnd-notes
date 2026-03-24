@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Manifest Charm of Thelanis, the Faerie Court
-*Charm*  
 
+_Charm_
 
 When you cast a spell from the Enchantment or Illusion school, you can expend the Charm (no action required) to give one target of the spell Disadvantage on its saving throw against the spell.
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 50*
+_Eberron: Forge of the Artificer p. 50_

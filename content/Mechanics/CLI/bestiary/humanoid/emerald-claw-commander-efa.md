@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Emerald Claw Commander
-*Source: Eberron: Forge of the Artificer p. 90*  
+
+_Source: Eberron: Forge of the Artificer p. 90_\
 ![](Mechanics/CLI/bestiary/humanoid/img/emerald-claw-commander.webp#right)
 
 Emerald Claw commanders lead large groups of soldiers, inspiring the fanatical devotion of Humanoids and Undead alike.
@@ -54,4 +55,5 @@ title: Emerald Claw Commander
 
 ***Javelin.*** *Melee  or Ranged Attack Roll:* `+6`, reach 5 ft. or range 30/120 ft.  *Hit:* 7 (`1d6 + 4`) Piercing damage—plus 7 (`2d6`) Necrotic damage if the commander is [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied).
 ```
+
 ^statblock

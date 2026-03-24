@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Gargoyle
-*Source: Monster Manual p. 140. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 140. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/gargoyle.webp#right)
 
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
@@ -42,13 +43,13 @@ Gargoyles sometimes serve demons for their propensity for wanton chaos and destr
 A gargoyle doesn't require air, food, drink, or sleep.
 
 > [!note] Shards of Elemental Evil
-> 
+>
 > As Ogrémoch, the evil Prince of Elemental Earth, treads his stony realm, it leaves shards of broken rock in his wake. Imbued with slivers of sentience, these shards thrum with the essence of the elemental prince, growing over long years into vaguely humanoid rock formations that resolve at last into the hard, cruel shapes of gargoyles.
-> 
+>
 > Ogrémoch doesn't create gargoyles deliberately, but they are a physical manifestation of his evil. Gargoyles are mockeries of the elemental air that Ogrémoch despises. They are heavy creatures of living stone, yet capable of flight. Like their creator, they possess a fundamental hatred for beings of elemental air, aarakocra in particular, and relish every opportunity to destroy such creatures.
-> 
+>
 > On their home plane, gargoyles carve out earth motes that Ogrémoch hurtles into Aaqa, the domain of the aarakocra and the benevolent Wind Dukes the bird folk serve in the Elemental Plane of Air.
-^shards-of-elemental-evil
+> ^shards-of-elemental-evil
 
 ## Statblock
 
@@ -87,6 +88,7 @@ title: Gargoyle
 
 ***Claws.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

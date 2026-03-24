@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Shadar-kai Gloom Weaver
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 213*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 213_\
 ![](Mechanics/CLI/bestiary/humanoid/img/shadar-kai-gloom-weaver.webp#right)
 
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
@@ -85,6 +86,7 @@ title: Shadar-kai Gloom Weaver
 
 ***Misty Escape (Recharge 6-6).*** When the shadar-kai takes damage, it turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until the start of its next turn or until it attacks or casts a spell.
 ```
+
 ^statblock
 
 ## Environment

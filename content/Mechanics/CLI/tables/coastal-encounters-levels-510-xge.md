@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Coastal Encounters (Levels 5—10)
-*Source: Xanathar's Guide to Everything p. 93* 
+
+_Source: Xanathar's Guide to Everything p. 93_
 
 **Coastal Encounters (Levels 5—10)**
 

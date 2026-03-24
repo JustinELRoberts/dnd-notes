@@ -32,13 +32,13 @@ obsidianUIMode: preview
 ---
 
 # +3 Armor
-*Major, legendary*  
 
-
+_Major, legendary_
 
 You have a +3 bonus to AC while wearing this armor.
 
 **Variants**:
+
 - [+3 Breastplate](#+3%20Breastplate)
 - [+3 Chain Mail](#+3%20Chain%20Mail)
 - [+3 Chain Shirt](#+3%20Chain%20Shirt)
@@ -129,5 +129,4 @@ You have a +3 bonus to AC while wearing this armor.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+_Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

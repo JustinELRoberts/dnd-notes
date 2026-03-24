@@ -26,8 +26,8 @@ classes:
 ---
 
 # Summon Beast
-*2nd-level, Conjuration*  
 
+_2nd-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -42,4 +42,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 322*
+_Source: Player's Handbook (2024) p. 322_

@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Protection 
+# Protection
 
-
-***Prerequisites*** Fighting Style Feature
+_**Prerequisites**_ Fighting Style Feature
 
 When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to interpose your [Shield](Mechanics/CLI/items/shield-xphb.md) if you're holding one. You impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.
+
 ## Sources
 
-*Player's Handbook (2024) p. 209*
+_Player's Handbook (2024) p. 209_

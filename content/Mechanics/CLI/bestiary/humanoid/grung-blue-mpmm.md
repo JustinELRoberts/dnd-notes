@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grung (Blue)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156_
 
 ```ad-statblock
 title: Grung (Blue)
@@ -55,6 +56,7 @@ title: Grung (Blue)
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+4` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage plus 5 (`2d4`) poison damage.
 ```
+
 ^statblock
 
 ## Environment

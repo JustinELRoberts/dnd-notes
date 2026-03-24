@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Grimoire Monstrum
-*Wondrous item, uncommon (requires attunement)*  
 
-
+_Wondrous item, uncommon (requires attunement)_
 
 While holding this book of myths and monsters, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Intelligence checks you make related to monsters, spells, or secret or ancient lore.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

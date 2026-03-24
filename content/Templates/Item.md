@@ -8,7 +8,10 @@ tags:
 ---
 
 ## Description
+
 <% tp.file.cursor() %>
+
 ## Uses
+
 - TBD
-<%await tp.file.move(`Campaigns/Under The Ash/Items/${tp.file.title}`)%>
+  <%await tp.file.move(`Campaigns/Under The Ash/Items/${tp.file.title}`)%>

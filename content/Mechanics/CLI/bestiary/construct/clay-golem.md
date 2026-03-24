@@ -16,15 +16,16 @@ obsidianUIMode: preview
 ---
 
 # Clay Golem
-*Source: Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/clay-golem.webp#right)
 
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
 
 Clay golems are often divinely endowed with purpose by priests of great faith. However, clay is a weak vessel for life force. If the golem is damaged, the elemental spirit bound into it can break free. Such a golem runs amok, smashing everything around it until it is destroyed or completely repaired.
 
-> [!quote] A quote from Words of warning in the Manual of Clay Golems  
-> 
+> [!quote] A quote from Words of warning in the Manual of Clay Golems
+>
 > The more rigid its physical form, the less likely the golem is to lose its sense of purpose. The clay ones can be a bit twitchy.
 
 ## Golems
@@ -99,4 +100,5 @@ title: Clay Golem
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 ```
+
 ^statblock

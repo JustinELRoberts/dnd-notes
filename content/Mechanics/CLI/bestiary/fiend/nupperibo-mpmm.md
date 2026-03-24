@@ -16,15 +16,16 @@ obsidianUIMode: preview
 ---
 
 # Nupperibo
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 196*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 196_\
 ![](Mechanics/CLI/bestiary/fiend/img/nupperibo.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > A lemure emerges from the Styx wiped of memory, yet the patterns of evil it performed in life remain indelibly inscribed upon its soul...
-> 
+>
 > But those who lacked ambition cannot climb the hierarchical ladder of the Hells.
-> 
+>
 > They instead step down, becoming nupperibos.
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
@@ -68,4 +69,5 @@ title: Nupperibo
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage.
 ```
+
 ^statblock

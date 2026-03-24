@@ -16,9 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Absorbing Tattoo
-*Wondrous item (tattoo), very rare (requires attunement)*  
 
-
+_Wondrous item (tattoo), very rare (requires attunement)_
 
 Produced by a special needle, this magic tattoo features designs that emphasize one color.
 
@@ -65,4 +64,4 @@ When you take damage of the chosen type, you can use your reaction to gain immun
 - [Radiant Absorbing Tattoo](Mechanics/CLI/items/radiant-absorbing-tattoo-tce.md)
 - [Thunder Absorbing Tattoo](Mechanics/CLI/items/thunder-absorbing-tattoo-tce.md)
 
-*Source: Tasha's Cauldron of Everything p. 119*
+_Source: Tasha's Cauldron of Everything p. 119_

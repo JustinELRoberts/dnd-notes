@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Side Quests
-*Source: Dungeon Master's Guide p. 81* 
+
+_Source: Dungeon Master's Guide p. 81_
 
 **Side Quests**
 

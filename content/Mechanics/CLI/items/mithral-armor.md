@@ -27,13 +27,13 @@ obsidianUIMode: preview
 ---
 
 # Mithral Armor
-*Minor, uncommon*  
 
-
+_Minor, uncommon_
 
 Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
 
 **Variants**:
+
 - [Mithral Breastplate](#Mithral%20Breastplate)
 - [Mithral Chain Mail](#Mithral%20Chain%20Mail)
 - [Mithral Chain Shirt](#Mithral%20Chain%20Shirt)
@@ -89,5 +89,4 @@ Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be 
 - **Armor Class**: 17
 - **Weight**: 60.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

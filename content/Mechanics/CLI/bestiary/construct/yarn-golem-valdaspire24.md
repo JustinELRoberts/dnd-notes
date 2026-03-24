@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Yarn Golem
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Creatures/Yarn%20Golem.webp#right)
 
 The greatest of golems are formed of iron, stone, and clay, but the least of them are constructed of yarn. Balled and sewn into a vaguely humanoid shape, yarn golems are among the first animated objects that arcanists learn to create, practicing with them obsessively until they master the basics and move onto more rigid materials. Yarn golems are friendly and playful, but risk foolishly unraveling themselves if they catch on sharp objects.
@@ -50,4 +51,5 @@ title: Yarn Golem
 
 ***Tangle (Recharge 6).*** *Dexterity Saving Throw:* DC 12, one creature that the golem can see within 5 feet. *Failure:* If the target is Medium or smaller, it has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC 12). While [Grappled](Mechanics/CLI/rules/conditions.md#Grappled), the target has the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition.
 ```
+
 ^statblock

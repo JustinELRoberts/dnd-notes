@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Death Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Dungeon Master's Guide p. 96*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Dungeon Master's Guide p. 96_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

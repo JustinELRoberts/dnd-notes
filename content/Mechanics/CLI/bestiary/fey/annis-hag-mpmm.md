@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Annis Hag
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159_\
 ![](Mechanics/CLI/bestiary/fey/img/annis-hag.webp#right)
 
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
@@ -74,6 +75,7 @@ title: Annis Hag
 
 **3/day each:** [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md) (including the form of a Medium Humanoid), [Fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

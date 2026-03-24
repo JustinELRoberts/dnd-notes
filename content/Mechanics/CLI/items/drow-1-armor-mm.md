@@ -32,11 +32,10 @@ obsidianUIMode: preview
 
 # Drow +1 Armor
 
-
-
 You have a +1 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
 
 **Variants**:
+
 - [Drow +1 Breastplate](#Drow%20+1%20Breastplate)
 - [Drow +1 Chain Mail](#Drow%20+1%20Chain%20Mail)
 - [Drow +1 Chain Shirt](#Drow%20+1%20Chain%20Shirt)
@@ -127,5 +126,4 @@ You have a +1 bonus to AC while wearing this armor. This armor loses its enchant
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
-*Source: Monster Manual p. 126*
+_Source: Monster Manual p. 126_

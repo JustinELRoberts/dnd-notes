@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Oinoloth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 202*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 202_\
 ![](Mechanics/CLI/bestiary/fiend/img/oinoloth.webp#right)
 
 Grim specters of death, oinoloths bring pestilence wherever they go. When armies recognize their awful forms, their mere appearance causes soldiers to break ranks and flee, lest they succumb to one of the awful plagues that oinoloths let loose.
@@ -76,6 +77,7 @@ Furthermore, when a creature moves into the blighted area or starts its turn the
 
 The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature can't regain hit points. After every 24 hours that elapse, the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature can repeat the saving throw. On a failed save, the creature's hit point maximum is reduced by 5 (`1d10`). This reduction lasts until the poison ends, and the target dies if its hit point maximum is reduced to 0. The poison ends after the creature successfully saves against it three times.
 ```
+
 ^statblock
 
 ## Environment

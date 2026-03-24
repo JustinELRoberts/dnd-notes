@@ -17,12 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Laser Pistol
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
 - **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

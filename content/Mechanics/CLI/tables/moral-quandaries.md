@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Moral Quandaries
-*Source: Dungeon Master's Guide p. 79* 
+
+_Source: Dungeon Master's Guide p. 79_
 
 **Moral Quandaries**
 

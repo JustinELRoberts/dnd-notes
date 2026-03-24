@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Villain's Secret Weakness; Villain's Weakness
-*Source: Dungeon Master's Guide p. 96* 
+
+_Source: Dungeon Master's Guide p. 96_
 
 **Villain's Weakness**
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Crafting a Magic Item
-*Source: Dungeon Master's Guide* 
+
+_Source: Dungeon Master's Guide_
 
 Magic items are the DM's purview, so you decide how they fall into the party's possession. As an option, you can allow player characters to craft magic items.
 
@@ -43,10 +44,10 @@ Normally, a character who undertakes this activity creates a magic item describe
 While crafting a magic item, a character can maintain modest lifestyle without having to pay the 1 gp per day, or a comfortable lifestyle at half the normal cost (see chapter 5, ""Equipment"," of the "Player's Handbook").
 
 > [!note] Magic Item Formulas
-> 
+>
 > A magic item formula explains how to make a particular magic item. Such a formula can be an excellent reward if you allow player characters to craft magic items.
-> 
+>
 > You can award a formula in place of a magic item. Usually written in a book or on a scroll, a formula is one step rarer than the item it allows a character to create. For example, the formula for a common magic item is uncommon. No formulas exist for legendary items.
-> 
+>
 > If the creation of magic items is commonplace in your campaign, a formula can have a rarity that matches the rarity of the item it allows a character to create. Formulas for common and uncommon items might even be for sale, each with a cost double that of its magic item.
-^magic-item-formulas
+> ^magic-item-formulas

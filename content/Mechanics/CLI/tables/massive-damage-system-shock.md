@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Massive Damage; System Shock
-*Source: Dungeon Master's Guide p. 273* 
+
+_Source: Dungeon Master's Guide p. 273_
 
 **System Shock**
 

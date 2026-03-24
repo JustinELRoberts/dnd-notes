@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Snake Eyes 
+# Snake Eyes
 
-
-***Prerequisites*** Level 10 Warmage (House of Dice)
+_**Prerequisites**_ Level 10 Warmage (House of Dice)
 
 If you roll a 1 or 2 on a Die of Fate, you keep the die instead of giving it to the GM.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

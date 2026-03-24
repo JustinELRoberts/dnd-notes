@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Tiefling Names – Virtue
-*Source: Xanathar's Guide to Everything p. 180* 
+
+_Source: Xanathar's Guide to Everything p. 180_
 
 **Tiefling Names – Virtue**
 

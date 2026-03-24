@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Magic Initiate 
-
+# Magic Initiate
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Spell Change.** Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.
 
 **Repeatable.** You can take this feat more than once, but you must choose a different spell list each time.
+
 ## Sources
 
-*Player's Handbook (2024) p. 201. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Player's Handbook (2024) p. 201. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

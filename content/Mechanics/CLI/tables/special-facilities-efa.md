@@ -13,13 +13,14 @@ obsidianUIMode: preview
 ---
 
 # Special Facilities
-*Source: Eberron: Forge of the Artificer p. 47* 
+
+_Source: Eberron: Forge of the Artificer p. 47_
 
 **Special Facilities**
 
 | Level | Special Facility | Prerequisite | Order |
 |-------|------------------|--------------|-------|
-| 5 | [Dragonmark Outpost](Mechanics/CLI/bastions/dragonmark-outpost-efa.md) | Renown 10+ with any dragonmarked house* | Empower |
+| 5 | [Dragonmark Outpost](Mechanics/CLI/bastions/dragonmark-outpost-efa.md) | Renown 10+ with any dragonmarked house\* | Empower |
 | 9 | [Kundarak Vault](Mechanics/CLI/bastions/kundarak-vault-efa.md) | Renown 15+ with House Kundarak | Trade |
 | 9 | [Navigator's Helm](Mechanics/CLI/bastions/navigators-helm-efa.md) | None | Empower |
 | 9 | [Orien Helm](Mechanics/CLI/bastions/orien-helm-efa.md) | Renown 15+ with House Orien | Empower |
@@ -31,4 +32,4 @@ obsidianUIMode: preview
 | 17 | [Construct Forge](Mechanics/CLI/bastions/construct-forge-efa.md) | Ability to use Artisan's Tools as a Spellcasting Focus | Recruit |
 ^special-facilities
 
-*Certain benefits of this facility have additional prerequisites.
+\*Certain benefits of this facility have additional prerequisites.

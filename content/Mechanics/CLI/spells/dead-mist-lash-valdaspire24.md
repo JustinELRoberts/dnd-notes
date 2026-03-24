@@ -21,8 +21,8 @@ classes:
 ---
 
 # Dead Mist Lash
-*1st-level, Necromancy*  
 
+_1st-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -37,4 +37,4 @@ When you deal damage with the spell, you can also drain some of your life essenc
 
 **Classes**: [Necromancer (Dead Mist Acolyte)](Mechanics/CLI/lists/list-spells-classes-dead-mist-acolyte-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

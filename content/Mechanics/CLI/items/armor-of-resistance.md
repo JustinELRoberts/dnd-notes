@@ -17,9 +17,9 @@ obsidianUIMode: preview
 ---
 
 # Armor of Resistance
-*Major, rare (requires attunement)*  
-![](Mechanics/CLI/items/img/armor-of-resistance.webp#right)
 
+_Major, rare (requires attunement)_\
+![](Mechanics/CLI/items/img/armor-of-resistance.webp#right)
 
 You have resistance to one type of damage while you wear this armor. The DM chooses the type or determines it randomly from the options below.
 
@@ -50,4 +50,4 @@ You have resistance to one type of damage while you wear this armor. The DM choo
 - [Armor of Radiant Resistance](Mechanics/CLI/items/armor-of-radiant-resistance.md)
 - [Armor of Thunder Resistance](Mechanics/CLI/items/armor-of-thunder-resistance.md)
 
-*Source: Dungeon Master's Guide p. 162*
+_Source: Dungeon Master's Guide p. 162_

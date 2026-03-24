@@ -18,21 +18,21 @@ obsidianUIMode: preview
 ---
 
 # Duergar Kavalrachni
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 107*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 107_
 
 Kavalrachni are duergar cavalry trained to fight while riding [female steeders](Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
 
 ## Duergar
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Duergar architecture is remarkable for its brutalist grandeur. It is not a style I would use for my towers—I prefer gold, gems, and tracery—but I admire the boldness of dwarven stonework.
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > The mental power that duergar wield was given to them by illithids. But why would illithids create servants who could turn invisible or grow to ogre size?
-> 
+>
 > Most likely because those servants would excel at herding their masters' other minions. In retrospect, it seems arguable that duergar escaped bondage because their jailers had given them the keys.
 
 Duergar are dwarves of the deep reaches of the Underdark and other sunless realms. Their personalities and abilities have been deeply impacted by their ancestors' captivity and torment by mind flayers; they were infused with powerful psionic abilities but also a profound gloom. In some, this strain of sorrow inspires works of grand but melancholic beauty, while in others, it manifests as rage.
@@ -85,6 +85,7 @@ title: Duergar Kavalrachni
 
 ***Shared Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it. While the [invisible](Mechanics/CLI/rules/conditions.md#Invisible) duergar is mounted, the mount is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) as well. The invisibility ends early on the mount immediately after it attacks.
 ```
+
 ^statblock
 
 ## Environment

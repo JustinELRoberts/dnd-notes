@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Secondary Tables; Boons
-*Source: Xanathar's Guide to Everything p. 70* 
+
+_Source: Xanathar's Guide to Everything p. 70_
 
 **Boons**
 

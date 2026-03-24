@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Vulkoori Venom Priest
-*Source: Eberron: Forge of the Artificer p. 98*  
+
+_Source: Eberron: Forge of the Artificer p. 98_\
 ![](Mechanics/CLI/bestiary/humanoid/img/vulkoori-venom-priest.webp#right)
 
 Vulkoori venom priests delight in inflicting suffering through poison. Their weaponry and magic are carefully crafted to evoke the presence of the scorpion-god and strike terror into their enemies' hearts.
@@ -61,4 +62,5 @@ title: Vulkoori Venom Priest
 
 ***Intensify Poison.*** Each creature with the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition within a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the priest takes 3 (`1d6`) Poison damage.
 ```
+
 ^statblock

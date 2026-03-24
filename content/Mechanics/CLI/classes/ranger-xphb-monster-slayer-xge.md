@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Monster Slayer
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
-*Source: Xanathar's Guide to Everything p. 43*  
+
+_[Ranger](./ranger-xphb.md): Ranger Subclass_\
+_Source: Xanathar's Guide to Everything p. 43_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

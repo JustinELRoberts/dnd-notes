@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Wasp
-*Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Wasp
@@ -45,6 +46,7 @@ title: Giant Wasp
 
 ***Sting.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 5 (`1d6 + 2`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
 ```
+
 ^statblock
 
 ## Environment

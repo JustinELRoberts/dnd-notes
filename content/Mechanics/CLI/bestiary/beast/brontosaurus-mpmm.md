@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Brontosaurus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139_
 
 This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.
 
@@ -49,6 +49,7 @@ title: Brontosaurus
 
 ***Tail.*** *Melee Weapon Attack:* `+8` to hit, reach 20 ft., one target. *Hit:* 32 (`6d8 + 5`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

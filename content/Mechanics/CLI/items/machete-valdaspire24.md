@@ -16,11 +16,11 @@ obsidianUIMode: preview
 ---
 
 # Machete
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d6 slashing
 - **Cost**: 5 sp
 - **Weight**: 4.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

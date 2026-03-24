@@ -37,8 +37,8 @@ classes:
 ---
 
 # Seeming
-*5th-level, Illusion*  
 
+_5th-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -55,4 +55,4 @@ A creature that takes the [Study](Mechanics/CLI/rules/actions.md#Study) action t
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr (Burden of Levity)](Mechanics/CLI/lists/list-spells-classes-burden-of-levity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Crone)](Mechanics/CLI/lists/list-spells-classes-crone-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger (Gloom Stalker)](Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (Archfey Patron)](Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Genie, Djinni)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Witch (Purple Magic)](Mechanics/CLI/lists/list-spells-classes-purple-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

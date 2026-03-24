@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Strider Airship
-*Source: Eberron: Forge of the Artificer p. 109*  
+
+_Source: Eberron: Forge of the Artificer p. 109_\
 ![Strider Airship Map](Mechanics/CLI/vehicles/img/strider-airship.webp#right)
 
 The Strider Airship is favored by independent merchants, explorers, and privateers. Larger than a skyskiff but smaller than an air cruiser, these reliable vessels provide ample speed and protection for ferrying cargo across the skies.
@@ -32,4 +33,5 @@ title: Strider Airship
 - **Creature Capacity** 6 crew, 20 passengers
 - **Cargo Capacity** 1 ton
 ```
+
 ^statblock

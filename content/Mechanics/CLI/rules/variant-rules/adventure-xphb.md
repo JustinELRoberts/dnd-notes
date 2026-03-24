@@ -13,6 +13,7 @@ obsidianUIMode: preview
 ---
 
 # Adventure
-*Source: Player's Handbook (2024) p. 360. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 360. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 An adventure is a series of [encounters](Mechanics/CLI/rules/variant-rules/encounter-xphb.md). A story emerges through playing them.

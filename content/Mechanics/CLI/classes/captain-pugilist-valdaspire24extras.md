@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Pugilist
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -54,7 +55,7 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 
 The GM decides if a subclass should be cross-compatible in your campaign.
 
-*Crush Foes with Your Fists*
+_Crush Foes with Your Fists_
 
 Knuckles crack and a meaty fist rears back to crush bone. Pugilists are hand-to-hand brawlers with a tolerance for pain and a willingness to inflict it at a moment's notice. Unlike martial artists that emphasize speed and precision, Pugilists leverage brute force in their blows. Why strike several times when once will do?
 
@@ -70,7 +71,7 @@ Your body is a deadly weapon, granting you the following benefits.
 
 **Unarmored Defense.** While you aren't wearing any armor, your base [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Constitution modifiers. You can use a [Shield](Mechanics/CLI/items/shield-xphb.md) and still gain this benefit.
 
-### Shrug Off [Maneuver] (Level 3)
+### Shrug Off \[Maneuver] (Level 3)
 
 When you take damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) and expend one Battle Die to reduce the damage taken by the number rolled on the Battle Die.
 
@@ -86,6 +87,6 @@ When you fail a saving throw while you are [Bloodied](Mechanics/CLI/rules/condit
 
 Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
-### Knockout [Maneuver] (Level 14)
+### Knockout \[Maneuver] (Level 14)
 
 When you hit a creature with an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend three Battle Dice as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to attempt to knock the target out. Add the Battle Dice to the attack's damage roll. If the target has fewer [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) than three times your Vagabond level after taking damage, it has the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition until it regains any [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).

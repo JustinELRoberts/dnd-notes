@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Arcane Focus
-*Spellcasting focus*  
 
-
+_Spellcasting focus_
 
 **Items in this group:**
 
@@ -27,4 +26,4 @@ obsidianUIMode: preview
 - [Staff](Mechanics/CLI/items/staff-xphb.md)
 - [Wand](Mechanics/CLI/items/wand-xphb.md)
 
-*Source: Player's Handbook (2024) p. 224*
+_Source: Player's Handbook (2024) p. 224_

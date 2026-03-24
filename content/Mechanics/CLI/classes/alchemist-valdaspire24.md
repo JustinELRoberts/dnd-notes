@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Alchemist
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th></tr>
@@ -58,12 +59,12 @@ obsidianUIMode: preview
 ## Starting Alchemist
 
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
-- **Skill Proficiencies**: *Choose 3:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 3:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md)
 - **Tool Proficiencies**: [Alchemist's Supplies](Mechanics/CLI/items/alchemists-supplies-xphb.md)
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B* (A) 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Alchemist's Supplies](Mechanics/CLI/items/alchemists-supplies-xphb.md), [Alchemist's Fire](Mechanics/CLI/items/alchemists-fire-xphb.md), [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 6 GP; or (B) 160 GP
+**Starting Equipment:** _Choose A or B_ (A) 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Alchemist's Supplies](Mechanics/CLI/items/alchemists-supplies-xphb.md), [Alchemist's Fire](Mechanics/CLI/items/alchemists-fire-xphb.md), [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 6 GP; or (B) 160 GP
 
 ## Multiclassing Alchemist
 
@@ -105,27 +106,27 @@ When you prime your [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) and deal da
 **Alchemist Save DC.** Some of your Alchemist features require your target to make a saving throw. The save DC equals 8 plus your Intelligence modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md). You can use this saving throw for your [Bombs](Mechanics/CLI/items/bomb-valdaspire24.md) instead of the DC specified in the Explode property.
 
 > [!note] How Many Bombs Do I Have?
-> 
+>
 > As an Alchemist, you can use [Alchemist's Supplies](Mechanics/CLI/items/alchemists-supplies-xphb.md) to effectively make as many [Bombs](Mechanics/CLI/items/bomb-valdaspire24.md) as you need for the adventuring day at no cost. If you prefer to track your inventory of [Bombs](Mechanics/CLI/items/bomb-valdaspire24.md) manually, you can create a number of [Bombs](Mechanics/CLI/items/bomb-valdaspire24.md) equal to 10 + twice your Alchemist level when you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). After 24 hours, an unused [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) becomes inert.
-^how-many-bombs-do-i-have
+> ^how-many-bombs-do-i-have
 
 ### Reagents (Level 1)
 
 You have a collection of powerful reagents that you use to brew potions and empower your [Bombs](Mechanics/CLI/items/bomb-valdaspire24.md). You have 2 Reagents. You regain one expended Reagent when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended Reagents when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You gain additional Reagents when you reach certain Alchemist levels, as shown in the Reagents column of the Alchemist Features table.
 
-**Empowered Bomb.** When you deal damage with a [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can expend a number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) up to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) and add `1d10` to the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) damage roll for each expended [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)).
+**Empowered Bomb.** When you deal damage with a [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can expend a number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) up to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) and add `1d10` to the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) damage roll for each expended [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
 
-Additionally, if you use the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, you can increase the radius of the explosion by 5 feet. You can do so once for each expended [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)). For example, if you expend 2 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)), you can choose for the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) to be a 5, 10 or 15-foot radius.
+Additionally, if you use the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, you can increase the radius of the explosion by 5 feet. You can do so once for each expended [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)). For example, if you expend 2 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)), you can choose for the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) to be a 5, 10 or 15-foot radius.
 
 ### Potion Brewing (Level 1)
 
-You can spend 10 minutes and expend any number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) to brew potions, which can be done during a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md). You can have a total number of potions at one time up to your Intelligence modifier (minimum of 1). These potions retain potency until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), after which they become inert.
+You can spend 10 minutes and expend any number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to brew potions, which can be done during a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md). You can have a total number of potions at one time up to your Intelligence modifier (minimum of 1). These potions retain potency until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), after which they become inert.
 
-When you brew potions, you can also distill potions you have already brewed, destroying them and recovering the [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) expended to brew them, up to a maximum of the number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) listed on the Alchemist Features table. You can expend these [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) immediately to brew new potions.
+When you brew potions, you can also distill potions you have already brewed, destroying them and recovering the [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) expended to brew them, up to a maximum of the number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) listed on the Alchemist Features table. You can expend these [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) immediately to brew new potions.
 
 Your potions don't have unpredictable effects if a creature drinks one of your potions while still under the effects of another.
 
-The number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) and the Alchemist level required to brew a potion are given on the Potions table.
+The number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) and the Alchemist level required to brew a potion are given on the Potions table.
 
 **Potions**
 
@@ -169,7 +170,7 @@ If another Alchemist feature gives you a Bomb Formula, it doesn't count against 
 
 ### Reagent Synthesis (Level 2)
 
-When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can regain an additional number of expended [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) up to your Intelligence modifier (minimum of 1).
+When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can regain an additional number of expended [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) up to your Intelligence modifier (minimum of 1).
 
 Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
@@ -257,7 +258,7 @@ You gain the crowning achievement of alchemy: a Philosopher's Stone, a dynamo of
 
 **Philosopher's Stone Benefits.** As long as you possess the stone, you gain the following benefits:
 
-**Regenerating Reagents.** When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you regain expended [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) until you have 6 if you have 5 or fewer.
+**Regenerating Reagents.** When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you regain expended [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) until you have 6 if you have 5 or fewer.
 
 **Quick Brewing.** You can brew potions as a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action, instead of over the course of 10 minutes.
 
@@ -273,8 +274,8 @@ This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) completely destroys your P
 
 > [!example]- Optional Features: Bomb Formula
 > ![Bomb Formula](Mechanics/CLI/lists/list-optfeaturetype-bf.md#Bomb%20Formula)
-^list-optfeature-bf
+> ^list-optfeature-bf
 
 > [!example]- Optional Features: Discovery Option
 > ![Discovery Option](Mechanics/CLI/lists/list-optfeaturetype-do.md#Discovery%20Option)
-^list-optfeature-do
+> ^list-optfeature-do

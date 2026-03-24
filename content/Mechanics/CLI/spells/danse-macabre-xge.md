@@ -22,7 +22,8 @@ classes:
 ---
 
 # Danse Macabre
-*5th-level, Necromancy*  
+
+_5th-level, Necromancy_\
 ![](Mechanics/CLI/spells/img/danse-macabre.webp#right)
 
 - **Casting time:** 1 Action
@@ -40,4 +41,4 @@ The creatures are under your control until the spell ends, after which they beco
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 153*
+_Source: Xanathar's Guide to Everything p. 153_

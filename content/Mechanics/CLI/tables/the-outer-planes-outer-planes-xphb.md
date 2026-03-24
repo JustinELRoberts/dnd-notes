@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # The Outer Planes; Outer Planes
-*Source: Player's Handbook (2024) p. 344* 
+
+_Source: Player's Handbook (2024) p. 344_
 
 **Outer Planes**
 

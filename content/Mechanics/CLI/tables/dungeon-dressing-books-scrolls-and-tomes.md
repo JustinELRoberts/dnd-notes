@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Dressing; Books, Scrolls, and Tomes
-*Source: Dungeon Master's Guide p. 298* 
+
+_Source: Dungeon Master's Guide p. 298_
 
 **Books, Scrolls, and Tomes**
 

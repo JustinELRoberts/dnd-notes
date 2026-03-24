@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Deer
-*Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Deer
@@ -44,6 +45,7 @@ title: Deer
 
 ***Bite.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 2 (`1d4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

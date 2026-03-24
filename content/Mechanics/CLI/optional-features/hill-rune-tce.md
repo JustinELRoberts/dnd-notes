@@ -13,14 +13,14 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Hill Rune 
+# Hill Rune
 
-
-***Prerequisites*** Level 7
+_**Prerequisites**_ Level 7
 
 This rune's magic bestows a resilience reminiscent of a hill giant. While wearing or carrying an object that bears this rune, you have advantage on saving throws against being [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), and you have resistance against poison damage.
 
 In addition, you can invoke the rune as a bonus action, gaining resistance to bludgeoning, piercing, and slashing damage for 1 minute. Once you invoke this rune, you can't do so again until you finish a short or long rest.
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 45*
+_Tasha's Cauldron of Everything p. 45_

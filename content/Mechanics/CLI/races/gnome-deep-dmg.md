@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Gnome (Deep)
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +1 dex +2
 - **Size**: Small
@@ -28,8 +28,8 @@ obsidianUIMode: preview
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) (self only)  
-- **1/day each.** [blindness/deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](Mechanics/CLI/spells/blur-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md)  
+- **At will.** [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) (self only)
+- **1/day each.** [blindness/deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](Mechanics/CLI/spells/blur-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md)
 
 Intelligence is your spellcasting ability for these spells.
 

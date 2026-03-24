@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Elemental Essence Shard (Air)
-*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)_
 
 - **Weight**: 1.0 lbs.
 
@@ -29,4 +29,4 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 You can immediately fly up to 60 feet without provoking opportunity attacks.
 
-*Source: Tasha's Cauldron of Everything p. 127*
+_Source: Tasha's Cauldron of Everything p. 127_

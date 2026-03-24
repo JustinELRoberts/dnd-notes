@@ -39,8 +39,8 @@ classes:
 ---
 
 # Faerie Fire
-*1st-level, Evocation*  
 
+_1st-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -53,4 +53,4 @@ Objects in a 20-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effec
 
 **Classes**: [Artificer (Cartographer)](Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Twilight Domain)](Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger (Swarmkeeper)](Mechanics/CLI/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE;class=XPHB"); [Warlock (Archfey Patron)](Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

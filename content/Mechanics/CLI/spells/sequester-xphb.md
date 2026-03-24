@@ -20,8 +20,8 @@ classes:
 ---
 
 # Sequester
-*7th-level, Transmutation*  
 
+_7th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -36,4 +36,4 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

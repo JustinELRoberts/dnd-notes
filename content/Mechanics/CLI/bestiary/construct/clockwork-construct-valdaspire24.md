@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Clockwork Construct
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 ```ad-statblock
 title: Clockwork Construct
@@ -46,4 +47,5 @@ title: Clockwork Construct
 
 ***Mace (Macer Only).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6 + 1` Bludgeoning damage.
 ```
+
 ^statblock

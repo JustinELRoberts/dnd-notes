@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Monuments
-*Source: Dungeon Master's Guide p. 108* 
+
+_Source: Dungeon Master's Guide p. 108_
 
 **Monuments**
 

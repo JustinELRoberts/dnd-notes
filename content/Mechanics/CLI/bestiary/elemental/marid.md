@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Marid
-*Source: Monster Manual p. 146*  
+
+_Source: Monster Manual p. 146_\
 ![](Mechanics/CLI/bestiary/elemental/img/marid.webp#right)
 
 Hailing from the Elemental Plane of Water, the marids are the most wondrous of genie-kind. Although all genies wield great power, even the lowliest marid sees itself as clearly superior to the flighty djinn, the ground-hugging dao, and the fuming efreet. Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.
@@ -45,10 +46,9 @@ Humanoids are among the lowest of the creatures that marids must tolerate, altho
 
 Marids are champion tale-tellers, whose favorite legends emphasize the prowess of marids in general and of the speaker in particular. Fanciful genies, they lie often and creatively. They aren't always malicious in their deception, but embellishments suit their fancy. Marids consider it a crime for a lesser being to interrupt one of their tales, and offending a marid is a sure way to invoke its wrath.
 
-> [!quote] A quote from Kesto Brighteyes, Gnome Proprietor of the Parted Veil, a bookshop in Sigil  
-> 
+> [!quote] A quote from Kesto Brighteyes, Gnome Proprietor of the Parted Veil, a bookshop in Sigil
+>
 > The marid poured out of the flask like water and said, 'Your wish is my command.' The halfling, overjoyed, wished for immortality, so the marid polymorphed him into a fish that flopped around humorously until, finally, it expired. It's a cautionary tale that has survived through the ages, so I suppose the halfling got his wish.
-
 
 ## Statblock
 
@@ -96,6 +96,7 @@ title: Marid
 
 ***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (`6d6`) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

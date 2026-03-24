@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Craftsman
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th></tr>
@@ -58,12 +59,12 @@ obsidianUIMode: preview
 ## Starting Craftsman
 
 - **Saving Throw Proficiencies**: Constitution, Intelligence
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Tool Proficiencies**: All [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md)
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Heavy armor](Mechanics/CLI/rules/item-types.md#Heavy%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Warhammer](Mechanics/CLI/items/warhammer-xphb.md), 6 [Light Hammer](Mechanics/CLI/items/light-hammer-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 18 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Heavy Crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), 20 [Bolt](Mechanics/CLI/items/bolt-xphb.md), [Crossbow Bolt Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 13 GP; or (C) 140 GP
+**Starting Equipment:** _Choose A, B, or C:_ (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Warhammer](Mechanics/CLI/items/warhammer-xphb.md), 6 [Light Hammer](Mechanics/CLI/items/light-hammer-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 18 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Heavy Crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), 20 [Bolt](Mechanics/CLI/items/bolt-xphb.md), [Crossbow Bolt Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 13 GP; or (C) 140 GP
 
 ## Multiclassing Craftsman
 

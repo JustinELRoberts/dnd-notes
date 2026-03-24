@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Fiery Blast Trap
-*Generic Hazard*  
 
+_Generic Hazard_
 
 Anyone who steps on the mosaic causes fire to erupt from it. Those who openly wear holy symbols of Pyremius don't trigger this trap.
 
 ## Sources
 
-*Xanathar's Guide to Everything p. 113*
+_Xanathar's Guide to Everything p. 113_

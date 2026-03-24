@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drow Elite Warrior (Magic Equipment)
-*Source: Monster Manual p. 128*  
+
+_Source: Monster Manual p. 128_
 
 ```ad-statblock
 title: Drow Elite Warrior (Magic Equipment)
@@ -65,6 +66,7 @@ title: Drow Elite Warrior (Magic Equipment)
 
 ***Parry.*** The drow adds 3 to its AC against one melee attack that would hit it. To do so, the drow must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock
 
 ## Environment

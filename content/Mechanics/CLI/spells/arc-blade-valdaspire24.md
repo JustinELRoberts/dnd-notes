@@ -19,8 +19,8 @@ classes:
 ---
 
 # Arc Blade
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 15 feet
@@ -33,4 +33,4 @@ As lightning surges through the weapon used in the spell's casting, you make one
 
 **Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

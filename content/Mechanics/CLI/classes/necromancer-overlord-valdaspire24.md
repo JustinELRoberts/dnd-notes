@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Overlord
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Command an Army of Obedient Undead*
+_Command an Army of Obedient Undead_
 
 There are few ambitions that capture the imagination more than the power to rule. From peasantry to nobility, many dream of a world in which they are in charge. Some Necromancers, known as Overlords, view their magic as a means to accomplish this pervasive dream. Seeking control both on and off the battlefield, Overlords leverage their dark magic to bolster their allies and manipulate their foes.
 
@@ -70,7 +71,7 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 ### Charnel Aura (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend 5 or more [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points to create an empowering aura in a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you until the start of your next turn. Undead you control within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) gain a bonus to [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), damage rolls, and AC. This bonus equals +1 for every 5 Charnel Touch points expended, to a maximum of +3.
+As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend 5 or more [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to create an empowering aura in a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you until the start of your next turn. Undead you control within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) gain a bonus to [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), damage rolls, and AC. This bonus equals +1 for every 5 Charnel Touch points expended, to a maximum of +3.
 
 ### Despotic Discourse (Level 6)
 
@@ -82,9 +83,9 @@ When you're hit by an attack roll, you can take a [Reaction](Mechanics/CLI/rules
 
 Once you use this feature, you can't do so until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 2+ spell slot (no action required).
 
-### Tyrant [Lichdom] (Level 20)
+### Tyrant \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your desire for control has warped your transformation, transforming you into a tyrant lich. Your flesh and bone decay, reducing you to nothing more than two glowing dots beneath a hood. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your desire for control has warped your transformation, transforming you into a tyrant lich. Your flesh and bone decay, reducing you to nothing more than two glowing dots beneath a hood. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Possession.** If you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you can choose to possess a nearby body instead of reforming at your spirit jar. When you do so, choose a Humanoid or one of your thralls within 120 feet of yourself. A Humanoid must succeed on a Charisma saving throw against your spell save DC or be possessed. A creature that succeeds its saving throw against your [Possession](Mechanics/CLI/rules/variant-rules/possession-xphb.md) is immune to your [Possession](Mechanics/CLI/rules/variant-rules/possession-xphb.md) for 24 hours.
 

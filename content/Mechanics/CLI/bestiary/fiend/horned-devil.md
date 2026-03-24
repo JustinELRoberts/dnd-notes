@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Horned Devil
-*Source: Monster Manual p. 74. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 74. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/horned-devil.webp#right)
 
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
@@ -118,30 +119,30 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 ^layers-and-lords-of-the-nine-hells-layer
 
 > [!note] Devil True Names and Talismans
-> 
+>
 > Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
-> 
+>
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
-> 
+>
 > However it is summoned, a devil brought to the Material Plane typically resents being pressed into service. However, the devil seizes every opportunity to corrupt its summoner so that the summoner's soul ends up in the Nine Hells. Only imps are truly content to be summoned, and they easily commit to serving a summoner as a familiar, but they still do their utmost to corrupt those who summon them.
-^devil-true-names-and-talismans
+> ^devil-true-names-and-talismans
 
 > [!note] Variant: Devil Summoning
-> 
+>
 > Some devils can have an action option that allows them to summon other devils.
-> 
+>
 > **Summon Devil (1/Day).** The devil chooses what to summon and attempts a magical summoning.
-> 
-> - A barbed devil has a 30 percent chance of summoning one barbed devil.  
-> - A bearded devil has a 30 percent chance of summoning one bearded devil.  
-> - A bone devil has a 40 percent chance of summoning `2d6` spined devils or one bone devil.  
-> - An erinyes has a 50 percent chance of summoning `3d6` spined devils, `1d6` bearded devils, or one erinyes.  
-> - A horned devil has a 30 percent chance of summoning one horned devil.  
-> - An ice devil has a 60 percent chance of summoning one ice devil.  
-> - A pit fiend summons `2d4` bearded devils, `1d4` barbed devils, or one erinyes with no chance of failure.  
-> 
+>
+> - A barbed devil has a 30 percent chance of summoning one barbed devil.
+> - A bearded devil has a 30 percent chance of summoning one bearded devil.
+> - A bone devil has a 40 percent chance of summoning `2d6` spined devils or one bone devil.
+> - An erinyes has a 50 percent chance of summoning `3d6` spined devils, `1d6` bearded devils, or one erinyes.
+> - A horned devil has a 30 percent chance of summoning one horned devil.
+> - An ice devil has a 60 percent chance of summoning one ice devil.
+> - A pit fiend summons `2d4` bearded devils, `1d4` barbed devils, or one erinyes with no chance of failure.
+>
 > A summoned devil appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other devils. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-^variant-devil-summoning
+> ^variant-devil-summoning
 
 ## Statblock
 
@@ -184,4 +185,5 @@ title: Horned Devil
 
 ***Hurl Flame.*** *Ranged Spell Attack:* `+7` to hit, range 150 ft., one target. *Hit:* 14 (`4d6`) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 ```
+
 ^statblock

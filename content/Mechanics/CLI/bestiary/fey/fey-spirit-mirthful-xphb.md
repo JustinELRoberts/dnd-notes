@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fey Spirit (Mirthful)
-*Source: Player's Handbook (2024) p. 326*  
+
+_Source: Player's Handbook (2024) p. 326_
 
 ```ad-statblock
 title: Fey Spirit (Mirthful)
@@ -48,4 +49,5 @@ title: Fey Spirit (Mirthful)
 
 ***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you and the spirit for 1 minute or until the target takes any damage.
 ```
+
 ^statblock

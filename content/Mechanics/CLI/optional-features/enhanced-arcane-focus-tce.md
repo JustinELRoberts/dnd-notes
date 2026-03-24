@@ -13,14 +13,14 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Enhanced Arcane Focus 
+# Enhanced Arcane Focus
 
-
-***Prerequisites*** A rod, staff, or wand (requires attunement)
+_**Prerequisites**_ A rod, staff, or wand (requires attunement)
 
 While holding this item, a creature gains a +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
 
 The bonus increases to +2 when you reach 10th level in this class.
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 21*
+_Tasha's Cauldron of Everything p. 21_

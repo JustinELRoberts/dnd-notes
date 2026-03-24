@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Fly
-*Source: Dungeon Master's Guide p. 169*  
+
+_Source: Dungeon Master's Guide p. 169_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-fly.webp#center)
 
 ```ad-statblock
@@ -39,4 +40,5 @@ title: Giant Fly
 - **Languages** —
 - **Challenge** 
 ```
+
 ^statblock

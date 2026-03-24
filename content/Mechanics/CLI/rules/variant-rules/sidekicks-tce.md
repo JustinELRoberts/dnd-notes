@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Sidekicks
-*Source: Tasha's Cauldron of Everything p. 142* 
+
+_Source: Tasha's Cauldron of Everything p. 142_
 
 This section provides a straightforward way to add a special NPC-called a sidekick-to the group of adventurers. These rules take a creature with a low challenge rating and give it levels in one of three simple classes: Expert, Spellcaster, or Warrior.
 
@@ -23,16 +24,16 @@ You can also use these rules to customize a monster for your own use as DM.
 
 ## Creating a Sidekick
 
-A sidekick can be any type of creature with a stat block in the "Monster Manual" or another D&D book, but the challenge rating in its stat block must be ½ or lower. You take that stat block and add to it, as explained in the "Gaining a Sidekick Class" section.
+A sidekick can be any type of creature with a stat block in the "Monster Manual" or another D\&D book, but the challenge rating in its stat block must be ½ or lower. You take that stat block and add to it, as explained in the "Gaining a Sidekick Class" section.
 
 To join the adventurers, the sidekick must be the friend of at least one of them. This friendship might be connected to a character's backstory or to events that have transpired in play. For example, a sidekick could be a childhood friend or pet, or it might be a creature the adventurers saved. As DM, you determine whether there is sufficient trust established for the creature to join the group.
 
 You decide who plays the sidekick. Here are some options:
 
-- A player plays the sidekick as their second character-ideal when you have only one or two players.  
-- A player plays the sidekick as their only character-ideal for a player who wants a character who's simpler than a typical player character.  
-- The players jointly play the sidekick.  
-- You play the sidekick.  
+- A player plays the sidekick as their second character-ideal when you have only one or two players.
+- A player plays the sidekick as their only character-ideal for a player who wants a character who's simpler than a typical player character.
+- The players jointly play the sidekick.
+- You play the sidekick.
 
 There's no limit on the number of sidekicks in a group, but having more than one per player character can noticeably slow down the game. And when estimating the difficulty of an upcoming encounter, count each sidekick as a character.
 

@@ -25,8 +25,8 @@ classes:
 ---
 
 # Dominate Monster
-*8th-level, Enchantment*  
 
+_8th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -43,4 +43,4 @@ You can command the target to take a [Reaction](Mechanics/CLI/rules/variant-rule
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

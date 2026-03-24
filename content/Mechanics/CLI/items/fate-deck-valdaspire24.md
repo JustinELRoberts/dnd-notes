@@ -14,12 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Fate Deck
-*Wondrous item, very rare*  
 
-
+_Wondrous item, very rare_
 
 This box of cards is interwoven with the threads of fate. A full deck contains a set of 52 [playing cards](Mechanics/CLI/items/playing-cards-xphb.md), but other variations exist, including those with different numbers of cards and sets of dice.
 
 Playing any game with the deck casts [Game of Fate](Mechanics/CLI/spells/game-of-fate-valdaspire24.md) (DC 17) from it. The deck can't cast this spell again until the next dawn.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

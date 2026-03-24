@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Potions for Sale
-*Source: Xanathar's Guide to Everything* 
+
+_Source: Xanathar's Guide to Everything_
 
 **Potions for Sale**
 

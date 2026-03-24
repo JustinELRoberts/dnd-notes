@@ -22,8 +22,8 @@ classes:
 ---
 
 # Wall of Ice
-*6th-level, Evocation*  
 
+_6th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -42,4 +42,4 @@ A creature moving through the sheet of frigid air for the first time on a turn m
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

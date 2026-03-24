@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Astral Dreadnought
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 51*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 51_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/astral-dreadnought.webp#right)
 
 Enormous and terrifying, astral dreadnoughts haunt the silvery void of the Astral Plane, causing planar travelers to shudder at the very thought of them. Dreadnoughts have been gliding through the astral mists since the dawn of the multiverse, trying to devour all other creatures they encounter.
@@ -77,4 +78,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the astral 
 
 ***Psychic Projection (Costs 3 Actions).*** Each creature within 60 feet of the dreadnought must make a DC 19 Wisdom saving throw, taking 26 (`4d10 + 4`) psychic damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock

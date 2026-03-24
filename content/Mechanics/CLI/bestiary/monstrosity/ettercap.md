@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Ettercap
-*Source: Monster Manual p. 131. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 131. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/ettercap.webp#right)
 
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
@@ -76,6 +77,7 @@ title: Ettercap
 
 ***Web (Recharge 5-6).*** *Ranged Weapon Attack:* `+4` to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by webbing. As an action, the [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage.
 ```
+
 ^statblock
 
 ## Environment

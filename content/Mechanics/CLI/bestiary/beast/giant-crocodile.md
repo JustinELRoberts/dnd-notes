@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Crocodile
-*Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Crocodile
@@ -51,6 +52,7 @@ title: Giant Crocodile
 
 ***Tail.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target not [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the crocodile. *Hit:* 14 (`2d8 + 5`) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

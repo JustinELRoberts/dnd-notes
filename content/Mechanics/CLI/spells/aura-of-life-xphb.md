@@ -34,8 +34,8 @@ classes:
 ---
 
 # Aura of Life
-*4th-level, Abjuration*  
 
+_4th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -46,4 +46,4 @@ An aura radiates from you in a 30-foot [Emanation](Mechanics/CLI/rules/variant-r
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric (Twilight Domain)](Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of Wildfire)](Mechanics/CLI/lists/list-spells-classes-circle-of-wildfire-tce.md "subclass=TCE;class=XPHB"); [Martyr (Burden of Mercy)](Mechanics/CLI/lists/list-spells-classes-burden-of-mercy-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

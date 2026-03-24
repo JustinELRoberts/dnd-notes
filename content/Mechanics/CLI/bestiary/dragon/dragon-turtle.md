@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Dragon Turtle
-*Source: Monster Manual p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/dragon-turtle.webp#right)
 
 Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.
@@ -78,6 +79,7 @@ title: Dragon Turtle
 
 ***Steam Breath (Recharge 5-6).*** The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (`15d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 ```
+
 ^statblock
 
 ## Environment

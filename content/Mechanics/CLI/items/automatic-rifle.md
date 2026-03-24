@@ -17,12 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Automatic Rifle
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
 - **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Burst Fire](Mechanics/CLI/rules/item-properties.md#Burst%20Fire), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

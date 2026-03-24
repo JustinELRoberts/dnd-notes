@@ -23,7 +23,8 @@ obsidianUIMode: preview
 ---
 
 # Guard Drake (Blue)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 151_
 
 ```ad-statblock
 title: Guard Drake (Blue)
@@ -53,6 +54,7 @@ title: Guard Drake (Blue)
 
 ***Tail.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

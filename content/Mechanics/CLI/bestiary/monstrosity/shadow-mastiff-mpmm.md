@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Shadow Mastiff
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/shadow-mastiff.webp#right)
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
@@ -65,6 +66,7 @@ title: Shadow Mastiff
 
 ***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
 ```
+
 ^statblock
 
 ## Environment

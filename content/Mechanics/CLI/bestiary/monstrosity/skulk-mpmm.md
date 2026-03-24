@@ -21,11 +21,12 @@ obsidianUIMode: preview
 ---
 
 # Skulk
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 219*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 219_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/skulk.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Some children have imaginary friends that their parents can't see. Sometimes those invisible friends aren't imaginary.
 
 Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently [invisible](Mechanics/CLI/rules/conditions.md#Invisible). Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
@@ -69,6 +70,7 @@ title: Skulk
 
 ***Claw.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 6 (`1d4 + 4`) slashing damage plus 3 (`1d6`) necrotic damage.
 ```
+
 ^statblock
 
 ## Environment

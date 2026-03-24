@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Spirit
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 A spirit is the scarcely tangible echo of humanoid, a soul bound to the mortal realm by necromantic magic.
 
@@ -51,4 +51,5 @@ title: Spirit
 
 ***Grave Touch.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 5 (`1d4 + 3`) Necrotic damage.
 ```
+
 ^statblock

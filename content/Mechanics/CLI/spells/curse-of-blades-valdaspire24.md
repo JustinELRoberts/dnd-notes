@@ -26,8 +26,8 @@ classes:
 ---
 
 # Curse of Blades
-*2nd-level, Enchantment*  
 
+_2nd-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -42,4 +42,4 @@ At the end of its turn, an affected creature can repeat its saving throw, ending
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

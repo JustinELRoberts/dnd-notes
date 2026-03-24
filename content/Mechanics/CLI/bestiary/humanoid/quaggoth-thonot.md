@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Quaggoth Thonot
-*Source: Monster Manual p. 256*  
+
+_Source: Monster Manual p. 256_\
 ![](Mechanics/CLI/bestiary/humanoid/img/quaggoth.webp#right)
 
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
@@ -82,6 +83,7 @@ title: Quaggoth Thonot
 
 ***Claw.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

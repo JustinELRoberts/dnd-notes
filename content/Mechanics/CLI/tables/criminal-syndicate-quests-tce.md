@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Criminal Syndicate Quests
-*Source: Tasha's Cauldron of Everything p. 93* 
+
+_Source: Tasha's Cauldron of Everything p. 93_
 
 **Criminal Syndicate Quests**
 

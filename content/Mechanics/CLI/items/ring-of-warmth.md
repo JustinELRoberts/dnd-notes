@@ -17,10 +17,10 @@ obsidianUIMode: preview
 ---
 
 # Ring of Warmth
-*Ring, major, uncommon (requires attunement)*  
-![](Mechanics/CLI/items/img/ring-of-warmth.webp#right)
 
+_Ring, major, uncommon (requires attunement)_\
+![](Mechanics/CLI/items/img/ring-of-warmth.webp#right)
 
 While wearing this ring, you have resistance to cold damage. In addition, you and everything you wear and carry are unharmed by temperatures as low as -50 degrees Fahrenheit.
 
-*Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

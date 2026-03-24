@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Pentadrone (Rogue)
-*Source: Monster Manual p. 226*  
+
+_Source: Monster Manual p. 226_
 
 ```ad-statblock
 title: Pentadrone (Rogue)
@@ -49,4 +50,5 @@ title: Pentadrone (Rogue)
 
 ***Paralysis Gas (Recharge 5-6).*** The pentadrone exhales a 30-foot cone of gas. Each creature in that area must succeed on a DC 11 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock

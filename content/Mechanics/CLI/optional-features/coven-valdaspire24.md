@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Coven 
-
+# Coven
 
 You can induct others into your insidious coven. Forming a Coven. By performing a special ritual over the course of 8 hours, which can be done during a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can intermingle your cursed magic with a willing creature which then enters into your coven. Your coven can have up to three members, including yourself.
 
@@ -46,9 +45,10 @@ A coven member uses its own spellcasting ability for Coven Spells. A coven membe
 ^coven-spells
 
 > [!note] Male and Female Witches
-> 
+>
 > Witches are commonly considered to be only female, but in reality, Witches can be any gender. This misconception stems from the fact that masculine Witches are often called "Hexers" or incorrectly deemed Warlocks by common folk.
-^male-and-female-witches
+> ^male-and-female-witches
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

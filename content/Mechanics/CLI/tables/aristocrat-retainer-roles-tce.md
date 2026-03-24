@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Aristocrat Retainer Roles
-*Source: Tasha's Cauldron of Everything p. 90* 
+
+_Source: Tasha's Cauldron of Everything p. 90_
 
 **Aristocrat Retainer Roles**
 

@@ -32,8 +32,8 @@ classes:
 ---
 
 # Contagion
-*5th-level, Necromancy*  
 
+_5th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -48,4 +48,4 @@ Whenever the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target recei
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of Spores)](Mechanics/CLI/lists/list-spells-classes-circle-of-spores-tce.md "subclass=TCE;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Necromancer (Crone)](Mechanics/CLI/lists/list-spells-classes-crone-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Paladin (Oathbreaker)](Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Witch (Black Magic)](Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

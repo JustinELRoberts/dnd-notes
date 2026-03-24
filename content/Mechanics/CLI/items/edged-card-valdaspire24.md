@@ -16,12 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Edged Card
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d4 slashing
 - **Range**: 20/60
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Cost**: 1 sp
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

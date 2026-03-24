@@ -33,8 +33,8 @@ classes:
 ---
 
 # Warding Bond
-*2nd-level, Abjuration*  
 
+_2nd-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -47,4 +47,4 @@ The spell ends if you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/h
 
 **Classes**: [Artificer (Battle Smith)](Mechanics/CLI/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Witch (Technicolor Magic)](Mechanics/CLI/lists/list-spells-classes-technicolor-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

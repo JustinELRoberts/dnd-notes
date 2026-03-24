@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Khoravar
-*Source: Eberron: Forge of the Artificer p. 36*  
+
+_Source: Eberron: Forge of the Artificer p. 36_\
 ![](Mechanics/CLI/races/img/khoravar.webp#right)
 
 - **Ability Scores**: None

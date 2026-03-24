@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Half-Red Dragon Veteran
-*Source: Monster Manual p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/half-red-dragon-veteran.webp#right)
 
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
@@ -95,4 +96,5 @@ title: Half-Red Dragon Veteran
 
 ***Fire Breath (Recharge 5-6).*** The veteran exhales fire in a 15-foot cone. Each creature in that area must make a DC 15 Dexterity saving throw, taking 24 (`7d6`) fire damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock

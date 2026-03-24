@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Pale Master
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Achieve the Archetypal Powers of Lichdom*
+_Achieve the Archetypal Powers of Lichdom_
 
 When the need for superiority drives a Necromancer, there is no end to their ambition. Such Necromancers, known as Pale Masters, work feverishly to master every corner of necromantic magic, less out of the desire to improve themselves and more out of spite for their rivals.
 
@@ -72,7 +73,7 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 ### Charnel Empower (Level 3)
 
-When you deal damage with a level 1+ Necromancy spell, you can expend a number of [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points up to a maximum of your Necromancer level plus your Intelligence modifier. One target of the spell takes extra Necrotic damage equal to the number of Charnel Touch points expended.
+When you deal damage with a level 1+ Necromancy spell, you can expend a number of [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points up to a maximum of your Necromancer level plus your Intelligence modifier. One target of the spell takes extra Necrotic damage equal to the number of Charnel Touch points expended.
 
 ### Chilling Disposition (Level 6)
 
@@ -80,15 +81,15 @@ You begin assuming the terrible aspect of a lich, granting you the following ben
 
 **Intelligent Intimidation.** You gain proficiency in the [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) skill, if you didn't have it already. Additionally, you gain a bonus to checks using this skill equal to your Intelligence modifier (minimum bonus of +1).
 
-**Frightening Gaze.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend 10 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points to fix your horrific gaze on a creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw against your spell save DC or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute. The target repeats the save at the end of each of its turns, ending the condition on itself on a success.
+**Frightening Gaze.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend 10 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to fix your horrific gaze on a creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw against your spell save DC or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute. The target repeats the save at the end of each of its turns, ending the condition on itself on a success.
 
 ### Thrall Rush (Level 10)
 
-Whenever you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can empty the contents of your [Dead Space](Mechanics/CLI/classes/necromancer-valdaspire24.md#Dead%20Space%20(Level%202)) and each of your thralls can move up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+Whenever you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can empty the contents of your [Dead Space](Mechanics/CLI/classes/necromancer-valdaspire24.md#Dead%20Space%20\(Level%202\)) and each of your thralls can move up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
 
-### Archlich [Lichdom] (Level 20)
+### Archlich \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your skin clings tightly to your bones, your muscles wither, and your eyes turn milky and dull. Yet, through the veil of weakness, your body exudes unbelievable arcane power. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your skin clings tightly to your bones, your muscles wither, and your eyes turn milky and dull. Yet, through the veil of weakness, your body exudes unbelievable arcane power. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Devour Soul.** When you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you can immediately devour its soul (no action required). Roll a `d8` and regain expended spell slots of your choice whose combined level is no greater than the number rolled. Once you use this benefit, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
@@ -96,4 +97,4 @@ A creature whose soul is devoured can't be restored to life by any means short o
 
 **Magic Resistance.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
 
-**Paralyzing Touch.** When you deal 30 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), the target has the [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) condition until the start of your next turn.
+**Paralyzing Touch.** When you deal 30 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target has the [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) condition until the start of your next turn.

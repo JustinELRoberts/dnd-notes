@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Vegepygmy Chief
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197_\
 ![](Mechanics/CLI/bestiary/plant/img/vegepygmy-chief.webp#right)
 
 As a [vegepygmy](Mechanics/CLI/bestiary/plant/vegepygmy-mpmm.md) ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [russet mold](Mechanics/CLI/traps-hazards/russet-mold-vgm.md) does.
@@ -69,6 +70,7 @@ title: Vegepygmy Chief
 
 ***Spores (1/Day).*** A 15-foot-radius cloud of toxic spores extends out from the vegepygmy. The spores spread around corners. Each creature in that area that isn't a Plant must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, a target takes 9 (`2d8`) poison damage at the start of each of its turns. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

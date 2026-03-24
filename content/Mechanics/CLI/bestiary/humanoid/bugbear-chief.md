@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Bugbear Chief
-*Source: Monster Manual p. 33*  
+
+_Source: Monster Manual p. 33_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bugbear.webp#right)
 
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
@@ -75,6 +76,7 @@ title: Bugbear Chief
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 9 (`2d6 + 3`) piercing damage in melee or 5 (`1d6 + 3`) piercing damage at range.
 ```
+
 ^statblock
 
 ## Environment

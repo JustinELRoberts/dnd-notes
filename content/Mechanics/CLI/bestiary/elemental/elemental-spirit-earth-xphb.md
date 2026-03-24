@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Elemental Spirit (Earth)
-*Source: Player's Handbook (2024) p. 325*  
+
+_Source: Player's Handbook (2024) p. 325_
 
 ```ad-statblock
 title: Elemental Spirit (Earth)
@@ -46,4 +47,5 @@ title: Elemental Spirit (Earth)
 
 ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft.. *Hit:* `1d10 + 4` + the spell's level Bludgeoning damage.
 ```
+
 ^statblock

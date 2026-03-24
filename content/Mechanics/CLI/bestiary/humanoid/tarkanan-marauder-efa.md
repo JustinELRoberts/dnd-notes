@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Tarkanan Marauder
-*Source: Eberron: Forge of the Artificer p. 73*  
+
+_Source: Eberron: Forge of the Artificer p. 73_\
 ![](Mechanics/CLI/bestiary/humanoid/img/tarkanan-marauder.webp#right)
 
 This powerful assassin relies on teleportation to catch targets unaware and deal out rapid death.
@@ -62,4 +63,5 @@ title: Tarkanan Marauder
 
 ***Tear Through Space.*** The marauder teleports to a space it can see within 30 feet, appearing in a dazzling flash. *Constitution Saving Throw:* DC 17, each creature in a 5-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the marauder when it appears. *Failure:* The target has the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition until the end of the marauder's next turn.
 ```
+
 ^statblock

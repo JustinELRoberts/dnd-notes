@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Warrior Sidekick
-*Source: Tasha's Cauldron of Everything p. 146*  
+
+_Source: Tasha's Cauldron of Everything p. 146_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -51,15 +52,15 @@ obsidianUIMode: preview
 
 ## Hit Points
 
-- **Hit Dice**: *x* = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
-- **Hit Points at First Level:** *x* + CON
-- **Hit Points at Higher Levels:** add 1d*x* + CON (minimum of 1)
+- **Hit Dice**: _x_ = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
+- **Hit Points at First Level:** _x_ + CON
+- **Hit Points at Higher Levels:** add 1&#x64;_&#x78;_ + CON (minimum of 1)
 
 ## Starting Warrior Sidekick
 
 - **Saving Throws**: One saving throw of your choice: Strength, Dexterity, or Constitution.
-- **Armor**: All armor; and shields if [humanoid](#Bonus%20Proficiencies%20(Level%201))
-- **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Armor**: All armor; and shields if [humanoid](#Bonus%20Proficiencies%20\(Level%201\))
+- **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20\(Level%201\))
 - **Tools**: none
 - **Skills**: Two skills of your choice from the following list: [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), and [Survival](Mechanics/CLI/rules/skills.md#Survival).
 
@@ -76,7 +77,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 
 ### Bonus Proficiencies (Level 1)
 
-*1st-level Warrior feature*
+_1st-level Warrior feature_
 
 The sidekick gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.
 
@@ -86,16 +87,16 @@ The sidekick gains proficiency with all armor, and if it is a humanoid or has a 
 
 ### Martial Role (Level 1)
 
-*1st-level Warrior feature*
+_1st-level Warrior feature_
 
 Each warrior focuses on offense or defense in their training. Choose one of the following options:
 
-- **Attacker.** The sidekick gains a +2 bonus to all attack rolls.  
-- **Defender.** The sidekick can use its reaction to impose disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the sidekick, provided the sidekick can see the attacker.  
+- **Attacker.** The sidekick gains a +2 bonus to all attack rolls.
+- **Defender.** The sidekick can use its reaction to impose disadvantage on the attack roll of a creature within 5 feet of it whose target isn't the sidekick, provided the sidekick can see the attacker.
 
 ### Second Wind (Level 2)
 
-*2nd-level Warrior feature*
+_2nd-level Warrior feature_
 
 The sidekick can use a bonus action on its turn to regain hit points equal to `1d10` + its level in this class. Once it uses this feature, it must finish a short or long rest before it can use it again.
 
@@ -103,13 +104,13 @@ The sidekick can use this feature twice between rests starting at 20th level.
 
 ### Improved Critical (Level 3)
 
-*3rd-level Warrior feature*
+_3rd-level Warrior feature_
 
 The sidekick's attack rolls score a critical hit on a roll of 19 or 20 on the `d20`.
 
 ### Ability Score Improvement (Level 4)
 
-*4th-level Warrior feature*
+_4th-level Warrior feature_
 
 At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -117,7 +118,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Extra Attack (Level 6)
 
-*6th-level Warrior feature*
+_6th-level Warrior feature_
 
 The sidekick can attack twice, instead of once, whenever it takes the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on its turn.
 
@@ -127,13 +128,13 @@ If the sidekick has the Multiattack action, it can use Extra Attack or Multiatta
 
 ### Battle Readiness (Level 7)
 
-*7th-level Warrior feature*
+_7th-level Warrior feature_
 
 The sidekick has advantage on initiative rolls.
 
 ### Ability Score Improvement (Level 8)
 
-*8th-level Warrior feature*
+_8th-level Warrior feature_
 
 At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -141,13 +142,13 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Improved Defense (Level 10)
 
-*10th-level Warrior feature*
+_10th-level Warrior feature_
 
 The sidekick's Armor Class increases by 1.
 
 ### Indomitable (Level 11)
 
-*11th-level Warrior feature*
+_11th-level Warrior feature_
 
 The sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can't use the feature again until it finishes a long rest.
 
@@ -155,7 +156,7 @@ The sidekick can use this feature twice between long rests starting at 18th leve
 
 ### Ability Score Improvement (Level 12)
 
-*12th-level Warrior feature*
+_12th-level Warrior feature_
 
 At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -163,7 +164,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Ability Score Improvement (Level 14)
 
-*14th-level Warrior feature*
+_14th-level Warrior feature_
 
 At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -171,7 +172,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Extra Attack Improvement (Level 15)
 
-*15th-level Warrior feature*
+_15th-level Warrior feature_
 
 The sidekick can attack twice, instead of once, whenever it takes the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on its turn.
 
@@ -181,7 +182,7 @@ If the sidekick has the Multiattack action, it can use Extra Attack or Multiatta
 
 ### Ability Score Improvement (Level 16)
 
-*16th-level Warrior feature*
+_16th-level Warrior feature_
 
 At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -189,7 +190,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Indomitable Improvement (Level 18)
 
-*18th-level Warrior feature*
+_18th-level Warrior feature_
 
 The sidekick can reroll a saving throw that it fails, but it must use the new roll. When it uses this feature, it can't use the feature again until it finishes a long rest.
 
@@ -197,7 +198,7 @@ The sidekick can use this feature twice between long rests starting at 18th leve
 
 ### Ability Score Improvement (Level 19)
 
-*19th-level Warrior feature*
+_19th-level Warrior feature_
 
 At 4th level and again at 8th, 12th, 14th, 16th, and 19th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -205,6 +206,6 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Second Wind Improvement (Level 20)
 
-*20th-level Warrior feature*
+_20th-level Warrior feature_
 
 The sidekick can use their Second Wind feature twice between rests.

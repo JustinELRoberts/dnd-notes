@@ -35,8 +35,8 @@ classes:
 ---
 
 # Telekinesis
-*5th-level, Transmutation*  
 
+_5th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -61,4 +61,4 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Psi Warrior)](Mechanics/CLI/lists/list-spells-classes-psi-warrior-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of the End)](Mechanics/CLI/lists/list-spells-classes-burden-of-the-end-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Sorcerer (Aberrant Sorcery)](Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (Great Old One Patron)](Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Red Magic)](Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Steel Magic)](Mechanics/CLI/lists/list-spells-classes-steel-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

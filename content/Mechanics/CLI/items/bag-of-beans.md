@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Bag of Beans
-*Wondrous item, minor, rare*  
+
+_Wondrous item, minor, rare_\
 ![](Mechanics/CLI/items/img/bag-of-beans.webp#right)
 
 - **Weight**: 0.5 lbs.
@@ -42,4 +43,4 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 00 | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a [cloud giant's](Mechanics/CLI/bestiary/giant/cloud-giant.md) castle, or a different plane of existence. |
 ^effect
 
-*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Circle of the Moon
-*[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Player's Handbook (2024) p. 86*  
+
+_[Druid](./druid-xphb.md): Druid Subclass_\
+_Source: Player's Handbook (2024) p. 86_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/moon-druid.webp#right)
 
-*Adopt Animal Forms to Guard the Wilds*
+_Adopt Animal Forms to Guard the Wilds_
 
 Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.
 

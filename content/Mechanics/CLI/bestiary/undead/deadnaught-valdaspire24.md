@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Deadnaught
-*Source: Valda's Spire of Secrets (2024)*  
 
+_Source: Valda's Spire of Secrets (2024)_
 
 An Undead hulk clad in heavy armor, a deadnaught is a Necromancer's most fearsome ally.
 
@@ -61,4 +61,5 @@ title: Deadnaught
 
 ***Warhammer.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d10 + 4` Bludgeoning damage.
 ```
+
 ^statblock

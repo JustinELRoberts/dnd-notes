@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Durable 
+# Durable
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Defy Death.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md).
 
 **Speedy Recovery.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one of your [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md), roll the die, and regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the roll.
+
 ## Sources
 
-*Player's Handbook (2024) p. 203*
+_Player's Handbook (2024) p. 203_

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Mace of Terror
-*Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, rare (requires attunement)*  
+
+_Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/mace-of-terror.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -28,4 +29,4 @@ This magic weapon has 3 charges. While holding it, you can use an action and exp
 
 The mace regains `1d3` expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

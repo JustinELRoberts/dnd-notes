@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Oathbreaker
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
-*Source: Dungeon Master's Guide p. 97*  
+
+_[Paladin](./paladin-xphb.md): Paladin Subclass_\
+_Source: Dungeon Master's Guide p. 97_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

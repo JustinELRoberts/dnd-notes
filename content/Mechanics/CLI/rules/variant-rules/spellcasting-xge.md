@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spellcasting
-*Source: Xanathar's Guide to Everything p. 85* 
+
+_Source: Xanathar's Guide to Everything p. 85_
 
 This section expands on the spellcasting rules presented in the "Player's Handbook" and the "Dungeon Master's Guide", providing clarifications and new options.
 

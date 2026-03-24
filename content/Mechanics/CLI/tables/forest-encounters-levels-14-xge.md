@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Forest Encounters (Levels 1—4)
-*Source: Xanathar's Guide to Everything p. 97* 
+
+_Source: Xanathar's Guide to Everything p. 97_
 
 **Forest Encounters (Levels 1—4)**
 

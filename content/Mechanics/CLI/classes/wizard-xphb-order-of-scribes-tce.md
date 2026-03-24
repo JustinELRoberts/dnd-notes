@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Order of Scribes
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Tasha's Cauldron of Everything p. 77*  
+
+_[Wizard](./wizard-xphb.md): Wizard Subclass_\
+_Source: Tasha's Cauldron of Everything p. 77_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -59,33 +60,33 @@ Among wizards, the Order of Scribes is the most bookish. It takes many forms in 
 
 ### Wizardly Quill (Level 2)
 
-*2nd-level Order of Scribes feature*
+_2nd-level Order of Scribes feature_
 
 As a bonus action, you can magically create a Tiny quill in your free hand. The magic quill has the following properties:
 
-- The quill doesn't require ink. When you write with it, it produces ink in a color of your choice on the writing surface.  
-- The time you must spend to copy a spell into your spellbook equals 2 minutes per spell level if you use the quill for the transcription.  
-- You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.  
+- The quill doesn't require ink. When you write with it, it produces ink in a color of your choice on the writing surface.
+- The time you must spend to copy a spell into your spellbook equals 2 minutes per spell level if you use the quill for the transcription.
+- You can erase anything you write with the quill if you wave the feather over the text as a bonus action, provided the text is within 5 feet of you.
 
 This quill disappears if you create another one or if you die.
 
 ### Awakened Spellbook (Level 2)
 
-*2nd-level Order of Scribes feature*
+_2nd-level Order of Scribes feature_
 
 Using specially prepared inks and ancient incantations passed down by your wizardly order, you have awakened an arcane sentience within your spellbook.
 
 While you are holding the book, it grants you the following benefits:
 
-- You can use the book as a spellcasting focus for your wizard spells.  
-- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook, which magically alters the spell's formula for this casting only. The latter spell must be of the same level as the spell slot you expend.  
-- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.  
+- You can use the book as a spellcasting focus for your wizard spells.
+- When you cast a wizard spell with a spell slot, you can temporarily replace its damage type with a type that appears in another spell in your spellbook, which magically alters the spell's formula for this casting only. The latter spell must be of the same level as the spell slot you expend.
+- When you cast a wizard spell as a ritual, you can use the spell's normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can't do so again until you finish a long rest.
 
 If necessary, you can replace the book over the course of a short rest by using your Wizardly Quill to write arcane sigils in a blank book or a magic spellbook to which you're attuned. At the end of the rest, your spellbook's consciousness is summoned into the new book, which the consciousness transforms into your spellbook, along with all its spells. If the previous book still existed somewhere, all the spells vanish from its pages.
 
 ### Manifest Mind (Level 6)
 
-*6th-level Order of Scribes feature*
+_6th-level Order of Scribes feature_
 
 You can conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The spectral mind is intangible and doesn't occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice).
 
@@ -101,7 +102,7 @@ Once you conjure the mind, you can't do so again until you finish a long rest, u
 
 ### Master Scrivener (Level 10)
 
-*10th-level Order of Scribes feature*
+_10th-level Order of Scribes feature_
 
 Whenever you finish a long rest, you can create one magic scroll by touching your Wizardly Quill to a blank piece of paper or parchment and causing one spell from your Awakened Spellbook to be copied onto the scroll. The spellbook must be within 5 feet of you when you make the scroll.
 
@@ -111,7 +112,7 @@ You are also adept at crafting spell scrolls, which are described in the treasur
 
 ### One with the Word (Level 14)
 
-*14th-level Order of Scribes feature*
+_14th-level Order of Scribes feature_
 
 Your connection to your Awakened Spellbook has become so profound that your soul has become entwined with it. While the book is on your person, you have advantage on all Intelligence ([Arcana](Mechanics/CLI/rules/skills.md#Arcana)) checks, as the spellbook helps you remember magical lore.
 

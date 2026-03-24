@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Fortune
-*cantrip, Divination*  
 
+_cantrip, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -31,4 +31,4 @@ You touch a willing creature. Until the spell ends at the end of your next turn,
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

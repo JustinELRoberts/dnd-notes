@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Homunculus Servant 
+# Homunculus Servant
+
 ![](Mechanics/CLI/optional-features/img/homunculus-servant.webp#right)
 
-***Prerequisites*** A gem or crystal worth at least 100 gp
+_**Prerequisites**_ A gem or crystal worth at least 100 gp
 
 You learn intricate methods for magically creating a special [homunculus](Mechanics/CLI/bestiary/construct/homunculus-servant-efa.md) that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.
 
@@ -27,6 +28,7 @@ The homunculus is friendly to you and your companions, and it obeys your command
 In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), the homunculus can take any action of its choice, not just [Dodge](Mechanics/CLI/rules/actions.md#Dodge).
 
 The homunculus regains `2d6` hit points if the [mending](Mechanics/CLI/spells/mending-xphb.md) spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 21*
+_Tasha's Cauldron of Everything p. 21_

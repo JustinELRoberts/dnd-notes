@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Weather Hazards; Environmental Hazards
-*Source: Eberron: Forge of the Artificer p. 111* 
+
+_Source: Eberron: Forge of the Artificer p. 111_
 
 **Environmental Hazards**
 

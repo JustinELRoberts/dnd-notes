@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Kings
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Kings.webp#right)
 
-*Lead Your Allies with Brilliant Stratagems*
+_Lead Your Allies with Brilliant Stratagems_
 
 Warmages who train in the House of Kings specialize in tactics and strategy, learning age-old maneuvers to gain an edge in combat. Natural-born leaders, Kings work best with a cadre of supporters to perform their tactics and overwhelm the enemy. Moreso than all other Warmages, those in the House of Kings treat life and death as a game of strategy to be understood and conquered.
 
@@ -86,12 +87,12 @@ The maneuvers are presented in alphabetical order.
 
 Options:
 
-- [Blitz](Mechanics/CLI/optional-features/blitz-valdaspire24.md)  
-- [Check](Mechanics/CLI/optional-features/check-valdaspire24.md)  
-- [Flash of Brilliance](Mechanics/CLI/optional-features/flash-of-brilliance-valdaspire24.md)  
-- [Gambit](Mechanics/CLI/optional-features/gambit-valdaspire24.md)  
-- [Morale Boost](Mechanics/CLI/optional-features/morale-boost-valdaspire24.md)  
-- [Stalemate](Mechanics/CLI/optional-features/stalemate-valdaspire24.md)  
+- [Blitz](Mechanics/CLI/optional-features/blitz-valdaspire24.md)
+- [Check](Mechanics/CLI/optional-features/check-valdaspire24.md)
+- [Flash of Brilliance](Mechanics/CLI/optional-features/flash-of-brilliance-valdaspire24.md)
+- [Gambit](Mechanics/CLI/optional-features/gambit-valdaspire24.md)
+- [Morale Boost](Mechanics/CLI/optional-features/morale-boost-valdaspire24.md)
+- [Stalemate](Mechanics/CLI/optional-features/stalemate-valdaspire24.md)
 
 ### Lead from the Front (Level 7)
 
@@ -101,7 +102,7 @@ Options:
 
 [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) within 10 feet of you add your Intelligence modifier (minimum of 1) to their saving throws against spells and magical effects.
 
-### Checkmate [Maneuver] (Level 15)
+### Checkmate \[Maneuver] (Level 15)
 
 When you hit a creature with an attack, you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to direct an [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) within 60 feet of yourself that can see or hear you to strike. The [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to cast a cantrip or make one attack with a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). The ally adds the Battle Die to one damage roll of the attack or cantrip.
 

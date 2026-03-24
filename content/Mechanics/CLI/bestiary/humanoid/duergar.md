@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Duergar
-*Source: Monster Manual p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar.webp#right)
 
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
@@ -82,6 +83,7 @@ title: Duergar
 
 ***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken, up to 1 hour (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
 ```
+
 ^statblock
 
 ## Environment

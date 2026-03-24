@@ -16,14 +16,15 @@ obsidianUIMode: preview
 ---
 
 # Orcus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 204*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 204_\
 ![](Mechanics/CLI/bestiary/npc/img/orcus.webp#right)
 
 Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he takes pleasure in the sufferings of the living, he far prefers the company and service of Undead. His desire is to see all life quenched and the multiverse transformed into a vast necropolis populated solely by Undead creatures under his command.
 
 Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become [ghouls](Mechanics/CLI/bestiary/undead/ghoul.md) and [zombies](Mechanics/CLI/bestiary/undead/zombie-xmm.md) that serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.
 
-Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary [Wand of Orcus](Mechanics/CLI/items/wand-of-orcus.md), which is described in the *Dungeon Master's Guide*.
+Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary [Wand of Orcus](Mechanics/CLI/items/wand-of-orcus.md), which is described in the _Dungeon Master's Guide_.
 
 ## Cultists of Orcus
 
@@ -123,4 +124,5 @@ The region containing Orcus's lair is warped by his magic, creating one or more 
 
 If Orcus dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock

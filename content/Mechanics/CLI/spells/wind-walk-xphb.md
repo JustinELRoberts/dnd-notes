@@ -20,8 +20,8 @@ classes:
 ---
 
 # Wind Walk
-*6th-level, Transmutation*  
 
+_6th-level, Transmutation_
 
 - **Casting time:** 1 minute
 - **Range:** 30 feet
@@ -34,4 +34,4 @@ If a target is in cloud form and flying when the effect ends, the target descend
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

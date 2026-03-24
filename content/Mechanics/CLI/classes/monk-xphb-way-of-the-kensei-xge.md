@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Way of the Kensei
-*[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Xanathar's Guide to Everything p. 34*  
+
+_[Monk](./monk-xphb.md): Monk Subclass_\
+_Source: Xanathar's Guide to Everything p. 34_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -65,10 +66,10 @@ When you choose this tradition at 3rd level, your special martial arts training 
 
 Options:
 
-- **Agile Parry**  
-    If you make an unarmed strike as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).  
-- **Kensei's Shot**  
-    You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `1d4` damage of the weapon's type. You retain this benefit until the end of the current turn.  
+- **Agile Parry**\
+  If you make an unarmed strike as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn and are holding a kensei weapon, you can use it to defend yourself if it is a melee weapon. You gain a +2 bonus to AC until the start of your next turn, while the weapon is in your hand and you aren't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+- **Kensei's Shot**\
+  You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `1d4` damage of the weapon's type. You retain this benefit until the end of the current turn.
 
 **Way of the Brush.** You gain proficiency with your choice of [calligrapher's supplies](Mechanics/CLI/items/calligraphers-supplies-xphb.md) or [painter's supplies](Mechanics/CLI/items/painters-supplies-xphb.md).
 

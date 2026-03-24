@@ -27,8 +27,8 @@ classes:
 ---
 
 # Crown of Stars
-*7th-level, Evocation*  
 
+_7th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -43,4 +43,4 @@ If you have four or more motes remaining, they shed bright light in a 30-foot ra
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 152*
+_Source: Xanathar's Guide to Everything p. 152_

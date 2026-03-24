@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Merfolk
-*Source: Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/merfolk.webp#right)
 
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
@@ -64,6 +65,7 @@ title: Merfolk
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+2` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (`1d6`) piercing damage, or 4 (`1d8`) piercing damage if used with two hands to make a melee attack.
 ```
+
 ^statblock
 
 ## Environment

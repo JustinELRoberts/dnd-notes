@@ -32,13 +32,13 @@ obsidianUIMode: preview
 ---
 
 # Smoldering Armor
-*Minor, common*  
 
-
+_Minor, common_
 
 Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
 **Variants**:
+
 - [Smoldering Breastplate](#Smoldering%20Breastplate)
 - [Smoldering Chain Mail](#Smoldering%20Chain%20Mail)
 - [Smoldering Chain Shirt](#Smoldering%20Chain%20Shirt)
@@ -129,5 +129,4 @@ Wisps of harmless, odorless smoke rise from this armor while it is worn.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
-*Source: Xanathar's Guide to Everything p. 139*
+_Source: Xanathar's Guide to Everything p. 139_

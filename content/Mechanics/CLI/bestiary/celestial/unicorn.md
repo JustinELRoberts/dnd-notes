@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Unicorn
-*Source: Monster Manual p. 294. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 294. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/unicorn.webp#right)
 
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
@@ -129,6 +130,7 @@ Transformed by the creature's celestial presence, the domain of a unicorn might 
 
 If the unicorn dies, these effects end immediately.
 ```
+
 ^statblock
 
 ## Environment

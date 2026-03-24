@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Time Operative
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Manipulate Time to Solve Mysteries*
+_Manipulate Time to Solve Mysteries_
 
 Time Operatives are agents from the future bestowed with a series of cryptic goals and a well of chronomantic magic. Some operatives hail from far-off utopias or crumbling apocalypses, while others simply receive a message across space and time and dedicate themselves to its mission. To prevent paradoxes, these Time Operatives receive only the barest clues pertaining to their mission. They know only the gravity of the situation, and that it is inherent upon them to change the course of history.
 

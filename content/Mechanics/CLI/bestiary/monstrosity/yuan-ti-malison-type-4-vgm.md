@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Yuan-ti Malison (Type 4)
-*Source: Volo's Guide to Monsters p. 96*  
+
+_Source: Volo's Guide to Monsters p. 96_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-malison-type-4-and-5.webp#right)
 
 ## Yuan-ti Malison Variants: Types 4 and 5
@@ -56,20 +57,19 @@ Humanoid emotions are foreign to most yuan-ti, which understand sentiment only a
 Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they worship. Instead, they see worship as a means to attain power. A yuan-ti believes an individual who attains enough power can devour and replace one of the yuan-ti gods. The yuan-ti strive for ascension and are willing to commit the darkest atrocities to achieve it.
 
 > [!note] Serpent Gods
-> 
+>
 > The yuan-ti revere a number of powerful entities as gods, including the following.
-> 
+>
 > **Dendar, the Night Serpent.** [Dendar's](Mechanics/CLI/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
-> 
+>
 > **Merrshaulk, Master of the Pit.** [Merrshaulk](Mechanics/CLI/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
-> 
+>
 > **Sseth, the Sibilant Death.** [Sseth](Mechanics/CLI/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
-^serpent-gods
+> ^serpent-gods
 
-> [!quote] A quote from From Masters of the Forbidden City by Codo Vidak  
-> 
+> [!quote] A quote from From Masters of the Forbidden City by Codo Vidak
+>
 > The yuan-ti cast off their humanity long ago, and with it, their sanity.
-
 
 ## Statblock
 
@@ -123,6 +123,7 @@ title: Yuan-ti Malison (Type 4)
 
 ***Longbow (Yuan-ti Form Only).*** *Ranged Weapon Attack:* `+4` to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

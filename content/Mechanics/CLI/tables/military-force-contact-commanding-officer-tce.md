@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Military Force Contact; Commanding Officer
-*Source: Tasha's Cauldron of Everything p. 97* 
+
+_Source: Tasha's Cauldron of Everything p. 97_
 
 **Commanding Officer**
 

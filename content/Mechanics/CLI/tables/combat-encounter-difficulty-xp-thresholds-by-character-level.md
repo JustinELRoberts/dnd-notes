@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Combat Encounter Difficulty; XP Thresholds by Character Level
-*Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)* 
+
+_Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)_
 
 **XP Thresholds by Character Level**
 

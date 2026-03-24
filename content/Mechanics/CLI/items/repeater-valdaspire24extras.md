@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Repeater
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 radiant
 - **Range**: 60/240
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 The quintessential handheld blaster, the Repeater is a staple on the Galactic Frontier. Solid, reliable, and packing just enough firepower to bring down an assailant, nearly every explorer worth their salt has one of these blasters strapped to their hip.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Deathlock Wight
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 87*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 87_\
 ![](Mechanics/CLI/bestiary/undead/img/deathlock-wight.webp#right)
 
 Deprived of much of its magic as a special punishment, a deathlock wight lingers between the warlock it was and the wretched existence of a wight.
@@ -74,4 +75,5 @@ A Humanoid slain by this attack rises 24 hours later as a [zombie](Mechanics/CLI
 
 **1/day each:** [fear](Mechanics/CLI/spells/fear-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md)
 ```
+
 ^statblock

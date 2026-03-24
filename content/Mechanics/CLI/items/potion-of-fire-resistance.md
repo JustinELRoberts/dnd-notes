@@ -16,8 +16,7 @@ obsidianUIMode: preview
 ---
 
 # Potion of Fire Resistance
-*Potion, minor, uncommon*  
 
+_Potion, minor, uncommon_
 
-
-*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

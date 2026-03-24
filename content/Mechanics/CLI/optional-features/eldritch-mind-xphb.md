@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Eldritch Mind 
-
+# Eldritch Mind
 
 You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Constitution saving throws that you make to maintain [Concentration](Mechanics/CLI/rules/conditions.md#Concentration).
+
 ## Sources
 
-*Player's Handbook (2024) p. 155*
+_Player's Handbook (2024) p. 155_

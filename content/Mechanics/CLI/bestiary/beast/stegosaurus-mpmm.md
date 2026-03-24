@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Stegosaurus
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_\
 ![](Mechanics/CLI/bestiary/beast/img/stegosaurus.webp#right)
 
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
@@ -47,6 +48,7 @@ title: Stegosaurus
 
 ***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 26 (`6d6 + 5`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

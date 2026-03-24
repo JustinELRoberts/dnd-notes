@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Demon Brand
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Harness the Demon Within You*
+_Harness the Demon Within You_
 
 Captains bearing an abyssal Demon Brand have struck the darkest of pacts: binding their soul to a demonic entity that periodically takes hold of their body. On the battlefield, they forgo the companionship of a Cohort and rely on a flickering symbiosis between themselves and their demon. The demon and Captain are two halves of the same creature, sharing a single body and parts of one soul.
 

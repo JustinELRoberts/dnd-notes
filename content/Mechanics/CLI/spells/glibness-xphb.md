@@ -20,8 +20,8 @@ classes:
 ---
 
 # Glibness
-*8th-level, Enchantment*  
 
+_8th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -32,4 +32,4 @@ Until the spell ends, when you make a Charisma check, you can replace the number
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

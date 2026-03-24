@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Avia-Ra Sunstaff
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 radiant
 - **Range**: 80/320
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 This long staff, forked at its end near a prominent gemstone, is a blaster in its own right. When used in expert hands, the Sunstaff can bludgeon, trip, and strike foes as a [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md), only to be squeezed in both hands to fire a burst of hot plasma.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Quartz
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 50 gp
 
 A transparent white, smoky gray, or yellow gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

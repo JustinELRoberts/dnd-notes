@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Kuo-toa Whip
-*Source: Monster Manual p. 200*  
+
+_Source: Monster Manual p. 200_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kuo-toa-whip.webp#right)
 
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
@@ -47,20 +48,19 @@ Kuo-toa Gear. Many weapons of the kuo-toa are designed to capture rather than ki
 In general, kuo-toa don't like the weight of armor on their slippery bodies and rely on their natural rubbery hides for protection. However, they like to wear jewelry made from scavenged bones, shells, pearls, gems, and carapace fragments.
 
 > [!note] Variant: Kuo-toa Monitor
-> 
+>
 > A kuo-toa monitor has a challenge rating of 3 (700 XP). It has the same statistics as a kuo-toa whip except that it adds its Wisdom modifier to its Armor Class (AC 13), loses the Spellcaster trait, and replaces the whip's action options with the following action options.
-> 
+>
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
-> 
+>
 > **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
-> 
+>
 > **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
-^variant-kuo-toa-monitor
+> ^variant-kuo-toa-monitor
 
-> [!quote] A quote from Sabal Mizzrym of Menzoberranzan  
-> 
+> [!quote] A quote from Sabal Mizzrym of Menzoberranzan
+>
 > They invent their own gods... the very definition of insanity.
-
 
 ## Statblock
 
@@ -108,6 +108,7 @@ title: Kuo-toa Whip
 
 ***Pincer Staff.*** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the kuo-toa can't use its pincer staff on another target.
 ```
+
 ^statblock
 
 ## Environment

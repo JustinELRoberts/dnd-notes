@@ -24,13 +24,13 @@ obsidianUIMode: preview
 ---
 
 # Moon-Touched Sword
-*Minor, common*  
 
-
+_Minor, common_
 
 In darkness, the unsheathed blade of this sword sheds moonlight, creating bright light in a 15-foot radius and dim light for an additional 15 feet.
 
 **Variants**:
+
 - [Moon-Touched Double-Bladed Scimitar](#Moon-Touched%20Double-Bladed%20Scimitar)
 - [Moon-Touched Greatsword](#Moon-Touched%20Greatsword)
 - [Moon-Touched Longsword](#Moon-Touched%20Longsword)
@@ -76,5 +76,4 @@ In darkness, the unsheathed blade of this sword sheds moonlight, creating bright
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Xanathar's Guide to Everything p. 138*
+_Source: Xanathar's Guide to Everything p. 138_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Speed Factor Initiative Modifiers
-*Source: Dungeon Master's Guide p. 270* 
+
+_Source: Dungeon Master's Guide p. 270_
 
 **Speed Factor Initiative Modifiers**
 

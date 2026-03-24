@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Elemental Essence Shard (Earth)
-*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)_
 
 - **Weight**: 1.0 lbs.
 
@@ -29,4 +29,4 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 You gain resistance to a damage type of your choice until the start of your next turn.
 
-*Source: Tasha's Cauldron of Everything p. 127*
+_Source: Tasha's Cauldron of Everything p. 127_

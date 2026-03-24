@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spell Scrolls for Sale
-*Source: Xanathar's Guide to Everything* 
+
+_Source: Xanathar's Guide to Everything_
 
 **Spell Scrolls for Sale**
 

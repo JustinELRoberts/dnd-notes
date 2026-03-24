@@ -20,8 +20,8 @@ classes:
 ---
 
 # Ensnaring Strike
-*1st-level, Conjuration*  
 
+_1st-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -36,4 +36,4 @@ While [Restrained](Mechanics/CLI/rules/conditions.md#Restrained), the target tak
 
 **Classes**: [Paladin (Oath of the Ancients)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

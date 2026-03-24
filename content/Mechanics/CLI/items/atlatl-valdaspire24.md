@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Atlatl
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d8 piercing
 - **Range**: 60/240
@@ -25,4 +25,4 @@ obsidianUIMode: preview
 - **Cost**: 5 sp
 - **Weight**: 1.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

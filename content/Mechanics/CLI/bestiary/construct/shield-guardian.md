@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Shield Guardian
-*Source: Monster Manual p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/shield-guardian.webp#right)
 
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
@@ -80,6 +81,7 @@ title: Shield Guardian
 
 ***Shield.*** When a creature makes an attack against the wearer of the guardian's amulet, the guardian grants a +2 bonus to the wearer's AC if the guardian is within 5 feet of the wearer.
 ```
+
 ^statblock
 
 ## Environment

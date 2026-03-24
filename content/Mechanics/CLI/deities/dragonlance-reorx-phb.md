@@ -17,15 +17,12 @@ obsidianUIMode: preview
 
 # Reorx
 
-
 - **Alignment**: Neutral
 - **Category**: The Gods of Neutrality
 - **Domains**: Forge, Knowledge
 - **Pantheon**: Dragonlance
 - **Symbol**: Forging hammer
 
-
-
 ## Sources
 
-*Player's Handbook p. 295, Xanathar's Guide to Everything p. 18*
+_Player's Handbook p. 295, Xanathar's Guide to Everything p. 18_

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Booyahg Slave of the Great Old One
-*Source: Volo's Guide to Monsters p. 42*  
 
+_Source: Volo's Guide to Monsters p. 42_
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
 
@@ -75,4 +75,5 @@ title: Booyahg Slave of the Great Old One
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.
 ```
+
 ^statblock

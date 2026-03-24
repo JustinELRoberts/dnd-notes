@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mage (Familiar)
-*Source: Monster Manual p. 347. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 347. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Mage (Familiar)
@@ -59,6 +60,7 @@ title: Mage (Familiar)
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

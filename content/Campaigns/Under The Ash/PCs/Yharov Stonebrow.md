@@ -11,6 +11,6 @@ Class: "[[monk-xphb|Monk]]"
 Subclass:
 ---
 
-![](<Campaigns/Under The Ash/PCs/img/Yharov Stonebrow.png>)
-## Description
+![](Campaigns/Under The Ash/PCs/img/Yharov Stonebrow.png)
 
+## Description

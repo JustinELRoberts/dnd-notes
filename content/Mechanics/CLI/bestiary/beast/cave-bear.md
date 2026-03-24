@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Cave Bear
-*Source: Monster Manual p. 334*  
+
+_Source: Monster Manual p. 334_
 
 ```ad-statblock
 title: Cave Bear
@@ -52,6 +53,7 @@ title: Cave Bear
 
 ***Claws.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

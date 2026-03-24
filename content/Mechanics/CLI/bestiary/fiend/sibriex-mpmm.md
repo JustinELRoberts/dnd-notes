@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Sibriex
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 217*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 217_\
 ![](Mechanics/CLI/bestiary/fiend/img/sibriex.webp#right)
 
 Thought to be as old as the Abyss itself, sibriexes haunt remote parts of that plane, where they use their vile abilities to create new horrors and they seek ancient lore. Rivulets of blood and bile cascade from a sibriex's body, polluting the surrounding landscape.
@@ -83,6 +84,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the sibriex
 
 ***Warp (Costs 2 Actions).*** The sibriex uses Warp Creature.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Forceful Personality 
-
+# Forceful Personality
 
 Your Charisma score increases by 2, and your maximum for this score increases to 22.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

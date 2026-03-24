@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Observant 
+# Observant
 
-
-***Prerequisites*** 4th; Intelligence 13 or higher or 4th; Wisdom 13 or higher
+_**Prerequisites**_ 4th; Intelligence 13 or higher or 4th; Wisdom 13 or higher
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Keen Observer.** Choose one of the following skills: [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), or [Perception](Mechanics/CLI/rules/skills.md#Perception). If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in it.
 
 **Quick Search.** You can take the [Search](Mechanics/CLI/rules/actions.md#Search) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 205*
+_Player's Handbook (2024) p. 205_

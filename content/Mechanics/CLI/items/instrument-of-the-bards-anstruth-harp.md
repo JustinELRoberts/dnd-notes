@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Instrument of the Bards, Anstruth Harp
-*Wondrous item, instrument, major, very rare (requires attunement by a bard)*  
+
+_Wondrous item, instrument, major, very rare (requires attunement by a bard)_\
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-anstruth-harp.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -32,4 +33,4 @@ All instruments of the bards can be used to cast the following spells: [fly](Mec
 
 In addition, the Anstruth harp can be used to cast [control weather](Mechanics/CLI/spells/control-weather-xphb.md), [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md) (5th level), and [wall of thorns](Mechanics/CLI/spells/wall-of-thorns-xphb.md).
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

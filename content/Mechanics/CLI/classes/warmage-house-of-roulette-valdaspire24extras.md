@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Roulette
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Spin the Wheel, Gambling on Your Lucky Numbers*
+_Spin the Wheel, Gambling on Your Lucky Numbers_
 
 Like the Houses of Dice and Cards, Warmages of the House of Roulette are masters of the calculated gamble. Bearing a number of magical chips, they can push the odds when the need arises, pulling off longshot plays that other Warmages could only dream of.
 

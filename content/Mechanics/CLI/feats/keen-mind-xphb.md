@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Keen Mind 
+# Keen Mind
 
-
-***Prerequisites*** 4th; Intelligence 13 or higher
+_**Prerequisites**_ 4th; Intelligence 13 or higher
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Lore Knowledge.** Choose one of the following skills: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion). If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in it.
 
 **Quick Study.** You can take the [Study](Mechanics/CLI/rules/actions.md#Study) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 205*
+_Player's Handbook (2024) p. 205_

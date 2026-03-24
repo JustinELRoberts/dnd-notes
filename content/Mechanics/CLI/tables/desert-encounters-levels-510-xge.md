@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Desert Encounters (Levels 5—10)
-*Source: Xanathar's Guide to Everything p. 95* 
+
+_Source: Xanathar's Guide to Everything p. 95_
 
 **Desert Encounters (Levels 5—10)**
 

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Web
-*Wand, major, uncommon (requires attunement by a spellcaster)*  
+
+_Wand, major, uncommon (requires attunement by a spellcaster)_\
 ![](Mechanics/CLI/items/img/wand-of-web.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -26,4 +27,4 @@ This wand has 7 charges. While holding it, you can use an action to expend 1 of 
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll a `d20`. On a 1, the wand crumbles into ashes and is destroyed.
 
-*Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

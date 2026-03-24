@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Slaymate
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 ```ad-statblock
 title: Slaymate
@@ -47,4 +48,5 @@ title: Slaymate
 
 ***Scratch.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 3 (`1d4 + 1`) Slashing damage.
 ```
+
 ^statblock

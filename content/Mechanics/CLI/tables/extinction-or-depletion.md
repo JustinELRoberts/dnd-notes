@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Extinction or Depletion
-*Source: Dungeon Master's Guide p. 30* 
+
+_Source: Dungeon Master's Guide p. 30_
 
 **Extinction or Depletion**
 

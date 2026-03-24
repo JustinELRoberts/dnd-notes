@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Survivalist 
-
+# Survivalist
 
 To survive in the wild, you taught yourself to cast simple spells. You learn the [Druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md) and [Shillelagh](Mechanics/CLI/spells/shillelagh-xphb.md) cantrips and you gain proficiency in the [Survival](Mechanics/CLI/rules/skills.md#Survival) skill.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

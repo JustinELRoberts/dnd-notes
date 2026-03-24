@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Extreme Heat
-*Weather*  
 
+_Weather_
 
 When the temperature is at or above 100 degrees Fahrenheit, a creature exposed to the heat and without access to drinkable water must succeed on a Constitution saving throw at the end of each hour or gain one level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion). The DC is 5 for the first hour and increases by 1 for each additional hour.
 
@@ -23,4 +23,4 @@ Creatures wearing medium or heavy armor, or who are clad in heavy clothing, have
 
 ## Sources
 
-*Dungeon Master's Guide p. 110*
+_Dungeon Master's Guide p. 110_

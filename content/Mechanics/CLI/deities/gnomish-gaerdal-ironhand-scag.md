@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Gaerdal Ironhand
 
-
 - **Alignment**: Lawful Good
 - **Domains**: War, Peace
 - **Pantheon**: Gnomish
 - **Symbol**: Iron band
 
-
-
 ## Sources
 
-*Sword Coast Adventurer's Guide p. 24, Tasha's Cauldron of Everything p. 33*
+_Sword Coast Adventurer's Guide p. 24, Tasha's Cauldron of Everything p. 33_

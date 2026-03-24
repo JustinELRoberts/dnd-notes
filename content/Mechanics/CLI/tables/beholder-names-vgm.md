@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Beholder Names
-*Source: Volo's Guide to Monsters p. 9* 
+
+_Source: Volo's Guide to Monsters p. 9_
 
 **Beholder Names**
 

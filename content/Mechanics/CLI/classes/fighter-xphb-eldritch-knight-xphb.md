@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Eldritch Knight
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
-*Source: Player's Handbook (2024) p. 96*  
+
+_[Fighter](./fighter-xphb.md): Fighter Subclass_\
+_Source: Player's Handbook (2024) p. 96_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th><th colspan='4'>Spell Slots per Spell Level</th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/eldritch-knight-fighter.webp#right)
 
-*Support Combat Skills with Arcane Magic*
+_Support Combat Skills with Arcane Magic_
 
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.
 

@@ -22,8 +22,8 @@ classes:
 ---
 
 # Resurrection
-*7th-level, Necromancy*  
 
+_7th-level, Necromancy_
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -40,4 +40,4 @@ Casting this spell to revive a creature that has been dead for 365 days or longe
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

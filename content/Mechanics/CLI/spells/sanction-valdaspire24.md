@@ -18,8 +18,8 @@ classes:
 ---
 
 # Sanction
-*1st-level, Abjuration*  
 
+_1st-level, Abjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
@@ -30,4 +30,4 @@ You fling a drop of blood at a creature you can see within range, which must suc
 
 **Classes**: [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

@@ -20,6 +20,7 @@ obsidianUIMode: preview
 ---
 
 # Eldath
+
 ![](Mechanics/CLI/deities/img/scag-symbol-of-eldath.webp#symbol)
 
 - **Alternate Names**: The Quiet One, The Guardian of Groves, The Mother of the Waters
@@ -36,4 +37,4 @@ Eldath's priests don't organize into large sects. Indeed, many are itinerant, wa
 
 ## Sources
 
-*Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 33*
+_Sword Coast Adventurer's Guide p. 21, Tasha's Cauldron of Everything p. 33_

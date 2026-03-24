@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Poison Darts
-*Mechanical Trap*  
 
+_Mechanical Trap_
 
 When a creature steps on a hidden pressure plate, poison-tipped darts shoot from spring-loaded or pressurized tubes cleverly embedded in the surrounding walls. An area might include multiple pressure plates, each one rigged to its own set of darts.
 
@@ -25,4 +25,4 @@ The trap activates when more than 20 pounds of weight is placed on the pressure 
 
 ## Sources
 
-*Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

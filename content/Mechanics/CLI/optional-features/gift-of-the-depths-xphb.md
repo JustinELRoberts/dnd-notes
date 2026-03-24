@@ -13,14 +13,14 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Gift of the Depths 
+# Gift of the Depths
 
-
-***Prerequisites*** Level 5
+_**Prerequisites**_ Level 5
 
 You can breathe underwater, and you gain a [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
 
 You can also cast [Water Breathing](Mechanics/CLI/spells/water-breathing-xphb.md) once without expending a spell slot. You regain the ability to cast it in this way again when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 156*
+_Player's Handbook (2024) p. 156_

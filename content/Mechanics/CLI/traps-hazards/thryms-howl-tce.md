@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Thrym's Howl
-*Eldritch Storm*  
 
+_Eldritch Storm_
 
 These bone-chilling blizzards drive a wall of wind and snow like a living glacier. The storm projects [extreme cold](Mechanics/CLI/traps-hazards/extreme-cold.md) (see the "Dungeon Master's Guide"). Due to the howling wind and dense blue-white ice particles, the area in the storm is heavily obscured, and ranged attack rolls and Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks made within it have disadvantage.
 
@@ -25,4 +25,4 @@ Thrym's howl typically lasts `2d10` hours.
 
 ## Sources
 
-*Tasha's Cauldron of Everything p. 163*
+_Tasha's Cauldron of Everything p. 163_

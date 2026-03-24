@@ -16,7 +16,6 @@ obsidianUIMode: preview
 
 # Shargaas
 
-
 - **Alignment**: Neutral Evil
 - **Domains**: Trickery
 - **Pantheon**: Orc
@@ -40,4 +39,4 @@ Gruumsh doesn't always look kindly on acts of subterfuge and indirectness, becau
 
 ## Sources
 
-*Volo's Guide to Monsters p. 84*
+_Volo's Guide to Monsters p. 84_

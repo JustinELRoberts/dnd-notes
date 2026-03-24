@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Gruumsh
 
-
 - **Alignment**: Chaotic Evil
 - **Domains**: Tempest, War
 - **Pantheon**: Dawn War
 - **Symbol**: Triangular eye with bony protrusions
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

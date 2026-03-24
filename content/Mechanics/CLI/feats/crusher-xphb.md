@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Crusher 
+# Crusher
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Push.** Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.
 
 **Enhanced Critical.** When you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) that deals Bludgeoning damage to a creature, attack rolls against that creature have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) until the start of your next turn.
+
 ## Sources
 
-*Player's Handbook (2024) p. 203*
+_Player's Handbook (2024) p. 203_

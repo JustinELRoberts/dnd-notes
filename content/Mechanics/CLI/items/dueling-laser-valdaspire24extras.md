@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Dueling Laser
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 radiant
 - **Range**: 30/120
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 A pistol intended for honorable, one-on-one duels, the Dueling Laser fires a blinding streak of light and promptly overheats. Spacers favor a Dueling Laser in their offhand for an infrequent but powerful retort.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

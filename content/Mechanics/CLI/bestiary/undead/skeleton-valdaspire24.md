@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Skeleton
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 The renanimated remains of humanoids long since dead, skeletons are puppets of bone held aloft by strings of magic.
 
@@ -50,4 +50,5 @@ title: Skeleton
 
 ***Shortbow.*** *Ranged Attack Roll:* `+5`, range 80/320 ft. *Hit:* 6 (`1d6 + 3`) Piercing damage.
 ```
+
 ^statblock

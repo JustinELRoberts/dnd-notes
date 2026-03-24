@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Mouth of Grolantor
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149_\
 ![](Mechanics/CLI/bestiary/giant/img/mouth-of-grolantor.webp#right)
 
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
@@ -65,6 +66,7 @@ On each of its turns, the giant uses all its movement to move toward the nearest
 
 ***Fist.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 18 (`3d8 + 5`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

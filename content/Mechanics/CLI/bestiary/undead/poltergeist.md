@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Poltergeist
-*Source: Monster Manual p. 279*  
 
+_Source: Monster Manual p. 279_
 
 A poltergeist is the confused, invisible spirit of an individual with no sense of how he or she died. A poltergeist expresses its rage by hurling creatures and objects using the power of its shattered psyche.
 
@@ -64,6 +64,7 @@ If the target is a creature, the poltergeist makes a Charisma check contested by
 
 If the target is an object that isn't being worn or carried, the poltergeist hurls it up to 30 feet in any direction. The poltergeist can use the object as a ranged weapon, attacking one creature along the object's path (`+4` to hit) and dealing 5 (`2d4`) bludgeoning damage on a hit.
 ```
+
 ^statblock
 
 ## Environment

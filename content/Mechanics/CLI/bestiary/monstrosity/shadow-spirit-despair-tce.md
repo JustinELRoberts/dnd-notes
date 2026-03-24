@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Shadow Spirit (Despair)
-*Source: Tasha's Cauldron of Everything p. 114*  
+
+_Source: Tasha's Cauldron of Everything p. 114_
 
 ```ad-statblock
 title: Shadow Spirit (Despair)
@@ -51,4 +52,5 @@ title: Shadow Spirit (Despair)
 
 ***Dreadful Scream (1/Day).*** The spirit screams. Each creature within 30 feet of it must succeed on a Wisdom saving throw against your spell save DC or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. The [frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock

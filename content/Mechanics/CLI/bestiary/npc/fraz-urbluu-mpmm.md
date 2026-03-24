@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fraz-Urb'luu
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 129*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 129_\
 ![](Mechanics/CLI/bestiary/npc/img/fraz-urbluu.webp#right)
 
 Fraz-Urb'luu is the Prince of [Deception](Mechanics/CLI/rules/skills.md#Deception) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
@@ -115,4 +116,5 @@ The region containing Fraz-Urb'luu's lair is warped by his magic, creating one o
 
 If Fraz-Urb'luu dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock

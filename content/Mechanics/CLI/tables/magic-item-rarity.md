@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Magic Item Rarity
-*Source: Dungeon Master's Guide p. 135* 
+
+_Source: Dungeon Master's Guide p. 135_
 
 **Magic Item Rarity**
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Level Advancement without XP
-*Source: Dungeon Master's Guide p. 261* 
+
+_Source: Dungeon Master's Guide p. 261_
 
 You can do away with experience points entirely and control the rate of character advancement. Advance characters based on how many sessions they play, or when they accomplish significant story goals in the campaign. In either case, you tell the players when their characters gain a level.
 

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Booyahg Whip
-*Source: Volo's Guide to Monsters p. 42*  
 
+_Source: Volo's Guide to Monsters p. 42_
 
 Khurgorbaeyag saw fit to gift this goblin with powers that enable it to dominate others. The goblin has `1d3` other goblins that slavishly obey its orders.
 
@@ -64,4 +64,5 @@ title: Booyahg Whip
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+4` to hit, range 80/320 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 ```
+
 ^statblock

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Vadalis Heir
-*Source: Eberron: Forge of the Artificer p. 85*  
+
+_Source: Eberron: Forge of the Artificer p. 85_\
 ![](Mechanics/CLI/bestiary/humanoid/img/vadalis-heir.webp#right)
 
 Combining druidic magic with skill at handling natural and monstrous animals, the dragonmarked heirs of House Vadalis, most of whom are human, are more fearsome than their innocuous-seeming house suggests—especially when accompanied by a Giant Boar, Polar Bear, or Rhinoceros.
@@ -66,4 +67,5 @@ title: Vadalis Heir
 
 ***Spur Beast.*** The heir targets a Beast it can see within 30 feet. The target can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to move up to half its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) and make one melee attack.
 ```
+
 ^statblock

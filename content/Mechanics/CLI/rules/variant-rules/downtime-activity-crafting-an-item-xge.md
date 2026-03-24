@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Crafting an Item
-*Source: Xanathar's Guide to Everything p. 128* 
+
+_Source: Xanathar's Guide to Everything p. 128_
 
 A character who has the time, the money, and the needed tools can use downtime to craft armor, weapons, clothing, or other kinds of nonmagical gear.
 

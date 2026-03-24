@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Crafting Magic Items; Magic Item Crafting Time and Cost
-*Source: Xanathar's Guide to Everything p. 128* 
+
+_Source: Xanathar's Guide to Everything p. 128_
 
 **Magic Item Crafting Time and Cost**
 
-| Item Rarity | Workweeks* | Cost* |
+| Item Rarity | Workweeks\* | Cost\* |
 |-------------|------------|-------|
 | Common | 1 | 50 gp |
 | Uncommon | 2 | 200 gp |
@@ -26,4 +27,4 @@ obsidianUIMode: preview
 | Legendary | 50 | 100,000 gp |
 ^magic-item-crafting-time-and-cost
 
-*Halved for a consumable item like a potion or scroll
+\*Halved for a consumable item like a potion or scroll

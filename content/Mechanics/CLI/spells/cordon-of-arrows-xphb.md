@@ -18,8 +18,8 @@ classes:
 ---
 
 # Cordon of Arrows
-*2nd-level, Transmutation*  
 
+_2nd-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -34,4 +34,4 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 258*
+_Source: Player's Handbook (2024) p. 258_

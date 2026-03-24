@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Beholder
-*Source: Monster Manual p. 28*  
+
+_Source: Monster Manual p. 28_\
 ![](Mechanics/CLI/bestiary/aberration/img/beholder.webp#right)
 
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
@@ -40,8 +41,8 @@ Because they refuse to share territory with others, most beholders withdraw to f
 
 As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](Mechanics/CLI/rules/conditions.md#Petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
 
-> [!quote] A quote from Valkara Ironfeel, dwarf sage  
-> 
+> [!quote] A quote from Valkara Ironfeel, dwarf sage
+>
 > Every beholder thinks it is the epitome of beholderkind, and the only thing it fears is that it might be wrong.
 
 ## A Beholder's Lair
@@ -121,6 +122,7 @@ A region containing a beholder's lair is warped by the creature's unnatural pres
 
 If the beholder dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock
 
 ## Environment

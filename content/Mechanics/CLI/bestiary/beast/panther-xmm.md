@@ -19,16 +19,17 @@ obsidianUIMode: preview
 ---
 
 # Panther
-*Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp#right "A druid calls on animals of the hills and mountains to aid her cause")
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
-![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp "Aquatic animals swim alongside a druid exploring the sea")
-![Inhabitants of the rain fo...](Mechanics/CLI/bestiary/beast/img/animals-rainforest.webp "Inhabitants of the rain forest answer a druid's summons")
+> ![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp)
+> ![Inhabitants of the rain fo...](Mechanics/CLI/bestiary/beast/img/animals-rainforest.webp)
 
 ```ad-statblock
 title: Panther
@@ -58,6 +59,7 @@ title: Panther
 
 ***Nimble Escape.*** The panther takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock
 
 ## Environment

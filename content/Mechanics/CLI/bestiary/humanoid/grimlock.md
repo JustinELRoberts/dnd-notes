@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grimlock
-*Source: Monster Manual p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/grimlock.webp#right)
 
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
@@ -75,6 +76,7 @@ title: Grimlock
 
 ***Spiked Bone Club.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) bludgeoning damage plus 2 (`1d4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

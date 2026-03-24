@@ -19,8 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Ogre Chain Brute
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 201*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 201_
 
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
 
@@ -58,6 +58,7 @@ title: Ogre Chain Brute
 
 ***Chain Sweep.*** The ogre swings its chain, and every creature within 10 feet of it must make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes 8 (`1d8 + 4`) bludgeoning damage and is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, the creature takes half as much damage and isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

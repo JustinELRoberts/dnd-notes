@@ -21,7 +21,8 @@ classes:
 ---
 
 # Armor of Agathys
-*1st-level, Abjuration*  
+
+_1st-level, Abjuration_\
 ![](Mechanics/CLI/spells/img/armor-of-agathys.webp#right)
 
 - **Casting time:** 1 Bonus Action
@@ -35,4 +36,4 @@ Protective magical frost surrounds you. You gain 5 [Temporary Hit Points](Mechan
 
 **Classes**: [Paladin (Oath of Conquest)](Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Player's Handbook (2024) p. 243*
+_Source: Player's Handbook (2024) p. 243_

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Abominable Yeti
-*Source: Monster Manual p. 306*  
+
+_Source: Monster Manual p. 306_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yeti.webp#right)
 
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
@@ -42,10 +43,9 @@ Devious mountain folk sometimes use the yetis as unwitting weapons. A warlord mi
 
 An abominable yeti is larger than a normal yeti, standing three times as tall as a human. It typically lives and hunts alone, though a pair of abominable yetis might live together long enough to raise young. These towering yetis are highly territorial and savage, attacking and devouring any warm-blooded creatures they encounter, then scattering the bones across the ice and snow.
 
-> [!quote] A quote from Kelesta Hawke of the Emerald Enclave  
-> 
+> [!quote] A quote from Kelesta Hawke of the Emerald Enclave
+>
 > On your guard! That's not the wind howling!
-
 
 ## Statblock
 
@@ -88,6 +88,7 @@ title: Abominable Yeti
 
 ***Cold Breath (Recharge 6).*** The yeti exhales a 30-foot cone of frigid air. Each creature in that area must make a DC 18 Constitution saving throw, taking 45 (`10d8`) cold damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

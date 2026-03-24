@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Infested Effects
-*Source: Tasha's Cauldron of Everything p. 156* 
+
+_Source: Tasha's Cauldron of Everything p. 156_
 
 **Infested Effects**
 

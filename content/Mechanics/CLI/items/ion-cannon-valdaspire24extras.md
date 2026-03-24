@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Ion Cannon
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 radiant
 - **Range**: 20/60
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 The Ion Cannon fires a bright, diffuse cone, rendering it deadly up close. Between shots, it makes a quiet zipping noise, as the arcane battery charges the ion cell for another blast.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

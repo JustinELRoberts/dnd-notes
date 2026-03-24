@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Crystal Ball of Telepathy
-*Wondrous item, major, legendary (requires attunement)*  
 
+_Wondrous item, major, legendary (requires attunement)_
 
 - **Weight**: 3.0 lbs.
 
@@ -25,4 +25,4 @@ This [crystal ball](Mechanics/CLI/items/crystal-ball.md) is about 6 inches in di
 
 While [scrying](Mechanics/CLI/spells/scrying-xphb.md) with the [crystal ball](Mechanics/CLI/items/crystal-ball.md), you can communicate telepathically with creatures you can see within 30 feet of the spell's sensor. You can also use an action to cast the [suggestion](Mechanics/CLI/spells/suggestion-xphb.md) spell (save DC 17) through the sensor on one of those creatures. You don't need to concentrate on this suggestion to maintain it during its duration, but it ends if [scrying](Mechanics/CLI/spells/scrying-xphb.md) ends. Once used, the suggestion power of the [crystal ball](Mechanics/CLI/items/crystal-ball.md) can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 159*
+_Source: Dungeon Master's Guide p. 159_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Beast of the Sky
-*Source: Player's Handbook (2024) p. 124*  
+
+_Source: Player's Handbook (2024) p. 124_\
 ![](Mechanics/CLI/bestiary/beast/img/beast-of-the-sky.webp#center)
 
 ```ad-statblock
@@ -49,4 +50,5 @@ title: Beast of the Sky
 
 ***Beast's Strike.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d4 + 3` plus your Wisdom modifier Slashing damage.
 ```
+
 ^statblock

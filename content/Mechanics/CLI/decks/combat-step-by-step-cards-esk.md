@@ -22,14 +22,15 @@ These identical cards outline the order of combat, as described in the "rulebook
 ## Cards
 
 ### Combat Step by Step
-![](Mechanics/CLI/decks/img/combat-step-by-step-combatfront.webp#card)
-- **Determine surprise.** The DM determines whether anyone involved in the combat encounter is [surprised](Mechanics/CLI/rules/conditions.md#Surprised).  
-- **Establish positions.** The DM decides where all the characters and monsters are located. Given the character's marching order and their stated positions, the DM figures out where the adversaries are—how far away and in what direction.  
-- **Roll initiative.** Everyone involved rolls initiative, determining the order of combatants' turns.  
-- **Take turns.** Each participant in the combat takes a turn in the initiative order.  
-- **Begin the next round.** When every participant in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.  
 
+![](Mechanics/CLI/decks/img/combat-step-by-step-combatfront.webp#card)
+
+- **Determine surprise.** The DM determines whether anyone involved in the combat encounter is [surprised](Mechanics/CLI/rules/conditions.md#Surprised).
+- **Establish positions.** The DM decides where all the characters and monsters are located. Given the character's marching order and their stated positions, the DM figures out where the adversaries are—how far away and in what direction.
+- **Roll initiative.** Everyone involved rolls initiative, determining the order of combatants' turns.
+- **Take turns.** Each participant in the combat takes a turn in the initiative order.
+- **Begin the next round.** When every participant in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.
 
 ## Sources
 
-*Essentials Kit p. 3*
+_Essentials Kit p. 3_

@@ -22,7 +22,8 @@ classes:
 ---
 
 # Programmed Illusion
-*6th-level, Illusion*  
+
+_6th-level, Illusion_\
 ![](Mechanics/CLI/spells/img/programmed-illusion.webp#right)
 
 - **Casting time:** 1 Action
@@ -40,4 +41,4 @@ Physical interaction with the image reveals it to be illusory, since things can 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 309. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

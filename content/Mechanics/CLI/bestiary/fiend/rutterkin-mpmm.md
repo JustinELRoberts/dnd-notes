@@ -16,13 +16,14 @@ obsidianUIMode: preview
 ---
 
 # Rutterkin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 210*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 210_\
 ![](Mechanics/CLI/bestiary/fiend/img/rutterkin.webp#right)
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > Eugh, rutterkins. You've heard of stinking cloud—now get ready for its sequel, rancid crows.
-> 
+>
 > (Mordenkainen, my dear, I know you just died inside when you read that. Kisses!)
 
 Rutterkins are warped demons that roam the Abyss in mobs, constantly searching for intruders to surround and devour. These Fiends protect the Abyss from non-demons. When they spot any interlopers, they gather in a crowd and surge forward, emitting a wave of fear in advance of their attacks that leaves their victims terrified and rooted in place.
@@ -60,4 +61,5 @@ title: Rutterkin
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 12 (`3d6 + 2`) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). At the end of each long rest, the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target can repeat the saving throw, ending the effect on itself on a success. If the target is reduced to 0 hit points while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, it dies and instantly transforms into a living [manes](Mechanics/CLI/bestiary/fiend/manes.md). The transformation can be undone only by a [wish](Mechanics/CLI/spells/wish-xphb.md) spell.
 ```
+
 ^statblock

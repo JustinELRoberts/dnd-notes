@@ -16,12 +16,11 @@ obsidianUIMode: preview
 ---
 
 # Reveler's Concertina
-*Wondrous item, instrument, rare (requires attunement by a bard)*  
 
-
+_Wondrous item, instrument, rare (requires attunement by a bard)_
 
 While holding this concertina, you gain a +2 bonus to the saving throw DC of your bard spells.
 
 As an action, you can use the concertina to cast [Otto's irresistible dance](Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md) from the item. This property of the concertina can't be used again until the next dawn.
 
-*Source: Tasha's Cauldron of Everything p. 134*
+_Source: Tasha's Cauldron of Everything p. 134_

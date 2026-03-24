@@ -25,7 +25,8 @@ obsidianUIMode: preview
 ---
 
 # Kobold
-*Source: Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold.webp#right)
 
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
@@ -77,6 +78,7 @@ title: Kobold
 
 ***Sling.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 4 (`1d4 + 2`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

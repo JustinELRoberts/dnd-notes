@@ -29,13 +29,13 @@ obsidianUIMode: preview
 ---
 
 # +3 Ammunition
-*Ammunition, minor, very rare*  
 
-
+_Ammunition, minor, very rare_
 
 You have a +3 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
 **Variants**:
+
 - [+3 Arrow](#+3%20Arrow)
 - [+3 Blowgun Needle](#+3%20Blowgun%20Needle)
 - [+3 Crossbow Bolt](#+3%20Crossbow%20Bolt)
@@ -77,5 +77,4 @@ You have a +3 bonus to attack and damage rolls made with this piece of magic amm
 
 - **Weight**: 0.075 lbs.
 
-
-*Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying a Beholder; Beholder Personality Traits
-*Source: Volo's Guide to Monsters p. 8* 
+
+_Source: Volo's Guide to Monsters p. 8_
 
 **Beholder Personality Traits**
 
@@ -22,7 +23,7 @@ obsidianUIMode: preview
 | 1 | I enjoy lording my superiority over others. |
 | 2 | Cold, emotionless logic is the way I defeat my foes. |
 | 3 | I determine if a creature is worth keeping alive within the first minute of speaking to it. |
-| 4 | I frequently dream of [a particular creature] and am certain it is trying to manipulate me. |
+| 4 | I frequently dream of \[a particular creature] and am certain it is trying to manipulate me. |
 | 5 | I pretend to be insane so my enemies underestimate me. |
 | 6 | I am weary of frequent interruptions. |
 | 7 | Assassination attempts are the only events that quell my feelings of loneliness. |

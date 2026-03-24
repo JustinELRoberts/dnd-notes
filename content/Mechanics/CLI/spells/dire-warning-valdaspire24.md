@@ -24,8 +24,8 @@ classes:
 ---
 
 # Dire Warning
-*4th-level, Divination*  
 
+_4th-level, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -38,4 +38,4 @@ Once you cast this spell, you can't cast it again for 7 days or until you perfor
 
 **Classes**: [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

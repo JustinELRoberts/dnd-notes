@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Sivis Scribe
-*Source: Eberron: Forge of the Artificer p. 84*  
+
+_Source: Eberron: Forge of the Artificer p. 84_\
 ![](Mechanics/CLI/bestiary/humanoid/img/sivis-scribe.webp#right)
 
 The dragonmarked heirs of House Sivis are typically accomplished gnome scholars of magic. In addition to the might that comes with their marks, they favor magical sigils and words of power.
@@ -61,4 +62,5 @@ title: Sivis Scribe
 
 ***Word of Stasis (Recharge 5-6).*** *Constitution Saving Throw:* DC 13, each creature in a 20-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the scribe can see within 60 feet. *Failure:* The target has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition until the start of the scribe's next turn. While the target is [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase.
 ```
+
 ^statblock

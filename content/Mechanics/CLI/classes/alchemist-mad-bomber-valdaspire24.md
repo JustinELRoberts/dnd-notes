@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Mad Bomber
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaAlchemist/Class/Mad%20Bomber.webp#right)
 
-*Blow Things Up*
+_Blow Things Up_
 
 While many "Mad Bombers" aren't actually mad, it takes a special kind of crazy to devote one's life to studying explosives. Most Alchemists who specialize in this field are incorrigible pyromaniacs who take great pleasure in burning, blasting, and blowing things up. Mad Bombers are always working to improve their bombs' effectiveness.
 
@@ -60,7 +61,7 @@ While many "Mad Bombers" aren't actually mad, it takes a special kind of crazy t
 
 Your [Bombs](Mechanics/CLI/items/bomb-valdaspire24.md) deal double damage to objects and structures.
 
-### Black Powder Bomb [Formula] (Level 3)
+### Black Powder Bomb \[Formula] (Level 3)
 
 By adding a charge of black powder to your [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into an Black Powder Bomb. All of this [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) damage dice are d12s. If a target has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Fire damage, it loses that [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) for this damage roll. If it has [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Fire damage, it instead has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) for this damage roll.
 
@@ -76,4 +77,4 @@ Choose one damage type from among Acid, Cold, Fire, Lightning, or Thunder whenev
 
 ### Overloaded Charge (Level 14)
 
-Whenever you expend a number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to empower a [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you gain 2 additional [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) which you can immediately expend to further empower the [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) beyond the normal maximum of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)).
+Whenever you expend a number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to empower a [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you gain 2 additional [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) which you can immediately expend to further empower the [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) beyond the normal maximum of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).

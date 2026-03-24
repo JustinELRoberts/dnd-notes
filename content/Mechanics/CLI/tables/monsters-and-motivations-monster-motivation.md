@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Monsters and Motivations; Monster Motivation
-*Source: Dungeon Master's Guide p. 296* 
+
+_Source: Dungeon Master's Guide p. 296_
 
 **Monster Motivation**
 

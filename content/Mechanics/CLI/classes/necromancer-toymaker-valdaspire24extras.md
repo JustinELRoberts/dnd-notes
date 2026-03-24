@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Toymaker
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Trap Souls Within Handmade Toys*
+_Trap Souls Within Handmade Toys_
 
 Toymaking is not unlike Necromancy. Painting details in miniature, carving faces, stitching clothing, and stringing up limbs require a meticulousness and obsession also well-suited to animating the dead. Necromancers, after all, devise their own playthings and meticulously fashion them, albeit using more gruesome materials. It should come at no surprise, therefore, that Necromancy enjoys a strong tradition of toymaking. Practiced necromantic Toymakers can animate their dolls as slaymates, adorable but lethal minions that strike in overwhelming numbers.
 
@@ -56,11 +57,11 @@ Toymaking is not unlike Necromancy. Painting details in miniature, carving faces
 
 ### Slaymates (Level 3)
 
-You can bind the souls of the dead into Construct vessels—porcelain dolls, clockwork toys, wooden puppets, and stuffed animals. When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) ritual, you can create one or more [Slaymates](Mechanics/CLI/bestiary/construct/slaymate-valdaspire24.md). You command these creatures as your thralls and they count as Undead for the purpose of your Necromancer features. Additionally, two slaymates count as one thrall for the number of thralls you can control and the number of Undead you can store in your [Dead Space](Mechanics/CLI/classes/necromancer-valdaspire24.md#Dead%20Space%20(Level%202)).
+You can bind the souls of the dead into Construct vessels—porcelain dolls, clockwork toys, wooden puppets, and stuffed animals. When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can create one or more [Slaymates](Mechanics/CLI/bestiary/construct/slaymate-valdaspire24.md). You command these creatures as your thralls and they count as Undead for the purpose of your Necromancer features. Additionally, two slaymates count as one thrall for the number of thralls you can control and the number of Undead you can store in your [Dead Space](Mechanics/CLI/classes/necromancer-valdaspire24.md#Dead%20Space%20\(Level%202\)).
 
 ### Charnel Puppet (Level 3)
 
-You can use a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 5 or more [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points to animate two [Slaymates](Mechanics/CLI/bestiary/construct/slaymate-valdaspire24.md) under your control for every 5 points expended, which count as your thralls. These slaymates appear within your space or in an unoccupied space within 5 feet of you.
+You can use a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 5 or more [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to animate two [Slaymates](Mechanics/CLI/bestiary/construct/slaymate-valdaspire24.md) under your control for every 5 points expended, which count as your thralls. These slaymates appear within your space or in an unoccupied space within 5 feet of you.
 
 ### Soul Doll (Level 6)
 
@@ -72,11 +73,11 @@ While the creature's soul is trapped in a Soul Doll, it can't return to life. Th
 
 ### Miniature Minions (Level 10)
 
-When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) ritual, you can choose for any thrall you create to be Tiny and have a toylike appearance of your choice. A Tiny thrall has a +3 bonus to AC.
+When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can choose for any thrall you create to be Tiny and have a toylike appearance of your choice. A Tiny thrall has a +3 bonus to AC.
 
-### Clockwork Lich [Lichdom] (Level 20)
+### Clockwork Lich \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. As part of the Rite, you transfer your soul into a body of ticking clockwork, a stuttering but immortal form. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. As part of the Rite, you transfer your soul into a body of ticking clockwork, a stuttering but immortal form. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Clockwork Body.** Your soul is bound to a Construct body with your statistics. Your type is Construct, instead of Undead.
 

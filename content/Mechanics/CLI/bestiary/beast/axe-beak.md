@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Axe Beak
-*Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
@@ -47,6 +47,7 @@ title: Axe Beak
 
 ***Beak.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

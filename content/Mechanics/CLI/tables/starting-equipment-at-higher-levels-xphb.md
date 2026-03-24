@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Starting Equipment at Higher Levels
-*Source: Player's Handbook (2024) p. 43. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 43. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 **Starting Equipment at Higher Levels**
 

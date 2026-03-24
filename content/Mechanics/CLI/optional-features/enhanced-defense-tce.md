@@ -13,14 +13,14 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Enhanced Defense 
+# Enhanced Defense
 
-
-***Prerequisites*** A suit of armor or a shield
+_**Prerequisites**_ A suit of armor or a shield
 
 A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.
 
 The bonus increases to +2 when you reach 10th level in this class.
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 21*
+_Tasha's Cauldron of Everything p. 21_

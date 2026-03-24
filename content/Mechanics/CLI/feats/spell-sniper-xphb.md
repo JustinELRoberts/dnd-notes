@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Spell Sniper 
+# Spell Sniper
 
-
-***Prerequisites*** 4th; Spellcasting or Pact Magic feature
+_**Prerequisites**_ 4th; Spellcasting or Pact Magic feature
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Casting in Melee.** Being within 5 feet of an enemy doesn't impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your attack rolls with spells.
 
 **Increased Range.** When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
+
 ## Sources
 
-*Player's Handbook (2024) p. 208*
+_Player's Handbook (2024) p. 208_

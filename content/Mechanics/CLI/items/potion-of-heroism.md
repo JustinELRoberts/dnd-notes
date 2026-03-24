@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Potion of Heroism
-*Potion, minor, rare*  
 
-
+_Potion, minor, rare_
 
 For 1 hour after drinking it, you gain 10 temporary hit points that last for 1 hour. For the same duration, you are under the effect of the [bless](Mechanics/CLI/spells/bless-xphb.md) spell (no [concentration](Mechanics/CLI/rules/conditions.md#Concentration) required). This blue potion bubbles and steams as if boiling.
 
-*Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

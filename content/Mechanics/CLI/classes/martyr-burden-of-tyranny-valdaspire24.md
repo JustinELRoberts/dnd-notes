@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Tyranny
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Rule with an Iron Fist*
+_Rule with an Iron Fist_
 
 When malevolent gods find the world pacified and defenseless, they send a Martyr of Tyranny to conquer its kingdoms, subjugate the weak, and spread misery with their blade. Once unleashed, this Martyr stops at nothing to establish an empire to rule over with an iron fist. They demand submission from their foes and pledges of fealty from their allies, taking gleeful satisfaction with every power grab and malicious turn. It isn't enough to rule: they must be feared, and any resistance must cower in their shadows. Only then will the gods let them die, likely stabbed in the back by someone crueler or more pitiless.
 

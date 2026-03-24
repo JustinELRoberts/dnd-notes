@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Ultroloth
-*Source: Monster Manual p. 314*  
+
+_Source: Monster Manual p. 314_\
 ![](Mechanics/CLI/bestiary/fiend/img/ultroloth.webp#right)
 
 Ultroloths command the yugoloth armies of the Blood War. An ultroloth looks like a slender gray-skinned humanoid with an elongated head. Its face bears no features except for two ovoid eyes. These eyes can become sparkling pools of light that can transfix other creatures and leave them reeling and helpless.
@@ -27,7 +28,7 @@ With a reputation for cruelty, ultroloths command their minions to fight while t
 
 ## Yugoloths
 
-Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: *What's in it for me?*
+Yugoloths are fickle fiends that inhabit the planes of Acheron, Gehenna, Hades, and Carceri. They act as mercenaries and are notorious for their shifting loyalties. They are the embodiments of avarice. Before serving under anyone's banner, a yugoloth asks the only question on its mind: _What's in it for me?_
 
 ### Spawn of Gehenna
 
@@ -58,23 +59,22 @@ Somewhere in the brimstone wastes of Gehenna, there roams an ultroloth so strong
 Whatever the case, no fiend finds the General unless the General desires it. His personal name is unknown, and even the Books of Keeping contain no mention of this powerful, thoroughly evil entity.
 
 > [!note] Variant: Yugoloth Summoning
-> 
+>
 > Some yugoloths can have an action option that allows them to summon other yugoloths.
-> 
+>
 > **Summon Yugoloth (1/Day).** The yugoloth chooses what to summon and attempts a magical summoning.
-> 
-> - An arcanaloth has a 40 percent chance of summoning one arcanaloth.  
-> - A mezzoloth has a 30 percent chance of summoning one mezzoloth.  
-> - A nycaloth has a 50 percent chance of summoning `1d4` mezzoloths or one nycaloth.  
-> - An ultroloth has a 50 percent chance of summoning `1d6` mezzoloths, `1d4` nycaloths, or one ultroloth.  
-> 
+>
+> - An arcanaloth has a 40 percent chance of summoning one arcanaloth.
+> - A mezzoloth has a 30 percent chance of summoning one mezzoloth.
+> - A nycaloth has a 50 percent chance of summoning `1d4` mezzoloths or one nycaloth.
+> - An ultroloth has a 50 percent chance of summoning `1d6` mezzoloths, `1d4` nycaloths, or one ultroloth.
+>
 > A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases (unless its summoner is an ultroloth, in which case it acts as an ally of its summoner), and can't summon other yugoloths. The summoned yugoloth remains for l minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it
-^variant-yugoloth-summoning
+> ^variant-yugoloth-summoning
 
-> [!quote] A quote from Shemeshka the Marauder  
-> 
+> [!quote] A quote from Shemeshka the Marauder
+>
 > Power. We all crave it, but only a select few of us deserve it.
-
 
 ## Statblock
 
@@ -126,4 +126,5 @@ title: Ultroloth
 
 ***Teleport.*** The ultroloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 ```
+
 ^statblock

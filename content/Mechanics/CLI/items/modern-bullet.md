@@ -16,9 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Modern Bullet
-*Ammunition (firearm)*  
 
+_Ammunition (firearm)_
 
 - **Weight**: 0.1 lbs.
 
-*Source: Dungeon Master's Guide p. 268*
+_Source: Dungeon Master's Guide p. 268_

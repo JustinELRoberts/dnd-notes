@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Berbalang
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 61*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 61_\
 ![](Mechanics/CLI/bestiary/aberration/img/berbalang.webp#right)
 
 Berbalangs creep across the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
@@ -70,6 +71,7 @@ Claw attack.
 
 The duplicate has the same statistics and knowledge as the berbalang, and everything experienced by the duplicate is known by the berbalang. All damage dealt by the duplicate's attacks is psychic damage.
 ```
+
 ^statblock
 
 ## Environment

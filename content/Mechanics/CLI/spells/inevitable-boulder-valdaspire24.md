@@ -22,8 +22,8 @@ classes:
 ---
 
 # Inevitable Boulder
-*7th-level, Conjuration*  
 
+_7th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -38,4 +38,4 @@ If you maintain your [Concentration](Mechanics/CLI/rules/conditions.md#Concentra
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

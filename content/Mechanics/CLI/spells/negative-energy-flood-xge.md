@@ -22,8 +22,8 @@ classes:
 ---
 
 # Negative Energy Flood
-*5th-level, Necromancy*  
 
+_5th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -36,4 +36,4 @@ If you target an undead with this spell, the target doesn't make a saving throw.
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 163*
+_Source: Xanathar's Guide to Everything p. 163_

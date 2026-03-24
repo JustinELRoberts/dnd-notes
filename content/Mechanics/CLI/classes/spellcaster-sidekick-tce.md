@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Spellcaster Sidekick
-*Source: Tasha's Cauldron of Everything p. 144*  
+
+_Source: Tasha's Cauldron of Everything p. 144_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='10'></th></tr>
@@ -51,15 +52,15 @@ obsidianUIMode: preview
 
 ## Hit Points
 
-- **Hit Dice**: *x* = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
-- **Hit Points at First Level:** *x* + CON
-- **Hit Points at Higher Levels:** add 1d*x* + CON (minimum of 1)
+- **Hit Dice**: _x_ = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
+- **Hit Points at First Level:** _x_ + CON
+- **Hit Points at Higher Levels:** add 1&#x64;_&#x78;_ + CON (minimum of 1)
 
 ## Starting Spellcaster Sidekick
 
 - **Saving Throws**: One saving throw of your choice: Wisdom, Intelligence, or Charisma.
 - **Armor**: Light armor
-- **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20(Level%201))
+- **Weapons**: All simple weapons if [humanoid](#Bonus%20Proficiencies%20\(Level%201\))
 - **Tools**: none
 - **Skills**: Two skills of your choice from the following list: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Performance](Mechanics/CLI/rules/skills.md#Performance), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), and [Religion](Mechanics/CLI/rules/skills.md#Religion).
 
@@ -78,7 +79,7 @@ To gain the Spellcaster class, a creature must have at least one language in its
 
 ### Bonus Proficiencies (Level 1)
 
-*1st-level Spellcaster feature*
+_1st-level Spellcaster feature_
 
 The sidekick gains proficiency in one saving throw of your choice: Wisdom, Intelligence, or Charisma.
 
@@ -88,7 +89,7 @@ The sidekick gains proficiency with light armor, and if it is a humanoid or has 
 
 ### Spellcasting (Level 1)
 
-*1st-level Spellcaster feature*
+_1st-level Spellcaster feature_
 
 The sidekick gains the ability to cast spells. (If the creature already has the Spellcasting trait, this feature replaces that trait.) Choose the Spellcaster's role: Mage, Healer, or Prodigy. This choice determines the spell list and spellcasting ability used by the sidekick, as shown on the Spellcasting table.
 
@@ -105,11 +106,11 @@ The sidekick gains the ability to cast spells. (If the creature already has the 
 
 **Spells Known.** The sidekick knows two cantrips and one 1st-level spell of your choice from its spell list. Here are recommendations for a 1st-level spellcaster of each role:
 
-- **Mage.** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [ray of frost](Mechanics/CLI/spells/ray-of-frost-xphb.md), [thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md)  
-- **Healer.** [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [guidance](Mechanics/CLI/spells/guidance-xphb.md), [sacred flame](Mechanics/CLI/spells/sacred-flame-xphb.md)  
-- **Prodigy.** [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md), [healing word](Mechanics/CLI/spells/healing-word-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md)  
-- The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.  
-- Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.  
+- **Mage.** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [ray of frost](Mechanics/CLI/spells/ray-of-frost-xphb.md), [thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md)
+- **Healer.** [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [guidance](Mechanics/CLI/spells/guidance-xphb.md), [sacred flame](Mechanics/CLI/spells/sacred-flame-xphb.md)
+- **Prodigy.** [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md), [healing word](Mechanics/CLI/spells/healing-word-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md)
+- The Cantrips Known and Spells Known columns of the Spellcaster table shows when the sidekick learns more spells of your choice. Each of the spells in the Spells Known column must be of a level for which the sidekick has spell slots, as shown on the table. For instance, when the sidekick reaches 5th level in this class, it can learn one new spell of 1st or 2nd level.
+- Additionally, when the sidekick gains a level in this class, you can choose one of the spells it knows from this class and replace it with another spell from its spell list. The new spell must be a cantrip or of a level for which the sidekick has spell slots.
 
 **Spellcasting Ability.** The sidekick's spellcasting ability for these spells depends on the choice you made on the Spellcasting table.
 
@@ -123,7 +124,7 @@ The sidekick uses its spellcasting ability whenever a spell refers to that abili
 
 ### Ability Score Improvement (Level 4)
 
-*4th-level Spellcaster feature*
+_4th-level Spellcaster feature_
 
 At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -131,13 +132,13 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Potent Cantrips (Level 6)
 
-*6th-level Spellcaster feature*
+_6th-level Spellcaster feature_
 
 The sidekick can add its spellcasting ability modifier to the damage it deals with any cantrip.
 
 ### Ability Score Improvement (Level 8)
 
-*8th-level Spellcaster feature*
+_8th-level Spellcaster feature_
 
 At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -145,7 +146,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Ability Score Improvement (Level 12)
 
-*12th-level Spellcaster feature*
+_12th-level Spellcaster feature_
 
 At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -153,13 +154,13 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Empowered Spells (Level 14)
 
-*14th-level Spellcaster feature*
+_14th-level Spellcaster feature_
 
 Choose one school of magic. Whenever the sidekick casts a spell of that school by expending a spell slot, the sidekick can add its spellcasting ability modifier to the spell's damage roll or healing roll, if any.
 
 ### Ability Score Improvement (Level 16)
 
-*16th-level Spellcaster feature*
+_16th-level Spellcaster feature_
 
 At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -167,7 +168,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Ability Score Improvement (Level 18)
 
-*18th-level Spellcaster feature*
+_18th-level Spellcaster feature_
 
 At 4th level and again at 8th, 12th, 16th, and 18th level, the sidekick increases one ability score of your choice by 2, or the sidekick increases two ability scores of your choice by 1. The sidekick can't increase an ability score above 20 using this feature.
 
@@ -175,6 +176,6 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 ### Focused Casting (Level 20)
 
-*20th-level Spellcaster feature*
+_20th-level Spellcaster feature_
 
 Taking damage can't break the sidekick's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) on a spell.

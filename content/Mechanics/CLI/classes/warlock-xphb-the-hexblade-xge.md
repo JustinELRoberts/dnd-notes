@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # The Hexblade
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
-*Source: Xanathar's Guide to Everything p. 55*  
+
+_[Warlock](./warlock-xphb.md): Warlock Subclass_\
+_Source: Xanathar's Guide to Everything p. 55_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -76,9 +77,9 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). Until the curse ends, you gain the following benefits:
 
-- You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.  
-- Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `d20`.  
-- If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).  
+- You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
+- Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `d20`.
+- If the cursed target dies, you regain hit points equal to your warlock level + your Charisma modifier (minimum of 1 hit point).
 
 You can't use this feature again until you finish a short or long rest.
 

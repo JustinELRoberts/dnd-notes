@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Merregon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 179*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 179_\
 ![](Mechanics/CLI/bestiary/fiend/img/merregon.webp#right)
 
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
@@ -67,4 +68,5 @@ title: Merregon
 
 ***Loyal Bodyguard.*** When another Fiend within 5 feet of the merregon is hit by an attack roll, the merregon causes itself to be hit instead.
 ```
+
 ^statblock

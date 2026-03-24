@@ -16,10 +16,10 @@ obsidianUIMode: preview
 ---
 
 # Unbreakable Arrow
-*Ammunition, minor, common*  
-![](Mechanics/CLI/items/img/unbreakable-arrow.webp#right)
 
+_Ammunition, minor, common_\
+![](Mechanics/CLI/items/img/unbreakable-arrow.webp#right)
 
 This arrow can't be broken, except when it is within an [antimagic field](Mechanics/CLI/spells/antimagic-field-xphb.md).
 
-*Source: Xanathar's Guide to Everything p. 139*
+_Source: Xanathar's Guide to Everything p. 139_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spell Points
-*Source: Dungeon Master's Guide p. 288* 
+
+_Source: Dungeon Master's Guide p. 288_
 
 One way to modify how a class feels is to change how it uses its spells. With this variant system, a character who has the Spellcasting feature uses spell points instead spell slots to fuel spells. Spell points give a caster more flexibility, at the cost of greater complexity.
 

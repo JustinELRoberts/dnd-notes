@@ -25,8 +25,8 @@ classes:
 ---
 
 # Scatter
-*6th-level, Conjuration*  
 
+_6th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -37,4 +37,4 @@ The air quivers around up to five creatures of your choice that you can see with
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 164*
+_Source: Xanathar's Guide to Everything p. 164_

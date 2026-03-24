@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # One-of-a-Kind Objects; Hag Objects
-*Source: Volo's Guide to Monsters p. 62* 
+
+_Source: Volo's Guide to Monsters p. 62_
 
 **Hag Objects**
 

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Gloom Stalker
-*[Ranger](./ranger-xphb.md): Ranger Subclass*  
-*Source: Player's Handbook (2024) p. 125*  
+
+_[Ranger](./ranger-xphb.md): Ranger Subclass_\
+_Source: Player's Handbook (2024) p. 125_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/gloom-stalker-ranger.webp#right)
 
-*Draw on Shadow Magic to Fight Your Foes*
+_Draw on Shadow Magic to Fight Your Foes_
 
 Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.
 

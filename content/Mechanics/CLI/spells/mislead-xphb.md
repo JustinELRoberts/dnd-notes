@@ -33,8 +33,8 @@ classes:
 ---
 
 # Mislead
-*5th-level, Illusion*  
 
+_5th-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -49,4 +49,4 @@ You can see through its eyes and hear through its ears as if you were located wh
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Twilight Domain)](Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Martyr (Burden of Discord)](Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Reaper)](Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Ranger (Fey Wanderer)](Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

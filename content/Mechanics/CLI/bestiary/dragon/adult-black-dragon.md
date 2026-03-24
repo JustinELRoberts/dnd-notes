@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Adult Black Dragon
-*Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/black-dragon.webp#right)
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -179,6 +180,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 - **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks. The dragon can suppress this effect at will.  
 - **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.  
 ```
+
 ^statblock
 
 ## Environment

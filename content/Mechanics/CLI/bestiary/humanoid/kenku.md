@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Kenku
-*Source: Monster Manual p. 194*  
+
+_Source: Monster Manual p. 194_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kenku.webp#right)
 
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
@@ -39,10 +40,9 @@ Kenku speak to one another in much the same way. Because they are adept at inter
 
 All kenku pine for the ability to fly, and thus the punishments they mete out to one another often involve false wings, such as heavy wings of wood borne as a mark of shame. As a final, tragic reminder of the wings they once had, kenku carry out executions by hurling their condemned from tall buildings or cliffs.
 
-> [!quote] A quote from Endroth Knag, City Watch corporal in Waterdeep  
-> 
+> [!quote] A quote from Endroth Knag, City Watch corporal in Waterdeep
+>
 > If you hear a baby crying in an alley, walk the other way. That's my advice to you.
-
 
 ## Statblock
 
@@ -79,6 +79,7 @@ title: Kenku
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+5` to hit, range 80/320 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

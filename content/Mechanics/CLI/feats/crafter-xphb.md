@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Crafter 
-
+# Crafter
 
 You gain the following benefits.
 
@@ -37,6 +36,7 @@ You gain the following benefits.
 | [Weaver's Tools](Mechanics/CLI/items/weavers-tools-xphb.md) | [Basket](Mechanics/CLI/items/basket-xphb.md), [Rope](Mechanics/CLI/items/rope-xphb.md), [Net](Mechanics/CLI/items/net-xphb.md), [Tent](Mechanics/CLI/items/tent-xphb.md) |
 | [Woodcarver's Tools](Mechanics/CLI/items/woodcarvers-tools-xphb.md) | [Club](Mechanics/CLI/items/club-xphb.md), [Greatclub](Mechanics/CLI/items/greatclub-xphb.md), [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md) |
 ^fast-crafting
+
 ## Sources
 
-*Player's Handbook (2024) p. 200*
+_Player's Handbook (2024) p. 200_

@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Yuan-ti Nightmare Speaker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 275, Volo's Guide to Monsters p. 205_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-nightmare-speaker.webp#right)
 
 Nightmare speakers are yuan-ti malison priests who make a pact with the Dendar the Night Serpent to feed their deity the fears and nightmares of their victims in exchange for power in the mortal world. These priests receive nightmarish visions from Dendar that they interpret as prophecies, and they then use their magic and influence to make these visions come true.
@@ -81,6 +82,7 @@ The target must make a DC 13 Intelligence saving throw. On a failed save, the ta
 
 ***Change Shape.*** The yuan-ti transforms into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
 ```
+
 ^statblock
 
 ## Environment

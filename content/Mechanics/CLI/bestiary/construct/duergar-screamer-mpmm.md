@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Duergar Screamer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 111*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 111_
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
 
@@ -65,6 +65,7 @@ title: Duergar Screamer
 
 ***Engine of Pain.*** Immediately after a creature within 5 feet of the screamer hits it with an attack roll, the screamer makes a Drill attack against that creature.
 ```
+
 ^statblock
 
 ## Environment

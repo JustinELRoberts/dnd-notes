@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Champion
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
-*Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Fighter](./fighter-xphb.md): Fighter Subclass_\
+_Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/champion-fighter.webp#right)
 
-*Pursue Physical Excellence in Combat*
+_Pursue Physical Excellence in Combat_
 
 A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.
 

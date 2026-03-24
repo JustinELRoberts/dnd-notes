@@ -22,7 +22,8 @@ classes:
 ---
 
 # Summon Dragon
-*5th-level, Conjuration*  
+
+_5th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/summon-dragon.webp#right)
 
 - **Casting time:** 1 Action
@@ -38,4 +39,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer (Draconic Sorcery)](Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

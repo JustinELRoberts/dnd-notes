@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sea Spawn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/sea-spawn.webp#right)
 
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
@@ -73,6 +74,7 @@ title: Sea Spawn
 - **3–4 Poison Quills.** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 3 (`1d6`) poison damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **5–6 Tentacle.** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 12) if it is a Medium or smaller creature. Until this grapple ends, the sea spawn can't use this tentacle on another target.  
 ```
+
 ^statblock
 
 ## Environment

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Centipede
-*Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Centipede
@@ -44,6 +45,7 @@ title: Giant Centipede
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (`3d6`) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
 ```
+
 ^statblock
 
 ## Environment

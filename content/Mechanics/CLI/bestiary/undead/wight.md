@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Wight
-*Source: Monster Manual p. 300. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 300. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/wight.webp#right)
 
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
@@ -85,6 +86,7 @@ A humanoid slain by this attack rises 24 hours later as a [zombie](Mechanics/CLI
 
 ***Longbow.*** *Ranged Weapon Attack:* `+4` to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

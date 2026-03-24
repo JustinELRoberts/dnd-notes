@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Passage 
+# Mark of Passage
+
 ![](Mechanics/CLI/feats/img/mark-of-passage.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ You gain the following benefits.
 | 4 | [Dimension Door](Mechanics/CLI/spells/dimension-door-xphb.md), [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
 | 5 | [Teleportation Circle](Mechanics/CLI/spells/teleportation-circle-xphb.md) |
 ^mark-of-passage-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 41*
+_Eberron: Forge of the Artificer p. 41_

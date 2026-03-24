@@ -25,8 +25,8 @@ classes:
 ---
 
 # Control Winds
-*5th-level, Transmutation*  
 
+_5th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 300 feet
@@ -51,4 +51,4 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 152*
+_Source: Xanathar's Guide to Everything p. 152_

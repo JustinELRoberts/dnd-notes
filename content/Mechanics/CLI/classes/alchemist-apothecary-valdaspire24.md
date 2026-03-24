@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Apothecary
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Heal the Sick and Wounded*
+_Heal the Sick and Wounded_
 
 Many practically minded Alchemists assume the role of the Apothecary, for adventuring parties always need a healer and Clerics are often in short supply. During their downtime, such Alchemists have a marketable skill to depend upon for income and can do an indisputable amount of good with their knowledge. Apothecaries constantly study potions and herbology, preferring to learn how to mend the body, rather than destroy it.
 
@@ -58,11 +59,11 @@ Many practically minded Alchemists assume the role of the Apothecary, for advent
 
 You gain proficiency in the [Medicine](Mechanics/CLI/rules/skills.md#Medicine) skill. Additionally, you gain a bonus to checks using this skill equal to your Intelligence modifier (minimum bonus of +1).
 
-### Painkiller Bomb [Formula] (Level 3)
+### Painkiller Bomb \[Formula] (Level 3)
 
 You can mix your [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) contents with analgesic oil, changing it into a Painkiller Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage, but instead causes the target or each creature within the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) of the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property to gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md). These [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal your Alchemist level.
 
-When you grant [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) using this [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can also expend [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)) to use Empowered Bomb. Instead of increasing the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) damage, you increase the number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) by `1d10` for each expended [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)).
+When you grant [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) using this [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can also expend [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to use Empowered Bomb. Instead of increasing the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) damage, you increase the number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) by `1d10` for each expended [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
 
 You can use this formula a number of times equal to your Intelligence modifier (minimum of once) and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 

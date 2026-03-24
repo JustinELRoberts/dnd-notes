@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Striking
-*Staff, weapon, major, very rare (requires attunement)*  
 
+_Staff, weapon, major, very rare (requires attunement)_
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -30,4 +30,4 @@ This staff can be wielded as a magic quarterstaff that grants a +3 bonus to atta
 
 The staff has 10 charges. When you hit with a melee attack using it, you can expend up to 3 of its charges. For each charge you expend, the target takes an extra `1d6` force damage. The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff becomes a nonmagical quarterstaff.
 
-*Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

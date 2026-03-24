@@ -22,8 +22,8 @@ classes:
 ---
 
 # Power Word Heal
-*9th-level, Enchantment*  
 
+_9th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -34,4 +34,4 @@ A wave of healing energy washes over one creature you can see within range. The 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

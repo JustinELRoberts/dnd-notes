@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # College of Swords
-*[Bard](./bard-xphb.md): Bard Subclass*  
-*Source: Xanathar's Guide to Everything p. 15*  
+
+_[Bard](./bard-xphb.md): Bard Subclass_\
+_Source: Xanathar's Guide to Everything p. 15_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -71,8 +72,8 @@ At 3rd level, you adopt a style of fighting as your specialty. Choose one of the
 
 Options (choose 1):
 
-- [Dueling](Mechanics/CLI/feats/dueling-xphb.md)  
-- [Two-Weapon Fighting](Mechanics/CLI/feats/two-weapon-fighting-xphb.md)  
+- [Dueling](Mechanics/CLI/feats/dueling-xphb.md)
+- [Two-Weapon Fighting](Mechanics/CLI/feats/two-weapon-fighting-xphb.md)
 
 ### Blade Flourish (Level 3)
 
@@ -82,12 +83,12 @@ Whenever you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on 
 
 Options:
 
-- **Defensive Flourish**  
-    You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.  
-- **Slashing Flourish**  
-    You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.  
-- **Mobile Flourish**  
-    You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.  
+- **Defensive Flourish**\
+  You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You also add the number rolled to your AC until the start of your next turn.
+- **Slashing Flourish**\
+  You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit and to any other creature of your choice that you can see within 5 feet of you. The damage equals the number you roll on the Bardic Inspiration die.
+- **Mobile Flourish**\
+  You can expend one use of your Bardic Inspiration to cause the weapon to deal extra damage to the target you hit. The damage equals the number you roll on the Bardic Inspiration die. You can also push the target up to 5 feet away from you, plus a number of feet equal to the number you roll on that die. You can then immediately use your reaction to move up to your walking speed to an unoccupied space within 5 feet of the target.
 
 ### Extra Attack (Level 6)
 
@@ -101,4 +102,4 @@ Starting at 14th level, whenever you use a Blade Flourish option, you can roll a
 
 > [!example]- Optional Features: Fighting Style, Bard
 > ![Fighting Style, Bard](Mechanics/CLI/lists/list-optfeaturetype-fs-b.md#Fighting%20Style,%20Bard)
-^list-optfeature-fs-b
+> ^list-optfeature-fs-b

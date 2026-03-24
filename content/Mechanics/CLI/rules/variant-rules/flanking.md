@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Flanking
-*Source: Dungeon Master's Guide p. 251* 
+
+_Source: Dungeon Master's Guide p. 251_
 
 If you regularly use miniatures, flanking gives combatants a simple way to gain advantage on attack rolls against a common enemy.
 

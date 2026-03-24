@@ -26,8 +26,8 @@ classes:
 ---
 
 # Frolicking Fountain
-*5th-level, Enchantment*  
 
+_5th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -42,4 +42,4 @@ When a creature tries to leave the area, you can force it to make a Wisdom savin
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

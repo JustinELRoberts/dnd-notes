@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Capture 
+# Capture
 
-
-***Prerequisites*** Level 10 Warmage (House of Go)
+_**Prerequisites**_ Level 10 Warmage (House of Go)
 
 You gain the following formation:
 
@@ -27,6 +26,7 @@ You can use this formation when you and three or more [Allies](Mechanics/CLI/rul
 When you activate this formation, the enemy must make a Dexterity saving throw against your spell save DC or be enveloped by chains of magical force and have the [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) condition for 1 minute. The [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) target repeats the save at the end of each of its turns, ending the condition on itself and this formation on a success.
 
 Once you use this trick, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+
 ## Sources
 
-*Valda's Spire of Secrets Extras (2024)*
+_Valda's Spire of Secrets Extras (2024)_

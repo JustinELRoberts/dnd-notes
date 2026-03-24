@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Wretched Sorrowsworn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 224*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 224_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/wretched-sorrowsworn.webp#right)
 
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
@@ -61,6 +62,7 @@ title: Wretched Sorrowsworn
 
 The attached sorrowsworn moves with the target whenever the target moves, requiring none of the sorrowsworn's movement. The sorrowsworn can detach itself by spending 5 feet of its movement on its turn. A creature, including the target, can use its action to detach the sorrowsworn.
 ```
+
 ^statblock
 
 ## Environment

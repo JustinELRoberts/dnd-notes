@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Conspiracy Theorist
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Unravel Far-Reaching, Incredulous Conspiracies*
+_Unravel Far-Reaching, Incredulous Conspiracies_
 
 The world is full of stuff that doesn't add up. A natural disaster strikes and they talk about theoretical weather patterns. People forget days at a time and they say some medical jargon about their brains. And nobody seems to notice the folks dressed in black who lurk behind every corner. It's one big coincidence after another. But when you ask the right questions and pull on the right threads, you start uncovering the biggest mysteries: the ones They don't want you to know about.
 

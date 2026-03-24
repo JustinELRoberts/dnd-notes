@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Kobold Scale Sorcerer
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 165, Volo's Guide to Monsters p. 167_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold-scale-sorcerer.webp#right)
 
 Kobold scale sorcerers have an innate talent for arcane magic, making them highly valuable members of their communities. These sorcerers typically fill the role of advisor, and when threatened, a scale sorcerer lashes out with colorful magic.
@@ -69,6 +70,7 @@ title: Kobold Scale Sorcerer
 
 **2/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Pelor
 
-
 - **Alignment**: Neutral Good
 - **Domains**: Life, Light
 - **Pantheon**: Dawn War
 - **Symbol**: Circle with six outwardly radiating points
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Trickery Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Player's Handbook (2024) p. 75*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Player's Handbook (2024) p. 75_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -51,7 +52,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/trickery-cleric.webp#right)
 
-*Make Mischief and Challenge Authority*
+_Make Mischief and Challenge Authority_
 
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.
 

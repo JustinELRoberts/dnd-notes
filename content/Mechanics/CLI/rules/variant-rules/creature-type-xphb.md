@@ -13,23 +13,24 @@ obsidianUIMode: preview
 ---
 
 # Creature Type
-*Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 Every creature, including every [player character](Mechanics/CLI/rules/variant-rules/player-character-xphb.md), has a tag in the rules that identifies the type of creature it is. Most [player characters](Mechanics/CLI/rules/variant-rules/player-character-xphb.md) are of the Humanoid type. These are the game's creature types:
 
-- Aberration  
-- Beast  
-- Celestial  
-- Construct  
-- Dragon  
-- Elemental  
-- Fey  
-- Fiend  
-- Giant  
-- Humanoid  
-- Monstrosity  
-- Ooze  
-- Plant  
-- Undead  
+- Aberration
+- Beast
+- Celestial
+- Construct
+- Dragon
+- Elemental
+- Fey
+- Fiend
+- Giant
+- Humanoid
+- Monstrosity
+- Ooze
+- Plant
+- Undead
 
 The types don't have rules themselves, but some rules in the game affect creatures of certain types in different ways.

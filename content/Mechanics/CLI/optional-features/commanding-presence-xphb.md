@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Commanding Presence 
-
+# Commanding Presence
 
 When you make a Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Performance](Mechanics/CLI/rules/skills.md#Performance), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) check, you can expend one Superiority Die and add that die to the roll.
+
 ## Sources
 
-*Player's Handbook (2024) p. 95*
+_Player's Handbook (2024) p. 95_

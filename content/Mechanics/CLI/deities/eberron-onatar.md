@@ -17,15 +17,12 @@ obsidianUIMode: preview
 
 # Onatar
 
-
 - **Alignment**: Neutral Good
 - **Category**: The Sovereign Host
 - **Domains**: Forge, Knowledge
 - **Pantheon**: Eberron
 - **Symbol**: Crossed hammer and tongs
 
-
-
 ## Sources
 
-*Player's Handbook p. 296, Xanathar's Guide to Everything p. 18*
+_Player's Handbook p. 296, Xanathar's Guide to Everything p. 18_

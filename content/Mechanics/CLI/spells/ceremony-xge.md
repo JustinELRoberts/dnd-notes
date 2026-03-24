@@ -30,8 +30,8 @@ classes:
 ---
 
 # Ceremony
-*1st-level, Abjuration (ritual)*  
 
+_1st-level, Abjuration (ritual)_
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** Touch
@@ -68,4 +68,4 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Xanathar's Guide to Everything p. 151*
+_Source: Xanathar's Guide to Everything p. 151_

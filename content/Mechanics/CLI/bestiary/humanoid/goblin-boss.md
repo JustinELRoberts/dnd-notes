@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Goblin Boss
-*Source: Monster Manual p. 166*  
+
+_Source: Monster Manual p. 166_\
 ![](Mechanics/CLI/bestiary/humanoid/img/goblin.webp#right)
 
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
@@ -45,14 +46,13 @@ Goblins festoon their lairs with alarms designed to signal the arrival of intrud
 
 Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god of goblinoids. Envisioned by most goblins as an eleven-foot-tall battle-scarred goblin with black skin and fire erupting from his eyes, he is worshiped not out of adoration but fear. Goblins believe that when they die in battle, their spirits join the ranks of Maglubiyet's army on the plane of Acheron. This is a "privilege" that most goblins dread, fearing the Mighty One's eternal tyranny even more than death.
 
-> [!quote] A quote from Stalman Kilm, Slave Lord  
-> 
+> [!quote] A quote from Stalman Kilm, Slave Lord
+>
 > If you want soldiers or thugs, hire hobgoblins. If you want someone clubbed to death in their sleep, hire bugbears. If you want mean little fools, hire goblins.
 
-> [!quote] A quote from Goblin for "We surrender!" (or so they say)  
-> 
+> [!quote] A quote from Goblin for "We surrender!" (or so they say)
+>
 > **Bree-Yark!**
-
 
 ## Statblock
 
@@ -93,6 +93,7 @@ title: Goblin Boss
 
 ***Redirect Attack.*** When a creature the goblin can see targets it with an attack, the goblin chooses another goblin within 5 feet of it. The two goblins swap places, and the chosen goblin becomes the target instead.
 ```
+
 ^statblock
 
 ## Environment

@@ -32,8 +32,8 @@ classes:
 ---
 
 # Modify Memory
-*5th-level, Enchantment*  
 
+_5th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -54,4 +54,4 @@ A [Remove Curse](Mechanics/CLI/spells/remove-curse-xphb.md) or [Greater Restorat
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Anonymity)](Mechanics/CLI/lists/list-spells-classes-burden-of-anonymity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Levity)](Mechanics/CLI/lists/list-spells-classes-burden-of-levity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Blood Ascendent)](Mechanics/CLI/lists/list-spells-classes-blood-ascendent-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock (Great Old One Patron)](Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Purple Magic)](Mechanics/CLI/lists/list-spells-classes-purple-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

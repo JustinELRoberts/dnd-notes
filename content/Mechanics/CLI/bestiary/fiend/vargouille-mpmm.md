@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Vargouille
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 251, Volo's Guide to Monsters p. 195_\
 ![](Mechanics/CLI/bestiary/fiend/img/vargouille.webp#right)
 
 Shrieking, flapping, and hideous to behold—with a body like a severed head and wings in place of ears—vargouilles boil out of the Abyss to infest other planes of existence, such as Carceri, where they are a menace. Each vargouille carries a disease that creates more of its kind; a flock of vargouilles on the wing is a plague of chaos and evil.
@@ -28,7 +29,7 @@ Swarms of vargouilles flap through the caverns and skies of the Abyss. They are 
 
 Because of their hunger for living prey, vargouilles are eager to escape the Lower Planes. On rare occasions, summoning a demon to another plane can bring a vargouille along for the ride, attached like a tick. The precautions a mortal takes to control a summoned demon rarely account for a stowaway, enabling the vargouille to escape into the world.
 
-Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can [paralyze](Mechanics/CLI/rules/conditions.md#Paralyzed) other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [daylight](Mechanics/CLI/spells/daylight-xphb.md) spell can delay this transformation; otherwise, only magic can overcome the curse. 
+Vargouilles that roam free on the Material Plane are a dire threat to all creatures. Their awful shrieking can [paralyze](Mechanics/CLI/rules/conditions.md#Paralyzed) other creatures with fear, which also makes the creatures susceptible to the vargouille's curse. If the curse is allowed to run its course, an abyssal spirit invades the person's body, causing a gruesome transformation. Over a period of hours, the victim's head takes on fiendish aspects, such as fangs, tentacles, and horns. At the same time, the person's ears grow larger, expanding into wing-like appendages. In the final moments, the victim's head tears away from the body in a fountain of blood, becoming another vargouille, which often then eagerly laps up the blood spilling from its former body. Sunlight or the brilliant illumination of a [daylight](Mechanics/CLI/spells/daylight-xphb.md) spell can delay this transformation; otherwise, only magic can overcome the curse.
 
 ```ad-statblock
 title: Vargouille
@@ -61,6 +62,7 @@ title: Vargouille
 
 ***Stunning Shriek (Recharge 5-6).*** The vargouille shrieks. Each Humanoid and Beast within 30 feet of the vargouille and able to hear it must succeed on a DC 12 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the vargouille until the end of the vargouille's next turn. While [frightened](Mechanics/CLI/rules/conditions.md#Frightened) in this way, a target is [stunned](Mechanics/CLI/rules/conditions.md#Stunned). If a target's saving throw is successful or the effect ends for it, the target is immune to the Stunning Shriek of all vargouilles for 1 hour.
 ```
+
 ^statblock
 
 ## Environment

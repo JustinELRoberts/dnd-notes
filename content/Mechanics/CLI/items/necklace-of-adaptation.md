@@ -16,11 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Necklace of Adaptation
-*Wondrous item, major, uncommon (requires attunement)*  
+
+_Wondrous item, major, uncommon (requires attunement)_\
 ![](Mechanics/CLI/items/img/necklace-of-adaptation.webp#right)
 
 - **Weight**: 1.0 lbs.
 
 While wearing this necklace, you can breathe normally in any environment, and you have advantage on saving throws made against harmful gases and vapors (such as [cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md) and [stinking cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md) effects, inhaled poisons, and the breath weapons of some dragons).
 
-*Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Maurezhi
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 175*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 175_\
 ![](Mechanics/CLI/bestiary/fiend/img/maurezhi.webp#right)
 
 When Doresain, the King of Ghouls, corrupted a society of elves, he created a new sort of demon—the maurezhi—to lead packs of [ghouls](Mechanics/CLI/bestiary/undead/ghoul.md) and [ghasts](Mechanics/CLI/bestiary/undead/ghast.md) on the Material Plane.
@@ -66,6 +67,7 @@ title: Maurezhi
 
 ***Raise Ghoul (Recharge 5-6).*** The maurezhi targets one dead ghoul or [ghast](Mechanics/CLI/bestiary/undead/ghast.md) it can see within 30 feet of it. The target is revived with all its hit points.
 ```
+
 ^statblock
 
 ## Environment

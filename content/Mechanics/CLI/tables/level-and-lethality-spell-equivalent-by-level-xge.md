@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Level and Lethality; Spell Equivalent by Level
-*Source: Xanathar's Guide to Everything p. 116* 
+
+_Source: Xanathar's Guide to Everything p. 116_
 
 **Spell Equivalent by Level**
 

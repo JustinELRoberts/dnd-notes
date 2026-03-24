@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Necklace of Fireballs
-*Wondrous item, minor, rare*  
+
+_Wondrous item, minor, rare_\
 ![](Mechanics/CLI/items/img/necklace-of-fireballs.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -24,4 +25,4 @@ This necklace has `1d6 + 3` beads hanging from it. You can use an action to deta
 
 You can hurl multiple beads, or even the whole necklace, as one action. When you do so, increase the level of the [fireball](Mechanics/CLI/spells/fireball-xphb.md) by 1 for each bead beyond the first.
 
-*Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

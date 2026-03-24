@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Fire-Breathing Statue
-*Magical Trap*  
 
+_Magical Trap_
 
 This trap is activated when an intruder steps on a hidden pressure plate, releasing a magical gout of flame from a nearby statue. The statue can be of anything, including a dragon or a wizard casting a spell.
 
@@ -27,4 +27,4 @@ Wedging an iron spike or other object under the pressure plate prevents the trap
 
 ## Sources
 
-*Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

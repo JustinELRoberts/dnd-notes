@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Gauth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 133, Volo's Guide to Monsters p. 125_\
 ![](Mechanics/CLI/bestiary/aberration/img/gauth.webp#right)
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
@@ -70,6 +71,7 @@ Unless [surprised](Mechanics/CLI/rules/conditions.md#Surprised), a creature can 
 - **5 Pushing Ray.** The target must succeed on a DC 14 Strength saving throw or be pushed up to 15 feet away from the gauth and have its speed halved until the start of the gauth's next turn.  
 - **6 Sleep Ray.** The target must succeed on a DC 14 Wisdom saving throw or fall asleep and remain [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on Constructs and Undead.  
 ```
+
 ^statblock
 
 ## Environment

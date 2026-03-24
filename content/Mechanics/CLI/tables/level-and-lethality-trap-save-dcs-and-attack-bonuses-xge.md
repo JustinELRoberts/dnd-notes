@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Level and Lethality; Trap Save DCs and Attack Bonuses
-*Source: Xanathar's Guide to Everything p. 116* 
+
+_Source: Xanathar's Guide to Everything p. 116_
 
 **Trap Save DCs and Attack Bonuses**
 

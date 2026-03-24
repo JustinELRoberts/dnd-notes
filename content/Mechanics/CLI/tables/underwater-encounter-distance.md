@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Underwater Encounter Distance
-*Source: Dungeon Master's Guide p. 117* 
+
+_Source: Dungeon Master's Guide p. 117_
 
 **Underwater Encounter Distance**
 

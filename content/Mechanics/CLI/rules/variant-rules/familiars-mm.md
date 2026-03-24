@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Familiars
-*Source: Monster Manual p. 347* 
+
+_Source: Monster Manual p. 347_
 
 Any spellcaster that can cast the [find familiar](Mechanics/CLI/spells/find-familiar-xphb.md) spell (such as an apprentice, warlock, or wizard) is likely to have a familiar. The familiar can be one of the creatures described in the spell (see the "Player's Handbook") or some other Tiny monster, such as a [crawling claw](Mechanics/CLI/bestiary/undead/crawling-claw.md), an [imp](Mechanics/CLI/bestiary/fiend/imp-xmm.md), a [pseudodragon](Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md), or a [quasit](Mechanics/CLI/bestiary/fiend/quasit-xmm.md).
 

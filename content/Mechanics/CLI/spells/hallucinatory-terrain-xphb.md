@@ -41,8 +41,8 @@ classes:
 ---
 
 # Hallucinatory Terrain
-*4th-level, Illusion*  
 
+_4th-level, Illusion_
 
 - **Casting time:** 10 minutes
 - **Range:** 300 feet
@@ -55,4 +55,4 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Fragrant Magic)](Mechanics/CLI/lists/list-spells-classes-fragrant-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Witch (Gingerbread Magic)](Mechanics/CLI/lists/list-spells-classes-gingerbread-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Witch (Sky Magic)](Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

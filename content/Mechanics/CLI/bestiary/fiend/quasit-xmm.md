@@ -18,24 +18,24 @@ obsidianUIMode: preview
 ---
 
 # Quasit
-*Source: Monster Manual (2024) p. 252, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Monster Manual (2024) p. 252, Player's Handbook (2024) p. 355. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/fiend/img/quasit.webp#right)
 
 ## Quasit
 
-*Demon of Discord and Disorder*
+_Demon of Discord and Disorder_
 
-- **Habitat.** Planar (Abyss)  
-- **Treasure.** None  
+- **Habitat.** Planar (Abyss)
+- **Treasure.** None
 
 Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and ambushes. These tiny demons use chaos and violence to terrorize others. By shape-shifting into harmless but ill-omened creatures or by turning [invisible](Mechanics/CLI/rules/conditions.md#Invisible), quasits sneak into places where they spy for villainous masters or set vicious traps. Quasits delight in hiding in dark places and—when least expected—bursting forth to slash foes with their [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) claws.
 
 Quasits are usually overlooked and underestimated by other demons. This drives them to prove themselves through cruel acts or by seeking paths to the Material Plane. Among mortals, quasits sow senseless chaos, and they might find kindred evil spirits among violent cultists and magic-users.
 
-> [!quote] A quote from Otto the Bard  
-> 
+> [!quote] A quote from Otto the Bard
+>
 > A thing doesn't need to be big to be gut-flippingly dreadful. Just think of all the folks who're squeamish around spiders. Now imagine a spider as big as a cat and that wants to steal your tongue.
-
 
 ```ad-statblock
 title: Quasit
@@ -75,6 +75,7 @@ title: Quasit
 ***Invisibility.*** The quasit casts [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
 ```
+
 ^statblock
 
 ## Environment

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Girallon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/girallon.webp#right)
 
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
@@ -66,6 +67,7 @@ title: Girallon
 
 ***Aggressive.*** The girallon moves up to its speed toward a hostile creature that it can see.
 ```
+
 ^statblock
 
 ## Environment

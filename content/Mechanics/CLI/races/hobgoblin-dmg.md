@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Hobgoblin
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: None
 - **Size**: Medium

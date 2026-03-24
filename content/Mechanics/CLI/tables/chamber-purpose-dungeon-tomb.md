@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Chamber Purpose; Dungeon: Tomb
-*Source: Dungeon Master's Guide p. 292* 
+
+_Source: Dungeon Master's Guide p. 292_
 
 **Dungeon: Tomb**
 

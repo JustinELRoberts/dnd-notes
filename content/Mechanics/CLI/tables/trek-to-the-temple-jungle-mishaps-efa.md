@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Trek to the Temple; Jungle Mishaps
-*Source: Eberron: Forge of the Artificer p. 101* 
+
+_Source: Eberron: Forge of the Artificer p. 101_
 
 **Jungle Mishaps**
 

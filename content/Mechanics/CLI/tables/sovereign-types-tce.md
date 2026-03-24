@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Sovereign Types
-*Source: Tasha's Cauldron of Everything p. 100* 
+
+_Source: Tasha's Cauldron of Everything p. 100_
 
 **Sovereign Types**
 

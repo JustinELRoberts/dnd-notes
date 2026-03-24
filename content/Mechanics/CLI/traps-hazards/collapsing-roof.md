@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Collapsing Roof
-*Mechanical Trap*  
 
+_Mechanical Trap_
 
 This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.
 
@@ -29,4 +29,4 @@ When the trap is triggered, the unstable ceiling collapses. Any creature in the 
 
 ## Sources
 
-*Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Dungeon Master's Guide p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

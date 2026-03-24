@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Vine Blight
-*Source: Monster Manual p. 32*  
+
+_Source: Monster Manual p. 32_\
 ![](Mechanics/CLI/bestiary/plant/img/vine-blight.webp#right)
 
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
@@ -40,10 +41,9 @@ In forests infested with blights, trees and plants grow with supernatural speed.
 
 Blights are independent creatures, but most act under a Gulthias tree's control, often displaying the habits and traits of the life force or spirit that spawned them. By attacking their progenitor's old foes or seeking out treasures valuable to it, they carry on the legacy of long-lost evil.
 
-> [!quote]  
-> 
+> [!quote]
+>
 > Behold the legacy of Gulthias the vampire: plants with a taste for blood.
-
 
 ## Statblock
 
@@ -78,6 +78,7 @@ title: Vine Blight
 
 ***Entangling Plants (Recharge 5-6).*** Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become [restrained](Mechanics/CLI/rules/conditions.md#Restrained). A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Crafting an Item; Resources and Resolution
-*Source: Xanathar's Guide to Everything p. 128* 
+
+_Source: Xanathar's Guide to Everything p. 128_
 
 | Proficiency | Items |
 |-------------|-------|

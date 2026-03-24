@@ -25,8 +25,8 @@ obsidianUIMode: preview
 ---
 
 # Sword of Vengeance
-*Cursed item, major, uncommon (requires attunement)*  
 
+_Cursed item, major, uncommon (requires attunement)_
 
 - **Properties**: [Cursed](Mechanics/CLI/rules/item-properties.md#Cursed%20Items)
 
@@ -41,6 +41,7 @@ In addition, while the sword is on your person, you must succeed on a DC 15 Wisd
 You can break the curse in the usual ways. Alternatively, casting [banishment](Mechanics/CLI/spells/banishment-xphb.md) on the sword forces the vengeful spirit to leave it. The sword then becomes a +1 weapon with no other properties.
 
 **Variants**:
+
 - [Double-Bladed Scimitar of Vengeance](#Double-Bladed%20Scimitar%20of%20Vengeance)
 - [Greatsword of Vengeance](#Greatsword%20of%20Vengeance)
 - [Longsword of Vengeance](#Longsword%20of%20Vengeance)
@@ -86,5 +87,4 @@ You can break the curse in the usual ways. Alternatively, casting [banishment](M
 - **Properties**: [Cursed](Mechanics/CLI/rules/item-properties.md#Cursed%20Items), [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 206*
+_Source: Dungeon Master's Guide p. 206_

@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Troglodyte
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +2 con +2 int -4 cha -4
 - **Size**: Medium

@@ -22,8 +22,8 @@ classes:
 ---
 
 # Banishing Smite
-*5th-level, Conjuration*  
 
+_5th-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -34,4 +34,4 @@ The target hit by the attack roll takes an extra `5d10` Force damage from the at
 
 **Classes**: [Artificer (Battle Smith)](Mechanics/CLI/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 245*
+_Source: Player's Handbook (2024) p. 245_

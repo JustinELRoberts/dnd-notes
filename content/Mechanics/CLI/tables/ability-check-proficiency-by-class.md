@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ability Check Proficiency by Class
-*Source: Dungeon Master's Guide p. 263* 
+
+_Source: Dungeon Master's Guide p. 263_
 
 **Ability Check Proficiency by Class**
 

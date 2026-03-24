@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Crashing; Crash Damage
-*Source: Eberron: Forge of the Artificer p. 104* 
+
+_Source: Eberron: Forge of the Artificer p. 104_
 
 **Crash Damage**
 

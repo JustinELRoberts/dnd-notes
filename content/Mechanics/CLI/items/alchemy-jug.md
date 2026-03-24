@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Alchemy Jug
-*Wondrous item, minor, uncommon*  
+
+_Wondrous item, minor, uncommon_\
 ![](Mechanics/CLI/items/img/alchemy-jug.webp#right)
 
 - **Weight**: 12.0 lbs.
@@ -40,4 +41,4 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 | Wine | 1 gallon |
 ^liquid-max-amount
 
-*Source: Dungeon Master's Guide p. 150*
+_Source: Dungeon Master's Guide p. 150_

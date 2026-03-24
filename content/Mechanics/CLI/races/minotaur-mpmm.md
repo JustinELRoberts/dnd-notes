@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Minotaur
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 27*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 27_\
 ![](Mechanics/CLI/races/img/minotaur.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1

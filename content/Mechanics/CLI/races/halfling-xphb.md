@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Halfling
-*Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)_\
 ![](Mechanics/CLI/races/img/halfling.webp#right)
 
 - **Ability Scores**: None

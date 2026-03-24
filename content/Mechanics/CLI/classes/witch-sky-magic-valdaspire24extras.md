@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Sky Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Soar Through the Sky With Ease*
+_Soar Through the Sky With Ease_
 
 Although all Witches appreciate a good Broom of Flying, Sky Magic Witches embrace the power of the winds. Known colloquially as "Cloud Witches", they spend as much time aloft as they do on the ground, floating over their contemporaries with a breezy disposition.
 

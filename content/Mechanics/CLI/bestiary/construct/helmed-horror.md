@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Helmed Horror
-*Source: Monster Manual p. 183*  
+
+_Source: Monster Manual p. 183_\
 ![](Mechanics/CLI/bestiary/construct/img/helmed-horror.webp#right)
 
 This construct possesses intelligence, the ability to reason and adjust its tactics, and an unswerving devotion to its maker that persists even after its maker's demise. Resembling an animated suit of empty plate armor, a helmed horror serves without ambition or emotion.
@@ -71,4 +72,5 @@ title: Helmed Horror
 
 ***Longsword.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) slashing damage, or 9 (`1d10 + 4`) slashing damage if used with two hands.
 ```
+
 ^statblock

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Flumph
-*Source: Monster Manual p. 135*  
+
+_Source: Monster Manual p. 135_\
 ![](Mechanics/CLI/bestiary/aberration/img/flumph.webp#right)
 
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
@@ -75,6 +76,7 @@ title: Flumph
 
 ***Stench Spray (1/Day).*** Each creature in a 15-foot cone originating from the flumph must succeed on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A coated creature exudes a horrible stench for `1d4` hours. The coated creature is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) as long as the stench lasts, and other creatures are [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) while with in 5 feet of the coated creature. A creature can remove the stench on itself by using a short rest to bathe in water, alcohol, or vinegar.
 ```
+
 ^statblock
 
 ## Environment

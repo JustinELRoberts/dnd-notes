@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Chips are Down 
+# Chips are Down
 
-
-***Prerequisites*** Level 10 Warmage (House of Roulette)
+_**Prerequisites**_ Level 10 Warmage (House of Roulette)
 
 When you expend one or more Chips of Fate to bet and lose at least one bet, you regain one expended Chip of Fate.
+
 ## Sources
 
-*Valda's Spire of Secrets Extras (2024)*
+_Valda's Spire of Secrets Extras (2024)_

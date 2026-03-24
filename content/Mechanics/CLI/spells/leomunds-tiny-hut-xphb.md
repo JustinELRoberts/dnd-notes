@@ -36,8 +36,8 @@ classes:
 ---
 
 # Leomund's Tiny Hut
-*3rd-level, Evocation (ritual)*  
 
+_3rd-level, Evocation (ritual)_
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Self (10-foot Emanation)
@@ -54,4 +54,4 @@ The spell ends early if you leave the [Emanation](Mechanics/CLI/rules/variant-ru
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Twilight Domain)](Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Gingerbread Magic)](Mechanics/CLI/lists/list-spells-classes-gingerbread-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Tiny Hut") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Tiny Hut") and the Free Rules (2024)_

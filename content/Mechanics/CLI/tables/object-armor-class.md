@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Object Armor Class
-*Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+
+_Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 **Object Armor Class**
 

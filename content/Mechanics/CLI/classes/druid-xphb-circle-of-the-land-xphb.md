@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Circle of the Land
-*[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Druid](./druid-xphb.md): Druid Subclass_\
+_Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/land-druid.webp#right)
 
-*Celebrate Connection to the Natural World*
+_Celebrate Connection to the Natural World_
 
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
 

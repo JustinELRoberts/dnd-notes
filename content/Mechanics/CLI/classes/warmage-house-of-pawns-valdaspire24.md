@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Pawns
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Master Cantrips and Warmage Tricks*
+_Master Cantrips and Warmage Tricks_
 
 By far the most prominent Warmage house is that of the Pawns. Warmages who join the House of Pawns learn to stretch their skill with cantrips to its limits. Pawns can master any cantrip or strategy, for they embody the adaptability to which all Warmages aspire.
 

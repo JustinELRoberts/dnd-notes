@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Djinni (Disguises)
-*Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Djinni (Disguises)
@@ -64,6 +65,7 @@ title: Djinni (Disguises)
 
 A creature can use its action to free a creature [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and moves to the nearest space outside the whirlwind.
 ```
+
 ^statblock
 
 ## Environment

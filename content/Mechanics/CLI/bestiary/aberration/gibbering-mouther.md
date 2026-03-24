@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Gibbering Mouther
-*Source: Monster Manual p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/aberration/img/gibbering-mouther.webp#right)
 
 Of all the terrors created by foul sorcery, gibbering mouthers are among the most wicked and depraved. This creature is the composite eyes, mouths, and liquefied matter of its former victims. Driven to insanity by the destruction of their bodies and absorption into the mouther, those victims gibber incoherent madness, forced to consume everything in reach.
@@ -73,6 +74,7 @@ title: Gibbering Mouther
 
 ***Blinding Spittle (Recharge 5-6).*** The mouther spits a chemical glob at a point it can see within 15 feet of it. The glob explodes in a blinding flash of light on impact. Each creature within 5 feet of the flash must succeed on a DC 13 Dexterity saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of the mouther's next turn.
 ```
+
 ^statblock
 
 ## Environment

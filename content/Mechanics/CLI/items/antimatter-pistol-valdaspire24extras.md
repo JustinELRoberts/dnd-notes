@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Antimatter Pistol
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d4 necrotic
 - **Range**: 30/120
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 A compact, antimatter-firing companion to the [Antimatter Carbine](Mechanics/CLI/items/antimatter-carbine-valdaspire24extras.md), the [Antimatter Pistol](Mechanics/CLI/items/antimatter-pistol-valdaspire24extras.md) is an essential close-quarters backup.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

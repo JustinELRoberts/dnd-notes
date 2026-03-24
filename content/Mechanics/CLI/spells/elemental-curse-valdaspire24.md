@@ -18,8 +18,8 @@ classes:
 ---
 
 # Elemental Curse
-*6th-level, Evocation*  
 
+_6th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -30,4 +30,4 @@ A spark leaps from your finger to a creature you touch, spreading in bright crac
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

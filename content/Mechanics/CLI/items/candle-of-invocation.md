@@ -16,9 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Candle of Invocation
-*Wondrous item, major, very rare (requires attunement)*  
-![](Mechanics/CLI/items/img/candle-of-invocation.webp#right)
 
+_Wondrous item, major, very rare (requires attunement)_\
+![](Mechanics/CLI/items/img/candle-of-invocation.webp#right)
 
 This slender taper is dedicated to a deity and shares that deity's alignment. The candle's alignment can be detected with the [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md) spell. The DM chooses the god and associated alignment or determines the alignment randomly.
 
@@ -41,4 +41,4 @@ While lit, the candle sheds dim light in a 30-foot radius. Any creature within t
 
 Alternatively, when you light the candle for the first time, you can cast the [gate](Mechanics/CLI/spells/gate-xphb.md) spell with it. Doing so destroys the candle.
 
-*Source: Dungeon Master's Guide p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 157. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

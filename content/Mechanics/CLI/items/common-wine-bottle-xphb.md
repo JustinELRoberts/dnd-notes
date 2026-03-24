@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Common Wine (bottle)
-*Food and drink*  
 
+_Food and drink_
 
 - **Cost**: 2 sp
 
-*Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

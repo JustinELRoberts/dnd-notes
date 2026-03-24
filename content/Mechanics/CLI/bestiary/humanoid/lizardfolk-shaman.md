@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Lizardfolk Shaman
-*Source: Monster Manual p. 205*  
+
+_Source: Monster Manual p. 205_\
 ![](Mechanics/CLI/bestiary/humanoid/img/lizardfolk.webp#right)
 
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
@@ -53,10 +54,9 @@ Lizardfolk born in Sess'inek's image are larger and more cunning than other liza
 
 Lizardfolk speak Draconic, which they are thought to have learned from dragons in ancient times. A tribe that wanders into the territory of a dragon will offer it tribute to win its favor. An evil dragon might exploit lizardfolk for its own vile ends, turning them into raiders and plunderers.
 
-> [!quote] A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh  
-> 
+> [!quote] A quote from A merchant's account of his experience with the lizardfolk tribes of the Lizard Marsh
+>
 > In all my dealings with the lizardfolk, I was never able to tell what they were thinking. Their reptilian eyes belied no hint of their intentions. I gave them supplies. They gave me the willies.
-
 
 ## Statblock
 
@@ -104,6 +104,7 @@ title: Lizardfolk Shaman
 
 ***Change Shape (Recharges after a Short or Long Rest).*** The lizardfolk magically polymorphs into a [crocodile](Mechanics/CLI/bestiary/beast/crocodile-xmm.md), remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 ```
+
 ^statblock
 
 ## Environment

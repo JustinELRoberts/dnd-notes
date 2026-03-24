@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Red Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Lay Your Foes to Waste with Arcane Fury*
+_Lay Your Foes to Waste with Arcane Fury_
 
 Arcane magic tied to channeling the elements is deemed Red Magic, and is extremely hazardous when used. Witches that specialize in this craft are among the deadliest spellcasters in existence, channeling their curse into unhindered arcane wrath.
 

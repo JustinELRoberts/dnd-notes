@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Technicolor Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Make Friends and Sing Songs*
+_Make Friends and Sing Songs_
 
 Technicolor Witches draw their magic from the power of friendship. They have a penchant for collecting adorable animals of all shapes and sizes, which they will never endanger, no matter how dire the situation. Above all, these Witches are defined by their relentless positivity, which empowers their arcana and spurs on their [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md).
 

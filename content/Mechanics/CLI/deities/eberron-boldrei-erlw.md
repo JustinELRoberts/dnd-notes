@@ -17,6 +17,7 @@ obsidianUIMode: preview
 ---
 
 # Boldrei
+
 ![The Sovereign Host](Mechanics/CLI/deities/img/erlw-the-sovereign-host.webp#symbol)
 
 - **Alignment**: Unaligned
@@ -24,10 +25,10 @@ obsidianUIMode: preview
 - **Domains**: Life, Peace, Twilight
 - **Pantheon**: Eberron
 - **Province**: Community, home
-- **Symbol**: Fire in a stone hearth *or* copper dragon
+- **Symbol**: Fire in a stone hearth _or_ copper dragon
 
 Boldrei is the Sovereign of Hall and Hearth. She guides and protects communities and families, inspiring people to work together for the common good.
 
 ## Sources
 
-*Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything*
+_Eberron: Rising from the Last War p. 141, Tasha's Cauldron of Everything_

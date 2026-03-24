@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Clockwork Stone Defender
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 80*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 80_\
 ![](Mechanics/CLI/bestiary/construct/img/clockwork-stone-defender.webp#right)
 
 The thick plates of stone riveted onto a stone [defender](Mechanics/CLI/items/defender.md) give it substantial protection. Its chief role is as a bodyguard.
@@ -101,6 +102,7 @@ title: Clockwork Stone Defender
 
 ***Intercept Attack.*** In response to another creature within 5 feet of it being hit by an attack roll, the clockwork gives that creature a +5 bonus to its AC against that attack, potentially causing a miss. To use this ability, the clockwork must be able to see the creature and the attacker.
 ```
+
 ^statblock
 
 ## Environment

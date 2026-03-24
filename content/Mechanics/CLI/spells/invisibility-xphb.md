@@ -58,8 +58,8 @@ classes:
 ---
 
 # Invisibility
-*2nd-level, Illusion*  
 
+_2nd-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -72,4 +72,4 @@ A creature you touch has the [Invisible](Mechanics/CLI/rules/conditions.md#Invis
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Anonymity)](Mechanics/CLI/lists/list-spells-classes-burden-of-anonymity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Crone)](Mechanics/CLI/lists/list-spells-classes-crone-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Pale Master)](Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Reaper)](Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Rooks)](Mechanics/CLI/lists/list-spells-classes-house-of-rooks-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Purple Magic)](Mechanics/CLI/lists/list-spells-classes-purple-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Sphere of Annihilation
-*Magical Trap*  
 
+_Magical Trap_
 
 Magical, impenetrable darkness fills the gaping mouth of a stone face carved into a wall. The mouth is 2 feet in diameter and roughly circular. No sound issues from it, no light can illuminate the inside of it, and any matter that enters it is instantly obliterated.
 
@@ -25,4 +25,4 @@ A successful [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 18) r
 
 ## Sources
 
-*Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

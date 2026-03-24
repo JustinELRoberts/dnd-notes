@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Crossbow Expert 
+# Crossbow Expert
 
-
-***Prerequisites*** 4th; Dexterity 13 or higher
+_**Prerequisites**_ 4th; Dexterity 13 or higher
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Firing in Melee.** Being within 5 feet of an enemy doesn't impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your attack rolls with crossbows.
 
 **Dual Wielding.** When you make the extra attack of the [Light](Mechanics/CLI/rules/item-properties.md#Light) property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the [Light](Mechanics/CLI/rules/item-properties.md#Light) property and you aren't already adding that modifier to the damage.
+
 ## Sources
 
-*Player's Handbook (2024) p. 203*
+_Player's Handbook (2024) p. 203_

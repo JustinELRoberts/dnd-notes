@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Scimitar of Speed
-*Weapon ([scimitar](Mechanics/CLI/items/scimitar-xphb.md)), major, very rare (requires attunement)*  
 
+_Weapon ([scimitar](Mechanics/CLI/items/scimitar-xphb.md)), major, very rare (requires attunement)_
 
 - **Damage**: 1d6 slashing
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. In addition, you can make one attack with it as a bonus action on each of your turns.
 
-*Source: Dungeon Master's Guide p. 199. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 199. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

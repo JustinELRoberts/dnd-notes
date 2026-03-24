@@ -15,9 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Siege Tower
-*Source: Dungeon Master's Guide p. 256* 
+
+_Source: Dungeon Master's Guide p. 256_
 
 A siege tower is a mobile wooden structure with a beam frame and slats in its walls. Large wooden wheels or rollers allow the tower to be pushed or pulled by soldiers or beasts of burden. Medium or smaller creatures can use the siege tower to reach the top of walls up to 40 feet high. A creature in the tower has total cover from attacks outside the tower.
+
 ```ad-statblock
 title: Siege Tower
 ![](Mechanics/CLI/objects/token/siege-tower.webp#token)
@@ -33,4 +35,5 @@ title: Siege Tower
 
 - **Damage Immunities** poison, psychic
 ```
+
 ^statblock

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mind Flayer Psion
-*Source: Volo's Guide to Monsters p. 71*  
+
+_Source: Volo's Guide to Monsters p. 71_\
 ![](Mechanics/CLI/bestiary/aberration/img/mind-flayer-psion.webp#right)
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
@@ -96,6 +97,7 @@ title: Mind Flayer Psion
 
 ***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

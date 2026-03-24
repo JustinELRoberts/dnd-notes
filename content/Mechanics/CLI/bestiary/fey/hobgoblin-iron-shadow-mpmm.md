@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Hobgoblin Iron Shadow
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 154, Volo's Guide to Monsters p. 162_\
 ![](Mechanics/CLI/bestiary/fey/img/hobgoblin-iron-shadow.webp#right)
 
 Iron shadows are hobgoblin martial artists who serve fey and mortal courts as secret police, scouts, and assassins. They spy to ferret out treachery, rebellion, and betrayal and deal with it ruthlessly. Iron shadows possess agility and stamina matched only by their ironclad commitment to the will of their masters. They wield a deadly combination of unarmed fighting techniques and shadow magic to deceive and defeat their foes. While on secret missions, they wear masks crafted to resemble monsters, both to conceal their identities and to strike fear into their foes.
@@ -69,6 +70,7 @@ Shadow Jaunt once, either before or after one of the attacks.
 
 **1/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [silent image](Mechanics/CLI/spells/silent-image-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

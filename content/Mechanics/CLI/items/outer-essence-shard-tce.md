@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Outer Essence Shard
-*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)_
 
 - **Weight**: 1.0 lbs.
 
@@ -35,4 +35,4 @@ Roll a `d4` and consult the Outer Essence Shards table to determine the shard's 
 | 4 | Evil | [Outer Essence Shard (Evil)](Mechanics/CLI/items/outer-essence-shard-evil-tce.md) |
 ^outer-essence-shards
 
-*Source: Tasha's Cauldron of Everything p. 133*
+_Source: Tasha's Cauldron of Everything p. 133_

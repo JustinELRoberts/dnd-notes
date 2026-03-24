@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Cyclops
-*Source: Monster Manual p. 45. Available in the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 45. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/cyclops.webp#right)
 
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
@@ -76,6 +77,7 @@ title: Cyclops
 
 ***Rock.*** *Ranged Weapon Attack:* `+9` to hit, range 30/120 ft., one target. *Hit:* 28 (`4d10 + 6`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

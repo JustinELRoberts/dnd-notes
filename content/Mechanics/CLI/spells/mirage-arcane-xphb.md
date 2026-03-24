@@ -24,8 +24,8 @@ classes:
 ---
 
 # Mirage Arcane
-*7th-level, Illusion*  
 
+_7th-level, Illusion_
 
 - **Casting time:** 10 minutes
 - **Range:** Sight
@@ -42,4 +42,4 @@ Creatures with [Truesight](Mechanics/CLI/rules/senses.md#Truesight) can see thro
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

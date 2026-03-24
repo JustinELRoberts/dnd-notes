@@ -25,8 +25,8 @@ classes:
 ---
 
 # Dream of the Blue Veil
-*7th-level, Conjuration*  
 
+_7th-level, Conjuration_
 
 - **Casting time:** 10 minutes
 - **Range:** 20 feet
@@ -41,4 +41,4 @@ The spell ends early on a creature if that creature takes any damage, and the cr
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Tasha's Cauldron of Everything p. 106*
+_Source: Tasha's Cauldron of Everything p. 106_

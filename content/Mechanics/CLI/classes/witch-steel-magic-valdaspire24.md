@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Steel Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Class/Steel.webp#right)
 
-*Cut Down Foes with the Soulsword*
+_Cut Down Foes with the Soulsword_
 
 Secret covens throughout the Material Plane practice their magic by drawing spells into their blades. Maniacally cackling and whirling their way across the battlefield, these Witches weave their curses into a bloody tapestry whenever they bring their steel to bear.
 
@@ -80,7 +81,7 @@ As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you
 
 **Bonus Damage.** When you hit with your Soulsteel weapon, the target takes an extra `1d6` damage. This damage is your choice of Force, Necrotic, or Radiant.
 
-**Cackling Killer.** When you [Cackle](Mechanics/CLI/classes/witch-valdaspire24.md#Cackle%20(Level%202)), you can extend the duration of this feature by 1 round.
+**Cackling Killer.** When you [Cackle](Mechanics/CLI/classes/witch-valdaspire24.md#Cackle%20\(Level%202\)), you can extend the duration of this feature by 1 round.
 
 **Spellcasting Focus.** You can use your Soulsteel weapon as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md).
 

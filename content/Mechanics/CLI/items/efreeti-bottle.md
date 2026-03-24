@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Efreeti Bottle
-*Wondrous item, major, very rare*  
+
+_Wondrous item, major, very rare_\
 ![](Mechanics/CLI/items/img/efreeti-bottle.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -31,4 +32,4 @@ The first time the bottle is opened, the DM rolls to determine what happens.
 | 91-00 | The [efreeti](Mechanics/CLI/bestiary/elemental/efreeti.md) can cast the [wish](Mechanics/CLI/spells/wish-xphb.md) spell three times for you. It disappears when it grants the final wish or after 1 hour, and the bottle loses its magic. |
 ^effect
 
-*Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

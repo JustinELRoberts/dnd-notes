@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Ranger
-*Source: Player's Handbook (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th><th colspan='5'>Spell Slots per Spell Level</th></tr>
@@ -58,15 +59,15 @@ obsidianUIMode: preview
 ## Starting Ranger
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: *Choose 3:* [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 3:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Scimitar](Mechanics/CLI/items/scimitar-xphb.md), [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), [20 Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md) ([sprig of mistletoe](Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 7 GP; or (B) 150 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Scimitar](Mechanics/CLI/items/scimitar-xphb.md), [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), [20 Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md) ([sprig of mistletoe](Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 7 GP; or (B) 150 GP
 
 ## Multiclassing Ranger
 
-- **Skill Proficiencies**: *Choose 1:* [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 1:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Shields](Mechanics/CLI/items/shield-xphb.md)
 

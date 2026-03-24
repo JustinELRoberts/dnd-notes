@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Survival Mantle
-*Medium armor*  
 
+_Medium armor_
 
 - **Armor Class**: 15 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
@@ -26,4 +26,4 @@ This carapace-like augmentation encases portions of the wearer's shoulders, neck
 
 A creature wearing a survival mantle can breathe normally in any environment (including a vacuum) and has advantage on saving throws against harmful gases (such as those created by a [cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md) spell, a [stinking cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md) spell, inhaled poisons, and the breath weapons of some dragons).
 
-*Source: Volo's Guide to Monsters p. 81*
+_Source: Volo's Guide to Monsters p. 81_

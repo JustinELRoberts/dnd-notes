@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Boar
-*Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Boar
@@ -51,6 +52,7 @@ title: Giant Boar
 
 ***Tusk.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

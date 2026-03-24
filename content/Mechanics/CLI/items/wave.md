@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wave
-*Weapon ([trident](Mechanics/CLI/items/trident-xphb.md)), legendary (requires attunement by a creature that worships a god of the sea)*  
+
+_Weapon ([trident](Mechanics/CLI/items/trident-xphb.md)), legendary (requires attunement by a creature that worships a god of the sea)_\
 ![](Mechanics/CLI/items/img/wave.webp#right)
 
 - **Damage**:
@@ -47,4 +48,4 @@ Wave zealously desires to convert mortals to the worship of one or more sea gods
 
 Wave harbors a secret doubt about its own nature and purpose. For all its devotion to the sea gods, Wave fears that it was intended to bring about a particular sea god's demise. This destiny is something Wave might not be able to avert.
 
-*Source: Dungeon Master's Guide p. 218*
+_Source: Dungeon Master's Guide p. 218_

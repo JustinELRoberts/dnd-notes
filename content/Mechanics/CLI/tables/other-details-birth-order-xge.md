@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Other Details; Birth Order
-*Source: Xanathar's Guide to Everything p. 62* 
+
+_Source: Xanathar's Guide to Everything p. 62_
 
 **Birth Order**
 

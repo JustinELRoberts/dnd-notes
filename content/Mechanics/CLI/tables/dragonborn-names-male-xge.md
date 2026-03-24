@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dragonborn Names – Male
-*Source: Xanathar's Guide to Everything p. 175* 
+
+_Source: Xanathar's Guide to Everything p. 175_
 
 **Dragonborn Names – Male**
 

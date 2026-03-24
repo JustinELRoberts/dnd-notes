@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Feywild Time Warp
-*Source: Dungeon Master's Guide p. 50* 
+
+_Source: Dungeon Master's Guide p. 50_
 
 **Feywild Time Warp**
 

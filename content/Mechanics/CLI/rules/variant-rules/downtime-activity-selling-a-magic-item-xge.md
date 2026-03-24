@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Selling a Magic Item
-*Source: Xanathar's Guide to Everything p. 133* 
+
+_Source: Xanathar's Guide to Everything p. 133_
 
 Selling a magic item is by no means an easy task. Con artists and thieves are always looking out for an easy score, and there's no guarantee that a character will receive a good offer even if a legitimate buyer is found.
 

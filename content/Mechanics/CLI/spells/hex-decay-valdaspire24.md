@@ -21,8 +21,8 @@ classes:
 ---
 
 # Hex: Decay
-*cantrip, Necromancy*  
 
+_cantrip, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -35,4 +35,4 @@ One creature you can see within range must succeed on a Constitution saving thro
 
 **Classes**: [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Witch (Black Magic)](Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

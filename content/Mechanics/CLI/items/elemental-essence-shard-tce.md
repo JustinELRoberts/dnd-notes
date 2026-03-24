@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Elemental Essence Shard
-*Wondrous item, rare (requires attunement by a sorcerer)*  
 
+_Wondrous item, rare (requires attunement by a sorcerer)_
 
 - **Weight**: 1.0 lbs.
 
@@ -34,4 +34,4 @@ Roll a `d4` and consult the Elemental Essence Shards table to determine the shar
 | 4 | Water | [Elemental Essence Shard (Water)](Mechanics/CLI/items/elemental-essence-shard-water-tce.md) |
 ^elemental-essence-shards
 
-*Source: Tasha's Cauldron of Everything p. 127*
+_Source: Tasha's Cauldron of Everything p. 127_

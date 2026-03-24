@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Twilight Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Tasha's Cauldron of Everything p. 34*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Tasha's Cauldron of Everything p. 34_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -74,7 +75,7 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 
 ### Domain Spells (Level 3)
 
-*1st-level Twilight Domain feature*
+_1st-level Twilight Domain feature_
 
 You gain domain spells at the cleric levels listed in the Twilight Domain Spells table. See the Divine Domain class feature for how domain spells work.
 
@@ -91,13 +92,13 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 
 ### Bonus Proficiencies (Level 1)
 
-*1st-level Twilight Domain feature*
+_1st-level Twilight Domain feature_
 
 You gain proficiency with martial weapons and heavy armor.
 
 ### Eyes of Night (Level 1)
 
-*1st-level Twilight Domain feature*
+_1st-level Twilight Domain feature_
 
 You can see through the deepest gloom. You have [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
@@ -105,29 +106,29 @@ As an action, you can magically share the [darkvision](Mechanics/CLI/rules/sense
 
 ### Vigilant Blessing (Level 1)
 
-*1st-level Twilight Domain feature*
+_1st-level Twilight Domain feature_
 
 The night has taught you to be vigilant. As an action, you give one creature you touch (including possibly yourself) advantage on the next initiative roll the creature makes. This benefit ends immediately after the roll or if you use this feature again.
 
 ### Channel Divinity: Twilight Sanctuary (Level 3)
 
-*2nd-level Twilight Domain feature*
+_2nd-level Twilight Domain feature_
 
 You can use your Channel Divinity to refresh your allies with soothing twilight.
 
 As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
-- You grant it temporary hit points equal to `1d6` plus your cleric level.  
-- You end one effect on it causing it to be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened).  
+- You grant it temporary hit points equal to `1d6` plus your cleric level.
+- You end one effect on it causing it to be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened).
 
 ### Steps of Night (Level 6)
 
-*6th-level Twilight Domain feature*
+_6th-level Twilight Domain feature_
 
 You can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ### Twilight Shroud (Level 17)
 
-*17th-level Twilight Domain feature*
+_17th-level Twilight Domain feature_
 
 The twilight that you summon offers a protective embrace: you and your allies have half cover while in the sphere created by your Twilight Sanctuary.

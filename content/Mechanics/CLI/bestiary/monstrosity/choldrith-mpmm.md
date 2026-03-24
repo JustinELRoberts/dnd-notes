@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Choldrith
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/choldrith.webp#right)
 
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
@@ -79,6 +80,7 @@ title: Choldrith
 
 The dagger lasts for 1 minute. As a bonus action on later turns, the choldrith can move the dagger up to 20 feet and repeat the attack against one creature within 5 feet of the dagger.
 ```
+
 ^statblock
 
 ## Environment

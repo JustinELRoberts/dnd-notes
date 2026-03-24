@@ -27,8 +27,8 @@ classes:
 ---
 
 # Might of the Abyss
-*1st-level, Evocation*  
 
+_1st-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 15 feet
@@ -41,4 +41,4 @@ You channel power from the Lower Planes, enhancing three creatures other than yo
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Necromancer (Pale Master)](Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

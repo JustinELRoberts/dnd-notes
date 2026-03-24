@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spell Damage
-*Source: Dungeon Master's Guide p. 283* 
+
+_Source: Dungeon Master's Guide p. 283_
 
 **Spell Damage**
 

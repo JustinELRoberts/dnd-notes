@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Hobgoblin Devastator
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161_\
 ![](Mechanics/CLI/bestiary/fey/img/hobgoblin-devastator.webp#right)
 
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
@@ -29,9 +30,9 @@ Far from being cloistered academics, hobgoblin devastators are masters of the ba
 In the Feywild, many archfey seek to bolster their armies' might with the services of hobgoblin devastators.
 
 > [!note] Goblinoids of the Feywild
-> 
+>
 > The goblinoid peoples—goblins, hobgoblins, and bugbears—first appeared in the Feywild millennia ago, and they resided there until the god Maglubiyet conquered them. They then spread throughout the multiverse, with many of them ending up on the worlds of the Material Plane. Most goblinoids encountered on those worlds are members of families that have been away from the Feywild for centuries, and over time, those lineages have become Humanoid. Fey goblinoids, who still bear the magic of the Feywild, are rare on the Material Plane but not unheard of. Hobgoblin devastators are examples of such Fey folk, as are hobgoblin iron shadows and nilbogs (also in this book).
-^goblinoids-of-the-feywild
+> ^goblinoids-of-the-feywild
 
 ```ad-statblock
 title: Hobgoblin Devastator
@@ -72,6 +73,7 @@ title: Hobgoblin Devastator
 
 **2/day each:** [fireball](Mechanics/CLI/spells/fireball-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

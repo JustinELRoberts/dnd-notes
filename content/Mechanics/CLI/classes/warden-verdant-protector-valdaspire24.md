@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Verdant Protector
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Protect Nature with Interlopers*
+_Protect Nature with Interlopers_
 
 You heard the call of the wind through the trees and the loam beneath your feet. As a Verdant Protector, you are the champion of the green things in nature, defending them against those who would despoil the wilds. Plants sprout at your command to assist you, entangling and ensnaring foes for you to dispatch.
 

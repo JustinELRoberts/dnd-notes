@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Training
-*Source: Xanathar's Guide to Everything p. 134* 
+
+_Source: Xanathar's Guide to Everything p. 134_
 
 Given enough free time and the services of an instructor, a character can learn a language or pick up proficiency with a tool.
 

@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Lonely Sorrowsworn
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 223*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 223_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/lonely-sorrowsworn.webp#right)
 
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
@@ -67,6 +68,7 @@ title: Lonely Sorrowsworn
 
 ***Sorrowful Embrace.*** Each creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (`4d8`) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it.
 ```
+
 ^statblock
 
 ## Environment

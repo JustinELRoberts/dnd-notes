@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mummy Lord
-*Source: Monster Manual p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/mummy.webp#right)
 
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
@@ -52,8 +53,8 @@ Though they seldom bother to do so, mummies can speak. As a result, some serve a
 
 A mummy doesn't require air, food, drink, or sleep.
 
-> [!quote] A quote from X the Mystic's 7th rule of dungeon survival  
-> 
+> [!quote] A quote from X the Mystic's 7th rule of dungeon survival
+>
 > Before opening a sarcophagus, light a torch.
 
 ## Mummy Lord
@@ -161,6 +162,7 @@ A mummy lord's temple or tomb is warped in any of the following ways by the crea
 
 If the mummy lord is destroyed, these regional effects end immediately.
 ```
+
 ^statblock
 
 ## Environment

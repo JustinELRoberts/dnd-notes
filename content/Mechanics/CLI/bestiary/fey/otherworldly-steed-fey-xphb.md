@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Otherworldly Steed (Fey)
-*Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Otherworldly Steed (Fey)
@@ -49,4 +50,5 @@ title: Otherworldly Steed (Fey)
 
 ***Fey Step (Recharges after a Long Rest).*** The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
 ```
+
 ^statblock

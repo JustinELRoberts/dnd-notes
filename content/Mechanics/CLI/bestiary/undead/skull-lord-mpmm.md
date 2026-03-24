@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Skull Lord
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 220*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 220_\
 ![](Mechanics/CLI/bestiary/undead/img/skull-lord.webp#right)
 
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
@@ -85,6 +86,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the skull l
 
 ***Summon Undead (Costs 2 Actions).*** The skull lord summons up to five [skeletons](Mechanics/CLI/bestiary/undead/skeleton-xmm.md) or [zombies](Mechanics/CLI/bestiary/undead/zombie-xmm.md) in unoccupied spaces within 30 feet of it. They remain until destroyed. Undead summoned in this way roll initiative, act in the next available turn, and obey the skull lord. The skull lord can have no more than five Undead summoned by this ability at a time.
 ```
+
 ^statblock
 
 ## Environment

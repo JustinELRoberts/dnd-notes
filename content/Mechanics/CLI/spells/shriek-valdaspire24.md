@@ -21,8 +21,8 @@ classes:
 ---
 
 # Shriek
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self (5-foot Emanation)
@@ -33,4 +33,4 @@ You release a blood-curdling screech in a 5-foot [Emanation](Mechanics/CLI/rules
 
 **Classes**: [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

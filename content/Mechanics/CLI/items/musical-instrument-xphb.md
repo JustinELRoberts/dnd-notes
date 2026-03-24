@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Musical Instrument
-*Instrument*  
 
-
+_Instrument_
 
 **Items in this group:**
 
@@ -32,4 +31,4 @@ obsidianUIMode: preview
 - [Shawm](Mechanics/CLI/items/shawm-xphb.md)
 - [Viol](Mechanics/CLI/items/viol-xphb.md)
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

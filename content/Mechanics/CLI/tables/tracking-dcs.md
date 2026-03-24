@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Tracking DCs
-*Source: Dungeon Master's Guide p. 244* 
+
+_Source: Dungeon Master's Guide p. 244_
 
 **Tracking DCs**
 

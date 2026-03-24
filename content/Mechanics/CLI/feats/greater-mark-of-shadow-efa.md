@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Mark of Shadow 
+# Greater Mark of Shadow
+
 ![](Mechanics/CLI/feats/img/greater-mark-of-shadow.webp#right)
 
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +26,7 @@ You gain the following benefits.
 **Improved Intuition.** When you use the Cunning Intuition benefit of your [Mark of Shadow](Mechanics/CLI/feats/mark-of-shadow-efa.md) feat, you can roll `1d6` instead of `1d4`.
 
 **Improved Shadow.** When you use the Shape Shadows benefit of your [Mark of Shadow](Mechanics/CLI/feats/mark-of-shadow-efa.md) feat to cast [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) without a spell slot, you cast the spell as its level 3 version.
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 45*
+_Eberron: Forge of the Artificer p. 45_

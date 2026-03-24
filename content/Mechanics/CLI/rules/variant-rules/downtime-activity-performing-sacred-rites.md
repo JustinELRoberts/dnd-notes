@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Performing Sacred Rites
-*Source: Dungeon Master's Guide p. 129* 
+
+_Source: Dungeon Master's Guide p. 129_
 
 A pious character can spend time between adventures performing sacred rites in a temple affiliated with a god he or she reveres. Between rites, the character spends time in meditation and prayer.
 

@@ -20,8 +20,8 @@ classes:
 ---
 
 # Primordial Ward
-*6th-level, Abjuration*  
 
+_6th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -34,4 +34,4 @@ When you take damage of one of those types, you can use your reaction to gain im
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Xanathar's Guide to Everything p. 163*
+_Source: Xanathar's Guide to Everything p. 163_

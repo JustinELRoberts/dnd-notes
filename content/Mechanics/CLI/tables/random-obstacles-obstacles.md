@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Obstacles; Obstacles
-*Source: Dungeon Master's Guide p. 296* 
+
+_Source: Dungeon Master's Guide p. 296_
 
 **Obstacles**
 

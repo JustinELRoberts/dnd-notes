@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Mark of Finding 
+# Greater Mark of Finding
+
 ![](Mechanics/CLI/feats/img/greater-mark-of-finding.webp#right)
 
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +26,7 @@ You gain the following benefits.
 **Improved Intuition.** When you use the Hunter's Intuition benefit of your [Mark of Finding](Mechanics/CLI/feats/mark-of-finding-efa.md) feat, you can roll `1d6` instead of `1d4`.
 
 **Improved Finding.** When you use the Finder's Magic benefit of your [Mark of Finding](Mechanics/CLI/feats/mark-of-finding-efa.md) to cast [Hunter's Mark](Mechanics/CLI/spells/hunters-mark-xphb.md) without a spell slot, the range of the spell is doubled, and you can modify the spell so that the target can't benefit from the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition for the duration.
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 43*
+_Eberron: Forge of the Artificer p. 43_

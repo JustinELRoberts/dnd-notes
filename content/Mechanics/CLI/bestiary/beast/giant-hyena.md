@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Hyena
-*Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Hyena
@@ -50,6 +51,7 @@ title: Giant Hyena
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

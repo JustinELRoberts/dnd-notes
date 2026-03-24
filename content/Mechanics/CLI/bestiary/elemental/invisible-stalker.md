@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Invisible Stalker
-*Source: Monster Manual p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/invisible-stalker.webp#right)
 
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
@@ -73,6 +74,7 @@ title: Invisible Stalker
 
 ***Slam.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

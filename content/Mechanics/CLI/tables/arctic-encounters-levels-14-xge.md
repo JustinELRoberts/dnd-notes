@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Arctic Encounters (Levels 1—4)
-*Source: Xanathar's Guide to Everything p. 92* 
+
+_Source: Xanathar's Guide to Everything p. 92_
 
 **Arctic Encounters (Levels 1—4)**
 

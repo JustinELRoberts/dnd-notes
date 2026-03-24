@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Stat Block
-*Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 A stat block contains the game statistics of a [monster](Mechanics/CLI/rules/variant-rules/monster-xphb.md). Each stat block includes the following information presented after the [monster's](Mechanics/CLI/rules/variant-rules/monster-xphb.md) name.
 

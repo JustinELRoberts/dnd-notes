@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Awakened Tree
-*Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 An awakened tree is an ordinary tree given sentience and mobility by the [awaken](Mechanics/CLI/spells/awaken-xphb.md) spell or similar magic.
 
@@ -52,6 +52,7 @@ title: Awakened Tree
 
 ***Slam.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 14 (`3d6 + 4`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

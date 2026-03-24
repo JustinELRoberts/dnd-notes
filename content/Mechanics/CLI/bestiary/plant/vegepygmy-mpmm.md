@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Vegepygmy
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 252, Volo's Guide to Monsters p. 196_
 
 Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [russet mold](Mechanics/CLI/traps-hazards/russet-mold-vgm.md). One or more vegepygmies emerge from the corpse a day later.
 
@@ -65,6 +65,7 @@ title: Vegepygmy
 
 ***Sling.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 4 (`1d4 + 2`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

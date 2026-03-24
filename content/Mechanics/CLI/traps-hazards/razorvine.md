@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Razorvine
-*Wilderness Hazard*  
 
+_Wilderness Hazard_
 
 Razorvine is a plant that grows in wild tangles and hedges. It also clings to the sides of buildings and other surfaces as ivy does. A 10-foot-high, 10-foot-wide, 5-foot-thick wall or hedge of razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage.
 
@@ -23,4 +23,4 @@ When a creature comes into direct contact with razorvine for the first time on a
 
 ## Sources
 
-*Dungeon Master's Guide p. 110*
+_Dungeon Master's Guide p. 110_

@@ -32,8 +32,8 @@ classes:
 ---
 
 # Geas
-*5th-level, Enchantment*  
 
+_5th-level, Enchantment_
 
 - **Casting time:** 1 minute
 - **Range:** 60 feet
@@ -52,4 +52,4 @@ A [Remove Curse](Mechanics/CLI/spells/remove-curse-xphb.md), [Greater Restoratio
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Necromancer (Overlord)](Mechanics/CLI/lists/list-spells-classes-overlord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (Fiend Patron)](Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

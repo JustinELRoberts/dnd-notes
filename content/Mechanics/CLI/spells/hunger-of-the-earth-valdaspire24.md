@@ -24,8 +24,8 @@ classes:
 ---
 
 # Hunger of the Earth
-*4th-level, Transmutation*  
 
+_4th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -40,4 +40,4 @@ A creature pulled underground has the [Blinded](Mechanics/CLI/rules/conditions.m
 
 **Classes**: [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

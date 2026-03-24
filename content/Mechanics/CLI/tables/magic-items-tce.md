@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Magic Items
-*Source: Tasha's Cauldron of Everything p. 117* 
+
+_Source: Tasha's Cauldron of Everything p. 117_
 
 **Magic Items**
 

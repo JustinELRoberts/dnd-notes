@@ -28,8 +28,8 @@ classes:
 ---
 
 # Beast Sense
-*2nd-level, Divination (ritual)*  
 
+_2nd-level, Divination (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
@@ -40,4 +40,4 @@ You touch a willing Beast. For the duration, you can perceive through the Beast'
 
 **Classes**: [Barbarian (Path of the Wild Heart)](Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 245*
+_Source: Player's Handbook (2024) p. 245_

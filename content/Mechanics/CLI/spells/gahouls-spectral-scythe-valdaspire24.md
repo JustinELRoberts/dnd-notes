@@ -20,8 +20,8 @@ classes:
 ---
 
 # Gahoul's Spectral Scythe
-*6th-level, Necromancy*  
 
+_6th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** Self (60-foot Line)
@@ -36,4 +36,4 @@ If you are within 120 feet of the scythe at the start of your next turn, it retu
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

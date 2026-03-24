@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Jacinth
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 5,000 gp
 
 A transparent fiery orange gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Tower Banner
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -55,17 +56,17 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 The GM decides if a subclass should be cross-compatible in your campaign.
 
 > [!note] Cross-Compatability Modifictaions
-> 
+>
 > **Level 10: Mettle.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Constitution saving throws.
-^cross-compatability-modifictaions
+> ^cross-compatability-modifictaions
 
-*Fortify Yourself and Your Allies*
+_Fortify Yourself and Your Allies_
 
 The fortified defenses of Captains who fly the Tower Banner are legendary. Their tactics emphasize fortification and survival, as well-protected soldiers cannot only win battles, but entire wars. Thinking long term is key to any defensive strategy, as Captains of the Tower know the answer is never how they shall counterattack, but when.
 
 ## Subclass Features
 
-### Iron Wall [Maneuver] (Level 3)
+### Iron Wall \[Maneuver] (Level 3)
 
 As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to fortify yourself. The next time you are hit by an attack within the next minute, roll the Battle Die and add the number rolled to your AC against this attack, potentially causing it to miss. This effect ends early if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. You must be wearing Heavy armor to use this maneuver.
 

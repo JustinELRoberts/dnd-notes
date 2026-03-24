@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Corpse Flower
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 82*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 82_\
 ![](Mechanics/CLI/bestiary/plant/img/corpse-flower.webp#right)
 
 A corpse flower can sprout atop the grave of an evil necromancer or the remains of powerful Undead creatures. Unless it is uprooted and burned while it is still a seedling, the corpse flower grows to enormous size over several weeks, then tears itself free of the earth and begins scavenging Humanoid corpses from battlefields and graveyards. Using its fibrous tentacles, it stuffs the remains into its body to sustain and repair itself. The plant has a malevolent bent and despises the living.
@@ -69,6 +70,7 @@ title: Corpse Flower
 
 ***Reanimate.*** The corpse flower animates one corpse in its body, turning it into a [zombie](Mechanics/CLI/bestiary/undead/zombie-xmm.md). The zombie appears in an unoccupied space within 5 feet of the corpse flower and acts immediately after it in the initiative order. The zombie acts as an ally of the corpse flower but isn't under its control, and the flower's stench clings to it (see Stench of Death).
 ```
+
 ^statblock
 
 ## Environment

@@ -23,8 +23,8 @@ classes:
 ---
 
 # Teleport
-*7th-level, Conjuration*  
 
+_7th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 10 feet
@@ -51,12 +51,12 @@ The destination you choose must be known to you, and it must be on the same plan
 
 Here are the meanings of the terms in the table's Familiarity column:
 
-- "Permanent circle" means a permanent teleportation circle whose sigil sequence you know.  
-- "Linked object" means you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library.  
-- "Very familiar" is a place you have visited often, a place you have carefully studied, or a place you can see when you cast the spell.  
-- "Seen casually" is a place you have seen more than once but with which you aren't very familiar.  
-- "Viewed once or described" is a place you have seen once, possibly using magic, or a place you know through someone else's description, perhaps from a map.  
-- "False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a location that no longer exists.  
+- "Permanent circle" means a permanent teleportation circle whose sigil sequence you know.
+- "Linked object" means you possess an object taken from the desired destination within the last six months, such as a book from a wizard's library.
+- "Very familiar" is a place you have visited often, a place you have carefully studied, or a place you can see when you cast the spell.
+- "Seen casually" is a place you have seen more than once but with which you aren't very familiar.
+- "Viewed once or described" is a place you have seen once, possibly using magic, or a place you know through someone else's description, perhaps from a map.
+- "False destination" is a place that doesn't exist. Perhaps you tried to scry an enemy's sanctum but instead viewed an illusion, or you are attempting to teleport to a location that no longer exists.
 
 ## Mishap
 
@@ -78,4 +78,4 @@ You and your group (or the target object) appear where you intended.
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

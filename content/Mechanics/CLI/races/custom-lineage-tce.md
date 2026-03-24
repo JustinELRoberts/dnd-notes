@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Custom Lineage
-*Source: Tasha's Cauldron of Everything p. 8*  
 
+_Source: Tasha's Cauldron of Everything p. 8_
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma.
 - **Size**: Small or Medium

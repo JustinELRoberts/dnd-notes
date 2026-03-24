@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Dao (Disguises)
-*Source: Monster Manual p. 143*  
+
+_Source: Monster Manual p. 143_
 
 ```ad-statblock
 title: Dao (Disguises)
@@ -66,6 +67,7 @@ title: Dao (Disguises)
 
 ***Maul.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 20 (`4d6 + 6`) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

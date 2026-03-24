@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Calibarons' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Design Dangerous Ranged Weapons*
+_Design Dangerous Ranged Weapons_
 
 Craftsmen of the Calibarons' Guild believe that gunpowder is the single greatest invention ever created by mortals. A sword may let a skilled wielder lay low a giant, and magic may let the savvy and the blessed stand up to the gods, but only a gun will let a common man put a dragon in its place.
 
@@ -67,9 +68,9 @@ When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.m
 **Flechette.** When you make an attack using this ammunition, the attack is replaced with a hail of projectiles. Choose a target within the weapon's range to make a Dexterity saving throw (DC 8 plus the ability modifier used to make the attack roll and your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, the creature takes the weapon's damage, or half as much damage on a successful roll.
 
 > [!note] Exotic Batteries
-> 
+>
 > In futuristic settings that use ammunition-less blasters, the Exotic Ammunition feature instead produces single-use arcane batteries that give blasters unique properties.
-^exotic-batteries
+> ^exotic-batteries
 
 ### Zeroed Sights (Level 3)
 

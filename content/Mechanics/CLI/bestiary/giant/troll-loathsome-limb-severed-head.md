@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Troll (Loathsome Limb; Severed Head)
-*Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Troll (Loathsome Limb; Severed Head)
@@ -53,6 +54,7 @@ title: Troll (Loathsome Limb; Severed Head)
 
 ***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

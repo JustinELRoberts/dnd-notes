@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Warlord
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220_\
 ![](Mechanics/CLI/bestiary/humanoid/img/warlord.webp#right)
 
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
@@ -83,6 +84,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the warlord
 
 ***Frighten Foe (Costs 2 Actions).*** The warlord targets one creature it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of warlord's next turn.
 ```
+
 ^statblock
 
 ## Environment

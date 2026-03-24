@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Crime
-*Source: Xanathar's Guide to Everything p. 130* 
+
+_Source: Xanathar's Guide to Everything p. 130_
 
 Sometimes it pays to be bad. This activity gives a character the chance to make some extra cash, at the risk of arrest.
 

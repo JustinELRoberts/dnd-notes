@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Saving Throws; Proficiency Bonus by Challenge Rating
-*Source: Monster Manual p. 8* 
+
+_Source: Monster Manual p. 8_
 
 **Proficiency Bonus by Challenge Rating**
 

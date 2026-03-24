@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Grassland Encounters (Levels 17—20)
-*Source: Xanathar's Guide to Everything p. 100* 
+
+_Source: Xanathar's Guide to Everything p. 100_
 
 **Grassland Encounters (Levels 17—20)**
 

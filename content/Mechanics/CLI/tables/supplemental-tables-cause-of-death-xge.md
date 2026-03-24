@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Supplemental Tables; Cause of Death
-*Source: Xanathar's Guide to Everything p. 72* 
+
+_Source: Xanathar's Guide to Everything p. 72_
 
 **Cause of Death**
 

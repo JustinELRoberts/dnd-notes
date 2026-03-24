@@ -13,8 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Rot Grub
-*Generic Hazard*  
 
+_Generic Hazard_
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
 
@@ -28,4 +28,4 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
 
 ## Sources
 
-*Volo's Guide to Monsters p. 208, Mordenkainen Presents: Monsters of the Multiverse p. 237*
+_Volo's Guide to Monsters p. 208, Mordenkainen Presents: Monsters of the Multiverse p. 237_

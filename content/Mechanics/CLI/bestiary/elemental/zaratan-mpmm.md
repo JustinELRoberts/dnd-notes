@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Zaratan
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 278*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 278_\
 ![](Mechanics/CLI/bestiary/elemental/img/zaratan.webp#right)
 
 When a zaratan is summoned from the Elemental Plane of Earth, the ground rises up to take the shape of a hulking, armored reptile. A zaratan's steps trigger shock waves severe enough to level structures. It expresses its rage through trumpeting calls and the occasional boulder or blast of debris it spews from its cavernous maw. If seriously injured, a zaratan retracts its appendages to gain shelter beneath its impervious shell, biding its time until it recovers and can resume its march.
@@ -88,6 +89,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the zaratan
 
 ***Emerge (Costs 2 Actions).*** The zaratan emerges from its shell and makes one Spit Rock attack. It can use this option only if it is retracted in its shell.
 ```
+
 ^statblock
 
 ## Environment

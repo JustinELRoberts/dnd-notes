@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Yuan-ti Names
-*Source: Volo's Guide to Monsters p. 99* 
+
+_Source: Volo's Guide to Monsters p. 99_
 
 **Yuan-ti Names**
 

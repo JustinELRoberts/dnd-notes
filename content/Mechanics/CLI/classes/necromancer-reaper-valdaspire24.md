@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Reaper
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Become One with the Shadows*
+_Become One with the Shadows_
 
 The oblivion of death is the wellspring Necromancy, a dark abyss into which all Necromancers stare. Those few Necromancers who forsake their souls outright might become Reapers, figures of shadow and demise that beckon others to the afterlife. For performing this deed, they strengthen their connection to that distant oblivion until they are but tenebrous shadows: harbingers of an inevitable end.
 
@@ -70,7 +71,7 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 ### Charnel Veil (Level 3)
 
-When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), you gain the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the start of your next turn.
+When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you gain the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the start of your next turn.
 
 ### Umbral Form (Level 6)
 
@@ -92,12 +93,12 @@ As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can flatten your 
 
 Each of your thralls gains a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md). If it already has a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md), its [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) is doubled. Additionally, your thralls don't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) while flying.
 
-### Harbinger [Lichdom] (Level 20)
+### Harbinger \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have become an embodiment of death itself. Clad in shadows, you seem little more than a skeletal presence in a foreboding robe, a sight that all people fear to behold. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have become an embodiment of death itself. Clad in shadows, you seem little more than a skeletal presence in a foreboding robe, a sight that all people fear to behold. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
-**Death's Touch.** When you use your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) and roll an 11 or higher on the `d20` for the attack roll, you hit the target, regardless of its AC.
+**Death's Touch.** When you use your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) and roll an 11 or higher on the `d20` for the attack roll, you hit the target, regardless of its AC.
 
 **Fell Flight.** You gain a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 60 feet.
 
-**Grim Harvest.** When you kill a Medium or Small creature that isn't Undead using [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), you rip its soul from its body, which animates as a Specter under your control and counts as one of your thrall.
+**Grim Harvest.** When you kill a Medium or Small creature that isn't Undead using [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you rip its soul from its body, which animates as a Specter under your control and counts as one of your thrall.

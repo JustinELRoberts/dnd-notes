@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Young Black Dragon
-*Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/black-dragon.webp#right)
 
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
@@ -133,6 +134,7 @@ title: Young Black Dragon
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 49 (`11d8`) acid damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

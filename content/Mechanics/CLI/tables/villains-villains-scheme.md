@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Villains; Villain's Scheme
-*Source: Dungeon Master's Guide p. 94* 
+
+_Source: Dungeon Master's Guide p. 94_
 
 **Villain's Scheme**
 

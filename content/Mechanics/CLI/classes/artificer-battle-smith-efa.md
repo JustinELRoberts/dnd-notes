@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Battle Smith
-*[Artificer](./artificer-efa.md): Artificer Subclass*  
-*Source: Eberron: Forge of the Artificer p. 18*  
+
+_[Artificer](./artificer-efa.md): Artificer Subclass_\
+_Source: Eberron: Forge of the Artificer p. 18_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/battle-smith-artificer.webp#right)
 
-*Command a Construct Guardian*
+_Command a Construct Guardian_
 
 A Battle Smith is a combination of protector and medic, an expert at defending others and repairing both materiel and personnel. To aid in their work, Battle Smiths are accompanied by a [Steel Defender](Mechanics/CLI/bestiary/construct/steel-defender-efa.md), a protective companion of their own creation.
 
@@ -107,14 +108,14 @@ You can attack twice instead of once whenever you take the [Attack](Mechanics/CL
 
 When either you hit a target with an attack roll using a magic weapon or your [Steel Defender](Mechanics/CLI/bestiary/construct/steel-defender-efa.md) hits a target, you can channel magical energy through the strike to create one of the following effects:
 
-- **Destructive Energy.** The target takes an extra `2d6` Force damage.  
-- **Restorative Energy.** Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring `2d6` [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) to it.  
+- **Destructive Energy.** The target takes an extra `2d6` Force damage.
+- **Restorative Energy.** Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring `2d6` [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) to it.
 
 You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once per turn. You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
 ### Improved Defender (Level 15)
 
-Your [Arcane Jolt](Mechanics/CLI/classes/artificer-battle-smith-efa.md#Arcane%20Jolt%20(Level%209)) and [Steel Defender](Mechanics/CLI/bestiary/construct/steel-defender-efa.md) have become more powerful, granting these benefits.
+Your [Arcane Jolt](Mechanics/CLI/classes/artificer-battle-smith-efa.md#Arcane%20Jolt%20\(Level%209\)) and [Steel Defender](Mechanics/CLI/bestiary/construct/steel-defender-efa.md) have become more powerful, granting these benefits.
 
 **Improved Jolt.** The extra damage and healing of your Arcane Jolt both increase to `4d6`.
 

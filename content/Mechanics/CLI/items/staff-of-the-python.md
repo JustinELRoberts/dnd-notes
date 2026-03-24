@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of the Python
-*Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)*  
+
+_Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warlock)_\
 ![](Mechanics/CLI/items/img/staff-of-the-python.webp#right)
 
 - **Damage**:
@@ -32,4 +33,4 @@ On your turn, you can mentally command the snake if it is within 60 feet of you 
 
 If the snake is reduced to 0 hit points, it dies and reverts to its staff form. The staff then shatters and is destroyed. If the snake reverts to staff form before losing all its hit points, it regains all of them.
 
-*Source: Dungeon Master's Guide p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

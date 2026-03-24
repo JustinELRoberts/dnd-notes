@@ -22,7 +22,8 @@ classes:
 ---
 
 # Yolande's Regal Presence
-*5th-level, Enchantment*  
+
+_5th-level, Enchantment_\
 ![](Mechanics/CLI/spells/img/yolandes-regal-presence.webp#right)
 
 - **Casting time:** 1 Action
@@ -34,4 +35,4 @@ You surround yourself with unearthly majesty in a 10-foot [Emanation](Mechanics/
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Paladin (Oath of Glory)](Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 343*
+_Source: Player's Handbook (2024) p. 343_

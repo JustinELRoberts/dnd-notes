@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Tarrasque
-*Source: Monster Manual p. 286. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 286. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/tarrasque.webp#right)
 
 The legendary tarrasque is possibly the most dreaded monster of the Material Plane. It is widely believed that only one of these creatures exists, though no one can predict where and when it will strike.
@@ -92,6 +93,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the tarrasq
 
 ***Chomp (Costs 2 Actions).*** The tarrasque makes one bite attack or uses its Swallow.
 ```
+
 ^statblock
 
 ## Environment

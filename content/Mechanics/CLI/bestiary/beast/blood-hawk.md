@@ -22,8 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Blood Hawk
-*Source: Monster Manual p. 319. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 319. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Taking its name from its crimson feathers and aggressive nature, the blood hawk fearlessly attacks almost any animal, stabbing it with its daggerlike beak. Blood hawks flock together in large numbers, attacking as a pack to take down prey.
 
@@ -57,6 +57,7 @@ title: Blood Hawk
 
 ***Beak.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

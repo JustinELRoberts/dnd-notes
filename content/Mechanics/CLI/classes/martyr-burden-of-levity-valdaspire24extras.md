@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Levity
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Pull Pranks and Crack Jokes*
+_Pull Pranks and Crack Jokes_
 
 When bacchanal and trickster deities believe that the mortal realm has gotten too self-serious, they call upon a Martyr of Levity to lighten the mood. These impish Martyrs are given license to joke, prank, and romp about the world with extraordinarily vague directives. Perhaps they have been commanded to pull a prank or tell a joke so ludicrous that history remembers it forever. Or perhaps the Martyr is themselves the butt of a larger joke, a walking parable about fate's blunders. Sadly, the Martyr's death usually serves as a punchline.
 

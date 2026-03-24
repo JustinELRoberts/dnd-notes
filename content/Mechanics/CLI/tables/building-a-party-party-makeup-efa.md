@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Building a Party; Party Makeup
-*Source: Eberron: Forge of the Artificer p. 68* 
+
+_Source: Eberron: Forge of the Artificer p. 68_
 
 **Party Makeup**
 

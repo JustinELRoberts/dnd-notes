@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Earth Elemental
-*Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/earth-elemental.webp#right)
 
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
@@ -82,6 +83,7 @@ title: Earth Elemental
 
 ***Slam.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 14 (`2d8 + 5`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

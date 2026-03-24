@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Blackrazor
-*Weapon ([greatsword](Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature of non-lawful alignment)*  
+
+_Weapon ([greatsword](Mechanics/CLI/items/greatsword-xphb.md)), legendary (requires attunement by a creature of non-lawful alignment)_\
 ![](Mechanics/CLI/items/img/blackrazor.webp#right)
 
 - **Damage**: 2d6 slashing
@@ -58,4 +59,4 @@ Despite its nihilism, Blackrazor feels a strange kinship to [Wave](Mechanics/CLI
 
 Blackrazor's hunger for souls must be regularly fed. If the sword goes three days or more without consuming a soul, a conflict between it and its wielder occurs at the next sunset.
 
-*Source: Dungeon Master's Guide p. 216*
+_Source: Dungeon Master's Guide p. 216_

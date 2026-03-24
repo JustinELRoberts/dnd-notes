@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Death Knight
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Crush Your Foes with Your Iron Fist*
+_Crush Your Foes with Your Iron Fist_
 
 Some Necromancers are content to sit in dusty tombs with moldering tomes, occasionally picking apart a battlefield for fresh ingredients and new company. By contrast, Death Knights are predators among scavengers, seizing their goals through a melding of magic and traditional combat. Bolstered with dark energies and sturdy armor, the Death Knight wields weapons edged with death itself. They are simultaneously the vanguard and general of their Undead forces, unafraid of getting their hands dirty when necessary.
 
@@ -68,7 +69,7 @@ Your training in the art of war grants you the following benefits.
 
 ### Charnel Resilience (Level 3)
 
-When you deal Necrotic damage with your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to the Necrotic damage dealt.
+When you deal Necrotic damage with your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to the Necrotic damage dealt.
 
 ### Extra Attack (Level 6)
 
@@ -78,9 +79,9 @@ In addition, you can cast one of your cantrips that has a casting time of an act
 
 ### Overcharged Thralls (Level 10)
 
-When one of your thralls is reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or you release it, you regain a number of expended [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points equal to your Necromancer level.
+When one of your thralls is reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or you release it, you regain a number of expended [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points equal to your Necromancer level.
 
-### Imperator [Lichdom] (Level 20)
+### Imperator \[Lichdom] (Level 20)
 
 You have reached the pinnacle of Necromancy and transformed yourself into a lich. Due to your martial capabilities and inner nexus of necromantic power, you have transformed into an imperator lich—an Undead creature unmatched in both arcane and combat prowess. You gain the following benefits in addition to those of your Lichdom feature.
 
@@ -88,4 +89,4 @@ You have reached the pinnacle of Necromancy and transformed yourself into a lich
 
 **Two Extra Attacks.** You can attack three times instead of once whenever you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn.
 
-**Peerless Necrotic Damage.** When you deal Necrotic damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) or a Necromancer spell, it ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Necrotic damage.
+**Peerless Necrotic Damage.** When you deal Necrotic damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) or a Necromancer spell, it ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Necrotic damage.

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Oath of the Watchers
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
-*Source: Tasha's Cauldron of Everything p. 54*  
+
+_[Paladin](./paladin-xphb.md): Paladin Subclass_\
+_Source: Tasha's Cauldron of Everything p. 54_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -69,7 +70,7 @@ A paladin who assumes the Oath of the Watchers swears to safeguard mortal realms
 
 ### Oath Spells (Level 3)
 
-*3rd-level Oath of the Watchers feature*
+_3rd-level Oath of the Watchers feature_
 
 You gain oath spells at the paladin levels listed in the Oath of the Watchers table. See the Sacred Oath class feature for how oath spells work.
 
@@ -86,7 +87,7 @@ You gain oath spells at the paladin levels listed in the Oath of the Watchers ta
 
 ### Channel Divinity (Level 3)
 
-*3rd-level Oath of the Watchers feature*
+_3rd-level Oath of the Watchers feature_
 
 You gain the following Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.
 
@@ -102,7 +103,7 @@ A turned creature must spend its turns trying to move as far away from you as it
 
 ### Aura of the Sentinel (Level 7)
 
-*7th-level Oath of the Watchers feature*
+_7th-level Oath of the Watchers feature_
 
 You emit an aura of alertness while you aren't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). When you and any creatures of your choice within 10 feet of you roll initiative, you all gain a bonus to initiative equal to your proficiency bonus.
 
@@ -110,18 +111,18 @@ At 18th level, the range of this aura increases to 30 feet.
 
 ### Vigilant Rebuke (Level 15)
 
-*15th-level Oath of the Watchers feature*
+_15th-level Oath of the Watchers feature_
 
 You've learned how to chastise anyone who dares wield beguilements against you and your wards. Whenever you or a creature you can see within 30 feet of you succeeds on an Intelligence, a Wisdom, or a Charisma saving throw, you can use your reaction to deal `2d8` + your Charisma modifier force damage to the creature that forced the saving throw.
 
 ### Mortal Bulwark (Level 20)
 
-*20th-level Oath of the Watchers feature*
+_20th-level Oath of the Watchers feature_
 
 You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:
 
-- You gain [truesight](Mechanics/CLI/rules/senses.md#Truesight) with a range of 120 feet.  
-- You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.  
-- When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.  
+- You gain [truesight](Mechanics/CLI/rules/senses.md#Truesight) with a range of 120 feet.
+- You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.
+- When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it's currently not there. On a successful save, the creature can't be banished by this feature for 24 hours.
 
 Once you use this bonus action, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again.

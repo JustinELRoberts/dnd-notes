@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Demon Armor
-*Heavy armor, cursed item, major, very rare (requires attunement)*  
+
+_Heavy armor, cursed item, major, very rare (requires attunement)_\
 ![Demon Armor (Plate Armor)](Mechanics/CLI/items/img/demon-armor.webp#right)
 
 - **Armor Class**: 18
@@ -32,4 +33,4 @@ While wearing this armor, you gain a +1 bonus to AC, and you can understand and 
 
 Once you don this cursed armor, you can't doff it unless you are targeted by the [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. While wearing the armor, you have disadvantage on attack rolls against demons and on saving throws against their spells and special abilities.
 
-*Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

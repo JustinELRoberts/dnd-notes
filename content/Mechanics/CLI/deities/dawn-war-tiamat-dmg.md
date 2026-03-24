@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Tiamat
 
-
 - **Alignment**: Lawful Evil
 - **Domains**: Trickery, War
 - **Pantheon**: Dawn War
 - **Symbol**: Five-pointed star with curved points
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

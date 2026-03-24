@@ -18,15 +18,16 @@ obsidianUIMode: preview
 ---
 
 # Xvart Speaker
-*Source: Volo's Guide to Monsters p. 200*  
+
+_Source: Volo's Guide to Monsters p. 200_\
 ![](Mechanics/CLI/bestiary/humanoid/img/xvart.webp#right)
 
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
 
 Xvarts live in remote hills, forests, and caves. Each tribe is led by a speaker, who is usually the brightest one among them. The speaker serves as the tribe's ambassador, and often dons short wooden stilts and heavy robes to look taller and more imperious. The rest of the tribe hunts for food, plundering crops and livestock from nearby farms if the hunt goes poorly. Xvarts aren't much of a threat to civilized locations because they are somewhat fearful of humans, dwarves, and elves.
 
-> [!quote] A quote from Volo  
-> 
+> [!quote] A quote from Volo
+>
 > When things go badly for them, they kidnap whoever's handy and sacrifice them to their craven god. Hmm. I guess they're not so different from a lot of humans, after all.
 
 ## Raxivort's Betrayal
@@ -40,9 +41,9 @@ In the face of his imminent destruction, Raxivort hatched a plan. Fleeing to the
 Although the initial rush of enemies against him has subsided, Raxivort knows that the planar powers are patient. He remains in hiding, a wretch of a demigod who does little more than wander the planes, spawning ever more xvarts to ensure his continued safety.
 
 > [!note] Xvart Speakers
-> 
+>
 > A xvart tribe has one speaker that serves as its leader. The speaker has the statistics of a normal xvart, except that it has an Intelligence of 13 (+1) and knows one additional language (usually Common or Goblin).
-^xvart-speakers
+> ^xvart-speakers
 
 ## Greedy Thugs
 
@@ -99,6 +100,7 @@ title: Xvart Speaker
 
 ***Sling.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one target. *Hit:* 4 (`1d4 + 2`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

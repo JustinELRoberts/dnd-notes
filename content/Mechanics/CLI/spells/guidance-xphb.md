@@ -37,8 +37,8 @@ classes:
 ---
 
 # Guidance
-*cantrip, Divination*  
 
+_cantrip, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -49,4 +49,4 @@ You touch a willing creature and choose a skill. Until the spell ends, the creat
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid (Circle of the Stars)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-stars-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Witch (Tea Magic)](Mechanics/CLI/lists/list-spells-classes-tea-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

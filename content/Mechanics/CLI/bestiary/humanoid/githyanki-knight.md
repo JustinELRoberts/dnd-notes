@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Githyanki Knight
-*Source: Monster Manual p. 160*  
+
+_Source: Monster Manual p. 160_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki.webp#right)
 
 The githyanki plunder countless worlds from the decks of their astral vessels and the backs of red dragons. Feathers, beads, gems, and precious metals decorate their armor and weapons-the legendary silver swords with which they cut through their foes. Since winning their freedom from the mind flayers, the githyanki have become ruthless conquerors under the rulership of their dread lich-queen, Vlaakith.
@@ -57,10 +58,9 @@ Zerthimon challenged Gith's motives, claiming that her strict martial leadership
 
 Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](Mechanics/CLI/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
-> [!quote] A quote from Aristul the Yellow, master of planar lore  
-> 
+> [!quote] A quote from Aristul the Yellow, master of planar lore
+>
 > The githyanki and the githzerai were so profoundly scarred by their enslavement to the mind flayers that they forget they were one race, united. Having won their freedom, they wage war against each other with a hatred none can fully comprehend.
-
 
 ## Statblock
 
@@ -100,4 +100,5 @@ title: Githyanki Knight
 
 ***Silver Greatsword.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 13 (`2d6 + 6`) slashing damage plus 10 (`3d6`) psychic damage. This is a magic weapon attack. On a critical hit against a target in an astral body (as with the [astral projection](Mechanics/CLI/spells/astral-projection-xphb.md) spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 ```
+
 ^statblock

@@ -13,9 +13,10 @@ obsidianUIMode: preview
 ---
 
 # Sleep
-*Source: Xanathar's Guide to Everything p. 77* 
 
-Just as in the real world, D&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition. Here are a few rules that expand on that basic fact.
+_Source: Xanathar's Guide to Everything p. 77_
+
+Just as in the real world, D\&D characters spend many hours sleeping, most often as part of a long rest. Most monsters also need to sleep. While a creature sleeps, it is subjected to the [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition. Here are a few rules that expand on that basic fact.
 
 ## Waking Someone
 

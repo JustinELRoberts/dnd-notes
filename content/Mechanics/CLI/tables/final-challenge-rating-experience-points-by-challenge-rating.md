@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Final Challenge Rating; Experience Points by Challenge Rating
-*Source: Dungeon Master's Guide p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
+
+_Source: Dungeon Master's Guide p. 274. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 **Experience Points by Challenge Rating**
 

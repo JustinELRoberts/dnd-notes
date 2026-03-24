@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Sling
-*Weapon*  
+
+_Weapon_\
 ![](Mechanics/CLI/items/img/sling.webp#right)
 
 - **Damage**: 1d4 bludgeoning
@@ -24,4 +25,4 @@ obsidianUIMode: preview
 - **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition)
 - **Cost**: 1 sp
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

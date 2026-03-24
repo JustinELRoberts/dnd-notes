@@ -22,8 +22,8 @@ classes:
 ---
 
 # Hunter's Mark
-*1st-level, Divination*  
 
+_1st-level, Divination_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 90 feet
@@ -38,4 +38,4 @@ If the target drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-poin
 
 **Classes**: [Paladin (Oath of Vengeance)](Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

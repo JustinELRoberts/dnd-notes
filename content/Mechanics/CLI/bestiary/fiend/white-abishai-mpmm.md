@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # White Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 41*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 41_\
 ![](Mechanics/CLI/bestiary/fiend/img/white-abishai.webp#right)
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
@@ -78,6 +79,7 @@ title: White Abishai
 
 ***Vicious Reprisal.*** In response to taking damage, the abishai makes one Bite attack against a random creature within 5 feet of it. If no creature is within reach, the abishai moves up to half its speed toward an enemy it can see, without provoking [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
 ```
+
 ^statblock
 
 ## Environment

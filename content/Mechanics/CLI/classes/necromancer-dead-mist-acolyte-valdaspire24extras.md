@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Dead Mist Acolyte
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Sacrifice Your Life-Force for Necromantic Power*
+_Sacrifice Your Life-Force for Necromantic Power_
 
 Deep in the starry expanse of the Astral Plane, Necromancers can find a pure, untapped necromantic source: the Dead Mists. This inky astral fog is an embodiment of unlife in the multiverse, perhaps a negative balance to the overwhelming majority of living creatures. However, the Dead Mists is a living and corruptive entity that drains the life essence from anything it touches.
 
@@ -72,13 +73,13 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 ### Charnel Consumption (Level 3)
 
-When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), you can instead choose to lose an equal number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead of expending Charnel Touch Points.
+When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you can instead choose to lose an equal number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead of expending Charnel Touch Points.
 
 Because of the soul-draining nature of the Dead Mists, you can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) from any spell you cast.
 
 ### Mistborne Regeneration (Level 3)
 
-You can restore your life essence by feeding upon the Dead Mists. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can expend 5 or more [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points. You regain `1d8` [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) for every 5 Charnel Touch points expended.
+You can restore your life essence by feeding upon the Dead Mists. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can expend 5 or more [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points. You regain `1d8` [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) for every 5 Charnel Touch points expended.
 
 ### Gaseous Escape (Level 6)
 
@@ -88,11 +89,11 @@ Once you use this feature, you can't use it again until a [Short](Mechanics/CLI/
 
 ### Duskfog (Level 10)
 
-When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) ritual, you can summon one or more [Duskfogs](Mechanics/CLI/bestiary/undead/duskfog-valdaspire24.md). You command these creatures as your thralls.
+When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can summon one or more [Duskfogs](Mechanics/CLI/bestiary/undead/duskfog-valdaspire24.md). You command these creatures as your thralls.
 
-### Dead Mist Lord [Lichdom] (Level 20)
+### Dead Mist Lord \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. However, your lichdom has become corrupted by the all-consuming Dead Mists, leaving you as a gaseous, incorporeal wraith. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. However, your lichdom has become corrupted by the all-consuming Dead Mists, leaving you as a gaseous, incorporeal wraith. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Damage Resistance.** You gain [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
 
@@ -100,4 +101,4 @@ You have reached the pinnacle of Necromancy and transformed yourself into a lich
 
 **Fly Speed.** You gain a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md). You can't fall and remain hovering in the air even when you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) conditions.
 
-**Master of the Mists.** Once on each of your turns when you deal Necrotic damage to an enemy with your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) or a Necromancer spell, you drain some of the target's life essence with the Dead Mists. You regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `2d6` + your Intelligence modifier, up to a maximum of the Necrotic damage dealt.
+**Master of the Mists.** Once on each of your turns when you deal Necrotic damage to an enemy with your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) or a Necromancer spell, you drain some of the target's life essence with the Dead Mists. You regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `2d6` + your Intelligence modifier, up to a maximum of the Necrotic damage dealt.

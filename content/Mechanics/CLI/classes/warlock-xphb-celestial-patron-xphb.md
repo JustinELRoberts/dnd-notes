@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Celestial Patron
-*[Warlock](./warlock-xphb.md): Warlock Subclass*  
-*Source: Player's Handbook (2024) p. 160*  
+
+_[Warlock](./warlock-xphb.md): Warlock Subclass_\
+_Source: Player's Handbook (2024) p. 160_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/celestial-warlock.webp#right)
 
-*Call on the Power of the Heavens*
+_Call on the Power of the Heavens_
 
 Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.
 

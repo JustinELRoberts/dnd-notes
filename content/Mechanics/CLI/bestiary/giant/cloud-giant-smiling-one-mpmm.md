@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Cloud Giant Smiling One
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146_\
 ![](Mechanics/CLI/bestiary/giant/img/cloud-giant-smiling-one.webp#right)
 
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
@@ -70,6 +71,7 @@ title: Cloud Giant Smiling One
 
 ***Cloud Step (Recharge 4-6).*** The giant teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 ```
+
 ^statblock
 
 ## Environment

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Efreeti
-*Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/efreeti.webp#right)
 
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
@@ -36,8 +37,8 @@ Most efreet reside on the Elemental Plane of Fire, either in great domed fortres
 
 On the Material Plane, efreet dwell in fiery regions such as volcanoes and the burning expanses of the world's deserts. Their love of the desert brings them into conflict with the djinn that ride the desert whirlwinds, and with the earthbound dao. Efreet utterly despise marids, with whom they have maintained a passionate conflict throughout the history of both races.
 
-> [!quote] A quote from A djinni enticing adventurers to free her caliph from a magic lamp in the Charcoal Palace of the City of Brass  
-> 
+> [!quote] A quote from A djinni enticing adventurers to free her caliph from a magic lamp in the Charcoal Palace of the City of Brass
+>
 > The armies of the Grand Sultan are bolstered by legions of devils, his palace warded by spells of a thousand archmagi. No one has plundered the efreeti's fabled vaults and lived to tell the tale. By the grace of a thousand winds, you could be the first.
 
 ## Genies
@@ -116,6 +117,7 @@ title: Efreeti
 
 ***Hurl Flame.*** *Ranged Spell Attack:* `+7` to hit, range 120 ft., one target. *Hit:* 17 (`5d6`) fire damage.
 ```
+
 ^statblock
 
 ## Environment

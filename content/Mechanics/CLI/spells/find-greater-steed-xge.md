@@ -18,7 +18,8 @@ classes:
 ---
 
 # Find Greater Steed
-*4th-level, Conjuration*  
+
+_4th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/find-greater-steed.webp#right)
 
 - **Casting time:** 10 minutes
@@ -37,10 +38,10 @@ You can't have more than one mount bonded by this spell or [find steed](Mechanic
 Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.
 
 > [!note] Dragonnel Steeds
-> 
-> With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the find greater steed spell, which appears in *Xanathar's Guide to Everything*.
-^dragonnel-steeds
+>
+> With the DM's permission, a paladin can summon a spirit in the form of a dragonnel using the find greater steed spell, which appears in _Xanathar's Guide to Everything_.
+> ^dragonnel-steeds
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190*
+_Source: Xanathar's Guide to Everything p. 156, Fizban's Treasury of Dragons p. 190_

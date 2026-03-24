@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Storm 
+# Mark of Storm
+
 ![](Mechanics/CLI/feats/img/mark-of-storm.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ You gain the following benefits.
 | 4 | [Conjure Minor Elementals](Mechanics/CLI/spells/conjure-minor-elementals-xphb.md), [Control Water](Mechanics/CLI/spells/control-water-xphb.md) |
 | 5 | [Conjure Elemental](Mechanics/CLI/spells/conjure-elemental-xphb.md) |
 ^mark-of-storm-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 42*
+_Eberron: Forge of the Artificer p. 42_

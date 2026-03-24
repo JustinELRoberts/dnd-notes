@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Crime; Loot Value
-*Source: Xanathar's Guide to Everything p. 130* 
+
+_Source: Xanathar's Guide to Everything p. 130_
 
 **Loot Value**
 

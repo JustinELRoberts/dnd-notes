@@ -18,21 +18,22 @@ obsidianUIMode: preview
 ---
 
 # Duergar Mind Master
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 108*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 108_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar-mind-master.webp#right)
 
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
 
 ## Duergar
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Duergar architecture is remarkable for its brutalist grandeur. It is not a style I would use for my towers—I prefer gold, gems, and tracery—but I admire the boldness of dwarven stonework.
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > The mental power that duergar wield was given to them by illithids. But why would illithids create servants who could turn invisible or grow to ogre size?
-> 
+>
 > Most likely because those servants would excel at herding their masters' other minions. In retrospect, it seems arguable that duergar escaped bondage because their jailers had given them the keys.
 
 Duergar are dwarves of the deep reaches of the Underdark and other sunless realms. Their personalities and abilities have been deeply impacted by their ancestors' captivity and torment by mind flayers; they were infused with powerful psionic abilities but also a profound gloom. In some, this strain of sorrow inspires works of grand but melancholic beauty, while in others, it manifests as rage.
@@ -86,6 +87,7 @@ title: Duergar Mind Master
 
 ***Reduce (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock
 
 ## Environment

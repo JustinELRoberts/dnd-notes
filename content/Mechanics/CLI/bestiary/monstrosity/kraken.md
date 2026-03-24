@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Kraken
-*Source: Monster Manual p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/kraken.webp#right)
 
 Beneath the waves, the kraken sleeps for untold ages, awaiting some fell sign or calling. Land-born mortals who sail the open sea forget the reasons their ancestors dreaded the ocean, even as the races of the deep ignore strange gaps in their histories when their civilizations nearly vanished after the appearance of the tentacled horror.
@@ -32,8 +33,8 @@ An ominous darkness presages a kraken's attack, and a cloud of inky poison color
 
 Some krakens are virtual gods, with cults and minions spread across sea and land. Others are allied with Olhydra, the evil Princess of Elemental Water, and use her cultists to enforce their will on land and sea. A kraken pleased with its worshipers can becalm rough seas and bring a bounteous harvest of fish to the faithful. However, the devious mind of a kraken is ancient beyond reckoning, and is ultimately bent to the ruination of all things.
 
-> [!quote] A quote from From Night of the Kraken Cult by Malfeore Serrang, pirate-mage of Tethyr  
-> 
+> [!quote] A quote from From Night of the Kraken Cult by Malfeore Serrang, pirate-mage of Tethyr
+>
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
 
 ## A Kraken's Lair
@@ -112,6 +113,7 @@ The region containing a kraken's lair is warped by the creature's blasphemous pr
 
 When the kraken dies, all of these regional effects fade immediately.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,8 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Russet Mold
-*Generic Hazard*  
 
+_Generic Hazard_
 
 Few know for sure where russet mold came from. One historical account tells of adventurers in a mountain range discovering russet mold and vegepygmies in a peculiar metal dungeon full of strange life. Another story says that explorers found russet mold in a crater left by a falling star, with [vegepygmies](Mechanics/CLI/bestiary/plant/vegepygmy-mpmm.md) infesting the forest nearby.
 
@@ -30,4 +30,4 @@ Russet mold can be hard to kill, since weapons and most types of damage do it no
 
 ## Sources
 
-*Volo's Guide to Monsters p. 196, Mordenkainen Presents: Monsters of the Multiverse p. 252*
+_Volo's Guide to Monsters p. 196, Mordenkainen Presents: Monsters of the Multiverse p. 252_

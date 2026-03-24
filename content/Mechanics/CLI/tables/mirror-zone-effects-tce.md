@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Mirror Zone Effects
-*Source: Tasha's Cauldron of Everything p. 157* 
+
+_Source: Tasha's Cauldron of Everything p. 157_
 
 **Mirror Zone Effects**
 

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # 5,000 gp Gemstones
-*Source: Dungeon Master's Guide p. 134* 
+
+_Source: Dungeon Master's Guide p. 134_
 
 **5,000 gp Gemstones**
 

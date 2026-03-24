@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Boon of Energy Resistance 
+# Boon of Energy Resistance
 
-
-***Prerequisites*** 19th
+_**Prerequisites**_ 19th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Energy Resistances.** You gain [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to two of the following damage types of your choice: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can change your choices.
 
 **Energy Redirection.** When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind [Total Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md). If you do so, that creature must succeed on a Dexterity saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or take damage equal to `2d12` plus your Constitution modifier.
+
 ## Sources
 
-*Player's Handbook (2024) p. 210*
+_Player's Handbook (2024) p. 210_

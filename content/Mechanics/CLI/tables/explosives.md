@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Explosives
-*Source: Dungeon Master's Guide p. 267* 
+
+_Source: Dungeon Master's Guide p. 267_
 
 **Explosives**
 

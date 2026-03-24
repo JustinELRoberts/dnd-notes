@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Elemental Gem, Yellow Diamond
-*Wondrous item, minor, uncommon*  
 
-
+_Wondrous item, minor, uncommon_
 
 This gem contains a mote of elemental energy. When you use an action to break the gem, an [earth elemental](Mechanics/CLI/bestiary/elemental/earth-elemental.md) is summoned as if you had cast the [conjure elemental](Mechanics/CLI/spells/conjure-elemental-xphb.md) spell, and the gem's magic is lost.
 
-*Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 167. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

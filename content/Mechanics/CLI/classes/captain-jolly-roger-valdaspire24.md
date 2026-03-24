@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Jolly Roger
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,13 +51,13 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Class/Jolly%20Roger.webp#right)
 
-*Command Your Crew on the High Seas*
+_Command Your Crew on the High Seas_
 
 The skull and crossbones of the Jolly Roger need no introduction: it means thieves, brigands, treasure, and adventure on the high seas. Moreover, it means the strong backs of a crew working in unison, piloting a ship from horizon to horizon under the command of a fierce captain and their first mate.
 
 ## Subclass Features
 
-### Skirmish [Maneuver] (Level 3)
+### Skirmish \[Maneuver] (Level 3)
 
 When you make an attack using a weapon, you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to make an attack using the same weapon or a different one later on the same turn. One attack must be a melee attack roll and the other must be a ranged attack roll.
 

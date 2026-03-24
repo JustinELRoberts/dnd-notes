@@ -18,8 +18,8 @@ classes:
 ---
 
 # Conjure Volley
-*5th-level, Conjuration*  
 
+_5th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -30,4 +30,4 @@ You brandish the weapon used to cast the spell and choose a point within range. 
 
 **Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 255*
+_Source: Player's Handbook (2024) p. 255_

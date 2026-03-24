@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Carousing
-*Source: Xanathar's Guide to Everything p. 127* 
+
+_Source: Xanathar's Guide to Everything p. 127_
 
 **Carousing**
 

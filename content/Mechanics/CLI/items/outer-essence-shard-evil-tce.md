@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Outer Essence Shard (Evil)
-*Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)_
 
 - **Weight**: 1.0 lbs.
 
@@ -29,4 +29,4 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 Choose one creature who takes damage from the spell. That target takes an extra `3d6` necrotic damage.
 
-*Source: Tasha's Cauldron of Everything p. 133*
+_Source: Tasha's Cauldron of Everything p. 133_

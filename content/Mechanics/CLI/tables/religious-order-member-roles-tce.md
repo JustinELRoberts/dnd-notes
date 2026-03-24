@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Religious Order Member Roles
-*Source: Tasha's Cauldron of Everything p. 99* 
+
+_Source: Tasha's Cauldron of Everything p. 99_
 
 **Religious Order Member Roles**
 

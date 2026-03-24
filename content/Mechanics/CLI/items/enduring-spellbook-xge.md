@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Enduring Spellbook
-*Wondrous item, minor, common*  
 
-
+_Wondrous item, minor, common_
 
 This spellbook, along with anything written on its pages, can't be damaged by fire or immersion in water. In addition, the spellbook doesn't deteriorate with age.
 
-*Source: Xanathar's Guide to Everything p. 137*
+_Source: Xanathar's Guide to Everything p. 137_

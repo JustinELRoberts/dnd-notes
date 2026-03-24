@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Concussion Rifle
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d8 force
 - **Range**: 90/360
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 A series of arcane capacitors run the length of this rifle, terminating in a thick condenser that compresses its blast into a precise burst. A Concussion Rifle is especially deadly at long ranges, and its damage bypasses most energetically-resistant armor.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

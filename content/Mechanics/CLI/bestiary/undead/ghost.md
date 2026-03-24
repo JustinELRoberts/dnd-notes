@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Ghost
-*Source: Monster Manual p. 147. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 147. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/ghost.webp#right)
 
 A ghost is the soul of a once-living creature, bound to haunt a specific location, creature, or object that held significance to it in its life.
@@ -80,6 +81,7 @@ title: Ghost
 
 The possession lasts until the body drops to 0 hit points, the ghost ends it as a bonus action, or the ghost is turned or forced out by an effect like the [dispel evil and good](Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell. When the possession ends, the ghost reappears in an unoccupied space within 5 feet of the body. The target is immune to this ghost's Possession for 24 hours after succeeding on the saving throw or after the possession ends.
 ```
+
 ^statblock
 
 ## Environment

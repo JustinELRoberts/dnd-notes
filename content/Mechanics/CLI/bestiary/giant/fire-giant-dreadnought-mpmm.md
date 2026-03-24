@@ -18,11 +18,12 @@ obsidianUIMode: preview
 ---
 
 # Fire Giant Dreadnought
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147_\
 ![](Mechanics/CLI/bestiary/giant/img/fire-giant-dreadnought.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > When I first saw a fire giant dreadnought, I doubted the giant could even move. I quickly learned my error.
 
 Most fire giants value not just strength but also skill at forgecraft. The foundry is the heart of any fire giant community. It is a temple, school, proving ground, and political hub rolled into one.
@@ -68,6 +69,7 @@ title: Fire Giant Dreadnought
 
 ***Shield Charge (Recharge 5-6).*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (`8d6 + 8`) bludgeoning damage plus 14 (`4d6`) fire damage and be pushed up to 30 feet and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Cartographer
-*[Artificer](./artificer-efa.md): Artificer Subclass*  
-*Source: Eberron: Forge of the Artificer p. 20*  
+
+_[Artificer](./artificer-efa.md): Artificer Subclass_\
+_Source: Eberron: Forge of the Artificer p. 20_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/cartographer-artificer.webp#right)
 
-*Chart Advantageous Courses through Turmoil*
+_Chart Advantageous Courses through Turmoil_
 
 Cartographers are the premier navigators and reconnaissance agents. Using their creations, Cartographers can highlight threats, safeguard allies, and carve portals to distant locations.
 
@@ -105,7 +106,7 @@ In addition, taking damage can't cause you to lose [Concentration](Mechanics/CLI
 
 ### Ingenious Movement (Level 9)
 
-When you use your [Flash of Genius](Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20(Level%207)), you or a willing creature of your choice that you can see within 30 feet of yourself can teleport up to 30 feet to an unoccupied space you can see as part of that same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+When you use your [Flash of Genius](Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20\(Level%207\)), you or a willing creature of your choice that you can see within 30 feet of yourself can teleport up to 30 feet to an unoccupied space you can see as part of that same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
 
 ### Superior Atlas (Level 15)
 

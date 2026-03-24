@@ -16,12 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Pickaxe
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d8 piercing
 - **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Cost**: 5 sp
 - **Weight**: 10.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

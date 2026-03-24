@@ -20,8 +20,8 @@ classes:
 ---
 
 # Crusader's Mantle
-*3rd-level, Evocation*  
 
+_3rd-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -32,4 +32,4 @@ You radiate a magical aura in a 30-foot [Emanation](Mechanics/CLI/rules/variant-
 
 **Classes**: [Cleric (War Domain)](Mechanics/CLI/lists/list-spells-classes-war-domain-xphb.md "subclass=XPHB;class=XPHB"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md)
 
-*Source: Player's Handbook (2024) p. 259*
+_Source: Player's Handbook (2024) p. 259_

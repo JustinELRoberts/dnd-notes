@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Homunculus
-*Source: Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/homunculus.webp#right)
 
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
@@ -59,4 +60,5 @@ title: Homunculus
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is instead [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 5 (`1d10`) minutes and [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
 ```
+
 ^statblock

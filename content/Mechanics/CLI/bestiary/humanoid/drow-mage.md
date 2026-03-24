@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drow Mage
-*Source: Monster Manual p. 129*  
+
+_Source: Monster Manual p. 129_\
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-mage.webp#right)
 
 ## Drow
@@ -61,18 +62,17 @@ In drow society, males are subservient to females. A male drow might lead an Und
 Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
-> 
+>
 > Drow often wear magic armor and carry magic weapons that lose their enhancement bonuses permanently if they are exposed to sunlight for 1 hour or longer.
-> 
-> - A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 bonus on attack and damage rolls with shortsword attacks.  
-> - A drow elite warrior wearing +2 studded leather and carrying a +2 shortsword has AC 20 and a +2 bonus on attack and damage rolls with shortsword attacks.  
-> - A drow priestess of Lolth wearing +3 scale mail has AC 19.  
-^variant-drow-magic-armor-and-weapons
+>
+> - A drow wearing a +1 chain shirt and carrying a +1 shortsword has AC 16 and a +1 bonus on attack and damage rolls with shortsword attacks.
+> - A drow elite warrior wearing +2 studded leather and carrying a +2 shortsword has AC 20 and a +2 bonus on attack and damage rolls with shortsword attacks.
+> - A drow priestess of Lolth wearing +3 scale mail has AC 19.\
+>   ^variant-drow-magic-armor-and-weapons
 
-> [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian  
-> 
+> [!quote] A quote from Nelar Autumnwell, elf cleric of Corellon Larethian
+>
 > Such depravity. Such terrifying cruelty. They are the vile poison that plagues all elvenkind.
-
 
 ```ad-statblock
 title: Drow Mage
@@ -126,6 +126,7 @@ title: Drow Mage
 
 ***Summon Demon (1/Day).*** The drow magically summons a [quasit](Mechanics/CLI/bestiary/fiend/quasit-xmm.md), or attempts to summon a [shadow demon](Mechanics/CLI/bestiary/fiend/shadow-demon.md) with a 50 percent chance of success. The summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 ```
+
 ^statblock
 
 ## Environment

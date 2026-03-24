@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Reflection
-*Source: Tasha's Cauldron of Everything p. 158*  
+
+_Source: Tasha's Cauldron of Everything p. 158_\
 ![](Mechanics/CLI/bestiary/fey/img/reflection.webp#center)
 
 ```ad-statblock
@@ -57,4 +58,5 @@ title: Reflection
 
 If a non-evil humanoid dies from this attack, a new reflection rises from the corpse `1d4` hours later.
 ```
+
 ^statblock

@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Crossbow Trap
-*Generic Hazard*  
 
+_Generic Hazard_
 
 The crossbow trap is a favorite of kobolds and other creatures that rely on traps to defend their lairs. It consists of a trip wire strung across a hallway and connected to a pair of hidden heavy crossbows. The crossbows are aimed to fire down the hallway at anyone who disturbs the trip wire.
 
 ## Sources
 
-*Xanathar's Guide to Everything p. 113*
+_Xanathar's Guide to Everything p. 113_

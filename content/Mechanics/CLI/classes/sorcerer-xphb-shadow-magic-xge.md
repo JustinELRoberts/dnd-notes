@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Shadow Magic
-*[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass*  
-*Source: Xanathar's Guide to Everything p. 50*  
+
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
+_Source: Xanathar's Guide to Everything p. 50_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -85,10 +86,10 @@ After the saving throw succeeds, you can't use this feature again until you fini
 
 At 6th level, you gain the ability to call forth a howling creature of darkness to harass your foes. As a bonus action, you can spend 3 sorcery points to magically summon a [hound of ill omen](Mechanics/CLI/bestiary/monstrosity/hound-of-ill-omen-xge.md) to target one creature you can see within 120 feet of you. The hound uses the [dire wolf](Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md)'s statistics (see the Monster Manual or appendix C in the Player's Handbook), with the following changes:
 
-- The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.  
-- It appears with a number of temporary hit points equal to half your sorcerer level.  
-- It can move through other creatures and objects as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object.  
-- At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.  
+- The hound is size Medium, not Large, and it counts as a monstrosity, not a beast.
+- It appears with a number of temporary hit points equal to half your sorcerer level.
+- It can move through other creatures and objects as if they were difficult terrain. The hound takes 5 force damage if it ends its turn inside an object.
+- At the start of its turn, the hound automatically knows its target's location. If the target was hidden, it is no longer hidden from the hound.
 
 The hound appears in an unoccupied space of your choice within 30 feet of the target. Roll initiative for the hound. On its turn, it can move only toward its target by the most direct route, and it can use its action only to attack its target. The hound can make opportunity attacks, but only against its target. Additionally, while the hound is within 5 feet of the target, the target has disadvantage on saving throws against any spell you cast. The hound disappears if it is reduced to 0 hit points, if its target is reduced to 0 hit points, or after 5 minutes.
 

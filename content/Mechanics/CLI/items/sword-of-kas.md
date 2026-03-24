@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Sword of Kas
-*Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement)*  
+
+_Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), artifact (requires attunement)_\
 ![](Mechanics/CLI/items/img/sword-of-kas.webp#right)
 
 - **Damage**:
@@ -38,10 +39,10 @@ If the sword isn't bathed in blood within 1 minute of being drawn from its scabb
 
 The Sword of Kas has the following random properties:
 
-- 1 [minor beneficial property](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)  
-- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)  
-- 1 [minor detrimental property](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)  
-- 1 [major detrimental property](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)  
+- 1 [minor beneficial property](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
+- 1 [major beneficial property](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)
+- 1 [minor detrimental property](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md)
+- 1 [major detrimental property](Mechanics/CLI/tables/artifact-properties-major-detrimental-properties.md)
 
 ## Spirit of Kas
 
@@ -67,4 +68,4 @@ The Sword of Kas also seeks to destroy anyone corrupted by the Eye and [Hand of 
 
 A creature attuned to both the [Eye of Vecna](Mechanics/CLI/items/eye-of-vecna.md) and the [Hand of Vecna](Mechanics/CLI/items/hand-of-vecna.md) can use the wish property of those combined artifacts to unmake the Sword of Kas. The creature must cast the [wish](Mechanics/CLI/spells/wish-xphb.md) spell and make a Charisma check contested by the Charisma check of the sword. The sword must be within 30 feet of the creature, or the spell fails. If the sword wins the contest, nothing happens, and the [wish](Mechanics/CLI/spells/wish-xphb.md) spell is wasted. If the sword loses the contest, it is destroyed.
 
-*Source: Dungeon Master's Guide p. 226*
+_Source: Dungeon Master's Guide p. 226_

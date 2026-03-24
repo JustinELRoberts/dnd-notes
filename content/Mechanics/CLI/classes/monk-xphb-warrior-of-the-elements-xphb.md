@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Warrior of the Elements
-*[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Player's Handbook (2024) p. 106*  
+
+_[Monk](./monk-xphb.md): Monk Subclass_\
+_Source: Player's Handbook (2024) p. 106_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/elements-monk.webp#right)
 
-*Wield Strikes and Bursts of Elemental Power*
+_Wield Strikes and Bursts of Elemental Power_
 
 Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.
 

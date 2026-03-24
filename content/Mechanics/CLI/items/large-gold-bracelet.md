@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Large gold bracelet
-*Treasure (art object)*  
 
+_Treasure (art object)_
 
 - **Cost**: 250 gp
 
-*Source: Dungeon Master's Guide p. 135*
+_Source: Dungeon Master's Guide p. 135_

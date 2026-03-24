@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Swashbuckler
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217_\
 ![](Mechanics/CLI/bestiary/humanoid/img/swashbuckler.webp#right)
 
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
@@ -76,6 +77,7 @@ title: Swashbuckler
 
 ***Lightfooted.*** The swashbuckler takes the [Dash](Mechanics/CLI/rules/actions.md#Dash) or [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action.
 ```
+
 ^statblock
 
 ## Environment

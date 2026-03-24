@@ -15,14 +15,17 @@ obsidianUIMode: preview
 ---
 
 # Brewer's Supplies
-*Artisan's tools*  
 
+_Artisan's tools_
 
 - **Cost**: 20 gp
+
 - **Weight**: 9.0 lbs.
 
-- **Ability.** Intelligence  
-- **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
-- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md)  
+- **Ability.** Intelligence
 
-*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)
+
+- **Craft.** [Antitoxin](Mechanics/CLI/items/antitoxin-xphb.md)
+
+_Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

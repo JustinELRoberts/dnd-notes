@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Rope of Entanglement
-*Wondrous item, major, rare*  
+
+_Wondrous item, major, rare_\
 ![](Mechanics/CLI/items/img/rope-of-entanglement.webp#right)
 
 - **Weight**: 3.0 lbs.
@@ -26,4 +27,4 @@ You can release the creature by using a bonus action to speak a second command w
 
 The rope has AC 20 and 20 hit points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 hit points, it is destroyed.
 
-*Source: Dungeon Master's Guide p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 197. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

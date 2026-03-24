@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Oathbow
-*Weapon ([longbow](Mechanics/CLI/items/longbow-xphb.md)), major, very rare (requires attunement)*  
+
+_Weapon ([longbow](Mechanics/CLI/items/longbow-xphb.md)), major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/oathbow.webp#right)
 
 - **Damage**: 1d8 piercing
@@ -32,4 +33,4 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
 
-*Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -22,8 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Berserker
-*Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 
@@ -56,6 +56,7 @@ title: Berserker
 
 ***Greataxe.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 9 (`1d12 + 3`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

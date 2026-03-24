@@ -17,11 +17,12 @@ obsidianUIMode: preview
 ---
 
 # Maw Demon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137_\
 ![](Mechanics/CLI/bestiary/fiend/img/maw-demon.webp#right)
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > I once pulled a whole bottle of fine strawberry liquor from the belly of a maw demon. No clue where it might've devoured such a find, but I'm not complaining.
 
 Maw demons share the ceaseless hunger for carnage and mortal flesh of their master, Yeenoghu, who appears in this book. After a maw demon rests for 8 hours, anything devoured by it is transported directly into the Lord of Savagery's gullet.
@@ -73,6 +74,7 @@ title: Maw Demon
 
 ***Disgorge (Recharge 6).*** The demon vomits in a 15-foot cube. Each creature in that area must succeed on a DC 11 Dexterity saving throw or take 11 (`2d10`) acid damage and fall [prone](Mechanics/CLI/rules/conditions.md#Prone) in the spew.
 ```
+
 ^statblock
 
 ## Environment

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fiendish Spirit (Demon)
-*Source: Player's Handbook (2024) p. 327*  
+
+_Source: Player's Handbook (2024) p. 327_
 
 ```ad-statblock
 title: Fiendish Spirit (Demon)
@@ -52,4 +53,5 @@ title: Fiendish Spirit (Demon)
 
 ***Bite.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d12 + 3` + the spell's level Necrotic damage.
 ```
+
 ^statblock

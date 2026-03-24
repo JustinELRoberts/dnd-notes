@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Hound
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 ```ad-statblock
 title: Hound
@@ -48,4 +49,5 @@ title: Hound
 
 ***Bite.*** *Melee Attack Roll:* Bonus equals your Strength or Dexterity modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6` plus your Strength or Dexterity modifier Piercing damage. If the target is a Medium or smaller creature, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
 ```
+
 ^statblock

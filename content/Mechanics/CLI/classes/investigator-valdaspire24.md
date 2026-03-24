@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Investigator
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='7'></th></tr>
@@ -58,16 +59,16 @@ obsidianUIMode: preview
 ## Starting Investigator
 
 - **Saving Throw Proficiencies**: Dexterity, Intelligence
-- **Skill Proficiencies**: *Choose 3:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Religion](Mechanics/CLI/rules/skills.md#Religion), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
+- **Skill Proficiencies**: _Choose 3:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Religion](Mechanics/CLI/rules/skills.md#Religion), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Rapier](Mechanics/CLI/items/rapier-xphb.md), [Heavy Crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), 20 [Crossbow Bolts](Mechanics/CLI/items/bolt-xphb.md), [Crossbow Bolt Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md) and 17 GP; or (B) 120 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Rapier](Mechanics/CLI/items/rapier-xphb.md), [Heavy Crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), 20 [Crossbow Bolts](Mechanics/CLI/items/bolt-xphb.md), [Crossbow Bolt Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md) and 17 GP; or (B) 120 GP
 
 ## Multiclassing Investigator
 
-- Gain the following traits from the Core Investigator Traits table: Hit Point Die, proficiency in one skill of your choice from the Investigators skill list, proficiency with Martial Weapons, and training with Light Armor.  
-- Gain the Investigator's level 1 features, which are listed in the Investigator Features table  
+- Gain the following traits from the Core Investigator Traits table: Hit Point Die, proficiency in one skill of your choice from the Investigators skill list, proficiency with Martial Weapons, and training with Light Armor.
+- Gain the Investigator's level 1 features, which are listed in the Investigator Features table
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaInvestigator/Class/Investigator-Class.webp#center)
 
@@ -102,15 +103,15 @@ Whenever you gain an Investigator level, you can add two Investigator spells of 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Investigator spells.
 
 > [!note] Expanding and Replacing a Grimoire
-> 
+>
 > The spells you add to your grimoire represent research into occult and supernatural threats, but you might find other spells during your adventures that you can add to your grimoire.
-> 
+>
 > **Copying a Spell into the Grimoire.** When you find a level 1+ Investigator spell, you can copy it into your grimoire if it's of an eligible level and if you have time to copy it. For each level of the spell, the transcription takes 2 hours and costs 50 GP.
-> 
+>
 > **Copying the Grimoire.** You can copy a spell from your grimoire into another book. This is like copying a new spell into your grimoire but faster, since you already know how to cast the spell. You need spend only 1 hour and 10 GP for each level of the copied spell.
-> 
+>
 > If you lose your grimoire, you can recall from memory a number of spells equal to your Investigator level and use the same procedure to transcribe the spells into a new grimoire. Filling out the remainder of the new book requires you to find new spells to do so. For this reason, many Investigators keep a backup grimoire.
-^expanding-and-replacing-a-grimoire
+> ^expanding-and-replacing-a-grimoire
 
 ### Weapon Mastery (Level 1)
 
@@ -162,7 +163,7 @@ You gain a feature from your Investigator Subclass.
 
 ### Holy Trinkets (Level 7)
 
-You keep a wide array of [Holy Symbols](Mechanics/CLI/items/holy-symbol-xphb.md) and blessed items on your person, even if you aren't particularly pious. You can use the following trinkets (expending a use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20(Level%203)) to do so).
+You keep a wide array of [Holy Symbols](Mechanics/CLI/items/holy-symbol-xphb.md) and blessed items on your person, even if you aren't particularly pious. You can use the following trinkets (expending a use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)) to do so).
 
 **Amulet of Warding.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you place a divine ward on a creature of your choice within 60 feet of you. Until the start of your next turn, the warded creature gains a bonus to AC and saving throws equal to your Intelligence modifier (minimum of +1).
 
@@ -224,6 +225,6 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Spellbinder (Level 20)
 
-Choose 5 Investigator spells in your grimoire of levels 1-3 that have a casting time of an action or [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). You can use [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) to cast the chosen spells without expending a use of the feature, and you don't need to read from your grimoire to cast them.
+Choose 5 Investigator spells in your grimoire of levels 1-3 that have a casting time of an action or [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). You can use [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) to cast the chosen spells without expending a use of the feature, and you don't need to read from your grimoire to cast them.
 
 Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace one of those spells with another spell in your grimoire.

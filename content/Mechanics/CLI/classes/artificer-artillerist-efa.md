@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Artillerist
-*[Artificer](./artificer-efa.md): Artificer Subclass*  
-*Source: Eberron: Forge of the Artificer p. 16*  
+
+_[Artificer](./artificer-efa.md): Artificer Subclass_\
+_Source: Eberron: Forge of the Artificer p. 16_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/artillerist-artificer.webp#right)
 
-*Wield Destructive Power from Afar*
+_Wield Destructive Power from Afar_
 
 An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield.
 

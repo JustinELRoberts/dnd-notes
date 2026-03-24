@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Plague Doctor
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Cure Sickness with Brutal Medical Practices*
+_Cure Sickness with Brutal Medical Practices_
 
 As maladies sweep the countryside, plague doctors follow close behind. Wielding brutal medical instruments and techniques to balance the humors, plague doctors inspire hope and fear in equal measure.
 
@@ -62,7 +63,7 @@ Your medical studies have taught you to bloodlet patients and balance their humo
 
 **Diagnosis.** You can take the [Search](Mechanics/CLI/rules/actions.md#Search) action to determine if a creature you can see within 30 feet of yourself has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition, is [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), or is afflicted by a magical contagion. You sense the source of the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition, the nature of its wounds, and the magical contagion in each case.
 
-### Remedy [Maneuver] (Level 3)
+### Remedy \[Maneuver] (Level 3)
 
 As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your turn, you can expend one Battle Die to choose one ally within 5 feet of yourself. That creature regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to two rolls of your Battle Die plus your Constitution modifier. Additionally, you can end one of the following conditions on the ally: [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), or [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned).
 

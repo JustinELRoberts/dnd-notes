@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Spell Scrolls; Spell Scroll
-*Source: Dungeon Master's Guide p. 139. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+
+_Source: Dungeon Master's Guide p. 139. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 **Spell Scroll**
 

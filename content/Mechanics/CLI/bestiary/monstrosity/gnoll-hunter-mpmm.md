@@ -20,8 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Gnoll Hunter
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154_
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
 
@@ -68,6 +68,7 @@ title: Gnoll Hunter
 
 ***Rampage.*** After the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll moves up to half its speed and makes a Bite attack.
 ```
+
 ^statblock
 
 ## Environment

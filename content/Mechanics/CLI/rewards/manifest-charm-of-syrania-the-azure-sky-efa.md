@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Manifest Charm of Syrania, the Azure Sky
-*Charm*  
 
+_Charm_
 
 You can expend the Charm as a Bonus Action to gain a Fly Speed equal to your Speed for 1 minute.
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 50*
+_Eberron: Forge of the Artificer p. 50_

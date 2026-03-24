@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Green Hag (Coven)
-*Source: Monster Manual p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Green Hag (Coven)
@@ -105,6 +106,7 @@ A powerful green hag creates one or more of the following additional regional ef
 - The region takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.  
 - Trees transform into [awakened trees](Mechanics/CLI/bestiary/plant/awakened-tree.md) and attack when hostile intruders are near.  
 ```
+
 ^statblock
 
 ## Environment

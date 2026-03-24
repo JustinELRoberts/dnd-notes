@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Creating a Monster Stat Block; Monster Features
-*Source: Dungeon Master's Guide p. 275* 
+
+_Source: Dungeon Master's Guide p. 275_
 
 **Monster Features**
 

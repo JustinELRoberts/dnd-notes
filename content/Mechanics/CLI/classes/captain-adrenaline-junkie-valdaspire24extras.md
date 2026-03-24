@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Adrenaline Junkie
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -55,18 +56,18 @@ Note that cross-compatible subclasses might be stronger or weaker than other sub
 The GM decides if a subclass should be cross-compatible in your campaign.
 
 > [!note] Cross-Compatability Modifictaions
-> 
+>
 > **Level 3: Adrenaline.** You can't use an Adrenaline Battle Die with the Rally maneuver.
-^cross-compatability-modifictaions
+> ^cross-compatability-modifictaions
 
-*Live Fast, Die Young*
+_Live Fast, Die Young_
 
 Adrenaline Junkies live for the thrill, taking on increasingly death-defying stunts until they grow bored of it all or it kills them...
 
 > [!note] Switching to Adrenaline Junkie
-> 
+>
 > When you gain a Vagabond level, you can switch your subclass to Adrenaline Junkie...
-^switching-to-adrenaline-junkie
+> ^switching-to-adrenaline-junkie
 
 ## Subclass Features
 

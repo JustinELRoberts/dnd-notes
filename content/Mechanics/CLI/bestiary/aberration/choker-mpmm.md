@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Choker
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 76*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 76_\
 ![](Mechanics/CLI/bestiary/aberration/img/choker.webp#right)
 
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
@@ -66,6 +67,7 @@ title: Choker
 
 ***Tentacle.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage. If the target is a Large or smaller creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
 ```
+
 ^statblock
 
 ## Environment

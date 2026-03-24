@@ -21,8 +21,8 @@ classes:
 ---
 
 # Springheel
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -33,4 +33,4 @@ You flood magic into your legs, allowing you to bound high into the air. Until t
 
 **Classes**: [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

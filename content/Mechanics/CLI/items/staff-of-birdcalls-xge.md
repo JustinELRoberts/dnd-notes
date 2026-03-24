@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Staff of Birdcalls
-*Staff, weapon, minor, common*  
 
+_Staff, weapon, minor, common_
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -29,4 +29,4 @@ This wooden staff is decorated with bird carvings. It has 10 charges. While hold
 
 The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff explodes in a harmless cloud of bird feathers and is lost forever.
 
-*Source: Xanathar's Guide to Everything p. 139*
+_Source: Xanathar's Guide to Everything p. 139_

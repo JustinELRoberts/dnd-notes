@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Hades
 
-
 - **Alignment**: Lawful Evil
 - **Domains**: Death, Grave
 - **Pantheon**: Greek
 - **Symbol**: Black ram
 
-
-
 ## Sources
 
-*Player's Handbook p. 298, Xanathar's Guide to Everything p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Player's Handbook p. 298, Xanathar's Guide to Everything p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

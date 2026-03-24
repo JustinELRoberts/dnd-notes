@@ -19,8 +19,8 @@ classes:
 ---
 
 # Homunculus Servant
-*2nd-level, Conjuration (ritual)*  
 
+_2nd-level, Conjuration (ritual)_
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** 10 feet
@@ -41,4 +41,4 @@ Use the spell slot's level for the spell's level in the stat block.
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md)
 
-*Source: Eberron: Forge of the Artificer p. 21*
+_Source: Eberron: Forge of the Artificer p. 21_

@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Making 
+# Mark of Making
+
 ![](Mechanics/CLI/feats/img/mark-of-making.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -36,6 +37,7 @@ You gain the following benefits.
 | 4 | [Fabricate](Mechanics/CLI/spells/fabricate-xphb.md), [Stone Shape](Mechanics/CLI/spells/stone-shape-xphb.md) |
 | 5 | [Creation](Mechanics/CLI/spells/creation-xphb.md) |
 ^mark-of-making-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 40*
+_Eberron: Forge of the Artificer p. 40_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Physical Variations; Pureblood Characteristics
-*Source: Volo's Guide to Monsters p. 97* 
+
+_Source: Volo's Guide to Monsters p. 97_
 
 **Pureblood Characteristics**
 

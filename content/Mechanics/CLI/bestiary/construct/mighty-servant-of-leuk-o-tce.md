@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Mighty Servant of Leuk-o
-*Source: Tasha's Cauldron of Everything p. 131*  
+
+_Source: Tasha's Cauldron of Everything p. 131_\
 ![](Mechanics/CLI/bestiary/construct/img/mighty-servant-of-leuk-o.webp#center)
 
 ```ad-statblock
@@ -60,4 +61,5 @@ title: Mighty Servant of Leuk-o
 
 ***Crushing Leap.*** If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (`4d12`) bludgeoning damage and is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock

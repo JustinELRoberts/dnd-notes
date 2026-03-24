@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Black Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Wield the Dark Arts*
+_Wield the Dark Arts_
 
 Black magic is associated with Hexes that cause suffering and spells that give rise to undeath. Harnessing such magic can lend you great power, but inevitably carries a cost. Darkness cannot be contained, after all; it merely seeps forth from wherever it is kept.
 

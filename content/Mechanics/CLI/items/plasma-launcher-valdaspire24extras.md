@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Plasma Launcher
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d8 fire
 - **Range**: 80/320
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 This short tube launches an orb of superheated plasma in an arc. On contact, the ball of plasma pops like a balloon, exploding in a dazzling fireball of sparks.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

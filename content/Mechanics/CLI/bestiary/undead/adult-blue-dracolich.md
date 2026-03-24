@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Adult Blue Dracolich
-*Source: Monster Manual p. 84*  
+
+_Source: Monster Manual p. 84_\
 ![](Mechanics/CLI/bestiary/undead/img/blue-dracolich.webp#right)
 
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
@@ -144,6 +145,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 - **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
 - **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.  
 ```
+
 ^statblock
 
 ## Environment

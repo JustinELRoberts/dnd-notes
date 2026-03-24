@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Diviner
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Player's Handbook (2024) p. 173*  
+
+_[Wizard](./wizard-xphb.md): Wizard Subclass_\
+_Source: Player's Handbook (2024) p. 173_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/diviner-wizard.webp#right)
 
-*Learn the Secrets of the Multiverse*
+_Learn the Secrets of the Multiverse_
 
 The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.
 

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Nightgaunt
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarden/Class/Nightgaunt.webp#right)
 
-*Side With the Forces of Undeath*
+_Side With the Forces of Undeath_
 
 Blood-drinkers, Undead, and other creatures of the night are often feared and hunted, and few stand in their defense; except, of course, the grim and terrible Nightgaunts. Tales of Nightgaunts cast them as hunters of clerics and goodly vampire slayers. Their appearances always presage long nights and great rises in hungry Undead.
 

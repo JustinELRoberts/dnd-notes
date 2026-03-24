@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mace of Smiting
-*Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, rare*  
+
+_Weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, rare_\
 ![](Mechanics/CLI/items/img/mace-of-smiting.webp#right)
 
 - **Damage**: 1d6 bludgeoning
@@ -30,4 +31,4 @@ When you roll a 20 on an attack roll made with this weapon, the target takes an 
 > [!note]
 > Note: According to the SRD, it is an extra `2d6` and `4d6` bludgeoning damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
-*Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

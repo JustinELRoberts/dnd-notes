@@ -24,8 +24,8 @@ classes:
 ---
 
 # Gravity Well
-*3rd-level, Evocation*  
 
+_3rd-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -38,4 +38,4 @@ A 15-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effec
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

@@ -18,8 +18,8 @@ classes:
 ---
 
 # Swift Quiver
-*5th-level, Transmutation*  
 
+_5th-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -30,4 +30,4 @@ When you cast the spell and as a [Bonus Action](Mechanics/CLI/rules/variant-rule
 
 **Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 329*
+_Source: Player's Handbook (2024) p. 329_

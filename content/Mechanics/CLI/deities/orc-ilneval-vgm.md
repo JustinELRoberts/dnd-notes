@@ -16,7 +16,6 @@ obsidianUIMode: preview
 
 # Ilneval
 
-
 - **Alignment**: Lawful Evil
 - **Domains**: War
 - **Pantheon**: Orc
@@ -30,4 +29,4 @@ Orcs that show aptitude for the nuances of warfare at an early age are considere
 
 ## Sources
 
-*Volo's Guide to Monsters p. 83*
+_Volo's Guide to Monsters p. 83_

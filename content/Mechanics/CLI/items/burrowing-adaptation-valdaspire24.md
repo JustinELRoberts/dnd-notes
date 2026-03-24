@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Burrowing Adaptation
-*Monstrous graft, uncommon*  
 
+_Monstrous graft, uncommon_
 
 - **Properties**: [Arms Slot](Mechanics/CLI/rules/item-properties.md#Arms%20Slot)
 
-*Donor: Any Creature with a [Burrow Speed](Mechanics/CLI/rules/variant-rules/burrow-speed-xphb.md) of 10+ Feet*
+_Donor: Any Creature with a [Burrow Speed](Mechanics/CLI/rules/variant-rules/burrow-speed-xphb.md) of 10+ Feet_
 
 You have a [Burrow Speed](Mechanics/CLI/rules/variant-rules/burrow-speed-xphb.md) equal to half your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md). You can dig through sand, earth, mud, or ice, but you can't burrow through solid rock.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

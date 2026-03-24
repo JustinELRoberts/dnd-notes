@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # White Dragon Wyrmling
-*Source: Monster Manual p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/white-dragon.webp#right)
 
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
@@ -130,4 +131,5 @@ title: White Dragon Wyrmling
 
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast of hail in a 15-foot cone. Each creature in that area must make a DC 12 Constitution saving throw, taking 22 (`5d8`) cold damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock

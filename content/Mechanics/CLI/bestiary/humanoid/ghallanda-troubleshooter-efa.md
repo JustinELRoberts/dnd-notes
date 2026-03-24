@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Ghallanda Troubleshooter
-*Source: Eberron: Forge of the Artificer p. 80*  
+
+_Source: Eberron: Forge of the Artificer p. 80_\
 ![](Mechanics/CLI/bestiary/humanoid/img/ghallanda-troubleshooter.webp#right)
 
 The inns of House Ghallanda are meant to be places of safe refuge and quiet rest, so the house employs troubleshooters (mostly halflings) to protect the safety and serenity of its guests.
@@ -61,4 +62,5 @@ title: Ghallanda Troubleshooter
 
 ***Nimble Escape.*** The troubleshooter takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Adrenaline Junkie
-*[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,14 +49,14 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Live Fast, Die Young*
+_Live Fast, Die Young_
 
 Adrenaline Junkies live for the thrill, taking on increasingly death-defying stunts until they grow bored of it all or it kills them. Some subscribe to a grim fatalism, whereas others indulge in excitement-laden decadence.
 
 > [!note] Switching to Adrenaline Junkie
-> 
+>
 > When you gain a Vagabond level, you can switch your subclass to Adrenaline Junkie from any other subclass. You might choose to do so, for example, if you chose the Avenger Secret and you have successfully exacted vengeance against all of your targets or if you abandon your vows as a Knight Errant.
-^switching-to-adrenaline-junkie
+> ^switching-to-adrenaline-junkie
 
 ## Subclass Features
 

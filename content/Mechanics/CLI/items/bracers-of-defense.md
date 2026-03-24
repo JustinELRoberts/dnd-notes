@@ -16,10 +16,10 @@ obsidianUIMode: preview
 ---
 
 # Bracers of Defense
-*Wondrous item, major, rare (requires attunement)*  
-![](Mechanics/CLI/items/img/bracers-of-defense.webp#right)
 
+_Wondrous item, major, rare (requires attunement)_\
+![](Mechanics/CLI/items/img/bracers-of-defense.webp#right)
 
 While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no [shield](Mechanics/CLI/items/shield-xphb.md).
 
-*Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

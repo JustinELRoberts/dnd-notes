@@ -21,8 +21,8 @@ classes:
 ---
 
 # Prehensile Hair
-*1st-level, Transmutation (ritual)*  
 
+_1st-level, Transmutation (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self
@@ -33,4 +33,4 @@ When you cast this spell, you can cause any of your body hair to grow up to 15 f
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

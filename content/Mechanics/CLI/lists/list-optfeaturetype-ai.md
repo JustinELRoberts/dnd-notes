@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Artificer Infusion
-*Source: Tasha's Cauldron of Everything* 
+
+_Source: Tasha's Cauldron of Everything_
 
 - [Arcane Propulsion Armor](Mechanics/CLI/optional-features/arcane-propulsion-armor-tce.md)
 - [Armor of Magical Strength](Mechanics/CLI/optional-features/armor-of-magical-strength-tce.md)

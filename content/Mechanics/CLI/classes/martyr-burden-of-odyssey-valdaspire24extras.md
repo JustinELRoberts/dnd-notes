@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Burden of Odyssey
-*[Martyr](./martyr-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Undertake a Journey of Discovery*
+_Undertake a Journey of Discovery_
 
 The gods have tasked you with exploring the far reaches of the world, to venture where no soul has gone before, and bring back the discoveries waiting to be found there. You might be tasked to map an undiscovered continent, discover a straight between distant cities, or sail the edge of the oceans, but peril and adventure regardless await. You are unlikely to return from your journey, but your expedition will not have been in vain as long as your odyssey is remembered.
 

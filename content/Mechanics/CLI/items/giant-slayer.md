@@ -28,15 +28,16 @@ obsidianUIMode: preview
 ---
 
 # Giant Slayer
-*Major, rare*  
-![](Mechanics/CLI/items/img/giant-slayer.webp#right)
 
+_Major, rare_\
+![](Mechanics/CLI/items/img/giant-slayer.webp#right)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When you hit a giant with it, the giant takes an extra `2d6` damage of the weapon's type and must succeed on a DC 15 Strength saving throw or fall [prone](Mechanics/CLI/rules/conditions.md#Prone). For the purpose of this weapon, "giant" refers to any creature with the giant type, including ettins and trolls.
 
 **Variants**:
+
 - [Giant Slayer Battleaxe](#Giant%20Slayer%20Battleaxe)
 - [Giant Slayer Double-Bladed Scimitar](#Giant%20Slayer%20Double-Bladed%20Scimitar)
 - [Giant Slayer Greataxe](#Giant%20Slayer%20Greataxe)
@@ -106,5 +107,4 @@ When you hit a giant with it, the giant takes an extra `2d6` damage of the weapo
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

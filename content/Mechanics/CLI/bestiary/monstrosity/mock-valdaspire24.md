@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Mock
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWitch/Creatures/Mock.webp#right)
 
 The diminutive relative of the mimic, the mock is a tiny shapechanger that replicates small, valuable objects to lure in its victims. In the desert, a mock might take the form of a canteen of precious water, and in a dungeon, it may replicate a sizeable jewel or a spare gold piece. If an adventurer is caught by surprise, a mock is just as dangerous as its larger relatives, for can hide in far less conspicuous places.
@@ -55,4 +56,5 @@ title: Mock
 
 ***Shape-Shift.*** The mock shape-shifts to resemble a Tiny object while retaining its game statistics, or it returns to its true blob form. Any equipment it is wearing or carrying isn't transformed.
 ```
+
 ^statblock

@@ -14,13 +14,13 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Potion of Healing (*)
-*Potion*  
+# Potion of Healing (\*)
 
-
+_Potion_
 
 > [!note]
-> * This item group has the same name and source as the item [potion of healing](Mechanics/CLI/items/potion-of-healing-xdmg.md).
+>
+> - This item group has the same name and source as the item [potion of healing](Mechanics/CLI/items/potion-of-healing-xdmg.md).
 
 **Items in this group:**
 
@@ -29,4 +29,4 @@ obsidianUIMode: preview
 - [Potion of Superior Healing](Mechanics/CLI/items/potion-of-superior-healing.md)
 - [Potion of Supreme Healing](Mechanics/CLI/items/potion-of-supreme-healing.md)
 
-*Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

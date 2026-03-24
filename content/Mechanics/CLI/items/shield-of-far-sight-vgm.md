@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Shield of Far Sight
-*Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), rare*  
 
+_Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), rare_
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
@@ -25,4 +25,4 @@ A [mind flayer](Mechanics/CLI/bestiary/aberration/mind-flayer.md) skilled at cra
 
 If a shield of far sight is destroyed, the [mind flayer](Mechanics/CLI/bestiary/aberration/mind-flayer.md) that created it is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for `2d12` hours.
 
-*Source: Volo's Guide to Monsters p. 81*
+_Source: Volo's Guide to Monsters p. 81_

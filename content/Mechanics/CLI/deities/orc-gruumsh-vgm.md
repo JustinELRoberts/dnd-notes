@@ -17,7 +17,6 @@ obsidianUIMode: preview
 
 # Gruumsh
 
-
 - **Alignment**: Chaotic Evil
 - **Domains**: Tempest, War
 - **Pantheon**: Orc
@@ -38,14 +37,14 @@ Those who are visited by Gruumsh are transformed psychologically and often physi
 A few of the orcs touched by the power of Gruumsh are given the ultimate honor of carrying a small part of the god's overwhelming rage into battle, in the form of magic that augments their weapons and helps the tribe succeed. To become an eye of Gruumsh, an orc that has been chosen by Gruumsh must gouge out one of its eyes as a sign of devotion, sacrificing half of its mortal vision in return for divine power. These god-touched orcs are revered as living connections to Gruumsh, and are treated with respect even when they are old and infirm.
 
 > [!note] Nishrek and the Eternal War
-> 
+>
 > Orcs believe that if they die with honor, their spirits go to the plane of Acheron, the Infinite Battlefield-specifically the layer of Nishrek, where they join Gruumsh's army and fight on his behalf in the endless war against the goblinoid followers of Maglubiyet. Gruumsh sees this conflict as a chance to pit his people against an eager foe and enable them to prove their worth before their deities. He relishes every short-term triumph and swears revenge for every setback.
-> 
+>
 > Luthic, though, takes a longer view. She understands the cosmic implications of Maglubiyet's attacks. To prevent the goblinoids from outstripping her people in population, she urges the orcs to have many offspring and teach them the ways of battle not only for survival in the material world, but to keep Maglubiyet at bay in the conflict on the planes. Her children will remain in her care, and if need be she wouldn't hesitate to take to the field herself and claw Maglubiyet's beady eyes from his face to prevent him from taking them from her.
-> 
+>
 > The cosmic battle between the two pantheons has raged for eons without resolution, leading those who study its ebb and flow to expect the stalemate to continue. A different view is put forth by the archmage Tzunk, who notes that Maglubiyet has never faced a foe as ferocious and protective as Luthic. He predicts that the war will end with Luthic the only deity standing, as the cave mother ascends to rule her warrior children.
-^nishrek-and-the-eternal-war
+> ^nishrek-and-the-eternal-war
 
 ## Sources
 
-*Volo's Guide to Monsters p. 82*
+_Volo's Guide to Monsters p. 82_

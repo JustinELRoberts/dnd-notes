@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Enchanted Springs; Enchanted Spring Effects
-*Source: Tasha's Cauldron of Everything p. 165* 
+
+_Source: Tasha's Cauldron of Everything p. 165_
 
 **Enchanted Spring Effects**
 

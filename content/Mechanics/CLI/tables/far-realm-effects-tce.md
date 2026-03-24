@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Far Realm Effects
-*Source: Tasha's Cauldron of Everything p. 152* 
+
+_Source: Tasha's Cauldron of Everything p. 152_
 
 **Far Realm Effects**
 

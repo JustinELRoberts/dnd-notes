@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Booyahg Slave of the Fiend
-*Source: Volo's Guide to Monsters p. 42*  
 
+_Source: Volo's Guide to Monsters p. 42_
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
 
@@ -75,4 +75,5 @@ title: Booyahg Slave of the Fiend
 
 ***Mace.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage plus 10 (`3d6`) fire damage.
 ```
+
 ^statblock

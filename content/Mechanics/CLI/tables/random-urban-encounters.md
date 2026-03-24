@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Urban Encounters
-*Source: Dungeon Master's Guide p. 114* 
+
+_Source: Dungeon Master's Guide p. 114_
 
 **Random Urban Encounters**
 

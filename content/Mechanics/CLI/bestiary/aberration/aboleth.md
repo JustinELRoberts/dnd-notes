@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Aboleth
-*Source: Monster Manual p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 13. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/aberration/img/aboleth.webp#right)
 
 Before the coming of the gods, aboleths lurked in primordial oceans and underground lakes. They reached out with their minds and seized control of the burgeoning life-forms of the mortal realm, making those creatures their slaves. Their dominance made them like gods. Then the true gods appeared, smashing the aboleths' empire and freeing their slaves. Aboleths have never forgotten.
@@ -38,8 +39,8 @@ The aboleths' fall from power is written in stark clarity on their flawless memo
 
 Ultimately, aboleths dream of overthrowing the gods and regaining control of the world. Aboleths have had untold eons to plot and to prepare their plans for perfect execution.
 
-> [!quote] A quote from Vaqir Zekh'r, githzerai philosopher and author of The Far Realm: Real Yet Unreal  
-> 
+> [!quote] A quote from Vaqir Zekh'r, githzerai philosopher and author of The Far Realm: Real Yet Unreal
+>
 > Could it be that the aboleths are older than the gods... that before the divine ones came to be, such horrors shaped the multiverse? Now there's a chilling thought.
 
 ## An Aboleth's Lair
@@ -116,6 +117,7 @@ The region containing an aboleth's lair is warped by the creature's presence, wh
 
 If the aboleth dies, the first two effects fade over the course of `3d10` days.
 ```
+
 ^statblock
 
 ## Environment

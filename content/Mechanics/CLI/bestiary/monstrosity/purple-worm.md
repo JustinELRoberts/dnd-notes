@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Purple Worm
-*Source: Monster Manual p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/purple-worm.webp#right)
 
 The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dimwitted, ravenous force of nature, this creature regards anything it encounters as food.
@@ -71,6 +72,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 
 ***Tail Stinger.*** *Melee Weapon Attack:* `+14` to hit, reach 10 ft., one creature. *Hit:* 19 (`3d6 + 9`) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (`12d6`) poison damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

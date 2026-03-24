@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Bear Trap
-*Generic Hazard*  
 
+_Generic Hazard_
 
 A bear trap resembles a set of iron jaws that springs shut when stepped on, clamping down on a creature's leg. The trap is spiked in the ground, leaving the victim immobilized.
 
 ## Sources
 
-*Xanathar's Guide to Everything p. 113*
+_Xanathar's Guide to Everything p. 113_

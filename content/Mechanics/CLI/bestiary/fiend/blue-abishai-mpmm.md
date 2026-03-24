@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Blue Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 39*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 39_\
 ![](Mechanics/CLI/bestiary/fiend/img/blue-abishai.webp#right)
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
@@ -81,6 +82,7 @@ title: Blue Abishai
 
 ***Teleport.*** The abishai teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space that it can see.
 ```
+
 ^statblock
 
 ## Environment

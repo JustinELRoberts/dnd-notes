@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Adult Brass Dragon
-*Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/brass-dragon.webp#right)
 
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
@@ -168,6 +169,7 @@ If the dragon dies, the tracks fade in `1d10` days, but the other effects fade i
 - **Cloud Companion.** A small, wispy cloud follows non-evil creatures as they journey within 6 miles of the dragon's lair. It changes direction as the creatures do, remaining interposed between them and the direct glare of the sun, and grants them advantage on saving throws to resist the effects of "extreme heat" (see the "Dungeon Master's Guide").  
 - **Talkative Denizens.** Creatures within 1 mile of the dragon's lair find pleasure in hearing the sound of their own voices. The air is filled with a deafening chorus of birds and small animals, and sapient creatures talk extensively.  
 ```
+
 ^statblock
 
 ## Environment

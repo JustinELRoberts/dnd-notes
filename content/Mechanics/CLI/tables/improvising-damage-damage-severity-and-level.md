@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Improvising Damage; Damage Severity and Level
-*Source: Dungeon Master's Guide p. 249* 
+
+_Source: Dungeon Master's Guide p. 249_
 
 **Damage Severity and Level**
 

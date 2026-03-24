@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Roper
-*Source: Monster Manual p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/roper.webp#right)
 
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.
@@ -74,6 +75,7 @@ title: Roper
 
 ***Reel.*** The roper pulls each creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it up to 25 feet straight toward it.
 ```
+
 ^statblock
 
 ## Environment

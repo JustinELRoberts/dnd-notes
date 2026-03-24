@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon Location; Exotic Location
-*Source: Dungeon Master's Guide p. 99* 
+
+_Source: Dungeon Master's Guide p. 99_
 
 **Exotic Location**
 

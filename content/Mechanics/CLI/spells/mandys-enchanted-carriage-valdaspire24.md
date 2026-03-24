@@ -22,8 +22,8 @@ classes:
 ---
 
 # Mandy's Enchanted Carriage
-*4th-level, Transmutation*  
 
+_4th-level, Transmutation_
 
 - **Casting time:** 1 minute
 - **Range:** 30 feet
@@ -42,4 +42,4 @@ This spell's duration varies depending upon when and where it was cast. If cast 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

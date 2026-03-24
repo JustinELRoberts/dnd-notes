@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Water Elemental Myrmidon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 123*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 123_\
 ![](Mechanics/CLI/bestiary/elemental/img/water-elemental-myrmidon.webp#right)
 
 ## Elemental Myrmidons
@@ -55,4 +56,5 @@ title: Water Elemental Myrmidon
 
 ***Freezing Strikes (Recharge 6).*** The myrmidon uses Multiattack. Each attack that hits deals an extra 5 (`1d10`) cold damage. A target that is hit by one or more of these attacks has its speed reduced by 10 feet until the end of the myrmidon's next turn.
 ```
+
 ^statblock

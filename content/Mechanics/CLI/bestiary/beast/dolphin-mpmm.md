@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Dolphin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208_\
 ![](Mechanics/CLI/bestiary/beast/img/dolphin.webp#right)
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
@@ -57,6 +58,7 @@ title: Dolphin
 
 ***Slam.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage. If the dolphin moved at least 30 feet straight toward the target immediately before the hit, the target takes an extra 3 (`1d6`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

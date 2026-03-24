@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Visions of Distant Realms 
+# Visions of Distant Realms
 
-
-***Prerequisites*** Level 9
+_**Prerequisites**_ Level 9
 
 You can cast [Arcane Eye](Mechanics/CLI/spells/arcane-eye-xphb.md) without expending a spell slot.
+
 ## Sources
 
-*Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

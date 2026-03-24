@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying a Yuan-ti; Yuan-ti Ideals
-*Source: Volo's Guide to Monsters p. 98* 
+
+_Source: Volo's Guide to Monsters p. 98_
 
 **Yuan-ti Ideals**
 

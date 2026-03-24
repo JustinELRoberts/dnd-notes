@@ -25,7 +25,8 @@ obsidianUIMode: preview
 ---
 
 # Ogre
-*Source: Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/ogre.webp#right)
 
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
@@ -58,10 +59,9 @@ Ogres sometimes band together in small, nomadic groups, but they lack a true sen
 
 Whenever possible, ogres gang up with other monsters to bully or prey on creatures weaker than themselves. They associate freely with goblinoids, orcs, and trolls, and practically worship giants. In the giants' complex social structure (known as the ordning), ogres rank beneath the lowest giants in status. As a result, an ogre will do nearly anything a giant asks.
 
-> [!quote] A quote from Riddlefiddle the Satyr, on ogres  
-> 
+> [!quote] A quote from Riddlefiddle the Satyr, on ogres
+>
 > Worst. Dancers. Ever.
-
 
 ## Statblock
 
@@ -92,6 +92,7 @@ title: Ogre
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+6` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

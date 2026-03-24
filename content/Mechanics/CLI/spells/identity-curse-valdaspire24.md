@@ -18,8 +18,8 @@ classes:
 ---
 
 # Identity Curse
-*9th-level, Enchantment*  
 
+_9th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -30,4 +30,4 @@ You touch a creature's temple and attempt to erase its identity. One creature yo
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

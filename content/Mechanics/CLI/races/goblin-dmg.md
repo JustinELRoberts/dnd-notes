@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Goblin
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str -2 dex +2
 - **Size**: Small

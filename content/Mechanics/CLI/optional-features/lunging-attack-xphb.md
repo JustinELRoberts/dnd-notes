@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Lunging Attack 
-
+# Lunging Attack
 
 As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Superiority Die and take the [Dash](Mechanics/CLI/rules/actions.md#Dash) action. If you move at least 5 feet in a straight line immediately before hitting with a melee attack as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on this turn, you can add the Superiority Die to the attack's damage roll.
+
 ## Sources
 
-*Player's Handbook (2024) p. 95*
+_Player's Handbook (2024) p. 95_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying a Giant; Giant Ideals
-*Source: Volo's Guide to Monsters p. 23* 
+
+_Source: Volo's Guide to Monsters p. 23_
 
 **Giant Ideals**
 

@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Fighter
-*Source: Player's Handbook (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Fighter
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: *Choose 2:* [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Heavy armor](Mechanics/CLI/rules/item-types.md#Heavy%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Greatsword](Mechanics/CLI/items/greatsword-xphb.md), [Flail](Mechanics/CLI/items/flail-xphb.md), 8 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 4 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Scimitar](Mechanics/CLI/items/scimitar-xphb.md), [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), [20 Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 11 GP; or (C) 155 GP
+**Starting Equipment:** _Choose A, B, or C:_ (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Greatsword](Mechanics/CLI/items/greatsword-xphb.md), [Flail](Mechanics/CLI/items/flail-xphb.md), 8 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 4 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Scimitar](Mechanics/CLI/items/scimitar-xphb.md), [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), [20 Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 11 GP; or (C) 155 GP
 
 ## Multiclassing Fighter
 

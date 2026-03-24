@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Black Pudding
-*Source: Monster Manual p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/ooze/img/black-pudding.webp#right)
 
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
@@ -90,6 +91,7 @@ title: Black Pudding
 
 ***Split.*** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
 ```
+
 ^statblock
 
 ## Environment

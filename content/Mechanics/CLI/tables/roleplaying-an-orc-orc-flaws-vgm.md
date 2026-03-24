@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Roleplaying an Orc; Orc Flaws
-*Source: Volo's Guide to Monsters p. 87* 
+
+_Source: Volo's Guide to Monsters p. 87_
 
 **Orc Flaws**
 

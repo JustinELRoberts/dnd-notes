@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Determine the Villain's Actions; Event-Based Villain Actions
-*Source: Dungeon Master's Guide p. 75* 
+
+_Source: Dungeon Master's Guide p. 75_
 
 **Event-Based Villain Actions**
 

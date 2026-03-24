@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Lion Banner
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Class/Lion%20Banner.webp#right)
 
-*Lead with Heroism and Zeal*
+_Lead with Heroism and Zeal_
 
 Captains who fly the Lion Banner are consummate leaders with forceful personalities and a penchant for heroics. Such Captains lead from the front, flying their banner high in battles where valor and luck turn the tide in their favor.
 
@@ -60,7 +61,7 @@ Captains who fly the Lion Banner are consummate leaders with forceful personalit
 
 If you use your Born Leader maneuver and the check still fails, you don't expend the Battle Die to use the maneuver.
 
-### Challenge [Maneuver] (Level 3)
+### Challenge \[Maneuver] (Level 3)
 
 When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to goad the target into attacking you. Add the Battle Die to the attack's damage roll. Until the start of your next turn, the target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you while you are within 5 feet of the target.
 

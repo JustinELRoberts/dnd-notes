@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Beastblood Guardian
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Command the Fury of Beasts*
+_Command the Fury of Beasts_
 
 You have formed a bond with Beasts and have taken up the task of defending them. Your time among them has taught you their ferocity, tenacity, and animal instincts, allowing you to become a primal predator of the wilds.
 

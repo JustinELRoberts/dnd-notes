@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Rake 
+# Rake
 
-
-***Prerequisites*** Level 11 Craftsman, Masterwork Weapon, Slashing Damage
+_**Prerequisites**_ Level 11 Craftsman, Masterwork Weapon, Slashing Damage
 
 If you hit a creature with this weapon, that creature takes an extra 1d6 damage the next time you hit it using a weapon before the end of your next turn. This damage is the same type dealt by the weapon.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Path of the Zealot
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
-*Source: Player's Handbook (2024) p. 57*  
+
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
+_Source: Player's Handbook (2024) p. 57_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/zealot-barbarian.webp#right)
 
-*Rage in Ecstatic Union with a God*
+_Rage in Ecstatic Union with a God_
 
 Barbarians who walk the Path of the Zealot receive boons from a god or pantheon. These Barbarians experience their Rage as an ecstatic episode of divine union that infuses them with power. They are often allies to the priests and other followers of their god or pantheon.
 

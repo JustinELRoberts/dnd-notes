@@ -25,9 +25,9 @@ obsidianUIMode: preview
 ---
 
 # Frost Brand
-*Major, very rare (requires attunement)*  
-![Frost Brand (Scimitar)](Mechanics/CLI/items/img/frost-brand.webp#right)
 
+_Major, very rare (requires attunement)_\
+![Frost Brand (Scimitar)](Mechanics/CLI/items/img/frost-brand.webp#right)
 
 When you hit with an attack using this magic sword, the target takes an extra `1d6` cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 
@@ -36,6 +36,7 @@ In freezing temperatures, the blade sheds bright light in a 10-foot radius and d
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.
 
 **Variants**:
+
 - [Frost Brand Double-Bladed Scimitar](#Frost%20Brand%20Double-Bladed%20Scimitar)
 - [Frost Brand Greatsword](#Frost%20Brand%20Greatsword)
 - [Frost Brand Longsword](#Frost%20Brand%20Longsword)
@@ -81,5 +82,4 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

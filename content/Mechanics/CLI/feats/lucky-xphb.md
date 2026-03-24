@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Lucky 
-
+# Lucky
 
 You gain the following benefits.
 
@@ -23,6 +22,7 @@ You gain the following benefits.
 **Advantage.** When you roll a `d20` for a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can spend 1 Luck Point to give yourself [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll.
 
 **Disadvantage.** When a creature rolls a `d20` for an attack roll against you, you can spend 1 Luck Point to impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on that roll.
+
 ## Sources
 
-*Player's Handbook (2024) p. 201*
+_Player's Handbook (2024) p. 201_

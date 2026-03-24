@@ -18,6 +18,7 @@ obsidianUIMode: preview
 ---
 
 # Kelemvor
+
 ![](Mechanics/CLI/deities/img/scag-symbol-of-kelemvor.webp#symbol)
 
 - **Alternate Names**: The Lord of the Dead, The Judge of the Damned
@@ -32,4 +33,4 @@ The faithful of Kelemvor provide people with peaceful transitions into the care 
 
 ## Sources
 
-*Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19*
+_Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 19_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Character Options; Subclasses
-*Source: Xanathar's Guide to Everything p. 7* 
+
+_Source: Xanathar's Guide to Everything p. 7_
 
 **Subclasses**
 

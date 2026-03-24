@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Abjurer
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Player's Handbook (2024) p. 172*  
+
+_[Wizard](./wizard-xphb.md): Wizard Subclass_\
+_Source: Player's Handbook (2024) p. 172_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/abjurer-wizard.webp#right)
 
-*Shield Companions and Banish Foes*
+_Shield Companions and Banish Foes_
 
 Your study of magic is focused on spells that block, banish, or protect—ending harmful effects, banishing evil influences, and protecting the weak. Abjurers are sought when baleful spirits require exorcism, when locations must be guarded against magical spying, and when portals to other planes of existence must be closed. Adventuring parties value Abjurers for the protection they provide against a variety of hostile magic and other attacks.
 

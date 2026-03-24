@@ -13,6 +13,7 @@ obsidianUIMode: preview
 ---
 
 # Spell
-*Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 374. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 A spell is a [magical effect](Mechanics/CLI/rules/variant-rules/magical-effect-xphb.md) that has the characteristics described in "chapter 7".

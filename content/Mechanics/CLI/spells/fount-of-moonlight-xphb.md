@@ -22,8 +22,8 @@ classes:
 ---
 
 # Fount of Moonlight
-*4th-level, Evocation*  
 
+_4th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -38,4 +38,4 @@ In addition, immediately after you take damage from a creature you can see withi
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Moon)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 277*
+_Source: Player's Handbook (2024) p. 277_

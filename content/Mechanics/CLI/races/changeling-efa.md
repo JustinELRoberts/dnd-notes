@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Changeling
-*Source: Eberron: Forge of the Artificer p. 34*  
+
+_Source: Eberron: Forge of the Artificer p. 34_\
 ![](Mechanics/CLI/races/img/changeling.webp#right)
 
 - **Ability Scores**: None

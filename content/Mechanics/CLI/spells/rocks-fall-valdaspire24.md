@@ -28,8 +28,8 @@ classes:
 ---
 
 # Rocks Fall
-*8th-level, Conjuration*  
 
+_8th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -42,4 +42,4 @@ A buried creature has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) and [
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

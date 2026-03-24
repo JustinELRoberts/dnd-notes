@@ -16,10 +16,11 @@ obsidianUIMode: preview
 ---
 
 # Orien Enforcer
-*Source: Eberron: Forge of the Artificer p. 83*  
+
+_Source: Eberron: Forge of the Artificer p. 83_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orien-enforcer.webp#right)
 
-Whether riding on an Orien cart, guarding the lightning rail on a cross-continental journey, or using Orien*Teleportation Circles*to transport precious parcels in an instant, dragonmarked enforcers of House Orien (mostly humans) protect their house's interests and maintain its reputation for dependability.
+Whether riding on an Orien cart, guarding the lightning rail on a cross-continental journey, or using Orie&#x6E;_&#x54;eleportation Circle&#x73;_&#x74;o transport precious parcels in an instant, dragonmarked enforcers of House Orien (mostly humans) protect their house's interests and maintain its reputation for dependability.
 
 ```ad-statblock
 title: Orien Enforcer
@@ -59,4 +60,5 @@ title: Orien Enforcer
 
 ***Temporal Disruption (1/Day).*** Trigger: The enforcer takes damage from a melee attack. _Response:_ The enforcer teleports up to 30 feet to an unoccupied space it can see. Each creature within 10 feet of the space the enforcer left must succeed on a DC 13 Constitution saving throw, or its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is halved until the start of the enforcer's next turn.
 ```
+
 ^statblock

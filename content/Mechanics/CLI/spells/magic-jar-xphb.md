@@ -20,8 +20,8 @@ classes:
 ---
 
 # Magic Jar
-*6th-level, Necromancy*  
 
+_6th-level, Necromancy_
 
 - **Casting time:** 1 minute
 - **Range:** Self
@@ -44,4 +44,4 @@ When the spell ends, the container is destroyed.
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

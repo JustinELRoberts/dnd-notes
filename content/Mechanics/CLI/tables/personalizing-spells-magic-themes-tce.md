@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Personalizing Spells; Magic Themes
-*Source: Tasha's Cauldron of Everything p. 116* 
+
+_Source: Tasha's Cauldron of Everything p. 116_
 
 **Magic Themes**
 

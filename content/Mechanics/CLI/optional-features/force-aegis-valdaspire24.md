@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Force Aegis 
+# Force Aegis
 
-
-***Prerequisites*** Level 5 Warmage, [Force Buckler](Mechanics/CLI/spells/force-buckler-valdaspire24.md) cantrip
+_**Prerequisites**_ Level 5 Warmage, [Force Buckler](Mechanics/CLI/spells/force-buckler-valdaspire24.md) cantrip
 
 When you cast the [Force Buckler](Mechanics/CLI/spells/force-buckler-valdaspire24.md) cantrip, you can Concentrate on it for up to 1 minute. The spell doesn't end early if you are hit by an attack.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

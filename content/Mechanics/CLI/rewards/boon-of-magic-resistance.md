@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of Magic Resistance
 
-
 You have advantage on saving throws against spells and other magical effects.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

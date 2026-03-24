@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Gem of Seeing
-*Wondrous item, major, rare (requires attunement)*  
+
+_Wondrous item, major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/gem-of-seeing.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -25,4 +26,4 @@ This gem has 3 charges. As an action, you can speak the gem's command word and e
 
 The gem regains `1d3` expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

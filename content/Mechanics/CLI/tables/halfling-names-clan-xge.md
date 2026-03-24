@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Halfling Names – Clan
-*Source: Xanathar's Guide to Everything p. 179* 
+
+_Source: Xanathar's Guide to Everything p. 179_
 
 **Halfling Names – Clan**
 

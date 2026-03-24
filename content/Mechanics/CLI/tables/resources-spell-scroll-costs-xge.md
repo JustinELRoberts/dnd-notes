@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Resources; Spell Scroll Costs
-*Source: Xanathar's Guide to Everything p. 133* 
+
+_Source: Xanathar's Guide to Everything p. 133_
 
 **Spell Scroll Costs**
 

@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Centaur
-*Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/centaur.webp#right)
 
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
@@ -35,10 +36,9 @@ A centaur that can't keep pace with the rest of its tribe is left behind. Some s
 
 Despite their reclusive nature, centaurs trade with elves and with the caravans of other benevolent humanoids they meet during their wanderings. A trader might save the life of a wounded or an elderly centaur unfit for long travel, escorting it to a settlement where it can peacefully live out the rest of its days.
 
-> [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read Hooves of Fury by Irvil Grayborn of Sundown  
-> 
+> [!quote] A quote from Batley Summerfoot, a halfling adventurer who never read Hooves of Fury by Irvil Grayborn of Sundown
+>
 > I hear centaurs make excellent mounts!
-
 
 ## Statblock
 
@@ -77,6 +77,7 @@ title: Centaur
 
 ***Longbow.*** *Ranged Weapon Attack:* `+4` to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

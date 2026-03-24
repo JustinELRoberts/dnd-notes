@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Sentinel Marshal
-*Source: Eberron: Forge of the Artificer p. 83*  
+
+_Source: Eberron: Forge of the Artificer p. 83_\
 ![](Mechanics/CLI/bestiary/humanoid/img/sentinel-marshal.webp#right)
 
 The Sentinel Marshals of House Deneith, who are typically human, hold the honor of the house in their hands. The Treaty of Thronehold upheld their authority to pursue criminals across international borders, giving them the unique privilege and responsibility of upholding the law across Khorvaire.
@@ -59,4 +60,5 @@ title: Sentinel Marshal
 ***Shield (3/Day).*** The marshal casts [Shield](Mechanics/CLI/spells/shield-xphb.md) in response to the spell's trigger, using Wisdom as the spellcasting ability.
 
 ```
+
 ^statblock

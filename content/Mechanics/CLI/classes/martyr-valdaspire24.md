@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Martyr
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Martyr
 
 - **Saving Throw Proficiencies**: Strength, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
+- **Skill Proficiencies**: _Choose 2:_ [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor) and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A, B, or C:* (A) [Scale Mail](Mechanics/CLI/items/scale-mail-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Longsword](Mechanics/CLI/items/longsword-xphb.md), 6 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), and 29 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), 2 [Shortswords](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), and 11 GP; or (C) 170 GP
+**Starting Equipment:** _Choose A, B, or C:_ (A) [Scale Mail](Mechanics/CLI/items/scale-mail-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Longsword](Mechanics/CLI/items/longsword-xphb.md), 6 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), and 29 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), 2 [Shortswords](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), and 11 GP; or (C) 170 GP
 
 ## Multiclassing Martyr
 
@@ -245,6 +246,6 @@ You have at last reached your predestination: you will die in eternal glory. As 
 **Wish.** You can cast [Wish](Mechanics/CLI/spells/wish-xphb.md) once without a spell slot. You suffer no stress from using effects other than duplicating another spell.
 
 > [!note] Quiet Martyrdom
-> 
+>
 > Not all stories of martyrdom end in dramatic confrontations with implacable foes. Occasionally a Martyr's sacrifice achieves a peaceful conclusion and satisfies the gods without costing their life. Nevertheless, the stories of these Martyrs still come to a close—they don't continue adventuring once their ultimate goal has been fulfilled. Perhaps they might retire to a distant hermitage, wander into the desert, or simply disappear into a crowd, never to be seen again.
-^quiet-martyrdom
+> ^quiet-martyrdom

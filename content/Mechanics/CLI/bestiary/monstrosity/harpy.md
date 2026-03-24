@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Harpy
-*Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/harpy.webp#right)
 
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
@@ -86,6 +87,7 @@ While [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the harpy, a targe
 
 A target that successfully saves is immune to this harpy's song for the next 24 hours.
 ```
+
 ^statblock
 
 ## Environment

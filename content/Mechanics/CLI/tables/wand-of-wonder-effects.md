@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Wonder Effects
-*Source: Dungeon Master's Guide* 
+
+_Source: Dungeon Master's Guide_
 
 | dice: d100 | Effect |
 |------------|--------|

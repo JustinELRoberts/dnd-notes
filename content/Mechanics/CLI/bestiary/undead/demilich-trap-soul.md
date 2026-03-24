@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Demilich (Trap Soul)
-*Source: Monster Manual p. 48*  
+
+_Source: Monster Manual p. 48_
 
 ```ad-statblock
 title: Demilich (Trap Soul)
@@ -88,4 +89,5 @@ A demilich's tomb might have any or all of the following effects in place:
 
 If the demilich is destroyed, these effects fade over the course of 10 days.
 ```
+
 ^statblock

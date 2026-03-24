@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Greater Mark of Sentinel 
+# Greater Mark of Sentinel
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Improved Intuition.** When you use the Sentinel's Intuition benefit of your [Mark of Sentinel](Mechanics/CLI/feats/mark-of-sentinel-efa.md) feat, you can roll `1d6` instead of `1d4`.
 
 **Improved Sentinel.** When you use the Vigilant Guardian benefit of your [Mark of Sentinel](Mechanics/CLI/feats/mark-of-sentinel-efa.md) feat, you can also make one attack with a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) as part of that same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 44*
+_Eberron: Forge of the Artificer p. 44_

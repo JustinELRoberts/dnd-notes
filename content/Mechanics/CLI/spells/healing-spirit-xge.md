@@ -24,8 +24,8 @@ classes:
 ---
 
 # Healing Spirit
-*2nd-level, Conjuration*  
 
+_2nd-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
@@ -42,4 +42,4 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Xanathar's Guide to Everything p. 157*
+_Source: Xanathar's Guide to Everything p. 157_

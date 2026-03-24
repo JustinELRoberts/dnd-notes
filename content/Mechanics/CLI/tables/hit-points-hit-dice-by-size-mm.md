@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Hit Points; Hit Dice by Size
-*Source: Monster Manual p. 7* 
+
+_Source: Monster Manual p. 7_
 
 **Hit Dice by Size**
 

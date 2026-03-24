@@ -25,8 +25,8 @@ classes:
 ---
 
 # Primal Savagery
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -39,4 +39,4 @@ The spell's damage increases by `1d10` when you reach 5th level (`2d10`), 11th l
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Xanathar's Guide to Everything p. 163*
+_Source: Xanathar's Guide to Everything p. 163_

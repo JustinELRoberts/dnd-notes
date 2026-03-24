@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Ward
-*cantrip, Abjuration*  
 
+_cantrip, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -33,4 +33,4 @@ You touch a willing creature. Each time the target takes damage before the spell
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

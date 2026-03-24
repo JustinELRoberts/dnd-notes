@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Extreme Cold
-*Weather*  
 
+_Weather_
 
 Whenever the temperature is at or below 0 degrees Fahrenheit, a creature exposed to the cold must succeed on a DC 10 Constitution saving throw at the end of each hour or gain one level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures wearing cold weather gear (thick coats, gloves, and the like) and creatures naturally adapted to cold climates.
 
 ## Sources
 
-*Dungeon Master's Guide p. 110*
+_Dungeon Master's Guide p. 110_

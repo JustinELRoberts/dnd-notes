@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Resistances
-*Source: Monster Manual p. 180* 
+
+_Source: Monster Manual p. 180_
 
 | Color | Damage Resistance |
 |-------|-------------------|

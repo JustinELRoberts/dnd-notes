@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Sorcerer
-*Source: Player's Handbook (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
@@ -58,11 +59,10 @@ obsidianUIMode: preview
 ## Starting Sorcerer
 
 - **Saving Throw Proficiencies**: Charisma, Constitution
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 
-**Starting Equipment:** *Choose A or B:* (A) [Spear](Mechanics/CLI/items/spear-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([crystal](Mechanics/CLI/items/crystal-xphb.md)), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 28 GP; or (B) 50 GP
-
+**Starting Equipment:** _Choose A or B:_ (A) [Spear](Mechanics/CLI/items/spear-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([crystal](Mechanics/CLI/items/crystal-xphb.md)), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 28 GP; or (B) 50 GP
 
 ![The Sorcerer Delina manipu...](Mechanics/CLI/classes/img/112-04-027-delina.webp#center "The Sorcerer Delina manipulates wild magic to create unpredictable wonders")
 
@@ -102,8 +102,8 @@ If another Sorcerer feature gives you spells that you always have prepared, thos
 
 An event in your past left an indelible mark on you, infusing you with simmering magic. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can unleash that magic for 1 minute, during which you gain the following benefits:
 
-- The spell save DC of your Sorcerer spells increases by 1.  
-- You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the attack rolls of Sorcerer spells you cast.  
+- The spell save DC of your Sorcerer spells increases by 1.
+- You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the attack rolls of Sorcerer spells you cast.
 
 You can use this feature twice, and you regain all expended uses of it when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
 
@@ -134,7 +134,7 @@ Any spell slot you create with this feature vanishes when you finish a [Long Res
 
 ### Metamagic (Level 2)
 
-Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options^[Optional features from [Metamagic](Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
+Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from "Metamagic Options^\[Optional features from [Metamagic](Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.
 
 You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.
 
@@ -146,16 +146,16 @@ The following options are available to your Metamagic feature. The options are p
 
 Options (choose 2):
 
-- [Careful Spell](Mechanics/CLI/optional-features/careful-spell-xphb.md)  
-- [Distant Spell](Mechanics/CLI/optional-features/distant-spell-xphb.md)  
-- [Empowered Spell](Mechanics/CLI/optional-features/empowered-spell-xphb.md)  
-- [Extended Spell](Mechanics/CLI/optional-features/extended-spell-xphb.md)  
-- [Heightened Spell](Mechanics/CLI/optional-features/heightened-spell-xphb.md)  
-- [Quickened Spell](Mechanics/CLI/optional-features/quickened-spell-xphb.md)  
-- [Seeking Spell](Mechanics/CLI/optional-features/seeking-spell-xphb.md)  
-- [Subtle Spell](Mechanics/CLI/optional-features/subtle-spell-xphb.md)  
-- [Transmuted Spell](Mechanics/CLI/optional-features/transmuted-spell-xphb.md)  
-- [Twinned Spell](Mechanics/CLI/optional-features/twinned-spell-xphb.md)  
+- [Careful Spell](Mechanics/CLI/optional-features/careful-spell-xphb.md)
+- [Distant Spell](Mechanics/CLI/optional-features/distant-spell-xphb.md)
+- [Empowered Spell](Mechanics/CLI/optional-features/empowered-spell-xphb.md)
+- [Extended Spell](Mechanics/CLI/optional-features/extended-spell-xphb.md)
+- [Heightened Spell](Mechanics/CLI/optional-features/heightened-spell-xphb.md)
+- [Quickened Spell](Mechanics/CLI/optional-features/quickened-spell-xphb.md)
+- [Seeking Spell](Mechanics/CLI/optional-features/seeking-spell-xphb.md)
+- [Subtle Spell](Mechanics/CLI/optional-features/subtle-spell-xphb.md)
+- [Transmuted Spell](Mechanics/CLI/optional-features/transmuted-spell-xphb.md)
+- [Twinned Spell](Mechanics/CLI/optional-features/twinned-spell-xphb.md)
 
 ### Sorcerer Subclass (Level 3)
 
@@ -185,7 +185,7 @@ You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-impro
 
 ### Metamagic (Level 10)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^\[Optional features from [Metamagic](Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 
@@ -205,7 +205,7 @@ You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-impro
 
 ### Metamagic (Level 17)
 
-Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^[Optional features from [Metamagic](Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
+Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the "Metamagic Options^\[Optional features from [Metamagic](Mechanics/CLI/lists/list-optfeaturetype-mm.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.
 
@@ -227,4 +227,4 @@ While your Innate Sorcery feature is active, you can use one Metamagic option on
 
 > [!example]- Optional Features: Metamagic
 > ![Metamagic](Mechanics/CLI/lists/list-optfeaturetype-mm.md#Metamagic)
-^list-optfeature-mm
+> ^list-optfeature-mm

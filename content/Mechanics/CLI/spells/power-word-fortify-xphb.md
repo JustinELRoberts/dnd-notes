@@ -22,8 +22,8 @@ classes:
 ---
 
 # Power Word Fortify
-*7th-level, Enchantment*  
 
+_7th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -34,4 +34,4 @@ You fortify up to six creatures you can see within range. The spell bestows 120 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 306*
+_Source: Player's Handbook (2024) p. 306_

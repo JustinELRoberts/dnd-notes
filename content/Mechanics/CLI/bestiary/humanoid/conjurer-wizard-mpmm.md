@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Conjurer Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 212_\
 ![](Mechanics/CLI/bestiary/humanoid/img/conjurer-wizard.webp#right)
 
 Conjurers summon creatures from other planes of existence and teleport themselves and others in the blink of an eye.
@@ -68,6 +69,7 @@ title: Conjurer Wizard
 
 ***Summon Elemental (1/Day).*** The conjurer magically summons an [air elemental](Mechanics/CLI/bestiary/elemental/air-elemental.md), an [earth elemental](Mechanics/CLI/bestiary/elemental/earth-elemental.md), a [fire elemental](Mechanics/CLI/bestiary/elemental/fire-elemental.md), or a [water elemental](Mechanics/CLI/bestiary/elemental/water-elemental.md). The elemental appears in an unoccupied space within 60 feet of the conjurer, whom it obeys. It takes its turn immediately after the conjurer. It lasts for 1 hour, until it or the conjurer dies, or until the conjurer dismisses it as a bonus action.
 ```
+
 ^statblock
 
 ## Environment

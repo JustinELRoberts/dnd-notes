@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Grave Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Xanathar's Guide to Everything p. 19*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Xanathar's Guide to Everything p. 19_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>

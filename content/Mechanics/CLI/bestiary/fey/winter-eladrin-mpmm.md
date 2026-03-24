@@ -18,17 +18,18 @@ obsidianUIMode: preview
 ---
 
 # Winter Eladrin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 117*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 117_\
 ![](Mechanics/CLI/bestiary/fey/img/winter-eladrin.webp#right)
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
 
 ## Eladrin
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
-> 
+>
 > Note to self: send some of my spring eladrin friends to visit Mordenkainen. That'll teach him to lighten up.
 
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
@@ -93,6 +94,7 @@ Whenever the eladrin deals damage to the [charmed](Mechanics/CLI/rules/condition
 
 ***Frigid Rebuke.*** When the eladrin takes damage from a creature the eladrin can see within 60 feet of it, the eladrin can force that creature to make a DC 16 Constitution saving throw. On a failed save, the creature takes 11 (`2d10`) cold damage.
 ```
+
 ^statblock
 
 ## Environment

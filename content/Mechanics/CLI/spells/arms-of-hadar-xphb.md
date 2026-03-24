@@ -20,7 +20,8 @@ classes:
 ---
 
 # Arms of Hadar
-*1st-level, Conjuration*  
+
+_1st-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/arms-of-hadar.webp#right)
 
 - **Casting time:** 1 Action
@@ -34,4 +35,4 @@ Invoking Hadar, you cause tendrils to erupt from yourself. Each creature in a 10
 
 **Classes**: [Sorcerer (Aberrant Sorcery)](Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Player's Handbook (2024) p. 243*
+_Source: Player's Handbook (2024) p. 243_

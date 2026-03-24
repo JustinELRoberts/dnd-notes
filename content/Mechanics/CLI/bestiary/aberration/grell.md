@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grell
-*Source: Monster Manual p. 172*  
+
+_Source: Monster Manual p. 172_\
 ![](Mechanics/CLI/bestiary/aberration/img/grell.webp#right)
 
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
@@ -36,10 +37,9 @@ Grell are alien predators that group other creatures into three categories: edib
 
 A grell will sometimes allow adventurers to wage war on the other monstrous inhabitants of the dungeon complex it calls home, staying out of the adventurers' way as they dispose of larger threats while waiting for the right time to strike.
 
-> [!quote] A quote from An adventurer's account of a grell attack in Khyber, published in The Korranberg Chronicle  
-> 
+> [!quote] A quote from An adventurer's account of a grell attack in Khyber, published in The Korranberg Chronicle
+>
 > Our intrepid rogue climbed up the shaft to secure a rope. There was a gasp, and the rope fell. We never saw her again.
-
 
 ## Statblock
 
@@ -75,6 +75,7 @@ The target is also [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escap
 
 ***Beak.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

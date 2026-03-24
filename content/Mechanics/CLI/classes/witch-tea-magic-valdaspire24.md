@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Tea Magic
-*[Witch](./witch-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Witch](./witch-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Glimpse and Shape the Future Through Tea Leaves*
+_Glimpse and Shape the Future Through Tea Leaves_
 
 Witches that practice Tea Magic learn to brew magically delicious and restorative tea, as well as to glimpse the future in their tea leaves. They are among the calmest and friendliest of Witches, at worst cranky (if forced to drink their tea in a hurry) or twitchy (after too much tea).
 

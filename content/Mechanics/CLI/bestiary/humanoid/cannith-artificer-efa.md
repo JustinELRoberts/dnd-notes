@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Cannith Artificer
-*Source: Eberron: Forge of the Artificer p. 80*  
+
+_Source: Eberron: Forge of the Artificer p. 80_\
 ![](Mechanics/CLI/bestiary/humanoid/img/cannith-artificer.webp#right)
 
 Dragonmarked artificers of House Cannith (typically human) often wield compact devices similar to eldritch cannons that can produce a variety of devastating effects. Both these cannons and the artificers' force-empowered maces function only in their creator's hands.
@@ -56,4 +57,5 @@ title: Cannith Artificer
 
 **1/day each:** [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md)
 ```
+
 ^statblock

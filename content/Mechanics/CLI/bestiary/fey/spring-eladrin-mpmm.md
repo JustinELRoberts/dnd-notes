@@ -18,17 +18,18 @@ obsidianUIMode: preview
 ---
 
 # Spring Eladrin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 116*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 116_\
 ![](Mechanics/CLI/bestiary/fey/img/spring-eladrin.webp#right)
 
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
 
 ## Eladrin
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
-> 
+>
 > Note to self: send some of my spring eladrin friends to visit Mordenkainen. That'll teach him to lighten up.
 
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
@@ -91,6 +92,7 @@ Whenever the eladrin deals damage to the [charmed](Mechanics/CLI/rules/condition
 
 ***Fey Step (Recharge 4-6).*** The eladrin teleports, along with any equipment it is wearing or carrying, up to 30 feet to an unoccupied space it can see.
 ```
+
 ^statblock
 
 ## Environment

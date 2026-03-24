@@ -18,11 +18,12 @@ obsidianUIMode: preview
 ---
 
 # Phoenix
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 206*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 206_\
 ![](Mechanics/CLI/bestiary/elemental/img/phoenix.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > To rise like a phoenix from the ashes–so many use that quaint colloquialism. Little do they know about the true horror of such a rebirth.
 
 Releasing a phoenix from the Inner Planes creates an explosion of fire that spreads across the sky. An enormous fiery bird forms in the center of the flames and smoke—an elder Elemental possessed by a need to burn everything to ash. The phoenix rarely stays in one place for long as it strives to transform the world into an inferno.
@@ -88,6 +89,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the phoenix
 
 ***Swoop (Costs 2 Actions).*** The phoenix moves up to its speed and makes one Fiery Talons attack.
 ```
+
 ^statblock
 
 ## Environment

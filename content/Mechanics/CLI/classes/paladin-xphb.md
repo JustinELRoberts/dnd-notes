@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Paladin
-*Source: Player's Handbook (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th><th colspan='5'>Spell Slots per Spell Level</th></tr>
@@ -58,16 +59,17 @@ obsidianUIMode: preview
 ## Starting Paladin
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
+- **Skill Proficiencies**: _Choose 2:_ [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Heavy armor](Mechanics/CLI/rules/item-types.md#Heavy%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Longsword](Mechanics/CLI/items/longsword-xphb.md), 6 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), and 9 GP; or (B) 150 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Longsword](Mechanics/CLI/items/longsword-xphb.md), 6 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), and 9 GP; or (B) 150 GP
 
 ## Multiclassing Paladin
 
 - **Weapon Proficiencies**: Martial weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Shields](Mechanics/CLI/items/shield-xphb.md)
+
 ## Paladin
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
@@ -135,13 +137,13 @@ As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you
 You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
 
 > [!note] Breaking Your Oath
-> 
+>
 > A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
-> 
+>
 > A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
-> 
+>
 > If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
-^breaking-your-oath
+> ^breaking-your-oath
 
 ### Ability Score Improvement (Level 4)
 

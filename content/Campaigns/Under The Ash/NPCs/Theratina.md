@@ -9,17 +9,19 @@ Race: "[[lizardfolk-dmg|Lizardfolk]]"
 Relationship: Not known
 Factions:
 Locations:
-  - "[[Campaigns/Under The Ash/Locations/The Unnamed City]]"
+  - "[[The Unnamed City]]"
 aliases:
 tags:
 ---
 
 ## Description
+
 A small, red lizard girl that we met in [[The Unnamed City]].  When staying in her hideout, we discovered some paintings that she seemed to have made:
-	- Her with two older lizard folk (her parents?)
-	- A dark evil shadow with dark, amethyst like eyes
-	- Her walking alone
+\- Her with two older lizard folk (her parents?)
+\- A dark evil shadow with dark, amethyst like eyes
+\- Her walking alone
 
 ## Motivations
+
 - Go to [[Mazcatan]]
-	- Presumably to find her parents
+  - Presumably to find her parents

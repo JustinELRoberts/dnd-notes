@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Jade
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 100 gp
 
 A translucent light green, deep green, or white gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

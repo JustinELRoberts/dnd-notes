@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Artificer's Forge
-*Level 13 Bastion facility*  
+
+_Level 13 Bastion facility_
 
 - **Prerequisites**: Ability to use an artisansTool as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md)
 - **Space**: Roomy (16 sq)
@@ -35,4 +36,4 @@ When you issue the Craft order to this facility, you commission the facility's h
 
 Whenever a magic item in your Bastion regains charges, it regains 1 extra expended charge.
 
-*Source: Eberron: Forge of the Artificer p. 48*
+_Source: Eberron: Forge of the Artificer p. 48_

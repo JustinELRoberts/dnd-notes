@@ -28,8 +28,8 @@ classes:
 ---
 
 # Paradox
-*9th-level, Transmutation*  
 
+_9th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -40,4 +40,4 @@ By twisting the flow of time into knots, you cause one action of your choice tak
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

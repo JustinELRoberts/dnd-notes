@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Oath of Glory
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
-*Source: Player's Handbook (2024) p. 114*  
+
+_[Paladin](./paladin-xphb.md): Paladin Subclass_\
+_Source: Player's Handbook (2024) p. 114_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,15 +51,15 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/glory-paladin.webp#right)
 
-*Strive for the Heights of Heroism*
+_Strive for the Heights of Heroism_
 
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so they're all ready when destiny calls.
 
 These paladins share the following tenets:
 
-- Endeavor to be known by your deeds.  
-- Face hardships with courage.  
-- Inspire others to strive for glory.  
+- Endeavor to be known by your deeds.
+- Face hardships with courage.
+- Inspire others to strive for glory.
 
 ## Subclass Features
 

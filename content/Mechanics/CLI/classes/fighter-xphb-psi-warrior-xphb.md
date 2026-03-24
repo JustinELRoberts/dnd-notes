@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Psi Warrior
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
-*Source: Player's Handbook (2024) p. 98*  
+
+_[Fighter](./fighter-xphb.md): Fighter Subclass_\
+_Source: Player's Handbook (2024) p. 98_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='5'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/psi-warrior-fighter.webp#right)
 
-*Augment Physical Might with Psionic Power*
+_Augment Physical Might with Psionic Power_
 
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.
 

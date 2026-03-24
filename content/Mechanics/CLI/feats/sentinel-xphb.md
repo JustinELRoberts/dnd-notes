@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Sentinel 
+# Sentinel
 
-
-***Prerequisites*** 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
+_**Prerequisites**_ 4th; Strength 13 or higher or 4th; Dexterity 13 or higher
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Guardian.** Immediately after a creature within 5 feet of you takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action or hits a target other than you with an attack, you can make an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) against that creature.
 
 **Halt.** When you hit a creature with an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack), the creature's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) becomes 0 for the rest of the current turn.
+
 ## Sources
 
-*Player's Handbook (2024) p. 207*
+_Player's Handbook (2024) p. 207_

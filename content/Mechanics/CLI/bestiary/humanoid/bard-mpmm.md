@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Bard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bard.webp#right)
 
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
@@ -81,6 +82,7 @@ title: Bard
 
 ***Taunt (2/Day).*** The bard targets one creature within 30 feet of it. If the target can hear the bard, the target must succeed on a DC 12 Charisma saving throw or have disadvantage on ability checks, attack rolls, and saving throws until the start of the bard's next turn.
 ```
+
 ^statblock
 
 ## Environment

@@ -15,14 +15,17 @@ obsidianUIMode: preview
 ---
 
 # Mason's Tools
-*Artisan's tools*  
 
+_Artisan's tools_
 
 - **Cost**: 10 gp
+
 - **Weight**: 8.0 lbs.
 
-- **Ability.** Strength  
-- **Utilize.** Chisel a symbol or hole in stone (DC 10)  
-- **Craft.** [Block and Tackle](Mechanics/CLI/items/block-and-tackle-xphb.md)  
+- **Ability.** Strength
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Chisel a symbol or hole in stone (DC 10)
+
+- **Craft.** [Block and Tackle](Mechanics/CLI/items/block-and-tackle-xphb.md)
+
+_Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

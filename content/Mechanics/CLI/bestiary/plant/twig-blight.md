@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Twig Blight
-*Source: Monster Manual p. 32. Available in the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 32. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/plant/img/twig-blight.webp#right)
 
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
@@ -44,10 +45,9 @@ In forests infested with blights, trees and plants grow with supernatural speed.
 
 Blights are independent creatures, but most act under a Gulthias tree's control, often displaying the habits and traits of the life force or spirit that spawned them. By attacking their progenitor's old foes or seeking out treasures valuable to it, they carry on the legacy of long-lost evil.
 
-> [!quote]  
-> 
+> [!quote]
+>
 > Behold the legacy of Gulthias the vampire: plants with a taste for blood.
-
 
 ## Statblock
 
@@ -81,6 +81,7 @@ title: Twig Blight
 
 ***Claws.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d4 + 1`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

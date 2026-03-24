@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fiendish Spirit (Yugoloth)
-*Source: Player's Handbook (2024) p. 327*  
+
+_Source: Player's Handbook (2024) p. 327_
 
 ```ad-statblock
 title: Fiendish Spirit (Yugoloth)
@@ -50,4 +51,5 @@ title: Fiendish Spirit (Yugoloth)
 
 ***Claws.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Slashing damage. Immediately after the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied space it can see.
 ```
+
 ^statblock

@@ -18,14 +18,11 @@ obsidianUIMode: preview
 
 # Helm
 
-
 - **Alignment**: Lawful Neutral
 - **Domains**: Life, Light, Twilight
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Staring eye on upright left gauntlet
 
-
-
 ## Sources
 
-*Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)*
+_Player's Handbook p. 294, Tasha's Cauldron of Everything p. 34. Available in the Basic Rules (2014)_

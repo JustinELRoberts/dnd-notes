@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # The Outlands and Sigil; Gate-Towns of the Outlands
-*Source: Dungeon Master's Guide p. 67* 
+
+_Source: Dungeon Master's Guide p. 67_
 
 **Gate-Towns of the Outlands**
 

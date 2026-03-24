@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Succubus
-*Source: Monster Manual p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 285. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/succubus.webp#right)
 
 Succubi and incubi inhabit all of the Lower Planes, and the lascivious dark-winged fiends can be found in service to devils, demons, night hags, rakshasas, and yugoloths. Asmodeus, ruler of the Nine Hells, uses these fiends to tempt mortals to perform evil acts. The demon lord Graz'zt keeps succubi and incubi as advisers and consorts.
@@ -83,6 +84,7 @@ The fiend can have only one target [charmed](Mechanics/CLI/rules/conditions.md#C
 
 ***Etherealness.*** The fiend magically enters the Ethereal Plane from the Material Plane, or vice versa.
 ```
+
 ^statblock
 
 ## Environment

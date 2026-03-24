@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Encounter Distance; Airship Travel Conditions
-*Source: Eberron: Forge of the Artificer p. 110* 
+
+_Source: Eberron: Forge of the Artificer p. 110_
 
 **Airship Travel Conditions**
 

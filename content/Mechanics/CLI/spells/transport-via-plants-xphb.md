@@ -20,7 +20,8 @@ classes:
 ---
 
 # Transport via Plants
-*6th-level, Conjuration*  
+
+_6th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/transport-via-plants.webp#right)
 
 - **Casting time:** 1 Action
@@ -32,4 +33,4 @@ This spell creates a magical link between a Large or larger inanimate plant with
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

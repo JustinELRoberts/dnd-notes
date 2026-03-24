@@ -19,8 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Firenewt Warlock of Imix
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143_
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
 
@@ -72,6 +72,7 @@ title: Firenewt Warlock of Imix
 
 **At will:** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

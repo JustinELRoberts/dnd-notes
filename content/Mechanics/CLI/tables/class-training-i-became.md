@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Class Training; I became...
-*Source: Xanathar's Guide to Everything p. 66* 
+
+_Source: Xanathar's Guide to Everything p. 66_
 
 **Barbarian**
 

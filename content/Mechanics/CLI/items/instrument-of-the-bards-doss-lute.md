@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Instrument of the Bards, Doss Lute
-*Wondrous item, instrument ([lute](Mechanics/CLI/items/lute-xphb.md)), major, uncommon (requires attunement by a bard)*  
+
+_Wondrous item, instrument ([lute](Mechanics/CLI/items/lute-xphb.md)), major, uncommon (requires attunement by a bard)_\
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-doss-lute.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -32,4 +33,4 @@ All instruments of the bards can be used to cast the following spells: [fly](Mec
 
 In addition, the Doss lute can be used to cast [animal friendship](Mechanics/CLI/spells/animal-friendship-xphb.md), [protection from energy](Mechanics/CLI/spells/protection-from-energy-xphb.md) (fire only), and [protection from poison](Mechanics/CLI/spells/protection-from-poison-xphb.md).
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

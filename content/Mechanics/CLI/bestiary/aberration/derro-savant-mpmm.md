@@ -17,13 +17,14 @@ obsidianUIMode: preview
 ---
 
 # Derro Savant
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 92*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 92_\
 ![](Mechanics/CLI/bestiary/aberration/img/derro-savant.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Mind flayers must be stopped. They have visited horrors on countless worlds, and entire groups of people have been mutated by illithid experiments. Such are the derro.
-> 
+>
 > Whenever I've met them, I refuse to fight, no matter how violent they might be. I think of the dwarves they once were. and I must confess that even I have shed tears.
 
 Derro slink through the subterranean realms, seeking places that are safe from the perils of the Underdark. Equal parts fearful and vicious, bands of these dwarf-kin prey on those weaker than themselves, while giving simpering obeisance to any creatures they deem more powerful. A lone derro may seem pitiable, but a cackling, spitting, growling, howling horde of them is horrifying to behold.
@@ -73,6 +74,7 @@ title: Derro Savant
 
 **1/day each:** [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md), [spider climb](Mechanics/CLI/spells/spider-climb-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

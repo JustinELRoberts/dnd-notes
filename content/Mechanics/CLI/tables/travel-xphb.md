@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Travel
-*Source: Player's Handbook (2024) p. 231* 
+
+_Source: Player's Handbook (2024) p. 231_
 
 **Travel**
 

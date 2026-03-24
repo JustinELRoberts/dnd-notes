@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Mire
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -31,4 +31,4 @@ You transform the ground in a 30-foot [Emanation](Mechanics/CLI/rules/variant-ru
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

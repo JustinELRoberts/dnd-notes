@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of Immortality
 
-
 You stop aging. You are immune to any effect that would age you, and you can't die from old age.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

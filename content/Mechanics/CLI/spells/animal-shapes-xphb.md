@@ -21,8 +21,8 @@ classes:
 ---
 
 # Animal Shapes
-*8th-level, Transmutation*  
 
+_8th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -37,4 +37,4 @@ The target gains a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

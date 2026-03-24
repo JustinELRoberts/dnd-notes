@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Loyalty
-*Source: Dungeon Master's Guide p. 93* 
+
+_Source: Dungeon Master's Guide p. 93_
 
 Loyalty is an optional rule you can use to determine how far an NPC party member will go to protect or assist the other members of the party (even those she doesn't particularly like). An NPC party member who is abused or ignored is likely to abandon the party, whereas an NPC who owes a life characters or shares their goals might fight to the death for them. Loyalty can be roleplayed or represented by this rule.
 

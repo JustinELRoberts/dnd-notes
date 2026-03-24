@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Tharashk Hunter
-*Source: Eberron: Forge of the Artificer p. 85*  
+
+_Source: Eberron: Forge of the Artificer p. 85_\
 ![](Mechanics/CLI/bestiary/humanoid/img/tharashk-hunter.webp#right)
 
 House Tharashk's heirs include inquisitives, dragonshard prospectors, and bounty hunters. They are more at home in the trackless wilds than in crowded city streets, but they are quite capable of tracking and pursuing their prey in any environment.
@@ -61,4 +62,5 @@ title: Tharashk Hunter
 
 ***Uncanny Dodge.*** Trigger: The hunter is hit by an attack roll. _Response:_ The hunter halves the damage (round down) it takes from that attack.
 ```
+
 ^statblock

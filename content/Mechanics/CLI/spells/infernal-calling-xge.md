@@ -22,7 +22,8 @@ classes:
 ---
 
 # Infernal Calling
-*5th-level, Conjuration*  
+
+_5th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/infernal-calling.webp#right)
 
 - **Casting time:** 1 minute
@@ -44,4 +45,4 @@ If you possess an individual devil's talisman, you can summon that devil if it i
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 158*
+_Source: Xanathar's Guide to Everything p. 158_

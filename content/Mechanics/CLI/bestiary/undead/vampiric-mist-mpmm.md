@@ -24,7 +24,8 @@ obsidianUIMode: preview
 ---
 
 # Vampiric Mist
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 250*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 250_\
 ![](Mechanics/CLI/bestiary/undead/img/vampiric-mist.webp#right)
 
 In billowing clouds of fog lurk vampiric mists, the wretched remnants of [vampires](Mechanics/CLI/bestiary/undead/vampire.md) that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
@@ -74,6 +75,7 @@ title: Vampiric Mist
 
 ***Life Drain.*** The mist touches one creature in its space. The target must succeed on a DC 13 Constitution saving throw (Undead and Constructs automatically succeed), or it takes 10 (`2d6 + 3`) necrotic damage, the mist regains 10 hit points, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 ```
+
 ^statblock
 
 ## Environment

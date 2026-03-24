@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Military Force Types
-*Source: Tasha's Cauldron of Everything p. 96* 
+
+_Source: Tasha's Cauldron of Everything p. 96_
 
 **Military Force Types**
 

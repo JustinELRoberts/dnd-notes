@@ -22,8 +22,8 @@ classes:
 ---
 
 # Perforating Shot
-*1st-level, Evocation*  
 
+_1st-level, Evocation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -36,4 +36,4 @@ As your attack hits or misses the target, the weapon or ammunition transforms in
 
 **Classes**: [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

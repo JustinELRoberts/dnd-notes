@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Discovery Option
-*Source: Valda's Spire of Secrets (2024)* 
+
+_Source: Valda's Spire of Secrets (2024)_
 
 - [Alchemy of Alteration](Mechanics/CLI/optional-features/alchemy-of-alteration-valdaspire24.md)
 - [Alchemy of Poison](Mechanics/CLI/optional-features/alchemy-of-poison-valdaspire24.md)

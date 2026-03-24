@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Carpet of Flying
-*Wondrous item, major, very rare*  
 
-
+_Wondrous item, major, very rare_
 
 **Items in this group:**
 
@@ -26,4 +25,4 @@ obsidianUIMode: preview
 - [Carpet of Flying, 5 ft. × 7 ft.](Mechanics/CLI/items/carpet-of-flying-5-ft-7-ft.md)
 - [Carpet of Flying, 6 ft. × 9 ft.](Mechanics/CLI/items/carpet-of-flying-6-ft-9-ft.md)
 
-*Source: Dungeon Master's Guide p. 157*
+_Source: Dungeon Master's Guide p. 157_

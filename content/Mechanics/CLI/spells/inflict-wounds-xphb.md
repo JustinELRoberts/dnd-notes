@@ -38,8 +38,8 @@ classes:
 ---
 
 # Inflict Wounds
-*1st-level, Necromancy*  
 
+_1st-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -52,4 +52,4 @@ A creature you touch makes a Constitution saving throw, taking `2d10` Necrotic d
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Discord)](Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Reaper)](Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oathbreaker)](Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Sorcerer (Divine Soul, Evil)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warmage (House of Knights)](Mechanics/CLI/lists/list-spells-classes-house-of-knights-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Black Magic)](Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

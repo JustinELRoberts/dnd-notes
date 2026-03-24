@@ -27,7 +27,8 @@ classes:
 ---
 
 # Whirlwind
-*7th-level, Evocation*  
+
+_7th-level, Evocation_\
 ![](Mechanics/CLI/spells/img/whirlwind.webp#right)
 
 - **Casting time:** 1 Action
@@ -43,4 +44,4 @@ A [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature can use an
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 171*
+_Source: Xanathar's Guide to Everything p. 171_

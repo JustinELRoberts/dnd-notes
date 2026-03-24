@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Elemental Gem
-*Wondrous item, minor, uncommon*  
-![](Mechanics/CLI/items/img/elemental-gem.webp#right)
 
+_Wondrous item, minor, uncommon_\
+![](Mechanics/CLI/items/img/elemental-gem.webp#right)
 
 **Items in this group:**
 
@@ -26,4 +26,4 @@ obsidianUIMode: preview
 - [Elemental Gem, Red Corundum](Mechanics/CLI/items/elemental-gem-red-corundum.md)
 - [Elemental Gem, Yellow Diamond](Mechanics/CLI/items/elemental-gem-yellow-diamond.md)
 
-*Source: Dungeon Master's Guide p. 167*
+_Source: Dungeon Master's Guide p. 167_

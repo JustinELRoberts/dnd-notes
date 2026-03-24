@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Artisan's Tools
-*Artisan's tools*  
 
-
+_Artisan's tools_
 
 **Items in this group:**
 
@@ -39,4 +38,4 @@ obsidianUIMode: preview
 - [Weaver's Tools](Mechanics/CLI/items/weavers-tools-xphb.md)
 - [Woodcarver's Tools](Mechanics/CLI/items/woodcarvers-tools-xphb.md)
 
-*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

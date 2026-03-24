@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Blessing of Understanding
 
-
 Your Wisdom score increases by 2, up to a maximum of 22.
 
 ## Sources
 
-*Dungeon Master's Guide p. 228*
+_Dungeon Master's Guide p. 228_

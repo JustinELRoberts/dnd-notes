@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mind Flayer Arcanist
-*Source: Monster Manual p. 222*  
+
+_Source: Monster Manual p. 222_\
 ![](Mechanics/CLI/bestiary/aberration/img/mind-flayer.webp#right)
 
 A few mind flayers supplement their psionic power with arcane spells. However, they are regarded as deviants by their illithid peers and usually shunned.
@@ -45,9 +46,9 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 An illithid experiences euphoria as it devours the brain of a humanoid, along with its memories, personality, and innermost fears. Mind flayers will sometimes harvest a brain rather than devour it, using it as part of some alien experiment or transforming it into an intellect devourer.
 
 > [!note] Qualith
-> 
+>
 > On the rare occasion that mind flayers need to write something down, they do so in Qualith. This system of tactile writing (similar to braille) is read by an illithid's tentacles. Qualith is written in four-line stanzas and is so alien in construction that non-illithids must resort to magic to discern its meaning. Though Qualith can be used to keep records, illithids most often use it to mark portals or other surfaces with warnings or instructions.
-^qualith
+> ^qualith
 
 ## Statblock
 
@@ -103,6 +104,7 @@ title: Mind Flayer Arcanist
 
 ***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

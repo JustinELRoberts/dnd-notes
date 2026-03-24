@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Adamantine Weapons
-*Source: Xanathar's Guide to Everything p. 78* 
+
+_Source: Xanathar's Guide to Everything p. 78_
 
 Adamantine is an ultrahard metal found in meteorites and extraordinary mineral veins. In addition to being used to craft [adamantine armor](Mechanics/CLI/items/adamantine-armor.md), the metal is also used for weapons.
 

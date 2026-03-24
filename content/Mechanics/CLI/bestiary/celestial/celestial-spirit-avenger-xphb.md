@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Celestial Spirit (Avenger)
-*Source: Player's Handbook (2024) p. 323*  
+
+_Source: Player's Handbook (2024) p. 323_
 
 ```ad-statblock
 title: Celestial Spirit (Avenger)
@@ -47,4 +48,5 @@ title: Celestial Spirit (Avenger)
 
 ***Healing Touch (1/Day).*** The spirit touches another creature. The target regains Hit Points equal to `2d8` + the spell's level.
 ```
+
 ^statblock

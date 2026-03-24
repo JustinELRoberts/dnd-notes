@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Gnoll
-*Source: Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/gnoll.webp#right)
 
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
@@ -74,6 +75,7 @@ title: Gnoll
 
 ***Longbow.*** *Ranged Weapon Attack:* `+3` to hit, range 150/600 ft., one target. *Hit:* 5 (`1d8 + 1`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

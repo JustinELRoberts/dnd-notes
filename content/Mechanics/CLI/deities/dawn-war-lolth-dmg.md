@@ -16,14 +16,11 @@ obsidianUIMode: preview
 
 # Lolth
 
-
 - **Alignment**: Chaotic Evil
 - **Domains**: Trickery
 - **Pantheon**: Dawn War
 - **Symbol**: Eight-pointed star with a web motif
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

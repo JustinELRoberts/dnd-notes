@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Cloak of Billowing
-*Wondrous item, minor, common*  
 
-
+_Wondrous item, minor, common_
 
 While wearing this cloak, you can use a bonus action to make it billow dramatically.
 
-*Source: Xanathar's Guide to Everything p. 136*
+_Source: Xanathar's Guide to Everything p. 136_

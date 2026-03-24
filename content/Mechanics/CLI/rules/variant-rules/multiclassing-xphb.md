@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Multiclassing
-*Source: Player's Handbook (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 44. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 Multiclassing allows you to gain levels in multiple classes. With this rule, you have the option of gaining a level in a new class whenever you advance in level instead of gaining a level in your current class. Doing so lets you mix the abilities of those classes to realize a character concept that might not be reflected in a single class.
 
@@ -75,9 +76,9 @@ If a cantrip of yours increases in power at higher levels, the increase is based
 
 You determine your available spell slots by adding together the following:
 
-- All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes  
-- Half your levels (round up) in the Paladin and Ranger classes  
-- One third of your Fighter or Rogue levels (round down) if you have the Eldritch Knight or Arcane Trickster subclass.  
+- All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes
+- Half your levels (round up) in the Paladin and Ranger classes
+- One third of your Fighter or Rogue levels (round down) if you have the Eldritch Knight or Arcane Trickster subclass.
 
 Then look up this total level in the Level column of the Multiclass Spellcaster table. You use the slots for that level to cast spells of an appropriate level from any class whose Spellcasting feature you have.
 

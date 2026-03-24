@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Arcane Synapses
-*Monstrous graft, uncommon*  
 
+_Monstrous graft, uncommon_
 
 - **Properties**: [Head Slot](Mechanics/CLI/rules/item-properties.md#Head%20Slot)
 
-*Donor: Any Creature with the Spellcasting Action*
+_Donor: Any Creature with the Spellcasting Action_
 
 These additional nerves grant arcane potential once installed in the brain. The GM chooses one of the donor's spells. You always have that spell prepared. You can cast it once using this graft without expending a spell slot. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell when you cast it with this graft (choose each time you install this graft).
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

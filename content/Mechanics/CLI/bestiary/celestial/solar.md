@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Solar
-*Source: Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/solar.webp#right)
 
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
@@ -109,4 +110,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the solar c
 
 ***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until magic such as the [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) spell removes the blindness.
 ```
+
 ^statblock

@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Black Opal
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 1,000 gp
 
 A translucent dark green with black mottling and golden flecks gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

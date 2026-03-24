@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wraith
-*Source: Monster Manual p. 302. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 302. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/wraith.webp#right)
 
 A wraith is malice incarnate, concentrated into an incorporeal form that seeks to quench all life. The creature is suffused with negative energy, and its mere passage through the world leaves nearby plants blackened and withered. Animals flee from its presence. Even small fires can be extinguished by the sucking oblivion of the wraith's horrifying existence.
@@ -79,6 +80,7 @@ title: Wraith
 
 ***Create Specter.*** The wraith targets a humanoid within 10 feet of it that has been dead for no longer than 1 minute and died violently. The target's spirit rises as a [specter](Mechanics/CLI/bestiary/undead/specter.md) in the space of its corpse or in the nearest unoccupied space. The [specter](Mechanics/CLI/bestiary/undead/specter.md) is under the wraith's control. The wraith can have no more than seven specters under its control at one time.
 ```
+
 ^statblock
 
 ## Environment

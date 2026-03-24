@@ -26,8 +26,8 @@ classes:
 ---
 
 # Beast Bond
-*1st-level, Divination*  
 
+_1st-level, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -38,4 +38,4 @@ You establish a telepathic link with one beast you touch that is friendly to you
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Xanathar's Guide to Everything p. 150*
+_Source: Xanathar's Guide to Everything p. 150_

@@ -16,12 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Meteor Chain
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
 - **Cost**: 75 gp
 - **Weight**: 8.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

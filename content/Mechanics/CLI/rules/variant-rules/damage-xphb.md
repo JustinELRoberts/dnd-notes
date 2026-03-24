@@ -13,6 +13,7 @@ obsidianUIMode: preview
 ---
 
 # Damage
-*Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 Damage represents harm that causes a creature or an object to lose [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).

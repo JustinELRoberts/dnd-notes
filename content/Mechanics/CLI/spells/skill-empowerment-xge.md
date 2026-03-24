@@ -25,8 +25,8 @@ classes:
 ---
 
 # Skill Empowerment
-*5th-level, Transmutation*  
 
+_5th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -39,4 +39,4 @@ You must choose a skill in which the target is proficient and that isn't already
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 165*
+_Source: Xanathar's Guide to Everything p. 165_

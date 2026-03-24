@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Booyahg Booyahg Booyahg
-*Source: Volo's Guide to Monsters p. 43*  
 
+_Source: Volo's Guide to Monsters p. 43_
 
 This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
 
@@ -76,4 +76,5 @@ title: Booyahg Booyahg Booyahg
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.
 ```
+
 ^statblock

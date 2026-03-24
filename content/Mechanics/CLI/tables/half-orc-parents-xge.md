@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Half-Orc Parents
-*Source: Xanathar's Guide to Everything p. 62* 
+
+_Source: Xanathar's Guide to Everything p. 62_
 
 **Half-Orc Parents**
 

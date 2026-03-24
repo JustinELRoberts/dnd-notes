@@ -14,11 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Slippery Ice
-*Wilderness Hazard*  
 
+_Wilderness Hazard_
 
 Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check or fall [prone](Mechanics/CLI/rules/conditions.md#Prone).
 
 ## Sources
 
-*Dungeon Master's Guide p. 110*
+_Dungeon Master's Guide p. 110_

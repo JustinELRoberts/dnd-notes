@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # What's on the Menu Solution
-*Source: Tasha's Cauldron of Everything p. 188* 
+
+_Source: Tasha's Cauldron of Everything p. 188_
 
 **What's on the Menu Solution**
 

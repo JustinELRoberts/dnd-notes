@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Apparatus of Kwalish
-*Wondrous item, major, legendary*  
+
+_Wondrous item, major, legendary_\
 ![](Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp#right)
 
 - **Weight**: 500.0 lbs.
@@ -24,10 +25,10 @@ This item first appears to be a Large sealed iron barrel weighing 500 pounds. Th
 
 The apparatus of Kwalish is a Large object with the following statistics:
 
-- **Armor Class.** 20  
-- **Hit Points.** 200  
-- **Speed.** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)  
-- **Damage Immunities.** poison, psychic  
+- **Armor Class.** 20
+- **Hit Points.** 200
+- **Speed.** 30 ft., swim 30 ft. (or 0 ft. for both if the legs and tail aren't extended)
+- **Damage Immunities.** poison, psychic
 
 To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
 
@@ -43,7 +44,7 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 2 | Forward window shutter opens. | Forward window shutter closes. |
 | 3 | Side window shutters open (two per side). | Side window shutters close (two per side). |
 | 4 | Two claws extend from the front sides of the apparatus. | The claws retract. |
-| 5 | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. *Hit:*  7 (`2d6`) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. *Hit:*  The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). |
+| 5 | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. _Hit:_  7 (`2d6`) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. _Hit:_  The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). |
 | 6 | The apparatus walks or swims forward. | The apparatus walks or swims backward. |
 | 7 | The apparatus turns 90 degrees left. | The apparatus turns 90 degrees right. |
 | 8 | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet. | The light turns off. |
@@ -51,4 +52,4 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 ^apparatus-of-kwalish-levers
 
-*Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*
+_Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")_

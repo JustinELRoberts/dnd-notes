@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Determine Numbers and Challenge Ratings; Multiple Monsters: 11th-15th Level
-*Source: Xanathar's Guide to Everything p. 88* 
+
+_Source: Xanathar's Guide to Everything p. 88_
 
 **Multiple Monsters: 11th-15th Level**
 

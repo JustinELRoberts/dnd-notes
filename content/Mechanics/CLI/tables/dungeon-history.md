@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dungeon History
-*Source: Dungeon Master's Guide p. 101* 
+
+_Source: Dungeon Master's Guide p. 101_
 
 **Dungeon History**
 

@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Tortle Druid
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
 
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 244_
 
 Many tortles view the world as a place of wonder. They live for the chance to hear a soft wind blowing through trees, to watch a frog croaking on a lily pad, or to stand in a crowded marketplace. A tortle druid savors such things more than most, channeling the natural magic of the world around them.
 
@@ -70,6 +70,7 @@ title: Tortle Druid
 
 **2/day each:** [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [speak with animals](Mechanics/CLI/spells/speak-with-animals-xphb.md), [thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

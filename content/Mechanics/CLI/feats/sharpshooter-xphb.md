@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Sharpshooter 
+# Sharpshooter
 
-
-***Prerequisites*** 4th; Dexterity 13 or higher
+_**Prerequisites**_ 4th; Dexterity 13 or higher
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Firing in Melee.** Being within 5 feet of an enemy doesn't impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your attack rolls with Ranged weapons.
 
 **Long Shots.** Attacking at long range doesn't impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your attack rolls with Ranged weapons.
+
 ## Sources
 
-*Player's Handbook (2024) p. 207*
+_Player's Handbook (2024) p. 207_

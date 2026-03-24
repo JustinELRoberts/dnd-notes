@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Boromar Smuggler
-*Source: Eberron: Forge of the Artificer p. 57*  
+
+_Source: Eberron: Forge of the Artificer p. 57_\
 ![](Mechanics/CLI/bestiary/humanoid/img/boromar-smuggler.webp#right)
 
 Smugglers employed by the Boromar Clan (mostly halflings) are notoriously hard to catch. These speedy criminals traffic everything from narcotics to illegal arcane weaponry across Sharn.
@@ -52,4 +53,5 @@ title: Boromar Smuggler
 
 ***Pistol.*** *Ranged Attack Roll:* `+4`, range 30/90 ft. *Hit:* 7 (`1d10 + 2`) Piercing damage.
 ```
+
 ^statblock

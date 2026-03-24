@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Bullywug
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: int -2 cha -2
 - **Size**: Medium

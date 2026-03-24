@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Level and Lethality; Damage Severity by Level
-*Source: Xanathar's Guide to Everything p. 116* 
+
+_Source: Xanathar's Guide to Everything p. 116_
 
 **Damage Severity by Level**
 

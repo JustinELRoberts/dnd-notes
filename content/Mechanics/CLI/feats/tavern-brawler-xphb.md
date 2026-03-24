@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Tavern Brawler 
-
+# Tavern Brawler
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Improvised Weaponry.** You have proficiency with improvised weapons.
 
 **Push.** When you hit a creature with an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
+
 ## Sources
 
-*Player's Handbook (2024) p. 202*
+_Player's Handbook (2024) p. 202_

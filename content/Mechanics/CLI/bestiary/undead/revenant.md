@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Revenant
-*Source: Monster Manual p. 259*  
+
+_Source: Monster Manual p. 259_\
 ![](Mechanics/CLI/bestiary/undead/img/revenant.webp#right)
 
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
@@ -82,6 +83,7 @@ title: Revenant
 
 ***Vengeful Glare.*** The revenant targets one creature it can see within 30 feet of it and against which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) until the revenant deals damage to it, or until the end of the revenant's next turn. When the paralysis ends, the target is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the revenant for 1 minute. The [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see the revenant, ending the [frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

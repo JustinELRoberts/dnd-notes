@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Slasher 
+# Slasher
 
-
-***Prerequisites*** 4th
+_**Prerequisites**_ 4th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Hamstring.** Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) of that creature by 10 feet until the start of your next turn.
 
 **Enhanced Critical.** When you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) that deals Slashing damage to a creature, it has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls until the start of your next turn.
+
 ## Sources
 
-*Player's Handbook (2024) p. 208*
+_Player's Handbook (2024) p. 208_

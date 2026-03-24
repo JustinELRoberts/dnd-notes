@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Foraging DCs
-*Source: Dungeon Master's Guide p. 111* 
+
+_Source: Dungeon Master's Guide p. 111_
 
 **Foraging DCs**
 

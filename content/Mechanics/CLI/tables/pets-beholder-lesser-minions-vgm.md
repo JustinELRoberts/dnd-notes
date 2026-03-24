@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Pets; Beholder Lesser Minions
-*Source: Volo's Guide to Monsters p. 16* 
+
+_Source: Volo's Guide to Monsters p. 16_
 
 **Beholder Lesser Minions**
 
-| dice: d100 | Lesser Minions* |
+| dice: d100 | Lesser Minions\* |
 |------------|-----------------|
 | 1-4 | `10d10 + 50` [bandits](Mechanics/CLI/bestiary/humanoid/bandit.md) and `3d6` [bandit captains](Mechanics/CLI/bestiary/humanoid/bandit-captain.md) |
 | 5-8 | `10d6` [bugbears](Mechanics/CLI/bestiary/humanoid/bugbear.md) and `1d3` [bugbear chiefs](Mechanics/CLI/bestiary/humanoid/bugbear-chief.md) |
@@ -34,4 +35,4 @@ obsidianUIMode: preview
 | 66-100 | Roll twice, ignoring results above 65 |
 ^beholder-lesser-minions
 
-* For death tyrant lairs, use this table, but replace approximately half of its humanoid minions with zombies.
+- For death tyrant lairs, use this table, but replace approximately half of its humanoid minions with zombies.

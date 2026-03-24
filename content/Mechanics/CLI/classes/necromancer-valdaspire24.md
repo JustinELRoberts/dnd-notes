@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Necromancer
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='7'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
@@ -58,15 +59,15 @@ obsidianUIMode: preview
 ## Starting Necromancer
 
 - **Saving Throw Proficiencies**: Constitution, Intelligence
-- **Skill Proficiencies**: *Choose 2:* [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth)
 - **Weapon Proficiencies**: Simple weapons
 
-**Starting Equipment:** *Choose A or B:* (A) 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (Rod)](Mechanics/CLI/items/rod-xphb.md), [Robe](Mechanics/CLI/items/robe-xphb.md), [Sack](Mechanics/CLI/items/sack-xphb.md), [Shovel](Mechanics/CLI/items/shovel-xphb.md), [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md) and 13 GP; or (B) 60 GP
+**Starting Equipment:** _Choose A or B:_ (A) 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (Rod)](Mechanics/CLI/items/rod-xphb.md), [Robe](Mechanics/CLI/items/robe-xphb.md), [Sack](Mechanics/CLI/items/sack-xphb.md), [Shovel](Mechanics/CLI/items/shovel-xphb.md), [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md) and 13 GP; or (B) 60 GP
 
 ## Multiclassing Necromancer
 
-- Gain the Hit Point Die from the Core Necromancer Traits table.   
-- Gain the Necromancer's level 1 features, which are listed in the Necromancer Features table. See the multiclassing rules to determine your available spell slots.  
+- Gain the Hit Point Die from the Core Necromancer Traits table.
+- Gain the Necromancer's level 1 features, which are listed in the Necromancer Features table. See the multiclassing rules to determine your available spell slots.
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaNecromancer/Class/Necromancer-Cover.webp#center)
 
@@ -128,7 +129,7 @@ Unlike other spellcasters, you animate Undead creatures with a portion of your o
 |------|----|----|----|-------|--------------------|
 | [Bloodlurk](Mechanics/CLI/bestiary/undead/bloodlurk-valdaspire24.md) | 2 | 10 | 75 | 20 ft., Climb 20 ft. | Amorphous, Spider Climb |
 | [Bone Beast](Mechanics/CLI/bestiary/undead/bone-beast-valdaspire24.md) | 1 | 14 | 27 | 40 ft. | Pack Tactics |
-| [Deadnaught](Mechanics/CLI/bestiary/undead/deadnaught-valdaspire24.md) | 1 | 16 | 45* | 30 ft. | Necromantic Bond, Regeneration, Proficiencies |
+| [Deadnaught](Mechanics/CLI/bestiary/undead/deadnaught-valdaspire24.md) | 1 | 16 | 45\* | 30 ft. | Necromantic Bond, Regeneration, Proficiencies |
 | [Gorger](Mechanics/CLI/bestiary/undead/gorger-valdaspire24.md) | 1 | 8 | 36 | 30 ft. | — |
 | [Skeleton](Mechanics/CLI/bestiary/undead/skeleton-valdaspire24.md) | 1/4 | 14 | 13 | 30 ft. | — |
 | [Spirit](Mechanics/CLI/bestiary/undead/spirit-valdaspire24.md) | 1/4 | 15 | 9 | 30 ft., Fly 30 ft. (hover) | Incorporeal Movement, Physical Resistances |
@@ -141,7 +142,7 @@ In combat, your thralls take their turns immediately before or after your turn e
 
 **Attacks and Save DCs.** Thralls use your spell attack modifier for their attacks. If one of your thralls forces a creature to make a saving throw, it uses your spell save DC.
 
-**Healing your Thralls.** You can use your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) on Undead under your control without making an attack roll. Instead of dealing Necrotic damage, the Undead regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the number of Charnel Touch points expended.
+**Healing your Thralls.** You can use your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) on Undead under your control without making an attack roll. Instead of dealing Necrotic damage, the Undead regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the number of Charnel Touch points expended.
 
 **Maximum Thralls.** You can animate and control one thrall that has a [Challenge Rating](Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) of 1/4. As you gain Necromancer levels, you can animate more thralls. The combined CR of all your thralls can't exceed the number shown in the CR Total column of the Necromancer Features table, and the total number of thralls under your control can't exceed the number shown in the Thralls column of the Necromancer Features table.
 
@@ -152,21 +153,21 @@ At any time, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action
 As always, you can't reanimate Undead that have been reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). Your Animate Thralls ritual, the [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md) spell, and similar magic only affects Humanoid corpses, whereas your thralls are Undead creatures.
 
 > [!note] Necromancer Variant Rules
-> 
+>
 > Use the following variant rules to tailor this class to your table and preferred playstyle.
-> 
+>
 > **Necromancy Unleashed.** In order to ensure timely, balanced play, this class imposes limitations on the number of Undead a player can command, including with spells such as [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md). Use this variant rule if you want to throw caution to the wind and embrace the undead horde experience.
-> 
-> Ignore the "Other Undead" section in the [Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) feature. Undead animated with spells are separate from your thralls for the purposes of your class features, and have no other class-based limitations.
-> 
+>
+> Ignore the "Other Undead" section in the [Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) feature. Undead animated with spells are separate from your thralls for the purposes of your class features, and have no other class-based limitations.
+>
 > **Alternate Necromancers.** Necromancers may fuel their spellcasting through ambition or zeal, rather than intellect. When you become a Necromancer, you can choose Wisdom or Charisma for the Primary Ability in the Core Necromancer Traits table. The chosen ability becomes your spellcasting ability, and replaces any Necromancer feature which uses Intelligence.
-> 
+>
 > A Necromancer that uses Wisdom is called a "Resurrectionist" and one that uses Charisma is called a "Ghoul."
-^necromancer-variant-rules
+> ^necromancer-variant-rules
 
 ### Dead Space (Level 2)
 
-You gain an extradimensional space that can hold up to 12 Medium or smaller corpses, piles of bones, or Undead creatures. The extradimensional space is linked to an item of your choice, such as a bag, a cloak, or a backpack. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can use the linked item to place a corpse, pile of bones, or willing Undead creature in the extradimensional space, or to dump out contents of your choice from the extradimensional space. [Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) stored in your Dead Space count toward the total number of thralls under your control. The contents land in spaces of your choice within 5 feet of you, or as near to you as possible if those spaces are occupied.
+You gain an extradimensional space that can hold up to 12 Medium or smaller corpses, piles of bones, or Undead creatures. The extradimensional space is linked to an item of your choice, such as a bag, a cloak, or a backpack. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can use the linked item to place a corpse, pile of bones, or willing Undead creature in the extradimensional space, or to dump out contents of your choice from the extradimensional space. [Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) stored in your Dead Space count toward the total number of thralls under your control. The contents land in spaces of your choice within 5 feet of you, or as near to you as possible if those spaces are occupied.
 
 You can link any item you can carry to the extradimensional space by performing a ritual over the course of 1 hour which can be done during a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md). The previous item linked to the space becomes disconnected when you link a new one.
 
@@ -176,7 +177,7 @@ You gain a Necromancer subclass of your choice. A subclass is a specialization t
 
 ### Dark Arcana (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend a spell slot to replenish your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) pool. The pool regains points equal to your Intelligence modifier plus `1d8` for each level of the spell slot expended, up to a maximum of your pool's total.
+As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend a spell slot to replenish your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) pool. The pool regains points equal to your Intelligence modifier plus `1d8` for each level of the spell slot expended, up to a maximum of your pool's total.
 
 ### Ability Score Improvement (Level 4)
 
@@ -202,7 +203,7 @@ You gain a feature from your Necromancer Subclass.
 
 ### Improved Thralls (Level 7)
 
-Your [Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) grow stronger under your control, granting the following benefits.
+Your [Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) grow stronger under your control, granting the following benefits.
 
 **Avoidance.** If one of your thralls is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
@@ -224,7 +225,7 @@ You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-impro
 
 ### Improved Critical Spellcasting (Level 14)
 
-Your [Critical Spellcasting](Mechanics/CLI/classes/necromancer-valdaspire24.md#Critical%20Spellcasting%20(Level%205)) improves in the following ways.
+Your [Critical Spellcasting](Mechanics/CLI/classes/necromancer-valdaspire24.md#Critical%20Spellcasting%20\(Level%205\)) improves in the following ways.
 
 **Critical Failures.** A creature suffers a Critical Failure when it rolls a 1 or 2 on the `d20` for a saving throw against one of your spells.
 
@@ -259,11 +260,11 @@ You unlock the pinnacle of necromantic prowess, through which you conquer death 
 **Undead Immunities.** You have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Necrotic and Poison damage and to the [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) and [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
 
 > [!note] Spirit Jar
-> 
+>
 > A lich's spirit jar, or "phylactery," is as much a memento as it is their anchor to immortality, and as such, no two are alike. Spirit jars are often constructed from objects with sentimental value, such as family heirlooms or prized possessions, but can be fashioned from swords, pieces of armor, or even entire castles.
-> 
+>
 > Furthermore, every spirit jar has a weakness, a critical flaw by which it can be destroyed, allowing its lich to be slain permanently. These weaknesses, too, are unique to each jar. One might require a ritual to be performed around it for 24 hours, while another might call for the jar to be dipped in the lava of an active volcano. Discuss with your GM the form your spirit jar takes and the weakness it possesses.
-^spirit-jar
+> ^spirit-jar
 
 ### Subclass Feature (Level 20)
 

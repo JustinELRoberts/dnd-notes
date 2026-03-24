@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Alchemy of Poison 
-
+# Alchemy of Poison
 
 Your research has taught you how to concoct poisonous compounds. You gain the following benefits.
 
@@ -49,6 +48,7 @@ You can brew the following poisons at the Alchemist levels given. If a poisons f
 | Alchemist Level 13 |  |
 | Wyvern Poison | 4 |
 ^poisons
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

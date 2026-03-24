@@ -25,8 +25,8 @@ classes:
 ---
 
 # Power Word Pain
-*7th-level, Enchantment*  
 
+_7th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -41,4 +41,4 @@ A target suffering this pain can make a Constitution saving throw at the end of 
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 163*
+_Source: Xanathar's Guide to Everything p. 163_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Greataxe
-*Weapon*  
+
+_Weapon_\
 ![](Mechanics/CLI/items/img/greataxe.webp#right)
 
 - **Damage**: 1d12 slashing
@@ -24,4 +25,4 @@ obsidianUIMode: preview
 - **Cost**: 30 gp
 - **Weight**: 7.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

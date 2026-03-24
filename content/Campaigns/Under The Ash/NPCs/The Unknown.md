@@ -12,12 +12,14 @@ Relationship: Not known
 Factions:
   - "[[The Awakening]]"
 Locations:
-  - "[[Campaigns/Under The Ash/Locations/Evermore]]"
+  - "[[Evermore]]"
 tags:
 ---
 
 ## Description
+
 A force of evil that exists in [[Evermore]]. Many years ago, every nation put aside their differences to fight The Unknown. Ultimately the people prevailed; The Unknown is now locked away behind 12 locks; each city holds the key to one of these locks.
 
 ## Motivations
- - Become free again?
+
+- Become free again?

@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Moonblade
-*Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)*  
+
+_Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)_\
 ![Moonblade (Longsword)](Mechanics/CLI/items/img/moonblade.webp#right)
 
 - **Damage**:
@@ -68,4 +69,4 @@ The weapon is bonded to the family line it is meant to serve. Once it has bonded
 
 If a moon blade has a flaw, it is overconfidence. Once it has decided on an owner, it believes that only that person should wield it, even if the owner falls short of elven ideals.
 
-*Source: Dungeon Master's Guide p. 217*
+_Source: Dungeon Master's Guide p. 217_

@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Sweet Tooth
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -31,4 +31,4 @@ You touch a nonmagical object within range that isn't being worn or carried and 
 
 **Classes**: [Witch (Gingerbread Magic)](Mechanics/CLI/lists/list-spells-classes-gingerbread-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

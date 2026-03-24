@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Initiative Variants
-*Source: Dungeon Master's Guide p. 270* 
+
+_Source: Dungeon Master's Guide p. 270_
 
 This section offers different ways to handle initiative.
 

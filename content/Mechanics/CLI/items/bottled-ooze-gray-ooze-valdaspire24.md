@@ -14,10 +14,9 @@ obsidianUIMode: preview
 ---
 
 # Bottled Ooze (Gray Ooze)
-*Wondrous item, uncommon*  
 
-
+_Wondrous item, uncommon_
 
 As [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can throw this bottle up to 60 feet, shattering it on impact and releasing a Gray Ooze. This ooze is friendly to you and your allies, and will otherwise attack the nearest creature it can detect. If there is no creature to attack, the ooze will follow you. The ooze dissolves into a lifeless sludge after 1 hour or when you release another Bottled Ooze.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

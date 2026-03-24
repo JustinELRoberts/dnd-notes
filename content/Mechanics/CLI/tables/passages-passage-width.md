@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Passages; Passage Width
-*Source: Dungeon Master's Guide p. 290* 
+
+_Source: Dungeon Master's Guide p. 290_
 
 **Passage Width**
 

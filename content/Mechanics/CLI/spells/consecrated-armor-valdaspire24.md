@@ -30,8 +30,8 @@ classes:
 ---
 
 # Consecrated Armor
-*1st-level, Abjuration (ritual)*  
 
+_1st-level, Abjuration (ritual)_
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Self
@@ -42,4 +42,4 @@ You trace a holy symbol on yourself, creating an [invisible](Mechanics/CLI/rules
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

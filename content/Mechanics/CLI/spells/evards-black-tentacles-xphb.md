@@ -32,7 +32,8 @@ classes:
 ---
 
 # Evard's Black Tentacles
-*4th-level, Conjuration*  
+
+_4th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/evards-black-tentacles.webp#right)
 
 - **Casting time:** 1 Action
@@ -48,4 +49,4 @@ A [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature can take a
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Necromancer (Pale Master)](Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Fathomless)](Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Black Tentacles") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Black Tentacles") and the Free Rules (2024)_

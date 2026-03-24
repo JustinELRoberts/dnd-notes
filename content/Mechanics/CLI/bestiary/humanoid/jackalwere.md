@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Jackalwere
-*Source: Monster Manual p. 193*  
+
+_Source: Monster Manual p. 193_\
 ![](Mechanics/CLI/bestiary/humanoid/img/jackalwere.webp#right)
 
 Ordinary jackals tainted by demonic power, jackalweres haunt roads and trails, waylaying and murdering those they meet.
@@ -77,6 +78,7 @@ title: Jackalwere
 
 ***Sleep Gaze.*** The jackalwere gazes at one creature it can see within 30 feet of it. The target must make a DC 10 Wisdom saving throw. On a failed save, the target succumbs to a magical slumber, falling [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 10 minutes or until someone uses an action to shake the target awake. A creature that successfully saves against the effect is immune to this jackalwere's gaze for the next 24 hours. Undead and creatures immune to being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) aren't affected by it.
 ```
+
 ^statblock
 
 ## Environment

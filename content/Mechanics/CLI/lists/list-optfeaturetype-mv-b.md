@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Maneuver, Battle Master
-*Source: Player's Handbook, Tasha's Cauldron of Everything p. 42, Player's Handbook (2024)* 
+
+_Source: Player's Handbook, Tasha's Cauldron of Everything p. 42, Player's Handbook (2024)_
 
 - [Ambush](Mechanics/CLI/optional-features/ambush-xphb.md)
 - [Bait and Switch](Mechanics/CLI/optional-features/bait-and-switch-xphb.md)

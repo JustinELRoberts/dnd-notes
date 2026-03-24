@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Swarm of Rot Grubs
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208_\
 ![](Mechanics/CLI/bestiary/beast/img/swarm-of-rot-grubs.webp#right)
 
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
@@ -64,6 +65,7 @@ title: Swarm of Rot Grubs
 
 ***Bites.*** *Melee Weapon Attack:* `+0` to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (`2d6`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). At the end of each of the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target's turns, the target takes 3 (`1d6`) poison damage. Whenever the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target takes fire damage, the target can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target ends its turn with 0 hit points, it dies.
 ```
+
 ^statblock
 
 ## Environment

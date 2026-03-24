@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Creating Quick Monster Stats; Monster Statistics by Challenge Rating
-*Source: Dungeon Master's Guide p. 274* 
+
+_Source: Dungeon Master's Guide p. 274_
 
 **Monster Statistics by Challenge Rating**
 

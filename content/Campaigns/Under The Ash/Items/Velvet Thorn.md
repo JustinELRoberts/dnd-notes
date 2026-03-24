@@ -8,6 +8,9 @@ tags:
 ---
 
 ## Description
-A plant of beauty that existed during the reign of [[Campaigns/Under The Ash/NPCs/The Unknown]] which used to bloom everywhere but is now extinct. People used to view these plants as a sign [[Campaigns/Under The Ash/NPCs/The Unknown]] was defeated.
+
+A plant of beauty that existed during the reign of [[The Unknown]] which used to bloom everywhere but is now extinct. People used to view these plants as a sign [[The Unknown]] was defeated.
+
 ## Uses
+
 - TBD

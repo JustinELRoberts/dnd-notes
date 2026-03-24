@@ -22,8 +22,8 @@ classes:
 ---
 
 # Winter Flower
-*6th-level, Evocation*  
 
+_6th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -36,4 +36,4 @@ When the flower explodes, each creature within a 30-foot [Emanation](Mechanics/C
 
 **Classes**: [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

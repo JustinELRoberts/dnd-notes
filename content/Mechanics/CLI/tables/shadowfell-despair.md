@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Shadowfell Despair
-*Source: Dungeon Master's Guide p. 52* 
+
+_Source: Dungeon Master's Guide p. 52_
 
 **Shadowfell Despair**
 

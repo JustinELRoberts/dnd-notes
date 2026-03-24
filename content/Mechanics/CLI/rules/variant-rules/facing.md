@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Facing
-*Source: Dungeon Master's Guide p. 252* 
+
+_Source: Dungeon Master's Guide p. 252_
 
 If you want the precision of knowing which way a creature is facing, consider using this optional rule. Whenever a creature ends its move, it can change its facing. Each creature has a front arc (the direction it faces), left and right side arcs, and a rear arc. A creature can also change its facing as a reaction when any other creature moves.
 

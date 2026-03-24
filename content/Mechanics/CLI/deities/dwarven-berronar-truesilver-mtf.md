@@ -18,7 +18,6 @@ obsidianUIMode: preview
 
 # Berronar Truesilver
 
-
 - **Alignment**: Lawful Good
 - **Category**: The Mordinsamman
 - **Domains**: Life, Light, Peace
@@ -34,4 +33,4 @@ Berronar's priests arrange marriages, using a process that finds the best matche
 
 ## Sources
 
-*Mordenkainen's Tome of Foes p. 73, Tasha's Cauldron of Everything p. 33*
+_Mordenkainen's Tome of Foes p. 73, Tasha's Cauldron of Everything p. 33_

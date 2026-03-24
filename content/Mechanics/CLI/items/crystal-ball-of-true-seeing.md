@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Crystal Ball of True Seeing
-*Wondrous item, major, legendary (requires attunement)*  
 
+_Wondrous item, major, legendary (requires attunement)_
 
 - **Weight**: 3.0 lbs.
 
@@ -25,4 +25,4 @@ This [crystal ball](Mechanics/CLI/items/crystal-ball.md) is about 6 inches in di
 
 While [scrying](Mechanics/CLI/spells/scrying-xphb.md) with the [crystal ball](Mechanics/CLI/items/crystal-ball.md), you have [truesight](Mechanics/CLI/rules/senses.md#Truesight) with a radius of 120 feet centered on the spell's sensor.
 
-*Source: Dungeon Master's Guide p. 159*
+_Source: Dungeon Master's Guide p. 159_

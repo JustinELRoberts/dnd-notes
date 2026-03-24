@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Infernal Tack
-*Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  
 
-
+_Wondrous item, legendary (requires attunement by a creature of evil alignment.)_
 
 A rider binds a [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) to its service with infernal tack, which consists of a bridle, bit, reins, saddle, and stirrups, along with spurs that are worn by the rider. A nightmare equipped with infernal tack must serve whoever wears the spurs until the wearer dies or the tack is removed.
 
@@ -25,4 +24,4 @@ You can use an action to call a nightmare equipped with infernal tack by clashin
 
 The tack doesn't conjure a nightmare; one must first be subdued so the tack can be placed on it. No nightmare accepts this forced servitude willingly, but some eventually form strong loyalties to their masters and become true partners in evil.
 
-*Source: Mordenkainen's Tome of Foes p. 167, Mordenkainen Presents: Monsters of the Multiverse p. 190*
+_Source: Mordenkainen's Tome of Foes p. 167, Mordenkainen Presents: Monsters of the Multiverse p. 190_

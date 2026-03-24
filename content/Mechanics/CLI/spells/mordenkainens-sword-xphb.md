@@ -22,8 +22,8 @@ classes:
 ---
 
 # Mordenkainen's Sword
-*7th-level, Evocation*  
 
+_7th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -38,4 +38,4 @@ On your later turns, you can take a [Bonus Action](Mechanics/CLI/rules/variant-r
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Sword") and the Free Rules (2024)_

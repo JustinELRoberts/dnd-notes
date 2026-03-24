@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Corporeal Undead
-*Source: Valda's Spire of Secrets (2024)*  
+
+_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Creatures/Corporeal%20Undead.webp#center)
 
 ```ad-statblock
@@ -66,4 +67,5 @@ title: Corporeal Undead
 
 ***Level 5.*** Undead Resilience. Trigger: The undead is hit by a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md). _Response:_ The undead turns the [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) into a normal hit.
 ```
+
 ^statblock

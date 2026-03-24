@@ -13,6 +13,7 @@ obsidianUIMode: preview
 ---
 
 # Jumping
-*Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 When you jump, you make either a [Long Jump](Mechanics/CLI/rules/variant-rules/long-jump-xphb.md) (horizontal) or a [High Jump](Mechanics/CLI/rules/variant-rules/high-jump-xphb.md) (vertical).

@@ -24,8 +24,8 @@ classes:
 ---
 
 # True Resurrection
-*9th-level, Necromancy*  
 
+_9th-level, Necromancy_
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -40,4 +40,4 @@ The spell can provide a new body if the original no longer exists, in which case
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Weather
-*Source: Dungeon Master's Guide p. 109* 
+
+_Source: Dungeon Master's Guide p. 109_
 
 **Weather**
 

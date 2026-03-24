@@ -13,17 +13,18 @@ obsidianUIMode: preview
 ---
 
 # Rules Glossary
-*Source: Player's Handbook (2024), p. 360* 
+
+_Source: Player's Handbook (2024), p. 360_
 
 ## Glossary Conventions
 
 The glossary uses the following conventions:
 
-- **Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.  
-- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition is a creature that currently has that condition.  
-- **"See Also.** " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both.  
-- **No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.  
-- **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.  
+- **Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack \[Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.
+- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition is a creature that currently has that condition.
+- **"See Also.** " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both.
+- **No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.
+- **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.
 
 ![Glossary Conventions](Mechanics/CLI/tables/glossary-conventions-xphb.md)
 
@@ -129,7 +130,7 @@ Here are definitions of various rules.
 > [!embed-variantrule]- Condition
 > ![Condition](Mechanics/CLI/rules/variant-rules/condition-xphb.md)
 
-> [!embed-variantrule]- Cone [Area of Effect]
+> [!embed-variantrule]- Cone \[Area of Effect]
 > ![Cone ](Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Cover
@@ -147,13 +148,13 @@ Here are definitions of various rules.
 > [!embed-variantrule]- Critical Hit
 > ![Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md)
 
-> [!embed-variantrule]- Cube [Area of Effect]
+> [!embed-variantrule]- Cube \[Area of Effect]
 > ![Cube ](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Curses
 > ![Curses](Mechanics/CLI/rules/variant-rules/curses-xphb.md)
 
-> [!embed-variantrule]- Cylinder [Area of Effect]
+> [!embed-variantrule]- Cylinder \[Area of Effect]
 > ![Cylinder ](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- D20 Test
@@ -210,7 +211,7 @@ Here are definitions of various rules.
 > [!embed-action]- Dodge
 > ![Dodge](Mechanics/CLI/rules/actions.md#Dodge)
 
-> [!embed-variantrule]- Emanation [Area of Effect]
+> [!embed-variantrule]- Emanation \[Area of Effect]
 > ![Emanation ](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Encounter
@@ -237,7 +238,7 @@ Here are definitions of various rules.
 > [!embed-variantrule]- Fly Speed
 > ![Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md)
 
-> [!embed-variantrule]- Friendly [Attitude]
+> [!embed-variantrule]- Friendly \[Attitude]
 > ![Friendly ](Mechanics/CLI/rules/variant-rules/friendly-attitude-xphb.md)
 
 > [!embed-condition]- Frightened
@@ -276,7 +277,7 @@ Here are definitions of various rules.
 > [!embed-variantrule]- Hit Points
 > ![Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)
 
-> [!embed-variantrule]- Hostile [Attitude]
+> [!embed-variantrule]- Hostile \[Attitude]
 > ![Hostile ](Mechanics/CLI/rules/variant-rules/hostile-attitude-xphb.md)
 
 > [!embed-variantrule]- Hover
@@ -294,7 +295,7 @@ Here are definitions of various rules.
 > [!embed-condition]- Incapacitated
 > ![Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated)
 
-> [!embed-variantrule]- Indifferent [Attitude]
+> [!embed-variantrule]- Indifferent \[Attitude]
 > ![Indifferent ](Mechanics/CLI/rules/variant-rules/indifferent-attitude-xphb.md)
 
 > [!embed-action]- Influence
@@ -315,7 +316,7 @@ Here are definitions of various rules.
 > [!embed-variantrule]- Lightly Obscured
 > ![Lightly Obscured](Mechanics/CLI/rules/variant-rules/lightly-obscured-xphb.md)
 
-> [!embed-variantrule]- Line [Area of Effect]
+> [!embed-variantrule]- Line \[Area of Effect]
 > ![Line ](Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Long Jump
@@ -429,7 +430,7 @@ Here are definitions of various rules.
 > [!embed-variantrule]- Spellcasting Focus
 > ![Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md)
 
-> [!embed-variantrule]- Sphere [Area of Effect]
+> [!embed-variantrule]- Sphere \[Area of Effect]
 > ![Sphere ](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md)
 
 > [!embed-variantrule]- Stable

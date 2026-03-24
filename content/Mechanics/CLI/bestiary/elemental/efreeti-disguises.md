@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Efreeti (Disguises)
-*Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Efreeti (Disguises)
@@ -62,6 +63,7 @@ title: Efreeti (Disguises)
 
 ***Hurl Flame.*** *Ranged Spell Attack:* `+7` to hit, range 120 ft., one target. *Hit:* 17 (`5d6`) fire damage.
 ```
+
 ^statblock
 
 ## Environment

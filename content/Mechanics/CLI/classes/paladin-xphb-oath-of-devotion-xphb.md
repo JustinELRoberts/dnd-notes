@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Oath of Devotion
-*[Paladin](./paladin-xphb.md): Paladin Subclass*  
-*Source: Player's Handbook (2024) p. 113. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_[Paladin](./paladin-xphb.md): Paladin Subclass_\
+_Source: Player's Handbook (2024) p. 113. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/devotion-paladin.webp#right)
 
-*Uphold the Ideals of Justice and Order*
+_Uphold the Ideals of Justice and Order_
 
 The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some—for better or worse—hold the rest of the world to the same standards.
 
@@ -58,9 +59,9 @@ Many who swear this oath are devoted to gods of law and good and use their gods'
 
 These paladins share the following tenets:
 
-- Let your word be your promise.  
-- Protect the weak and never fear to act.  
-- Let your honorable deeds be an example.  
+- Let your word be your promise.
+- Protect the weak and never fear to act.
+- Let your honorable deeds be an example.
 
 ## Subclass Features
 

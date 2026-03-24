@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Eladrin
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 13*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 13_\
 ![](Mechanics/CLI/races/img/eladrin.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -24,7 +25,7 @@ obsidianUIMode: preview
 
 ## Traits
 
-*Choose your eladrin's season: autumn, winter, spring, or summer. When finishing a long rest, you can change your season. See the "Info" tab for more information.*
+_Choose your eladrin's season: autumn, winter, spring, or summer. When finishing a long rest, you can change your season. See the "Info" tab for more information._
 
 ### Creature Type
 
@@ -44,10 +45,10 @@ As a bonus action, you can magically teleport up to 30 feet to an unoccupied spa
 
 When you reach 3rd level, your Fey Step gain an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Intelligence, Wisdom, or Charisma modifier (choose when you select this race):
 
-- **Autumn.** Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you for 1 minute, or until you or your companions deal any damage to the creatures.  
-- **Winter.** When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of you until the end of your next turn.  
-- **Spring.** When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.  
-- **Summer.** Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your proficiency bonus.  
+- **Autumn.** Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you for 1 minute, or until you or your companions deal any damage to the creatures.
+- **Winter.** When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of you until the end of your next turn.
+- **Spring.** When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.
+- **Summer.** Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your proficiency bonus.
 
 ### Keen Senses
 

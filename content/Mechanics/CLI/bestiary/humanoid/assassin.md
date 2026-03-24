@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Assassin
-*Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/assassin.webp#right)
 
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
@@ -60,6 +61,7 @@ title: Assassin
 
 ***Light Crossbow.*** *Ranged Weapon Attack:* `+6` to hit, range 80/320 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (`7d6`) poison damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

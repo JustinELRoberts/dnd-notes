@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Star Ruby
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 1,000 gp
 
 A translucent ruby with white star-shaped center gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

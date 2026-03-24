@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sword Wraith Warrior
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 239*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 239_\
 ![](Mechanics/CLI/bestiary/undead/img/sword-wraith-warrior.webp#right)
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
@@ -67,6 +68,7 @@ title: Sword Wraith Warrior
 
 ***Martial Fury.*** The warrior makes one Battleaxe or Longbow attack, and attack rolls against it have advantage until the start of its next turn.
 ```
+
 ^statblock
 
 ## Environment

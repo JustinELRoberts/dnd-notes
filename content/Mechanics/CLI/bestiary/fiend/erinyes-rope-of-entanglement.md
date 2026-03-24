@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Erinyes (Rope of Entanglement)
-*Source: Monster Manual p. 73. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 73. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Erinyes (Rope of Entanglement)
@@ -61,4 +62,5 @@ title: Erinyes (Rope of Entanglement)
 
 ***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock

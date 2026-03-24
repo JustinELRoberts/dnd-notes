@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Birthplace
-*Source: Xanathar's Guide to Everything p. 62* 
+
+_Source: Xanathar's Guide to Everything p. 62_
 
 **Birthplace**
 

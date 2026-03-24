@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Korred
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168_\
 ![](Mechanics/CLI/bestiary/fey/img/korred.webp#right)
 
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
@@ -78,6 +79,7 @@ title: Korred
 
 A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred's turns while the rope has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.
 ```
+
 ^statblock
 
 ## Environment

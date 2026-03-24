@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Illusionist
-*[Wizard](./wizard-xphb.md): Wizard Subclass*  
-*Source: Player's Handbook (2024) p. 175*  
+
+_[Wizard](./wizard-xphb.md): Wizard Subclass_\
+_Source: Player's Handbook (2024) p. 175_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/illusionist-wizard.webp#right)
 
-*Weave Subtle Spells of Deception*
+_Weave Subtle Spells of Deception_
 
 You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.
 

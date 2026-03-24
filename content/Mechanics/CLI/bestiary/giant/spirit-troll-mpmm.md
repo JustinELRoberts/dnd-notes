@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Spirit Troll
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 247*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 247_\
 ![](Mechanics/CLI/bestiary/giant/img/spirit-troll.webp#right)
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
@@ -74,6 +75,7 @@ title: Spirit Troll
 
 ***Claws.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one creature. *Hit:* 19 (`3d10 + 3`) psychic damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -17,15 +17,19 @@ obsidianUIMode: preview
 # Item Types
 
 ## Adventuring Gear
+
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ammunition
+
 _Source: Dungeon Master's Guide p. 267_
 
 ## Ammunition
+
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Artisan's Tools
+
 _Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
 
 Artisan's Tools are each focused on crafting items and pursuing a trade. Each type of Artisan's Tools tools requires a separate proficiency.
@@ -33,12 +37,15 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each ty
 If you have proficiency with a tool, add your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
 
 ## Explosive
+
 _Source: Dungeon Master's Guide p. 267_
 
 ## Food and Drink
+
 _Source: Player's Handbook (2024) p. 231. Available in the Free Rules (2024)_
 
 ## Gaming Set
+
 _Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
 
 If you have proficiency with a tool, add your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
@@ -70,12 +77,15 @@ Sleight of Hand is a useful skill for cheating at a game, as it allows you to sw
 ^gaming-set
 
 ## Generic Variant
+
 _Source: Dungeon Master's Guide p. 135_
 
 ## Heavy Armor
+
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Instrument
+
 _Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
 
 If you have proficiency with a tool, add your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
@@ -103,15 +113,19 @@ As part of a long rest, you can compose a new tune and lyrics for your instrumen
 ^musical-instrument
 
 ## Light Armor
+
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Medium Armor
+
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Melee Weapon
+
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 
 ## Monstrous Graft
+
 _Source: Valda's Spire of Secrets (2024)_
 
 ---
@@ -137,56 +151,69 @@ Monstrous Grafts can be harvested from the fresh corpses of monsters that have b
 Other monsters might have organs, weapons, or traits that are well suited to becoming a graft that is not included on this list. In this case, the GM decides what type of graft can be harvested, what body slot it takes up, and the special effects it confers.
 
 > [!note] Harvesting Extraplanar Creatures
-> 
+>
 > Harvesting grafts from extraplanar creatures is extremely difficult, as these creatures typically return to their home plane once slain. However, it is possible to harvest grafts from a Celestial, Elemental, Fey, or Fiend if it is first affected by a [Planar Binding](Mechanics/CLI/spells/planar-binding-xphb.md) spell, and then slain, harvested, and its graft surgically attached before the spell ends.
-^harvesting-extraplanar-creatures
+> ^harvesting-extraplanar-creatures
 
 > [!note] Construct Grafts
-> 
-> Construct Grafts from *Dark Matter* use the same rules as Monstrous Grafts and occupy the same body slots, but can't generally be harvested from foes. A character can mix and match Construct and Monstrous grafts.
-^construct-grafts
+>
+> Construct Grafts from _Dark Matter_ use the same rules as Monstrous Grafts and occupy the same body slots, but can't generally be harvested from foes. A character can mix and match Construct and Monstrous grafts.
+> ^construct-grafts
 
 ## Mount
+
 _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 ## Potion
+
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ranged Weapon
+
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 
 **Range.** A Range weapon has a range in parentheses after the Ammunition or Thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second is the weapon's long range. When attacking a target beyond normal range, you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the attack roll. You can't attack a target beyond the long range.
 
 ## Ring
+
 _Source: Dungeon Master's Guide p. 139_
 
 ## Rod
+
 _Source: Dungeon Master's Guide p. 139_
 
 ## Scroll
+
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Shield
+
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Spellcasting Focus
+
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Tack and Harness
+
 _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 ## Tool
+
 _Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
 
 If you have proficiency with a tool, add your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the check too.
 
 ## Treasure
+
 _Source: Dungeon Master's Guide p. 133_
 
 ## Treasure (Art Object)
+
 _Source: Dungeon Master's Guide p. 133_
 
 ## Treasure (Coinage)
+
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 
 Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of their material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
@@ -194,9 +221,11 @@ Characters often find coins on their adventures and can spend those coins in sho
 A coin weighs about a third of an ounce, so fifty coins weigh a pound.
 
 ## Treasure (Gemstone)
+
 _Source: Dungeon Master's Guide p. 133_
 
 ## Vehicle (Air)
+
 _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 **Speed.** A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
@@ -210,9 +239,11 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 **Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Vehicle (Land)
+
 _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 ## Vehicle (Water)
+
 _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 **Speed.** A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
@@ -226,4 +257,5 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 **Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Wand
+
 _Source: Dungeon Master's Guide p. 139_

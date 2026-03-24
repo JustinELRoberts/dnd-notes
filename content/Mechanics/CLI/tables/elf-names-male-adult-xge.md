@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Elf Names – Male Adult
-*Source: Xanathar's Guide to Everything p. 176* 
+
+_Source: Xanathar's Guide to Everything p. 176_
 
 **Elf Names – Male Adult**
 

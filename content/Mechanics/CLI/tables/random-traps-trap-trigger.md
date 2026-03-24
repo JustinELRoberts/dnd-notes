@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Traps; Trap Trigger
-*Source: Dungeon Master's Guide p. 297* 
+
+_Source: Dungeon Master's Guide p. 297_
 
 **Trap Trigger**
 

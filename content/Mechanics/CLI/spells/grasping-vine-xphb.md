@@ -22,8 +22,8 @@ classes:
 ---
 
 # Grasping Vine
-*4th-level, Conjuration*  
 
+_4th-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
@@ -40,4 +40,4 @@ As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Player's Handbook (2024) p. 280*
+_Source: Player's Handbook (2024) p. 280_

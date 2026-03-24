@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Individual Treasure: Challenge 5—10
-*Source: Dungeon Master's Guide p. 133* 
+
+_Source: Dungeon Master's Guide p. 133_
 
 **Individual Treasure: Challenge 5—10**
 

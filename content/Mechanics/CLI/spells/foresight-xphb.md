@@ -26,8 +26,8 @@ classes:
 ---
 
 # Foresight
-*9th-level, Divination*  
 
+_9th-level, Divination_
 
 - **Casting time:** 1 minute
 - **Range:** Touch
@@ -38,4 +38,4 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -33,11 +33,11 @@ obsidianUIMode: preview
 ---
 
 # Armor of Cold Resistance
-*Major, rare (requires attunement)*  
 
-
+_Major, rare (requires attunement)_
 
 **Variants**:
+
 - [Breastplate of Cold Resistance](#Breastplate%20of%20Cold%20Resistance)
 - [Chain Mail of Cold Resistance](#Chain%20Mail%20of%20Cold%20Resistance)
 - [Chain Shirt of Cold Resistance](#Chain%20Shirt%20of%20Cold%20Resistance)
@@ -128,5 +128,4 @@ obsidianUIMode: preview
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

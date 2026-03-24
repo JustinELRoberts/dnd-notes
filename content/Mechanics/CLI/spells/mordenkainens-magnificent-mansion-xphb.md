@@ -20,7 +20,8 @@ classes:
 ---
 
 # Mordenkainen's Magnificent Mansion
-*7th-level, Conjuration*  
+
+_7th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/mordenkainens-magnificent-mansion.webp#right)
 
 - **Casting time:** 1 minute
@@ -40,4 +41,4 @@ When the spell ends, any creatures or objects left inside the extradimensional s
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion") and the Free Rules (2024)_

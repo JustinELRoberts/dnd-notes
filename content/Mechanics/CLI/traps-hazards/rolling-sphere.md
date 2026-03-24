@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Rolling Sphere
-*Mechanical Trap*  
 
+_Mechanical Trap_
 
 When 20 or more pounds of pressure are placed on this trap's pressure plate, a hidden trapdoor in the ceiling opens, releasing a 10-foot-diameter rolling sphere of solid stone.
 
@@ -33,4 +33,4 @@ As an action, a creature within 5 feet of the sphere can attempt to slow it down
 
 ## Sources
 
-*Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

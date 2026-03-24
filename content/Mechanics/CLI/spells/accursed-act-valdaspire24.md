@@ -19,8 +19,8 @@ classes:
 ---
 
 # Accursed Act
-*1st-level, Enchantment*  
 
+_1st-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -33,4 +33,4 @@ Lighting a candle, you attempt to curse a creature you can see within range. The
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

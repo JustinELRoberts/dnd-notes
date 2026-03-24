@@ -9,4 +9,5 @@ tags:
 ---
 
 ## Description
-A cult that seeks to free [[Campaigns/Under The Ash/NPCs/The Unknown]] to wreck havoc on the world.
+
+A cult that seeks to free [[The Unknown]] to wreck havoc on the world.

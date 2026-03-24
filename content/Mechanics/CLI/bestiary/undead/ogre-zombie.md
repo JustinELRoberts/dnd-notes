@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Ogre Zombie
-*Source: Monster Manual p. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 316. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/ogre-zombie.webp#right)
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
@@ -43,10 +44,9 @@ A zombie can follow simple orders and distinguish friends from foes, but its abi
 
 A zombie doesn't require air, food, drink, or sleep.
 
-> [!quote] A quote from Fonkin Hoodypeak  
-> 
+> [!quote] A quote from Fonkin Hoodypeak
+>
 > After Beek died, we cast an [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
-
 
 ## Statblock
 
@@ -81,4 +81,5 @@ title: Ogre Zombie
 
 ***Morningstar.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage.
 ```
+
 ^statblock

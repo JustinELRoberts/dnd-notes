@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Orb of Direction
-*Wondrous item, minor, common*  
+
+_Wondrous item, minor, common_\
 ![](Mechanics/CLI/items/img/orb-of-direction.webp#right)
 
 - **Weight**: 3.0 lbs.
 
 While holding this orb, you can use an action to determine which way is north. This property functions only on the Material Plane.
 
-*Source: Xanathar's Guide to Everything p. 138*
+_Source: Xanathar's Guide to Everything p. 138_

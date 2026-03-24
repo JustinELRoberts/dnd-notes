@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Bishops
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='4'></th><th colspan='4'>Spell Slots per Spell Level</th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Bishops.webp#right)
 
-*Wield Greater Arcane Magic*
+_Wield Greater Arcane Magic_
 
 The House of Bishops adopts Warmages with arcane potential and teaches its members traditional spellcasting. Such Warmages might be mistaken for Wizards or Sorcerers, for they wield many of the same spells, but bishops prioritize excellence in their spellcasting over a wide repertoire of spells.
 
@@ -66,7 +67,7 @@ You gain the ability to cast more potent spells.
 
 **Changing Your Prepared Spells.** Whenever you gain a Warmage level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 
-**Warmage Edge.** You can use your [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20(Level%201)) feature to improve the damage rolls of level 1+ Wizard spells as if they were cantrips. If you add [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20(Level%201)) to the [Magic Missile](Mechanics/CLI/spells/magic-missile-xphb.md) spell, you improve the damage roll of only one dart.
+**Warmage Edge.** You can use your [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) feature to improve the damage rolls of level 1+ Wizard spells as if they were cantrips. If you add [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to the [Magic Missile](Mechanics/CLI/spells/magic-missile-xphb.md) spell, you improve the damage roll of only one dart.
 
 ### Arcane Study (Level 3)
 
@@ -86,4 +87,4 @@ When you cast a spell with a spell slot that affects other creatures that you ca
 
 ### Arcane Dominance (Level 18)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend a number of spell slots with a combined level of 6+ to regain one expended use of your [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20(Level%205)).
+As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend a number of spell slots with a combined level of 6+ to regain one expended use of your [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)).

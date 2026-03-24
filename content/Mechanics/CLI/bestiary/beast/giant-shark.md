@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Shark
-*Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 328. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 A giant shark is 30 feet long and normally found in deep oceans. Utterly fearless, it preys on anything that crosses its path, including whales and ships.
 
@@ -52,6 +52,7 @@ title: Giant Shark
 
 ***Bite.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 22 (`3d10 + 6`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

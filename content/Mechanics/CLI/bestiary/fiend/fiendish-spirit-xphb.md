@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fiendish Spirit
-*Source: Player's Handbook (2024) p. 327*  
+
+_Source: Player's Handbook (2024) p. 327_\
 ![](Mechanics/CLI/bestiary/fiend/img/fiendish-spirit.webp#center)
 
 ```ad-statblock
@@ -60,4 +61,5 @@ title: Fiendish Spirit
 
 ***Fiery Strike (Devil Only).*** *Melee  or Ranged Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. or range 150 ft. *Hit:* `2d6 + 3` + the spell's level Fire damage.
 ```
+
 ^statblock

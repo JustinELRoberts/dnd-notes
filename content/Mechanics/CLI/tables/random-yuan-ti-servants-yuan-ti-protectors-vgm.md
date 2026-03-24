@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Yuan-ti Servants; Yuan-ti Protectors
-*Source: Volo's Guide to Monsters p. 102* 
+
+_Source: Volo's Guide to Monsters p. 102_
 
 **Yuan-ti Protectors**
 
@@ -30,7 +31,7 @@ obsidianUIMode: preview
 | 51-55 | [Guards](Mechanics/CLI/bestiary/humanoid/guard.md) |
 | 56-58 | [Hydras](Mechanics/CLI/bestiary/monstrosity/hydra.md) |
 | 59-60 | [Medusas](Mechanics/CLI/bestiary/monstrosity/medusa.md) |
-| 61 | [Mummies](Mechanics/CLI/bestiary/undead/mummy.md)* |
+| 61 | [Mummies](Mechanics/CLI/bestiary/undead/mummy.md)\* |
 | 62-63 | [Poisonous Snakes](Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) |
 | 64-68 | [Priests](Mechanics/CLI/bestiary/humanoid/priest.md) |
 | 69-70 | [Skeletons](Mechanics/CLI/bestiary/undead/skeleton-xmm.md) |
@@ -41,4 +42,4 @@ obsidianUIMode: preview
 | 98-100 | [Zombies](Mechanics/CLI/bestiary/undead/zombie-xmm.md) |
 ^yuan-ti-protectors
 
-* The mummies are the undead remains of yuan-ti malisons or purebloods. Each has the statistics of a normal mummy.
+- The mummies are the undead remains of yuan-ti malisons or purebloods. Each has the statistics of a normal mummy.

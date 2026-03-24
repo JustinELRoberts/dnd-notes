@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Animated Armor
-*Source: Monster Manual p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/construct/img/animated-armor.webp#right)
 
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
@@ -67,4 +68,5 @@ title: Animated Armor
 
 ***Slam.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage.
 ```
+
 ^statblock

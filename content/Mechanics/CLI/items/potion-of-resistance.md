@@ -16,9 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Potion of Resistance
-*Potion, minor, uncommon*  
 
-
+_Potion, minor, uncommon_
 
 **Items in this group:**
 
@@ -33,4 +32,4 @@ obsidianUIMode: preview
 - [Potion of Radiant Resistance](Mechanics/CLI/items/potion-of-radiant-resistance.md)
 - [Potion of Thunder Resistance](Mechanics/CLI/items/potion-of-thunder-resistance.md)
 
-*Source: Dungeon Master's Guide p. 188*
+_Source: Dungeon Master's Guide p. 188_

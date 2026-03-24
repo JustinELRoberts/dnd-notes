@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Tricks; Trick Objects
-*Source: Dungeon Master's Guide p. 297* 
+
+_Source: Dungeon Master's Guide p. 297_
 
 **Trick Objects**
 

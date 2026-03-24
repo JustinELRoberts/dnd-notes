@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Random Settlements; Notable Traits
-*Source: Dungeon Master's Guide p. 112* 
+
+_Source: Dungeon Master's Guide p. 112_
 
 **Notable Traits**
 

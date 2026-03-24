@@ -21,8 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Orc Hand of Yurtrus
-*Source: Volo's Guide to Monsters p. 184*  
 
+_Source: Volo's Guide to Monsters p. 184_
 
 Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
 
@@ -38,10 +38,9 @@ Orcs know better. Different groups of orcs exist within a tribe, the actions of 
 
 In addition, orcs have special relationships with two creatures that are sometimes found in their company: the aurochs, a great bull that serves as a mount for warriors that revere Bahgtru, and the tanarukk, a demon-orc crossbreed that is so depraved and destructive that even orcs seek to kill it. The aurochs is described in appendix A. The tanarukk is described below.
 
-> [!quote] A quote from Elminster  
-> 
+> [!quote] A quote from Elminster
+>
 > An orc life is a god-ridden life. Luthic's at birth, Luthic's at death, and striving to prove themselves to Gruumsh in between.
-
 
 ```ad-statblock
 title: Orc Hand of Yurtrus
@@ -79,6 +78,7 @@ title: Orc Hand of Yurtrus
 
 ***Touch of the White Hand.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 9 (`2d8`) necrotic damage.
 ```
+
 ^statblock
 
 ## Environment

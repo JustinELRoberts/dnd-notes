@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Amber
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 100 gp
 
 A transparent watery gold to rich gold gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

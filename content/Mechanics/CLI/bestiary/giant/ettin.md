@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Ettin
-*Source: Monster Manual p. 132. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 132. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/ettin.webp#right)
 
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
@@ -85,6 +86,7 @@ title: Ettin
 
 ***Morningstar.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

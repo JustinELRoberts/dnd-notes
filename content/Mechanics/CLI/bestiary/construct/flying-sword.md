@@ -16,13 +16,14 @@ obsidianUIMode: preview
 ---
 
 # Flying Sword
-*Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/construct/img/flying-sword.webp#right)
 
 A flying sword dances through the air, fighting with the confidence of a warrior that can't be injured. Swords are the most common weapons animated with magic. Axes, clubs, daggers, maces, spears, and even self-loading crossbows are also known to exist in animated object form.
 
-> [!quote] A quote from Levity Quickstitch, halfling rogue  
-> 
+> [!quote] A quote from Levity Quickstitch, halfling rogue
+>
 > Lyin' next to the chest were the bones of Cap'n Scornblade himself, still clutchin' his rusty sword. Imagine my surprise when the blade flew from his bony grasp! Still go the scar.
 
 ## Animated Objects
@@ -68,4 +69,5 @@ title: Flying Sword
 
 ***Longsword.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 5 (`1d8 + 1`) slashing damage.
 ```
+
 ^statblock

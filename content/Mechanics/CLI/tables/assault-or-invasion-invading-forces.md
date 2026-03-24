@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Assault or Invasion; Invading Forces
-*Source: Dungeon Master's Guide p. 29* 
+
+_Source: Dungeon Master's Guide p. 29_
 
 **Invading Forces**
 

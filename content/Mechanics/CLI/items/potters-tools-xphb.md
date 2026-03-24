@@ -15,14 +15,17 @@ obsidianUIMode: preview
 ---
 
 # Potter's Tools
-*Artisan's tools*  
 
+_Artisan's tools_
 
 - **Cost**: 10 gp
+
 - **Weight**: 3.0 lbs.
 
-- **Ability.** Intelligence  
-- **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [Jug](Mechanics/CLI/items/jug-xphb.md), [Lamp](Mechanics/CLI/items/lamp-xphb.md)  
+- **Ability.** Intelligence
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)
+
+- **Craft.** [Jug](Mechanics/CLI/items/jug-xphb.md), [Lamp](Mechanics/CLI/items/lamp-xphb.md)
+
+_Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

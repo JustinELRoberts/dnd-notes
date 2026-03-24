@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Redcap
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188_\
 ![](Mechanics/CLI/bestiary/fey/img/redcap.webp#right)
 
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
@@ -68,6 +69,7 @@ title: Redcap
 
 ***Ironbound Pursuit.*** The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (`3d10 + 4`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

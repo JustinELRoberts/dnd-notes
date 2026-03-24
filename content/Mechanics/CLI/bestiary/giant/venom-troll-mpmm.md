@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Venom Troll
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 248*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 248_\
 ![](Mechanics/CLI/bestiary/giant/img/venom-troll.webp#right)
 
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
@@ -74,6 +75,7 @@ title: Venom Troll
 
 ***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (`2d6`) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (`4d8`) poison damage and is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). A [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

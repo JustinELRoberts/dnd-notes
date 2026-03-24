@@ -23,8 +23,8 @@ classes:
 ---
 
 # Mind Blank
-*8th-level, Abjuration*  
 
+_8th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -35,4 +35,4 @@ Until the spell ends, one willing creature you touch has [Immunity](Mechanics/CL
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

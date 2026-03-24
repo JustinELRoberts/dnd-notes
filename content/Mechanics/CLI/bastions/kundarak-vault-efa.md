@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Kundarak Vault
-*Level 9 Bastion facility*  
+
+_Level 9 Bastion facility_
 
 - **Prerequisites**: Renown 15+ with "House Kundarak"
 - **Space**: Cramped (4 sq)
@@ -33,4 +34,4 @@ When you issue the Trade order to this facility, its hireling spends the next 7 
 
 When you sell goods from your Kundarak Vault, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17.
 
-*Source: Eberron: Forge of the Artificer p. 49*
+_Source: Eberron: Forge of the Artificer p. 49_

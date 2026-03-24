@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Kenku
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: dex +2
 - **Size**: Medium

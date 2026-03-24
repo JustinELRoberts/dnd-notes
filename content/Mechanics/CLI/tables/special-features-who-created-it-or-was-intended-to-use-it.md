@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Special Features; Who Created It or Was Intended to Use It?
-*Source: Dungeon Master's Guide p. 141* 
+
+_Source: Dungeon Master's Guide p. 141_
 
 **Who Created It or Was Intended to Use It?**
 

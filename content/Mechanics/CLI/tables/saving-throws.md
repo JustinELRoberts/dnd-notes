@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Saving Throws
-*Source: Dungeon Master's Guide p. 238* 
+
+_Source: Dungeon Master's Guide p. 238_
 
 **Saving Throws**
 

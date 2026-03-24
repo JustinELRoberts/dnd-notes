@@ -29,7 +29,8 @@ classes:
 ---
 
 # Animate Objects
-*5th-level, Transmutation*  
+
+_5th-level, Transmutation_\
 ![](Mechanics/CLI/spells/img/animate-objects.webp#right)
 
 - **Casting time:** 1 Action
@@ -47,4 +48,4 @@ Until the spell ends, you can take a [Bonus Action](Mechanics/CLI/rules/variant-
 
 **Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Witch (Gingerbread Magic)](Mechanics/CLI/lists/list-spells-classes-gingerbread-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

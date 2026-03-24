@@ -22,8 +22,8 @@ classes:
 ---
 
 # Guardian of Nature
-*4th-level, Transmutation*  
 
+_4th-level, Transmutation_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -36,22 +36,22 @@ A nature spirit answers your call and transforms you into a powerful guardian. T
 
 Bestial fur covers your body, your facial features become feral, and you gain the following benefits:
 
-- Your walking speed increases by 10 feet.  
-- You gain [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 120 feet.  
-- You make Strength-based attack rolls with advantage.  
-- Your melee weapon attacks deal an extra `1d6` force damage on a hit.  
+- Your walking speed increases by 10 feet.
+- You gain [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 120 feet.
+- You make Strength-based attack rolls with advantage.
+- Your melee weapon attacks deal an extra `1d6` force damage on a hit.
 
 ## Great Tree
 
 Your skin appears barky, leaves sprout from your hair, and you gain the following benefits:
 
-- You gain 10 temporary hit points.  
-- You make Constitution saving throws with advantage.  
-- You make Dexterity- and Wisdom-based attack rolls with advantage.  
-- While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.  
+- You gain 10 temporary hit points.
+- You make Constitution saving throws with advantage.
+- You make Dexterity- and Wisdom-based attack rolls with advantage.
+- While you are on the ground, the ground within 15 feet of you is difficult terrain for your enemies.
 
 ## Summary
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Xanathar's Guide to Everything p. 157*
+_Source: Xanathar's Guide to Everything p. 157_

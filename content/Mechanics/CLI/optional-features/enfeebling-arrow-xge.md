@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Enfeebling Arrow 
-
+# Enfeebling Arrow
 
 You weave necromantic magic into your arrow. The creature hit by the arrow takes an extra `2d6` necrotic damage. The target must also succeed on a Constitution saving throw, or the damage dealt by its weapon attacks is halved until the start of your next turn.
 
 The necrotic damage increases to `4d6` when you reach 18th level in this class.
+
 ## Sources
 
-*Xanathar's Guide to Everything p. 29*
+_Xanathar's Guide to Everything p. 29_

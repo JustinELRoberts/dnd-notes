@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Boon of the Night Spirit 
+# Boon of the Night Spirit
 
-
-***Prerequisites*** 19th
+_**Prerequisites**_ 19th
 
 You gain the following benefits.
 
@@ -25,6 +24,7 @@ You gain the following benefits.
 **Merge with Shadows.** While within [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) or [Darkness](Mechanics/CLI/rules/variant-rules/darkness-xphb.md), you can give yourself the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). The condition ends on you immediately after you take an action, a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
 
 **Shadowy Form.** While within [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) or [Darkness](Mechanics/CLI/rules/variant-rules/darkness-xphb.md), you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage except Psychic and Radiant.
+
 ## Sources
 
-*Player's Handbook (2024) p. 211. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Player's Handbook (2024) p. 211. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

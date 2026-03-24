@@ -25,9 +25,9 @@ obsidianUIMode: preview
 ---
 
 # Luck Blade
-*Major, legendary (requires attunement)*  
-![Luck Blade (Shortsword)](Mechanics/CLI/items/img/luck-blade.webp#right)
 
+_Major, legendary (requires attunement)_\
+![Luck Blade (Shortsword)](Mechanics/CLI/items/img/luck-blade.webp#right)
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. While the sword is on your person, you also gain a +1 bonus to saving throws.
 
@@ -40,6 +40,7 @@ If the sword is on your person, you can call on its luck (no action required) to
 The sword has `1d4 - 1` charges. While holding it, you can use an action to expend 1 charge and cast the [wish](Mechanics/CLI/spells/wish-xphb.md) spell from it. This property can't be used again until the next dawn. The sword loses this property if it has no charges.
 
 **Variants**:
+
 - [Luck Blade Double-Bladed Scimitar](#Luck%20Blade%20Double-Bladed%20Scimitar)
 - [Luck Blade Greatsword](#Luck%20Blade%20Greatsword)
 - [Luck Blade Longsword](#Luck%20Blade%20Longsword)
@@ -85,5 +86,4 @@ The sword has `1d4 - 1` charges. While holding it, you can use an action to expe
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

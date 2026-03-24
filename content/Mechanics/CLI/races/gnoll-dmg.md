@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Gnoll
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +2 int -2
 - **Size**: Medium

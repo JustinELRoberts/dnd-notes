@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Blood Ascendent
-*[Necromancer](./necromancer-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Command the Powers of Vampirism*
+_Command the Powers of Vampirism_
 
 Necromantic might comes in many forms, but a singular, ancient source is the blood curse of vampirism. Though it promises much—immortality, agility, charm—it comes paired with insidious drawbacks, from the stinging burn of sunlight to a perpetual thirst for blood. Necromancers that wish to capture a measure of this power without suffering its myriad weaknesses perform a special ritual with vampiric blood in order to become Blood Ascendants. In doing so, they fall deathly pale and lose their reflection within mirrors, but learn to slowly pry out vampiric powers without succumbing to the all-devouring curse.
 
@@ -70,11 +71,11 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 ### Charnel Drain (Level 3)
 
-When you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) with your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)), you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your Intelligence modifier + your Necromancer level (minimum of 1).
+When you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) with your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your Intelligence modifier + your Necromancer level (minimum of 1).
 
 ### Vampiric Transformation (Level 6)
 
-You can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 15 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20(Level%201)) points to shape-shift into a bat or a cloud of mist. This transformation lasts for 1 hour or until you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition or you dismiss it (no action required). Your gear melds into the new form, and you can't use or otherwise benefit from your equipment while shape-shifted.
+You can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 15 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to shape-shift into a bat or a cloud of mist. This transformation lasts for 1 hour or until you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition or you dismiss it (no action required). Your gear melds into the new form, and you can't use or otherwise benefit from your equipment while shape-shifted.
 
 **Bat.** You transform into a bat. Your game statistics are replaced by the [Bat](Mechanics/CLI/bestiary/beast/bat-xmm.md) stat block, but you retain your creature type, [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md), Intelligence, Wisdom, and Charisma scores, class features, languages, and feats.
 
@@ -82,11 +83,11 @@ You can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 1
 
 ### Children of the Night (Level 10)
 
-When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20(Level%202)) ritual, you can summon one or more [Wolves](Mechanics/CLI/bestiary/beast/wolf-xmm.md), Swarms of Bats, or Swarms of Rats. You command these creatures as your thralls and they count as Undead for the purpose of your Necromancer features.
+When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can summon one or more [Wolves](Mechanics/CLI/bestiary/beast/wolf-xmm.md), Swarms of Bats, or Swarms of Rats. You command these creatures as your thralls and they count as Undead for the purpose of your Necromancer features.
 
-### Nosferatu [Lichdom] (Level 20)
+### Nosferatu \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have embraced the blood curse of vampirism to become a vampire lord in all but name: a nosferatu. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20(Level%2020)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have embraced the blood curse of vampirism to become a vampire lord in all but name: a nosferatu. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
 **Coffin Jar.** Your spirit jar is a coffin filled with grave dirt. When you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you reform in your coffin after 1 hour. You are permanently weakened until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) in the coffin. While weakened, your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum is reduced to 1, and you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) if you begin your turn in sunlight.
 

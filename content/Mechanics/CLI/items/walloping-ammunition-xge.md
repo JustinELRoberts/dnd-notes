@@ -29,13 +29,13 @@ obsidianUIMode: preview
 ---
 
 # Walloping Ammunition
-*Ammunition, minor, common*  
 
-
+_Ammunition, minor, common_
 
 This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 
 **Variants**:
+
 - [Walloping Arrow](#Walloping%20Arrow)
 - [Walloping Blowgun Needle](#Walloping%20Blowgun%20Needle)
 - [Walloping Crossbow Bolt](#Walloping%20Crossbow%20Bolt)
@@ -77,5 +77,4 @@ This ammunition packs a wallop. A creature hit by the ammunition must succeed on
 
 - **Weight**: 0.075 lbs.
 
-
-*Source: Xanathar's Guide to Everything p. 139*
+_Source: Xanathar's Guide to Everything p. 139_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Aberrant Spirit (Star Spawn)
-*Source: Player's Handbook (2024) p. 322*  
+
+_Source: Player's Handbook (2024) p. 322_
 
 ```ad-statblock
 title: Aberrant Spirit (Star Spawn)
@@ -48,4 +49,5 @@ title: Aberrant Spirit (Star Spawn)
 
 ***Psychic Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Psychic damage.
 ```
+
 ^statblock

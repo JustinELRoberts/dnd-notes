@@ -23,7 +23,8 @@ obsidianUIMode: preview
 ---
 
 # Guard Drake
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 151*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 151_\
 ![](Mechanics/CLI/bestiary/dragon/img/guard-drake.webp#right)
 
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
@@ -62,6 +63,7 @@ title: Guard Drake
 
 ***Tail.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

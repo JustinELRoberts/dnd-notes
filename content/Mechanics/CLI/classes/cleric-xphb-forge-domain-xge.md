@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Forge Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Xanathar's Guide to Everything p. 18*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Xanathar's Guide to Everything p. 18_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -93,12 +94,12 @@ The thing you create can be something that is worth no more than 100 gp. As part
 
 Starting at 6th level, your mastery of the forge grants you special abilities:
 
-- You gain resistance to fire damage.  
-- While wearing heavy armor, you gain a +1 bonus to AC.  
+- You gain resistance to fire damage.
+- While wearing heavy armor, you gain a +1 bonus to AC.
 
 ### Saint of Forge and Fire (Level 17)
 
 At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
-- You gain immunity to fire damage,  
+- You gain immunity to fire damage,
 - While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.

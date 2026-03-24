@@ -20,8 +20,8 @@ classes:
 ---
 
 # Staggering Smite
-*4th-level, Enchantment*  
 
+_4th-level, Enchantment_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -34,4 +34,4 @@ The target takes an extra `4d6` Psychic damage from the attack, and the target m
 
 **Classes**: [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Warlock (The Hexblade)](Mechanics/CLI/lists/list-spells-classes-the-hexblade-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 320*
+_Source: Player's Handbook (2024) p. 320_

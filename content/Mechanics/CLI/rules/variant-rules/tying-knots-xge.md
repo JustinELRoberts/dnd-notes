@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Tying Knots
-*Source: Xanathar's Guide to Everything p. 78* 
+
+_Source: Xanathar's Guide to Everything p. 78_
 
 The rules are purposely open-ended concerning mundane tasks like tying knots, but sometimes knowing how well a knot was fashioned is important in a dramatic scene when someone is trying to untie a knot or slip out of one. Here's an optional rule for determining the effectiveness of a knot.
 

@@ -17,17 +17,17 @@ obsidianUIMode: preview
 ---
 
 # Darkmantle
-*Source: Monster Manual p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 46. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/darkmantle.webp#right)
 
 A darkmantle clings to cavern ceilings, remaining perfectly still as it waits for creatures to pass beneath it. From a distance, it can pass itself off as a stalactite or a lump of stone. Then it drops from the ceiling and unfurls, surrounding itself with magical darkness as it engulfs and crushes its prey.
 
 Darkmantles are found throughout the Underdark, but they are equally common on the Shadowfell. Thriving in that dark realm, they fill an ecological niche similar to bats on the Material Plane. Intelligent creatures of the Shadowfell sometimes train darkmantles as guardians or companions.
 
-> [!quote] A quote from Ethelrede the fighter, after his first darkmantle encounter  
-> 
+> [!quote] A quote from Ethelrede the fighter, after his first darkmantle encounter
+>
 > Remind me again why we're on this quest?
-
 
 ```ad-statblock
 title: Darkmantle
@@ -65,6 +65,7 @@ A creature can detach the darkmantle by making a successful DC 13 Strength check
 
 ***Darkness Aura (1/Day).*** A 15-foot radius of magical darkness extends out from the darkmantle, moves with it, and spreads around corners. The darkness lasts as long as the darkmantle maintains [concentration](Mechanics/CLI/rules/conditions.md#Concentration), up to 10 minutes (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Darkvision can't penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 ```
+
 ^statblock
 
 ## Environment

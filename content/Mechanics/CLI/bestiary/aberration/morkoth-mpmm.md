@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Morkoth
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 186, Volo's Guide to Monsters p. 177_\
 ![](Mechanics/CLI/bestiary/aberration/img/morkoth.webp#right)
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
@@ -103,6 +104,7 @@ The island surrounding a morkoth's lair is warped by the creature's presence, cr
 
 If the morkoth dies, these regional effects end immediately.
 ```
+
 ^statblock
 
 ## Environment

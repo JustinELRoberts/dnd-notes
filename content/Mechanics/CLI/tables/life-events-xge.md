@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Life Events
-*Source: Xanathar's Guide to Everything p. 69* 
+
+_Source: Xanathar's Guide to Everything p. 69_
 
 **Life Events**
 

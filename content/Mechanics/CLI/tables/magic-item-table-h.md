@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Magic Item Table H
-*Source: Dungeon Master's Guide p. 144* 
+
+_Source: Dungeon Master's Guide p. 144_
 
 **Magic Item Table H**
 

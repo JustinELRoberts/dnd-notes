@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Otyugh
-*Source: Monster Manual p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/aberration/img/otyugh.webp#right)
 
 An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw.
@@ -72,6 +73,7 @@ title: Otyugh
 
 ***Tentacle Slam.*** The otyugh slams creatures [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (`2d6 + 3`) bludgeoning damage and be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't [stunned](Mechanics/CLI/rules/conditions.md#Stunned).
 ```
+
 ^statblock
 
 ## Environment

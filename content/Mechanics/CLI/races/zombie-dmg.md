@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Zombie
-*Source: Dungeon Master's Guide p. 282*  
 
+_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +1 con +2 int -6 wis -4 cha -4
 - **Type**: undead

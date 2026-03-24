@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Tlincalli
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 242, Volo's Guide to Monsters p. 193_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/tlincalli.webp#right)
 
 Tlincallis, also called scorpion folk, are chitin-covered creatures with a humanlike upper body and the lower body of an enormous scorpion, complete with a stinger at the end of a long tail. These desert creatures range across arid lands, hunting at dawn and dusk. In the hours between, they wait out the day's heat or the night's cold by burying themselves in loose sand or earth or, if the terrain proves too inflexible, lurking in ruins or shallow caves.
@@ -63,6 +64,7 @@ title: Tlincalli
 
 ***Sting.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one creature. *Hit:* 6 (`1d6 + 3`) piercing damage plus 14 (`4d6`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. If it fails the saving throw by 5 or more, the target is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
+
 ^statblock
 
 ## Environment

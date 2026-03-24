@@ -16,11 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Zariel
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 280*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 280_\
 ![](Mechanics/CLI/bestiary/npc/img/zariel.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > That which falls from grace may yet rise to regain it. If Zariel were to return to her celestial self, how glorious would be the tales!
 
 Once a mighty angel charged with watching the tides of the Blood War, Zariel succumbed to the corrupting influence of the Nine Hells and fell from grace. Asmodeus admired Zariel's passion for war and offered her rulership of Avernus. She accepted his offer, and he transformed her into an archdevil.
@@ -117,4 +118,5 @@ The region containing Zariel's lair is warped by her magic, which creates one or
 
 If Zariel dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock

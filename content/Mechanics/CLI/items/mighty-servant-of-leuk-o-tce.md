@@ -15,13 +15,13 @@ obsidianUIMode: preview
 ---
 
 # Mighty Servant of Leuk-o
-*Wondrous item, artifact (requires attunement)*  
-![](Mechanics/CLI/items/img/mighty-servant-of-leuk-o.webp#right)
 
+_Wondrous item, artifact (requires attunement)_\
+![](Mechanics/CLI/items/img/mighty-servant-of-leuk-o.webp#right)
 
 Named for the warlord who infamously employed it, the [Mighty Servant of Leuk-o](Mechanics/CLI/bestiary/construct/mighty-servant-of-leuk-o-tce.md) is a fantastically powerful, 10-foot-tall machine that turns into an animate construct when piloted. Crafted of a gleaming black alloy of unknown origin, the servant is often described as a combination of a disproportioned dwarf and an oversized beetle. The servant contains enough space for 1 ton of cargo and a crew compartment within, from which up to two Medium creatures can control it-and potentially execute a spree of unstoppable destruction.
 
-Tales of the servant's origins involve more conjecture than fact, often referring to otherworldly beings, the mysterious Barrier Peaks in Oerth, and the supposedly related device known as the *Machine of Lum the Mad*. The best details on the device's origins and operation can be found in the *Mind of Metal*, a tome of artificer's secrets that connects the device to the traditions of the lost Olman people, and which was written by Lum the Mad's several times over granddaughter, Lum the Maestro, while she reconstructed the long disassembled Mighty Servant of Leuk-o.
+Tales of the servant's origins involve more conjecture than fact, often referring to otherworldly beings, the mysterious Barrier Peaks in Oerth, and the supposedly related device known as the _Machine of Lum the Mad_. The best details on the device's origins and operation can be found in the _Mind of Metal_, a tome of artificer's secrets that connects the device to the traditions of the lost Olman people, and which was written by Lum the Mad's several times over granddaughter, Lum the Maestro, while she reconstructed the long disassembled Mighty Servant of Leuk-o.
 
 ## Dangerous Attunement
 
@@ -39,10 +39,10 @@ A creature can enter or exit through the hatch by spending 10 feet of movement. 
 
 While you are inside the servant, you can command it by using the controls. During your turn (for either attuned creature), you can command it in the following ways:
 
-- Open or close the hatch (no action required, once per turn)  
-- Move the servant up to its speed (no action required)  
-- As an action, you can command the servant to take one of the actions in its stat block or some other action.  
-- When a creature provokes an opportunity attack from the servant, you can use your reaction to command the servant to make one Destructive Fist attack against that creature.  
+- Open or close the hatch (no action required, once per turn)
+- Move the servant up to its speed (no action required)
+- As an action, you can command the servant to take one of the actions in its stat block or some other action.
+- When a creature provokes an opportunity attack from the servant, you can use your reaction to command the servant to make one Destructive Fist attack against that creature.
 
 While there are no attuned creatures inside the servant, it is an inert object.
 
@@ -64,4 +64,4 @@ This does not destroy the servant permanently. Rather, `2d6` days later, its par
 
 The servant can be destroyed in two ways. After it has self-destructed, its disconnected pieces can be melted down in one of the forge-temples of its ancient Olman creators. Alternatively, if the servant strikes the Machine of Lum the Mad, both artifacts explode in an eruption that is three times the size and three times the damage as the servant's self-destruct property.
 
-*Source: Tasha's Cauldron of Everything p. 131*
+_Source: Tasha's Cauldron of Everything p. 131_

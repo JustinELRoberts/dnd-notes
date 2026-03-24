@@ -15,14 +15,17 @@ obsidianUIMode: preview
 ---
 
 # Glassblower's Tools
-*Artisan's tools*  
 
+_Artisan's tools_
 
 - **Cost**: 30 gp
+
 - **Weight**: 5.0 lbs.
 
-- **Ability.** Intelligence  
-- **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [Glass Bottle](Mechanics/CLI/items/glass-bottle-xphb.md), [Magnifying Glass](Mechanics/CLI/items/magnifying-glass-xphb.md), [Spyglass](Mechanics/CLI/items/spyglass-xphb.md), [Vial](Mechanics/CLI/items/vial-xphb.md)  
+- **Ability.** Intelligence
 
-*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)
+
+- **Craft.** [Glass Bottle](Mechanics/CLI/items/glass-bottle-xphb.md), [Magnifying Glass](Mechanics/CLI/items/magnifying-glass-xphb.md), [Spyglass](Mechanics/CLI/items/spyglass-xphb.md), [Vial](Mechanics/CLI/items/vial-xphb.md)
+
+_Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

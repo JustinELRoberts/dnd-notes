@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Determine Numbers and Challenge Ratings; Solo Monster Challenge Rating
-*Source: Xanathar's Guide to Everything p. 88* 
+
+_Source: Xanathar's Guide to Everything p. 88_
 
 **Solo Monster Challenge Rating**
 

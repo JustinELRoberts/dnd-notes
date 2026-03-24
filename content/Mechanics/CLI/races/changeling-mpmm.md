@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Changeling
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 10*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 10_\
 ![](Mechanics/CLI/races/img/changeling.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1

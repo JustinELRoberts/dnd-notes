@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Creature Paintings
-*Source: Tasha's Cauldron of Everything p. 172* 
+
+_Source: Tasha's Cauldron of Everything p. 172_
 
 **Creature Paintings**
 

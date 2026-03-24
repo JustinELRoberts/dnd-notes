@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Criminal Syndicate Member Roles
-*Source: Tasha's Cauldron of Everything p. 92* 
+
+_Source: Tasha's Cauldron of Everything p. 92_
 
 **Criminal Syndicate Member Roles**
 

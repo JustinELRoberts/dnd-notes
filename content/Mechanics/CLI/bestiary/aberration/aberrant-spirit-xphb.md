@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Aberrant Spirit
-*Source: Player's Handbook (2024) p. 322*  
+
+_Source: Player's Handbook (2024) p. 322_\
 ![](Mechanics/CLI/bestiary/aberration/img/aberrant-spirit.webp#center)
 
 ```ad-statblock
@@ -56,4 +57,5 @@ title: Aberrant Spirit
 
 ***Psychic Slam (Mind Flayer Only).*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Psychic damage.
 ```
+
 ^statblock

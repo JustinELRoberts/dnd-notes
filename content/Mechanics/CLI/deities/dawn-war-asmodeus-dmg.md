@@ -17,14 +17,11 @@ obsidianUIMode: preview
 
 # Asmodeus
 
-
 - **Alignment**: Lawful Evil
 - **Domains**: Trickery, Order
 - **Pantheon**: Dawn War
 - **Symbol**: Three triangles in tight formation
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Holy Symbol
-*Spellcasting focus*  
 
-
+_Spellcasting focus_
 
 **Items in this group:**
 
@@ -25,4 +24,4 @@ obsidianUIMode: preview
 - [Emblem](Mechanics/CLI/items/emblem-xphb.md)
 - [Reliquary](Mechanics/CLI/items/reliquary-xphb.md)
 
-*Source: Player's Handbook (2024) p. 226*
+_Source: Player's Handbook (2024) p. 226_

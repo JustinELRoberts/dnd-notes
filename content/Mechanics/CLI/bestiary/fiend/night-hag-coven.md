@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Night Hag (Coven)
-*Source: Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Night Hag (Coven)
@@ -111,4 +112,5 @@ A powerful night hag creates one or more of the following additional regional ef
 - Creatures are transported to a harmless but eerie demiplane filled with shadowy forms, waxy corpses, and cackling. The creatures are trapped there for a minute or two, and then returned to the place where they vanished from.  
 - Intelligent creatures see hallucinations of dead friends, family members, and even themselves littering the hag's realm. Any attempt to interact with a hallucinatory image causes it to disappear.  
 ```
+
 ^statblock

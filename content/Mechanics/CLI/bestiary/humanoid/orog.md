@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Orog
-*Source: Monster Manual p. 247*  
+
+_Source: Monster Manual p. 247_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orog.webp#right)
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -110,6 +111,7 @@ title: Orog
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+6` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

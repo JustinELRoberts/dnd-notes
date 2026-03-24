@@ -22,7 +22,8 @@ obsidianUIMode: preview
 ---
 
 # Bandit Captain
-*Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bandit-captain.webp#right)
 
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
@@ -64,6 +65,7 @@ title: Bandit Captain
 
 ***Parry.*** The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock
 
 ## Environment

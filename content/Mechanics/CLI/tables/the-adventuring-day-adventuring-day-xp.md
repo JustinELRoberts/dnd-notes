@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # The Adventuring Day; Adventuring Day XP
-*Source: Dungeon Master's Guide p. 84. Available in the Basic Rules (2014)* 
+
+_Source: Dungeon Master's Guide p. 84. Available in the Basic Rules (2014)_
 
 **Adventuring Day XP**
 

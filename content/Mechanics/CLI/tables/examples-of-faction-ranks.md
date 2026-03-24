@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Examples of Faction Ranks
-*Source: Dungeon Master's Guide p. 22* 
+
+_Source: Dungeon Master's Guide p. 22_
 
 **Examples of Faction Ranks**
 

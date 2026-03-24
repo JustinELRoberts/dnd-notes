@@ -121,11 +121,10 @@ obsidianUIMode: preview
 
 # Drow +1 Weapon
 
-
-
 You have a +1 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
 
 **Variants**:
+
 - [Drow +1 Antimatter Carbine](#Drow%20+1%20Antimatter%20Carbine)
 - [Drow +1 Antimatter Pistol](#Drow%20+1%20Antimatter%20Pistol)
 - [Drow +1 Antimatter Rifle](#Drow%20+1%20Antimatter%20Rifle)
@@ -892,5 +891,4 @@ You have a +1 bonus to attack and damage rolls made with this weapon. This weapo
 - **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
-
-*Source: Monster Manual p. 126*
+_Source: Monster Manual p. 126_

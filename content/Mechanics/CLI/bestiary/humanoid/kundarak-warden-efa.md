@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Kundarak Warden
-*Source: Eberron: Forge of the Artificer p. 81*  
+
+_Source: Eberron: Forge of the Artificer p. 81_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kundarak-warden.webp#right)
 
 Some dragonmarked heirs (mostly dwarves) of House Kundarak serve as personal guardians for the house's vaults and storehouses, and even its infamous prison, Dreadhold. Some also serve as agents of the mysterious Ghorad'din, a secretive group of assassins and spies little known beyond the members of the house. Kundarak wardens are adept at bypassing security measures as well as reinforcing them.
@@ -64,4 +65,5 @@ title: Kundarak Warden
 ***Protective Magic (3/Day).*** The warden casts [Counterspell](Mechanics/CLI/spells/counterspell-xphb.md) or [Shield](Mechanics/CLI/spells/shield-xphb.md) in response to the spell's trigger, using the same spellcasting ability as Spellcasting.
 
 ```
+
 ^statblock

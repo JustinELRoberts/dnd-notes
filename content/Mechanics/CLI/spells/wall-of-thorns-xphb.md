@@ -20,8 +20,8 @@ classes:
 ---
 
 # Wall of Thorns
-*6th-level, Conjuration*  
 
+_6th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -38,4 +38,4 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

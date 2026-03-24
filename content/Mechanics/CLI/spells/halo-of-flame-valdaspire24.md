@@ -24,8 +24,8 @@ classes:
 ---
 
 # Halo of Flame
-*2nd-level, Evocation*  
 
+_2nd-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** Self (5-foot Emanation)
@@ -38,4 +38,4 @@ A ring of flame ignites above your head and emits heat in a 5-foot [Emanation](M
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

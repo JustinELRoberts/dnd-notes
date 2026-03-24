@@ -19,8 +19,8 @@ classes:
 ---
 
 # Force Dart
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -33,4 +33,4 @@ You fling a dart of magical force at a creature within range. Make a Ranged spel
 
 **Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

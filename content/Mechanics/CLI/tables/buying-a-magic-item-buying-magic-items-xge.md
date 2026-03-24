@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Buying a Magic Item; Buying Magic Items
-*Source: Xanathar's Guide to Everything p. 126* 
+
+_Source: Xanathar's Guide to Everything p. 126_
 
 **Buying Magic Items**
 

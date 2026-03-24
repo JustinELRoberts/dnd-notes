@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Behir
-*Source: Monster Manual p. 25. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 25. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/behir.webp#right)
 
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
@@ -36,10 +37,9 @@ In times long forgotten, giants and dragons engaged in seemingly endless war. St
 
 A behir never makes its lair in an area it knows to be inhabited by a dragon. If a dragon attempts to establish a lair within a few dozen miles of a behir's lair, the behir is compelled to kill the dragon or drive it off. Only if the dragon proves too powerful to fight does a behir back down, seeking out a new lair site a great distance away.
 
-> [!quote] A quote from Lludd the behir, confronting adventurers in the Lost Caverns of Tsojcanth  
-> 
+> [!quote] A quote from Lludd the behir, confronting adventurers in the Lost Caverns of Tsojcanth
+>
 > I've already eaten three giant bats, six troglodytes, and a mind flayer today, but that's okay. Plenty of room in my belly for you and your friends.
-
 
 ## Statblock
 
@@ -78,6 +78,7 @@ title: Behir
 
 If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls [prone](Mechanics/CLI/rules/conditions.md#Prone) in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by it and can escape from the corpse by using 15 feet of movement, exiting [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock
 
 ## Environment

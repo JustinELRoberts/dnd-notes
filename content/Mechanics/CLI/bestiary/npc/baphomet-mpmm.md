@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Baphomet
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 58*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 58_\
 ![](Mechanics/CLI/bestiary/npc/img/baphomet.webp#right)
 
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
@@ -117,4 +118,5 @@ The region containing Baphomet's lair is warped by his magic, creating one or mo
 
 If Baphomet dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock

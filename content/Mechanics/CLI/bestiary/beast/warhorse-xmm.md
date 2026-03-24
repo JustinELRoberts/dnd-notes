@@ -17,17 +17,18 @@ obsidianUIMode: preview
 ---
 
 # Warhorse
-*Source: Monster Manual (2024) p. 373, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Monster Manual (2024) p. 373, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/warhorse.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
-![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp "A druid calls on animals of the hills and mountains to aid her cause")
-![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp "Aquatic animals swim alongside a druid exploring the sea")
-![Inhabitants of the rain fo...](Mechanics/CLI/bestiary/beast/img/animals-rainforest.webp "Inhabitants of the rain forest answer a druid's summons")
+> ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
+> ![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp)
+> ![Inhabitants of the rain fo...](Mechanics/CLI/bestiary/beast/img/animals-rainforest.webp)
 
 ```ad-statblock
 title: Warhorse
@@ -53,6 +54,7 @@ title: Warhorse
 
 ***Hooves.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 9 (`2d4 + 4`) Bludgeoning damage. If the target is a Large or smaller creature and the horse moved 20+ feet straight toward it immediately before the hit, the target takes an extra 5 (`2d4`) Bludgeoning damage and has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
 ```
+
 ^statblock
 
 ## Environment

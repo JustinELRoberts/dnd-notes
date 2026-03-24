@@ -22,8 +22,8 @@ classes:
 ---
 
 # Prismatic Wall
-*9th-level, Abjuration*  
 
+_9th-level, Abjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -42,15 +42,15 @@ The wall, which has AC 10, can be destroyed one layer at a time, in order from r
 
 | Order | Effects |
 |-------|---------|
-| 1 | **Red.** *Failed Save:* `12d6` Fire damage. *Successful Save:* Half as much damage. *Additional Effects*: Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage. |
-| 2 | **Orange.** *Failed Save:* `12d6` Acid damage. *Successful Save:* Half as much damage. *Additional Effects:* Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md)). |
-| 3 | **Yellow.** *Failed Save:* `12d6` Lightning damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 60 Force damage. |
-| 4 | **Green.** *Failed Save:* `12d6` Poison damage. *Successful Save:* Half as much damage. *Additional Effects:* A [Passwall](Mechanics/CLI/spells/passwall-xphb.md) spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |
-| 5 | **Blue.** *Failed Save:* `12d6` Cold damage. *Successful Save:* Half as much damage. *Additional Effects:* The layer is destroyed if it takes at least 25 Fire damage. |
-| 6 | **Indigo.** *Failed Save:* The target has the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the [Petrified](Mechanics/CLI/rules/conditions.md#Petrified) condition until it is freed by an effect like the [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. *Additional Effects:* Spells can't be cast through this layer, which is destroyed by [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) shed by the [Daylight](Mechanics/CLI/spells/daylight-xphb.md) spell. |
-| 7 | **Violet.** *Failed Save:* The target has the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). *Additional Effects:* This layer is destroyed by [Dispel Magic](Mechanics/CLI/spells/dispel-magic-xphb.md). |
+| 1 | **Red.** _Failed Save:_ `12d6` Fire damage. _Successful Save:_ Half as much damage. _Additional Effects_: Nonmagical ranged attacks can't pass through this layer, which is destroyed if it takes at least 25 Cold damage. |
+| 2 | **Orange.** _Failed Save:_ `12d6` Acid damage. _Successful Save:_ Half as much damage. _Additional Effects:_ Magical ranged attacks can't pass through this layer, which is destroyed by a strong wind (such as the one created by [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md)). |
+| 3 | **Yellow.** _Failed Save:_ `12d6` Lightning damage. _Successful Save:_ Half as much damage. _Additional Effects:_ The layer is destroyed if it takes at least 60 Force damage. |
+| 4 | **Green.** _Failed Save:_ `12d6` Poison damage. _Successful Save:_ Half as much damage. _Additional Effects:_ A [Passwall](Mechanics/CLI/spells/passwall-xphb.md) spell, or another spell of equal or greater level that can open a portal on a solid surface, destroys this layer. |
+| 5 | **Blue.** _Failed Save:_ `12d6` Cold damage. _Successful Save:_ Half as much damage. _Additional Effects:_ The layer is destroyed if it takes at least 25 Fire damage. |
+| 6 | **Indigo.** _Failed Save:_ The target has the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the [Petrified](Mechanics/CLI/rules/conditions.md#Petrified) condition until it is freed by an effect like the [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. _Additional Effects:_ Spells can't be cast through this layer, which is destroyed by [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) shed by the [Daylight](Mechanics/CLI/spells/daylight-xphb.md) spell. |
+| 7 | **Violet.** _Failed Save:_ The target has the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). _Additional Effects:_ This layer is destroyed by [Dispel Magic](Mechanics/CLI/spells/dispel-magic-xphb.md). |
 ^prismatic-layers
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

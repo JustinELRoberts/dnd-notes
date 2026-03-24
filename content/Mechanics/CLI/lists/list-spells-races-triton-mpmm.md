@@ -16,11 +16,11 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Fog Cloud](Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB") 
+- [Fog Cloud](Mechanics/CLI/spells/fog-cloud-xphb.md "XPHB")
 
 ## 2nd Level
 
-- [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") 
+- [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB")
 
 ## 3rd Level
 

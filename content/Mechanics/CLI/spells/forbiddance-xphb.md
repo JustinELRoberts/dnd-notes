@@ -23,8 +23,8 @@ classes:
 ---
 
 # Forbiddance
-*6th-level, Abjuration (ritual)*  
 
+_6th-level, Abjuration (ritual)_
 
 - **Casting time:** 10 minutes unless cast as a ritual
 - **Range:** Touch
@@ -41,4 +41,4 @@ The spell's area can't overlap with the area of another Forbiddance spell. If yo
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

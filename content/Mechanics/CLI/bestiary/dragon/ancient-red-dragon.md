@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Red Dragon
-*Source: Monster Manual p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 97. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/red-dragon.webp#right)
 
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
@@ -179,6 +180,7 @@ If the dragon dies, these effects fade over the course of `1d10` days.
 - **Fiery Senses.** The dragon can hear up to 30 feet through any open flame within 1 mile of the dragon's lair.  
 - **Ominous Flames.** Open flames within 6 miles of the dragon's lair are tinged dark red, hiss and crackle constantly, and throw off embers and showers of sparks.  
 ```
+
 ^statblock
 
 ## Environment

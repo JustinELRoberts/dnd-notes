@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Thrown Weapon Fighting 
+# Thrown Weapon Fighting
 
-
-***Prerequisites*** Fighting Style Feature
+_**Prerequisites**_ Fighting Style Feature
 
 When you hit with a ranged attack roll using a weapon that has the [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown) property, you gain a +2 bonus to the damage roll.
+
 ## Sources
 
-*Player's Handbook (2024) p. 210*
+_Player's Handbook (2024) p. 210_

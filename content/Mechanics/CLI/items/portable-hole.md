@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Portable Hole
-*Wondrous item, minor, rare*  
 
-
+_Wondrous item, minor, rare_
 
 This fine black cloth, soft as silk, is folded up to the dimensions of a handkerchief. It unfolds into a circular sheet 6 feet in diameter.
 
@@ -29,4 +28,4 @@ If the hole is folded up, a creature within the hole's extradimensional space ca
 
 Placing a portable hole inside an extradimensional space created by a [bag of holding](Mechanics/CLI/items/bag-of-holding.md), [Heward's handy haversack](Mechanics/CLI/items/hewards-handy-haversack.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide p. 185. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 185. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Variant: Scroll Mishaps; Scroll Mishap
-*Source: Dungeon Master's Guide p. 140* 
+
+_Source: Dungeon Master's Guide p. 140_
 
 **Scroll Mishap**
 

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Hound of Ill Omen
-*Source: Xanathar's Guide to Everything p. 50*  
+
+_Source: Xanathar's Guide to Everything p. 50_
 
 ```ad-statblock
 title: Hound of Ill Omen
@@ -56,4 +57,5 @@ title: Hound of Ill Omen
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock

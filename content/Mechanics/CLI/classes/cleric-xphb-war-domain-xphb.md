@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # War Domain
-*[Cleric](./cleric-xphb.md): Cleric Subclass*  
-*Source: Player's Handbook (2024) p. 76*  
+
+_[Cleric](./cleric-xphb.md): Cleric Subclass_\
+_Source: Player's Handbook (2024) p. 76_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -51,7 +52,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/war-cleric.webp#right)
 
-*Inspire Valor and Smite Foes*
+_Inspire Valor and Smite Foes_
 
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.
 

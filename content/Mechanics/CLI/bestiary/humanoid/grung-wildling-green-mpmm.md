@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Grung Wildling (Green)
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_
 
 ```ad-statblock
 title: Grung Wildling (Green)
@@ -65,6 +66,7 @@ title: Grung Wildling (Green)
 
 **2/day:** [plant growth](Mechanics/CLI/spells/plant-growth-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

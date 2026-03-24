@@ -18,8 +18,8 @@ classes:
 ---
 
 # Curse of Aging
-*4th-level, Transmutation*  
 
+_4th-level, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -30,4 +30,4 @@ A creature you touch must succeed on a Wisdom saving throw or be cursed to age a
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

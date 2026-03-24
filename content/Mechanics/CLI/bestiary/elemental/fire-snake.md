@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Fire Snake
-*Source: Monster Manual p. 265*  
+
+_Source: Monster Manual p. 265_\
 ![](Mechanics/CLI/bestiary/elemental/img/fire-snake.webp#right)
 
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
@@ -85,6 +86,7 @@ title: Fire Snake
 
 ***Tail.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d4 + 1`) bludgeoning damage plus 3 (`1d6`) fire damage.
 ```
+
 ^statblock
 
 ## Environment

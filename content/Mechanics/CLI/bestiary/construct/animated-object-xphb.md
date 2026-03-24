@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Animated Object
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/animated-object.webp#center)
 
 ```ad-statblock
@@ -43,4 +44,5 @@ title: Animated Object
 
 ***Slam.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* Force damage equal to 1d4 + 3, 2d6 + 3 + your spellcasting ability modifier (Large), or 2d12 + 3 + your spellcasting ability modifier (Huge).
 ```
+
 ^statblock

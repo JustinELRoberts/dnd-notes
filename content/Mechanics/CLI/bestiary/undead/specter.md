@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Specter
-*Source: Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/specter.webp#right)
 
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
@@ -76,6 +77,7 @@ title: Specter
 
 ***Life Drain.*** *Melee Spell Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 10 (`3d6`) necrotic damage. The target must succeed on a DC 10 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the creature finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 ```
+
 ^statblock
 
 ## Environment

@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Vanish
-*cantrip, Illusion*  
 
+_cantrip, Illusion_
 
 - **Casting time:** 1 minute
 - **Range:** Self
@@ -31,4 +31,4 @@ Repeating an ancient chant, you have the [Invisible](Mechanics/CLI/rules/conditi
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

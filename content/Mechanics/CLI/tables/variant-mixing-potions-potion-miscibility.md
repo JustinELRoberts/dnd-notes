@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Variant: Mixing Potions; Potion Miscibility
-*Source: Dungeon Master's Guide p. 140* 
+
+_Source: Dungeon Master's Guide p. 140_
 
 **Potion Miscibility**
 

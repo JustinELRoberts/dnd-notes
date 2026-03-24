@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Ring Mail
-*Heavy armor*  
+
+_Heavy armor_\
 ![](Mechanics/CLI/items/img/ring-mail.webp#right)
 
 - **Armor Class**: 14
@@ -23,4 +24,4 @@ obsidianUIMode: preview
 - **Cost**: 30 gp
 - **Weight**: 40.0 lbs.
 
-*Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

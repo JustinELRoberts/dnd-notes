@@ -28,8 +28,8 @@ classes:
 ---
 
 # Compulsion
-*4th-level, Enchantment*  
 
+_4th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -42,4 +42,4 @@ For the duration, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rule
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Martyr (Burden of Fame)](Mechanics/CLI/lists/list-spells-classes-burden-of-fame-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Overlord)](Mechanics/CLI/lists/list-spells-classes-overlord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Glory)](Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Fragrant Magic)](Mechanics/CLI/lists/list-spells-classes-fragrant-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

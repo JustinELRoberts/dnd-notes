@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Being Operative Roles
-*Source: Tasha's Cauldron of Everything p. 88* 
+
+_Source: Tasha's Cauldron of Everything p. 88_
 
 **Ancient Being Operative Roles**
 

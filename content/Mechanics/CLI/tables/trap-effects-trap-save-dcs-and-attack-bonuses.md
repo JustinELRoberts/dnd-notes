@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Trap Effects; Trap Save DCs and Attack Bonuses
-*Source: Dungeon Master's Guide p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+
+_Source: Dungeon Master's Guide p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 **Trap Save DCs and Attack Bonuses**
 

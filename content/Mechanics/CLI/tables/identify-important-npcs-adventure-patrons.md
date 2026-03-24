@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Identify Important NPCs; Adventure Patrons
-*Source: Dungeon Master's Guide p. 74* 
+
+_Source: Dungeon Master's Guide p. 74_
 
 **Adventure Patrons**
 

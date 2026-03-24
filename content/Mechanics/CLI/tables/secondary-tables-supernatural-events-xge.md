@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Secondary Tables; Supernatural Events
-*Source: Xanathar's Guide to Everything p. 70* 
+
+_Source: Xanathar's Guide to Everything p. 70_
 
 **Supernatural Events**
 

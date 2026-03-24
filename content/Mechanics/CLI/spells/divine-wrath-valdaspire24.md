@@ -20,8 +20,8 @@ classes:
 ---
 
 # Divine Wrath
-*3rd-level, Evocation*  
 
+_3rd-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -34,4 +34,4 @@ You deliver a mote of divine wrath to a point you can see within range. Each cre
 
 **Classes**: [Martyr (Burden of Revolution)](Mechanics/CLI/lists/list-spells-classes-burden-of-revolution-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

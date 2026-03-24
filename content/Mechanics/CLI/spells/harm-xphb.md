@@ -22,8 +22,8 @@ classes:
 ---
 
 # Harm
-*6th-level, Necromancy*  
 
+_6th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -34,4 +34,4 @@ You unleash virulent magic on a creature you can see within range. The target ma
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

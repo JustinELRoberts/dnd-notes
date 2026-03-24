@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Owlbear
-*Source: Monster Manual p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/owlbear.webp#right)
 
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
@@ -44,10 +45,9 @@ Elven communities encourage owlbears to den beneath their treetop villages, usin
 
 Scholars have long debated the origins of the owlbear. The most common theory is that a demented wizard created the first specimen by crossing a giant owl with a bear. However, venerable elves claim to have known these creatures for thousands of years, and some fey insist that owlbears have always existed in the Feywild.
 
-> [!quote] A quote from Xarshel Ravenshadow, Gnome Professor of Transmutative Science at Morgrave University  
-> 
+> [!quote] A quote from Xarshel Ravenshadow, Gnome Professor of Transmutative Science at Morgrave University
+>
 > The only good thing about owlbears is that the wizard who created them is probably dead.
-
 
 ## Statblock
 
@@ -83,6 +83,7 @@ title: Owlbear
 
 ***Claws.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

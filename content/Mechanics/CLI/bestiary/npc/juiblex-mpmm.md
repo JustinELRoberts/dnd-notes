@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Juiblex
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 160*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 160_\
 ![](Mechanics/CLI/bestiary/npc/img/juiblex.webp#right)
 
 Called the Faceless Lord and the Oozing Hunger in ancient grimoires, Juiblex is demon lord of slime and ooze, a noxious creature that doesn't care about the plots and schemes of others of its kind. It exists only to consume, digesting and transforming living matter into more of itself.
@@ -115,4 +116,5 @@ The region containing Juiblex's lair is warped by its magic, creating one or mor
 
 If Juiblex dies, these effects fade over the course of `1d10` days.
 ```
+
 ^statblock

@@ -32,13 +32,13 @@ obsidianUIMode: preview
 ---
 
 # Mariner's Armor
-*Minor, uncommon*  
 
-
+_Minor, uncommon_
 
 While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs.
 
 **Variants**:
+
 - [Mariner's Breastplate](#Mariner's%20Breastplate)
 - [Mariner's Chain Mail](#Mariner's%20Chain%20Mail)
 - [Mariner's Chain Shirt](#Mariner's%20Chain%20Shirt)
@@ -129,5 +129,4 @@ While wearing this armor, you have a swimming speed equal to your walking speed.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 181*
+_Source: Dungeon Master's Guide p. 181_

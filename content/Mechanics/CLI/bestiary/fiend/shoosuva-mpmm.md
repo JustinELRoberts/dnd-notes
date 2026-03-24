@@ -20,15 +20,16 @@ obsidianUIMode: preview
 ---
 
 # Shoosuva
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137_\
 ![](Mechanics/CLI/bestiary/fiend/img/shoosuva.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > What? Are you expecting me to comment on these creatures? Fine, how's this: a loyal pet deserves a loyal pet.
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
 A shoosuva is a hyena-demon gifted by [Yeenoghu](Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
@@ -70,6 +71,7 @@ title: Shoosuva
 
 ***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can move up to half its speed and make one Bite attack.
 ```
+
 ^statblock
 
 ## Environment

@@ -15,13 +15,15 @@ obsidianUIMode: preview
 ---
 
 # Thieves' Tools
-*Tool*  
 
+_Tool_
 
 - **Cost**: 25 gp
+
 - **Weight**: 1.0 lbs.
 
-- **Ability.** Dexterity  
-- **Utilize.** Pick a lock (DC 15), or disarm a trap (DC 15)  
+- **Ability.** Dexterity
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+- **Utilize.** Pick a lock (DC 15), or disarm a trap (DC 15)
+
+_Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Insect (Spider)
-*Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Giant Insect (Spider)
@@ -49,4 +50,5 @@ title: Giant Insect (Spider)
 
 ***Web Bolt.*** *Ranged Attack Roll:* Bonus equals your spell attack modifier, range 60 ft. *Hit:* `1d10 + 3` + the spell's level Bludgeoning damage, and the target's Speed is reduced to 0 until the start of the insect's next turn.
 ```
+
 ^statblock

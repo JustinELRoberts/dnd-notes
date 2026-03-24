@@ -20,11 +20,12 @@ obsidianUIMode: preview
 ---
 
 # Kobold Dragonshield
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165_\
 ![](Mechanics/CLI/bestiary/dragon/img/kobold-dragonshield.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Believe it or not, I like kobolds. I find their oscillation between bravery and cowardice endlessly entertaining. In fact, I'd say kobolds are proof of the universe's most fundamental lesson: there is always something bigger than you.
 
 Kobold dragonshields are champions of their people. Almost all dragonshields begin life as normal kobolds, then are chosen by a dragon and invested with power for the purpose of protecting the dragon's eggs, but once every few years a kobold hatches with an innate version of the dragonshield's abilities. In either case, a dragonshield is skilled at hand-to-hand combat and bears a shield made of dragon scales, as well as scars from desperate fights.
@@ -69,6 +70,7 @@ title: Kobold Dragonshield
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+3` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage, or 5 (`1d8 + 1`) piercing damage if used with two hands to make a melee attack.
 ```
+
 ^statblock
 
 ## Environment

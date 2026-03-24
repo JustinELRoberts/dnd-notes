@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Acolyte
-*Source: Monster Manual p. 342. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 342. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Acolytes are junior members of a clergy, usually answerable to a priest. They perform a variety of functions in a temple and are granted minor spellcasting power by their deities.
 
@@ -55,6 +55,7 @@ title: Acolyte
 
 ***Club.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 2 (`1d4`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

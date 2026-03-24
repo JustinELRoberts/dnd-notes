@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # House of Dice
-*[Warmage](./warmage-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Tempt Fate with Chaotic Die Rolls*
+_Tempt Fate with Chaotic Die Rolls_
 
 The House of Dice throws out the Warmage convention of meticulous, deliberate spellcasting in favor of wild, chaotic magic that presses the odds. Everything from their magical bursts to their enchanted sets of dice can fail horribly, so it's auspicious that they often keep their fingers on the scales of fate. These Warmages have mastered not only a repertoire of cantrips, but also techniques to manipulate fortune itself, allowing them to risk everything, and more than often come out on top.
 
@@ -66,7 +67,7 @@ Beginning at level 7, you have an additional two Dice of Fate, and you can add t
 
 ### Chaos Roll (Level 3)
 
-You can expend two of your [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20(Level%203)) as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, rolling them on the Chaos Roll table to create a chaotic surge of energy.
+You can expend two of your [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20\(Level%203\)) as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, rolling them on the Chaos Roll table to create a chaotic surge of energy.
 
 **Chaos Roll**
 
@@ -77,12 +78,12 @@ You can expend two of your [Dice of Fate](Mechanics/CLI/classes/warmage-house-of
 | 4 | You have the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition. |
 | 5 | Until the start of your next turn, each creature within a 60-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you can only speak in a babbling nonsense language and can't cast spells with a Verbal component. |
 | 6 | A 5-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) of butterflies, insects, or doves fills a location you choose within 60 feet of you. The [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) is [Heavily Obscured](Mechanics/CLI/rules/variant-rules/heavily-obscured-xphb.md) until the start of your next turn. |
-| 7 | You gain 7 [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md), and you keep the [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20(Level%203)) instead of giving them to the GM. |
+| 7 | You gain 7 [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md), and you keep the [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20\(Level%203\)) instead of giving them to the GM. |
 | 8 | You have the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the end of your next turn, as per the [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) spell. |
 | 9 | An object within 60 feet of you chosen by the GM explodes, dealing no damage to you or your [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md), and dealing `3d6` Fire damage to one creature caught in the blast. |
 | 10 | You teleport up to 60 feet to an unoccupied space you can see. Each creature within 5 feet of the destination must succeed on a Dexterity saving throw against your spell save DC or take `2d6` Force damage. |
 | 11 | Choose a creature you can see within 60 feet of you. That creature takes 4d6 Necrotic damage and you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the Necrotic damage taken. |
-| 12 | You cast [Lightning Bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md) and can add the [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20(Level%203)) to the damage roll. |
+| 12 | You cast [Lightning Bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md) and can add the [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20\(Level%203\)) to the damage roll. |
 ^chaos-roll
 
 ### Loaded Dice (Level 7)
@@ -91,12 +92,12 @@ You can subtly cheat your dice. Once on each of your turns when you roll a `d6`,
 
 ### Twisted Fate (Level 10)
 
-When you make an attack roll or ability check with [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your turn, you can attempt to invert fate as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). Expend a [Die of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20(Level%203)) and roll it. On a 5, you ignore [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the roll. On a 6, you instead have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll.
+When you make an attack roll or ability check with [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your turn, you can attempt to invert fate as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). Expend a [Die of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20\(Level%203\)) and roll it. On a 5, you ignore [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the roll. On a 6, you instead have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll.
 
 ### Roll the Bones (Level 15)
 
-You can channel the chaotic energy of your dice in an instant. As a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) when you take damage from a creature you can see, you can expend two [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20(Level%203)) to make a [Chaos Roll](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Chaos%20Roll%20(Level%203)).
+You can channel the chaotic energy of your dice in an instant. As a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) when you take damage from a creature you can see, you can expend two [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20\(Level%203\)) to make a [Chaos Roll](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Chaos%20Roll%20\(Level%203\)).
 
 ### Steal Luck (Level 18)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), roll a `d6`. You steal that many [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20(Level%203)) back from the GM.
+When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), roll a `d6`. You steal that many [Dice of Fate](Mechanics/CLI/classes/warmage-house-of-dice-valdaspire24.md#Dice%20of%20Fate%20\(Level%203\)) back from the GM.

@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Interception 
+# Interception
 
-
-***Prerequisites*** Fighting Style Feature
+_**Prerequisites**_ Fighting Style Feature
 
 When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to reduce the damage dealt to the target by `1d10` plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md). You must be holding a [Shield](Mechanics/CLI/items/shield-xphb.md) or a Simple or Martial weapon to use this [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+
 ## Sources
 
-*Player's Handbook (2024) p. 209*
+_Player's Handbook (2024) p. 209_

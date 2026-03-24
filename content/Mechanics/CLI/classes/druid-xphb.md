@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Druid
-*Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
@@ -58,20 +59,20 @@ obsidianUIMode: preview
 ## Starting Druid
 
 - **Saving Throw Proficiencies**: Intelligence, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Religion](Mechanics/CLI/rules/skills.md#Religion), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
 - **Tool Proficiencies**: [Herbalism Kit](Mechanics/CLI/items/herbalism-kit-xphb.md)
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor) and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Sickle](Mechanics/CLI/items/sickle-xphb.md), [Druidic Focus (Quarterstaff)](Mechanics/CLI/items/druidic-focus-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), [Herbalism kit](Mechanics/CLI/items/herbalism-kit-xphb.md), 9 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Sickle](Mechanics/CLI/items/sickle-xphb.md), [Druidic Focus (Quarterstaff)](Mechanics/CLI/items/druidic-focus-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), [Herbalism kit](Mechanics/CLI/items/herbalism-kit-xphb.md), 9 GP; or (B) 50 GP
 
 ## Multiclassing Druid
 
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Shields](Mechanics/CLI/items/shield-xphb.md)
 
 > [!gallery]
-![A Druid channels the power...](Mechanics/CLI/classes/img/057-03-033-druid-in-nature.webp "A Druid channels the power of nature through their magic")
-![A Druid in wolf form howls at the moon](Mechanics/CLI/classes/img/060-03-036-wolf-form-druid.webp)
+> ![A Druid channels the power...](Mechanics/CLI/classes/img/057-03-033-druid-in-nature.webp)
+> ![A Druid in wolf form howls at the moon](Mechanics/CLI/classes/img/060-03-036-wolf-form-druid.webp)
 
 ## Druid
 
@@ -95,10 +96,10 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 Options (choose 1):
 
-- **Magician**  
-    You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([Arcana](Mechanics/CLI/rules/skills.md#Arcana) or [Nature](Mechanics/CLI/rules/skills.md#Nature)) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).  
-- **Warden**  
-    Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.  
+- **Magician**\
+  You know one extra cantrip from the Druid spell list. In addition, your mystical connection to nature gives you a bonus to your Intelligence ([Arcana](Mechanics/CLI/rules/skills.md#Arcana) or [Nature](Mechanics/CLI/rules/skills.md#Nature)) checks. The bonus equals your Wisdom modifier (minimum bonus of +1).
+- **Warden**\
+  Trained for battle, you gain proficiency with Martial weapons and training with Medium armor.
 
 ### Spellcasting (Level 1)
 
@@ -155,10 +156,10 @@ When choosing known forms, you may look in the "Monster Manual" or elsewhere for
 
 **Rules While Shape-Shifted.** While in a form, you retain your personality, memories, and ability to speak, and the following rules apply:
 
-- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Druid level.  
-- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md); [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md); Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.  
-- **No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) or otherwise interfere with a spell you've already cast.  
-- **Objects.** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.  
+- **Temporary Hit Points.** When you assume a Wild Shape form, you gain a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Druid level.
+- **Game Statistics.** Your game statistics are replaced by the Beast's stat block, but you retain your creature type; [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md); [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md); Intelligence, Wisdom, and Charisma scores; class features; languages; and feats. You also retain your skill and saving throw proficiencies and use your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) for them, in addition to gaining the proficiencies of the creature. If a skill or saving throw modifier in the Beast's stat block is higher than yours, use the one in the stat block.
+- **No Spellcasting.** You can't cast spells, but shape-shifting doesn't break your [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) or otherwise interfere with a spell you've already cast.
+- **Objects.** Your ability to handle objects is determined by the form's limbs rather than your own. In addition, you choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear a piece of equipment based on the creature's size and shape. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with the form. Equipment that merges with the form has no effect while you're in that form.
 
 ### Druid Subclass (Level 3)
 
@@ -184,10 +185,10 @@ The might of the elements flows through you. You gain one of the following optio
 
 Options (choose 1):
 
-- **Potent Spellcasting**  
-    Add your Wisdom modifier to the damage you deal with any Druid cantrip.  
-- **Primal Strike**  
-    Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra `1d8` Cold, Fire, Lightning, or Thunder damage (choose when you hit).  
+- **Potent Spellcasting**\
+  Add your Wisdom modifier to the damage you deal with any Druid cantrip.
+- **Primal Strike**\
+  Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form's attack in Wild Shape, you can cause the target to take an extra `1d8` Cold, Fire, Lightning, or Thunder damage (choose when you hit).
 
 ### Ability Score Improvement (Level 8)
 

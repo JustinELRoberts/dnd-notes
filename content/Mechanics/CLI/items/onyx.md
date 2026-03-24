@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Onyx
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 50 gp
 
 An opaque black and white banded, or pure black or white gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

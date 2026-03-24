@@ -13,14 +13,14 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Radiant Weapon 
+# Radiant Weapon
 
-
-***Prerequisites*** Level 6; A simple or martial weapon (requires attunement)
+_**Prerequisites**_ Level 6; A simple or martial weapon (requires attunement)
 
 This magic weapon grants a +1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
 
 The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of the attacker's next turn, unless the attacker succeeds on a Constitution saving throw against your spell save DC. The weapon regains `1d4` expended charges daily at dawn.
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 22*
+_Tasha's Cauldron of Everything p. 22_

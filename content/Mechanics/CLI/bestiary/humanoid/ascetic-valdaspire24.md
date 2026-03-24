@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Ascetic
-*Source: Valda's Spire of Secrets (2024)*  
 
+_Source: Valda's Spire of Secrets (2024)_
 
 An ascetic is a disciplined, nimble combatant whose fists are as deadly as weapons.
 
@@ -65,4 +65,5 @@ title: Ascetic
 
 ***Level 13.*** Deflect Attack. Trigger: The ascetic is hit by an attack roll and takes Bludgeoning, Piercing, or Slashing damage from it. _Response:_ The ascetic reduces the damage taken by your Captain level.
 ```
+
 ^statblock

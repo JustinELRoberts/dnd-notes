@@ -32,8 +32,8 @@ classes:
 ---
 
 # Conjure Cover
-*1st-level, Conjuration*  
 
+_1st-level, Conjuration_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 10 feet
@@ -48,4 +48,4 @@ Each segment has AC 10 and 30 [Hit Points](Mechanics/CLI/rules/variant-rules/hit
 
 **Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

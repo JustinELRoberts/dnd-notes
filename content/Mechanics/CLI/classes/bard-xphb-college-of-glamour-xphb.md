@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # College of Glamour
-*[Bard](./bard-xphb.md): Bard Subclass*  
-*Source: Player's Handbook (2024) p. 65*  
+
+_[Bard](./bard-xphb.md): Bard Subclass_\
+_Source: Player's Handbook (2024) p. 65_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/glamour-bard.webp#right)
 
-*Weave Beguiling Fey Magic*
+_Weave Beguiling Fey Magic_
 
 The College of Glamour traces its origins to the beguiling magic of the Feywild. Bards who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hard-hearted listeners.
 

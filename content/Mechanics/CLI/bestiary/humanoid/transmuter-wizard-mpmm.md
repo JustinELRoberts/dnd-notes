@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Transmuter Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 265, Volo's Guide to Monsters p. 218_\
 ![](Mechanics/CLI/bestiary/humanoid/img/transmuter-wizard.webp#right)
 
 Transmuters are masters at transforming physical forms. They typically view magical transmutation as a path to riches, enlightenment, or apotheosis.
@@ -75,6 +76,7 @@ title: Transmuter Wizard
 
 ***Transmute (Recharge 4-6).*** The transmuter casts [alter self](Mechanics/CLI/spells/alter-self-xphb.md) or changes the benefit of Transmuter's Stone if bearing the stone.
 ```
+
 ^statblock
 
 ## Environment

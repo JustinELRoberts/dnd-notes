@@ -13,6 +13,7 @@ obsidianUIMode: preview
 ---
 
 # Hover
-*Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+
+_Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while [flying](Mechanics/CLI/rules/variant-rules/flying-xphb.md) prevents you from falling in certain circumstances.

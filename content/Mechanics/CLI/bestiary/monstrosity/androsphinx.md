@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Androsphinx
-*Source: Monster Manual p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/androsphinx.webp#right)
 
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
@@ -48,14 +49,14 @@ Mortals that encounter sphinxes do so most often in ancient tombs and ruins, but
 
 Whether through the weariness of the ages, regret at the slaughter of innocents, or dreams of worship by supplicants that attempt to bargain their way to knowledge, some sphinxes break free of their divine command. However, even if a sphinx's alignment and loyalties drift in this way, it never leaves the place it guards or grants its secrets to any except creatures it deems worthy.
 
-> [!quote] A quote from Riddle of the gynosphinx of White Plume Mountain  
-> 
+> [!quote] A quote from Riddle of the gynosphinx of White Plume Mountain
+>
 > Round she is, yet flat as a board
-> 
+>
 > Altar of the Lupine Lords
-> 
+>
 > Jewel on black velvet, pearl in the sea
-> 
+>
 > Unchanged but e'erchanging, eternally.
 
 ### A Sphinx's Lair
@@ -139,6 +140,7 @@ On initiative count 20 (losing initiative ties), the sphinx can take a lair acti
 - The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A [wish](Mechanics/CLI/spells/wish-xphb.md) spell can return the caster and up to seven other creatures designated by the caster to their normal time.  
 - The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.  
 ```
+
 ^statblock
 
 ## Environment

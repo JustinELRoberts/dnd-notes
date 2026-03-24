@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Skull Banner
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Command a Loyal Undead Cohort*
+_Command a Loyal Undead Cohort_
 
 Captains who fly the Skull Banner are grim heralds of an Undead tide. Their Cohorts and followers are shambling corpses or ethereal ghosts, hellbent on consuming and corrupting the living. Necromancers by any other name, Captains of the Skull possess little of the arcane talent beyond what is necessary to command an Undead army; little else is needed to make them formidable adversaries.
 
@@ -58,7 +59,7 @@ Captains who fly the Skull Banner are grim heralds of an Undead tide. Their Coho
 
 Instead of initiating a Cohort, you can perform a ritual over the course of 8 hours, which can be done during a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), to animate an Undead Cohort. Choose its stat block: [Corporeal Undead](Mechanics/CLI/bestiary/undead/corporeal-undead-valdaspire24.md) or [Incorporeal Undead](Mechanics/CLI/bestiary/undead/incorporeal-undead-valdaspire24.md). You also choose what kind of Undead it is, such as a zombie or ghost, appropriate for the stat block.
 
-### Horrific Strike [Maneuver] (Level 3)
+### Horrific Strike \[Maneuver] (Level 3)
 
 When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to terrify the target. Add the Battle Dice to the attack's damage roll. The target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of your next turn.
 

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Adult Red Dracolich
-*Source: Tasha's Cauldron of Everything p. 137*  
+
+_Source: Tasha's Cauldron of Everything p. 137_
 
 ```ad-statblock
 title: Adult Red Dracolich
@@ -71,4 +72,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the dracoli
 
 ***Wing Attack (Costs 2 Actions).*** The dracolich beats its wings. Each creature within 10 feet of the dracolich must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dracolich can then fly up to half its flying speed.
 ```
+
 ^statblock

@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Xenoalchemist
-*[Alchemist](./alchemist-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Harvest Monsters and Attach Grafts*
+_Harvest Monsters and Attach Grafts_
 
 A small number of renegade Alchemists elect to experiment on themselves, modifying their anatomy or even outright attaching new body parts. These experimenters are often considered unethical and dangerous, even by other Alchemists, and those that practice them are branded Xenoalchemists for their efforts. As Xenoalchemists progress in their studies, they invariably stumble upon the dangerous practice of alchemical necromancy, which allows them to imbue life upon amalgamations of body parts.
 
@@ -68,7 +69,7 @@ Your experiments in xenoalchemy grant you the following benefits.
 
 **Intelligent Grafts.** You can use your Intelligence modifier, instead of Strength or Dexterity, for the attacks and damage of [Unarmed Strikes](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) that are improved by a graft, such as [Monstrous Bite](Mechanics/CLI/items/monstrous-bite-valdaspire24.md) and [Monstrous Weapon](Mechanics/CLI/items/monstrous-weapon-valdaspire24.md). If a graft forces a creature to make a saving throw, it uses your Alchemist save DC.
 
-### Sleep Bomb [Formula] (Level 3)
+### Sleep Bomb \[Formula] (Level 3)
 
 By adding a tranquilizer to your [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into a Sleep Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage. When you use the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, each creature within the explosion makes a Wisdom saving throw, instead of Dexterity. A target hit by this [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) or that fails its saving throw against it has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition until the end of its next turn at which point it must repeat the save. If the target fails the second save, the target has the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition for 1 minute. The condition ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) effect.
 
@@ -108,4 +109,4 @@ Your research into necromancy has culminated in golem stitched together from dis
 
 **Golem Grafts.** You can attach up to three monstrous grafts to the golem.
 
-**Restoring the Golem.** If the golem has died within the last hour, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to touch it and expend 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20(Level%201)). The golem returns to life with a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Intelligence modifier.
+**Restoring the Golem.** If the golem has died within the last hour, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to touch it and expend 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)). The golem returns to life with a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Intelligence modifier.

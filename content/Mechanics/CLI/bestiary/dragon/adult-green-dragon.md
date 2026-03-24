@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Adult Green Dragon
-*Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/green-dragon.webp#right)
 
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
@@ -52,8 +53,8 @@ Green dragons accept the servitude of sentient creatures such as goblinoids, ett
 
 A green dragon's favored treasures are the sentient creatures it bends to its will, including significant figures such as popular heroes, well-known sages, and renowned bards. Among material treasures, a green dragon favors emeralds, wood carvings, musical instruments, and sculptures of humanoid subjects.
 
-> [!quote] A quote from Pelios of Ergoth, Silvanesti seer  
-> 
+> [!quote] A quote from Pelios of Ergoth, Silvanesti seer
+>
 > I see an ancient elf king, his majesty long since faded, slumped and half asleep in his throne. A green dragon whispers in the king's ear, corrupting and twisting the king's dreams. This dragon's name is Cyan Bloodbane, and he means the destruction of us all.
 
 ## A Green Dragon's Lair
@@ -194,6 +195,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 - **Inviting Whispers.** Whispers rustle in the foliage within 1 mile of the dragon's lair. The words are indistinct, but a creature with an Intelligence score of 5 or higher interprets them as an invitation to move deeper into the greenery.  
 - **Twisted Messengers.** The dragon can cause any Tiny Beast within 1 mile of its lair to act as its mouthpiece. The effect is horrendous, as the creature's throat and mouth temporarily warp into a twisted version of the dragon's own in order to allow the dragon's voice to issue forth.  
 ```
+
 ^statblock
 
 ## Environment

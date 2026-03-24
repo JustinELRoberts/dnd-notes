@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sahuagin
-*Source: Monster Manual p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/sahuagin.webp#right)
 
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
@@ -43,10 +44,9 @@ So intense is sahuagin hatred for the aquatic elves that the sea devils have ada
 
 The sahuagin put the malenti to good use as spies and assassins in aquatic elf cities and the societies of other creatures that pose a threat to sahuagin. The mere shadow of the malenti threat incites paranoia and suspicion among aquatic elves, whose resilience is weakened as the prelude to an actual sahuagin invasion.
 
-> [!quote] A quote from An account of the aftermath of a sahuagin raid  
-> 
+> [!quote] A quote from An account of the aftermath of a sahuagin raid
+>
 > TThe village was empty, the seagulls were strangely quiet, and all we could hear was the surge of the sea.
-
 
 ## Statblock
 
@@ -89,6 +89,7 @@ title: Sahuagin
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+3` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage, or 5 (`1d8 + 1`) piercing damage if used with two hands to make a melee attack.
 ```
+
 ^statblock
 
 ## Environment

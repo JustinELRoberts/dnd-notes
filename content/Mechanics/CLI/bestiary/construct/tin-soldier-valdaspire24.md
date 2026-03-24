@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Tin Soldier
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Full of ticking clockwork and mechanical gizmos, tin soldiers are mechanical creations fashioned by arcanists as servants and messengers. With some patience and skill, almost anyone can build a tin soldier, but spellcasters have long devised methods to conjure them wholesale from the Plane of Law's excess energies.
 
@@ -49,4 +49,5 @@ title: Tin Soldier
 
 ***Rifle (Recharge 6).*** *Dexterity Saving Throw:* DC 12, one creature that the tin soldier can see within 30 feet. *Failure:* 7 (`2d6`) Piercing damage.
 ```
+
 ^statblock

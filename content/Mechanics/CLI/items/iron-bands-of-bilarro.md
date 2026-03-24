@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Iron Bands of Bilarro
-*Wondrous item, major, rare*  
+
+_Wondrous item, major, rare_\
 ![](Mechanics/CLI/items/img/iron-bands-of-bilarro.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -28,4 +29,4 @@ A creature, including the one [restrained](Mechanics/CLI/rules/conditions.md#Res
 
 Once the bands are used, they can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Iron Bands of Binding")*
+_Source: Dungeon Master's Guide p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Iron Bands of Binding")_

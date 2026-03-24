@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Magic Tattoos; Magic Tattoo Coverage
-*Source: Tasha's Cauldron of Everything p. 118* 
+
+_Source: Tasha's Cauldron of Everything p. 118_
 
 **Magic Tattoo Coverage**
 

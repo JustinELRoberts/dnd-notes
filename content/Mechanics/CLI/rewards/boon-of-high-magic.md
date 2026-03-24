@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of High Magic
 
-
 You gain one 9th-level spell slot, provided that you already have one.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

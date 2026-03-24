@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Instrument of the Bards, Ollamh Harp
-*Wondrous item, instrument, major, legendary (requires attunement by a bard)*  
+
+_Wondrous item, instrument, major, legendary (requires attunement by a bard)_\
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-ollamh-harp.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -32,4 +33,4 @@ All instruments of the bards can be used to cast the following spells: [fly](Mec
 
 In addition, the Ollamh harp can be used to cast [confusion](Mechanics/CLI/spells/confusion-xphb.md), [control weather](Mechanics/CLI/spells/control-weather-xphb.md), and [fire storm](Mechanics/CLI/spells/fire-storm-xphb.md).
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

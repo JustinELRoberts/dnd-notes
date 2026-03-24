@@ -15,11 +15,12 @@ obsidianUIMode: preview
 ---
 
 # Studded Leather Armor
-*Light armor*  
+
+_Light armor_\
 ![](Mechanics/CLI/items/img/studded-leather-armor.webp#right)
 
 - **Armor Class**: 12 + Dex modifier
 - **Cost**: 45 gp
 - **Weight**: 13.0 lbs.
 
-*Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

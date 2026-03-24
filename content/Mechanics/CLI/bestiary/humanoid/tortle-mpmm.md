@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Tortle
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 244*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 244_\
 ![](Mechanics/CLI/bestiary/humanoid/img/tortle.webp#right)
 
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
@@ -65,6 +66,7 @@ title: Tortle
 
 ***Shell Defense.*** The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is [prone](Mechanics/CLI/rules/conditions.md#Prone), its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge.
 ```
+
 ^statblock
 
 ## Environment

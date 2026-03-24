@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Drider Spellcaster
-*Source: Monster Manual p. 120. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 120. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 ```ad-statblock
 title: Drider Spellcaster
@@ -71,6 +72,7 @@ title: Drider Spellcaster
 
 ***Longbow.*** *Ranged Weapon Attack:* `+6` to hit, range 150/600 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage plus 4 (`1d8`) poison damage.
 ```
+
 ^statblock
 
 ## Environment

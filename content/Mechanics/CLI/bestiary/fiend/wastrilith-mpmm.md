@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Wastrilith
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 258*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 258_\
 ![](Mechanics/CLI/bestiary/fiend/img/wastrilith.webp#right)
 
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
@@ -78,6 +79,7 @@ If another demon drinks the foul water as an action, it gains 11 (`2d10`) tempor
 
 ***Undertow.*** If the wastrilith is underwater, it causes all water within 60 feet of it to be difficult terrain for other creatures until the start of its next turn.
 ```
+
 ^statblock
 
 ## Environment

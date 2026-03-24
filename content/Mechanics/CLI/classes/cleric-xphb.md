@@ -14,10 +14,11 @@ obsidianUIMode: preview
 ---
 
 # Cleric
-*Source: Player's Handbook (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Player's Handbook (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='6'></th><th colspan='9'>Spell Slots per Spell Level</th></tr>
@@ -58,11 +59,11 @@ obsidianUIMode: preview
 ## Starting Cleric
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: *Choose 2:* [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
+- **Skill Proficiencies**: _Choose 2:_ [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
 - **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** *Choose A or B:* (A) [Chain Shirt](Mechanics/CLI/items/chain-shirt-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Mace](Mechanics/CLI/items/mace-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), 7 GP; or (B) 110 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Chain Shirt](Mechanics/CLI/items/chain-shirt-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Mace](Mechanics/CLI/items/mace-xphb.md), [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md), [Priest's Pack](Mechanics/CLI/items/priests-pack-xphb.md), 7 GP; or (B) 110 GP
 
 ## Multiclassing Cleric
 
@@ -110,10 +111,10 @@ You have dedicated yourself to one of the following sacred roles of your choice.
 
 Options (choose 1):
 
-- **Protector**  
-    Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.  
-- **Thaumaturge**  
-    You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([Arcana](Mechanics/CLI/rules/skills.md#Arcana) or [Religion](Mechanics/CLI/rules/skills.md#Religion)) checks. The bonus equals your Wisdom modifier (minimum of +1).  
+- **Protector**\
+  Trained for battle, you gain proficiency with Martial weapons and training with Heavy armor.
+- **Thaumaturge**\
+  You know one extra cantrip from the Cleric spell list. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ([Arcana](Mechanics/CLI/rules/skills.md#Arcana) or [Religion](Mechanics/CLI/rules/skills.md#Religion)) checks. The bonus equals your Wisdom modifier (minimum of +1).
 
 ### Channel Divinity (Level 2)
 

@@ -19,8 +19,8 @@ classes:
 ---
 
 # Hex: Misfortune
-*cantrip, Divination*  
 
+_cantrip, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -31,4 +31,4 @@ Choose one creature you can see within range. Until the spell ends at the end of
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

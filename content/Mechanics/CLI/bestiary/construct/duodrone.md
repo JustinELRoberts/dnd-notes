@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Duodrone
-*Source: Monster Manual p. 225*  
+
+_Source: Monster Manual p. 225_\
 ![](Mechanics/CLI/bestiary/construct/img/duodrone.webp#right)
 
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.
@@ -30,11 +31,11 @@ Modrons are beings of absolute law that adhere to a hive-like hierarchy. They in
 Under the direction of their leader, Primus, modrons increase order in the multiverse in accordance with laws beyond the comprehension of mortal minds. Their own minds are networked in a hierarchal pyramid, in which each modron receives commands from superiors and delegates orders to underlings. A modron carries out commands with total obedience, utmost efficiency, and an absence of morality or ego. Modrons have no sense of self beyond what is necessary to fulfill their duties. They exist as a unified collective, divided by ranks, yet they always refer to themselves collectively. To a modron, there is no "I," but only "we" or "us."
 
 > [!note] Variant: Rogue Modrons
-> 
+>
 > A modron unit sometimes becomes defective, either through natural decay or exposure to chaotic forces. Rogue modrons don't act in accordance with Primus's wishes and directives, breaking laws, disobeying orders, and even engaging in violence. Other modrons hunt down such rogues.
-> 
+>
 > A rogue modron loses the Axiomatic Mind trait and can have any alignment other than lawful neutral. Otherwise, it has the same statistics as a regular modron of its rank.
-^variant-rogue-modrons
+> ^variant-rogue-modrons
 
 ### Absolute Hierarchy
 
@@ -48,10 +49,9 @@ If a modron is destroyed, its remains disintegrate. A replacement from the next 
 
 When the gears of Mechanus complete seventeen cycles once every 289 years, Primus sends a vast army of modrons across the Outer Planes, ostensibly on a reconnaissance mission. The march is long and dangerous, and only a small number of modrons returns to Mechanus.
 
-> [!quote] A quote from Kwint Stormbellow, rock gnome adventurer  
-> 
+> [!quote] A quote from Kwint Stormbellow, rock gnome adventurer
+>
 > Every 289 years, the entire multiverse goes mad. Like clockwork.
-
 
 ## Statblock
 
@@ -90,4 +90,5 @@ title: Duodrone
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+3` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage.
 ```
+
 ^statblock

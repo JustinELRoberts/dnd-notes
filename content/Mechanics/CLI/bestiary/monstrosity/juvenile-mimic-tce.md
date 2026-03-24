@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Juvenile Mimic
-*Source: Tasha's Cauldron of Everything p. 167*  
+
+_Source: Tasha's Cauldron of Everything p. 167_
 
 ```ad-statblock
 title: Juvenile Mimic
@@ -52,4 +53,5 @@ title: Juvenile Mimic
 
 ***Shape-Shift.*** The mimic polymorphs into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 ```
+
 ^statblock

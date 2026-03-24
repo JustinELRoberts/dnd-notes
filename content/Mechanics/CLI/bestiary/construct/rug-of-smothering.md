@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Rug of Smothering
-*Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/rug-of-smothering.webp#right)
 
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
@@ -69,4 +70,5 @@ title: Rug of Smothering
 
 ***Smother.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The creature is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [blinded](Mechanics/CLI/rules/conditions.md#Blinded), and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (`2d6 + 3`) bludgeoning damage.
 ```
+
 ^statblock

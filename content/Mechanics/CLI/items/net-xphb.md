@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Net
-*Adventuring gear*  
+
+_Adventuring gear_\
 ![](Mechanics/CLI/items/img/net.webp#right)
 
 - **Cost**: 1 gp
@@ -25,4 +26,4 @@ When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you ca
 
 To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check, freeing the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature on a success. Destroying the Net (AC 10; 5 HP; [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
 
-*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

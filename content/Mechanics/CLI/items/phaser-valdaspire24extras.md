@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Phaser
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d4 lightning
 - **Range**: 30/120
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 Phasers aren't designed for effectiveness so much as portability and non-lethality. These blasters are often issued to peace-keepers and emissaries that require personal defense but have no intent to kill.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Bag of Tricks
-*Wondrous item, major, uncommon*  
+
+_Wondrous item, major, uncommon_\
 ![](Mechanics/CLI/items/img/bag-of-tricks.webp#right)
 
 - **Weight**: 0.5 lbs.
@@ -26,4 +27,4 @@ obsidianUIMode: preview
 - [Bag of Tricks, Rust](Mechanics/CLI/items/bag-of-tricks-rust.md)
 - [Bag of Tricks, Tan](Mechanics/CLI/items/bag-of-tricks-tan.md)
 
-*Source: Dungeon Master's Guide p. 154*
+_Source: Dungeon Master's Guide p. 154_

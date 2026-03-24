@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # NPC Mannerisms
-*Source: Dungeon Master's Guide p. 90* 
+
+_Source: Dungeon Master's Guide p. 90_
 
 **NPC Mannerisms**
 

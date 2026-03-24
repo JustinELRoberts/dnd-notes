@@ -25,8 +25,8 @@ classes:
 ---
 
 # Otiluke's Freezing Sphere
-*6th-level, Evocation*  
 
+_6th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 300 feet
@@ -43,4 +43,4 @@ You can refrain from firing the globe after completing the spell's casting. If y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Freezing Sphere") and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Freezing Sphere") and the Free Rules (2024)_

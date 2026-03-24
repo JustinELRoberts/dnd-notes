@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Crystal Ball of Mind Reading
-*Wondrous item, major, legendary (requires attunement)*  
 
+_Wondrous item, major, legendary (requires attunement)_
 
 - **Weight**: 3.0 lbs.
 
@@ -25,4 +25,4 @@ This [crystal ball](Mechanics/CLI/items/crystal-ball.md) is about 6 inches in di
 
 You can use an action to cast the [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md) spell (save DC 17) while you are [scrying](Mechanics/CLI/spells/scrying-xphb.md) with the [crystal ball](Mechanics/CLI/items/crystal-ball.md), targeting creatures you can see within 30 feet of the spell's sensor. You don't need to concentrate on this [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md) to maintain it during its duration, but it ends if [scrying](Mechanics/CLI/spells/scrying-xphb.md) ends.
 
-*Source: Dungeon Master's Guide p. 159*
+_Source: Dungeon Master's Guide p. 159_

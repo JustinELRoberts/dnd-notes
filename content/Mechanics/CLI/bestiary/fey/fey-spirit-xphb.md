@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Fey Spirit
-*Source: Player's Handbook (2024) p. 326*  
+
+_Source: Player's Handbook (2024) p. 326_\
 ![](Mechanics/CLI/bestiary/fey/img/fey-spirit.webp#center)
 
 ```ad-statblock
@@ -54,4 +55,5 @@ title: Fey Spirit
 - **Mirthful.** *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you and the spirit for 1 minute or until the target takes any damage.  
 - **Tricksy.** The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which lasts until the end of its next turn.  
 ```
+
 ^statblock

@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Hooked Hammer
-*Weapon*  
 
+_Weapon_
 
 - **Damage**:
   - One-handed: 1d8 bludgeoning
@@ -26,4 +26,4 @@ obsidianUIMode: preview
 - **Cost**: 55 gp
 - **Weight**: 6.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

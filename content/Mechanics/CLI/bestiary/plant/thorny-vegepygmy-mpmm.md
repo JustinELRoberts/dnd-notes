@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Thorny Vegepygmy
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 253, Volo's Guide to Monsters p. 197_\
 ![](Mechanics/CLI/bestiary/plant/img/thorny-vegepygmy.webp#right)
 
 If a Beast such as a dog or a bear dies from [russet mold](Mechanics/CLI/traps-hazards/russet-mold-vgm.md), the result is a bestial moldy called a thorny, instead of a bipedal vegepygmy. Thornies are less intelligent than other vegepygmies, but they are larger and more ferocious and have thorn-covered bodies.
@@ -64,6 +65,7 @@ title: Thorny Vegepygmy
 
 ***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 10 (`2d8 + 1`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

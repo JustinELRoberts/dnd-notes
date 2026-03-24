@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Push 
+# Push
 
-
-***Prerequisites*** Level 2 Craftsman; Heavy, Two-Handed, or Versatile Property
+_**Prerequisites**_ Level 2 Craftsman; Heavy, Two-Handed, or Versatile Property
 
 If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

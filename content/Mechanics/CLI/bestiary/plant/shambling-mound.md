@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Shambling Mound
-*Source: Monster Manual p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/plant/img/shambling-mound.webp#right)
 
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
@@ -86,6 +87,7 @@ title: Shambling Mound
 
 ***Engulf.*** The shambling mound engulfs a Medium or smaller creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it. The engulfed target is [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (`2d8 + 4`) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 ```
+
 ^statblock
 
 ## Environment

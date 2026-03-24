@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Starting at Higher Level; Starting Equipment
-*Source: Dungeon Master's Guide p. 38* 
+
+_Source: Dungeon Master's Guide p. 38_
 
 **Starting Equipment**
 

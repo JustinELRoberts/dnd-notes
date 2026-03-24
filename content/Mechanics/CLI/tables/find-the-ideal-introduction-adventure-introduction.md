@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Find the Ideal Introduction; Adventure Introduction
-*Source: Dungeon Master's Guide p. 74* 
+
+_Source: Dungeon Master's Guide p. 74_
 
 **Adventure Introduction**
 

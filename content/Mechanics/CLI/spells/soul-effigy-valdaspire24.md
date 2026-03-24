@@ -23,8 +23,8 @@ classes:
 ---
 
 # Soul Effigy
-*4th-level, Necromancy (ritual)*  
 
+_4th-level, Necromancy (ritual)_
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Touch
@@ -49,4 +49,4 @@ You submerge the effigy in water, causing the target to believe it is suffocatin
 
 **Classes**: [Necromancer (Crone)](Mechanics/CLI/lists/list-spells-classes-crone-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

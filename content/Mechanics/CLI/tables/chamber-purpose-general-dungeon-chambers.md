@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Chamber Purpose; General Dungeon Chambers
-*Source: Dungeon Master's Guide p. 292* 
+
+_Source: Dungeon Master's Guide p. 292_
 
 **General Dungeon Chambers**
 

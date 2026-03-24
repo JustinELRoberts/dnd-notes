@@ -13,10 +13,9 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Skulker 
+# Skulker
 
-
-***Prerequisites*** 4th; Dexterity 13 or higher
+_**Prerequisites**_ 4th; Dexterity 13 or higher
 
 You gain the following benefits.
 
@@ -27,6 +26,7 @@ You gain the following benefits.
 **Fog of War.** You exploit the distractions of battle, gaining [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) check you make as part of the [Hide](Mechanics/CLI/rules/actions.md#Hide) action during combat.
 
 **Sniper.** If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
+
 ## Sources
 
-*Player's Handbook (2024) p. 208*
+_Player's Handbook (2024) p. 208_

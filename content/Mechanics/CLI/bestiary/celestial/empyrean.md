@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Empyrean
-*Source: Monster Manual p. 130*  
+
+_Source: Monster Manual p. 130_\
 ![](Mechanics/CLI/bestiary/celestial/img/empyrean.webp#right)
 
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
@@ -87,4 +88,5 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the empyrea
 
 ***Trembling Strike (Costs 2 Actions).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
 ```
+
 ^statblock

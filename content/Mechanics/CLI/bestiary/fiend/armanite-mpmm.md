@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Armanite
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 50*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 50_\
 ![](Mechanics/CLI/bestiary/fiend/img/armanite.webp#right)
 
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
@@ -65,6 +66,7 @@ title: Armanite
 
 ***Lightning Lance (Recharge 5-6).*** The armanite looses a bolt of lightning in a line that is 60 feet long and 10 feet wide. Each creature in the line must make a DC 15 Dexterity saving throw, taking 36 (`8d8`) lightning damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,8 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Dehydration
-*Generic Hazard*  
 
+_Generic Hazard_
 
 A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level at the day's end. [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) caused by dehydration can't be removed until the creature drinks the full amount of water required for a day.
 
@@ -32,4 +32,4 @@ A creature requires an amount of water per day based on its size, as shown in th
 
 ## Sources
 
-*Player's Handbook (2024) p. 365*
+_Player's Handbook (2024) p. 365_

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Boromar Underboss
-*Source: Eberron: Forge of the Artificer p. 57*  
+
+_Source: Eberron: Forge of the Artificer p. 57_\
 ![](Mechanics/CLI/bestiary/humanoid/img/boromar-underboss.webp#right)
 
 Underbosses supervise larger clan operations, such as gambling halls and warehouses of smuggled goods awaiting transport. Accustomed to the criminal lifestyle, these hardy individuals (mostly halflings) dismiss and dispose of threats with calculated ease.
@@ -59,4 +60,5 @@ title: Boromar Underboss
 
 ***Uncanny Dodge.*** Trigger: The underboss is hit by an attack roll. _Response:_ The underboss halves the damage (round down) it takes from that attack.
 ```
+
 ^statblock

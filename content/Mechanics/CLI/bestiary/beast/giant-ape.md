@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Ape
-*Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Ape
@@ -47,6 +48,7 @@ title: Giant Ape
 
 ***Rock.*** *Ranged Weapon Attack:* `+9` to hit, range 50/100 ft., one target. *Hit:* 30 (`7d6 + 6`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

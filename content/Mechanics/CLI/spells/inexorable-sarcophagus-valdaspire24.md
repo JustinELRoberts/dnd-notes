@@ -18,8 +18,8 @@ classes:
 ---
 
 # Inexorable Sarcophagus
-*6th-level, Necromancy*  
 
+_6th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -38,4 +38,4 @@ A creature killed by this spell rises at the start of your next turn as a Mummy 
 
 **Classes**: [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

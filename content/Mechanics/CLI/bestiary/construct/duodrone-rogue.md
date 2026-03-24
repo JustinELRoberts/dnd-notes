@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Duodrone (Rogue)
-*Source: Monster Manual p. 225*  
+
+_Source: Monster Manual p. 225_
 
 ```ad-statblock
 title: Duodrone (Rogue)
@@ -50,4 +51,5 @@ title: Duodrone (Rogue)
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+3` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage.
 ```
+
 ^statblock

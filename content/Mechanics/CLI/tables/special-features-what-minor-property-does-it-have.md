@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Special Features; What Minor Property Does It Have
-*Source: Dungeon Master's Guide p. 141* 
+
+_Source: Dungeon Master's Guide p. 141_
 
 **What Minor Property Does It Have**
 

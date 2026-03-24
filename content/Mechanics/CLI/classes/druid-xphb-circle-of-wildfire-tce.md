@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Circle of Wildfire
-*[Druid](./druid-xphb.md): Druid Subclass*  
-*Source: Tasha's Cauldron of Everything p. 39*  
+
+_[Druid](./druid-xphb.md): Druid Subclass_\
+_Source: Tasha's Cauldron of Everything p. 39_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -57,7 +58,7 @@ Druids within the Circle of Wildfire understand that destruction is sometimes th
 
 ### Circle Spells (Level 2)
 
-*2nd-level Circle of Wildfire feature*
+_2nd-level Circle of Wildfire feature_
 
 You have formed a bond with a wildfire spirit, a primal being of creation and destruction. Your link with this spirit grants you access to some spells when you reach certain levels in this class, as shown on the Circle of Wildfire Spells table.
 
@@ -76,7 +77,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 ### Summon Wildfire Spirit (Level 2)
 
-*2nd-level Circle of Wildfire feature*
+_2nd-level Circle of Wildfire feature_
 
 You can summon the primal spirit bound to your soul. As an action, you can expend one use of your Wild Shape feature to summon your wildfire spirit, rather than assuming a beast form.
 
@@ -90,7 +91,7 @@ The spirit manifests for 1 hour, until it is reduced to 0 hit points, until you 
 
 ### Enhanced Bond (Level 6)
 
-*6th-level Circle of Wildfire feature*
+_6th-level Circle of Wildfire feature_
 
 The bond with your wildfire spirit enhances your destructive and restorative spells. Whenever you cast a spell that deals fire damage or restores hit points while your wildfire spirit is summoned, roll a `d8`, and you gain a bonus equal to the number rolled to one damage or healing roll of the spell.
 
@@ -98,7 +99,7 @@ In addition, when you cast a spell with a range other than self, the spell can o
 
 ### Cauterizing Flames (Level 10)
 
-*10th-level Circle of Wildfire feature*
+_10th-level Circle of Wildfire feature_
 
 You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature's space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals `2d10` + your Wisdom modifier.
 
@@ -106,7 +107,7 @@ You can use this reaction a number of times equal to your proficiency bonus, and
 
 ### Blazing Revival (Level 14)
 
-*14th-level Circle of Wildfire feature*
+_14th-level Circle of Wildfire feature_
 
 The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious), you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet.
 

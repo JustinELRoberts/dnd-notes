@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Witch Sight 
+# Witch Sight
 
-
-***Prerequisites*** Level 15
+_**Prerequisites**_ Level 15
 
 You have [Truesight](Mechanics/CLI/rules/senses.md#Truesight) with a range of 30 feet.
+
 ## Sources
 
-*Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+_Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

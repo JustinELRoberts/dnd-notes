@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Urban Encounters (Levels 17—20)
-*Source: Xanathar's Guide to Everything p. 110* 
+
+_Source: Xanathar's Guide to Everything p. 110_
 
 **Urban Encounters (Levels 17—20)**
 

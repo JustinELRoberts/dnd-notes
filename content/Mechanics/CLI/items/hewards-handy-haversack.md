@@ -15,7 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Heward's Handy Haversack
-*Wondrous item, minor, rare*  
+
+_Wondrous item, minor, rare_\
 ![](Mechanics/CLI/items/img/hewards-handy-haversack.webp#right)
 
 - **Weight**: 5.0 lbs.
@@ -28,4 +29,4 @@ The haversack has a few limitations. If it is overloaded, or if a sharp object p
 
 Placing the haversack inside an extradimensional space created by a [bag of holding](Mechanics/CLI/items/bag-of-holding.md), [portable hole](Mechanics/CLI/items/portable-hole.md), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10-feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Handy Haversack")*
+_Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Handy Haversack")_

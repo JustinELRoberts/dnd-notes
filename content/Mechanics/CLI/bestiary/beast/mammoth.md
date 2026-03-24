@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Mammoth
-*Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
 
+_Source: Monster Manual p. 332. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 A mammoth is an elephantine creature with thick fur and long tusks. Stockier and fiercer than normal elephants, mammoths inhabit a wide range of climes, from subarctic to subtropical.
 
@@ -52,6 +52,7 @@ title: Mammoth
 
 ***Stomp.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one [prone](Mechanics/CLI/rules/conditions.md#Prone) creature. *Hit:* 29 (`4d10 + 7`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

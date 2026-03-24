@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Dretch
-*Source: Monster Manual p. 57. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 57. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/dretch.webp#right)
 
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
@@ -160,33 +161,32 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 ^demons-by-type
 
 > [!note] Demon True Names
-> 
+>
 > Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
-> 
+>
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
-^demon-true-names
+> ^demon-true-names
 
 > [!note] Variant: Demon Summoning
-> 
+>
 > Some demons can have an action option that allows them to summon other demons. Summon Demon (1/Day). The demon chooses what to summon and attempts a magical summoning.
-> 
-> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.  
-> - A barlgura has a 30 percent chance of summoning one barlgura.  
-> - A chasme has a 30 percent chance of summoning one chasme.  
-> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.  
-> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.  
-> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.  
-> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.  
-> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.  
-> - A yochlol has a 50 percent chance of summoning one yochlol.  
-> 
+>
+> - A balor has a 50 percent chance of summoning `1d8` vrocks, `1d6` hezrous, `1d4` glabrezus, `1d3` nalfeshnees, `1d2` mariliths, or one goristro.
+> - A barlgura has a 30 percent chance of summoning one barlgura.
+> - A chasme has a 30 percent chance of summoning one chasme.
+> - A glabrezu has a 30 percent chance of summoning `1d3` vrocks, `1d2` hezrous, or one glabrezu.
+> - A hezrou has a 30 percent chance of summoning `2d6` dretches or one hezrou.
+> - A marilith has a 50 percent chance of summoning `1d6` vrocks, `1d4` hezrous, `1d3` glabrezus, `1d2` nalfeshnees, or one marilith.
+> - A nalfeshnee has a 50 percent chance of summoning `1d4` vrocks, `1d3` hezrous, `1d2` glabrezus, or one nalfeshnee.
+> - A vrock has a 30 percent chance of summoning `2d4` dretches or one vrock.
+> - A yochlol has a 50 percent chance of summoning one yochlol.
+>
 > A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-^variant-demon-summoning
+> ^variant-demon-summoning
 
-> [!quote] A quote from From the Demonomicon of Iggwilv  
-> 
+> [!quote] A quote from From the Demonomicon of Iggwilv
+>
 > Demons are painfully difficult to summon and control. It is not a burden for the weak of heart or the weak of spirit.
-
 
 ## Statblock
 
@@ -223,4 +223,5 @@ title: Dretch
 
 ***Fetid Cloud (1/Day).*** A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of its next turn. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
 ```
+
 ^statblock

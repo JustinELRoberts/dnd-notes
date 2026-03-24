@@ -21,8 +21,8 @@ classes:
 ---
 
 # Hex: Blood Curse
-*cantrip, Transmutation*  
 
+_cantrip, Transmutation_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -35,4 +35,4 @@ A creature you can see within range becomes cursed until the spell ends at the e
 
 **Classes**: [Warmage (House of Knights)](Mechanics/CLI/lists/list-spells-classes-house-of-knights-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

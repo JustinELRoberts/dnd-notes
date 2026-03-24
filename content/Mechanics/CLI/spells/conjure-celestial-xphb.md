@@ -22,8 +22,8 @@ classes:
 ---
 
 # Conjure Celestial
-*7th-level, Conjuration*  
 
+_7th-level, Conjuration_
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -32,8 +32,8 @@ classes:
 
 You conjure a spirit from the Upper Planes, which manifests as a pillar of light in a 10-foot-radius, 40-foot-high [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md) centered on a point within range. For each creature you can see in the [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md), choose which of these lights shines on it:
 
-- **Healing Light.** The target regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `4d12` plus your spellcasting ability modifier.  
-- **Searing Light.** The target makes a Dexterity saving throw, taking `6d12` Radiant damage on a failed save or half as much damage on a successful one.  
+- **Healing Light.** The target regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `4d12` plus your spellcasting ability modifier.
+- **Searing Light.** The target makes a Dexterity saving throw, taking `6d12` Radiant damage on a failed save or half as much damage on a successful one.
 
 Until the spell ends, [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) fills the [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md), and when you move on your turn, you can also move the [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md) up to 30 feet.
 
@@ -43,4 +43,4 @@ Whenever the [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effec
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

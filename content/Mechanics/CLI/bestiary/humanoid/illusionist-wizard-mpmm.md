@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Illusionist Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 263, Volo's Guide to Monsters p. 214_\
 ![](Mechanics/CLI/bestiary/humanoid/img/illusionist-wizard.webp#right)
 
 Illusionists twist light, sound, and even thought to create illusory effects. Some illusionists are delightful entertainers, while others are devilish tricksters.
@@ -64,6 +65,7 @@ title: Illusionist Wizard
 
 ***Displacement (Recharge 5-6).*** The illusionist projects an illusion that makes the illusionist appear to be standing in a place a few inches from its actual location, causing any creature to have disadvantage on attack rolls against the illusionist. The effect lasts for 1 minute, and it ends early if the illusionist takes damage, if it is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), or if its speed becomes 0.
 ```
+
 ^statblock
 
 ## Environment

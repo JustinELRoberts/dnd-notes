@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Duplicitous Manuscript
-*Wondrous item, spellcasting focus, rare (requires attunement by a wizard)*  
 
+_Wondrous item, spellcasting focus, rare (requires attunement by a wizard)_
 
 - **Weight**: 3.0 lbs.
 
@@ -29,7 +29,7 @@ While you are holding the book, you can use it as a spellcasting focus for your 
 
 The book has 3 charges, and it regains `1d3` expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
-- If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the illusion school.  
-- When a creature you can see makes an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to discern the true nature of an illusion spell you cast, or makes a saving throw against an illusion spell you cast, you can use your reaction and expend 1 charge to impose disadvantage on the roll.  
+- If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the illusion school.
+- When a creature you can see makes an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to discern the true nature of an illusion spell you cast, or makes a saving throw against an illusion spell you cast, you can use your reaction and expend 1 charge to impose disadvantage on the roll.
 
-*Source: Tasha's Cauldron of Everything p. 126*
+_Source: Tasha's Cauldron of Everything p. 126_

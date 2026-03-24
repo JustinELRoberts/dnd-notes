@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Brewing Potions of Healing; Potion of Healing Creation
-*Source: Xanathar's Guide to Everything p. 130* 
+
+_Source: Xanathar's Guide to Everything p. 130_
 
 **Potion of Healing Creation**
 

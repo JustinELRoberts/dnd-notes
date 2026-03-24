@@ -22,7 +22,8 @@ classes:
 ---
 
 # Hunger of Hadar
-*3rd-level, Conjuration*  
+
+_3rd-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/hunger-of-hadar.webp#right)
 
 - **Casting time:** 1 Action
@@ -38,4 +39,4 @@ Any creature that starts its turn in the area takes `2d6` Cold damage. Any creat
 
 **Classes**: [Sorcerer (Aberrant Sorcery)](Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
 
-*Source: Player's Handbook (2024) p. 286*
+_Source: Player's Handbook (2024) p. 286_

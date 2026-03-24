@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Young Blue Dragon
-*Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/young-blue-dragon.webp#right)
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -138,6 +139,7 @@ title: Young Blue Dragon
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 55 (`10d10`) lightning damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

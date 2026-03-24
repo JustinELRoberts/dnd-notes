@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Black Sapphire
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 5,000 gp
 
 A translucent lustrous black with glowing highlights gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

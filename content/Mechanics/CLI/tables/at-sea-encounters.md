@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # At Sea Encounters
-*Source: Dungeon Master's Guide p. 118* 
+
+_Source: Dungeon Master's Guide p. 118_
 
 **At Sea Encounters**
 

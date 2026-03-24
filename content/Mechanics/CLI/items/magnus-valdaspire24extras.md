@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Magnus
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d8 radiant
 - **Range**: 30/120
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 This impressive handgun weighs almost twice that of a Repeater. Its infamous heft, recoil, and stopping power make it a favorite of spacers that accept no compromises.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

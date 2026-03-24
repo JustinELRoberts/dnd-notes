@@ -23,7 +23,8 @@ obsidianUIMode: preview
 ---
 
 # Orc War Chief
-*Source: Monster Manual p. 246*  
+
+_Source: Monster Manual p. 246_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc.webp#right)
 
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
@@ -65,20 +66,19 @@ The war chief of an orc tribe is its strongest and most cunning member. The reig
 Gruumsh bestows special blessings upon war chiefs who prove themselves in battle time and again, imbuing them with slivers of his savagery. A war chief so blessed finds that his weapons cut deeper into his enemies, allowing him to inflict more carnage.
 
 > [!note] King Obould Many-Arrows
-> 
-> King Obould of the Many-Arrows tribe is a legend among the orc war chiefs of the Forgotten Realms, and he is the most famous orc chief in the history of the D&D game.
-> 
+>
+> King Obould of the Many-Arrows tribe is a legend among the orc war chiefs of the Forgotten Realms, and he is the most famous orc chief in the history of the D\&D game.
+>
 > Smarter and more intuitive than most of his kind, Obould slew his chieftain to take control of his tribe. Skilled in the arts of war and renowned for his violent temper, Obould proved himself a fierce opponent in battle time and again. Over the years, he subsumed other orc tribes into his own, until he commanded a horde of thousands.
-> 
+>
 > Obould leveraged his strength and influence to carve out a kingdom for himself in the Spine of the World, a mountain range overlooking numerous dwarven, human, and elven strongholds.
-> 
+>
 > After years of bloody conflict with his more civilized neighbors, Obould did the unthinkable and brokered a peace treaty with his enemies. This treaty confused many of the orcs under Obould's command. It was either a clever ploy by Obould to buy time while he strengthened his army for a final, decisive sweep across the Savage Frontier, or it was a troubling sign that Obould had forsaken the ways of Gruumsh and needed to be destroyed.
-^king-obould-many-arrows
+> ^king-obould-many-arrows
 
-> [!quote] A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale  
-> 
+> [!quote] A quote from An account of War Chief Hartusk's brutality in the aftermath of the Battle of the Cold Vale
+>
 > He worked his serrated long knife savagely, tearing out the king's throat to the howls of approval from his legions. The ferocious orc didn't stop there, digging and ripping the blade back and forth unrelentingly until he took the head off the dwarf king's shoulders.
-
 
 ## Statblock
 
@@ -119,6 +119,7 @@ title: Orc War Chief
 
 ***Battle Cry (1/Day).*** Each creature of the war chief's choice that is within 30 feet of it, can hear it, and not already affected by Battle Cry gain advantage on attack rolls until the start of the war chief's next turn. The war chief can then make one attack as a bonus action.
 ```
+
 ^statblock
 
 ## Environment

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Sentient Magic Item Senses
-*Source: Dungeon Master's Guide p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+
+_Source: Dungeon Master's Guide p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 **Sentient Magic Item Senses**
 

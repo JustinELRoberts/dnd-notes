@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Airship
-*Airship, vehicle (air)*  
 
+_Airship, vehicle (air)_
 
 - **Cost**: 40,000 gp
 
-*Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_

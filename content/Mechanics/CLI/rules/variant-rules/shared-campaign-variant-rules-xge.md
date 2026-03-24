@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Shared Campaign Variant Rules
-*Source: Xanathar's Guide to Everything p. 173* 
+
+_Source: Xanathar's Guide to Everything p. 173_
 
 A shared campaign might use some variant rules to handle certain aspects of the game. The Adventurers League, for instance, has variant systems for gaining levels and acquiring treasure. These "house rules," presented below, serve as a sort of common language, ensuring that the rewards all characters receive are equivalent no matter what kind of adventure a character experienced.
 
@@ -31,8 +32,8 @@ Playing time might seem like an odd way to measure experience awards, but the co
 
 The number of checkpoints needed to gain the next level depends on a character's level:
 
-- At levels 1–4, reaching 4 checkpoints is sufficient to advance to the next level.  
-- At level 5 or higher, reaching 8 checkpoints is needed to advance to the next level.  
+- At levels 1–4, reaching 4 checkpoints is sufficient to advance to the next level.
+- At level 5 or higher, reaching 8 checkpoints is needed to advance to the next level.
 
 At the end of a play session, characters must level up if they have reached enough checkpoints to do so. The required number of checkpoints is expended, and any remaining checkpoints are applied toward the next opportunity for advancement.
 
@@ -62,8 +63,8 @@ Characters earn treasure points from adventures, then redeem those points in exc
 
 Each character earns treasure points based on an adventure's tier and its intended playing time:
 
-- 1 treasure point is awarded for every 2 hours played in a tier 1 or tier 2 adventure.  
-- 1 treasure point is awarded for every 1 hour played in a tier 3 or tier 4 adventure.  
+- 1 treasure point is awarded for every 2 hours played in a tier 1 or tier 2 adventure.
+- 1 treasure point is awarded for every 1 hour played in a tier 3 or tier 4 adventure.
 
 As with the variant rules for gaining levels, this award is based on the adventure's projected playing time, rather than the actual time a group spent at the table.
 

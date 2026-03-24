@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Pteranodon
-*Source: Monster Manual p. 80. Available in the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 80. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/dinosaurs.webp#right)
 
 These flying reptiles have wingspans of 15 to 20 feet and typically dive for small marine prey, though they are opportunists and will attack any creature that appears edible. A pteranodon has no teeth, instead using its sharp beak to stab prey too large to swallow with one gulp.
@@ -60,6 +61,7 @@ title: Pteranodon
 
 ***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

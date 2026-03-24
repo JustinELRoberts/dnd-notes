@@ -18,8 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Sword of Answering
-*Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), major, legendary (requires attunement)*  
 
+_Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), major, legendary (requires attunement)_
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -39,4 +39,4 @@ obsidianUIMode: preview
 - [Sword of Answering (Scather)](Mechanics/CLI/items/sword-of-answering-scather.md)
 - [Sword of Answering (Squelcher)](Mechanics/CLI/items/sword-of-answering-squelcher.md)
 
-*Source: Dungeon Master's Guide p. 206*
+_Source: Dungeon Master's Guide p. 206_

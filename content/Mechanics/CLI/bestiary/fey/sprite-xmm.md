@@ -19,15 +19,16 @@ obsidianUIMode: preview
 ---
 
 # Sprite
-*Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+
+_Source: Monster Manual (2024) p. 298, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/fey/img/sprite.webp#right)
 
 ## Sprite
 
-*Elusive Defender of Fey Realms*
+_Elusive Defender of Fey Realms_
 
-- **Habitat.** Forest, Planar (Feywild)  
-- **Treasure.** Armaments  
+- **Habitat.** Forest, Planar (Feywild)
+- **Treasure.** Armaments
 
 Sprites dwell in mystical forests touched by the magic of the Feywild, living peacefully with most other Fey and friends of nature. These foot-tall spirits of nature resemble elves with exaggerated, whimsical features and gossamer wings.
 
@@ -35,10 +36,9 @@ Sprites can sense the innate goodness or wickedness of other creatures. Those th
 
 Sprites oppose any creatures that seek to harm places of natural magic and beauty. This can put them into conflict with would-be settlers, monsters like ettercaps, and despoilers such as goblinoids and hags. They frequently aid other good creatures of the forest, including treants and unicorns, in defending their homes.
 
-> [!quote]  
-> 
+> [!quote]
+>
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
-
 
 ```ad-statblock
 title: Sprite
@@ -71,6 +71,7 @@ title: Sprite
 ***Invisibility.*** The sprite casts [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
 ```
+
 ^statblock
 
 ## Environment

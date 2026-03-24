@@ -22,8 +22,8 @@ classes:
 ---
 
 # Soul Cage
-*6th-level, Necromancy*  
 
+_6th-level, Necromancy_
 
 - **Casting time:** 1 Reaction
 - **Range:** 60 feet
@@ -54,4 +54,4 @@ A creature that can see the sensor (such as one using [see invisibility](Mechani
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 165*
+_Source: Xanathar's Guide to Everything p. 165_

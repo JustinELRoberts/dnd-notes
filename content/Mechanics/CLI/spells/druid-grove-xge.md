@@ -20,8 +20,8 @@ classes:
 ---
 
 # Druid Grove
-*6th-level, Abjuration*  
 
+_6th-level, Abjuration_
 
 - **Casting time:** 10 minutes
 - **Range:** Touch
@@ -50,9 +50,9 @@ You can animate up to four trees in the area, causing them to uproot themselves 
 
 You can place your choice of one of the following magical effects within the warded area:
 
-- A constant [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) in two locations of your choice  
-- [Spike growth](Mechanics/CLI/spells/spike-growth-xphb.md) in one location of your choice  
-- [Wind wall](Mechanics/CLI/spells/wind-wall-xphb.md) in two locations of your choice  
+- A constant [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) in two locations of your choice
+- [Spike growth](Mechanics/CLI/spells/spike-growth-xphb.md) in one location of your choice
+- [Wind wall](Mechanics/CLI/spells/wind-wall-xphb.md) in two locations of your choice
 
 To a creature immune to this effect, the winds are a fragrant, gentle breeze, and the area of [spike growth](Mechanics/CLI/spells/spike-growth-xphb.md) is harmless.
 
@@ -60,4 +60,4 @@ To a creature immune to this effect, the winds are a fragrant, gentle breeze, an
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
 
-*Source: Xanathar's Guide to Everything p. 154*
+_Source: Xanathar's Guide to Everything p. 154_

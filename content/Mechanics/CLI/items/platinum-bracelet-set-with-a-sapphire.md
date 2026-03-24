@@ -15,9 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Platinum bracelet set with a sapphire
-*Treasure (art object)*  
 
+_Treasure (art object)_
 
 - **Cost**: 2,500 gp
 
-*Source: Dungeon Master's Guide p. 135*
+_Source: Dungeon Master's Guide p. 135_

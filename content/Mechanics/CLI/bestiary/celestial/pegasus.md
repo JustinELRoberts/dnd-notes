@@ -19,7 +19,8 @@ obsidianUIMode: preview
 ---
 
 # Pegasus
-*Source: Monster Manual p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/celestial/img/pegasus.webp#right)
 
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.
@@ -36,10 +37,9 @@ Pegasi trace their origins to the Olympian Glades of Arborea, where they soar th
 
 Pegasi mate for life, build their nests in hard-to-reach locations, and give birth to live young.
 
-> [!quote] A quote from Tyllenvane d'Orien, dragonmarked scion arguing to change the symbol of House Orien from the unicorn to the pegasus  
-> 
+> [!quote] A quote from Tyllenvane d'Orien, dragonmarked scion arguing to change the symbol of House Orien from the unicorn to the pegasus
+>
 > Behold, the pegasus. It can outrace a dragon in the open sky, and only the best among us can ever hope to ride one. A fitting emblem for our great house, don't you think?
-
 
 ## Statblock
 
@@ -67,6 +67,7 @@ title: Pegasus
 
 ***Hooves.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage.
 ```
+
 ^statblock
 
 ## Environment

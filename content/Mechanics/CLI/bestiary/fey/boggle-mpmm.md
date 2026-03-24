@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Boggle
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 65, Volo's Guide to Monsters p. 128_\
 ![](Mechanics/CLI/bestiary/fey/img/boggle.webp#right)
 
 Boggles are the little bogeys of fairy tales. They lurk in the fringes of the Feywild and are also found on the Material Plane, where they hide under beds and in closets, waiting to frighten and bedevil folk with their mischief.
@@ -70,6 +71,7 @@ title: Boggle
 
 ***Dimensional Rift.*** The boggle creates an [invisible](Mechanics/CLI/rules/conditions.md#Invisible) and immobile rift within an opening or frame it can see within 5 feet of it, provided that the space is no bigger than 10 feet on any side. The dimensional rift bridges the distance between that space and a point within 30 feet of it that the boggle can see or specify by distance and direction (such as "30 feet straight up"). While next to the rift, the boggle can see through it and is considered to be next to the destination as well, and anything the boggle puts through the rift (including a portion of its body) emerges at the destination. Only the boggle can use the rift, and it lasts until the end of the boggle's next turn.
 ```
+
 ^statblock
 
 ## Environment

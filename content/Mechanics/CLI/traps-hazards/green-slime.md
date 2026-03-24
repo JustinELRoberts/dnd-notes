@@ -13,8 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Green Slime
-*Generic Hazard*  
 
+_Generic Hazard_
 
 This acidic slime devours flesh, organic material, and metal on contact. Bright green, wet, and sticky, it clings to walls, floors, and ceilings in patches.
 
@@ -26,4 +26,4 @@ Sunlight, any effect that cures disease, and any effect that deals cold, fire, o
 
 ## Sources
 
-*Dungeon Master's Guide p. 105*
+_Dungeon Master's Guide p. 105_

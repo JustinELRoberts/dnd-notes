@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Racial Feats
-*Source: Xanathar's Guide to Everything p. 73* 
+
+_Source: Xanathar's Guide to Everything p. 73_
 
 **Racial Feats**
 

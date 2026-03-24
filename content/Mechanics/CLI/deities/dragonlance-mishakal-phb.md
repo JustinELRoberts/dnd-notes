@@ -18,15 +18,12 @@ obsidianUIMode: preview
 
 # Mishakal
 
-
 - **Alignment**: Lawful Good
 - **Category**: The Gods of Good
 - **Domains**: Knowledge, Life, Twilight
 - **Pantheon**: Dragonlance
 - **Symbol**: Blue infinity sign
 
-
-
 ## Sources
 
-*Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34*
+_Player's Handbook p. 295, Tasha's Cauldron of Everything p. 34_

@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Experience Points by Challenge Rating
-*Source: Monster Manual p. 9* 
+
+_Source: Monster Manual p. 9_
 
 **Experience Points by Challenge Rating**
 

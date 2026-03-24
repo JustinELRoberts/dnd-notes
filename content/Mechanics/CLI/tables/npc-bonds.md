@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # NPC Bonds
-*Source: Dungeon Master's Guide p. 91* 
+
+_Source: Dungeon Master's Guide p. 91_
 
 **NPC Bonds**
 

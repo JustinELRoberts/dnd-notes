@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Dragon Scale Mail
-*Medium armor, major, very rare (requires attunement)*  
+
+_Medium armor, major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
@@ -37,4 +38,4 @@ obsidianUIMode: preview
 - [Silver Dragon Scale Mail](Mechanics/CLI/items/silver-dragon-scale-mail.md)
 - [White Dragon Scale Mail](Mechanics/CLI/items/white-dragon-scale-mail.md)
 
-*Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

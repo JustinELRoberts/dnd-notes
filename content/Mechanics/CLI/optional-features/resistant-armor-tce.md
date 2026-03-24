@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Resistant Armor 
+# Resistant Armor
 
-
-***Prerequisites*** Level 6, A suit of armor (requires attunement)
+_**Prerequisites**_ Level 6, A suit of armor (requires attunement)
 
 While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 23*
+_Tasha's Cauldron of Everything p. 23_

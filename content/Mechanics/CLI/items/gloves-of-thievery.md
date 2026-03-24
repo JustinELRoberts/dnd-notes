@@ -15,10 +15,9 @@ obsidianUIMode: preview
 ---
 
 # Gloves of Thievery
-*Wondrous item, major, uncommon*  
 
-
+_Wondrous item, major, uncommon_
 
 These gloves are [invisible](Mechanics/CLI/rules/conditions.md#Invisible) while worn. While wearing them, you gain a +5 bonus to Dexterity ([Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) checks and Dexterity checks made to pick locks.
 
-*Source: Dungeon Master's Guide p. 172*
+_Source: Dungeon Master's Guide p. 172_

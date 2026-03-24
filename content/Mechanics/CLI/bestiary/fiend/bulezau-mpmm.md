@@ -16,13 +16,14 @@ obsidianUIMode: preview
 ---
 
 # Bulezau
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 67*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 67_\
 ![](Mechanics/CLI/bestiary/fiend/img/bulezau.webp#right)
 
-> [!quote] A quote from Tasha  
-> 
+> [!quote] A quote from Tasha
+>
 > Some ask why the bulezau, for all its rage and violence, has the head of a goat. I always respond, have you met a goat? They're stubborn, they're vicious, and they rarely go down without bashing you several times in the shins.
-> 
+>
 > You might say, that's awfully specific. I say, don't pry.
 
 Diseased manifestations of animalistic rage, bulezaus embody the violence of nature. Across the Abyss, these demons lurk in deep canyons and lofty crags, and many find a place in the ranks of demon lords' armies, serving as foot soldiers in the Abyss's endless warring.
@@ -66,4 +67,5 @@ title: Bulezau
 
 ***Barbed Tail.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 8 (`1d12 + 2`) piercing damage plus 4 (`1d8`) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the disease ends. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (`1d8`). The target dies if its hit point maximum is reduced to 0.
 ```
+
 ^statblock

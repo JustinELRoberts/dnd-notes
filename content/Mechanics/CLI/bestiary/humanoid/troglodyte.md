@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Troglodyte
-*Source: Monster Manual p. 290*  
+
+_Source: Monster Manual p. 290_\
 ![](Mechanics/CLI/bestiary/humanoid/img/troglodyte.webp#right)
 
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
@@ -34,10 +35,9 @@ Troglodytes make little and build less, scavenging their possessions from their 
 
 Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that slumbers in the Abyss. Laogzed offers the troglodytes nothing in return except aspiration, for it is the dream of his troglodyte worshipers to become as fat, well-fed, and wearily content as he seems to be.
 
-> [!quote] A quote from Last words of Arlack Hammermantle, dwarf spelunker  
-> 
+> [!quote] A quote from Last words of Arlack Hammermantle, dwarf spelunker
+>
 > Smells like an orc's loincloth in here!
-
 
 ![](Mechanics/CLI/bestiary/humanoid/img/troglodyte-2.webp#center)
 
@@ -79,6 +79,7 @@ title: Troglodyte
 
 ***Claw.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) slashing damage.
 ```
+
 ^statblock
 
 ## Environment

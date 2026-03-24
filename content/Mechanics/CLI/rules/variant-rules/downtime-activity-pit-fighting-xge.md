@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Pit Fighting
-*Source: Xanathar's Guide to Everything p. 131* 
+
+_Source: Xanathar's Guide to Everything p. 131_
 
 Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. If you want to introduce competitive fighting in a battle-to-the-death situation, the standard combat rules apply to that sort of activity.
 

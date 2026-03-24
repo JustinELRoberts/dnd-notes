@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Zombie
-*Source: Valda's Spire of Secrets (2024) p. 0*  
+
+_Source: Valda's Spire of Secrets (2024) p. 0_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaNecromancer/Creatures/Zombie.webp#right)
 
 A zombie is the rotting remains of the once living, held together and driven by dark magic.
@@ -51,4 +52,5 @@ title: Zombie
 
 ***Slam.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 5 (`1d8 + 1`) Bludgeoning damage.
 ```
+
 ^statblock

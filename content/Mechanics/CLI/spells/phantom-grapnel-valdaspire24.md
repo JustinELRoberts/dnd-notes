@@ -19,8 +19,8 @@ classes:
 ---
 
 # Phantom Grapnel
-*cantrip, Evocation*  
 
+_cantrip, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -31,4 +31,4 @@ You conjure a chain and hook made of magical force, which you propel at a creatu
 
 **Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

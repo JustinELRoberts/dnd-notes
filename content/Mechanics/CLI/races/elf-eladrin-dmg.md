@@ -14,8 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Elf (Eladrin)
-*Source: Dungeon Master's Guide p. 286*  
 
+_Source: Dungeon Master's Guide p. 286_
 
 - **Ability Scores**: int +1
 - **Size**: Medium

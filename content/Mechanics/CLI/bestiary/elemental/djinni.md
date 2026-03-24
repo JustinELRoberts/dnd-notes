@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Djinni
-*Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 144. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/djinni.webp#right)
 
 Proud, sensuous genies from the Elemental Plane of Air, the djinn are attractive, tall, well-muscled humanoids with blue skin and dark eyes. They dress in airy, shimmering silks, designed as much for comfort as to flaunt their musculature.
@@ -116,6 +117,7 @@ title: Djinni
 
 A creature can use its action to free a creature [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and moves to the nearest space outside the whirlwind.
 ```
+
 ^statblock
 
 ## Environment

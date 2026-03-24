@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Stoneheart Defender
-*[Warden](./warden-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Warden](./warden-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarden/Class/Stoneheart%20Defender.webp#right)
 
-*Become an Unmovable Obstacle*
+_Become an Unmovable Obstacle_
 
 Your call was the steadfast rumble of mountains, a pull which dwarves and gnomes have felt for generations. As a Stoneheart Defender, you protect the stones from those who would despoil them, from within and without. You might protect old dwarven walls, patrol high mountain lookouts, or stand in defense of remote villages. You are unmovable wherever you plant your feet: a mountain in mortal form.
 

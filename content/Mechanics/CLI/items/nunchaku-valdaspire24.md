@@ -16,12 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Nunchaku
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 1d8 bludgeoning
 - **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
 - **Cost**: 5 sp
 - **Weight**: 1.0 lbs.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

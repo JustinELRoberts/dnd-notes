@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Nothic
-*Source: Monster Manual p. 236. Available in the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 236. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/aberration/img/nothic.webp#right)
 
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
@@ -70,6 +71,7 @@ title: Nothic
 
 ***Weird Insight.*** The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) check against the nothic's Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being [charmed](Mechanics/CLI/rules/conditions.md#Charmed).
 ```
+
 ^statblock
 
 ## Environment

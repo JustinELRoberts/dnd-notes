@@ -22,8 +22,8 @@ classes:
 ---
 
 # Telepathy
-*8th-level, Divination*  
 
+_8th-level, Divination_
 
 - **Casting time:** 1 Action
 - **Range:** Unlimited
@@ -36,4 +36,4 @@ Until the spell ends, you and the target can instantly share words, images, soun
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 331*
+_Source: Player's Handbook (2024) p. 331_

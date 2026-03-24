@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Hybrid 
-
+# Hybrid
 
 While your familiar is within 5 feet of yourself, you can meld with it as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), shape-shifting into a magical hybrid and gaining the following benefits. You remain shape-shifted for 1 minute or until you dismiss the transformation (no action required). When your transformation ends, your familiar reappears within 5 feet of yourself or in the nearest unoccupied space if that space is occupied. Once you use this Grand Hex, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5+ spell slot (no action required).
 
@@ -37,6 +36,7 @@ You can attack twice instead of once when you take the [Attack](Mechanics/CLI/ru
 ## Movement
 
 You can use any [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) your familiar possesses.
+
 ## Sources
 
-*Valda's Spire of Secrets (2024)*
+_Valda's Spire of Secrets (2024)_

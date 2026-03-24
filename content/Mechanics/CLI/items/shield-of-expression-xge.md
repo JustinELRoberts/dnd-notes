@@ -16,12 +16,12 @@ obsidianUIMode: preview
 ---
 
 # Shield of Expression
-*Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), minor, common*  
 
+_Armor ([shield](Mechanics/CLI/items/shield-xphb.md)), minor, common_
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
 
 The front of this shield is shaped in the likeness of a face. While bearing the shield, you can use a bonus action to alter the face's expression.
 
-*Source: Xanathar's Guide to Everything p. 139*
+_Source: Xanathar's Guide to Everything p. 139_

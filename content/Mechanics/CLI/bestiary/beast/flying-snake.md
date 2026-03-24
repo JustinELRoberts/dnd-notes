@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Flying Snake
-*Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/flying-snake.webp#right)
 
 A flying snake is a brightly colored, winged serpent found in remote jungles. Tribespeople and cultists sometimes domesticate flying snakes to serve as messengers that deliver scrolls wrapped in their coils.
@@ -53,6 +54,7 @@ title: Flying Snake
 
 ***Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 1 piercing damage plus 7 (`3d4`) poison damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -15,9 +15,8 @@ obsidianUIMode: preview
 
 # Boon of the Unfettered
 
-
-You have advantage on ability checks made to resist being [grappled](Mechanics/CLI/rules/conditions.md#Grappled). In addition, you can use an action to automatically escape a grapple or free yourself of restraints of any kind. 
+You have advantage on ability checks made to resist being [grappled](Mechanics/CLI/rules/conditions.md#Grappled). In addition, you can use an action to automatically escape a grapple or free yourself of restraints of any kind.
 
 ## Sources
 
-*Dungeon Master's Guide p. 232*
+_Dungeon Master's Guide p. 232_

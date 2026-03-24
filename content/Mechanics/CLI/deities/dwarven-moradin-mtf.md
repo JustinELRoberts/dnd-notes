@@ -17,7 +17,6 @@ obsidianUIMode: preview
 
 # Moradin
 
-
 - **Alignment**: Lawful Good
 - **Category**: The Mordinsamman
 - **Domains**: Forge, Knowledge
@@ -35,4 +34,4 @@ The priests also evaluate young dwarves to determine the youths' vocations. The 
 
 ## Sources
 
-*Mordenkainen's Tome of Foes p. 72, Xanathar's Guide to Everything p. 18*
+_Mordenkainen's Tome of Foes p. 72, Xanathar's Guide to Everything p. 18_

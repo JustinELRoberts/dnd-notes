@@ -17,17 +17,17 @@ obsidianUIMode: preview
 ---
 
 # Gelatinous Cube
-*Source: Monster Manual p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/ooze/img/gelatinous-cube.webp#right)
 
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
 
 A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
 
-> [!quote] A quote from From the journal of Jaster Hollowquill, on his first exploration of Undermountain  
-> 
+> [!quote] A quote from From the journal of Jaster Hollowquill, on his first exploration of Undermountain
+>
 > The dungeon's floors were spotless. That should have been our first clue.
-
 
 ```ad-statblock
 title: Gelatinous Cube
@@ -74,6 +74,7 @@ On a failed save, the cube enters the creature's space, and the creature takes 1
 
 An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
 ```
+
 ^statblock
 
 ## Environment

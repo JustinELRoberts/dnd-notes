@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Wand of Binding
-*Wand, major, rare (requires attunement by a spellcaster)*  
+
+_Wand, major, rare (requires attunement by a spellcaster)_\
 ![](Mechanics/CLI/items/img/wand-of-binding.webp#right)
 
 - **Weight**: 1.0 lbs.
@@ -32,4 +33,4 @@ While holding the wand, you can use an action to expend some of its charges to c
 
 While holding the wand, you can use your reaction to expend 1 charge and gain advantage on a saving throw you make to avoid being [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) or [restrained](Mechanics/CLI/rules/conditions.md#Restrained), or you can expend 1 charge and gain advantage on any check you make to escape a grapple.
 
-*Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

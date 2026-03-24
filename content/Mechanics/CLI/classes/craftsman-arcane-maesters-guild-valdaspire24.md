@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Arcane Maesters' Guild
-*[Craftsman](./craftsman-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets (2024)*  
+
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Craft an Arsenal of Magic Items*
+_Craft an Arsenal of Magic Items_
 
 While most seasoned spellcasters will enchant a handful of magic items over the course of their careers, artisans belonging to the Guild of Arcane Maesters seek to become true masters of magic item creation. They rightly take seriously the forging of such powerful relics: each creation must be a masterwork in its own right to contain the potent magic woven into them. Despite laboring for months or even years to perfect their creations, seasoned maesters are always seen to be laden with dozens of magic items, attuned to a handful of rings, and carrying a Wand of Magic Missiles, just in case.
 
@@ -72,7 +73,7 @@ The Magic Item Crafting sidebar details the magic items you can create, specifie
 
 The following lists show which magic items you can create, the craftsman level you must have, and the cost in materials each item requires.
 
-| Level 3, [100 GP] |  |
+| Level 3, \[100 GP] |  |
 |-------------------|--|
 | Bag of Holding | Lantern of Revealing |
 | Decanter of Endless Water | Rope of Climbing |
@@ -82,7 +83,7 @@ The following lists show which magic items you can create, the craftsman level y
 | Immovable Rod | +1 Weapon |
 ^level-3-100-gp
 
-| Level 6, [250 GP] |  |
+| Level 6, \[250 GP] |  |
 |-------------------|--|
 | +1 Armor | Helm of Telepathy |
 | Boots of Elvenkind | Pipes of Haunting |
@@ -93,7 +94,7 @@ The following lists show which magic items you can create, the craftsman level y
 | Hat of Disguise |  |
 ^level-6-250-gp
 
-| Level 10, [500 GP] |  |
+| Level 10, \[500 GP] |  |
 |--------------------|--|
 | Boots of Striding and Springing | Portable Hole |
 | Eyes of the Eagle | Ring of Feather Falling |
@@ -101,7 +102,7 @@ The following lists show which magic items you can create, the craftsman level y
 | Periapt of Wound Closure | Winged Boots |
 ^level-10-500-gp
 
-| Level 14, [2,500 GP] |  |
+| Level 14, \[2,500 GP] |  |
 |----------------------|--|
 | Belt of Dwarvenkind | Instant Fortress |
 | Boots of Speed | Ring of Evasion |
@@ -113,9 +114,9 @@ The following lists show which magic items you can create, the craftsman level y
 ^level-14-2500-gp
 
 > [!note] Magic Item Blueprints
-> 
+>
 > If you wish to craft an item not included on the Magic Item Crafting sidebar, you might find a blueprint for such an item on your travels. The GM determines the Craftsman level and cost in materials required for a magic item created from a blueprint. Unless otherwise stated, a blueprint can only be used to create one magic item.
-^magic-item-blueprints
+> ^magic-item-blueprints
 
 ### Arcane Strike (Level 6)
 

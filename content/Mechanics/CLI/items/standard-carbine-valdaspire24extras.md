@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Standard Carbine
-*Weapon*  
 
+_Weapon_
 
 - **Damage**: 2d6 radiant
 - **Range**: 80/320
@@ -27,4 +27,4 @@ obsidianUIMode: preview
 
 As its name might suggest, the Standard Carbine is the standard-issue blaster for all Hegemony and Coalition troops, which makes it one of the most pervasive weapons in the 'Verse. Spacers of all stripes employ it for its compact size and superb accuracy.
 
-*Source: Valda's Spire of Secrets Extras (2024)*
+_Source: Valda's Spire of Secrets Extras (2024)_

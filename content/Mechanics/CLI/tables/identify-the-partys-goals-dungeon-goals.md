@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Identify the Party's Goals; Dungeon Goals
-*Source: Dungeon Master's Guide p. 72* 
+
+_Source: Dungeon Master's Guide p. 72_
 
 **Dungeon Goals**
 

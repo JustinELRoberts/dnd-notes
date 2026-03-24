@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Monodrone (Rogue)
-*Source: Monster Manual p. 224*  
+
+_Source: Monster Manual p. 224_
 
 ```ad-statblock
 title: Monodrone (Rogue)
@@ -48,4 +49,5 @@ title: Monodrone (Rogue)
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+2` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 3 (`1d6`) piercing damage.
 ```
+
 ^statblock

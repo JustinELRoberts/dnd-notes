@@ -15,9 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Potions of Healing
-*Potion*  
 
-
+_Potion_
 
 **Items in this group:**
 
@@ -26,4 +25,4 @@ obsidianUIMode: preview
 - [Potion of Superior Healing](Mechanics/CLI/items/potion-of-superior-healing.md)
 - [Potion of Supreme Healing](Mechanics/CLI/items/potion-of-supreme-healing.md)
 
-*Source: Dungeon Master's Guide p. 187*
+_Source: Dungeon Master's Guide p. 187_

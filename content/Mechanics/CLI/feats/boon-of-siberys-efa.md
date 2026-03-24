@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Boon of Siberys 
+# Boon of Siberys
+
 ![](Mechanics/CLI/feats/img/siberys-mark-of-detection.webp#right)
 
-***Prerequisites*** 19th, Eberron Campaign
+_**Prerequisites**_ 19th, Eberron Campaign
 
 You gain the following benefits.
 
@@ -43,9 +44,9 @@ You gain the following benefits.
 ^siberys-dragonmark-seplls
 
 > [!gallery]
-![](Mechanics/CLI/feats/img/siberys-mark-of-making.webp)
-![](Mechanics/CLI/feats/img/siberys-mark-of-shadow.webp)
+> ![](Mechanics/CLI/feats/img/siberys-mark-of-making.webp)
+> ![](Mechanics/CLI/feats/img/siberys-mark-of-shadow.webp)
 
 ## Sources
 
-*Eberron: Forge of the Artificer p. 45*
+_Eberron: Forge of the Artificer p. 45_

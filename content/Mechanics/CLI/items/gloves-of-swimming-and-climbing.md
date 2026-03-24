@@ -16,10 +16,9 @@ obsidianUIMode: preview
 ---
 
 # Gloves of Swimming and Climbing
-*Wondrous item, major, uncommon (requires attunement)*  
 
-
+_Wondrous item, major, uncommon (requires attunement)_
 
 While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) checks made to climb or swim.
 
-*Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+_Source: Dungeon Master's Guide p. 172. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

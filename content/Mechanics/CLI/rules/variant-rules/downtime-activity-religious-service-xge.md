@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Downtime Activity: Religious Service
-*Source: Xanathar's Guide to Everything p. 131* 
+
+_Source: Xanathar's Guide to Everything p. 131_
 
 Characters with a religious bent might want to spend downtime in service to a temple, either by attending rites or by proselytizing in the community. Someone who undertakes this activity has a chance of winning the favor of the temple's leaders.
 

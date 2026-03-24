@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Way of the Astral Self
-*[Monk](./monk-xphb.md): Monk Subclass*  
-*Source: Tasha's Cauldron of Everything p. 50*  
+
+_[Monk](./monk-xphb.md): Monk Subclass_\
+_Source: Tasha's Cauldron of Everything p. 50_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -63,7 +64,7 @@ When choosing this path, consider the quirks that define your monk. Are you obse
 
 ### Arms of the Astral Self (Level 3)
 
-*3rd-level Way of the Astral Self feature*
+_3rd-level Way of the Astral Self feature_
 
 Your mastery of your ki allows you to summon a portion of your astral self. As a bonus action, you can spend 1 ki point to summon the arms of your astral self. When you do so, each creature of your choice that you can see within 10 feet of you must succeed on a Dexterity saving throw or take force damage equal to two rolls of your Martial Arts die.
 
@@ -71,14 +72,14 @@ For 10 minutes, these spectral arms hover near your shoulders or surround your a
 
 While the spectral arms are present, you gain the following benefits:
 
-- You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.  
-- You can use the spectral arms to make unarmed strikes.  
-- When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.  
-- The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force.  
+- You can use your Wisdom modifier in place of your Strength modifier when making Strength checks and Strength saving throws.
+- You can use the spectral arms to make unarmed strikes.
+- When you make an unarmed strike with the arms on your turn, your reach for it is 5 feet greater than normal.
+- The unarmed strikes you make with the arms can use your Wisdom modifier in place of your Strength or Dexterity modifier for the attack and damage rolls, and their damage type is force.
 
 ### Visage of the Astral Self (Level 6)
 
-*6th-level Way of the Astral Self feature*
+_6th-level Way of the Astral Self feature_
 
 You can summon the visage of your astral self. As a bonus action, or as part of the bonus action you take to activate Arms of the Astral Self, you can spend 1 ki point to summon this visage for 10 minutes. It vanishes early if you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or die.
 
@@ -94,7 +95,7 @@ While the spectral visage is present, you gain the following benefits.
 
 ### Body of the Astral Self (Level 11)
 
-*11th-level Way of the Astral Self feature*
+_11th-level Way of the Astral Self feature_
 
 When you have both your astral arms and visage summoned, you can cause the body of your astral self to appear (no action required). This spectral body covers your physical form like a suit of armor, connecting with the arms and visage. You determine its appearance.
 
@@ -106,7 +107,7 @@ While the spectral body is present, you gain the following benefits.
 
 ### Awakened Astral Self (Level 17)
 
-*17th-level Way of the Astral Self feature*
+_17th-level Way of the Astral Self feature_
 
 Your connection to your astral self is complete, allowing you to unleash its full potential. As a bonus action, you can spend 5 ki points to summon the arms, visage, and body of your astral self and awaken it for 10 minutes. This awakening ends early if you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or die.
 

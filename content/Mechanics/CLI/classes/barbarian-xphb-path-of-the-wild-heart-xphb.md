@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Path of the Wild Heart
-*[Barbarian](./barbarian-xphb.md): Barbarian Subclass*  
-*Source: Player's Handbook (2024) p. 55*  
+
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
+_Source: Player's Handbook (2024) p. 55_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/wild-heart-barbarian.webp#right)
 
-*Walk in Community with the Animal World*
+_Walk in Community with the Animal World_
 
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 

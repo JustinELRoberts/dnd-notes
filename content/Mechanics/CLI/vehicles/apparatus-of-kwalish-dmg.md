@@ -16,10 +16,10 @@ obsidianUIMode: preview
 ---
 
 # Apparatus of Kwalish
-*Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")*  
+
+_Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")_
 
 ![](Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp#center)
-
 
 ```ad-statblock
 title: Apparatus of Kwalish
@@ -62,4 +62,5 @@ A creature in the compartment can use an action to move as many as two of the ap
 ^apparatus-of-kwalish-levers
 
 ```
+
 ^statblock

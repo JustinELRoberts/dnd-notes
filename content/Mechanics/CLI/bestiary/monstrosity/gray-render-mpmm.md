@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Gray Render
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 146*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 146_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/gray-render.webp#right)
 
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
@@ -79,6 +80,7 @@ title: Gray Render
 
 ***Bloody Rampage.*** When the gray render takes damage, it makes one Claw attack against a random creature within its reach, other than its master.
 ```
+
 ^statblock
 
 ## Environment

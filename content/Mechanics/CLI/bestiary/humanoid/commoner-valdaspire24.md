@@ -16,8 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Commoner
-*Source: Valda's Spire of Secrets (2024) p. 0*  
 
+_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Commoners comprise the vast majority of people who seek out neither danger nor adventure. When one seeks out the adventuring lifestyle alongside a Captain, they are a blank slate, trainable into the perfect companion in battle.
 
@@ -58,4 +58,5 @@ title: Commoner
 
 ***Sling.*** *Ranged Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), range 30/120 ft. *Hit:* `1d4` plus your Charisma modifier Bludgeoning damage.
 ```
+
 ^statblock

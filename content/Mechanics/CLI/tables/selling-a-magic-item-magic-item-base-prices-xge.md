@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Selling a Magic Item; Magic Item Base Prices
-*Source: Xanathar's Guide to Everything p. 133* 
+
+_Source: Xanathar's Guide to Everything p. 133_
 
 **Magic Item Base Prices**
 
-| Rarity | Base Price* |
+| Rarity | Base Price\* |
 |--------|-------------|
 | Common | 100 gp |
 | Uncommon | 400 gp |
@@ -26,4 +27,4 @@ obsidianUIMode: preview
 | Legendary | 200,000 gp |
 ^magic-item-base-prices
 
-*Halved for a consumable item like a potion or scroll
+\*Halved for a consumable item like a potion or scroll

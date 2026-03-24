@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Apprentice Wizard
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209_\
 ![](Mechanics/CLI/bestiary/humanoid/img/apprentice-wizard.webp#right)
 
 Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
@@ -58,6 +59,7 @@ title: Apprentice Wizard
 
 **1/day each:** [burning hands](Mechanics/CLI/spells/burning-hands-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md)
 ```
+
 ^statblock
 
 ## Environment

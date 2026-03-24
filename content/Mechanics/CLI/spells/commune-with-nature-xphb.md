@@ -30,8 +30,8 @@ classes:
 ---
 
 # Commune with Nature
-*5th-level, Divination (ritual)*  
 
+_5th-level, Divination (ritual)_
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Self
@@ -42,14 +42,14 @@ You commune with nature spirits and gain knowledge of the surrounding area. In t
 
 Choose three of the following facts; you learn those facts as they pertain to the spell's area:
 
-- Locations of settlements  
-- Locations of portals to other planes of existence  
-- Location of one [Challenge Rating](Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead  
-- The most prevalent kind of plant, mineral, or Beast (you choose which to learn)  
-- Locations of bodies of water  
+- Locations of settlements
+- Locations of portals to other planes of existence
+- Location of one [Challenge Rating](Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead
+- The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
+- Locations of bodies of water
 
 For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
 **Classes**: [Barbarian (Path of the Wild Heart)](Mechanics/CLI/lists/list-spells-classes-path-of-the-wild-heart-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin (Oath of the Ancients)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Witch (Sky Magic)](Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
 
-*Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 252. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

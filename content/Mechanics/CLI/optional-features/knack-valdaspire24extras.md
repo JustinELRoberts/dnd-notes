@@ -13,10 +13,10 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Knack 
-
+# Knack
 
 When you fail an ability check using a skill in which you have proficiency, you can expend one Battle Die to add it to the roll, potentially turning it into a success. You can only use this maneuver once per turn.
+
 ## Sources
 
-*Valda's Spire of Secrets Extras (2024)*
+_Valda's Spire of Secrets Extras (2024)_

@@ -15,11 +15,11 @@ obsidianUIMode: preview
 ---
 
 # Peridot
-*Treasure (gemstone)*  
 
+_Treasure (gemstone)_
 
 - **Cost**: 500 gp
 
 A transparent rich olive green gemstone.
 
-*Source: Dungeon Master's Guide p. 134*
+_Source: Dungeon Master's Guide p. 134_

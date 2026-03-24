@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Star-Spangled Banner
-*[Captain](./captain-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Captain](./captain-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Represent the Greatest Democracy in the Multiverse*
+_Represent the Greatest Democracy in the Multiverse_
 
 Captains that wave the Star-Spangled Banner represent the ideals of Justice, Freedom, and Democracy wherever they travel. These values reflect the promise of a mythical land in which all people are prosperous and equal, which may or may not exist somewhere in the multiverse. With a unique shield-fighting technique and a penchant for diving headlong into danger, such Captains are either reckless idealogues or selfless heroes, depending on the situation.
 
@@ -74,7 +75,7 @@ You can use a [Shield](Mechanics/CLI/items/shield-xphb.md) as a weapon with the 
 
 **Mastery.** [Push](Mechanics/CLI/rules/item-mastery.md#Push)
 
-### Bull Rush [Maneuver] (Level 3)
+### Bull Rush \[Maneuver] (Level 3)
 
 If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll, you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to perform a Bull Rush. The target takes extra Bludgeoning damage equal to the roll of the Battle Die, and must succeed on a Strength saving throw or be pushed 10 feet away from you and have the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
 

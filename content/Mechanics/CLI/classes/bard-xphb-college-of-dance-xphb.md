@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # College of Dance
-*[Bard](./bard-xphb.md): Bard Subclass*  
-*Source: Player's Handbook (2024) p. 64*  
+
+_[Bard](./bard-xphb.md): Bard Subclass_\
+_Source: Player's Handbook (2024) p. 64_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/dance-bard.webp#right)
 
-*Move in Harmony with the Cosmos*
+_Move in Harmony with the Cosmos_
 
 Bards of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.
 

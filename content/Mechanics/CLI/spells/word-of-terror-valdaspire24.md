@@ -24,8 +24,8 @@ classes:
 ---
 
 # Word of Terror
-*2nd-level, Enchantment*  
 
+_2nd-level, Enchantment_
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 30 feet
@@ -38,4 +38,4 @@ You recite a word of fear to a creature you can see within range, which makes a 
 
 **Classes**: [Martyr (Burden of Truth)](Mechanics/CLI/lists/list-spells-classes-burden-of-truth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr (Burden of Tyranny)](Mechanics/CLI/lists/list-spells-classes-burden-of-tyranny-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

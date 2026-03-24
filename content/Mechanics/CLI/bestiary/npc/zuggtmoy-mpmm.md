@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Zuggtmoy
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 281*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 281_\
 ![](Mechanics/CLI/bestiary/npc/img/zuggtmoy.webp#right)
 
 The Demon Queen of Fungi, Lady of Rot and Decay, Zuggtmoy is an alien creature whose only desire is to infect the living with spores, transforming them into her mindless servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
@@ -116,4 +117,5 @@ The region containing Zuggtmoy's lair is warped by his magic, creating one or mo
 - **Mutating Vegetation.** Vegetation within 1 mile of the lair becomes infested with parasitic fungi, slowly mutating as it is overwhelmed.  
 - If Zuggtmoy dies, these effects fade over the course of `1d10` days.  
 ```
+
 ^statblock

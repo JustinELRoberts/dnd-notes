@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Villains; Villain's Methods
-*Source: Dungeon Master's Guide p. 94* 
+
+_Source: Dungeon Master's Guide p. 94_
 
 **Villain's Methods**
 

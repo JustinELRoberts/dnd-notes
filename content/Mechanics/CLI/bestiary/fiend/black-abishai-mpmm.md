@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Black Abishai
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 38*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 38_\
 ![](Mechanics/CLI/bestiary/fiend/img/black-abishai.webp#right)
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
@@ -77,6 +78,7 @@ title: Black Abishai
 
 ***Shadow Stealth.*** While in dim light or darkness, the abishai takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock
 
 ## Environment

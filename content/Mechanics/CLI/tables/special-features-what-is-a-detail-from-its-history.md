@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Special Features; What Is a Detail from Its History?
-*Source: Dungeon Master's Guide p. 141* 
+
+_Source: Dungeon Master's Guide p. 141_
 
 **What Is a Detail from Its History?**
 

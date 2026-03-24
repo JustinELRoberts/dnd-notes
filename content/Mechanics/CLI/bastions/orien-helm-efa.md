@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Orien Helm
-*Level 9 Bastion facility*  
+
+_Level 9 Bastion facility_
 
 - **Prerequisites**: Renown 15+ with "House Orien"
 - **Space**: Cramped (4 sq)
@@ -29,4 +30,4 @@ When you issue the Empower order to this facility, you instruct its hireling to 
 
 When you issue the Empower order to this facility, the DM rolls on the "Bastion Events table" as if you had issued the Maintain order to your Bastion.
 
-*Source: Eberron: Forge of the Artificer p. 51*
+_Source: Eberron: Forge of the Artificer p. 51_

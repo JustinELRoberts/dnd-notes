@@ -23,8 +23,8 @@ classes:
 ---
 
 # Abi-Dalzim's Horrid Wilting
-*8th-level, Necromancy*  
 
+_8th-level, Necromancy_
 
 - **Casting time:** 1 Action
 - **Range:** 150 feet
@@ -37,4 +37,4 @@ Nonmagical plants in the area that aren't creatures, such as trees and shrubs, w
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 150*
+_Source: Xanathar's Guide to Everything p. 150_

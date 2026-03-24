@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Grick Alpha
-*Source: Monster Manual p. 173*  
+
+_Source: Monster Manual p. 173_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/grick.webp#right)
 
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
@@ -72,6 +73,7 @@ title: Grick Alpha
 
 ***Beak.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage.
 ```
+
 ^statblock
 
 ## Environment

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Otherworldly Steed (Fiend)
-*Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+
+_Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Otherworldly Steed (Fiend)
@@ -49,4 +50,5 @@ title: Otherworldly Steed (Fiend)
 
 ***Fell Glare (Recharges after a Long Rest).*** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of your next turn.
 ```
+
 ^statblock

@@ -15,8 +15,8 @@ obsidianUIMode: preview
 ---
 
 # Oil
-*Adventuring gear*  
 
+_Adventuring gear_
 
 - **Cost**: 1 sp
 - **Weight**: 1.0 lbs.
@@ -35,4 +35,4 @@ You can take the [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action to pou
 
 Oil serves as fuel for Lamps and Lanterns. Once lit, a flask of Oil burns for 6 hours in a Lamp or Lantern. That duration doesn't need to be consecutive; you can extinguish the burning Oil (as a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action) and rekindle it again until it has burned for a total of 6 hours.
 
-*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

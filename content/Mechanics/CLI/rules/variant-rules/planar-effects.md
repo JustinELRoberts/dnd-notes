@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Planar Effects
-*Source: Dungeon Master's Guide p. 50* 
+
+_Source: Dungeon Master's Guide p. 50_
 
 When adventurers travel to other planes of existence, they undertake a legendary journey that might force them to face supernatural guardians and undergo various ordeals. You can choose to add effects to any or all of the planes, to better represent their uniqueness. The effects listed below apply to the default cosmological arrangement presented in the "Player's Handbook", and are individually optional.
 
@@ -67,7 +68,7 @@ Visitors to the Beastlands find their hunting and stalking capabilities improved
 
 ## The Beastlands: Beast Transformation
 
-Whenever a visitor slays a beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or become transformed (as the [polymorph](Mechanics/CLI/spells/polymorph-xphb.md) spell) into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws. the transformation can be undone only by a [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic. 
+Whenever a visitor slays a beast native to the plane, the slayer must succeed on a DC 10 Charisma saving throw or become transformed (as the [polymorph](Mechanics/CLI/spells/polymorph-xphb.md) spell) into the type of beast that was slain. In this form, the creature retains its intelligence and ability to speak. At the end of each long rest, the polymorphed creature can repeat the saving throw. On a successful saving throw, the creature returns to its true form. After three failed saving throws. the transformation can be undone only by a [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
 
 ## Arborea: Intense Yearning
 

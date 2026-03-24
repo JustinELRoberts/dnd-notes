@@ -15,15 +15,15 @@ obsidianUIMode: preview
 ---
 
 # Heavy Legs
-*Monstrous graft, uncommon*  
 
+_Monstrous graft, uncommon_
 
 - **Properties**: [Legs Slot](Mechanics/CLI/rules/item-properties.md#Legs%20Slot)
 
-*Donor: Large or Larger Monstrosity*
+_Donor: Large or Larger Monstrosity_
 
 Once these legs are installed, you can use your [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to kick a creature of Large size or smaller within 5 feet of you. Make an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). On a hit, the target takes no damage but is pushed 5 feet away from you.
 
 You also count as one size larger when determining your carrying capacity.
 
-*Source: Valda's Spire of Secrets (2024)*
+_Source: Valda's Spire of Secrets (2024)_

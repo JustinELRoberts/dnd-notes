@@ -13,12 +13,12 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Grasp of Hadar 
+# Grasp of Hadar
 
-
-***Prerequisites*** [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md) cantrip
+_**Prerequisites**_ [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md) cantrip
 
 Once on each of your turns when you hit a creature with your [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md), you can move that creature in a straight line 10 feet closer to you.
+
 ## Sources
 
-*Xanathar's Guide to Everything p. 57*
+_Xanathar's Guide to Everything p. 57_

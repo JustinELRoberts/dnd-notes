@@ -16,14 +16,11 @@ obsidianUIMode: preview
 
 # Avandra
 
-
 - **Alignment**: Chaotic Good
 - **Domains**: Trickery
 - **Pantheon**: Dawn War
 - **Symbol**: Three stacked wavy lines
 
-
-
 ## Sources
 
-*Dungeon Master's Guide p. 10*
+_Dungeon Master's Guide p. 10_

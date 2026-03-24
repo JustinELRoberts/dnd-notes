@@ -14,9 +14,9 @@ obsidianUIMode: preview
 ---
 
 # Quaal's Feather Token
-*Wondrous item, rare*  
-![](Mechanics/CLI/items/img/quaals-feather-token.webp#right)
 
+_Wondrous item, rare_\
+![](Mechanics/CLI/items/img/quaals-feather-token.webp#right)
 
 This tiny object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly.
 
@@ -39,4 +39,4 @@ This tiny object looks like a feather. Different types of feather tokens exist, 
 - [Quaal's Feather Token, Tree](Mechanics/CLI/items/quaals-feather-token-tree.md)
 - [Quaal's Feather Token, Whip](Mechanics/CLI/items/quaals-feather-token-whip.md)
 
-*Source: Dungeon Master's Guide p. 188*
+_Source: Dungeon Master's Guide p. 188_

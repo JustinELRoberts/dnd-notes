@@ -13,8 +13,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Replicate Magic Item 
-
+# Replicate Magic Item
 
 Using this infusion, you replicate a particular magic item. You can learn this infusion multiple times; each time you do so, choose a magic item that you can make with it, picking from the Replicable Items tables below. A table's title tells you the level you must be in the class to choose an item from the table. Alternatively, you can choose the magic item from among the common magic items in the game, not including potions or scrolls.
 
@@ -94,6 +93,7 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 | [Ring of protection](Mechanics/CLI/items/ring-of-protection.md) | Yes |
 | [Ring of the ram](Mechanics/CLI/items/ring-of-the-ram.md) | Yes |
 ^replicable-items-14th-level-artificer
+
 ## Sources
 
-*Tasha's Cauldron of Everything p. 22*
+_Tasha's Cauldron of Everything p. 22_

@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Giant Constrictor Snake
-*Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*  
+
+_Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Giant Constrictor Snake
@@ -49,6 +50,7 @@ title: Giant Constrictor Snake
 
 ***Constrict.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one creature. *Hit:* 13 (`2d8 + 4`) bludgeoning damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 16). Until this grapple ends, the creature is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the snake can't constrict another target.
 ```
+
 ^statblock
 
 ## Environment

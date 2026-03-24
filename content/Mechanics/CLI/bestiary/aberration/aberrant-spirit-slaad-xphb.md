@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Aberrant Spirit (Slaad)
-*Source: Player's Handbook (2024) p. 322*  
+
+_Source: Player's Handbook (2024) p. 322_
 
 ```ad-statblock
 title: Aberrant Spirit (Slaad)
@@ -48,4 +49,5 @@ title: Aberrant Spirit (Slaad)
 
 ***Claw.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d10 + 3` + the spell's level Slashing damage, and the target can't regain Hit Points until the start of the spirit's next turn.
 ```
+
 ^statblock

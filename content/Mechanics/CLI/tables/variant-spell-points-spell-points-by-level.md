@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Variant: Spell Points; Spell Points by Level
-*Source: Dungeon Master's Guide p. 288* 
+
+_Source: Dungeon Master's Guide p. 288_
 
 **Spell Points by Level**
 

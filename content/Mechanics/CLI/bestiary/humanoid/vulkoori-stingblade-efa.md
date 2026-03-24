@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Vulkoori Stingblade
-*Source: Eberron: Forge of the Artificer p. 98*  
+
+_Source: Eberron: Forge of the Artificer p. 98_\
 ![](Mechanics/CLI/bestiary/humanoid/img/vulkoori-stingblade.webp#right)
 
 Vulkoori drow warriors coat their weapons with the same deadly scorpion venom they use to tattoo their skin. Thanks to their extensive use of poison, they are resistant to the scorpion venom's full effects.
@@ -53,4 +54,5 @@ title: Vulkoori Stingblade
 
 ***Boomerang.*** *Ranged Attack Roll:* `+4`, reach 30/120 ft. *Hit:* 7 (`2d4 + 2`) Bludgeoning damage.
 ```
+
 ^statblock

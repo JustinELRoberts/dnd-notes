@@ -14,7 +14,8 @@ obsidianUIMode: preview
 ---
 
 # Warforged
-*Source: Eberron: Forge of the Artificer p. 38*  
+
+_Source: Eberron: Forge of the Artificer p. 38_\
 ![](Mechanics/CLI/races/img/warforged.webp#right)
 
 - **Ability Scores**: None

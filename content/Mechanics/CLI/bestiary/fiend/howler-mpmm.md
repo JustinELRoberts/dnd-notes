@@ -20,11 +20,12 @@ obsidianUIMode: preview
 ---
 
 # Howler
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 155*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 155_\
 ![](Mechanics/CLI/bestiary/fiend/img/howler.webp#right)
 
-> [!quote] A quote from Mordenkainen  
-> 
+> [!quote] A quote from Mordenkainen
+>
 > Why does the howler sing? Doing so causes its prey to flee, and surely stealth would make for better hunting in howling Pandemonium. There is only one answer: the creature can taste fear.
 
 A far-off wail precedes the sight of a howler. Even at a distance, listeners' minds cringe at the sound and fill with horror at the realization that the noise is drawing closer. When howlers go on the prowl, courage isn't enough to stand up against them.
@@ -67,6 +68,7 @@ title: Howler
 
 ***Mind-Breaking Howl (Recharge 4-6).*** The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (`3d10`) psychic damage and be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the howler's next turn. While a creature is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) in this way, its speed is halved, and it is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
 ```
+
 ^statblock
 
 ## Environment

@@ -16,7 +16,8 @@ obsidianUIMode: preview
 ---
 
 # Narzugon
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 190*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 190_\
 ![](Mechanics/CLI/bestiary/fiend/img/narzugon.webp#right)
 
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
@@ -66,4 +67,5 @@ title: Narzugon
 
 ***Healing (1/Day).*** The narzugon, or one creature it touches, regains 100 hit points.
 ```
+
 ^statblock

@@ -26,7 +26,8 @@ classes:
 ---
 
 # Summon Celestial
-*5th-level, Conjuration*  
+
+_5th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/summon-celestial.webp#right)
 
 - **Casting time:** 1 Action
@@ -42,4 +43,4 @@ The creature is an ally to you and your allies. In combat, the creature shares y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (Celestial Patron)](Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 323*
+_Source: Player's Handbook (2024) p. 323_

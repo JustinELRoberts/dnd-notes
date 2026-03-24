@@ -15,22 +15,22 @@ obsidianUIMode: preview
 ---
 
 # Luba's Tarokka of Souls
-*Wondrous item, artifact (requires attunement)*  
-![](Mechanics/CLI/items/img/lubas-tarokka-of-souls.webp#right)
 
+_Wondrous item, artifact (requires attunement)_\
+![](Mechanics/CLI/items/img/lubas-tarokka-of-souls.webp#right)
 
 Not all lingering spirits are tragic souls, lost on their way to the hereafter. Some languish as prisoners, souls so wicked mortals dare not free them upon an unsuspecting afterlife.
 
 Created by a figure of Vistani legend, Luba's Tarokka of Souls shaped the destiny of countless heroes. The prophecies of this deck of cards also revealed great evils and guided its creator into the path of nefarious forces. Untold times the deck's creator, Mother Luba, narrowly escaped doom, spared only by her keen insights. But even for her, not all wickedness could be escaped. In the most dire cases, Mother Luba managed to ensnare beings of pure evil amid the strands of fate, imprisoning them within her tarokka deck. There these foul spirits dwell still, trapped within a nether-realm hidden amid shuffling cards, waiting for fate to turn foul—as it inevitably will.
 
-Like all tarokka decks, the *Tarokka of Souls* is a lavishly illustrated collection of fifty-four cards, comprising the fourteen cards of the high deck and forty other cards divided into four suits: coins, glyphs, stars, and swords.
+Like all tarokka decks, the _Tarokka of Souls_ is a lavishly illustrated collection of fifty-four cards, comprising the fourteen cards of the high deck and forty other cards divided into four suits: coins, glyphs, stars, and swords.
 
 ## Random Properties
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) properties  
-- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties  
+- 2 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) properties
+- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties
 
 ## Spells
 
@@ -44,8 +44,8 @@ While holding the deck, you automatically succeed on Constitution saving throws 
 
 As an action, you can draw a card from the deck and twist the fortune of another creature you can see within 15 feet of you. Choose one of the following effects:
 
-- **Weal.** The creature has advantage on attack rolls, ability checks, and saving throws for the next hour.  
-- **Woe.** The creature has disadvantage on attack rolls, ability checks, and saving throws for the next hour.  
+- **Weal.** The creature has advantage on attack rolls, ability checks, and saving throws for the next hour.
+- **Woe.** The creature has disadvantage on attack rolls, ability checks, and saving throws for the next hour.
 
 The deck can be used in this way twice, and you regain all expended uses at the next dawn.
 
@@ -92,4 +92,4 @@ A halfling Vistani, Mother Luba led one of the largest groups of Vistani in the 
 
 Some years ago, Mother Luba disappeared into the mists, leaving behind only the Tarokka of Souls. It is said that if you draw the Mists card from it, you can hear the whispers of her kind voice.
 
-*Source: Tasha's Cauldron of Everything p. 129*
+_Source: Tasha's Cauldron of Everything p. 129_

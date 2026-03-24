@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Magic Items Awarded by Rarity - Minor
-*Source: Xanathar's Guide to Everything p. 135* 
+
+_Source: Xanathar's Guide to Everything p. 135_
 
 **Magic Items Awarded by Rarity - Minor**
 

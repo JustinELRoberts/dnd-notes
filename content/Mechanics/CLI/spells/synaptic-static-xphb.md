@@ -25,8 +25,8 @@ classes:
 ---
 
 # Synaptic Static
-*5th-level, Enchantment*  
 
+_5th-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -39,4 +39,4 @@ On a failed save, a target also has muddled thoughts for 1 minute. During that t
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 330*
+_Source: Player's Handbook (2024) p. 330_

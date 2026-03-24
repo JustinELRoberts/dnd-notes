@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Creature Size on Squares and Hexes; Creature Size and Space
-*Source: Dungeon Master's Guide p. 251* 
+
+_Source: Dungeon Master's Guide p. 251_
 
 **Creature Size and Space**
 

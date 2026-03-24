@@ -24,7 +24,8 @@ classes:
 ---
 
 # Tasha's Bubbling Cauldron
-*6th-level, Conjuration*  
+
+_6th-level, Conjuration_\
 ![](Mechanics/CLI/spells/img/tashas-bubbling-cauldron.webp#right)
 
 - **Casting time:** 1 Action
@@ -40,4 +41,4 @@ Potions obtained from the cauldron that aren't consumed disappear when you cast 
 
 **Classes**: [Artificer (Alchemist)](Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Player's Handbook (2024) p. 330*
+_Source: Player's Handbook (2024) p. 330_

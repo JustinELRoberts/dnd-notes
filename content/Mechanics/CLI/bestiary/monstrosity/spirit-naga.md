@@ -17,13 +17,14 @@ obsidianUIMode: preview
 ---
 
 # Spirit Naga
-*Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/spirit-naga.webp#right)
 
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
-> [!quote] A quote from Explictica Defilus, spirit naga  
-> 
+> [!quote] A quote from Explictica Defilus, spirit naga
+>
 > If you destroy me, I will return, and everyone you care about will suffer for it.
 
 ## Nagas
@@ -92,6 +93,7 @@ title: Spirit Naga
 
 ***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one creature. *Hit:* 7 (`1d6 + 4`) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (`7d8`) poison damage on a failed save, or half as much damage on a successful one.
 ```
+
 ^statblock
 
 ## Environment

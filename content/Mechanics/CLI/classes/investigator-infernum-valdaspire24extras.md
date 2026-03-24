@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Infernum
-*[Investigator](./investigator-valdaspire24.md): Subclass Feature*  
-*Source: Valda's Spire of Secrets Extras (2024)*  
+
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
+_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -48,7 +49,7 @@ obsidianUIMode: preview
 
 ^class-progression
 
-*Bargain with Fiends for Infernal Powers*
+_Bargain with Fiends for Infernal Powers_
 
 The Infernum are Investigators in league with Fiends, either willingly to pursue nefarious ends or unwillingly as the result of an infernal bargain. Each is given a set of enigmatic goals and a fiendish overseer (often an Imp), then left entirely to their own devices. Many search and scrounge for a solution to their fiendish bargain or opt for malicious compliance, delivering upon their infernal directives while undermining their broader schemes. Others, however, revel in their dark alliance, gleefully hoping to climb the fiendish ranks.
 
@@ -56,7 +57,7 @@ The Infernum are Investigators in league with Fiends, either willingly to pursue
 
 ### Fiendish Familiar (Level 3)
 
-Your infernal masters have assigned a lesser fiend to supervise and assist you. You add [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md) to your grimoire for free. You can use [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20(Level%202)) to cast the spell without expending a use of the feature, and you don't need to read from your grimoire to cast it. The spell is improved in the following ways when you cast it.
+Your infernal masters have assigned a lesser fiend to supervise and assist you. You add [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md) to your grimoire for free. You can use [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) to cast the spell without expending a use of the feature, and you don't need to read from your grimoire to cast it. The spell is improved in the following ways when you cast it.
 
 **Fiendish Options.** You can choose only the following options for your familiar: [Imp](Mechanics/CLI/bestiary/fiend/imp-xmm.md), [Quasit](Mechanics/CLI/bestiary/fiend/quasit-xmm.md), or [Pseudodragon](Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md). A pseudodragon summoned with this spell knows Common and is a Fiend.
 

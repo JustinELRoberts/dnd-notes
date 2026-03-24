@@ -17,8 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Rod of Alertness
-*Rod, major, very rare (requires attunement)*  
 
+_Rod, major, very rare (requires attunement)_
 
 - **Weight**: 2.0 lbs.
 
@@ -38,4 +38,4 @@ As an action, you can plant the haft end of the rod in the ground, whereupon the
 
 The rod's head stops glowing and the effect ends after 10 minutes, or when a creature uses an action to pull the rod from the ground. This property can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+_Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

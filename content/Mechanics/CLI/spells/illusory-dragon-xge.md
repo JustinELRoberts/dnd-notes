@@ -22,8 +22,8 @@ classes:
 ---
 
 # Illusory Dragon
-*8th-level, Illusion*  
 
+_8th-level, Illusion_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -40,4 +40,4 @@ The illusion is tangible because of the shadow stuff used to create it, but atta
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
 
-*Source: Xanathar's Guide to Everything p. 157*
+_Source: Xanathar's Guide to Everything p. 157_

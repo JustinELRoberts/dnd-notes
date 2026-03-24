@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Supplemental Tables; Childhood Memories
-*Source: Xanathar's Guide to Everything p. 63* 
+
+_Source: Xanathar's Guide to Everything p. 63_
 
 **Childhood Memories**
 
-| 3d6 + <span>[Charisma Modifier]</span> | Memory |
+| 3d6 + <span>\[Charisma Modifier]</span> | Memory |
 |----------------------------------------|--------|
 | 1-3 | I am still haunted by my childhood, when I was treated badly by my peers. |
 | 4-5 | I spent most of my childhood alone, with no close friends. |

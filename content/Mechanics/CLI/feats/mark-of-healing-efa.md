@@ -13,10 +13,11 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Mark of Healing 
+# Mark of Healing
+
 ![](Mechanics/CLI/feats/img/mark-of-healing.webp#right)
 
-***Prerequisites*** Eberron Campaign, Can't Have Another D Feat
+_**Prerequisites**_ Eberron Campaign, Can't Have Another D Feat
 
 You gain the following benefits.
 
@@ -38,6 +39,7 @@ When you reach character level 3, you also always have the [Lesser Restoration](
 | 4 | [Aura of Life](Mechanics/CLI/spells/aura-of-life-xphb.md), [Aura of Purity](Mechanics/CLI/spells/aura-of-purity-xphb.md) |
 | 5 | [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) |
 ^mark-of-healing-spells
+
 ## Sources
 
-*Eberron: Forge of the Artificer p. 40*
+_Eberron: Forge of the Artificer p. 40_

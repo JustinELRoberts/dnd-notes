@@ -20,7 +20,8 @@ classes:
 ---
 
 # Vicious Mockery
-*cantrip, Enchantment*  
+
+_cantrip, Enchantment_\
 ![](Mechanics/CLI/spells/img/vicious-mockery.webp#right)
 
 - **Casting time:** 1 Action
@@ -34,4 +35,4 @@ You unleash a string of insults laced with subtle enchantments at one creature y
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md)
 
-*Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 337. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

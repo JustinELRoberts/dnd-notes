@@ -20,7 +20,8 @@ obsidianUIMode: preview
 ---
 
 # Archdruid
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 48, Volo's Guide to Monsters p. 210_\
 ![](Mechanics/CLI/bestiary/humanoid/img/archdruid.webp#right)
 
 Archdruids watch over the natural wonders of their domains. They seldom interact with folk away from their druid groves and shrines, unless there is a great threat to the natural order or to a nearby community. An archdruid typically has one or more pupils who are [druids](Mechanics/CLI/bestiary/humanoid/druid.md), and the archdruid's lair is usually guarded by loyal Beasts and Fey creatures.
@@ -85,6 +86,7 @@ While in a new form, the archdruid's stat block is replaced by the stat block of
 
 The new form's attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.
 ```
+
 ^statblock
 
 ## Environment

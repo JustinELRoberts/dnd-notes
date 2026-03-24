@@ -24,7 +24,8 @@ obsidianUIMode: preview
 ---
 
 # Meazel
-*Source: Mordenkainen Presents: Monsters of the Multiverse p. 177*  
+
+_Source: Mordenkainen Presents: Monsters of the Multiverse p. 177_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/meazel.webp#right)
 
 Meazels are malicious hermits who fled to the Shadowfell to escape their mortal existence and contemplate their misery. There the shadows transformed them, and their bitterness made them twisted and cruel. Now hate burns in their hearts, and they resent any intrusion into their suffering, waylaying travelers who venture too close to their lairs.
@@ -68,6 +69,7 @@ Any other creature the meazel teleports becomes cursed for 1 hour or until the c
 
 ***Shadow Stealth.*** While in dim light or darkness, the meazel takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
 ```
+
 ^statblock
 
 ## Environment

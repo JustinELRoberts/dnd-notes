@@ -21,7 +21,8 @@ obsidianUIMode: preview
 ---
 
 # Hobgoblin Warlord
-*Source: Monster Manual p. 187*  
+
+_Source: Monster Manual p. 187_\
 ![](Mechanics/CLI/bestiary/humanoid/img/hobgoblin.webp#right)
 
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
@@ -66,20 +67,19 @@ Hobgoblins fortify their own holdings, bolstering existing defenses with innovat
 
 Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As terrifying as this figure is, hobgoblins don't fear death, believing that when they die in battle, their spirits join the honored ranks of Maglubiyet's army on the plane of Acheron.
 
-> [!quote] A quote from Translation of a Hobgoblin War Chant  
-> 
+> [!quote] A quote from Translation of a Hobgoblin War Chant
+>
 > They break before our shields,
-> 
+>
 > They fall beneath our blades;
-> 
+>
 > Their home is ours to conquer,
-> 
+>
 > Their children our slaves.
-> 
+>
 > Acheron! Acheron!
-> 
+>
 > Victory is ours!
-
 
 ## Statblock
 
@@ -124,6 +124,7 @@ title: Hobgoblin Warlord
 
 ***Parry.*** The hobgoblin adds 3 to its AC against one melee attack that would hit it. To do so, the hobgoblin must see the attacker and be wielding a melee weapon.
 ```
+
 ^statblock
 
 ## Environment

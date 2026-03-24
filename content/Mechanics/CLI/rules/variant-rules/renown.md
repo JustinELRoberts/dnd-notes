@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Renown
-*Source: Dungeon Master's Guide p. 22* 
+
+_Source: Dungeon Master's Guide p. 22_
 
 Renown is an optional rule you can use to track an adventurer's standing within a particular faction or organization. Renown is a numerical value that starts at 0, then increases as a character earns favor and reputation within a particular organization. You can tie benefits to a character's renown, including ranks and titles within the organization and access to resources.
 

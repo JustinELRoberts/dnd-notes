@@ -16,5 +16,5 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md "XPHB") 
+- [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md "XPHB")
 - [Disguise Self](Mechanics/CLI/spells/disguise-self-xphb.md "XPHB")

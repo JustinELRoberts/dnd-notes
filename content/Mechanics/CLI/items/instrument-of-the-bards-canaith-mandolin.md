@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Instrument of the Bards, Canaith Mandolin
-*Wondrous item, instrument, major, rare (requires attunement by a bard)*  
+
+_Wondrous item, instrument, major, rare (requires attunement by a bard)_\
 ![](Mechanics/CLI/items/img/instrument-of-the-bards-canaith-mandolin.webp#right)
 
 - **Weight**: 2.0 lbs.
@@ -32,4 +33,4 @@ All instruments of the bards can be used to cast the following spells: [fly](Mec
 
 In addition, the Canaith mandolin can be used to cast [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md) (3rd level), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), and [protection from energy](Mechanics/CLI/spells/protection-from-energy-xphb.md) (lightning only).
 
-*Source: Dungeon Master's Guide p. 176*
+_Source: Dungeon Master's Guide p. 176_

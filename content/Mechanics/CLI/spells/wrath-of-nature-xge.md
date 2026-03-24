@@ -22,8 +22,8 @@ classes:
 ---
 
 # Wrath of Nature
-*5th-level, Evocation*  
 
+_5th-level, Evocation_
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -52,4 +52,4 @@ As a bonus action on your turn, you can cause a loose rock in the cube to launch
 
 **Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
 
-*Source: Xanathar's Guide to Everything p. 171*
+_Source: Xanathar's Guide to Everything p. 171_

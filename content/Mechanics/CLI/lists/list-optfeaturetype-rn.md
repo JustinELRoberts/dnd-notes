@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Rune Knight Rune
-*Source: Tasha's Cauldron of Everything* 
+
+_Source: Tasha's Cauldron of Everything_
 
 - [Cloud Rune](Mechanics/CLI/optional-features/cloud-rune-tce.md)
 - [Fire Rune](Mechanics/CLI/optional-features/fire-rune-tce.md)

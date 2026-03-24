@@ -14,11 +14,12 @@ obsidianUIMode: preview
 ---
 
 # Battle Master
-*[Fighter](./fighter-xphb.md): Fighter Subclass*  
-*Source: Player's Handbook (2024) p. 93*  
+
+_[Fighter](./fighter-xphb.md): Fighter Subclass_\
+_Source: Player's Handbook (2024) p. 93_
 
 > [!tldr] Class and Feature Progression
-> 
+>
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='3'></th></tr>
@@ -50,7 +51,7 @@ obsidianUIMode: preview
 
 ![](Mechanics/CLI/classes/img/battle-master-fighter.webp#right)
 
-*Master Sophisticated Battle Maneuvers*
+_Master Sophisticated Battle Maneuvers_
 
 Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their carefully honed combat skills with academic study in the fields of history, theory, and the arts.
 
@@ -60,7 +61,7 @@ Battle Masters are students of the art of battle, learning martial techniques pa
 
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Superiority Dice.
 
-**Maneuvers.** You learn three maneuvers of your choice from the "Maneuvers Options^[Optional features from [Maneuver, Battle Master](Mechanics/CLI/lists/list-optfeaturetype-mv-b.md); defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+**Maneuvers.** You learn three maneuvers of your choice from the "Maneuvers Options^\[Optional features from [Maneuver, Battle Master](Mechanics/CLI/lists/list-optfeaturetype-mv-b.md); defined in Player's Handbook (2024)]" section later in this subclass's description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
 
 You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.
 
@@ -80,26 +81,26 @@ The maneuvers are presented here in alphabetical order.
 
 Options (choose 3):
 
-- [Ambush](Mechanics/CLI/optional-features/ambush-xphb.md)  
-- [Bait and Switch](Mechanics/CLI/optional-features/bait-and-switch-xphb.md)  
-- [Commander's Strike](Mechanics/CLI/optional-features/commanders-strike-xphb.md)  
-- [Commanding Presence](Mechanics/CLI/optional-features/commanding-presence-xphb.md)  
-- [Disarming Attack](Mechanics/CLI/optional-features/disarming-attack-xphb.md)  
-- [Distracting Strike](Mechanics/CLI/optional-features/distracting-strike-xphb.md)  
-- [Evasive Footwork](Mechanics/CLI/optional-features/evasive-footwork-xphb.md)  
-- [Feinting Attack](Mechanics/CLI/optional-features/feinting-attack-xphb.md)  
-- [Goading Attack](Mechanics/CLI/optional-features/goading-attack-xphb.md)  
-- [Lunging Attack](Mechanics/CLI/optional-features/lunging-attack-xphb.md)  
-- [Maneuvering Attack](Mechanics/CLI/optional-features/maneuvering-attack-xphb.md)  
-- [Menacing Attack](Mechanics/CLI/optional-features/menacing-attack-xphb.md)  
-- [Parry](Mechanics/CLI/optional-features/parry-xphb.md)  
-- [Precision Attack](Mechanics/CLI/optional-features/precision-attack-xphb.md)  
-- [Pushing Attack](Mechanics/CLI/optional-features/pushing-attack-xphb.md)  
-- [Rally](Mechanics/CLI/optional-features/rally-xphb.md)  
-- [Riposte](Mechanics/CLI/optional-features/riposte-xphb.md)  
-- [Sweeping Attack](Mechanics/CLI/optional-features/sweeping-attack-xphb.md)  
-- [Tactical Assessment](Mechanics/CLI/optional-features/tactical-assessment-xphb.md)  
-- [Trip Attack](Mechanics/CLI/optional-features/trip-attack-xphb.md)  
+- [Ambush](Mechanics/CLI/optional-features/ambush-xphb.md)
+- [Bait and Switch](Mechanics/CLI/optional-features/bait-and-switch-xphb.md)
+- [Commander's Strike](Mechanics/CLI/optional-features/commanders-strike-xphb.md)
+- [Commanding Presence](Mechanics/CLI/optional-features/commanding-presence-xphb.md)
+- [Disarming Attack](Mechanics/CLI/optional-features/disarming-attack-xphb.md)
+- [Distracting Strike](Mechanics/CLI/optional-features/distracting-strike-xphb.md)
+- [Evasive Footwork](Mechanics/CLI/optional-features/evasive-footwork-xphb.md)
+- [Feinting Attack](Mechanics/CLI/optional-features/feinting-attack-xphb.md)
+- [Goading Attack](Mechanics/CLI/optional-features/goading-attack-xphb.md)
+- [Lunging Attack](Mechanics/CLI/optional-features/lunging-attack-xphb.md)
+- [Maneuvering Attack](Mechanics/CLI/optional-features/maneuvering-attack-xphb.md)
+- [Menacing Attack](Mechanics/CLI/optional-features/menacing-attack-xphb.md)
+- [Parry](Mechanics/CLI/optional-features/parry-xphb.md)
+- [Precision Attack](Mechanics/CLI/optional-features/precision-attack-xphb.md)
+- [Pushing Attack](Mechanics/CLI/optional-features/pushing-attack-xphb.md)
+- [Rally](Mechanics/CLI/optional-features/rally-xphb.md)
+- [Riposte](Mechanics/CLI/optional-features/riposte-xphb.md)
+- [Sweeping Attack](Mechanics/CLI/optional-features/sweeping-attack-xphb.md)
+- [Tactical Assessment](Mechanics/CLI/optional-features/tactical-assessment-xphb.md)
+- [Trip Attack](Mechanics/CLI/optional-features/trip-attack-xphb.md)
 
 ### Know Your Enemy (Level 7)
 
@@ -123,4 +124,4 @@ Your Superiority Die becomes a `d12`.
 
 > [!example]- Optional Features: Maneuver, Battle Master
 > ![Maneuver, Battle Master](Mechanics/CLI/lists/list-optfeaturetype-mv-b.md#Maneuver,%20Battle%20Master)
-^list-optfeature-mv-b
+> ^list-optfeature-mv-b

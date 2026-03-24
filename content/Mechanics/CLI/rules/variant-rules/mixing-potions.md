@@ -13,7 +13,8 @@ obsidianUIMode: preview
 ---
 
 # Mixing Potions
-*Source: Dungeon Master's Guide p. 140* 
+
+_Source: Dungeon Master's Guide p. 140_
 
 A character might drink one potion while still under the effects of another, or pour several potions into a single container. The strange ingredients used in creating potions can result in unpredictable interactions.
 

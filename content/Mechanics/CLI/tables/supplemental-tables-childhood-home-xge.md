@@ -13,11 +13,12 @@ obsidianUIMode: preview
 ---
 
 # Supplemental Tables; Childhood Home
-*Source: Xanathar's Guide to Everything p. 63* 
+
+_Source: Xanathar's Guide to Everything p. 63_
 
 **Childhood Home**
 
-| d100 + <span>[Lifestyle Modifier]</span> | Home |
+| d100 + <span>\[Lifestyle Modifier]</span> | Home |
 |------------------------------------------|------|
 | 0 | On the streets |
 | 1-20 | Rundown shack |

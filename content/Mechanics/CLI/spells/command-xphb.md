@@ -46,8 +46,8 @@ classes:
 ---
 
 # Command
-*1st-level, Enchantment*  
 
+_1st-level, Enchantment_
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -56,14 +56,14 @@ classes:
 
 You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
 
-- **Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.  
-- **Drop.** The target drops whatever it is holding and then ends its turn.  
-- **Flee.** The target spends its turn moving away from you by the fastest available means.  
-- **Grovel.** The target has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition and then ends its turn.  
-- **Halt.** On its turn, the target doesn't move and takes no action or [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).  
+- **Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
+- **Drop.** The target drops whatever it is holding and then ends its turn.
+- **Flee.** The target spends its turn moving away from you by the fastest available means.
+- **Grovel.** The target has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition and then ends its turn.
+- **Halt.** On its turn, the target doesn't move and takes no action or [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
 
 **Using a Higher-Level Spell Slot.** You can affect one additional creature for each spell slot level above 1.
 
 **Classes**: [Bard (College of Glamour)](Mechanics/CLI/lists/list-spells-classes-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Order Domain)](Mechanics/CLI/lists/list-spells-classes-order-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Revolution)](Mechanics/CLI/lists/list-spells-classes-burden-of-revolution-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Martyr (Burden of Tyranny)](Mechanics/CLI/lists/list-spells-classes-burden-of-tyranny-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Overlord)](Mechanics/CLI/lists/list-spells-classes-overlord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Conquest)](Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge.md "subclass=XGE;class=XPHB"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Draconic Sorcery)](Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+_Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

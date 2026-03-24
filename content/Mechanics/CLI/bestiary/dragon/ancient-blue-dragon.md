@@ -18,7 +18,8 @@ obsidianUIMode: preview
 ---
 
 # Ancient Blue Dragon
-*Source: Monster Manual p. 90. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 90. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/ancient-blue-dragon.webp#right)
 
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
@@ -185,6 +186,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 - **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
 - **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.  
 ```
+
 ^statblock
 
 ## Environment

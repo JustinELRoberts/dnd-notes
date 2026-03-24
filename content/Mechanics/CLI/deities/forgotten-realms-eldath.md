@@ -18,14 +18,11 @@ obsidianUIMode: preview
 
 # Eldath
 
-
 - **Alignment**: Neutral Good
 - **Domains**: Life, Nature, Peace
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Waterfall plunging into still pool
 
-
-
 ## Sources
 
-*Player's Handbook p. 294, Tasha's Cauldron of Everything p. 33. Available in the Basic Rules (2014)*
+_Player's Handbook p. 294, Tasha's Cauldron of Everything p. 33. Available in the Basic Rules (2014)_

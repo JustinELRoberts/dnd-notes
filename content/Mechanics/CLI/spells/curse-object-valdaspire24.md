@@ -19,8 +19,8 @@ classes:
 ---
 
 # Curse Object
-*5th-level, Transmutation (ritual)*  
 
+_5th-level, Transmutation (ritual)_
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Touch
@@ -65,4 +65,4 @@ The attuned creature has [Vulnerability](Mechanics/CLI/rules/variant-rules/vulne
 
 **Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
 
-*Source: Valda's Spire of Secrets (2024) p. 0*
+_Source: Valda's Spire of Secrets (2024) p. 0_

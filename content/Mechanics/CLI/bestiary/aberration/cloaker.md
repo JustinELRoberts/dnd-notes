@@ -17,7 +17,8 @@ obsidianUIMode: preview
 ---
 
 # Cloaker
-*Source: Monster Manual p. 41. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+
+_Source: Monster Manual p. 41. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/aberration/img/cloaker.webp#right)
 
 Cloakers earned their names for the resemblance they bear to dark leathery cloaks. Lurking in remote dungeons and caves, these stealthy predators wait to slay lone or injured prey stumbling through the darkness.
@@ -88,6 +89,7 @@ Whenever any creature targets the cloaker with an attack or a harmful spell whil
 
 A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
 ```
+
 ^statblock
 
 ## Environment

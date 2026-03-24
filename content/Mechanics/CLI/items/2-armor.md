@@ -32,13 +32,13 @@ obsidianUIMode: preview
 ---
 
 # +2 Armor
-*Major, very rare*  
 
-
+_Major, very rare_
 
 You have a +2 bonus to AC while wearing this armor.
 
 **Variants**:
+
 - [+2 Breastplate](#+2%20Breastplate)
 - [+2 Chain Mail](#+2%20Chain%20Mail)
 - [+2 Chain Shirt](#+2%20Chain%20Shirt)
@@ -129,5 +129,4 @@ You have a +2 bonus to AC while wearing this armor.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
-*Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+_Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
