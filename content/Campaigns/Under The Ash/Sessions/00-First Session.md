@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-03-23T17:14:23.753-04:00
-published: 2026-03-23T17:14:23.753-04:00
+modified: 2026-03-25T21:05:55.761-04:00
+published: 2026-03-25T21:05:55.761-04:00
 Party:
   - "[[Avenj]]"
   - "[[Raelor]]"
@@ -15,7 +15,7 @@ End Day: 2
 
 ## Summary
 
-During a caravan journey to [[The Unnamed City]], the party witnessed a mysterious courier be executed by a stitched-together agent of [[The Awakening]] who then seized a massive red diamond from his body. A note on the courier revealed his mission to deliver the artifact to the kingdom of [[Caer Thalor]] to be locked away by the [[Council of Coldvale]]. After a battle where the party cut the limbs off of and buried the Awakening agent alive (who later miraculously regenerated), they recovered a [[notebook with a sleeping face on its cover]]. By using the red diamond as a key, they unlocked the book to reveal it describes the [[Diamond of 20 Monsters]], an army-summoning tool used by [[The Unknown]]. The party successfully smuggled the artifact and their new guide, [[Theratina]], through [[The Unnamed City]]'s border, heading north just as regional tensions between the [[Council of Coldvale]] and [[Karvok Thuldor]] push the land toward open war.
+During a caravan journey to [[The Unnamed City]], the party witnessed a mysterious courier be executed by a stitched-together agent of [[The Awakening]] who then seized a massive red diamond from his body. A note on the courier revealed his mission to deliver the artifact to the [[Caer Thalor]] to be locked away by the [[Council of Coldvale]]. After a battle where the party cut the limbs off of and buried the Awakening agent alive (who later miraculously regenerated), they recovered a [[notebook with a sleeping face on its cover]]. By using the red diamond as a key, they unlocked the book to reveal it describes the [[Diamond of 20 Monsters]], an army-summoning tool used by [[The Unknown]]. The party successfully smuggled the artifact and their new guide, [[Theratina]], through [[The Unnamed City]]'s border, heading north just as regional tensions between the [[Council of Coldvale]] and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index]] push the land toward open war.
 
 ## Events
 
@@ -48,7 +48,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - 1P, 35G
   - A broken (requires repair; not just attunement) [[ring-of-spell-storing]]
   - A note
-    - "You must hurry. Bring the artifact to the [[Kingdom of Caer Thalor]]  so that we can lock it in the vault. We have more to collect before him. He is the last one"
+    - "You must hurry. Bring the artifact to the [[Caer Thalor]]  so that we can lock it in the vault. We have more to collect before him. He is the last one"
     - Signed the Minister of [[The Council of Coldvale]] (from that cold city at the top right)
     - TODO: Create a quest for this
 - [[Yharov Stonebrow|Yharov]] collects the dead man's mask and bag
@@ -123,7 +123,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - [[Roz Rozum|Roz]] puts the diamond in his bag
 - We search the hideout and find:
   - 10 GP (we do not take it; it clearly belongs to [[Theratina]])
-  - A map of [[Evermore]] with [[Mazcatan]] circled; [[Theratina]] seems to want to go here
+  - A map of [[Campaigns/Under The Ash/Locations/Evermore/index]] with [[Mazcatan]] circled; [[Theratina]] seems to want to go here
   - Three of her poorly rendered drawings:
     - Her with two older lizard folk
     - A dark evil shadow with dark, amethyst like eyes
@@ -135,7 +135,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - He offers to take us to the [[Border City]]
   - The south part and north part of the world is feuding
     - Generally the center city stays neural in these conflicts
-    - The source of the conflict is that [[The Council of Coldvale]] did some experiments, causing the ice rift to spread further which led to [[Karvok Thuldor]] to not have its natural lava season
+    - The source of the conflict is that [[The Council of Coldvale]] did some experiments, causing the ice rift to spread further which led to [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index]] to not have its natural lava season
       - They are gearing up for war
   - He said a man walked into the city without a head and walked out with one late last night
     - The head is gone from [[Avenj]]'s bag, but the diamond and book remain

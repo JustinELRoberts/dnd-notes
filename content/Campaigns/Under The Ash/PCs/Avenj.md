@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-12T17:00:26.852-04:00
-modified: 2026-03-12T18:22:11.915-04:00
-published: 2026-03-12T18:22:11.915-04:00
+modified: 2026-03-24T20:13:42.955-04:00
+published: 2026-03-24T20:13:42.955-04:00
 Gender: Male
 Race: "[[warforged-efa|Warforged]]"
 Class: "[[necromancer-valdaspire24|Necromancer]]"
@@ -10,7 +10,7 @@ Subclass: "[[necromancer-plague-lord-valdaspire24|Plague Lord]]"
 aliases:
 ---
 
-![](Campaigns/Under The Ash/PCs/img/Avenj.png)
+![](Avenj.png)
 
 ## Description
 
