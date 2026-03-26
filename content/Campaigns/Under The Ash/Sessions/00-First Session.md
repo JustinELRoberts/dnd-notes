@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-03-25T21:53:08.628-04:00
-published: 2026-03-25T21:53:08.628-04:00
+modified: 2026-03-25T22:09:26.519-04:00
+published: 2026-03-25T22:09:26.519-04:00
 Party:
   - "[[Avenj]]"
   - "[[Raelor]]"
@@ -24,7 +24,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
 - A few hours into our travel (still in the desert), a [[Deliverer of Diamond of 20 Monsters|hooded, masked man]] joins us
   - It is still the desert; we aren't yet near our destination
   - [[Theodore Shellington|Theodore]] recognizes him as a member of 1 of the 3 [[Magic Guilds]] but is unsure which (too low of a roll)
-    - The three guilds are: [[The Coldvale]], [[The Starbound]], and [[The Magic Guild Ledgers]]
+    - The three guilds are: [[The Cold Veil]], [[The Starbound]], and [[The Magic Guild Ledgers]]
   - [[Raelor]] notices he is tightly clutching his bag, and inside it is some sort of gem
 - A few hours later again and the cart stops abruptly
   - [[Roz Rozum|Roz]] puts the man to [[sleep-xphb|Sleep]]
@@ -32,7 +32,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - Blood from the driver's cabin splashes into the back of the cart (the driver was killed)
   - We step out of the cart and it immediately goes up in flame and turns to ash
     - The masked man appears unharmed, yet still asleep
-- A second [[masked man with red eyes]] appears
+- A second [[Scary Awakening Follower]] appears
   - He rips the mask off the original masked figure, revealing a young sorcerer roughly 19 years old
   - The new masked man puts his finger to the old one's head and eviscerates him
   - He then steps up to us and with a deep, demonic voice asks, "where are the contents of his bag?"
@@ -42,7 +42,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - He takes a [[Diamond of 20 Monsters|massive red diamond]] out of the bag and puts it in his own bag
     - "Enjoy life while you still have it. When the moon shines red, as the color of this diamond, all Hell will begin to break loose", he says in his demonic voice
   - We could tell that he was a human but corrupted by something
-  - He was bearing a symbol indicating he was a member of [[The Awakening]] (group that tried to awaken [[The Unknown]])
+  - He was bearing a symbol indicating he was a member of [[The Awakening]]
   - He simply walks away; everyone is afraid to stop him
 - The dead body of the first masked man (the 19yo boy) had:
   - 1P, 35G
@@ -70,7 +70,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
     - Face and torso is [[human-xphb|Human]] boy but has the limbs of a [[dragonborn-xphb|Dragonborn]], [[elf-xphb|Elf]],  [[drow|Drow]], and one other that I missed
   - He claims he was created to kill [[The Unknown]] and claims he will not pronounce the name of his creator in front of mortals
     - We (IRL) are skeptical of this claim given [[The Awakening]] symbol he is wearing
-  - [[Roz Rozum|Roz]] tries to use [[Sending]] to get the creator's name nonverbally, but it caused him to make a CON save and he couldn't comprehend the name despite succeeding
+  - [[Roz Rozum|Roz]] tries to use [[sending-xphb|Sending]] to get the creator's name nonverbally, but it caused him to make a CON save and he couldn't comprehend the name despite succeeding
   - He has TONS of random spell components
     - So many that we all now have all the components we need to cast any spell levels 0-3 once
     - Interestingly, the components are for multiple classes
@@ -88,10 +88,10 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
     - A green one with necromancy magic
 - [[Theodore Shellington|Theodore]] takes the spell components and mask
 - Someone plucks the plant and it is still alive and moving post plucking
-- We arrive at the [[Unnamed City]] (the southeastern corner)
+- We arrive at [[The Unnamed City]] (the southeastern corner)
   - In the center is a small, prospering city that grants passage to the other side
   - The water isnt very deep; we could swim through in a day
-  - [[Roz RozumķRoz]] pays a little lizard girl a copper to find us a place to sleep
+  - [[Roz Rozum|Roz]] pays a little lizard girl a copper to find us a place to sleep
     - She brings us to a cave hideout at the southeastern beach with some cots and toy
       - Clearly this where she lives
     - Her name is [[Theratina]]
@@ -123,7 +123,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - [[Roz Rozum|Roz]] puts the diamond in his bag
 - We search the hideout and find:
   - 10 GP (we do not take it; it clearly belongs to [[Theratina]])
-  - A map of [[Campaigns/Under The Ash/Locations/Evermore/index]] with [[Mazcatan]] circled; [[Theratina]] seems to want to go here
+  - A map of [[Campaigns/Under The Ash/Locations/Evermore/index|Evermore]] with [[Mazca’Tan]] circled; [[Theratina]] seems to want to go here
   - Three of her poorly rendered drawings:
     - Her with two older lizard folk
     - A dark evil shadow with dark, amethyst like eyes
@@ -132,7 +132,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - He declines and succeeds on a CON save before waking
 - The [[alarm-xphb|Alarm]] spell goes off as a guard named [[Bobloro Fawnhore]] walks in
   - Evidently he was just doing a patrol and noticed us
-  - He offers to take us to the [[Border City]]
+  - He offers to take us to the [[The Unnamed City|Border City]]
   - The south part and north part of the world is feuding
     - Generally the center city stays neural in these conflicts
     - The source of the conflict is that [[The Council of the Cold Veil]] did some experiments, causing the ice rift to spread further which led to [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index]] to not have its natural lava season
@@ -147,7 +147,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - [[Yharov Stonebrow|Yharov]] gives her a doll he knit and she offers to take us to the library
     - She claims they just wont let her past the border bc she is too young
     - She does _want_ to pass the border bc she is "going somewhere"
-      - We know this to be [[Mazcatan]] from the map we found
+      - We know this to be [[Mazca’Tan]] from the map we found
     - We offer to help her pass by vouching for her
   - She gathers her things:
     - The things we found
