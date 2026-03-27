@@ -3,16 +3,14 @@ publish: true
 aliases:
   - Unknown
 created: 2026-03-21T16:51:37.764-04:00
-modified: 2026-03-25T22:00:18.053-04:00
-published: 2026-03-25T22:00:18.053-04:00
+modified: 2026-03-26T22:47:34.059-04:00
+published: 2026-03-26T22:47:34.059-04:00
 Age: Not known
 Gender: Not known
 Race: Not known
 Relationship: Not known
 Factions:
   - "[[The Awakening]]"
-Locations:
-  - "[[Campaigns/Under The Ash/Locations/Evermore/index|Evermore]]"
 tags:
 ---
 

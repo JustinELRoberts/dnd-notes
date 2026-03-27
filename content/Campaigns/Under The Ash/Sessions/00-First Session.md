@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-03-25T22:09:26.519-04:00
-published: 2026-03-25T22:09:26.519-04:00
+modified: 2026-03-26T22:16:17.450-04:00
+published: 2026-03-26T22:16:17.450-04:00
 Party:
   - "[[Avenj]]"
   - "[[Raelor]]"
@@ -32,7 +32,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - Blood from the driver's cabin splashes into the back of the cart (the driver was killed)
   - We step out of the cart and it immediately goes up in flame and turns to ash
     - The masked man appears unharmed, yet still asleep
-- A second [[Scary Awakening Follower]] appears
+- A second [[Scary Frankenstein Guy]] appears
   - He rips the mask off the original masked figure, revealing a young sorcerer roughly 19 years old
   - The new masked man puts his finger to the old one's head and eviscerates him
   - He then steps up to us and with a deep, demonic voice asks, "where are the contents of his bag?"
@@ -75,9 +75,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
     - So many that we all now have all the components we need to cast any spell levels 0-3 once
     - Interestingly, the components are for multiple classes
       - Brad later said he doesn't like dealing with components, so this may not be worth reading too deeply into as it could just be his way of taking care of that
-  - Behind emblem he carries is a coin
-    - Scratched on the front is abyssal writing
-    - On the back is a lock
+  - Behind emblem he carries is [[Coin from the frankenstein's badge|a coin]]
   - He implies he plans to somehow leverage the fact that many are at war to achieve his evil goals
   - [[Roz Rozum|Roz]] uses [[mold-earth-xge|Mold Earth]] to bury his torso and head alive
 - In his bag is:
@@ -167,9 +165,9 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
     - Once through, she tries to pay us her 10G
       - We decline
 - We make our way to the north port.
-  - We stop by a shop with a giant [[bugbear-mpmm|Bugbear]] working at the counter
+  - We stop by a shop with a giant [[bugbear-mpmm|Bugbear]] named [[Fonzie]] working at the counter
   - Everything in there is hundreds of gold or platinum
   - [[Theodore Shellington|Theodore]] eats a magic mushroom (reluctantly) in exchange for 2 free pouches of premium tobacco (worth hundreds of gold)
     - He rolled well and now has advantage on strength checks for the rest of the day
 - Our canoe is at the dock and repaired
-  - As we begin to depart, we notice some elvish spellcasters on the way by
+  - As we begin to depart, we notice some angry looking elvish spellcasters on the way by

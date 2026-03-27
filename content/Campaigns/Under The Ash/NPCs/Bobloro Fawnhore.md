@@ -1,15 +1,13 @@
 ---
 publish: true
 created: 2026-03-12T22:53:35.106-04:00
-modified: 2026-03-21T16:58:48.420-04:00
-published: 2026-03-21T16:58:48.420-04:00
+modified: 2026-03-26T22:47:55.859-04:00
+published: 2026-03-26T22:47:55.859-04:00
 Age: Not known
 Gender: Male
 Race: "[[goliath-xphb|Goliath]]"
 Relationship: Neutral
 Factions:
-Locations:
-  - "[[The Unnamed City]]"
 aliases:
 tags:
 ---
