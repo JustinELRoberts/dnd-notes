@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-26T22:38:21.798-04:00
-modified: 2026-03-26T22:47:36.940-04:00
-published: 2026-03-26T22:47:36.940-04:00
+modified: 2026-03-30T17:45:01.692-04:00
+published: 2026-03-30T17:45:01.692-04:00
 Age: Not known
 Gender: Female
 Race: Not known
@@ -19,4 +19,4 @@ Her hair is dreadlock-filled and around her neck she wears an amulet with the sk
 
 ## Motivations
 
-- <% tp.file.cursor(2) %>
+- TBD
