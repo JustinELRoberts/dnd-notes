@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Despot
-created: 2026-03-09T12:15:34.110-04:00
-modified: 2026-03-09T12:15:34.110-04:00
-published: 2026-03-09T12:15:34.110-04:00
+created: 2026-03-29T21:53:56.148-04:00
+modified: 2026-03-29T21:53:56.148-04:00
+published: 2026-03-29T21:53:56.148-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/12
@@ -15,11 +15,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Despot (MPMM)
+ac: 21
+hp: 119
+modifier: -3
+hit_dice: 14d8 + 56
+cr: "12"
+stats:
+  - 20
+  - 5
+  - 19
+  - 15
+  - 14
+  - 13
+source:
+  - MPMM
 ---
 
 # Duergar Despot
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 107_
 
 Duergar despots replace parts of their bodies with mechanical devices that they control through their psionic abilities.
 
@@ -47,11 +62,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Despot
-![](Mechanics/CLI/bestiary/humanoid/token/duergar-despot-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar-despot-mpmm.webp#token)
 *Medium humanoid (dwarf), Any alignment*
 
 - **Armor Class** 21 (natural armor)
-- **Hit Points** 119 (`14d8 + 56`) 
+- **Hit Points** 119 (14d8 + 56) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,9 +76,9 @@ title: Duergar Despot
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +8, Wisdom +6
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 12
 
@@ -73,23 +88,23 @@ title: Duergar Despot
 
 ***Psychic Engine.*** When the duergar suffers a critical hit or is reduced to 0 hit points, psychic energy erupts from its frame to deal 14 (`4d6`) psychic damage to each creature within 5 feet of it.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
-***Multiattack.*** The duergar makes two Iron Fist attacks and two Stomping Foot attacks. After one of the attacks, the duergar can move up to its speed without provoking [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack). It can replace one of the attacks with a use of Flame Jet.
+***Multiattack.*** The duergar makes two Iron Fist attacks and two Stomping Foot attacks. After one of the attacks, the duergar can move up to its speed without provoking [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack). It can replace one of the attacks with a use of Flame Jet.
 
-***Iron Fist.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 23 (`4d8 + 5`) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet away in a straight line and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Iron Fist.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 23 (`4d8 + 5`) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 17 Strength saving throw or be pushed up to 30 feet away in a straight line and be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
-***Stomping Foot.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage, or 21 (`3d10 + 5`) to a [prone](Mechanics/CLI/rules/conditions.md#Prone) target.
+***Stomping Foot.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage, or 21 (`3d10 + 5`) to a [prone](/Mechanics/CLI/conditions.md#Prone) target.
 
 ***Flame Jet.*** The duergar spews flames in a line 100 feet long and 5 feet wide. Each creature in the line must make a DC 16 Dexterity saving throw, taking 18 (`4d8`) fire damage on a failed save, or half as much damage on a successful one.
 
 ***Spellcasting (Psionics).*** The duergar casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 12):
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 
-**1/day:** [stinking cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md)
+**1/day:** [stinking cloud](/Mechanics/CLI/spells/stinking-cloud-xphb.md)
 ```
 
 ^statblock
@@ -97,3 +112,7 @@ title: Duergar Despot
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 107_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Augury
-created: 2026-03-09T12:15:34.132-04:00
-modified: 2026-03-09T12:15:34.132-04:00
-published: 2026-03-09T12:15:34.132-04:00
+created: 2026-03-29T21:53:56.179-04:00
+modified: 2026-03-29T21:53:56.179-04:00
+published: 2026-03-29T21:53:56.179-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/wizard
@@ -20,24 +21,12 @@ tags:
   - ttrpg-cli/spell/subclass/diviner
   - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subclass/knowledge-domain
   - ttrpg-cli/spell/subclass/path-of-the-ancestral-guardian
   - ttrpg-cli/spell/subclass/tea-magic
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Barbarian (Path of the Ancestral Guardian)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Divine Soul, Good)
-  - Warmage (House of Bishops)
-  - Witch (Tea Magic)
-  - Wizard
-  - Wizard (Diviner)
 ---
 
 # Augury
@@ -63,8 +52,29 @@ You receive an omen from an otherworldly entity about the results of a course of
 
 The spell doesn't account for circumstances, such as other spells, that might change the results.
 
-If you cast the spell more than once before finishing a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), there is a cumulative  chance for each casting after the first that you get no answer.
+If you cast the spell more than once before finishing a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), there is a cumulative  chance for each casting after the first that you get no answer.
 
-**Classes**: [Barbarian (Path of the Ancestral Guardian)](Mechanics/CLI/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE;class=XPHB"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Tea Magic)](Mechanics/CLI/lists/list-spells-classes-tea-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Cleric (Knowledge Domain)](/Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB")
+- [Barbarian (Path of the Ancestral Guardian)](/Mechanics/CLI/lists/list-spells-classes-path-of-the-ancestral-guardian-xge.md "subclass=XGE")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch (Tea Magic)](/Mechanics/CLI/lists/list-spells-classes-tea-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Cleric (Knowledge Domain)](/Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Wizard (Diviner)](/Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

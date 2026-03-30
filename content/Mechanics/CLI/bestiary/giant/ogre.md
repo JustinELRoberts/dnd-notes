@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ogre
-created: 2026-03-09T12:15:33.810-04:00
-modified: 2026-03-09T12:15:33.810-04:00
-published: 2026-03-09T12:15:33.810-04:00
+created: 2026-03-29T21:53:55.594-04:00
+modified: 2026-03-29T21:53:55.594-04:00
+published: 2026-03-29T21:53:55.594-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -22,13 +22,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ogre
+ac: 11
+hp: 59
+modifier: -1
+hit_dice: 7d10 + 21
+cr: "2"
+stats:
+  - 19
+  - 8
+  - 16
+  - 5
+  - 7
+  - 7
+source:
+  - MM
 ---
 
 # Ogre
 
-_Source: Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/ogre.webp#right)
-
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
 ## Furious Tempers
@@ -67,11 +82,11 @@ Whenever possible, ogres gang up with other monsters to bully or prey on creatur
 
 ```ad-statblock
 title: Ogre
-![](Mechanics/CLI/bestiary/giant/token/ogre.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/ogre.webp#token)
 *Large giant, Chaotic Evil*
 
-- **Armor Class** 11 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Armor Class** 11 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -81,8 +96,7 @@ title: Ogre
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
-- **Gear** [greatclub](Mechanics/CLI/items/greatclub-xphb.md), [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Giant
 - **Challenge** 2
 
@@ -98,3 +112,7 @@ title: Ogre
 ## Environment
 
 grassland, forest, swamp, hill, desert, coastal, arctic, underdark, mountain
+
+## Sources
+
+_Monster Manual p. 237. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

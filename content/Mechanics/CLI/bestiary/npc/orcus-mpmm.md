@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orcus
-created: 2026-03-09T12:15:33.833-04:00
-modified: 2026-03-09T12:15:33.834-04:00
-published: 2026-03-09T12:15:33.834-04:00
+created: 2026-03-29T21:53:55.619-04:00
+modified: 2026-03-29T21:53:55.619-04:00
+published: 2026-03-29T21:53:55.619-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/26
@@ -13,18 +13,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orcus (MPMM)
+ac: 17
+hp: 405
+modifier: 2
+hit_dice: 30d12 + 210
+cr: "26"
+stats:
+  - 27
+  - 14
+  - 25
+  - 20
+  - 20
+  - 25
+source:
+  - MPMM
 ---
 
 # Orcus
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 204_\
 ![](Mechanics/CLI/bestiary/npc/img/orcus.webp#right)
-
 Orcus is the Demon Prince of Undeath, also known as the Blood Lord. While he takes pleasure in the sufferings of the living, he far prefers the company and service of Undead. His desire is to see all life quenched and the multiverse transformed into a vast necropolis populated solely by Undead creatures under his command.
 
-Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become [ghouls](Mechanics/CLI/bestiary/undead/ghoul.md) and [zombies](Mechanics/CLI/bestiary/undead/zombie-xmm.md) that serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.
+Orcus rewards those who spread death in his name by granting them a small portion of his power. The least of these become [ghouls](/Mechanics/CLI/bestiary/undead/ghoul.md) and [zombies](/Mechanics/CLI/bestiary/undead/zombie-xmm.md) that serve in his legions, while his favored servants are the cultists and necromancers who murder the living and then manipulate the dead, emulating their dread master.
 
-Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary [Wand of Orcus](Mechanics/CLI/items/wand-of-orcus.md), which is described in the _Dungeon Master's Guide_.
+Orcus is a bestial creature of corruption with a diseased, decaying look. He has the lower torso of a goat and a humanlike upper body with a belly swollen with rot. Great bat wings sprout from his shoulders, and his head is like the skull of a goat, the flesh nearly rotted from it. In one hand, he wields the legendary [Wand of Orcus](/Mechanics/CLI/items/wand-of-orcus.md), which is described in the _Dungeon Master's Guide_.
 
 ## Cultists of Orcus
 
@@ -39,11 +54,11 @@ Orcus makes his lair in the fortress city of Naratyr, which is on Thanatos, the 
 
 ```ad-statblock
 title: Orcus
-![](Mechanics/CLI/bestiary/npc/token/orcus-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/npc/token/orcus-mpmm.webp#token)
 *Huge fiend (demon), Chaotic Evil*
 
-- **Armor Class** 17 (natural armor; 20 with the [Wand of Orcus](Mechanics/CLI/items/wand-of-orcus.md))
-- **Hit Points** 405 (`30d12 + 210`) 
+- **Armor Class** 17 (natural armor; 20 with the [Wand of Orcus](/Mechanics/CLI/items/wand-of-orcus.md))
+- **Hit Points** 405 (30d12 + 210) 
 - **Speed** 40 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,12 +67,11 @@ title: Orcus
 
 - **Proficiency Bonus** +8
 - **Saving Throws** Dexterity +10, Constitution +15, Wisdom +13
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +13, [Perception](Mechanics/CLI/rules/skills.md#Perception) +13
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 22
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +13, [Perception](/Mechanics/CLI/skills.md#Perception) +13
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 22
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** necrotic; poison; bludgeoning, piercing, slashing that is nonmagical
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [wand of orcus](Mechanics/CLI/items/wand-of-orcus.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 26
 
@@ -67,9 +81,9 @@ title: Orcus
 
 ***Magic Resistance.*** Orcus has advantage on saving throws against spells and other magical effects.
 
-***Master of Undeath.*** Orcus can cast [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md) (at will) and [create undead](Mechanics/CLI/spells/create-undead-xphb.md) (3/day). He chooses the level at which the spells are cast, and the creatures created by them remain under his control indefinitely. Additionally, he can cast [create undead](Mechanics/CLI/spells/create-undead-xphb.md) even when it isn't night.
+***Master of Undeath.*** Orcus can cast [animate dead](/Mechanics/CLI/spells/animate-dead-xphb.md) (at will) and [create undead](/Mechanics/CLI/spells/create-undead-xphb.md) (3/day). He chooses the level at which the spells are cast, and the creatures created by them remain under his control indefinitely. Additionally, he can cast [create undead](/Mechanics/CLI/spells/create-undead-xphb.md) even when it isn't night.
 
-***Special Equipment.*** Orcus wields the [Wand of Orcus](Mechanics/CLI/items/wand-of-orcus.md).
+***Special Equipment.*** Orcus wields the [Wand of Orcus](/Mechanics/CLI/items/wand-of-orcus.md).
 
 ## Actions
 
@@ -81,23 +95,23 @@ title: Orcus
 
 ***Necrotic Bolt.*** *Ranged Spell Attack:* `+15` to hit, range 120 ft., one target. *Hit:* 29 (`5d8 + 7`) necrotic damage.
 
-***Conjure Undead (1/Day).*** While holding the [Wand of Orcus](Mechanics/CLI/items/wand-of-orcus.md), Orcus conjures Undead creatures whose combined average hit points don't exceed 500. These creatures magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action.
+***Conjure Undead (1/Day).*** While holding the [Wand of Orcus](/Mechanics/CLI/items/wand-of-orcus.md), Orcus conjures Undead creatures whose combined average hit points don't exceed 500. These creatures magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action.
 
 ***Spellcasting.*** Orcus casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md)
 
-**3/day:** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md)
+**3/day:** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md)
 
-**1/day:** [time stop](Mechanics/CLI/spells/time-stop-xphb.md)
+**1/day:** [time stop](/Mechanics/CLI/spells/time-stop-xphb.md)
 
-***Wand Spellcasting.*** While holding the [Wand of Orcus](Mechanics/CLI/items/wand-of-orcus.md), Orcus casts one of the following spells (spell save DC 18), some of which require charges; the wand has 7 charges to fuel these spells, and it regains `1d4 + 3` charges daily at dawn:
+***Wand Spellcasting.*** While holding the [Wand of Orcus](/Mechanics/CLI/items/wand-of-orcus.md), Orcus casts one of the following spells (spell save DC 18), some of which require charges; the wand has 7 charges to fuel these spells, and it regains `1d4 + 3` charges daily at dawn:
 
-**At will:** [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md) (as an action), [blight](Mechanics/CLI/spells/blight-xphb.md), [speak with dead](Mechanics/CLI/spells/speak-with-dead-xphb.md)
+**At will:** [animate dead](/Mechanics/CLI/spells/animate-dead-xphb.md) (as an action), [blight](/Mechanics/CLI/spells/blight-xphb.md), [speak with dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md)
 
-**2 charges each:** [power word kill](Mechanics/CLI/spells/power-word-kill-xphb.md)
+**2 charges each:** [power word kill](/Mechanics/CLI/spells/power-word-kill-xphb.md)
 
-**1 charge each:** [circle of death](Mechanics/CLI/spells/circle-of-death-xphb.md), [finger of death](Mechanics/CLI/spells/finger-of-death-xphb.md)
+**1 charge each:** [circle of death](/Mechanics/CLI/spells/circle-of-death-xphb.md), [finger of death](/Mechanics/CLI/spells/finger-of-death-xphb.md)
 
 ## Legendary Actions
 
@@ -111,9 +125,9 @@ Orcus can take 3 legendary actions, choosing from the options below. Only one le
 
 On Initiative count 20 (losing initiative ties), Orcus can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
-- **Deadly Utterance.** Orcus's voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to [power word kill](Mechanics/CLI/spells/power-word-kill-xphb.md). Orcus needn't see the creature, but he must be aware that the individual is in the lair.  
-- **Grasp of the Dead.** Orcus causes skeletal arms to rise from an area on the ground in a 20-foot square that he can see. They last until the next initiative count 20. Each creature in that area when the arms appear must succeed on a DC 23 Strength saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the arms disappear or until Orcus releases them (no action required).  
-- **Undead Servants.** Orcus causes up to six corpses within the lair to rise as [skeletons](Mechanics/CLI/bestiary/undead/skeleton-xmm.md), [zombies](Mechanics/CLI/bestiary/undead/zombie-xmm.md), or [ghouls](Mechanics/CLI/bestiary/undead/ghoul.md). These undead obey his telepathic commands, which can reach anywhere in the lair.  
+- **Deadly Utterance.** Orcus's voice booms throughout the lair. His utterance causes one creature of his choice to be subjected to [power word kill](/Mechanics/CLI/spells/power-word-kill-xphb.md). Orcus needn't see the creature, but he must be aware that the individual is in the lair.  
+- **Grasp of the Dead.** Orcus causes skeletal arms to rise from an area on the ground in a 20-foot square that he can see. They last until the next initiative count 20. Each creature in that area when the arms appear must succeed on a DC 23 Strength saving throw or be [restrained](/Mechanics/CLI/conditions.md#Restrained) until the arms disappear or until Orcus releases them (no action required).  
+- **Undead Servants.** Orcus causes up to six corpses within the lair to rise as [skeletons](/Mechanics/CLI/bestiary/undead/skeleton-xmm.md), [zombies](/Mechanics/CLI/bestiary/undead/zombie-xmm.md), or [ghouls](/Mechanics/CLI/bestiary/undead/ghoul.md). These undead obey his telepathic commands, which can reach anywhere in the lair.  
 
 ## Regional Effects
 
@@ -126,3 +140,7 @@ If Orcus dies, these effects fade over the course of `1d10` days.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 204_

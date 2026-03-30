@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ring of the Ram
-created: 2026-03-09T12:15:33.778-04:00
-modified: 2026-03-09T12:15:33.778-04:00
-published: 2026-03-09T12:15:33.778-04:00
+created: 2026-03-29T21:53:55.560-04:00
+modified: 2026-03-29T21:53:55.560-04:00
+published: 2026-03-29T21:53:55.560-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -21,8 +21,13 @@ obsidianUIMode: preview
 _Ring, major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/ring-of-the-ram.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 This ring has 3 charges, and it regains `1d3` expended charges daily at dawn. While wearing the ring, you can use an action to expend 1 to 3 of its charges to make a ranged spell attack against one creature you can see within 60 feet of you. The ring produces a spectral ram's head and makes its attack roll with a +7 bonus. On a hit, for each charge you spend, the target takes `2d10` force damage and is pushed 5 feet away from you.
 
 Alternatively, you can expend 1 to 3 of the ring's charges as an action to try to break an object you can see within 60 feet of you that isn't being worn or carried. The ring makes a Strength check with a +5 bonus for each charge you spend.
 
-_Source: Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 193. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warrior Sidekick
-created: 2026-03-09T12:15:33.866-04:00
-modified: 2026-03-09T12:15:33.866-04:00
-published: 2026-03-09T12:15:33.866-04:00
+created: 2026-03-29T21:53:55.657-04:00
+modified: 2026-03-29T21:53:55.657-04:00
+published: 2026-03-29T21:53:55.657-04:00
 tags:
   - ttrpg-cli/class/warrior-sidekick
   - ttrpg-cli/compendium/src/5e/tce
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Warrior Sidekick
-
-_Source: Tasha's Cauldron of Everything p. 146_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,21 +46,21 @@ _Source: Tasha's Cauldron of Everything p. 146_
 
 ^class-progression
 
-![Warriors, Left to Right: a...](Mechanics/CLI/classes/img/warrior-sidekick.webp#right "Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf")
-
 ## Hit Points
+
+![Warriors, Left to Right: a...](Mechanics/CLI/classes/img/warrior-sidekick.webp#right "Warriors, Left to Right: an Aasimar, a Firbolg, and a Wolf")
 
 - **Hit Dice**: _x_ = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
 - **Hit Points at First Level:** _x_ + CON
 - **Hit Points at Higher Levels:** add 1&#x64;_&#x78;_ + CON (minimum of 1)
 
-## Starting Warrior Sidekick
+## Starting a Warrior Sidekick
 
 - **Saving Throws**: One saving throw of your choice: Strength, Dexterity, or Constitution.
 - **Armor**: All armor; and shields if [humanoid](#Bonus%20Proficiencies%20\(Level%201\))
 - **Weapons**: All simple and martial weapons if [humanoid](#Bonus%20Proficiencies%20\(Level%201\))
 - **Tools**: none
-- **Skills**: Two skills of your choice from the following list: [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), and [Survival](Mechanics/CLI/rules/skills.md#Survival).
+- **Skills**: Two skills of your choice from the following list: [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/Mechanics/CLI/skills.md#Athletics), [Intimidation](/Mechanics/CLI/skills.md#Intimidation), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), and [Survival](/Mechanics/CLI/skills.md#Survival).
 
 ## Warrior Sidekick
 
@@ -73,7 +71,7 @@ A Warrior sidekick grows in martial prowess as it fights by your side. It might 
 ### Sidekick Class (Level 1)
 
 > [!note]
-> Note: this class is intended for NPC [sidekicks](Mechanics/CLI/rules/variant-rules/sidekicks-tce.md).
+> Note: this class is intended for NPC [sidekicks](/Mechanics/CLI/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -81,7 +79,7 @@ _1st-level Warrior feature_
 
 The sidekick gains proficiency in one saving throw of your choice: Strength, Dexterity, or Constitution.
 
-In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), and [Survival](Mechanics/CLI/rules/skills.md#Survival).
+In addition, the sidekick gains proficiency in two skills of your choice from the following list: [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/Mechanics/CLI/skills.md#Athletics), [Intimidation](/Mechanics/CLI/skills.md#Intimidation), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), and [Survival](/Mechanics/CLI/skills.md#Survival).
 
 The sidekick gains proficiency with all armor, and if it is a humanoid or has a simple or martial weapon in its stat block, it gains proficiency with shields and all simple and martial weapons.
 
@@ -120,7 +118,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 _6th-level Warrior feature_
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](/Mechanics/CLI/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 
@@ -174,7 +172,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 _15th-level Warrior feature_
 
-The sidekick can attack twice, instead of once, whenever it takes the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on its turn.
+The sidekick can attack twice, instead of once, whenever it takes the [Attack](/Mechanics/CLI/actions.md#Attack) action on its turn.
 
 The number of attacks increases to three when the sidekick reaches 15th level.
 
@@ -209,3 +207,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 _20th-level Warrior feature_
 
 The sidekick can use their Second Wind feature twice between rests.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 146_

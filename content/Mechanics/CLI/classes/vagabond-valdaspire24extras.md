@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Vagabond
-created: 2026-03-09T12:15:33.792-04:00
-modified: 2026-03-09T12:15:33.792-04:00
-published: 2026-03-09T12:15:33.792-04:00
+created: 2026-03-29T21:53:55.575-04:00
+modified: 2026-03-29T21:53:55.575-04:00
+published: 2026-03-29T21:53:55.575-04:00
 tags:
   - ttrpg-cli/class/vagabond
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Vagabond
-
-_Source: Valda's Spire of Secrets Extras (2024)_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,29 +46,29 @@ _Source: Valda's Spire of Secrets Extras (2024)_
 
 ^class-progression
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaVagabond/Class/Vagabond.webp#right)
-
 ## Hit Points
+
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaVagabond/Class/Vagabond.webp#right)
 
 - **Hit Dice**: 1d10 per Vagabond level
 - **Hit Points at First Level:** 10 + CON
 - **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
 
-## Starting Vagabond
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaVagabond/Class/Vagabond-Cover.webp#center)
+
+## Starting a Vagabond
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/Mechanics/CLI/skills.md#Athletics), [Deception](/Mechanics/CLI/skills.md#Deception), [Insight](/Mechanics/CLI/skills.md#Insight), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Perception](/Mechanics/CLI/skills.md#Perception), [Stealth](/Mechanics/CLI/skills.md#Stealth), or [Survival](/Mechanics/CLI/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Heavy armor](Mechanics/CLI/rules/item-types.md#Heavy%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), [Heavy armor](/Mechanics/CLI/item-types.md#Heavy%20Armor), and [Shields](/Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** _Choose A, B, or C:_ (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Greatsword](Mechanics/CLI/items/greatsword-xphb.md), 4 [Handaxes](Mechanics/CLI/items/handaxe-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 15 GP; (B) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Scimitars](Mechanics/CLI/items/scimitar-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 13 GP; or (C) 170 GP
+**Starting Equipment:** _Choose A, B, or C:_ (A) [Chain Mail](/Mechanics/CLI/items/chain-mail-xphb.md), [Greatsword](/Mechanics/CLI/items/greatsword-xphb.md), 4 [Handaxes](/Mechanics/CLI/items/handaxe-xphb.md), [Explorer's Pack](/Mechanics/CLI/items/explorers-pack-xphb.md), and 15 GP; (B) [Studded Leather Armor](/Mechanics/CLI/items/studded-leather-armor-xphb.md), 2 [Scimitars](/Mechanics/CLI/items/scimitar-xphb.md), [Longbow](/Mechanics/CLI/items/longbow-xphb.md), 20 [Arrows](/Mechanics/CLI/items/arrow-xphb.md), [Quiver](/Mechanics/CLI/items/quiver-xphb.md), [Explorer's Pack](/Mechanics/CLI/items/explorers-pack-xphb.md), and 13 GP; or (C) 170 GP
 
 ## Multiclassing Vagabond
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Shields](Mechanics/CLI/items/shield-xphb.md)
-
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaVagabond/Class/Vagabond-Cover.webp#center)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), [Shields](/Mechanics/CLI/items/shield-xphb.md)
 
 ## Vagabond
 
@@ -94,39 +92,39 @@ For a reason that you keep utterly secret, you have committed to a life of endle
 
 Options (choose 1):
 
-- [Avenger](Mechanics/CLI/optional-features/avenger-valdaspire24extras.md)
-- [Cursed](Mechanics/CLI/optional-features/cursed-valdaspire24extras.md)
-- [Dying](Mechanics/CLI/optional-features/dying-valdaspire24extras.md)
-- [Faction Agent](Mechanics/CLI/optional-features/faction-agent-valdaspire24extras.md)
-- [False Identity](Mechanics/CLI/optional-features/false-identity-valdaspire24extras.md)
-- [Fugitive](Mechanics/CLI/optional-features/fugitive-valdaspire24extras.md)
-- [Heretic](Mechanics/CLI/optional-features/heretic-valdaspire24extras.md)
-- [Monstrous](Mechanics/CLI/optional-features/monstrous-valdaspire24extras.md)
-- [Nobility](Mechanics/CLI/optional-features/nobility-valdaspire24extras.md)
+- [Avenger](/Mechanics/CLI/optional-features/avenger-valdaspire24extras.md)
+- [Cursed](/Mechanics/CLI/optional-features/cursed-valdaspire24extras.md)
+- [Dying](/Mechanics/CLI/optional-features/dying-valdaspire24extras.md)
+- [Faction Agent](/Mechanics/CLI/optional-features/faction-agent-valdaspire24extras.md)
+- [False Identity](/Mechanics/CLI/optional-features/false-identity-valdaspire24extras.md)
+- [Fugitive](/Mechanics/CLI/optional-features/fugitive-valdaspire24extras.md)
+- [Heretic](/Mechanics/CLI/optional-features/heretic-valdaspire24extras.md)
+- [Monstrous](/Mechanics/CLI/optional-features/monstrous-valdaspire24extras.md)
+- [Nobility](/Mechanics/CLI/optional-features/nobility-valdaspire24extras.md)
 
 ### Battle Tactics (Level 1)
 
 You learn maneuvers that are fueled by special dice called Battle Dice.
 
-**Battle Dice.** You have two Battle Dice, which are d6s. A Battle Die is expended when you use it. You regain all expended Battle Dice when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) or finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). Your Battle Die changes and more Battle Dice become available as shown on the Battle Dice column of the Vagabond Features table.
+**Battle Dice.** You have two Battle Dice, which are d6s. A Battle Die is expended when you use it. You regain all expended Battle Dice when you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) or finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). Your Battle Die changes and more Battle Dice become available as shown on the Battle Dice column of the Vagabond Features table.
 
-**Maneuvers.** You can expend Battle Dice to perform maneuvers. You learn three maneuvers of your choice for which you meet the prerequisites. [Battle Edge](Mechanics/CLI/optional-features/battle-edge-valdaspire24extras.md), [Dig Deep](Mechanics/CLI/optional-features/dig-deep-valdaspire24extras.md), and [Rampage](Mechanics/CLI/optional-features/rampage-valdaspire24extras.md) are recommended. Maneuvers are described in the "[Maneuver Options](Mechanics/CLI/lists/list-optfeaturetype-mv-v.md)" section later on in the class's description. You gain additional maneuvers as you gain levels in this class, as shown in the Maneuvers column of the Vagabond Features table. If another Vagabond feature gives you a maneuver, that maneuver doesn't count against your number of maneuvers known. Whenever you gain a Vagabond level, you can choose one of the maneuvers you know and replace it with another maneuver that you could learn at that level.
+**Maneuvers.** You can expend Battle Dice to perform maneuvers. You learn three maneuvers of your choice for which you meet the prerequisites. [Battle Edge](/Mechanics/CLI/optional-features/battle-edge-valdaspire24extras.md), [Dig Deep](/Mechanics/CLI/optional-features/dig-deep-valdaspire24extras.md), and [Rampage](/Mechanics/CLI/optional-features/rampage-valdaspire24extras.md) are recommended. Maneuvers are described in the "[Maneuver Options](/Mechanics/CLI/lists/list-optfeaturetype-mv-v.md)" section later on in the class's description. You gain additional maneuvers as you gain levels in this class, as shown in the Maneuvers column of the Vagabond Features table. If another Vagabond feature gives you a maneuver, that maneuver doesn't count against your number of maneuvers known. Whenever you gain a Vagabond level, you can choose one of the maneuvers you know and replace it with another maneuver that you could learn at that level.
 
-**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+**Saving Throws.** If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial weapons of your choice. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the mastery properties of two kinds of Simple or Martial weapons of your choice. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Vagabond levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Vagabond Features table.
 
 ### Desperate Attack (Level 2)
 
-You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls while you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied).
+You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls while you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied).
 
 ### Breather (Level 2)
 
-As an action, you can expend one of your [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md), roll the die, and regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the roll plus your Constitution modifier (minimum of 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)).
+As an action, you can expend one of your [Hit Point Dice](/Mechanics/CLI/variant-rules/hit-point-dice-xphb.md), roll the die, and regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the roll plus your Constitution modifier (minimum of 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md)).
 
 ### Vagabond Subclass (Level 3)
 
@@ -134,15 +132,15 @@ You gain a Vagabond subclass of your choice. A subclass is a specialization that
 
 ### Overexertion (Level 3)
 
-If you have no Battle Dice remaining, you can regain one Battle Die to immediately expend it and use a maneuver or Vagabond feature. When you do so, you take Necrotic damage equal to one roll of the Battle Die. This damage ignores your [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+If you have no Battle Dice remaining, you can regain one Battle Die to immediately expend it and use a maneuver or Vagabond feature. When you do so, you take Necrotic damage equal to one roll of the Battle Die. This damage ignores your [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn.
 
 ### Subclass Feature (Level 6)
 
@@ -150,17 +148,17 @@ You gain a feature from your Vagabond Subclass.
 
 ### Mettle (Level 7)
 
-Your determination allows you to shrug off effects that would otherwise harm you. When you're subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+Your determination allows you to shrug off effects that would otherwise harm you. When you're subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Last Stand (Level 9)
 
-When you are reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to twice your Vagabond level.
+When you are reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to twice your Vagabond level.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Subclass Feature (Level 10)
 
@@ -168,11 +166,11 @@ You gain a feature from your Vagabond Subclass.
 
 ### Desperate Fury (Level 11)
 
-While you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), your attacks with weapons and [Unarmed Strikes](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) deal an extra `1d8` damage on a hit. The damage is the same type dealt by the weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+While you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), your attacks with weapons and [Unarmed Strikes](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) deal an extra `1d8` damage on a hit. The damage is the same type dealt by the weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Tenacity (Level 13)
 
@@ -184,32 +182,36 @@ You gain a feature from your Vagabond Subclass.
 
 ### Desperate Survival (Level 15)
 
-While you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), [Critical Hits](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against you instead miss unless you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+While you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), [Critical Hits](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) against you instead miss unless you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Deft Maneuver (Level 17)
 
-You gain a special additional [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) that you can take once on each of your turns. You can take this special [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) only to use a maneuver.
+You gain a special additional [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) that you can take once on each of your turns. You can take this special [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) only to use a maneuver.
 
 ### Wayworn (Level 18)
 
-You are always considered [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied) for the purpose of your Vagabond features.
+You are always considered [Bloodied](/Mechanics/CLI/conditions.md#Bloodied) for the purpose of your Vagabond features.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](Mechanics/CLI/feats/boon-of-irresistible-offense-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Irresistible Offense](/Mechanics/CLI/feats/boon-of-irresistible-offense-xphb.md) is recommended.
 
 ### Martial Recovery (Level 20)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to regain all of your expended Battle Dice.
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to regain all of your expended Battle Dice.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Optional Features
 
 > [!example]- Optional Features: Maneuver, Vagabond
-> ![Maneuver, Vagabond](Mechanics/CLI/lists/list-optfeaturetype-mv-v.md#Maneuver,%20Vagabond)
+> ![Maneuver, Vagabond](/Mechanics/CLI/lists/list-optfeaturetype-mv-v.md#Maneuver,%20Vagabond)
 > ^list-optfeature-mv-v
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Mass Polymorph
-created: 2026-03-09T12:15:34.120-04:00
-modified: 2026-03-09T12:15:34.120-04:00
-published: 2026-03-09T12:15:34.120-04:00
+created: 2026-03-29T21:53:56.157-04:00
+modified: 2026-03-29T21:53:56.157-04:00
+published: 2026-03-29T21:53:56.157-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/9th-level
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
 ---
 
 # Mass Polymorph
@@ -40,6 +37,13 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 The target's gear melds into the new form. The target can't activate, use, wield, or otherwise benefit from any of its equipment.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 160_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 160_

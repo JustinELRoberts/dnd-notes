@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Medium
-created: 2026-03-09T12:15:34.058-04:00
-modified: 2026-03-09T12:15:34.058-04:00
-published: 2026-03-09T12:15:34.058-04:00
+created: 2026-03-29T21:53:56.076-04:00
+modified: 2026-03-29T21:53:56.076-04:00
+published: 2026-03-29T21:53:56.076-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/investigator/medium
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Medium
 
-_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,19 +56,19 @@ As conduits between the living and dead, Mediums offer an essential glimpse past
 
 ### Fortelling (Level 3)
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), roll two d20s and record the numbers rolled. You can replace any [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), roll two d20s and record the numbers rolled. You can replace any [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
-Each foretelling roll can be used only once. When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you lose any unused foretelling rolls.
+Each foretelling roll can be used only once. When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you lose any unused foretelling rolls.
 
 ### Trinkets (Level 3)
 
 You can use the following trinkets.
 
-**Dead Ringer.** You can ring this bell to cast [Speak with Dead](Mechanics/CLI/spells/speak-with-dead-xphb.md) without a spell slot or components. When you cast the spell using this trinket, you can ask the corpse only one question.
+**Dead Ringer.** You can ring this bell to cast [Speak with Dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md) without a spell slot or components. When you cast the spell using this trinket, you can ask the corpse only one question.
 
-**Heptagonal Spectacles.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [See Invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md) once without a spell slot or components.
+**Heptagonal Spectacles.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [See Invisibility](/Mechanics/CLI/spells/see-invisibility-xphb.md) once without a spell slot or components.
 
-**Lucent Mirror.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can partially phase into the Ethereal Plane for 1 minute or until you dismiss it (no action required). You have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 10 feet and can move through occupied spaces as if they were [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md). If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
+**Lucent Mirror.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can partially phase into the Ethereal Plane for 1 minute or until you dismiss it (no action required). You have a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 10 feet and can move through occupied spaces as if they were [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). If you end your turn in such a space, you are shunted to the last unoccupied space you were in.
 
 ### Foretold Demise (Level 6)
 
@@ -77,12 +76,16 @@ Once per turn when you deal damage with a weapon, you can replace one of the dam
 
 ### Whispers from Beyond (Level 10)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can receive a hint from beyond. The GM gives a one-word hint pertaining to your best course of action, a fruitful line of inquiry, or some other useful direction.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can receive a hint from beyond. The GM gives a one-word hint pertaining to your best course of action, a fruitful line of inquiry, or some other useful direction.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](/Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
 
 ### Third Eye (Level 14)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to cast [True Seeing](Mechanics/CLI/spells/true-seeing-xphb.md) without a spell slot or components. When you cast the spell with this feature, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the first attack you make on each of your turns for the duration of this spell.
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to cast [True Seeing](/Mechanics/CLI/spells/true-seeing-xphb.md) without a spell slot or components. When you cast the spell with this feature, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the first attack you make on each of your turns for the duration of this spell.
 
-Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

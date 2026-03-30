@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Skulk
-created: 2026-03-09T12:15:34.131-04:00
-modified: 2026-03-09T12:15:34.131-04:00
-published: 2026-03-09T12:15:34.131-04:00
+created: 2026-03-29T21:53:56.176-04:00
+modified: 2026-03-29T21:53:56.176-04:00
+published: 2026-03-29T21:53:56.176-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -18,18 +18,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Skulk (MPMM)
+ac: 14
+hp: 18
+modifier: 4
+hit_dice: 4d8
+cr: 1/2
+stats:
+  - 6
+  - 19
+  - 10
+  - 10
+  - 7
+  - 1
+source:
+  - MPMM
 ---
 
 # Skulk
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 219_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/skulk.webp#right)
 
 > [!quote] A quote from Mordenkainen
 >
 > Some children have imaginary friends that their parents can't see. Sometimes those invisible friends aren't imaginary.
 
-Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently [invisible](Mechanics/CLI/rules/conditions.md#Invisible). Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
+Skulks are the soulless shells of travelers who became lost in the Shadowfell, wandering its gray wastes until they lost all sense of self. They are so devoid of identity that they have become permanently [invisible](/Mechanics/CLI/conditions.md#Invisible). Only children can see a skulk without the help of a mirror or a special candle. On the rare occasions when a skulk is visible, it appears as a drab, featureless, hairless biped.
 
 A skulk can be summoned from the Shadowfell by performing a ritual, and it is bound to obey the summoner's commands for 30 days. During this time, if the skulk is visible, an astute observer might deduce who summoned it, because the skulk assumes a vague likeness of its master.
 
@@ -37,11 +53,11 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 
 ```ad-statblock
 title: Skulk
-![](Mechanics/CLI/bestiary/monstrosity/token/skulk-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/skulk-mpmm.webp#token)
 *Medium monstrosity, Typically  Chaotic Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 18 (`4d8`) 
+- **Hit Points** 18 (4d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,15 +66,15 @@ title: Skulk
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +2
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 8
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 8
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded)
 - **Languages** understands Common but can't speak
 - **Challenge** 1/2
 
 ## Traits
 
-***Fallible Invisibility.*** The skulk is [invisible](Mechanics/CLI/rules/conditions.md#Invisible). This invisibility can be circumvented by three things:
+***Fallible Invisibility.*** The skulk is [invisible](/Mechanics/CLI/conditions.md#Invisible). This invisibility can be circumvented by three things:
 
 - **Charnel Candles.** The skulk appears as a dim, translucent form in the light of a candle made of fat rendered from a corpse whose identity is unknown.  
 - **Children.** Humanoid children, aged 10 and under, can see through this invisibility.  
@@ -76,3 +92,7 @@ title: Skulk
 ## Environment
 
 coastal, forest, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 219_

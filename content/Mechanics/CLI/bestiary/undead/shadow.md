@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadow
-created: 2026-03-09T12:15:34.060-04:00
-modified: 2026-03-09T12:15:34.060-04:00
-published: 2026-03-09T12:15:34.060-04:00
+created: 2026-03-29T21:53:56.079-04:00
+modified: 2026-03-29T21:53:56.079-04:00
+published: 2026-03-29T21:53:56.079-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shadow
+ac: 12
+hp: 16
+modifier: 2
+hit_dice: 3d8 + 3
+cr: 1/2
+stats:
+  - 6
+  - 14
+  - 13
+  - 6
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Shadow
 
-_Source: Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/shadow.webp#right)
-
 Shadows are undead that resemble dark exaggerations of humanoid shadows.
 
 ## Dark Disposition
@@ -38,11 +53,11 @@ A shadow doesn't require air, food, drink, or sleep
 
 ```ad-statblock
 title: Shadow
-![](Mechanics/CLI/bestiary/undead/token/shadow.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/shadow.webp#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 16 (`3d8 + 3`) 
+- **Hit Points** 16 (3d8 + 3) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,12 +66,12 @@ title: Shadow
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Vulnerabilities** radiant
 - **Damage Resistances** acid; cold; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** —
 - **Challenge** 1/2
 
@@ -64,7 +79,7 @@ title: Shadow
 
 ***Amorphous.*** The shadow can move through a space as narrow as 1 inch wide without squeezing.
 
-***Shadow Stealth.*** While in dim light or darkness, the shadow can take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action. Its stealth bonus is also improved to +6.
+***Shadow Stealth.*** While in dim light or darkness, the shadow can take the [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action. Its stealth bonus is also improved to +6.
 
 ***Sunlight Weakness.*** While in sunlight, the shadow has disadvantage on attack rolls, ability checks, and saving throws.
 
@@ -72,7 +87,7 @@ title: Shadow
 
 ***Strength Drain.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 9 (`2d6 + 2`) necrotic damage, and the target's Strength score is reduced by `1d4`. The target dies if this reduces its Strength to 0. Otherwise, the reduction lasts until the target finishes a short or long rest.
 
-If a non-evil humanoid dies from this attack, a new [shadow](Mechanics/CLI/bestiary/undead/shadow.md) rises from the corpse `1d4` hours later.
+If a non-evil humanoid dies from this attack, a new [shadow](/Mechanics/CLI/bestiary/undead/shadow.md) rises from the corpse `1d4` hours later.
 ```
 
 ^statblock
@@ -80,3 +95,7 @@ If a non-evil humanoid dies from this attack, a new [shadow](Mechanics/CLI/besti
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 269. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Odyssey
-created: 2026-03-09T12:15:33.834-04:00
-modified: 2026-03-09T12:15:33.834-04:00
-published: 2026-03-09T12:15:33.834-04:00
+created: 2026-03-29T21:53:55.619-04:00
+modified: 2026-03-29T21:53:55.619-04:00
+published: 2026-03-29T21:53:55.619-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/martyr/odyssey
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Odyssey
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,31 +62,35 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Expeditious Retreat](Mechanics/CLI/spells/expeditious-retreat-xphb.md), [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md) |
-| 5 | [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md), [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) |
-| 9 | [Fly](Mechanics/CLI/spells/fly-xphb.md), [Water Walk](Mechanics/CLI/spells/water-walk-xphb.md) |
-| 13 | [Dimension Door](Mechanics/CLI/spells/dimension-door-xphb.md), [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 17 | [Passwall](Mechanics/CLI/spells/passwall-xphb.md), [Teleportation Circle](Mechanics/CLI/spells/teleportation-circle-xphb.md) |
+| 3 | [Expeditious Retreat](/Mechanics/CLI/spells/expeditious-retreat-xphb.md), [Feather Fall](/Mechanics/CLI/spells/feather-fall-xphb.md) |
+| 5 | [Gust of Wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md), [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) |
+| 9 | [Fly](/Mechanics/CLI/spells/fly-xphb.md), [Water Walk](/Mechanics/CLI/spells/water-walk-xphb.md) |
+| 13 | [Dimension Door](/Mechanics/CLI/spells/dimension-door-xphb.md), [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
+| 17 | [Passwall](/Mechanics/CLI/spells/passwall-xphb.md), [Teleportation Circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md) |
 ^odyssey-spells
 
 ### Voyager's Agility (Level 3)
 
 The gods have blessed you with light feet and a confident stride, granting you the following benefits.
 
-**Sacrificial Speed.** Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet. When you use either benefit of your Sacrifice, your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by another 10 feet until the end of your turn.
+**Sacrificial Speed.** Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) increases by 10 feet. When you use either benefit of your Sacrifice, your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) increases by another 10 feet until the end of your turn.
 
-**Swift Reprisal.** On your turn, you can use Reprisal without taking a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+**Swift Reprisal.** On your turn, you can use Reprisal without taking a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
 ### Misty Transposition (Level 6)
 
-You can cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) without taking Radiant damage. When you do so, you can choose to teleport to a space occupied by a willing creature within range that doesn't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. You both teleport, swapping places.
+You can cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) without taking Radiant damage. When you do so, you can choose to teleport to a space occupied by a willing creature within range that doesn't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. You both teleport, swapping places.
 
 ### Zephyr's Stride (Level 14)
 
-Whenever you move into a space 30 feet or further away from where you started your turn, you are enveloped in a blur of speed. Until the start of your next turn, attack rolls against you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) and you don't take Radiant damage from your Sacrificial Strike.
+Whenever you move into a space 30 feet or further away from where you started your turn, you are enveloped in a blur of speed. Until the start of your next turn, attack rolls against you have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) and you don't take Radiant damage from your Sacrificial Strike.
 
 ### Argonaut (Level 18)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can cast [Haste](Mechanics/CLI/spells/haste-xphb.md) on yourself without taking Radiant damage or expending a spell use. When you cast the spell, it doesn't require [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) and, when the spell ends, you don't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition and your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) isn't 0.
+When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can cast [Haste](/Mechanics/CLI/spells/haste-xphb.md) on yourself without taking Radiant damage or expending a spell use. When you cast the spell, it doesn't require [Concentration](/Mechanics/CLI/conditions.md#Concentration) and, when the spell ends, you don't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition and your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) isn't 0.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 30 Radiant damage (no action required). This damage ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 30 Radiant damage (no action required). This damage ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

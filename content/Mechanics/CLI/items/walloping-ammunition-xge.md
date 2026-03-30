@@ -10,9 +10,9 @@ aliases:
   - Walloping Modern Bullet
   - Walloping Renaissance Bullet
   - Walloping Sling Bullet
-created: 2026-03-09T12:15:33.873-04:00
-modified: 2026-03-09T12:15:33.873-04:00
-published: 2026-03-09T12:15:33.873-04:00
+created: 2026-03-29T21:53:55.665-04:00
+modified: 2026-03-29T21:53:55.665-04:00
+published: 2026-03-29T21:53:55.665-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/age/futuristic
@@ -32,9 +32,12 @@ obsidianUIMode: preview
 
 _Ammunition, minor, common_
 
-This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-**Variants**:
+This ammunition packs a wallop. A creature hit by the ammunition must succeed on a DC 10 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
+
+## Variants
 
 - [Walloping Arrow](#Walloping%20Arrow)
 - [Walloping Blowgun Needle](#Walloping%20Blowgun%20Needle)
@@ -77,4 +80,6 @@ This ammunition packs a wallop. A creature hit by the ammunition must succeed on
 
 - **Weight**: 0.075 lbs.
 
-_Source: Xanathar's Guide to Everything p. 139_
+## Sources
+
+_Xanathar's Guide to Everything p. 139_

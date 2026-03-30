@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wizard
-created: 2026-03-09T12:15:34.022-04:00
-modified: 2026-03-09T12:15:34.022-04:00
-published: 2026-03-09T12:15:34.022-04:00
+created: 2026-03-29T21:53:56.032-04:00
+modified: 2026-03-29T21:53:56.032-04:00
+published: 2026-03-29T21:53:56.032-04:00
 tags:
   - ttrpg-cli/class/wizard
   - ttrpg-cli/compendium/src/5e/xphb
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Wizard
-
-_Source: Player's Handbook (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,26 +46,26 @@ _Source: Player's Handbook (2024) p. 164. Available in the <span title='Systems 
 
 ^class-progression
 
-![](Mechanics/CLI/classes/img/wizard.webp#right)
-
 ## Hit Points
+
+![](Mechanics/CLI/classes/img/wizard.webp#right)
 
 - **Hit Dice**: 1d6 per Wizard level
 - **Hit Points at First Level:** 6 + CON
 - **Hit Points at Higher Levels:** add 4 OR 1d6 + CON  (minimum of 1)
 
-## Starting Wizard
-
-- **Saving Throw Proficiencies**: Intelligence, Wisdom
-- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
-- **Weapon Proficiencies**: Simple weapons
-
-**Starting Equipment:** _Choose A or B:_ (A) 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)), [Robe](Mechanics/CLI/items/robe-xphb.md), Spellbook, [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 5 GP; or (B) 55 GP
-
 > [!gallery]
 > ![The elf queen Yolande awes...](Mechanics/CLI/classes/img/120-04-035-elf-queen-yolande.webp)
 > ![](Mechanics/CLI/classes/img/121-04-036-wizard-book.webp)
 > ![The Wizard Leomund studies...](Mechanics/CLI/classes/img/122-04-037-wizard-leomund.webp)
+
+## Starting a Wizard
+
+- **Saving Throw Proficiencies**: Intelligence, Wisdom
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](/Mechanics/CLI/skills.md#Arcana), [History](/Mechanics/CLI/skills.md#History), [Insight](/Mechanics/CLI/skills.md#Insight), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Nature](/Mechanics/CLI/skills.md#Nature), or [Religion](/Mechanics/CLI/skills.md#Religion)
+- **Weapon Proficiencies**: Simple weapons
+
+**Starting Equipment:** _Choose A or B:_ (A) 2 [Daggers](/Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](/Mechanics/CLI/items/arcane-focus-xphb.md) ([Quarterstaff](/Mechanics/CLI/items/quarterstaff-xphb.md)), [Robe](/Mechanics/CLI/items/robe-xphb.md), Spellbook, [Scholar's Pack](/Mechanics/CLI/items/scholars-pack-xphb.md), and 5 GP; or (B) 55 GP
 
 ## Wizard
 
@@ -85,17 +83,17 @@ But the lure of knowledge calls even the most unadventurous Wizards from the saf
 
 As a student of arcane magic, you have learned to cast spells. See "chapter 7" for the rules on spellcasting. The information below details how you use those rules with Wizard spells, which appear in the Wizard spell list later in the class's description.
 
-**Cantrips.** You know three Wizard cantrips of your choice. [Light](Mechanics/CLI/spells/light-xphb.md), [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md), and [Ray of Frost](Mechanics/CLI/spells/ray-of-frost-xphb.md) are recommended. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
+**Cantrips.** You know three Wizard cantrips of your choice. [Light](/Mechanics/CLI/spells/light-xphb.md), [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md), and [Ray of Frost](/Mechanics/CLI/spells/ray-of-frost-xphb.md) are recommended. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace one of your cantrips from this feature with another Wizard cantrip of your choice.
 
 When you reach Wizard levels 4 and 10, you learn another Wizard cantrip of your choice, as shown in the Cantrips column of the Wizard Features table.
 
-**Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [Identify](Mechanics/CLI/spells/identify-xphb.md). You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
+**Spellbook.** Your wizardly apprenticeship culminated in the creation of a unique book: your spellbook. It is a Tiny object that weighs 3 pounds, contains 100 pages, and can be read only by you or someone casting [Identify](/Mechanics/CLI/spells/identify-xphb.md). You determine the book's appearance and materials, such as a gilt-edged tome or a collection of vellum bound with twine.
 
-The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md), [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md), [Mage Armor](Mechanics/CLI/spells/mage-armor-xphb.md), [Magic Missile](Mechanics/CLI/spells/magic-missile-xphb.md), [Sleep](Mechanics/CLI/spells/sleep-xphb.md), and [Thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) are recommended.
+The book contains the level 1+ spells you know. It starts with six level 1 Wizard spells of your choice. [Detect Magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [Feather Fall](/Mechanics/CLI/spells/feather-fall-xphb.md), [Mage Armor](/Mechanics/CLI/spells/mage-armor-xphb.md), [Magic Missile](/Mechanics/CLI/spells/magic-missile-xphb.md), [Sleep](/Mechanics/CLI/spells/sleep-xphb.md), and [Thunderwave](/Mechanics/CLI/spells/thunderwave-xphb.md) are recommended.
 
 Whenever you gain a Wizard level after 1, add two Wizard spells of your choice to your spellbook. Each of these spells must be of a level for which you have spell slots, as shown in the Wizard Features table. The spells are the culmination of arcane research you do regularly.
 
-**Spell Slots.** The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Slots.** The Wizard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 **Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To do so, choose four spells from your spellbook. The chosen spells must be of a level for which you have spell slots.
 
@@ -103,11 +101,11 @@ The number of spells on your list increases as you gain Wizard levels, as shown 
 
 If another Wizard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Wizard spells for you.
 
-**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
+**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change your list of prepared spells, replacing any of the spells there with spells from your spellbook.
 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Wizard spells.
 
-**Spellcasting Focus.** You can use an [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) or your spellbook as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
+**Spellcasting Focus.** You can use an [Arcane Focus](/Mechanics/CLI/items/arcane-focus-xphb.md) or your spellbook as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
 
 > [!note] Expanding and Replacing a Spellbook
 >
@@ -122,17 +120,17 @@ If another Wizard feature gives you spells that you always have prepared, those 
 
 ### Ritual Adept (Level 1)
 
-You can cast any spell as a [Ritual](Mechanics/CLI/rules/variant-rules/ritual-xphb.md) if that spell has the [Ritual](Mechanics/CLI/rules/variant-rules/ritual-xphb.md) tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
+You can cast any spell as a [Ritual](/Mechanics/CLI/variant-rules/ritual-xphb.md) if that spell has the [Ritual](/Mechanics/CLI/variant-rules/ritual-xphb.md) tag and the spell is in your spellbook. You needn't have the spell prepared, but you must read from the book to cast a spell in this way.
 
 ### Arcane Recovery (Level 1)
 
-You can regain some of your magical energy by studying your spellbook. When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
+You can regain some of your magical energy by studying your spellbook. When you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you can choose expended spell slots to recover. The spell slots can have a combined level equal to no more than half your Wizard level (round up), and none of the slots can be level 6 or higher. For example, if you're a level 4 Wizard, you can recover up to two levels' worth of spell slots, regaining either one level 2 spell slot or two level 1 spell slots.
 
-Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Scholar (Level 2)
 
-While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion). You have [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in the chosen skill.
+While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: [Arcana](/Mechanics/CLI/skills.md#Arcana), [History](/Mechanics/CLI/skills.md#History), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Nature](/Mechanics/CLI/skills.md#Nature), or [Religion](/Mechanics/CLI/skills.md#Religion). You have [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in the chosen skill.
 
 ### Wizard Subclass (Level 3)
 
@@ -140,11 +138,11 @@ You gain a Wizard subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Wizard levels 8, 12, and 16.
 
 ### Memorize Spell (Level 5)
 
-Whenever you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
+Whenever you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
 
 ### Subclass Feature (Level 6)
 
@@ -152,7 +150,7 @@ You gain a feature from your Wizard Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 10)
 
@@ -160,7 +158,7 @@ You gain a feature from your Wizard Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -168,18 +166,22 @@ You gain a feature from your Wizard Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Spell Mastery (Level 18)
 
 You have achieved such mastery over certain spells that you can cast them at will. Choose a level 1 and a level 2 spell in your spellbook that have a casting time of an action. You always have those spells prepared, and you can cast them at their lowest level without expending a spell slot. To cast either spell at a higher level, you must expend a spell slot.
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can study your spellbook and replace one of those spells with an eligible spell of the same level from the book.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Spell Recall](Mechanics/CLI/feats/boon-of-spell-recall-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Spell Recall](/Mechanics/CLI/feats/boon-of-spell-recall-xphb.md) is recommended.
 
 ### Signature Spells (Level 20)
 
-Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). To cast either spell at a higher level, you must expend a spell slot.
+Choose two level 3 spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at level 3 without expending a spell slot. When you do so, you can't cast them in this way again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). To cast either spell at a higher level, you must expend a spell slot.
+
+## Sources
+
+_Player's Handbook (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

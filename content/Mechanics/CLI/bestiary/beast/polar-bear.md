@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Polar Bear
-created: 2026-03-09T12:15:33.858-04:00
-modified: 2026-03-09T12:15:33.858-04:00
-published: 2026-03-09T12:15:33.858-04:00
+created: 2026-03-29T21:53:55.649-04:00
+modified: 2026-03-29T21:53:55.649-04:00
+published: 2026-03-29T21:53:55.649-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,19 +15,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Polar Bear
+ac: 12
+hp: 42
+modifier: 0
+hit_dice: 5d10 + 15
+cr: "2"
+stats:
+  - 20
+  - 10
+  - 16
+  - 2
+  - 13
+  - 7
+source:
+  - MM
 ---
 
 # Polar Bear
 
-_Source: Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Polar Bear
-![](Mechanics/CLI/bestiary/beast/token/polar-bear.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/polar-bear.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 42 (`5d10 + 15`) 
+- **Hit Points** 42 (5d10 + 15) 
 - **Speed** 40 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -36,14 +51,14 @@ title: Polar Bear
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 2
 
 ## Traits
 
-***Keen Smell.*** The bear has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The bear has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 
@@ -59,3 +74,7 @@ title: Polar Bear
 ## Environment
 
 underdark, arctic
+
+## Sources
+
+_Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gorgon
-created: 2026-03-09T12:15:34.110-04:00
-modified: 2026-03-09T12:15:34.110-04:00
-published: 2026-03-09T12:15:34.110-04:00
+created: 2026-03-29T21:53:56.147-04:00
+modified: 2026-03-29T21:53:56.147-04:00
+published: 2026-03-29T21:53:56.147-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gorgon
+ac: 19
+hp: 114
+modifier: 0
+hit_dice: 12d10 + 48
+cr: "5"
+stats:
+  - 20
+  - 11
+  - 18
+  - 2
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Gorgon
 
-_Source: Monster Manual p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/gorgon.webp#right)
-
 Few creatures that encounter a gorgon live to tell about it. Its body is covered in iron plates, and its nostrils fume with green vapor.
 
 ## Horrific Structure
@@ -31,17 +46,17 @@ A gorgon's iron plates range from steely black to gleaming silver, but this natu
 
 ## Monstrous Predator
 
-When a gorgon spots potential prey, it charges with a hideous clamor of metal on metal. When the gorgon hits, it pulverizes the foe and sends its sprawling, then tramples it to death with its cruel hooves. Faced with multiple foes, the gorgon exhales its deadly vapor to overcome the creatures it touches by turning them to stone. When it grows hungry, it smashes its [petrified](Mechanics/CLI/rules/conditions.md#Petrified) prey to rubble and uses its strong teeth to grind the stone into a powder that provides nourishment. The crisscrossing network of trampled trails and splintered trees that surrounds a gorgon lair is strewn with the uneaten fragments of its shattered foes.
+When a gorgon spots potential prey, it charges with a hideous clamor of metal on metal. When the gorgon hits, it pulverizes the foe and sends its sprawling, then tramples it to death with its cruel hooves. Faced with multiple foes, the gorgon exhales its deadly vapor to overcome the creatures it touches by turning them to stone. When it grows hungry, it smashes its [petrified](/Mechanics/CLI/conditions.md#Petrified) prey to rubble and uses its strong teeth to grind the stone into a powder that provides nourishment. The crisscrossing network of trampled trails and splintered trees that surrounds a gorgon lair is strewn with the uneaten fragments of its shattered foes.
 
 ## Statblock
 
 ```ad-statblock
 title: Gorgon
-![](Mechanics/CLI/bestiary/monstrosity/token/gorgon.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/gorgon.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 114 (`12d10 + 48`) 
+- **Hit Points** 114 (12d10 + 48) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,15 +65,15 @@ title: Gorgon
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Condition Immunities** [petrified](Mechanics/CLI/rules/conditions.md#Petrified)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Condition Immunities** [petrified](/Mechanics/CLI/conditions.md#Petrified)
 - **Languages** —
 - **Challenge** 5
 
 ## Traits
 
-***Trampling Charge.*** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). If the target is [prone](Mechanics/CLI/rules/conditions.md#Prone), the gorgon can make one attack with its hooves against it as a bonus action.
+***Trampling Charge.*** If the gorgon moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 16 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone). If the target is [prone](/Mechanics/CLI/conditions.md#Prone), the gorgon can make one attack with its hooves against it as a bonus action.
 
 ## Actions
 
@@ -66,7 +81,7 @@ title: Gorgon
 
 ***Hooves.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage.
 
-***Petrifying Breath (Recharge 5-6).*** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). The [restrained](Mechanics/CLI/rules/conditions.md#Restrained) target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is [petrified](Mechanics/CLI/rules/conditions.md#Petrified) until freed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
+***Petrifying Breath (Recharge 5-6).*** The gorgon exhales petrifying gas in a 30-foot cone. Each creature in that area must succeed on a DC 13 Constitution saving throw. On a failed save, a target begins to turn to stone and is [restrained](/Mechanics/CLI/conditions.md#Restrained). The [restrained](/Mechanics/CLI/conditions.md#Restrained) target must repeat the saving throw at the end of its next turn. On a success, the effect ends on the target. On a failure, the target is [petrified](/Mechanics/CLI/conditions.md#Petrified) until freed by the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
 ```
 
 ^statblock
@@ -74,3 +89,7 @@ title: Gorgon
 ## Environment
 
 grassland, forest, hill
+
+## Sources
+
+_Monster Manual p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

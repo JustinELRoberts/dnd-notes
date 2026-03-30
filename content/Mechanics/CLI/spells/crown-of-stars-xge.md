@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Crown of Stars
-created: 2026-03-09T12:15:34.109-04:00
-modified: 2026-03-09T12:15:34.109-04:00
-published: 2026-03-09T12:15:34.109-04:00
+created: 2026-03-29T21:53:56.145-04:00
+modified: 2026-03-29T21:53:56.145-04:00
+published: 2026-03-29T21:53:56.145-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -18,12 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 ---
 
 # Crown of Stars
@@ -41,6 +36,16 @@ If you have four or more motes remaining, they shed bright light in a 30-foot ra
 
 **At Higher Levels.** When you cast this spell using a spell slot of 8th level or higher, the number of motes created increases by two for each slot level above 7th.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 152_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Wizard (Evoker)](/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 152_

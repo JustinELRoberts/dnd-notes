@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Oblex Spawn
-created: 2026-03-09T12:15:34.034-04:00
-modified: 2026-03-09T12:15:34.034-04:00
-published: 2026-03-09T12:15:34.034-04:00
+created: 2026-03-29T21:53:56.046-04:00
+modified: 2026-03-29T21:53:56.046-04:00
+published: 2026-03-29T21:53:56.046-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Oblex Spawn (MPMM)
+ac: 13
+hp: 18
+modifier: 3
+hit_dice: 4d4 + 8
+cr: 1/4
+stats:
+  - 8
+  - 16
+  - 15
+  - 14
+  - 11
+  - 10
+source:
+  - MPMM
 ---
 
 # Oblex Spawn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 197_\
 ![](Mechanics/CLI/bestiary/ooze/img/oblex-spawn.webp#right)
-
 An oblex devours memories not only to sustain its existence, but also to spawn new oblexes. Each time it fully drains the memories of a victim, it gains the creature's personality—now twisted by the oblex's foul nature. The more memories an oblex steals, the larger it becomes, until it must shed a personality it has absorbed or else go uncontrolled and erratic. This act spawns a new oblex.
 
 Newly formed oblexes lack the capabilities of their older kin. They seek only to feed on memories and grow until they can impersonate their victims.
@@ -45,11 +60,11 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 
 ```ad-statblock
 title: Oblex Spawn
-![](Mechanics/CLI/bestiary/ooze/token/oblex-spawn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/ooze/token/oblex-spawn-mpmm.webp#token)
 *Tiny ooze, Typically  Lawful Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 18 (`4d4 + 8`) 
+- **Hit Points** 18 (4d4 + 8) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -59,8 +74,8 @@ title: Oblex Spawn
 - **Proficiency Bonus** +2
 - **Saving Throws** Intelligence +4, Charisma +2
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 12
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 12
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 1/4
 
@@ -82,3 +97,7 @@ title: Oblex Spawn
 ## Environment
 
 swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 197_

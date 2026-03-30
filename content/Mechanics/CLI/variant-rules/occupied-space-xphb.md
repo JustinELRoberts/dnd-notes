@@ -1,0 +1,19 @@
+---
+publish: true
+aliases:
+  - Occupied Space
+created: 2026-03-29T21:53:56.535-04:00
+modified: 2026-03-29T21:53:56.535-04:00
+published: 2026-03-29T21:53:56.535-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Occupied Space
+
+_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A space is occupied if a creature is in it or if it is completely filled by objects.

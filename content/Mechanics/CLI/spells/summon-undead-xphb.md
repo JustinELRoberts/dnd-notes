@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Summon Undead
-created: 2026-03-09T12:15:33.877-04:00
-modified: 2026-03-09T12:15:33.877-04:00
-published: 2026-03-09T12:15:33.877-04:00
+created: 2026-03-29T21:53:55.670-04:00
+modified: 2026-03-29T21:53:55.670-04:00
+published: 2026-03-29T21:53:55.670-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/3rd-level
@@ -19,14 +20,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Summon Undead
@@ -39,12 +32,25 @@ _3rd-level, Necromancy_\
 - **Components:** V, S, M (a gilded skull worth 300+ GP)
 - **Duration:** Concentration, up to 1 hour
 
-You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the [Undead Spirit](Mechanics/CLI/bestiary/undead/undead-spirit-xphb.md) stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or when the spell ends.
+You call forth an Undead spirit. It manifests in an unoccupied space that you can see within range and uses the [Undead Spirit](/Mechanics/CLI/bestiary/undead/undead-spirit-xphb.md) stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an Undead creature with the chosen form, which determines certain details in its stat block. The creature disappears when it drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [Dodge](/Mechanics/CLI/actions.md#Dodge) action and uses its movement to avoid danger.
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 328_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 328_

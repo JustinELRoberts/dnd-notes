@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fire-Breathing Statue
-created: 2026-03-09T12:15:34.048-04:00
-modified: 2026-03-09T12:15:34.048-04:00
-published: 2026-03-09T12:15:34.048-04:00
+created: 2026-03-29T21:53:56.059-04:00
+modified: 2026-03-29T21:53:56.059-04:00
+published: 2026-03-29T21:53:56.059-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/hazard/mag
@@ -23,7 +23,7 @@ The DC is 15 to spot the pressure plate, as well as faint scorch marks on the fl
 
 The trap activates when more than 20 pounds of weight is placed on the pressure plate, causing the statue to release a 30-foot cone of fire. Each creature in the fire must make a DC 13 Dexterity saving throw, taking 22 (`4d10`) fire damage on a failed save, or half as much damage on a successful one.
 
-Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 13) cast on the statue destroys the trap.
+Wedging an iron spike or other object under the pressure plate prevents the trap from activating. A successful [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md) (DC 13) cast on the statue destroys the trap.
 
 ## Sources
 

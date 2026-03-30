@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Figurine of Wondrous Power, Obsidian Steed
-created: 2026-03-09T12:15:34.048-04:00
-modified: 2026-03-09T12:15:34.048-04:00
-published: 2026-03-09T12:15:34.048-04:00
+created: 2026-03-29T21:53:56.060-04:00
+modified: 2026-03-29T21:53:56.060-04:00
+published: 2026-03-29T21:53:56.060-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/very-rare
@@ -16,7 +16,11 @@ obsidianUIMode: preview
 
 # Figurine of Wondrous Power, Obsidian Steed
 
-_Wondrous item, major, very rare_
+_Wondrous item, major, very rare_\
+![](Mechanics/CLI/items/img/figurine-of-wondrous-power-obsidian-steed.webp#right)
+
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 A figurine of wondrous power is a statuette of a beast small enough to fit in a pocket. If you use an action to speak the command word and throw the figurine to a point on the ground within 60 feet of you, the figurine becomes a living creature. If the space where the creature would appear is occupied by other creatures or objects, or if there isn't enough space for the creature, the figurine doesn't become a creature.
 
@@ -26,8 +30,10 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ## Obsidian Steed
 
-This polished obsidian horse can become a [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) for up to 24 hours. The [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
+This polished obsidian horse can become a [nightmare](/Mechanics/CLI/bestiary/fiend/nightmare.md) for up to 24 hours. The [nightmare](/Mechanics/CLI/bestiary/fiend/nightmare.md) fights only to defend itself. Once it has been used, it can't be used again until 5 days have passed.
 
-If you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) while it is ignoring your orders, you and the [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) are instantly transported to a random location on the plane of Hades, where the [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) reverts to figurine form.
+If you have a good alignment, the figurine has a 10 percent chance each time you use it to ignore your orders, including a command to revert to figurine form. If you mount the [nightmare](/Mechanics/CLI/bestiary/fiend/nightmare.md) while it is ignoring your orders, you and the [nightmare](/Mechanics/CLI/bestiary/fiend/nightmare.md) are instantly transported to a random location on the plane of Hades, where the [nightmare](/Mechanics/CLI/bestiary/fiend/nightmare.md) reverts to figurine form.
 
-_Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deep Gnome
-created: 2026-03-09T12:15:34.000-04:00
-modified: 2026-03-09T12:15:34.000-04:00
-published: 2026-03-09T12:15:34.000-04:00
+created: 2026-03-29T21:53:56.010-04:00
+modified: 2026-03-29T21:53:56.010-04:00
+published: 2026-03-29T21:53:56.010-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/deep-gnome
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Deep Gnome
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 11_\
 ![](Mechanics/CLI/races/img/deep-gnome.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -36,7 +35,7 @@ You can see in dim light within 120 feet of you as if it were bright light and i
 
 ### Gift of the Svirfneblin
 
-Starting at 3rd level, you can cast the [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these using spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md) spell with it, without requiring a material component. Once you cast either of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these using spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -46,10 +45,14 @@ You have advantage on Intelligence, Wisdom, and Charisma saving throws against s
 
 ### Svirfneblin Camouflage
 
-When you make a Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+When you make a Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) check, you can make the check with advantage. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Description
 
 Deep gnomes, or svirfneblin, are natives of the Underdark and are suffused with that subterranean realm's magic. They can supernaturally camouflage themselves, and their svirfneblin magic renders them difficult to locate. These abilities have enabled them to survive for generations among the perils of the Underdark.
 
 Like other gnomes, deep gnomes can live for centuries, up to 500 years.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 11_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Troubadour
-created: 2026-03-09T12:15:33.967-04:00
-modified: 2026-03-09T12:15:33.967-04:00
-published: 2026-03-09T12:15:33.967-04:00
+created: 2026-03-29T21:53:55.972-04:00
+modified: 2026-03-29T21:53:55.972-04:00
+published: 2026-03-29T21:53:55.972-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/vagabond/troubadour
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Troubadour
 
-_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,26 +58,30 @@ A lyre, a flute, or perhaps a set of bagpipes at their side, a Troubadour sets o
 
 You have an instrument at your side and a tune in your heart, granting you the following benefits.
 
-**Performer.** You gain proficiency and [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in the Performance skill and you gain proficiency with two Musical Instruments of your choice.
+**Performer.** You gain proficiency and [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in the Performance skill and you gain proficiency with two Musical Instruments of your choice.
 
 **Pantomime.** You know enough smatterings of languages that you can communicate simple ideas to any creature that understands at least one language. Doing so takes twice as long as communicating normally.
 
 ### Inspiring Tune \[Maneuver] (Level 3)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to inspire another creature within 60 feet of yourself who can see or hear you. Give that creature one of your unexpended Battle Dice. A creature can have only one Battle Die from this maneuver at a time.
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to inspire another creature within 60 feet of yourself who can see or hear you. Give that creature one of your unexpended Battle Dice. A creature can have only one Battle Die from this maneuver at a time.
 
-Once within the next minute when the creature fails a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the creature can roll the Battle Die and add the number rolled to the `d20`, potentially turning the failure into a success. A Battle Die is expended when it's rolled.
+Once within the next minute when the creature fails a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), the creature can roll the Battle Die and add the number rolled to the `d20`, potentially turning the failure into a success. A Battle Die is expended when it's rolled.
 
 ### Fast Friends (Level 6)
 
-You can take the [Influence](Mechanics/CLI/rules/actions.md#Influence) action to attempt to befriend a creature you can see within 30 feet of yourself that can hear or see you. The creature must succeed on a Wisdom saving throw (DC 8 plus Charisma modifier and your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition for 1 minute or until it takes damage. While it has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition, it is friendly to you and your allies.
+You can take the [Influence](/Mechanics/CLI/actions.md#Influence) action to attempt to befriend a creature you can see within 30 feet of yourself that can hear or see you. The creature must succeed on a Wisdom saving throw (DC 8 plus Charisma modifier and your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)) or have the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition for 1 minute or until it takes damage. While it has the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition, it is friendly to you and your allies.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
 ### Scathing Retort (Level 10)
 
-When a creature you can see within 60 feet of yourself misses you with an attack roll or forces you to make a saving throw and you succeed, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to insult the creature. The target takes Psychic damage equal to `1d10` plus half your Vagabond level (round down).
+When a creature you can see within 60 feet of yourself misses you with an attack roll or forces you to make a saving throw and you succeed, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to insult the creature. The target takes Psychic damage equal to `1d10` plus half your Vagabond level (round down).
 
 ### Marvelous Troupe (Level 14)
 
 When you use your Inspiring Tune maneuver, you can target a number of allies up to your Charisma modifier. Each chosen ally gains a Battle Die.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

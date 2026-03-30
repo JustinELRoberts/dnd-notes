@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Staff of Healing
-created: 2026-03-09T12:15:33.893-04:00
-modified: 2026-03-09T12:15:33.893-04:00
-published: 2026-03-09T12:15:33.893-04:00
+created: 2026-03-29T21:53:55.892-04:00
+modified: 2026-03-29T21:53:55.892-04:00
+published: 2026-03-29T21:53:55.892-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -24,11 +24,14 @@ _Staff, weapon, major, rare (requires attunement by a bard, cleric, or druid)_\
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
+- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
-This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md) (1 charge per spell level, up to 4th), [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) (2 charges). or [mass cure wounds](Mechanics/CLI/spells/mass-cure-wounds-xphb.md) (5 charges).
+This staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md) (1 charge per spell level, up to 4th), [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md) (2 charges). or [mass cure wounds](/Mechanics/CLI/spells/mass-cure-wounds-xphb.md) (5 charges).
 
 The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1. the staff vanishes in a flash of light, lost forever.
 
-_Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

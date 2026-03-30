@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hungry Sorrowsworn
-created: 2026-03-09T12:15:34.025-04:00
-modified: 2026-03-09T12:15:34.025-04:00
-published: 2026-03-09T12:15:34.025-04:00
+created: 2026-03-29T21:53:56.035-04:00
+modified: 2026-03-29T21:53:56.035-04:00
+published: 2026-03-29T21:53:56.035-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/11
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hungry Sorrowsworn (MPMM)
+ac: 17
+hp: 225
+modifier: 0
+hit_dice: 30d8 + 90
+cr: "11"
+stats:
+  - 19
+  - 10
+  - 17
+  - 6
+  - 11
+  - 6
+source:
+  - MPMM
 ---
 
 # Hungry Sorrowsworn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 223_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/hungry-sorrowsworn.webp#right)
-
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
 
 ## Sorrowsworn
@@ -33,11 +48,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Hungry Sorrowsworn
-![](Mechanics/CLI/bestiary/monstrosity/token/hungry-sorrowsworn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/hungry-sorrowsworn-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 225 (`30d8 + 90`) 
+- **Hit Points** 225 (30d8 + 90) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,7 +62,7 @@ title: Hungry Sorrowsworn
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing while in dim light or darkness
 - **Languages** Common
 - **Challenge** 11
@@ -62,7 +77,7 @@ title: Hungry Sorrowsworn
 
 ***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) piercing damage plus 13 (`3d8`) necrotic damage.
 
-***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) slashing damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 16), and it is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the grapple ends. While grappling a creature, the sorrowsworn can't make a Claw attack.
+***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) slashing damage. If the target is Medium or smaller, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 16), and it is [restrained](/Mechanics/CLI/conditions.md#Restrained) until the grapple ends. While grappling a creature, the sorrowsworn can't make a Claw attack.
 ```
 
 ^statblock
@@ -70,3 +85,7 @@ title: Hungry Sorrowsworn
 ## Environment
 
 forest, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 223_

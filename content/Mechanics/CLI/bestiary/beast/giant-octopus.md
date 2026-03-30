@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Octopus
-created: 2026-03-09T12:15:33.995-04:00
-modified: 2026-03-09T12:15:33.995-04:00
-published: 2026-03-09T12:15:33.995-04:00
+created: 2026-03-29T21:53:56.006-04:00
+modified: 2026-03-29T21:53:56.006-04:00
+published: 2026-03-29T21:53:56.006-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -14,20 +14,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Octopus
+ac: 11
+hp: 52
+modifier: 1
+hit_dice: 8d10 + 8
+cr: "1"
+stats:
+  - 17
+  - 13
+  - 13
+  - 4
+  - 10
+  - 4
+source:
+  - MM
 ---
 
 # Giant Octopus
 
-_Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-octopus.webp#center)
 
 ```ad-statblock
 title: Giant Octopus
-![](Mechanics/CLI/bestiary/beast/token/giant-octopus.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-octopus.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 52 (`8d10 + 8`) 
+- **Hit Points** 52 (8d10 + 8) 
 - **Speed** 10 ft., swim 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -36,8 +52,8 @@ title: Giant Octopus
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** —
 - **Challenge** 1
 
@@ -45,15 +61,15 @@ title: Giant Octopus
 
 ***Hold Breath.*** While out of water, the octopus can hold its breath for 1 hour.
 
-***Underwater Camouflage.*** The octopus has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made while underwater.
+***Underwater Camouflage.*** The octopus has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made while underwater.
 
 ***Water Breathing.*** The octopus can breathe only underwater.
 
 ## Actions
 
-***Tentacles.*** *Melee Weapon Attack:* `+5` to hit, reach 15 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage. If the target is a creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 16). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the octopus can't use its tentacles on another target.
+***Tentacles.*** *Melee Weapon Attack:* `+5` to hit, reach 15 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage. If the target is a creature, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 16). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the octopus can't use its tentacles on another target.
 
-***Ink Cloud (Recharges after a Short or Long Rest).*** A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the [Dash](Mechanics/CLI/rules/actions.md#Dash) action as a bonus action.
+***Ink Cloud (Recharges after a Short or Long Rest).*** A 20-foot-radius cloud of ink extends all around the octopus if it is underwater. The area is heavily obscured for 1 minute, although a significant current can disperse the ink. After releasing the ink, the octopus can use the [Dash](/Mechanics/CLI/actions.md#Dash) action as a bonus action.
 ```
 
 ^statblock
@@ -61,3 +77,7 @@ title: Giant Octopus
 ## Environment
 
 underwater
+
+## Sources
+
+_Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gnome (Deep)
-created: 2026-03-09T12:15:33.974-04:00
-modified: 2026-03-09T12:15:33.974-04:00
-published: 2026-03-09T12:15:33.974-04:00
+created: 2026-03-29T21:53:55.974-04:00
+modified: 2026-03-29T21:53:55.974-04:00
+published: 2026-03-29T21:53:55.974-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/gnome/deep
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Gnome (Deep)
-
-_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +1 dex +2
 - **Size**: Small
@@ -28,14 +26,14 @@ _Source: Dungeon Master's Guide p. 282_
 
 You have an innate ability to cast the following spells, requiring no material components:
 
-- **At will.** [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) (self only)
-- **1/day each.** [blindness/deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](Mechanics/CLI/spells/blur-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md)
+- **At will.** [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md) (self only)
+- **1/day each.** [blindness/deafness](/Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](/Mechanics/CLI/spells/blur-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md)
 
 Intelligence is your spellcasting ability for these spells.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks to hide in rocky terrain.
+You have advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks to hide in rocky terrain.
 
 ### Gnome Cunning
 
@@ -48,3 +46,7 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 ### Languages
 
 You can speak, read, and write Gnomish, Terran, and Undercommon.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

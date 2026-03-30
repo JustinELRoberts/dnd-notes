@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of the End
-created: 2026-03-09T12:15:33.885-04:00
-modified: 2026-03-09T12:15:33.885-04:00
-published: 2026-03-09T12:15:33.885-04:00
+created: 2026-03-29T21:53:55.680-04:00
+modified: 2026-03-29T21:53:55.680-04:00
+published: 2026-03-29T21:53:55.680-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/martyr/the-end
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of the End
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,22 +62,22 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Chromatic Orb](Mechanics/CLI/spells/chromatic-orb-xphb.md), [Protection From Evil and Good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [Sacred Flame](Mechanics/CLI/spells/sacred-flame-xphb.md) |
-| 5 | [Darkness](Mechanics/CLI/spells/darkness-xphb.md), [Shatter](Mechanics/CLI/spells/shatter-xphb.md) |
-| 9 | [Counterspell](Mechanics/CLI/spells/counterspell-xphb.md), [Lightning Bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md) |
-| 13 | [Banishment](Mechanics/CLI/spells/banishment-xphb.md), [Blight](Mechanics/CLI/spells/blight-xphb.md) |
-| 17 | [Cone of Cold](Mechanics/CLI/spells/cone-of-cold-xphb.md), [Telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md) |
+| 3 | [Chromatic Orb](/Mechanics/CLI/spells/chromatic-orb-xphb.md), [Protection From Evil and Good](/Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [Sacred Flame](/Mechanics/CLI/spells/sacred-flame-xphb.md) |
+| 5 | [Darkness](/Mechanics/CLI/spells/darkness-xphb.md), [Shatter](/Mechanics/CLI/spells/shatter-xphb.md) |
+| 9 | [Counterspell](/Mechanics/CLI/spells/counterspell-xphb.md), [Lightning Bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md) |
+| 13 | [Banishment](/Mechanics/CLI/spells/banishment-xphb.md), [Blight](/Mechanics/CLI/spells/blight-xphb.md) |
+| 17 | [Cone of Cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md), [Telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md) |
 ^end-spells
 
 ### Mystical Wisdom (Level 3)
 
-You gain proficiency in the [Arcana](Mechanics/CLI/rules/skills.md#Arcana) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
+You gain proficiency in the [Arcana](/Mechanics/CLI/skills.md#Arcana) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
 
 ### Spell Recovery (Level 3)
 
-When you take a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can choose to regain a number expended spell uses equal to your Wisdom modifier (minimum of 1).
+When you take a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you can choose to regain a number expended spell uses equal to your Wisdom modifier (minimum of 1).
 
-Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Anointed Arcana (Level 6)
 
@@ -86,12 +85,16 @@ The Radiant damage you take from casting spells listed on the End Spells table i
 
 ### Sacrificial Spell (Level 14)
 
-When you cast a level 1+ Martyr spell, you can take 10 Radiant damage to use one of the following benefits. This damage ignores your [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+When you cast a level 1+ Martyr spell, you can take 10 Radiant damage to use one of the following benefits. This damage ignores your [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
-**Heighten.** Once on each of your turns, when you cast a spell that forces a creature to make a saving throw, you can give one target of the spell [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on saves against the spell.
+**Heighten.** Once on each of your turns, when you cast a spell that forces a creature to make a saving throw, you can give one target of the spell [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saves against the spell.
 
-**Quicken.** When you cast a spell that has a casting time of an action, you can change the casting time to a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
+**Quicken.** When you cast a spell that has a casting time of an action, you can change the casting time to a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) for this casting. You can't modify a spell in this way if you've already cast a level 1+ spell on the current turn, nor can you cast a level 1+ spell on this turn after modifying a spell in this way.
 
 ### Vindictive Spell (Level 18)
 
-When you take damage from an enemy you can see within 30 feet of yourself, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to cast a level 1-3 Martyr spell. The spell must deal damage, have a casting time of an action or [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), and target that creature or include it in its area. The Radiant damage you take from casting the spell is decreased by the amount of triggering damage (minimum 0).
+When you take damage from an enemy you can see within 30 feet of yourself, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to cast a level 1-3 Martyr spell. The spell must deal damage, have a casting time of an action or [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), and target that creature or include it in its area. The Radiant damage you take from casting the spell is decreased by the amount of triggering damage (minimum 0).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

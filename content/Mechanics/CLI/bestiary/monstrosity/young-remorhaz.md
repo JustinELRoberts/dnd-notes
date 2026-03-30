@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Remorhaz
-created: 2026-03-09T12:15:33.801-04:00
-modified: 2026-03-09T12:15:33.801-04:00
-published: 2026-03-09T12:15:33.801-04:00
+created: 2026-03-29T21:53:55.585-04:00
+modified: 2026-03-29T21:53:55.585-04:00
+published: 2026-03-29T21:53:55.585-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Remorhaz
+ac: 14
+hp: 93
+modifier: 1
+hit_dice: 11d10 + 33
+cr: "5"
+stats:
+  - 18
+  - 13
+  - 17
+  - 3
+  - 10
+  - 4
+source:
+  - MM
 ---
 
 # Young Remorhaz
 
-_Source: Monster Manual p. 258_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/remorhaz.webp#right)
-
 From beneath the snow and ice bursts a remorhaz in a cloud of steam, its body pulsing with internal fire. Wing like fins flare from the back of the creature's head, and its wide mouth brims with jagged teeth.
 
 ## Arctic Predators
@@ -35,11 +50,11 @@ Frost giant hunters scour the icy wastes for remorhaz nests and eggs. The giants
 
 ```ad-statblock
 title: Young Remorhaz
-![](Mechanics/CLI/bestiary/monstrosity/token/young-remorhaz.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/young-remorhaz.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 93 (`11d10 + 33`) 
+- **Hit Points** 93 (11d10 + 33) 
 - **Speed** 30 ft., burrow 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,7 +64,7 @@ title: Young Remorhaz
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 10
 - **Damage Immunities** cold, fire
 - **Languages** —
 - **Challenge** 5
@@ -68,3 +83,7 @@ title: Young Remorhaz
 ## Environment
 
 arctic
+
+## Sources
+
+_Monster Manual p. 258_

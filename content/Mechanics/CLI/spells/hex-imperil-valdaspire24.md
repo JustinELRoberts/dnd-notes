@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - "Hex: Imperil"
-created: 2026-03-09T12:15:33.903-04:00
-modified: 2026-03-09T12:15:33.903-04:00
-published: 2026-03-09T12:15:33.903-04:00
+created: 2026-03-29T21:53:55.902-04:00
+modified: 2026-03-29T21:53:55.902-04:00
+published: 2026-03-29T21:53:55.902-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/level/cantrip
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
   - ttrpg-cli/spell/school/transmutation
@@ -14,8 +15,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Witch (Red Magic)
 ---
 
 # Hex: Imperil
@@ -27,8 +26,14 @@ _cantrip, Transmutation_
 - **Components:** V, S
 - **Duration:** 1 round
 
-You gesture at a creature you can see within range and choose a damage type. The creature must succeed on a Constitution saving throw or lose [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to that damage type, if it has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to it. If it has [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to that damage type, it instead has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to it. The spell ends at the end of your next turn.
+You gesture at a creature you can see within range and choose a damage type. The creature must succeed on a Constitution saving throw or lose [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage type, if it has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to it. If it has [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to that damage type, it instead has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to it. The spell ends at the end of your next turn.
 
-**Classes**: [Witch (Red Magic)](Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Witch (Red Magic)](/Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

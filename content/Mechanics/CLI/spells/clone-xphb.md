@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Clone
-created: 2026-03-09T12:15:33.919-04:00
-modified: 2026-03-09T12:15:33.919-04:00
-published: 2026-03-09T12:15:33.919-04:00
+created: 2026-03-29T21:53:55.924-04:00
+modified: 2026-03-29T21:53:55.924-04:00
+published: 2026-03-29T21:53:55.924-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/8th-level
   - ttrpg-cli/spell/school/necromancy
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Wizard
 ---
 
 # Clone
@@ -32,6 +30,12 @@ You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate o
 
 If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

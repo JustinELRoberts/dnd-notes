@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pugilist
-created: 2026-03-09T12:15:33.963-04:00
-modified: 2026-03-09T12:15:33.963-04:00
-published: 2026-03-09T12:15:33.963-04:00
+created: 2026-03-29T21:53:55.967-04:00
+modified: 2026-03-29T21:53:55.967-04:00
+published: 2026-03-29T21:53:55.967-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/captain/pugilist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Pugilist
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -49,7 +48,7 @@ _Source: Valda's Spire of Secrets Extras (2024)_
 
 ^class-progression
 
-Cross-Compatible Subclass: This subclass originates from the [Vagabond](Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
+Cross-Compatible Subclass: This subclass originates from the [Vagabond](/Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
 
 Note that cross-compatible subclasses might be stronger or weaker than other subclasses.
 
@@ -65,28 +64,32 @@ Knuckles crack and a meaty fist rears back to crush bone. Pugilists are hand-to-
 
 Your body is a deadly weapon, granting you the following benefits.
 
-**Unarmed Strike.** You can roll `1d6` in place of the normal damage of your [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). This die becomes `1d8` at Vagabond level 5, `1d10` at Vagabond level 11, and `1d12` at Vagabond level 17. At Vagabond level 6, your [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) can deal your choice of Force damage or its normal damage type.
+**Unarmed Strike.** You can roll `1d6` in place of the normal damage of your [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). This die becomes `1d8` at Vagabond level 5, `1d10` at Vagabond level 11, and `1d12` at Vagabond level 17. At Vagabond level 6, your [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) can deal your choice of Force damage or its normal damage type.
 
-**Brute Force.** The first creature you hit on each of your turns with an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) takes extra damage equal to a roll of your [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) damage die.
+**Brute Force.** The first creature you hit on each of your turns with an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) takes extra damage equal to a roll of your [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) damage die.
 
-**Unarmored Defense.** While you aren't wearing any armor, your base [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Constitution modifiers. You can use a [Shield](Mechanics/CLI/items/shield-xphb.md) and still gain this benefit.
+**Unarmored Defense.** While you aren't wearing any armor, your base [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Constitution modifiers. You can use a [Shield](/Mechanics/CLI/items/shield-xphb.md) and still gain this benefit.
 
 ### Shrug Off \[Maneuver] (Level 3)
 
-When you take damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) and expend one Battle Die to reduce the damage taken by the number rolled on the Battle Die.
+When you take damage, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) and expend one Battle Die to reduce the damage taken by the number rolled on the Battle Die.
 
 ### Intimidating Blow (Level 6)
 
 You learn the Horrific Strike maneuver. If you already know it, you learn a different maneuver of your choice.
 
-When you use Horrific Strike, you can perform a frightening display in a 10-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. Each creature you choose in the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) must succeed on a Wisdom saving throw against your Maneuver save DC or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the start of your next turn.
+When you use Horrific Strike, you can perform a frightening display in a 10-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. Each creature you choose in the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) must succeed on a Wisdom saving throw against your Maneuver save DC or have the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the start of your next turn.
 
 ### Desperate Endurance (Level 10)
 
-When you fail a saving throw while you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you can choose to succeed instead.
+When you fail a saving throw while you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you can choose to succeed instead.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Knockout \[Maneuver] (Level 14)
 
-When you hit a creature with an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend three Battle Dice as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to attempt to knock the target out. Add the Battle Dice to the attack's damage roll. If the target has fewer [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) than three times your Vagabond level after taking damage, it has the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition until it regains any [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When you hit a creature with an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend three Battle Dice as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to attempt to knock the target out. Add the Battle Dice to the attack's damage roll. If the target has fewer [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) than three times your Vagabond level after taking damage, it has the [Unconscious](/Mechanics/CLI/conditions.md#Unconscious) condition until it regains any [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or finishes a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Scatter
-created: 2026-03-09T12:15:33.879-04:00
-modified: 2026-03-09T12:15:33.879-04:00
-published: 2026-03-09T12:15:33.879-04:00
+created: 2026-03-29T21:53:55.673-04:00
+modified: 2026-03-29T21:53:55.673-04:00
+published: 2026-03-29T21:53:55.673-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -17,11 +18,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 ---
 
 # Scatter
@@ -35,6 +31,15 @@ _6th-level, Conjuration_
 
 The air quivers around up to five creatures of your choice that you can see within range. An unwilling creature must succeed on a Wisdom saving throw to resist this spell. You teleport each affected target to an unoccupied space that you can see within 120 feet of you. That space must be on the ground or on a floor.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 164_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 164_

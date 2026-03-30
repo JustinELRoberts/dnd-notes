@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Self-Taught
-created: 2026-03-09T12:15:34.429-04:00
-modified: 2026-03-09T12:15:34.429-04:00
-published: 2026-03-09T12:15:34.429-04:00
+created: 2026-03-29T21:53:56.529-04:00
+modified: 2026-03-29T21:53:56.529-04:00
+published: 2026-03-29T21:53:56.529-04:00
 tags:
   - ttrpg-cli/spell/list/optfeature/self-taught
 cssclasses:
@@ -16,5 +16,5 @@ obsidianUIMode: preview
 
 ## Cantrip
 
-- [Fire Bolt](Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") as cantrip
-- [Light](Mechanics/CLI/spells/light-xphb.md "XPHB") as cantrip
+- [Fire Bolt](/Mechanics/CLI/spells/fire-bolt-xphb.md "XPHB") as cantrip
+- [Light](/Mechanics/CLI/spells/light-xphb.md "XPHB") as cantrip

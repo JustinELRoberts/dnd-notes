@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Derro
-created: 2026-03-09T12:15:33.950-04:00
-modified: 2026-03-09T12:15:33.950-04:00
-published: 2026-03-09T12:15:33.950-04:00
+created: 2026-03-29T21:53:55.952-04:00
+modified: 2026-03-29T21:53:55.952-04:00
+published: 2026-03-29T21:53:55.952-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -15,11 +15,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Derro (MPMM)
+ac: 13
+hp: 13
+modifier: 2
+hit_dice: 3d6 + 3
+cr: 1/4
+stats:
+  - 10
+  - 14
+  - 12
+  - 11
+  - 5
+  - 9
+source:
+  - MPMM
 ---
 
 # Derro
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 91_\
 ![](Mechanics/CLI/bestiary/aberration/img/derro.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -38,11 +54,11 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 
 ```ad-statblock
 title: Derro
-![](Mechanics/CLI/bestiary/aberration/token/derro-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/derro-mpmm.webp#token)
 *Small aberration, Typically  Chaotic Evil*
 
-- **Armor Class** 13 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 13 (`3d6 + 3`) 
+- **Armor Class** 13 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 13 (3d6 + 3) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,9 +67,8 @@ title: Derro
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 7
-- **Gear** [light crossbow](Mechanics/CLI/items/light-crossbow-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 7
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 1/4
 
@@ -61,11 +76,11 @@ title: Derro
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
-***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
-***Hooked Spear.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 3 (`1d6`) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Hooked Spear.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 3 (`1d6`) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Light Crossbow.*** *Ranged Weapon Attack:* `+4` to hit, range 80/320 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
@@ -75,3 +90,7 @@ title: Derro
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 91_

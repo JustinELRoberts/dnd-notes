@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yuan-ti Broodguard
-created: 2026-03-09T12:15:33.796-04:00
-modified: 2026-03-09T12:15:33.796-04:00
-published: 2026-03-09T12:15:33.796-04:00
+created: 2026-03-29T21:53:55.579-04:00
+modified: 2026-03-29T21:53:55.579-04:00
+published: 2026-03-29T21:53:55.579-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -16,11 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Yuan-ti Broodguard (MPMM)
+ac: 14
+hp: 45
+modifier: 2
+hit_dice: 7d8 + 14
+cr: "2"
+stats:
+  - 15
+  - 14
+  - 14
+  - 6
+  - 11
+  - 4
+source:
+  - MPMM
+  - VGM
 ---
 
 # Yuan-ti Broodguard
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-broodguard.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -35,11 +52,11 @@ Most broodguards are made from human captives forced to consume a magical brew t
 
 ```ad-statblock
 title: Yuan-ti Broodguard
-![](Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-broodguard-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-broodguard-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 45 (`7d8 + 14`) 
+- **Hit Points** 45 (7d8 + 14) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,10 +65,10 @@ title: Yuan-ti Broodguard
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +4, Dexterity +4, Wisdom +2
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 2
 
@@ -73,3 +90,7 @@ title: Yuan-ti Broodguard
 ## Environment
 
 desert, forest, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 273, Volo's Guide to Monsters p. 203_

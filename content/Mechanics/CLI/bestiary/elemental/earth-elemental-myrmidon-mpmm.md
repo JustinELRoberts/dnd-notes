@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Earth Elemental Myrmidon
-created: 2026-03-09T12:15:34.034-04:00
-modified: 2026-03-09T12:15:34.034-04:00
-published: 2026-03-09T12:15:34.034-04:00
+created: 2026-03-29T21:53:56.047-04:00
+modified: 2026-03-29T21:53:56.047-04:00
+published: 2026-03-29T21:53:56.047-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -13,11 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Earth Elemental Myrmidon (MPMM)
+ac: 18
+hp: 127
+modifier: 0
+hit_dice: 17d8 + 51
+cr: "7"
+stats:
+  - 18
+  - 10
+  - 17
+  - 8
+  - 10
+  - 10
+source:
+  - MPMM
 ---
 
 # Earth Elemental Myrmidon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 122_\
 ![](Mechanics/CLI/bestiary/elemental/img/earth-elemental-myrmidon.webp#right)
 
 ## Elemental Myrmidons
@@ -26,11 +42,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 
 ```ad-statblock
 title: Earth Elemental Myrmidon
-![](Mechanics/CLI/bestiary/elemental/token/earth-elemental-myrmidon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/earth-elemental-myrmidon-mpmm.webp#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 127 (`17d8 + 51`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 127 (17d8 + 51) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,11 +56,10 @@ title: Earth Elemental Myrmidon
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone)
-- **Gear** [maul](Mechanics/CLI/items/maul-xphb.md)
+- **Condition Immunities** [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Terran, one language of its creator's choice
 - **Challenge** 7
 
@@ -54,7 +69,11 @@ title: Earth Elemental Myrmidon
 
 ***Maul.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) force damage.
 
-***Thunderous Strike (Recharge 6).*** The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (`4d10`) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Thunderous Strike (Recharge 6).*** The myrmidon makes one Maul attack. On a hit, the target takes an extra 22 (`4d10`) thunder damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 122_

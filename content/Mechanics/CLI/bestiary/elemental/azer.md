@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Azer
-created: 2026-03-09T12:15:33.962-04:00
-modified: 2026-03-09T12:15:33.962-04:00
-published: 2026-03-09T12:15:33.962-04:00
+created: 2026-03-29T21:53:55.966-04:00
+modified: 2026-03-29T21:53:55.966-04:00
+published: 2026-03-29T21:53:55.966-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Azer
+ac: 17
+hp: 39
+modifier: 1
+hit_dice: 6d8 + 12
+cr: "2"
+stats:
+  - 17
+  - 12
+  - 15
+  - 12
+  - 13
+  - 10
+source:
+  - MM
 ---
 
 # Azer
 
-_Source: Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/azer.webp#right)
-
 Natives of the Elemental Plane of Fire, azers are master crafters, expert miners, and sworn foes of the efreet. In appearance and manner, an azer resembles a male dwarf, but this is a facade. Beneath its metallic looking skin, an azer is a being of fire, which outwardly manifests in its fiery hair and beard.
 
 ## Made, Not Born
@@ -52,11 +67,11 @@ An azer doesn't require food, drink, or sleep.
 
 ```ad-statblock
 title: Azer
-![](Mechanics/CLI/bestiary/elemental/token/azer.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/azer.webp#token)
 *Medium elemental, Lawful Neutral*
 
-- **Armor Class** 17 (natural armor, [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 39 (`6d8 + 12`) 
+- **Armor Class** 17 (natural armor, [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 39 (6d8 + 12) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -68,8 +83,7 @@ title: Azer
 - **Skills** ⏤
 - **Senses** passive Perception 11
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [warhammer](Mechanics/CLI/items/warhammer-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Ignan
 - **Challenge** 2
 
@@ -87,3 +101,7 @@ title: Azer
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 22. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

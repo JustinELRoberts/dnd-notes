@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Elf
-created: 2026-03-09T12:15:33.984-04:00
-modified: 2026-03-09T12:15:33.984-04:00
-published: 2026-03-09T12:15:33.984-04:00
+created: 2026-03-29T21:53:55.989-04:00
+modified: 2026-03-29T21:53:55.989-04:00
+published: 2026-03-29T21:53:55.989-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/race/elf
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Elf
 
-_Source: Player's Handbook (2024) p. 189. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/races/img/elf.webp#right)
 
 - **Ability Scores**: None
@@ -28,13 +27,13 @@ _Source: Player's Handbook (2024) p. 189. Available in the <span title='Systems 
 
 ### Darkvision
 
-You have [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet.
+You have [Darkvision](/Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet.
 
 ### Elven Lineage
 
 You are part of a lineage that grants you supernatural abilities. Choose a lineage from the Elven Lineages table. You gain the level 1 benefit of that lineage.
 
-When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also cast the spell using any spell slots you have of the appropriate level.
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also cast the spell using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
@@ -42,22 +41,22 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells yo
 
 | Lineage | Level 1 | Level 3 | Level 5 |
 |---------|---------|---------|---------|
-| Drow | The range of your [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) increases to 120 feet. You also know the [Dancing Lights](Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip. | [Faerie Fire](Mechanics/CLI/spells/faerie-fire-xphb.md) | [Darkness](Mechanics/CLI/spells/darkness-xphb.md) |
-| High Elf | You know the [Prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md) | [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) |
-| Wood Elf | Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases to 35 feet. You also know the [Druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md) cantrip. | [Longstrider](Mechanics/CLI/spells/longstrider-xphb.md) | [Pass without Trace](Mechanics/CLI/spells/pass-without-trace-xphb.md) |
+| Drow | The range of your [Darkvision](/Mechanics/CLI/senses.md#Darkvision) increases to 120 feet. You also know the [Dancing Lights](/Mechanics/CLI/spells/dancing-lights-xphb.md) cantrip. | [Faerie Fire](/Mechanics/CLI/spells/faerie-fire-xphb.md) | [Darkness](/Mechanics/CLI/spells/darkness-xphb.md) |
+| High Elf | You know the [Prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md) cantrip. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace that cantrip with a different cantrip from the Wizard spell list. | [Detect Magic](/Mechanics/CLI/spells/detect-magic-xphb.md) | [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) |
+| Wood Elf | Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) increases to 35 feet. You also know the [Druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md) cantrip. | [Longstrider](/Mechanics/CLI/spells/longstrider-xphb.md) | [Pass without Trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md) |
 ^elven-lineages
 
 ### Fey Ancestry
 
-You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition.
+You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition.
 
 ### Keen Senses
 
-You have proficiency in the [Insight](Mechanics/CLI/rules/skills.md#Insight), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Survival](Mechanics/CLI/rules/skills.md#Survival) skill.
+You have proficiency in the [Insight](/Mechanics/CLI/skills.md#Insight), [Perception](/Mechanics/CLI/skills.md#Perception), or [Survival](/Mechanics/CLI/skills.md#Survival) skill.
 
 ### Trance
 
-You don't need to sleep, and magic can't put you to sleep. You can finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+You don't need to sleep, and magic can't put you to sleep. You can finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 ## Description
 
@@ -82,3 +81,7 @@ High elves have been infused with the magic of crossings between the Feywild and
 Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
 
 ![A ship departs from a city built by high elves](Mechanics/CLI/races/img/148-05-022-elf-city.webp#center)
+
+## Sources
+
+_Player's Handbook (2024) p. 189. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

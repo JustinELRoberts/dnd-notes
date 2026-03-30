@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orc War Chief
-created: 2026-03-09T12:15:34.100-04:00
-modified: 2026-03-09T12:15:34.100-04:00
-published: 2026-03-09T12:15:34.100-04:00
+created: 2026-03-29T21:53:56.132-04:00
+modified: 2026-03-29T21:53:56.132-04:00
+published: 2026-03-29T21:53:56.132-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -20,13 +20,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orc War Chief
+ac: 16
+hp: 93
+modifier: 1
+hit_dice: 11d8 + 44
+cr: "4"
+stats:
+  - 18
+  - 12
+  - 18
+  - 11
+  - 11
+  - 16
+source:
+  - MM
 ---
 
 # Orc War Chief
 
-_Source: Monster Manual p. 246_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc.webp#right)
-
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
 ## Gruumsh One-Eye
@@ -84,11 +99,11 @@ Gruumsh bestows special blessings upon war chiefs who prove themselves in battle
 
 ```ad-statblock
 title: Orc War Chief
-![](Mechanics/CLI/bestiary/humanoid/token/orc-war-chief.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orc-war-chief.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 16 ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md))
-- **Hit Points** 93 (`11d8 + 44`) 
+- **Armor Class** 16 ([chain mail](/Mechanics/CLI/items/chain-mail.md))
+- **Hit Points** 93 (11d8 + 44) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -97,9 +112,8 @@ title: Orc War Chief
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +6, Constitution +6, Wisdom +2
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md), [spear](Mechanics/CLI/items/spear-xphb.md)
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Orc
 - **Challenge** 4
 
@@ -125,3 +139,7 @@ title: Orc War Chief
 ## Environment
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
+
+## Sources
+
+_Monster Manual p. 246_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Staff of Fire
-created: 2026-03-09T12:15:34.128-04:00
-modified: 2026-03-09T12:15:34.128-04:00
-published: 2026-03-09T12:15:34.128-04:00
+created: 2026-03-29T21:53:56.172-04:00
+modified: 2026-03-29T21:53:56.172-04:00
+published: 2026-03-29T21:53:56.172-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -24,13 +24,16 @@ _Staff, weapon, major, very rare (requires attunement by a druid, sorcerer, warl
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
+- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 You have resistance to fire damage while you hold this staff.
 
-The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [burning hands](Mechanics/CLI/spells/burning-hands-xphb.md) (1 charge), [fireball](Mechanics/CLI/spells/fireball-xphb.md) (3 charges), or [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) (4 charges).
+The staff has 10 charges. While holding it, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC: [burning hands](/Mechanics/CLI/spells/burning-hands-xphb.md) (1 charge), [fireball](/Mechanics/CLI/spells/fireball-xphb.md) (3 charges), or [wall of fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md) (4 charges).
 
 The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll a `d20`. On a 1, the staff blackens, crumbles into cinders, and is destroyed.
 
-_Source: Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 201. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

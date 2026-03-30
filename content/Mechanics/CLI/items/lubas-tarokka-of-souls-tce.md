@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Luba's Tarokka of Souls
-created: 2026-03-09T12:15:34.109-04:00
-modified: 2026-03-09T12:15:34.109-04:00
-published: 2026-03-09T12:15:34.109-04:00
+created: 2026-03-29T21:53:56.146-04:00
+modified: 2026-03-29T21:53:56.146-04:00
+published: 2026-03-29T21:53:56.146-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,9 @@ obsidianUIMode: preview
 _Wondrous item, artifact (requires attunement)_\
 ![](Mechanics/CLI/items/img/lubas-tarokka-of-souls.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Not all lingering spirits are tragic souls, lost on their way to the hereafter. Some languish as prisoners, souls so wicked mortals dare not free them upon an unsuspecting afterlife.
 
 Created by a figure of Vistani legend, Luba's Tarokka of Souls shaped the destiny of countless heroes. The prophecies of this deck of cards also revealed great evils and guided its creator into the path of nefarious forces. Untold times the deck's creator, Mother Luba, narrowly escaped doom, spared only by her keen insights. But even for her, not all wickedness could be escaped. In the most dire cases, Mother Luba managed to ensnare beings of pure evil amid the strands of fate, imprisoning them within her tarokka deck. There these foul spirits dwell still, trapped within a nether-realm hidden amid shuffling cards, waiting for fate to turn foul—as it inevitably will.
@@ -29,16 +32,16 @@ Like all tarokka decks, the _Tarokka of Souls_ is a lavishly illustrated collect
 
 The artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) properties
-- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties
+- 2 [minor detrimental](/Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) properties
+- 2 [minor beneficial](/Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties
 
 ## Spells
 
-While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [comprehend languages](Mechanics/CLI/spells/comprehend-languages-xphb.md), [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [detect poison and disease](Mechanics/CLI/spells/detect-poison-and-disease-xphb.md), [locate object](Mechanics/CLI/spells/locate-object-xphb.md), or [scrying](Mechanics/CLI/spells/scrying-xphb.md). Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
+While holding the deck, you can use an action to cast one of the following spells (save DC 18) from it: [comprehend languages](/Mechanics/CLI/spells/comprehend-languages-xphb.md), [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [detect poison and disease](/Mechanics/CLI/spells/detect-poison-and-disease-xphb.md), [locate object](/Mechanics/CLI/spells/locate-object-xphb.md), or [scrying](/Mechanics/CLI/spells/scrying-xphb.md). Once you use the deck to cast a spell, you can't cast that spell again from it until the next dawn.
 
 ## Enduring Vision
 
-While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](Mechanics/CLI/rules/conditions.md#Concentration) on divination spells.
+While holding the deck, you automatically succeed on Constitution saving throws made to maintain your [concentration](/Mechanics/CLI/conditions.md#Concentration) on divination spells.
 
 ## Twist of Fate
 
@@ -57,20 +60,20 @@ Whenever you use the Twist of Fate property, there is a chance that one of the s
 
 | dice: d100 | Card | Soul |
 |------------|------|------|
-| 1 | Artifact | [Flameskull](Mechanics/CLI/bestiary/undead/flameskull.md) |
-| 2 | Beast | [Wraith](Mechanics/CLI/bestiary/undead/wraith.md) |
-| 3 | Broken | [Banshee](Mechanics/CLI/bestiary/undead/banshee.md) |
-| 4 | Darklord | [Vampire](Mechanics/CLI/bestiary/undead/vampire.md) |
-| 5 | Donjon | [Mummy](Mechanics/CLI/bestiary/undead/mummy.md) |
-| 6 | Executioner | [Death knight](Mechanics/CLI/bestiary/undead/death-knight.md) |
-| 7 | Ghost | [Ghost](Mechanics/CLI/bestiary/undead/ghost.md) |
-| 8 | Horseman | [Mummy lord](Mechanics/CLI/bestiary/undead/mummy-lord.md) |
-| 9 | Innocent | [Ghost](Mechanics/CLI/bestiary/undead/ghost.md) |
-| 10 | Marionette | [Mummy](Mechanics/CLI/bestiary/undead/mummy.md) |
-| 11 | Mists | [Wraith](Mechanics/CLI/bestiary/undead/wraith.md) |
-| 12 | Raven | [Vampire spawn](Mechanics/CLI/bestiary/undead/vampire-spawn.md) |
-| 13 | Seer | [Vampire](Mechanics/CLI/bestiary/undead/vampire.md) |
-| 14 | Tempter | [Vampire spawn](Mechanics/CLI/bestiary/undead/vampire-spawn.md) |
+| 1 | Artifact | [Flameskull](/Mechanics/CLI/bestiary/undead/flameskull.md) |
+| 2 | Beast | [Wraith](/Mechanics/CLI/bestiary/undead/wraith.md) |
+| 3 | Broken | [Banshee](/Mechanics/CLI/bestiary/undead/banshee.md) |
+| 4 | Darklord | [Vampire](/Mechanics/CLI/bestiary/undead/vampire.md) |
+| 5 | Donjon | [Mummy](/Mechanics/CLI/bestiary/undead/mummy.md) |
+| 6 | Executioner | [Death knight](/Mechanics/CLI/bestiary/undead/death-knight.md) |
+| 7 | Ghost | [Ghost](/Mechanics/CLI/bestiary/undead/ghost.md) |
+| 8 | Horseman | [Mummy lord](/Mechanics/CLI/bestiary/undead/mummy-lord.md) |
+| 9 | Innocent | [Ghost](/Mechanics/CLI/bestiary/undead/ghost.md) |
+| 10 | Marionette | [Mummy](/Mechanics/CLI/bestiary/undead/mummy.md) |
+| 11 | Mists | [Wraith](/Mechanics/CLI/bestiary/undead/wraith.md) |
+| 12 | Raven | [Vampire spawn](/Mechanics/CLI/bestiary/undead/vampire-spawn.md) |
+| 13 | Seer | [Vampire](/Mechanics/CLI/bestiary/undead/vampire.md) |
+| 14 | Tempter | [Vampire spawn](/Mechanics/CLI/bestiary/undead/vampire-spawn.md) |
 | 15-100 | — | — |
 ^souls-of-the-tarokka
 
@@ -82,7 +85,7 @@ If you go 7 days without using the Twist of Fate property, your attunement to Lu
 
 ## Destroying the Deck
 
-Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [lich](Mechanics/CLI/bestiary/undead/lich.md), that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
+Luba's Tarokka of Souls can be destroyed only if all fourteen souls within are released and destroyed. This reveals a fifteenth soul, a [lich](/Mechanics/CLI/bestiary/undead/lich.md), that inhabits the Nether card, which appears only when the fourteen souls are defeated. If this ancient entity is destroyed, the Nether card vanishes and the deck becomes a normal tarokka deck, with no special properties, but it includes a new card of the DM's design.
 
 ### Mother Luba and the Vistani
 
@@ -92,4 +95,6 @@ A halfling Vistani, Mother Luba led one of the largest groups of Vistani in the 
 
 Some years ago, Mother Luba disappeared into the mists, leaving behind only the Tarokka of Souls. It is said that if you draw the Mists card from it, you can hear the whispers of her kind voice.
 
-_Source: Tasha's Cauldron of Everything p. 129_
+## Sources
+
+_Tasha's Cauldron of Everything p. 129_

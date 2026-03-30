@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Marut
-created: 2026-03-09T12:15:34.133-04:00
-modified: 2026-03-09T12:15:34.133-04:00
-published: 2026-03-09T12:15:34.133-04:00
+created: 2026-03-29T21:53:56.180-04:00
+modified: 2026-03-29T21:53:56.180-04:00
+published: 2026-03-29T21:53:56.180-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/25
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Marut (MPMM)
+ac: 22
+hp: 432
+modifier: 1
+hit_dice: 32d10 + 256
+cr: "25"
+stats:
+  - 28
+  - 12
+  - 26
+  - 19
+  - 15
+  - 18
+source:
+  - MPMM
 ---
 
 # Marut
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 173_\
 ![](Mechanics/CLI/bestiary/construct/img/marut.webp#right)
-
 The nigh-unstoppable inevitables serve a singular purpose: they enforce contracts forged in the Hall of Concordance in the city of Sigil. Primus, the leader of the modrons, created maruts and other inevitables to bring order to dealings between planar folk. A wide array of disparate creatures, including yugoloths, will enter into a contract with inevitables if asked.
 
 The Hall of Concordance is an embassy of pure law in Sigil, the City of Doors. In the hall, parties who agree to mutual terms—and who pay the requisite gold to the Kolyarut, a mechanical engine of absolute jurisprudence—can have their contract chiseled onto a sheet of gold that is placed in the chest of a marut. From that moment until the contract is fulfilled, the marut is bound to enforce its terms and to punish any party who breaks them. A marut resorts to lethal force only if a contract calls for it, if the contract is fully broken, or if the marut is attacked.
@@ -28,11 +43,11 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 
 ```ad-statblock
 title: Marut
-![](Mechanics/CLI/bestiary/construct/token/marut-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/marut-mpmm.webp#token)
 *Large construct (inevitable), Typically  Lawful Neutral*
 
 - **Armor Class** 22 (natural armor)
-- **Hit Points** 432 (`32d10 + 256`) 
+- **Hit Points** 432 (32d10 + 256) 
 - **Speed** 40 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -41,11 +56,11 @@ title: Marut
 
 - **Proficiency Bonus** +8
 - **Saving Throws** Intelligence +12, Wisdom +10, Charisma +12
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +10, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +12, [Perception](Mechanics/CLI/rules/skills.md#Perception) +10
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 20
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +10, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +12, [Perception](/Mechanics/CLI/skills.md#Perception) +10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 20
 - **Damage Resistances** thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** all but rarely speaks
 - **Challenge** 25
 
@@ -65,10 +80,14 @@ title: Marut
 
 ***Unerring Slam.*** *Melee Weapon Attack:* automatic hit, reach 5 ft., one target. *Hit:* 60 force damage, and the target is pushed up to 5 feet away from the marut if it is Huge or smaller.
 
-***Blazing Edict (Recharge 5-6).*** Arcane energy emanates from the marut's chest in a 60-foot cube. Every creature in that area takes 45 radiant damage. Each creature that takes any of this damage must succeed on a DC 20 Wisdom saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the marut's next turn.
+***Blazing Edict (Recharge 5-6).*** Arcane energy emanates from the marut's chest in a 60-foot cube. Every creature in that area takes 45 radiant damage. Each creature that takes any of this damage must succeed on a DC 20 Wisdom saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of the marut's next turn.
 
-***Plane Shift (3/Day).*** The marut casts [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), requiring no material components and using Intelligence as the spellcasting ability. The marut can cast the spell normally, or it can cast the spell on an unwilling creature it can see within 60 feet of it. If it uses the latter option, the targeted creature must succeed on a DC 20 Charisma saving throw or be banished to a teleportation circle in the Hall of Concordance in Sigil.
+***Plane Shift (3/Day).*** The marut casts [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), requiring no material components and using Intelligence as the spellcasting ability. The marut can cast the spell normally, or it can cast the spell on an unwilling creature it can see within 60 feet of it. If it uses the latter option, the targeted creature must succeed on a DC 20 Charisma saving throw or be banished to a teleportation circle in the Hall of Concordance in Sigil.
 
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 173_

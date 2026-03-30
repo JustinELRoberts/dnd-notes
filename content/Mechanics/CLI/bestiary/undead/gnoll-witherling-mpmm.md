@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gnoll Witherling
-created: 2026-03-09T12:15:33.966-04:00
-modified: 2026-03-09T12:15:33.966-04:00
-published: 2026-03-09T12:15:33.966-04:00
+created: 2026-03-29T21:53:55.970-04:00
+modified: 2026-03-29T21:53:55.970-04:00
+published: 2026-03-29T21:53:55.970-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -17,11 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gnoll Witherling (MPMM)
+ac: 12
+hp: 11
+modifier: -1
+hit_dice: 2d8 + 2
+cr: 1/4
+stats:
+  - 14
+  - 8
+  - 12
+  - 5
+  - 5
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Gnoll Witherling
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155_\
 ![](Mechanics/CLI/bestiary/undead/img/gnoll-witherling.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -36,11 +53,11 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 
 ```ad-statblock
 title: Gnoll Witherling
-![](Mechanics/CLI/bestiary/undead/token/gnoll-witherling-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/gnoll-witherling-mpmm.webp#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,9 +67,9 @@ title: Gnoll Witherling
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 7
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Gnoll but can't speak
 - **Challenge** 1/4
 
@@ -82,3 +99,7 @@ title: Gnoll Witherling
 ## Environment
 
 arctic, forest, grassland, hill
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 145, Volo's Guide to Monsters p. 155_

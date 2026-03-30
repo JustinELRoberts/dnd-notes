@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-09T12:15:34.141-04:00
-modified: 2026-03-09T12:15:34.141-04:00
-published: 2026-03-09T12:15:34.141-04:00
+created: 2026-03-29T21:53:56.194-04:00
+modified: 2026-03-29T21:53:56.194-04:00
+published: 2026-03-29T21:53:56.194-04:00
 cssclasses:
   - json5e-note
   - json5e-index
@@ -13,6 +13,8 @@ obsidianUIMode: preview
 
 - [Aarakocra](./aarakocra-dmg.md)
 - [Aarakocra](./aarakocra-mpmm.md)
+- [Aasimar](./aasimar-dmg.md)
+- [Aasimar](./aasimar-mpmm.md)
 - [Aasimar](./aasimar-xphb.md)
 - [Bugbear](./bugbear-mpmm.md)
 - [Bullywug](./bullywug-dmg.md)
@@ -22,11 +24,19 @@ obsidianUIMode: preview
 - [Custom Lineage](./custom-lineage-tce.md)
 - [Deep Gnome](./deep-gnome-mpmm.md)
 - [Dragonborn](./dragonborn-xphb.md)
+- [Dragonborn](./dragonborn.md)
 - [Duergar](./duergar-mpmm.md)
+- [Dwarf (Hill)](./dwarf-hill.md)
+- [Dwarf (Mountain)](./dwarf-mountain.md)
 - [Dwarf](./dwarf-xphb.md)
+- [Dwarf](./dwarf.md)
 - [Eladrin](./eladrin-mpmm.md)
+- [Elf (Drow)](./elf-drow.md)
 - [Elf (Eladrin)](./elf-eladrin-dmg.md)
+- [Elf (High)](./elf-high.md)
+- [Elf (Wood)](./elf-wood.md)
 - [Elf](./elf-xphb.md)
+- [Elf](./elf.md)
 - [Fairy](./fairy-mpmm.md)
 - [Firbolg](./firbolg-mpmm.md)
 - [Genasi (Air)](./genasi-air-mpmm.md)
@@ -38,16 +48,27 @@ obsidianUIMode: preview
 - [Githzerai](./githzerai-mpmm.md)
 - [Gnoll](./gnoll-dmg.md)
 - [Gnome (Deep)](./gnome-deep-dmg.md)
+- [Gnome (Forest)](./gnome-forest.md)
+- [Gnome (Rock)](./gnome-rock.md)
 - [Gnome](./gnome-xphb.md)
+- [Gnome](./gnome.md)
 - [Goblin](./goblin-dmg.md)
 - [Goblin](./goblin-mpmm.md)
+- [Goliath](./goliath-mpmm.md)
 - [Goliath](./goliath-xphb.md)
 - [Grimlock](./grimlock-dmg.md)
+- [Half-Elf](./half-elf.md)
+- [Half-Orc](./half-orc.md)
+- [Halfling (Lightfoot)](./halfling-lightfoot.md)
+- [Halfling (Stout)](./halfling-stout.md)
 - [Halfling](./halfling-xphb.md)
+- [Halfling](./halfling.md)
 - [Harengon](./harengon-mpmm.md)
 - [Hobgoblin](./hobgoblin-dmg.md)
 - [Hobgoblin](./hobgoblin-mpmm.md)
+- [Human (Variant)](./human-variant.md)
 - [Human](./human-xphb.md)
+- [Human](./human.md)
 - [Kalashtar](./kalashtar-efa.md)
 - [Kenku](./kenku-dmg.md)
 - [Kenku](./kenku-mpmm.md)
@@ -59,14 +80,18 @@ obsidianUIMode: preview
 - [Lizardfolk](./lizardfolk-mpmm.md)
 - [Merfolk](./merfolk-dmg.md)
 - [Minotaur](./minotaur-mpmm.md)
+- [Orc](./orc-dmg.md)
+- [Orc](./orc-mpmm.md)
 - [Orc](./orc-xphb.md)
 - [Satyr](./satyr-mpmm.md)
 - [Sea Elf](./sea-elf-mpmm.md)
 - [Shadar-Kai](./shadar-kai-mpmm.md)
 - [Shifter](./shifter-efa.md)
+- [Shifter](./shifter-mpmm.md)
 - [Skeleton](./skeleton-dmg.md)
 - [Tabaxi](./tabaxi-mpmm.md)
 - [Tiefling](./tiefling-xphb.md)
+- [Tiefling](./tiefling.md)
 - [Tortle](./tortle-mpmm.md)
 - [Triton](./triton-mpmm.md)
 - [Troglodyte](./troglodyte-dmg.md)

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Zariel
-created: 2026-03-09T12:15:34.382-04:00
-modified: 2026-03-09T12:15:34.382-04:00
-published: 2026-03-09T12:15:34.382-04:00
+created: 2026-03-29T21:53:56.481-04:00
+modified: 2026-03-29T21:53:56.481-04:00
+published: 2026-03-29T21:53:56.481-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/legendary-group
@@ -21,8 +21,8 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 On initiative count 20 (losing initiative ties), Zariel can take one of the following lair actions; she can't take the same lair action two rounds in a row:
 
-- **Fireball.** Zariel casts the [fireball](Mechanics/CLI/spells/fireball-xphb.md) spell.
-- **Infernal Illusions.** Zariel casts the [major image](Mechanics/CLI/spells/major-image-xphb.md) spell four times, targeting different areas with it. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+- **Fireball.** Zariel casts the [fireball](/Mechanics/CLI/spells/fireball-xphb.md) spell.
+- **Infernal Illusions.** Zariel casts the [major image](/Mechanics/CLI/spells/major-image-xphb.md) spell four times, targeting different areas with it. Zariel prefers to create images of intruders' loved ones being burned alive. Zariel doesn't need to concentrate on the spells, which end on initiative count 20 of the next round. Each creature that can see these illusions must succeed on a DC 26 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) of the illusion for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Regional Effects
 

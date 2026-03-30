@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Draconic Spirit
-created: 2026-03-09T12:15:33.953-04:00
-modified: 2026-03-09T12:15:33.953-04:00
-published: 2026-03-09T12:15:33.953-04:00
+created: 2026-03-29T21:53:55.955-04:00
+modified: 2026-03-29T21:53:55.955-04:00
+published: 2026-03-29T21:53:55.955-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Draconic Spirit (XPHB)
+modifier: 2
+stats:
+  - 19
+  - 14
+  - 17
+  - 10
+  - 14
+  - 14
+source:
+  - XPHB
 ---
 
 # Draconic Spirit
 
-_Source: Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/draconic-spirit.webp#center)
 
 ```ad-statblock
 title: Draconic Spirit
-![](Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/draconic-spirit-xphb.webp#token)
 *Large dragon, Neutral*
 
 - **Armor Class** (14 + the spell's level)
@@ -36,9 +48,9 @@ title: Draconic Spirit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [Blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** acid, cold, fire, lightning, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Draconic, understands the languages you know
 - **Challenge** 
 
@@ -56,3 +68,7 @@ title: Draconic Spirit
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

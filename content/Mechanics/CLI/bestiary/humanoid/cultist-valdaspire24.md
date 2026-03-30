@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cultist
-created: 2026-03-09T12:15:33.904-04:00
-modified: 2026-03-09T12:15:33.904-04:00
-published: 2026-03-09T12:15:33.904-04:00
+created: 2026-03-29T21:53:55.903-04:00
+modified: 2026-03-29T21:53:55.903-04:00
+published: 2026-03-29T21:53:55.903-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,13 +13,25 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cultist (ValdaSpire24)
+ac: 14
+modifier: 2
+stats:
+  - 10
+  - 14
+  - 12
+  - 9
+  - 9
+  - 16
+source:
+  - ValdaSpire24
 ---
 
 # Cultist
 
-_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Creatures/Cultist.webp#right)
-
 Dogmatic and often unhinged, cultists draw upon forbidden, eldritch allies for a taste of arcane might.
 
 ```ad-statblock
@@ -37,9 +49,8 @@ title: Cultist
 
 - **Proficiency Bonus** +2
 - **Saving Throws** 3+PB
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +1, [Deception](Mechanics/CLI/rules/skills.md#Deception) +5
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +1, [Deception](/Mechanics/CLI/skills.md#Deception) +5
 - **Senses** passive Perception 9
-- **Gear** [studded leather armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [wand](Mechanics/CLI/items/wand-xphb.md)
 - **Languages** Common plus one other language
 - **Challenge** 
 
@@ -57,17 +68,21 @@ title: Cultist
 
 ***Bleeding.*** Until the start of the cultist's next turn, the target takes an extra `1d4` Necrotic damage whenever it takes damage.
 
-***Evil Eye.*** The target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the start of the cultist's next turn.
+***Evil Eye.*** The target has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the start of the cultist's next turn.
 
-***Hobbled.*** The target's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is reduced to 10 feet until the start of the cultist's next turn.
+***Hobbled.*** The target's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is reduced to 10 feet until the start of the cultist's next turn.
 
 ***Necrotic Damage.*** The target takes `1d8` plus your Charisma modifier Necrotic damage.
 
-***Level 17.*** Vulnerability Curse (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 60 feet. *Failure:* The target has [Vulnerability](Mechanics/CLI/rules/variant-rules/vulnerability-xphb.md) to one damage type of the cultist's choice until the start of the cultist's next turn. This [Vulnerability](Mechanics/CLI/rules/variant-rules/vulnerability-xphb.md) ends early after the target takes the chosen type of damage.
+***Level 17.*** Vulnerability Curse (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 60 feet. *Failure:* The target has [Vulnerability](/Mechanics/CLI/variant-rules/vulnerability-xphb.md) to one damage type of the cultist's choice until the start of the cultist's next turn. This [Vulnerability](/Mechanics/CLI/variant-rules/vulnerability-xphb.md) ends early after the target takes the chosen type of damage.
 
 ## Reactions
 
-***Level 13.*** Hellish Rebuke. The cultist casts [Hellish Rebuke](Mechanics/CLI/spells/hellish-rebuke-xphb.md) in response to the spell's trigger, using your Charisma as the spellcasting ability (spell save DC equals your Cohort save DC).
+***Level 13.*** Hellish Rebuke. The cultist casts [Hellish Rebuke](/Mechanics/CLI/spells/hellish-rebuke-xphb.md) in response to the spell's trigger, using your Charisma as the spellcasting ability (spell save DC equals your Cohort save DC).
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

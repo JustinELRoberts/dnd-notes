@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hobgoblin Warlord
-created: 2026-03-09T12:15:34.126-04:00
-modified: 2026-03-09T12:15:34.126-04:00
-published: 2026-03-09T12:15:34.126-04:00
+created: 2026-03-29T21:53:56.169-04:00
+modified: 2026-03-29T21:53:56.169-04:00
+published: 2026-03-29T21:53:56.169-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hobgoblin Warlord
+ac: 20
+hp: 97
+modifier: 2
+hit_dice: 13d8 + 39
+cr: "6"
+stats:
+  - 16
+  - 14
+  - 16
+  - 14
+  - 11
+  - 15
+source:
+  - MM
 ---
 
 # Hobgoblin Warlord
 
-_Source: Monster Manual p. 187_\
 ![](Mechanics/CLI/bestiary/humanoid/img/hobgoblin.webp#right)
-
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
@@ -85,11 +100,11 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ```ad-statblock
 title: Hobgoblin Warlord
-![](Mechanics/CLI/bestiary/humanoid/token/hobgoblin-warlord.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/hobgoblin-warlord.webp#token)
 *Medium humanoid (goblinoid), Lawful Evil*
 
-- **Armor Class** 20 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 97 (`13d8 + 39`) 
+- **Armor Class** 20 ([plate armor](/Mechanics/CLI/items/plate-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 97 (13d8 + 39) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -99,14 +114,13 @@ title: Hobgoblin Warlord
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +5, Wisdom +3, Charisma +5
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 6
 
 ## Traits
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (`4d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 14 (`4d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -114,11 +128,11 @@ title: Hobgoblin Warlord
 
 ***Longsword.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) slashing damage, or 8 (`1d10 + 3`) slashing damage if used with two hands.
 
-***Shield Bash.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one creature. *Hit:* 5 (`1d4 + 3`) bludgeoning damage. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Shield Bash.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one creature. *Hit:* 5 (`1d4 + 3`) bludgeoning damage. If the target is Large or smaller, it must succeed on a DC 14 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+9` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Reactions
 
@@ -130,3 +144,7 @@ title: Hobgoblin Warlord
 ## Environment
 
 underdark, grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 187_

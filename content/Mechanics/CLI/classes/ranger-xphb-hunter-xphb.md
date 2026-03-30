@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hunter
-created: 2026-03-09T12:15:34.110-04:00
-modified: 2026-03-09T12:15:34.110-04:00
-published: 2026-03-09T12:15:34.110-04:00
+created: 2026-03-29T21:53:56.148-04:00
+modified: 2026-03-29T21:53:56.148-04:00
+published: 2026-03-29T21:53:56.148-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/ranger/hunter
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Hunter
 
-_[Ranger](./ranger-xphb.md): Ranger Subclass_\
-_Source: Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_[Ranger](./ranger-xphb.md): Ranger Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,9 +58,9 @@ You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to p
 
 ### Hunter's Prey (Level 3)
 
-You gain one of the following feature options of your choice. Whenever you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace the chosen option with the other one.
+You gain one of the following feature options of your choice. Whenever you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace the chosen option with the other one.
 
-**Colossus Slayer.** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `1d8` damage to the target if it's missing any of its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). You can deal this extra damage only once per turn.
+**Colossus Slayer.** Your tenacity can wear down even the most resilient foes. When you hit a creature with a weapon, the weapon deals an extra `1d8` damage to the target if it's missing any of its [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). You can deal this extra damage only once per turn.
 
 **Horde Breaker.** Once on each of your turns when you make an attack with a weapon, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target, that is within the weapon's range, and that you haven't attacked this turn.
 
@@ -71,11 +70,11 @@ You can call on the forces of nature to reveal certain strengths and weaknesses 
 
 ### Defensive Tactics (Level 7)
 
-You gain one of the following feature options of your choice. Whenever you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace the chosen option with the other one.
+You gain one of the following feature options of your choice. Whenever you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace the chosen option with the other one.
 
-**Escape the Horde.** [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) against you.
+**Escape the Horde.** [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) against you.
 
-**Multiattack Defense.** When a creature hits you with an attack roll, that creature has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on all other attack rolls against you this turn.
+**Multiattack Defense.** When a creature hits you with an attack roll, that creature has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on all other attack rolls against you this turn.
 
 ### Superior Hunter's Prey (Level 11)
 
@@ -83,4 +82,8 @@ Once per turn when you deal damage to a creature marked by your Hunter's Mark, y
 
 ### Superior Hunter's Defense (Level 15)
 
-When you take damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to give yourself [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to that damage and any other damage of the same type until the end of the current turn.
+When you take damage, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to give yourself [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage and any other damage of the same type until the end of the current turn.
+
+## Sources
+
+_Player's Handbook (2024) p. 127. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

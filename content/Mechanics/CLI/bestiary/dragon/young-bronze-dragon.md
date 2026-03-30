@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Bronze Dragon
-created: 2026-03-09T12:15:33.842-04:00
-modified: 2026-03-09T12:15:33.842-04:00
-published: 2026-03-09T12:15:33.842-04:00
+created: 2026-03-29T21:53:55.628-04:00
+modified: 2026-03-29T21:53:55.628-04:00
+published: 2026-03-29T21:53:55.628-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Bronze Dragon
+ac: 18
+hp: 142
+modifier: 0
+hit_dice: 15d10 + 60
+cr: "8"
+stats:
+  - 21
+  - 10
+  - 19
+  - 14
+  - 13
+  - 17
+source:
+  - MM
 ---
 
 # Young Bronze Dragon
 
-_Source: Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/bronze-dragon.webp#right)
-
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
 A ribbed and fluted crest defines the shape of a bronze dragon's head. Curving horns extend out from the crest, echoed by spines on its lower jaw and chin. To help them swim, bronze dragons have webbed feet and smooth scales. A bronze wyrmling's scales are yellow tinged with green; only as the dragon approaches adulthood does its color deepen to a darker, rich bronze tone. The pupils of a bronze dragon's eyes fade as the dragon ages, until they resemble glowing green orbs.
@@ -91,11 +106,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Bronze Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-bronze-dragon.webp#token)
 *Large dragon, Lawful Good*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 142 (`15d10 + 60`) 
+- **Hit Points** 142 (15d10 + 60) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -104,8 +119,8 @@ title: Young Bronze Dragon
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +3, Constitution +7, Wisdom +4, Charisma +6
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +7, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 17
 - **Damage Immunities** lightning
 - **Languages** Common, Draconic
 - **Challenge** 8
@@ -133,3 +148,7 @@ title: Young Bronze Dragon
 ## Environment
 
 coastal
+
+## Sources
+
+_Monster Manual p. 108. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

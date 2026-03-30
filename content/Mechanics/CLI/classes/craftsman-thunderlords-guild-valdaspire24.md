@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Thunderlords' Guild
-created: 2026-03-09T12:15:33.821-04:00
-modified: 2026-03-09T12:15:33.821-04:00
-published: 2026-03-09T12:15:33.821-04:00
+created: 2026-03-29T21:53:55.610-04:00
+modified: 2026-03-29T21:53:55.610-04:00
+published: 2026-03-29T21:53:55.610-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/craftsman/thunderlords
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Thunderlords' Guild
 
-_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,30 +56,34 @@ From the earliest days of life, storms (and particularly lightning) have struck 
 
 ### Power Cell (Level 3)
 
-You have a lightning-generating Power Cell that you can use to empower your equipment. If your cell is ever lost or damaged, you can repair or replace it over the course of a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) using materials worth 100+ GP. While carrying your Power Cell, you gain the following benefits.
+You have a lightning-generating Power Cell that you can use to empower your equipment. If your cell is ever lost or damaged, you can repair or replace it over the course of a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) using materials worth 100+ GP. While carrying your Power Cell, you gain the following benefits.
 
-**Charge Points.** Your Power Cell gives you a number of Charge Points equal to your Craftsman level. You regain all expended Charge Points when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Charge Points.** Your Power Cell gives you a number of Charge Points equal to your Craftsman level. You regain all expended Charge Points when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Shock.** Once on each of your turns when you deal Lightning damage, you can expend a number of Charge Points up to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to deal extra Lightning damage. The extra damage equals `1d6` for each Charge Point expended plus your Intelligence modifier.
+**Shock.** Once on each of your turns when you deal Lightning damage, you can expend a number of Charge Points up to your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to deal extra Lightning damage. The extra damage equals `1d6` for each Charge Point expended plus your Intelligence modifier.
 
-**Lightning Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Lightning damage.
+**Lightning Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Lightning damage.
 
 **Lightning Weapons.** When you deal damage with a weapon, it can deal your choice of Lightning damage or its normal damage type.
 
 ### Electric Armory (Level 6)
 
-Using your Customize Weapon, you can add the [Jolt](Mechanics/CLI/rules/item-mastery.md#Jolt) property to any weapon, even one that doesn't deal Lightning damage. You gain the following benefit with any weapon that has the [Jolt](Mechanics/CLI/rules/item-mastery.md#Jolt) property.
+Using your Customize Weapon, you can add the [Jolt](/Mechanics/CLI/item-mastery.md#Jolt) property to any weapon, even one that doesn't deal Lightning damage. You gain the following benefit with any weapon that has the [Jolt](/Mechanics/CLI/item-mastery.md#Jolt) property.
 
-**Arcing Jolt.** Once per turn when you use the [Jolt](Mechanics/CLI/rules/item-mastery.md#Jolt) property, you can expend one Charge Point to cause an arc of electricity to leap to a creature that you can see within 5 feet of the target. This creature is affected by the [Jolt](Mechanics/CLI/rules/item-mastery.md#Jolt) property and makes a Dexterity saving throw (DC equals 8 plus your Intelligence modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes Lightning damage equal to the damage dealt to the initial target, or half as much damage on a successful save.
+**Arcing Jolt.** Once per turn when you use the [Jolt](/Mechanics/CLI/item-mastery.md#Jolt) property, you can expend one Charge Point to cause an arc of electricity to leap to a creature that you can see within 5 feet of the target. This creature is affected by the [Jolt](/Mechanics/CLI/item-mastery.md#Jolt) property and makes a Dexterity saving throw (DC equals 8 plus your Intelligence modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, a creature takes Lightning damage equal to the damage dealt to the initial target, or half as much damage on a successful save.
 
 ### Static Charge (Level 10)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can store an electric charge in a suit of Masterwork armor you are wearing until the end of your next turn. If a creature hits you with a melee attack while your armor is charged, it takes `3d6` Lightning damage and the armor is no longer charged.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can store an electric charge in a suit of Masterwork armor you are wearing until the end of your next turn. If a creature hits you with a melee attack while your armor is charged, it takes `3d6` Lightning damage and the armor is no longer charged.
 
 ### Ball Lightning (Level 14)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend 3 Charge Points to create a 1-foot diameter ball of electrified plasma in an unoccupied space within 5 feet of you. The ball lasts for 1 minute or until you use this feature again or dismiss it (no action required).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend 3 Charge Points to create a 1-foot diameter ball of electrified plasma in an unoccupied space within 5 feet of you. The ball lasts for 1 minute or until you use this feature again or dismiss it (no action required).
 
-The ball emanates an electric field in a 5-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md). When a creature enters the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) for the first time on a turn or begins its turn there, you can choose for metallic weapons it is carrying to gain an electric charge until the end of the creature's turn. Whenever a creature deals damage with a charged weapon, it deals an extra `1d6` Lightning damage.
+The ball emanates an electric field in a 5-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md). When a creature enters the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) for the first time on a turn or begins its turn there, you can choose for metallic weapons it is carrying to gain an electric charge until the end of the creature's turn. Whenever a creature deals damage with a charged weapon, it deals an extra `1d6` Lightning damage.
 
 At the start of each of your turns, the ball moves up to 15 feet in a direction you choose.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

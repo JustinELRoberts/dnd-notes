@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Neogi Master
-created: 2026-03-09T12:15:34.093-04:00
-modified: 2026-03-09T12:15:34.093-04:00
-published: 2026-03-09T12:15:34.093-04:00
+created: 2026-03-29T21:53:56.124-04:00
+modified: 2026-03-29T21:53:56.124-04:00
+published: 2026-03-29T21:53:56.124-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -15,11 +15,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Neogi Master (MPMM)
+ac: 15
+hp: 71
+modifier: 3
+hit_dice: 11d8 + 22
+cr: "4"
+stats:
+  - 6
+  - 16
+  - 14
+  - 16
+  - 12
+  - 18
+source:
+  - MPMM
+  - VGM
 ---
 
 # Neogi Master
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180_
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
 
@@ -37,11 +53,11 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 
 ```ad-statblock
 title: Neogi Master
-![](Mechanics/CLI/bestiary/aberration/token/neogi-master-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/neogi-master-mpmm.webp#token)
 *Medium aberration (warlock), Typically  Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 71 (`11d8 + 22`) 
+- **Hit Points** 71 (11d8 + 22) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,16 +66,16 @@ title: Neogi Master
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +3
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [Deception](Mechanics/CLI/rules/skills.md#Deception) +6, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [Deception](/Mechanics/CLI/skills.md#Deception) +6, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 13
 - **Languages** Common, Deep Speech, Undercommon, telepathy 30 ft.
 - **Challenge** 4
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the neogi's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the neogi's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
-***Mental Fortitude.*** The neogi has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and magic can't put the neogi to sleep.
+***Mental Fortitude.*** The neogi has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened), and magic can't put the neogi to sleep.
 
 ***Spider Climb.*** The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -67,7 +83,7 @@ title: Neogi Master
 
 ***Multiattack.*** The neogi makes one Bite attack and one Claw attack, or it makes two Tentacle of Hadar attacks.
 
-***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage plus 14 (`4d6`) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage plus 14 (`4d6`) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claw.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 8 (`2d4 + 3`) piercing damage.
 
@@ -75,13 +91,13 @@ title: Neogi Master
 
 ***Spellcasting.*** The neogi casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
 
-**At will:** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1/day each:** [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [hunger of Hadar](Mechanics/CLI/spells/hunger-of-hadar-xphb.md)
+**1/day each:** [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md), [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [hunger of Hadar](/Mechanics/CLI/spells/hunger-of-hadar-xphb.md)
 
 ## Bonus Actions
 
-***Enslave (Recharges after a Short or Long Rest).*** The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
+***Enslave (Recharges after a Short or Long Rest).*** The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/Mechanics/CLI/conditions.md#Charmed) by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The [charmed](/Mechanics/CLI/conditions.md#Charmed) target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the [charmed](/Mechanics/CLI/conditions.md#Charmed) target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -89,3 +105,7 @@ title: Neogi Master
 ## Environment
 
 hill, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180_

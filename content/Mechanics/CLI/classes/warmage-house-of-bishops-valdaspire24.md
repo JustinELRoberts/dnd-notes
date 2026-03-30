@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Bishops
-created: 2026-03-09T12:15:33.871-04:00
-modified: 2026-03-09T12:15:33.871-04:00
-published: 2026-03-09T12:15:33.871-04:00
+created: 2026-03-29T21:53:55.663-04:00
+modified: 2026-03-29T21:53:55.663-04:00
+published: 2026-03-29T21:53:55.663-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warmage/bishops
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # House of Bishops
 
-_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -61,25 +60,25 @@ The House of Bishops adopts Warmages with arcane potential and teaches its membe
 
 You gain the ability to cast more potent spells.
 
-**Spell Slots.** The Bishop Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Slots.** The Bishop Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list. [Burning Hands](Mechanics/CLI/spells/burning-hands-xphb.md), [Grease](Mechanics/CLI/spells/grease-xphb.md), and [Shield](Mechanics/CLI/spells/shield-xphb.md) are recommended. The number of spells on your list increases as you gain Warmage levels, as shown in the Prepared Spells column of the Bishop Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Warmage, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the Wizard spell list. [Burning Hands](/Mechanics/CLI/spells/burning-hands-xphb.md), [Grease](/Mechanics/CLI/spells/grease-xphb.md), and [Shield](/Mechanics/CLI/spells/shield-xphb.md) are recommended. The number of spells on your list increases as you gain Warmage levels, as shown in the Prepared Spells column of the Bishop Spellcasting table. Whenever that number increases, choose additional spells from the Wizard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Warmage, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination.
 
 **Changing Your Prepared Spells.** Whenever you gain a Warmage level, you can replace one spell on your list with another Wizard spell for which you have spell slots.
 
-**Warmage Edge.** You can use your [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) feature to improve the damage rolls of level 1+ Wizard spells as if they were cantrips. If you add [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to the [Magic Missile](Mechanics/CLI/spells/magic-missile-xphb.md) spell, you improve the damage roll of only one dart.
+**Warmage Edge.** You can use your [Warmage Edge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) feature to improve the damage rolls of level 1+ Wizard spells as if they were cantrips. If you add [Warmage Edge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to the [Magic Missile](/Mechanics/CLI/spells/magic-missile-xphb.md) spell, you improve the damage roll of only one dart.
 
 ### Arcane Study (Level 3)
 
-You gain proficiency in two of the following skills of your choice: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), or [Religion](Mechanics/CLI/rules/skills.md#Religion).
+You gain proficiency in two of the following skills of your choice: [Arcana](/Mechanics/CLI/skills.md#Arcana), [History](/Mechanics/CLI/skills.md#History), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Medicine](/Mechanics/CLI/skills.md#Medicine), or [Religion](/Mechanics/CLI/skills.md#Religion).
 
 ### Mystical Companion (Level 7)
 
-You always have the [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md) spell prepared, which doesn't count against your number of prepared spells. When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](Mechanics/CLI/bestiary/fiend/imp-xmm.md), [Pseudodragon](Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md), [Quasit](Mechanics/CLI/bestiary/fiend/quasit-xmm.md), or [Sprite](Mechanics/CLI/bestiary/fey/sprite-xmm.md).
+You always have the [Find Familiar](/Mechanics/CLI/spells/find-familiar-xphb.md) spell prepared, which doesn't count against your number of prepared spells. When you cast the spell, you choose one of the normal forms for your familiar or one of the following special forms: [Imp](/Mechanics/CLI/bestiary/fiend/imp-xmm.md), [Pseudodragon](/Mechanics/CLI/bestiary/dragon/pseudodragon-xmm.md), [Quasit](/Mechanics/CLI/bestiary/fiend/quasit-xmm.md), or [Sprite](/Mechanics/CLI/bestiary/fey/sprite-xmm.md).
 
 ### Siege Casting (Level 10)
 
-Your Warmage and Wizard spells deal double damage to objects and structures. You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on spell attack rolls against targets that are 100 or more feet away from you.
+Your Warmage and Wizard spells deal double damage to objects and structures. You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on spell attack rolls against targets that are 100 or more feet away from you.
 
 ### Spell Sculpting (Level 15)
 
@@ -87,4 +86,8 @@ When you cast a spell with a spell slot that affects other creatures that you ca
 
 ### Arcane Dominance (Level 18)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend a number of spell slots with a combined level of 6+ to regain one expended use of your [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend a number of spell slots with a combined level of 6+ to regain one expended use of your [Arcane Surge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

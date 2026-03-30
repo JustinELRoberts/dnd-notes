@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hezrou
-created: 2026-03-09T12:15:34.007-04:00
-modified: 2026-03-09T12:15:34.007-04:00
-published: 2026-03-09T12:15:34.007-04:00
+created: 2026-03-29T21:53:56.013-04:00
+modified: 2026-03-29T21:53:56.013-04:00
+published: 2026-03-29T21:53:56.013-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hezrou
+ac: 16
+hp: 136
+modifier: 3
+hit_dice: 13d10 + 65
+cr: "8"
+stats:
+  - 19
+  - 17
+  - 20
+  - 5
+  - 12
+  - 13
+source:
+  - MM
 ---
 
 # Hezrou
 
-_Source: Monster Manual p. 60. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/hezrou.webp#right)
-
 Hezrous serve as foot soldiers in the demonic hordes of the Abyss. Although physically powerful, they are weak-minded and hezrous can easily be duped into sacrificing themselves by more powerful demons. As they press their attacks into the heart of an enemy's forces, their foul stench can sicken even the toughest foes.
 
 ## Demons
@@ -162,7 +177,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -192,11 +207,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Hezrou
-![](Mechanics/CLI/bestiary/fiend/token/hezrou.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/hezrou.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 136 (`13d10 + 65`) 
+- **Hit Points** 136 (13d10 + 65) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -206,10 +221,10 @@ title: Hezrou
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Constitution +8, Wisdom +4
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 8
 
@@ -217,7 +232,7 @@ title: Hezrou
 
 ***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.
 
-***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
+***Stench.*** Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the start of its next turn. On a successful saving throw, the creature is immune to the hezrou's stench for 24 hours.
 
 ## Actions
 
@@ -229,3 +244,7 @@ title: Hezrou
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 60. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

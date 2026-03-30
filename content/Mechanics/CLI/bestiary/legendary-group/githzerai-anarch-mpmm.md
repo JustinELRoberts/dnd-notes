@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Githzerai Anarch
-created: 2026-03-09T12:15:34.412-04:00
-modified: 2026-03-09T12:15:34.412-04:00
-published: 2026-03-09T12:15:34.412-04:00
+created: 2026-03-29T21:53:56.508-04:00
+modified: 2026-03-29T21:53:56.508-04:00
+published: 2026-03-29T21:53:56.508-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/legendary-group
@@ -21,7 +21,7 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 On initiative count 20 (losing initiative ties), the anarch can take one of the following lair actions; the anarch can't take the same lair action two rounds in a row:
 
-- **Create Object.** The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, the anarch's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) breaks.
+- **Create Object.** The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, the anarch's [concentration](/Mechanics/CLI/conditions.md#Concentration) breaks.
 - **Move Object.** The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.
 - **Psionic Bolt.** The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.
 

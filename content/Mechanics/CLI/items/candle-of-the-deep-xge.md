@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Candle of the Deep
-created: 2026-03-09T12:15:34.122-04:00
-modified: 2026-03-09T12:15:34.122-04:00
-published: 2026-03-09T12:15:34.122-04:00
+created: 2026-03-29T21:53:56.163-04:00
+modified: 2026-03-29T21:53:56.163-04:00
+published: 2026-03-29T21:53:56.163-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/rarity/common
@@ -18,6 +18,11 @@ obsidianUIMode: preview
 
 _Wondrous item, minor, common_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 The flame of this candle is not extinguished when immersed in water. It gives off light and heat like a normal candle.
 
-_Source: Xanathar's Guide to Everything p. 136_
+## Sources
+
+_Xanathar's Guide to Everything p. 136_

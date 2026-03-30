@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Female Steeder
-created: 2026-03-09T12:15:34.135-04:00
-modified: 2026-03-09T12:15:34.135-04:00
-published: 2026-03-09T12:15:34.135-04:00
+created: 2026-03-29T21:53:56.183-04:00
+modified: 2026-03-29T21:53:56.183-04:00
+published: 2026-03-29T21:53:56.183-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Female Steeder (MPMM)
+ac: 14
+hp: 30
+modifier: 3
+hit_dice: 4d10 + 8
+cr: "1"
+stats:
+  - 15
+  - 16
+  - 14
+  - 2
+  - 10
+  - 3
+source:
+  - MPMM
 ---
 
 # Female Steeder
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 231_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/female-steeder.webp#right)
 
 ## Steeders
@@ -37,11 +53,11 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 
 ```ad-statblock
 title: Female Steeder
-![](Mechanics/CLI/bestiary/monstrosity/token/female-steeder-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/female-steeder-mpmm.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 30 (`4d10 + 8`) 
+- **Hit Points** 30 (4d10 + 8) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,8 +66,8 @@ title: Female Steeder
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 14
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +7, [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Languages** —
 - **Challenge** 1
 
@@ -65,7 +81,7 @@ title: Female Steeder
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage plus 9 (`2d8`) poison damage.
 
-***Sticky Leg.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The target is stuck to the steeder's leg and [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 12). The steeder can have only one creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) at a time.
+***Sticky Leg.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The target is stuck to the steeder's leg and [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 12). The steeder can have only one creature [grappled](/Mechanics/CLI/conditions.md#Grappled) at a time.
 ```
 
 ^statblock
@@ -73,3 +89,7 @@ title: Female Steeder
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 231_

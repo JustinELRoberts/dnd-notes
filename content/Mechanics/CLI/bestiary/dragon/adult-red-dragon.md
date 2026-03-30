@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Red Dragon
-created: 2026-03-09T12:15:33.864-04:00
-modified: 2026-03-09T12:15:33.864-04:00
-published: 2026-03-09T12:15:33.864-04:00
+created: 2026-03-29T21:53:55.652-04:00
+modified: 2026-03-29T21:53:55.652-04:00
+published: 2026-03-29T21:53:55.652-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/17
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Red Dragon
+ac: 19
+hp: 256
+modifier: 0
+hit_dice: 19d12 + 133
+cr: "17"
+stats:
+  - 27
+  - 10
+  - 25
+  - 16
+  - 13
+  - 21
+source:
+  - MM
 ---
 
 # Adult Red Dragon
 
-_Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/dragon/img/adult-red-dragon.webp#right)
-
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 
 The scales of a red dragon wyrmling are a bright glossy scarlet, turning a dull, deeper red and becoming as thick and strong as metal as the dragon ages. Its pupils also fade as it ages, and the oldest red dragons have eyes that resemble molten lava orbs.
@@ -104,11 +119,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Adult Red Dragon
-![](Mechanics/CLI/bestiary/dragon/token/adult-red-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/adult-red-dragon.webp#token)
 *Huge dragon, Chaotic Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 256 (`19d12 + 133`) 
+- **Hit Points** 256 (19d12 + 133) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -117,8 +132,8 @@ title: Adult Red Dragon
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Constitution +13, Wisdom +7, Charisma +11
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +13, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 23
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +13, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 23
 - **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 17
@@ -137,7 +152,7 @@ title: Adult Red Dragon
 
 ***Tail.*** *Melee Weapon Attack:* `+14` to hit, reach 15 ft., one target. *Hit:* 17 (`2d8 + 8`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 ***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (`18d6`) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -145,23 +160,23 @@ title: Adult Red Dragon
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dragon makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dragon makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dragon can then fly up to half its flying speed.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 
 - Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (`6d6`) fire damage on a failed save, or half as much damage on a successful one.  
-- A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
-- Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the end of its turn. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, a creature is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).  
+- A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
+- Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the end of its turn. While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way, a creature is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).  
 
-**Additional Lair Actions.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-red-dragon.md)) red dragon can use one or both of the following additional lair actions while in its lair:
+**Additional Lair Actions.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-red-dragon.md)) red dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Noxious Smoke.** A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is heavily obscured. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a DC 15 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the end of its turn. The cloud lasts until initiative count 20 on the next round.  
+- **Noxious Smoke.** A cloud of thick, dark smoke fills a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is heavily obscured. A creature other than the dragon that starts its turn in the cloud or enters it for the first time on its turn must succeed on a DC 15 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the end of its turn. The cloud lasts until initiative count 20 on the next round.  
 - **Searing Heat.** Searing heat spreads out in a 15-foot-radius sphere centered on a point the dragon can see within 120 feet of it. Any creature that enters the affected area or starts its turn there must make a DC 15 Constitution saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one. The heat lasts until initiative count 20 on the next round.  
 
 ## Regional Effects
@@ -186,3 +201,7 @@ If the dragon dies, these effects fade over the course of `1d10` days.
 ## Environment
 
 mountain, hill
+
+## Sources
+
+_Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

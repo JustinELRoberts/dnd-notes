@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Crocodile
-created: 2026-03-09T12:15:33.948-04:00
-modified: 2026-03-09T12:15:33.948-04:00
-published: 2026-03-09T12:15:33.948-04:00
+created: 2026-03-29T21:53:55.950-04:00
+modified: 2026-03-29T21:53:55.950-04:00
+published: 2026-03-29T21:53:55.950-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-2
@@ -16,16 +16,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Crocodile (XMM)
+ac: 12
+hp: 13
+modifier: 0
+hit_dice: 2d10 + 2
+cr: 1/2
+stats:
+  - 15
+  - 10
+  - 13
+  - 2
+  - 10
+  - 5
+source:
+  - XMM
+  - XPHB
 ---
 
 # Crocodile
 
-_Source: Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/crocodile.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -34,11 +51,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Crocodile
-![](Mechanics/CLI/bestiary/beast/token/crocodile-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/crocodile-xmm.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 13 (`2d10 + 2`) 
+- **Hit Points** 13 (2d10 + 2) 
 - **Speed** 20 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,7 +64,7 @@ title: Crocodile
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +3
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
 - **Senses** passive Perception 10
 - **Languages** —
 - **Challenge** 1/2
@@ -58,7 +75,7 @@ title: Crocodile
 
 ## Actions
 
-***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage. If the target is a Medium or smaller creature, it has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC 12). While [Grappled](Mechanics/CLI/rules/conditions.md#Grappled), the target has the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition.
+***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage. If the target is a Medium or smaller creature, it has the [Grappled](/Mechanics/CLI/conditions.md#Grappled) condition (escape DC 12). While [Grappled](/Mechanics/CLI/conditions.md#Grappled), the target has the [Restrained](/Mechanics/CLI/conditions.md#Restrained) condition.
 ```
 
 ^statblock
@@ -66,3 +83,7 @@ title: Crocodile
 ## Environment
 
 coastal, swamp, urban
+
+## Sources
+
+_Monster Manual (2024) p. 352, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

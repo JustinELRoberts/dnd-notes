@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wintercarvers' Guild
-created: 2026-03-09T12:15:34.009-04:00
-modified: 2026-03-09T12:15:34.009-04:00
-published: 2026-03-09T12:15:34.009-04:00
+created: 2026-03-29T21:53:56.016-04:00
+modified: 2026-03-29T21:53:56.016-04:00
+published: 2026-03-29T21:53:56.016-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/craftsman/wintercarvers
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Wintercarvers' Guild
 
-_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,9 +56,9 @@ Many Craftsmen are accustomed to extreme cold, but only a few have learned the e
 
 ### Winter Core (Level 3)
 
-You have a freezing core that continuously draws heat from its surroundings. If your core is ever lost or damaged, you can repair or replace it over the course of a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) using materials worth 100+ GP. While you are carrying your core, you gain the following benefits.
+You have a freezing core that continuously draws heat from its surroundings. If your core is ever lost or damaged, you can repair or replace it over the course of a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) using materials worth 100+ GP. While you are carrying your core, you gain the following benefits.
 
-**Cold Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Cold damage.
+**Cold Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold damage.
 
 **Frozen Weapons.** When you deal damage with a weapon, it can deal your choice of Cold damage or its normal damage type.
 
@@ -67,28 +66,32 @@ You have a freezing core that continuously draws heat from its surroundings. If 
 
 ### Ice Sculpting (Level 3)
 
-While you're holding your Winter Core, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to create a Medium or smaller object that can fit within a 5-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md). The item is made entirely from ice, has 13 AC and 20 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). After 10 minutes, the item melts.
+While you're holding your Winter Core, you can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to create a Medium or smaller object that can fit within a 5-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md). The item is made entirely from ice, has 13 AC and 20 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). After 10 minutes, the item melts.
 
 **Ice Weapon.** If you create a weapon made from ice, it deals Cold damage instead of its normal damage type. The weapon is Masterwork and you can instantly use Customize Weapon to change its mastery property or give it a second one without material costs. When you reach Craftsman level 11, you can also apply the Elemental Weapon Enchantment (Cold damage only) to an ice weapon when you create it.
 
 ### Frigid Armory (Level 6)
 
-Using your Customize Weapon, you can add the [Numb](Mechanics/CLI/optional-features/numb-valdaspire24.md) property to any weapon, even one that doesn't deal Cold damage. Additionally, when you use the Numb property, you can also use one of the following properties if the weapon also possesses it: [Sap](Mechanics/CLI/rules/item-mastery.md#Sap), [Slow](Mechanics/CLI/rules/item-mastery.md#Slow), or [Topple](Mechanics/CLI/rules/item-mastery.md#Topple).
+Using your Customize Weapon, you can add the [Numb](/Mechanics/CLI/optional-features/numb-valdaspire24.md) property to any weapon, even one that doesn't deal Cold damage. Additionally, when you use the Numb property, you can also use one of the following properties if the weapon also possesses it: [Sap](/Mechanics/CLI/item-mastery.md#Sap), [Slow](/Mechanics/CLI/item-mastery.md#Slow), or [Topple](/Mechanics/CLI/item-mastery.md#Topple).
 
 ### Glacial Barricade (Level 10)
 
-When you take damage while you're wearing Masterwork armor, you take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to coat yourself with ice. Until the start of your next turn, your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase and you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage, including the triggering damage.
+When you take damage while you're wearing Masterwork armor, you take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to coat yourself with ice. Until the start of your next turn, your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is 0 and can't increase and you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage, including the triggering damage.
 
-You can use this feature a number of times equal to your Masterwork Bonus. You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Masterwork Bonus. You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Sub-Zero (Level 14)
 
 Your Winter Core supercools your weapons, improving the following mastery properties when you use them.
 
-**Numb.** The target can't take [Bonus Actions](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) until the start of your next turn.
+**Numb.** The target can't take [Bonus Actions](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) until the start of your next turn.
 
-**Sap.** The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on its next [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), instead of only its next attack roll.
+**Sap.** The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on its next [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), instead of only its next attack roll.
 
-**Slow.** The target's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is reduced by 20 feet instead of 10.
+**Slow.** The target's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is reduced by 20 feet instead of 10.
 
-**Topple.** Thet target has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition without making a saving throw if it is Large or smaller.
+**Topple.** Thet target has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition without making a saving throw if it is Large or smaller.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

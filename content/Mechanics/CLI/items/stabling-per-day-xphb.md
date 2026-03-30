@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stabling (per day)
-created: 2026-03-09T12:15:33.803-04:00
-modified: 2026-03-09T12:15:33.803-04:00
-published: 2026-03-09T12:15:33.803-04:00
+created: 2026-03-29T21:53:55.587-04:00
+modified: 2026-03-29T21:53:55.587-04:00
+published: 2026-03-29T21:53:55.587-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/tack-and-harness
@@ -19,5 +19,8 @@ obsidianUIMode: preview
 _Tack and harness_
 
 - **Cost**: 5 cp
+- **Weight**: ⏤
 
-_Source: Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

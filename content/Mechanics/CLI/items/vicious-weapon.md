@@ -85,9 +85,9 @@ aliases:
   - Vicious Warhammer
   - Vicious Whip
   - Vicious Yklwa
-created: 2026-03-09T12:15:33.966-04:00
-modified: 2026-03-09T12:15:33.966-04:00
-published: 2026-03-09T12:15:33.966-04:00
+created: 2026-03-29T21:53:55.970-04:00
+modified: 2026-03-29T21:53:55.970-04:00
+published: 2026-03-29T21:53:55.970-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/futuristic
@@ -110,12 +110,15 @@ obsidianUIMode: preview
 _Major, rare_\
 ![Vicious Weapon (Rapier)](Mechanics/CLI/items/img/vicious-weapon.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 When you roll a 20 with this magic weapon, the target takes an extra 7 damage of the weapon's type.
 
 > [!note]
 > Note: According to the SRD, it is an extra `2d6` damage, although this is incorrect (https://rpg.stackexchange.com/a/174522/53884).
 
-**Variants**:
+## Variants
 
 - [Vicious Antimatter Rifle](#Vicious%20Antimatter%20Rifle)
 - [Vicious Atlatl](#Vicious%20Atlatl)
@@ -205,35 +208,35 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Atlatl
 
 - **Damage**: 1d8 piercing
 - **Range**: 60/240
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Automatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Burst Fire](Mechanics/CLI/rules/item-properties.md#Burst%20Fire), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Ballista
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 40.0 lbs.
 
 ### Vicious Bastard Sword
@@ -241,7 +244,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Battleaxe
@@ -249,86 +252,86 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Bomb
 
 - **Damage**: 1d10 fire
 - **Range**: 30/90
-- **Properties**: [Destructible](Mechanics/CLI/rules/item-properties.md#Destructible), [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Destructible](/Mechanics/CLI/item-properties.md#Destructible), [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Boomerang
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 60/180
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Vicious Cestus
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Claw Gauntlet
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Cutlass
 
 - **Damage**: 1d8 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Vicious Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Edged Card
 
 - **Damage**: 1d4 slashing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 
 ### Vicious Estoc
 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Fishhook
@@ -336,7 +339,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Flail
@@ -347,32 +350,32 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 ### Vicious Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Vicious Greatbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Grim Scythe
@@ -380,34 +383,34 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d6 slashing
   - Two-handed: 1d8 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Loading](Mechanics/CLI/rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Light](/Mechanics/CLI/item-properties.md#Light), [Loading](/Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Vicious Hooked Hammer
@@ -415,34 +418,34 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Katana
@@ -450,7 +453,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Khopesh
@@ -458,55 +461,55 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Lance
 
 - **Damage**: 1d12 piercing
-- **Properties**: [Reach](Mechanics/CLI/rules/item-properties.md#Reach), special
+- **Properties**: [Reach](/Mechanics/CLI/item-properties.md#Reach), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Vicious Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Vicious Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Vicious Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Vicious Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Longsword
@@ -514,7 +517,7 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Mace
@@ -530,13 +533,13 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 ### Vicious Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Meteor Chain
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious Morningstar
@@ -548,50 +551,50 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Naginata
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Vicious Nunchaku
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Parrying Dagger
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Pickaxe
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### Vicious Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### Vicious Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Punching Dagger
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Quarterstaff
@@ -599,39 +602,39 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 20.0 lbs.
 
 ### Vicious Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Sai
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Scorpion on a Stick
@@ -648,39 +651,39 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### Vicious Shovel
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### Vicious Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition)
 
 ### Vicious Spear
 
@@ -688,26 +691,26 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Spiked Chain
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 15.0 lbs.
 
 ### Vicious Throwing Dagger
 
 - **Damage**: 1d4 slashing
 - **Range**: 30/120
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Tonfa
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 1.0 lbs.
 
 ### Vicious Trident
@@ -716,14 +719,14 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### Vicious Volley Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### Vicious War Pick
@@ -736,20 +739,22 @@ When you roll a 20 with this magic weapon, the target takes an extra 7 damage of
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### Vicious Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Reach](Mechanics/CLI/rules/item-properties.md#Reach)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Reach](/Mechanics/CLI/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### Vicious Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
-_Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -10,9 +10,9 @@ aliases:
   - +1 Modern Bullet
   - +1 Renaissance Bullet
   - +1 Sling Bullet
-created: 2026-03-09T12:15:34.062-04:00
-modified: 2026-03-09T12:15:34.062-04:00
-published: 2026-03-09T12:15:34.062-04:00
+created: 2026-03-29T21:53:56.082-04:00
+modified: 2026-03-29T21:53:56.082-04:00
+published: 2026-03-29T21:53:56.082-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/futuristic
@@ -32,9 +32,12 @@ obsidianUIMode: preview
 
 _Ammunition, minor, uncommon_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
-**Variants**:
+## Variants
 
 - [+1 Arrow](#+1%20Arrow)
 - [+1 Blowgun Needle](#+1%20Blowgun%20Needle)
@@ -77,4 +80,6 @@ You have a +1 bonus to attack and damage rolls made with this piece of magic amm
 
 - **Weight**: 0.075 lbs.
 
-_Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

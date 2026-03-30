@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ear Horn of Hearing
-created: 2026-03-09T12:15:34.010-04:00
-modified: 2026-03-09T12:15:34.010-04:00
-published: 2026-03-09T12:15:34.010-04:00
+created: 2026-03-29T21:53:56.017-04:00
+modified: 2026-03-29T21:53:56.017-04:00
+published: 2026-03-29T21:53:56.017-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/rarity/common
@@ -18,6 +18,11 @@ obsidianUIMode: preview
 
 _Wondrous item, minor, common_
 
-While held up to your ear, this horn suppresses the effects of the [deafened](Mechanics/CLI/rules/conditions.md#Deafened) condition on you, allowing you to hear normally.
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-_Source: Xanathar's Guide to Everything p. 137_
+While held up to your ear, this horn suppresses the effects of the [deafened](/Mechanics/CLI/conditions.md#Deafened) condition on you, allowing you to hear normally.
+
+## Sources
+
+_Xanathar's Guide to Everything p. 137_

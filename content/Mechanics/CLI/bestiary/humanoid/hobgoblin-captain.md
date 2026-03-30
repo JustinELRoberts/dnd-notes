@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hobgoblin Captain
-created: 2026-03-09T12:15:34.107-04:00
-modified: 2026-03-09T12:15:34.107-04:00
-published: 2026-03-09T12:15:34.107-04:00
+created: 2026-03-29T21:53:56.142-04:00
+modified: 2026-03-29T21:53:56.142-04:00
+published: 2026-03-29T21:53:56.142-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hobgoblin Captain
+ac: 17
+hp: 39
+modifier: 2
+hit_dice: 6d8 + 12
+cr: "3"
+stats:
+  - 15
+  - 14
+  - 14
+  - 12
+  - 10
+  - 13
+source:
+  - MM
 ---
 
 # Hobgoblin Captain
 
-_Source: Monster Manual p. 186_\
 ![](Mechanics/CLI/bestiary/humanoid/img/hobgoblin.webp#right)
-
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
@@ -85,11 +100,11 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ```ad-statblock
 title: Hobgoblin Captain
-![](Mechanics/CLI/bestiary/humanoid/token/hobgoblin-captain.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/hobgoblin-captain.webp#token)
 *Medium humanoid (goblinoid), Lawful Evil*
 
-- **Armor Class** 17 ([half plate armor](Mechanics/CLI/items/half-plate-armor-xphb.md))
-- **Hit Points** 39 (`6d8 + 12`) 
+- **Armor Class** 17 ([half plate armor](/Mechanics/CLI/items/half-plate-armor.md))
+- **Hit Points** 39 (6d8 + 12) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -99,14 +114,13 @@ title: Hobgoblin Captain
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md), [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 3
 
 ## Traits
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (`3d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 10 (`3d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -116,7 +130,7 @@ title: Hobgoblin Captain
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+4` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 
-***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the hobgoblin can utter a special command or warning whenever a nonhostile creature that it can see within 30 feet of it makes an attack roll or a saving throw. The creature can add a `d4` to its roll provided it can hear and understand the hobgoblin. A creature can benefit from only one Leadership die at a time. This effect ends if the hobgoblin is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 ```
 
 ^statblock
@@ -124,3 +138,7 @@ title: Hobgoblin Captain
 ## Environment
 
 underdark, grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 186_

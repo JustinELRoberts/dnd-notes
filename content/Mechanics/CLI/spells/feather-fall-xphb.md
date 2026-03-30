@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Feather Fall
-created: 2026-03-09T12:15:34.045-04:00
-modified: 2026-03-09T12:15:34.045-04:00
-published: 2026-03-09T12:15:34.045-04:00
+created: 2026-03-29T21:53:56.056-04:00
+modified: 2026-03-29T21:53:56.056-04:00
+published: 2026-03-29T21:53:56.056-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/artificer
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/aberrant-dragonmark
@@ -30,19 +31,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Martyr (Burden of Odyssey)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warmage (House of Bishops)
-  - Warmage (House of Rooks)
-  - Witch (Sky Magic)
-  - Wizard
 ---
 
 # Feather Fall
@@ -56,6 +44,30 @@ _1st-level, Transmutation_
 
 Choose up to five falling creatures within range. A falling creature's rate of descent slows to 60 feet per round until the spell ends. If a creature lands before the spell ends, the creature takes no damage from the fall, and the spell ends for that creature.
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Odyssey)](Mechanics/CLI/lists/list-spells-classes-burden-of-odyssey-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Rooks)](Mechanics/CLI/lists/list-spells-classes-house-of-rooks-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Sky Magic)](Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Aberrant Dragonmark](/Mechanics/CLI/lists/list-spells-feats-aberrant-dragonmark-efa.md)
+- [Witch (Sky Magic)](/Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Mark of Storm](/Mechanics/CLI/lists/list-spells-feats-mark-of-storm-efa.md)
+- [Magic Initiate (Wizard Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Warmage (House of Rooks)](/Mechanics/CLI/lists/list-spells-classes-house-of-rooks-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Genasi (Air)](/Mechanics/CLI/lists/list-spells-races-genasi-air-mpmm.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Artificer Initiate](/Mechanics/CLI/lists/list-spells-feats-artificer-initiate-tce.md)
+- [Martyr (Burden of Odyssey)](/Mechanics/CLI/lists/list-spells-classes-burden-of-odyssey-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 271. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

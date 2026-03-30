@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Séance
-created: 2026-03-09T12:15:33.908-04:00
-modified: 2026-03-09T12:15:33.908-04:00
-published: 2026-03-09T12:15:33.908-04:00
+created: 2026-03-29T21:53:55.909-04:00
+modified: 2026-03-29T21:53:55.910-04:00
+published: 2026-03-29T21:53:55.910-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/investigator
   - ttrpg-cli/spell/class/necromancer
   - ttrpg-cli/spell/class/witch
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Investigator
-  - Necromancer
-  - Witch
 ---
 
 # Séance
@@ -34,6 +31,13 @@ You and three or more willing creatures lock hands to conjure a spirit from the 
 
 Until the spell ends, you can ask up to three questions of the specter. The specter knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the specter is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy. There is a 5 percent chance that this spell contacts the wrong spirit, one which will answer questions untruthfully or ambiguously.
 
-**Classes**: [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Necromancer](/Mechanics/CLI/lists/list-spells-classes-necromancer.md)
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Investigator](/Mechanics/CLI/lists/list-spells-classes-investigator.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

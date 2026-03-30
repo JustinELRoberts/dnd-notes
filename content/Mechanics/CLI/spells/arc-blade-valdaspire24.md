@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Arc Blade
-created: 2026-03-09T12:15:33.881-04:00
-modified: 2026-03-09T12:15:33.881-04:00
-published: 2026-03-09T12:15:33.881-04:00
+created: 2026-03-29T21:53:55.674-04:00
+modified: 2026-03-29T21:53:55.674-04:00
+published: 2026-03-29T21:53:55.674-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warmage
   - ttrpg-cli/spell/level/cantrip
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -14,8 +15,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Warmage
 ---
 
 # Arc Blade
@@ -31,6 +30,12 @@ As lightning surges through the weapon used in the spell's casting, you make one
 
 **Cantrip Upgrade.** Whether you deal Lightning damage or the weapon's normal damage type, the attack deals extra Lightning damage when you reach levels 5 (`1d6`), 11 (`2d6`), and 17 (`3d6`).
 
-**Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Warmage](/Mechanics/CLI/lists/list-spells-classes-warmage.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

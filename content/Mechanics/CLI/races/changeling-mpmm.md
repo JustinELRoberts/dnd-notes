@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Changeling
-created: 2026-03-09T12:15:33.771-04:00
-modified: 2026-03-09T12:15:33.771-04:00
-published: 2026-03-09T12:15:33.771-04:00
+created: 2026-03-29T21:53:55.554-04:00
+modified: 2026-03-29T21:53:55.554-04:00
+published: 2026-03-29T21:53:55.554-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/changeling
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Changeling
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 10_\
 ![](Mechanics/CLI/races/img/changeling.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -35,7 +34,7 @@ You are Medium or Small. You choose the size when you select this race.
 
 ### Changeling Instincts
 
-Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: [Deception](Mechanics/CLI/rules/skills.md#Deception), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Performance](Mechanics/CLI/rules/skills.md#Performance), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion).
+Thanks to your connection to the fey realm, you gain proficiency with two of the following skills of your choice: [Deception](/Mechanics/CLI/skills.md#Deception), [Insight](/Mechanics/CLI/skills.md#Insight), [Intimidation](/Mechanics/CLI/skills.md#Intimidation), [Performance](/Mechanics/CLI/skills.md#Performance), or [Persuasion](/Mechanics/CLI/skills.md#Persuasion).
 
 ### Shapechanger
 
@@ -52,3 +51,7 @@ The first changelings in the multiverse appeared in the Feywild, and the wondrou
 In their true form, changelings appear faded, their features almost devoid of detail. It is rare to see a changeling in that form, for a typical changeling changes their shape the way others might change clothes. A casual shape—one created on the spur of the moment, with no depth or history—is called a mask. A mask can be used to express a mood or to serve a specific purpose and then might never be used again. However, many changelings develop identities that have more depth, crafting whole personas complete with histories and beliefs. A changeling adventurer might have personas for many situations, including negotiation, investigation, and combat.
 
 Personas can be shared by multiple changelings; a community might be home to three healer changelings, with whoever is on duty adopting the persona of Andrea, the gentle physician. Personas can even be passed down through a family, allowing a younger changeling to take advantage of contacts established by the persona's previous users.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 10_

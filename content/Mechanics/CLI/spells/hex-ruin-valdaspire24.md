@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - "Hex: Ruin"
-created: 2026-03-09T12:15:33.994-04:00
-modified: 2026-03-09T12:15:33.994-04:00
-published: 2026-03-09T12:15:33.994-04:00
+created: 2026-03-29T21:53:56.004-04:00
+modified: 2026-03-29T21:53:56.005-04:00
+published: 2026-03-29T21:53:56.005-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/witch
   - ttrpg-cli/spell/level/cantrip
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -15,9 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Cleric (Death Domain)
-  - Witch
 ---
 
 # Hex: Ruin
@@ -33,6 +31,14 @@ One creature you can see within range makes a Constitution saving throw. On a fa
 
 **Cantrip Upgrade.** The penalty to AC increases by 1 when you reach levels 5 (-3), 11 (-4), and 17 (-5).
 
-**Classes**: [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG")
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

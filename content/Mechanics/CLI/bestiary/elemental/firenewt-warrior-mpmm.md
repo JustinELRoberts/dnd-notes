@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Firenewt Warrior
-created: 2026-03-09T12:15:33.955-04:00
-modified: 2026-03-09T12:15:33.955-04:00
-published: 2026-03-09T12:15:33.955-04:00
+created: 2026-03-29T21:53:55.958-04:00
+modified: 2026-03-29T21:53:55.958-04:00
+published: 2026-03-29T21:53:55.958-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Firenewt Warrior (MPMM)
+ac: 13
+hp: 27
+modifier: 1
+hit_dice: 5d8 + 5
+cr: 1/2
+stats:
+  - 10
+  - 13
+  - 12
+  - 7
+  - 11
+  - 8
+source:
+  - MPMM
+  - VGM
 ---
 
 # Firenewt Warrior
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142_\
 ![](Mechanics/CLI/bestiary/elemental/img/firenewt-warrior.webp#right)
-
 A firenewt warrior can spew fire. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
 
 ## Firenewts
@@ -34,11 +50,11 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 
 ```ad-statblock
 title: Firenewt Warrior
-![](Mechanics/CLI/bestiary/elemental/token/firenewt-warrior-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/firenewt-warrior-mpmm.webp#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 13 ([shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 27 (`5d8 + 5`) 
+- **Armor Class** 13 ([shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 27 (5d8 + 5) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,7 +66,6 @@ title: Firenewt Warrior
 - **Skills** ⏤
 - **Senses** passive Perception 10
 - **Damage Immunities** fire
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
 - **Languages** Draconic, Ignan
 - **Challenge** 1/2
 
@@ -72,3 +87,7 @@ title: Firenewt Warrior
 ## Environment
 
 desert, hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142_

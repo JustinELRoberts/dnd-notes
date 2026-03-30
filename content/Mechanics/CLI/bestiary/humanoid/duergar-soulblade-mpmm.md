@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Soulblade
-created: 2026-03-09T12:15:33.837-04:00
-modified: 2026-03-09T12:15:33.837-04:00
-published: 2026-03-09T12:15:33.837-04:00
+created: 2026-03-29T21:53:55.622-04:00
+modified: 2026-03-29T21:53:55.622-04:00
+published: 2026-03-29T21:53:55.622-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Soulblade (MPMM)
+ac: 14
+hp: 27
+modifier: 3
+hit_dice: 6d8
+cr: "1"
+stats:
+  - 16
+  - 16
+  - 10
+  - 11
+  - 10
+  - 12
+source:
+  - MPMM
 ---
 
 # Duergar Soulblade
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 109_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar-soulblade.webp#right)
-
 Soulblades are duergar combatants whose mastery of psionics allows them to manifest blades of psychic energy to slice apart their foes.
 
 ## Duergar
@@ -48,11 +63,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Soulblade
-![](Mechanics/CLI/bestiary/humanoid/token/duergar-soulblade-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar-soulblade-mpmm.webp#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 14 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 27 (`6d8`) 
+- **Armor Class** 14 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 27 (6d8) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,22 +77,22 @@ title: Duergar Soulblade
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** poison
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 1
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
 ***Soulblade.*** *Melee Spell Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) force damage, or 13 (`3d6 + 3`) force damage while under the effect of Enlarge.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 
 ## Bonus Actions
 
@@ -89,3 +104,7 @@ title: Duergar Soulblade
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 109_

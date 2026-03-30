@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Flumph
-created: 2026-03-09T12:15:34.083-04:00
-modified: 2026-03-09T12:15:34.083-04:00
-published: 2026-03-09T12:15:34.083-04:00
+created: 2026-03-29T21:53:56.114-04:00
+modified: 2026-03-29T21:53:56.114-04:00
+published: 2026-03-29T21:53:56.114-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Flumph
+ac: 12
+hp: 7
+modifier: 2
+hit_dice: 2d6
+cr: 1/8
+stats:
+  - 6
+  - 15
+  - 10
+  - 14
+  - 14
+  - 11
+source:
+  - MM
 ---
 
 # Flumph
 
-_Source: Monster Manual p. 135_\
 ![](Mechanics/CLI/bestiary/aberration/img/flumph.webp#right)
-
 The mysterious flumphs drift through the Underdark, propelled through the air by the jets whose sound gives them their name. A flumph glows faintly, reflecting its moods in its color. Soft pink means it is amused, deep blue is sadness, green expresses curiosity, and crimson is anger.
 
 ## Intelligent and Wise
@@ -43,11 +58,11 @@ Flumphs live in complex and organized groups called cloisters, within which each
 
 ```ad-statblock
 title: Flumph
-![](Mechanics/CLI/bestiary/aberration/token/flumph.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/flumph.webp#token)
 *Small aberration, Lawful Good*
 
 - **Armor Class** 12 
-- **Hit Points** 7 (`2d6`) 
+- **Hit Points** 7 (2d6) 
 - **Speed** 5 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,25 +71,25 @@ title: Flumph
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +4, [History](Mechanics/CLI/rules/skills.md#History) +4, [Religion](Mechanics/CLI/rules/skills.md#Religion) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +4, [History](/Mechanics/CLI/skills.md#History) +4, [Religion](/Mechanics/CLI/skills.md#Religion) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Vulnerabilities** psychic
 - **Languages** understands Undercommon but can't speak, telepathy 60 ft.
 - **Challenge** 1/8
 
 ## Traits
 
-***Advanced Telepathy.*** The flumph can perceive the content of any telepathic communication used within 60 feet of it, and it can't be [surprised](Mechanics/CLI/rules/conditions.md#Surprised) by creatures with any form of telepathy.
+***Advanced Telepathy.*** The flumph can perceive the content of any telepathic communication used within 60 feet of it, and it can't be [surprised](/Mechanics/CLI/conditions.md#Surprised) by creatures with any form of telepathy.
 
-***Prone Deficiency.*** If the flumph is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone), roll a die. On an odd result, the flumph lands upside-down and is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). At the end of each of its turns, the flumph can make a DC 10 Dexterity saving throw, righting itself and ending the [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition if it succeeds.
+***Prone Deficiency.*** If the flumph is knocked [prone](/Mechanics/CLI/conditions.md#Prone), roll a die. On an odd result, the flumph lands upside-down and is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). At the end of each of its turns, the flumph can make a DC 10 Dexterity saving throw, righting itself and ending the [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition if it succeeds.
 
 ***Telepathic Shroud.*** The flumph is immune to any effect that would sense its emotions or read its thoughts, as well as all divination spells.
 
 ## Actions
 
-***Tendrils.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage plus 2 (`1d4`) acid damage. At the end of each of its turns, the target must make a DC 10 Constitution saving throw, taking 2 (`1d4`) acid damage on a failure or ending the recurring acid damage on a success. A [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) spell cast on the target also ends the recurring acid damage.
+***Tendrils.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage plus 2 (`1d4`) acid damage. At the end of each of its turns, the target must make a DC 10 Constitution saving throw, taking 2 (`1d4`) acid damage on a failure or ending the recurring acid damage on a success. A [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md) spell cast on the target also ends the recurring acid damage.
 
-***Stench Spray (1/Day).*** Each creature in a 15-foot cone originating from the flumph must succeed on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A coated creature exudes a horrible stench for `1d4` hours. The coated creature is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) as long as the stench lasts, and other creatures are [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) while with in 5 feet of the coated creature. A creature can remove the stench on itself by using a short rest to bathe in water, alcohol, or vinegar.
+***Stench Spray (1/Day).*** Each creature in a 15-foot cone originating from the flumph must succeed on a DC 10 Dexterity saving throw or be coated in a foul-smelling liquid. A coated creature exudes a horrible stench for `1d4` hours. The coated creature is [poisoned](/Mechanics/CLI/conditions.md#Poisoned) as long as the stench lasts, and other creatures are [poisoned](/Mechanics/CLI/conditions.md#Poisoned) while with in 5 feet of the coated creature. A creature can remove the stench on itself by using a short rest to bathe in water, alcohol, or vinegar.
 ```
 
 ^statblock
@@ -82,3 +97,7 @@ title: Flumph
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 135_

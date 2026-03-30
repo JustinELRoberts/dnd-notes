@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Wind Wall
-created: 2026-03-09T12:15:33.837-04:00
-modified: 2026-03-09T12:15:33.837-04:00
-published: 2026-03-09T12:15:33.837-04:00
+created: 2026-03-29T21:53:55.622-04:00
+modified: 2026-03-29T21:53:55.622-04:00
+published: 2026-03-29T21:53:55.622-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/feat/mark-of-storm
@@ -16,18 +17,11 @@ tags:
   - ttrpg-cli/spell/subclass/artillerist
   - ttrpg-cli/spell/subclass/burden-of-calamity
   - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/nature-domain
   - ttrpg-cli/spell/subclass/the-genie/djinni
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Martyr (Burden of Calamity)
-  - Ranger
-  - Warlock (The Genie, Djinni)
 ---
 
 # Wind Wall
@@ -43,8 +37,24 @@ A wall of strong wind rises from the ground at a point you choose within range. 
 
 When the wall appears, each creature in its area makes a Strength saving throw, taking `4d8` Bludgeoning damage on a failed save or half as much damage on a successful one.
 
-The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md) can't pass through it.
+The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md) can't pass through it.
 
-**Classes**: [Artificer (Artillerist)](Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Calamity)](Mechanics/CLI/lists/list-spells-classes-burden-of-calamity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warlock (The Genie, Djinni)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Artificer (Artillerist)](/Mechanics/CLI/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE")
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md)
+- [Artificer (Artillerist)](/Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA")
+- [Mark of Storm](/Mechanics/CLI/lists/list-spells-feats-mark-of-storm-efa.md)
+- [Martyr (Burden of Calamity)](/Mechanics/CLI/lists/list-spells-classes-burden-of-calamity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock (The Genie, Djinni)](/Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock (The Genie, Djinni)](/Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

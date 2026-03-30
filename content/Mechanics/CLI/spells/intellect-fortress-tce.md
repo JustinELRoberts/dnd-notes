@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Intellect Fortress
-created: 2026-03-09T12:15:34.010-04:00
-modified: 2026-03-09T12:15:34.010-04:00
-published: 2026-03-09T12:15:34.010-04:00
+created: 2026-03-29T21:53:56.017-04:00
+modified: 2026-03-29T21:53:56.017-04:00
+published: 2026-03-29T21:53:56.017-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/spell/class/artificer
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -24,18 +25,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warlock
-  - Warmage (House of Bishops)
-  - Wizard
-  - Wizard (Abjurer)
 ---
 
 # Intellect Fortress
@@ -52,6 +41,24 @@ For the duration, you or one willing creature you can see within range has resis
 
 **At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Tasha's Cauldron of Everything p. 107_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Wizard (Abjurer)](/Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB")
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 107_

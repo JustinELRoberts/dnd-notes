@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Guard Drake (Black)
-created: 2026-03-09T12:15:33.801-04:00
-modified: 2026-03-09T12:15:33.801-04:00
-published: 2026-03-09T12:15:33.801-04:00
+created: 2026-03-29T21:53:55.585-04:00
+modified: 2026-03-29T21:53:55.585-04:00
+published: 2026-03-29T21:53:55.585-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -20,18 +20,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Guard Drake (Black) (MPMM)
+ac: 14
+hp: 52
+modifier: 0
+hit_dice: 7d8 + 21
+cr: "2"
+stats:
+  - 16
+  - 11
+  - 16
+  - 4
+  - 10
+  - 7
+source:
+  - MPMM
 ---
 
 # Guard Drake (Black)
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 151_
 
 ```ad-statblock
 title: Guard Drake (Black)
 *Medium dragon, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 52 (`7d8 + 21`) 
+- **Hit Points** 52 (7d8 + 21) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,8 +55,8 @@ title: Guard Drake (Black)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** acid
 - **Languages** understands Draconic but can't speak
 - **Challenge** 2
@@ -64,3 +79,7 @@ title: Guard Drake (Black)
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 151_

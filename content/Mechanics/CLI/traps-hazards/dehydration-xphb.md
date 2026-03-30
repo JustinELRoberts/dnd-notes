@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dehydration
-created: 2026-03-09T12:15:34.102-04:00
-modified: 2026-03-09T12:15:34.102-04:00
-published: 2026-03-09T12:15:34.102-04:00
+created: 2026-03-29T21:53:56.134-04:00
+modified: 2026-03-29T21:53:56.134-04:00
+published: 2026-03-29T21:53:56.134-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
 cssclasses:
@@ -16,7 +16,7 @@ obsidianUIMode: preview
 
 _Generic Hazard_
 
-A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level at the day's end. [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) caused by dehydration can't be removed until the creature drinks the full amount of water required for a day.
+A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) level at the day's end. [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) caused by dehydration can't be removed until the creature drinks the full amount of water required for a day.
 
 **Water Needs per Day**
 

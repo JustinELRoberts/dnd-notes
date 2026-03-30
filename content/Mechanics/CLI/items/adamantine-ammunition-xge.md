@@ -8,9 +8,9 @@ aliases:
   - Adamantine Grenade
   - Adamantine Needle
   - Adamantine Sling Bullet
-created: 2026-03-09T12:15:34.106-04:00
-modified: 2026-03-09T12:15:34.106-04:00
-published: 2026-03-09T12:15:34.106-04:00
+created: 2026-03-29T21:53:56.140-04:00
+modified: 2026-03-29T21:53:56.140-04:00
+published: 2026-03-29T21:53:56.140-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/gear/ammunition
@@ -26,11 +26,14 @@ obsidianUIMode: preview
 
 _Ammunition, minor_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Ammunition made of or coated with adamantine is unusually effective when used to break objects. Whenever a piece of adamantine ammunition hits an object, the hit is a critical hit.
 
 The adamantine version of ten pieces of ammunition costs 500 gp more than the normal version, whether the ammunition is made of the metal or coated with it.
 
-**Variants**:
+## Variants
 
 - [Adamantine Arrow](#Adamantine%20Arrow)
 - [Adamantine Bolt](#Adamantine%20Bolt)
@@ -63,4 +66,6 @@ The adamantine version of ten pieces of ammunition costs 500 gp more than the no
 
 - **Weight**: 0.075 lbs.
 
-_Source: Xanathar's Guide to Everything p. 78_
+## Sources
+
+_Xanathar's Guide to Everything p. 78_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fire Snake
-created: 2026-03-09T12:15:33.995-04:00
-modified: 2026-03-09T12:15:33.995-04:00
-published: 2026-03-09T12:15:33.995-04:00
+created: 2026-03-29T21:53:56.005-04:00
+modified: 2026-03-29T21:53:56.005-04:00
+published: 2026-03-29T21:53:56.005-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fire Snake
+ac: 14
+hp: 22
+modifier: 2
+hit_dice: 5d8
+cr: "1"
+stats:
+  - 12
+  - 14
+  - 11
+  - 7
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Fire Snake
 
-_Source: Monster Manual p. 265_\
 ![](Mechanics/CLI/bestiary/elemental/img/fire-snake.webp#right)
-
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
 Salamanders adore power, and they delight in setting fire to things. Outside their home plane, they play among the burning skeletons of charred trees as forest fires rage around them, or slither down the slopes of erupting volcanoes to linger in fire pits and magma floes.
@@ -53,11 +68,11 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 
 ```ad-statblock
 title: Fire Snake
-![](Mechanics/CLI/bestiary/elemental/token/fire-snake.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/fire-snake.webp#token)
 *Medium elemental, Neutral Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 22 (`5d8`) 
+- **Hit Points** 22 (5d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -67,7 +82,7 @@ title: Fire Snake
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Vulnerabilities** cold
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** fire
@@ -92,3 +107,7 @@ title: Fire Snake
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 265_

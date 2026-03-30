@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Androsphinx
-created: 2026-03-09T12:15:34.119-04:00
-modified: 2026-03-09T12:15:34.119-04:00
-published: 2026-03-09T12:15:34.119-04:00
+created: 2026-03-29T21:53:56.156-04:00
+modified: 2026-03-29T21:53:56.156-04:00
+published: 2026-03-29T21:53:56.156-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/17
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Androsphinx
+ac: 17
+hp: 199
+modifier: 0
+hit_dice: 19d10 + 95
+cr: "17"
+stats:
+  - 22
+  - 10
+  - 20
+  - 16
+  - 18
+  - 23
+source:
+  - MM
 ---
 
 # Androsphinx
 
-_Source: Monster Manual p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/androsphinx.webp#right)
-
 An androsphinx bears the head of a humanoid male on its lion's body. Outwardly gruff and downcast, it often begins conversations with insults or negative observations. Beneath this gruff exterior, however, an androsphinx has a noble heart. It has no wish to lie or deceive, but it doesn't give away information readily, choosing its words as wisely as it guards its secrets.
 
 An androsphinx tests the courage and valor of supplicants, not only by forcing them to complete quests but also with its terrible roar, which echoes for miles as it terrifies and deafens nearby creatures. Those who pass its tests may be rewarded with a heroes' feast.
@@ -67,11 +82,11 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 
 ```ad-statblock
 title: Androsphinx
-![](Mechanics/CLI/bestiary/monstrosity/token/androsphinx.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/androsphinx.webp#token)
 *Large monstrosity, Lawful Neutral*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 199 (`19d10 + 95`) 
+- **Hit Points** 199 (19d10 + 95) 
 - **Speed** 40 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -80,10 +95,10 @@ title: Androsphinx
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Constitution +11, Intelligence +9, Wisdom +10
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +9, [Perception](Mechanics/CLI/rules/skills.md#Perception) +10, [Religion](Mechanics/CLI/rules/skills.md#Religion) +15
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 20
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +9, [Perception](/Mechanics/CLI/skills.md#Perception) +10, [Religion](/Mechanics/CLI/skills.md#Religion) +15
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 20
 - **Damage Immunities** psychic; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Common, Sphinx
 - **Challenge** 17
 
@@ -91,21 +106,21 @@ title: Androsphinx
 
 ***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, `+10` to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-**Cantrips (at will):** [sacred flame](Mechanics/CLI/spells/sacred-flame-xphb.md), [spare the dying](Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [sacred flame](/Mechanics/CLI/spells/sacred-flame-xphb.md), [spare the dying](/Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [command](Mechanics/CLI/spells/command-xphb.md), [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md)
+**1st level (4 slots):** [command](/Mechanics/CLI/spells/command-xphb.md), [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md)
 
-**2nd level (3 slots):** [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [zone of truth](Mechanics/CLI/spells/zone-of-truth-xphb.md)
+**2nd level (3 slots):** [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [zone of truth](/Mechanics/CLI/spells/zone-of-truth-xphb.md)
 
-**3rd level (3 slots):** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [tongues](Mechanics/CLI/spells/tongues-xphb.md)
+**3rd level (3 slots):** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [tongues](/Mechanics/CLI/spells/tongues-xphb.md)
 
-**4th level (3 slots):** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [freedom of movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md)
+**4th level (3 slots):** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [freedom of movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md)
 
-**5th level (2 slots):** [flame strike](Mechanics/CLI/spells/flame-strike-xphb.md), [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md)
+**5th level (2 slots):** [flame strike](/Mechanics/CLI/spells/flame-strike-xphb.md), [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md)
 
-**6th level (1 slots):** [heroes' feast](Mechanics/CLI/spells/heroes-feast-xphb.md)
+**6th level (1 slots):** [heroes' feast](/Mechanics/CLI/spells/heroes-feast-xphb.md)
 
-***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 
 ***Magic Weapons.*** The sphinx's weapon attacks are magical.
 
@@ -117,9 +132,9 @@ title: Androsphinx
 
 ***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
 
-- **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is [deafened](Mechanics/CLI/rules/conditions.md#Deafened) and [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (`8d10`) thunder damage and is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, the creature takes half as much damage and isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
+- **First Roar.** Each creature that fails a DC 18 Wisdom saving throw is [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A [frightened](/Mechanics/CLI/conditions.md#Frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Second Roar.** Each creature that fails a DC 18 Wisdom saving throw is [deafened](/Mechanics/CLI/conditions.md#Deafened) and [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A [frightened](/Mechanics/CLI/conditions.md#Frightened) creature is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) and can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Third Roar.** Each creature makes a DC 18 Constitution saving throw. On a failed save, a creature takes 44 (`8d10`) thunder damage and is knocked [prone](/Mechanics/CLI/conditions.md#Prone). On a successful save, the creature takes half as much damage and isn't knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
 
 ## Legendary Actions
 
@@ -136,8 +151,8 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the androsp
 On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:
 
 - The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.  
-- The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become `1d20` years older or younger (the sphinx's choice), but never any younger than 1 year old. A [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell can restore a creature's age to normal.  
-- The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A [wish](Mechanics/CLI/spells/wish-xphb.md) spell can return the caster and up to seven other creatures designated by the caster to their normal time.  
+- The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become `1d20` years older or younger (the sphinx's choice), but never any younger than 1 year old. A [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell can restore a creature's age to normal.  
+- The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A [wish](/Mechanics/CLI/spells/wish-xphb.md) spell can return the caster and up to seven other creatures designated by the caster to their normal time.  
 - The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.  
 ```
 
@@ -146,3 +161,7 @@ On initiative count 20 (losing initiative ties), the sphinx can take a lair acti
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 281. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

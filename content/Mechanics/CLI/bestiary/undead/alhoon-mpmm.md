@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alhoon
-created: 2026-03-09T12:15:34.041-04:00
-modified: 2026-03-09T12:15:34.041-04:00
-published: 2026-03-09T12:15:34.041-04:00
+created: 2026-03-29T21:53:56.051-04:00
+modified: 2026-03-29T21:53:56.051-04:00
+published: 2026-03-29T21:53:56.051-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/10
@@ -15,11 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Alhoon (MPMM)
+ac: 15
+hp: 150
+modifier: 1
+hit_dice: 20d8 + 60
+cr: "10"
+stats:
+  - 11
+  - 12
+  - 16
+  - 19
+  - 17
+  - 17
+source:
+  - MPMM
+  - VGM
 ---
 
 # Alhoon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172_\
 ![](Mechanics/CLI/bestiary/undead/img/alhoon.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -52,11 +69,11 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
 
 ```ad-statblock
 title: Alhoon
-![](Mechanics/CLI/bestiary/undead/token/alhoon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/alhoon-mpmm.webp#token)
 *Medium undead (mind flayer, wizard), Typically  Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 150 (`20d8 + 60`) 
+- **Hit Points** 150 (20d8 + 60) 
 - **Speed** 30 ft., fly 15 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,11 +82,11 @@ title: Alhoon
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +7, Intelligence +8, Wisdom +7, Charisma +7
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +8, [Deception](Mechanics/CLI/rules/skills.md#Deception) +7, [History](Mechanics/CLI/rules/skills.md#History) +8, [Insight](Mechanics/CLI/rules/skills.md#Insight) +7, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 17
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +8, [Deception](/Mechanics/CLI/skills.md#Deception) +7, [History](/Mechanics/CLI/skills.md#History) +8, [Insight](/Mechanics/CLI/skills.md#Insight) +7, [Perception](/Mechanics/CLI/skills.md#Perception) +7, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 17
 - **Damage Resistances** cold, lightning, necrotic
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Deep Speech, Undercommon, telepathy 120 ft.
 - **Challenge** 10
 
@@ -87,13 +104,13 @@ title: Alhoon
 
 ***Arcane Bolt.*** *Ranged Spell Attack:* `+8` to hit, range 120 ft., one target. *Hit:* 28 (`8d6`) force damage.
 
-***Mind Blast (Recharge 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recharge 5-6).*** The alhoon magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 16 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](/Mechanics/CLI/conditions.md#Stunned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Spellcasting.*** The alhoon casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1/day each:** [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md), [globe of invulnerability](Mechanics/CLI/spells/globe-of-invulnerability-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [modify memory](Mechanics/CLI/spells/modify-memory-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [wall of force](Mechanics/CLI/spells/wall-of-force-xphb.md)
+**1/day each:** [dominate monster](/Mechanics/CLI/spells/dominate-monster-xphb.md), [globe of invulnerability](/Mechanics/CLI/spells/globe-of-invulnerability-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [modify memory](/Mechanics/CLI/spells/modify-memory-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [wall of force](/Mechanics/CLI/spells/wall-of-force-xphb.md)
 
 ## Reactions
 
@@ -105,3 +122,7 @@ title: Alhoon
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 43, Volo's Guide to Monsters p. 172_

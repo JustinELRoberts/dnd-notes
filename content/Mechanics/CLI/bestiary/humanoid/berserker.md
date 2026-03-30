@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Berserker
-created: 2026-03-09T12:15:33.926-04:00
-modified: 2026-03-09T12:15:33.926-04:00
-published: 2026-03-09T12:15:33.926-04:00
+created: 2026-03-29T21:53:55.930-04:00
+modified: 2026-03-29T21:53:55.930-04:00
+published: 2026-03-29T21:53:55.930-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -19,21 +19,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Berserker
+ac: 13
+hp: 67
+modifier: 1
+hit_dice: 9d8 + 27
+cr: "2"
+stats:
+  - 16
+  - 12
+  - 17
+  - 9
+  - 11
+  - 9
+source:
+  - MM
 ---
 
 # Berserker
-
-_Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Hailing from uncivilized lands, unpredictable berserkers come together in war parties and seek conflict wherever they can find it.
 
 ```ad-statblock
 title: Berserker
-![](Mechanics/CLI/bestiary/humanoid/token/berserker.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/berserker.webp#token)
 *Medium humanoid (any race), Any Chaotic alignment*
 
-- **Armor Class** 13 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 67 (`9d8 + 27`) 
+- **Armor Class** 13 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 67 (9d8 + 27) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,7 +59,6 @@ title: Berserker
 - **Saving Throws** ⏤
 - **Skills** ⏤
 - **Senses** passive Perception 10
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 2
 
@@ -62,3 +76,7 @@ title: Berserker
 ## Environment
 
 coastal, mountain, hill, arctic, forest, desert
+
+## Sources
+
+_Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

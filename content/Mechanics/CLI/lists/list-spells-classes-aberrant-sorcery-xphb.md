@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Aberrant Sorcery
-created: 2026-03-09T12:15:34.423-04:00
-modified: 2026-03-09T12:15:34.423-04:00
-published: 2026-03-09T12:15:34.423-04:00
+created: 2026-03-29T21:53:56.516-04:00
+modified: 2026-03-29T21:53:56.516-04:00
+published: 2026-03-29T21:53:56.516-04:00
 tags:
   - ttrpg-cli/spell/list/subclass/aberrant-sorcery
 cssclasses:
@@ -16,29 +16,29 @@ obsidianUIMode: preview
 
 ## Cantrip
 
-- [Mind Sliver](Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB") at class level 3
+- [Mind Sliver](/Mechanics/CLI/spells/mind-sliver-xphb.md "XPHB") at class level 3
 
 ## 1st Level
 
-- [Arms of Hadar](Mechanics/CLI/spells/arms-of-hadar-xphb.md "XPHB") at class level 3
-- [Dissonant Whispers](Mechanics/CLI/spells/dissonant-whispers-xphb.md "XPHB") at class level 3
+- [Arms of Hadar](/Mechanics/CLI/spells/arms-of-hadar-xphb.md "XPHB") at class level 3
+- [Dissonant Whispers](/Mechanics/CLI/spells/dissonant-whispers-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Calm Emotions](Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB") at class level 3
-- [Detect Thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 3
+- [Calm Emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md "XPHB") at class level 3
+- [Detect Thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Hunger of Hadar](Mechanics/CLI/spells/hunger-of-hadar-xphb.md "XPHB") at class level 3
-- [Sending](Mechanics/CLI/spells/sending-xphb.md "XPHB") at class level 3
+- [Hunger of Hadar](/Mechanics/CLI/spells/hunger-of-hadar-xphb.md "XPHB") at class level 3
+- [Sending](/Mechanics/CLI/spells/sending-xphb.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Evard's Black Tentacles](Mechanics/CLI/spells/evards-black-tentacles-xphb.md "XPHB") at class level 3
-- [Summon Aberration](Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB") at class level 3
+- [Evard's Black Tentacles](/Mechanics/CLI/spells/evards-black-tentacles-xphb.md "XPHB") at class level 3
+- [Summon Aberration](/Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Rary's Telepathic Bond](Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md "XPHB") at class level 3
-- [Telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 3
+- [Rary's Telepathic Bond](/Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md "XPHB") at class level 3
+- [Telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 3

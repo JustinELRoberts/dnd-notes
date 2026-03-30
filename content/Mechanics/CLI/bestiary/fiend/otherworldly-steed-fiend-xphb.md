@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Otherworldly Steed (Fiend)
-created: 2026-03-09T12:15:34.045-04:00
-modified: 2026-03-09T12:15:34.045-04:00
-published: 2026-03-09T12:15:34.045-04:00
+created: 2026-03-29T21:53:56.056-04:00
+modified: 2026-03-29T21:53:56.056-04:00
+published: 2026-03-29T21:53:56.056-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Otherworldly Steed (Fiend) (XPHB)
+modifier: 1
+stats:
+  - 18
+  - 12
+  - 14
+  - 6
+  - 12
+  - 8
+source:
+  - XPHB
 ---
 
 # Otherworldly Steed (Fiend)
-
-_Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Otherworldly Steed (Fiend)
@@ -48,7 +59,11 @@ title: Otherworldly Steed (Fiend)
 
 ## Bonus Actions
 
-***Fell Glare (Recharges after a Long Rest).*** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of your next turn.
+***Fell Glare (Recharges after a Long Rest).*** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the end of your next turn.
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

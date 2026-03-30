@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Jolly Roger
-created: 2026-03-09T12:15:33.981-04:00
-modified: 2026-03-09T12:15:33.981-04:00
-published: 2026-03-09T12:15:33.981-04:00
+created: 2026-03-29T21:53:55.985-04:00
+modified: 2026-03-29T21:53:55.985-04:00
+published: 2026-03-29T21:53:55.985-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/captain/jolly-roger
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Jolly Roger
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,28 +58,32 @@ The skull and crossbones of the Jolly Roger need no introduction: it means thiev
 
 ### Skirmish \[Maneuver] (Level 3)
 
-When you make an attack using a weapon, you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to make an attack using the same weapon or a different one later on the same turn. One attack must be a melee attack roll and the other must be a ranged attack roll.
+When you make an attack using a weapon, you can expend one Battle Die as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to make an attack using the same weapon or a different one later on the same turn. One attack must be a melee attack roll and the other must be a ranged attack roll.
 
 ### Scallywag (Level 3)
 
-You have a [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md), and your Cohort has a [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+You have a [Swim Speed](/Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md), and your Cohort has a [Swim Speed](/Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ### Fancy Footwork (Level 6)
 
-Your elegant swordplay puts enemies where you want them. Whenever you hit a creature of Large size or smaller with a Melee weapon, you can force the target to move to an unoccupied space within 5 feet of it, and you can move 5 feet. This movement doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+Your elegant swordplay puts enemies where you want them. Whenever you hit a creature of Large size or smaller with a Melee weapon, you can force the target to move to an unoccupied space within 5 feet of it, and you can move 5 feet. This movement doesn't provoke [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Dirty Tactics (Level 10)
 
 Once per turn when you hit a creature with a Melee weapon, you can use one of the following effects.
 
-**Flank.** Your Cohort has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the next melee attack roll it makes against the target while you are within 5 feet of it before the end of your next turn.
+**Flank.** Your Cohort has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the next melee attack roll it makes against the target while you are within 5 feet of it before the end of your next turn.
 
-**Pocket Sand.** The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on its next attack roll before the end of your next turn.
+**Pocket Sand.** The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on its next attack roll before the end of your next turn.
 
-**Trip.** The target has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition if it is Large or smaller.
+**Trip.** The target has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition if it is Large or smaller.
 
 ### All Hands on Deck (Level 14)
 
-At your directive, your crew works in perfect unison. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can issue a series of directives to allies within 30 feet of yourself that can see or hear you. Each ally has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the next `D20` test it makes before the start of your next turn.
+At your directive, your crew works in perfect unison. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can issue a series of directives to allies within 30 feet of yourself that can see or hear you. Each ally has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the next `D20` test it makes before the start of your next turn.
 
-You can use this feature a number of times equal to your Charisma modifier and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier and regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

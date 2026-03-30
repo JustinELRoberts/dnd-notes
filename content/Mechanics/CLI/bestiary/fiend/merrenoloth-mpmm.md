@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Merrenoloth
-created: 2026-03-09T12:15:33.785-04:00
-modified: 2026-03-09T12:15:33.785-04:00
-published: 2026-03-09T12:15:33.785-04:00
+created: 2026-03-29T21:53:55.562-04:00
+modified: 2026-03-29T21:53:55.562-04:00
+published: 2026-03-29T21:53:55.562-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -14,22 +14,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Merrenoloth (MPMM)
+ac: 13
+hp: 40
+modifier: 3
+hit_dice: 9d8
+cr: "3"
+stats:
+  - 8
+  - 17
+  - 10
+  - 17
+  - 14
+  - 11
+source:
+  - MPMM
 ---
 
 # Merrenoloth
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 180_\
 ![](Mechanics/CLI/bestiary/fiend/img/merrenoloth.webp#right)
-
 The grim captains of the ferries on the River Styx, merrenoloths can navigate safely through the worst storms and always stay on course. Wielding fiery oars, merrenoloths strike fear into anyone who forcefully boards their vessels.
 
 ```ad-statblock
 title: Merrenoloth
-![](Mechanics/CLI/bestiary/fiend/token/merrenoloth-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/merrenoloth-mpmm.webp#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 40 (`9d8`) 
+- **Hit Points** 40 (9d8) 
 - **Speed** 30 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,11 +53,11 @@ title: Merrenoloth
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Intelligence +5
-- **Skills** [History](Mechanics/CLI/rules/skills.md#History) +5, [Nature](Mechanics/CLI/rules/skills.md#Nature) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [History](/Mechanics/CLI/skills.md#History) +5, [Nature](/Mechanics/CLI/skills.md#Nature) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 3
 
@@ -56,13 +71,13 @@ title: Merrenoloth
 
 ***Oar.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 8 (`2d4 + 3`) fire damage.
 
-***Fear Gaze.*** The merrenoloth targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the merrenoloth for 1 minute. The [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Fear Gaze.*** The merrenoloth targets one creature it can see within 60 feet of it. The target must succeed on a DC 13 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) of the merrenoloth for 1 minute. The [frightened](/Mechanics/CLI/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Spellcasting.*** The merrenoloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [darkness](Mechanics/CLI/spells/darkness-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md)
+**At will:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [gust of wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md)
 
-**3/day:** [control water](Mechanics/CLI/spells/control-water-xphb.md)
+**3/day:** [control water](/Mechanics/CLI/spells/control-water-xphb.md)
 
 ## Bonus Actions
 
@@ -72,7 +87,7 @@ title: Merrenoloth
 
 On initiative count 20 (losing initiative ties) while captaining a vessel, the merrenoloth can take one of the following lair actions; it can't take the same lair action two rounds in a row:
 
-- **Gale.** The air within 60 feet of the vessel is filled with wind. Until initiative count 20 on the next round, that area is difficult terrain, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
+- **Gale.** The air within 60 feet of the vessel is filled with wind. Until initiative count 20 on the next round, that area is difficult terrain, and when a Medium or smaller creature flies into that area or starts its turn flying there, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
 - **Propel.** A strong wind propels the vessel, increasing its speed by 30 feet until initiative count 20 on the next round.  
 - **Repair.** The vessel regains 22 (`4d10`) hit points.  
 
@@ -91,3 +106,7 @@ If the merrenoloth dies, these effects fade over the course of `1d6` hours.
 ## Environment
 
 coastal
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 180_

@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Disguise Self
-created: 2026-03-09T12:15:34.092-04:00
-modified: 2026-03-09T12:15:34.092-04:00
-published: 2026-03-09T12:15:34.092-04:00
+created: 2026-03-29T21:53:56.122-04:00
+modified: 2026-03-29T21:53:56.122-04:00
+published: 2026-03-29T21:53:56.122-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/artificer
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/aberrant-dragonmark
@@ -37,22 +38,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Trickery Domain)
-  - Fighter (Eldritch Knight)
-  - Martyr (Burden of Anonymity)
-  - Martyr (Burden of Levity)
-  - Ranger (Gloom Stalker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warmage (House of Bishops)
-  - Witch (Purple Magic)
-  - Wizard
-  - Wizard (Illusionist)
 ---
 
 # Disguise Self
@@ -68,8 +53,42 @@ You make yourself—including your clothing, armor, weapons, and other belonging
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to your outfit, objects pass through the hat, and anyone who touches it would feel nothing.
 
-To discern that you are disguised, a creature must take the [Study](Mechanics/CLI/rules/actions.md#Study) action to inspect your appearance and succeed on an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC.
+To discern that you are disguised, a creature must take the [Study](/Mechanics/CLI/actions.md#Study) action to inspect your appearance and succeed on an Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check against your spell save DC.
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Anonymity)](Mechanics/CLI/lists/list-spells-classes-burden-of-anonymity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Levity)](Mechanics/CLI/lists/list-spells-classes-burden-of-levity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger (Gloom Stalker)](Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Purple Magic)](Mechanics/CLI/lists/list-spells-classes-purple-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Aberrant Dragonmark](/Mechanics/CLI/lists/list-spells-feats-aberrant-dragonmark-efa.md)
+- [Deep Gnome](/Mechanics/CLI/lists/list-spells-races-deep-gnome-mpmm.md)
+- [Ranger (Gloom Stalker)](/Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE")
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB")
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Mask of Many Faces](/Mechanics/CLI/lists/list-spells-optional-features-mask-of-many-faces-xphb.md)
+- [Wizard (Illusionist)](/Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+- [Gnome (Deep)](/Mechanics/CLI/lists/list-spells-races-gnome-deep-dmg.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Firbolg](/Mechanics/CLI/lists/list-spells-races-firbolg-mpmm.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain.md "class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Mark of Shadow](/Mechanics/CLI/lists/list-spells-feats-mark-of-shadow-efa.md)
+- [Martyr (Burden of Levity)](/Mechanics/CLI/lists/list-spells-classes-burden-of-levity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Martyr (Burden of Anonymity)](/Mechanics/CLI/lists/list-spells-classes-burden-of-anonymity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Witch (Purple Magic)](/Mechanics/CLI/lists/list-spells-classes-purple-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Shadow-Touched](/Mechanics/CLI/lists/list-spells-feats-shadow-touched-xphb.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Magic Initiate (Wizard Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Ranger (Gloom Stalker)](/Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain.md)
+- [Artificer Initiate](/Mechanics/CLI/lists/list-spells-feats-artificer-initiate-tce.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

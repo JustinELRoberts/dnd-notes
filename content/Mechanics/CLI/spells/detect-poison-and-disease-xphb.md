@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Detect Poison and Disease
-created: 2026-03-09T12:15:33.910-04:00
-modified: 2026-03-09T12:15:33.910-04:00
-published: 2026-03-09T12:15:33.910-04:00
+created: 2026-03-29T21:53:55.912-04:00
+modified: 2026-03-29T21:53:55.912-04:00
+published: 2026-03-29T21:53:55.912-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/paladin
@@ -24,14 +25,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Paladin
-  - Ranger
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Detect Poison and Disease
@@ -47,6 +40,22 @@ For the duration, you sense the location of poisons, poisonous or venomous creat
 
 The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Ritual Caster](/Mechanics/CLI/lists/list-spells-feats-ritual-caster-xphb.md)
+- [Magic Initiate (Druid Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Paladin](/Mechanics/CLI/lists/list-spells-classes-paladin.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Fey-Touched](/Mechanics/CLI/lists/list-spells-feats-fey-touched-xphb.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+## Sources
+
+_Player's Handbook (2024) p. 262. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

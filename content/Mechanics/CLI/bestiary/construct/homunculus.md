@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Homunculus
-created: 2026-03-09T12:15:34.110-04:00
-modified: 2026-03-09T12:15:34.110-04:00
-published: 2026-03-09T12:15:34.110-04:00
+created: 2026-03-29T21:53:56.147-04:00
+modified: 2026-03-29T21:53:56.148-04:00
+published: 2026-03-29T21:53:56.148-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Homunculus
+ac: 13
+hp: 5
+modifier: 2
+hit_dice: 2d4
+cr: "0"
+stats:
+  - 4
+  - 15
+  - 11
+  - 10
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Homunculus
 
-_Source: Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/homunculus.webp#right)
-
 Shaping a mixture of clay, ash, mandrake root, and blood, one can channel rare ritual magic to create a faithful, squirrel-sized companion.
 
 A homunculus is a construct that acts as an extension of its creator, with the two sharing thoughts, senses, and language through a mystical bond. A master can have only one homunculus at a time (attempts to create another one always fail), and when its master dies, the homunculus also dies.
@@ -32,11 +47,11 @@ A homunculus knows everything its creator knows, including all the languages the
 
 ```ad-statblock
 title: Homunculus
-![](Mechanics/CLI/bestiary/construct/token/homunculus.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/homunculus.webp#token)
 *Tiny construct, Neutral*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 5 (`2d4`) 
+- **Hit Points** 5 (2d4) 
 - **Speed** 20 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,9 +61,9 @@ title: Homunculus
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 0
 
@@ -58,7 +73,11 @@ title: Homunculus
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is instead [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 5 (`1d10`) minutes and [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
+***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is instead [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 5 (`1d10`) minutes and [unconscious](/Mechanics/CLI/conditions.md#Unconscious) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

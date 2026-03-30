@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orthon
-created: 2026-03-09T12:15:34.091-04:00
-modified: 2026-03-09T12:15:34.091-04:00
-published: 2026-03-09T12:15:34.091-04:00
+created: 2026-03-29T21:53:56.121-04:00
+modified: 2026-03-29T21:53:56.121-04:00
+published: 2026-03-29T21:53:56.121-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/10
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orthon (MPMM)
+ac: 17
+hp: 105
+modifier: 3
+hit_dice: 10d10 + 50
+cr: "10"
+stats:
+  - 22
+  - 16
+  - 21
+  - 15
+  - 15
+  - 16
+source:
+  - MPMM
 ---
 
 # Orthon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 205_\
 ![](Mechanics/CLI/bestiary/fiend/img/orthon.webp#right)
-
 When an archduke of the Nine Hells needs a creature tracked, found, and either done away with or captured, the task usually falls to an orthon. These devils are infernal bounty hunters, tireless in their pursuit of their quarry across the multiverse.
 
 Orthons are infamous for their sharp senses. Because an orthon can become invisible at will, its quarry is often unaware of being hunted until the orthon strikes. This invisibility can be disrupted when the devil is attacked, however, so a strong counterattack is often the best defense against it.
@@ -31,11 +46,11 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 
 ```ad-statblock
 title: Orthon
-![](Mechanics/CLI/bestiary/fiend/token/orthon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/orthon-mpmm.webp#token)
 *Large fiend (devil), Typically  Lawful Evil*
 
-- **Armor Class** 17 ([half plate](Mechanics/CLI/items/half-plate-armor-xphb.md))
-- **Hit Points** 105 (`10d10 + 50`) 
+- **Armor Class** 17 ([half plate](/Mechanics/CLI/items/half-plate-armor.md))
+- **Hit Points** 105 (10d10 + 50) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,11 +59,11 @@ title: Orthon
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +7, Constitution +9, Wisdom +6
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +10, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +11, [Survival](Mechanics/CLI/rules/skills.md#Survival) +10
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [truesight](Mechanics/CLI/rules/senses.md#Truesight) 30 ft., passive Perception 20
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +10, [Stealth](/Mechanics/CLI/skills.md#Stealth) +11, [Survival](/Mechanics/CLI/skills.md#Survival) +10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., [truesight](/Mechanics/CLI/senses.md#Truesight) 30 ft., passive Perception 20
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common, Infernal, telepathy 120 ft.
 - **Challenge** 10
 
@@ -58,20 +73,20 @@ title: Orthon
 
 ## Actions
 
-***Infernal Dagger.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 11 (`2d4 + 6`) force damage, and the target must make a DC 17 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Infernal Dagger.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 11 (`2d4 + 6`) force damage, and the target must make a DC 17 Constitution saving throw, taking 22 (`4d10`) poison damage on a failed save, or half as much damage on a successful one. On a failure, the target is [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Brass Crossbow.*** *Ranged Weapon Attack:* `+7` to hit, range 100/400 ft., one target. *Hit:* 14 (`2d10 + 3`) force damage. The target also suffers one of the following effects of the orthon's choice; the orthon can't use the same effect two rounds in a row:
 
 - **Acid.** The target must make a DC 17 Constitution saving throw, taking an additional 17 (`5d6`) acid damage on a failed save, or half as much damage on a successful one.  
-- **Blindness.** The target takes 5 (`1d10`) radiant damage. In addition, the target and all other creatures within 20 feet of it must each make a successful DC 17 Dexterity saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of the orthon's next turn.  
+- **Blindness.** The target takes 5 (`1d10`) radiant damage. In addition, the target and all other creatures within 20 feet of it must each make a successful DC 17 Dexterity saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of the orthon's next turn.  
 - **Concussion.** The target and each creature within 20 feet of it must make a DC 17 Constitution saving throw, taking 13 (`2d12`) thunder damage on a failed save, or half as much damage on a successful one.  
-- **Entanglement.** The target must make a successful DC 17 Dexterity saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) for 1 hour by strands of sticky webbing. The target can escape by taking an action to make a DC 17 Strength or Dexterity check and succeeding.  
-- **Paralysis.** The target takes 22 (`4d10`) lightning damage and must make a successful DC 17 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Entanglement.** The target must make a successful DC 17 Dexterity saving throw or be [restrained](/Mechanics/CLI/conditions.md#Restrained) for 1 hour by strands of sticky webbing. The target can escape by taking an action to make a DC 17 Strength or Dexterity check and succeeding.  
+- **Paralysis.** The target takes 22 (`4d10`) lightning damage and must make a successful DC 17 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **Tracking.** For the next 24 hours, the orthon knows the direction and distance to the target, as long as it's on the same plane of existence. If the target is on a different plane, the orthon knows which one, but not the exact location there.  
 
 ## Bonus Actions
 
-***Invisibility Field (Recharge 4-6).*** The orthon becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible). Any equipment it wears or carries is also [invisible](Mechanics/CLI/rules/conditions.md#Invisible) as long as the equipment is on its person. This invisibility ends immediately after it makes an attack roll or is hit by an attack roll.
+***Invisibility Field (Recharge 4-6).*** The orthon becomes [invisible](/Mechanics/CLI/conditions.md#Invisible). Any equipment it wears or carries is also [invisible](/Mechanics/CLI/conditions.md#Invisible) as long as the equipment is on its person. This invisibility ends immediately after it makes an attack roll or is hit by an attack roll.
 
 ## Reactions
 
@@ -83,3 +98,7 @@ title: Orthon
 ## Environment
 
 desert, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 205_

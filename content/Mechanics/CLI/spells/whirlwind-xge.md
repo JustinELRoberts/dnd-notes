@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Whirlwind
-created: 2026-03-09T12:15:33.980-04:00
-modified: 2026-03-09T12:15:33.980-04:00
-published: 2026-03-09T12:15:33.980-04:00
+created: 2026-03-29T21:53:55.983-04:00
+modified: 2026-03-29T21:53:55.983-04:00
+published: 2026-03-29T21:53:55.983-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
@@ -18,12 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 ---
 
 # Whirlwind
@@ -38,10 +33,20 @@ _7th-level, Evocation_\
 
 A whirlwind howls down to a point that you can see on the ground within range. The whirlwind is a 10-foot-radius, 30-foot-high cylinder centered on that point. Until the spell ends, you can use your action to move the whirlwind up to 30 feet in any direction along the ground. The whirlwind sucks up any Medium or smaller objects that aren't secured to anything and that aren't worn or carried by anyone.
 
-A creature must make a Dexterity saving throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes `10d6` bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength saving throw or become [restrained](Mechanics/CLI/rules/conditions.md#Restrained) in the whirlwind until the spell ends. When a creature starts its turn [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.
+A creature must make a Dexterity saving throw the first time on a turn that it enters the whirlwind or that the whirlwind enters its space, including when the whirlwind first appears. A creature takes `10d6` bludgeoning damage on a failed save, or half as much damage on a successful one. In addition, a Large or smaller creature that fails the save must succeed on a Strength saving throw or become [restrained](/Mechanics/CLI/conditions.md#Restrained) in the whirlwind until the spell ends. When a creature starts its turn [restrained](/Mechanics/CLI/conditions.md#Restrained) by the whirlwind, the creature is pulled 5 feet higher inside it, unless the creature is at the top. A [restrained](/Mechanics/CLI/conditions.md#Restrained) creature moves with the whirlwind and falls when the spell ends, unless the creature has some means to stay aloft.
 
-A [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the whirlwind and is hurled `3d6 × 10` feet away from it in a random direction.
+A [restrained](/Mechanics/CLI/conditions.md#Restrained) creature can use an action to make a Strength or Dexterity check against your spell save DC. If successful, the creature is no longer [restrained](/Mechanics/CLI/conditions.md#Restrained) by the whirlwind and is hurled `3d6 × 10` feet away from it in a random direction.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 171_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Wizard (Evoker)](/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 171_

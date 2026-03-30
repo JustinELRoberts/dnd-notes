@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Behir
-created: 2026-03-09T12:15:33.903-04:00
-modified: 2026-03-09T12:15:33.903-04:00
-published: 2026-03-09T12:15:33.903-04:00
+created: 2026-03-29T21:53:55.901-04:00
+modified: 2026-03-29T21:53:55.901-04:00
+published: 2026-03-29T21:53:55.901-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/11
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Behir
+ac: 17
+hp: 168
+modifier: 3
+hit_dice: 16d12 + 64
+cr: "11"
+stats:
+  - 23
+  - 16
+  - 18
+  - 7
+  - 14
+  - 12
+source:
+  - MM
 ---
 
 # Behir
 
-_Source: Monster Manual p. 25. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/behir.webp#right)
-
 The serpentine behir crawls along floors and clambers up walls to reach its prey. Its lightning breath can incinerate most creatures, even as more powerful foes are constricted in its coils and eaten alive.
 
 A behir's monstrous form resembles a combination of centipede and crocodile. Its scaled hide ranges from ultramarine to deep blue in color, fading to pale blue on its underside.
@@ -45,11 +60,11 @@ A behir never makes its lair in an area it knows to be inhabited by a dragon. If
 
 ```ad-statblock
 title: Behir
-![](Mechanics/CLI/bestiary/monstrosity/token/behir.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/behir.webp#token)
 *Huge monstrosity, Neutral Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 168 (`16d12 + 64`) 
+- **Hit Points** 168 (16d12 + 64) 
 - **Speed** 50 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,8 +73,8 @@ title: Behir
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 90 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 90 ft., passive Perception 16
 - **Damage Immunities** lightning
 - **Languages** Draconic
 - **Challenge** 11
@@ -70,13 +85,13 @@ title: Behir
 
 ***Bite.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 22 (`3d10 + 6`) piercing damage.
 
-***Constrict.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one Large or smaller creature. *Hit:* 17 (`2d10 + 6`) bludgeoning damage plus 17 (`2d10 + 6`) slashing damage. The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 16) if the behir isn't already constricting a creature, and the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until this grapple ends.
+***Constrict.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one Large or smaller creature. *Hit:* 17 (`2d10 + 6`) bludgeoning damage plus 17 (`2d10 + 6`) slashing damage. The target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 16) if the behir isn't already constricting a creature, and the target is [restrained](/Mechanics/CLI/conditions.md#Restrained) until this grapple ends.
 
 ***Lightning Breath (Recharge 5-6).*** The behir exhales a line of lightning that is 20 feet long and 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw, taking 66 (`12d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
-***Swallow.*** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) and [restrained](Mechanics/CLI/rules/conditions.md#Restrained), it has total cover against attacks and other effects outside the behir, and it takes 21 (`6d6`) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
+***Swallow.*** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is [blinded](/Mechanics/CLI/conditions.md#Blinded) and [restrained](/Mechanics/CLI/conditions.md#Restrained), it has total cover against attacks and other effects outside the behir, and it takes 21 (`6d6`) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
 
-If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls [prone](Mechanics/CLI/rules/conditions.md#Prone) in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by it and can escape from the corpse by using 15 feet of movement, exiting [prone](Mechanics/CLI/rules/conditions.md#Prone).
+If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls [prone](/Mechanics/CLI/conditions.md#Prone) in a space within 10 feet of the behir. If the behir dies, a swallowed creature is no longer [restrained](/Mechanics/CLI/conditions.md#Restrained) by it and can escape from the corpse by using 15 feet of movement, exiting [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -84,3 +99,7 @@ If the behir takes 30 damage or more on a single turn from the swallowed creatur
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 25. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

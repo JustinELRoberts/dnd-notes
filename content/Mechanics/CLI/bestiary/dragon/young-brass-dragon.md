@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Brass Dragon
-created: 2026-03-09T12:15:34.136-04:00
-modified: 2026-03-09T12:15:34.136-04:00
-published: 2026-03-09T12:15:34.136-04:00
+created: 2026-03-29T21:53:56.184-04:00
+modified: 2026-03-29T21:53:56.184-04:00
+published: 2026-03-29T21:53:56.184-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Brass Dragon
+ac: 17
+hp: 110
+modifier: 0
+hit_dice: 13d10 + 39
+cr: "6"
+stats:
+  - 19
+  - 10
+  - 17
+  - 12
+  - 11
+  - 15
+source:
+  - MM
 ---
 
 # Young Brass Dragon
 
-_Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/brass-dragon.webp#right)
-
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
 A brass dragon's head is defined by the broad protective plate that expands from its forehead and the spikes protruding from its chin. A frill runs the length of its neck, and its tapering wings extend down the length of its tail. A brass dragon wyrmling's scales are a dull, mottled brown. As it ages, the dragon's scales begin to shine, eventually taking on a warm, burnished luster. Its wings and frills are mottled green toward the edges, darkening with age. As a brass dragon grows older, its pupils fade until its eyes resemble molten metal orbs.
@@ -91,11 +106,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Brass Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-brass-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-brass-dragon.webp#token)
 *Large dragon, Chaotic Good*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 110 (`13d10 + 39`) 
+- **Hit Points** 110 (13d10 + 39) 
 - **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -104,8 +119,8 @@ title: Young Brass Dragon
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +3, Constitution +6, Wisdom +3, Charisma +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 6
@@ -121,7 +136,7 @@ title: Young Brass Dragon
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
 - **Fire Breath.** The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 14 Dexterity saving throw, taking 42 (`12d6`) fire damage on a failed save, or half as much damage on a successful one.  
-- **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.  
+- **Sleep Breath.** The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 14 Constitution saving throw or fall [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.  
 ```
 
 ^statblock
@@ -129,3 +144,7 @@ title: Young Brass Dragon
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ooze Infusion
-created: 2026-03-09T12:15:33.868-04:00
-modified: 2026-03-09T12:15:33.868-04:00
-published: 2026-03-09T12:15:33.868-04:00
+created: 2026-03-29T21:53:55.660-04:00
+modified: 2026-03-29T21:53:55.660-04:00
+published: 2026-03-29T21:53:55.660-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/item/gear/monstrous-graft
@@ -18,10 +18,14 @@ obsidianUIMode: preview
 
 _Monstrous graft, uncommon_
 
-- **Properties**: [Internal Slot](Mechanics/CLI/rules/item-properties.md#Internal%20Slot)
+- **Properties**: [Internal Slot](/Mechanics/CLI/item-properties.md#Internal%20Slot)
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 _Donor: Any Ooze_
 
-This graft causes your internal anatomy to become semi-fluid. Any [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
+This graft causes your internal anatomy to become semi-fluid. Any [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) against you becomes a normal hit.
 
-_Source: Valda's Spire of Secrets (2024)_
+## Sources
+
+_Valda's Spire of Secrets (2024)_

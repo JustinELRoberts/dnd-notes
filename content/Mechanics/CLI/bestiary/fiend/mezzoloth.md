@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mezzoloth
-created: 2026-03-09T12:15:34.022-04:00
-modified: 2026-03-09T12:15:34.022-04:00
-published: 2026-03-09T12:15:34.022-04:00
+created: 2026-03-29T21:53:56.032-04:00
+modified: 2026-03-29T21:53:56.032-04:00
+published: 2026-03-29T21:53:56.032-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mezzoloth
+ac: 18
+hp: 75
+modifier: 0
+hit_dice: 10d8 + 30
+cr: "5"
+stats:
+  - 18
+  - 11
+  - 16
+  - 7
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Mezzoloth
 
-_Source: Monster Manual p. 313_\
 ![](Mechanics/CLI/bestiary/fiend/img/mezzoloth.webp#right)
-
 The bulk of the yugoloth population is made up of mezzoloths, which are human-sized insect creatures covered in dense chitinous plates. Mezzoloths serve as foot soldiers in yugoloth armies, their wide-set eyes glowing red as the mezzoloths bear down on their foes.
 
 Violence and reward are the fundamental drives of a mezzoloth, and powerful beings that promise one or the other can easily attract them into service. Although it has lethal claws on its four arms, a mezzoloth typically wields a trident in two of them. If surrounded by enemies, a mezzoloth exhales toxic fumes that can choke and kill whole groups of creatures.
@@ -78,11 +93,11 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ```ad-statblock
 title: Mezzoloth
-![](Mechanics/CLI/bestiary/fiend/token/mezzoloth.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/mezzoloth.webp#token)
 *Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 75 (`10d8 + 30`) 
+- **Hit Points** 75 (10d8 + 30) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -91,12 +106,11 @@ title: Mezzoloth
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [trident](Mechanics/CLI/items/trident-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 5
 
@@ -104,9 +118,9 @@ title: Mezzoloth
 
 ***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 
-**2/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md)
+**2/day each:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md)
 
-**1/day:** [cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md)
+**1/day:** [cloudkill](/Mechanics/CLI/spells/cloudkill-xphb.md)
 
 ***Magic Resistance.*** The mezzoloth has advantage on saving throws against spells and other magical effects.
 
@@ -124,3 +138,7 @@ title: Mezzoloth
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 313_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deep Rothé
-created: 2026-03-09T12:15:33.944-04:00
-modified: 2026-03-09T12:15:33.944-04:00
-published: 2026-03-09T12:15:33.944-04:00
+created: 2026-03-29T21:53:55.946-04:00
+modified: 2026-03-29T21:53:55.946-04:00
+published: 2026-03-29T21:53:55.946-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deep Rothé (MPMM)
+ac: 10
+hp: 13
+modifier: 0
+hit_dice: 2d8 + 4
+cr: 1/4
+stats:
+  - 18
+  - 10
+  - 14
+  - 2
+  - 10
+  - 4
+source:
+  - MPMM
+  - VGM
 ---
 
 # Deep Rothé
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208_\
 ![](Mechanics/CLI/bestiary/beast/img/deep-rothe.webp#right)
-
 Deep rothé are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothé came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothé have spent in the Underdark, where ambient magic slowly transforms everything.
 
 ## Cattle
@@ -31,11 +47,11 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 
 ```ad-statblock
 title: Deep Rothé
-![](Mechanics/CLI/bestiary/beast/token/deep-rothe-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/deep-rothe-mpmm.webp#token)
 *Medium beast (cattle), Unaligned*
 
 - **Armor Class** 10 
-- **Hit Points** 13 (`2d8 + 4`) 
+- **Hit Points** 13 (2d8 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,7 +61,7 @@ title: Deep Rothé
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 1/4
 
@@ -57,7 +73,7 @@ title: Deep Rothé
 
 ***Gore.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage. If the rothé moved at least 20 feet straight toward the target immediately before the hit, the target takes an extra 7 (`2d6`) piercing damage.
 
-***Dancing Lights.*** The rothé casts [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), requiring no spell components and using Wisdom as the spellcasting ability.
+***Dancing Lights.*** The rothé casts [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), requiring no spell components and using Wisdom as the spellcasting ability.
 
 ```
 
@@ -66,3 +82,7 @@ title: Deep Rothé
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208_

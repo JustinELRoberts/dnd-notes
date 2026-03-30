@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wererat
-created: 2026-03-09T12:15:33.814-04:00
-modified: 2026-03-09T12:15:33.814-04:00
-published: 2026-03-09T12:15:33.814-04:00
+created: 2026-03-29T21:53:55.598-04:00
+modified: 2026-03-29T21:53:55.598-04:00
+published: 2026-03-29T21:53:55.598-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Wererat
+ac: 12
+hp: 33
+modifier: 2
+hit_dice: 6d8 + 6
+cr: "2"
+stats:
+  - 10
+  - 15
+  - 12
+  - 11
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Wererat
 
-_Source: Monster Manual p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/wererat.webp#right)
-
 Wererats are cunning lycanthropes with sly, avaricious personalities. They are wiry and twitchy in humanoid form, with thin hair and darting eyes. In their humanoid and hybrid forms, wererats prefer light weapons and use ambush tactics rather than fighting as a pack. Although a wererat can deliver a nasty bite in its rat form, it favors that form for stealthy infiltration and escape rather than combat.
 
 A wererat clan operates much like a thieves' guild, with wererats transmitting their curse only to creatures they want to induct into the clan. Wererats that are accidentally cursed or break loose from the clan's control are quickly hunted down and killed.
@@ -37,7 +52,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -51,26 +66,26 @@ Some individuals see little point in fighting the curse and accept what they are
 >
 > The following information applies to specific lycanthropes.
 >
-> **[Werebear](Mechanics/CLI/bestiary/humanoid/werebear.md).** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[Werebear](/Mechanics/CLI/bestiary/humanoid/werebear.md).** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 >
-> **[Wereboar](Mechanics/CLI/bestiary/humanoid/wereboar.md).** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[Wereboar](/Mechanics/CLI/bestiary/humanoid/wereboar.md).** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 >
-> **[Wererat](Mechanics/CLI/bestiary/humanoid/wererat.md).** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
+> **[Wererat](/Mechanics/CLI/bestiary/humanoid/wererat.md).** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 >
-> **[Weretiger](Mechanics/CLI/bestiary/humanoid/weretiger.md).** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[Weretiger](/Mechanics/CLI/bestiary/humanoid/weretiger.md).** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 >
-> **[Werewolf](Mechanics/CLI/bestiary/humanoid/werewolf.md).** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[Werewolf](/Mechanics/CLI/bestiary/humanoid/werewolf.md).** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > ^player-characters-as-lycanthropes
 
 ## Statblock
 
 ```ad-statblock
 title: Wererat
-![](Mechanics/CLI/bestiary/humanoid/token/wererat.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/wererat.webp#token)
 *Medium humanoid (human, shapechanger), Lawful Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -79,10 +94,9 @@ title: Wererat
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft. (rat form only), passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft. (rat form only), passive Perception 12
 - **Damage Immunities** bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Gear** [hand crossbow](Mechanics/CLI/items/hand-crossbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** Common (can't speak in rat form)
 - **Challenge** 2
 
@@ -90,7 +104,7 @@ title: Wererat
 
 ***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Smell.*** The wererat has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The wererat has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 
@@ -108,3 +122,7 @@ title: Wererat
 ## Environment
 
 forest, urban
+
+## Sources
+
+_Monster Manual p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

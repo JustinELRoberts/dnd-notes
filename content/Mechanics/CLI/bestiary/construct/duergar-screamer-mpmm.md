@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Screamer
-created: 2026-03-09T12:15:34.118-04:00
-modified: 2026-03-09T12:15:34.118-04:00
-published: 2026-03-09T12:15:34.118-04:00
+created: 2026-03-29T21:53:56.154-04:00
+modified: 2026-03-29T21:53:56.154-04:00
+published: 2026-03-29T21:53:56.154-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,11 +15,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Screamer (MPMM)
+ac: 15
+hp: 38
+modifier: -2
+hit_dice: 7d8 + 7
+cr: "3"
+stats:
+  - 18
+  - 7
+  - 12
+  - 5
+  - 5
+  - 5
+source:
+  - MPMM
 ---
 
 # Duergar Screamer
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 111_
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
 
@@ -33,11 +48,11 @@ These machines are deployed to assist with construction projects and war. Some d
 
 ```ad-statblock
 title: Duergar Screamer
-![](Mechanics/CLI/bestiary/construct/token/duergar-screamer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/duergar-screamer-mpmm.webp#token)
 *Medium construct (dwarf), Any alignment*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 38 (`7d8 + 7`) 
+- **Hit Points** 38 (7d8 + 7) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,9 +62,9 @@ title: Duergar Screamer
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 7
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Dwarvish but can't speak
 - **Challenge** 3
 
@@ -59,7 +74,7 @@ title: Duergar Screamer
 
 ***Drill.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage.
 
-***Sonic Scream.*** The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (`2d6`) thunder damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Sonic Scream.*** The screamer emits destructive energy in a 15-foot cube. Each creature in that area must succeed on a DC 11 Strength saving throw or take 7 (`2d6`) thunder damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Reactions
 
@@ -71,3 +86,7 @@ title: Duergar Screamer
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 111_

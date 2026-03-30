@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Death Tyrant
-created: 2026-03-09T12:15:33.808-04:00
-modified: 2026-03-09T12:15:33.808-04:00
-published: 2026-03-09T12:15:33.808-04:00
+created: 2026-03-29T21:53:55.592-04:00
+modified: 2026-03-29T21:53:55.592-04:00
+published: 2026-03-29T21:53:55.592-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/14
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Death Tyrant
+ac: 19
+hp: 187
+modifier: 2
+hit_dice: 25d10 + 50
+cr: "14"
+stats:
+  - 10
+  - 14
+  - 14
+  - 19
+  - 15
+  - 19
+source:
+  - MM
 ---
 
 # Death Tyrant
 
-_Source: Monster Manual p. 29_\
 ![](Mechanics/CLI/bestiary/undead/img/death-tyrant.webp#right)
-
 On rare occasions, a beholder's sleeping mind drifts to places beyond its normal madness, imagining a reality in which it exists beyond death. When such dreams take hold, a beholder can transform, its flesh sloughing away to leave a death tyrant behind. This monster possesses the cunning and much of the magic it had in life, but it is fueled by the power of undeath. A death tyrant appears as a massive, naked skull, with a pinpoint of red light gleaming in its hollow eye socket. With its eyestalks rotted away, ten spectral eyes hover above the creature and glare in all directions.
 
 ## Deathly Despot
@@ -53,11 +68,11 @@ The death tyrant can't repeat an effect until all three have been used, and it c
 
 ```ad-statblock
 title: Death Tyrant
-![](Mechanics/CLI/bestiary/undead/token/death-tyrant.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/death-tyrant.webp#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 187 (`25d10 + 50`) 
+- **Hit Points** 187 (25d10 + 50) 
 - **Speed** 0 ft., fly 20 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,18 +81,18 @@ title: Death Tyrant
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +5, Constitution +7, Intelligence +9, Wisdom +7, Charisma +9
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +12
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 22
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 22
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 14
 
 ## Traits
 
-***Negative Energy Cone.*** The death tyrant's central eye emits an [invisible](Mechanics/CLI/rules/conditions.md#Invisible), magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.
+***Negative Energy Cone.*** The death tyrant's central eye emits an [invisible](/Mechanics/CLI/conditions.md#Invisible), magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.
 
-Any creature in that area can't regain hit points. Any humanoid that dies there becomes a [zombie](Mechanics/CLI/bestiary/undead/zombie-xmm.md) under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.
+Any creature in that area can't regain hit points. Any humanoid that dies there becomes a [zombie](/Mechanics/CLI/bestiary/undead/zombie-xmm.md) under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.
 
 ## Actions
 
@@ -85,16 +100,16 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 ***Eye Rays.*** The death tyrant shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-- **1. Charm Ray.** The targeted creature must succeed on a DC 17 Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the death tyrant for 1 hour, or until the death tyrant harms the creature.  
-- **2. Paralyzing Ray.** The targeted creature must succeed on a DC 17 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **3. Fear Ray.** The targeted creature must succeed on a DC 17 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **1. Charm Ray.** The targeted creature must succeed on a DC 17 Wisdom saving throw or be [charmed](/Mechanics/CLI/conditions.md#Charmed) by the death tyrant for 1 hour, or until the death tyrant harms the creature.  
+- **2. Paralyzing Ray.** The targeted creature must succeed on a DC 17 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **3. Fear Ray.** The targeted creature must succeed on a DC 17 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **4. Slowing Ray.** The targeted creature must succeed on a DC 17 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **5. Enervation Ray.** The targeted creature must make a DC 17 Constitution saving throw, taking 36 (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one.  
-- **6. Telekinetic Ray.** If the target is a creature, it must succeed on a DC 17 Strength saving throw or the death tyrant moves it up to 30 feet in any direction. It is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the ray's telekinetic grip until the start of the death tyrant's next turn or until the death tyrant is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).  
+- **6. Telekinetic Ray.** If the target is a creature, it must succeed on a DC 17 Strength saving throw or the death tyrant moves it up to 30 feet in any direction. It is [restrained](/Mechanics/CLI/conditions.md#Restrained) by the ray's telekinetic grip until the start of the death tyrant's next turn or until the death tyrant is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).  
 
     If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The death tyrant can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.  
-- **7. Sleep Ray.** The targeted creature must succeed on a DC 17 Wisdom saving throw or fall asleep and remain [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.  
-- **8. Petrification Ray.** The targeted creature must make a DC 17 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](Mechanics/CLI/rules/conditions.md#Petrified) until freed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.  
+- **7. Sleep Ray.** The targeted creature must succeed on a DC 17 Wisdom saving throw or fall asleep and remain [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.  
+- **8. Petrification Ray.** The targeted creature must make a DC 17 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is [restrained](/Mechanics/CLI/conditions.md#Restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](/Mechanics/CLI/conditions.md#Petrified) until freed by the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.  
 - **9. Disintegration Ray.** If the target is a creature, it must succeed on a DC 17 Dexterity saving throw or take 45 (`10d8`) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.  
 
     If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.  
@@ -111,7 +126,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the death t
 When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects:
 
 - An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.  
-- Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be [grappled](Mechanics/CLI/rules/conditions.md#Grappled). Escaping requires a successful DC 17 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check.  
+- Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be [grappled](/Mechanics/CLI/conditions.md#Grappled). Escaping requires a successful DC 17 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/Mechanics/CLI/skills.md#Acrobatics)) check.  
 - A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant's choice. The eye then closes and disappears.  
 
 The death tyrant can't repeat an effect until all three have been used, and it can't use the same effect on consecutive rounds.
@@ -131,3 +146,7 @@ If the death tyrant dies, these effects fade over the course of `1d10` days.
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 29_

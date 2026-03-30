@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hook Horror
-created: 2026-03-09T12:15:33.849-04:00
-modified: 2026-03-09T12:15:33.849-04:00
-published: 2026-03-09T12:15:33.849-04:00
+created: 2026-03-29T21:53:55.637-04:00
+modified: 2026-03-29T21:53:55.637-04:00
+published: 2026-03-29T21:53:55.637-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hook Horror
+ac: 15
+hp: 75
+modifier: 0
+hit_dice: 10d10 + 20
+cr: "3"
+stats:
+  - 18
+  - 10
+  - 15
+  - 6
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Hook Horror
 
-_Source: Monster Manual p. 189_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/hook-horror.webp#right)
-
 A fierce predator of the Underdark, the hook horror aggressively defends its hunting grounds. The subterranean caverns where these creatures dwell echo with the constant clacking and scraping of their hooks as they wend their way up cliffs and along cavern walls. The monstrous hook horror has a head resembling a vulture's and the torso of an enormous beetle, with an exoskeleton studded by sharp, bony protuberances. It gains its name from its long, powerfully built arms and legs, which end in wickedly curved hooked claws.
 
 ## Echoes in the Dark
@@ -39,11 +54,11 @@ Hook horrors live in extended family groups or clans. Each clan is ruled by the 
 
 ```ad-statblock
 title: Hook Horror
-![](Mechanics/CLI/bestiary/monstrosity/token/hook-horror.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/hook-horror.webp#token)
 *Large monstrosity, Neutral*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 75 (`10d10 + 20`) 
+- **Hit Points** 75 (10d10 + 20) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,16 +67,16 @@ title: Hook Horror
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 13
 - **Languages** Hook Horror
 - **Challenge** 3
 
 ## Traits
 
-***Echolocation.*** The hook horror can't use its blindsight while [deafened](Mechanics/CLI/rules/conditions.md#Deafened).
+***Echolocation.*** The hook horror can't use its blindsight while [deafened](/Mechanics/CLI/conditions.md#Deafened).
 
-***Keen Hearing.*** The hook horror has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing.
+***Keen Hearing.*** The hook horror has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing.
 
 ## Actions
 
@@ -75,3 +90,7 @@ title: Hook Horror
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 189_

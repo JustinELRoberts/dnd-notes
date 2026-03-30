@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Champion
-created: 2026-03-09T12:15:33.774-04:00
-modified: 2026-03-09T12:15:33.774-04:00
-published: 2026-03-09T12:15:33.774-04:00
+created: 2026-03-29T21:53:55.556-04:00
+modified: 2026-03-29T21:53:55.556-04:00
+published: 2026-03-29T21:53:55.556-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/fighter/champion
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Champion
 
-_[Fighter](./fighter-xphb.md): Fighter Subclass_\
-_Source: Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_[Fighter](./fighter-xphb.md): Fighter Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,13 +58,13 @@ A Champion focuses on the development of martial prowess in a relentless pursuit
 
 ### Improved Critical (Level 3)
 
-Your attack rolls with weapons and Unarmed Strikes can score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 19 or 20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 19 or 20 on the `d20`.
 
 ### Remarkable Athlete (Level 3)
 
-Thanks to your athleticism, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls and Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) checks.
+Thanks to your athleticism, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls and Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) checks.
 
-In addition, immediately after you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md), you can move up to half your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+In addition, immediately after you score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md), you can move up to half your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Additional Fighting Style (Level 7)
 
@@ -73,16 +72,20 @@ You gain another Fighting Style feat of your choice.
 
 ### Heroic Warrior (Level 10)
 
-The thrill of battle drives you toward victory. During combat, you can give yourself [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) whenever you start your turn without it.
+The thrill of battle drives you toward victory. During combat, you can give yourself [Heroic Inspiration](/Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) whenever you start your turn without it.
 
 ### Superior Critical (Level 15)
 
-Your attack rolls with weapons and Unarmed Strikes can now score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 18–20 on the `d20`.
+Your attack rolls with weapons and Unarmed Strikes can now score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 18–20 on the `d20`.
 
 ### Survivor (Level 18)
 
 You attain the pinnacle of resilience in battle, giving you these benefits.
 
-**Defy Death.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [Death Saving Throws](Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md). Moreover, when you roll 18–20 on a [Death Saving Throw](Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md), you gain the benefit of rolling a 20 on it.
+**Defy Death.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on [Death Saving Throws](/Mechanics/CLI/variant-rules/death-saving-throw-xphb.md). Moreover, when you roll 18–20 on a [Death Saving Throw](/Mechanics/CLI/variant-rules/death-saving-throw-xphb.md), you gain the benefit of rolling a 20 on it.
 
-**Heroic Rally.** At the start of each of your turns, you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to 5 plus your Constitution modifier if you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied) and have at least 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+**Heroic Rally.** At the start of each of your turns, you regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to 5 plus your Constitution modifier if you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied) and have at least 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
+
+## Sources
+
+_Player's Handbook (2024) p. 96. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

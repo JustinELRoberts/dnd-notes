@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Oathbow
-created: 2026-03-09T12:15:34.053-04:00
-modified: 2026-03-09T12:15:34.053-04:00
-published: 2026-03-09T12:15:34.053-04:00
+created: 2026-03-29T21:53:56.068-04:00
+modified: 2026-03-29T21:53:56.068-04:00
+published: 2026-03-29T21:53:56.068-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -19,12 +19,13 @@ obsidianUIMode: preview
 
 # Oathbow
 
-_Weapon ([longbow](Mechanics/CLI/items/longbow-xphb.md)), major, very rare (requires attunement)_\
+_Weapon ([longbow](/Mechanics/CLI/items/longbow.md)), major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/oathbow.webp#right)
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
+- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 When you nock an arrow on this bow, it whispers in Elvish, "Swift defeat to my enemies." When you use this weapon to make a ranged attack, you can, as a command phrase, say, "Swift death to you who have wronged me." The target of your attack becomes your sworn enemy until it dies or until dawn seven days later. You can have only one such sworn enemy at a time. When your sworn enemy dies, you can choose a new one after the next dawn.
@@ -33,4 +34,6 @@ When you make a ranged attack roll with this weapon against your sworn enemy, yo
 
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
 
-_Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

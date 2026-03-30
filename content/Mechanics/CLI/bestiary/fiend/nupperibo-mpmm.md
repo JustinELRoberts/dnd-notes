@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nupperibo
-created: 2026-03-09T12:15:34.053-04:00
-modified: 2026-03-09T12:15:34.053-04:00
-published: 2026-03-09T12:15:34.053-04:00
+created: 2026-03-29T21:53:56.069-04:00
+modified: 2026-03-29T21:53:56.070-04:00
+published: 2026-03-29T21:53:56.070-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -13,11 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nupperibo (MPMM)
+ac: 13
+hp: 11
+modifier: 0
+hit_dice: 2d8 + 2
+cr: 1/2
+stats:
+  - 16
+  - 11
+  - 13
+  - 3
+  - 8
+  - 1
+source:
+  - MPMM
 ---
 
 # Nupperibo
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 196_\
 ![](Mechanics/CLI/bestiary/fiend/img/nupperibo.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -30,7 +46,7 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse p. 196_\
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
 
-Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](Mechanics/CLI/bestiary/beast/stirge.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
+Individually, nupperibos are weak, but they're rarely alone and can be dangerous when gathered into packs. Clouds of stinging insects, [stirges](/Mechanics/CLI/bestiary/beast/stirge.md), and other vermin surround them in a terrifying, reeking sheath that torments any non-devil that draws near.
 
 A nupperibo knows nothing but the desire to destroy non-Fiends. Once a nupperibo's vermin cloud senses a potential meal, any nearby nupperibos pursue that prey tirelessly until it or the nupperibos are slain, or some other potential victim crosses the devils' path and distracts them.
 
@@ -38,11 +54,11 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 
 ```ad-statblock
 title: Nupperibo
-![](Mechanics/CLI/bestiary/fiend/token/nupperibo-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/nupperibo-mpmm.webp#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,11 +67,11 @@ title: Nupperibo
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +1
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 20 ft. (blind beyond this radius), passive Perception 11
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +1
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 20 ft. (blind beyond this radius), passive Perception 11
 - **Damage Resistances** acid, cold
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Infernal but can't speak
 - **Challenge** 1/2
 
@@ -71,3 +87,7 @@ title: Nupperibo
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 196_

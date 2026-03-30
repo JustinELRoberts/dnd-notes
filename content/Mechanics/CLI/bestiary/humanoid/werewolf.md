@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Werewolf
-created: 2026-03-09T12:15:33.925-04:00
-modified: 2026-03-09T12:15:33.925-04:00
-published: 2026-03-09T12:15:33.925-04:00
+created: 2026-03-29T21:53:55.928-04:00
+modified: 2026-03-29T21:53:55.928-04:00
+published: 2026-03-29T21:53:55.928-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Werewolf
+ac: 11
+hp: 58
+modifier: 1
+hit_dice: 9d8 + 18
+cr: "3"
+stats:
+  - 15
+  - 13
+  - 14
+  - 10
+  - 11
+  - 10
+source:
+  - MM
 ---
 
 # Werewolf
 
-_Source: Monster Manual p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/werewolf.webp#right)
-
 A werewolf is a savage predator. In its humanoid form, a werewolf has heightened senses, a fiery temper, and a tendency to eat rare meat. Its wolf form is a fearsome predator, but its hybrid form is more terrifying by far-a furred and well-muscled humanoid body topped by a ravening wolf's head. A werewolf can wield weapons in hybrid form, though it prefers to tear foes apart with its powerful claws and bite.
 
 Most werewolves flee civilized lands not long after becoming afflicted. Those that reject the curse fear what will happen if they remain among their friends and family. Those that embrace the curse fear discovery and the consequences of their murderous acts. In the wild, werewolves form packs that also include wolves and dire wolves.
@@ -39,7 +54,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -53,26 +68,26 @@ Some individuals see little point in fighting the curse and accept what they are
 >
 > The following information applies to specific lycanthropes.
 >
-> **[Werebear](Mechanics/CLI/bestiary/humanoid/werebear.md).** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[Werebear](/Mechanics/CLI/bestiary/humanoid/werebear.md).** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 >
-> **[Wereboar](Mechanics/CLI/bestiary/humanoid/wereboar.md).** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[Wereboar](/Mechanics/CLI/bestiary/humanoid/wereboar.md).** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 >
-> **[Wererat](Mechanics/CLI/bestiary/humanoid/wererat.md).** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
+> **[Wererat](/Mechanics/CLI/bestiary/humanoid/wererat.md).** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 >
-> **[Weretiger](Mechanics/CLI/bestiary/humanoid/weretiger.md).** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[Weretiger](/Mechanics/CLI/bestiary/humanoid/weretiger.md).** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 >
-> **[Werewolf](Mechanics/CLI/bestiary/humanoid/werewolf.md).** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[Werewolf](/Mechanics/CLI/bestiary/humanoid/werewolf.md).** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > ^player-characters-as-lycanthropes
 
 ## Statblock
 
 ```ad-statblock
 title: Werewolf
-![](Mechanics/CLI/bestiary/humanoid/token/werewolf.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/werewolf.webp#token)
 *Medium humanoid (human, shapechanger), Chaotic Evil*
 
 - **Armor Class** 11 (12 natural armor in wolf or hybrid form)
-- **Hit Points** 58 (`9d8 + 18`) 
+- **Hit Points** 58 (9d8 + 18) 
 - **Speed** 30 ft. (40 ft. in wolf form)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -81,10 +96,9 @@ title: Werewolf
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
 - **Senses** passive Perception 14
 - **Damage Immunities** bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** Common (can't speak in wolf form)
 - **Challenge** 3
 
@@ -92,7 +106,7 @@ title: Werewolf
 
 ***Shapechanger.*** The werewolf can use its action to polymorph into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The werewolf has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or smell.
 
 ## Actions
 
@@ -110,3 +124,7 @@ title: Werewolf
 ## Environment
 
 forest, hill
+
+## Sources
+
+_Monster Manual p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

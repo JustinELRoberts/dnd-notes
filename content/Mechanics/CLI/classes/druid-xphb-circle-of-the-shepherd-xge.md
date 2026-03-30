@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Circle of the Shepherd
-created: 2026-03-09T12:15:33.804-04:00
-modified: 2026-03-09T12:15:33.804-04:00
-published: 2026-03-09T12:15:33.804-04:00
+created: 2026-03-29T21:53:55.587-04:00
+modified: 2026-03-29T21:53:55.587-04:00
+published: 2026-03-29T21:53:55.587-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/subclass/druid/shepherd
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Circle of the Shepherd
 
-_[Druid](./druid-xphb.md): Druid Subclass_\
-_Source: Xanathar's Guide to Everything p. 23_
+_[Druid](./druid-xphb.md): Druid Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -70,13 +69,13 @@ Starting at 2nd level, you can call forth nature spirits to influence the world 
 
 As a bonus action, you can move the spirit up to 60 feet to a point you can see.
 
-The spirit persists for 1 minute or until you're [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). Once you use this feature, you can't use it again until you finish a short or long rest.
+The spirit persists for 1 minute or until you're [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). Once you use this feature, you can't use it again until you finish a short or long rest.
 
 The effect of the spirit's aura depends on the type of spirit you summon from the options below.
 
 **Bear Spirit.** The bear spirit grants you and your allies its might and endurance. Each creature of your choice in the aura when the spirit appears gains temporary hit points equal to 5 + your druid level. In addition, you and your allies gain advantage on Strength checks and Strength saving throws while in the aura.
 
-**Hawk Spirit.** The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks while in the aura.
+**Hawk Spirit.** The hawk spirit is a consummate hunter, aiding you and your allies with its keen sight. When a creature makes an attack roll against a target in the spirit's aura, you can use your reaction to grant advantage to that attack roll. In addition, you and your allies have advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks while in the aura.
 
 **Unicorn Spirit.** The unicorn spirit lends its protection to those nearby. You and your allies gain advantage on all ability checks made to detect creatures in the spirit's aura. In addition, if you cast a spell using a spell slot that restores hit points to any creature inside or outside the aura, each creature of your choice in the aura also regains hit points equal to your druid level.
 
@@ -93,6 +92,10 @@ Beginning at 10th level, your Spirit Totem safeguards the beasts and fey that yo
 
 ### Faithful Summons (Level 14)
 
-Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) against your will, you can immediately gain the benefits of [conjure animals](Mechanics/CLI/spells/conjure-animals-xphb.md) as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [concentration](Mechanics/CLI/rules/conditions.md#Concentration), or until you dismiss it (no action required).
+Starting at 14th level, the nature spirits you commune with protect you when you are the most defenseless. If you are reduced to 0 hit points or are [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) against your will, you can immediately gain the benefits of [conjure animals](/Mechanics/CLI/spells/conjure-animals-xphb.md) as if it were cast using a 9th-level spell slot. It summons four beasts of your choice that are challenge rating 2 or lower. The conjured beasts appear within 20 feet of you. If they receive no commands from you, they protect you from harm and attack your foes. The spell lasts for 1 hour, requiring no [concentration](/Mechanics/CLI/conditions.md#Concentration), or until you dismiss it (no action required).
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Sources
+
+_Xanathar's Guide to Everything p. 23_

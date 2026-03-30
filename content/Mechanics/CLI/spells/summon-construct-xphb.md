@@ -2,31 +2,25 @@
 publish: true
 aliases:
   - Summon Construct
-created: 2026-03-09T12:15:33.838-04:00
-modified: 2026-03-09T12:15:33.838-04:00
-published: 2026-03-09T12:15:33.838-04:00
+created: 2026-03-29T21:53:55.623-04:00
+modified: 2026-03-29T21:53:55.623-04:00
+published: 2026-03-29T21:53:55.623-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/artificer
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/4th-level
   - ttrpg-cli/spell/school/conjuration
   - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/clockwork-sorcery
+  - ttrpg-cli/spell/subclass/clockwork-soul
   - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Clockwork Sorcery)
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Summon Construct
@@ -39,12 +33,27 @@ _4th-level, Conjuration_\
 - **Components:** V, S, M (a lockbox worth 400+ GP)
 - **Duration:** Concentration, up to 1 hour
 
-You call forth the spirit of a Construct. It manifests in an unoccupied space that you can see within range and uses the [Construct Spirit](Mechanics/CLI/bestiary/construct/construct-spirit-xphb.md) stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles an animate statue (you determine the appearance) made of the chosen material, which determines certain details in its stat block. The creature disappears when it drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or when the spell ends.
+You call forth the spirit of a Construct. It manifests in an unoccupied space that you can see within range and uses the [Construct Spirit](/Mechanics/CLI/bestiary/construct/construct-spirit-xphb.md) stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles an animate statue (you determine the appearance) made of the chosen material, which determines certain details in its stat block. The creature disappears when it drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or when the spell ends.
 
-The creature is an ally to you and your allies. In combat, the creature shares your [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action and uses its movement to avoid danger.
+The creature is an ally to you and your allies. In combat, the creature shares your [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the [Dodge](/Mechanics/CLI/actions.md#Dodge) action and uses its movement to avoid danger.
 
 **Using a Higher-Level Spell Slot.** Use the spell slot's level for the spell's level in the stat block.
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Clockwork Sorcery)](Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 324_
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Sorcerer (Clockwork Soul)](/Mechanics/CLI/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE")
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer (Clockwork Soul)](/Mechanics/CLI/lists/list-spells-classes-clockwork-soul-tce.md "subclass=TCE;class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Sorcerer (Clockwork Sorcery)](/Mechanics/CLI/lists/list-spells-classes-clockwork-sorcery-xphb.md "subclass=XPHB;class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 324_

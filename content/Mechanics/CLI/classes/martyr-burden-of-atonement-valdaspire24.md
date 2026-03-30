@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Atonement
-created: 2026-03-09T12:15:33.944-04:00
-modified: 2026-03-09T12:15:33.944-04:00
-published: 2026-03-09T12:15:33.944-04:00
+created: 2026-03-29T21:53:55.946-04:00
+modified: 2026-03-29T21:53:55.946-04:00
+published: 2026-03-29T21:53:55.946-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/martyr/atonement
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Atonement
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,43 +62,47 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [Sanctuary](Mechanics/CLI/spells/sanctuary-xphb.md) |
-| 5 | [Calm Emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) |
-| 9 | [Remove Curse](Mechanics/CLI/spells/remove-curse-xphb.md), [Speak with Dead](Mechanics/CLI/spells/speak-with-dead-xphb.md) |
-| 13 | [Death Ward](Mechanics/CLI/spells/death-ward-xphb.md), [Stoneskin](Mechanics/CLI/spells/stoneskin-xphb.md) |
-| 17 | [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md), [Mass Cure Wounds](Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
+| 3 | [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [Sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md) |
+| 5 | [Calm Emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md) |
+| 9 | [Remove Curse](/Mechanics/CLI/spells/remove-curse-xphb.md), [Speak with Dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md) |
+| 13 | [Death Ward](/Mechanics/CLI/spells/death-ward-xphb.md), [Stoneskin](/Mechanics/CLI/spells/stoneskin-xphb.md) |
+| 17 | [Greater Restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md), [Mass Cure Wounds](/Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
 ^atonement-spells
 
 ### Redirection (Level 3)
 
-When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the attack to hit you instead.
+When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to force the attack to hit you instead.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage. This damage ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage. This damage ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
 ### Sin Eater (Level 6)
 
-You can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to transfer negative effects from any number of willing creatures within 60 feet of yourself to you.
+You can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to transfer negative effects from any number of willing creatures within 60 feet of yourself to you.
 
-If a chosen effect forced the original target to make a saving throw to avoid or end it, you make that saving throw against it with [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md). On a success, the effect ends; on a failure, the effect ends for the original target and affects you instead as if you were the original target.
+If a chosen effect forced the original target to make a saving throw to avoid or end it, you make that saving throw against it with [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md). On a success, the effect ends; on a failure, the effect ends for the original target and affects you instead as if you were the original target.
 
 You can transfer multiple negative effects of the same type to yourself, affecting you only once each time you use this feature.
 
 You can transfer the following negative effects.
 
-- 1 [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level
-- A curse, including the target's [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md) to a cursed magic item
+- 1 [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) level
+- A curse, including the target's [Attunement](/Mechanics/CLI/variant-rules/attunement-xphb.md) to a cursed magic item
 - Any reduction to one of the target's ability scores
-- Any reduction to the target's [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum
-- The [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [Petrified](Mechanics/CLI/rules/conditions.md#Petrified), [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), or [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) conditions
+- Any reduction to the target's [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum
+- The [Blinded](/Mechanics/CLI/conditions.md#Blinded), [Charmed](/Mechanics/CLI/conditions.md#Charmed), [Deafened](/Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [Petrified](/Mechanics/CLI/conditions.md#Petrified), [Poisoned](/Mechanics/CLI/conditions.md#Poisoned), or [Stunned](/Mechanics/CLI/conditions.md#Stunned) conditions
 
 ### Selfless Sacrifice (Level 14)
 
 You gain the following benefits.
 
-**Sacrificial Challenge.** When you use your Sacrificial Strike, you can choose for the target to have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls it makes against creatures other than you until the start of your next turn.
+**Sacrificial Challenge.** When you use your Sacrificial Strike, you can choose for the target to have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls it makes against creatures other than you until the start of your next turn.
 
-**Sacrificial Luck.** When you use your Sacrificial [Skill](Mechanics/CLI/rules/variant-rules/skill-xphb.md) to turn a failure into a success, each ally that can see you within 30 feet of yourself adds `1d6` to the next [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) it makes before the start of your next turn.
+**Sacrificial Luck.** When you use your Sacrificial [Skill](/Mechanics/CLI/variant-rules/skill-xphb.md) to turn a failure into a success, each ally that can see you within 30 feet of yourself adds `1d6` to the next [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) it makes before the start of your next turn.
 
 ### Ever-Vigilant (Level 18)
 
-You gain a special [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) that you can only take to use Reprisal or Redirection. You can only take one [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) per turn. Once you take this special [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md), you can't take it again until the start of your next turn.
+You gain a special [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) that you can only take to use Reprisal or Redirection. You can only take one [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) per turn. Once you take this special [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md), you can't take it again until the start of your next turn.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

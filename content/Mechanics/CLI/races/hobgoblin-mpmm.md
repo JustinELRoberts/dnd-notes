@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hobgoblin
-created: 2026-03-09T12:15:34.013-04:00
-modified: 2026-03-09T12:15:34.013-04:00
-published: 2026-03-09T12:15:34.013-04:00
+created: 2026-03-29T21:53:56.020-04:00
+modified: 2026-03-29T21:53:56.020-04:00
+published: 2026-03-29T21:53:56.020-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/hobgoblin
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Hobgoblin
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 23_\
 ![](Mechanics/CLI/races/img/hobgoblin.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -35,13 +34,13 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](/Mechanics/CLI/conditions.md#Charmed) condition on yourself.
 
 ### Fey Gift
 
-You can use this trait to take the [Help](Mechanics/CLI/rules/actions.md#Help) action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+You can use this trait to take the [Help](/Mechanics/CLI/actions.md#Help) action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
-Starting at 3rd level, choose one of the options below each time you take the [Help](Mechanics/CLI/rules/actions.md#Help) action with this trait:
+Starting at 3rd level, choose one of the options below each time you take the [Help](/Mechanics/CLI/actions.md#Help) action with this trait:
 
 - **Hospitality.** You and the creature you help each gain a number of temporary hit points equal to `1d6` plus your proficiency bonus.
 - **Passage.** You and the creature you help each increase your walking speeds by 10 feet until the start of your next turn.
@@ -58,3 +57,7 @@ Hobgoblins trace their origins to the ancient courts of the Feywild, where they 
 On some worlds, such bonds lead hobgoblins to form communities with deep ties to one another. In Eberron and the Forgotten Realms, vast hobgoblin legions have emerged, with ranks of devoted soldiers famed for their unity.
 
 Hobgoblins are generally taller than their goblin cousins but not quite as big as bugbears. They have curved, pointed ears and noses that turn bright red or blue during displays of emotion.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 23_

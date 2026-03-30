@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stone Giant Dreamwalker
-created: 2026-03-09T12:15:33.991-04:00
-modified: 2026-03-09T12:15:33.991-04:00
-published: 2026-03-09T12:15:33.991-04:00
+created: 2026-03-29T21:53:55.998-04:00
+modified: 2026-03-29T21:53:55.998-04:00
+published: 2026-03-29T21:53:55.998-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/10
@@ -16,13 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Stone Giant Dreamwalker (MPMM)
+ac: 18
+hp: 161
+modifier: 2
+hit_dice: 14d12 + 70
+cr: "10"
+stats:
+  - 23
+  - 14
+  - 21
+  - 10
+  - 8
+  - 12
+source:
+  - MPMM
+  - VGM
 ---
 
 # Stone Giant Dreamwalker
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150_\
 ![](Mechanics/CLI/bestiary/giant/img/stone-giant-dreamwalker.webp#right)
-
 The surface of the world is an alien realm to stone giants: fluctuating, temporary, exposed to gusting wind and sudden rain. It is as wildly changeable as a dream, and that's how they regard it—as a dream. Nothing there is permanent, so nothing there is real. What happens on the surface doesn't matter. Promises and bargains made there needn't be honored. Life and even art hold less value there.
 
 Stone giants sometimes go on dream quests in the surface world, seeking inspiration for their art, a break from decades-long ennui, or satisfaction of simple curiosity. Some who go on these quests let themselves become lost in the dream. Other stone giants are banished to the surface as punishment. Regardless of the reason they ended up on the surface, if they don't take shelter under stone, such stone giants can become dreamwalkers.
@@ -33,11 +49,11 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 
 ```ad-statblock
 title: Stone Giant Dreamwalker
-![](Mechanics/CLI/bestiary/giant/token/stone-giant-dreamwalker-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/stone-giant-dreamwalker-mpmm.webp#token)
 *Huge giant, Typically  Chaotic Neutral*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 161 (`14d12 + 70`) 
+- **Hit Points** 161 (14d12 + 70) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,16 +62,15 @@ title: Stone Giant Dreamwalker
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +6, Constitution +9, Wisdom +3
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +14, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
-- **Gear** [greatclub](Mechanics/CLI/items/greatclub-xphb.md)
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +14, [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Common, Giant
 - **Challenge** 10
 
 ## Traits
 
-***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). On a failed save, the creature is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the giant. A creature [charmed](Mechanics/CLI/rules/conditions.md#Charmed) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.
+***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). On a failed save, the creature is [charmed](/Mechanics/CLI/conditions.md#Charmed) by the giant. A creature [charmed](/Mechanics/CLI/conditions.md#Charmed) in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.
 
 ## Actions
 
@@ -63,9 +78,9 @@ title: Stone Giant Dreamwalker
 
 ***Greatclub.*** *Melee Weapon Attack:* `+10` to hit, reach 15 ft., one target. *Hit:* 24 (`4d8 + 6`) bludgeoning damage.
 
-***Rock.*** *Ranged Weapon Attack:* `+10` to hit, range 60/240 ft., one target. *Hit:* 22 (`3d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Rock.*** *Ranged Weapon Attack:* `+10` to hit, range 60/240 ft., one target. *Hit:* 22 (`3d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
-***Petrifying Touch.*** The giant touches one Medium or smaller creature within 10 feet of it that is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes [petrified](Mechanics/CLI/rules/conditions.md#Petrified), and the giant can adhere the target to its stony body. [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spells and other magic that can undo petrification have no effect on a [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creature adhered to the giant unless the giant is dead, in which case the magic works normally, freeing the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creature as well as ending the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) condition on it.
+***Petrifying Touch.*** The giant touches one Medium or smaller creature within 10 feet of it that is [charmed](/Mechanics/CLI/conditions.md#Charmed) by it. The target must make a DC 17 Constitution saving throw. On a failed save, the target becomes [petrified](/Mechanics/CLI/conditions.md#Petrified), and the giant can adhere the target to its stony body. [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spells and other magic that can undo petrification have no effect on a [petrified](/Mechanics/CLI/conditions.md#Petrified) creature adhered to the giant unless the giant is dead, in which case the magic works normally, freeing the [petrified](/Mechanics/CLI/conditions.md#Petrified) creature as well as ending the [petrified](/Mechanics/CLI/conditions.md#Petrified) condition on it.
 ```
 
 ^statblock
@@ -73,3 +88,7 @@ title: Stone Giant Dreamwalker
 ## Environment
 
 coastal, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 234, Volo's Guide to Monsters p. 150_

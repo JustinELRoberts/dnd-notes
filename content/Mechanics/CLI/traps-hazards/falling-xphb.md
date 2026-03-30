@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Falling
-created: 2026-03-09T12:15:33.948-04:00
-modified: 2026-03-09T12:15:33.948-04:00
-published: 2026-03-09T12:15:33.948-04:00
+created: 2026-03-29T21:53:55.950-04:00
+modified: 2026-03-29T21:53:55.950-04:00
+published: 2026-03-29T21:53:55.950-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
 cssclasses:
@@ -16,9 +16,9 @@ obsidianUIMode: preview
 
 _Generic Hazard_
 
-A creature that falls takes `1d6` Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of `20d6`. When the creature lands, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition unless it avoids taking any damage from the fall.
+A creature that falls takes `1d6` Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of `20d6`. When the creature lands, it has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition unless it avoids taking any damage from the fall.
 
-A creature that falls into water or another liquid can use its [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to make a DC 15 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+A creature that falls into water or another liquid can use its [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to make a DC 15 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/Mechanics/CLI/skills.md#Acrobatics)) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
 
 ## Sources
 

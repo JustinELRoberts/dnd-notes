@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eldritch Cannon, Force Ballista
-created: 2026-03-09T12:15:34.105-04:00
-modified: 2026-03-09T12:15:34.105-04:00
-published: 2026-03-09T12:15:34.105-04:00
+created: 2026-03-29T21:53:56.140-04:00
+modified: 2026-03-29T21:53:56.140-04:00
+published: 2026-03-29T21:53:56.140-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/object/size/unknown
@@ -16,12 +16,10 @@ obsidianUIMode: preview
 
 # Eldritch Cannon, Force Ballista
 
-_Source: Tasha's Cauldron of Everything p. 17_
-
 ![Human Artillerist with Eldritch Cannon](Mechanics/CLI/objects/img/eldritch-cannon.webp#right)
 
 > [!note]
-> Created by the Eldritch Cannon subclass feature.
+> Created by the [Eldritch Cannon](/Mechanics/CLI/classes/artificer-artillerist-tce.md#Eldritch%20Cannon%20\(Level%203\)) subclass feature.
 
 ![The Gnome Artificer Vi and...](Mechanics/CLI/objects/img/eldritch-cannon-2.webp#center "The Gnome Artificer Vi and Her Cockatrice-like Eldritch Cannon Battle Foes Atop a Lightning Train")
 
@@ -38,7 +36,7 @@ title: Eldritch Cannon, Force Ballista
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), [invisible](Mechanics/CLI/rules/conditions.md#Invisible), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), [invisible](/Mechanics/CLI/conditions.md#Invisible), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [stunned](/Mechanics/CLI/conditions.md#Stunned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 
 ## Actions
 
@@ -46,3 +44,7 @@ title: Eldritch Cannon, Force Ballista
 ```
 
 ^statblock
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 17_

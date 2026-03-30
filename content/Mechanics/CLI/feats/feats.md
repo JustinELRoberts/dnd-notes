@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-09T12:15:34.142-04:00
-modified: 2026-03-09T12:15:34.142-04:00
-published: 2026-03-09T12:15:34.142-04:00
+created: 2026-03-29T21:53:56.195-04:00
+modified: 2026-03-29T21:53:56.195-04:00
+published: 2026-03-29T21:53:56.195-04:00
 cssclasses:
   - json5e-note
   - json5e-index
@@ -48,6 +48,7 @@ obsidianUIMode: preview
 - [Druidic Warrior](./druidic-warrior-xphb.md)
 - [Dual Wielder](./dual-wielder-xphb.md)
 - [Dueling](./dueling-xphb.md)
+- [Dungeon Delver](./dungeon-delver.md)
 - [Durable](./durable-xphb.md)
 - [Dwarven Fortitude](./dwarven-fortitude-xge.md)
 - [Eldritch Adept](./eldritch-adept-tce.md)
@@ -83,6 +84,7 @@ obsidianUIMode: preview
 - [Interception](./interception-xphb.md)
 - [Keen Mind](./keen-mind-xphb.md)
 - [Lightly Armored](./lightly-armored-xphb.md)
+- [Linguist](./linguist.md)
 - [Lucky](./lucky-xphb.md)
 - [Mage Slayer](./mage-slayer-xphb.md)
 - [Magic Initiate](./magic-initiate-xphb.md)
@@ -98,6 +100,7 @@ obsidianUIMode: preview
 - [Mark of Shadow](./mark-of-shadow-efa.md)
 - [Mark of Storm](./mark-of-storm-efa.md)
 - [Mark of Warding](./mark-of-warding-efa.md)
+- [Martial Adept](./martial-adept.md)
 - [Martial Weapon Training](./martial-weapon-training-xphb.md)
 - [Medium Armor Master](./medium-armor-master-xphb.md)
 - [Metamagic Adept](./metamagic-adept-tce.md)

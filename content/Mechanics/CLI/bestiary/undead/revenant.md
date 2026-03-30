@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Revenant
-created: 2026-03-09T12:15:33.918-04:00
-modified: 2026-03-09T12:15:33.918-04:00
-published: 2026-03-09T12:15:33.918-04:00
+created: 2026-03-29T21:53:55.922-04:00
+modified: 2026-03-29T21:53:55.922-04:00
+published: 2026-03-29T21:53:55.922-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -19,13 +19,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Revenant
+ac: 13
+hp: 136
+modifier: 2
+hit_dice: 16d8 + 64
+cr: "5"
+stats:
+  - 18
+  - 14
+  - 18
+  - 13
+  - 16
+  - 18
+source:
+  - MM
 ---
 
 # Revenant
 
-_Source: Monster Manual p. 259_\
 ![](Mechanics/CLI/bestiary/undead/img/revenant.webp#right)
-
 A revenant forms from the soul of a mortal who met a cruel and undeserving fate. It claws its way back into the world to seek revenge against the one who wronged it. The revenant reclaims its mortal body and superficially resembles a zombie. However, instead of lifeless eyes, a revenant's eyes burn with resolve and flare in the presence of its adversary. If the revenant's original body was destroyed or is otherwise unavailable, the spirit of the revenant enters another humanoid corpse. Regardless of the body the revenant uses as a vessel, its adversary always recognizes the revenant for what it truly is.
 
 ## Hunger for Revenge
@@ -44,11 +59,11 @@ A revenant doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Revenant
-![](Mechanics/CLI/bestiary/undead/token/revenant.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/revenant.webp#token)
 *Medium undead, Neutral*
 
-- **Armor Class** 13 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 136 (`16d8 + 64`) 
+- **Armor Class** 13 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 136 (16d8 + 64) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,10 +73,10 @@ title: Revenant
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Constitution +7, Wisdom +6, Charisma +7
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Resistances** necrotic, psychic
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](Mechanics/CLI/rules/conditions.md#Stunned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [stunned](/Mechanics/CLI/conditions.md#Stunned)
 - **Languages** the languages it knew in life
 - **Challenge** 5
 
@@ -69,7 +84,7 @@ title: Revenant
 
 ***Regeneration.*** The revenant regains 10 hit points at the start of its turn. If the revenant takes fire or radiant damage, this trait doesn't function at the start of the revenant's next turn. The revenant's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
 
-***Rejuvenation.*** When the revenant's body is destroyed, its soul lingers. After 24 hours, the soul inhabits and animates another humanoid corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a [wish](Mechanics/CLI/spells/wish-xphb.md) spell can be used to force the soul to go to the afterlife and not return.
+***Rejuvenation.*** When the revenant's body is destroyed, its soul lingers. After 24 hours, the soul inhabits and animates another humanoid corpse on the same plane of existence and regains all its hit points. While the soul is bodiless, a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell can be used to force the soul to go to the afterlife and not return.
 
 ***Turn Immunity.*** The revenant is immune to effects that turn undead.
 
@@ -81,7 +96,7 @@ title: Revenant
 
 ***Fist.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage. If the target is a creature against which the revenant has sworn vengeance, the target takes an extra 14 (`4d6`) bludgeoning damage. Instead of dealing damage, the revenant can grapple the target (escape DC 14) provided the target is Large or smaller.
 
-***Vengeful Glare.*** The revenant targets one creature it can see within 30 feet of it and against which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) until the revenant deals damage to it, or until the end of the revenant's next turn. When the paralysis ends, the target is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the revenant for 1 minute. The [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see the revenant, ending the [frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition on itself on a success.
+***Vengeful Glare.*** The revenant targets one creature it can see within 30 feet of it and against which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw. On a failure, the target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) until the revenant deals damage to it, or until the end of the revenant's next turn. When the paralysis ends, the target is [frightened](/Mechanics/CLI/conditions.md#Frightened) of the revenant for 1 minute. The [frightened](/Mechanics/CLI/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if it can see the revenant, ending the [frightened](/Mechanics/CLI/conditions.md#Frightened) condition on itself on a success.
 ```
 
 ^statblock
@@ -89,3 +104,7 @@ title: Revenant
 ## Environment
 
 forest, swamp, hill, urban, desert, arctic
+
+## Sources
+
+_Monster Manual p. 259_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Specter
-created: 2026-03-09T12:15:34.126-04:00
-modified: 2026-03-09T12:15:34.126-04:00
-published: 2026-03-09T12:15:34.126-04:00
+created: 2026-03-29T21:53:56.169-04:00
+modified: 2026-03-29T21:53:56.169-04:00
+published: 2026-03-29T21:53:56.169-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Specter
+ac: 12
+hp: 22
+modifier: 2
+hit_dice: 5d8
+cr: "1"
+stats:
+  - 1
+  - 14
+  - 11
+  - 10
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Specter
 
-_Source: Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/specter.webp#right)
-
 A specter is the angry, unfettered spirit of a humanoid that has been prevented from passing to the afterlife. Specters no longer possess connections to who or what they were, yet are condemned to walk the world forever. Some are spawned when dark magic or the touch of a wraith rips a soul from a living body.
 
 ## Beyond Redemption
@@ -46,11 +61,11 @@ A specter doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Specter
-![](Mechanics/CLI/bestiary/undead/token/specter.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/specter.webp#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 22 (`5d8`) 
+- **Hit Points** 22 (5d8) 
 - **Speed** 0 ft., fly 50 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -60,10 +75,10 @@ title: Specter
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** acid; cold; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** understands all languages it knew in life but can't speak
 - **Challenge** 1
 
@@ -71,7 +86,7 @@ title: Specter
 
 ***Incorporeal Movement.*** The specter can move through other creatures and objects as if they were difficult terrain. It takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
-***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the specter has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -83,3 +98,7 @@ title: Specter
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 279. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

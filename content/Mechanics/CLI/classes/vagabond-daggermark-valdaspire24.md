@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Daggermark
-created: 2026-03-09T12:15:33.797-04:00
-modified: 2026-03-09T12:15:33.797-04:00
-published: 2026-03-09T12:15:33.797-04:00
+created: 2026-03-29T21:53:55.581-04:00
+modified: 2026-03-29T21:53:55.581-04:00
+published: 2026-03-29T21:53:55.581-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/vagabond/daggermark
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Daggermark
 
-_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -51,7 +50,7 @@ _Source: Valda's Spire of Secrets (2024)_
 
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Class/Daggermark.webp#right)
 
-Cross-Compatible Subclass: This subclass originates from the [Captain](Mechanics/CLI/classes/captain-valdaspire24.md) class
+Cross-Compatible Subclass: This subclass originates from the [Captain](/Mechanics/CLI/classes/captain-valdaspire24.md) class
 
 Note that cross-compatible subclasses might be stronger or weaker than other subclasses.
 
@@ -67,26 +66,30 @@ Captains that bear the Daggermark—a tattoo, scar, or insignia representing a b
 
 Your experience in striking from the shadows grants you the following benefits.
 
-**Roguish Proficiencies.** You gain proficiency with the [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) and [Stealth](Mechanics/CLI/rules/skills.md#Stealth) skills.
+**Roguish Proficiencies.** You gain proficiency with the [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand) and [Stealth](/Mechanics/CLI/skills.md#Stealth) skills.
 
-**Charismatic Initiative.** You gain a bonus to [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls equal to your Charisma modifier (minimum bonus of +1).
+**Charismatic Initiative.** You gain a bonus to [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls equal to your Charisma modifier (minimum bonus of +1).
 
-**Quick Hide.** You can take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+**Quick Hide.** You can take the [Hide](/Mechanics/CLI/actions.md#Hide) action as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 ### Effortless Dodge \[Maneuver] (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action. You can't use this maneuver while wearing Medium or Heavy armor.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to take the [Disengage](/Mechanics/CLI/actions.md#Disengage) or [Dodge](/Mechanics/CLI/actions.md#Dodge) action. You can't use this maneuver while wearing Medium or Heavy armor.
 
 ### Flanking Strike (Level 6)
 
-When you hit a creature with an attack using a weapon, the next attack roll made by an ally against the target before the end of your next turn has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+When you hit a creature with an attack using a weapon, the next attack roll made by an ally against the target before the end of your next turn has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md).
 
 ### Evasion (Level 10)
 
-You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. Your Cohort also gains the benefits of this feature.
+You can nimbly dodge out of the way of certain dangers. When you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. Your Cohort also gains the benefits of this feature.
 
 ### Preemptive Strike (Level 14)
 
-When a creature you can see within 30 feet makes an attack against you, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to make one attack with a weapon against the attacker. Resolve your attack before the triggering attack.
+When a creature you can see within 30 feet makes an attack against you, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to make one attack with a weapon against the attacker. Resolve your attack before the triggering attack.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fey Spirit (Fuming)
-created: 2026-03-09T12:15:33.786-04:00
-modified: 2026-03-09T12:15:33.786-04:00
-published: 2026-03-09T12:15:33.786-04:00
+created: 2026-03-29T21:53:55.563-04:00
+modified: 2026-03-29T21:53:55.563-04:00
+published: 2026-03-29T21:53:55.563-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fey Spirit (Fuming) (XPHB)
+modifier: 3
+stats:
+  - 13
+  - 16
+  - 14
+  - 14
+  - 11
+  - 16
+source:
+  - XPHB
 ---
 
 # Fey Spirit (Fuming)
-
-_Source: Player's Handbook (2024) p. 326_
 
 ```ad-statblock
 title: Fey Spirit (Fuming)
@@ -34,8 +45,8 @@ title: Fey Spirit (Fuming)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed)
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed)
 - **Languages** Sylvan, understands the languages you know
 - **Challenge** 
 
@@ -51,3 +62,7 @@ title: Fey Spirit (Fuming)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 326_

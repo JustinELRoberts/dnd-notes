@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Barghest
-created: 2026-03-09T12:15:33.913-04:00
-modified: 2026-03-09T12:15:33.913-04:00
-published: 2026-03-09T12:15:33.913-04:00
+created: 2026-03-29T21:53:55.915-04:00
+modified: 2026-03-29T21:53:55.915-04:00
+published: 2026-03-29T21:53:55.915-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -18,13 +18,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Barghest (MPMM)
+ac: 17
+hp: 60
+modifier: 2
+hit_dice: 8d10 + 16
+cr: "4"
+stats:
+  - 19
+  - 15
+  - 14
+  - 13
+  - 12
+  - 14
+source:
+  - MPMM
+  - VGM
 ---
 
 # Barghest
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123_\
 ![](Mechanics/CLI/bestiary/fiend/img/barghest.webp#right)
-
 Long ago, the god Maglubiyet—conqueror and then lord of early goblinoids—bargained with the General of Gehenna for aid. The General provided yugoloths, which then died in service to Maglubiyet. Yet when the time came to honor his part of the compact, Maglubiyet reneged on the deal. In vengeance, the General of Gehenna created the soul-devouring barghests to devour goblinoid souls.
 
 The mission of every barghest, implanted in it by the General of Gehenna, is to consume souls. It eats these souls by devouring the bodies of those it kills, preferring goblinoids.
@@ -35,11 +51,11 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 
 ```ad-statblock
 title: Barghest
-![](Mechanics/CLI/bestiary/fiend/token/barghest-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/barghest-mpmm.webp#token)
 *Large fiend, Typically  Neutral Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 60 (`8d10 + 16`) 
+- **Hit Points** 60 (8d10 + 16) 
 - **Speed** 60 ft. (30 ft. in goblin form)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,11 +64,11 @@ title: Barghest
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +4, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +4, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** cold; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Goblin, Infernal, telepathy 60 ft.
 - **Challenge** 4
 
@@ -72,9 +88,9 @@ title: Barghest
 
 ***Spellcasting.*** The barghest casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will:** [levitate](Mechanics/CLI/spells/levitate-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [pass without trace](Mechanics/CLI/spells/pass-without-trace-xphb.md)
+**At will:** [levitate](/Mechanics/CLI/spells/levitate-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [pass without trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md)
 
-**1/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**1/day each:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
 ## Bonus Actions
 
@@ -86,3 +102,7 @@ title: Barghest
 ## Environment
 
 forest, grassland, hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 60, Volo's Guide to Monsters p. 123_

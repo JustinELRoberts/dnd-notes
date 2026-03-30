@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Satyr
-created: 2026-03-09T12:15:33.855-04:00
-modified: 2026-03-09T12:15:33.855-04:00
-published: 2026-03-09T12:15:33.855-04:00
+created: 2026-03-29T21:53:55.644-04:00
+modified: 2026-03-29T21:53:55.644-04:00
+published: 2026-03-29T21:53:55.644-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/satyr
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Satyr
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 29_\
 ![](Mechanics/CLI/races/img/satyr.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -43,8 +42,12 @@ Whenever you make a long jump or a high jump, you can roll a `d8` and add the nu
 
 ### Reveler
 
-As an embodiment of revelry, you have proficiency in the [Performance](Mechanics/CLI/rules/skills.md#Performance) and [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](Mechanics/CLI/items/musical-instrument-xphb.md) of your choice.
+As an embodiment of revelry, you have proficiency in the [Performance](/Mechanics/CLI/skills.md#Performance) and [Persuasion](/Mechanics/CLI/skills.md#Persuasion) skills, and you have proficiency with one [musical instrument](/Mechanics/CLI/items/musical-instrument-xphb.md) of your choice.
 
 ## Description
 
 Originating in the Feywild—a realm of pure emotion-satyrs thrive on the energy of merriment. They resemble elves but have goatlike legs, cloven hooves, and ram or goat horns. The magic of the fey realm has given them an innate ability to perform, to delight, and to resist magical intrusion. While they're usually found in the Feywild, satyrs do wander to other planes of existence, most often to the Material Plane. There they seek to bring a bit of their home plane's splendor to other worlds.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 29_

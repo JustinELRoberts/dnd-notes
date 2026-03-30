@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stone of Good Luck
-created: 2026-03-09T12:15:33.818-04:00
-modified: 2026-03-09T12:15:33.818-04:00
-published: 2026-03-09T12:15:33.818-04:00
+created: 2026-03-29T21:53:55.607-04:00
+modified: 2026-03-29T21:53:55.607-04:00
+published: 2026-03-29T21:53:55.607-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -20,6 +20,11 @@ obsidianUIMode: preview
 _Wondrous item, major, uncommon (requires attunement)_\
 ![](Mechanics/CLI/items/img/stone-of-good-luck.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.
 
-_Source: Dungeon Master's Guide p. 205. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 205. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

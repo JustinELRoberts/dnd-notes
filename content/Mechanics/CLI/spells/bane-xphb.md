@@ -2,17 +2,19 @@
 publish: true
 aliases:
   - Bane
-created: 2026-03-09T12:15:33.830-04:00
-modified: 2026-03-09T12:15:33.830-04:00
-published: 2026-03-09T12:15:33.830-04:00
+created: 2026-03-29T21:53:55.615-04:00
+modified: 2026-03-29T21:53:55.615-04:00
+published: 2026-03-29T21:53:55.615-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/feat/fey-touched
   - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
   - ttrpg-cli/spell/level/1st-level
+  - ttrpg-cli/spell/optfeature/thief-of-five-fates
   - ttrpg-cli/spell/school/enchantment
   - ttrpg-cli/spell/subclass/burden-of-tyranny
   - ttrpg-cli/spell/subclass/college-of-lore
@@ -23,16 +25,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Grave Domain)
-  - Martyr (Burden of Tyranny)
-  - Necromancer (Overlord)
-  - Paladin (Oath of Vengeance)
-  - Sorcerer (Divine Soul, Chaos)
-  - Warlock
 ---
 
 # Bane
@@ -48,6 +40,25 @@ Up to three creatures of your choice that you can see within range must each mak
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Grave Domain)](Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Tyranny)](Mechanics/CLI/lists/list-spells-classes-burden-of-tyranny-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Overlord)](Mechanics/CLI/lists/list-spells-classes-overlord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Vengeance)](Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Chaos)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Sorcerer (Divine Soul, Chaos)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Martyr (Burden of Tyranny)](/Mechanics/CLI/lists/list-spells-classes-burden-of-tyranny-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Thief of Five Fates](/Mechanics/CLI/lists/list-spells-optional-features-thief-of-five-fates.md)
+- [Necromancer (Overlord)](/Mechanics/CLI/lists/list-spells-classes-overlord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Cleric (Grave Domain)](/Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Paladin (Oath of Vengeance)](/Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance.md)
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer (Divine Soul, Chaos)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Magic Initiate (Cleric Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Paladin (Oath of Vengeance)](/Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB")
+- [Fey-Touched](/Mechanics/CLI/lists/list-spells-feats-fey-touched-xphb.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Grave Domain)](/Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

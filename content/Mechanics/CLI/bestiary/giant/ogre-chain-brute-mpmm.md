@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ogre Chain Brute
-created: 2026-03-09T12:15:33.911-04:00
-modified: 2026-03-09T12:15:33.911-04:00
-published: 2026-03-09T12:15:33.911-04:00
+created: 2026-03-29T21:53:55.913-04:00
+modified: 2026-03-29T21:53:55.913-04:00
+published: 2026-03-29T21:53:55.913-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -16,11 +16,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ogre Chain Brute (MPMM)
+ac: 11
+hp: 59
+modifier: -1
+hit_dice: 7d10 + 21
+cr: "3"
+stats:
+  - 19
+  - 8
+  - 16
+  - 5
+  - 7
+  - 7
+source:
+  - MPMM
 ---
 
 # Ogre Chain Brute
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 201_
 
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
 
@@ -32,11 +47,11 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 
 ```ad-statblock
 title: Ogre Chain Brute
-![](Mechanics/CLI/bestiary/giant/token/ogre-chain-brute-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/ogre-chain-brute-mpmm.webp#token)
 *Large giant, Typically  Chaotic Evil*
 
-- **Armor Class** 11 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Armor Class** 11 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,7 +61,7 @@ title: Ogre Chain Brute
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Giant
 - **Challenge** 3
 
@@ -54,9 +69,9 @@ title: Ogre Chain Brute
 
 ***Fist.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 9 (`2d4 + 4`) bludgeoning damage.
 
-***Chain Smash (Recharge 6).*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage, and the target must make a DC 14 Constitution saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. The target repeats the saving throw if it takes damage and at the end of each of its turns, ending the effect on itself on a success.
+***Chain Smash (Recharge 6).*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage, and the target must make a DC 14 Constitution saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) for 1 minute. The target repeats the saving throw if it takes damage and at the end of each of its turns, ending the effect on itself on a success.
 
-***Chain Sweep.*** The ogre swings its chain, and every creature within 10 feet of it must make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes 8 (`1d8 + 4`) bludgeoning damage and is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, the creature takes half as much damage and isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Chain Sweep.*** The ogre swings its chain, and every creature within 10 feet of it must make a DC 14 Dexterity saving throw. On a failed saving throw, a creature takes 8 (`1d8 + 4`) bludgeoning damage and is knocked [prone](/Mechanics/CLI/conditions.md#Prone). On a successful save, the creature takes half as much damage and isn't knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -64,3 +79,7 @@ title: Ogre Chain Brute
 ## Environment
 
 grassland, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 201_

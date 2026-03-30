@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ring of Free Action
-created: 2026-03-09T12:15:33.851-04:00
-modified: 2026-03-09T12:15:33.851-04:00
-published: 2026-03-09T12:15:33.851-04:00
+created: 2026-03-29T21:53:55.640-04:00
+modified: 2026-03-29T21:53:55.640-04:00
+published: 2026-03-29T21:53:55.640-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -21,6 +21,11 @@ obsidianUIMode: preview
 _Ring, major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/ring-of-free-action.webp#right)
 
-While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) or [restrained](Mechanics/CLI/rules/conditions.md#Restrained).
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-_Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) or [restrained](/Mechanics/CLI/conditions.md#Restrained).
+
+## Sources
+
+_Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

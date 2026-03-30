@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Efreeti
-created: 2026-03-09T12:15:33.956-04:00
-modified: 2026-03-09T12:15:33.956-04:00
-published: 2026-03-09T12:15:33.956-04:00
+created: 2026-03-29T21:53:55.959-04:00
+modified: 2026-03-29T21:53:55.959-04:00
+published: 2026-03-29T21:53:55.959-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/11
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Efreeti
+ac: 17
+hp: 200
+modifier: 1
+hit_dice: 16d10 + 112
+cr: "11"
+stats:
+  - 22
+  - 12
+  - 24
+  - 16
+  - 15
+  - 16
+source:
+  - MM
 ---
 
 # Efreeti
 
-_Source: Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/efreeti.webp#right)
-
 Hulking genies of the Elemental Plane of Fire, the efreet are masters of flame, immune to fire and able to create it on a whim. Fine silk caftans and damask robes drape their magma-red or coal-black skin, and they bedeck themselves in brass and gold torcs, chains, and rings, all glittering with jewels. When an efreeti flies, its lower body transforms into a column of smoke and embers.
 
 ## Haughty and Cruel
@@ -77,11 +92,11 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 
 ```ad-statblock
 title: Efreeti
-![](Mechanics/CLI/bestiary/elemental/token/efreeti.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/efreeti.webp#token)
 *Large elemental, Lawful Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 200 (`16d10 + 112`) 
+- **Hit Points** 200 (16d10 + 112) 
 - **Speed** 40 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -91,9 +106,8 @@ title: Efreeti
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +7, Wisdom +6, Charisma +7
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Damage Immunities** fire
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
 - **Languages** Ignan
 - **Challenge** 11
 
@@ -101,11 +115,11 @@ title: Efreeti
 
 ***Innate Spellcasting.*** The efreeti's innate spellcasting ability is Charisma (spell save DC 15, `+7` to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md)
 
-**3/day each:** [enlarge/reduce](Mechanics/CLI/spells/enlarge-reduce-xphb.md), [tongues](Mechanics/CLI/spells/tongues-xphb.md)
+**3/day each:** [enlarge/reduce](/Mechanics/CLI/spells/enlarge-reduce-xphb.md), [tongues](/Mechanics/CLI/spells/tongues-xphb.md)
 
-**1/day each:** [conjure elemental](Mechanics/CLI/spells/conjure-elemental-xphb.md) ([fire elemental](Mechanics/CLI/bestiary/elemental/fire-elemental.md) only), [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md)
+**1/day each:** [conjure elemental](/Mechanics/CLI/spells/conjure-elemental-xphb.md) ([fire elemental](/Mechanics/CLI/bestiary/elemental/fire-elemental.md) only), [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [wall of fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md)
 
 ***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the efreeti was wearing or carrying.
 
@@ -123,3 +137,7 @@ title: Efreeti
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 145. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

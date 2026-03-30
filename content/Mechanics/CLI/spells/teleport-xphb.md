@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Teleport
-created: 2026-03-09T12:15:33.840-04:00
-modified: 2026-03-09T12:15:33.840-04:00
-published: 2026-03-09T12:15:33.840-04:00
+created: 2026-03-29T21:53:55.626-04:00
+modified: 2026-03-29T21:53:55.626-04:00
+published: 2026-03-29T21:53:55.626-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
@@ -16,10 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
 ---
 
 # Teleport
@@ -76,6 +73,14 @@ You and your group (or the target object) appear where you intended.
 
 ## Summary
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 331. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

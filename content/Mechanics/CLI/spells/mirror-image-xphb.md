@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Mirror Image
-created: 2026-03-09T12:15:34.045-04:00
-modified: 2026-03-09T12:15:34.046-04:00
-published: 2026-03-09T12:15:34.046-04:00
+created: 2026-03-29T21:53:56.057-04:00
+modified: 2026-03-29T21:53:56.057-04:00
+published: 2026-03-29T21:53:56.057-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -16,28 +17,17 @@ tags:
   - ttrpg-cli/spell/school/illusion
   - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/armorer
+  - ttrpg-cli/spell/subclass/circle-of-the-land/coast
   - ttrpg-cli/spell/subclass/college-of-glamour
   - ttrpg-cli/spell/subclass/college-of-lore
   - ttrpg-cli/spell/subclass/drake-blooded
   - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
   - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/trickery-domain
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Armorer)
-  - Bard
-  - Bard (College of Glamour)
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warlock
-  - Warmage (House of Bishops)
-  - Wizard
-  - Wizard (Illusionist)
 ---
 
 # Mirror Image
@@ -53,8 +43,32 @@ Three illusory duplicates of yourself appear in your space. Until the spell ends
 
 Each time a creature hits you with an attack roll during the spell's duration, roll a `d6` for each of your remaining duplicates. If any of the d6s rolls a 3 or higher, one of the duplicates is hit instead of you, and the duplicate is destroyed. The duplicates otherwise ignore all other damage and effects. The spell ends when all three duplicates are destroyed.
 
-A creature is unaffected by this spell if it has the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition, [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight), or [Truesight](Mechanics/CLI/rules/senses.md#Truesight).
+A creature is unaffected by this spell if it has the [Blinded](/Mechanics/CLI/conditions.md#Blinded) condition, [Blindsight](/Mechanics/CLI/senses.md#Blindsight), or [Truesight](/Mechanics/CLI/senses.md#Truesight).
 
-**Classes**: [Artificer (Armorer)](Mechanics/CLI/lists/list-spells-classes-armorer-efa.md "subclass=EFA;class=EFA"); [Bard (College of Glamour)](Mechanics/CLI/lists/list-spells-classes-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Artificer (Armorer)](/Mechanics/CLI/lists/list-spells-classes-armorer-efa.md "subclass=EFA;class=EFA")
+- [Bard (College of Glamour)](/Mechanics/CLI/lists/list-spells-classes-college-of-glamour-xphb.md "subclass=XPHB;class=XPHB")
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Wizard (Illusionist)](/Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Artificer (Armorer)](/Mechanics/CLI/lists/list-spells-classes-armorer-tce.md "subclass=TCE;class=TCE")
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Druid (Circle of the Land, Coast)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md "class=XPHB")
+- [Druid (Circle of the Land, Coast)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md)
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain.md "class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

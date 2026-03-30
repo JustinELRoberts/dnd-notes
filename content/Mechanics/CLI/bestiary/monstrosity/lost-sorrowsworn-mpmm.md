@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lost Sorrowsworn
-created: 2026-03-09T12:15:33.912-04:00
-modified: 2026-03-09T12:15:33.912-04:00
-published: 2026-03-09T12:15:33.912-04:00
+created: 2026-03-29T21:53:55.914-04:00
+modified: 2026-03-29T21:53:55.914-04:00
+published: 2026-03-29T21:53:55.914-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -20,13 +20,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Lost Sorrowsworn (MPMM)
+ac: 15
+hp: 78
+modifier: 1
+hit_dice: 12d8 + 24
+cr: "7"
+stats:
+  - 17
+  - 12
+  - 15
+  - 6
+  - 7
+  - 5
+source:
+  - MPMM
 ---
 
 # Lost Sorrowsworn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 224_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/lost-sorrowsworn.webp#right)
-
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
 
 Lost sorrowsworn grasp at any creatures they can reach. A victim experiences a flood of fear and panic as its mind buckles under the fury of this assault. The harder a victim's allies fight to break the grasp, the more the victim suffers.
@@ -39,11 +54,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Lost Sorrowsworn
-![](Mechanics/CLI/bestiary/monstrosity/token/lost-sorrowsworn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/lost-sorrowsworn-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 78 (`12d8 + 24`) 
+- **Hit Points** 78 (12d8 + 24) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,8 +67,8 @@ title: Lost Sorrowsworn
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Damage Resistances** bludgeoning, piercing, slashing while in dim light or darkness
 - **Languages** Common
 - **Challenge** 7
@@ -64,11 +79,11 @@ title: Lost Sorrowsworn
 
 ***Arm Spike.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 14 (`2d10 + 3`) piercing damage.
 
-***Embrace (Recharge 4-6).*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 25 (`4d10 + 3`) piercing damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and it takes 27 (`6d8`) psychic damage at the end of each of its turns. The sorrowsworn can grapple only one creature at a time.
+***Embrace (Recharge 4-6).*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 25 (`4d10 + 3`) piercing damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [frightened](/Mechanics/CLI/conditions.md#Frightened), and it takes 27 (`6d8`) psychic damage at the end of each of its turns. The sorrowsworn can grapple only one creature at a time.
 
 ## Reactions
 
-***Tightening Embrace.*** If the sorrowsworn takes damage, the creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by Embrace takes 18 (`4d8`) psychic damage.
+***Tightening Embrace.*** If the sorrowsworn takes damage, the creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by Embrace takes 18 (`4d8`) psychic damage.
 ```
 
 ^statblock
@@ -76,3 +91,7 @@ title: Lost Sorrowsworn
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 224_

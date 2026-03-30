@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Quickstep
-created: 2026-03-09T12:15:34.046-04:00
-modified: 2026-03-09T12:15:34.046-04:00
-published: 2026-03-09T12:15:34.046-04:00
+created: 2026-03-29T21:53:56.057-04:00
+modified: 2026-03-29T21:53:56.057-04:00
+published: 2026-03-29T21:53:56.057-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warmage
   - ttrpg-cli/spell/level/cantrip
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -14,8 +15,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Warmage
 ---
 
 # Quickstep
@@ -27,8 +26,14 @@ _cantrip, Transmutation_
 - **Components:** V
 - **Duration:** 1 round
 
-This spell imparts a flash of speed. Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet until the start of your next turn.
+This spell imparts a flash of speed. Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) increases by 10 feet until the start of your next turn.
 
-**Classes**: [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Warmage](/Mechanics/CLI/lists/list-spells-classes-warmage.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

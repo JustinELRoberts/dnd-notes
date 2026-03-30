@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fright
-created: 2026-03-09T12:15:34.056-04:00
-modified: 2026-03-09T12:15:34.056-04:00
-published: 2026-03-09T12:15:34.056-04:00
+created: 2026-03-29T21:53:56.073-04:00
+modified: 2026-03-29T21:53:56.074-04:00
+published: 2026-03-29T21:53:56.074-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/1-2
@@ -13,11 +13,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fright (ValdaSpire24)
+ac: 14
+hp: 21
+modifier: 2
+hit_dice: 6d6
+cr: 1/2
+stats:
+  - 1
+  - 14
+  - 10
+  - 10
+  - 9
+  - 15
+source:
+  - ValdaSpire24
 ---
 
 # Fright
-
-_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Hauntings can usually be attributed to the usual spectral suspects: ghosts, specters, shadows, and poltergeists. But benign hauntings, where the restless spirit merely plays tricks on the living, is usually caused by a fright. These spirits are usually the artifacts of children or entertainers, clinging to the afterlife for company and a semblance of affection, and are as such preoccupied with fun. They never willingly harm others when they haunt a house, and will serve any master that conjures them, if only for the sake of inclusion.
 
@@ -27,7 +42,7 @@ title: Fright
 *Small undead (Familiar), Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 21 (`6d6`) 
+- **Hit Points** 21 (6d6) 
 - **Speed** 0 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,20 +52,24 @@ title: Fright
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Resistances** acid, cold, fire, lightning, necrotic, thunder
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** Common plus one other language
 - **Challenge** 1/2
 
 ## Traits
 
-***Incorporeal Movement.*** The fright can move through other creatures and objects as if they were [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
+***Incorporeal Movement.*** The fright can move through other creatures and objects as if they were [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
 
 ## Actions
 
-***Life Drain.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 9 (`2d8`) Necrotic damage. If the target is a creature, its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken.
+***Life Drain.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 9 (`2d8`) Necrotic damage. If the target is a creature, its [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum decreases by an amount equal to the damage taken.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

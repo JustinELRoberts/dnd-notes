@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Fire Beetle
-created: 2026-03-09T12:15:33.901-04:00
-modified: 2026-03-09T12:15:33.901-04:00
-published: 2026-03-09T12:15:33.901-04:00
+created: 2026-03-29T21:53:55.898-04:00
+modified: 2026-03-29T21:53:55.898-04:00
+published: 2026-03-29T21:53:55.898-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -14,22 +14,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Fire Beetle
+ac: 13
+hp: 4
+modifier: 0
+hit_dice: 1d6 + 1
+cr: "0"
+stats:
+  - 8
+  - 10
+  - 12
+  - 1
+  - 7
+  - 3
+source:
+  - MM
 ---
 
 # Giant Fire Beetle
 
-_Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-fire-beetle.webp#right)
-
 A giant fire beetle is a nocturnal creature that takes its name from a pair of glowing glands that give off light. Miners and adventurers prize these creatures, for a giant fire beetle's glands continue to shed light for `1d6` days after the beetle dies. Giant fire beetles are most commonly found underground and in dark forests.
 
 ```ad-statblock
 title: Giant Fire Beetle
-![](Mechanics/CLI/bestiary/beast/token/giant-fire-beetle.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-fire-beetle.webp#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 4 (`1d6 + 1`) 
+- **Hit Points** 4 (1d6 + 1) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -39,7 +54,7 @@ title: Giant Fire Beetle
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive Perception 8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception 8
 - **Languages** —
 - **Challenge** 0
 
@@ -57,3 +72,7 @@ title: Giant Fire Beetle
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

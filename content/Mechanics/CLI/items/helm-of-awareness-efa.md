@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Helm of Awareness
-created: 2026-03-09T12:15:34.006-04:00
-modified: 2026-03-09T12:15:34.006-04:00
-published: 2026-03-09T12:15:34.006-04:00
+created: 2026-03-29T21:53:56.013-04:00
+modified: 2026-03-29T21:53:56.013-04:00
+published: 2026-03-29T21:53:56.013-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/item/rarity/uncommon
@@ -17,6 +17,11 @@ obsidianUIMode: preview
 
 _Wondrous item, uncommon_
 
-While wearing this helmet, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls.
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-_Source: Eberron: Forge of the Artificer p. 112_
+While wearing this helmet, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls.
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 112_

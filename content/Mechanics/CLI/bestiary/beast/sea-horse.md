@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sea Horse
-created: 2026-03-09T12:15:34.111-04:00
-modified: 2026-03-09T12:15:34.111-04:00
-published: 2026-03-09T12:15:34.111-04:00
+created: 2026-03-29T21:53:56.149-04:00
+modified: 2026-03-29T21:53:56.149-04:00
+published: 2026-03-29T21:53:56.149-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -13,19 +13,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sea Horse
+ac: 11
+hp: 1
+modifier: 1
+hit_dice: 1d4 - 1
+cr: "0"
+stats:
+  - 1
+  - 12
+  - 8
+  - 1
+  - 10
+  - 2
+source:
+  - MM
 ---
 
 # Sea Horse
 
-_Source: Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Sea Horse
-![](Mechanics/CLI/bestiary/beast/token/sea-horse.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/sea-horse.webp#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 1 (`1d4 - 1`) 
+- **Hit Points** 1 (1d4 - 1) 
 - **Speed** swim 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,3 +60,7 @@ title: Sea Horse
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 337. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

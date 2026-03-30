@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cloud Giant
-created: 2026-03-09T12:15:33.989-04:00
-modified: 2026-03-09T12:15:33.990-04:00
-published: 2026-03-09T12:15:33.990-04:00
+created: 2026-03-29T21:53:55.996-04:00
+modified: 2026-03-29T21:53:55.997-04:00
+published: 2026-03-29T21:53:55.997-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cloud Giant
+ac: 14
+hp: 200
+modifier: 0
+hit_dice: 16d12 + 96
+cr: "9"
+stats:
+  - 27
+  - 10
+  - 22
+  - 12
+  - 16
+  - 16
+source:
+  - MM
 ---
 
 # Cloud Giant
 
-_Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/cloud-giant.webp#right)
-
 Cloud giants live extravagant lives high above the world, showing little concern for the plights of other races except as amusement. They are muscular with light skin and have hair of silver or blue.
 
 ## High and Mighty
@@ -92,11 +107,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Cloud Giant
-![](Mechanics/CLI/bestiary/giant/token/cloud-giant.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/cloud-giant.webp#token)
 *Huge giant, Neutral Good or Neutral Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 200 (`16d12 + 96`) 
+- **Hit Points** 200 (16d12 + 96) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -105,9 +120,8 @@ title: Cloud Giant
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +10, Wisdom +7, Charisma +7
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +7, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +7, [Perception](/Mechanics/CLI/skills.md#Perception) +7
 - **Senses** passive Perception 17
-- **Gear** [morningstar](Mechanics/CLI/items/morningstar-xphb.md)
 - **Languages** Common, Giant
 - **Challenge** 9
 
@@ -115,13 +129,13 @@ title: Cloud Giant
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md), [light](/Mechanics/CLI/spells/light-xphb.md)
 
-**3/day each:** [feather fall](Mechanics/CLI/spells/feather-fall-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [misty step](Mechanics/CLI/spells/misty-step-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md)
+**3/day each:** [feather fall](/Mechanics/CLI/spells/feather-fall-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [misty step](/Mechanics/CLI/spells/misty-step-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md)
 
-**1/day each:** [control weather](Mechanics/CLI/spells/control-weather-xphb.md), [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md)
+**1/day each:** [control weather](/Mechanics/CLI/spells/control-weather-xphb.md), [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md)
 
-***Keen Smell.*** The giant has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The giant has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 
@@ -137,3 +151,7 @@ title: Cloud Giant
 ## Environment
 
 mountain
+
+## Sources
+
+_Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

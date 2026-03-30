@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kenku
-created: 2026-03-09T12:15:33.912-04:00
-modified: 2026-03-09T12:15:33.912-04:00
-published: 2026-03-09T12:15:33.912-04:00
+created: 2026-03-29T21:53:55.914-04:00
+modified: 2026-03-29T21:53:55.914-04:00
+published: 2026-03-29T21:53:55.914-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/kenku
@@ -15,8 +15,6 @@ obsidianUIMode: preview
 
 # Kenku
 
-_Source: Dungeon Master's Guide p. 282_
-
 - **Ability Scores**: dex +2
 - **Size**: Medium
 - **Speed**: 30 ft.
@@ -25,12 +23,16 @@ _Source: Dungeon Master's Guide p. 282_
 
 ### Ambusher
 
-In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](Mechanics/CLI/rules/conditions.md#Surprised).
+In the first round of a combat, you have advantage on attack rolls against any creature who is [surprised](/Mechanics/CLI/conditions.md#Surprised).
 
 ### Mimicry
 
-You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check.
+You can mimic any sounds you have heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check.
 
 ### Languages
 
 You can read and write Common and Auran, but you can only speak using your Mimicry trait.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Blood Magic
-created: 2026-03-09T12:15:33.892-04:00
-modified: 2026-03-09T12:15:33.892-04:00
-published: 2026-03-09T12:15:33.892-04:00
+created: 2026-03-29T21:53:55.890-04:00
+modified: 2026-03-29T21:53:55.890-04:00
+published: 2026-03-29T21:53:55.890-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/witch/blood
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Blood Magic
 
-_[Witch](./witch-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Witch](./witch-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,15 +62,15 @@ When you reach a Witch level specified in the Blood Spells table, you thereafter
 
 | Witch Level | Spells |
 |-------------|--------|
-| 3 | [Acid Arrow](Mechanics/CLI/spells/melfs-acid-arrow-xphb.md), [Hex: Blood Curse](Mechanics/CLI/spells/hex-blood-curse-valdaspire24.md), [Hold Person](Mechanics/CLI/spells/hold-person-xphb.md), [Inflict Wounds](Mechanics/CLI/spells/inflict-wounds-xphb.md), [Hollowing Curse](Mechanics/CLI/spells/hollowing-curse-valdaspire24.md) |
-| 5 | [Ruby-Eye Curse](Mechanics/CLI/spells/ruby-eye-curse-valdaspire24.md), [Vampiric Touch](Mechanics/CLI/spells/vampiric-touch-xphb.md) |
-| 7 | [Blight](Mechanics/CLI/spells/blight-xphb.md), [Dominate Beast](Mechanics/CLI/spells/dominate-beast-xphb.md) |
-| 9 | [Cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md), [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md) |
+| 3 | [Acid Arrow](/Mechanics/CLI/spells/melfs-acid-arrow-xphb.md), [Hex: Blood Curse](/Mechanics/CLI/spells/hex-blood-curse-valdaspire24.md), [Hold Person](/Mechanics/CLI/spells/hold-person-xphb.md), [Inflict Wounds](/Mechanics/CLI/spells/inflict-wounds-xphb.md), [Hollowing Curse](/Mechanics/CLI/spells/hollowing-curse-valdaspire24.md) |
+| 5 | [Ruby-Eye Curse](/Mechanics/CLI/spells/ruby-eye-curse-valdaspire24.md), [Vampiric Touch](/Mechanics/CLI/spells/vampiric-touch-xphb.md) |
+| 7 | [Blight](/Mechanics/CLI/spells/blight-xphb.md), [Dominate Beast](/Mechanics/CLI/spells/dominate-beast-xphb.md) |
+| 9 | [Cloudkill](/Mechanics/CLI/spells/cloudkill-xphb.md), [Dominate Person](/Mechanics/CLI/spells/dominate-person-xphb.md) |
 ^blood-spells
 
 ### Blood Curse (Level 3)
 
-You gain the [Hex: Blood Curse](Mechanics/CLI/spells/hex-blood-curse-valdaspire24.md) cantrip. This cantrip is exclusive to this subclass.
+You gain the [Hex: Blood Curse](/Mechanics/CLI/spells/hex-blood-curse-valdaspire24.md) cantrip. This cantrip is exclusive to this subclass.
 
 ### Novice Hemomancy (Level 3)
 
@@ -79,19 +78,19 @@ You can use a drop of blood in place of a spell's Material components if those m
 
 ### Arcane Bloodletting (Level 3)
 
-When you cast a spell that has a casting time of an action, you can choose to take 5 Necrotic damage to change the casting time to a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) for this casting. This damage ignores your [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+When you cast a spell that has a casting time of an action, you can choose to take 5 Necrotic damage to change the casting time to a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) for this casting. This damage ignores your [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Deathseeker (Level 6)
 
-You can detect the location of each creature within 60 feet of you that is missing any of its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and you can see such a creature if it has the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition. Additionally, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on ability checks you make to track any creature that you or your familiar has damaged within the last 24 hours.
+You can detect the location of each creature within 60 feet of you that is missing any of its [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) and you can see such a creature if it has the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition. Additionally, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on ability checks you make to track any creature that you or your familiar has damaged within the last 24 hours.
 
 ### Hemomantic Recovery (Level 10)
 
-When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can perform a blood ritual to expend [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md) and recover expended level 1-5 spell slots. The cost for each spell slot is given on the Hemomantic Recovery table.
+When you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you can perform a blood ritual to expend [Hit Point Dice](/Mechanics/CLI/variant-rules/hit-point-dice-xphb.md) and recover expended level 1-5 spell slots. The cost for each spell slot is given on the Hemomantic Recovery table.
 
-Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 **Hemomantic Recovery**
 
@@ -106,4 +105,8 @@ Once you use this feature, you can't do so again until you finish a [Long Rest](
 
 ### Sanguine (Level 14)
 
-When you cast a spell with a spell slot that deals damage to a creature that is the sole target of your Hex, you can choose to sacrifice your blood for power. You take 5 or more Necrotic damage and the target takes an extra `1d8` Necrotic damage for every 5 Necrotic damage you took, to a maximum of `6d8` Necrotic damage. This damage ignores your [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+When you cast a spell with a spell slot that deals damage to a creature that is the sole target of your Hex, you can choose to sacrifice your blood for power. You take 5 or more Necrotic damage and the target takes an extra `1d8` Necrotic damage for every 5 Necrotic damage you took, to a maximum of `6d8` Necrotic damage. This damage ignores your [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

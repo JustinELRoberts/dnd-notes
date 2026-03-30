@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Vine Blight
-created: 2026-03-09T12:15:33.863-04:00
-modified: 2026-03-09T12:15:33.863-04:00
-published: 2026-03-09T12:15:33.863-04:00
+created: 2026-03-29T21:53:55.651-04:00
+modified: 2026-03-29T21:53:55.651-04:00
+published: 2026-03-29T21:53:55.651-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Vine Blight
+ac: 12
+hp: 26
+modifier: -1
+hit_dice: 4d8 + 4
+cr: 1/2
+stats:
+  - 15
+  - 8
+  - 14
+  - 5
+  - 10
+  - 3
+source:
+  - MM
 ---
 
 # Vine Blight
 
-_Source: Monster Manual p. 32_\
 ![](Mechanics/CLI/bestiary/plant/img/vine-blight.webp#right)
-
 Appearing as masses of slithering creepers, vine blights hide in undergrowth and wait for prey to draw near. By animating the plants around them, vine blights entangle and hinder their foes before attacking. Vine blights are the only blights capable of speech. Through its connection to the evil spirit of the Gulthias tree it serves, a vine blight speaks in a fractured version of its dead master's voice, taunting victims or bargaining with powerful foes.
 
 ## Blights
@@ -49,11 +64,11 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 
 ```ad-statblock
 title: Vine Blight
-![](Mechanics/CLI/bestiary/plant/token/vine-blight.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/vine-blight.webp#token)
 *Medium plant, Neutral Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 26 (`4d8 + 4`) 
+- **Hit Points** 26 (4d8 + 4) 
 - **Speed** 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,9 +77,9 @@ title: Vine Blight
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +1
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 10
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +1
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 10
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened)
 - **Languages** Common
 - **Challenge** 1/2
 
@@ -74,9 +89,9 @@ title: Vine Blight
 
 ## Actions
 
-***Constrict.*** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one target. *Hit:* 9 (`2d6 + 2`) bludgeoning damage, and a Large or smaller target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 12). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the blight can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one target. *Hit:* 9 (`2d6 + 2`) bludgeoning damage, and a Large or smaller target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 12). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the blight can't constrict another target.
 
-***Entangling Plants (Recharge 5-6).*** Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become [restrained](Mechanics/CLI/rules/conditions.md#Restrained). A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
+***Entangling Plants (Recharge 5-6).*** Grasping roots and vines sprout in a 15-foot radius centered on the blight, withering away after 1 minute. For the duration, that area is difficult terrain for nonplant creatures. In addition, each creature of the blight's choice in that area when the plants appear must succeed on a DC 12 Strength saving throw or become [restrained](/Mechanics/CLI/conditions.md#Restrained). A creature can use its action to make a DC 12 Strength check, freeing itself or another entangled creature within reach on a success.
 ```
 
 ^statblock
@@ -84,3 +99,7 @@ title: Vine Blight
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 32_

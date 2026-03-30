@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dragonmark Outpost
-created: 2026-03-09T12:15:33.830-04:00
-modified: 2026-03-09T12:15:33.830-04:00
-published: 2026-03-09T12:15:33.830-04:00
+created: 2026-03-29T21:53:55.616-04:00
+modified: 2026-03-29T21:53:55.616-04:00
+published: 2026-03-29T21:53:55.616-04:00
 tags:
   - ttrpg-cli/bastion
   - ttrpg-cli/compendium/src/5e/efa
@@ -28,7 +28,7 @@ When you add this facility to your Bastion, your Renown Score with your house in
 
 ## Dragonmark Empowerment (Requires Any Dragonmark Feat)
 
-When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) in your Bastion, you gain one extra spell slot of level 2. You can use this spell slot to cast only a spell you have prepared because of a "Dragonmark feat".
+When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) in your Bastion, you gain one extra spell slot of level 2. You can use this spell slot to cast only a spell you have prepared because of a "Dragonmark feat".
 
 ## Empower: House Favor
 

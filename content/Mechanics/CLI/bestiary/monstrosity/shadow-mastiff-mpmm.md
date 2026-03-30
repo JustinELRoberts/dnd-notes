@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadow Mastiff
-created: 2026-03-09T12:15:33.883-04:00
-modified: 2026-03-09T12:15:33.883-04:00
-published: 2026-03-09T12:15:33.883-04:00
+created: 2026-03-29T21:53:55.678-04:00
+modified: 2026-03-29T21:53:55.678-04:00
+published: 2026-03-29T21:53:55.678-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -16,13 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shadow Mastiff (MPMM)
+ac: 12
+hp: 33
+modifier: 2
+hit_dice: 6d8 + 6
+cr: "2"
+stats:
+  - 16
+  - 14
+  - 13
+  - 5
+  - 12
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Shadow Mastiff
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/shadow-mastiff.webp#right)
-
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
 
 ## Shadow Mastiffs
@@ -33,11 +49,11 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 
 ```ad-statblock
 title: Shadow Mastiff
-![](Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,8 +62,8 @@ title: Shadow Mastiff
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks while in dim light or darkness
 - **Languages** —
 - **Challenge** 2
@@ -60,11 +76,11 @@ title: Shadow Mastiff
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Bonus Actions
 
-***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](/Mechanics/CLI/conditions.md#Invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 ```
 
 ^statblock
@@ -72,3 +88,7 @@ title: Shadow Mastiff
 ## Environment
 
 forest, hill, swamp
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190_

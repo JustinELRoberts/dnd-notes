@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nolzur's Marvelous Pigments
-created: 2026-03-09T12:15:33.886-04:00
-modified: 2026-03-09T12:15:33.886-04:00
-published: 2026-03-09T12:15:33.886-04:00
+created: 2026-03-29T21:53:55.682-04:00
+modified: 2026-03-29T21:53:55.682-04:00
+published: 2026-03-29T21:53:55.682-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/very-rare
@@ -19,6 +19,7 @@ obsidianUIMode: preview
 _Wondrous item, minor, very rare_\
 ![](Mechanics/CLI/items/img/nolzurs-marvelous-pigments.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 Typically found in `1d4` pots inside a fine wooden box with a brush (weighing 1 pound in total), these pigments allow you to create three-dimensional objects by painting them in two dimensions. The paint flows from the brush to form the desired object as you concentrate on its image.
@@ -31,4 +32,6 @@ Nothing created by the pigments can have a value greater than 25 gp. If you pain
 
 If you paint a form of energy such as fire or lightning, the energy appears but dissipates as soon as you complete the painting, doing no harm to anything.
 
-_Source: Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Marvelous Pigments")_
+## Sources
+
+_Dungeon Master's Guide p. 183. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Marvelous Pigments")_

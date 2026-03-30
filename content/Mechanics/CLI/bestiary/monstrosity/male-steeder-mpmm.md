@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Male Steeder
-created: 2026-03-09T12:15:33.809-04:00
-modified: 2026-03-09T12:15:33.809-04:00
-published: 2026-03-09T12:15:33.809-04:00
+created: 2026-03-29T21:53:55.592-04:00
+modified: 2026-03-29T21:53:55.592-04:00
+published: 2026-03-29T21:53:55.592-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -14,11 +14,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Male Steeder (MPMM)
+ac: 12
+hp: 13
+modifier: 1
+hit_dice: 2d8 + 4
+cr: 1/4
+stats:
+  - 15
+  - 12
+  - 14
+  - 2
+  - 10
+  - 3
+source:
+  - MPMM
 ---
 
 # Male Steeder
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 231_
 
 ## Steeders
 
@@ -36,11 +51,11 @@ Rather than spinning webs, steeders excrete a viscous substance from their legs.
 
 ```ad-statblock
 title: Male Steeder
-![](Mechanics/CLI/bestiary/monstrosity/token/male-steeder-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/male-steeder-mpmm.webp#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 13 (`2d8 + 4`) 
+- **Hit Points** 13 (2d8 + 4) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,8 +64,8 @@ title: Male Steeder
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 14
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Languages** —
 - **Challenge** 1/4
 
@@ -64,7 +79,7 @@ title: Male Steeder
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage plus 4 (`1d8`) poison damage.
 
-***Sticky Leg.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one Small or Tiny creature. *Hit:* The target is stuck to the steeder's leg and [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 12). The steeder can have only one creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) at a time.
+***Sticky Leg.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one Small or Tiny creature. *Hit:* The target is stuck to the steeder's leg and [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 12). The steeder can have only one creature [grappled](/Mechanics/CLI/conditions.md#Grappled) at a time.
 ```
 
 ^statblock
@@ -72,3 +87,7 @@ title: Male Steeder
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 231_

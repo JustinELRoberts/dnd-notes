@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Myconid Sovereign
-created: 2026-03-09T12:15:34.045-04:00
-modified: 2026-03-09T12:15:34.045-04:00
-published: 2026-03-09T12:15:34.045-04:00
+created: 2026-03-29T21:53:56.057-04:00
+modified: 2026-03-29T21:53:56.057-04:00
+published: 2026-03-29T21:53:56.057-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Myconid Sovereign
+ac: 13
+hp: 60
+modifier: 0
+hit_dice: 8d10 + 16
+cr: "2"
+stats:
+  - 12
+  - 10
+  - 14
+  - 13
+  - 15
+  - 10
+source:
+  - MM
 ---
 
 # Myconid Sovereign
 
-_Source: Monster Manual p. 232_\
 ![](Mechanics/CLI/bestiary/plant/img/myconids.webp#right)
-
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 
 ## Circles and Melds
@@ -37,11 +52,11 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 
 ```ad-statblock
 title: Myconid Sovereign
-![](Mechanics/CLI/bestiary/plant/token/myconid-sovereign.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/myconid-sovereign.webp#token)
 *Large plant, Lawful Neutral*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 60 (`8d10 + 16`) 
+- **Hit Points** 60 (8d10 + 16) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,7 +66,7 @@ title: Myconid Sovereign
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 2
 
@@ -69,9 +84,9 @@ title: Myconid Sovereign
 
 ***Animating Spores (3/Day).*** The myconid targets one corpse of a humanoid or a Large or smaller beast within 5 feet of it and releases spores at the corpse. In 24 hours, the corpse rises as a spore servant. The corpse stays animated for `1d4 + 1` weeks or until destroyed, and it can't be animated again in this way.
 
-***Hallucination Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) while it hallucinates. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Hallucination Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) while it hallucinates. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Pacifying Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Pacifying Spores.*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 12 Constitution saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Rapport Spores.*** A 30-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
 ```
@@ -81,3 +96,7 @@ title: Myconid Sovereign
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 232_

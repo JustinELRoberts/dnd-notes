@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warmage
-created: 2026-03-09T12:15:33.975-04:00
-modified: 2026-03-09T12:15:33.975-04:00
-published: 2026-03-09T12:15:33.975-04:00
+created: 2026-03-29T21:53:55.975-04:00
+modified: 2026-03-29T21:53:55.976-04:00
+published: 2026-03-29T21:53:55.976-04:00
 tags:
   - ttrpg-cli/class/warmage
   - ttrpg-cli/compendium/src/5e/valdaspire24
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Warmage
-
-_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,29 +46,29 @@ _Source: Valda's Spire of Secrets (2024)_
 
 ^class-progression
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Warmage.webp#right)
-
 ## Hit Points
+
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Warmage.webp#right)
 
 - **Hit Dice**: 1d8 per Warmage level
 - **Hit Points at First Level:** 8 + CON
 - **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
 
-## Starting Warmage
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Warmage-Cover.webp#center)
+
+## Starting a Warmage
 
 - **Saving Throw Proficiencies**: Constitution, Intelligence
-- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics), [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Arcana](/Mechanics/CLI/skills.md#Arcana), [Athletics](/Mechanics/CLI/skills.md#Athletics), [History](/Mechanics/CLI/skills.md#History), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Perception](/Mechanics/CLI/skills.md#Perception), or [Survival](/Mechanics/CLI/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor)
 
-**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (Staff)](Mechanics/CLI/items/staff-xphb.md), [Gaming Set](Mechanics/CLI/items/gaming-set-xphb.md) of your choice, [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 22 GP; or (B) 50 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](/Mechanics/CLI/items/leather-armor-xphb.md), [Dagger](/Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus (Staff)](/Mechanics/CLI/items/staff-xphb.md), [Gaming Set](/Mechanics/CLI/items/gaming-set-xphb.md) of your choice, [Explorer's Pack](/Mechanics/CLI/items/explorers-pack-xphb.md), and 22 GP; or (B) 50 GP
 
 ## Multiclassing Warmage
 
 - Gain the Hit Point Die trait from the Core Warmage Traits table.
 - Gain the Warmage's level 1 features, which are listed in the Warmage Features table.
-
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarmage/Class/Warmage-Cover.webp#center)
 
 ## Warmage
 
@@ -98,7 +96,7 @@ By way of metaphor, houses that value honor and teamwork above all else brand th
 
 You have learned the simple, yet potent brand of spellcasting for which Warmages are known.
 
-**Cantrips.** You know four Warmage cantrips of your choice. [Force Dart](Mechanics/CLI/spells/force-dart-valdaspire24.md), [Prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md), [Quickstep](Mechanics/CLI/spells/quickstep-valdaspire24.md), and [Shocking Grasp](Mechanics/CLI/spells/shocking-grasp-xphb.md) are recommended. Whenever you gain a Warmage level, you can replace one of your cantrips from this feature with another Warmage cantrip of your choice. You can't replace a cantrip that is a prerequisite for a Warmage trick, unless you replace the trick at the same time.
+**Cantrips.** You know four Warmage cantrips of your choice. [Force Dart](/Mechanics/CLI/spells/force-dart-valdaspire24.md), [Prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md), [Quickstep](/Mechanics/CLI/spells/quickstep-valdaspire24.md), and [Shocking Grasp](/Mechanics/CLI/spells/shocking-grasp-xphb.md) are recommended. Whenever you gain a Warmage level, you can replace one of your cantrips from this feature with another Warmage cantrip of your choice. You can't replace a cantrip that is a prerequisite for a Warmage trick, unless you replace the trick at the same time.
 
 You learn additional Warmage cantrips of your choice at higher levels, as shown in the Cantrips column of the Warmage Features table.
 
@@ -106,7 +104,7 @@ If another Warmage feature gives you cantrips, those cantrips don't count agains
 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Warmage spells.
 
-**Spellcasting Focus.** You can use an [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Warmage spells.
+**Spellcasting Focus.** You can use an [Arcane Focus](/Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Warmage spells.
 
 ### Arcane Initiation (Level 1)
 
@@ -114,14 +112,14 @@ Choose where you first learned the basics of magic.
 
 Options (choose 1):
 
-- [Adventurer](Mechanics/CLI/optional-features/adventurer-valdaspire24.md)
-- [Arcane Event](Mechanics/CLI/optional-features/arcane-event-valdaspire24.md)
-- [Circus Performer](Mechanics/CLI/optional-features/circus-performer-valdaspire24.md)
-- [Mercenary](Mechanics/CLI/optional-features/mercenary-valdaspire24.md)
-- [Self-Taught](Mechanics/CLI/optional-features/self-taught-valdaspire24.md)
-- [Survivalist](Mechanics/CLI/optional-features/survivalist-valdaspire24.md)
-- [Temple Initiate](Mechanics/CLI/optional-features/temple-initiate-valdaspire24.md)
-- [Tower Apprentice](Mechanics/CLI/optional-features/tower-apprentice-valdaspire24.md)
+- [Adventurer](/Mechanics/CLI/optional-features/adventurer-valdaspire24.md)
+- [Arcane Event](/Mechanics/CLI/optional-features/arcane-event-valdaspire24.md)
+- [Circus Performer](/Mechanics/CLI/optional-features/circus-performer-valdaspire24.md)
+- [Mercenary](/Mechanics/CLI/optional-features/mercenary-valdaspire24.md)
+- [Self-Taught](/Mechanics/CLI/optional-features/self-taught-valdaspire24.md)
+- [Survivalist](/Mechanics/CLI/optional-features/survivalist-valdaspire24.md)
+- [Temple Initiate](/Mechanics/CLI/optional-features/temple-initiate-valdaspire24.md)
+- [Tower Apprentice](/Mechanics/CLI/optional-features/tower-apprentice-valdaspire24.md)
 
 > [!note] Making Your Own Initiation
 >
@@ -138,7 +136,7 @@ Once per turn when you cast a Warmage cantrip, you can improve the spell, gainin
 
 ### Reliable Cantrip (Level 2)
 
-When you cast a Warmage cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes the cantrip's minimum amount of damage (if any) but suffers no additional effect from the cantrip. You can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to this damage (which also deals minimum damage), but you can't use this damage to trigger [Warmage Tricks](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Tricks%20\(Level%202\)). For example, if you cast [Force Dart](Mechanics/CLI/spells/force-dart-valdaspire24.md) and miss, you can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to deal Force damage equal to 1 plus your Intelligence modifier.
+When you cast a Warmage cantrip at a creature and you miss with the attack roll or the target succeeds on a saving throw against the cantrip, the target takes the cantrip's minimum amount of damage (if any) but suffers no additional effect from the cantrip. You can apply [Warmage Edge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to this damage (which also deals minimum damage), but you can't use this damage to trigger [Warmage Tricks](/Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Tricks%20\(Level%202\)). For example, if you cast [Force Dart](/Mechanics/CLI/spells/force-dart-valdaspire24.md) and miss, you can apply [Warmage Edge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to deal Force damage equal to 1 plus your Intelligence modifier.
 
 ### Warmage Tricks (Level 2)
 
@@ -154,13 +152,13 @@ You gain a Warmage subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Arcane Surge (Level 5)
 
-Once on each of your turns, when you deal damage with a Warmage cantrip, you can double the number of damage dice dealt by the spell, as if you scored a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md). If you use this feature to improve a spell that has already scored a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md), the cantrip deals triple the number of damage dice in total.
+Once on each of your turns, when you deal damage with a Warmage cantrip, you can double the number of damage dice dealt by the spell, as if you scored a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md). If you use this feature to improve a spell that has already scored a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md), the cantrip deals triple the number of damage dice in total.
 
-You can use this feature twice. You regain one of its expended uses when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You gain an additional use when you reach Warmage level 11.
+You can use this feature twice. You regain one of its expended uses when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You gain an additional use when you reach Warmage level 11.
 
 ### Tactical Insight (Level 6)
 
@@ -172,7 +170,7 @@ You gain a feature from your Warmage Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 10)
 
@@ -180,17 +178,17 @@ You gain a feature from your Warmage Subclass.
 
 ### Arcane Surge Improvement (Level 11)
 
-You gain an additional use of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)).
+You gain an additional use of [Arcane Surge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)).
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Strategic Deflection (Level 14)
 
-When a creature casts a spell that forces you to make a saving throw to avoid damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to attempt to redirect some of the spell's energy to a new target. If you succeed on your saving throw against the spell, choose another creature you can see within the spell's range or up to 30 feet away from you, whichever is closer, to make a saving throw against the spell, using your spell save DC. The chosen creature can be the original spellcaster. On a failed save, the creature suffers the effects of the spell as if you had cast the spell and it had been the original target or been within the area of the spell.
+When a creature casts a spell that forces you to make a saving throw to avoid damage, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to attempt to redirect some of the spell's energy to a new target. If you succeed on your saving throw against the spell, choose another creature you can see within the spell's range or up to 30 feet away from you, whichever is closer, to make a saving throw against the spell, using your spell save DC. The chosen creature can be the original spellcaster. On a failed save, the creature suffers the effects of the spell as if you had cast the spell and it had been the original target or been within the area of the spell.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Subclass Feature (Level 15)
 
@@ -198,7 +196,7 @@ You gain a feature from your Warmage Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 18)
 
@@ -210,10 +208,14 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Master Warmage (Level 20)
 
-Whenever you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) and have no uses of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)) left, you regain one expended use of it.
+Whenever you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) and have no uses of [Arcane Surge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)) left, you regain one expended use of it.
 
 ## Optional Features
 
 > [!example]- Optional Features: Trick
-> ![Trick](Mechanics/CLI/lists/list-optfeaturetype-t.md#Trick)
+> ![Trick](/Mechanics/CLI/lists/list-optfeaturetype-t.md#Trick)
 > ^list-optfeature-t
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

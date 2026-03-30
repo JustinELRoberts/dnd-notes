@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Searing Smite
-created: 2026-03-09T12:15:33.983-04:00
-modified: 2026-03-09T12:15:33.983-04:00
-published: 2026-03-09T12:15:33.983-04:00
+created: 2026-03-29T21:53:55.988-04:00
+modified: 2026-03-29T21:53:55.988-04:00
+published: 2026-03-29T21:53:55.988-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/paladin
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/level/1st-level
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Cleric (Forge Domain)
-  - Paladin
-  - Ranger
 ---
 
 # Searing Smite
@@ -34,6 +31,14 @@ As you hit the target, it takes an extra `1d6` Fire damage from the attack. At t
 
 **Using a Higher-Level Spell Slot.** All the damage increases by `1d6` for each spell slot level above 1.
 
-**Classes**: [Cleric (Forge Domain)](Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Cleric (Forge Domain)](/Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE")
+- [Paladin](/Mechanics/CLI/lists/list-spells-classes-paladin.md)
+- [Cleric (Forge Domain)](/Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

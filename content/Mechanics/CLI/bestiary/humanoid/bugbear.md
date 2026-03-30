@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bugbear
-created: 2026-03-09T12:15:34.126-04:00
-modified: 2026-03-09T12:15:34.126-04:00
-published: 2026-03-09T12:15:34.126-04:00
+created: 2026-03-29T21:53:56.169-04:00
+modified: 2026-03-29T21:53:56.169-04:00
+published: 2026-03-29T21:53:56.169-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bugbear
+ac: 16
+hp: 27
+modifier: 2
+hit_dice: 5d8 + 5
+cr: "1"
+stats:
+  - 15
+  - 14
+  - 13
+  - 8
+  - 11
+  - 9
+source:
+  - MM
 ---
 
 # Bugbear
 
-_Source: Monster Manual p. 33. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bugbear.webp#right)
-
 Bugbears are born for battle and mayhem. Surviving by raiding and hunting, they bully the weak and despise being bossed around, but their love of carnage means they will fight for powerful masters if bloodshed and treasure are assured.
 
 ## Goblinoids
@@ -41,11 +56,11 @@ Despite their intimidating builds, bugbears move with surprising stealth. They a
 
 ```ad-statblock
 title: Bugbear
-![](Mechanics/CLI/bestiary/humanoid/token/bugbear.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/bugbear.webp#token)
 *Medium humanoid (goblinoid), Chaotic Evil*
 
-- **Armor Class** 16 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 27 (`5d8 + 5`) 
+- **Armor Class** 16 ([hide armor](/Mechanics/CLI/items/hide-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 27 (5d8 + 5) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,9 +69,8 @@ title: Bugbear
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6, [Survival](Mechanics/CLI/rules/skills.md#Survival) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md), [morningstar](Mechanics/CLI/items/morningstar-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +6, [Survival](/Mechanics/CLI/skills.md#Survival) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 1
 
@@ -78,3 +92,7 @@ title: Bugbear
 ## Environment
 
 underdark, grassland, forest
+
+## Sources
+
+_Monster Manual p. 33. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

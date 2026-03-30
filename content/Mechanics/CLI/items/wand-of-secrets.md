@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wand of Secrets
-created: 2026-03-09T12:15:33.787-04:00
-modified: 2026-03-09T12:15:33.787-04:00
-published: 2026-03-09T12:15:33.787-04:00
+created: 2026-03-29T21:53:55.564-04:00
+modified: 2026-03-29T21:53:55.564-04:00
+published: 2026-03-29T21:53:55.564-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -20,8 +20,11 @@ obsidianUIMode: preview
 _Wand, minor, uncommon_\
 ![](Mechanics/CLI/items/img/wand-of-secrets.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 The wand has 3 charges. While holding it, you can use an action to expend 1 of its charges, and if a secret door or trap is within 30 feet of you, the wand pulses and points at the one nearest to you. The wand regains `1d3` expended charges daily at dawn.
 
-_Source: Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

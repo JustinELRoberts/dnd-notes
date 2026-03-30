@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Web
-created: 2026-03-09T12:15:34.020-04:00
-modified: 2026-03-09T12:15:34.020-04:00
-published: 2026-03-09T12:15:34.020-04:00
+created: 2026-03-29T21:53:56.030-04:00
+modified: 2026-03-29T21:53:56.030-04:00
+published: 2026-03-29T21:53:56.030-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/artificer
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
@@ -16,6 +17,7 @@ tags:
   - ttrpg-cli/spell/school/conjuration
   - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/circle-of-the-land/tropical-land
+  - ttrpg-cli/spell/subclass/circle-of-the-land/underdark
   - ttrpg-cli/spell/subclass/college-of-lore
   - ttrpg-cli/spell/subclass/drake-blooded
   - ttrpg-cli/spell/subclass/eldritch-knight
@@ -24,18 +26,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard
-  - Bard (College of Lore)
-  - Druid (Circle of the Land, Tropical Land)
-  - Fighter (Eldritch Knight)
-  - Ranger (Swarmkeeper)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Web
@@ -47,16 +37,36 @@ _2nd-level, Conjuration_
 - **Components:** V, S, M (a bit of spiderweb)
 - **Duration:** Concentration, up to 1 hour
 
-You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) there for the duration. The webs are [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md), and the area within them is [Lightly Obscured](Mechanics/CLI/rules/variant-rules/lightly-obscured-xphb.md).
+You conjure a mass of sticky webbing at a point within range. The webs fill a 20-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) there for the duration. The webs are [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md), and the area within them is [Lightly Obscured](/Mechanics/CLI/variant-rules/lightly-obscured-xphb.md).
 
 If the webs aren't anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 5 feet.
 
-The first time a creature enters the webs on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition while in the webs or until it breaks free.
+The first time a creature enters the webs on a turn or starts its turn there, it must succeed on a Dexterity saving throw or have the [Restrained](/Mechanics/CLI/conditions.md#Restrained) condition while in the webs or until it breaks free.
 
-A creature [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the webs can take an action to make a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check against your spell save DC. If it succeeds, it is no longer [Restrained](Mechanics/CLI/rules/conditions.md#Restrained).
+A creature [Restrained](/Mechanics/CLI/conditions.md#Restrained) by the webs can take an action to make a Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) check against your spell save DC. If it succeeds, it is no longer [Restrained](/Mechanics/CLI/conditions.md#Restrained).
 
-The webs are flammable. Any 5-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) of webs exposed to fire burns away in 1 round, dealing `2d4` Fire damage to any creature that starts its turn in the fire.
+The webs are flammable. Any 5-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) of webs exposed to fire burns away in 1 round, dealing `2d4` Fire damage to any creature that starts its turn in the fire.
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Tropical Land)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Ranger (Swarmkeeper)](Mechanics/CLI/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Druid (Circle of the Land, Underdark)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md "class=XPHB")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Underdark)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Ranger (Swarmkeeper)](/Mechanics/CLI/lists/list-spells-classes-swarmkeeper-tce.md "subclass=TCE")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Tropical Land)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 340. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

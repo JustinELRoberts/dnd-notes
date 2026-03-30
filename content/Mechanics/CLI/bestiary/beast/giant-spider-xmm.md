@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Spider
-created: 2026-03-09T12:15:33.990-04:00
-modified: 2026-03-09T12:15:33.990-04:00
-published: 2026-03-09T12:15:33.990-04:00
+created: 2026-03-29T21:53:55.997-04:00
+modified: 2026-03-29T21:53:55.997-04:00
+published: 2026-03-29T21:53:55.997-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1
@@ -18,16 +18,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Spider (XMM)
+ac: 14
+hp: 26
+modifier: 3
+hit_dice: 4d10 + 4
+cr: "1"
+stats:
+  - 14
+  - 16
+  - 12
+  - 2
+  - 11
+  - 4
+source:
+  - XMM
+  - XPHB
 ---
 
 # Giant Spider
 
-_Source: Monster Manual (2024) p. 359, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/spiders.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -36,11 +53,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Giant Spider
-![](Mechanics/CLI/bestiary/beast/token/giant-spider-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-spider-xmm.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 14 
-- **Hit Points** 26 (`4d10 + 4`) 
+- **Hit Points** 26 (4d10 + 4) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,8 +66,8 @@ title: Giant Spider
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** —
 - **Challenge** 1
 
@@ -64,7 +81,7 @@ title: Giant Spider
 
 ***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Piercing damage plus 7 (`2d6`) Poison damage.
 
-***Web (Recharge 5-6).*** *Dexterity Saving Throw:* DC 13, one creature the spider can see within 60 feet. *Failure:* The target has the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition until the web is destroyed (AC 10; HP 5; [Vulnerability](Mechanics/CLI/rules/variant-rules/vulnerability-xphb.md) to Fire damage; [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Poison and Psychic damage).
+***Web (Recharge 5-6).*** *Dexterity Saving Throw:* DC 13, one creature the spider can see within 60 feet. *Failure:* The target has the [Restrained](/Mechanics/CLI/conditions.md#Restrained) condition until the web is destroyed (AC 10; HP 5; [Vulnerability](/Mechanics/CLI/variant-rules/vulnerability-xphb.md) to Fire damage; [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to Poison and Psychic damage).
 ```
 
 ^statblock
@@ -72,3 +89,7 @@ title: Giant Spider
 ## Environment
 
 desert, forest, swamp, underdark, urban
+
+## Sources
+
+_Monster Manual (2024) p. 359, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

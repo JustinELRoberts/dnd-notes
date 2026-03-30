@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bulezau
-created: 2026-03-09T12:15:34.038-04:00
-modified: 2026-03-09T12:15:34.039-04:00
-published: 2026-03-09T12:15:34.039-04:00
+created: 2026-03-29T21:53:56.048-04:00
+modified: 2026-03-29T21:53:56.048-04:00
+published: 2026-03-29T21:53:56.048-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -13,11 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bulezau (MPMM)
+ac: 14
+hp: 52
+modifier: 2
+hit_dice: 7d8 + 21
+cr: "3"
+stats:
+  - 15
+  - 14
+  - 17
+  - 8
+  - 9
+  - 6
+source:
+  - MPMM
 ---
 
 # Bulezau
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 67_\
 ![](Mechanics/CLI/bestiary/fiend/img/bulezau.webp#right)
 
 > [!quote] A quote from Tasha
@@ -34,11 +50,11 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 
 ```ad-statblock
 title: Bulezau
-![](Mechanics/CLI/bestiary/fiend/token/bulezau-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/bulezau-mpmm.webp#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 52 (`7d8 + 21`) 
+- **Hit Points** 52 (7d8 + 21) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,10 +64,10 @@ title: Bulezau
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 9
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 60 ft.
 - **Challenge** 3
 
@@ -61,11 +77,15 @@ title: Bulezau
 
 ***Standing Leap.*** The bulezau's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-***Sure-Footed.*** The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Sure-Footed.*** The bulezau has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Actions
 
-***Barbed Tail.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 8 (`1d12 + 2`) piercing damage plus 4 (`1d8`) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the disease ends. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (`1d8`). The target dies if its hit point maximum is reduced to 0.
+***Barbed Tail.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 8 (`1d12 + 2`) piercing damage plus 4 (`1d8`) necrotic damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw against disease or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the disease ends. While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way, the target sports festering boils, coughs up flies, and sheds rotting skin, and the target must repeat the saving throw after every 24 hours that elapse. On a successful save, the disease ends. On a failed save, the target's hit point maximum is reduced by 4 (`1d8`). The target dies if its hit point maximum is reduced to 0.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 67_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Two-Weapon Fighting
-created: 2026-03-09T12:15:33.930-04:00
-modified: 2026-03-09T12:15:33.930-04:00
-published: 2026-03-09T12:15:33.930-04:00
+created: 2026-03-29T21:53:55.934-04:00
+modified: 2026-03-29T21:53:55.934-04:00
+published: 2026-03-29T21:53:55.934-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -19,7 +19,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Fighting Style Feature
 
-When you make an extra attack as a result of using a weapon that has the [Light](Mechanics/CLI/rules/item-properties.md#Light) property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
+When you make an extra attack as a result of using a weapon that has the [Light](/Mechanics/CLI/item-properties.md#Light) property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.
 
 ## Sources
 

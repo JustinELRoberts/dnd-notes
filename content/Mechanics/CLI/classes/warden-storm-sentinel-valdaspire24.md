@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Storm Sentinel
-created: 2026-03-09T12:15:34.059-04:00
-modified: 2026-03-09T12:15:34.059-04:00
-published: 2026-03-09T12:15:34.059-04:00
+created: 2026-03-29T21:53:56.078-04:00
+modified: 2026-03-29T21:53:56.078-04:00
+published: 2026-03-29T21:53:56.078-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warden/storm-sentinel
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Storm Sentinel
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,34 +56,38 @@ Your call sounded like furious storm clouds and the flash of lightning. As a Sto
 
 ### Thunderblast (Level 3)
 
-When you use the Grasp option of your Guardian Tactics, each creature you choose within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) takes `1d8` Lightning damage.
+When you use the Grasp option of your Guardian Tactics, each creature you choose within the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) takes `1d8` Lightning damage.
 
 ### Seafarer (Level 3)
 
 Your time on oceanbound voyages and attunement with the storm grants you the following benefits.
 
-**Flash from Above.** Whenever you are outdoors, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to conjure a harmless, but impressive, bolt of lightning or peal of thunder.
+**Flash from Above.** Whenever you are outdoors, you can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to conjure a harmless, but impressive, bolt of lightning or peal of thunder.
 
-**Storm Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to your choice of Lightning or Thunder damage.
+**Storm Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to your choice of Lightning or Thunder damage.
 
-**Swim Speed.** You have a [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+**Swim Speed.** You have a [Swim Speed](/Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ### Storm Wings (Level 6)
 
-At the start of each of your turns, you can gain a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) until the end of the current turn (no action required).
+At the start of each of your turns, you can gain a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) until the end of the current turn (no action required).
 
 ### Lightning Step (Level 10)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can teleport inside a bolt of lightning to an unoccupied space you can see within 60 feet. Immediately before you teleport, each creature within 5 feet of the space you appear in makes a Dexterity saving throw (DC 8 plus your Strength or Dexterity modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)), taking `4d8` Lightning damage on a failed save or half as much damage on a successful one.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can teleport inside a bolt of lightning to an unoccupied space you can see within 60 feet. Immediately before you teleport, each creature within 5 feet of the space you appear in makes a Dexterity saving throw (DC 8 plus your Strength or Dexterity modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)), taking `4d8` Lightning damage on a failed save or half as much damage on a successful one.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your Interrupt (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your Interrupt (no action required).
 
 ### Stormlord (Level 17)
 
-You can imbue yourself with the storm's fury. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can imbue yourself with the storm's fury. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Call Lightning.** As a part of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast [Call Lightning](Mechanics/CLI/spells/call-lightning-xphb.md) without a spell slot. When you cast the spell in this way, its duration is 1 minute. On subsequent turns, you can replace one of your attacks with calling down lightning again.
+**Call Lightning.** As a part of the [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast [Call Lightning](/Mechanics/CLI/spells/call-lightning-xphb.md) without a spell slot. When you cast the spell in this way, its duration is 1 minute. On subsequent turns, you can replace one of your attacks with calling down lightning again.
 
-**Fly Speed.** You gain a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 60 feet.
+**Fly Speed.** You gain a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 60 feet.
 
 **Improved Thunderblast.** The damage of your Thunderblast increases to `3d8`.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

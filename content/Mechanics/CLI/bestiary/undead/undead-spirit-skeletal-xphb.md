@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Undead Spirit (Skeletal)
-created: 2026-03-09T12:15:33.904-04:00
-modified: 2026-03-09T12:15:33.904-04:00
-published: 2026-03-09T12:15:33.904-04:00
+created: 2026-03-29T21:53:55.903-04:00
+modified: 2026-03-29T21:53:55.903-04:00
+published: 2026-03-29T21:53:55.903-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Undead Spirit (Skeletal) (XPHB)
+modifier: 3
+stats:
+  - 12
+  - 16
+  - 15
+  - 4
+  - 10
+  - 9
+source:
+  - XPHB
 ---
 
 # Undead Spirit (Skeletal)
-
-_Source: Player's Handbook (2024) p. 328_
 
 ```ad-statblock
 title: Undead Spirit (Skeletal)
@@ -34,9 +45,9 @@ title: Undead Spirit (Skeletal)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages you know
 - **Challenge** 
 
@@ -48,3 +59,7 @@ title: Undead Spirit (Skeletal)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 328_

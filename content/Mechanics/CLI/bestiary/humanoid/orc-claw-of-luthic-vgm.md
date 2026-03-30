@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orc Claw of Luthic
-created: 2026-03-09T12:15:33.981-04:00
-modified: 2026-03-09T12:15:33.981-04:00
-published: 2026-03-09T12:15:33.981-04:00
+created: 2026-03-29T21:53:55.986-04:00
+modified: 2026-03-29T21:53:55.986-04:00
+published: 2026-03-29T21:53:55.986-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orc Claw of Luthic (VGM)
+ac: 14
+hp: 45
+modifier: 2
+hit_dice: 6d8 + 18
+cr: "2"
+stats:
+  - 14
+  - 15
+  - 16
+  - 10
+  - 15
+  - 11
+source:
+  - VGM
 ---
 
 # Orc Claw of Luthic
 
-_Source: Volo's Guide to Monsters p. 183_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-claw-of-luthic.webp#right)
-
 Luthic is Gruumsh's wife and the paragon of maternity to all orcs. She is the Cave Mother, a fierce dweller in the darkness who raises new broods of orcs to be vicious and strong. Her symbol is the cave bear, and orc females raise such bears alongside orc whelps. Females particularly attracted to Luthic grow long nails and lacquer them, learning to use these claws as weapons much as Luthic uses her own.
 
 Orc females devoted to Luthic are in charge of fortifying and maintaining an orc stronghold. They help to guarantee the survival of the tribe, and most are skilled in the healing arts. The most powerful among Luthic's disciples are the claws of Luthic, which can use the Cave Mother's magic to heal, protect, and curse.
@@ -38,11 +53,11 @@ In addition, orcs have special relationships with two creatures that are sometim
 
 ```ad-statblock
 title: Orc Claw of Luthic
-![](Mechanics/CLI/bestiary/humanoid/token/orc-claw-of-luthic-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orc-claw-of-luthic-vgm.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 14 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Armor Class** 14 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,8 +66,8 @@ title: Orc Claw of Luthic
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +2, [Medicine](Mechanics/CLI/rules/skills.md#Medicine) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +2, [Medicine](/Mechanics/CLI/skills.md#Medicine) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** Common, Orc
 - **Challenge** 2
 
@@ -60,13 +75,13 @@ title: Orc Claw of Luthic
 
 ***Spellcasting.*** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `+4` to hit with spell attacks). The orc has the following cleric spells prepared:
 
-**Cantrips (at will):** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [mending](Mechanics/CLI/spells/mending-xphb.md), [resistance](Mechanics/CLI/spells/resistance-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [mending](/Mechanics/CLI/spells/mending-xphb.md), [resistance](/Mechanics/CLI/spells/resistance-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [bane](Mechanics/CLI/spells/bane-xphb.md), [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [guiding bolt](Mechanics/CLI/spells/guiding-bolt-xphb.md)
+**1st level (4 slots):** [bane](/Mechanics/CLI/spells/bane-xphb.md), [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [guiding bolt](/Mechanics/CLI/spells/guiding-bolt-xphb.md)
 
-**2nd level (3 slots):** [augury](Mechanics/CLI/spells/augury-xphb.md), [warding bond](Mechanics/CLI/spells/warding-bond-xphb.md)
+**2nd level (3 slots):** [augury](/Mechanics/CLI/spells/augury-xphb.md), [warding bond](/Mechanics/CLI/spells/warding-bond-xphb.md)
 
-**3rd level (2 slots):** [bestow curse](Mechanics/CLI/spells/bestow-curse-xphb.md), [create food and water](Mechanics/CLI/spells/create-food-and-water-xphb.md)
+**3rd level (2 slots):** [bestow curse](/Mechanics/CLI/spells/bestow-curse-xphb.md), [create food and water](/Mechanics/CLI/spells/create-food-and-water-xphb.md)
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
@@ -82,3 +97,7 @@ title: Orc Claw of Luthic
 ## Environment
 
 underdark, mountain
+
+## Sources
+
+_Volo's Guide to Monsters p. 183_

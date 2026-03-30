@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Steam Mephit
-created: 2026-03-09T12:15:34.002-04:00
-modified: 2026-03-09T12:15:34.002-04:00
-published: 2026-03-09T12:15:34.002-04:00
+created: 2026-03-29T21:53:56.012-04:00
+modified: 2026-03-29T21:53:56.012-04:00
+published: 2026-03-29T21:53:56.012-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Steam Mephit
+ac: 10
+hp: 21
+modifier: 0
+hit_dice: 6d6
+cr: 1/4
+stats:
+  - 5
+  - 11
+  - 10
+  - 11
+  - 10
+  - 12
+source:
+  - MM
 ---
 
 # Steam Mephit
 
-_Source: Monster Manual p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/steam-mephit.webp#right)
 
 ## Mephits
@@ -39,11 +55,11 @@ Composed of fire and water, steam mephits leave trails of hot water wherever the
 
 ```ad-statblock
 title: Steam Mephit
-![](Mechanics/CLI/bestiary/elemental/token/steam-mephit.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/steam-mephit.webp#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 10 
-- **Hit Points** 21 (`6d6`) 
+- **Hit Points** 21 (6d6) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,15 +69,15 @@ title: Steam Mephit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Aquan, Ignan
 - **Challenge** 1/4
 
 ## Traits
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [blur](Mechanics/CLI/spells/blur-xphb.md), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [blur](/Mechanics/CLI/spells/blur-xphb.md), requiring no material components. Its innate spellcasting ability is Charisma.
 
 
 ***Death Burst.*** When the mephit dies, it explodes in a cloud of steam. Each creature within 5 feet of the mephit must succeed on a DC 10 Dexterity saving throw or take 4 (`1d8`) fire damage.
@@ -78,3 +94,7 @@ title: Steam Mephit
 ## Environment
 
 underwater
+
+## Sources
+
+_Monster Manual p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cranium Rat
-created: 2026-03-09T12:15:33.990-04:00
-modified: 2026-03-09T12:15:33.990-04:00
-published: 2026-03-09T12:15:33.990-04:00
+created: 2026-03-29T21:53:55.997-04:00
+modified: 2026-03-29T21:53:55.997-04:00
+published: 2026-03-29T21:53:55.997-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/0
@@ -15,11 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cranium Rat (MPMM)
+ac: 12
+hp: 2
+modifier: 2
+hit_dice: 1d4
+cr: "0"
+stats:
+  - 2
+  - 14
+  - 10
+  - 4
+  - 11
+  - 8
+source:
+  - MPMM
+  - VGM
 ---
 
 # Cranium Rat
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133_\
 ![](Mechanics/CLI/bestiary/aberration/img/swarm-of-cranium-rats.webp#right)
 
 ## Cranium Rat
@@ -30,11 +47,11 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 
 ```ad-statblock
 title: Cranium Rat
-![](Mechanics/CLI/bestiary/aberration/token/cranium-rat-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/cranium-rat-mpmm.webp#token)
 *Tiny aberration, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 2 (`1d4`) 
+- **Hit Points** 2 (1d4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,7 +61,7 @@ title: Cranium Rat
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception 10
 - **Languages** telepathy 30 ft.
 - **Challenge** 0
 
@@ -66,3 +83,7 @@ title: Cranium Rat
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133_

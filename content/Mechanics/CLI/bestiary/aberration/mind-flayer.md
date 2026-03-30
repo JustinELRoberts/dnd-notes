@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mind Flayer
-created: 2026-03-09T12:15:33.855-04:00
-modified: 2026-03-09T12:15:33.855-04:00
-published: 2026-03-09T12:15:33.855-04:00
+created: 2026-03-29T21:53:55.644-04:00
+modified: 2026-03-29T21:53:55.644-04:00
+published: 2026-03-29T21:53:55.644-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mind Flayer
+ac: 15
+hp: 71
+modifier: 1
+hit_dice: 13d8 + 13
+cr: "7"
+stats:
+  - 11
+  - 12
+  - 12
+  - 19
+  - 17
+  - 17
+source:
+  - MM
 ---
 
 # Mind Flayer
 
-_Source: Monster Manual p. 222_\
 ![](Mechanics/CLI/bestiary/aberration/img/mind-flayer.webp#right)
-
 Mind flayers, also called illithids, are the scourge of sentient creatures across countless worlds. Psionic tyrants, slavers, and interdimensional voyagers, they are insidious masterminds that harvest entire races for their own twisted ends. Four tentacles snake from their octopus-like heads, flexing in hungry anticipation when sentient creatures come near.
 
 In eons past, illithids controlled empires that spanned many worlds. They subjugated and consequently warped whole races of humanoid slaves, including the githyanki and githzerai, the grimlocks, and the kuo-toa. Conjoined by a collective consciousness, the illithids hatch plots as far-reaching and evil as their fathomless minds can conceive.
@@ -52,11 +67,11 @@ An illithid experiences euphoria as it devours the brain of a humanoid, along wi
 
 ```ad-statblock
 title: Mind Flayer
-![](Mechanics/CLI/bestiary/aberration/token/mind-flayer.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/mind-flayer.webp#token)
 *Medium aberration, Lawful Evil*
 
-- **Armor Class** 15 ([breastplate](Mechanics/CLI/items/breastplate-xphb.md))
-- **Hit Points** 71 (`13d8 + 13`) 
+- **Armor Class** 15 ([breastplate](/Mechanics/CLI/items/breastplate.md))
+- **Hit Points** 71 (13d8 + 13) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,8 +80,8 @@ title: Mind Flayer
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +7, Wisdom +6, Charisma +6
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +7, [Deception](Mechanics/CLI/rules/skills.md#Deception) +6, [Insight](Mechanics/CLI/rules/skills.md#Insight) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +7, [Deception](/Mechanics/CLI/skills.md#Deception) +6, [Insight](/Mechanics/CLI/skills.md#Insight) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Languages** Deep Speech, Undercommon, telepathy 120 ft.
 - **Challenge** 7
 
@@ -74,19 +89,19 @@ title: Mind Flayer
 
 ***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 
-**At will:** [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md)
+**At will:** [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md)
 
-**1/day each:** [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
+**1/day each:** [dominate monster](/Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
 
 ***Magic Resistance.*** The mind flayer has advantage on saving throws against spells and other magical effects.
 
 ## Actions
 
-***Tentacles.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one creature. *Hit:* 15 (`2d10 + 4`) psychic damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until this grapple ends.
+***Tentacles.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one creature. *Hit:* 15 (`2d10 + 4`) psychic damage. If the target is Medium or smaller, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15) and must succeed on a DC 15 Intelligence saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until this grapple ends.
 
-***Extract Brain.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) humanoid [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the mind flayer. *Hit:* The target takes 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
+***Extract Brain.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) humanoid [grappled](/Mechanics/CLI/conditions.md#Grappled) by the mind flayer. *Hit:* The target takes 55 (`10d10`) piercing damage. If this damage reduces the target to 0 hit points, the mind flayer kills the target by extracting and devouring its brain.
 
-***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recharge 5-6).*** The mind flayer magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 15 Intelligence saving throw or take 22 (`4d8 + 4`) psychic damage and be [stunned](/Mechanics/CLI/conditions.md#Stunned) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -94,3 +109,7 @@ title: Mind Flayer
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 222_

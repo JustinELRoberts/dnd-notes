@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hill Giant
-created: 2026-03-09T12:15:34.033-04:00
-modified: 2026-03-09T12:15:34.033-04:00
-published: 2026-03-09T12:15:34.033-04:00
+created: 2026-03-29T21:53:56.046-04:00
+modified: 2026-03-29T21:53:56.046-04:00
+published: 2026-03-29T21:53:56.046-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hill Giant
+ac: 13
+hp: 105
+modifier: -1
+hit_dice: 10d12 + 40
+cr: "5"
+stats:
+  - 21
+  - 8
+  - 19
+  - 5
+  - 9
+  - 6
+source:
+  - MM
 ---
 
 # Hill Giant
 
-_Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/hill-giant.webp#right)
-
 Hill giants are selfish, dimwitted brutes that hunt, forage, and raid in constant search of food. They blunder through hills and forests devouring what they can, bullying smaller creatures into feeding them. Their laziness and dullness would long ago have spelled their end if not for their formidable size and strength.
 
 ## Primitive
@@ -94,11 +109,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Hill Giant
-![](Mechanics/CLI/bestiary/giant/token/hill-giant.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/hill-giant.webp#token)
 *Huge giant, Chaotic Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 105 (`10d12 + 40`) 
+- **Hit Points** 105 (10d12 + 40) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -107,9 +122,8 @@ title: Hill Giant
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
 - **Senses** passive Perception 12
-- **Gear** [greatclub](Mechanics/CLI/items/greatclub-xphb.md)
 - **Languages** Giant
 - **Challenge** 5
 
@@ -127,3 +141,7 @@ title: Hill Giant
 ## Environment
 
 hill
+
+## Sources
+
+_Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

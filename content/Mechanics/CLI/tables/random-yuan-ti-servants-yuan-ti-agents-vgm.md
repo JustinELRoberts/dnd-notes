@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Random Yuan-ti Servants; Yuan-ti Agents
-created: 2026-03-09T12:15:34.418-04:00
-modified: 2026-03-09T12:15:34.418-04:00
-published: 2026-03-09T12:15:34.418-04:00
+created: 2026-03-29T21:53:56.511-04:00
+modified: 2026-03-29T21:53:56.512-04:00
+published: 2026-03-29T21:53:56.512-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
 cssclasses:
@@ -20,12 +20,12 @@ _Source: Volo's Guide to Monsters p. 102_
 
 | dice: d100 | Agents |
 |------------|--------|
-| 1-20 | [Cultists](Mechanics/CLI/bestiary/humanoid/cultist.md) |
-| 21-30 | [Cult Fanatics](Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) |
-| 31-34 | [Doppelgangers](Mechanics/CLI/bestiary/monstrosity/doppelganger.md) |
-| 35-50 | [Guards](Mechanics/CLI/bestiary/humanoid/guard.md) |
-| 51-60 | [Nobles](Mechanics/CLI/bestiary/humanoid/noble.md) |
-| 61-72 | [Priests](Mechanics/CLI/bestiary/humanoid/priest.md) |
-| 73-86 | [Scouts](Mechanics/CLI/bestiary/humanoid/scout.md) |
-| 87-100 | [Spies](Mechanics/CLI/bestiary/humanoid/spy.md) |
+| 1-20 | [Cultists](/Mechanics/CLI/bestiary/humanoid/cultist.md) |
+| 21-30 | [Cult Fanatics](/Mechanics/CLI/bestiary/humanoid/cult-fanatic.md) |
+| 31-34 | [Doppelgangers](/Mechanics/CLI/bestiary/monstrosity/doppelganger.md) |
+| 35-50 | [Guards](/Mechanics/CLI/bestiary/humanoid/guard.md) |
+| 51-60 | [Nobles](/Mechanics/CLI/bestiary/humanoid/noble.md) |
+| 61-72 | [Priests](/Mechanics/CLI/bestiary/humanoid/priest.md) |
+| 73-86 | [Scouts](/Mechanics/CLI/bestiary/humanoid/scout.md) |
+| 87-100 | [Spies](/Mechanics/CLI/bestiary/humanoid/spy.md) |
 ^yuan-ti-agents

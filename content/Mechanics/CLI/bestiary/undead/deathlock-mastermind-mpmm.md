@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deathlock Mastermind
-created: 2026-03-09T12:15:33.920-04:00
-modified: 2026-03-09T12:15:33.920-04:00
-published: 2026-03-09T12:15:33.920-04:00
+created: 2026-03-29T21:53:55.924-04:00
+modified: 2026-03-29T21:53:55.924-04:00
+published: 2026-03-29T21:53:55.924-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deathlock Mastermind (MPMM)
+ac: 13
+hp: 110
+modifier: 3
+hit_dice: 20d8 + 20
+cr: "8"
+stats:
+  - 11
+  - 16
+  - 12
+  - 15
+  - 12
+  - 17
+source:
+  - MPMM
 ---
 
 # Deathlock Mastermind
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 87_\
 ![](Mechanics/CLI/bestiary/undead/img/deathlock-mastermind.webp#right)
-
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
 
 ## Deathlocks
@@ -33,11 +48,11 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 
 ```ad-statblock
 title: Deathlock Mastermind
-![](Mechanics/CLI/bestiary/undead/token/deathlock-mastermind-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/deathlock-mastermind-mpmm.webp#token)
 *Medium undead (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 110 (`20d8 + 20`) 
+- **Hit Points** 110 (20d8 + 20) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,17 +61,17 @@ title: Deathlock Mastermind
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +5, Charisma +6
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [History](Mechanics/CLI/rules/skills.md#History) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 14
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [History](/Mechanics/CLI/skills.md#History) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Damage Resistances** necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** the languages it knew in life
 - **Challenge** 8
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the deathlock's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the deathlock's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns Undead.
 
@@ -68,13 +83,13 @@ title: Deathlock Mastermind
 
 ***Deathly Claw.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 13 (`3d6 + 3` necrotic damage).
 
-***Grave Bolt.*** *Ranged Spell Attack:* `+6` to hit, range 120 ft., one target. *Hit:* 13 (`3d8`) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become [restrained](Mechanics/CLI/rules/conditions.md#Restrained) as shadowy tendrils wrap around it for 1 minute. A [restrained](Mechanics/CLI/rules/conditions.md#Restrained) target can use its action to repeat the saving throw, ending the effect on itself on a success.
+***Grave Bolt.*** *Ranged Spell Attack:* `+6` to hit, range 120 ft., one target. *Hit:* 13 (`3d8`) necrotic damage. If the target is Large or smaller, it must succeed on a DC 16 Strength saving throw or become [restrained](/Mechanics/CLI/conditions.md#Restrained) as shadowy tendrils wrap around it for 1 minute. A [restrained](/Mechanics/CLI/conditions.md#Restrained) target can use its action to repeat the saving throw, ending the effect on itself on a success.
 
 ***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14):
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 
-**1/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md)
+**1/day each:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md)
 ```
 
 ^statblock
@@ -82,3 +97,7 @@ title: Deathlock Mastermind
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 87_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gray Slaad
-created: 2026-03-09T12:15:34.093-04:00
-modified: 2026-03-09T12:15:34.093-04:00
-published: 2026-03-09T12:15:34.093-04:00
+created: 2026-03-29T21:53:56.123-04:00
+modified: 2026-03-29T21:53:56.123-04:00
+published: 2026-03-29T21:53:56.123-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gray Slaad
+ac: 18
+hp: 127
+modifier: 3
+hit_dice: 17d8 + 51
+cr: "9"
+stats:
+  - 17
+  - 17
+  - 16
+  - 13
+  - 8
+  - 14
+source:
+  - MM
 ---
 
 # Gray Slaad
 
-_Source: Monster Manual p. 277_\
 ![](Mechanics/CLI/bestiary/aberration/img/gray-slaad.webp#right)
-
 Outside of Limbo, gray slaadi act as living extensions of the will of their masters, the death slaadi. A gray slaad journeys to the Material Plane on errands of doom, often taking humanoid form. A gray slaad learns how to master the use of a greatsword and imbue it with its own innate magic.
 
 A gray slaad that eats the entire corpse of a dead death slaad instantly transforms into a death slaad.
@@ -49,13 +64,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 >
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 >
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/Mechanics/CLI/conditions.md#Charmed) while so controlled.
 >
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](Mechanics/CLI/spells/wish-xphb.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/Mechanics/CLI/spells/wish-xphb.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 >
-> A [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the slaad destroys the gem without harming the slaad.
 >
-> Someone who is proficient in Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) can remove the gem from an [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 > ^variant-slaad-control-gems
 
 > [!quote]
@@ -66,11 +81,11 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 
 ```ad-statblock
 title: Gray Slaad
-![](Mechanics/CLI/bestiary/aberration/token/gray-slaad.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/gray-slaad.webp#token)
 *Medium aberration (shapechanger), Chaotic Neutral*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 127 (`17d8 + 51`) 
+- **Hit Points** 127 (17d8 + 51) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -79,10 +94,9 @@ title: Gray Slaad
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 17
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +7
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 17
 - **Damage Resistances** acid, cold, fire, lightning, thunder
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md)
 - **Languages** Slaad, telepathy 60 ft.
 - **Challenge** 9
 
@@ -90,11 +104,11 @@ title: Gray Slaad
 
 ***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 14). The slaad can innately cast the following spells, requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md)
 
-**2/day each:** [fear](Mechanics/CLI/spells/fear-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [fireball](Mechanics/CLI/spells/fireball-xphb.md), [tongues](Mechanics/CLI/spells/tongues-xphb.md)
+**2/day each:** [fear](/Mechanics/CLI/spells/fear-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [fireball](/Mechanics/CLI/spells/fireball-xphb.md), [tongues](/Mechanics/CLI/spells/tongues-xphb.md)
 
-**1/day:** [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
+**1/day:** [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
 
 ***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -120,3 +134,7 @@ title: Gray Slaad
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 277_

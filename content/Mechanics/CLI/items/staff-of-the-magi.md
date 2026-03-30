@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Staff of the Magi
-created: 2026-03-09T12:15:33.917-04:00
-modified: 2026-03-09T12:15:33.917-04:00
-published: 2026-03-09T12:15:33.917-04:00
+created: 2026-03-29T21:53:55.921-04:00
+modified: 2026-03-29T21:53:55.921-04:00
+published: 2026-03-29T21:53:55.921-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -24,7 +24,8 @@ _Staff, weapon, major, legendary (requires attunement by a sorcerer, warlock, or
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
+- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While you hold it, you gain a +2 bonus to spell attack rolls.
@@ -37,9 +38,9 @@ While holding the staff, you have advantage on saving throws against spells. In 
 
 ## Spells
 
-While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [conjure elemental](Mechanics/CLI/spells/conjure-elemental-xphb.md) (7 charges), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md) (3 charges), [fireball](Mechanics/CLI/spells/fireball-xphb.md) (7th-level version, 7 charges), [flaming sphere](Mechanics/CLI/spells/flaming-sphere-xphb.md) (2 charges), [ice storm](Mechanics/CLI/spells/ice-storm-xphb.md) (4 charges), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (2 charges), [knock](Mechanics/CLI/spells/knock-xphb.md) (2 charges), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md) (7th-level version, 7 charges), [passwall](Mechanics/CLI/spells/passwall-xphb.md) (5 charges), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (7 charges), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md) (5 charges), [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) (4 charges), or [web](Mechanics/CLI/spells/web-xphb.md) (2 charges).
+While holding the staff, you can use an action to expend some of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability: [conjure elemental](/Mechanics/CLI/spells/conjure-elemental-xphb.md) (7 charges), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md) (3 charges), [fireball](/Mechanics/CLI/spells/fireball-xphb.md) (7th-level version, 7 charges), [flaming sphere](/Mechanics/CLI/spells/flaming-sphere-xphb.md) (2 charges), [ice storm](/Mechanics/CLI/spells/ice-storm-xphb.md) (4 charges), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (2 charges), [knock](/Mechanics/CLI/spells/knock-xphb.md) (2 charges), [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md) (7th-level version, 7 charges), [passwall](/Mechanics/CLI/spells/passwall-xphb.md) (5 charges), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (7 charges), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md) (5 charges), [wall of fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md) (4 charges), or [web](/Mechanics/CLI/spells/web-xphb.md) (2 charges).
 
-You can also use an action to cast one of the following spells from the staff without using any charges: [arcane lock](Mechanics/CLI/spells/arcane-lock-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [enlarge/reduce](Mechanics/CLI/spells/enlarge-reduce-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), or [protection from evil and good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md).
+You can also use an action to cast one of the following spells from the staff without using any charges: [arcane lock](/Mechanics/CLI/spells/arcane-lock-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [enlarge/reduce](/Mechanics/CLI/spells/enlarge-reduce-xphb.md), [light](/Mechanics/CLI/spells/light-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), or [protection from evil and good](/Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md).
 
 ## Retributive Strike
 
@@ -54,4 +55,6 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 ^distance-from-origin-damage
 
-_Source: Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 203. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

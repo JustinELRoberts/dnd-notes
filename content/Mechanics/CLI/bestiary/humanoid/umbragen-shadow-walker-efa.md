@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Umbragen Shadow Walker
-created: 2026-03-09T12:15:33.868-04:00
-modified: 2026-03-09T12:15:33.869-04:00
-published: 2026-03-09T12:15:33.869-04:00
+created: 2026-03-29T21:53:55.660-04:00
+modified: 2026-03-29T21:53:55.660-04:00
+published: 2026-03-29T21:53:55.660-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/monster/cr/9
@@ -13,22 +13,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Umbragen Shadow Walker (EFA)
+ac: 14
+hp: 162
+modifier: 4
+hit_dice: 25d8 + 50
+cr: "9"
+stats:
+  - 12
+  - 19
+  - 14
+  - 13
+  - 15
+  - 20
+source:
+  - EFA
 ---
 
 # Umbragen Shadow Walker
 
-_Source: Eberron: Forge of the Artificer p. 99_\
 ![](Mechanics/CLI/bestiary/humanoid/img/umbragen-shadow-walker.webp#right)
-
 Umbragen drow are the descendants of drow who fled the giants and found refuge underground. For countless generations, they have lived in the lightless caverns of Khyber. There, they tapped into a mysterious magical shadow they called the Umbra. Though some have emerged to haunt the surface in the wake of the giant empire's fall, they retain a spiritual and physical connection to the darkness below. Umbragen shadow walkers weave shadow magic to confound foes.
 
 ```ad-statblock
 title: Umbragen Shadow Walker
-![](Mechanics/CLI/bestiary/humanoid/token/umbragen-shadow-walker-efa.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/umbragen-shadow-walker-efa.webp#token)
 *Medium humanoid (elf), Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 162 (`25d8 + 50`) 
+- **Hit Points** 162 (25d8 + 50) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,8 +52,8 @@ title: Umbragen Shadow Walker
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +8, Wisdom +6
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Vulnerabilities** radiant
 - **Languages** Common, Elvish, Undercommon
 - **Challenge** 9
@@ -47,7 +62,7 @@ title: Umbragen Shadow Walker
 
 ***Fey Ancestry.*** Magic can't put the shadow walker to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the shadow walker has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
+***Sunlight Sensitivity.*** While in sunlight, the shadow walker has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on ability checks and attack rolls.
 
 ## Actions
 
@@ -55,11 +70,15 @@ title: Umbragen Shadow Walker
 
 ***Gloom Burst.*** *Melee  or Ranged Attack Roll:* `+9`, reach 5 ft. or range 120 ft. *Hit:* 14 (`2d8 + 5`) Psychic damage.
 
-***Shadow Cowl.*** *Wisdom Saving Throw:* DC 17, one creature the shadow walker can see within 120 feet. *Failure:* 14 (`4d6`) Necrotic damage, and the target has the  [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition until the start of the shadow walker's next turn.
+***Shadow Cowl.*** *Wisdom Saving Throw:* DC 17, one creature the shadow walker can see within 120 feet. *Failure:* 14 (`4d6`) Necrotic damage, and the target has the  [Blinded](/Mechanics/CLI/conditions.md#Blinded) condition until the start of the shadow walker's next turn.
 
 ***Spellcasting.*** The shadow walker casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 17):
 
-**At will:** [Dancing Lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [Darkness](Mechanics/CLI/spells/darkness-xphb.md), [Minor Illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [Dancing Lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [Darkness](/Mechanics/CLI/spells/darkness-xphb.md), [Minor Illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 99_

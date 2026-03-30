@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Water Elemental Myrmidon
-created: 2026-03-09T12:15:33.787-04:00
-modified: 2026-03-09T12:15:33.787-04:00
-published: 2026-03-09T12:15:33.787-04:00
+created: 2026-03-29T21:53:55.564-04:00
+modified: 2026-03-29T21:53:55.564-04:00
+published: 2026-03-29T21:53:55.564-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -13,11 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Water Elemental Myrmidon (MPMM)
+ac: 18
+hp: 127
+modifier: 2
+hit_dice: 17d8 + 51
+cr: "7"
+stats:
+  - 18
+  - 14
+  - 16
+  - 8
+  - 10
+  - 10
+source:
+  - MPMM
 ---
 
 # Water Elemental Myrmidon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 123_\
 ![](Mechanics/CLI/bestiary/elemental/img/water-elemental-myrmidon.webp#right)
 
 ## Elemental Myrmidons
@@ -26,11 +42,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 
 ```ad-statblock
 title: Water Elemental Myrmidon
-![](Mechanics/CLI/bestiary/elemental/token/water-elemental-myrmidon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/water-elemental-myrmidon-mpmm.webp#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 127 (`17d8 + 51`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 127 (17d8 + 51) 
 - **Speed** 40 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,11 +56,10 @@ title: Water Elemental Myrmidon
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** acid; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone)
-- **Gear** [trident](Mechanics/CLI/items/trident-xphb.md)
+- **Condition Immunities** [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Aquan, one language of its creator's choice
 - **Challenge** 7
 
@@ -58,3 +73,7 @@ title: Water Elemental Myrmidon
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 123_

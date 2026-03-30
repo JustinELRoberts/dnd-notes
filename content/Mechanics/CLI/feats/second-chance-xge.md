@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Second Chance
-created: 2026-03-09T12:15:33.857-04:00
-modified: 2026-03-09T12:15:33.857-04:00
-published: 2026-03-09T12:15:33.857-04:00
+created: 2026-03-29T21:53:55.648-04:00
+modified: 2026-03-29T21:53:55.648-04:00
+published: 2026-03-29T21:53:55.648-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/feat
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Second Chance
 
-_**Prerequisites**_ [Halfling](Mechanics/CLI/races/halfling-xphb.md)
+_**Prerequisites**_ halfling
 
 Fortune favors you when someone tries to strike you. You gain the following benefits:
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nightmare
-created: 2026-03-09T12:15:33.835-04:00
-modified: 2026-03-09T12:15:33.835-04:00
-published: 2026-03-09T12:15:33.835-04:00
+created: 2026-03-29T21:53:55.621-04:00
+modified: 2026-03-29T21:53:55.621-04:00
+published: 2026-03-29T21:53:55.621-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nightmare
+ac: 13
+hp: 68
+modifier: 2
+hit_dice: 8d10 + 24
+cr: "3"
+stats:
+  - 18
+  - 15
+  - 16
+  - 10
+  - 13
+  - 15
+source:
+  - MM
 ---
 
 # Nightmare
 
-_Source: Monster Manual p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/nightmare.webp#right)
-
 A nightmare appears in a cloud of roiling smoke, its mane, tail, and hooves wreathed in flame. The creature's unearthly black form moves with supernatural speed, vanishing in a cloud of brimstone as quickly as it appeared.
 
 ## Dread Steed
@@ -34,11 +49,11 @@ Nightmares don't appear naturally in the multiverse. They must be created from p
 
 ```ad-statblock
 title: Nightmare
-![](Mechanics/CLI/bestiary/fiend/token/nightmare.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/nightmare.webp#token)
 *Large fiend, Neutral Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 68 (`8d10 + 24`) 
+- **Hit Points** 68 (8d10 + 24) 
 - **Speed** 60 ft., fly 90 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -67,3 +82,7 @@ title: Nightmare
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 235. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

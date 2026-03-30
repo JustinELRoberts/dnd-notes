@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boon of the Night Spirit
-created: 2026-03-09T12:15:34.095-04:00
-modified: 2026-03-09T12:15:34.095-04:00
-published: 2026-03-09T12:15:34.095-04:00
+created: 2026-03-29T21:53:56.126-04:00
+modified: 2026-03-29T21:53:56.126-04:00
+published: 2026-03-29T21:53:56.126-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Merge with Shadows.** While within [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) or [Darkness](Mechanics/CLI/rules/variant-rules/darkness-xphb.md), you can give yourself the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). The condition ends on you immediately after you take an action, a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+**Merge with Shadows.** While within [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) or [Darkness](/Mechanics/CLI/variant-rules/darkness-xphb.md), you can give yourself the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md). The condition ends on you immediately after you take an action, a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), or a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
-**Shadowy Form.** While within [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) or [Darkness](Mechanics/CLI/rules/variant-rules/darkness-xphb.md), you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage except Psychic and Radiant.
+**Shadowy Form.** While within [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) or [Darkness](/Mechanics/CLI/variant-rules/darkness-xphb.md), you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage except Psychic and Radiant.
 
 ## Sources
 

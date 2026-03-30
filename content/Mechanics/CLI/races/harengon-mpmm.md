@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Harengon
-created: 2026-03-09T12:15:33.872-04:00
-modified: 2026-03-09T12:15:33.872-04:00
-published: 2026-03-09T12:15:33.872-04:00
+created: 2026-03-29T21:53:55.663-04:00
+modified: 2026-03-29T21:53:55.663-04:00
+published: 2026-03-29T21:53:55.663-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/harengon
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Harengon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 22_\
 ![](Mechanics/CLI/races/img/harengon.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -34,11 +33,11 @@ You can add your proficiency bonus to your initiative rolls.
 
 ### Leporine Senses
 
-You have proficiency in the [Perception](Mechanics/CLI/rules/skills.md#Perception) skill.
+You have proficiency in the [Perception](/Mechanics/CLI/skills.md#Perception) skill.
 
 ### Lucky Footwork
 
-When you fail a Dexterity saving throw, you can use your reaction to roll a `d4` and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're [prone](Mechanics/CLI/rules/conditions.md#Prone) or your speed is 0.
+When you fail a Dexterity saving throw, you can use your reaction to roll a `d4` and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're [prone](/Mechanics/CLI/conditions.md#Prone) or your speed is 0.
 
 ### Rabbit Hop
 
@@ -49,3 +48,7 @@ As a bonus action, you can jump a number of feet equal to five times your profic
 Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm's exuberance with them and learning new languages as they went.
 
 Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 22_

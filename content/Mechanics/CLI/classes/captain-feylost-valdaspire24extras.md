@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Feylost
-created: 2026-03-09T12:15:34.052-04:00
-modified: 2026-03-09T12:15:34.052-04:00
-published: 2026-03-09T12:15:34.052-04:00
+created: 2026-03-29T21:53:56.065-04:00
+modified: 2026-03-29T21:53:56.065-04:00
+published: 2026-03-29T21:53:56.065-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/captain/feylost
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Feylost
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -49,7 +48,7 @@ _Source: Valda's Spire of Secrets Extras (2024)_
 
 ^class-progression
 
-Cross-Compatible Subclass: This subclass originates from the [Vagabond](Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
+Cross-Compatible Subclass: This subclass originates from the [Vagabond](/Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
 
 Note that cross-compatible subclasses might be stronger or weaker than other subclasses.
 
@@ -63,38 +62,42 @@ The Feywild is a labyrinth of winding, magical paths, leading to delightful glad
 
 ### Fey Moods (Level 3)
 
-Your time in the Feywild has afflicted you with magical mood swings known as Fey Moods that overtake you in desperate situations. When you take damage that causes you to become [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), roll on the Fey Moods table. This mood lasts for 1 minute or until you are no longer [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied).
+Your time in the Feywild has afflicted you with magical mood swings known as Fey Moods that overtake you in desperate situations. When you take damage that causes you to become [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), roll on the Fey Moods table. This mood lasts for 1 minute or until you are no longer [Bloodied](/Mechanics/CLI/conditions.md#Bloodied).
 
 **Fey Moods**
 
 | dice: d8 | Mood |
 |----------|------|
-| 1 | _**Arrogant.**_ Enemies within 5 feet of you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you. |
-| 2 | _**Elated.**_ At the start of each of your turns, you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Constitution modifier. |
-| 3 | _**Fearful.**_ [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) against you. |
-| 4 | _**Forlorn.**_ When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the attack to hit you instead. |
-| 5 | _**Manic.**_ When you roll a 1 on the `d20` for a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the roll becomes a 20. |
-| 6 | _**Paranoid.**_ You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Dexterity ability checks and saving throws. |
-| 7 | _**Serene.**_ You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Intelligence, Wisdom, and Charisma saving throws. |
+| 1 | _**Arrogant.**_ Enemies within 5 feet of you have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against targets other than you. |
+| 2 | _**Elated.**_ At the start of each of your turns, you gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Constitution modifier. |
+| 3 | _**Fearful.**_ [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) against you. |
+| 4 | _**Forlorn.**_ When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to force the attack to hit you instead. |
+| 5 | _**Manic.**_ When you roll a 1 on the `d20` for a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), the roll becomes a 20. |
+| 6 | _**Paranoid.**_ You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity ability checks and saving throws. |
+| 7 | _**Serene.**_ You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Intelligence, Wisdom, and Charisma saving throws. |
 | 8 | _**Spiteful.**_ When a creature deals damage to you, the next time you hit that creature with an attack before the end of your next turn, the target takes an extra `1d8` Force damage. |
 ^fey-moods
 
 ### Frenzied Strike \[Maneuver] (Level 3)
 
-When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to infect the target's mind. The creature has the Frenzied condition until the end of its next turn.
+When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to infect the target's mind. The creature has the Frenzied condition until the end of its next turn.
 
-A creature with the Frenzied condition loses the ability to distinguish between friend and foe, regarding all creatures it can see as enemies. While Frenzied, the creature chooses the targets for its attacks, spells, and abilities randomly from among the creatures it can see within range, and it must make an [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) if any creature provokes one.
+A creature with the Frenzied condition loses the ability to distinguish between friend and foe, regarding all creatures it can see as enemies. While Frenzied, the creature chooses the targets for its attacks, spells, and abilities randomly from among the creatures it can see within range, and it must make an [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) if any creature provokes one.
 
 ### Misty Pathways (Level 6)
 
-You can cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) without a spell slot.
+You can cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) without a spell slot.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
 ### Irresistible Mood (Level 10)
 
-When a creature deals damage to you that causes you to become [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to give the creature the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute. The [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) target makes a Wisdom saving throw against your Maneuver save DC at the end of each of its turns, ending the condition on itself on a success.
+When a creature deals damage to you that causes you to become [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to give the creature the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for 1 minute. The [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) target makes a Wisdom saving throw against your Maneuver save DC at the end of each of its turns, ending the condition on itself on a success.
 
 ### Mercurial (Level 14)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to activate any Fey Mood option of your choice. This mood lasts for 1 minute. If you already have a Fey Mood active or you become [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied) while this mood is active, you can have both moods active at once.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to activate any Fey Mood option of your choice. This mood lasts for 1 minute. If you already have a Fey Mood active or you become [Bloodied](/Mechanics/CLI/conditions.md#Bloodied) while this mood is active, you can have both moods active at once.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Doppelganger
-created: 2026-03-09T12:15:33.975-04:00
-modified: 2026-03-09T12:15:33.975-04:00
-published: 2026-03-09T12:15:33.975-04:00
+created: 2026-03-29T21:53:55.977-04:00
+modified: 2026-03-29T21:53:55.977-04:00
+published: 2026-03-29T21:53:55.977-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Doppelganger
+ac: 14
+hp: 52
+modifier: 4
+hit_dice: 8d8 + 16
+cr: "3"
+stats:
+  - 11
+  - 18
+  - 14
+  - 11
+  - 12
+  - 14
+source:
+  - MM
 ---
 
 # Doppelganger
 
-_Source: Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/doppelganger.webp#right)
-
 Doppelgangers are devious shapeshifters that take on the appearance of other humanoids, throwing off pursuit or luring victims to their doom with misdirection and disguise. Few creatures spread fear, suspicion, and deceit better than doppelgangers. Found in every land and culture, they can take on the guise of any individual of any race.
 
 ## Stealing Secrets
@@ -40,11 +55,11 @@ Doppelgangers are too lazy or self-interested to raise their young. They assume 
 
 ```ad-statblock
 title: Doppelganger
-![](Mechanics/CLI/bestiary/monstrosity/token/doppelganger.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/doppelganger.webp#token)
 *Medium monstrosity (shapechanger), Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 52 (`8d8 + 16`) 
+- **Hit Points** 52 (8d8 + 16) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,9 +68,9 @@ title: Doppelganger
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +6, [Insight](Mechanics/CLI/rules/skills.md#Insight) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed)
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +6, [Insight](/Mechanics/CLI/skills.md#Insight) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed)
 - **Languages** Common
 - **Challenge** 3
 
@@ -63,7 +78,7 @@ title: Doppelganger
 
 ***Shapechanger.*** The doppelganger can use its action to polymorph into a Small or Medium humanoid it has seen, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Ambusher.*** In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it [surprised](Mechanics/CLI/rules/conditions.md#Surprised).
+***Ambusher.*** In the first round of a combat, the doppelganger has advantage on attack rolls against any creature it [surprised](/Mechanics/CLI/conditions.md#Surprised).
 
 ***Surprise Attack.*** If the doppelganger surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 10 (`3d6`) damage from the attack.
 
@@ -73,7 +88,7 @@ title: Doppelganger
 
 ***Slam.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) bludgeoning damage.
 
-***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) isn't broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) and Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), and [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) checks against the target.
+***Read Thoughts.*** The doppelganger magically reads the surface thoughts of one creature within 60 feet of it. The effect can penetrate barriers, but 3 feet of wood or dirt, 2 feet of stone, 2 inches of metal, or a thin sheet of lead blocks it. While the target is in range, the doppelganger can continue reading its thoughts, as long as the doppelganger's [concentration](/Mechanics/CLI/conditions.md#Concentration) isn't broken (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). While reading the target's mind, the doppelganger has advantage on Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) and Charisma ([Deception](/Mechanics/CLI/skills.md#Deception), [Intimidation](/Mechanics/CLI/skills.md#Intimidation), and [Persuasion](/Mechanics/CLI/skills.md#Persuasion)) checks against the target.
 ```
 
 ^statblock
@@ -81,3 +96,7 @@ title: Doppelganger
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 82. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

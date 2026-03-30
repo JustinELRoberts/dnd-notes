@@ -15,9 +15,9 @@ aliases:
   - Mariner's Spiked Armor
   - Mariner's Splint Armor
   - Mariner's Studded Leather Armor
-created: 2026-03-09T12:15:33.954-04:00
-modified: 2026-03-09T12:15:33.954-04:00
-published: 2026-03-09T12:15:33.954-04:00
+created: 2026-03-29T21:53:55.956-04:00
+modified: 2026-03-29T21:53:55.956-04:00
+published: 2026-03-29T21:53:55.956-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy
@@ -35,9 +35,12 @@ obsidianUIMode: preview
 
 _Minor, uncommon_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 While wearing this armor, you have a swimming speed equal to your walking speed. In addition, whenever you start your turn underwater with 0 hit points, the armor causes you to rise 60 feet toward the surface. The armor is decorated with fish and shell motifs.
 
-**Variants**:
+## Variants
 
 - [Mariner's Breastplate](#Mariner's%20Breastplate)
 - [Mariner's Chain Mail](#Mariner's%20Chain%20Mail)
@@ -129,4 +132,6 @@ While wearing this armor, you have a swimming speed equal to your walking speed.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-_Source: Dungeon Master's Guide p. 181_
+## Sources
+
+_Dungeon Master's Guide p. 181_

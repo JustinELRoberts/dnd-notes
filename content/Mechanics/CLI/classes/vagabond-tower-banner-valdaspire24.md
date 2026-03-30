@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tower Banner
-created: 2026-03-09T12:15:34.091-04:00
-modified: 2026-03-09T12:15:34.091-04:00
-published: 2026-03-09T12:15:34.091-04:00
+created: 2026-03-29T21:53:56.121-04:00
+modified: 2026-03-29T21:53:56.121-04:00
+published: 2026-03-29T21:53:56.121-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/vagabond/tower-banner
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Tower Banner
 
-_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -49,7 +48,7 @@ _Source: Valda's Spire of Secrets (2024)_
 
 ^class-progression
 
-Cross-Compatible Subclass: This subclass originates from the [Captain](Mechanics/CLI/classes/captain-valdaspire24.md) class
+Cross-Compatible Subclass: This subclass originates from the [Captain](/Mechanics/CLI/classes/captain-valdaspire24.md) class
 
 Note that cross-compatible subclasses might be stronger or weaker than other subclasses.
 
@@ -57,7 +56,7 @@ The GM decides if a subclass should be cross-compatible in your campaign.
 
 > [!note] Cross-Compatability Modifictaions
 >
-> **Level 10: Mettle.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Constitution saving throws.
+> **Level 10: Mettle.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Constitution saving throws.
 > ^cross-compatability-modifictaions
 
 _Fortify Yourself and Your Allies_
@@ -68,26 +67,30 @@ The fortified defenses of Captains who fly the Tower Banner are legendary. Their
 
 ### Iron Wall \[Maneuver] (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to fortify yourself. The next time you are hit by an attack within the next minute, roll the Battle Die and add the number rolled to your AC against this attack, potentially causing it to miss. This effect ends early if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. You must be wearing Heavy armor to use this maneuver.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend one Battle Die to fortify yourself. The next time you are hit by an attack within the next minute, roll the Battle Die and add the number rolled to your AC against this attack, potentially causing it to miss. This effect ends early if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. You must be wearing Heavy armor to use this maneuver.
 
 ### Siege Defense (Level 3)
 
 Well-versed in repelling attackers, you gain the following benefits.
 
-**Defensive Tactics.** When you attack with a Melee weapon whose mastery property you can use, you can replace that property with the [Push](Mechanics/CLI/rules/item-mastery.md#Push) or [Slow](Mechanics/CLI/rules/item-mastery.md#Slow) property for that attack.
+**Defensive Tactics.** When you attack with a Melee weapon whose mastery property you can use, you can replace that property with the [Push](/Mechanics/CLI/item-mastery.md#Push) or [Slow](/Mechanics/CLI/item-mastery.md#Slow) property for that attack.
 
-**Shooting from Cover.** You gain a +2 bonus to ranged attack rolls while in [Half Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) or [Three-Quarters Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md).
+**Shooting from Cover.** You gain a +2 bonus to ranged attack rolls while in [Half Cover](/Mechanics/CLI/variant-rules/cover-xphb.md) or [Three-Quarters Cover](/Mechanics/CLI/variant-rules/cover-xphb.md).
 
 ### Armored Redirection (Level 6)
 
-When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the attack to target you instead. If the attack roll equals or exceeds your AC, the attack hits you instead; otherwise, it misses.
+When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to force the attack to target you instead. If the attack roll equals or exceeds your AC, the attack hits you instead; otherwise, it misses.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
 ### Mettle (Level 10)
 
-Your determination allows you to shrug off effects that would otherwise harm you. When you're subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. Your Cohort also gains the benefits of this feature.
+Your determination allows you to shrug off effects that would otherwise harm you. When you're subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. Your Cohort also gains the benefits of this feature.
 
 ### Iron Retribution (Level 14)
 
-Whenever a creature within 5 feet of you misses you with an attack roll, you can strike them with a [Shield](Mechanics/CLI/items/shield-xphb.md) if you're carrying one (no action required), dealing `3d6` Bludgeoning damage to the attacker.
+Whenever a creature within 5 feet of you misses you with an attack roll, you can strike them with a [Shield](/Mechanics/CLI/items/shield-xphb.md) if you're carrying one (no action required), dealing `3d6` Bludgeoning damage to the attacker.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

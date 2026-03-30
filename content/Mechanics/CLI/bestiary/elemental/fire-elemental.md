@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fire Elemental
-created: 2026-03-09T12:15:33.872-04:00
-modified: 2026-03-09T12:15:33.872-04:00
-published: 2026-03-09T12:15:33.872-04:00
+created: 2026-03-29T21:53:55.664-04:00
+modified: 2026-03-29T21:53:55.664-04:00
+published: 2026-03-29T21:53:55.664-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fire Elemental
+ac: 13
+hp: 102
+modifier: 3
+hit_dice: 12d10 + 36
+cr: "5"
+stats:
+  - 10
+  - 17
+  - 16
+  - 6
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Fire Elemental
 
-_Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/fire-elemental.webp#right)
-
 A faint humanoid shape threads through the core of this wild, moving flame. A fire elemental is a force of capricious devastation. Wherever it moves, it sets its surroundings ablaze, turning the world to ash, smoke, and cinders. Water can halt its destructive progress, causing the fire elemental to shrink back, hissing and smoking in pain and rage.
 
 ## Elementals
@@ -47,11 +62,11 @@ An elemental doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Fire Elemental
-![](Mechanics/CLI/bestiary/elemental/token/fire-elemental.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/fire-elemental.webp#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 102 (`12d10 + 36`) 
+- **Hit Points** 102 (12d10 + 36) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,10 +76,10 @@ title: Fire Elemental
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** Ignan
 - **Challenge** 5
 
@@ -88,3 +103,7 @@ title: Fire Elemental
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

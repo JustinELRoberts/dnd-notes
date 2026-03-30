@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Juvenile Mimic
-created: 2026-03-09T12:15:34.095-04:00
-modified: 2026-03-09T12:15:34.095-04:00
-published: 2026-03-09T12:15:34.095-04:00
+created: 2026-03-29T21:53:56.127-04:00
+modified: 2026-03-29T21:53:56.127-04:00
+published: 2026-03-29T21:53:56.127-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/monster/cr/0
@@ -13,19 +13,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Juvenile Mimic (TCE)
+ac: 11
+hp: 7
+modifier: 1
+hit_dice: 2d4 + 2
+cr: "0"
+stats:
+  - 1
+  - 12
+  - 13
+  - 10
+  - 13
+  - 10
+source:
+  - TCE
 ---
 
 # Juvenile Mimic
 
-_Source: Tasha's Cauldron of Everything p. 167_
-
 ```ad-statblock
 title: Juvenile Mimic
-![](Mechanics/CLI/bestiary/monstrosity/token/juvenile-mimic-tce.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/juvenile-mimic-tce.webp#token)
 *Tiny monstrosity (shapechanger), Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 7 (`2d4 + 2`) 
+- **Hit Points** 7 (2d4 + 2) 
 - **Speed** 10 ft., climb 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,10 +49,10 @@ title: Juvenile Mimic
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Immunities** acid
-- **Condition Immunities** [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Common, Undercommon, telepathy 120 ft.
 - **Challenge** 0
 
@@ -55,3 +70,7 @@ title: Juvenile Mimic
 ```
 
 ^statblock
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 167_

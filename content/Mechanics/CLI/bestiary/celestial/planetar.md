@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Planetar
-created: 2026-03-09T12:15:33.893-04:00
-modified: 2026-03-09T12:15:33.893-04:00
-published: 2026-03-09T12:15:33.893-04:00
+created: 2026-03-29T21:53:55.892-04:00
+modified: 2026-03-29T21:53:55.892-04:00
+published: 2026-03-29T21:53:55.892-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/16
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Planetar
+ac: 19
+hp: 200
+modifier: 5
+hit_dice: 16d10 + 112
+cr: "16"
+stats:
+  - 24
+  - 20
+  - 24
+  - 19
+  - 22
+  - 25
+source:
+  - MM
 ---
 
 # Planetar
 
-_Source: Monster Manual p. 17. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/planetar.webp#right)
-
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
 ## Shards of the Divine
@@ -48,11 +63,11 @@ Planetars are muscular and hairless and have opalescent green skin and white-fea
 
 ```ad-statblock
 title: Planetar
-![](Mechanics/CLI/bestiary/celestial/token/planetar.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/planetar.webp#token)
 *Large celestial, Lawful Good*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 200 (`16d10 + 112`) 
+- **Hit Points** 200 (16d10 + 112) 
 - **Speed** 40 ft., fly 120 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,11 +76,10 @@ title: Planetar
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +12, Wisdom +11, Charisma +12
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +11
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 21
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +11
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 21
 - **Damage Resistances** radiant; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 16
 
@@ -73,11 +87,11 @@ title: Planetar
 
 ***Innate Spellcasting.*** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
-**At will:** [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only)
+**At will:** [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only)
 
-**3/day each:** [blade barrier](Mechanics/CLI/spells/blade-barrier-xphb.md), [dispel evil and good](Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [flame strike](Mechanics/CLI/spells/flame-strike-xphb.md), [raise dead](Mechanics/CLI/spells/raise-dead-xphb.md)
+**3/day each:** [blade barrier](/Mechanics/CLI/spells/blade-barrier-xphb.md), [dispel evil and good](/Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [flame strike](/Mechanics/CLI/spells/flame-strike-xphb.md), [raise dead](/Mechanics/CLI/spells/raise-dead-xphb.md)
 
-**1/day each:** [commune](Mechanics/CLI/spells/commune-xphb.md), [control weather](Mechanics/CLI/spells/control-weather-xphb.md), [insect plague](Mechanics/CLI/spells/insect-plague-xphb.md)
+**1/day each:** [commune](/Mechanics/CLI/spells/commune-xphb.md), [control weather](/Mechanics/CLI/spells/control-weather-xphb.md), [insect plague](/Mechanics/CLI/spells/insect-plague-xphb.md)
 
 ***Angelic Weapons.*** The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra `5d8` radiant damage (included in the attack).
 
@@ -95,3 +109,7 @@ title: Planetar
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 17. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

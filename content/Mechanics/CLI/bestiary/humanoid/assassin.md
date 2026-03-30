@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Assassin
-created: 2026-03-09T12:15:33.982-04:00
-modified: 2026-03-09T12:15:33.983-04:00
-published: 2026-03-09T12:15:33.983-04:00
+created: 2026-03-29T21:53:55.987-04:00
+modified: 2026-03-29T21:53:55.987-04:00
+published: 2026-03-29T21:53:55.987-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,22 +14,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Assassin
+ac: 15
+hp: 78
+modifier: 3
+hit_dice: 12d8 + 24
+cr: "8"
+stats:
+  - 11
+  - 16
+  - 14
+  - 13
+  - 11
+  - 10
+source:
+  - MM
 ---
 
 # Assassin
 
-_Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/assassin.webp#right)
-
 Trained in the use of poison, assassins are remorseless killers who work for nobles, guildmasters, sovereigns, and anyone else who can afford them.
 
 ```ad-statblock
 title: Assassin
-![](Mechanics/CLI/bestiary/humanoid/token/assassin.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/assassin.webp#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 15 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 78 (`12d8 + 24`) 
+- **Armor Class** 15 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 78 (12d8 + 24) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,20 +53,19 @@ title: Assassin
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Intelligence +4
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +6, [Deception](Mechanics/CLI/rules/skills.md#Deception) +3, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +9
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +6, [Deception](/Mechanics/CLI/skills.md#Deception) +3, [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +9
 - **Senses** passive Perception 13
 - **Damage Resistances** poison
-- **Gear** [light crossbow](Mechanics/CLI/items/light-crossbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** Thieves' cant plus any two languages
 - **Challenge** 8
 
 ## Traits
 
-***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a [surprised](Mechanics/CLI/rules/conditions.md#Surprised) creature is a critical hit.
+***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a [surprised](/Mechanics/CLI/conditions.md#Surprised) creature is a critical hit.
 
 ***Evasion.*** If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Sneak Attack (1/Turn).*** The assassin deals an extra 14 (`4d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) and the assassin doesn't have disadvantage on the attack roll.
+***Sneak Attack (1/Turn).*** The assassin deals an extra 14 (`4d6`) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) and the assassin doesn't have disadvantage on the attack roll.
 
 ## Actions
 
@@ -67,3 +81,7 @@ title: Assassin
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

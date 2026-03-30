@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Baphomet
-created: 2026-03-09T12:15:33.847-04:00
-modified: 2026-03-09T12:15:33.847-04:00
-published: 2026-03-09T12:15:33.847-04:00
+created: 2026-03-29T21:53:55.636-04:00
+modified: 2026-03-29T21:53:55.636-04:00
+published: 2026-03-29T21:53:55.636-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/23
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Baphomet (MPMM)
+ac: 22
+hp: 319
+modifier: 2
+hit_dice: 22d12 + 176
+cr: "23"
+stats:
+  - 30
+  - 14
+  - 26
+  - 18
+  - 24
+  - 16
+source:
+  - MPMM
 ---
 
 # Baphomet
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 58_\
 ![](Mechanics/CLI/bestiary/npc/img/baphomet.webp#right)
-
 Civilization is weakness and brutality is strength in the credo of Baphomet, the Horned King and the Prince of Beasts. He is worshiped by those who want to break the confines of civility and unleash their bestial natures, for Baphomet envisions a world without restraint, where creatures live out their most bloodthirsty desires.
 
 Cults devoted to Baphomet use mazes and complex knots as their emblems. They create secret places to indulge themselves, including labyrinths of the sort their master favors. Bloodstained crowns and weapons of iron and brass decorate their profane altars.
@@ -37,17 +52,17 @@ Baphomet wields a great glaive called Heartcleaver. He also charges his enemies 
 
 ## Baphomet's Lair
 
-Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](Mechanics/CLI/bestiary/monstrosity/minotaur.md), [goristros](Mechanics/CLI/bestiary/fiend/goristro.md), and [quasits](Mechanics/CLI/bestiary/fiend/quasit-xmm.md).
+Baphomet's lair is his palace, the Lyktion, which is on the layer of the Abyss called the Endless Maze. Nestled within the twisting passages of the plane-wide labyrinth, the Lyktion is immaculately maintained and surrounded by a moat constructed in the fashion of a three-dimensional maze. The palace is a towering structure whose interior is as labyrinthine as the plane on which it stands; it is populated by [minotaurs](/Mechanics/CLI/bestiary/monstrosity/minotaur.md), [goristros](/Mechanics/CLI/bestiary/fiend/goristro.md), and [quasits](/Mechanics/CLI/bestiary/fiend/quasit-xmm.md).
 
 ## Statblock
 
 ```ad-statblock
 title: Baphomet
-![](Mechanics/CLI/bestiary/npc/token/baphomet-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/npc/token/baphomet-mpmm.webp#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 22 (natural armor)
-- **Hit Points** 319 (`22d12 + 176`) 
+- **Hit Points** 319 (22d12 + 176) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,17 +71,17 @@ title: Baphomet
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Constitution +15, Wisdom +14
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +17, [Perception](Mechanics/CLI/rules/skills.md#Perception) +14
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 24
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +17, [Perception](/Mechanics/CLI/skills.md#Perception) +14
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 24
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison; bludgeoning, piercing, slashing that is nonmagical
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 23
 
 ## Traits
 
-***Labyrinthine Recall.*** Baphomet can perfectly recall any path he has traveled, and he is immune to the [maze](Mechanics/CLI/spells/maze-xphb.md) spell.
+***Labyrinthine Recall.*** Baphomet can perfectly recall any path he has traveled, and he is immune to the [maze](/Mechanics/CLI/spells/maze-xphb.md) spell.
 
 ***Legendary Resistance (3/Day).*** If Baphomet fails a saving throw, he can choose to succeed instead.
 
@@ -78,19 +93,19 @@ title: Baphomet
 
 ***Bite.*** *Melee Weapon Attack:* `+17` to hit, reach 10 ft., one target. *Hit:* 19 (`2d8 + 10`) piercing damage.
 
-***Gore.*** *Melee Weapon Attack:* `+17` to hit, reach 10 ft., one target. *Hit:* 17 (`2d6 + 10`) piercing damage. If Baphomet moved at least 10 feet straight toward the target immediately before the hit, the target takes an extra 16 (`3d10`) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Gore.*** *Melee Weapon Attack:* `+17` to hit, reach 10 ft., one target. *Hit:* 17 (`2d6 + 10`) piercing damage. If Baphomet moved at least 10 feet straight toward the target immediately before the hit, the target takes an extra 16 (`3d10`) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Heartcleaver.*** *Melee Weapon Attack:* `+17` to hit, reach 15 ft., one target. *Hit:* 21 (`2d10 + 10`) force damage.
 
-***Frightful Presence.*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
+***Frightful Presence.*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A [frightened](/Mechanics/CLI/conditions.md#Frightened) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
 
 If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Frightful Presence for the next 24 hours.
 
 ***Spellcasting.*** Baphomet casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 18):
 
-**3/day each:** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [dominate beast](Mechanics/CLI/spells/dominate-beast-xphb.md), [maze](Mechanics/CLI/spells/maze-xphb.md), [wall of stone](Mechanics/CLI/spells/wall-of-stone-xphb.md)
+**3/day each:** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [dominate beast](/Mechanics/CLI/spells/dominate-beast-xphb.md), [maze](/Mechanics/CLI/spells/maze-xphb.md), [wall of stone](/Mechanics/CLI/spells/wall-of-stone-xphb.md)
 
-**1/day:** [teleport](Mechanics/CLI/spells/teleport-xphb.md)
+**1/day:** [teleport](/Mechanics/CLI/spells/teleport-xphb.md)
 
 ## Legendary Actions
 
@@ -98,7 +113,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, Baphomet ca
 
 ***Heartcleaver Attack.*** Baphomet makes one Heartcleaver attack.
 
-***Charge (Costs 2 Actions).*** Baphomet moves up to his speed without provoking [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack), then makes a Gore attack.
+***Charge (Costs 2 Actions).*** Baphomet moves up to his speed without provoking [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack), then makes a Gore attack.
 
 ## Lair Actions
 
@@ -112,11 +127,15 @@ On initiative count 20 (losing initiative ties), Baphomet can take one of the fo
 
 The region containing Baphomet's lair is warped by his magic, creating one or more of the following effects:
 
-- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) and Charisma ([Performance](Mechanics/CLI/rules/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) and Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) checks have advantage.  
+- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) and Charisma ([Performance](/Mechanics/CLI/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) and Charisma ([Intimidation](/Mechanics/CLI/skills.md#Intimidation)) checks have advantage.  
 - **Hedge Mazes.** Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.  
-- **Panicked Beasts.** Beasts within 1 mile of the lair become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
+- **Panicked Beasts.** Beasts within 1 mile of the lair become [frightened](/Mechanics/CLI/conditions.md#Frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
 
 If Baphomet dies, these effects fade over the course of `1d10` days.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 58_

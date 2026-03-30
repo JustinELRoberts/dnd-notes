@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ankheg
-created: 2026-03-09T12:15:33.951-04:00
-modified: 2026-03-09T12:15:33.951-04:00
-published: 2026-03-09T12:15:33.951-04:00
+created: 2026-03-29T21:53:55.952-04:00
+modified: 2026-03-29T21:53:55.952-04:00
+published: 2026-03-29T21:53:55.952-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ankheg
+ac: 14
+hp: 39
+modifier: 0
+hit_dice: 6d10 + 6
+cr: "2"
+stats:
+  - 17
+  - 11
+  - 13
+  - 1
+  - 13
+  - 6
+source:
+  - MM
 ---
 
 # Ankheg
 
-_Source: Monster Manual p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/ankheg.webp#right)
-
 An ankheg resembles an enormous many-legged insect, its long antennae twitching in response to any movement around it. Its legs end in sharp hooks adapted for burrowing and grasping its prey, and its powerful mandibles can snap a small tree in half.
 
 ## Lurkers in the Earth
@@ -40,11 +55,11 @@ As it burrows through earth, the ankheg leaves a narrow, partially collapsed tun
 
 ```ad-statblock
 title: Ankheg
-![](Mechanics/CLI/bestiary/monstrosity/token/ankheg.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/ankheg.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 14 (natural armor; 11 while prone)
-- **Hit Points** 39 (`6d10 + 6`) 
+- **Hit Points** 39 (6d10 + 6) 
 - **Speed** 30 ft., burrow 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,15 +69,15 @@ title: Ankheg
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 11
 - **Languages** —
 - **Challenge** 2
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage plus 3 (`1d6`) acid damage. If the target is a Large or smaller creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13). Until this grapple ends, the ankheg can bite only the [grappled](Mechanics/CLI/rules/conditions.md#Grappled) creature and has advantage on attack rolls to do so.
+***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage plus 3 (`1d6`) acid damage. If the target is a Large or smaller creature, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 13). Until this grapple ends, the ankheg can bite only the [grappled](/Mechanics/CLI/conditions.md#Grappled) creature and has advantage on attack rolls to do so.
 
-***Acid Spray (Recharge 6).*** The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled). Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (`3d6`) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Spray (Recharge 6).*** The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature [grappled](/Mechanics/CLI/conditions.md#Grappled). Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (`3d6`) acid damage on a failed save, or half as much damage on a successful one.
 ```
 
 ^statblock
@@ -70,3 +85,7 @@ title: Ankheg
 ## Environment
 
 grassland, forest
+
+## Sources
+
+_Monster Manual p. 21. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - War Caster
-created: 2026-03-09T12:15:33.887-04:00
-modified: 2026-03-09T12:15:33.887-04:00
-published: 2026-03-09T12:15:33.887-04:00
+created: 2026-03-29T21:53:55.885-04:00
+modified: 2026-03-29T21:53:55.885-04:00
+published: 2026-03-29T21:53:55.885-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,11 +21,11 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence, Wisdom, or Charisma by 1, to a maximum of 20.
 
-**Concentration.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Constitution saving throws that you make to maintain [Concentration](Mechanics/CLI/rules/conditions.md#Concentration).
+**Concentration.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Constitution saving throws that you make to maintain [Concentration](/Mechanics/CLI/conditions.md#Concentration).
 
-**Reactive Spell.** When a creature provokes an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) from you by leaving your reach, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to cast a spell at the creature rather than making an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack). The spell must have a casting time of one action and must target only that creature.
+**Reactive Spell.** When a creature provokes an [Opportunity Attack](/Mechanics/CLI/actions.md#Opportunity%20Attack) from you by leaving your reach, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to cast a spell at the creature rather than making an [Opportunity Attack](/Mechanics/CLI/actions.md#Opportunity%20Attack). The spell must have a casting time of one action and must target only that creature.
 
-**Somatic Components.** You can perform the Somatic components of spells even when you have weapons or a [Shield](Mechanics/CLI/items/shield-xphb.md) in one or both hands.
+**Somatic Components.** You can perform the Somatic components of spells even when you have weapons or a [Shield](/Mechanics/CLI/items/shield-xphb.md) in one or both hands.
 
 ## Sources
 

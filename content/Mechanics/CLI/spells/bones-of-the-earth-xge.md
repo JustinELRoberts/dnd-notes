@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Bones of the Earth
-created: 2026-03-09T12:15:34.011-04:00
-modified: 2026-03-09T12:15:34.011-04:00
-published: 2026-03-09T12:15:34.011-04:00
+created: 2026-03-29T21:53:56.018-04:00
+modified: 2026-03-29T21:53:56.018-04:00
+published: 2026-03-29T21:53:56.018-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/6th-level
   - ttrpg-cli/spell/school/transmutation
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
 ---
 
 # Bones of the Earth
@@ -32,10 +30,16 @@ You cause up to six pillars of stone to burst from places on the ground that you
 
 If a pillar is created under a creature, that creature must succeed on a Dexterity saving throw or be lifted by the pillar. A creature can choose to fail the save.
 
-If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes `6d6` bludgeoning damage and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), pinched between the pillar and the obstacle. The [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and must either move off the pillar or fall off it.
+If a pillar is prevented from reaching its full height because of a ceiling or other obstacle, a creature on the pillar takes `6d6` bludgeoning damage and is [restrained](/Mechanics/CLI/conditions.md#Restrained), pinched between the pillar and the obstacle. The [restrained](/Mechanics/CLI/conditions.md#Restrained) creature can use an action to make a Strength or Dexterity check (the creature's choice) against the spell's save DC. On a success, the creature is no longer [restrained](/Mechanics/CLI/conditions.md#Restrained) and must either move off the pillar or fall off it.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, you can create two additional pillars for each slot level above 6th.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 150_
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 150_

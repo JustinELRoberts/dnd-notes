@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Visions
-created: 2026-03-09T12:15:33.893-04:00
-modified: 2026-03-09T12:15:33.893-04:00
-published: 2026-03-09T12:15:33.893-04:00
+created: 2026-03-29T21:53:55.892-04:00
+modified: 2026-03-29T21:53:55.892-04:00
+published: 2026-03-29T21:53:55.892-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/wc
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Visions
 
-You are cursed to have grimly accurate visions of the future, presaging the death of your friends, your family, and yourself. You gain a bonus to [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls equal to your Charisma modifier (minimum bonus of +1).
+You are cursed to have grimly accurate visions of the future, presaging the death of your friends, your family, and yourself. You gain a bonus to [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls equal to your Charisma modifier (minimum bonus of +1).
 
 ## Sources
 

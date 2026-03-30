@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Magma Mephit
-created: 2026-03-09T12:15:33.942-04:00
-modified: 2026-03-09T12:15:33.942-04:00
-published: 2026-03-09T12:15:33.942-04:00
+created: 2026-03-29T21:53:55.944-04:00
+modified: 2026-03-29T21:53:55.944-04:00
+published: 2026-03-29T21:53:55.944-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Magma Mephit
+ac: 11
+hp: 22
+modifier: 1
+hit_dice: 5d6 + 5
+cr: 1/2
+stats:
+  - 8
+  - 12
+  - 12
+  - 7
+  - 10
+  - 10
+source:
+  - MM
 ---
 
 # Magma Mephit
 
-_Source: Monster Manual p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/magma-mephit.webp#right)
 
 ## Mephits
@@ -39,11 +55,11 @@ Composed of earth and fire, magma mephits glow a dull red color as they perspire
 
 ```ad-statblock
 title: Magma Mephit
-![](Mechanics/CLI/bestiary/elemental/token/magma-mephit.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/magma-mephit.webp#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 22 (`5d6 + 5`) 
+- **Hit Points** 22 (5d6 + 5) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,17 +68,17 @@ title: Magma Mephit
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Vulnerabilities** cold
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Ignan, Terran
 - **Challenge** 1/2
 
 ## Traits
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [heat metal](Mechanics/CLI/spells/heat-metal-xphb.md) (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [heat metal](/Mechanics/CLI/spells/heat-metal-xphb.md) (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
 
 ***Death Burst.*** When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (`2d6`) fire damage on a failed save, or half as much damage on a successful one.
@@ -81,3 +97,7 @@ title: Magma Mephit
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 216. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

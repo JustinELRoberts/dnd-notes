@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Witchbane Hunter
-created: 2026-03-09T12:15:33.928-04:00
-modified: 2026-03-09T12:15:33.928-04:00
-published: 2026-03-09T12:15:33.928-04:00
+created: 2026-03-29T21:53:55.931-04:00
+modified: 2026-03-29T21:53:55.931-04:00
+published: 2026-03-29T21:53:55.931-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/warden/witchbane-hunter
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Witchbane Hunter
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,36 +58,40 @@ Where there is magic, there is evil. Witches, warlocks, and hags lurk in the sha
 
 Your experience in hunting supernatural foes has culminated in a collection of witch-hunting items, granting you the following benefits.
 
-**Blessed Flask.** You have an enchanted container that produces a flask of [Holy Water](Mechanics/CLI/items/holy-water-xphb.md) as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action. Once created, this Holy Water vanishes after 10 minutes. This container can produce Holy Water three times and regains all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Blessed Flask.** You have an enchanted container that produces a flask of [Holy Water](/Mechanics/CLI/items/holy-water-xphb.md) as a [Magic](/Mechanics/CLI/actions.md#Magic) action. Once created, this Holy Water vanishes after 10 minutes. This container can produce Holy Water three times and regains all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Cerulean Medallion.** You have a magical medallion that glows faintly when supernatural threats are near. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you learn the location and creature type of Celestials, Fey, Fiends, and Undead within 30 feet of yourself. This medallion can be used three times and regains all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Cerulean Medallion.** You have a magical medallion that glows faintly when supernatural threats are near. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you learn the location and creature type of Celestials, Fey, Fiends, and Undead within 30 feet of yourself. This medallion can be used three times and regains all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Grimoire Monstrum.** You have a tome of myths and monsters. While holding it, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Intelligence checks you make related to monsters, spells, or secret or ancient lore.
+**Grimoire Monstrum.** You have a tome of myths and monsters. While holding it, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Intelligence checks you make related to monsters, spells, or secret or ancient lore.
 
-**Silvered Whetstone.** You have a magical whetstone that adds a thin layer of silver to a weapon as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action. For 10 minutes, when you deal damage with that weapon, it can deal your choice of Force damage or its normal damage type. This whetstone can be used three times and regains all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Silvered Whetstone.** You have a magical whetstone that adds a thin layer of silver to a weapon as a [Magic](/Mechanics/CLI/actions.md#Magic) action. For 10 minutes, when you deal damage with that weapon, it can deal your choice of Force damage or its normal damage type. This whetstone can be used three times and regains all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Spiteful Challenge (Level 3)
 
-When you use the Challenge option of your Guardian Tactics, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against effects created by the target while you are within 30 feet of it.
+When you use the Challenge option of your Guardian Tactics, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against effects created by the target while you are within 30 feet of it.
 
 ### Otherworldly Eye (Level 6)
 
 Your well-trained eye can detect the slightest hint of magic, granting you the following benefits.
 
-**Detect Latent Magic.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can sense if a spell was cast within 30 feet of yourself within the last 24 hours and what spell was cast.
+**Detect Latent Magic.** As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can sense if a spell was cast within 30 feet of yourself within the last 24 hours and what spell was cast.
 
-**See Invisibility.** You see creatures and objects that have the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition. You can also see into the Ethereal Plane. Creatures and objects there appear ghostly.
+**See Invisibility.** You see creatures and objects that have the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition. You can also see into the Ethereal Plane. Creatures and objects there appear ghostly.
 
 ### Arcane Rebuke (Level 10)
 
-You can cast [Counterspell](Mechanics/CLI/spells/counterspell-xphb.md) without a spell slot. If the target fails its saving throw against this spell, it takes `4d8` Force damage. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell when you cast it with this feature (choose the ability when you cast the spell).
+You can cast [Counterspell](/Mechanics/CLI/spells/counterspell-xphb.md) without a spell slot. If the target fails its saving throw against this spell, it takes `4d8` Force damage. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell when you cast it with this feature (choose the ability when you cast the spell).
 
-Once you use this feature to cast this spell, you can't do so again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your Interrupt (no action required).
+Once you use this feature to cast this spell, you can't do so again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your Interrupt (no action required).
 
 ### Anti-Mage (Level 17)
 
-You can imbue yourself with an antimagic aura. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can imbue yourself with an antimagic aura. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Antimagic Field.** As a part of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast [Antimagic Field](Mechanics/CLI/spells/antimagic-field-xphb.md) without a spell slot. When you cast it in this way, its duration is 1 minute and the 10-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originates from you. Additionally, you choose which creatures and objects are affected by the [Antimagic Field](Mechanics/CLI/spells/antimagic-field-xphb.md).
+**Antimagic Field.** As a part of the [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast [Antimagic Field](/Mechanics/CLI/spells/antimagic-field-xphb.md) without a spell slot. When you cast it in this way, its duration is 1 minute and the 10-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originates from you. Additionally, you choose which creatures and objects are affected by the [Antimagic Field](/Mechanics/CLI/spells/antimagic-field-xphb.md).
 
 **Branding Challenge.** When you hit an enemy targeted by the Challenge option of your Guardian Tactics with a weapon, the target takes an extra `2d8` Fire damage.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

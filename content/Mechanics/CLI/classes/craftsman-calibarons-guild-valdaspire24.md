@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Calibarons' Guild
-created: 2026-03-09T12:15:34.082-04:00
-modified: 2026-03-09T12:15:34.082-04:00
-published: 2026-03-09T12:15:34.082-04:00
+created: 2026-03-29T21:53:56.112-04:00
+modified: 2026-03-29T21:53:56.112-04:00
+published: 2026-03-29T21:53:56.112-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/craftsman/calibarons
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Calibarons' Guild
 
-_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,15 +56,15 @@ Craftsmen of the Calibarons' Guild believe that gunpowder is the single greatest
 
 ### Exotic Ammunition (Level 3)
 
-When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can create a number of pieces of ammunition up to twice your Craftsman level. Choose the ammunition's type (such as [Arrows](Mechanics/CLI/items/arrow-xphb.md), [Bolts](Mechanics/CLI/items/bolt-xphb.md), or Bullets) and which of the following benefits each piece of ammunition has. Unused ammunition degrades and can no longer be fired when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can create a number of pieces of ammunition up to twice your Craftsman level. Choose the ammunition's type (such as [Arrows](/Mechanics/CLI/items/arrow-xphb.md), [Bolts](/Mechanics/CLI/items/bolt-xphb.md), or Bullets) and which of the following benefits each piece of ammunition has. Unused ammunition degrades and can no longer be fired when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Armor-Piercing.** If you make an attack using this ammunition against a creature or object with an AC of 17 or higher, the attack roll has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+**Armor-Piercing.** If you make an attack using this ammunition against a creature or object with an AC of 17 or higher, the attack roll has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md).
 
-**Dragon's Breath.** This ammunition deals Fire damage instead of its normal damage type. A creature or flammable object hit by this ammunition starts [Burning](Mechanics/CLI/traps-hazards/burning-xphb.md).
+**Dragon's Breath.** This ammunition deals Fire damage instead of its normal damage type. A creature or flammable object hit by this ammunition starts [Burning](/Mechanics/CLI/traps-hazards/burning-xphb.md).
 
-**Drilling.** Whenever this object hits a Large or smaller creature, fragments of it penetrate and continue in a 15-foot-long, 5-foot-wide [Line](Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md). The first creature in that area takes damage equal to the ability modifier used to make the attack roll. This damage is the same type dealt by the weapon.
+**Drilling.** Whenever this object hits a Large or smaller creature, fragments of it penetrate and continue in a 15-foot-long, 5-foot-wide [Line](/Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md). The first creature in that area takes damage equal to the ability modifier used to make the attack roll. This damage is the same type dealt by the weapon.
 
-**Flechette.** When you make an attack using this ammunition, the attack is replaced with a hail of projectiles. Choose a target within the weapon's range to make a Dexterity saving throw (DC 8 plus the ability modifier used to make the attack roll and your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, the creature takes the weapon's damage, or half as much damage on a successful roll.
+**Flechette.** When you make an attack using this ammunition, the attack is replaced with a hail of projectiles. Choose a target within the weapon's range to make a Dexterity saving throw (DC 8 plus the ability modifier used to make the attack roll and your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, the creature takes the weapon's damage, or half as much damage on a successful roll.
 
 > [!note] Exotic Batteries
 >
@@ -74,13 +73,13 @@ When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.m
 
 ### Zeroed Sights (Level 3)
 
-Your ranged attacks with Masterwork weapons ignore [Half Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) and [Three-Quarters Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md).
+Your ranged attacks with Masterwork weapons ignore [Half Cover](/Mechanics/CLI/variant-rules/cover-xphb.md) and [Three-Quarters Cover](/Mechanics/CLI/variant-rules/cover-xphb.md).
 
 ### Magazine (Level 6)
 
-When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can use your Crafting Tools and materials worth 50+ GP to modify a Ranged weapon that has the Loading or Reload property. If it has [Loading](Mechanics/CLI/rules/item-properties.md#Loading), it instead has [Reload](Mechanics/CLI/rules/item-properties.md#Reload). If you use such a modified weapon that has [Reload](Mechanics/CLI/rules/item-properties.md#Reload), a mechanical mechanism automatically reloads it from a belt or hopper of ammunition you are carrying (no action required).
+When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can use your Crafting Tools and materials worth 50+ GP to modify a Ranged weapon that has the Loading or Reload property. If it has [Loading](/Mechanics/CLI/item-properties.md#Loading), it instead has [Reload](/Mechanics/CLI/item-properties.md#Reload). If you use such a modified weapon that has [Reload](/Mechanics/CLI/item-properties.md#Reload), a mechanical mechanism automatically reloads it from a belt or hopper of ammunition you are carrying (no action required).
 
-**Reload.** This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes an action or a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md); otherwise, reloading it takes an action. The number of attacks is determined by the size of the weapon's damage die or dice, as shown on the Reload Attacks table.
+**Reload.** This weapon can be used to make a number of attacks before it must be reloaded. If you are proficient with the weapon, reloading it takes an action or a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md); otherwise, reloading it takes an action. The number of attacks is determined by the size of the weapon's damage die or dice, as shown on the Reload Attacks table.
 
 **Reload Attacks**
 
@@ -95,8 +94,12 @@ When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.m
 
 ### Suppressive Fire (Level 10)
 
-Once per turn when you make a ranged attack roll, you can cow the target. That creature has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the next attack roll before the start of your next turn.
+Once per turn when you make a ranged attack roll, you can cow the target. That creature has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next attack roll before the start of your next turn.
 
 ### Stopping Power (Level 14)
 
 When you roll damage for an attack you make with a Masterwork Ranged weapon, you can treat any damage die as if it rolled half of the largest number on the die. For example, if you roll a 1-4 on a `d10`, you can treat the roll as a 5.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Commoner
-created: 2026-03-09T12:15:34.105-04:00
-modified: 2026-03-09T12:15:34.105-04:00
-published: 2026-03-09T12:15:34.105-04:00
+created: 2026-03-29T21:53:56.139-04:00
+modified: 2026-03-29T21:53:56.140-04:00
+published: 2026-03-29T21:53:56.140-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -20,21 +20,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Commoner
+ac: 10
+hp: 4
+modifier: 0
+hit_dice: 1d8
+cr: "0"
+stats:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+source:
+  - MM
 ---
 
 # Commoner
-
-_Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
 ```ad-statblock
 title: Commoner
-![](Mechanics/CLI/bestiary/humanoid/token/commoner.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/commoner.webp#token)
 *Medium humanoid (any race), Any alignment*
 
 - **Armor Class** 10 
-- **Hit Points** 4 (`1d8`) 
+- **Hit Points** 4 (1d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,7 +60,6 @@ title: Commoner
 - **Saving Throws** ⏤
 - **Skills** ⏤
 - **Senses** passive Perception 10
-- **Gear** [club](Mechanics/CLI/items/club-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 0
 
@@ -59,3 +73,7 @@ title: Commoner
 ## Environment
 
 arctic, desert, coastal, grassland, hill, urban, forest
+
+## Sources
+
+_Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

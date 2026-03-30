@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Quickling
-created: 2026-03-09T12:15:34.015-04:00
-modified: 2026-03-09T12:15:34.015-04:00
-published: 2026-03-09T12:15:34.015-04:00
+created: 2026-03-29T21:53:56.024-04:00
+modified: 2026-03-29T21:53:56.024-04:00
+published: 2026-03-29T21:53:56.024-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Quickling (MPMM)
+ac: 16
+hp: 10
+modifier: 6
+hit_dice: 3d4 + 3
+cr: "1"
+stats:
+  - 4
+  - 23
+  - 13
+  - 10
+  - 12
+  - 7
+source:
+  - MPMM
+  - VGM
 ---
 
 # Quickling
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187_\
 ![](Mechanics/CLI/bestiary/fey/img/quickling.webp#right)
-
 Quicklings rocket through twisted forests where the unseelie fey hold sway, both in the Feywild and in the world. These slender Fey resemble miniature elves with feral features and cold eyes that gleam like jewels. Racing faster than the eye can track, they appear as little more than blurry waverings in the air.
 
 Quicklings owe their existence—and their plight—to the Queen of Air and Darkness, the dread ruler of the Gloaming Court. Once a species of lazy and egotistical Fey, quicklings' predecessors were late in answering the queen's summons one time too many. To hasten their pace and teach them to mind her will, the queen sped up their internal clocks and shrank them. Her curse gave quicklings amazing speed but also accelerated their passage through life—no quickling lives longer than fifteen years.
@@ -35,11 +51,11 @@ Tricks of that sort are hardly the limit of quicklings' artful malice, however. 
 
 ```ad-statblock
 title: Quickling
-![](Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/quickling-mpmm.webp#token)
 *Tiny fey, Typically  Chaotic Evil*
 
 - **Armor Class** 16 
-- **Hit Points** 10 (`3d4 + 3`) 
+- **Hit Points** 10 (3d4 + 3) 
 - **Speed** 120 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,17 +64,16 @@ title: Quickling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +8, [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) +8, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +8, [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand) +8, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** Common, Sylvan
 - **Challenge** 1
 
 ## Traits
 
-***Blurred Movement.*** Attack rolls against the quickling have disadvantage unless it is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or its speed is 0.
+***Blurred Movement.*** Attack rolls against the quickling have disadvantage unless it is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) or its speed is 0.
 
-***Evasion.*** If the quickling is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Evasion.*** If the quickling is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -72,3 +87,7 @@ title: Quickling
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 207, Volo's Guide to Monsters p. 187_

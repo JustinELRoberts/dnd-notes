@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fire Elemental Myrmidon
-created: 2026-03-09T12:15:34.050-04:00
-modified: 2026-03-09T12:15:34.050-04:00
-published: 2026-03-09T12:15:34.050-04:00
+created: 2026-03-29T21:53:56.062-04:00
+modified: 2026-03-29T21:53:56.062-04:00
+published: 2026-03-29T21:53:56.062-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -13,11 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fire Elemental Myrmidon (MPMM)
+ac: 18
+hp: 123
+modifier: 4
+hit_dice: 19d8 + 38
+cr: "7"
+stats:
+  - 13
+  - 18
+  - 15
+  - 9
+  - 10
+  - 10
+source:
+  - MPMM
 ---
 
 # Fire Elemental Myrmidon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 123_\
 ![](Mechanics/CLI/bestiary/elemental/img/fire-elemental-myrmidon.webp#right)
 
 ## Elemental Myrmidons
@@ -26,11 +42,11 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 
 ```ad-statblock
 title: Fire Elemental Myrmidon
-![](Mechanics/CLI/bestiary/elemental/token/fire-elemental-myrmidon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/fire-elemental-myrmidon-mpmm.webp#token)
 *Medium elemental, Typically  Neutral*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 123 (`19d8 + 38`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 123 (19d8 + 38) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,11 +56,10 @@ title: Fire Elemental Myrmidon
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone)
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Condition Immunities** [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Ignan, one language of its creator's choice
 - **Challenge** 7
 
@@ -64,3 +79,7 @@ title: Fire Elemental Myrmidon
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 123_

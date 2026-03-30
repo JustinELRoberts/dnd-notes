@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sahuagin Baron
-created: 2026-03-09T12:15:34.021-04:00
-modified: 2026-03-09T12:15:34.021-04:00
-published: 2026-03-09T12:15:34.021-04:00
+created: 2026-03-29T21:53:56.031-04:00
+modified: 2026-03-29T21:53:56.031-04:00
+published: 2026-03-29T21:53:56.031-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sahuagin Baron
+ac: 16
+hp: 76
+modifier: 2
+hit_dice: 9d10 + 27
+cr: "5"
+stats:
+  - 19
+  - 15
+  - 16
+  - 14
+  - 13
+  - 17
+source:
+  - MM
 ---
 
 # Sahuagin Baron
 
-_Source: Monster Manual p. 264_\
 ![](Mechanics/CLI/bestiary/humanoid/img/sahuagin-baron.webp#right)
-
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
 ## Devils of the Deep
@@ -52,11 +67,11 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 
 ```ad-statblock
 title: Sahuagin Baron
-![](Mechanics/CLI/bestiary/humanoid/token/sahuagin-baron.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/sahuagin-baron.webp#token)
 *Large humanoid (sahuagin), Lawful Evil*
 
-- **Armor Class** 16 ([breastplate](Mechanics/CLI/items/breastplate-xphb.md))
-- **Hit Points** 76 (`9d10 + 27`) 
+- **Armor Class** 16 ([breastplate](/Mechanics/CLI/items/breastplate.md))
+- **Hit Points** 76 (9d10 + 27) 
 - **Speed** 30 ft., swim 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,9 +80,8 @@ title: Sahuagin Baron
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Constitution +6, Intelligence +5, Wisdom +4
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 17
-- **Gear** [trident](Mechanics/CLI/items/trident-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 17
 - **Languages** Sahuagin
 - **Challenge** 5
 
@@ -95,3 +109,7 @@ title: Sahuagin Baron
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 264_

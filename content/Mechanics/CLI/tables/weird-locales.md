@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Weird Locales
-created: 2026-03-09T12:15:34.387-04:00
-modified: 2026-03-09T12:15:34.387-04:00
-published: 2026-03-09T12:15:34.387-04:00
+created: 2026-03-29T21:53:56.486-04:00
+modified: 2026-03-29T21:53:56.486-04:00
+published: 2026-03-29T21:53:56.486-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:
@@ -21,7 +21,7 @@ _Source: Dungeon Master's Guide p. 109_
 | dice: d20 | Locale |
 |-----------|--------|
 | 1-2 | Dead magic zone (similar to an antimagic field) |
-| 3 | Wild magic zone (roll on the [Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the Player's Handbook whenever a spell is cast within the zone) |
+| 3 | Wild magic zone (roll on the [Wild Magic Surge](/Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the Player's Handbook whenever a spell is cast within the zone) |
 | 4 | Boulder carved with talking faces |
 | 5 | Crystal cave that mystically answers questions |
 | 6 | Ancient tree containing a trapped spirit |

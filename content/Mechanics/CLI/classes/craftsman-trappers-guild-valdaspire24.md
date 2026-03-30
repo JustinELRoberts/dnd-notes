@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Trappers' Guild
-created: 2026-03-09T12:15:34.012-04:00
-modified: 2026-03-09T12:15:34.012-04:00
-published: 2026-03-09T12:15:34.012-04:00
+created: 2026-03-29T21:53:56.019-04:00
+modified: 2026-03-29T21:53:56.019-04:00
+published: 2026-03-29T21:53:56.019-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/craftsman/trappers
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Trappers' Guild
 
-_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,7 +56,7 @@ Craftsmen are no strangers to turrets, bombs, and clockwork mechanisms, but memb
 
 ### Danger Sense (Level 3)
 
-You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Dexterity saving throws unless you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Dexterity saving throws unless you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Traps (Level 3)
 
@@ -65,29 +64,33 @@ You are a deadly master of trapsmithing with the following benefits.
 
 **Trapsmithing.** You can craft an array of traps. Traps and their costs in materials are detailed at the end of the subclass description.
 
-- [Ball Bearings](Mechanics/CLI/items/ball-bearings-valdaspire24.md)
-- [Ballista Trap](Mechanics/CLI/items/ballista-trap-valdaspire24.md)
-- [Caltrops](Mechanics/CLI/items/caltrops-valdaspire24.md)
-- [Hunting Trap](Mechanics/CLI/items/hunting-trap-valdaspire24.md)
+- [Ball Bearings](/Mechanics/CLI/items/ball-bearings-valdaspire24.md)
+- [Ballista Trap](/Mechanics/CLI/items/ballista-trap-valdaspire24.md)
+- [Caltrops](/Mechanics/CLI/items/caltrops-valdaspire24.md)
+- [Hunting Trap](/Mechanics/CLI/items/hunting-trap-valdaspire24.md)
 
-**Quick Deployment.** You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to deploy a trap of your choice. You can take this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your Craftsman level. You also regain one expended use when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Quick Deployment.** You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to deploy a trap of your choice. You can take this [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) a number of times equal to your Craftsman level. You also regain one expended use when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), and all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Quick Recovery.** If a trap can be recovered, you can take a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action to recover it.
+**Quick Recovery.** If a trap can be recovered, you can take a [Utilize](/Mechanics/CLI/actions.md#Utilize) action to recover it.
 
-**Saving Throws.** If a trap that you craft requires a saving throw, the DC equals 8 plus your Intelligence modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+**Saving Throws.** If a trap that you craft requires a saving throw, the DC equals 8 plus your Intelligence modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
 **At Higher Levels.** When you reach certain Craftsman levels, your traps become more dangerous. Traps you craft deal 2 damage dice at level 5, 3 damage dice at level 11, and 4 damage dice at level 17.
 
 ### Booby Trap (Level 6)
 
-You can conceal one of your traps over the course of a minute. A creature that takes a [Search](Mechanics/CLI/rules/actions.md#Search) or [Study](Mechanics/CLI/rules/actions.md#Study) action can detect a concealed trap with a successful Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) or Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check, respectively, against your Traps save DC. When a concealed trap activates, its damage dice are doubled.
+You can conceal one of your traps over the course of a minute. A creature that takes a [Search](/Mechanics/CLI/actions.md#Search) or [Study](/Mechanics/CLI/actions.md#Study) action can detect a concealed trap with a successful Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) or Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check, respectively, against your Traps save DC. When a concealed trap activates, its damage dice are doubled.
 
 ### Escape Plan (Level 10)
 
-You can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) when an enemy moves within 5 feet of you to move up to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) and deploy one trap in an unoccupied space at any point during the movement.
+You can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) when an enemy moves within 5 feet of you to move up to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) and deploy one trap in an unoccupied space at any point during the movement.
 
-You can use this feature a number of times equal to your Masterwork Bonus. You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Masterwork Bonus. You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Rapid Deployment (Level 14)
 
-You can take a [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action to deploy up to three traps.
+You can take a [Utilize](/Mechanics/CLI/actions.md#Utilize) action to deploy up to three traps.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

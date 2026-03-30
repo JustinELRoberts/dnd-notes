@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Acid Absorbing Tattoo
-created: 2026-03-09T12:15:34.058-04:00
-modified: 2026-03-09T12:15:34.058-04:00
-published: 2026-03-09T12:15:34.058-04:00
+created: 2026-03-29T21:53:56.076-04:00
+modified: 2026-03-29T21:53:56.076-04:00
+published: 2026-03-29T21:53:56.076-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -18,6 +18,9 @@ obsidianUIMode: preview
 # Acid Absorbing Tattoo
 
 _Wondrous item (tattoo), very rare (requires attunement)_
+
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo features designs that emphasize one color (green).
 
@@ -35,4 +38,6 @@ While the tattoo is on your skin, you have resistance to acid damage.
 
 When you take acid damage, you can use your reaction to gain immunity against that instance of the damage, and you regain a number of hit points equal to half the damage you would have taken. Once this reaction is used, it can't be used again until the next dawn.
 
-_Source: Tasha's Cauldron of Everything p. 119_
+## Sources
+
+_Tasha's Cauldron of Everything p. 119_

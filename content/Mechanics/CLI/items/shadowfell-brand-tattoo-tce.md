@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadowfell Brand Tattoo
-created: 2026-03-09T12:15:33.923-04:00
-modified: 2026-03-09T12:15:33.923-04:00
-published: 2026-03-09T12:15:33.923-04:00
+created: 2026-03-29T21:53:55.927-04:00
+modified: 2026-03-29T21:53:55.927-04:00
+published: 2026-03-29T21:53:55.927-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,9 @@ obsidianUIMode: preview
 
 _Wondrous item (tattoo), rare (requires attunement)_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Produced by a special needle, this magic tattoo is dark in color and abstract.
 
 ## Tattoo Attunement
@@ -29,10 +32,12 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 ## Shadow Essence
 
-You gain [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks.
+You gain [darkvision](/Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet, and you have advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks.
 
 ## Shadowy Defense
 
 When you take damage, you can use your reaction to become insubstantial for a moment, halving the damage you take. Then the reaction can't be used again until the next sunset.
 
-_Source: Tasha's Cauldron of Everything p. 134_
+## Sources
+
+_Tasha's Cauldron of Everything p. 134_

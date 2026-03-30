@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tyrannosaurus Rex
-created: 2026-03-09T12:15:34.131-04:00
-modified: 2026-03-09T12:15:34.131-04:00
-published: 2026-03-09T12:15:34.131-04:00
+created: 2026-03-29T21:53:56.176-04:00
+modified: 2026-03-29T21:53:56.176-04:00
+published: 2026-03-29T21:53:56.176-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Tyrannosaurus Rex
+ac: 13
+hp: 136
+modifier: 0
+hit_dice: 13d12 + 52
+cr: "8"
+stats:
+  - 25
+  - 10
+  - 19
+  - 2
+  - 12
+  - 9
+source:
+  - MM
 ---
 
 # Tyrannosaurus Rex
 
-_Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/tyrannosaurus-rex.webp#right)
-
 This enormous predator terrorizes all other creatures in its territory. Despite its size and weight, a tyrannosaurus is a swift runner. It chases anything it thinks it can eat, and there are few creatures it won't try to devour whole. While prowling for substantial prey, a tyrannosaurus subsists on carrion, and on any smaller creatures that try to dart in to steal its meal.
 
 ## Dinosaurs
@@ -33,11 +48,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Tyrannosaurus Rex
-![](Mechanics/CLI/bestiary/beast/token/tyrannosaurus-rex.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/tyrannosaurus-rex.webp#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 136 (`13d12 + 52`) 
+- **Hit Points** 136 (13d12 + 52) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,7 +61,7 @@ title: Tyrannosaurus Rex
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
 - **Senses** passive Perception 14
 - **Languages** —
 - **Challenge** 8
@@ -55,7 +70,7 @@ title: Tyrannosaurus Rex
 
 ***Multiattack.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It can't make both attacks against the same target.
 
-***Bite.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 33 (`4d12 + 7`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 17). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the tyrannosaurus can't bite another target.
+***Bite.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 33 (`4d12 + 7`) piercing damage. If the target is a Medium or smaller creature, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 17). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the tyrannosaurus can't bite another target.
 
 ***Tail.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 20 (`3d8 + 7`) bludgeoning damage.
 ```
@@ -65,3 +80,7 @@ title: Tyrannosaurus Rex
 ## Environment
 
 grassland
+
+## Sources
+
+_Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

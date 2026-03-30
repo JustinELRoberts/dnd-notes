@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Minotaur
-created: 2026-03-09T12:15:34.104-04:00
-modified: 2026-03-09T12:15:34.104-04:00
-published: 2026-03-09T12:15:34.104-04:00
+created: 2026-03-29T21:53:56.138-04:00
+modified: 2026-03-29T21:53:56.138-04:00
+published: 2026-03-29T21:53:56.138-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Minotaur
+ac: 14
+hp: 76
+modifier: 0
+hit_dice: 9d10 + 27
+cr: "3"
+stats:
+  - 18
+  - 11
+  - 16
+  - 6
+  - 16
+  - 9
+source:
+  - MM
 ---
 
 # Minotaur
 
-_Source: Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/minotaur.webp#right)
-
 A minotaur's roar is a savage battle cry that most civilized creatures fear. Born into the mortal realm by demonic rites, minotaurs are savage conquerors and carnivores that live for the hunt. Their brown or black fur is stained with the blood of fallen foes, and they carry the stench of death.
 
 ## The Beast Within
@@ -45,11 +60,11 @@ Although they begin as creations of the Horned King, minotaurs can breed true wi
 
 ```ad-statblock
 title: Minotaur
-![](Mechanics/CLI/bestiary/monstrosity/token/minotaur.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/minotaur.webp#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 76 (`9d10 + 27`) 
+- **Hit Points** 76 (9d10 + 27) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,15 +73,14 @@ title: Minotaur
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 17
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 17
 - **Languages** Abyssal
 - **Challenge** 3
 
 ## Traits
 
-***Charge.*** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Charge.*** If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Labyrinthine Recall.*** The minotaur can perfectly recall any path it has traveled.
 
@@ -84,3 +98,7 @@ title: Minotaur
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 223. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

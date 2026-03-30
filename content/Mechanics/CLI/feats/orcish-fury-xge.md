@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orcish Fury
-created: 2026-03-09T12:15:33.774-04:00
-modified: 2026-03-09T12:15:33.774-04:00
-published: 2026-03-09T12:15:33.774-04:00
+created: 2026-03-29T21:53:55.557-04:00
+modified: 2026-03-29T21:53:55.557-04:00
+published: 2026-03-29T21:53:55.557-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/feat
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Orcish Fury
 
-_**Prerequisites**_ half-orc
+_**Prerequisites**_ [Half-Orc](/Mechanics/CLI/races/half-orc.md)
 
 Your fury burns tirelessly. You gain the following benefits:
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Slithering Tracker
-created: 2026-03-09T12:15:33.849-04:00
-modified: 2026-03-09T12:15:33.849-04:00
-published: 2026-03-09T12:15:33.849-04:00
+created: 2026-03-29T21:53:55.637-04:00
+modified: 2026-03-29T21:53:55.637-04:00
+published: 2026-03-29T21:53:55.637-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Slithering Tracker (MPMM)
+ac: 14
+hp: 39
+modifier: 4
+hit_dice: 6d8 + 12
+cr: "3"
+stats:
+  - 16
+  - 19
+  - 15
+  - 10
+  - 14
+  - 11
+source:
+  - MPMM
+  - VGM
 ---
 
 # Slithering Tracker
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191_\
 ![](Mechanics/CLI/bestiary/ooze/img/slithering-tracker.webp#right)
-
 The quest for revenge sometimes leads those terribly aggrieved to undergo a ritual whereby they transform into bodies of semiliquid sentience known as slithering trackers. Innocuous and insidious at the same time, a slithering tracker flows into places where a normal creature can't go and brings its own brand of watery death down on its quarry.
 
 The ritual for creating a slithering tracker is known to hags, liches, and priests who worship gods of vengeance. It can be performed only on a willing creature that hungers for revenge. The ritual sucks all the moisture from the subject's body, killing it. Yet the subject's mind lives on in the puddle that issues forth from the remains, and so too does its insatiable need for retribution.
@@ -32,11 +48,11 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 
 ```ad-statblock
 title: Slithering Tracker
-![](Mechanics/CLI/bestiary/ooze/token/slithering-tracker-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/ooze/token/slithering-tracker-mpmm.webp#token)
 *Medium ooze, Typically  Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 39 (`6d8 + 12`) 
+- **Hit Points** 39 (6d8 + 12) 
 - **Speed** 30 ft., climb 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,17 +61,17 @@ title: Slithering Tracker
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8, [Survival](Mechanics/CLI/rules/skills.md#Survival) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive Perception 12
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +8, [Survival](/Mechanics/CLI/skills.md#Survival) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 120 ft., passive Perception 12
 - **Damage Vulnerabilities** cold, fire
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** understands languages it knew in its previous form but can't speak
 - **Challenge** 3
 
 ## Traits
 
-***False Appearance.*** If the slithering tracker is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the slithering tracker move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to discern that the slithering tracker isn't a puddle.
+***False Appearance.*** If the slithering tracker is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the slithering tracker move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check to discern that the slithering tracker isn't a puddle.
 
 ***Liquid Form.*** The slithering tracker can enter an enemy's space and stop there. It can also move through a space as narrow as 1 inch wide without squeezing.
 
@@ -65,13 +81,13 @@ title: Slithering Tracker
 
 ***Slam.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 8 (`1d10 + 3`) bludgeoning damage.
 
-***Life Leech.*** One Large or smaller creature that the slithering tracker can see within 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and unable to breathe unless it can breathe water. In addition, the [grappled](Mechanics/CLI/rules/conditions.md#Grappled) target takes 16 (`3d10`) necrotic damage at the start of each of its turns. The slithering tracker can grapple only one target at a time.
+***Life Leech.*** One Large or smaller creature that the slithering tracker can see within 5 feet of it must succeed on a DC 13 Dexterity saving throw or be [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 13). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained) and unable to breathe unless it can breathe water. In addition, the [grappled](/Mechanics/CLI/conditions.md#Grappled) target takes 16 (`3d10`) necrotic damage at the start of each of its turns. The slithering tracker can grapple only one target at a time.
 
 While grappling the target, the slithering tracker takes only half any damage dealt to it (rounded down), and the target takes the other half.
 
 ## Bonus Actions
 
-***Watery Stealth.*** If underwater, the slithering tracker takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action, and it makes the Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) check with advantage.
+***Watery Stealth.*** If underwater, the slithering tracker takes the [Hide](/Mechanics/CLI/actions.md#Hide) action, and it makes the Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) check with advantage.
 ```
 
 ^statblock
@@ -79,3 +95,7 @@ While grappling the target, the slithering tracker takes only half any damage de
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 221, Volo's Guide to Monsters p. 191_

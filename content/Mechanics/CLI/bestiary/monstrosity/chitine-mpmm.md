@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Chitine
-created: 2026-03-09T12:15:33.922-04:00
-modified: 2026-03-09T12:15:33.922-04:00
-published: 2026-03-09T12:15:33.922-04:00
+created: 2026-03-29T21:53:55.926-04:00
+modified: 2026-03-29T21:53:55.926-04:00
+published: 2026-03-29T21:53:55.926-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Chitine (MPMM)
+ac: 14
+hp: 18
+modifier: 2
+hit_dice: 4d6 + 4
+cr: 1/2
+stats:
+  - 10
+  - 14
+  - 12
+  - 10
+  - 10
+  - 7
+source:
+  - MPMM
+  - VGM
 ---
 
 # Chitine
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/chitine.webp#right)
-
 Dedicated to Lolth, chitines are multi-armed bipeds with arachnid qualities. Most live in colonies in the Underdark and fight the enemies of the Demon Queen of Spiders. Long ago, the cult of Lolth first subjected elf prisoners to horrible rituals that transformed them into creatures with both elven and spider traits, which their creators dubbed chitines. The intention was to create servile warriors dedicated first to the cult and then, only by association with it, to Lolth. The goddess found this arrangement unacceptable.
 
 As punishment, the Spider Queen twisted her worshipers' rituals. The process usually transformed subjects into the spindly creatures her devotees expected, but occasionally, an elf changed into a choldrith: an arachnid Monstrosity able to command and create more chitines on its own. These choldriths soon led the chitines to rebel and abandon their creators, founding free colonies elsewhere in the Underdark. On occasion, though, colonies can be found in remote, gloomy areas of the surface world, warring against Lolth's enemies.
@@ -33,11 +49,11 @@ Chitines resemble spiders, but they behave more like social insects such as ants
 
 ```ad-statblock
 title: Chitine
-![](Mechanics/CLI/bestiary/monstrosity/token/chitine-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/chitine-mpmm.webp#token)
 *Small monstrosity, Typically  Chaotic Evil*
 
-- **Armor Class** 14 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 18 (`4d6 + 4`) 
+- **Armor Class** 14 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 18 (4d6 + 4) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,17 +62,16 @@ title: Chitine
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Undercommon
 - **Challenge** 1/2
 
 ## Traits
 
-***Fey Ancestry.*** The chitine has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put the chitine to sleep.
+***Fey Ancestry.*** The chitine has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put the chitine to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the chitine has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ***Web Sense.*** While in contact with a web, the chitine knows the exact location of any other creature in contact with the same web.
 
@@ -74,3 +89,7 @@ title: Chitine
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 75, Volo's Guide to Monsters p. 131_

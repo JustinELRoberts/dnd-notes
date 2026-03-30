@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadar-kai Gloom Weaver
-created: 2026-03-09T12:15:33.871-04:00
-modified: 2026-03-09T12:15:33.871-04:00
-published: 2026-03-09T12:15:33.871-04:00
+created: 2026-03-29T21:53:55.663-04:00
+modified: 2026-03-29T21:53:55.663-04:00
+published: 2026-03-29T21:53:55.663-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shadar-kai Gloom Weaver (MPMM)
+ac: 14
+hp: 104
+modifier: 4
+hit_dice: 16d8 + 32
+cr: "9"
+stats:
+  - 11
+  - 18
+  - 14
+  - 15
+  - 12
+  - 18
+source:
+  - MPMM
 ---
 
 # Shadar-kai Gloom Weaver
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 213_\
 ![](Mechanics/CLI/bestiary/humanoid/img/shadar-kai-gloom-weaver.webp#right)
-
 Although they're formidable warriors, gloom weavers are often content to hide in the shadows, watching as their very presence affects their victims. Their bleak energy weighs down the heart, causing those nearby to feel the approach of death. If detected, gloom weavers use their shadow magic to reduce enemies to ghastly corpses.
 
 ## Shadar-kai
@@ -44,11 +59,11 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 
 ```ad-statblock
 title: Shadar-kai Gloom Weaver
-![](Mechanics/CLI/bestiary/humanoid/token/shadar-kai-gloom-weaver-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/shadar-kai-gloom-weaver-mpmm.webp#token)
 *Medium humanoid (elf), Typically  Neutral Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 104 (`16d8 + 32`) 
+- **Hit Points** 104 (16d8 + 32) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,9 +73,9 @@ title: Shadar-kai Gloom Weaver
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +8, Constitution +6
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Immunities** necrotic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion)
 - **Languages** Common, Elvish
 - **Challenge** 9
 
@@ -68,7 +83,7 @@ title: Shadar-kai Gloom Weaver
 
 ***Burden of Time.*** Beasts and Humanoids (except elves) have disadvantage on saving throws while within 10 feet of the shadar-kai.
 
-***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put it to sleep.
+***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put it to sleep.
 
 ## Actions
 
@@ -78,13 +93,13 @@ title: Shadar-kai Gloom Weaver
 
 ***Spellcasting.*** The shadar-kai casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 
-**At will:** [arcane eye](Mechanics/CLI/spells/arcane-eye-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md), [speak with dead](Mechanics/CLI/spells/speak-with-dead-xphb.md)
+**At will:** [arcane eye](/Mechanics/CLI/spells/arcane-eye-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md), [speak with dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md)
 
-**1/day each:** [arcane gate](Mechanics/CLI/spells/arcane-gate-xphb.md), [bane](Mechanics/CLI/spells/bane-xphb.md), [confusion](Mechanics/CLI/spells/confusion-xphb.md), [darkness](Mechanics/CLI/spells/darkness-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md), [true seeing](Mechanics/CLI/spells/true-seeing-xphb.md)
+**1/day each:** [arcane gate](/Mechanics/CLI/spells/arcane-gate-xphb.md), [bane](/Mechanics/CLI/spells/bane-xphb.md), [confusion](/Mechanics/CLI/spells/confusion-xphb.md), [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [fear](/Mechanics/CLI/spells/fear-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md), [true seeing](/Mechanics/CLI/spells/true-seeing-xphb.md)
 
 ## Reactions
 
-***Misty Escape (Recharge 6-6).*** When the shadar-kai takes damage, it turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until the start of its next turn or until it attacks or casts a spell.
+***Misty Escape (Recharge 6-6).*** When the shadar-kai takes damage, it turns [invisible](/Mechanics/CLI/conditions.md#Invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](/Mechanics/CLI/conditions.md#Invisible) until the start of its next turn or until it attacks or casts a spell.
 ```
 
 ^statblock
@@ -92,3 +107,7 @@ title: Shadar-kai Gloom Weaver
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 213_

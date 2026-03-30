@@ -1,0 +1,19 @@
+---
+publish: true
+aliases:
+  - Target
+created: 2026-03-29T21:53:56.535-04:00
+modified: 2026-03-29T21:53:56.535-04:00
+published: 2026-03-29T21:53:56.535-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Target
+
+_Source: Player's Handbook (2024) p. 376. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+A target is the creature or object targeted by an attack roll, forced to make a [saving throw](/Mechanics/CLI/variant-rules/saving-throw-xphb.md) by an effect, or selected to receive the effects of a spell or another phenomenon.

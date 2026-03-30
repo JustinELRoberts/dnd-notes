@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ettin
-created: 2026-03-09T12:15:33.795-04:00
-modified: 2026-03-09T12:15:33.795-04:00
-published: 2026-03-09T12:15:33.795-04:00
+created: 2026-03-29T21:53:55.578-04:00
+modified: 2026-03-29T21:53:55.578-04:00
+published: 2026-03-29T21:53:55.578-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ettin
+ac: 12
+hp: 85
+modifier: -1
+hit_dice: 10d10 + 30
+cr: "4"
+stats:
+  - 21
+  - 8
+  - 17
+  - 6
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Ettin
 
-_Source: Monster Manual p. 132. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/ettin.webp#right)
-
 An ettin is a foul, two-headed giant with the crude characteristics of an orc. It never bathes if it can help it, and its thick skin is usually encrusted with a thick layer of dirt and grime beneath the stinking hides it wears. Its long stringy hair hangs in an unkempt mess about its faces, and its breath reeks from mouths filled with crooked teeth and tusks.
 
 ## Dual Personality
@@ -53,11 +68,11 @@ Whatever the truth of the ettins' origin, orcs treat them as distant cousins, an
 
 ```ad-statblock
 title: Ettin
-![](Mechanics/CLI/bestiary/giant/token/ettin.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/ettin.webp#token)
 *Large giant, Chaotic Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 85 (`10d10 + 30`) 
+- **Hit Points** 85 (10d10 + 30) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,15 +81,14 @@ title: Ettin
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Gear** [battleaxe](Mechanics/CLI/items/battleaxe-xphb.md), [morningstar](Mechanics/CLI/items/morningstar-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Giant, Orc
 - **Challenge** 4
 
 ## Traits
 
-***Two Heads.*** The ettin has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks and on saving throws against being [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), and knocked [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious).
+***Two Heads.*** The ettin has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks and on saving throws against being [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened), [stunned](/Mechanics/CLI/conditions.md#Stunned), and knocked [unconscious](/Mechanics/CLI/conditions.md#Unconscious).
 
 ***Wakeful.*** When one of the ettin's heads is asleep, its other head is awake.
 
@@ -92,3 +106,7 @@ title: Ettin
 ## Environment
 
 underdark, mountain, hill
+
+## Sources
+
+_Monster Manual p. 132. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

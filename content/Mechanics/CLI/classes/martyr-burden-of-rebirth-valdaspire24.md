@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Rebirth
-created: 2026-03-09T12:15:33.967-04:00
-modified: 2026-03-09T12:15:33.967-04:00
-published: 2026-03-09T12:15:33.967-04:00
+created: 2026-03-29T21:53:55.972-04:00
+modified: 2026-03-29T21:53:55.972-04:00
+published: 2026-03-29T21:53:55.972-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/martyr/rebirth
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Rebirth
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,33 +62,37 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Entangle](Mechanics/CLI/spells/entangle-xphb.md), [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md), [Goodberry](Mechanics/CLI/spells/goodberry-xphb.md), [Shillelagh](Mechanics/CLI/spells/shillelagh-xphb.md), [Speak with Animals](Mechanics/CLI/spells/speak-with-animals-xphb.md) |
-| 5 | [Pass Without Trace](Mechanics/CLI/spells/pass-without-trace-xphb.md), [Spike Growth](Mechanics/CLI/spells/spike-growth-xphb.md) |
-| 9 | [Plant Growth](Mechanics/CLI/spells/plant-growth-xphb.md), [Speak with Plants](Mechanics/CLI/spells/speak-with-plants-xphb.md) |
-| 13 | [Giant Insect](Mechanics/CLI/spells/giant-insect-xphb.md), [Hallucinatory Terrain](Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) |
-| 17 | [Awaken](Mechanics/CLI/spells/awaken-xphb.md), [Reincarnate](Mechanics/CLI/spells/reincarnate-xphb.md) |
+| 3 | [Entangle](/Mechanics/CLI/spells/entangle-xphb.md), [Find Familiar](/Mechanics/CLI/spells/find-familiar-xphb.md), [Goodberry](/Mechanics/CLI/spells/goodberry-xphb.md), [Shillelagh](/Mechanics/CLI/spells/shillelagh-xphb.md), [Speak with Animals](/Mechanics/CLI/spells/speak-with-animals-xphb.md) |
+| 5 | [Pass Without Trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md), [Spike Growth](/Mechanics/CLI/spells/spike-growth-xphb.md) |
+| 9 | [Plant Growth](/Mechanics/CLI/spells/plant-growth-xphb.md), [Speak with Plants](/Mechanics/CLI/spells/speak-with-plants-xphb.md) |
+| 13 | [Giant Insect](/Mechanics/CLI/spells/giant-insect-xphb.md), [Hallucinatory Terrain](/Mechanics/CLI/spells/hallucinatory-terrain-xphb.md) |
+| 17 | [Awaken](/Mechanics/CLI/spells/awaken-xphb.md), [Reincarnate](/Mechanics/CLI/spells/reincarnate-xphb.md) |
 ^rebirth-spells
 
 ### Natural Companion (Level 3)
 
-You can cast [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md) and [Speak with Animals](Mechanics/CLI/spells/speak-with-animals-xphb.md) without taking Radiant damage or expending a spell use.
+You can cast [Find Familiar](/Mechanics/CLI/spells/find-familiar-xphb.md) and [Speak with Animals](/Mechanics/CLI/spells/speak-with-animals-xphb.md) without taking Radiant damage or expending a spell use.
 
 ### Surefooted (Level 6)
 
-[Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you or allies within 30 feet of yourself extra movement. Additionally, you and allies within 30 feet of you are immune to the [Entangle](Mechanics/CLI/spells/entangle-xphb.md), [Spike Growth](Mechanics/CLI/spells/spike-growth-xphb.md), and [Plant Growth](Mechanics/CLI/spells/plant-growth-xphb.md) spells.
+[Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) doesn't cost you or allies within 30 feet of yourself extra movement. Additionally, you and allies within 30 feet of you are immune to the [Entangle](/Mechanics/CLI/spells/entangle-xphb.md), [Spike Growth](/Mechanics/CLI/spells/spike-growth-xphb.md), and [Plant Growth](/Mechanics/CLI/spells/plant-growth-xphb.md) spells.
 
 ### Verdant Resilience (Level 14)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can enter a state of natural regeneration, granting your the following for 1 minute. Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can enter a state of natural regeneration, granting your the following for 1 minute. Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Regeneration.** At the start of each of your turns, you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your Wisdom modifier (minimum of 1) if you have at least 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+**Regeneration.** At the start of each of your turns, you regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your Wisdom modifier (minimum of 1) if you have at least 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
-**Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+**Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
 
 ### Turn of the Wheel (Level 18)
 
 Death is only the beginning for you. You gain the following benefits.
 
-**Reincarnation.** You can cast [Reincarnate](Mechanics/CLI/spells/reincarnate-xphb.md) without Material components or taking Radiant damage. When you cast this spell, you can choose the new body's species instead of rolling for it randomly.
+**Reincarnation.** You can cast [Reincarnate](/Mechanics/CLI/spells/reincarnate-xphb.md) without Material components or taking Radiant damage. When you cast this spell, you can choose the new body's species instead of rolling for it randomly.
 
-**Reincarnated Return.** If you die without using your Final Martyrdom, you can return to life 24 hours after you die as if you were the target of the [Reincarnate](Mechanics/CLI/spells/reincarnate-xphb.md) spell. You can choose your new body's species instead of rolling for it randomly. Once you return to life in this way, you can't do so again for 10 days.
+**Reincarnated Return.** If you die without using your Final Martyrdom, you can return to life 24 hours after you die as if you were the target of the [Reincarnate](/Mechanics/CLI/spells/reincarnate-xphb.md) spell. You can choose your new body's species instead of rolling for it randomly. Once you return to life in this way, you can't do so again for 10 days.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

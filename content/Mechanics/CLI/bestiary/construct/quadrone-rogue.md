@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Quadrone (Rogue)
-created: 2026-03-09T12:15:33.939-04:00
-modified: 2026-03-09T12:15:33.939-04:00
-published: 2026-03-09T12:15:33.939-04:00
+created: 2026-03-29T21:53:55.940-04:00
+modified: 2026-03-29T21:53:55.940-04:00
+published: 2026-03-29T21:53:55.940-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -13,18 +13,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Quadrone (Rogue)
+ac: 16
+hp: 22
+modifier: 2
+hit_dice: 4d8 + 4
+cr: "1"
+stats:
+  - 12
+  - 14
+  - 12
+  - 10
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Quadrone (Rogue)
-
-_Source: Monster Manual p. 226_
 
 ```ad-statblock
 title: Quadrone (Rogue)
 *Medium construct, Any alignment*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -33,9 +48,8 @@ title: Quadrone (Rogue)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 12
-- **Gear** [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 12
 - **Languages** Modron
 - **Challenge** 1
 
@@ -53,3 +67,7 @@ title: Quadrone (Rogue)
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 226_

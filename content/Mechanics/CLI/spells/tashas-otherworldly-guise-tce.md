@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Tasha's Otherworldly Guise
-created: 2026-03-09T12:15:34.039-04:00
-modified: 2026-03-09T12:15:34.039-04:00
-published: 2026-03-09T12:15:34.039-04:00
+created: 2026-03-29T21:53:56.048-04:00
+modified: 2026-03-29T21:53:56.048-04:00
+published: 2026-03-29T21:53:56.048-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -17,11 +18,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 ---
 
 # Tasha's Otherworldly Guise
@@ -36,12 +32,21 @@ _6th-level, Transmutation_
 Uttering an incantation, you draw on the magic of the Lower Planes or Upper Planes (your choice) to transform yourself. You gain the following benefits until the spell ends:
 
 - You are immune to fire and poison damage (Lower Planes) or radiant and necrotic damage (Upper Planes).
-- You are immune to the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition (Lower Planes) or the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition (Upper Planes).
+- You are immune to the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition (Lower Planes) or the [charmed](/Mechanics/CLI/conditions.md#Charmed) condition (Upper Planes).
 - Spectral wings appear on your back, giving you a flying speed of 40 feet.
 - You have a +2 bonus to AC.
 - All your weapon attacks are magical, and when you make a weapon attack, you can use your spellcasting ability modifier, instead of Strength or Dexterity, for the attack and damage rolls.
-- You can attack twice, instead of once, when you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
+- You can attack twice, instead of once, when you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that lets you attack more than once when you take the Attack action on your turn.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Tasha's Cauldron of Everything p. 116_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 116_

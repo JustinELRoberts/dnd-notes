@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pit Fiend
-created: 2026-03-09T12:15:33.881-04:00
-modified: 2026-03-09T12:15:33.881-04:00
-published: 2026-03-09T12:15:33.881-04:00
+created: 2026-03-29T21:53:55.675-04:00
+modified: 2026-03-29T21:53:55.675-04:00
+published: 2026-03-29T21:53:55.675-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/20
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Pit Fiend
+ac: 19
+hp: 300
+modifier: 2
+hit_dice: 24d10 + 168
+cr: "20"
+stats:
+  - 26
+  - 14
+  - 24
+  - 22
+  - 18
+  - 24
+source:
+  - MM
 ---
 
 # Pit Fiend
 
-_Source: Monster Manual p. 77. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/pit-fiend.webp#right)
-
 The undisputed lords of most other devils, pit fiends attend the archdukes and archduchesses of the Nine Hells and carry out their wishes. These mighty devils are the generals of the Nine Hells, leading its infernal legions into battle.
 
 With an inflated sense of superiority and entitlement, pit fiends form a grotesque aristocracy in the infernal realm. These domineering and manipulative tyrants conspire to eliminate anything that stands between them and their desires, even as they negotiate the convoluted and dangerous politics of the Nine Hells.
@@ -126,7 +141,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -154,11 +169,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Pit Fiend
-![](Mechanics/CLI/bestiary/fiend/token/pit-fiend.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/pit-fiend.webp#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 300 (`24d10 + 168`) 
+- **Hit Points** 300 (24d10 + 168) 
 - **Speed** 30 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -168,11 +183,10 @@ title: Pit Fiend
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +8, Constitution +13, Wisdom +10
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 14
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 14
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [mace](Mechanics/CLI/items/mace-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 20
 
@@ -180,11 +194,11 @@ title: Pit Fiend
 
 ***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [fireball](Mechanics/CLI/spells/fireball-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [fireball](/Mechanics/CLI/spells/fireball-xphb.md)
 
-**3/day each:** [hold monster](Mechanics/CLI/spells/hold-monster-xphb.md), [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md)
+**3/day each:** [hold monster](/Mechanics/CLI/spells/hold-monster-xphb.md), [wall of fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md)
 
-***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). On a failed save, the creature is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
+***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). On a failed save, the creature is [frightened](/Mechanics/CLI/conditions.md#Frightened) until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
 
 ***Magic Resistance.*** The pit fiend has advantage on saving throws against spells and other magical effects.
 
@@ -194,7 +208,7 @@ title: Pit Fiend
 
 ***Multiattack.*** The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.
 
-***Bite.*** *Melee Weapon Attack:* `+14` to hit, reach 5 ft., one target. *Hit:* 22 (`4d6 + 8`) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target can't regain hit points, and it takes 21 (`6d6`) poison damage at the start of each of its turns. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* `+14` to hit, reach 5 ft., one target. *Hit:* 22 (`4d6 + 8`) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned). While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way, the target can't regain hit points, and it takes 21 (`6d6`) poison damage at the start of each of its turns. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claw.*** *Melee Weapon Attack:* `+14` to hit, reach 10 ft., one target. *Hit:* 17 (`2d8 + 8`) slashing damage.
 
@@ -204,3 +218,7 @@ title: Pit Fiend
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 77. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

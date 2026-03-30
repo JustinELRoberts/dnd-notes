@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Circle of Dreams
-created: 2026-03-09T12:15:33.976-04:00
-modified: 2026-03-09T12:15:33.976-04:00
-published: 2026-03-09T12:15:33.976-04:00
+created: 2026-03-29T21:53:55.978-04:00
+modified: 2026-03-29T21:53:55.978-04:00
+published: 2026-03-29T21:53:55.978-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/subclass/druid/dreams
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Circle of Dreams
 
-_[Druid](./druid-xphb.md): Druid Subclass_\
-_Source: Xanathar's Guide to Everything p. 22_
+_[Druid](./druid-xphb.md): Druid Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -68,7 +67,7 @@ You regain all expended dice when you finish a long rest.
 
 At 6th level, home can be wherever you are. During a short or long rest, you can invoke the shadowy power of the Gloaming Court to help guard your respite. At the start of the rest, you touch a point in space, and an invisible, 30-foot-radius sphere of magic appears, centered on that point. Total cover blocks the sphere.
 
-While within the sphere, you and your allies gain a +5 bonus to Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) and Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
+While within the sphere, you and your allies gain a +5 bonus to Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) and Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks, and any light from open flames in the sphere (a campfire, torches, or the like) isn't visible outside it.
 
 The sphere vanishes at the end of the rest or when you leave the sphere.
 
@@ -82,8 +81,12 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 At 14th level, the magic of the Feywild grants you the ability to travel mentally or physically through dreamlands.
 
-When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [dream](Mechanics/CLI/spells/dream-xphb.md) (with you as the messenger), [scrying](Mechanics/CLI/spells/scrying-xphb.md), or [teleportation circle](Mechanics/CLI/spells/teleportation-circle-xphb.md).
+When you finish a short rest, you can cast one of the following spells, without expending a spell slot or requiring material components: [dream](/Mechanics/CLI/spells/dream-xphb.md) (with you as the messenger), [scrying](/Mechanics/CLI/spells/scrying-xphb.md), or [teleportation circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md).
 
-This use of [teleportation circle](Mechanics/CLI/spells/teleportation-circle-xphb.md) is special. Rather than opening a portal to a permanent [teleportation circle](Mechanics/CLI/spells/teleportation-circle-xphb.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
+This use of [teleportation circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md) is special. Rather than opening a portal to a permanent [teleportation circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md), it opens a portal to the last location where you finished a long rest on your current plane of existence. If you haven't taken a long rest on your current plane, the spell fails but isn't wasted.
 
 Once you use this feature, you can't use it again until you finish a long rest.
+
+## Sources
+
+_Xanathar's Guide to Everything p. 22_

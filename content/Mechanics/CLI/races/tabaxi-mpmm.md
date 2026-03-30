@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tabaxi
-created: 2026-03-09T12:15:33.774-04:00
-modified: 2026-03-09T12:15:33.774-04:00
-published: 2026-03-09T12:15:33.774-04:00
+created: 2026-03-29T21:53:55.556-04:00
+modified: 2026-03-29T21:53:55.556-04:00
+published: 2026-03-29T21:53:55.556-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/tabaxi
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Tabaxi
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 33_\
 ![](Mechanics/CLI/races/img/tabaxi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -38,7 +37,7 @@ You can use your claws to make unarmed strikes. When you hit with them, the stri
 
 ### Cat's Talent
 
-You have proficiency in the [Perception](Mechanics/CLI/rules/skills.md#Perception) and [Stealth](Mechanics/CLI/rules/skills.md#Stealth) skills.
+You have proficiency in the [Perception](/Mechanics/CLI/skills.md#Perception) and [Stealth](/Mechanics/CLI/skills.md#Stealth) skills.
 
 ### Darkvision
 
@@ -53,3 +52,7 @@ Your reflexes and agility allow you to move with a burst of speed. When you move
 Created by the Cat Lord—a divine being of the Upper Planes—to blend the qualities of humanoids and cats, tabaxi are a varied people in both attitude and appearance. In some lands, tabaxi live like the cats they resemble, naturally curious and at home in playful environments. In other places, tabaxi live as other folk do, not exhibiting the feline behavior the Cat Lord intended.
 
 Tabaxi's appearance is as varied as their attitudes. Some tabaxi have features or patterning in their fur like tigers, jaguars, or other big cats, while others have appearances more like a house cat. Still others have unique patterns or might style their fur to their preferences—or might even be hairless!
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 33_

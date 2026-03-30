@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Smoke Mephit
-created: 2026-03-09T12:15:33.988-04:00
-modified: 2026-03-09T12:15:33.988-04:00
-published: 2026-03-09T12:15:33.988-04:00
+created: 2026-03-29T21:53:55.993-04:00
+modified: 2026-03-29T21:53:55.993-04:00
+published: 2026-03-29T21:53:55.993-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Smoke Mephit
+ac: 12
+hp: 22
+modifier: 2
+hit_dice: 5d6 + 5
+cr: 1/4
+stats:
+  - 6
+  - 14
+  - 12
+  - 10
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Smoke Mephit
 
-_Source: Monster Manual p. 217_\
 ![](Mechanics/CLI/bestiary/elemental/img/smoke-mephit.webp#right)
 
 ## Mephits
@@ -39,11 +55,11 @@ Smoke mephits are crude, lazy creatures of air and fire that billow smoke consta
 
 ```ad-statblock
 title: Smoke Mephit
-![](Mechanics/CLI/bestiary/elemental/token/smoke-mephit.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/smoke-mephit.webp#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 22 (`5d6 + 5`) 
+- **Hit Points** 22 (5d6 + 5) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,16 +68,16 @@ title: Smoke Mephit
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Auran, Ignan
 - **Challenge** 1/4
 
 ## Traits
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), requiring no material components. Its innate spellcasting ability is Charisma.
 
 
 ***Death Burst.*** When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.
@@ -70,7 +86,7 @@ title: Smoke Mephit
 
 ***Claws.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) slashing damage.
 
-***Cinder Breath (Recharge 6).*** The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of the mephit's next turn.
+***Cinder Breath (Recharge 6).*** The mephit exhales a 15-foot cone of smoldering ash. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of the mephit's next turn.
 ```
 
 ^statblock
@@ -78,3 +94,7 @@ title: Smoke Mephit
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 217_

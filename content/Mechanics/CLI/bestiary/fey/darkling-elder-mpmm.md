@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Darkling Elder
-created: 2026-03-09T12:15:33.952-04:00
-modified: 2026-03-09T12:15:33.952-04:00
-published: 2026-03-09T12:15:33.952-04:00
+created: 2026-03-29T21:53:55.953-04:00
+modified: 2026-03-29T21:53:55.953-04:00
+published: 2026-03-29T21:53:55.953-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Darkling Elder (MPMM)
+ac: 15
+hp: 27
+modifier: 3
+hit_dice: 5d8 + 5
+cr: "2"
+stats:
+  - 13
+  - 17
+  - 12
+  - 10
+  - 14
+  - 13
+source:
+  - MPMM
+  - VGM
 ---
 
 # Darkling Elder
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134_\
 ![](Mechanics/CLI/bestiary/fey/img/darkling-elder.webp#right)
-
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
 
 ## Darklings
@@ -34,11 +50,11 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 
 ```ad-statblock
 title: Darkling Elder
-![](Mechanics/CLI/bestiary/fey/token/darkling-elder-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/darkling-elder-mpmm.webp#token)
 *Medium fey, Typically  Chaotic Neutral*
 
-- **Armor Class** 15 ([studded leather armor](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 27 (`5d8 + 5`) 
+- **Armor Class** 15 ([studded leather armor](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 27 (5d8 + 5) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,15 +63,14 @@ title: Darkling Elder
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +5, [Deception](Mechanics/CLI/rules/skills.md#Deception) +3, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +5, [Deception](/Mechanics/CLI/skills.md#Deception) +3, [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Languages** Elvish, Sylvan
 - **Challenge** 2
 
 ## Traits
 
-***Death Burn.*** When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failed save, the creature takes 7 (`2d6`) radiant damage and is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of its next turn. On a successful save, the creature takes half as much damage and isn't [blinded](Mechanics/CLI/rules/conditions.md#Blinded).
+***Death Burn.*** When the darkling elder dies, magical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must make a DC 11 Constitution saving throw. On a failed save, the creature takes 7 (`2d6`) radiant damage and is [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of its next turn. On a successful save, the creature takes half as much damage and isn't [blinded](/Mechanics/CLI/conditions.md#Blinded).
 
 ## Actions
 
@@ -63,7 +78,7 @@ title: Darkling Elder
 
 ***Scimitar.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) slashing damage plus 7 (`2d6`) necrotic damage.
 
-***Darkness (Recharges after a Short or Long Rest).*** The darkling elder casts [darkness](Mechanics/CLI/spells/darkness-xphb.md), requiring no spell components and using Wisdom as the spellcasting ability.
+***Darkness (Recharges after a Short or Long Rest).*** The darkling elder casts [darkness](/Mechanics/CLI/spells/darkness-xphb.md), requiring no spell components and using Wisdom as the spellcasting ability.
 
 ```
 
@@ -72,3 +87,7 @@ title: Darkling Elder
 ## Environment
 
 forest, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134_

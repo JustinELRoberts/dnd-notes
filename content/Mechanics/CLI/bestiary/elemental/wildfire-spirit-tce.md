@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wildfire Spirit
-created: 2026-03-09T12:15:34.010-04:00
-modified: 2026-03-09T12:15:34.010-04:00
-published: 2026-03-09T12:15:34.010-04:00
+created: 2026-03-29T21:53:56.017-04:00
+modified: 2026-03-29T21:53:56.017-04:00
+published: 2026-03-29T21:53:56.017-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/monster/cr/
@@ -13,15 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Wildfire Spirit (TCE)
+ac: 13
+modifier: 2
+stats:
+  - 10
+  - 14
+  - 14
+  - 13
+  - 15
+  - 11
+source:
+  - TCE
 ---
 
 # Wildfire Spirit
 
-_Source: Tasha's Cauldron of Everything p. 40_
-
 ```ad-statblock
 title: Wildfire Spirit
-![](Mechanics/CLI/bestiary/elemental/token/wildfire-spirit-tce.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/wildfire-spirit-tce.webp#token)
 *Small elemental, Unaligned*
 
 - **Armor Class** 13 (natural armor)
@@ -35,9 +47,9 @@ title: Wildfire Spirit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Immunities** fire
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** understands the languages you speak
 - **Challenge** 
 
@@ -49,3 +61,7 @@ title: Wildfire Spirit
 ```
 
 ^statblock
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 40_

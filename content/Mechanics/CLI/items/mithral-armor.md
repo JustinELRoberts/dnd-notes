@@ -11,9 +11,9 @@ aliases:
   - Mithral Scale Mail
   - Mithral Spiked Armor
   - Mithral Splint Armor
-created: 2026-03-09T12:15:33.884-04:00
-modified: 2026-03-09T12:15:33.884-04:00
-published: 2026-03-09T12:15:33.884-04:00
+created: 2026-03-29T21:53:55.679-04:00
+modified: 2026-03-29T21:53:55.679-04:00
+published: 2026-03-29T21:53:55.679-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy
@@ -30,9 +30,12 @@ obsidianUIMode: preview
 
 _Minor, uncommon_
 
-Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-**Variants**:
+Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks or has a Strength requirement, the mithral version of the armor doesn't.
+
+## Variants
 
 - [Mithral Breastplate](#Mithral%20Breastplate)
 - [Mithral Chain Mail](#Mithral%20Chain%20Mail)
@@ -89,4 +92,6 @@ Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be 
 - **Armor Class**: 17
 - **Weight**: 60.0 lbs.
 
-_Source: Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

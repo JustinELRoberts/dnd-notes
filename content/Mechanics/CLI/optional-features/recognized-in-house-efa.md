@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Recognized in House
-created: 2026-03-09T12:15:33.961-04:00
-modified: 2026-03-09T12:15:33.961-04:00
-published: 2026-03-09T12:15:33.961-04:00
+created: 2026-03-29T21:53:55.965-04:00
+modified: 2026-03-29T21:53:55.965-04:00
+published: 2026-03-29T21:53:55.965-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/optional-feature/rp
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Renown 10+ with a "Dragonmarked House"
 
-When you request a favor from your house (as described under "[Favored in House](Mechanics/CLI/optional-features/favored-in-house-efa.md)"), it can take one of the following additional forms:
+When you request a favor from your house (as described under "[Favored in House](/Mechanics/CLI/optional-features/favored-in-house-efa.md)"), it can take one of the following additional forms:
 
 - A dragonmarked member of the house casts for you a level 2 spell associated with the house's mark at no cost.
 - A member of the house casts for you a different spell of level 4 or lower at half the usual cost.

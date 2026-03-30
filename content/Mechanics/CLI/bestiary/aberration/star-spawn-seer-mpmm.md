@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Star Spawn Seer
-created: 2026-03-09T12:15:34.095-04:00
-modified: 2026-03-09T12:15:34.095-04:00
-published: 2026-03-09T12:15:34.095-04:00
+created: 2026-03-29T21:53:56.126-04:00
+modified: 2026-03-29T21:53:56.126-04:00
+published: 2026-03-29T21:53:56.126-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/13
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Star Spawn Seer (MPMM)
+ac: 17
+hp: 153
+modifier: 1
+hit_dice: 18d8 + 72
+cr: "13"
+stats:
+  - 14
+  - 12
+  - 18
+  - 22
+  - 19
+  - 16
+source:
+  - MPMM
 ---
 
 # Star Spawn Seer
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 230_\
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-seer.webp#right)
-
 A star spawn seer is most often encountered as the leader of a cult dedicated to one or more Elder Evils. Usually, the seer is the only cult member that grasps the full extent of the horror the cult is venerating. The seer's goal is to tap into vast energy sources and perform the dire rites that will extend a bridge between the Material Plane and the squirming chaos of an Elder Evil's realm.
 
 An entity that appears as a star spawn seer in the Material Plane usually arrives disembodied. When a warlock or other spellcaster establishes communication with it, the seer-entity takes control of the mortal, transforming it into a star spawn seer. Whoever the mortal once was largely vanishes beneath the mass of tumorous skin than builds up in strange whorls all over the seer's body. The mortal's hands become bulky, flipper-like appendages able to grasp the seer's strange staff formed of a blend of flesh, bone, and star stuff.
@@ -57,11 +72,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Seer
-![](Mechanics/CLI/bestiary/aberration/token/star-spawn-seer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/star-spawn-seer-mpmm.webp#token)
 *Medium aberration, Typically  Neutral Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 153 (`18d8 + 72`) 
+- **Hit Points** 153 (18d8 + 72) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -70,17 +85,17 @@ title: Star Spawn Seer
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +6, Intelligence +11, Wisdom +9, Charisma +8
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +9
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 19
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 19
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** psychic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Common, Deep Speech, Undercommon
 - **Challenge** 13
 
 ## Traits
 
-***Out-Of-Phase Movement.*** The seer can move through other creatures and objects as if they were difficult terrain, and its movement doesn't provoke [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+***Out-Of-Phase Movement.*** The seer can move through other creatures and objects as if they were difficult terrain, and its movement doesn't provoke [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 Each creature it moves through takes 5 (`1d10`) psychic damage; no creature can take this damage more than once per turn.
 
@@ -90,7 +105,7 @@ The seer takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
 ***Multiattack.*** The seer makes two Comet Staff or Psychic Orb attacks.
 
-***Comet Staff.*** *Melee Weapon Attack:* `+11` to hit, reach 5 ft., one target. *Hit:* 10 (`1d8 + 6`) bludgeoning damage plus 18 (`4d8`) psychic damage, and if the target is a creature, it must succeed on a DC 19 Constitution saving throw or be [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) until the end of its next turn.
+***Comet Staff.*** *Melee Weapon Attack:* `+11` to hit, reach 5 ft., one target. *Hit:* 10 (`1d8 + 6`) bludgeoning damage plus 18 (`4d8`) psychic damage, and if the target is a creature, it must succeed on a DC 19 Constitution saving throw or be [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) until the end of its next turn.
 
 ***Psychic Orb.*** *Ranged Spell Attack:* `+11` to hit, range 120 feet, one creature. *Hit:* 27 (`5d10`) psychic damage.
 
@@ -106,3 +121,7 @@ The seer takes 5 (`1d10`) force damage if it ends its turn inside an object.
 ## Environment
 
 mountain, swamp, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 230_

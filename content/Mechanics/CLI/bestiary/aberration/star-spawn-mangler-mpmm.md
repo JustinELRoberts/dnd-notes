@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Star Spawn Mangler
-created: 2026-03-09T12:15:34.009-04:00
-modified: 2026-03-09T12:15:34.009-04:00
-published: 2026-03-09T12:15:34.009-04:00
+created: 2026-03-29T21:53:56.016-04:00
+modified: 2026-03-29T21:53:56.016-04:00
+published: 2026-03-29T21:53:56.016-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -13,11 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Star Spawn Mangler (MPMM)
+ac: 14
+hp: 71
+modifier: 4
+hit_dice: 13d8 + 13
+cr: "5"
+stats:
+  - 8
+  - 18
+  - 12
+  - 11
+  - 12
+  - 7
+source:
+  - MPMM
 ---
 
 # Star Spawn Mangler
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 229_\
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-mangler.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -56,11 +72,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Mangler
-![](Mechanics/CLI/bestiary/aberration/token/star-spawn-mangler-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/star-spawn-mangler-mpmm.webp#token)
 *Medium aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 71 (`13d8 + 13`) 
+- **Hit Points** 71 (13d8 + 13) 
 - **Speed** 40 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -69,11 +85,11 @@ title: Star Spawn Mangler
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Constitution +4
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** cold
 - **Damage Immunities** psychic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Deep Speech
 - **Challenge** 5
 
@@ -87,11 +103,15 @@ title: Star Spawn Mangler
 
 ***Claw.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) slashing damage. If the attack roll has advantage, the target also takes 7 (`2d6`) psychic damage.
 
-***Flurry of Claws (Recharge 5-6).*** The mangler makes six Claw attacks. Either before or after these attacks, it can move up to its speed without provoking [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+***Flurry of Claws (Recharge 5-6).*** The mangler makes six Claw attacks. Either before or after these attacks, it can move up to its speed without provoking [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in dim light or darkness, the mangler takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
+***Shadow Stealth.*** While in dim light or darkness, the mangler takes the [Hide](/Mechanics/CLI/actions.md#Hide) action.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 229_

@@ -1,0 +1,19 @@
+---
+publish: true
+aliases:
+  - Critical Hit
+created: 2026-03-29T21:53:56.539-04:00
+modified: 2026-03-29T21:53:56.539-04:00
+published: 2026-03-29T21:53:56.539-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Critical Hit
+
+_Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+If you roll a 20 on the `d20` for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target's AC. A Critical Hit lets you roll extra dice for the attack's damage against the target. Roll all of the attack's damage dice twice and add them together. Then add any relevant modifiers.

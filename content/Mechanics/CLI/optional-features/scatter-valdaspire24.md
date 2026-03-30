@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Scatter
-created: 2026-03-09T12:15:34.049-04:00
-modified: 2026-03-09T12:15:34.049-04:00
-published: 2026-03-09T12:15:34.049-04:00
+created: 2026-03-29T21:53:56.061-04:00
+modified: 2026-03-29T21:53:56.061-04:00
+published: 2026-03-29T21:53:56.061-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/mp
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 2 Craftsman, Ammunition Property
 
-Being within 5 feet of an enemy doesn't impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your ranged attack rolls with this weapon. This weapon's range is 20/60 if it were higher.
+Being within 5 feet of an enemy doesn't impose [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on your ranged attack rolls with this weapon. This weapon's range is 20/60 if it were higher.
 
 ## Sources
 

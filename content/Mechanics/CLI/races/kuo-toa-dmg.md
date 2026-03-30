@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kuo-Toa
-created: 2026-03-09T12:15:34.101-04:00
-modified: 2026-03-09T12:15:34.101-04:00
-published: 2026-03-09T12:15:34.101-04:00
+created: 2026-03-29T21:53:56.133-04:00
+modified: 2026-03-29T21:53:56.133-04:00
+published: 2026-03-29T21:53:56.133-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/kuo-toa
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Kuo-Toa
-
-_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: None
 - **Size**: Medium
@@ -29,7 +27,7 @@ You can breathe air and water.
 
 ### Otherworldly Perception
 
-You can sense the presence of any creature within 30 feet of you that is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) or on the Ethereal Plane. You can pinpoint such a creature that is moving.
+You can sense the presence of any creature within 30 feet of you that is [invisible](/Mechanics/CLI/conditions.md#Invisible) or on the Ethereal Plane. You can pinpoint such a creature that is moving.
 
 ### Slippery
 
@@ -37,7 +35,7 @@ You have advantage on ability checks and saving throws made to escape a grapple.
 
 ### Sunlight Sensitivity
 
-While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, you have disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ### Superior Darkvision
 
@@ -46,3 +44,7 @@ You have superior vision in dark and dim conditions. You can see in dim light wi
 ### Languages
 
 You can speak, read, and write Undercommon.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

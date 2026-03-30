@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Beast of the Sky
-created: 2026-03-09T12:15:33.787-04:00
-modified: 2026-03-09T12:15:33.787-04:00
-published: 2026-03-09T12:15:33.787-04:00
+created: 2026-03-29T21:53:55.564-04:00
+modified: 2026-03-29T21:53:55.564-04:00
+published: 2026-03-29T21:53:55.564-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Beast of the Sky (XPHB)
+modifier: 3
+stats:
+  - 6
+  - 16
+  - 13
+  - 8
+  - 14
+  - 11
+source:
+  - XPHB
 ---
 
 # Beast of the Sky
 
-_Source: Player's Handbook (2024) p. 124_\
 ![](Mechanics/CLI/bestiary/beast/img/beast-of-the-sky.webp#center)
 
 ```ad-statblock
 title: Beast of the Sky
-![](Mechanics/CLI/bestiary/beast/token/beast-of-the-sky-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/beast-of-the-sky-xphb.webp#token)
 *Small beast, Neutral*
 
 - **Armor Class** (13 plus your Wisdom modifier)
@@ -36,13 +48,13 @@ title: Beast of the Sky
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** understands the languages you know
 - **Challenge** 
 
 ## Traits
 
-***Flyby.*** The beast doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+***Flyby.*** The beast doesn't provoke [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
 
 ***Primal Bond.*** Add your Proficiency Bonus to any ability check or saving throw the beast makes.
 
@@ -52,3 +64,7 @@ title: Beast of the Sky
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 124_

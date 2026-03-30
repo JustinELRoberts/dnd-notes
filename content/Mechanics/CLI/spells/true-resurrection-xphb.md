@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - True Resurrection
-created: 2026-03-09T12:15:34.123-04:00
-modified: 2026-03-09T12:15:34.123-04:00
-published: 2026-03-09T12:15:34.123-04:00
+created: 2026-03-29T21:53:56.164-04:00
+modified: 2026-03-29T21:53:56.164-04:00
+published: 2026-03-29T21:53:56.164-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/9th-level
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # True Resurrection
@@ -32,12 +28,21 @@ _9th-level, Necromancy_
 - **Components:** V, S, M (diamonds worth 25,000+ GP, which the spell consumes)
 - **Duration:** Instantaneous
 
-You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+You touch a creature that has been dead for no longer than 200 years and that died for any reason except old age. The creature is revived with all its [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 This spell closes all wounds, neutralizes any poison, cures all magical contagions, and lifts any curses affecting the creature when it died. The spell replaces damaged or missing organs and limbs. If the creature was Undead, it is restored to its non-Undead form.
 
 The spell can provide a new body if the original no longer exists, in which case you must speak the creature's name. The creature then appears in an unoccupied space you choose within 10 feet of you.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

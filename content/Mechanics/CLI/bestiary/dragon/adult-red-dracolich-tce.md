@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Red Dracolich
-created: 2026-03-09T12:15:33.998-04:00
-modified: 2026-03-09T12:15:33.998-04:00
-published: 2026-03-09T12:15:33.998-04:00
+created: 2026-03-29T21:53:56.008-04:00
+modified: 2026-03-29T21:53:56.008-04:00
+published: 2026-03-29T21:53:56.008-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/monster/cr/17
@@ -13,19 +13,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Red Dracolich (TCE)
+ac: 19
+hp: 256
+modifier: 0
+hit_dice: 19d12 + 133
+cr: "17"
+stats:
+  - 27
+  - 10
+  - 25
+  - 16
+  - 13
+  - 21
+source:
+  - TCE
 ---
 
 # Adult Red Dracolich
 
-_Source: Tasha's Cauldron of Everything p. 137_
-
 ```ad-statblock
 title: Adult Red Dracolich
-![](Mechanics/CLI/bestiary/dragon/token/adult-red-dracolich-tce.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/adult-red-dracolich-tce.webp#token)
 *Huge dragon, Chaotic Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 256 (`19d12 + 133`) 
+- **Hit Points** 256 (19d12 + 133) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,11 +49,11 @@ title: Adult Red Dracolich
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Constitution +13, Wisdom +7, Charisma +11
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +13, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 23
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +13, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 23
 - **Damage Resistances** necrotic
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion)
 - **Languages** Common, Draconic
 - **Challenge** 17
 
@@ -58,7 +73,7 @@ title: Adult Red Dracolich
 
 ***Tail.*** *Melee Weapon Attack:* `+14` to hit, reach 15 ft., one target. *Hit:* 17 (`2d8 + 8`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
 
 ***Fire Breath (Recharge 5-6).*** The dracolich exhales fire in a 60-foot cone. Each creature in that area must make a DC 21 Dexterity saving throw, taking 63 (`18d6`) fire damage on a failed save, or half as much damage on a successful one.
 
@@ -66,11 +81,15 @@ title: Adult Red Dracolich
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dracolich can expend a use to take one of the following actions. The dracolich regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dracolich makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dracolich makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dracolich makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dracolich beats its wings. Each creature within 10 feet of the dracolich must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dracolich can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dracolich beats its wings. Each creature within 10 feet of the dracolich must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dracolich can then fly up to half its flying speed.
 ```
 
 ^statblock
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 137_

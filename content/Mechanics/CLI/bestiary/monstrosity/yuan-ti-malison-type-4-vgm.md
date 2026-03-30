@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yuan-ti Malison (Type 4)
-created: 2026-03-09T12:15:34.059-04:00
-modified: 2026-03-09T12:15:34.059-04:00
-published: 2026-03-09T12:15:34.059-04:00
+created: 2026-03-29T21:53:56.078-04:00
+modified: 2026-03-29T21:53:56.078-04:00
+published: 2026-03-29T21:53:56.078-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/3
@@ -17,11 +17,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Yuan-ti Malison (Type 4) (VGM)
+ac: 12
+hp: 66
+modifier: 2
+hit_dice: 12d8 + 12
+cr: "3"
+stats:
+  - 16
+  - 14
+  - 13
+  - 14
+  - 12
+  - 16
+source:
+  - VGM
 ---
 
 # Yuan-ti Malison (Type 4)
 
-_Source: Volo's Guide to Monsters p. 96_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-malison-type-4-and-5.webp#right)
 
 ## Yuan-ti Malison Variants: Types 4 and 5
@@ -60,11 +76,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 >
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 >
-> **Dendar, the Night Serpent.** [Dendar's](Mechanics/CLI/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
+> **Dendar, the Night Serpent.** [Dendar's](/Mechanics/CLI/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
 >
-> **Merrshaulk, Master of the Pit.** [Merrshaulk](Mechanics/CLI/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
+> **Merrshaulk, Master of the Pit.** [Merrshaulk](/Mechanics/CLI/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
 >
-> **Sseth, the Sibilant Death.** [Sseth](Mechanics/CLI/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
+> **Sseth, the Sibilant Death.** [Sseth](/Mechanics/CLI/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 > ^serpent-gods
 
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak
@@ -75,11 +91,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ```ad-statblock
 title: Yuan-ti Malison (Type 4)
-![](Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-malison-type-4-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-malison-type-4-vgm.webp#token)
 *Medium monstrosity (shapechanger, yuan-ti), Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 66 (`12d8 + 12`) 
+- **Hit Points** 66 (12d8 + 12) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -88,11 +104,10 @@ title: Yuan-ti Malison (Type 4)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 3
 
@@ -100,9 +115,9 @@ title: Yuan-ti Malison (Type 4)
 
 ***Innate Spellcasting (Yuan-ti Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:
 
-**At will:** [animal friendship](Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only)
+**At will:** [animal friendship](/Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only)
 
-**3/day:** [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**3/day:** [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
 
@@ -129,3 +144,7 @@ title: Yuan-ti Malison (Type 4)
 ## Environment
 
 forest, swamp, desert
+
+## Sources
+
+_Volo's Guide to Monsters p. 96_

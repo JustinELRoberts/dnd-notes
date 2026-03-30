@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bandit
-created: 2026-03-09T12:15:33.977-04:00
-modified: 2026-03-09T12:15:33.977-04:00
-published: 2026-03-09T12:15:33.977-04:00
+created: 2026-03-29T21:53:55.979-04:00
+modified: 2026-03-29T21:53:55.979-04:00
+published: 2026-03-29T21:53:55.979-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -19,11 +19,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bandit
+ac: 12
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/8
+stats:
+  - 11
+  - 12
+  - 12
+  - 10
+  - 10
+  - 10
+source:
+  - MM
 ---
 
 # Bandit
-
-_Source: Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Bandits rove in gangs and are sometimes led by thugs, veterans, or spellcasters. Not all bandits are evil. Oppression, drought, disease, or famine can often drive otherwise honest folk to a life of banditry.
 
@@ -31,11 +46,11 @@ Pirates are bandits of the high seas. They might be freebooters interested only 
 
 ```ad-statblock
 title: Bandit
-![](Mechanics/CLI/bestiary/humanoid/token/bandit.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/bandit.webp#token)
 *Medium humanoid (any race), Any Non-Lawful alignment*
 
-- **Armor Class** 12 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Armor Class** 12 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,7 +61,6 @@ title: Bandit
 - **Saving Throws** ⏤
 - **Skills** ⏤
 - **Senses** passive Perception 10
-- **Gear** [light crossbow](Mechanics/CLI/items/light-crossbow-xphb.md), [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 1/8
 
@@ -62,3 +76,7 @@ title: Bandit
 ## Environment
 
 coastal, hill, arctic, urban, forest, desert
+
+## Sources
+
+_Monster Manual p. 343. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

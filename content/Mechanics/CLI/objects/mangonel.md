@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mangonel
-created: 2026-03-09T12:15:33.776-04:00
-modified: 2026-03-09T12:15:33.776-04:00
-published: 2026-03-09T12:15:33.776-04:00
+created: 2026-03-29T21:53:55.559-04:00
+modified: 2026-03-29T21:53:55.559-04:00
+published: 2026-03-29T21:53:55.559-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/object/size/large
@@ -16,15 +16,13 @@ obsidianUIMode: preview
 
 # Mangonel
 
-_Source: Dungeon Master's Guide p. 255_
-
 A mangonel is a type of catapult that hurls heavy projectiles in a high arc. This payload can hit targets behind cover. Before the mangonel can be fired, it must be loaded and aimed. It takes two actions to load the weapon, two actions to aim it, and one action to fire it.
 
 A mangonel typically hurls a heavy stone, although it can hurl other kinds of projectiles, with different effects.
 
 ```ad-statblock
 title: Mangonel
-![](Mechanics/CLI/objects/token/mangonel.webp#token)
+![](/Mechanics/CLI/objects/token/mangonel.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15 
@@ -43,3 +41,7 @@ title: Mangonel
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 255_

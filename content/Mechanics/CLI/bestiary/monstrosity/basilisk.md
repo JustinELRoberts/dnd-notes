@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Basilisk
-created: 2026-03-09T12:15:33.961-04:00
-modified: 2026-03-09T12:15:33.961-04:00
-published: 2026-03-09T12:15:33.961-04:00
+created: 2026-03-29T21:53:55.966-04:00
+modified: 2026-03-29T21:53:55.966-04:00
+published: 2026-03-29T21:53:55.966-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Basilisk
+ac: 15
+hp: 52
+modifier: -1
+hit_dice: 8d8 + 16
+cr: "3"
+stats:
+  - 16
+  - 8
+  - 15
+  - 2
+  - 8
+  - 7
+source:
+  - MM
 ---
 
 # Basilisk
 
-_Source: Monster Manual p. 24. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/basilisk.webp#right)
-
 Travelers sometimes find objects that look like pieces of remarkably lifelike stone carvings of wildlife. Missing parts appear to have been bitten off. Seasoned explorers regard such relics as warnings, knowing that the basilisk that created them is likely to be nearby.
 
 ## Adaptable Predators
@@ -33,7 +48,7 @@ A basilisk born and raised in captivity can be domesticated and trained. Such a 
 
 Basilisks are ponderous for hunting creatures, but they needn't chase prey. Meeting a basilisk's supernatural gaze can be enough to affect a rapid transformation, transforming a victim into porous stone. Basilisks, with their strong jaws, are able to consume the stone. The stone returns to organic form in the basilisk's gullet.
 
-Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) creature, such as its head, is detached.
+Some alchemists are said to know how to process the basilisk's gullet and the fluids contained within. Properly handled, the gullet produces an oil that can return [petrified](/Mechanics/CLI/conditions.md#Petrified) creatures to flesh and life. Unfortunately for such a victim, any parts lost in stone form remain absent if the creature revives. Revivification using the oil is impossible if a vital part of the [petrified](/Mechanics/CLI/conditions.md#Petrified) creature, such as its head, is detached.
 
 > [!quote] A quote from X the Mystic's 4th rule of dungeon survival
 >
@@ -43,11 +58,11 @@ Some alchemists are said to know how to process the basilisk's gullet and the fl
 
 ```ad-statblock
 title: Basilisk
-![](Mechanics/CLI/bestiary/monstrosity/token/basilisk.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/basilisk.webp#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 52 (`8d8 + 16`) 
+- **Hit Points** 52 (8d8 + 16) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,15 +72,15 @@ title: Basilisk
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** —
 - **Challenge** 3
 
 ## Traits
 
-***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). On a failed save, the creature magically begins to turn to stone and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](Mechanics/CLI/rules/conditions.md#Petrified) until freed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
+***Petrifying Gaze.*** If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). On a failed save, the creature magically begins to turn to stone and is [restrained](/Mechanics/CLI/conditions.md#Restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](/Mechanics/CLI/conditions.md#Petrified) until freed by the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
 
-A creature that isn't [surprised](Mechanics/CLI/rules/conditions.md#Surprised) can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
+A creature that isn't [surprised](/Mechanics/CLI/conditions.md#Surprised) can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see the basilisk until the start of its next turn, when it can avert its eyes again. If it looks at the basilisk in the meantime, it must immediately make the save.
 
 If the basilisk sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze.
 
@@ -79,3 +94,7 @@ If the basilisk sees its reflection within 30 feet of it in bright light, it mis
 ## Environment
 
 mountain
+
+## Sources
+
+_Monster Manual p. 24. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

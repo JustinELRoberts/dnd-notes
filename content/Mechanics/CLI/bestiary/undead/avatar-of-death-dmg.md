@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Avatar of Death
-created: 2026-03-09T12:15:33.851-04:00
-modified: 2026-03-09T12:15:33.851-04:00
-published: 2026-03-09T12:15:33.851-04:00
+created: 2026-03-29T21:53:55.640-04:00
+modified: 2026-03-29T21:53:55.640-04:00
+published: 2026-03-29T21:53:55.640-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/monster/cr/
@@ -13,17 +13,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Avatar of Death (DMG)
+ac: 20
+modifier: 3
+stats:
+  - 16
+  - 16
+  - 16
+  - 16
+  - 16
+  - 16
+source:
+  - DMG
 ---
 
 # Avatar of Death
 
-_Source: Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
-
-Summoned by the "Skull" card from the [Deck of Many Things](Mechanics/CLI/items/deck-of-many-things.md).
+Summoned by the "Skull" card from the [Deck of Many Things](/Mechanics/CLI/items/deck-of-many-things.md).
 
 ```ad-statblock
 title: Avatar of Death
-![](Mechanics/CLI/bestiary/undead/token/avatar-of-death-dmg.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/avatar-of-death-dmg.webp#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 20 
@@ -37,9 +49,9 @@ title: Avatar of Death
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., [truesight](Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive Perception 13
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., [truesight](/Mechanics/CLI/senses.md#Truesight) 60 ft., passive Perception 13
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** all languages known to its summoner
 - **Challenge** 
 
@@ -55,3 +67,7 @@ title: Avatar of Death
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

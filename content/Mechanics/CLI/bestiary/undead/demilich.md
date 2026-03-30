@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Demilich
-created: 2026-03-09T12:15:33.908-04:00
-modified: 2026-03-09T12:15:33.908-04:00
-published: 2026-03-09T12:15:33.908-04:00
+created: 2026-03-29T21:53:55.908-04:00
+modified: 2026-03-29T21:53:55.908-04:00
+published: 2026-03-29T21:53:55.908-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/18
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Demilich
+ac: 20
+hp: 80
+modifier: 5
+hit_dice: 32d4
+cr: "18"
+stats:
+  - 1
+  - 20
+  - 10
+  - 20
+  - 17
+  - 20
+source:
+  - MM
 ---
 
 # Demilich
 
-_Source: Monster Manual p. 48_\
 ![](Mechanics/CLI/bestiary/undead/img/demilich.webp#right)
-
 The immortality granted to a lich lasts only as long as it feeds mortal souls to its phylactery. If it falters or fails in that task, its bones turn to dust until only its skull remains. This "demilich" contains only a fragment of the lich's malevolent life force-just enough so that if it is disturbed, these remains rise into the air and assume a wraith-like form. The skull then emits a terrifying howl that can slay the weak-hearted and leave others trembling with fear. Left alone, it sinks back down and returns to the empty peace of its existence.
 
 Few liches seek to become demiliches, for it means an end to the existence they hoped to preserve by becoming undead. However, time can erode the lich's reason and memory, causing it to retreat into its ancient tomb and forget to feed on souls. The spells it once knew fade from its mind, and it no longer channels the arcane energy it wielded as a lich. However, even as a mere skull it remains a deadly and vexing enemy.
@@ -60,11 +75,11 @@ If the demilich drops to 0 hit points, it is destroyed and turns to powder, leav
 
 ```ad-statblock
 title: Demilich
-![](Mechanics/CLI/bestiary/undead/token/demilich.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/demilich.webp#token)
 *Tiny undead, Neutral Evil*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 80 (`32d4`) 
+- **Hit Points** 80 (32d4) 
 - **Speed** 0 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -74,10 +89,10 @@ title: Demilich
 - **Proficiency Bonus** +6
 - **Saving Throws** Constitution +6, Intelligence +11, Wisdom +9, Charisma +11
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 13
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 13
 - **Damage Resistances** bludgeoning, piercing, slashing from magic weapons
 - **Damage Immunities** necrotic; poison; psychic; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [stunned](Mechanics/CLI/rules/conditions.md#Stunned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [stunned](/Mechanics/CLI/conditions.md#Stunned)
 - **Languages** —
 - **Challenge** 18
 
@@ -91,7 +106,7 @@ title: Demilich
 
 ## Actions
 
-***Howl (Recharge 5-6).*** The demilich emits a bloodcurdling howl. Each creature within 30 feet of the demilich that can hear the howl must succeed on a DC 15 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of its next turn.
+***Howl (Recharge 5-6).*** The demilich emits a bloodcurdling howl. Each creature within 30 feet of the demilich that can hear the howl must succeed on a DC 15 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of its next turn.
 
 ***Life Drain.*** The demilich targets up to three creatures that it can see within 10 feet of it. Each target must succeed on a DC 19 Constitution saving throw or take 21 (`6d6`) necrotic damage, and the demilich regains hit points equal to the total damage dealt to all targets.
 
@@ -101,9 +116,9 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the demilic
 
 ***Flight.*** The demilich flies up to half its flying speed.
 
-***Cloud of Dust.*** The demilich magically swirls its dusty remains. Each creature within 10 feet of the demilich, including around a corner, must succeed on a DC 15 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of the demilich's next turn. A creature that succeeds on the saving throw is immune to this effect until the end of the demilich's next turn.
+***Cloud of Dust.*** The demilich magically swirls its dusty remains. Each creature within 10 feet of the demilich, including around a corner, must succeed on a DC 15 Constitution saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of the demilich's next turn. A creature that succeeds on the saving throw is immune to this effect until the end of the demilich's next turn.
 
-***Energy Drain (Costs 2 Actions).*** Each creature with in 30 feet of the demilich must make a DC 15 Constitution saving throw. On a failed save, the creature's hit point maximum is magically reduced by 10 (`3d6`). If a creature's hit point maximum is reduced to 0 by this effect, the creature dies. A creature's hit point maximum can be restored with the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic.
+***Energy Drain (Costs 2 Actions).*** Each creature with in 30 feet of the demilich must make a DC 15 Constitution saving throw. On a failed save, the creature's hit point maximum is magically reduced by 10 (`3d6`). If a creature's hit point maximum is reduced to 0 by this effect, the creature dies. A creature's hit point maximum can be restored with the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic.
 
 ***Vile Curse (Costs 3 Actions).*** The demilich targets one creature it can see within 30 feet of it. The target must succeed on a DC 15 Wisdom saving throw or be magically cursed. Until the curse ends, the target has disadvantage on attack rolls and saving throws. The target can repeat the saving throw at the end of each of its turns, ending the curse on a success.
 
@@ -111,8 +126,8 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the demilic
 
 On initiative count 20 (losing initiative ties), the demilich rolls a `d20`. On a result of 11 or higher, the demilich takes a lair action to cause one of the following effects. It can't use the same effect two rounds in a row.
 
-- The tomb trembles violently for a moment. Each creature on the floor of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
-- The demilich targets one creature it can see within 60 feet of it. An [antimagic field](Mechanics/CLI/spells/antimagic-field-xphb.md) fills the space of the target, moving with it until initiative count 20 on the next round.  
+- The tomb trembles violently for a moment. Each creature on the floor of the tomb must succeed on a DC 19 Dexterity saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
+- The demilich targets one creature it can see within 60 feet of it. An [antimagic field](/Mechanics/CLI/spells/antimagic-field-xphb.md) fills the space of the target, moving with it until initiative count 20 on the next round.  
 - The demilich targets any number of creatures it can see within 30 feet of it. No target can regain hit points until initiative count 20 on the next round.  
 
 ## Regional Effects
@@ -120,10 +135,14 @@ On initiative count 20 (losing initiative ties), the demilich rolls a `d20`. On 
 A demilich's tomb might have any or all of the following effects in place:
 
 - The first time a non-evil creature enters the tomb's area, the creature takes 16 (`3d10`) necrotic damage.  
-- Monsters in the tomb have advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and against features that turn undead.  
+- Monsters in the tomb have advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened), and against features that turn undead.  
 - The tomb is warded against the magical travel of creatures the demilich hasn't authorized. Such creatures can't teleport into or out of the tomb's area or use planar travel to enter or leave it. Effects that allow teleportation or planar travel work within the tomb as long as they aren't used to leave or enter the tomb's area.  
 
 If the demilich is destroyed, these effects fade over the course of 10 days.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 48_

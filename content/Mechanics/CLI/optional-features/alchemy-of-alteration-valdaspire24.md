@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alchemy of Alteration
-created: 2026-03-09T12:15:33.902-04:00
-modified: 2026-03-09T12:15:33.902-04:00
-published: 2026-03-09T12:15:33.902-04:00
+created: 2026-03-29T21:53:55.901-04:00
+modified: 2026-03-29T21:53:55.901-04:00
+published: 2026-03-29T21:53:55.901-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/do
@@ -23,7 +23,7 @@ The number of potions you can have at one time increases by 2.
 
 ## Potion Ingredients
 
-You gain 4 additional [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) which you can only use to brew potions.
+You gain 4 additional [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) which you can only use to brew potions.
 
 ## Expanded Potions
 

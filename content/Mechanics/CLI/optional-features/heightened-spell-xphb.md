@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Heightened Spell
-created: 2026-03-09T12:15:33.985-04:00
-modified: 2026-03-09T12:15:33.985-04:00
-published: 2026-03-09T12:15:33.985-04:00
+created: 2026-03-29T21:53:55.990-04:00
+modified: 2026-03-29T21:53:55.990-04:00
+published: 2026-03-29T21:53:55.990-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/mm
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Heightened Spell
 
-When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on saves against the spell.
+When you cast a spell that forces a creature to make a saving throw, you can spend 2 Sorcery Points to give one target of the spell [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saves against the spell.
 
 ## Sources
 

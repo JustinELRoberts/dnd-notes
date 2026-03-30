@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Game of Fate
-created: 2026-03-09T12:15:33.865-04:00
-modified: 2026-03-09T12:15:33.865-04:00
-published: 2026-03-09T12:15:33.865-04:00
+created: 2026-03-29T21:53:55.653-04:00
+modified: 2026-03-29T21:53:55.653-04:00
+published: 2026-03-29T21:53:55.653-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/investigator
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/6th-level
@@ -16,10 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Investigator
-  - Wizard
 ---
 
 # Game of Fate
@@ -37,6 +34,13 @@ The loser of the game takes `6d6` Psychic damage. If no player has won or lost b
 
 Lastly, no spell, magical effect, or creature other than you and the target can influence the game's outcome.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Investigator](/Mechanics/CLI/lists/list-spells-classes-investigator.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

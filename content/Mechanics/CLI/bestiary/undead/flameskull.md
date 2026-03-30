@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Flameskull
-created: 2026-03-09T12:15:34.007-04:00
-modified: 2026-03-09T12:15:34.007-04:00
-published: 2026-03-09T12:15:34.007-04:00
+created: 2026-03-29T21:53:56.013-04:00
+modified: 2026-03-29T21:53:56.013-04:00
+published: 2026-03-29T21:53:56.013-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Flameskull
+ac: 13
+hp: 40
+modifier: 3
+hit_dice: 9d4 + 18
+cr: "4"
+stats:
+  - 1
+  - 17
+  - 14
+  - 16
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Flameskull
 
-_Source: Monster Manual p. 134. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/flameskull.webp#right)
-
 Blazing green flames and mad, echoing laughter follow a disembodied skull as it patrols its demesne. When the undead flameskull discovers trespassers, it blasts the intruders with fiery rays from its eyes and dreadful spells called up from the dark recesses of its memory.
 
 Dark spellcasters fashion flameskulls from the remains of dead wizards. When the ritual is complete, green flames erupt from the skull to complete its ghastly transformation.
@@ -39,7 +54,7 @@ The fire wreathing a flameskull burns continually, giving off bright light that 
 
 ## Eldritch Rejuvenation
 
-A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md) or [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
+A flameskull's shattered fragments reform unless they are splashed with holy water or subjected to a [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md) or [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell. If it can no longer fulfill its intended purpose, the re-formed flameskull is beholden to no one and becomes autonomous.
 
 ## Undead Nature
 
@@ -49,11 +64,11 @@ A flameskull doesn't require air, food, drink, or sleep
 
 ```ad-statblock
 title: Flameskull
-![](Mechanics/CLI/bestiary/undead/token/flameskull.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/flameskull.webp#token)
 *Tiny undead, Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 40 (`9d4 + 18`) 
+- **Hit Points** 40 (9d4 + 18) 
 - **Speed** 0 ft., fly 40 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,11 +77,11 @@ title: Flameskull
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** lightning, necrotic, piercing
 - **Damage Immunities** cold, fire, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Common
 - **Challenge** 4
 
@@ -74,19 +89,19 @@ title: Flameskull
 
 ***Spellcasting.*** The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, `+5` to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:
 
-**Cantrips (at will):** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md)
+**Cantrips (at will):** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md)
 
-**1st level (3 slots):** [magic missile](Mechanics/CLI/spells/magic-missile-xphb.md), [shield](Mechanics/CLI/spells/shield-xphb.md)
+**1st level (3 slots):** [magic missile](/Mechanics/CLI/spells/magic-missile-xphb.md), [shield](/Mechanics/CLI/spells/shield-xphb.md)
 
-**2nd level (2 slots):** [blur](Mechanics/CLI/spells/blur-xphb.md), [flaming sphere](Mechanics/CLI/spells/flaming-sphere-xphb.md)
+**2nd level (2 slots):** [blur](/Mechanics/CLI/spells/blur-xphb.md), [flaming sphere](/Mechanics/CLI/spells/flaming-sphere-xphb.md)
 
-**3rd level (1 slots):** [fireball](Mechanics/CLI/spells/fireball-xphb.md)
+**3rd level (1 slots):** [fireball](/Mechanics/CLI/spells/fireball-xphb.md)
 
 ***Illumination.*** The flameskull sheds either dim light in a 15-foot radius, or bright light in a 15-foot radius and dim light for an additional 15 feet. It can switch between the options as an action.
 
 ***Magic Resistance.*** The flameskull has advantage on saving throws against spells and other magical effects.
 
-***Rejuvenation.*** If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md) or [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell is cast on them.
+***Rejuvenation.*** If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md) or [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell is cast on them.
 
 ## Actions
 
@@ -100,3 +115,7 @@ title: Flameskull
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 134. Available in the Basic Rules (2014)_

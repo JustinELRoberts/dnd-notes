@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Diabolist
-created: 2026-03-09T12:15:33.831-04:00
-modified: 2026-03-09T12:15:33.831-04:00
-published: 2026-03-09T12:15:33.831-04:00
+created: 2026-03-29T21:53:55.616-04:00
+modified: 2026-03-29T21:53:55.616-04:00
+published: 2026-03-29T21:53:55.616-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/warden/diabolist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Diabolist
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,42 +58,46 @@ Your call was a bellow from below, foul with brimstone and the cries of the damn
 
 Your fiendish allegiance grants you the following benefits.
 
-**Fiendish Empathy.** Whenever a Fiend attacks you, it makes a Wisdom saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, its attack misses.
+**Fiendish Empathy.** Whenever a Fiend attacks you, it makes a Wisdom saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, its attack misses.
 
-**Fire Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Fire damage.
+**Fire Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage.
 
-**Silver-Tongued.** You gain proficiency in the [Deception](Mechanics/CLI/rules/skills.md#Deception), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) skill. Additionally, you gain a bonus to checks using the chosen skill equal to your Constitution modifier (minimum bonus of +1).
+**Silver-Tongued.** You gain proficiency in the [Deception](/Mechanics/CLI/skills.md#Deception), [Intimidation](/Mechanics/CLI/skills.md#Intimidation), or [Persuasion](/Mechanics/CLI/skills.md#Persuasion) skill. Additionally, you gain a bonus to checks using the chosen skill equal to your Constitution modifier (minimum bonus of +1).
 
 ### Infernal Command (Level 3)
 
-You can cast [Command](Mechanics/CLI/spells/command-xphb.md) as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) without a spell slot. Charisma is your spellcasting ability for this spell.
+You can cast [Command](/Mechanics/CLI/spells/command-xphb.md) as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) without a spell slot. Charisma is your spellcasting ability for this spell.
 
-You can use this feature twice. You regain one expended use when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature twice. You regain one expended use when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Soul Broker (Level 6)
 
-When you or an ally within 10 feet of you reduces an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you can trade its soul to your fiendish patron for one of the following magical boons. The GM decides if a creature's soul can't be traded to a Fiend. The boon lasts for 10 minutes or until you use this feature to trade another soul.
+When you or an ally within 10 feet of you reduces an enemy to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), you can trade its soul to your fiendish patron for one of the following magical boons. The GM decides if a creature's soul can't be traded to a Fiend. The boon lasts for 10 minutes or until you use this feature to trade another soul.
 
-**Energy Resistance.** You gain [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to one of the following damage types: Acid, Cold, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
+**Energy Resistance.** You gain [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to one of the following damage types: Acid, Cold, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder.
 
-**Fortitude.** You gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Warden level.
+**Fortitude.** You gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Warden level.
 
-**Truesight.** You have [Truesight](Mechanics/CLI/rules/senses.md#Truesight) with a range of 10 feet.
+**Truesight.** You have [Truesight](/Mechanics/CLI/senses.md#Truesight) with a range of 10 feet.
 
-**Skill.** You gain proficiency and [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in one skill of your choice.
+**Skill.** You gain proficiency and [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in one skill of your choice.
 
-**Speed.** Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 15 feet.
+**Speed.** Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) increases by 15 feet.
 
 ### Hellbent Survival (Level 10)
 
-When you use your Survive, you can immediately move up to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) and make two attacks with a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+When you use your Survive, you can immediately move up to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) and make two attacks with a weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
 
 ### Archdevil's Blessing (Level 17)
 
-Your infernal allies can grant you a boon. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Your infernal allies can grant you a boon. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Devil's Charm.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma checks and saving throws.
+**Devil's Charm.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma checks and saving throws.
 
-**Hellfire Aura.** At the end of each of your turns, each creature you choose in a 10-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you takes `2d6` Fire damage.
+**Hellfire Aura.** At the end of each of your turns, each creature you choose in a 10-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you takes `2d6` Fire damage.
 
-**Infernal Interruption.** Whenever you use your Interrupt, you can cast [Hellish Rebuke](Mechanics/CLI/spells/hellish-rebuke-xphb.md) without a spell slot as a part of the same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md), as if the creature damaged you with the interrupted attack. Charisma is your spellcasting ability for this spell.
+**Infernal Interruption.** Whenever you use your Interrupt, you can cast [Hellish Rebuke](/Mechanics/CLI/spells/hellish-rebuke-xphb.md) without a spell slot as a part of the same [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md), as if the creature damaged you with the interrupted attack. Charisma is your spellcasting ability for this spell.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

@@ -85,9 +85,9 @@ aliases:
   - +1 Warhammer
   - +1 Whip
   - +1 Yklwa
-created: 2026-03-09T12:15:33.993-04:00
-modified: 2026-03-09T12:15:33.993-04:00
-published: 2026-03-09T12:15:33.993-04:00
+created: 2026-03-29T21:53:56.003-04:00
+modified: 2026-03-29T21:53:56.003-04:00
+published: 2026-03-29T21:53:56.003-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/futuristic
@@ -109,9 +109,12 @@ obsidianUIMode: preview
 
 _Major, uncommon_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
-**Variants**:
+## Variants
 
 - [+1 Antimatter Rifle](#+1%20Antimatter%20Rifle)
 - [+1 Atlatl](#+1%20Atlatl)
@@ -201,35 +204,35 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 - **Damage**: 6d8 necrotic
 - **Range**: 120/360
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +1 Atlatl
 
 - **Damage**: 1d8 piercing
 - **Range**: 60/240
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition)
 - **Weight**: 1.0 lbs.
 
 ### +1 Automatic Pistol
 
 - **Damage**: 2d6 piercing
 - **Range**: 50/150
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### +1 Automatic Rifle
 
 - **Damage**: 2d8 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Burst Fire](Mechanics/CLI/rules/item-properties.md#Burst%20Fire), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Burst Fire](/Mechanics/CLI/item-properties.md#Burst%20Fire), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +1 Ballista
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 40.0 lbs.
 
 ### +1 Bastard Sword
@@ -237,7 +240,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 8.0 lbs.
 
 ### +1 Battleaxe
@@ -245,86 +248,86 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### +1 Blowgun
 
 - **Damage**: 1 piercing
 - **Range**: 25/100
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 1.0 lbs.
 
 ### +1 Bomb
 
 - **Damage**: 1d10 fire
 - **Range**: 30/90
-- **Properties**: [Destructible](Mechanics/CLI/rules/item-properties.md#Destructible), [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Destructible](/Mechanics/CLI/item-properties.md#Destructible), [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### +1 Boomerang
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 60/180
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### +1 Cestus
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Claw Gauntlet
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Club
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Cutlass
 
 - **Damage**: 1d8 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### +1 Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### +1 Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### +1 Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### +1 Edged Card
 
 - **Damage**: 1d4 slashing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 
 ### +1 Estoc
 
 - **Damage**:
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### +1 Fishhook
@@ -332,7 +335,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### +1 Flail
@@ -343,32 +346,32 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 ### +1 Glaive
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### +1 Greataxe
 
 - **Damage**: 1d12 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### +1 Greatbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +1 Greatclub
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +1 Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### +1 Grim Scythe
@@ -376,34 +379,34 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d6 slashing
   - Two-handed: 1d8 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 6.0 lbs.
 
 ### +1 Halberd
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### +1 Hand Crossbow
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Loading](Mechanics/CLI/rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Light](/Mechanics/CLI/item-properties.md#Light), [Loading](/Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### +1 Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### +1 Heavy Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 100/400
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### +1 Hooked Hammer
@@ -411,34 +414,34 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 6.0 lbs.
 
 ### +1 Hooked Shortspear
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Hoopak
 
 - **Damage**: 1d6 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 2.0 lbs.
 
 ### +1 Hunting Rifle
 
 - **Damage**: 2d10 piercing
 - **Range**: 80/240
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +1 Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### +1 Katana
@@ -446,7 +449,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### +1 Khopesh
@@ -454,55 +457,55 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### +1 Lance
 
 - **Damage**: 1d12 piercing
-- **Properties**: [Reach](Mechanics/CLI/rules/item-properties.md#Reach), special
+- **Properties**: [Reach](/Mechanics/CLI/item-properties.md#Reach), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### +1 Laser Pistol
 
 - **Damage**: 3d6 radiant
 - **Range**: 40/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 2.0 lbs.
 
 ### +1 Laser Rifle
 
 - **Damage**: 3d8 radiant
 - **Range**: 100/300
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### +1 Light Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### +1 Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### +1 Light Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 40/160
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### +1 Longbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 150/600
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### +1 Longsword
@@ -510,7 +513,7 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### +1 Mace
@@ -526,13 +529,13 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 ### +1 Maul
 
 - **Damage**: 2d6 bludgeoning
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +1 Meteor Chain
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +1 Morningstar
@@ -544,50 +547,50 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 - **Damage**: 1d12 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +1 Naginata
 
 - **Damage**: 1d10 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### +1 Nunchaku
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 1.0 lbs.
 
 ### +1 Parrying Dagger
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Pickaxe
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 10.0 lbs.
 
 ### +1 Pike
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 18.0 lbs.
 
 ### +1 Pistol
 
 - **Damage**: 1d10 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading)
 - **Weight**: 3.0 lbs.
 
 ### +1 Punching Dagger
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Quarterstaff
@@ -595,39 +598,39 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### +1 Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### +1 Repeating Crossbow
 
 - **Damage**: 1d8 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 20.0 lbs.
 
 ### +1 Revolver
 
 - **Damage**: 2d8 piercing
 - **Range**: 40/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload)
 - **Weight**: 3.0 lbs.
 
 ### +1 Sai
 
 - **Damage**: 1d4 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### +1 Scorpion on a Stick
@@ -644,39 +647,39 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 
 - **Damage**: 1d6 piercing
 - **Range**: 80/320
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 2.0 lbs.
 
 ### +1 Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Shotgun
 
 - **Damage**: 2d8 piercing
 - **Range**: 30/90
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Reload](Mechanics/CLI/rules/item-properties.md#Reload), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Reload](/Mechanics/CLI/item-properties.md#Reload), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 7.0 lbs.
 
 ### +1 Shovel
 
 - **Damage**: 1d8 bludgeoning
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 5.0 lbs.
 
 ### +1 Sickle
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
 ### +1 Sling
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 30/120
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition)
 
 ### +1 Spear
 
@@ -684,26 +687,26 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### +1 Spiked Chain
 
 - **Damage**: 1d10 piercing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Reach](Mechanics/CLI/rules/item-properties.md#Reach), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Reach](/Mechanics/CLI/item-properties.md#Reach), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 15.0 lbs.
 
 ### +1 Throwing Dagger
 
 - **Damage**: 1d4 slashing
 - **Range**: 30/120
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### +1 Tonfa
 
 - **Damage**: 1d4 bludgeoning
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 1.0 lbs.
 
 ### +1 Trident
@@ -712,14 +715,14 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
 ### +1 Volley Crossbow
 
 - **Damage**: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 8.0 lbs.
 
 ### +1 War Pick
@@ -732,20 +735,22 @@ You have a +1 bonus to attack and damage rolls made with this magic weapon.
 - **Damage**:
   - One-handed: 1d8 bludgeoning
   - Two-handed: 1d10 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 2.0 lbs.
 
 ### +1 Whip
 
 - **Damage**: 1d4 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Reach](Mechanics/CLI/rules/item-properties.md#Reach)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Reach](/Mechanics/CLI/item-properties.md#Reach)
 - **Weight**: 3.0 lbs.
 
 ### +1 Yklwa
 
 - **Damage**: 1d8 piercing
 - **Range**: 10/30
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 3.0 lbs.
 
-_Source: Dungeon Master's Guide p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+## Sources
+
+_Dungeon Master's Guide p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Quadrone
-created: 2026-03-09T12:15:34.088-04:00
-modified: 2026-03-09T12:15:34.089-04:00
-published: 2026-03-09T12:15:34.089-04:00
+created: 2026-03-29T21:53:56.117-04:00
+modified: 2026-03-29T21:53:56.117-04:00
+published: 2026-03-29T21:53:56.117-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Quadrone
+ac: 16
+hp: 22
+modifier: 2
+hit_dice: 4d8 + 4
+cr: "1"
+stats:
+  - 12
+  - 14
+  - 12
+  - 10
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Quadrone
 
-_Source: Monster Manual p. 226_\
 ![](Mechanics/CLI/bestiary/construct/img/quadrone.webp#right)
-
 Astute combatants, quadrones serve as artillery and field officers in the regiments of modron armies.
 
 ## Modrons
@@ -57,11 +72,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 
 ```ad-statblock
 title: Quadrone
-![](Mechanics/CLI/bestiary/construct/token/quadrone.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/quadrone.webp#token)
 *Medium construct, Lawful Neutral*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -70,9 +85,8 @@ title: Quadrone
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 12
-- **Gear** [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 12
 - **Languages** Modron
 - **Challenge** 1
 
@@ -92,3 +106,7 @@ title: Quadrone
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 226_

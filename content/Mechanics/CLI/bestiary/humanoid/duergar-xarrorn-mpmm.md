@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Xarrorn
-created: 2026-03-09T12:15:33.909-04:00
-modified: 2026-03-09T12:15:33.909-04:00
-published: 2026-03-09T12:15:33.909-04:00
+created: 2026-03-29T21:53:55.910-04:00
+modified: 2026-03-29T21:53:55.910-04:00
+published: 2026-03-29T21:53:55.910-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Xarrorn (MPMM)
+ac: 18
+hp: 26
+modifier: 0
+hit_dice: 4d8 + 8
+cr: "2"
+stats:
+  - 16
+  - 11
+  - 14
+  - 11
+  - 10
+  - 9
+source:
+  - MPMM
 ---
 
 # Duergar Xarrorn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 111_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar-xarrorn.webp#right)
-
 Xarrorn are specialists who construct weapons using a mixture of alchemy and psionics.
 
 ## Duergar
@@ -48,11 +63,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Xarrorn
-![](Mechanics/CLI/bestiary/humanoid/token/duergar-xarrorn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar-xarrorn-mpmm.webp#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 18 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 26 (`4d8 + 8`) 
+- **Armor Class** 18 ([plate armor](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 26 (4d8 + 8) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,16 +77,16 @@ title: Duergar Xarrorn
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** poison
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 2
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -79,7 +94,7 @@ title: Duergar Xarrorn
 
 ***Fire Spray (Recharge 5-6).*** From its fire lance, the duergar shoots a 15-foot cone of fire or a line of fire 30 feet long and 5 feet wide. Each creature in that area must make a DC 12 Dexterity saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 
 ## Bonus Actions
 
@@ -91,3 +106,7 @@ title: Duergar Xarrorn
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 111_

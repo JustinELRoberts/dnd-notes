@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Water Elemental
-created: 2026-03-09T12:15:33.858-04:00
-modified: 2026-03-09T12:15:33.858-04:00
-published: 2026-03-09T12:15:33.858-04:00
+created: 2026-03-29T21:53:55.648-04:00
+modified: 2026-03-29T21:53:55.649-04:00
+published: 2026-03-29T21:53:55.649-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Water Elemental
+ac: 14
+hp: 114
+modifier: 2
+hit_dice: 12d10 + 48
+cr: "5"
+stats:
+  - 18
+  - 14
+  - 18
+  - 5
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Water Elemental
 
-_Source: Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/water-elemental.webp#right)
-
 A water elemental is a cresting wave that rolls across the ground, becoming nearly invisible at it courses through a larger body of water. It engulfs creatures that stand against it, filling their mouths and lungs as easily as it smothers flame.
 
 ## Elementals
@@ -49,11 +64,11 @@ An elemental doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Water Elemental
-![](Mechanics/CLI/bestiary/elemental/token/water-elemental.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/water-elemental.webp#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 114 (`12d10 + 48`) 
+- **Hit Points** 114 (12d10 + 48) 
 - **Speed** 30 ft., swim 90 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -63,10 +78,10 @@ title: Water Elemental
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** acid; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** Aquan
 - **Challenge** 5
 
@@ -82,9 +97,9 @@ title: Water Elemental
 
 ***Slam.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage.
 
-***Whelm (Recharge 4-6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (`2d8 + 4`) bludgeoning damage. If it is Large or smaller, it is also [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
+***Whelm (Recharge 4-6).*** Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (`2d8 + 4`) bludgeoning damage. If it is Large or smaller, it is also [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained) and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.
 
-The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it takes 13 (`2d8 + 4`) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
+The elemental can grapple one Large creature or up to two Medium or smaller creatures at one time. At the start of each of the elemental's turns, each target [grappled](/Mechanics/CLI/conditions.md#Grappled) by it takes 13 (`2d8 + 4`) bludgeoning damage. A creature within 5 feet of the elemental can pull a creature or object out of it by taking an action to make a DC 14 Strength check and succeeding.
 ```
 
 ^statblock
@@ -92,3 +107,7 @@ The elemental can grapple one Large creature or up to two Medium or smaller crea
 ## Environment
 
 underwater, swamp, coastal
+
+## Sources
+
+_Monster Manual p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

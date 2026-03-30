@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Fount of Moonlight
-created: 2026-03-09T12:15:33.843-04:00
-modified: 2026-03-09T12:15:33.843-04:00
-published: 2026-03-09T12:15:33.843-04:00
+created: 2026-03-29T21:53:55.632-04:00
+modified: 2026-03-29T21:53:55.632-04:00
+published: 2026-03-29T21:53:55.632-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/4th-level
   - ttrpg-cli/spell/school/evocation
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Druid (Circle of the Moon)
 ---
 
 # Fount of Moonlight
@@ -30,12 +27,19 @@ _4th-level, Evocation_
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-A cool light wreathes your body for the duration, emitting [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for an additional 20 feet.
+A cool light wreathes your body for the duration, emitting [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 20-foot radius and [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 20 feet.
 
-Until the spell ends, you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Radiant damage, and your melee attacks deal an extra `2d6` Radiant damage on a hit.
+Until the spell ends, you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Radiant damage, and your melee attacks deal an extra `2d6` Radiant damage on a hit.
 
-In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition until the end of your next turn.
+In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to force the creature to make a Constitution saving throw. On a failed save, the creature has the [Blinded](/Mechanics/CLI/conditions.md#Blinded) condition until the end of your next turn.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Moon)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 277_
+- [Druid (Circle of the Moon)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 277_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Baba Yaga's Mortar and Pestle
-created: 2026-03-09T12:15:34.113-04:00
-modified: 2026-03-09T12:15:34.113-04:00
-published: 2026-03-09T12:15:34.113-04:00
+created: 2026-03-29T21:53:56.152-04:00
+modified: 2026-03-29T21:53:56.152-04:00
+published: 2026-03-29T21:53:56.152-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,15 +19,18 @@ obsidianUIMode: preview
 _Wondrous item, artifact (requires attunement)_\
 ![](Mechanics/CLI/items/img/baba-yagas-mortar-and-pestle.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 The creations of the immortal hag Baba Yaga defy the laws of mortal magic. Among the notorious implements that cement her legend on countless worlds are the artifacts that propel her through the planes: Baba Yaga's Mortar and Pestle. These signature tools of Baba Yaga are a single artifact for purposes of attunement. Should the two objects become separated, the pestle appears next to the mortar at the next dawn.
 
 ## Random Properties
 
 This artifact has the following random properties, which you can determine by rolling on the tables in the "Artifacts" section of the "Dungeon Master's Guide":
 
-- 2 [minor beneficial](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties
-- 1 [major beneficial](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property
-- 1 [minor detrimental](Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property
+- 2 [minor beneficial](/Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md) properties
+- 1 [major beneficial](/Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md) property
+- 1 [minor detrimental](/Mechanics/CLI/tables/artifact-properties-minor-detrimental-properties.md) property
 
 ## Properties of the Mortar
 
@@ -43,7 +46,7 @@ The pestle has 12 charges. When you hit with a melee attack using the pestle, yo
 
 While holding the mortar and pestle, you can use your action to say the name of any nonmagical plant, mineral, or fluid and an amount of the material worth 10 gp or less. The mortar instantly fills with the desired amount of that material. Once you use this action, you can't do so again until you finish a short or long rest.
 
-You can also use the artifact as [alchemist's supplies](Mechanics/CLI/items/alchemists-supplies-xphb.md), [brewer's supplies](Mechanics/CLI/items/brewers-supplies-xphb.md), [cook's utensils](Mechanics/CLI/items/cooks-utensils-xphb.md), an [herbalism kit](Mechanics/CLI/items/herbalism-kit-xphb.md), and a [poisoner's kit](Mechanics/CLI/items/poisoners-kit-xphb.md). You have advantage on any check you make using the artifact as one of these tools.
+You can also use the artifact as [alchemist's supplies](/Mechanics/CLI/items/alchemists-supplies-xphb.md), [brewer's supplies](/Mechanics/CLI/items/brewers-supplies-xphb.md), [cook's utensils](/Mechanics/CLI/items/cooks-utensils-xphb.md), an [herbalism kit](/Mechanics/CLI/items/herbalism-kit-xphb.md), and a [poisoner's kit](/Mechanics/CLI/items/poisoners-kit-xphb.md). You have advantage on any check you make using the artifact as one of these tools.
 
 ## Primal Parts
 
@@ -63,4 +66,6 @@ When you command the mortar to travel, you can instead throw out the dust or pas
 
 The mortar and pestle are destroyed if they are crushed underfoot by the _Dancing Hut of Baba Yaga_ or by Baba Yaga herself.
 
-_Source: Tasha's Cauldron of Everything p. 121_
+## Sources
+
+_Tasha's Cauldron of Everything p. 121_

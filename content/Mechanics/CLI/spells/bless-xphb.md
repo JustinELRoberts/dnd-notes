@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Bless
-created: 2026-03-09T12:15:33.843-04:00
-modified: 2026-03-09T12:15:33.843-04:00
-published: 2026-03-09T12:15:33.843-04:00
+created: 2026-03-29T21:53:55.633-04:00
+modified: 2026-03-29T21:53:55.633-04:00
+published: 2026-03-29T21:53:55.633-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/paladin
   - ttrpg-cli/spell/feat/fey-touched
@@ -22,15 +23,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Cleric (Life Domain)
-  - Necromancer (Pharaoh)
-  - Paladin
-  - Sorcerer (Divine Soul, Law)
-  - Witch (White Magic)
 ---
 
 # Bless
@@ -46,6 +38,23 @@ You bless up to three creatures within range. Whenever a target makes an attack 
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Life Domain)](Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Necromancer (Pharaoh)](Mechanics/CLI/lists/list-spells-classes-pharaoh-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Law)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Witch (White Magic)](Mechanics/CLI/lists/list-spells-classes-white-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric (Life Domain)](/Mechanics/CLI/lists/list-spells-classes-life-domain-xphb.md "subclass=XPHB;class=XPHB")
+- [Necromancer (Pharaoh)](/Mechanics/CLI/lists/list-spells-classes-pharaoh-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Witch (White Magic)](/Mechanics/CLI/lists/list-spells-classes-white-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer (Divine Soul, Law)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Sorcerer (Divine Soul, Law)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Magic Initiate (Cleric Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Paladin](/Mechanics/CLI/lists/list-spells-classes-paladin.md)
+- [Cleric (Life Domain)](/Mechanics/CLI/lists/list-spells-classes-life-domain.md "class=XPHB")
+- [Fey-Touched](/Mechanics/CLI/lists/list-spells-feats-fey-touched-xphb.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Life Domain)](/Mechanics/CLI/lists/list-spells-classes-life-domain.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 247. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

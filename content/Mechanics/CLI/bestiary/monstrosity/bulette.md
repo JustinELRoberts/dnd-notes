@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bulette
-created: 2026-03-09T12:15:34.042-04:00
-modified: 2026-03-09T12:15:34.042-04:00
-published: 2026-03-09T12:15:34.042-04:00
+created: 2026-03-29T21:53:56.053-04:00
+modified: 2026-03-29T21:53:56.053-04:00
+published: 2026-03-29T21:53:56.053-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bulette
+ac: 17
+hp: 94
+modifier: 0
+hit_dice: 9d10 + 45
+cr: "5"
+stats:
+  - 19
+  - 11
+  - 21
+  - 2
+  - 10
+  - 5
+source:
+  - MM
 ---
 
 # Bulette
 
-_Source: Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/bulette.webp#right)
-
 A bulette is a massive predator that terrorizes any lands it inhabits. Also called a "land shark," it lives only to feed. Irascible and rapacious, bulettes fear no other creature, and they attack with no regard for superior numbers or strength.
 
 ## Underground Hunters
@@ -47,11 +62,11 @@ Some sages believe the bulette is the result of a mad wizard's experiments at cr
 
 ```ad-statblock
 title: Bulette
-![](Mechanics/CLI/bestiary/monstrosity/token/bulette.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/bulette.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 94 (`9d10 + 45`) 
+- **Hit Points** 94 (9d10 + 45) 
 - **Speed** 40 ft., burrow 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -60,8 +75,8 @@ title: Bulette
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 16
 - **Languages** —
 - **Challenge** 5
 
@@ -73,7 +88,7 @@ title: Bulette
 
 ***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 30 (`4d12 + 4`) piercing damage.
 
-***Deadly Leap.*** If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone) and take 14 (`3d6 + 4`) bludgeoning damage plus 14 (`3d6 + 4`) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone), and is pushed 5 feet out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls [prone](Mechanics/CLI/rules/conditions.md#Prone) in the bulette's space.
+***Deadly Leap.*** If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw (target's choice) or be knocked [prone](/Mechanics/CLI/conditions.md#Prone) and take 14 (`3d6 + 4`) bludgeoning damage plus 14 (`3d6 + 4`) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked [prone](/Mechanics/CLI/conditions.md#Prone), and is pushed 5 feet out of the bulette's space into an unoccupied space of the creature's choice. If no unoccupied space is within range, the creature instead falls [prone](/Mechanics/CLI/conditions.md#Prone) in the bulette's space.
 ```
 
 ^statblock
@@ -81,3 +96,7 @@ title: Bulette
 ## Environment
 
 mountain, grassland, hill
+
+## Sources
+
+_Monster Manual p. 34. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

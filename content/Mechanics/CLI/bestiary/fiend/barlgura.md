@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Barlgura
-created: 2026-03-09T12:15:34.040-04:00
-modified: 2026-03-09T12:15:34.040-04:00
-published: 2026-03-09T12:15:34.040-04:00
+created: 2026-03-29T21:53:56.049-04:00
+modified: 2026-03-29T21:53:56.049-04:00
+published: 2026-03-29T21:53:56.049-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Barlgura
+ac: 15
+hp: 68
+modifier: 2
+hit_dice: 8d10 + 24
+cr: "5"
+stats:
+  - 18
+  - 15
+  - 16
+  - 7
+  - 14
+  - 9
+source:
+  - MM
 ---
 
 # Barlgura
 
-_Source: Monster Manual p. 56_\
 ![](Mechanics/CLI/bestiary/fiend/img/barlgura.webp#right)
-
 The barlgura represents the savagery and brutality of the Abyss. Barlguras gather in packs to take down tougher foes, keep gruesome trophies from their victories, and decorate their territory with such objects.
 
 A barlgura looks like a hulking orangutan with a gruesome, drooping visage and tusks jutting from its jaw. Standing just under 8 feet tall, it has broad shoulders and weighs 650 pounds. It moves apishly along the ground, but it climbs with great speed and agility.
@@ -164,7 +179,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -194,11 +209,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Barlgura
-![](Mechanics/CLI/bestiary/fiend/token/barlgura.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/barlgura.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 68 (`8d10 + 24`) 
+- **Hit Points** 68 (8d10 + 24) 
 - **Speed** 40 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -207,11 +222,11 @@ title: Barlgura
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Constitution +6
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 15
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 5
 
@@ -219,9 +234,9 @@ title: Barlgura
 
 ***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 
-**2/day each:** [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only)
+**2/day each:** [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only)
 
-**1/day each:** [entangle](Mechanics/CLI/spells/entangle-xphb.md), [phantasmal force](Mechanics/CLI/spells/phantasmal-force-xphb.md)
+**1/day each:** [entangle](/Mechanics/CLI/spells/entangle-xphb.md), [phantasmal force](/Mechanics/CLI/spells/phantasmal-force-xphb.md)
 
 ***Reckless.*** At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 
@@ -237,3 +252,7 @@ title: Barlgura
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 56_

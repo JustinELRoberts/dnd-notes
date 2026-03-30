@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Hyena
-created: 2026-03-09T12:15:34.097-04:00
-modified: 2026-03-09T12:15:34.097-04:00
-published: 2026-03-09T12:15:34.097-04:00
+created: 2026-03-29T21:53:56.129-04:00
+modified: 2026-03-29T21:53:56.129-04:00
+published: 2026-03-29T21:53:56.129-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -17,19 +17,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Hyena
+ac: 12
+hp: 45
+modifier: 2
+hit_dice: 6d10 + 12
+cr: "1"
+stats:
+  - 16
+  - 14
+  - 14
+  - 2
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Giant Hyena
 
-_Source: Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Giant Hyena
-![](Mechanics/CLI/bestiary/beast/token/giant-hyena.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-hyena.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 45 (`6d10 + 12`) 
+- **Hit Points** 45 (6d10 + 12) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,7 +53,7 @@ title: Giant Hyena
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 1
@@ -57,3 +72,7 @@ title: Giant Hyena
 ## Environment
 
 grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 326. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

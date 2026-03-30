@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Death Kiss
-created: 2026-03-09T12:15:33.793-04:00
-modified: 2026-03-09T12:15:33.793-04:00
-published: 2026-03-09T12:15:33.793-04:00
+created: 2026-03-29T21:53:55.575-04:00
+modified: 2026-03-29T21:53:55.575-04:00
+published: 2026-03-29T21:53:55.575-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/10
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Death Kiss (MPMM)
+ac: 15
+hp: 142
+modifier: 2
+hit_dice: 15d10 + 60
+cr: "10"
+stats:
+  - 18
+  - 14
+  - 18
+  - 10
+  - 12
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Death Kiss
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124_\
 ![](Mechanics/CLI/bestiary/aberration/img/death-kiss.webp#right)
-
 A death kiss is a lesser beholder that can come into being when a true beholder has a vivid nightmare about losing blood. Its coloration and shape resemble those of the beholder that dreamed it into existence, but its hue is more muted, and instead of magical eye rays, it has ten long tentacles, each ending in a mouth full of teeth. It can speak through any of its tentacle-maws in a high-pitched, nasal voice.
 
 Death kisses fear true beholders, which can easily kill or subdue them. Lacking the egotism of their stronger kin, a death kiss usually submits to the rule of its creator or any other beholder it encounters, but it tries to escape as soon as the beholder is preoccupied.
@@ -31,11 +47,11 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 
 ```ad-statblock
 title: Death Kiss
-![](Mechanics/CLI/bestiary/aberration/token/death-kiss-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/death-kiss-mpmm.webp#token)
 *Large aberration (beholder), Typically  Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 142 (`15d10 + 60`) 
+- **Hit Points** 142 (15d10 + 60) 
 - **Speed** 0 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,10 +60,10 @@ title: Death Kiss
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +8, Wisdom +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 15
 - **Damage Immunities** lightning
-- **Condition Immunities** [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 10
 
@@ -59,9 +75,9 @@ title: Death Kiss
 
 ***Multiattack.*** The death kiss makes three Tentacle attacks. Up to three of these attacks can be replaced by Blood Drain—one replacement per tentacle grappling a creature.
 
-***Tentacle.*** *Melee Weapon Attack:* `+8` to hit, reach 20 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
+***Tentacle.*** *Melee Weapon Attack:* `+8` to hit, reach 20 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14) if it is a Huge or smaller creature. Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the death kiss can't use the same tentacle on another target. The death kiss has ten tentacles.
 
-***Blood Drain.*** One creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (`4d10`) lightning damage, and the death kiss regains half as many hit points.
+***Blood Drain.*** One creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by a tentacle of the death kiss must make a DC 16 Constitution saving throw. On a failed save, the target takes 22 (`4d10`) lightning damage, and the death kiss regains half as many hit points.
 ```
 
 ^statblock
@@ -69,3 +85,7 @@ title: Death Kiss
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 85, Volo's Guide to Monsters p. 124_

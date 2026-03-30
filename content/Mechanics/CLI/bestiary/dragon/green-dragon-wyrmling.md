@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Green Dragon Wyrmling
-created: 2026-03-09T12:15:34.099-04:00
-modified: 2026-03-09T12:15:34.099-04:00
-published: 2026-03-09T12:15:34.099-04:00
+created: 2026-03-29T21:53:56.132-04:00
+modified: 2026-03-29T21:53:56.132-04:00
+published: 2026-03-29T21:53:56.132-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Green Dragon Wyrmling
+ac: 17
+hp: 38
+modifier: 1
+hit_dice: 7d8 + 7
+cr: "2"
+stats:
+  - 15
+  - 12
+  - 13
+  - 14
+  - 11
+  - 13
+source:
+  - MM
 ---
 
 # Green Dragon Wyrmling
 
-_Source: Monster Manual p. 95. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/green-dragon-wyrmling.webp#right)
-
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 
 A green dragon is recognized by its curved jawline and the crest that begins near its eyes and continues down its spine, reaching full height just behind the skull. A green dragon has no external ears, but bears leathery spiked plates that run down the sides of its neck.
@@ -114,11 +129,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Green Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/green-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/green-dragon-wyrmling.webp#token)
 *Medium dragon, Lawful Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 38 (`7d8 + 7`) 
+- **Hit Points** 38 (7d8 + 7) 
 - **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -127,10 +142,10 @@ title: Green Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +3, Constitution +3, Wisdom +2, Charisma +3
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Draconic
 - **Challenge** 2
 
@@ -146,3 +161,7 @@ title: Green Dragon Wyrmling
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 95. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

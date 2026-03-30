@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lonely Sorrowsworn
-created: 2026-03-09T12:15:34.008-04:00
-modified: 2026-03-09T12:15:34.008-04:00
-published: 2026-03-09T12:15:34.008-04:00
+created: 2026-03-29T21:53:56.014-04:00
+modified: 2026-03-29T21:53:56.014-04:00
+published: 2026-03-29T21:53:56.014-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Lonely Sorrowsworn (MPMM)
+ac: 16
+hp: 112
+modifier: 1
+hit_dice: 15d8 + 45
+cr: "9"
+stats:
+  - 16
+  - 12
+  - 17
+  - 6
+  - 11
+  - 6
+source:
+  - MPMM
 ---
 
 # Lonely Sorrowsworn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 223_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/lonely-sorrowsworn.webp#right)
-
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
 
 ## Sorrowsworn
@@ -35,11 +50,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Lonely Sorrowsworn
-![](Mechanics/CLI/bestiary/monstrosity/token/lonely-sorrowsworn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/lonely-sorrowsworn-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 112 (`15d8 + 45`) 
+- **Hit Points** 112 (15d8 + 45) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,7 +64,7 @@ title: Lonely Sorrowsworn
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing while in dim light or darkness
 - **Languages** Common
 - **Challenge** 9
@@ -64,9 +79,9 @@ title: Lonely Sorrowsworn
 
 ***Multiattack.*** The sorrowsworn makes one Harpoon Arm attack, and it uses Sorrowful Embrace.
 
-***Harpoon Arm.*** *Melee Weapon Attack:* `+7` to hit, reach 60 ft., one target. *Hit:* 21 (`4d8 + 3`) piercing damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple up to two creatures at once.
+***Harpoon Arm.*** *Melee Weapon Attack:* `+7` to hit, reach 60 ft., one target. *Hit:* 21 (`4d8 + 3`) piercing damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15) if it is a Large or smaller creature. The sorrowsworn has two harpoon arms and can grapple up to two creatures at once.
 
-***Sorrowful Embrace.*** Each creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (`4d8`) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it.
+***Sorrowful Embrace.*** Each creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by the sorrowsworn must make a DC 15 Wisdom saving throw, taking 18 (`4d8`) psychic damage on a failed save, or half as much damage on a successful one. In either case, the sorrowsworn pulls each of those creatures up to 30 feet straight toward it.
 ```
 
 ^statblock
@@ -74,3 +89,7 @@ title: Lonely Sorrowsworn
 ## Environment
 
 coastal, desert, mountain, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 223_

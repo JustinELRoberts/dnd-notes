@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Choldrith
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.096-04:00
-published: 2026-03-09T12:15:34.096-04:00
+created: 2026-03-29T21:53:56.127-04:00
+modified: 2026-03-29T21:53:56.127-04:00
+published: 2026-03-29T21:53:56.127-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Choldrith (MPMM)
+ac: 15
+hp: 66
+modifier: 3
+hit_dice: 12d8 + 12
+cr: "3"
+stats:
+  - 12
+  - 16
+  - 12
+  - 11
+  - 14
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Choldrith
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/choldrith.webp#right)
-
 Choldriths are monstrous spiderlike creatures originally created to serve Lolth. They rule colonies of chitines (in this book) and lead them into battle in Lolth's war against her enemies.
 
 When devotees of Lolth created the first chitines, she watched as her followers used arcane magic and demonic powers and invoked her aid for the divine spark needed to ensure the subjects' survival, expecting to see these new abominations dedicated solely to her, but the devotees performed no such ritual. As revenge for the devotees' betrayal, the Spider Queen manipulated the creation rituals so that they sometimes created choldriths instead of chitines.
@@ -31,11 +47,11 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 
 ```ad-statblock
 title: Choldrith
-![](Mechanics/CLI/bestiary/monstrosity/token/choldrith-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/choldrith-mpmm.webp#token)
 *Medium monstrosity (cleric), Typically  Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 66 (`12d8 + 12`) 
+- **Hit Points** 66 (12d8 + 12) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,19 +60,18 @@ title: Choldrith
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5, [Religion](Mechanics/CLI/rules/skills.md#Religion) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +5, [Religion](/Mechanics/CLI/skills.md#Religion) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** Undercommon
 - **Challenge** 3
 
 ## Traits
 
-***Fey Ancestry.*** The choldrith has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put the choldrith to sleep.
+***Fey Ancestry.*** The choldrith has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put the choldrith to sleep.
 
 ***Spider Climb.*** The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Sunlight Sensitivity.*** While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the choldrith has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ***Web Sense.*** While in contact with a web, the choldrith knows the exact location of any other creature in contact with the same web.
 
@@ -66,13 +81,13 @@ title: Choldrith
 
 ***Dagger.*** *Melee  or Ranged Weapon Attack:* `+5` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage plus 10 (`3d6`) poison damage.
 
-***Web (Recharge 5-6).*** *Ranged Weapon Attack:* `+5` to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by webbing. As an action, the [restrained](Mechanics/CLI/rules/conditions.md#Restrained) target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+***Web (Recharge 5-6).*** *Ranged Weapon Attack:* `+5` to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The target is [restrained](/Mechanics/CLI/conditions.md#Restrained) by webbing. As an action, the [restrained](/Mechanics/CLI/conditions.md#Restrained) target can make a DC 11 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; 5 hit points; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
 ***Spellcasting.*** The choldrith casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 
-**At will:** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**At will:** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1/day each:** [bane](Mechanics/CLI/spells/bane-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md)
+**1/day each:** [bane](/Mechanics/CLI/spells/bane-xphb.md), [hold person](/Mechanics/CLI/spells/hold-person-xphb.md)
 
 ## Bonus Actions
 
@@ -86,3 +101,7 @@ The dagger lasts for 1 minute. As a bonus action on later turns, the choldrith c
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 77, Volo's Guide to Monsters p. 132_

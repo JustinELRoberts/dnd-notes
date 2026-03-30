@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gnoll Hunter
-created: 2026-03-09T12:15:34.090-04:00
-modified: 2026-03-09T12:15:34.090-04:00
-published: 2026-03-09T12:15:34.090-04:00
+created: 2026-03-29T21:53:56.120-04:00
+modified: 2026-03-29T21:53:56.120-04:00
+published: 2026-03-29T21:53:56.120-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -17,11 +17,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gnoll Hunter (MPMM)
+ac: 13
+hp: 22
+modifier: 2
+hit_dice: 4d8 + 4
+cr: 1/2
+stats:
+  - 14
+  - 14
+  - 12
+  - 8
+  - 12
+  - 8
+source:
+  - MPMM
+  - VGM
 ---
 
 # Gnoll Hunter
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154_
 
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
 
@@ -35,11 +51,11 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 
 ```ad-statblock
 title: Gnoll Hunter
-![](Mechanics/CLI/bestiary/monstrosity/token/gnoll-hunter-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/gnoll-hunter-mpmm.webp#token)
 *Medium monstrosity, Typically  Chaotic Evil*
 
-- **Armor Class** 13 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Armor Class** 13 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,9 +64,8 @@ title: Gnoll Hunter
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [spear](Mechanics/CLI/items/spear-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** Gnoll
 - **Challenge** 1/2
 
@@ -74,3 +89,7 @@ title: Gnoll Hunter
 ## Environment
 
 arctic, forest, grassland, hill
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154_

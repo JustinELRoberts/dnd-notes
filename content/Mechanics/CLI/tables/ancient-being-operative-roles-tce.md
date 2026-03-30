@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ancient Being Operative Roles
-created: 2026-03-09T12:15:34.409-04:00
-modified: 2026-03-09T12:15:34.409-04:00
-published: 2026-03-09T12:15:34.409-04:00
+created: 2026-03-29T21:53:56.505-04:00
+modified: 2026-03-29T21:53:56.505-04:00
+published: 2026-03-29T21:53:56.505-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
 cssclasses:
@@ -20,10 +20,10 @@ _Source: Tasha's Cauldron of Everything p. 88_
 
 | Role | Backgrounds |
 |------|-------------|
-| Devotee | [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md), [Hermit](Mechanics/CLI/backgrounds/hermit-xphb.md), [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), Outlander, [Sage](Mechanics/CLI/backgrounds/sage-xphb.md) |
-| Infiltrator | [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md), [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), [Hermit](Mechanics/CLI/backgrounds/hermit-xphb.md), [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md), Urchin |
-| Mouthpiece | [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md), [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md), Folk Hero, [Hermit](Mechanics/CLI/backgrounds/hermit-xphb.md), [Sage](Mechanics/CLI/backgrounds/sage-xphb.md) |
-| Pupil | [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md), [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md), Folk Hero, Guild Artisan, [Sage](Mechanics/CLI/backgrounds/sage-xphb.md) |
-| Guardian | [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md), Folk Hero, [Hermit](Mechanics/CLI/backgrounds/hermit-xphb.md), Outlander, [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md) |
+| Devotee | [Acolyte](/Mechanics/CLI/backgrounds/acolyte.md), [Hermit](/Mechanics/CLI/backgrounds/hermit.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Outlander](/Mechanics/CLI/backgrounds/outlander.md), [Sage](/Mechanics/CLI/backgrounds/sage.md) |
+| Infiltrator | [Charlatan](/Mechanics/CLI/backgrounds/charlatan.md), [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Hermit](/Mechanics/CLI/backgrounds/hermit.md), [Soldier](/Mechanics/CLI/backgrounds/soldier.md), [Urchin](/Mechanics/CLI/backgrounds/urchin.md) |
+| Mouthpiece | [Charlatan](/Mechanics/CLI/backgrounds/charlatan.md), [Entertainer](/Mechanics/CLI/backgrounds/entertainer.md), [Folk Hero](/Mechanics/CLI/backgrounds/folk-hero.md), [Hermit](/Mechanics/CLI/backgrounds/hermit.md), [Sage](/Mechanics/CLI/backgrounds/sage.md) |
+| Pupil | [Acolyte](/Mechanics/CLI/backgrounds/acolyte.md), [Entertainer](/Mechanics/CLI/backgrounds/entertainer.md), [Folk Hero](/Mechanics/CLI/backgrounds/folk-hero.md), [Guild Artisan](/Mechanics/CLI/backgrounds/guild-artisan.md), [Sage](/Mechanics/CLI/backgrounds/sage.md) |
+| Guardian | [Acolyte](/Mechanics/CLI/backgrounds/acolyte.md), [Folk Hero](/Mechanics/CLI/backgrounds/folk-hero.md), [Hermit](/Mechanics/CLI/backgrounds/hermit.md), [Outlander](/Mechanics/CLI/backgrounds/outlander.md), [Soldier](/Mechanics/CLI/backgrounds/soldier.md) |
 | Offspring | Any |
 ^ancient-being-operative-roles

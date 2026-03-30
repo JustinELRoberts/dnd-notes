@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Couatl
-created: 2026-03-09T12:15:33.998-04:00
-modified: 2026-03-09T12:15:33.998-04:00
-published: 2026-03-09T12:15:33.998-04:00
+created: 2026-03-29T21:53:56.008-04:00
+modified: 2026-03-29T21:53:56.009-04:00
+published: 2026-03-29T21:53:56.009-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Couatl
+ac: 19
+hp: 97
+modifier: 5
+hit_dice: 13d8 + 39
+cr: "4"
+stats:
+  - 16
+  - 20
+  - 17
+  - 18
+  - 20
+  - 18
+source:
+  - MM
 ---
 
 # Couatl
 
-_Source: Monster Manual p. 43. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/couatl.webp#right)
-
 Couatls are benevolent serpentine beings of great intellect and insight. Their brilliantly colored wings and gentle manner speak to their celestial origins.
 
 ## Divine Caretakers
@@ -46,11 +61,11 @@ The mating ritual of couatls is a beautiful and elaborate dance of magic and lig
 
 ```ad-statblock
 title: Couatl
-![](Mechanics/CLI/bestiary/celestial/token/couatl.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/couatl.webp#token)
 *Medium celestial, Lawful Good*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 97 (`13d8 + 39`) 
+- **Hit Points** 97 (13d8 + 39) 
 - **Speed** 30 ft., fly 90 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -60,7 +75,7 @@ title: Couatl
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +5, Wisdom +7, Charisma +6
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 15
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 15
 - **Damage Resistances** radiant
 - **Damage Immunities** psychic; bludgeoning, piercing, slashing from nonmagical attacks
 - **Languages** all, telepathy 120 ft.
@@ -70,11 +85,11 @@ title: Couatl
 
 ***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
-**At will:** [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md)
+**At will:** [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md)
 
-**3/day each:** [bless](Mechanics/CLI/spells/bless-xphb.md), [create food and water](Mechanics/CLI/spells/create-food-and-water-xphb.md), [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [protection from poison](Mechanics/CLI/spells/protection-from-poison-xphb.md), [sanctuary](Mechanics/CLI/spells/sanctuary-xphb.md), [shield](Mechanics/CLI/spells/shield-xphb.md)
+**3/day each:** [bless](/Mechanics/CLI/spells/bless-xphb.md), [create food and water](/Mechanics/CLI/spells/create-food-and-water-xphb.md), [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [protection from poison](/Mechanics/CLI/spells/protection-from-poison-xphb.md), [sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md), [shield](/Mechanics/CLI/spells/shield-xphb.md)
 
-**1/day each:** [dream](Mechanics/CLI/spells/dream-xphb.md), [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md), [scrying](Mechanics/CLI/spells/scrying-xphb.md)
+**1/day each:** [dream](/Mechanics/CLI/spells/dream-xphb.md), [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md), [scrying](/Mechanics/CLI/spells/scrying-xphb.md)
 
 ***Magic Weapons.*** The couatl's weapon attacks are magical.
 
@@ -82,9 +97,9 @@ title: Couatl
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one creature. *Hit:* 8 (`1d6 + 5`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 24 hours. Until this poison ends, the target is [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious). Another creature can use an action to shake the target awake.
+***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one creature. *Hit:* 8 (`1d6 + 5`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 24 hours. Until this poison ends, the target is [unconscious](/Mechanics/CLI/conditions.md#Unconscious). Another creature can use an action to shake the target awake.
 
-***Constrict.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the couatl can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one Medium or smaller creature. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the couatl can't constrict another target.
 
 ***Change Shape.*** The couatl magically polymorphs into a humanoid or beast that has a challenge rating equal to or less than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the couatl's choice).
 
@@ -96,3 +111,7 @@ In a new form, the couatl retains its game statistics and ability to speak, but 
 ## Environment
 
 grassland, forest, urban, desert
+
+## Sources
+
+_Monster Manual p. 43. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Leomund's Secret Chest
-created: 2026-03-09T12:15:33.946-04:00
-modified: 2026-03-09T12:15:33.946-04:00
-published: 2026-03-09T12:15:33.946-04:00
+created: 2026-03-29T21:53:55.948-04:00
+modified: 2026-03-29T21:53:55.948-04:00
+published: 2026-03-29T21:53:55.948-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/artificer
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/mark-of-warding
   - ttrpg-cli/spell/level/4th-level
@@ -19,13 +20,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Leomund's Secret Chest
@@ -39,10 +33,23 @@ _4th-level, Conjuration_
 
 You hide a chest and all its contents on the Ethereal Plane. You must touch the chest and the miniature replica that serve as Material components for the spell. The chest can contain up to 12 cubic feet of nonliving material (3 feet by 2 feet by 2 feet).
 
-While the chest remains on the Ethereal Plane, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by taking a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to touch the chest and the replica.
+While the chest remains on the Ethereal Plane, you can take a [Magic](/Mechanics/CLI/actions.md#Magic) action and touch the replica to recall the chest. It appears in an unoccupied space on the ground within 5 feet of you. You can send the chest back to the Ethereal Plane by taking a [Magic](/Mechanics/CLI/actions.md#Magic) action to touch the chest and the replica.
 
 After 60 days, there is a cumulative  chance at the end of each day that the spell ends. The spell also ends if you cast this spell again or if the Tiny replica chest is destroyed. If the spell ends and the larger chest is on the Ethereal Plane, the chest remains there for you or someone else to find.
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Secret Chest") and the Free Rules (2024)_
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Mark of Warding](/Mechanics/CLI/lists/list-spells-feats-mark-of-warding-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Secret Chest") and the Free Rules (2024)_

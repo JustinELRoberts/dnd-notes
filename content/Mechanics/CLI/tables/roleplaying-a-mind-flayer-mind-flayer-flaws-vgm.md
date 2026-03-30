@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Roleplaying a Mind Flayer; Mind Flayer Flaws
-created: 2026-03-09T12:15:34.373-04:00
-modified: 2026-03-09T12:15:34.373-04:00
-published: 2026-03-09T12:15:34.373-04:00
+created: 2026-03-29T21:53:56.469-04:00
+modified: 2026-03-29T21:53:56.469-04:00
+published: 2026-03-29T21:53:56.469-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
 cssclasses:

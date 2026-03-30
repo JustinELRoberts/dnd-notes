@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Vial
-created: 2026-03-09T12:15:33.983-04:00
-modified: 2026-03-09T12:15:33.984-04:00
-published: 2026-03-09T12:15:33.984-04:00
+created: 2026-03-29T21:53:55.989-04:00
+modified: 2026-03-29T21:53:55.989-04:00
+published: 2026-03-29T21:53:55.989-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/
@@ -19,7 +19,10 @@ obsidianUIMode: preview
 _Adventuring gear_
 
 - **Cost**: 1 gp
+- **Weight**: ⏤
 
 A Vial holds up to 4 ounces.
 
-_Source: Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

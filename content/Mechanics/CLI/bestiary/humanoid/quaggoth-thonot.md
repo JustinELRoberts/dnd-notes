@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Quaggoth Thonot
-created: 2026-03-09T12:15:33.952-04:00
-modified: 2026-03-09T12:15:33.952-04:00
-published: 2026-03-09T12:15:33.952-04:00
+created: 2026-03-29T21:53:55.954-04:00
+modified: 2026-03-29T21:53:55.954-04:00
+published: 2026-03-29T21:53:55.954-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Quaggoth Thonot
+ac: 13
+hp: 45
+modifier: 1
+hit_dice: 6d8 + 18
+cr: "3"
+stats:
+  - 17
+  - 12
+  - 16
+  - 6
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Quaggoth Thonot
 
-_Source: Monster Manual p. 256_\
 ![](Mechanics/CLI/bestiary/humanoid/img/quaggoth.webp#right)
-
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
 
 ## Quaggoth Origins
@@ -47,11 +62,11 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 
 ```ad-statblock
 title: Quaggoth Thonot
-![](Mechanics/CLI/bestiary/humanoid/token/quaggoth-thonot.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/quaggoth-thonot.webp#token)
 *Medium humanoid (quaggoth), Chaotic Neutral*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -60,10 +75,10 @@ title: Quaggoth Thonot
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Undercommon
 - **Challenge** 3
 
@@ -71,9 +86,9 @@ title: Quaggoth Thonot
 
 ***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11). The quaggoth can innately cast the following spells, requiring no components:
 
-**At will:** [feather fall](Mechanics/CLI/spells/feather-fall-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
+**At will:** [feather fall](/Mechanics/CLI/spells/feather-fall-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
 
-**1/day each:** [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [enlarge/reduce](Mechanics/CLI/spells/enlarge-reduce-xphb.md), [heat metal](Mechanics/CLI/spells/heat-metal-xphb.md), [mirror image](Mechanics/CLI/spells/mirror-image-xphb.md)
+**1/day each:** [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [enlarge/reduce](/Mechanics/CLI/spells/enlarge-reduce-xphb.md), [heat metal](/Mechanics/CLI/spells/heat-metal-xphb.md), [mirror image](/Mechanics/CLI/spells/mirror-image-xphb.md)
 
 ***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (`2d6`) damage to any target it hits with a melee attack.
 
@@ -89,3 +104,7 @@ title: Quaggoth Thonot
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 256_

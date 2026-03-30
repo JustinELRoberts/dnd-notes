@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ochre Jelly
-created: 2026-03-09T12:15:33.775-04:00
-modified: 2026-03-09T12:15:33.775-04:00
-published: 2026-03-09T12:15:33.775-04:00
+created: 2026-03-29T21:53:55.557-04:00
+modified: 2026-03-29T21:53:55.557-04:00
+published: 2026-03-29T21:53:55.557-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ochre Jelly
+ac: 8
+hp: 45
+modifier: -2
+hit_dice: 6d10 + 12
+cr: "2"
+stats:
+  - 15
+  - 6
+  - 14
+  - 2
+  - 6
+  - 1
+source:
+  - MM
 ---
 
 # Ochre Jelly
 
-_Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp#right)
-
 Ochre jellies are yellowish blobs that can slide under doors and through narrow cracks in pursuit of creatures to devour. They have enough bestial cunning to avoid large groups of enemies.
 
 An ochre jelly follows at a safe distance as it pursues its meal. Its digestive enzymes dissolve flesh quickly but have no effect on other substances such as bone, wood, and metal.
@@ -55,11 +70,11 @@ An ooze doesn't require sleep.
 
 ```ad-statblock
 title: Ochre Jelly
-![](Mechanics/CLI/bestiary/ooze/token/ochre-jelly.webp#token)
+![](/Mechanics/CLI/bestiary/ooze/token/ochre-jelly.webp#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 8 
-- **Hit Points** 45 (`6d10 + 12`) 
+- **Hit Points** 45 (6d10 + 12) 
 - **Speed** 10 ft., climb 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -69,10 +84,10 @@ title: Ochre Jelly
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
 - **Damage Resistances** acid
 - **Damage Immunities** lightning, slashing
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 2
 
@@ -96,3 +111,7 @@ title: Ochre Jelly
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

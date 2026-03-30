@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stegosaurus
-created: 2026-03-09T12:15:33.938-04:00
-modified: 2026-03-09T12:15:33.938-04:00
-published: 2026-03-09T12:15:33.938-04:00
+created: 2026-03-29T21:53:55.939-04:00
+modified: 2026-03-29T21:53:55.939-04:00
+published: 2026-03-29T21:53:55.939-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -15,22 +15,38 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Stegosaurus (MPMM)
+ac: 13
+hp: 76
+modifier: -1
+hit_dice: 8d12 + 24
+cr: "4"
+stats:
+  - 20
+  - 9
+  - 17
+  - 2
+  - 11
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Stegosaurus
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_\
 ![](Mechanics/CLI/bestiary/beast/img/stegosaurus.webp#right)
-
 This heavily built dinosaur has rows of plates on its back and a flexible, spiked tail held high to strike predators. It tends to travel in herds of mixed ages.
 
 ```ad-statblock
 title: Stegosaurus
-![](Mechanics/CLI/bestiary/beast/token/stegosaurus-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/stegosaurus-mpmm.webp#token)
 *Huge beast (dinosaur), Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 76 (`8d12 + 24`) 
+- **Hit Points** 76 (8d12 + 24) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,3 +70,7 @@ title: Stegosaurus
 ## Environment
 
 forest, grassland
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_

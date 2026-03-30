@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hydra
-created: 2026-03-09T12:15:34.008-04:00
-modified: 2026-03-09T12:15:34.008-04:00
-published: 2026-03-09T12:15:34.008-04:00
+created: 2026-03-29T21:53:56.014-04:00
+modified: 2026-03-29T21:53:56.014-04:00
+published: 2026-03-29T21:53:56.014-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hydra
+ac: 15
+hp: 172
+modifier: 1
+hit_dice: 15d12 + 75
+cr: "8"
+stats:
+  - 20
+  - 12
+  - 20
+  - 2
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Hydra
 
-_Source: Monster Manual p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/hydra.webp#right)
-
 The hydra is a reptilian horror with a crocodilian body and multiple heads on long, serpentine necks. Although its heads can be severed, the hydra magically regrows them in short order. A typical specimen has five heads. At the dawn of time, Tiamat, the Queen of Evil Dragons, slew a rival dragon god named Lernaea and cast her blood across the multiverse. Each drop that fell upon a world spawned a multi-headed hydra consumed by a hunger as great as the fallen god's hatred. Great champions are known to test their mettle against these fearsome creatures.
 
 ## Everlasting Hunger
@@ -35,11 +50,11 @@ Hydras are natural swimmers, dwelling in rivers, along lakeshores, in ocean shal
 
 ```ad-statblock
 title: Hydra
-![](Mechanics/CLI/bestiary/monstrosity/token/hydra.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/hydra.webp#token)
 *Huge monstrosity, Unaligned*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 172 (`15d12 + 75`) 
+- **Hit Points** 172 (15d12 + 75) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,8 +63,8 @@ title: Hydra
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 16
 - **Languages** —
 - **Challenge** 8
 
@@ -57,7 +72,7 @@ title: Hydra
 
 ***Hold Breath.*** The hydra can hold its breath for 1 hour.
 
-***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), and knocked [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious).
+***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has advantage on saving throws against being [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened), [stunned](/Mechanics/CLI/conditions.md#Stunned), and knocked [unconscious](/Mechanics/CLI/conditions.md#Unconscious).
 
 Whenever the hydra takes 25 or more damage in a single turn, one of its heads dies. If all its heads die, the hydra dies.
 
@@ -79,3 +94,7 @@ At the end of its turn, it grows two heads for each of its heads that died since
 ## Environment
 
 swamp
+
+## Sources
+
+_Monster Manual p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

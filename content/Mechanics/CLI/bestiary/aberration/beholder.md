@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Beholder
-created: 2026-03-09T12:15:33.986-04:00
-modified: 2026-03-09T12:15:33.986-04:00
-published: 2026-03-09T12:15:33.986-04:00
+created: 2026-03-29T21:53:55.991-04:00
+modified: 2026-03-29T21:53:55.991-04:00
+published: 2026-03-29T21:53:55.991-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/13
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Beholder
+ac: 18
+hp: 180
+modifier: 2
+hit_dice: 19d10 + 76
+cr: "13"
+stats:
+  - 10
+  - 14
+  - 18
+  - 17
+  - 15
+  - 17
+source:
+  - MM
 ---
 
 # Beholder
 
-_Source: Monster Manual p. 28_\
 ![](Mechanics/CLI/bestiary/aberration/img/beholder.webp#right)
-
 One glance at a beholder is enough to assess its foul and otherworldly nature. Aggressive, hateful, and greedy, these aberrations dismiss all other creatures as lesser beings, toying with them or destroying them as they choose.
 
 A beholder's spheroid body levitates at all times, and its great bulging eye sits above a wide, toothy maw, while the smaller eyestalks that crown its body twist and turn to keep its foes in sight. When a beholder sleeps, it closes its central eye but leaves its smaller eyes open and alert.
@@ -39,7 +54,7 @@ Some beholders manage to channel their xenophobic tendencies into a terrible des
 
 Because they refuse to share territory with others, most beholders withdraw to frigid hills, abandoned ruins, and deep caverns to scheme. A beholder's lair is carved out by its disintegration eye ray, emphasizing vertical passages connecting chambers stacked on top of each other. Such an environment allows a beholder to move freely, even as it prevents intruders from easily creeping about. When intruders do break in, the height of its open ceilings allows a beholder to float up and harry foes on the floor.
 
-As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](Mechanics/CLI/rules/conditions.md#Petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
+As alien as their creator, the rooms in a beholder's lair reflect the creature's arrogance. It festoons its chambers with trophies from the battles it has won, including [petrified](/Mechanics/CLI/conditions.md#Petrified) adventurers standing frozen in their horrified final moments, pieces of other beholders, and magic items wrested from powerful foes. A beholder judges its own worth by its acquisitions, and it never willingly parts with its treasures.
 
 > [!quote] A quote from Valkara Ironfeel, dwarf sage
 >
@@ -53,11 +68,11 @@ A beholder's central lair is typically a large, spacious cavern with high ceilin
 
 ```ad-statblock
 title: Beholder
-![](Mechanics/CLI/bestiary/aberration/token/beholder.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/beholder.webp#token)
 *Large aberration, Lawful Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 180 (`19d10 + 76`) 
+- **Hit Points** 180 (19d10 + 76) 
 - **Speed** 0 ft., fly 20 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,15 +81,15 @@ title: Beholder
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Intelligence +8, Wisdom +7, Charisma +8
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +12
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 22
-- **Condition Immunities** [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 22
+- **Condition Immunities** [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Deep Speech, Undercommon
 - **Challenge** 13
 
 ## Traits
 
-***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the [antimagic field](Mechanics/CLI/spells/antimagic-field-xphb.md) spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
+***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the [antimagic field](/Mechanics/CLI/spells/antimagic-field-xphb.md) spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 
 ## Actions
 
@@ -82,16 +97,16 @@ title: Beholder
 
 ***Eye Rays.*** The beholder shoots three of the following magical eye rays at random (reroll duplicates), choosing one to three targets it can see within 120 feet of it:
 
-- **1. Charm Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the beholder for 1 hour, or until the beholder harms the creature.  
-- **2. Paralyzing Ray.** The targeted creature must succeed on a DC 16 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **3. Fear Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **1. Charm Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [charmed](/Mechanics/CLI/conditions.md#Charmed) by the beholder for 1 hour, or until the beholder harms the creature.  
+- **2. Paralyzing Ray.** The targeted creature must succeed on a DC 16 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **3. Fear Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **4. Slowing Ray.** The targeted creature must succeed on a DC 16 Dexterity saving throw. On a failed save, the target's speed is halved for 1 minute. In addition, the creature can't take reactions, and it can take either an action or a bonus action on its turn, not both. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **5. Enervation Ray.** The targeted creature must make a DC 16 Constitution saving throw, taking 36 (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one.  
-- **6. Telekinetic Ray.** If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).  
+- **6. Telekinetic Ray.** If the target is a creature, it must succeed on a DC 16 Strength saving throw or the beholder moves it up to 30 feet in any direction. It is [restrained](/Mechanics/CLI/conditions.md#Restrained) by the ray's telekinetic grip until the start of the beholder's next turn or until the beholder is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).  
 
     If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is moved up to 30 feet in any direction. The beholder can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.  
-- **7. Sleep Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.  
-- **8. Petrification Ray.** The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](Mechanics/CLI/rules/conditions.md#Petrified) until freed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.  
+- **7. Sleep Ray.** The targeted creature must succeed on a DC 16 Wisdom saving throw or fall asleep and remain [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.  
+- **8. Petrification Ray.** The targeted creature must make a DC 16 Dexterity saving throw. On a failed save, the creature begins to turn to stone and is [restrained](/Mechanics/CLI/conditions.md#Restrained). It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is [petrified](/Mechanics/CLI/conditions.md#Petrified) until freed by the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.  
 - **9. Disintegration Ray.** If the target is a creature, it must succeed on a DC 16 Dexterity saving throw or take 45 (`10d8`) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.  
 
     If the target is a Large or smaller nonmagical object or creation of magical force, it is disintegrated without a saving throw. If the target is a Huge or larger object or creation of magical force, this ray disintegrates a 10-foot cube of it.  
@@ -108,7 +123,7 @@ The beholder can take 3 legendary actions, using the Eye Ray option below. It ca
 When fighting inside its lair, a beholder can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the beholder can take one lair action to cause one of the following effects:
 
 - A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.  
-- Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be [grappled](Mechanics/CLI/rules/conditions.md#Grappled). Escaping requires a successful DC 15 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check.  
+- Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be [grappled](/Mechanics/CLI/conditions.md#Grappled). Escaping requires a successful DC 15 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/Mechanics/CLI/skills.md#Acrobatics)) check.  
 - An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder's choice that it can see. The eye then closes and disappears.  
 
 The beholder can't repeat an effect until they have all been used, and it can't use the same effect two rounds in a row.
@@ -128,3 +143,7 @@ If the beholder dies, these effects fade over the course of `1d10` days.
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 28_

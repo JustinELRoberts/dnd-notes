@@ -2,19 +2,18 @@
 publish: true
 aliases:
   - Corruption Curse
-created: 2026-03-09T12:15:34.046-04:00
-modified: 2026-03-09T12:15:34.046-04:00
-published: 2026-03-09T12:15:34.046-04:00
+created: 2026-03-29T21:53:56.057-04:00
+modified: 2026-03-29T21:53:56.057-04:00
+published: 2026-03-29T21:53:56.057-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/witch
   - ttrpg-cli/spell/level/6th-level
   - ttrpg-cli/spell/school/necromancy
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Witch
 ---
 
 # Corruption Curse
@@ -30,18 +29,23 @@ With a piercing glare and a sinister gesture, you send ribbons of dark magic tow
 
 ## Dull Reflexes
 
-The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Dexterity checks and saving throws.
+The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on Dexterity checks and saving throws.
 
 ## Feeble Fortitude
 
-The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Constitution saving throws and can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on Constitution saving throws and can't regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 ## Weak Will
 
-The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Wisdom saving throws and spell attack rolls.
+The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on Wisdom saving throws and spell attack rolls.
 
 ## Summary
 
-**Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

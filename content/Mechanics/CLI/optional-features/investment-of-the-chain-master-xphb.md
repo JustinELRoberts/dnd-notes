@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Investment of the Chain Master
-created: 2026-03-09T12:15:34.122-04:00
-modified: 2026-03-09T12:15:34.122-04:00
-published: 2026-03-09T12:15:34.122-04:00
+created: 2026-03-29T21:53:56.160-04:00
+modified: 2026-03-29T21:53:56.160-04:00
+published: 2026-03-29T21:53:56.160-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/ei
@@ -17,15 +17,15 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 5, pact of the chain|xphb
 
-When you cast [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
+When you cast [Find Familiar](/Mechanics/CLI/spells/find-familiar-xphb.md), you infuse the summoned familiar with a measure of your eldritch power, granting the creature the following benefits.
 
 ## Aerial or Aquatic
 
-The familiar gains either a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) or a [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) (your choice) of 40 feet.
+The familiar gains either a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) or a [Swim Speed](/Mechanics/CLI/variant-rules/swim-speed-xphb.md) (your choice) of 40 feet.
 
 ## Quick Attack
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can command the familiar to take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can command the familiar to take the [Attack](/Mechanics/CLI/actions.md#Attack) action.
 
 ## Necrotic or Radiant Damage
 
@@ -37,7 +37,7 @@ If the familiar forces a creature to make a saving throw, it uses your spell sav
 
 ## Resistance
 
-When the familiar takes damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to grant it [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) against that damage.
+When the familiar takes damage, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to grant it [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) against that damage.
 
 ## Sources
 

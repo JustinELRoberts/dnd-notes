@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mastiff
-created: 2026-03-09T12:15:33.964-04:00
-modified: 2026-03-09T12:15:33.964-04:00
-published: 2026-03-09T12:15:33.964-04:00
+created: 2026-03-29T21:53:55.968-04:00
+modified: 2026-03-29T21:53:55.968-04:00
+published: 2026-03-29T21:53:55.968-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-8
@@ -16,16 +16,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mastiff (XMM)
+ac: 12
+hp: 5
+modifier: 2
+hit_dice: 1d8 + 1
+cr: 1/8
+stats:
+  - 13
+  - 14
+  - 12
+  - 3
+  - 12
+  - 7
+source:
+  - XMM
+  - XPHB
 ---
 
 # Mastiff
 
-_Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/mastiff.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -34,11 +51,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Mastiff
-![](Mechanics/CLI/bestiary/beast/token/mastiff-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/mastiff-xmm.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 5 (`1d8 + 1`) 
+- **Hit Points** 5 (1d8 + 1) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,14 +64,14 @@ title: Mastiff
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** —
 - **Challenge** 1/8
 
 ## Actions
 
-***Bite.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 4 (`1d6 + 1`) Piercing damage. If the target is a Medium or smaller creature, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+***Bite.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 4 (`1d6 + 1`) Piercing damage. If the target is a Medium or smaller creature, it has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 ```
 
 ^statblock
@@ -62,3 +79,7 @@ title: Mastiff
 ## Environment
 
 forest, hill, urban
+
+## Sources
+
+_Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

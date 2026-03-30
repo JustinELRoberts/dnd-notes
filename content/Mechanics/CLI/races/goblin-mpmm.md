@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Goblin
-created: 2026-03-09T12:15:33.979-04:00
-modified: 2026-03-09T12:15:33.979-04:00
-published: 2026-03-09T12:15:33.979-04:00
+created: 2026-03-29T21:53:55.982-04:00
+modified: 2026-03-29T21:53:55.982-04:00
+published: 2026-03-29T21:53:55.982-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/goblin
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Goblin
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 20_\
 ![](Mechanics/CLI/races/img/goblin.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -35,7 +34,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](/Mechanics/CLI/conditions.md#Charmed) condition on yourself.
 
 ### Fury of the Small
 
@@ -45,8 +44,12 @@ You can use this trait a number of times equal to your proficiency bonus, regain
 
 ### Nimble Escape
 
-You can take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action on each of your turns.
+You can take the [Disengage](/Mechanics/CLI/actions.md#Disengage) or [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action on each of your turns.
 
 ## Description
 
 A subterranean folk, goblins can be found in every corner of the multiverse, often beside their bugbear and hobgoblin kin. Long before the god Maglubiyet conquered them, early goblins served in the court of the Queen of Air and Darkness, one of the Feywild's archfey. Goblins thrived in her dangerous domain thanks to a special boon from her—a supernatural knack for finding the weak spots in foes larger than themselves and for getting out of trouble. Goblins brought this fey boon with them to worlds across the Material Plane, even if they don't remember the fey realm they inhabited before Maglubiyet's rise. Now many goblins pursue their own destinies, escaping the plots of both archfey and gods.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 20_

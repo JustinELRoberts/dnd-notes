@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mummy
-created: 2026-03-09T12:15:33.868-04:00
-modified: 2026-03-09T12:15:33.868-04:00
-published: 2026-03-09T12:15:33.868-04:00
+created: 2026-03-29T21:53:55.660-04:00
+modified: 2026-03-29T21:53:55.660-04:00
+published: 2026-03-29T21:53:55.660-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mummy
+ac: 11
+hp: 58
+modifier: -1
+hit_dice: 9d8 + 18
+cr: "3"
+stats:
+  - 16
+  - 8
+  - 15
+  - 6
+  - 10
+  - 12
+source:
+  - MM
 ---
 
 # Mummy
 
-_Source: Monster Manual p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/mummy.webp#right)
-
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
 ## Preserved Wrath
@@ -61,11 +76,11 @@ A mummy doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Mummy
-![](Mechanics/CLI/bestiary/undead/token/mummy.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/mummy.webp#token)
 *Medium undead, Lawful Evil*
 
 - **Armor Class** 11 (natural armor)
-- **Hit Points** 58 (`9d8 + 18`) 
+- **Hit Points** 58 (9d8 + 18) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -75,11 +90,11 @@ title: Mummy
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +2
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** the languages it knew in life
 - **Challenge** 3
 
@@ -87,9 +102,9 @@ title: Mummy
 
 ***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-***Rotting Fist.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage plus 10 (`3d6`) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or other magic.
+***Rotting Fist.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage plus 10 (`3d6`) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell or other magic.
 
-***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 ```
 
 ^statblock
@@ -97,3 +112,7 @@ title: Mummy
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 228. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hyena
-created: 2026-03-09T12:15:33.827-04:00
-modified: 2026-03-09T12:15:33.827-04:00
-published: 2026-03-09T12:15:33.827-04:00
+created: 2026-03-29T21:53:55.612-04:00
+modified: 2026-03-29T21:53:55.612-04:00
+published: 2026-03-29T21:53:55.612-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -17,20 +17,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hyena
+ac: 11
+hp: 5
+modifier: 1
+hit_dice: 1d8 + 1
+cr: "0"
+stats:
+  - 11
+  - 13
+  - 12
+  - 2
+  - 12
+  - 5
+source:
+  - MM
 ---
 
 # Hyena
 
-_Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/hyena.webp#center)
 
 ```ad-statblock
 title: Hyena
-![](Mechanics/CLI/bestiary/beast/token/hyena.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/hyena.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 5 (`1d8 + 1`) 
+- **Hit Points** 5 (1d8 + 1) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -39,14 +55,14 @@ title: Hyena
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 0
 
 ## Traits
 
-***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -58,3 +74,7 @@ title: Hyena
 ## Environment
 
 grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

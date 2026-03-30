@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Locate Animals or Plants
-created: 2026-03-09T12:15:33.965-04:00
-modified: 2026-03-09T12:15:33.965-04:00
-published: 2026-03-09T12:15:33.965-04:00
+created: 2026-03-29T21:53:55.969-04:00
+modified: 2026-03-29T21:53:55.969-04:00
+published: 2026-03-29T21:53:55.969-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/feat/mark-of-finding
@@ -19,12 +20,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
-  - Witch (Green Magic)
 ---
 
 # Locate Animals or Plants
@@ -38,6 +33,16 @@ _2nd-level, Divination (ritual)_
 
 Describe or name a specific kind of Beast, Plant creature, or nonmagical plant. You learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Player's Handbook (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Mark of Finding](/Mechanics/CLI/lists/list-spells-feats-mark-of-finding-efa.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch (Green Magic)](/Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+
+## Sources
+
+_Player's Handbook (2024) p. 292. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

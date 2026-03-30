@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Darkling
-created: 2026-03-09T12:15:33.973-04:00
-modified: 2026-03-09T12:15:33.973-04:00
-published: 2026-03-09T12:15:33.973-04:00
+created: 2026-03-29T21:53:55.974-04:00
+modified: 2026-03-29T21:53:55.974-04:00
+published: 2026-03-29T21:53:55.974-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Darkling (MPMM)
+ac: 14
+hp: 13
+modifier: 3
+hit_dice: 3d6 + 3
+cr: 1/2
+stats:
+  - 9
+  - 16
+  - 12
+  - 10
+  - 12
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Darkling
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134_\
 ![](Mechanics/CLI/bestiary/fey/img/darkling.webp#right)
-
 The Summer Queen's curse causes a darkling's body to absorb light, which wizens the creature, much like the effect of rapid aging. For this reason, darklings cover their entire bodies with clothing when exposure to light is a risk. The light darklings absorb over the course of their lives explodes outward when they die, incinerating the creatures and much of their possessions.
 
 ## Darklings
@@ -34,11 +50,11 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
 
 ```ad-statblock
 title: Darkling
-![](Mechanics/CLI/bestiary/fey/token/darkling-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/darkling-mpmm.webp#token)
 *Small fey, Typically  Chaotic Neutral*
 
-- **Armor Class** 14 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 13 (`3d6 + 3`) 
+- **Armor Class** 14 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 13 (3d6 + 3) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,17 +63,16 @@ title: Darkling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +5, [Deception](Mechanics/CLI/rules/skills.md#Deception) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 15
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +5, [Deception](/Mechanics/CLI/skills.md#Deception) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 15
 - **Languages** Elvish, Sylvan
 - **Challenge** 1/2
 
 ## Traits
 
-***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must succeed on a DC 10 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of its next turn.
+***Death Flash.*** When the darkling dies, nonmagical light flashes out from it in a 10-foot radius as its body and possessions, other than metal or magic objects, burn to ash. Any creature in that area must succeed on a DC 10 Constitution saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of its next turn.
 
-***Light Sensitivity.*** While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the darkling has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -69,3 +84,7 @@ title: Darkling
 ## Environment
 
 forest, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134_

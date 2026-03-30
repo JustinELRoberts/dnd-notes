@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Abjurer Wizard
-created: 2026-03-09T12:15:33.855-04:00
-modified: 2026-03-09T12:15:33.855-04:00
-published: 2026-03-09T12:15:33.855-04:00
+created: 2026-03-29T21:53:55.645-04:00
+modified: 2026-03-29T21:53:55.645-04:00
+published: 2026-03-29T21:53:55.645-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Abjurer Wizard (MPMM)
+ac: 12
+hp: 104
+modifier: 2
+hit_dice: 16d8 + 32
+cr: "9"
+stats:
+  - 9
+  - 14
+  - 14
+  - 18
+  - 12
+  - 11
+source:
+  - MPMM
+  - VGM
 ---
 
 # Abjurer Wizard
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209_\
 ![](Mechanics/CLI/bestiary/humanoid/img/abjurer-wizard.webp#right)
-
 Abjurers specialize in creating protective magical wards. Monarchs, nobles, and other wealthy individuals commonly hire abjurers to provide protection.
 
 ## Wizards
@@ -31,11 +47,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Abjurer Wizard
-![](Mechanics/CLI/bestiary/humanoid/token/abjurer-wizard-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/abjurer-wizard-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 12 (15 with [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md))
-- **Hit Points** 104 (`16d8 + 32`) 
+- **Armor Class** 12 (15 with [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md))
+- **Hit Points** 104 (16d8 + 32) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,7 +60,7 @@ title: Abjurer Wizard
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +8, Wisdom +5
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +8, [History](Mechanics/CLI/rules/skills.md#History) +8
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +8, [History](/Mechanics/CLI/skills.md#History) +8
 - **Senses** passive Perception 11
 - **Languages** any four languages
 - **Challenge** 9
@@ -59,11 +75,11 @@ title: Abjurer Wizard
 
 ***Spellcasting.*** The abjurer casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [message](Mechanics/CLI/spells/message-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [message](/Mechanics/CLI/spells/message-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**2/day each:** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md)
+**2/day each:** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md)
 
-**1/day each:** [arcane lock](Mechanics/CLI/spells/arcane-lock-xphb.md), [banishment](Mechanics/CLI/spells/banishment-xphb.md), [globe of invulnerability](Mechanics/CLI/spells/globe-of-invulnerability-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [wall of force](Mechanics/CLI/spells/wall-of-force-xphb.md)
+**1/day each:** [arcane lock](/Mechanics/CLI/spells/arcane-lock-xphb.md), [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [globe of invulnerability](/Mechanics/CLI/spells/globe-of-invulnerability-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [wall of force](/Mechanics/CLI/spells/wall-of-force-xphb.md)
 
 ## Reactions
 
@@ -75,3 +91,7 @@ title: Abjurer Wizard
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 260, Volo's Guide to Monsters p. 209_

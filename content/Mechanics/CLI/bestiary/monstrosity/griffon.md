@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Griffon
-created: 2026-03-09T12:15:33.820-04:00
-modified: 2026-03-09T12:15:33.820-04:00
-published: 2026-03-09T12:15:33.820-04:00
+created: 2026-03-29T21:53:55.609-04:00
+modified: 2026-03-29T21:53:55.609-04:00
+published: 2026-03-29T21:53:55.609-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Griffon
+ac: 12
+hp: 59
+modifier: 2
+hit_dice: 7d10 + 21
+cr: "2"
+stats:
+  - 18
+  - 15
+  - 16
+  - 2
+  - 13
+  - 8
+source:
+  - MM
 ---
 
 # Griffon
 
-_Source: Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/griffon.webp#right)
-
 Griffons are ferocious avian carnivores with the muscular bodies of lions and the head, forelegs, and wings of eagles. When they attack, griffons are as swift and deadly as eagles, even as they strike with a lion's savage might and grace.
 
 ## Horse Eaters
@@ -49,11 +64,11 @@ Once trained, a griffon is a fierce and loyal steed. It bonds with one master fo
 
 ```ad-statblock
 title: Griffon
-![](Mechanics/CLI/bestiary/monstrosity/token/griffon.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/griffon.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 30 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,14 +77,14 @@ title: Griffon
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** —
 - **Challenge** 2
 
 ## Traits
 
-***Keen Sight.*** The griffon has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The griffon has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -85,3 +100,7 @@ title: Griffon
 ## Environment
 
 mountain, grassland, hill, coastal, arctic
+
+## Sources
+
+_Monster Manual p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

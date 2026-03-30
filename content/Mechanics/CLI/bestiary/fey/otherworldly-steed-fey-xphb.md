@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Otherworldly Steed (Fey)
-created: 2026-03-09T12:15:33.794-04:00
-modified: 2026-03-09T12:15:33.794-04:00
-published: 2026-03-09T12:15:33.794-04:00
+created: 2026-03-29T21:53:55.577-04:00
+modified: 2026-03-29T21:53:55.577-04:00
+published: 2026-03-29T21:53:55.577-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Otherworldly Steed (Fey) (XPHB)
+modifier: 1
+stats:
+  - 18
+  - 12
+  - 14
+  - 6
+  - 12
+  - 8
+source:
+  - XPHB
 ---
 
 # Otherworldly Steed (Fey)
-
-_Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Otherworldly Steed (Fey)
@@ -52,3 +63,7 @@ title: Otherworldly Steed (Fey)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

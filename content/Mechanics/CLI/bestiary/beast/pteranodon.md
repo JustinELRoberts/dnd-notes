@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pteranodon
-created: 2026-03-09T12:15:33.945-04:00
-modified: 2026-03-09T12:15:33.945-04:00
-published: 2026-03-09T12:15:33.945-04:00
+created: 2026-03-29T21:53:55.947-04:00
+modified: 2026-03-29T21:53:55.947-04:00
+published: 2026-03-29T21:53:55.947-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Pteranodon
+ac: 13
+hp: 13
+modifier: 2
+hit_dice: 3d8
+cr: 1/4
+stats:
+  - 12
+  - 15
+  - 10
+  - 2
+  - 9
+  - 5
+source:
+  - MM
 ---
 
 # Pteranodon
 
-_Source: Monster Manual p. 80. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/dinosaurs.webp#right)
-
 These flying reptiles have wingspans of 15 to 20 feet and typically dive for small marine prey, though they are opportunists and will attack any creature that appears edible. A pteranodon has no teeth, instead using its sharp beak to stab prey too large to swallow with one gulp.
 
 ## Dinosaurs
@@ -35,11 +50,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Pteranodon
-![](Mechanics/CLI/bestiary/beast/token/pteranodon.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/pteranodon.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 13 (`3d8`) 
+- **Hit Points** 13 (3d8) 
 - **Speed** 10 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,7 +63,7 @@ title: Pteranodon
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +1
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +1
 - **Senses** passive Perception 11
 - **Languages** —
 - **Challenge** 1/4
@@ -67,3 +82,7 @@ title: Pteranodon
 ## Environment
 
 mountain, grassland, coastal
+
+## Sources
+
+_Monster Manual p. 80. Available in the Basic Rules (2014)_

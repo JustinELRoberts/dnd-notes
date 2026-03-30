@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Panther
-created: 2026-03-09T12:15:33.968-04:00
-modified: 2026-03-09T12:15:33.968-04:00
-published: 2026-03-09T12:15:33.968-04:00
+created: 2026-03-29T21:53:55.973-04:00
+modified: 2026-03-29T21:53:55.973-04:00
+published: 2026-03-29T21:53:55.973-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-4
@@ -16,16 +16,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Panther (XMM)
+ac: 13
+hp: 13
+modifier: 3
+hit_dice: 3d8
+cr: 1/4
+stats:
+  - 14
+  - 16
+  - 10
+  - 3
+  - 14
+  - 7
+source:
+  - XMM
+  - XPHB
 ---
 
 # Panther
 
-_Source: Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp#right "A druid calls on animals of the hills and mountains to aid her cause")
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![Aquatic animals swim along...](Mechanics/CLI/bestiary/beast/img/animals-aquatic.webp)
@@ -33,11 +50,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Panther
-![](Mechanics/CLI/bestiary/beast/token/panther-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/panther-xmm.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 13 (`3d8`) 
+- **Hit Points** 13 (3d8) 
 - **Speed** 50 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,8 +63,8 @@ title: Panther
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** —
 - **Challenge** 1/4
 
@@ -57,7 +74,7 @@ title: Panther
 
 ## Bonus Actions
 
-***Nimble Escape.*** The panther takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
+***Nimble Escape.*** The panther takes the [Disengage](/Mechanics/CLI/actions.md#Disengage) or [Hide](/Mechanics/CLI/actions.md#Hide) action.
 ```
 
 ^statblock
@@ -65,3 +82,7 @@ title: Panther
 ## Environment
 
 forest, grassland, hill
+
+## Sources
+
+_Monster Manual (2024) p. 366, Player's Handbook (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

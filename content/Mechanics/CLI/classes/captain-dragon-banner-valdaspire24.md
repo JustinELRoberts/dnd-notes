@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dragon Banner
-created: 2026-03-09T12:15:34.094-04:00
-modified: 2026-03-09T12:15:34.094-04:00
-published: 2026-03-09T12:15:34.094-04:00
+created: 2026-03-29T21:53:56.124-04:00
+modified: 2026-03-29T21:53:56.124-04:00
+published: 2026-03-29T21:53:56.124-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/captain/dragon-banner
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Dragon Banner
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -61,26 +60,30 @@ Captains under the Dragon Banner are a scourge upon the battlefield. Armed with 
 
 You enter a flow state in combat, granting you the following benefits.
 
-**Improved Critical.** Your attack rolls with weapons and [Unarmed Strikes](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) can score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 19 or 20 on the `d20`.
+**Improved Critical.** Your attack rolls with weapons and [Unarmed Strikes](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) can score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 19 or 20 on the `d20`.
 
-**Chain Critical.** Whenever you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against an enemy, your [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) range increases. After the first such attack, your attacks score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 18-20 on the `d20`; after the second, you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 17-20; after the third, you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) on a roll of 16-20. Your [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) range resets after 1 minute or when you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Chain Critical.** Whenever you reduce an enemy to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) against an enemy, your [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) range increases. After the first such attack, your attacks score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 18-20 on the `d20`; after the second, you score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 17-20; after the third, you score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) on a roll of 16-20. Your [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) range resets after 1 minute or when you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Rampage \[Maneuver] (Level 3)
 
-Once on each of your turns, immediately after you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) with a melee attack roll, you can expend one Battle Die to move up to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) and make a melee attack (no action required). On a hit, you add the Battle Die to the attack's damage roll.
+Once on each of your turns, immediately after you reduce an enemy to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) with a melee attack roll, you can expend one Battle Die to move up to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) and make a melee attack (no action required). On a hit, you add the Battle Die to the attack's damage roll.
 
 ### Martial Recovery (Level 6)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to regain all of your expended Battle Dice.
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to regain all of your expended Battle Dice.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Bloody Spectacle (Level 10)
 
-Whenever you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against an enemy, you can strike terror into nearby foes. When you do so, each creature of your choice in a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw against your Maneuver save DC. On a failed save, a creature has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
+Whenever you reduce an enemy to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) against an enemy, you can strike terror into nearby foes. When you do so, each creature of your choice in a 30-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw against your Maneuver save DC. On a failed save, a creature has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](/Mechanics/CLI/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
 ### Coup de Grâce \[Maneuver] (Level 14)
 
-When you hit a creature with an attack using a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend two Battle Dice as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to attempt to execute the target. Add the Battle Dice to the attack's damage roll. If you reduce the target to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), this maneuver doesn't expend any Battle Dice.
+When you hit a creature with an attack using a weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend two Battle Dice as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to attempt to execute the target. Add the Battle Dice to the attack's damage roll. If you reduce the target to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), this maneuver doesn't expend any Battle Dice.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

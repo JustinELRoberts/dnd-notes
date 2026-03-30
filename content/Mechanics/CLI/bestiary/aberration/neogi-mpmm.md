@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Neogi
-created: 2026-03-09T12:15:33.854-04:00
-modified: 2026-03-09T12:15:33.854-04:00
-published: 2026-03-09T12:15:33.854-04:00
+created: 2026-03-29T21:53:55.644-04:00
+modified: 2026-03-29T21:53:55.644-04:00
+published: 2026-03-29T21:53:55.644-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Neogi (MPMM)
+ac: 15
+hp: 33
+modifier: 3
+hit_dice: 6d6 + 12
+cr: "3"
+stats:
+  - 6
+  - 16
+  - 14
+  - 13
+  - 12
+  - 15
+source:
+  - MPMM
+  - VGM
 ---
 
 # Neogi
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180_\
 ![](Mechanics/CLI/bestiary/aberration/img/neogi.webp#right)
-
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
 
 Neogi mark themselves and those they capture through the use of dyes, transformational magic, and other markings intended to signify rank, achievements, and the identity of the individual's leader. By these signs, neogi can identify each others' place in the hierarchy—and they must defer to those of higher station or risk harsh punishment.
@@ -40,11 +56,11 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 
 ```ad-statblock
 title: Neogi
-![](Mechanics/CLI/bestiary/aberration/token/neogi-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/neogi-mpmm.webp#token)
 *Small aberration, Typically  Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 33 (`6d6 + 12`) 
+- **Hit Points** 33 (6d6 + 12) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,14 +69,14 @@ title: Neogi
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** Common, Deep Speech, Undercommon
 - **Challenge** 3
 
 ## Traits
 
-***Mental Fortitude.*** The neogi has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and magic can't put the neogi to sleep.
+***Mental Fortitude.*** The neogi has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened), and magic can't put the neogi to sleep.
 
 ***Spider Climb.*** The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -68,13 +84,13 @@ title: Neogi
 
 ***Multiattack.*** The neogi makes one Bite attack and two Claw attacks.
 
-***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage plus 14 (`4d6`) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage plus 14 (`4d6`) poison damage, and the target must succeed on a DC 12 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claw.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 8 (`2d4 + 3`) slashing damage.
 
 ## Bonus Actions
 
-***Enslave (Recharges after a Short or Long Rest).*** The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
+***Enslave (Recharges after a Short or Long Rest).*** The neogi targets one creature it can see within 30 feet of it. The target must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/Mechanics/CLI/conditions.md#Charmed) by the neogi for 1 day, or until the neogi dies or is more than 1 mile from the target. The [charmed](/Mechanics/CLI/conditions.md#Charmed) target obeys the neogi's commands and can't take reactions, and the neogi and the target can communicate telepathically with each other at a distance of up to 1 mile. Whenever the [charmed](/Mechanics/CLI/conditions.md#Charmed) target takes damage, it can repeat the saving throw, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -82,3 +98,7 @@ title: Neogi
 ## Environment
 
 hill, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180_

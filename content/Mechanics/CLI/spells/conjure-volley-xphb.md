@@ -2,19 +2,18 @@
 publish: true
 aliases:
   - Conjure Volley
-created: 2026-03-09T12:15:34.138-04:00
-modified: 2026-03-09T12:15:34.138-04:00
-published: 2026-03-09T12:15:34.138-04:00
+created: 2026-03-29T21:53:56.190-04:00
+modified: 2026-03-29T21:53:56.190-04:00
+published: 2026-03-29T21:53:56.190-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/level/5th-level
   - ttrpg-cli/spell/school/conjuration
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Ranger
 ---
 
 # Conjure Volley
@@ -26,8 +25,13 @@ _5th-level, Conjuration_
 - **Components:** V, S, M (a Melee or Ranged weapon worth at least 1 CP)
 - **Duration:** Instantaneous
 
-You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md) centered on that point makes a Dexterity saving throw. A creature takes `8d8` Force damage on a failed save or half as much damage on a successful one.
+You brandish the weapon used to cast the spell and choose a point within range. Hundreds of similar spectral weapons (or ammunition appropriate to the weapon) fall in a volley and then disappear. Each creature of your choice that you can see in a 40-foot-radius, 20-foot-high [Cylinder](/Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md) centered on that point makes a Dexterity saving throw. A creature takes `8d8` Force damage on a failed save or half as much damage on a successful one.
 
-**Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 255_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 255_

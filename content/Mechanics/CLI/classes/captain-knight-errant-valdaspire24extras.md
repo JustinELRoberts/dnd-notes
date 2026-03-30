@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Knight Errant
-created: 2026-03-09T12:15:33.899-04:00
-modified: 2026-03-09T12:15:33.899-04:00
-published: 2026-03-09T12:15:33.899-04:00
+created: 2026-03-29T21:53:55.895-04:00
+modified: 2026-03-29T21:53:55.896-04:00
+published: 2026-03-29T21:53:55.896-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/captain/knight-errant
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Knight Errant
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -49,7 +48,7 @@ _Source: Valda's Spire of Secrets Extras (2024)_
 
 ^class-progression
 
-Cross-Compatible Subclass: This subclass originates from the [Vagabond](Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
+Cross-Compatible Subclass: This subclass originates from the [Vagabond](/Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
 
 Note that cross-compatible subclasses might be stronger or weaker than other subclasses.
 
@@ -65,32 +64,36 @@ Knights that have failed, forsaken, or betrayed their masters are known as Knigh
 
 Your knightly training grants you the following benefits.
 
-**Bonus Proficiencies.** You gain proficiency in two of the following skills: [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [History](Mechanics/CLI/rules/skills.md#History), [Insight](Mechanics/CLI/rules/skills.md#Insight), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion).
+**Bonus Proficiencies.** You gain proficiency in two of the following skills: [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [History](/Mechanics/CLI/skills.md#History), [Insight](/Mechanics/CLI/skills.md#Insight), or [Persuasion](/Mechanics/CLI/skills.md#Persuasion).
 
-**Heroic Resolve.** When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Vagabond level.
+**Heroic Resolve.** When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Vagabond level.
 
-**Unwavering Loyalty.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) conditions.
+**Unwavering Loyalty.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) conditions.
 
 ### Knight's Challenge (Level 3)
 
-You learn the [Challenge](Mechanics/CLI/optional-features/challenge-valdaspire24extras.md) maneuver. If you already know this maneuver, you learn a different maneuver of your choice for which you meet the prerequisites.
+You learn the [Challenge](/Mechanics/CLI/optional-features/challenge-valdaspire24extras.md) maneuver. If you already know this maneuver, you learn a different maneuver of your choice for which you meet the prerequisites.
 
 When you use your Challenge maneuver, you can choose for it to last for 1 minute, instead of until the end of your next turn. When you do so, the effect ends early if you use this maneuver again, if you make an attack roll or cast a spell targeting any enemy other than the target, if an ally damages the target, or if you end your turn more than 30 feet away from the target.
 
 ### Inspiring Battlecry (Level 6)
 
-When you become [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you can give [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) to yourself and allies who can see or hear you within 30 feet of yourself (no action required).
+When you become [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you can give [Heroic Inspiration](/Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) to yourself and allies who can see or hear you within 30 feet of yourself (no action required).
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Redirection (Level 10)
 
-When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the attack to hit you instead. You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage dealt by the triggering attack.
+When a creature you can see hits an ally within 5 feet of you with an attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to force the attack to hit you instead. You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage dealt by the triggering attack.
 
 ### Surge of Valor (Level 14)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to summon up a well of determination. Until the start of your next turn, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending two Battle Dice (no action required).
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to summon up a well of determination. Until the start of your next turn, you gain the following benefits. Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending two Battle Dice (no action required).
 
 **Unbreakable.** Whenever you take damage from an enemy, you can roll a Battle Die without expending it and reduce the damage taken by that roll.
 
-**Undaunted.** Whenever you fail a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can roll a Battle Die without expending it and add it to the roll, potentially causing it to succeed.
+**Undaunted.** Whenever you fail a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), you can roll a Battle Die without expending it and add it to the roll, potentially causing it to succeed.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

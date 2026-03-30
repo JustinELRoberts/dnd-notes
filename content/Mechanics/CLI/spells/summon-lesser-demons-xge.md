@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Summon Lesser Demons
-created: 2026-03-09T12:15:33.940-04:00
-modified: 2026-03-09T12:15:33.940-04:00
-published: 2026-03-09T12:15:33.940-04:00
+created: 2026-03-29T21:53:55.941-04:00
+modified: 2026-03-29T21:53:55.941-04:00
+published: 2026-03-29T21:53:55.941-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/3rd-level
@@ -19,14 +20,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Summon Lesser Demons
@@ -47,7 +40,7 @@ You utter foul words, summoning demons from the chaos of the Abyss. Roll on the 
 | 5-6 | Eight demons of challenge rating 1/4 or lower |
 ^demons-summoned
 
-The DM chooses the demons, such as [manes](Mechanics/CLI/bestiary/fiend/manes.md) or [dretches](Mechanics/CLI/bestiary/fiend/dretch.md), and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
+The DM chooses the demons, such as [manes](/Mechanics/CLI/bestiary/fiend/manes.md) or [dretches](/Mechanics/CLI/bestiary/fiend/dretch.md), and you choose the unoccupied spaces you can see within range where they appear. A summoned demon disappears when it drops to 0 hit points or when the spell ends.
 
 The demons are hostile to all creatures, including you. Roll initiative for the summoned demons as a group, which has its own turns. The demons pursue and attack the nearest non-demons to the best of their ability.
 
@@ -55,6 +48,19 @@ As part of casting the spell, you can form a circle on the ground with the blood
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th or 7th level, you summon twice as many demons. If you cast it using a spell slot of 8th or 9th level, you summon three times as many demons.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 167_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 167_

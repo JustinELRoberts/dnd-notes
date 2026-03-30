@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fey Wanderer
-created: 2026-03-09T12:15:33.996-04:00
-modified: 2026-03-09T12:15:33.996-04:00
-published: 2026-03-09T12:15:33.996-04:00
+created: 2026-03-29T21:53:56.006-04:00
+modified: 2026-03-29T21:53:56.006-04:00
+published: 2026-03-29T21:53:56.006-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/ranger/fey-wanderer
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Fey Wanderer
 
-_[Ranger](./ranger-xphb.md): Ranger Subclass_\
-_Source: Player's Handbook (2024) p. 124_
+_[Ranger](./ranger-xphb.md): Ranger Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -69,11 +68,11 @@ When you reach a Ranger level specified in the Fey Wanderer Spells table, you th
 
 | Ranger Level | Spells |
 |--------------|--------|
-| 3rd | [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md) |
-| 5th | [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) |
-| 9th | [Summon Fey](Mechanics/CLI/spells/summon-fey-xphb.md) |
-| 13th | [Dimension Door](Mechanics/CLI/spells/dimension-door-xphb.md) |
-| 17th | [Mislead](Mechanics/CLI/spells/mislead-xphb.md) |
+| 3rd | [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md) |
+| 5th | [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) |
+| 9th | [Summon Fey](/Mechanics/CLI/spells/summon-fey-xphb.md) |
+| 13th | [Dimension Door](/Mechanics/CLI/spells/dimension-door-xphb.md) |
+| 17th | [Mislead](/Mechanics/CLI/spells/mislead-xphb.md) |
 ^fey-wanderer-spells
 
 You also possess a fey blessing. Choose it from the Feywild Gifts table or determine it randomly.
@@ -82,7 +81,7 @@ You also possess a fey blessing. Choose it from the Feywild Gifts table or deter
 
 | dice: 1d6 | Gift |
 |-----------|------|
-| 1 | Illusory butterflies flutter around you while you take a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). |
+| 1 | Illusory butterflies flutter around you while you take a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). |
 | 2 | Flowers bloom from your hair each dawn. |
 | 3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice. |
 | 4 | Your shadow dances while no one is looking directly at it. |
@@ -94,22 +93,26 @@ You also possess a fey blessing. Choose it from the Feywild Gifts table or deter
 
 Whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).
 
-You also gain proficiency in one of these skills of your choice: [Deception](Mechanics/CLI/rules/skills.md#Deception), [Performance](Mechanics/CLI/rules/skills.md#Performance), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion).
+You also gain proficiency in one of these skills of your choice: [Deception](/Mechanics/CLI/skills.md#Deception), [Performance](/Mechanics/CLI/skills.md#Performance), or [Persuasion](/Mechanics/CLI/skills.md#Persuasion).
 
 ### Beguiling Twist (Level 7)
 
-The magic of the Feywild guards your mind. You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition.
+The magic of the Feywild guards your mind. You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition.
 
-In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Fey Reinforcements (Level 11)
 
-You can cast [Summon Fey](Mechanics/CLI/spells/summon-fey-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can cast [Summon Fey](/Mechanics/CLI/spells/summon-fey-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Mechanics/CLI/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
 
 ### Misty Wanderer (Level 15)
 
-You can cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-In addition, whenever you cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md), you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+In addition, whenever you cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md), you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+
+## Sources
+
+_Player's Handbook (2024) p. 124_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shield Guardian
-created: 2026-03-09T12:15:34.094-04:00
-modified: 2026-03-09T12:15:34.095-04:00
-published: 2026-03-09T12:15:34.095-04:00
+created: 2026-03-29T21:53:56.125-04:00
+modified: 2026-03-29T21:53:56.125-04:00
+published: 2026-03-29T21:53:56.125-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -14,18 +14,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shield Guardian
+ac: 17
+hp: 142
+modifier: -1
+hit_dice: 15d10 + 60
+cr: "7"
+stats:
+  - 18
+  - 8
+  - 18
+  - 7
+  - 10
+  - 3
+source:
+  - MM
 ---
 
 # Shield Guardian
 
-_Source: Monster Manual p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/shield-guardian.webp#right)
-
 Wizards and other spellcasters create shield guardians for protection. A shield guardian treads beside its master, absorbing damage to keep its master alive as long as possible.
 
 ## Master's Amulet
 
-Every shield guardian has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
+Every shield guardian has an amulet magically linked to it. A shield guardian can have only one corresponding amulet, and if that amulet is destroyed, the shield guardian is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) until a replacement amulet is created. A shield guardian's amulet is subject to direct attack if it isn't being worn or carried. It has AC 10, 10 hit points, and immunity to poison and psychic damage. Crafting an amulet requires 1 week and costs 1,000 gp in components.
 
 A shield guardian's solitary focus is to protect the amulet's wearer. The amulet's wearer can command the guardian to attack its enemies or to guard the wielder against attack. If an attack threatens to injure the wearer, the construct can magically absorb the blow into its own body, even at a distance.
 
@@ -43,11 +58,11 @@ A shield guardian doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Shield Guardian
-![](Mechanics/CLI/bestiary/construct/token/shield-guardian.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/shield-guardian.webp#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 142 (`15d10 + 60`) 
+- **Hit Points** 142 (15d10 + 60) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,9 +72,9 @@ title: Shield Guardian
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands commands given in any language but can't speak
 - **Challenge** 7
 
@@ -87,3 +102,7 @@ title: Shield Guardian
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 271. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

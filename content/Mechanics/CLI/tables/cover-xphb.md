@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cover
-created: 2026-03-09T12:15:34.400-04:00
-modified: 2026-03-09T12:15:34.400-04:00
-published: 2026-03-09T12:15:34.400-04:00
+created: 2026-03-29T21:53:56.498-04:00
+modified: 2026-03-29T21:53:56.498-04:00
+published: 2026-03-29T21:53:56.498-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
 cssclasses:
@@ -20,7 +20,7 @@ _Source: Player's Handbook (2024) p. 25. Available in the <span title='Systems R
 
 | Degree | Benefit to Target | Offered By... |
 |--------|-------------------|---------------|
-| [Half](Mechanics/CLI/rules/variant-rules/cover-xphb.md) | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
-| [Three-Quarters](Mechanics/CLI/rules/variant-rules/cover-xphb.md) | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
-| [Total](Mechanics/CLI/rules/variant-rules/cover-xphb.md) | Can't be targeted directly | An object that covers the whole target |
+| [Half](/Mechanics/CLI/variant-rules/cover-xphb.md) | +2 bonus to AC and Dexterity saving throws | Another creature or an object that covers at least half of the target |
+| [Three-Quarters](/Mechanics/CLI/variant-rules/cover-xphb.md) | +5 bonus to AC and Dexterity saving throws | An object that covers at least three-quarters of the target |
+| [Total](/Mechanics/CLI/variant-rules/cover-xphb.md) | Can't be targeted directly | An object that covers the whole target |
 ^cover

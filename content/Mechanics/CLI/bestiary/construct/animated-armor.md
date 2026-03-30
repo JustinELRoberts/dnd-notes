@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Animated Armor
-created: 2026-03-09T12:15:33.968-04:00
-modified: 2026-03-09T12:15:33.968-04:00
-published: 2026-03-09T12:15:33.968-04:00
+created: 2026-03-29T21:53:55.972-04:00
+modified: 2026-03-29T21:53:55.972-04:00
+published: 2026-03-29T21:53:55.972-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Animated Armor
+ac: 18
+hp: 33
+modifier: 0
+hit_dice: 6d8 + 6
+cr: "1"
+stats:
+  - 14
+  - 11
+  - 13
+  - 1
+  - 3
+  - 1
+source:
+  - MM
 ---
 
 # Animated Armor
 
-_Source: Monster Manual p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/construct/img/animated-armor.webp#right)
-
 This empty steel shell clamors as it moves, heavy plates banging and grinding against one another like the vengeful spirit of a fallen knight. Ponderous but persistent, this magical guardian is almost always a suit of plate armor.
 
 To add to its menace, animated armor is frequently enchanted with scripted speech, so the armor can utter warnings, demand passwords, or deliver riddles. Rare suits of animated armor are able to carry on an actual conversation.
@@ -36,11 +51,11 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 
 ```ad-statblock
 title: Animated Armor
-![](Mechanics/CLI/bestiary/construct/token/animated-armor.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/animated-armor.webp#token)
 *Medium construct, Unaligned*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,15 +65,15 @@ title: Animated Armor
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 6
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 1
 
 ## Traits
 
-***Antimagic Susceptibility.*** The armor is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) while in the area of an [antimagic field](Mechanics/CLI/spells/antimagic-field-xphb.md). If targeted by [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 minute.
+***Antimagic Susceptibility.*** The armor is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) while in the area of an [antimagic field](/Mechanics/CLI/spells/antimagic-field-xphb.md). If targeted by [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 1 minute.
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
@@ -70,3 +85,7 @@ title: Animated Armor
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 19. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

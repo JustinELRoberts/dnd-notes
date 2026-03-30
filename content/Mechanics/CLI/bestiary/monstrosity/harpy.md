@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Harpy
-created: 2026-03-09T12:15:33.907-04:00
-modified: 2026-03-09T12:15:33.907-04:00
-published: 2026-03-09T12:15:33.907-04:00
+created: 2026-03-29T21:53:55.907-04:00
+modified: 2026-03-29T21:53:55.907-04:00
+published: 2026-03-29T21:53:55.907-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Harpy
+ac: 11
+hp: 38
+modifier: 1
+hit_dice: 7d8 + 7
+cr: "1"
+stats:
+  - 12
+  - 13
+  - 12
+  - 7
+  - 10
+  - 13
+source:
+  - MM
 ---
 
 # Harpy
 
-_Source: Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/harpy.webp#right)
-
 Taking glee in suffering and death, the sadistic harpy is always on the hunt for prey. Its sweet song has lured countless adventurers to their deaths, drawing them in close for the harpy to kill and then consume.
 
 A harpy combines the body, legs, and wings of a vulture with the torso, arms, and head of a human. Its wicked talons and bone club make it a formidable threat in combat, and its eyes reflect the absolute evil of its soul.
@@ -54,11 +69,11 @@ Harpies take shiny baubles, valuable objects, and other trophies from their vict
 
 ```ad-statblock
 title: Harpy
-![](Mechanics/CLI/bestiary/monstrosity/token/harpy.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/harpy.webp#token)
 *Medium monstrosity, Chaotic Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 38 (`7d8 + 7`) 
+- **Hit Points** 38 (7d8 + 7) 
 - **Speed** 20 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -69,7 +84,6 @@ title: Harpy
 - **Saving Throws** ⏤
 - **Skills** ⏤
 - **Senses** passive Perception 10
-- **Gear** [club](Mechanics/CLI/items/club-xphb.md)
 - **Languages** Common
 - **Challenge** 1
 
@@ -81,9 +95,9 @@ title: Harpy
 
 ***Club.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d4 + 1`) bludgeoning damage.
 
-***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be [charmed](/Mechanics/CLI/conditions.md#Charmed) until the song ends. The harpy must take a bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the harpy is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
-While [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the harpy, a target is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) and ignores the songs of other harpies. If the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it.
+While [charmed](/Mechanics/CLI/conditions.md#Charmed) by the harpy, a target is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) and ignores the songs of other harpies. If the [charmed](/Mechanics/CLI/conditions.md#Charmed) target is more than 5 feet away from the harpy, the target must move on its turn toward the harpy by the most direct route. It doesn't avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, a target can repeat the saving throw. A creature can also repeat the saving throw at the end of each of its turns. If a creature's saving throw is successful, the effect ends on it.
 
 A target that successfully saves is immune to this harpy's song for the next 24 hours.
 ```
@@ -93,3 +107,7 @@ A target that successfully saves is immune to this harpy's song for the next 24 
 ## Environment
 
 mountain, forest, hill, coastal
+
+## Sources
+
+_Monster Manual p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fomorian
-created: 2026-03-09T12:15:33.993-04:00
-modified: 2026-03-09T12:15:33.993-04:00
-published: 2026-03-09T12:15:33.993-04:00
+created: 2026-03-29T21:53:56.003-04:00
+modified: 2026-03-29T21:53:56.003-04:00
+published: 2026-03-29T21:53:56.003-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fomorian
+ac: 14
+hp: 149
+modifier: 0
+hit_dice: 13d12 + 65
+cr: "8"
+stats:
+  - 23
+  - 10
+  - 20
+  - 9
+  - 14
+  - 6
+source:
+  - MM
 ---
 
 # Fomorian
 
-_Source: Monster Manual p. 136_\
 ![](Mechanics/CLI/bestiary/giant/img/fomorian.webp#right)
-
 The most hideous and wicked of all giantkind are the godless fomorians, whose deformed bodies reflect their vile demeanors. Some have facial features randomly distributed around their misshapen, warty heads. Others have limbs of grossly different sizes and shapes, or emit terrible howls each time they draw breath through misshapen mouths. Their wretched appearance rarely evokes sympathy, however, for the fomorians brought their doom upon themselves with the evil that rules their hearts and minds.
 
 ## Fey Curse
@@ -45,11 +60,11 @@ Fomorians can pass their curse onto others using a power called the evil eye-a l
 
 ```ad-statblock
 title: Fomorian
-![](Mechanics/CLI/bestiary/giant/token/fomorian.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/fomorian.webp#token)
 *Huge giant, Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 149 (`13d12 + 65`) 
+- **Hit Points** 149 (13d12 + 65) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,9 +73,8 @@ title: Fomorian
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +8, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 18
-- **Gear** [greatclub](Mechanics/CLI/items/greatclub-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +8, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 18
 - **Languages** Giant, Undercommon
 - **Challenge** 8
 
@@ -82,3 +96,7 @@ The transformed creature can repeat the saving throw whenever it finishes a long
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 136_

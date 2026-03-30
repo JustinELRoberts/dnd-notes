@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boomerang
-created: 2026-03-09T12:15:33.830-04:00
-modified: 2026-03-09T12:15:33.830-04:00
-published: 2026-03-09T12:15:33.830-04:00
+created: 2026-03-29T21:53:55.616-04:00
+modified: 2026-03-29T21:53:55.616-04:00
+published: 2026-03-29T21:53:55.616-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/item/rarity/none
@@ -21,8 +21,10 @@ _Weapon_
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 60/180
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Cost**: 2 gp
 - **Weight**: 0.25 lbs.
 
-_Source: Valda's Spire of Secrets (2024)_
+## Sources
+
+_Valda's Spire of Secrets (2024)_

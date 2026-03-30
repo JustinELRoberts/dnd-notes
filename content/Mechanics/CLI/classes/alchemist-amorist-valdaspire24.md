@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Amorist
-created: 2026-03-09T12:15:33.905-04:00
-modified: 2026-03-09T12:15:33.905-04:00
-published: 2026-03-09T12:15:33.905-04:00
+created: 2026-03-29T21:53:55.904-04:00
+modified: 2026-03-29T21:53:55.904-04:00
+published: 2026-03-29T21:53:55.904-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/alchemist/amorist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Amorist
 
-_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,17 +56,17 @@ The study of mind-affecting alchemy is a delicate one, practiced only by a small
 
 ### Charmer (Level 3)
 
-You gain proficiency in the [Deception](Mechanics/CLI/rules/skills.md#Deception) and [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) skills. Additionally, when you make a Charisma check using these skills, you can make it as an Intelligence check.
+You gain proficiency in the [Deception](/Mechanics/CLI/skills.md#Deception) and [Persuasion](/Mechanics/CLI/skills.md#Persuasion) skills. Additionally, when you make a Charisma check using these skills, you can make it as an Intelligence check.
 
-When you brew potions, you can create a Philter of Love for 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
+When you brew potions, you can create a Philter of Love for 1 [Reagent](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
 
 ### Pheromone Bomb \[Formula] (Level 3)
 
-By adding a potent pheromone to your [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into a Pheromone Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage. When you use the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, each creature within the explosion makes a Wisdom saving throw, instead of Dexterity. A target hit by this [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) or that fails its saving throw against it has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition until the start of your next turn or until it takes damage.
+By adding a potent pheromone to your [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into a Pheromone Bomb. This [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage. When you use the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, each creature within the explosion makes a Wisdom saving throw, instead of Dexterity. A target hit by this [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) or that fails its saving throw against it has the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition until the start of your next turn or until it takes damage.
 
 ### Magnetic Personality (Level 6)
 
-You can take the [Influence](Mechanics/CLI/rules/actions.md#Influence) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+You can take the [Influence](/Mechanics/CLI/actions.md#Influence) action as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 ### Beguiling Perfume (Level 10)
 
@@ -75,12 +74,16 @@ You wear a mind-altering perfume that endears others to you. When an enemy withi
 
 ### Alchemical Romance (Level 14)
 
-When you use your Pheromone Bomb, you can expend 1-4 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to improve it. Choose a number of benefits equal to the number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) expended.
+When you use your Pheromone Bomb, you can expend 1-4 [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to improve it. Choose a number of benefits equal to the number of [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) expended.
 
-**Dreamy Haze.** Choose one creature that has the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition. While [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), that creature falls into a dreamy state in which it regards every creature it sees as the condition's charmer.
+**Dreamy Haze.** Choose one creature that has the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition. While [Charmed](/Mechanics/CLI/conditions.md#Charmed), that creature falls into a dreamy state in which it regards every creature it sees as the condition's charmer.
 
-**Extended Charm.** Choose one creature that has the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition. The [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition lasts for 1 minute for it or until it takes damage.
+**Extended Charm.** Choose one creature that has the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition. The [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition lasts for 1 minute for it or until it takes damage.
 
-**Ignore Immunity.** Your Pheromone Bomb ignores [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition.
+**Ignore Immunity.** Your Pheromone Bomb ignores [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition.
 
-**Toxic Love.** A target hit by your Pheromone Bomb or that fails its saving throw against it takes Poison damage equal to `4d8` plus your Intelligence modifier. A creature takes half as much damage on a successful save. This damage doesn't end the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition.
+**Toxic Love.** A target hit by your Pheromone Bomb or that fails its saving throw against it takes Poison damage equal to `4d8` plus your Intelligence modifier. A creature takes half as much damage on a successful save. This damage doesn't end the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

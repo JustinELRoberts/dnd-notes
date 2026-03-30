@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tortle
-created: 2026-03-09T12:15:33.918-04:00
-modified: 2026-03-09T12:15:33.918-04:00
-published: 2026-03-09T12:15:33.918-04:00
+created: 2026-03-29T21:53:55.923-04:00
+modified: 2026-03-29T21:53:55.923-04:00
+published: 2026-03-29T21:53:55.923-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Tortle (MPMM)
+ac: 17
+hp: 22
+modifier: 0
+hit_dice: 4d8 + 4
+cr: 1/4
+stats:
+  - 15
+  - 10
+  - 12
+  - 11
+  - 13
+  - 12
+source:
+  - MPMM
 ---
 
 # Tortle
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 244_\
 ![](Mechanics/CLI/bestiary/humanoid/img/tortle.webp#right)
-
 The generic tortle stat block here represents a warrior, especially the sort who travels far and wide.
 
 ## Tortles
@@ -33,11 +48,11 @@ Most tortles like to see how other folk live. A tortle can spend decades away fr
 
 ```ad-statblock
 title: Tortle
-![](Mechanics/CLI/bestiary/humanoid/token/tortle-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/tortle-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,9 +61,8 @@ title: Tortle
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +3
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +3
 - **Senses** passive Perception 11
-- **Gear** [light crossbow](Mechanics/CLI/items/light-crossbow-xphb.md), [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** Aquan, Common
 - **Challenge** 1/4
 
@@ -64,7 +78,7 @@ title: Tortle
 
 ***Light Crossbow.*** *Ranged Weapon Attack:* `+2` to hit, range 80/320 ft., one target. *Hit:* 4 (`1d8`) piercing damage.
 
-***Shell Defense.*** The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is [prone](Mechanics/CLI/rules/conditions.md#Prone), its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge.
+***Shell Defense.*** The tortle withdraws into its shell. Until it emerges, it gains a +4 bonus to AC and has advantage on Strength and Constitution saving throws. While in its shell, the tortle is [prone](/Mechanics/CLI/conditions.md#Prone), its speed is 0 and can't increase, it has disadvantage on Dexterity saving throws, it can't take reactions, and the only action it can take is a bonus action to emerge.
 ```
 
 ^statblock
@@ -72,3 +86,7 @@ title: Tortle
 ## Environment
 
 coastal
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 244_

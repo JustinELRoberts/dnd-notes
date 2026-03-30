@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Medusa
-created: 2026-03-09T12:15:33.866-04:00
-modified: 2026-03-09T12:15:33.866-04:00
-published: 2026-03-09T12:15:33.866-04:00
+created: 2026-03-29T21:53:55.658-04:00
+modified: 2026-03-29T21:53:55.658-04:00
+published: 2026-03-29T21:53:55.658-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -14,18 +14,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Medusa
+ac: 15
+hp: 127
+modifier: 2
+hit_dice: 17d8 + 51
+cr: "6"
+stats:
+  - 10
+  - 15
+  - 16
+  - 12
+  - 13
+  - 15
+source:
+  - MM
 ---
 
 # Medusa
 
-_Source: Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/medusa.webp#right)
-
 As deadly as they are ravishing, the serpent-haired medusas suffer an immortal curse brought on by their vanity. They lurk in quiet exile among the tumbled ruins of their former lives, surrounded by the petrified remains of past admirers and would-be heroes.
 
 ## Immortal Splendor
 
-Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](Mechanics/CLI/rules/conditions.md#Petrified), becoming stone monuments to its corruption.
+Men and women who desire eternal youth, beauty, and adoration might pray to malicious gods, beg dragons for ancient magic, or seek out powerful archmages to fulfill their wishes. Others make sacrifices to demon lords or archdevils, offering all in exchange for this gift, oblivious to the curse that accompanies it. Those who strike such bargains gain physical beauty, restored youth, immortality, and the adoration of all who behold them, granting them the influence and power they so desire. However, after years of the living like a demigod among mortals, the price for their vanity and hubris is exacted, and they are forever transformed into medusas. A medusa's hair turns into a nest of venomous serpents, and all who gaze upon the medusa are [petrified](/Mechanics/CLI/conditions.md#Petrified), becoming stone monuments to its corruption.
 
 ## Medusa Lairs
 
@@ -37,11 +52,11 @@ A medusa is subject to its own curse. By looking vainly on its reflection, it tu
 
 ```ad-statblock
 title: Medusa
-![](Mechanics/CLI/bestiary/monstrosity/token/medusa.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/medusa.webp#token)
 *Medium monstrosity, Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 127 (`17d8 + 51`) 
+- **Hit Points** 127 (17d8 + 51) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,17 +65,16 @@ title: Medusa
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Insight](Mechanics/CLI/rules/skills.md#Insight) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Insight](/Mechanics/CLI/skills.md#Insight) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Common
 - **Challenge** 6
 
 ## Traits
 
-***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is instantly [petrified](Mechanics/CLI/rules/conditions.md#Petrified). Otherwise, a creature that fails the save begins to turn to stone and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). The [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature must repeat the saving throw at the end of its next turn, becoming [petrified](Mechanics/CLI/rules/conditions.md#Petrified) on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
+***Petrifying Gaze.*** When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is instantly [petrified](/Mechanics/CLI/conditions.md#Petrified). Otherwise, a creature that fails the save begins to turn to stone and is [restrained](/Mechanics/CLI/conditions.md#Restrained). The [restrained](/Mechanics/CLI/conditions.md#Restrained) creature must repeat the saving throw at the end of its next turn, becoming [petrified](/Mechanics/CLI/conditions.md#Petrified) on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
 
-Unless [surprised](Mechanics/CLI/rules/conditions.md#Surprised), a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
+Unless [surprised](/Mechanics/CLI/conditions.md#Surprised), a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it can't see the medusa until the start of its next turn, when it can avert its eyes again. If the creature looks at the medusa in the meantime, it must immediately make the save.
 
 If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
@@ -80,3 +94,7 @@ If the medusa sees itself reflected on a polished surface within 30 feet of it a
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

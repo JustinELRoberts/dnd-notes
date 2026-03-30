@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Falling into Water
-created: 2026-03-09T12:15:34.049-04:00
-modified: 2026-03-09T12:15:34.049-04:00
-published: 2026-03-09T12:15:34.049-04:00
+created: 2026-03-29T21:53:56.061-04:00
+modified: 2026-03-29T21:53:56.061-04:00
+published: 2026-03-29T21:53:56.061-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/hazard/wld
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _Wilderness Hazard_
 
-A creature that falls into water or another liquid can use its reaction to make a DC 15 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
+A creature that falls into water or another liquid can use its reaction to make a DC 15 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/Mechanics/CLI/skills.md#Acrobatics)) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
 
 ## Sources
 

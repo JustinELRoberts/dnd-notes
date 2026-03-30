@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gold Dragon Wyrmling
-created: 2026-03-09T12:15:33.903-04:00
-modified: 2026-03-09T12:15:33.903-04:00
-published: 2026-03-09T12:15:33.903-04:00
+created: 2026-03-29T21:53:55.901-04:00
+modified: 2026-03-29T21:53:55.901-04:00
+published: 2026-03-29T21:53:55.901-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gold Dragon Wyrmling
+ac: 17
+hp: 60
+modifier: 2
+hit_dice: 8d8 + 24
+cr: "3"
+stats:
+  - 19
+  - 14
+  - 17
+  - 14
+  - 11
+  - 16
+source:
+  - MM
 ---
 
 # Gold Dragon Wyrmling
 
-_Source: Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/gold-dragon.webp#right)
-
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
 A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
@@ -92,11 +107,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Gold Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/gold-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/gold-dragon-wyrmling.webp#token)
 *Medium dragon, Lawful Good*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 60 (`8d8 + 24`) 
+- **Hit Points** 60 (8d8 + 24) 
 - **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -105,8 +120,8 @@ title: Gold Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4, Constitution +5, Wisdom +2, Charisma +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** fire
 - **Languages** Draconic
 - **Challenge** 3
@@ -126,3 +141,7 @@ title: Gold Dragon Wyrmling
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

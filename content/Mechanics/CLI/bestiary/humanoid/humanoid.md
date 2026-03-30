@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-09T12:15:34.143-04:00
-modified: 2026-03-09T12:15:34.143-04:00
-published: 2026-03-09T12:15:34.143-04:00
+created: 2026-03-29T21:53:56.195-04:00
+modified: 2026-03-29T21:53:56.195-04:00
+published: 2026-03-29T21:53:56.195-04:00
 cssclasses:
   - json5e-note
   - json5e-index
@@ -82,7 +82,6 @@ obsidianUIMode: preview
 - [Emerald Claw Knight](./emerald-claw-knight-efa.md)
 - [Enchanter Wizard](./enchanter-wizard-mpmm.md)
 - [Evoker Wizard](./evoker-wizard-mpmm.md)
-- [Expert](./expert-esk.md)
 - [Ghallanda Troubleshooter](./ghallanda-troubleshooter-efa.md)
 - [Giff](./giff-mpmm.md)
 - [Githyanki Gish](./githyanki-gish-mpmm.md)
@@ -178,7 +177,6 @@ obsidianUIMode: preview
 - [Shadar-kai Soul Monger](./shadar-kai-soul-monger-mpmm.md)
 - [Shadow-Marked Agent](./shadow-marked-agent-efa.md)
 - [Sivis Scribe](./sivis-scribe-efa.md)
-- [Spellcaster](./spellcaster-esk.md)
 - [Spy](./spy.md)
 - [Swashbuckler](./swashbuckler-mpmm.md)
 - [Tarkanan Marauder](./tarkanan-marauder-efa.md)
@@ -203,7 +201,6 @@ obsidianUIMode: preview
 - [Warlock of the Fiend](./warlock-of-the-fiend-mpmm.md)
 - [Warlock of the Great Old One](./warlock-of-the-great-old-one-mpmm.md)
 - [Warlord](./warlord-mpmm.md)
-- [Warrior](./warrior-esk.md)
 - [Werebear](./werebear.md)
 - [Wereboar](./wereboar.md)
 - [Wererat](./wererat.md)

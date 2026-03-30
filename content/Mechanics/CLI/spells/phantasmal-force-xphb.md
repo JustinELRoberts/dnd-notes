@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Phantasmal Force
-created: 2026-03-09T12:15:34.019-04:00
-modified: 2026-03-09T12:15:34.019-04:00
-published: 2026-03-09T12:15:34.019-04:00
+created: 2026-03-29T21:53:56.029-04:00
+modified: 2026-03-29T21:53:56.029-04:00
+published: 2026-03-29T21:53:56.029-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
@@ -21,23 +22,12 @@ tags:
   - ttrpg-cli/spell/subclass/great-old-one-patron
   - ttrpg-cli/spell/subclass/house-of-bishops
   - ttrpg-cli/spell/subclass/illusionist
+  - ttrpg-cli/spell/subclass/the-archfey
   - ttrpg-cli/spell/subclass/the-genie/dao
+  - ttrpg-cli/spell/subclass/the-great-old-one
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warlock (Archfey Patron)
-  - Warlock (Great Old One Patron)
-  - Warlock (The Genie, Dao)
-  - Warmage (House of Bishops)
-  - Wizard
-  - Wizard (Illusionist)
 ---
 
 # Phantasmal Force
@@ -49,14 +39,38 @@ _2nd-level, Illusion_
 - **Components:** V, S, M (a bit of fleece)
 - **Duration:** Concentration, up to 1 minute
 
-You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
+You attempt to craft an illusion in the mind of a creature you can see within range. The target makes an Intelligence saving throw. On a failed save, you create a phantasmal object, creature, or other phenomenon that is no larger than a 10-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) and that is perceivable only to the target for the duration. The phantasm includes sound, temperature, and other stimuli.
 
-The target can take a [Study](Mechanics/CLI/rules/actions.md#Study) action to examine the phantasm with an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
+The target can take a [Study](/Mechanics/CLI/actions.md#Study) action to examine the phantasm with an Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check against your spell save DC. If the check succeeds, the target realizes that the phantasm is an illusion, and the spell ends.
 
 While affected by the spell, the target treats the phantasm as if it were real and rationalizes any illogical outcomes from interacting with it. For example, if the target steps through a phantasmal bridge and survives the fall, it believes the bridge exists and something else caused it to fall.
 
 An affected target can even take damage from the illusion if the phantasm represents a dangerous creature or hazard. On each of your turns, such a phantasm can deal `2d8` Psychic damage to the target if it is in the phantasm's area or within 5 feet of the phantasm. The target perceives the damage as a type appropriate to the illusion.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock (Archfey Patron)](Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Great Old One Patron)](Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Genie, Dao)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock (The Great Old One)](/Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md "class=XPHB")
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Warlock (Archfey Patron)](/Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Wizard (Illusionist)](/Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock (The Great Old One)](/Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md)
+- [Warlock (The Genie, Dao)](/Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Warlock (The Archfey)](/Mechanics/CLI/lists/list-spells-classes-the-archfey.md "class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Warlock (Great Old One Patron)](/Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb.md "subclass=XPHB;class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Warlock (The Genie, Dao)](/Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Warlock (The Archfey)](/Mechanics/CLI/lists/list-spells-classes-the-archfey.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

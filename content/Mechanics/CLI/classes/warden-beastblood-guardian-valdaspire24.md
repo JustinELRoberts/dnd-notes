@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Beastblood Guardian
-created: 2026-03-09T12:15:34.093-04:00
-modified: 2026-03-09T12:15:34.093-04:00
-published: 2026-03-09T12:15:34.093-04:00
+created: 2026-03-29T21:53:56.123-04:00
+modified: 2026-03-29T21:53:56.123-04:00
+published: 2026-03-29T21:53:56.123-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warden/beastblood-guardian
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Beastblood Guardian
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,32 +58,36 @@ You have formed a bond with Beasts and have taken up the task of defending them.
 
 Your connection with Beasts of the wilds grants you the following benefits.
 
-**Animal Instincts.** You gain proficiency in the [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Survival](Mechanics/CLI/rules/skills.md#Survival) skill. Additionally, you gain a bonus to checks using the chosen skill equal to your Constitution modifier (minimum bonus of +1).
+**Animal Instincts.** You gain proficiency in the [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Nature](/Mechanics/CLI/skills.md#Nature), or [Survival](/Mechanics/CLI/skills.md#Survival) skill. Additionally, you gain a bonus to checks using the chosen skill equal to your Constitution modifier (minimum bonus of +1).
 
-**Bloodied Fury.** At the start of your turn while you're [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you can gain [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls you make until the end of your turn. Once you use this benefit, you can't use it again until you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) or finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Bloodied Fury.** At the start of your turn while you're [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you can gain [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls you make until the end of your turn. Once you use this benefit, you can't use it again until you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) or finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Roar (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you release a bellowing roar in a 5-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. Each Large or smaller creature you choose within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) is pushed 5 feet away from you and it can't make [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) until the start of its next turn.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you release a bellowing roar in a 5-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. Each Large or smaller creature you choose within the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) is pushed 5 feet away from you and it can't make [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) until the start of its next turn.
 
 ### Hunting Grounds (Level 6)
 
 You can move through the wilds as a Beast does, granting you the following benefits.
 
-**Ignore Difficult Terrain.** [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement.
+**Ignore Difficult Terrain.** [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement.
 
-**Climb and Swim Speed.** You have a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md) and a [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+**Climb and Swim Speed.** You have a [Climb Speed](/Mechanics/CLI/variant-rules/climb-speed-xphb.md) and a [Swim Speed](/Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ### Wild Pounce (Level 10)
 
-Once per turn when you hit a Large or smaller creature with an attack roll using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), the target takes an extra `1d8` Slashing damage and has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+Once per turn when you hit a Large or smaller creature with an attack roll using a Melee weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), the target takes an extra `1d8` Slashing damage and has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 
 ### Aspect of the Beast (Level 17)
 
-You can assume the bloodthirsty visage of the Primal Beast. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can assume the bloodthirsty visage of the Primal Beast. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Bloodied Frenzy.** While you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls.
+**Bloodied Frenzy.** While you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls.
 
-**Bleeding Wounds.** When you hit a creature with an attack using a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can deal the target a bleeding wound. A creature with a bleeding wound can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and takes `1d10` Necrotic damage for each of its wounds at the start of each of its turns. This damage ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md). A creature can take an action to staunch all of its bleeding wounds. A creature can have a maximum of six bleeding wounds at once.
+**Bleeding Wounds.** When you hit a creature with an attack using a weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can deal the target a bleeding wound. A creature with a bleeding wound can't regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) and takes `1d10` Necrotic damage for each of its wounds at the start of each of its turns. This damage ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md). A creature can take an action to staunch all of its bleeding wounds. A creature can have a maximum of six bleeding wounds at once.
 
-**Furious Speed.** Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) doubles.
+**Furious Speed.** Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) doubles.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

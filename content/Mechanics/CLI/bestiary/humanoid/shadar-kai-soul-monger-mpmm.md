@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadar-kai Soul Monger
-created: 2026-03-09T12:15:34.097-04:00
-modified: 2026-03-09T12:15:34.097-04:00
-published: 2026-03-09T12:15:34.097-04:00
+created: 2026-03-29T21:53:56.129-04:00
+modified: 2026-03-29T21:53:56.129-04:00
+published: 2026-03-29T21:53:56.129-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/11
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shadar-kai Soul Monger (MPMM)
+ac: 15
+hp: 136
+modifier: 3
+hit_dice: 21d8 + 42
+cr: "11"
+stats:
+  - 8
+  - 17
+  - 14
+  - 19
+  - 16
+  - 13
+source:
+  - MPMM
 ---
 
 # Shadar-kai Soul Monger
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 214_\
 ![](Mechanics/CLI/bestiary/humanoid/img/shadar-kai-soul-monger.webp#right)
-
 Wracked with despair over the loss of memories of a brighter time, soul mongers crave the vitality of others. The aching void within a soul monger radiates outward, manifesting as an unbearable weight that drains the vigor of anyone unfortunate enough to be in their presence. Those who have escaped the onslaught of a soul monger can hardly shake the memory of the sound they make—the moan of a tortured soul, lost in a bottomless well of tragedy.
 
 ## Shadar-kai
@@ -44,11 +59,11 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 
 ```ad-statblock
 title: Shadar-kai Soul Monger
-![](Mechanics/CLI/bestiary/humanoid/token/shadar-kai-soul-monger-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/shadar-kai-soul-monger-mpmm.webp#token)
 *Medium humanoid (elf), Typically  Neutral Evil*
 
-- **Armor Class** 15 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 136 (`21d8 + 42`) 
+- **Armor Class** 15 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 136 (21d8 + 42) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,16 +72,16 @@ title: Shadar-kai Soul Monger
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +7, Wisdom +7, Charisma +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 17
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 17
 - **Damage Immunities** necrotic, psychic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Common, Elvish
 - **Challenge** 11
 
 ## Traits
 
-***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put it to sleep.
+***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put it to sleep.
 
 ***Magic Resistance.*** The shadar-kai has advantage on saving throws against spells and other magical effects.
 
@@ -80,11 +95,11 @@ title: Shadar-kai Soul Monger
 
 ***Shadow Dagger.*** *Melee  or Ranged Weapon Attack:* `+7` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 13 (`4d4 + 3`) piercing damage plus 19 (`3d12`) necrotic damage, and the target has disadvantage on saving throws until the end of the shadar-kai's next turn. *Hit or Miss:* The dagger magically returns to the shadar-kai's hand immediately after a ranged attack.
 
-***Wave of Weariness (Recharge 4-6).*** The shadar-kai emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (`10d8`) psychic damage and suffers 1 level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion). On a successful save, it takes half as much damage and doesn't gain a level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion).
+***Wave of Weariness (Recharge 4-6).*** The shadar-kai emits weariness in a 60-foot cube. Each creature in that area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 45 (`10d8`) psychic damage and suffers 1 level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion). On a successful save, it takes half as much damage and doesn't gain a level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion).
 
 ***Spellcasting.*** The shadar-kai casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**1/day each:** [bestow curse](Mechanics/CLI/spells/bestow-curse-xphb.md), [finger of death](Mechanics/CLI/spells/finger-of-death-xphb.md), [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md), [seeming](Mechanics/CLI/spells/seeming-xphb.md)
+**1/day each:** [bestow curse](/Mechanics/CLI/spells/bestow-curse-xphb.md), [finger of death](/Mechanics/CLI/spells/finger-of-death-xphb.md), [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md), [seeming](/Mechanics/CLI/spells/seeming-xphb.md)
 ```
 
 ^statblock
@@ -92,3 +107,7 @@ title: Shadar-kai Soul Monger
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 214_

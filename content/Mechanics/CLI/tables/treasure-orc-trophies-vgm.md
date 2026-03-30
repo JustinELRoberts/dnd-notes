@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Treasure; Orc Trophies
-created: 2026-03-09T12:15:34.384-04:00
-modified: 2026-03-09T12:15:34.384-04:00
-published: 2026-03-09T12:15:34.384-04:00
+created: 2026-03-29T21:53:56.483-04:00
+modified: 2026-03-29T21:53:56.483-04:00
+published: 2026-03-29T21:53:56.483-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
 cssclasses:
@@ -29,7 +29,7 @@ _Source: Volo's Guide to Monsters p. 90_
 | 7 | `1d8` eyeballs |
 | 8 | Flayed elf skin |
 | 9 | Dire wolf hide |
-| 10 | [Random trinket](Mechanics/CLI/items/trinket-xphb.md)\* |
+| 10 | [Random trinket](/Mechanics/CLI/items/trinket-xphb.md)\* |
 ^orc-trophies
 
 - Roll on the Trinkets table in chapter 5 of the Player's Handbook.

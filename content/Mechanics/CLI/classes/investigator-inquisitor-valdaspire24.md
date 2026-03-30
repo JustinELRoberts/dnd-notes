@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Inquisitor
-created: 2026-03-09T12:15:33.923-04:00
-modified: 2026-03-09T12:15:33.923-04:00
-published: 2026-03-09T12:15:33.923-04:00
+created: 2026-03-29T21:53:55.927-04:00
+modified: 2026-03-29T21:53:55.927-04:00
+published: 2026-03-29T21:53:55.927-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/investigator/inquisitor
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Inquisitor
 
-_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -61,30 +60,34 @@ As a righteous Inquisitor, you are tasked with rooting out heresy, exorcising de
 
 Your training as an inquisitor grants you the following benefits.
 
-**Consecrated Armor.** You add [Consecrated Armor](Mechanics/CLI/spells/consecrated-armor-valdaspire24.md) to your grimoire for free. When you cast it, your base AC becomes 13 plus your Dexterity modifier.
+**Consecrated Armor.** You add [Consecrated Armor](/Mechanics/CLI/spells/consecrated-armor-valdaspire24.md) to your grimoire for free. When you cast it, your base AC becomes 13 plus your Dexterity modifier.
 
-**Dogma.** Whenever you make an Intelligence ([Religion](Mechanics/CLI/rules/skills.md#Religion)) check, you can treat a `d20` roll of 9 or lower as a 10.
+**Dogma.** Whenever you make an Intelligence ([Religion](/Mechanics/CLI/skills.md#Religion)) check, you can treat a `d20` roll of 9 or lower as a 10.
 
 ### Trinkets (Level 3)
 
 You can use the following trinkets.
 
-**Alabaster Balm.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) without a spell slot or components.
+**Alabaster Balm.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md) without a spell slot or components.
 
-**Hallowed Chalice.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can enchant a container, such as a cup, that you touch to produce a flask of [Holy Water](Mechanics/CLI/items/holy-water-xphb.md). You can produce one such flask when you use this trinket. For the next hour, you can use a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to produce another flask of [Holy Water](Mechanics/CLI/items/holy-water-xphb.md), until you have created a total of five flasks. Once created, these flasks and [Holy Water](Mechanics/CLI/items/holy-water-xphb.md) vanish after 1 hour.
+**Hallowed Chalice.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can enchant a container, such as a cup, that you touch to produce a flask of [Holy Water](/Mechanics/CLI/items/holy-water-xphb.md). You can produce one such flask when you use this trinket. For the next hour, you can use a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to produce another flask of [Holy Water](/Mechanics/CLI/items/holy-water-xphb.md), until you have created a total of five flasks. Once created, these flasks and [Holy Water](/Mechanics/CLI/items/holy-water-xphb.md) vanish after 1 hour.
 
-**Reliquary of Doubt.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [Detect Thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md) without a spell slot or components. When you cast the spell using this trinket, you can only detect thoughts associated with negative emotions, such as guilt, apprehension, regret, or melancholy.
+**Reliquary of Doubt.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [Detect Thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md) without a spell slot or components. When you cast the spell using this trinket, you can only detect thoughts associated with negative emotions, such as guilt, apprehension, regret, or melancholy.
 
 ### Divine Strike (Level 6)
 
-Once on each of your turns when you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action and hit a creature with a weapon, you can cause the target to take an extra `1d8` Necrotic or Radiant damage (your choice).
+Once on each of your turns when you take the [Attack](/Mechanics/CLI/actions.md#Attack) action and hit a creature with a weapon, you can cause the target to take an extra `1d8` Necrotic or Radiant damage (your choice).
 
 ### Rote Piety (Level 10)
 
-You can use your [Holy Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Holy%20Trinkets%20\(Level%207\)) three times without expending a use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)). You regain these uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use your [Holy Trinkets](/Mechanics/CLI/classes/investigator-valdaspire24.md#Holy%20Trinkets%20\(Level%207\)) three times without expending a use of your [Trinkets](/Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)). You regain these uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Excommunication (Level 14)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can emblazon a mark of condemnation upon a creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw against your spell save DC or be marked for 1 minute. While marked, the target takes `6d6` Radiant damage at the start of each of its turns, can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), and can't have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md). A marked target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a success.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can emblazon a mark of condemnation upon a creature you can see within 60 feet of you. The target must succeed on a Wisdom saving throw against your spell save DC or be marked for 1 minute. While marked, the target takes `6d6` Radiant damage at the start of each of its turns, can't regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), and can't have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on [D20 Tests](/Mechanics/CLI/variant-rules/d20-test-xphb.md). A marked target can repeat its saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-Once you mark a creature using this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
+Once you mark a creature using this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](/Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

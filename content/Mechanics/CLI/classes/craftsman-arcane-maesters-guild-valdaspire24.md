@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Arcane Maesters' Guild
-created: 2026-03-09T12:15:33.994-04:00
-modified: 2026-03-09T12:15:33.994-04:00
-published: 2026-03-09T12:15:33.994-04:00
+created: 2026-03-29T21:53:56.004-04:00
+modified: 2026-03-29T21:53:56.004-04:00
+published: 2026-03-29T21:53:56.004-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/craftsman/arcane-maesters
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Arcane Maesters' Guild
 
-_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,7 +56,7 @@ While most seasoned spellcasters will enchant a handful of magic items over the 
 
 ### Arcane Apprenticeship (Level 3)
 
-You learn [True Strike](Mechanics/CLI/spells/true-strike-xphb.md) and two other cantrips of your choice from the Wizard spell list. Intelligence is your spellcasting ability for these spells. Whenever you gain a new Craftsman level, you can replace one of the cantrips you chose with this feature with another one from the Wizard spell list.
+You learn [True Strike](/Mechanics/CLI/spells/true-strike-xphb.md) and two other cantrips of your choice from the Wizard spell list. Intelligence is your spellcasting ability for these spells. Whenever you gain a new Craftsman level, you can replace one of the cantrips you chose with this feature with another one from the Wizard spell list.
 
 ### Magic Item Crafting (Level 3)
 
@@ -69,7 +68,7 @@ The Magic Item Crafting sidebar details the magic items you can create, specifie
 
 **Magic Item Limitations.** From among those available Craftsman level 6, you can craft 5 magic items. You can craft 3 from among those available at level 10, and 3 from among those available at level 14. In the process of creating a new magic item, you can choose another magic item you have created and render it nonmagical to build a new one from the same category.
 
-**Save DC.** If a magic item you use forces a creature to make a saving throw, you can use its DC or the following calculation: 8 plus your Intelligence modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+**Save DC.** If a magic item you use forces a creature to make a saving throw, you can use its DC or the following calculation: 8 plus your Intelligence modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
 The following lists show which magic items you can create, the craftsman level you must have, and the cost in materials each item requires.
 
@@ -120,14 +119,18 @@ The following lists show which magic items you can create, the craftsman level y
 
 ### Arcane Strike (Level 6)
 
-When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action or with taking the [Magic](Mechanics/CLI/rules/actions.md#Magic) action to use a magic item that requires that action.
+When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action or with taking the [Magic](/Mechanics/CLI/actions.md#Magic) action to use a magic item that requires that action.
 
 ### Sever Connection (Level 10)
 
-When a creature hits you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to end your [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md) to one magic item to create a shield of magical force. Until the start of your next turn, you have a bonus to AC equal to your Intelligence modifier, including against the triggering attack, potentially causing the attack to miss you. The number of magic items you can attune to is reduced by 1 until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When a creature hits you with an attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to end your [Attunement](/Mechanics/CLI/variant-rules/attunement-xphb.md) to one magic item to create a shield of magical force. Until the start of your next turn, you have a bonus to AC equal to your Intelligence modifier, including against the triggering attack, potentially causing the attack to miss you. The number of magic items you can attune to is reduced by 1 until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Magic Item Recharge (Level 14)
 
-When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can recharge a number of magic items up to your Intelligence modifier that have charges or properties that recharge at the next dawn.
+When you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you can recharge a number of magic items up to your Intelligence modifier that have charges or properties that recharge at the next dawn.
 
-Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

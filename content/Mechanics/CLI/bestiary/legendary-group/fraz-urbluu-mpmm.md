@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fraz-Urb'luu
-created: 2026-03-09T12:15:34.412-04:00
-modified: 2026-03-09T12:15:34.412-04:00
-published: 2026-03-09T12:15:34.412-04:00
+created: 2026-03-29T21:53:56.508-04:00
+modified: 2026-03-29T21:53:56.508-04:00
+published: 2026-03-29T21:53:56.508-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/legendary-group
@@ -23,7 +23,7 @@ On initiative count 20 (losing initiative ties), Fraz-Urb'luu can take one of th
 
 - **Conjure Walls and Doors.** Fraz-Urb'luu causes up to five doors within the lair to become walls and an equal number of doors to appear on walls where there previously were none.
 - **Psychic Anguish.** Fraz-Urb'luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (`6d10`) psychic damage.
-- **Simulacrum.** Fraz-Urb'luu chooses one Humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [simulacrum](Mechanics/CLI/spells/simulacrum-xphb.md) spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.
+- **Simulacrum.** Fraz-Urb'luu chooses one Humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [simulacrum](/Mechanics/CLI/spells/simulacrum-xphb.md) spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.
 
 ## Regional Effects
 
@@ -31,7 +31,7 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 The region containing Fraz-Urb'luu's lair is warped by his magic, creating one or more of the following effects:
 
-- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) and Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) checks have disadvantage, and all Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) and Charisma ([Performance](Mechanics/CLI/rules/skills.md#Performance)) checks have advantage.
+- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) and Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) checks have disadvantage, and all Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) and Charisma ([Performance](/Mechanics/CLI/skills.md#Performance)) checks have advantage.
 - **Nostalgic Pangs.** Sapient creatures within 1 mile of the lair frequently see hallucinations of long-dead friends and comrades that vanish after only a brief glimpse.
 - **Twisted Paths.** Roads and paths within 6 miles of the lair twist and turn back on themselves, making navigation in the area exceedingly difficult.
 

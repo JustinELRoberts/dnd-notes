@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orog
-created: 2026-03-09T12:15:33.841-04:00
-modified: 2026-03-09T12:15:33.841-04:00
-published: 2026-03-09T12:15:33.841-04:00
+created: 2026-03-29T21:53:55.627-04:00
+modified: 2026-03-29T21:53:55.627-04:00
+published: 2026-03-29T21:53:55.627-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -19,13 +19,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orog
+ac: 18
+hp: 42
+modifier: 1
+hit_dice: 5d8 + 20
+cr: "2"
+stats:
+  - 18
+  - 12
+  - 18
+  - 12
+  - 11
+  - 12
+source:
+  - MM
 ---
 
 # Orog
 
-_Source: Monster Manual p. 247_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orog.webp#right)
-
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
 ## Gruumsh One-Eye
@@ -80,11 +95,11 @@ Mistrusted by orcs, some orogs form independent mercenary war bands that sell th
 
 ```ad-statblock
 title: Orog
-![](Mechanics/CLI/bestiary/humanoid/token/orog.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orog.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 18 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 42 (`5d8 + 20`) 
+- **Armor Class** 18 ([plate armor](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 42 (5d8 + 20) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -93,9 +108,8 @@ title: Orog
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +5, [Survival](Mechanics/CLI/rules/skills.md#Survival) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md), [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +5, [Survival](/Mechanics/CLI/skills.md#Survival) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Orc
 - **Challenge** 2
 
@@ -117,3 +131,7 @@ title: Orog
 ## Environment
 
 underdark, mountain, grassland, forest, hill, arctic
+
+## Sources
+
+_Monster Manual p. 247_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cyclops
-created: 2026-03-09T12:15:33.910-04:00
-modified: 2026-03-09T12:15:33.910-04:00
-published: 2026-03-09T12:15:33.910-04:00
+created: 2026-03-29T21:53:55.912-04:00
+modified: 2026-03-29T21:53:55.912-04:00
+published: 2026-03-29T21:53:55.912-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -19,13 +19,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cyclops
+ac: 14
+hp: 138
+modifier: 0
+hit_dice: 12d12 + 60
+cr: "6"
+stats:
+  - 22
+  - 11
+  - 20
+  - 8
+  - 6
+  - 10
+source:
+  - MM
 ---
 
 # Cyclops
 
-_Source: Monster Manual p. 45. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/cyclops.webp#right)
-
 Cyclopes are one-eyed giants that eke out a meager existence in wild lands. Isolationists by nature, they avoid contact with other races and try to drive away strangers in their territory.
 
 ## Nonreligious
@@ -46,11 +61,11 @@ Cyclopes aren't great thinkers or strategists. Slow to learn and bound to their 
 
 ```ad-statblock
 title: Cyclops
-![](Mechanics/CLI/bestiary/giant/token/cyclops.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/cyclops.webp#token)
 *Huge giant, Chaotic Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 138 (`12d12 + 60`) 
+- **Hit Points** 138 (12d12 + 60) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,7 +76,6 @@ title: Cyclops
 - **Saving Throws** ⏤
 - **Skills** ⏤
 - **Senses** passive Perception 8
-- **Gear** [greatclub](Mechanics/CLI/items/greatclub-xphb.md)
 - **Languages** Giant
 - **Challenge** 6
 
@@ -83,3 +97,7 @@ title: Cyclops
 ## Environment
 
 underdark, mountain, grassland, hill, desert, coastal
+
+## Sources
+
+_Monster Manual p. 45. Available in the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Illuminator's Tattoo
-created: 2026-03-09T12:15:33.960-04:00
-modified: 2026-03-09T12:15:33.960-04:00
-published: 2026-03-09T12:15:33.960-04:00
+created: 2026-03-29T21:53:55.964-04:00
+modified: 2026-03-29T21:53:55.965-04:00
+published: 2026-03-29T21:53:55.965-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,9 @@ obsidianUIMode: preview
 
 _Wondrous item (tattoo), common (requires attunement)_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Produced by a special needle, this magic tattoo features beautiful calligraphy, images of writing implements, and the like.
 
 ## Tattoo Attunement
@@ -31,6 +34,8 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 While this tattoo is on your skin, you can write with your fingertip as if it were an ink pen that never runs out of ink.
 
-As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible) to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
+As an action, you can touch a piece of writing up to one page in length and speak a creature's name. The writing becomes [invisible](/Mechanics/CLI/conditions.md#Invisible) to everyone other than you and the named creature for the next 24 hours. Either of you can dismiss the invisibility by touching the script (no action required). Once used, this action can't be used again until the next dawn.
 
-_Source: Tasha's Cauldron of Everything p. 129_
+## Sources
+
+_Tasha's Cauldron of Everything p. 129_

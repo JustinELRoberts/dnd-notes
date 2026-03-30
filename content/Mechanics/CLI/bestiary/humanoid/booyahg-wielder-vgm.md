@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Booyahg Wielder
-created: 2026-03-09T12:15:33.789-04:00
-modified: 2026-03-09T12:15:33.789-04:00
-published: 2026-03-09T12:15:33.789-04:00
+created: 2026-03-29T21:53:55.572-04:00
+modified: 2026-03-29T21:53:55.572-04:00
+published: 2026-03-29T21:53:55.572-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/1-4
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Booyahg Wielder (VGM)
+ac: 15
+hp: 7
+modifier: 2
+hit_dice: 2d6
+cr: 1/4
+stats:
+  - 8
+  - 14
+  - 10
+  - 10
+  - 8
+  - 8
+source:
+  - VGM
 ---
 
 # Booyahg Wielder
 
-_Source: Volo's Guide to Monsters p. 42_
-
-This goblin found a magic item (a [necklace of fireballs](Mechanics/CLI/items/necklace-of-fireballs.md), a [circlet of blasting](Mechanics/CLI/items/circlet-of-blasting.md), or the like) and learned how to use it.
+This goblin found a magic item (a [necklace of fireballs](/Mechanics/CLI/items/necklace-of-fireballs.md), a [circlet of blasting](/Mechanics/CLI/items/circlet-of-blasting.md), or the like) and learned how to use it.
 
 ## Booyahgs
 
@@ -33,11 +48,11 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Wielder
-![](Mechanics/CLI/bestiary/humanoid/token/booyahg-wielder-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/booyahg-wielder-vgm.webp#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 15 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 7 (`2d6`) 
+- **Armor Class** 15 ([leather armor](/Mechanics/CLI/items/leather-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 7 (2d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,17 +61,16 @@ title: Booyahg Wielder
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md), [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** Common, Goblin
 - **Challenge** 1/4
 
 ## Traits
 
-***Nimble Escape.*** The goblin can take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action on each of its turns.
+***Nimble Escape.*** The goblin can take the [Disengage](/Mechanics/CLI/actions.md#Disengage) or [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action on each of its turns.
 
-***Special Equipment.*** The goblin found a magic item (a [necklace of fireballs](Mechanics/CLI/items/necklace-of-fireballs.md), a [circlet of blasting](Mechanics/CLI/items/circlet-of-blasting.md), or the like) and learned how to use it.
+***Special Equipment.*** The goblin found a magic item (a [necklace of fireballs](/Mechanics/CLI/items/necklace-of-fireballs.md), a [circlet of blasting](/Mechanics/CLI/items/circlet-of-blasting.md), or the like) and learned how to use it.
 
 ## Actions
 
@@ -66,3 +80,7 @@ title: Booyahg Wielder
 ```
 
 ^statblock
+
+## Sources
+
+_Volo's Guide to Monsters p. 42_

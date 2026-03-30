@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bard
-created: 2026-03-09T12:15:34.129-04:00
-modified: 2026-03-09T12:15:34.130-04:00
-published: 2026-03-09T12:15:34.130-04:00
+created: 2026-03-29T21:53:56.174-04:00
+modified: 2026-03-29T21:53:56.174-04:00
+published: 2026-03-29T21:53:56.174-04:00
 tags:
   - ttrpg-cli/class/bard
   - ttrpg-cli/compendium/src/5e/xphb
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Bard
-
-_Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,29 +46,29 @@ _Source: Player's Handbook (2024) p. 58. Available in the <span title='Systems R
 
 ^class-progression
 
-![](Mechanics/CLI/classes/img/bard.webp#right)
-
 ## Hit Points
+
+![](Mechanics/CLI/classes/img/bard.webp#right)
 
 - **Hit Dice**: 1d8 per Bard level
 - **Hit Points at First Level:** 8 + CON
 - **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
 
-## Starting Bard
+## Starting a Bard
 
 - **Saving Throw Proficiencies**: Charisma, Dexterity
-- **Skill Proficiencies**: Choose 3 [skills](Mechanics/CLI/rules/skills.md)
+- **Skill Proficiencies**: Choose 3 [skills](/Mechanics/CLI/skills.md)
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**: Choose three [Musical Instruments](Mechanics/CLI/items/musical-instrument-xphb.md)
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Tool Proficiencies**: Choose three [Musical Instruments](/Mechanics/CLI/items/musical-instrument-xphb.md)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor)
 
-**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), 2 [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md) of your choice, [Entertainer's Pack](Mechanics/CLI/items/entertainers-pack-xphb.md), 19 GP; or (B) 90 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](/Mechanics/CLI/items/leather-armor-xphb.md), 2 [Dagger](/Mechanics/CLI/items/dagger-xphb.md), [Musical Instrument](/Mechanics/CLI/items/musical-instrument-xphb.md) of your choice, [Entertainer's Pack](/Mechanics/CLI/items/entertainers-pack-xphb.md), 19 GP; or (B) 90 GP
 
 ## Multiclassing Bard
 
-- **Skill Proficiencies**: Choose 1 [skill](Mechanics/CLI/rules/skills.md)
-- **Tool Proficiencies**: Choose one [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md)
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Skill Proficiencies**: Choose 1 [skill](/Mechanics/CLI/skills.md)
+- **Tool Proficiencies**: Choose one [Musical Instrument](/Mechanics/CLI/items/musical-instrument-xphb.md)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor)
 
 ## Bard
 
@@ -86,11 +84,11 @@ A Bard's life is spent traveling, gathering lore, telling stories, and living on
 
 You can supernaturally inspire others through words, music, or dance. This inspiration is represented by your Bardic Inspiration die, which is a `d6`.
 
-**Using Bardic Inspiration.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
+**Using Bardic Inspiration.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can inspire another creature within 60 feet of yourself who can see or hear you. That creature gains one of your Bardic Inspiration dice. A creature can have only one Bardic Inspiration die at a time.
 
-Once within the next hour when the creature fails a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the creature can roll the Bardic Inspiration die and add the number rolled to the `d20`, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
+Once within the next hour when the creature fails a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), the creature can roll the Bardic Inspiration die and add the number rolled to the `d20`, potentially turning the failure into a success. A Bardic Inspiration die is expended when it's rolled.
 
-**Number of Uses.** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Number of Uses.** You can confer a Bardic Inspiration die a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 **At Higher Levels.** Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a `d8` at level 5, a `d10` at level 10, and a `d12` at level 15.
 
@@ -98,15 +96,15 @@ Once within the next hour when the creature fails a [D20 Test](Mechanics/CLI/rul
 
 You have learned to cast spells through your bardic arts. See "chapter 7" for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the Bard spell list later in the class's description.
 
-**Cantrips.** You know two cantrips of your choice from the Bard spell list. [Dancing Lights](Mechanics/CLI/spells/dancing-lights-xphb.md) and [Vicious Mockery](Mechanics/CLI/spells/vicious-mockery-xphb.md) are recommended.
+**Cantrips.** You know two cantrips of your choice from the Bard spell list. [Dancing Lights](/Mechanics/CLI/spells/dancing-lights-xphb.md) and [Vicious Mockery](/Mechanics/CLI/spells/vicious-mockery-xphb.md) are recommended.
 
 Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the Bard spell list.
 
 When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the Bard spell list, as shown in the Cantrips column of the Bard Features table.
 
-**Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Slots.** The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md), [Color Spray](Mechanics/CLI/spells/color-spray-xphb.md), [Dissonant Whispers](Mechanics/CLI/spells/dissonant-whispers-xphb.md), and [Healing Word](Mechanics/CLI/spells/healing-word-xphb.md) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the Bard spell list. [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md), [Color Spray](/Mechanics/CLI/spells/color-spray-xphb.md), [Dissonant Whispers](/Mechanics/CLI/spells/dissonant-whispers-xphb.md), and [Healing Word](/Mechanics/CLI/spells/healing-word-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the Bard spell list until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.
 
@@ -116,23 +114,23 @@ If another Bard feature gives you spells that you always have prepared, those sp
 
 **Spellcasting Ability.** Charisma is your spellcasting ability for your Bard spells.
 
-**Spellcasting Focus.** You can use a [Musical Instrument](Mechanics/CLI/items/musical-instrument-xphb.md) as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Bard spells.
+**Spellcasting Focus.** You can use a [Musical Instrument](/Mechanics/CLI/items/musical-instrument-xphb.md) as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Bard spells.
 
 ### Expertise (Level 2)
 
-You gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in two of your skill proficiencies of your choice. [Performance](Mechanics/CLI/rules/skills.md#Performance) and [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) are recommended if you have proficiency in them.
+You gain [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in two of your skill proficiencies of your choice. [Performance](/Mechanics/CLI/skills.md#Performance) and [Persuasion](/Mechanics/CLI/skills.md#Persuasion) are recommended if you have proficiency in them.
 
-At Bard level 9, you gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in two more of your skill proficiencies of your choice.
+At Bard level 9, you gain [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in two more of your skill proficiencies of your choice.
 
 ### Jack of All Trades (Level 2)
 
-You can add half your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+You can add half your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) (round down) to any ability check you make that uses a skill proficiency you lack and that doesn't otherwise use your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
-For example, if you make a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check and lack [Athletics](Mechanics/CLI/rules/skills.md#Athletics) proficiency, you can add half your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to the check.
+For example, if you make a Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) check and lack [Athletics](/Mechanics/CLI/skills.md#Athletics) proficiency, you can add half your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to the check.
 
 > [!note] A Bard's Repertoire
 >
-> Does your Bard beat a [drum](Mechanics/CLI/items/drum-xphb.md) while chanting the deeds of ancient heroes? Strum a [lute](Mechanics/CLI/items/lute-xphb.md) while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?
+> Does your Bard beat a [drum](/Mechanics/CLI/items/drum-xphb.md) while chanting the deeds of ancient heroes? Strum a [lute](/Mechanics/CLI/items/lute-xphb.md) while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?
 >
 > When you play a Bard, consider the style of artistic performance you favor, the moods you might invoke, and the themes that inspire your own creations. Are your poems inspired by moments of natural beauty, or are they brooding reflections on loss? Do you prefer lofty hymns or rowdy tavern songs? Are you drawn to laments for the fallen or celebrations of joy? Do you dance merry jigs or perform elaborate interpretive choreography? Do you focus on one style of performance or strive to master them all?
 > ^a-bards-repertoire
@@ -143,11 +141,11 @@ You gain a Bard subclass of your choice. A subclass is a specialization that gra
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16.
 
 ### Font of Inspiration (Level 5)
 
-You now regain all your expended uses of Bardic Inspiration when you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You now regain all your expended uses of Bardic Inspiration when you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
 
@@ -157,15 +155,15 @@ You gain a feature from your Bard Subclass.
 
 ### Countercharm (Level 7)
 
-You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to cause the save to be rerolled, and the new roll has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+You can use musical notes or words of power to disrupt mind-influencing effects. If you or a creature within 30 feet of you fails a saving throw against an effect that applies the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to cause the save to be rerolled, and the new roll has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md).
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Expertise (Level 9)
 
-You gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in two of your Skill Proficiencies of your choice.
+You gain [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in two of your Skill Proficiencies of your choice.
 
 ### Magical Secrets (Level 10)
 
@@ -173,7 +171,7 @@ You've learned secrets from various magical traditions. Whenever you reach a Bar
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 14)
 
@@ -181,16 +179,20 @@ You gain a feature from your Bard Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Superior Inspiration (Level 18)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
+When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you regain expended uses of Bardic Inspiration until you have two if you have fewer than that.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Spell Recall](Mechanics/CLI/feats/boon-of-spell-recall-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Spell Recall](/Mechanics/CLI/feats/boon-of-spell-recall-xphb.md) is recommended.
 
 ### Words of Creation (Level 20)
 
-You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [Power Word Heal](Mechanics/CLI/spells/power-word-heal-xphb.md) and [Power Word Kill](Mechanics/CLI/spells/power-word-kill-xphb.md) spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+You have mastered two of the Words of Creation: the words of life and death. You therefore always have the [Power Word Heal](/Mechanics/CLI/spells/power-word-heal-xphb.md) and [Power Word Kill](/Mechanics/CLI/spells/power-word-kill-xphb.md) spells prepared. When you cast either spell, you can target a second creature with it if that creature is within 10 feet of the first target.
+
+## Sources
+
+_Player's Handbook (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

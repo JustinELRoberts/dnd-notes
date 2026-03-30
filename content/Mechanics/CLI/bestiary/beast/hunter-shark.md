@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hunter Shark
-created: 2026-03-09T12:15:34.052-04:00
-modified: 2026-03-09T12:15:34.052-04:00
-published: 2026-03-09T12:15:34.052-04:00
+created: 2026-03-29T21:53:56.065-04:00
+modified: 2026-03-29T21:53:56.065-04:00
+published: 2026-03-29T21:53:56.065-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,21 +14,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hunter Shark
+ac: 12
+hp: 45
+modifier: 1
+hit_dice: 6d10 + 12
+cr: "2"
+stats:
+  - 18
+  - 13
+  - 15
+  - 1
+  - 10
+  - 4
+source:
+  - MM
 ---
 
 # Hunter Shark
-
-_Source: Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 Smaller than a giant shark but larger and fiercer than a reef shark, a hunter shark haunts deep waters. It usually hunts alone, but multiple hunter sharks might feed in the same area. A fully grown hunter shark is 15 to 20 feet long.
 
 ```ad-statblock
 title: Hunter Shark
-![](Mechanics/CLI/bestiary/beast/token/hunter-shark.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/hunter-shark.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 45 (`6d10 + 12`) 
+- **Hit Points** 45 (6d10 + 12) 
 - **Speed** swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,8 +52,8 @@ title: Hunter Shark
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 2
 
@@ -58,3 +73,7 @@ title: Hunter Shark
 ## Environment
 
 underwater
+
+## Sources
+
+_Monster Manual p. 330. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

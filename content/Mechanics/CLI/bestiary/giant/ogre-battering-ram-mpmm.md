@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ogre Battering Ram
-created: 2026-03-09T12:15:34.107-04:00
-modified: 2026-03-09T12:15:34.107-04:00
-published: 2026-03-09T12:15:34.107-04:00
+created: 2026-03-29T21:53:56.141-04:00
+modified: 2026-03-29T21:53:56.141-04:00
+published: 2026-03-29T21:53:56.141-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ogre Battering Ram (MPMM)
+ac: 11
+hp: 76
+modifier: -1
+hit_dice: 9d10 + 27
+cr: "4"
+stats:
+  - 19
+  - 8
+  - 16
+  - 5
+  - 7
+  - 7
+source:
+  - MPMM
 ---
 
 # Ogre Battering Ram
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 200_\
 ![](Mechanics/CLI/bestiary/giant/img/ogre-battering-ram.webp#right)
-
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
 
 ## Ogres of War
@@ -33,11 +48,11 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 
 ```ad-statblock
 title: Ogre Battering Ram
-![](Mechanics/CLI/bestiary/giant/token/ogre-battering-ram-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/ogre-battering-ram-mpmm.webp#token)
 *Large giant, Typically  Chaotic Evil*
 
-- **Armor Class** 11 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 76 (`9d10 + 27`) 
+- **Armor Class** 11 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 76 (9d10 + 27) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,7 +62,7 @@ title: Ogre Battering Ram
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Giant
 - **Challenge** 4
 
@@ -71,3 +86,7 @@ title: Ogre Battering Ram
 ## Environment
 
 grassland, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 200_

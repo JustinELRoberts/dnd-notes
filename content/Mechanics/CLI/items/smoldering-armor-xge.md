@@ -15,9 +15,9 @@ aliases:
   - Smoldering Spiked Armor
   - Smoldering Splint Armor
   - Smoldering Studded Leather Armor
-created: 2026-03-09T12:15:33.951-04:00
-modified: 2026-03-09T12:15:33.951-04:00
-published: 2026-03-09T12:15:33.951-04:00
+created: 2026-03-29T21:53:55.953-04:00
+modified: 2026-03-29T21:53:55.953-04:00
+published: 2026-03-29T21:53:55.953-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/armor/heavy
@@ -35,9 +35,12 @@ obsidianUIMode: preview
 
 _Minor, common_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
-**Variants**:
+## Variants
 
 - [Smoldering Breastplate](#Smoldering%20Breastplate)
 - [Smoldering Chain Mail](#Smoldering%20Chain%20Mail)
@@ -129,4 +132,6 @@ Wisps of harmless, odorless smoke rise from this armor while it is worn.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-_Source: Xanathar's Guide to Everything p. 139_
+## Sources
+
+_Xanathar's Guide to Everything p. 139_

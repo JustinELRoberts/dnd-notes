@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rod of Lordly Might
-created: 2026-03-09T12:15:33.986-04:00
-modified: 2026-03-09T12:15:33.986-04:00
-published: 2026-03-09T12:15:33.986-04:00
+created: 2026-03-29T21:53:55.992-04:00
+modified: 2026-03-29T21:53:55.992-04:00
+published: 2026-03-29T21:53:55.992-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -19,9 +19,10 @@ obsidianUIMode: preview
 
 # Rod of Lordly Might
 
-_Rod ([mace](Mechanics/CLI/items/mace-xphb.md)), melee weapon ([mace](Mechanics/CLI/items/mace-xphb.md)), major, legendary (requires attunement)_\
+_Rod ([mace](/Mechanics/CLI/items/mace.md)), melee weapon ([mace](/Mechanics/CLI/items/mace.md)), major, legendary (requires attunement)_\
 ![](Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 This rod has a flanged head, and it functions as a magic mace that grants a +3 bonus to attack and damage roll made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
@@ -30,7 +31,7 @@ This rod has a flanged head, and it functions as a magic mace that grants a +3 b
 
 You can press one of the rod's six buttons as a bonus action. A button's effect lasts until you push a different button or until you push the same button again, which causes the rod to revert to its normal form.
 
-If you press button 1, the rod becomes a [flame tongue](Mechanics/CLI/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
+If you press button 1, the rod becomes a [flame tongue](/Mechanics/CLI/items/flame-tongue.md) as a fiery blade sprouts from the end opposite the rod's flanged head (you choose the type of sword).
 
 If you press button 2, the rod's flanged head folds down and two crescent-shaped blades spring out, transforming the rod into a magic battleaxe that grants a +3 bonus to attack and damage rolls made with it.
 
@@ -48,10 +49,12 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 
 ## Paralyze
 
-When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
+When you hit a creature with a melee attack using the rod, you can force the target to make a DC 17 Strength saving throw. On a failure, the target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on a success. This property can't be used again until the next dawn.
 
 ## Terrify
 
-While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of you for 1 minute. A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
+While holding the rod, you can use an action to force each creature you can see within 30 feet of you to make a DC 17 Wisdom saving throw. On a failure, a target is [frightened](/Mechanics/CLI/conditions.md#Frightened) of you for 1 minute. A [frightened](/Mechanics/CLI/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until the next dawn.
 
-_Source: Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 196. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

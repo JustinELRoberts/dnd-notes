@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Black Pudding
-created: 2026-03-09T12:15:33.841-04:00
-modified: 2026-03-09T12:15:33.841-04:00
-published: 2026-03-09T12:15:33.841-04:00
+created: 2026-03-29T21:53:55.627-04:00
+modified: 2026-03-29T21:53:55.627-04:00
+published: 2026-03-29T21:53:55.627-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Black Pudding
+ac: 7
+hp: 85
+modifier: -3
+hit_dice: 10d10 + 30
+cr: "4"
+stats:
+  - 16
+  - 5
+  - 16
+  - 1
+  - 6
+  - 1
+source:
+  - MM
 ---
 
 # Black Pudding
 
-_Source: Monster Manual p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/ooze/img/black-pudding.webp#right)
-
 A black pudding resembles a heaving mound of sticky black sludge. In dim passageways, the pudding appears to be little more than a blot of shadow.
 
 Flesh, wood, metal, and bone dissolve when the pudding ebbs over them. Stone remains behind, wiped clean.
@@ -55,11 +70,11 @@ An ooze doesn't require sleep.
 
 ```ad-statblock
 title: Black Pudding
-![](Mechanics/CLI/bestiary/ooze/token/black-pudding.webp#token)
+![](/Mechanics/CLI/bestiary/ooze/token/black-pudding.webp#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 7 
-- **Hit Points** 85 (`10d10 + 30`) 
+- **Hit Points** 85 (10d10 + 30) 
 - **Speed** 20 ft., climb 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -69,9 +84,9 @@ title: Black Pudding
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
 - **Damage Immunities** acid, cold, lightning, slashing
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 4
 
@@ -97,3 +112,7 @@ title: Black Pudding
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 241. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

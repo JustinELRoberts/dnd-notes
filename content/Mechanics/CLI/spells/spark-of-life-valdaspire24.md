@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Spark of Life
-created: 2026-03-09T12:15:33.944-04:00
-modified: 2026-03-09T12:15:33.944-04:00
-published: 2026-03-09T12:15:33.944-04:00
+created: 2026-03-29T21:53:55.946-04:00
+modified: 2026-03-29T21:53:55.946-04:00
+published: 2026-03-29T21:53:55.946-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/necromancer
   - ttrpg-cli/spell/level/cantrip
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -15,9 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Cleric (Death Domain)
-  - Necromancer
 ---
 
 # Spark of Life
@@ -33,6 +31,14 @@ With a quick jolt of necromantic energy, a corpse momentarily rises to obey you.
 
 **Cantrip Upgrade.** The damage increases by one damage die when you reach levels 5 (2 dice), 11 (3 dice), and 17 (4 dice).
 
-**Classes**: [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG")
+- [Necromancer](/Mechanics/CLI/lists/list-spells-classes-necromancer.md)
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alert
-created: 2026-03-09T12:15:33.948-04:00
-modified: 2026-03-09T12:15:33.948-04:00
-published: 2026-03-09T12:15:33.948-04:00
+created: 2026-03-29T21:53:55.950-04:00
+modified: 2026-03-29T21:53:55.950-04:00
+published: 2026-03-29T21:53:55.950-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -17,9 +17,9 @@ obsidianUIMode: preview
 
 You gain the following benefits.
 
-**Initiative Proficiency.** When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can add your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to the roll.
+**Initiative Proficiency.** When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can add your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to the roll.
 
-**Initiative Swap.** Immediately after you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can swap your [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) with the [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Initiative Swap.** Immediately after you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can swap your [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) with the [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) of one willing ally in the same combat. You can't make this swap if you or the ally has the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ## Sources
 

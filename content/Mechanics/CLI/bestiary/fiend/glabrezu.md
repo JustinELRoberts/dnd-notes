@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Glabrezu
-created: 2026-03-09T12:15:33.815-04:00
-modified: 2026-03-09T12:15:33.815-04:00
-published: 2026-03-09T12:15:33.815-04:00
+created: 2026-03-29T21:53:55.599-04:00
+modified: 2026-03-29T21:53:55.599-04:00
+published: 2026-03-29T21:53:55.599-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Glabrezu
+ac: 17
+hp: 157
+modifier: 2
+hit_dice: 15d10 + 75
+cr: "9"
+stats:
+  - 20
+  - 15
+  - 21
+  - 19
+  - 17
+  - 16
+source:
+  - MM
 ---
 
 # Glabrezu
 
-_Source: Monster Manual p. 58. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/glabrezu.webp#right)
-
 A glabrezu takes great pleasure in destroying mortals through temptation, and these creatures are among the few demons to offer their service to creatures foolish enough to summon them.
 
 Although glabrezus are devastating in combat, they prefer to tempt victims into ruin, using power or wealth as a lure. Engaging in guile, trickery, and evil bargains, a glabrezu hoards riches that it uses to fulfill promises to shortsighted summoners and weak-willed mortals. However, if its attempts to entice or deceive fail, a glabrezu has the strength to fight and win.
@@ -164,7 +179,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -194,11 +209,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Glabrezu
-![](Mechanics/CLI/bestiary/fiend/token/glabrezu.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/glabrezu.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 157 (`15d10 + 75`) 
+- **Hit Points** 157 (15d10 + 75) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -208,10 +223,10 @@ title: Glabrezu
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +9, Constitution +9, Wisdom +7, Charisma +7
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 13
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 13
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 9
 
@@ -219,9 +234,9 @@ title: Glabrezu
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
-**At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md)
+**At will:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md)
 
-**1/day each:** [confusion](Mechanics/CLI/spells/confusion-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [power word stun](Mechanics/CLI/spells/power-word-stun-xphb.md)
+**1/day each:** [confusion](/Mechanics/CLI/spells/confusion-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [power word stun](/Mechanics/CLI/spells/power-word-stun-xphb.md)
 
 ***Magic Resistance.*** The glabrezu has advantage on saving throws against spells and other magical effects.
 
@@ -229,9 +244,13 @@ title: Glabrezu
 
 ***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
-***Pincer.*** *Melee Weapon Attack:* `+9` to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
+***Pincer.*** *Melee Weapon Attack:* `+9` to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a Medium or smaller creature, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15). The glabrezu has two pincers, each of which can grapple only one target.
 
 ***Fist.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) bludgeoning damage.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 58. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

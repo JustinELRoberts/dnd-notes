@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spring Eladrin
-created: 2026-03-09T12:15:34.103-04:00
-modified: 2026-03-09T12:15:34.103-04:00
-published: 2026-03-09T12:15:34.103-04:00
+created: 2026-03-29T21:53:56.135-04:00
+modified: 2026-03-29T21:53:56.135-04:00
+published: 2026-03-29T21:53:56.135-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/10
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Spring Eladrin (MPMM)
+ac: 19
+hp: 165
+modifier: 3
+hit_dice: 22d8 + 66
+cr: "10"
+stats:
+  - 14
+  - 16
+  - 16
+  - 18
+  - 11
+  - 18
+source:
+  - MPMM
 ---
 
 # Spring Eladrin
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 116_\
 ![](Mechanics/CLI/bestiary/fey/img/spring-eladrin.webp#right)
-
 Their hearts filled with joy, spring eladrin cavort through their sylvan realms, their songs and laughter filling the air. These playful eladrin beguile other creatures to fill them with the joy of spring. Their antics can lead other creatures into danger and make mischief for them.
 
 ## Eladrin
@@ -40,17 +55,17 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ## Statblock
 
 ```ad-statblock
 title: Spring Eladrin
-![](Mechanics/CLI/bestiary/fey/token/spring-eladrin-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/spring-eladrin-mpmm.webp#token)
 *Medium fey (elf), Typically  Chaotic Neutral*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 165 (`22d8 + 66`) 
+- **Hit Points** 165 (22d8 + 66) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -59,18 +74,17 @@ title: Spring Eladrin
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +8, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +8, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** psychic
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md)
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 10
 
 ## Traits
 
-***Joyful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Joyful Presence for 24 hours.
+***Joyful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes [charmed](/Mechanics/CLI/conditions.md#Charmed) by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Joyful Presence for 24 hours.
 
-Whenever the eladrin deals damage to the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature, the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature can repeat the saving throw, ending the effect on itself on a success.
+Whenever the eladrin deals damage to the [charmed](/Mechanics/CLI/conditions.md#Charmed) creature, the [charmed](/Mechanics/CLI/conditions.md#Charmed) creature can repeat the saving throw, ending the effect on itself on a success.
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
@@ -84,9 +98,9 @@ Whenever the eladrin deals damage to the [charmed](Mechanics/CLI/rules/condition
 
 ***Spellcasting.*** The eladrin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 
-**At will:** [Tasha's hideous laughter](Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)
+**At will:** [Tasha's hideous laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md)
 
-**1/day each:** [major image](Mechanics/CLI/spells/major-image-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**1/day each:** [major image](/Mechanics/CLI/spells/major-image-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
 ## Bonus Actions
 
@@ -98,3 +112,7 @@ Whenever the eladrin deals damage to the [charmed](Mechanics/CLI/rules/condition
 ## Environment
 
 forest, grassland
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 116_

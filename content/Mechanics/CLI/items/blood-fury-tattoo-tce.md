@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Blood Fury Tattoo
-created: 2026-03-09T12:15:34.047-04:00
-modified: 2026-03-09T12:15:34.047-04:00
-published: 2026-03-09T12:15:34.047-04:00
+created: 2026-03-29T21:53:56.059-04:00
+modified: 2026-03-29T21:53:56.059-04:00
+published: 2026-03-29T21:53:56.059-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -18,6 +18,9 @@ obsidianUIMode: preview
 # Blood Fury Tattoo
 
 _Wondrous item (tattoo), legendary (requires attunement)_
+
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo evokes fury in its form and colors.
 
@@ -34,4 +37,6 @@ The tattoo has 10 charges, and it regains all expended charges daily at dawn. Wh
 - When you hit a creature with a weapon attack, you can expend a charge to deal an extra `4d6` necrotic damage to the target, and you regain a number of hit points equal to the necrotic damage dealt.
 - When a creature you can see damages you, you can expend a charge and use your reaction to make a melee attack against that creature, with advantage on your attack roll.
 
-_Source: Tasha's Cauldron of Everything p. 122_
+## Sources
+
+_Tasha's Cauldron of Everything p. 122_

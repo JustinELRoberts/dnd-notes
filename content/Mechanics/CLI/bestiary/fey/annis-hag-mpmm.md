@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Annis Hag
-created: 2026-03-09T12:15:33.852-04:00
-modified: 2026-03-09T12:15:33.852-04:00
-published: 2026-03-09T12:15:33.852-04:00
+created: 2026-03-29T21:53:55.642-04:00
+modified: 2026-03-29T21:53:55.642-04:00
+published: 2026-03-29T21:53:55.642-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/6
@@ -15,20 +15,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Annis Hag (MPMM)
+ac: 17
+hp: 90
+modifier: 1
+hit_dice: 12d10 + 24
+cr: "6"
+stats:
+  - 21
+  - 12
+  - 14
+  - 13
+  - 14
+  - 15
+source:
+  - MPMM
+  - VGM
 ---
 
 # Annis Hag
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159_\
 ![](Mechanics/CLI/bestiary/fey/img/annis-hag.webp#right)
-
 Annis hags lair in mountains or hills. These hunchbacked and hump-shouldered hags are the largest and most physically imposing of their kind, standing eight feet tall. They can easily tear a fully grown person apart, but they love hunting the young, preferring their flesh above all others.
 
 Annis hags leave tokens of their cruelty at the edges of forests and other areas they claim to provoke fear and distrust in nearby villages and settlements. To an annis hag, nothing is sweeter than making a once-vibrant community paralyzed with terror, so folk never venture out at night, strangers are met with suspicion and anger, and parents warn their children: "Be good, or the annis will get you."
 
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
-Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](Mechanics/CLI/bestiary/giant/ogre.md) and [trolls](Mechanics/CLI/bestiary/giant/troll.md)), ruling them through brute strength, insults, and superstition.
+Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([ogres](/Mechanics/CLI/bestiary/giant/ogre.md) and [trolls](/Mechanics/CLI/bestiary/giant/troll.md)), ruling them through brute strength, insults, and superstition.
 
 ## Iron Token
 
@@ -42,11 +58,11 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
 
 ```ad-statblock
 title: Annis Hag
-![](Mechanics/CLI/bestiary/fey/token/annis-hag-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/annis-hag-mpmm.webp#token)
 *Large fey, Typically  Chaotic Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 90 (`12d10 + 24`) 
+- **Hit Points** 90 (12d10 + 24) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,8 +71,8 @@ title: Annis Hag
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +5
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** cold
 - **Languages** Common, Giant, Sylvan
 - **Challenge** 6
@@ -69,11 +85,11 @@ title: Annis Hag
 
 ***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 15 (`3d6 + 5`) slashing damage.
 
-***Crushing Hug.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 36 (`9d6 + 5`) bludgeoning damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (`9d6 + 5`) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
+***Crushing Hug.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 36 (`9d6 + 5`) bludgeoning damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (`9d6 + 5`) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
 
 ***Spellcasting.*** The hag casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 
-**3/day each:** [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md) (including the form of a Medium Humanoid), [Fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md)
+**3/day each:** [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md) (including the form of a Medium Humanoid), [Fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md)
 ```
 
 ^statblock
@@ -81,3 +97,7 @@ title: Annis Hag
 ## Environment
 
 hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 47, Volo's Guide to Monsters p. 159_

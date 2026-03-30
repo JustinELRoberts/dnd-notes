@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Crown of Madness
-created: 2026-03-09T12:15:34.001-04:00
-modified: 2026-03-09T12:15:34.001-04:00
-published: 2026-03-09T12:15:34.001-04:00
+created: 2026-03-29T21:53:56.011-04:00
+modified: 2026-03-29T21:53:56.011-04:00
+published: 2026-03-29T21:53:56.011-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -23,17 +24,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oathbreaker)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warlock
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Crown of Madness
@@ -45,12 +35,29 @@ _2nd-level, Enchantment_
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-One creature that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition for the duration. The creature succeeds automatically if it isn't Humanoid.
+One creature that you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition for the duration. The creature succeeds automatically if it isn't Humanoid.
 
-A spectral crown appears on the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
+A spectral crown appears on the [Charmed](/Mechanics/CLI/conditions.md#Charmed) target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
 
-On your later turns, you must take the [Magic](Mechanics/CLI/rules/actions.md#Magic) action to maintain control of the target, or the spell ends.
+On your later turns, you must take the [Magic](/Mechanics/CLI/actions.md#Magic) action to maintain control of the target, or the spell ends.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oathbreaker)](Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 259_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Paladin (Oathbreaker)](/Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 259_

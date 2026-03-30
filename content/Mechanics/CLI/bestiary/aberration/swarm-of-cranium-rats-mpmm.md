@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Swarm of Cranium Rats
-created: 2026-03-09T12:15:33.873-04:00
-modified: 2026-03-09T12:15:33.873-04:00
-published: 2026-03-09T12:15:33.873-04:00
+created: 2026-03-29T21:53:55.666-04:00
+modified: 2026-03-29T21:53:55.666-04:00
+published: 2026-03-29T21:53:55.666-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -15,11 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Swarm of Cranium Rats (MPMM)
+ac: 12
+hp: 76
+modifier: 2
+hit_dice: 17d8
+cr: "5"
+stats:
+  - 9
+  - 14
+  - 10
+  - 15
+  - 11
+  - 14
+source:
+  - MPMM
+  - VGM
 ---
 
 # Swarm of Cranium Rats
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133_\
 ![](Mechanics/CLI/bestiary/aberration/img/swarm-of-cranium-rats.webp#right)
 
 ## Cranium Rat
@@ -30,11 +47,11 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
 
 ```ad-statblock
 title: Swarm of Cranium Rats
-![](Mechanics/CLI/bestiary/aberration/token/swarm-of-cranium-rats-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/swarm-of-cranium-rats-mpmm.webp#token)
 *Medium aberration, Typically  Lawful Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 76 (`17d8`) 
+- **Hit Points** 76 (17d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,9 +61,9 @@ title: Swarm of Cranium Rats
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [stunned](Mechanics/CLI/rules/conditions.md#Stunned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [stunned](/Mechanics/CLI/conditions.md#Stunned)
 - **Languages** telepathy 30 ft.
 - **Challenge** 5
 
@@ -62,9 +79,9 @@ title: Swarm of Cranium Rats
 
 ***Spellcasting (Psionics).*** As long as it has more than half of its hit points remaining, the swarm casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will:** [command](Mechanics/CLI/spells/command-xphb.md), [comprehend languages](Mechanics/CLI/spells/comprehend-languages-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md)
+**At will:** [command](/Mechanics/CLI/spells/command-xphb.md), [comprehend languages](/Mechanics/CLI/spells/comprehend-languages-xphb.md), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md)
 
-**1/day each:** [confusion](Mechanics/CLI/spells/confusion-xphb.md), [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md)
+**1/day each:** [confusion](/Mechanics/CLI/spells/confusion-xphb.md), [dominate monster](/Mechanics/CLI/spells/dominate-monster-xphb.md)
 
 ## Bonus Actions
 
@@ -76,3 +93,7 @@ title: Swarm of Cranium Rats
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133_

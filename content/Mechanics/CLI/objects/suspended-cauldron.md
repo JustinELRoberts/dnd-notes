@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Suspended Cauldron
-created: 2026-03-09T12:15:34.051-04:00
-modified: 2026-03-09T12:15:34.051-04:00
-published: 2026-03-09T12:15:34.051-04:00
+created: 2026-03-29T21:53:56.063-04:00
+modified: 2026-03-29T21:53:56.063-04:00
+published: 2026-03-29T21:53:56.063-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/object/size/large
@@ -16,15 +16,13 @@ obsidianUIMode: preview
 
 # Suspended Cauldron
 
-_Source: Dungeon Master's Guide p. 255_
-
 A cauldron is an iron pot suspended so that it can be tipped easily, spilling its contents. Once emptied, a cauldron must be refilled-and its contents must usually be reheated-before it can be used again. It takes three actions to fill a cauldron and one action to tip it.
 
-Cauldrons can be filled with other liquids, such as acid or [green slime](Mechanics/CLI/traps-hazards/green-slime.md), with different effects.
+Cauldrons can be filled with other liquids, such as acid or [green slime](/Mechanics/CLI/traps-hazards/green-slime.md), with different effects.
 
 ```ad-statblock
 title: Suspended Cauldron
-![](Mechanics/CLI/objects/token/suspended-cauldron.webp#token)
+![](/Mechanics/CLI/objects/token/suspended-cauldron.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 19 
@@ -43,3 +41,7 @@ title: Suspended Cauldron
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 255_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dueling
-created: 2026-03-09T12:15:34.014-04:00
-modified: 2026-03-09T12:15:34.014-04:00
-published: 2026-03-09T12:15:34.014-04:00
+created: 2026-03-29T21:53:56.021-04:00
+modified: 2026-03-29T21:53:56.021-04:00
+published: 2026-03-29T21:53:56.021-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat

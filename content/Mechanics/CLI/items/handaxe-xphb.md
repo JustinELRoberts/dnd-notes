@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Handaxe
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.097-04:00
-published: 2026-03-09T12:15:34.097-04:00
+created: 2026-03-29T21:53:56.128-04:00
+modified: 2026-03-29T21:53:56.128-04:00
+published: 2026-03-29T21:53:56.128-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/rarity/none
@@ -22,8 +22,10 @@ _Weapon_\
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 
-_Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

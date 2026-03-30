@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bearded Devil
-created: 2026-03-09T12:15:33.968-04:00
-modified: 2026-03-09T12:15:33.968-04:00
-published: 2026-03-09T12:15:33.968-04:00
+created: 2026-03-29T21:53:55.973-04:00
+modified: 2026-03-29T21:53:55.973-04:00
+published: 2026-03-29T21:53:55.973-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bearded Devil
+ac: 13
+hp: 52
+modifier: 2
+hit_dice: 8d8 + 16
+cr: "3"
+stats:
+  - 16
+  - 15
+  - 15
+  - 9
+  - 11
+  - 11
+source:
+  - MM
 ---
 
 # Bearded Devil
 
-_Source: Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/bearded-devil.webp#right)
-
 Bearded devils serve archdevils as shock troops, fighting shoulder-to-shoulder and reveling in the glory of battle. They respond with violence to any slight, real or imagined, gorging themselves on violence as their infernal saw-toothed glaives carve a path through their foes.
 
 A bearded devil is humanoid in form, with pointed ears, scaly skin, a long tail, and claws that clearly show its fiendish nature. These devils take their names from the snakelike growths that adorn their chins, which they use to lash and poison enemies, weakening them with their virulent venom.
@@ -120,7 +135,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -148,11 +163,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Bearded Devil
-![](Mechanics/CLI/bestiary/fiend/token/bearded-devil.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/bearded-devil.webp#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 52 (`8d8 + 16`) 
+- **Hit Points** 52 (8d8 + 16) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -162,11 +177,10 @@ title: Bearded Devil
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +5, Constitution +4, Wisdom +2
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [glaive](Mechanics/CLI/items/glaive-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 3
 
@@ -176,15 +190,19 @@ title: Bearded Devil
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-***Steadfast.*** The devil can't be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) while it can see an allied creature within 30 feet of it.
+***Steadfast.*** The devil can't be [frightened](/Mechanics/CLI/conditions.md#Frightened) while it can see an allied creature within 30 feet of it.
 
 ## Actions
 
 ***Multiattack.*** The devil makes two attacks: one with its beard and one with its glaive.
 
-***Beard.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Beard.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way, the target can't regain hit points. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***Glaive.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one target. *Hit:* 8 (`1d10 + 3`) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (`1d10`) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (`1d10`). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. The wound also closes if the target receives magical healing.
+***Glaive.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one target. *Hit:* 8 (`1d10 + 3`) slashing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 12 Constitution saving throw or lose 5 (`1d10`) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 5 (`1d10`). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check. The wound also closes if the target receives magical healing.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

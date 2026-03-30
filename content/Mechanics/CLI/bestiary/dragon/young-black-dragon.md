@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Black Dragon
-created: 2026-03-09T12:15:33.922-04:00
-modified: 2026-03-09T12:15:33.922-04:00
-published: 2026-03-09T12:15:33.922-04:00
+created: 2026-03-29T21:53:55.926-04:00
+modified: 2026-03-29T21:53:55.926-04:00
+published: 2026-03-29T21:53:55.926-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Black Dragon
+ac: 18
+hp: 127
+modifier: 2
+hit_dice: 15d10 + 45
+cr: "7"
+stats:
+  - 19
+  - 14
+  - 17
+  - 12
+  - 11
+  - 15
+source:
+  - MM
 ---
 
 # Young Black Dragon
 
-_Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/black-dragon.webp#right)
-
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
 
 With deep-socketed eyes and broad nasal openings, a black dragon's face resembles a skull. Its curving, segmented horns are bone-colored near the base and darken to dead black at the tips. As a black dragon ages, the flesh around its horns and cheekbones deteriorates as though eaten by acid, leaving thin layers of hide that enhance its skeletal appearance. A black dragon's head is marked by spikes and horns. Its tongue is flat with a forked tip, drooling slime whose acidic scent adds to the dragon's reek of rotting vegetation and foul water.
@@ -101,11 +116,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Black Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-black-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-black-dragon.webp#token)
 *Large dragon, Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 127 (`15d10 + 45`) 
+- **Hit Points** 127 (15d10 + 45) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -114,8 +129,8 @@ title: Young Black Dragon
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Constitution +6, Wisdom +3, Charisma +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Immunities** acid
 - **Languages** Common, Draconic
 - **Challenge** 7
@@ -140,3 +155,7 @@ title: Young Black Dragon
 ## Environment
 
 swamp
+
+## Sources
+
+_Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

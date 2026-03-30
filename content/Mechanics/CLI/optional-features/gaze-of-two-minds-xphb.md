@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gaze of Two Minds
-created: 2026-03-09T12:15:33.805-04:00
-modified: 2026-03-09T12:15:33.805-04:00
-published: 2026-03-09T12:15:33.805-04:00
+created: 2026-03-29T21:53:55.589-04:00
+modified: 2026-03-29T21:53:55.589-04:00
+published: 2026-03-29T21:53:55.589-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/ei
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 5
 
-You can use a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
+You can use a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to touch a willing creature and perceive through its senses until the end of your next turn. As long as the creature is on the same plane of existence as you, you can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on subsequent turns to maintain this connection, extending the duration until the end of your next turn. The connection ends if you don't maintain it in this way.
 
 While perceiving through the other creature's senses, you benefit from any special senses possessed by that creature, and you can cast spells as if you were in your space or the other creature's space if the two of you are within 60 feet of each other.
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Vampire Spawn
-created: 2026-03-09T12:15:33.917-04:00
-modified: 2026-03-09T12:15:33.917-04:00
-published: 2026-03-09T12:15:33.917-04:00
+created: 2026-03-29T21:53:55.921-04:00
+modified: 2026-03-29T21:53:55.921-04:00
+published: 2026-03-29T21:53:55.921-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Vampire Spawn
+ac: 15
+hp: 82
+modifier: 3
+hit_dice: 11d8 + 33
+cr: "5"
+stats:
+  - 16
+  - 16
+  - 16
+  - 11
+  - 10
+  - 12
+source:
+  - MM
 ---
 
 # Vampire Spawn
 
-_Source: Monster Manual p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/vampire-spawn.webp#right)
-
 Awakened to an endless night, vampires hunger for the life they have lost and sate that hunger by drinking the blood of the living. Vampires abhor sunlight, for its touch burns them. They never cast shadows or reflections, and any vampire wishing to move unnoticed among the living keeps to the darkness and far from reflective surfaces.
 
 ## Dark Desires
@@ -46,9 +61,9 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 > [!note] Player Characters as Vampires
 >
-> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](Mechanics/CLI/rules/senses.md#Darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
+> The game statistics of a player character transformed into a vampire spawn and then a vampire don't change, except that the character's Strength, Dexterity, and Constitution scores become 18 if they aren't higher. In addition, the character gains the vampire's damage resistances, [darkvision](/Mechanics/CLI/senses.md#Darkvision), traits, and actions. Attack and damage rolls for the vampire's attacks are based on Strength.
 >
-> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](Mechanics/CLI/spells/wish-xphb.md) spell or the character is killed and brought back to life.
+> The save DC for Charm is 8 + the vampire's proficiency bonus + the vampire's Charisma modifier. The character's alignment becomes lawful evil, and the DM might take control of the character until the vampirism is reversed with a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell or the character is killed and brought back to life.
 > ^player-characters-as-vampires
 
 > [!note] Strahd von Zarovich
@@ -70,11 +85,11 @@ A vampire chooses a grand yet defensible location for its lair, such as a castle
 
 ```ad-statblock
 title: Vampire Spawn
-![](Mechanics/CLI/bestiary/undead/token/vampire-spawn.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/vampire-spawn.webp#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 82 (`11d8 + 33`) 
+- **Hit Points** 82 (11d8 + 33) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -83,8 +98,8 @@ title: Vampire Spawn
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Wisdom +3
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Resistances** necrotic; bludgeoning, piercing, slashing from nonmagical attacks
 - **Languages** the languages it knew in life
 - **Challenge** 5
@@ -99,14 +114,14 @@ title: Vampire Spawn
 
 - **Forbiddance.** The vampire can't enter a residence without an invitation from one of the occupants.  
 - **Harmed by Running Water.** The vampire takes 20 acid damage when it ends its turn in running water.  
-- **Stake to the Heart.** The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) in its resting place.  
+- **Stake to the Heart.** The vampire is destroyed if a piercing weapon made of wood is driven into its heart while it is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) in its resting place.  
 - **Sunlight Hypersensitivity.** The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks  
 
 ## Actions
 
 ***Multiattack.*** The vampire makes two attacks, only one of which can be a bite attack.
 
-***Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one willing creature, or a creature that is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the vampire, [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), or [restrained](Mechanics/CLI/rules/conditions.md#Restrained). *Hit:* 6 (`1d6 + 3`) piercing damage plus 7 (`2d6`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+***Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one willing creature, or a creature that is [grappled](/Mechanics/CLI/conditions.md#Grappled) by the vampire, [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), or [restrained](/Mechanics/CLI/conditions.md#Restrained). *Hit:* 6 (`1d6 + 3`) piercing damage plus 7 (`2d6`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage taken, and the vampire regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
 ***Claws.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one creature. *Hit:* 8 (`2d4 + 3`) slashing damage. Instead of dealing damage, the vampire can grapple the target (escape DC 13).
 ```
@@ -116,3 +131,7 @@ title: Vampire Spawn
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

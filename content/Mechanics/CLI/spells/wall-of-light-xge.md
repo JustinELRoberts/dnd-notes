@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Wall of Light
-created: 2026-03-09T12:15:33.855-04:00
-modified: 2026-03-09T12:15:33.855-04:00
-published: 2026-03-09T12:15:33.855-04:00
+created: 2026-03-29T21:53:55.644-04:00
+modified: 2026-03-29T21:53:55.644-04:00
+published: 2026-03-29T21:53:55.644-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -18,12 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
-  - Wizard (Evoker)
 ---
 
 # Wall of Light
@@ -37,7 +32,7 @@ _5th-level, Evocation_
 
 A shimmering wall of bright light appears at a point you choose within range. The wall appears in any orientation you choose: horizontally, vertically, or diagonally. It can be free floating, or it can rest on a solid surface. The wall can be up to 60 feet long, 10 feet high, and 5 feet thick. The wall blocks line of sight, but creatures and objects can pass through it. It emits bright light out to 120 feet and dim light for an additional 120 feet.
 
-When the wall appears, each creature in its area must make a Constitution saving throw. On a failed save, a creature takes `4d8` radiant damage, and it is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for 1 minute. On a successful save, it takes half as much damage and isn't [blinded](Mechanics/CLI/rules/conditions.md#Blinded). A [blinded](Mechanics/CLI/rules/conditions.md#Blinded) creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
+When the wall appears, each creature in its area must make a Constitution saving throw. On a failed save, a creature takes `4d8` radiant damage, and it is [blinded](/Mechanics/CLI/conditions.md#Blinded) for 1 minute. On a successful save, it takes half as much damage and isn't [blinded](/Mechanics/CLI/conditions.md#Blinded). A [blinded](/Mechanics/CLI/conditions.md#Blinded) creature can make a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 A creature that ends its turn in the wall's area takes `4d8` radiant damage.
 
@@ -45,6 +40,16 @@ Until the spell ends, you can use an action to launch a beam of radiance from th
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by `1d8` for each slot level above 5th.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 170_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Wizard (Evoker)](/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 170_

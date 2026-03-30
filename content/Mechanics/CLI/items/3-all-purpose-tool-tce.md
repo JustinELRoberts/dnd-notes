@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - +3 All-Purpose Tool
-created: 2026-03-09T12:15:33.779-04:00
-modified: 2026-03-09T12:15:33.779-04:00
-published: 2026-03-09T12:15:33.779-04:00
+created: 2026-03-29T21:53:55.562-04:00
+modified: 2026-03-29T21:53:55.562-04:00
+published: 2026-03-29T21:53:55.562-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,10 +19,15 @@ obsidianUIMode: preview
 
 _Wondrous item, spellcasting focus, very rare (requires attunement by an artificer)_
 
-This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [artisan's tools](Mechanics/CLI/items/artisans-tools-xphb.md)). Whatever form the tool takes, you are proficient with it.
+- **Cost**: ⏤
+- **Weight**: ⏤
+
+This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the "Equipment" chapter in the "Player's Handbook" for a list of [artisan's tools](/Mechanics/CLI/items/artisans-tools-xphb.md)). Whatever form the tool takes, you are proficient with it.
 
 While holding this tool, you gain a +3 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.
 
 As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificer cantrip for you. Once this property is used, it can't be used again until the next dawn.
 
-_Source: Tasha's Cauldron of Everything p. 119_
+## Sources
+
+_Tasha's Cauldron of Everything p. 119_

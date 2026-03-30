@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mighty Servant of Leuk-o
-created: 2026-03-09T12:15:33.887-04:00
-modified: 2026-03-09T12:15:33.887-04:00
-published: 2026-03-09T12:15:33.887-04:00
+created: 2026-03-29T21:53:55.885-04:00
+modified: 2026-03-29T21:53:55.885-04:00
+published: 2026-03-29T21:53:55.885-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/monster/cr/
@@ -13,20 +13,35 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mighty Servant of Leuk-o (TCE)
+ac: 22
+hp: 310
+modifier: 2
+hit_dice: 27d12 + 135
+stats:
+  - 30
+  - 14
+  - 20
+  - 1
+  - 14
+  - 10
+source:
+  - TCE
 ---
 
 # Mighty Servant of Leuk-o
 
-_Source: Tasha's Cauldron of Everything p. 131_\
 ![](Mechanics/CLI/bestiary/construct/img/mighty-servant-of-leuk-o.webp#center)
 
 ```ad-statblock
 title: Mighty Servant of Leuk-o
-![](Mechanics/CLI/bestiary/construct/token/mighty-servant-of-leuk-o-tce.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/mighty-servant-of-leuk-o-tce.webp#token)
 *Huge construct, Unaligned*
 
 - **Armor Class** 22 (natural armor)
-- **Hit Points** 310 (`27d12 + 135`) 
+- **Hit Points** 310 (27d12 + 135) 
 - **Speed** 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -35,11 +50,11 @@ title: Mighty Servant of Leuk-o
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +9, Charisma +7
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +9
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive Perception 19
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +9
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 120 ft., passive Perception 19
 - **Damage Resistances** piercing, slashing
 - **Damage Immunities** acid, bludgeoning, cold, fire, lightning, necrotic, poison, psychic, radiant
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [restrained](/Mechanics/CLI/conditions.md#Restrained), [stunned](/Mechanics/CLI/conditions.md#Stunned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** understands the languages of creatures attuned to it but can't speak
 - **Challenge** 
 
@@ -59,7 +74,11 @@ title: Mighty Servant of Leuk-o
 
 ***Destructive Fist.*** *Melee Weapon Attack:* `+17` to hit, reach 10 ft., one target. *Hit:* 36 (`4d12 + 10`) force damage. Or Ranged Weapon Attack: `+17` to hit, range 120 ft., one target. *Hit:* 36 (`4d12 + 10`) force damage. If the target is an object, it takes triple damage.
 
-***Crushing Leap.*** If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (`4d12`) bludgeoning damage and is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Crushing Leap.*** If the servant jumps at least 25 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures is pushed to an unoccupied space within 5 feet of the servant and must make a DC 25 Dexterity saving throw. On a failed save, a creature takes 26 (`4d12`) bludgeoning damage and is knocked [prone](/Mechanics/CLI/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 131_

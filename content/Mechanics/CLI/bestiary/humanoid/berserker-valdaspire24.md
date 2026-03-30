@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Berserker
-created: 2026-03-09T12:15:34.038-04:00
-modified: 2026-03-09T12:15:34.038-04:00
-published: 2026-03-09T12:15:34.038-04:00
+created: 2026-03-29T21:53:56.048-04:00
+modified: 2026-03-29T21:53:56.048-04:00
+published: 2026-03-29T21:53:56.048-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Berserker (ValdaSpire24)
+modifier: 1
+stats:
+  - 16
+  - 12
+  - 14
+  - 9
+  - 10
+  - 9
+source:
+  - ValdaSpire24
 ---
 
 # Berserker
-
-_Source: Valda's Spire of Secrets (2024)_
 
 Ruthless and fierce, the berserker tears across the battlefield in a wild frenzy, devastating their enemies with boundless rage.
 
@@ -36,9 +47,8 @@ title: Berserker
 
 - **Proficiency Bonus** +2
 - **Saving Throws** 3+PB, 2+PB
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5, [Survival](Mechanics/CLI/rules/skills.md#Survival) +2
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +5, [Survival](/Mechanics/CLI/skills.md#Survival) +2
 - **Senses** passive Perception 10
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md), four [handaxes](Mechanics/CLI/items/handaxe-xphb.md)
 - **Languages** Common plus one other language
 - **Challenge** 
 
@@ -46,21 +56,21 @@ title: Berserker
 
 ***Proficiencies.*** Simple and Martial weapons; Shields
 
-***Bloodied Frenzy.*** While [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), the berserker has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls and saving throws.
+***Bloodied Frenzy.*** While [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), the berserker has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls and saving throws.
 
 ***Level 5.*** Martial Excellence. The berserker has a +1 bonus to its attack and damage rolls. This bonus increases to +2 at Captain level 9, and +3 at Captain level 13.
 
-***Level 13.*** Bloodied Resolve. While [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), the berserker has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+***Level 13.*** Bloodied Resolve. While [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), the berserker has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
 
 ## Actions
 
-***Greataxe.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d12` plus your Charisma modifier Slashing damage.
+***Greataxe.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d12` plus your Charisma modifier Slashing damage.
 
-***Handaxe.*** *Melee  or Ranged Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft or range 20/60 ft. *Hit:* `1d6` plus your Charisma modifier Slashing damage.
+***Handaxe.*** *Melee  or Ranged Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft or range 20/60 ft. *Hit:* `1d6` plus your Charisma modifier Slashing damage.
 
 ## Bonus Actions
 
-***Level 5.*** Adrenaline Burst. The berserker gains [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to half your Captain level.
+***Level 5.*** Adrenaline Burst. The berserker gains [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to half your Captain level.
 
 ***Level 9.*** Furious Strike. The berserker deals `1d10` extra damage on a hit with a weapon. The damage is the same type dealt by the weapon.
 
@@ -70,3 +80,7 @@ title: Berserker
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

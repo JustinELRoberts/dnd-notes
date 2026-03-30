@@ -8,9 +8,9 @@ aliases:
   - Frost Brand Rapier
   - Frost Brand Scimitar
   - Frost Brand Shortsword
-created: 2026-03-09T12:15:33.981-04:00
-modified: 2026-03-09T12:15:33.981-04:00
-published: 2026-03-09T12:15:33.981-04:00
+created: 2026-03-29T21:53:55.985-04:00
+modified: 2026-03-29T21:53:55.985-04:00
+published: 2026-03-29T21:53:55.985-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -29,13 +29,16 @@ obsidianUIMode: preview
 _Major, very rare (requires attunement)_\
 ![Frost Brand (Scimitar)](Mechanics/CLI/items/img/frost-brand.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 When you hit with an attack using this magic sword, the target takes an extra `1d6` cold damage. In addition, while you hold the sword, you have resistance to fire damage.
 
 In freezing temperatures, the blade sheds bright light in a 10-foot radius and dim light for an additional 10 feet.
 
 When you draw this weapon, you can extinguish all nonmagical flames within 30 feet of you. This property can be used no more than once per hour.
 
-**Variants**:
+## Variants
 
 - [Frost Brand Double-Bladed Scimitar](#Frost%20Brand%20Double-Bladed%20Scimitar)
 - [Frost Brand Greatsword](#Frost%20Brand%20Greatsword)
@@ -47,13 +50,13 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 ### Frost Brand Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Frost Brand Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Frost Brand Longsword
@@ -61,25 +64,27 @@ When you draw this weapon, you can extinguish all nonmagical flames within 30 fe
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Frost Brand Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Frost Brand Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Frost Brand Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-_Source: Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 171. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

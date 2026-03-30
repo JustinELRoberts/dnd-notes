@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Storm Sorcery
-created: 2026-03-09T12:15:33.854-04:00
-modified: 2026-03-09T12:15:33.854-04:00
-published: 2026-03-09T12:15:33.854-04:00
+created: 2026-03-29T21:53:55.643-04:00
+modified: 2026-03-29T21:53:55.643-04:00
+published: 2026-03-29T21:53:55.643-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/subclass/sorcerer/storm
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Storm Sorcery
 
-_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
-_Source: Xanathar's Guide to Everything p. 51_
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -87,3 +86,7 @@ Starting at 14th level, when you are hit by a melee attack, you can use your rea
 At 18th level, you gain immunity to lightning and thunder damage.
 
 You also gain a magical flying speed of 60 feet. As an action, you can reduce your flying speed to 30 feet for 1 hour and choose a number of creatures within 30 feet of you equal to 3 + your Charisma modifier. The chosen creatures gain a magical flying speed of 30 feet for 1 hour. Once you reduce your flying speed in this way, you can't do so again until you finish a short or long rest.
+
+## Sources
+
+_Xanathar's Guide to Everything p. 51_

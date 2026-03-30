@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Berbalang
-created: 2026-03-09T12:15:34.081-04:00
-modified: 2026-03-09T12:15:34.081-04:00
-published: 2026-03-09T12:15:34.081-04:00
+created: 2026-03-29T21:53:56.111-04:00
+modified: 2026-03-29T21:53:56.111-04:00
+published: 2026-03-29T21:53:56.111-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -14,28 +14,43 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Berbalang (MPMM)
+ac: 14
+hp: 49
+modifier: 3
+hit_dice: 14d8 - 14
+cr: "2"
+stats:
+  - 9
+  - 16
+  - 9
+  - 17
+  - 11
+  - 10
+source:
+  - MPMM
 ---
 
 # Berbalang
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 61_\
 ![](Mechanics/CLI/bestiary/aberration/img/berbalang.webp#right)
-
-Berbalangs creep across the [petrified](Mechanics/CLI/rules/conditions.md#Petrified) remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
+Berbalangs creep across the [petrified](/Mechanics/CLI/conditions.md#Petrified) remains of dead gods adrift on the Astral Plane. Obsessed with gathering secrets, both from the gods they inhabit and from the bones of dead creatures, they call forth the spirits of the dead and force them to divulge what they learned in life.
 
 Berbalangs prefer to speak only to dead things, and specifically only to the spirits they call forth in the hope of learning secrets. They record their stories on the bones that once belonged to these creatures, thus preserving the information they gain.
 
-Pursuit of knowledge drives everything berbalangs do. Although they mostly learn their secrets from the dead, they aren't above spying on the living to take knowledge from them as well. A berbalang can create a spectral duplicate of itself and send the duplicate out to gather information on other planes by watching places where the gods and their servants gather. When a berbalang is perceiving its environment through its duplicate, its actual body is [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) and can't protect itself. Thus, a berbalang typically uses its duplicate for only a short time before returning its consciousness to its body.
+Pursuit of knowledge drives everything berbalangs do. Although they mostly learn their secrets from the dead, they aren't above spying on the living to take knowledge from them as well. A berbalang can create a spectral duplicate of itself and send the duplicate out to gather information on other planes by watching places where the gods and their servants gather. When a berbalang is perceiving its environment through its duplicate, its actual body is [unconscious](/Mechanics/CLI/conditions.md#Unconscious) and can't protect itself. Thus, a berbalang typically uses its duplicate for only a short time before returning its consciousness to its body.
 
 The knowledge that berbalangs accumulate makes them great sources of information for powerful people traveling the planes. Berbalangs ignore petitioners, however, unless they come bearing a choice secret or the bones of a particularly interesting creature. Some githyanki have been able to strike deals with the creatures, using berbalangs to spy on their enemies and to watch over their creches on the Material Plane.
 
 ```ad-statblock
 title: Berbalang
-![](Mechanics/CLI/bestiary/aberration/token/berbalang-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/berbalang-mpmm.webp#token)
 *Medium aberration, Typically  Neutral Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 49 (`14d8 - 14`) 
+- **Hit Points** 49 (14d8 - 14) 
 - **Speed** 30 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,8 +59,8 @@ title: Berbalang
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Intelligence +5
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [History](Mechanics/CLI/rules/skills.md#History) +5, [Insight](Mechanics/CLI/rules/skills.md#Insight) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Religion](Mechanics/CLI/rules/skills.md#Religion) +5
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 12
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [History](/Mechanics/CLI/skills.md#History) +5, [Insight](/Mechanics/CLI/skills.md#Insight) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Religion](/Mechanics/CLI/skills.md#Religion) +5
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 12
 - **Languages** all
 - **Challenge** 2
 
@@ -61,13 +76,13 @@ Claw attack.
 
 ***Spellcasting.*** The berbalang casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability:
 
-**At will:** [speak with dead](Mechanics/CLI/spells/speak-with-dead-xphb.md)
+**At will:** [speak with dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md)
 
-**1/day:** [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
+**1/day:** [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
 
 ## Bonus Actions
 
-***Spectral Duplicate (Recharges after a Short or Long Rest).*** The berbalang creates one spectral duplicate of itself in an unoccupied space it can see within 60 feet of it. While the duplicate exists, the berbalang is [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious). A berbalang can have only one duplicate at a time. The duplicate disappears when it or the berbalang drops to 0 hit points or when the berbalang dismisses it (no action required).
+***Spectral Duplicate (Recharges after a Short or Long Rest).*** The berbalang creates one spectral duplicate of itself in an unoccupied space it can see within 60 feet of it. While the duplicate exists, the berbalang is [unconscious](/Mechanics/CLI/conditions.md#Unconscious). A berbalang can have only one duplicate at a time. The duplicate disappears when it or the berbalang drops to 0 hit points or when the berbalang dismisses it (no action required).
 
 The duplicate has the same statistics and knowledge as the berbalang, and everything experienced by the duplicate is known by the berbalang. All damage dealt by the duplicate's attacks is psychic damage.
 ```
@@ -77,3 +92,7 @@ The duplicate has the same statistics and knowledge as the berbalang, and everyt
 ## Environment
 
 desert
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 61_

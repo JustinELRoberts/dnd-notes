@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Guardian Naga
-created: 2026-03-09T12:15:34.099-04:00
-modified: 2026-03-09T12:15:34.099-04:00
-published: 2026-03-09T12:15:34.099-04:00
+created: 2026-03-29T21:53:56.131-04:00
+modified: 2026-03-29T21:53:56.131-04:00
+published: 2026-03-29T21:53:56.131-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/10
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Guardian Naga
+ac: 18
+hp: 127
+modifier: 4
+hit_dice: 15d10 + 45
+cr: "10"
+stats:
+  - 19
+  - 18
+  - 16
+  - 16
+  - 19
+  - 18
+source:
+  - MM
 ---
 
 # Guardian Naga
 
-_Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/guardian-naga.webp#right)
-
 Wise and good, the beautiful guardian nagas protect sacred places and items of magical power from falling into evil hands. In their hidden redoubts, they research spells and hatch convoluted plots to thwart the evil designs of their enemies.
 
 A guardian naga doesn't seek out violence, warning off intruders rather than attacking. Only if its foes persist does the naga attack, accosting enemies with its spells and poisonous spittle.
@@ -50,11 +65,11 @@ A naga doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Guardian Naga
-![](Mechanics/CLI/bestiary/monstrosity/token/guardian-naga.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/guardian-naga.webp#token)
 *Large monstrosity, Lawful Good*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 127 (`15d10 + 45`) 
+- **Hit Points** 127 (15d10 + 45) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -64,9 +79,9 @@ title: Guardian Naga
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +8, Constitution +7, Intelligence +7, Wisdom +8, Charisma +8
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Celestial, Common
 - **Challenge** 10
 
@@ -74,21 +89,21 @@ title: Guardian Naga
 
 ***Spellcasting.*** The naga is an 11th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 16, `+8` to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following cleric spells prepared:
 
-**Cantrips (at will):** [mending](Mechanics/CLI/spells/mending-xphb.md), [sacred flame](Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [mending](/Mechanics/CLI/spells/mending-xphb.md), [sacred flame](/Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [command](Mechanics/CLI/spells/command-xphb.md), [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [shield of faith](Mechanics/CLI/spells/shield-of-faith-xphb.md)
+**1st level (4 slots):** [command](/Mechanics/CLI/spells/command-xphb.md), [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [shield of faith](/Mechanics/CLI/spells/shield-of-faith-xphb.md)
 
-**2nd level (3 slots):** [calm emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md)
+**2nd level (3 slots):** [calm emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](/Mechanics/CLI/spells/hold-person-xphb.md)
 
-**3rd level (3 slots):** [bestow curse](Mechanics/CLI/spells/bestow-curse-xphb.md), [clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md)
+**3rd level (3 slots):** [bestow curse](/Mechanics/CLI/spells/bestow-curse-xphb.md), [clairvoyance](/Mechanics/CLI/spells/clairvoyance-xphb.md)
 
-**4th level (3 slots):** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [freedom of movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md)
+**4th level (3 slots):** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [freedom of movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md)
 
-**5th level (2 slots):** [flame strike](Mechanics/CLI/spells/flame-strike-xphb.md), [geas](Mechanics/CLI/spells/geas-xphb.md)
+**5th level (2 slots):** [flame strike](/Mechanics/CLI/spells/flame-strike-xphb.md), [geas](/Mechanics/CLI/spells/geas-xphb.md)
 
-**6th level (1 slots):** [true seeing](Mechanics/CLI/spells/true-seeing-xphb.md)
+**6th level (1 slots):** [true seeing](/Mechanics/CLI/spells/true-seeing-xphb.md)
 
-***Rejuvenation.*** If it dies, the naga returns to life in `1d6` days and regains all its hit points. Only a [wish](Mechanics/CLI/spells/wish-xphb.md) spell can prevent this trait from functioning.
+***Rejuvenation.*** If it dies, the naga returns to life in `1d6` days and regains all its hit points. Only a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell can prevent this trait from functioning.
 
 ## Actions
 
@@ -102,3 +117,7 @@ title: Guardian Naga
 ## Environment
 
 forest, desert
+
+## Sources
+
+_Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

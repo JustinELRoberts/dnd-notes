@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Goblin
-created: 2026-03-09T12:15:33.795-04:00
-modified: 2026-03-09T12:15:33.795-04:00
-published: 2026-03-09T12:15:33.795-04:00
+created: 2026-03-29T21:53:55.578-04:00
+modified: 2026-03-29T21:53:55.578-04:00
+published: 2026-03-29T21:53:55.578-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Goblin
+ac: 15
+hp: 7
+modifier: 2
+hit_dice: 2d6
+cr: 1/4
+stats:
+  - 8
+  - 14
+  - 10
+  - 10
+  - 8
+  - 8
+source:
+  - MM
 ---
 
 # Goblin
 
-_Source: Monster Manual p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/goblin.webp#right)
-
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
 ## Goblinoids
@@ -58,11 +73,11 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 
 ```ad-statblock
 title: Goblin
-![](Mechanics/CLI/bestiary/humanoid/token/goblin.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/goblin.webp#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 15 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 7 (`2d6`) 
+- **Armor Class** 15 ([leather armor](/Mechanics/CLI/items/leather-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 7 (2d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -71,15 +86,14 @@ title: Goblin
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md), [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** Common, Goblin
 - **Challenge** 1/4
 
 ## Traits
 
-***Nimble Escape.*** The goblin can take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action on each of its turns.
+***Nimble Escape.*** The goblin can take the [Disengage](/Mechanics/CLI/actions.md#Disengage) or [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action on each of its turns.
 
 ## Actions
 
@@ -93,3 +107,7 @@ title: Goblin
 ## Environment
 
 underdark, grassland, forest, hill
+
+## Sources
+
+_Monster Manual p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

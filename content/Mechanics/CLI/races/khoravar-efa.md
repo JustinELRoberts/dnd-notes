@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Khoravar
-created: 2026-03-09T12:15:34.139-04:00
-modified: 2026-03-09T12:15:34.139-04:00
-published: 2026-03-09T12:15:34.139-04:00
+created: 2026-03-29T21:53:56.191-04:00
+modified: 2026-03-29T21:53:56.191-04:00
+published: 2026-03-29T21:53:56.191-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/race/khoravar
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Khoravar
 
-_Source: Eberron: Forge of the Artificer p. 36_\
 ![](Mechanics/CLI/races/img/khoravar.webp#right)
 
 - **Ability Scores**: None
@@ -28,26 +27,30 @@ _Source: Eberron: Forge of the Artificer p. 36_\
 
 ### Darkvision
 
-You have [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet.
+You have [Darkvision](/Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet.
 
 ### Fey Ancestry
 
-You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition.
+You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition.
 
 ### Fey Gift
 
-You know the [Friends](Mechanics/CLI/spells/friends-xphb.md) cantrip. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace that cantrip with a different cantrip from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
+You know the [Friends](/Mechanics/CLI/spells/friends-xphb.md) cantrip. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace that cantrip with a different cantrip from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for it (choose the ability when you select this species).
 
 ### Lethargy Resilience
 
-When you fail a saving throw to avoid or end the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition, you can succeed instead. Once you use this trait, you can't do so again until you finish `1d4` [Long Rests](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When you fail a saving throw to avoid or end the [Unconscious](/Mechanics/CLI/conditions.md#Unconscious) condition, you can succeed instead. Once you use this trait, you can't do so again until you finish `1d4` [Long Rests](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Skill Versatility
 
-You gain proficiency in one skill or with one tool of your choice. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace it with another skill or tool proficiency.
+You gain proficiency in one skill or with one tool of your choice. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace it with another skill or tool proficiency.
 
 ## Description
 
 Over the course of centuries, those descended from both humans and elves have developed their own communities and traditions in Khorvaire. The rise of House Lyrandar and House Medani has strengthened this identity. Members of these communities call themselves Khoravar, an Elvish term meaning "children of Khorvaire," as they dislike the term "half-elf."
 
 Many Khoravar espouse the idea of being "the bridge between," believing they are called to facilitate communication and cooperation between members of different cultures or species. Khoravar who follow this philosophy often become bards, diplomats, mediators, or translators. Others, fascinated by their distant connection to the Fey, seek to build bridges between the Material Plane and the Feywild of Thelanis. These Khoravar often become druids or warlocks with archfey patrons.
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 36_

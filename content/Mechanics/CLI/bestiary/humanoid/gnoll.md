@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gnoll
-created: 2026-03-09T12:15:34.029-04:00
-modified: 2026-03-09T12:15:34.029-04:00
-published: 2026-03-09T12:15:34.029-04:00
+created: 2026-03-29T21:53:56.039-04:00
+modified: 2026-03-29T21:53:56.039-04:00
+published: 2026-03-29T21:53:56.039-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gnoll
+ac: 15
+hp: 22
+modifier: 1
+hit_dice: 5d8
+cr: 1/2
+stats:
+  - 14
+  - 12
+  - 11
+  - 6
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Gnoll
 
-_Source: Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/gnoll.webp#right)
-
 Gnolls are feral humanoids that attack settlements along the frontiers and borderlands of civilization without warning, slaughtering their victims and devouring their flesh.
 
 ## Demonic Origin
@@ -44,11 +59,11 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 
 ```ad-statblock
 title: Gnoll
-![](Mechanics/CLI/bestiary/humanoid/token/gnoll.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/gnoll.webp#token)
 *Medium humanoid (gnoll), Chaotic Evil*
 
-- **Armor Class** 15 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 22 (`5d8`) 
+- **Armor Class** 15 ([hide armor](/Mechanics/CLI/items/hide-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 22 (5d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,8 +73,7 @@ title: Gnoll
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [spear](Mechanics/CLI/items/spear-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Gnoll
 - **Challenge** 1/2
 
@@ -81,3 +95,7 @@ title: Gnoll
 ## Environment
 
 grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 163. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

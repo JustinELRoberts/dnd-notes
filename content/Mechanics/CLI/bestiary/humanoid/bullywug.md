@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bullywug
-created: 2026-03-09T12:15:34.056-04:00
-modified: 2026-03-09T12:15:34.056-04:00
-published: 2026-03-09T12:15:34.056-04:00
+created: 2026-03-29T21:53:56.074-04:00
+modified: 2026-03-29T21:53:56.074-04:00
+published: 2026-03-29T21:53:56.074-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bullywug
+ac: 15
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/4
+stats:
+  - 12
+  - 12
+  - 13
+  - 7
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Bullywug
 
-_Source: Monster Manual p. 35_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bullywug.webp#right)
-
 Life as a bullywug is nasty, brutish, and wet. These frog-headed amphibious humanoids must stay constantly moist, dwelling in rainy forests, marshes, and damp caves. Always hungry and thoroughly evil, bullywugs overwhelm opponents with superior numbers when they can, but they flee from serious threats to search for easier prey.
 
 Bullywugs have green, gray, or mottled yellow skin that shifts through shades of gray, green, and brown, allowing them to blend in with their surroundings. They wear crude armor and wield simple weapons, and can deliver a powerful bite to foes that press too close.
@@ -47,11 +62,11 @@ Simple concepts in the language are understandable to frogs and toads. Bullywugs
 
 ```ad-statblock
 title: Bullywug
-![](Mechanics/CLI/bestiary/humanoid/token/bullywug.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/bullywug.webp#token)
 *Medium humanoid (bullywug), Neutral Evil*
 
-- **Armor Class** 15 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Armor Class** 15 ([hide armor](/Mechanics/CLI/items/hide-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 20 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -60,9 +75,8 @@ title: Bullywug
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
 - **Senses** passive Perception 10
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** Bullywug
 - **Challenge** 1/4
 
@@ -72,7 +86,7 @@ title: Bullywug
 
 ***Speak with Frogs and Toads.*** The bullywug can communicate simple concepts to frogs and toads when it speaks in Bullywug.
 
-***Swamp Camouflage.*** The bullywug has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in swampy terrain.
+***Swamp Camouflage.*** The bullywug has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in swampy terrain.
 
 ***Standing Leap.*** The bullywug's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
@@ -90,3 +104,7 @@ title: Bullywug
 ## Environment
 
 swamp
+
+## Sources
+
+_Monster Manual p. 35_

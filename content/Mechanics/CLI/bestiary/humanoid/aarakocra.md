@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Aarakocra
-created: 2026-03-09T12:15:33.965-04:00
-modified: 2026-03-09T12:15:33.965-04:00
-published: 2026-03-09T12:15:33.965-04:00
+created: 2026-03-29T21:53:55.969-04:00
+modified: 2026-03-29T21:53:55.969-04:00
+published: 2026-03-29T21:53:55.969-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Aarakocra
+ac: 12
+hp: 13
+modifier: 2
+hit_dice: 3d8
+cr: 1/4
+stats:
+  - 10
+  - 14
+  - 10
+  - 11
+  - 12
+  - 11
+source:
+  - MM
 ---
 
 # Aarakocra
 
-_Source: Monster Manual p. 12_\
 ![](Mechanics/CLI/bestiary/humanoid/img/aarakocra.webp#right)
-
 Aarakocra range the Howling Gyre, an endless storm of mighty winds and lashing rains that surrounds the tranquil realm of Aaqa in the Elemental Plane of Air. Making aerial patrols, these birdlike humanoids guard the windy borders of their home against invaders from the Elemental Plane of Earth, such as gargoyles, their sworn enemies.
 
 ## Enemies of Elemental Evil
@@ -44,11 +59,11 @@ The Wind Dukes of Aaqa come from a race of elemental beings called the vaati, wh
 
 ```ad-statblock
 title: Aarakocra
-![](Mechanics/CLI/bestiary/humanoid/token/aarakocra.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/aarakocra.webp#token)
 *Medium humanoid (aarakocra), Neutral Good*
 
 - **Armor Class** 12 
-- **Hit Points** 13 (`3d8`) 
+- **Hit Points** 13 (3d8) 
 - **Speed** 20 ft., fly 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,9 +72,8 @@ title: Aarakocra
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
 - **Senses** passive Perception 15
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md)
 - **Languages** Auran, Aarakocra
 - **Challenge** 1/4
 
@@ -73,7 +87,7 @@ title: Aarakocra
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+4` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage.
 
-***Summon Air Elemental.*** Five aarakocra within 30 feet of each other can magically summon an [air elemental](Mechanics/CLI/bestiary/elemental/air-elemental.md). Each of the five must use its action and movement on three consecutive turns to perform an aerial dance and must maintain [concentration](Mechanics/CLI/rules/conditions.md#Concentration) while doing so (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). When all five have finished their third turn of the dance, the elemental appears in an unoccupied space within 60 feet of them. It is friendly toward them and obeys their spoken commands. It remains for 1 hour, until it or all its summoners die, or until any of its summoners dismisses it as a bonus action. A summoner can't perform the dance again until it finishes a short rest. When the elemental returns to the Elemental Plane of Air, any aarakocra within 5 feet of it can return with it.
+***Summon Air Elemental.*** Five aarakocra within 30 feet of each other can magically summon an [air elemental](/Mechanics/CLI/bestiary/elemental/air-elemental.md). Each of the five must use its action and movement on three consecutive turns to perform an aerial dance and must maintain [concentration](/Mechanics/CLI/conditions.md#Concentration) while doing so (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). When all five have finished their third turn of the dance, the elemental appears in an unoccupied space within 60 feet of them. It is friendly toward them and obeys their spoken commands. It remains for 1 hour, until it or all its summoners die, or until any of its summoners dismisses it as a bonus action. A summoner can't perform the dance again until it finishes a short rest. When the elemental returns to the Elemental Plane of Air, any aarakocra within 5 feet of it can return with it.
 ```
 
 ^statblock
@@ -81,3 +95,7 @@ title: Aarakocra
 ## Environment
 
 mountain
+
+## Sources
+
+_Monster Manual p. 12_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young White Dragon
-created: 2026-03-09T12:15:33.785-04:00
-modified: 2026-03-09T12:15:33.786-04:00
-published: 2026-03-09T12:15:33.786-04:00
+created: 2026-03-29T21:53:55.563-04:00
+modified: 2026-03-29T21:53:55.563-04:00
+published: 2026-03-29T21:53:55.563-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young White Dragon
+ac: 17
+hp: 133
+modifier: 0
+hit_dice: 14d10 + 56
+cr: "6"
+stats:
+  - 18
+  - 10
+  - 18
+  - 6
+  - 11
+  - 12
+source:
+  - MM
 ---
 
 # Young White Dragon
 
-_Source: Monster Manual p. 101. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/white-dragon.webp#right)
-
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
 A white dragon has feral eyes, a sleek profile, and a spined crest. The scales of a wyrmling white dragon glisten pure white. As the dragon ages, its sheen disappears and some of its scales begin to darken, so that by the time it is old, it is mottled by patches of pale blue and light gray. This patterning helps the dragon blend into the realms of ice and stone in which it hunts, and to fade from view when it soars across a cloud-filled sky.
@@ -107,11 +122,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young White Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-white-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-white-dragon.webp#token)
 *Large dragon, Chaotic Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 133 (`14d10 + 56`) 
+- **Hit Points** 133 (14d10 + 56) 
 - **Speed** 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -120,8 +135,8 @@ title: Young White Dragon
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +3, Constitution +7, Wisdom +3, Charisma +4
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Immunities** cold
 - **Languages** Common, Draconic
 - **Challenge** 6
@@ -146,3 +161,7 @@ title: Young White Dragon
 ## Environment
 
 arctic
+
+## Sources
+
+_Monster Manual p. 101. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yeti
-created: 2026-03-09T12:15:33.857-04:00
-modified: 2026-03-09T12:15:33.857-04:00
-published: 2026-03-09T12:15:33.857-04:00
+created: 2026-03-29T21:53:55.648-04:00
+modified: 2026-03-29T21:53:55.648-04:00
+published: 2026-03-29T21:53:55.648-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Yeti
+ac: 12
+hp: 51
+modifier: 1
+hit_dice: 6d10 + 18
+cr: "3"
+stats:
+  - 18
+  - 13
+  - 16
+  - 8
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Yeti
 
-_Source: Monster Manual p. 305. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yeti.webp#right)
-
 A yeti's windborne howl sounds out across remote mountains, striking fear into the hearts of the scattered miners and herders that dwell there. These hulking creatures stalk alpine peaks in a ceaseless hunt for food. Their snow-white fur lets them move like ghosts against the frozen landscape. A yeti's icy simian eyes can freeze its prey in place.
 
 ## Keen Hunters
@@ -51,11 +66,11 @@ An abominable yeti is larger than a normal yeti, standing three times as tall as
 
 ```ad-statblock
 title: Yeti
-![](Mechanics/CLI/bestiary/monstrosity/token/yeti.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/yeti.webp#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 51 (`6d10 + 18`) 
+- **Hit Points** 51 (6d10 + 18) 
 - **Speed** 40 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -64,8 +79,8 @@ title: Yeti
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Immunities** cold
 - **Languages** Yeti
 - **Challenge** 3
@@ -74,9 +89,9 @@ title: Yeti
 
 ***Fear of Fire.*** If the yeti takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
-***Keen Smell.*** The yeti has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The yeti has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
-***Snow Camouflage.*** The yeti has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in snowy terrain.
+***Snow Camouflage.*** The yeti has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in snowy terrain.
 
 ## Actions
 
@@ -84,7 +99,7 @@ title: Yeti
 
 ***Claw.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) slashing damage plus 3 (`1d6`) cold damage.
 
-***Chilling Gaze.*** The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (`3d6`) cold damage and then be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
+***Chilling Gaze.*** The yeti targets one creature it can see within 30 feet of it. If the target can see the yeti, the target must succeed on a DC 13 Constitution saving throw against this magic or take 10 (`3d6`) cold damage and then be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute, unless it is immune to cold damage. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If the target's saving throw is successful, or if the effect ends on it, the target is immune to the Chilling Gaze of all yetis (but not abominable yetis) for 1 hour.
 ```
 
 ^statblock
@@ -92,3 +107,7 @@ title: Yeti
 ## Environment
 
 arctic
+
+## Sources
+
+_Monster Manual p. 305. Available in the Basic Rules (2014)_

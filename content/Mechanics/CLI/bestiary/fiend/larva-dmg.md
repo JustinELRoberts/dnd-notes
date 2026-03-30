@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Larva
-created: 2026-03-09T12:15:34.138-04:00
-modified: 2026-03-09T12:15:34.138-04:00
-published: 2026-03-09T12:15:34.138-04:00
+created: 2026-03-29T21:53:56.190-04:00
+modified: 2026-03-29T21:53:56.190-04:00
+published: 2026-03-29T21:53:56.190-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/monster/cr/0
@@ -13,19 +13,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Larva (DMG)
+ac: 9
+hp: 9
+modifier: -1
+hit_dice: 2d8
+cr: "0"
+stats:
+  - 9
+  - 9
+  - 10
+  - 6
+  - 10
+  - 2
+source:
+  - DMG
 ---
 
 # Larva
 
-_Source: Dungeon Master's Guide p. 63_
-
 ```ad-statblock
 title: Larva
-![](Mechanics/CLI/bestiary/fiend/token/larva-dmg.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/larva-dmg.webp#token)
 *Medium fiend, Neutral Evil*
 
 - **Armor Class** 9 
-- **Hit Points** 9 (`2d8`) 
+- **Hit Points** 9 (2d8) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,3 +60,7 @@ title: Larva
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 63_

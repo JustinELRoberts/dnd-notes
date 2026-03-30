@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Magmin
-created: 2026-03-09T12:15:33.808-04:00
-modified: 2026-03-09T12:15:33.808-04:00
-published: 2026-03-09T12:15:33.808-04:00
+created: 2026-03-29T21:53:55.592-04:00
+modified: 2026-03-29T21:53:55.592-04:00
+published: 2026-03-29T21:53:55.592-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Magmin
+ac: 14
+hp: 9
+modifier: 2
+hit_dice: 2d6 + 2
+cr: 1/2
+stats:
+  - 7
+  - 15
+  - 12
+  - 8
+  - 11
+  - 10
+source:
+  - MM
 ---
 
 # Magmin
 
-_Source: Monster Manual p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/magmin.webp#right)
-
 A grinning, mischievous magmin resembles a stumpy humanoid sculpted from a black shell of magma. Even when it isn't ablaze and radiating heat like a bonfire, small jets of flame erupt from its porous skin.
 
 ## Summoned Pyromaniacs
@@ -36,11 +51,11 @@ If it has the opportunity while in service to its master, a magmin seeks out are
 
 ```ad-statblock
 title: Magmin
-![](Mechanics/CLI/bestiary/elemental/token/magmin.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/magmin.webp#token)
 *Small elemental, Chaotic Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 9 (`2d6 + 2`) 
+- **Hit Points** 9 (2d6 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,7 +65,7 @@ title: Magmin
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** fire
 - **Languages** Ignan
@@ -68,3 +83,7 @@ title: Magmin
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 212. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

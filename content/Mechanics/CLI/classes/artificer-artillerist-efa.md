@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Artillerist
-created: 2026-03-09T12:15:33.974-04:00
-modified: 2026-03-09T12:15:33.974-04:00
-published: 2026-03-09T12:15:33.974-04:00
+created: 2026-03-29T21:53:55.975-04:00
+modified: 2026-03-29T21:53:55.975-04:00
+published: 2026-03-29T21:53:55.975-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/subclass/artificer/artillerist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Artillerist
 
-_[Artificer](./artificer-efa.md): Artificer Subclass_\
-_Source: Eberron: Forge of the Artificer p. 16_
+_[Artificer](./artificer-efa.md): Artificer Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,9 +62,9 @@ You gain the following benefits.
 
 **Ranged Weaponry.** You gain proficiency with Martial Ranged weapons.
 
-**Tool Proficiency.** You gain proficiency with [Woodcarver's Tools](Mechanics/CLI/items/woodcarvers-tools-xphb.md). If you already have this proficiency, you gain proficiency with one other type of [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) of your choice.
+**Tool Proficiency.** You gain proficiency with [Woodcarver's Tools](/Mechanics/CLI/items/woodcarvers-tools-xphb.md). If you already have this proficiency, you gain proficiency with one other type of [Artisan's Tools](/Mechanics/CLI/items/artisans-tools-xphb.md) of your choice.
 
-**Wand Crafting.** When you craft a magic [Wand](Mechanics/CLI/items/wand-xphb.md), the amount of time required to craft it is halved.
+**Wand Crafting.** When you craft a magic [Wand](/Mechanics/CLI/items/wand-xphb.md), the amount of time required to craft it is halved.
 
 ### Artillerist Spells (Level 3)
 
@@ -75,37 +74,41 @@ When you reach an Artificer level specified in the Artillerist Spells table, you
 
 | Artificer Level | Spells |
 |-----------------|--------|
-| 3 | [Shield](Mechanics/CLI/spells/shield-xphb.md), [Thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) |
-| 5 | [Scorching Ray](Mechanics/CLI/spells/scorching-ray-xphb.md), [Shatter](Mechanics/CLI/spells/shatter-xphb.md) |
-| 9 | [Fireball](Mechanics/CLI/spells/fireball-xphb.md), [Wind Wall](Mechanics/CLI/spells/wind-wall-xphb.md) |
-| 13 | [Ice Storm](Mechanics/CLI/spells/ice-storm-xphb.md), [Wall of Fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 17 | [Cone of Cold](Mechanics/CLI/spells/cone-of-cold-xphb.md), [Wall of Force](Mechanics/CLI/spells/wall-of-force-xphb.md) |
+| 3 | [Shield](/Mechanics/CLI/spells/shield-xphb.md), [Thunderwave](/Mechanics/CLI/spells/thunderwave-xphb.md) |
+| 5 | [Scorching Ray](/Mechanics/CLI/spells/scorching-ray-xphb.md), [Shatter](/Mechanics/CLI/spells/shatter-xphb.md) |
+| 9 | [Fireball](/Mechanics/CLI/spells/fireball-xphb.md), [Wind Wall](/Mechanics/CLI/spells/wind-wall-xphb.md) |
+| 13 | [Ice Storm](/Mechanics/CLI/spells/ice-storm-xphb.md), [Wall of Fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md) |
+| 17 | [Cone of Cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md), [Wall of Force](/Mechanics/CLI/spells/wall-of-force-xphb.md) |
 ^artillerist-spells
 
 ### Eldritch Cannon (Level 3)
 
-Using [Smith's Tools](Mechanics/CLI/items/smiths-tools-xphb.md) or [Woodcarver's Tools](Mechanics/CLI/items/woodcarvers-tools-xphb.md), you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to create a Small or Tiny [Eldritch Cannon](Mechanics/CLI/objects/eldritch-cannon-efa.md) in an unoccupied space on a horizontal surface within 5 feet of yourself. You determine its appearance, including whether you carry it or not (and your choice of legs or wheels, for the latter). It disappears if it is reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or after 1 hour. You can dismiss it early as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action.
+Using [Smith's Tools](/Mechanics/CLI/items/smiths-tools-xphb.md) or [Woodcarver's Tools](/Mechanics/CLI/items/woodcarvers-tools-xphb.md), you can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to create a Small or Tiny [Eldritch Cannon](/Mechanics/CLI/objects/eldritch-cannon-efa.md) in an unoccupied space on a horizontal surface within 5 feet of yourself. You determine its appearance, including whether you carry it or not (and your choice of legs or wheels, for the latter). It disappears if it is reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or after 1 hour. You can dismiss it early as a [Magic](/Mechanics/CLI/actions.md#Magic) action.
 
-Once you create a cannon, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) or expend a spell slot to create one. You can have only one cannon at a time and can't create one while you already have one.
+Once you create a cannon, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) or expend a spell slot to create one. You can have only one cannon at a time and can't create one while you already have one.
 
 ### Arcane Firearm (Level 5)
 
-When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can use [Woodcarver's Tools](Mechanics/CLI/items/woodcarvers-tools-xphb.md) to carve special sigils into a [Rod](Mechanics/CLI/items/rod-xphb.md), [Staff](Mechanics/CLI/items/staff-xphb.md), [Wand](Mechanics/CLI/items/wand-xphb.md), or Martial Ranged weapon and thereby turn it into your Arcane Firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can use [Woodcarver's Tools](/Mechanics/CLI/items/woodcarvers-tools-xphb.md) to carve special sigils into a [Rod](/Mechanics/CLI/items/rod-xphb.md), [Staff](/Mechanics/CLI/items/staff-xphb.md), [Wand](/Mechanics/CLI/items/wand-xphb.md), or Martial Ranged weapon and thereby turn it into your Arcane Firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
 
-You can use your Arcane Firearm as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Artificer spells. When you cast an Artificer spell through the firearm, roll `1d8`, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
+You can use your Arcane Firearm as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Artificer spells. When you cast an Artificer spell through the firearm, roll `1d8`, and you gain a bonus to one of the spell's damage rolls equal to the number rolled.
 
 ### Explosive Cannon (Level 9)
 
-Every [Eldritch Cannon](Mechanics/CLI/objects/eldritch-cannon-efa.md) you create is now more destructive. You gain the following benefits.
+Every [Eldritch Cannon](/Mechanics/CLI/objects/eldritch-cannon-efa.md) you create is now more destructive. You gain the following benefits.
 
-**Detonate.** When your cannon takes damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking `3d10` Force damage on a failed save or half as much damage on a successful one.
+**Detonate.** When your cannon takes damage, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking `3d10` Force damage on a failed save or half as much damage on a successful one.
 
-**Firepower.** The cannon's damage rolls and the number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) granted by Protector increase by `1d8`.
+**Firepower.** The cannon's damage rolls and the number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) granted by Protector increase by `1d8`.
 
 ### Fortified Position (Level 15)
 
-You're a master at forming well-defended emplacements using your [Eldritch Cannon](Mechanics/CLI/objects/eldritch-cannon-efa.md). You gain the following benefits.
+You're a master at forming well-defended emplacements using your [Eldritch Cannon](/Mechanics/CLI/objects/eldritch-cannon-efa.md). You gain the following benefits.
 
-**Double Firepower.** You can now have two cannons at the same time, and you can create two with the same [Magic](Mechanics/CLI/rules/actions.md#Magic) action. (If you expend a spell slot to create the first cannon, you must expend another spell slot to create the second.) You can activate both of them with the same [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), ordering them to use the same activation option or different ones. You can't create a third cannon while you have two.
+**Double Firepower.** You can now have two cannons at the same time, and you can create two with the same [Magic](/Mechanics/CLI/actions.md#Magic) action. (If you expend a spell slot to create the first cannon, you must expend another spell slot to create the second.) You can activate both of them with the same [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), ordering them to use the same activation option or different ones. You can't create a third cannon while you have two.
 
-**Shimmering Field Projection.** You and your allies have [Half Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) while within 10 feet of your [Eldritch Cannon](Mechanics/CLI/objects/eldritch-cannon-efa.md).
+**Shimmering Field Projection.** You and your allies have [Half Cover](/Mechanics/CLI/variant-rules/cover-xphb.md) while within 10 feet of your [Eldritch Cannon](/Mechanics/CLI/objects/eldritch-cannon-efa.md).
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 16_

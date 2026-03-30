@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Minotaur
-created: 2026-03-09T12:15:34.013-04:00
-modified: 2026-03-09T12:15:34.013-04:00
-published: 2026-03-09T12:15:34.013-04:00
+created: 2026-03-29T21:53:56.020-04:00
+modified: 2026-03-29T21:53:56.020-04:00
+published: 2026-03-29T21:53:56.020-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/minotaur
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Minotaur
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 27_\
 ![](Mechanics/CLI/races/img/minotaur.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -30,15 +29,15 @@ You have horns that you can use to make unarmed strikes. When you hit with them,
 
 ### Goring Rush
 
-Immediately after you take the [Dash](Mechanics/CLI/rules/actions.md#Dash) action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action.
+Immediately after you take the [Dash](/Mechanics/CLI/actions.md#Dash) action on your turn and move at least 20 feet, you can make one melee attack with your Horns as a bonus action.
 
 ### Hammering Horns
 
-Immediately after you hit a creature with a melee attack as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can use a bonus action to attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you can push it up to 10 feet away from you.
+Immediately after you hit a creature with a melee attack as part of the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn, you can use a bonus action to attempt to push that target with your horns. The target must be within 5 feet of you and no more than one size larger than you. Unless it succeeds on a Strength saving throw against a DC equal to 8 + your proficiency bonus + your Strength modifier, you can push it up to 10 feet away from you.
 
 ### Labyrinthine Recall
 
-You always know which direction is north, and you have advantage on any Wisdom ([Survival](Mechanics/CLI/rules/skills.md#Survival)) check you make to navigate or track.
+You always know which direction is north, and you have advantage on any Wisdom ([Survival](/Mechanics/CLI/skills.md#Survival)) check you make to navigate or track.
 
 ## Description
 
@@ -47,3 +46,7 @@ Minotaurs are barrel-chested humanoids with heads resembling those of bulls. Ble
 Minotaur horns range in size from about 1 foot long to easily three times that length. Minotaurs often carve their horns to sharpen their edges, etch symbols of power into them, or sheathe them in bronze to prevent them from shattering during battle.
 
 Thick hair extends down minotaurs' necks and powerful backs, and some have long patches of hair on their chins and cheeks. Their legs end in heavy, cloven hooves, and they have long, tufted tails.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 27_

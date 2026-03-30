@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gnoll
-created: 2026-03-09T12:15:34.131-04:00
-modified: 2026-03-09T12:15:34.131-04:00
-published: 2026-03-09T12:15:34.131-04:00
+created: 2026-03-29T21:53:56.177-04:00
+modified: 2026-03-29T21:53:56.177-04:00
+published: 2026-03-29T21:53:56.177-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/gnoll
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Gnoll
-
-_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +2 int -2
 - **Size**: Medium
@@ -34,3 +32,7 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 ### Rampage
 
 When you reduce a creature to 0 hit points with a melee attack on your turn, you can take a bonus action to move up to half your speed and make a bite attack.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

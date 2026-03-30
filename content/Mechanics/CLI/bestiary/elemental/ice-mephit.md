@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ice Mephit
-created: 2026-03-09T12:15:34.032-04:00
-modified: 2026-03-09T12:15:34.032-04:00
-published: 2026-03-09T12:15:34.032-04:00
+created: 2026-03-29T21:53:56.045-04:00
+modified: 2026-03-29T21:53:56.045-04:00
+published: 2026-03-29T21:53:56.045-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ice Mephit
+ac: 11
+hp: 21
+modifier: 1
+hit_dice: 6d6
+cr: 1/2
+stats:
+  - 7
+  - 13
+  - 10
+  - 9
+  - 11
+  - 12
+source:
+  - MM
 ---
 
 # Ice Mephit
 
-_Source: Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/ice-mephit.webp#right)
 
 ## Mephits
@@ -39,11 +55,11 @@ Comprising frigid air and water, ice mephits are aloof and cold, surpassing all 
 
 ```ad-statblock
 title: Ice Mephit
-![](Mechanics/CLI/bestiary/elemental/token/ice-mephit.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/ice-mephit.webp#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 21 (`6d6`) 
+- **Hit Points** 21 (6d6) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,17 +68,17 @@ title: Ice Mephit
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Vulnerabilities** bludgeoning, fire
 - **Damage Immunities** cold, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Aquan, Auran
 - **Challenge** 1/2
 
 ## Traits
 
-***Innate Spellcasting (1/Day).*** The mephit can innately cast [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), requiring no material components. Its innate spellcasting ability is Charisma.
+***Innate Spellcasting (1/Day).*** The mephit can innately cast [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md), requiring no material components. Its innate spellcasting ability is Charisma.
 
 
 ***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 feet of it must make a DC 10 Dexterity saving throw, taking 4 (`1d8`) slashing damage on a failed save, or half as much damage on a successful one.
@@ -81,3 +97,7 @@ title: Ice Mephit
 ## Environment
 
 arctic
+
+## Sources
+
+_Monster Manual p. 215. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

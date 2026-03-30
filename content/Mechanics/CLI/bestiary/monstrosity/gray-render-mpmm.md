@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gray Render
-created: 2026-03-09T12:15:33.803-04:00
-modified: 2026-03-09T12:15:33.803-04:00
-published: 2026-03-09T12:15:33.803-04:00
+created: 2026-03-29T21:53:55.587-04:00
+modified: 2026-03-29T21:53:55.587-04:00
+published: 2026-03-29T21:53:55.587-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/12
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gray Render (MPMM)
+ac: 19
+hp: 189
+modifier: 1
+hit_dice: 18d10 + 90
+cr: "12"
+stats:
+  - 19
+  - 13
+  - 20
+  - 3
+  - 6
+  - 8
+source:
+  - MPMM
 ---
 
 # Gray Render
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 146_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/gray-render.webp#right)
-
 A curious impulse drives the gray render. Despite its hulking form and terrible appetite, it wants most of all to bond with an intelligent creature and, once bonded, to give its life to protect that creature. Great strength and a ferocious nature make gray renders fierce guardians, but they lack a shred of cunning.
 
 Gray renders reproduce by forming nodules on their bodies that, on reaching maturity, break off to begin life as young gray renders. They feel no obligation to their young and have no inclination to gather with others of their kind. Instead, each has an overpowering need to bond with an intelligent creature. When one encounters a suitable master, it sings to that creature—a weird, warbling cry accompanied by scratching at the earth and a show of deference. Once it forms a bond, a gray render serves its master devotedly.
@@ -50,11 +65,11 @@ The Gray Render Quirks table presents possible quirks for gray renders that can 
 
 ```ad-statblock
 title: Gray Render
-![](Mechanics/CLI/bestiary/monstrosity/token/gray-render-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/gray-render-mpmm.webp#token)
 *Large monstrosity, Typically  Chaotic Neutral*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 189 (`18d10 + 90`) 
+- **Hit Points** 189 (18d10 + 90) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -63,8 +78,8 @@ title: Gray Render
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +8, Constitution +9
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 12
 
@@ -72,9 +87,9 @@ title: Gray Render
 
 ***Multiattack.*** The gray render makes one Bite attack and two Claw attacks.
 
-***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 17 (`2d12 + 4`) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 17 (`2d12 + 4`) piercing damage. If the target is Medium or smaller, the target must succeed on a DC 16 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
-***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) slashing damage, plus 10 (`3d6`) bludgeoning damage if the target is [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) slashing damage, plus 10 (`3d6`) bludgeoning damage if the target is [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Reactions
 
@@ -86,3 +101,7 @@ title: Gray Render
 ## Environment
 
 forest, hill
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 146_

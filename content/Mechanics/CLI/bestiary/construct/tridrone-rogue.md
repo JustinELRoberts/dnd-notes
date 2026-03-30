@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tridrone (Rogue)
-created: 2026-03-09T12:15:33.799-04:00
-modified: 2026-03-09T12:15:33.799-04:00
-published: 2026-03-09T12:15:33.799-04:00
+created: 2026-03-29T21:53:55.583-04:00
+modified: 2026-03-29T21:53:55.583-04:00
+published: 2026-03-29T21:53:55.583-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -13,18 +13,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Tridrone (Rogue)
+ac: 15
+hp: 16
+modifier: 1
+hit_dice: 3d8 + 3
+cr: 1/2
+stats:
+  - 12
+  - 13
+  - 12
+  - 9
+  - 10
+  - 9
+source:
+  - MM
 ---
 
 # Tridrone (Rogue)
-
-_Source: Monster Manual p. 225_
 
 ```ad-statblock
 title: Tridrone (Rogue)
 *Medium construct, Any alignment*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 16 (`3d8 + 3`) 
+- **Hit Points** 16 (3d8 + 3) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,8 +49,7 @@ title: Tridrone (Rogue)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 10
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 10
 - **Languages** Modron
 - **Challenge** 1/2
 
@@ -53,3 +67,7 @@ title: Tridrone (Rogue)
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 225_

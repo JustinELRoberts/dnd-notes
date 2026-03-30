@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Antiquarian
-created: 2026-03-09T12:15:33.795-04:00
-modified: 2026-03-09T12:15:33.795-04:00
-published: 2026-03-09T12:15:33.795-04:00
+created: 2026-03-29T21:53:55.578-04:00
+modified: 2026-03-29T21:53:55.578-04:00
+published: 2026-03-29T21:53:55.578-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/investigator/antiquarian
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Antiquarian
 
-_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,31 +56,31 @@ Festooned with magical trinkets from every corner of the globe, Antiquarians hav
 
 ### Artifact Hoarder (Level 3)
 
-You gain one additional use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)) before a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You gain one additional use of your [Trinkets](/Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)) before a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Trinkets (Level 3)
 
 You can use the following trinkets.
 
-**Hateful Arrowhead.** You can cast [Ray of Enfeeblement](Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) or [Scorching Ray](Mechanics/CLI/spells/scorching-ray-xphb.md) spell without a spell slot or components.
+**Hateful Arrowhead.** You can cast [Ray of Enfeeblement](/Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) or [Scorching Ray](/Mechanics/CLI/spells/scorching-ray-xphb.md) spell without a spell slot or components.
 
-**Warped Prism.** You can cast [Blur](Mechanics/CLI/spells/blur-xphb.md) or [Shield](Mechanics/CLI/spells/shield-xphb.md) without a spell slot or components.
+**Warped Prism.** You can cast [Blur](/Mechanics/CLI/spells/blur-xphb.md) or [Shield](/Mechanics/CLI/spells/shield-xphb.md) without a spell slot or components.
 
-**Razortooth Bandages.** You can cast [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md) or [Inflict Wounds](Mechanics/CLI/spells/inflict-wounds-xphb.md) without a spell slot or components. When you restore [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or deal damage using one of these spells using this trinket, you can add your Investigator level to the healing or damage dealt.
+**Razortooth Bandages.** You can cast [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md) or [Inflict Wounds](/Mechanics/CLI/spells/inflict-wounds-xphb.md) without a spell slot or components. When you restore [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or deal damage using one of these spells using this trinket, you can add your Investigator level to the healing or damage dealt.
 
 ### Arcane Relics (Level 6)
 
-You've secured a handful of priceless relics with rare and delicate enchantments. Once you use one of the following relics, you can't use this feature again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You've secured a handful of priceless relics with rare and delicate enchantments. Once you use one of the following relics, you can't use this feature again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Antediluvian Dynamo.** You can cast [Fireball](Mechanics/CLI/spells/fireball-xphb.md) or [Lightning Bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md) without a spell slot or components.
+**Antediluvian Dynamo.** You can cast [Fireball](/Mechanics/CLI/spells/fireball-xphb.md) or [Lightning Bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md) without a spell slot or components.
 
-**Lich's Deathmask.** You can cast [Counterspell](Mechanics/CLI/spells/counterspell-xphb.md) or [Dispel Magic](Mechanics/CLI/spells/dispel-magic-xphb.md) without a spell slot or components.
+**Lich's Deathmask.** You can cast [Counterspell](/Mechanics/CLI/spells/counterspell-xphb.md) or [Dispel Magic](/Mechanics/CLI/spells/dispel-magic-xphb.md) without a spell slot or components.
 
-**Mortal Coil.** You can cast [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md) or [Revivify](Mechanics/CLI/spells/revivify-xphb.md) without a spell slot or components. When you cast [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md) using this relic, all previous Undead created using this relic crumble into dust.
+**Mortal Coil.** You can cast [Animate Dead](/Mechanics/CLI/spells/animate-dead-xphb.md) or [Revivify](/Mechanics/CLI/spells/revivify-xphb.md) without a spell slot or components. When you cast [Animate Dead](/Mechanics/CLI/spells/animate-dead-xphb.md) using this relic, all previous Undead created using this relic crumble into dust.
 
 ### Magic Item Collection (Level 10)
 
-When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can magically produce a magic item. When you do so, all magic items previously created by this feature vanish. If a magic item you produce requires [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md), you can attune yourself to it the instant you produce it. You can produce the following magic items: a Carpet of Flying, a Cloak of the Bat, a Flame Tongue, Gauntlets of Ogre Power, an Instant Fortress, a Ring of Regeneration, a Ring of Telekinesis, a Sun Blade, or a Wand of Wonder.
+When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can magically produce a magic item. When you do so, all magic items previously created by this feature vanish. If a magic item you produce requires [Attunement](/Mechanics/CLI/variant-rules/attunement-xphb.md), you can attune yourself to it the instant you produce it. You can produce the following magic items: a Carpet of Flying, a Cloak of the Bat, a Flame Tongue, Gauntlets of Ogre Power, an Instant Fortress, a Ring of Regeneration, a Ring of Telekinesis, a Sun Blade, or a Wand of Wonder.
 
 ### Soul Jar (Level 14)
 
@@ -89,10 +88,14 @@ You've secured the crown jewel of your collection: a lich's soul jar, or "phylac
 
 This magic item is always attuned to you and doesn't count against your total number of attuned magic items. It has 5 charges and regains `1d4 + 1` expended charges daily at dawn. While wearing the soul jar, you can expend one or more charges to use the following abilities.
 
-**Temporary Hit Points.** You can expend 1 charge as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Investigator level.
+**Temporary Hit Points.** You can expend 1 charge as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Investigator level.
 
-**Trinket Recharge.** You can expend 1 charge as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to regain one expended use of your [Trinkets](Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)).
+**Trinket Recharge.** You can expend 1 charge as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to regain one expended use of your [Trinkets](/Mechanics/CLI/classes/investigator-valdaspire24.md#Trinkets%20\(Level%203\)).
 
-**Undead Fortitude.** When you are reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can expend 2 charges to drop to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead. You can use this benefit only once per turn.
+**Undead Fortitude.** When you are reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) and not killed outright, you can expend 2 charges to drop to 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead. You can use this benefit only once per turn.
 
-**Draining Touch.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can expend 3 charges to make a melee spell attack. On a hit, the target takes `8d8` Necrotic damage and you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the Necrotic damage dealt. If the spell attack misses, these charges aren't expended.
+**Draining Touch.** As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can expend 3 charges to make a melee spell attack. On a hit, the target takes `8d8` Necrotic damage and you regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the Necrotic damage dealt. If the spell attack misses, these charges aren't expended.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

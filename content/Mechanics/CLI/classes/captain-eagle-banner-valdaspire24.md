@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eagle Banner
-created: 2026-03-09T12:15:33.809-04:00
-modified: 2026-03-09T12:15:33.809-04:00
-published: 2026-03-09T12:15:33.809-04:00
+created: 2026-03-29T21:53:55.593-04:00
+modified: 2026-03-29T21:53:55.593-04:00
+published: 2026-03-29T21:53:55.593-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/captain/eagle-banner
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Eagle Banner
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,24 +62,28 @@ Once per turn when you miss with a ranged attack roll, you can expend one Battle
 
 ### Close-Quarters Shooting (Level 3)
 
-Being within 5 feet of an enemy doesn't impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on your ranged attack rolls with Ranged weapons. Your Cohort also gains the benefits of this feature.
+Being within 5 feet of an enemy doesn't impose [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on your ranged attack rolls with Ranged weapons. Your Cohort also gains the benefits of this feature.
 
 ### Vantage Point (Level 6)
 
 Your skill at scaling walls and gaining a perch above your foes grants you the following benefits.
 
-**Climb Speed.** You have a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+**Climb Speed.** You have a [Climb Speed](/Mechanics/CLI/variant-rules/climb-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md).
 
-**High Ground Shot.** When you make a ranged attack roll from an elevation of 15 feet or more above the target, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll.
+**High Ground Shot.** When you make a ranged attack roll from an elevation of 15 feet or more above the target, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the roll.
 
 ### Counter-Shot \[Maneuver] (Level 10)
 
-When an enemy you can see hits a creature with a ranged attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) and expend one Battle Die to attempt to intercept the attack. You must be holding a Ranged weapon and the creature must be within your weapon's range to use this maneuver. Subtract the Battle Die from the attack roll, potentially causing it to miss.
+When an enemy you can see hits a creature with a ranged attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) and expend one Battle Die to attempt to intercept the attack. You must be holding a Ranged weapon and the creature must be within your weapon's range to use this maneuver. Subtract the Battle Die from the attack roll, potentially causing it to miss.
 
 ### Hundred-Arrow Volley (Level 14)
 
-When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action with a Ranged weapon, you can replace one of your attacks with a flurry of projectiles in one of the following ways.
+When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action with a Ranged weapon, you can replace one of your attacks with a flurry of projectiles in one of the following ways.
 
-**Arrow Rain.** Choose a point within your weapon's range. You launch several projectiles that rain down in a 10-foot-radius, 40-foot-high [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md) centered on that point. Make a separate ranged attack roll against each target in that [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md).
+**Arrow Rain.** Choose a point within your weapon's range. You launch several projectiles that rain down in a 10-foot-radius, 40-foot-high [Cylinder](/Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md) centered on that point. Make a separate ranged attack roll against each target in that [Cylinder](/Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md).
 
-**Scatter Shot.** You launch several projectiles in a 20-foot [Cone](Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md). Make a separate ranged attack roll against each target in that [Cone](Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md).
+**Scatter Shot.** You launch several projectiles in a 20-foot [Cone](/Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md). Make a separate ranged attack roll against each target in that [Cone](/Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

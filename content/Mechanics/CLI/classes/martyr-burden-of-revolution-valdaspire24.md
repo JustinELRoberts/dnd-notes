@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Revolution
-created: 2026-03-09T12:15:33.858-04:00
-modified: 2026-03-09T12:15:33.858-04:00
-published: 2026-03-09T12:15:33.858-04:00
+created: 2026-03-29T21:53:55.649-04:00
+modified: 2026-03-29T21:53:55.649-04:00
+published: 2026-03-29T21:53:55.649-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/martyr/revolution
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Revolution
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,33 +64,37 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Command](Mechanics/CLI/spells/command-xphb.md), [Heroism](Mechanics/CLI/spells/heroism-xphb.md) |
-| 5 | [Hold Person](Mechanics/CLI/spells/hold-person-xphb.md), [Magic Weapon](Mechanics/CLI/spells/magic-weapon-xphb.md) |
-| 9 | [Divine Wrath](Mechanics/CLI/spells/divine-wrath-valdaspire24.md), [Protection from Energy](Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 13 | [Stoneskin](Mechanics/CLI/spells/stoneskin-xphb.md), [Wall of Fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 17 | [Hold Monster](Mechanics/CLI/spells/hold-monster-xphb.md), [Telepathic Bond](Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md) |
+| 3 | [Command](/Mechanics/CLI/spells/command-xphb.md), [Heroism](/Mechanics/CLI/spells/heroism-xphb.md) |
+| 5 | [Hold Person](/Mechanics/CLI/spells/hold-person-xphb.md), [Magic Weapon](/Mechanics/CLI/spells/magic-weapon-xphb.md) |
+| 9 | [Divine Wrath](/Mechanics/CLI/spells/divine-wrath-valdaspire24.md), [Protection from Energy](/Mechanics/CLI/spells/protection-from-energy-xphb.md) |
+| 13 | [Stoneskin](/Mechanics/CLI/spells/stoneskin-xphb.md), [Wall of Fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md) |
+| 17 | [Hold Monster](/Mechanics/CLI/spells/hold-monster-xphb.md), [Telepathic Bond](/Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md) |
 ^revolution-spells
 
 ### Revolutionary Spirit (Level 3)
 
 Your zeal for freedom grants you the following benefits. Ranged Reprisal. You can use your Reprisal when you take damage from a creature you can see within 60 feet of you.
 
-**Sacrificial Inspiration.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can take 5 Radiant damage to give [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) to an ally within 60 feet of yourself who can see or hear you. This damage ignores your [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+**Sacrificial Inspiration.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can take 5 Radiant damage to give [Heroic Inspiration](/Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) to an ally within 60 feet of yourself who can see or hear you. This damage ignores your [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses your [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
 ### Aura of Tenacity (Level 6)
 
-You and your allies within a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) centered on you gain a bonus to [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls equal to your Wisdom modifier (minimum bonus of +1). The aura is inactive while you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+You and your allies within a 30-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) centered on you gain a bonus to [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls equal to your Wisdom modifier (minimum bonus of +1). The aura is inactive while you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Kingslayer (Level 14)
 
-Once per turn when you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), choose one of the following benefits.
+Once per turn when you reduce an enemy to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), choose one of the following benefits.
 
-**Assault.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can move up to 15 feet and make a melee attack.
+**Assault.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can move up to 15 feet and make a melee attack.
 
-**Break Spells.** All of the creature's spells and effects immediately end, including all spells with permanent effects. Additionally, [Contingency](Mechanics/CLI/spells/contingency-xphb.md), [Clone](Mechanics/CLI/spells/clone-xphb.md), and other spells that occur in response to the target's death don't trigger.
+**Break Spells.** All of the creature's spells and effects immediately end, including all spells with permanent effects. Additionally, [Contingency](/Mechanics/CLI/spells/contingency-xphb.md), [Clone](/Mechanics/CLI/spells/clone-xphb.md), and other spells that occur in response to the target's death don't trigger.
 
-**Shatter Morale.** Each ally of the creature within 120 feet of it that has a [Challenge Rating](Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) less than the target's (or the target's level if it doesn't have a [Challenge Rating](Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md)) has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute. At the end of each of its turns, the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) target makes a Wisdom saving throw against your spell save DC, ending the condition on itself on a success.
+**Shatter Morale.** Each ally of the creature within 120 feet of it that has a [Challenge Rating](/Mechanics/CLI/variant-rules/challenge-rating-xphb.md) less than the target's (or the target's level if it doesn't have a [Challenge Rating](/Mechanics/CLI/variant-rules/challenge-rating-xphb.md)) has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for 1 minute. At the end of each of its turns, the [Frightened](/Mechanics/CLI/conditions.md#Frightened) target makes a Wisdom saving throw against your spell save DC, ending the condition on itself on a success.
 
 ### Rallying Strike (Level 18)
 
-When you use your Sacrificial Strike, choose one of your allies within 30 feet of yourself who can see or hear you. The ally can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to make one attack using a weapon.
+When you use your Sacrificial Strike, choose one of your allies within 30 feet of yourself who can see or hear you. The ally can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to make one attack using a weapon.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

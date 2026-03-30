@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fiendish Spirit
-created: 2026-03-09T12:15:34.089-04:00
-modified: 2026-03-09T12:15:34.089-04:00
-published: 2026-03-09T12:15:34.089-04:00
+created: 2026-03-29T21:53:56.118-04:00
+modified: 2026-03-29T21:53:56.118-04:00
+published: 2026-03-29T21:53:56.118-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fiendish Spirit (XPHB)
+modifier: 3
+stats:
+  - 13
+  - 16
+  - 15
+  - 10
+  - 10
+  - 16
+source:
+  - XPHB
 ---
 
 # Fiendish Spirit
 
-_Source: Player's Handbook (2024) p. 327_\
 ![](Mechanics/CLI/bestiary/fiend/img/fiendish-spirit.webp#center)
 
 ```ad-statblock
 title: Fiendish Spirit
-![](Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/fiendish-spirit-xphb.webp#token)
 *Large fiend, Neutral*
 
 - **Armor Class** (12 + the spell's level)
@@ -36,10 +48,10 @@ title: Fiendish Spirit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** fire
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, Telepathy 60 ft.
 - **Challenge** 
 
@@ -63,3 +75,7 @@ title: Fiendish Spirit
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 327_

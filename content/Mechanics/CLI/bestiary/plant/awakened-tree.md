@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Awakened Tree
-created: 2026-03-09T12:15:33.903-04:00
-modified: 2026-03-09T12:15:33.903-04:00
-published: 2026-03-09T12:15:33.903-04:00
+created: 2026-03-29T21:53:55.902-04:00
+modified: 2026-03-29T21:53:55.902-04:00
+published: 2026-03-29T21:53:55.902-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,21 +14,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Awakened Tree
+ac: 13
+hp: 59
+modifier: -2
+hit_dice: 7d12 + 14
+cr: "2"
+stats:
+  - 19
+  - 6
+  - 15
+  - 10
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Awakened Tree
 
-_Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
-An awakened tree is an ordinary tree given sentience and mobility by the [awaken](Mechanics/CLI/spells/awaken-xphb.md) spell or similar magic.
+An awakened tree is an ordinary tree given sentience and mobility by the [awaken](/Mechanics/CLI/spells/awaken-xphb.md) spell or similar magic.
 
 ```ad-statblock
 title: Awakened Tree
-![](Mechanics/CLI/bestiary/plant/token/awakened-tree.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/awakened-tree.webp#token)
 *Huge plant, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 59 (`7d12 + 14`) 
+- **Hit Points** 59 (7d12 + 14) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,3 +73,7 @@ title: Awakened Tree
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Flames of Phlegethos
-created: 2026-03-09T12:15:34.011-04:00
-modified: 2026-03-09T12:15:34.011-04:00
-published: 2026-03-09T12:15:34.011-04:00
+created: 2026-03-29T21:53:56.018-04:00
+modified: 2026-03-29T21:53:56.018-04:00
+published: 2026-03-29T21:53:56.018-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/feat
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Flames of Phlegethos
 
-_**Prerequisites**_ [Tiefling](Mechanics/CLI/races/tiefling-xphb.md)
+_**Prerequisites**_ [Tiefling](/Mechanics/CLI/races/tiefling.md)
 
 You learn to call on hellfire to serve your commands. You gain the following benefits:
 

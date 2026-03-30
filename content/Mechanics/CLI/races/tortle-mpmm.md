@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tortle
-created: 2026-03-09T12:15:34.053-04:00
-modified: 2026-03-09T12:15:34.053-04:00
-published: 2026-03-09T12:15:34.053-04:00
+created: 2026-03-29T21:53:56.068-04:00
+modified: 2026-03-29T21:53:56.068-04:00
+published: 2026-03-29T21:53:56.068-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/tortle
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Tortle
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 34_\
 ![](Mechanics/CLI/races/img/tortle.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -42,14 +41,18 @@ Your shell provides you a base AC of 17 (your Dexterity modifier doesn't affect 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival).
+Thanks to your mystical connection to nature, you gain proficiency with one of the following skills of your choice: [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), [Stealth](/Mechanics/CLI/skills.md#Stealth), or [Survival](/Mechanics/CLI/skills.md#Survival).
 
 ### Shell Defense
 
-You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [prone](Mechanics/CLI/rules/conditions.md#Prone), your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
+You can withdraw into your shell as an action. Until you emerge, you gain a +4 bonus to your AC, and you have advantage on Strength and Constitution saving throws. While in your shell, you are [prone](/Mechanics/CLI/conditions.md#Prone), your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, you can't take reactions, and the only action you can take is a bonus action to emerge from your shell.
 
 ## Description
 
 Tortles have a saying: "We wear our homes on our backs." These turtle folk live on many worlds, most often journeying up and down coasts, along waterways, and across the sea. Tortles don't have a unified story of how they were created, but they all have a sense of being mystically connected to the natural world. Carrying their shelter on their backs gives tortles a special feeling of security wherever they go, for even if they visit a far, unknown country, they have a place to lay their heads.
 
 Tortles exhibit the same range of coloration and patterns found among turtles, and many tortles enjoy adorning their shells in distinctive ways.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 34_

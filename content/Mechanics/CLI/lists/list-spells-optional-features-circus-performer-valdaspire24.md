@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Circus Performer
-created: 2026-03-09T12:15:34.431-04:00
-modified: 2026-03-09T12:15:34.431-04:00
-published: 2026-03-09T12:15:34.431-04:00
+created: 2026-03-29T21:53:56.523-04:00
+modified: 2026-03-29T21:53:56.523-04:00
+published: 2026-03-29T21:53:56.523-04:00
 tags:
   - ttrpg-cli/spell/list/optfeature/circus-performer
 cssclasses:
@@ -16,5 +16,5 @@ obsidianUIMode: preview
 
 ## Cantrip
 
-- [Minor Illusion](Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") as cantrip
-- [Starry Wisp](Mechanics/CLI/spells/starry-wisp-xphb.md "XPHB") as cantrip
+- [Minor Illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md "XPHB") as cantrip
+- [Starry Wisp](/Mechanics/CLI/spells/starry-wisp-xphb.md "XPHB") as cantrip

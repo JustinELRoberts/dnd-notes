@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Green Slaad
-created: 2026-03-09T12:15:34.024-04:00
-modified: 2026-03-09T12:15:34.024-04:00
-published: 2026-03-09T12:15:34.024-04:00
+created: 2026-03-29T21:53:56.034-04:00
+modified: 2026-03-29T21:53:56.034-04:00
+published: 2026-03-29T21:53:56.034-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Green Slaad
+ac: 16
+hp: 127
+modifier: 2
+hit_dice: 15d10 + 45
+cr: "8"
+stats:
+  - 18
+  - 15
+  - 16
+  - 11
+  - 8
+  - 12
+source:
+  - MM
 ---
 
 # Green Slaad
 
-_Source: Monster Manual p. 277_\
 ![](Mechanics/CLI/bestiary/aberration/img/green-slaad.webp#right)
-
 Green slaadi are surprisingly intelligent and possess innate spellcasting ability. A green slaad can change its shape to appear as a humanoid. If it was born of a humanoid host, the slaad usually adopts its host's form.
 
 At some unpredictable point in its existence, a green slaad unlocks the means to magically, instantly, and permanently transform itself into a gray slaad. Unlocking this knowledge can take years, even decades.
@@ -48,13 +63,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 >
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 >
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/Mechanics/CLI/conditions.md#Charmed) while so controlled.
 >
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](Mechanics/CLI/spells/wish-xphb.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/Mechanics/CLI/spells/wish-xphb.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 >
-> A [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the slaad destroys the gem without harming the slaad.
 >
-> Someone who is proficient in Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) can remove the gem from an [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 > ^variant-slaad-control-gems
 
 > [!quote]
@@ -65,11 +80,11 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 
 ```ad-statblock
 title: Green Slaad
-![](Mechanics/CLI/bestiary/aberration/token/green-slaad.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/green-slaad.webp#token)
 *Large aberration (shapechanger), Chaotic Neutral*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 127 (`15d10 + 45`) 
+- **Hit Points** 127 (15d10 + 45) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -78,8 +93,8 @@ title: Green Slaad
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +3, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +3, [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** acid, cold, fire, lightning, thunder
 - **Languages** Slaad, telepathy 60 ft.
 - **Challenge** 8
@@ -88,11 +103,11 @@ title: Green Slaad
 
 ***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md)
 
-**2/day each:** [fear](Mechanics/CLI/spells/fear-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only)
+**2/day each:** [fear](/Mechanics/CLI/spells/fear-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only)
 
-**1/day:** [fireball](Mechanics/CLI/spells/fireball-xphb.md)
+**1/day:** [fireball](/Mechanics/CLI/spells/fireball-xphb.md)
 
 ***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -114,3 +129,7 @@ title: Green Slaad
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 277_

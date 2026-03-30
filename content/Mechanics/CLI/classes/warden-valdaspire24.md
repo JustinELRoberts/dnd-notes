@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warden
-created: 2026-03-09T12:15:34.112-04:00
-modified: 2026-03-09T12:15:34.112-04:00
-published: 2026-03-09T12:15:34.112-04:00
+created: 2026-03-29T21:53:56.151-04:00
+modified: 2026-03-29T21:53:56.151-04:00
+published: 2026-03-29T21:53:56.151-04:00
 tags:
   - ttrpg-cli/class/warden
   - ttrpg-cli/compendium/src/5e/valdaspire24
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Warden
-
-_Source: Valda's Spire of Secrets (2024)_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,29 +46,29 @@ _Source: Valda's Spire of Secrets (2024)_
 
 ^class-progression
 
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarden/Class/Warden.webp#right)
-
 ## Hit Points
+
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarden/Class/Warden.webp#right)
 
 - **Hit Dice**: 1d10 per Warden level
 - **Hit Points at First Level:** 10 + CON
 - **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
 
-## Starting Warden
+![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarden/Class/Warden-Cover.webp#center)
+
+## Starting a Warden
 
 - **Saving Throw Proficiencies**: Constitution, Strength
-- **Skill Proficiencies**: _Choose 2:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 2:_ [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/Mechanics/CLI/skills.md#Athletics), [Insight](/Mechanics/CLI/skills.md#Insight), [Intimidation](/Mechanics/CLI/skills.md#Intimidation), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Perception](/Mechanics/CLI/skills.md#Perception), [Persuasion](/Mechanics/CLI/skills.md#Persuasion), or [Survival](/Mechanics/CLI/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Heavy armor](Mechanics/CLI/rules/item-types.md#Heavy%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), [Heavy armor](/Mechanics/CLI/item-types.md#Heavy%20Armor), and [Shields](/Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** _Choose A or B:_ (A) [Chain Mail](Mechanics/CLI/items/chain-mail-xphb.md), [Shield](Mechanics/CLI/items/shield-xphb.md), [Warhammer](Mechanics/CLI/items/warhammer-xphb.md), 6 [Javelins](Mechanics/CLI/items/javelin-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 15 GP; or (B) 130 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Chain Mail](/Mechanics/CLI/items/chain-mail-xphb.md), [Shield](/Mechanics/CLI/items/shield-xphb.md), [Warhammer](/Mechanics/CLI/items/warhammer-xphb.md), 6 [Javelins](/Mechanics/CLI/items/javelin-xphb.md), [Dungeoneer's Pack](/Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 15 GP; or (B) 130 GP
 
 ## Multiclassing Warden
 
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Shields](Mechanics/CLI/items/shield-xphb.md)
-
-![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaWarden/Class/Warden-Cover.webp#center)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), [Shields](/Mechanics/CLI/items/shield-xphb.md)
 
 ## Warden
 
@@ -88,7 +86,7 @@ A Warden's source of strength is their bottomless tolerance for punishment. Once
 
 ### Fighting Style (Level 1)
 
-You gain a Fighting Style feat of your choice. [Defense](Mechanics/CLI/feats/defense-xphb.md) is recommended.
+You gain a Fighting Style feat of your choice. [Defense](/Mechanics/CLI/feats/defense-xphb.md) is recommended.
 
 Whenever you gain a Warden level, you can replace the feat you chose with a different Fighting Style feat.
 
@@ -98,29 +96,29 @@ You gain one of the following benefits of your choice. Whenever you gain a Warde
 
 **Stalwart Spirit.** You gain proficiency in one saving throw of your choice.
 
-**Steadfast Toughness.** Your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum is increased by your Constitution modifier plus your Warden level. If you later replace this choice, your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum no longer receives this increase.
+**Steadfast Toughness.** Your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum is increased by your Constitution modifier plus your Warden level. If you later replace this choice, your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum no longer receives this increase.
 
-**Tower Shield.** While you are holding a [Shield](Mechanics/CLI/items/shield-xphb.md), you have a +3 bonus to your AC instead of +2. At Warden level 10, this bonus increases to +4.
+**Tower Shield.** While you are holding a [Shield](/Mechanics/CLI/items/shield-xphb.md), you have a +3 bonus to your AC instead of +2. At Warden level 10, this bonus increases to +4.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [mastery properties](Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of Simple or Martial Melee weapons of your choice, such as [Halberds](Mechanics/CLI/items/halberd-xphb.md) and [Longswords](Mechanics/CLI/items/longsword-xphb.md). Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [mastery properties](/Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of Simple or Martial Melee weapons of your choice, such as [Halberds](/Mechanics/CLI/items/halberd-xphb.md) and [Longswords](/Mechanics/CLI/items/longsword-xphb.md). Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can practice weapon drills and change one of those weapon choices.
 
-When you reach certain Warden levels, you gain the ability to use the [mastery properties](Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of more kinds of weapons, as shown in the Weapon Mastery column of the Warden Features table.
+When you reach certain Warden levels, you gain the ability to use the [mastery properties](/Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of more kinds of weapons, as shown in the Weapon Mastery column of the Warden Features table.
 
 ### Guardian Tactics (Level 2)
 
 Your resolute fortitude allows you to hinder your foes and protect your allies using the following tactics.
 
-**Block.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can choose one ally you can see. Until the start of your next turn, the ally's AC equals your AC if it is lower than that while the ally is within 5 feet of you. This effect ends early if you or the ally have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Block.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can choose one ally you can see. Until the start of your next turn, the ally's AC equals your AC if it is lower than that while the ally is within 5 feet of you. This effect ends early if you or the ally have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
-**Challenge.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can goad an enemy that can see or hear you into attacking you. Until the start of your next turn,  the enemy has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you while it is within 5 feet of you. This effect ends early if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Challenge.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can goad an enemy that can see or hear you into attacking you. Until the start of your next turn,  the enemy has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you while it is within 5 feet of you. This effect ends early if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
-**Grasp.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can block the retreat of foes within a 5-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you until the start of your next turn. A creature within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) can't willingly move further away from you unless it first takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action. The [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) ends early if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Grasp.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can block the retreat of foes within a 5-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you until the start of your next turn. A creature within the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) can't willingly move further away from you unless it first takes the [Disengage](/Mechanics/CLI/actions.md#Disengage) action. The [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) ends early if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Unyielding Resolve (Level 2)
 
-While you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+While you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
 
 ### Warden Subclass (Level 3)
 
@@ -128,21 +126,21 @@ You gain a Warden subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn.
 
 ### Interrupt (Level 5)
 
-When an enemy within 5 feet of you takes an action—such as Multiattack—that allows it to make multiple attacks or use additional abilities as a part of the same action, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to prevent one of its attacks or abilities. You take this [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) before any [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) is rolled for the action.
+When an enemy within 5 feet of you takes an action—such as Multiattack—that allows it to make multiple attacks or use additional abilities as a part of the same action, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to prevent one of its attacks or abilities. You take this [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) before any [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) is rolled for the action.
 
 The enemy makes one fewer attack or uses one fewer ability than normal. You learn what attacks and abilities the enemy uses and choose which one to interrupt.
 
-**Number of Uses.** You can use this [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) three times. You regain one expended use when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Number of Uses.** You can use this [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) three times. You regain one expended use when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**At Higher Levels.** When you reach certain Warden levels, you gain more uses of this [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md), as shown in the Interrupt column of the Warden Features table.
+**At Higher Levels.** When you reach certain Warden levels, you gain more uses of this [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md), as shown in the Interrupt column of the Warden Features table.
 
 ### Subclass Feature (Level 6)
 
@@ -150,17 +148,17 @@ You gain a feature from your Warden Subclass.
 
 ### Mettle (Level 7)
 
-Your determination allows you to shrug off effects that would otherwise harm you. When you're subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+Your determination allows you to shrug off effects that would otherwise harm you. When you're subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. You can't use this feature if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Survive (Level 9)
 
-When you are reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to twice your Warden level.
+When you are reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) and not killed outright, you can drop to 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead, and you regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to twice your Warden level.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Subclass Feature (Level 10)
 
@@ -168,35 +166,35 @@ You gain a feature from your Warden Subclass.
 
 ### Sentinel's Strike (Level 11)
 
-You gain one of the following benefits of your choice. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace the chosen benefit with another one.
+You gain one of the following benefits of your choice. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace the chosen benefit with another one.
 
-**Interdict.** When you use Interrupt, you can make a melee attack against the enemy as a part of the same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md). Additionally, you regain a use of Interrupt when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md).
+**Interdict.** When you use Interrupt, you can make a melee attack against the enemy as a part of the same [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md). Additionally, you regain a use of Interrupt when you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md).
 
-**Shield Slam.** Once per turn when you attack a creature within 5 feet of you as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action and hit with a Melee weapon, you can immediately bash the target with your [Shield](Mechanics/CLI/items/shield-xphb.md) if it's equipped. The target takes Bludgeoning damage equal to `1d8` plus the Shield's AC bonus.
+**Shield Slam.** Once per turn when you attack a creature within 5 feet of you as part of the [Attack](/Mechanics/CLI/actions.md#Attack) action and hit with a Melee weapon, you can immediately bash the target with your [Shield](/Mechanics/CLI/items/shield-xphb.md) if it's equipped. The target takes Bludgeoning damage equal to `1d8` plus the Shield's AC bonus.
 
-**Sweep.** When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn using a Melee weapon, you can make an attack against each creature you choose within 5 feet of you, with a separate attack roll for each target, instead of attacking twice.
+**Sweep.** When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn using a Melee weapon, you can make an attack against each creature you choose within 5 feet of you, with a separate attack roll for each target, instead of attacking twice.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Font of Life (Level 13)
 
-At the start of your turn, you can end one of the following conditions on yourself (no action required): [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Frightened](Mechanics/CLI/rules/conditions.md#Frightened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [Stunned](Mechanics/CLI/rules/conditions.md#Stunned), or [Restrained](Mechanics/CLI/rules/conditions.md#Restrained).
+At the start of your turn, you can end one of the following conditions on yourself (no action required): [Blinded](/Mechanics/CLI/conditions.md#Blinded), [Charmed](/Mechanics/CLI/conditions.md#Charmed), [Deafened](/Mechanics/CLI/conditions.md#Deafened), [Frightened](/Mechanics/CLI/conditions.md#Frightened), [Paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [Poisoned](/Mechanics/CLI/conditions.md#Poisoned), [Stunned](/Mechanics/CLI/conditions.md#Stunned), or [Restrained](/Mechanics/CLI/conditions.md#Restrained).
 
-You can use this feature twice. You regain one expended use when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature twice. You regain one expended use when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Extended Tactics (Level 14)
 
-The range of your Guardian Tactics increases to 10 feet: your Block affects an ally within 10 feet of yourself, your Challenge affects an enemy within 10 feet of yourself, and your Grasp is a 10-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md).
+The range of your Guardian Tactics increases to 10 feet: your Block affects an ally within 10 feet of yourself, your Challenge affects an enemy within 10 feet of yourself, and your Grasp is a 10-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md).
 
 ### Improved Resolve (Level 15)
 
-While you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to every damage type except Force, Necrotic, Psychic, and Radiant.
+While you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to every damage type except Force, Necrotic, Psychic, and Radiant.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 17)
 
@@ -204,13 +202,13 @@ You gain a feature from your Warden Subclass.
 
 ### Sentinel's Soul (Level 18)
 
-You gain one of the following benefits of your choice. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace the chosen benefit with another one.
+You gain one of the following benefits of your choice. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace the chosen benefit with another one.
 
-**All-Seeing.** You have [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 30 feet. If you already have [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight), its range increases by 30 feet.
+**All-Seeing.** You have [Blindsight](/Mechanics/CLI/senses.md#Blindsight) with a range of 30 feet. If you already have [Blindsight](/Mechanics/CLI/senses.md#Blindsight), its range increases by 30 feet.
 
-**Fortified.** No attack roll can have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) against you unless you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Fortified.** No attack roll can have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) against you unless you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
-**Unstoppable.** You can move through the space of any creature. Moving through its space doesn't cost you extra movement, but you can't stop in the same space. If the creature is your size or smaller, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition when you enter its space.
+**Unstoppable.** You can move through the space of any creature. Moving through its space doesn't cost you extra movement, but you can't stop in the same space. If the creature is your size or smaller, it has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition when you enter its space.
 
 ### Epic Boon (Level 19)
 
@@ -220,4 +218,8 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 If you fail a saving throw, you can choose to succeed instead.
 
-You can use this feature three times, and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature three times, and regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

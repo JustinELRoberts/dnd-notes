@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grimlock
-created: 2026-03-09T12:15:34.121-04:00
-modified: 2026-03-09T12:15:34.121-04:00
-published: 2026-03-09T12:15:34.121-04:00
+created: 2026-03-29T21:53:56.159-04:00
+modified: 2026-03-29T21:53:56.159-04:00
+published: 2026-03-29T21:53:56.159-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/grimlock
@@ -15,8 +15,6 @@ obsidianUIMode: preview
 
 # Grimlock
 
-_Source: Dungeon Master's Guide p. 282_
-
 - **Ability Scores**: str +2 cha -2
 - **Size**: Medium
 - **Speed**: 30 ft.
@@ -25,16 +23,20 @@ _Source: Dungeon Master's Guide p. 282_
 
 ### Blindsight
 
-You have no eyes, and cannot be [blinded](Mechanics/CLI/rules/conditions.md#Blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](Mechanics/CLI/rules/conditions.md#Deafened). You are considered blind beyond this radius.
+You have no eyes, and cannot be [blinded](/Mechanics/CLI/conditions.md#Blinded). You can perceive your surroundings within 30 ft., or 10 ft. while [deafened](/Mechanics/CLI/conditions.md#Deafened). You are considered blind beyond this radius.
 
 ### Keen Hearing and Smell
 
-You have advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing or smell.
+You have advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or smell.
 
 ### Stone Camouflage
 
-You have advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in rocky terrain.
+You have advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 
 ### Languages
 
 You can speak, read, and write Undercommon.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bodak
-created: 2026-03-09T12:15:33.813-04:00
-modified: 2026-03-09T12:15:33.813-04:00
-published: 2026-03-09T12:15:33.813-04:00
+created: 2026-03-29T21:53:55.597-04:00
+modified: 2026-03-29T21:53:55.597-04:00
+published: 2026-03-29T21:53:55.597-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/6
@@ -16,13 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bodak (MPMM)
+ac: 15
+hp: 58
+modifier: 3
+hit_dice: 9d8 + 18
+cr: "6"
+stats:
+  - 15
+  - 16
+  - 15
+  - 7
+  - 12
+  - 12
+source:
+  - MPMM
+  - VGM
 ---
 
 # Bodak
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127_\
 ![](Mechanics/CLI/bestiary/undead/img/bodak.webp#right)
-
 A bodak is the undying remains of someone who revered Orcus. Devoid of life and soul, it exists only to cause death.
 
 A worshiper of Orcus can take ritual vows while carving the demon lord's symbol on their chest over the heart. Orcus's power flays body, mind, and soul, leaving behind a sentient husk that consumes life energy near it. Most bodaks come into being in this way, then are unleashed to spread death in Orcus's name.
@@ -33,11 +49,11 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 
 ```ad-statblock
 title: Bodak
-![](Mechanics/CLI/bestiary/undead/token/bodak-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/bodak-mpmm.webp#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 58 (`9d8 + 18`) 
+- **Hit Points** 58 (9d8 + 18) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,19 +62,19 @@ title: Bodak
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Damage Resistances** cold; fire; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, the languages it knew in life
 - **Challenge** 6
 
 ## Traits
 
-***Death Gaze.*** When a creature that can see the bodak's eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points unless it is immune to the [frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition. Otherwise, a creature takes 16 (`3d10`) psychic damage on a failed save.
+***Death Gaze.*** When a creature that can see the bodak's eyes starts its turn within 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution saving throw if the bodak isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) and can see the creature. If the saving throw fails by 5 or more, the creature is reduced to 0 hit points unless it is immune to the [frightened](/Mechanics/CLI/conditions.md#Frightened) condition. Otherwise, a creature takes 16 (`3d10`) psychic damage on a failed save.
 
-Unless [surprised](Mechanics/CLI/rules/conditions.md#Surprised), a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it has disadvantage on attack rolls against the bodak until the start of its next turn. If the creature looks at the bodak in the meantime, that creature must immediately make the saving throw.
+Unless [surprised](/Mechanics/CLI/conditions.md#Surprised), a creature can avert its eyes to avoid the saving throw at the start of its turn. If the creature does so, it has disadvantage on attack rolls against the bodak until the start of its next turn. If the creature looks at the bodak in the meantime, that creature must immediately make the saving throw.
 
 ***Sunlight Hypersensitivity.*** The bodak takes 5 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
@@ -80,3 +96,7 @@ Unless [surprised](Mechanics/CLI/rules/conditions.md#Surprised), a creature can 
 ## Environment
 
 swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 64, Volo's Guide to Monsters p. 127_

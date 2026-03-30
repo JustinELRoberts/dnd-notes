@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pipe of Smoke Monsters
-created: 2026-03-09T12:15:34.125-04:00
-modified: 2026-03-09T12:15:34.125-04:00
-published: 2026-03-09T12:15:34.125-04:00
+created: 2026-03-29T21:53:56.168-04:00
+modified: 2026-03-29T21:53:56.168-04:00
+published: 2026-03-29T21:53:56.168-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/rarity/common
@@ -19,6 +19,11 @@ obsidianUIMode: preview
 _Wondrous item, minor, common_\
 ![](Mechanics/CLI/items/img/pipe-of-smoke-monsters.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 While smoking this pipe, you can use an action to exhale a puff of smoke that takes the form of a single creature, such as a dragon, a flumph, or a froghemoth. The form must be small enough to fit in a 1-foot cube and loses its shape after a few seconds, becoming an ordinary puff of smoke.
 
-_Source: Xanathar's Guide to Everything p. 138_
+## Sources
+
+_Xanathar's Guide to Everything p. 138_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deep Scion
-created: 2026-03-09T12:15:33.948-04:00
-modified: 2026-03-09T12:15:33.949-04:00
-published: 2026-03-09T12:15:33.949-04:00
+created: 2026-03-29T21:53:55.950-04:00
+modified: 2026-03-29T21:53:55.950-04:00
+published: 2026-03-29T21:53:55.950-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deep Scion (MPMM)
+ac: 11
+hp: 67
+modifier: 1
+hit_dice: 9d8 + 27
+cr: "3"
+stats:
+  - 18
+  - 13
+  - 16
+  - 10
+  - 12
+  - 14
+source:
+  - MPMM
+  - VGM
 ---
 
 # Deep Scion
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/deep-scion.webp#right)
-
 Deep scions began life as people who were stolen from shore or saved from sinking ships and offered a terrible bargain by an undersea power: surrender, body and soul, or drown. Those who submit are subjected to an ancient ritual widespread among evil aquatic creatures. Its methods are painful and the result never certain, but when it works, the magic transforms an air-breathing person into a shapeshifter that can take on an aquatic form.
 
 A deep scion emerges from the depths in service to their underwater master, which is likely a kraken or some other ancient being of the deep. While wearing the mind and body of the person they once were as a sort of mask, the creature is bent on fulfilling their master's desires. Sometimes a deep scion returns to their former home—unexpectedly found alive when all hope was lost. At other times the deep scion takes on a new identity. In any case, it is the deep scion's duty to infiltrate the air-breathing world and report back to their master. When set to this task, a deep scion worms their way into the life of an unsuspecting enemy as a new friend, a lover, the perfect candidate for a job, or some other role that enables the minion to carry out their master's commands.
@@ -30,11 +46,11 @@ The training to which a deep scion is subjected rids it of empathy for those the
 
 ```ad-statblock
 title: Deep Scion
-![](Mechanics/CLI/bestiary/monstrosity/token/deep-scion-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/deep-scion-mpmm.webp#token)
 *Medium monstrosity, Typically  Chaotic Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 67 (`9d8 + 27`) 
+- **Hit Points** 67 (9d8 + 27) 
 - **Speed** 30 ft. (20 ft. and swim 40 ft. in hybrid form)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -43,9 +59,8 @@ title: Deep Scion
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +3, Charisma +4
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +6, [Insight](Mechanics/CLI/rules/skills.md#Insight) +3, [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
-- **Gear** [battleaxe](Mechanics/CLI/items/battleaxe-xphb.md)
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +6, [Insight](/Mechanics/CLI/skills.md#Insight) +3, [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Languages** Aquan, Common, thieves' cant
 - **Challenge** 3
 
@@ -63,7 +78,7 @@ title: Deep Scion
 
 ***Claw (Hybrid Form Only).*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) slashing damage.
 
-***Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest).*** The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water.
+***Psychic Screech (Hybrid Form Only; Recharges after a Short or Long Rest).*** The deep scion emits a terrible scream audible within 300 feet. Creatures within 30 feet of the deep scion must succeed on a DC 13 Wisdom saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of the deep scion's next turn. In water, the psychic screech also telepathically transmits the deep scion's memories of the last 24 hours to its master, regardless of distance, so long as it and its master are in the same body of water.
 
 ## Bonus Actions
 
@@ -75,3 +90,7 @@ title: Deep Scion
 ## Environment
 
 coastal, underwater
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 88, Volo's Guide to Monsters p. 135_

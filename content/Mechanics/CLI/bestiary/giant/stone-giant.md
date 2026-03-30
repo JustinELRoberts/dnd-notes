@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stone Giant
-created: 2026-03-09T12:15:34.059-04:00
-modified: 2026-03-09T12:15:34.059-04:00
-published: 2026-03-09T12:15:34.059-04:00
+created: 2026-03-29T21:53:56.078-04:00
+modified: 2026-03-29T21:53:56.078-04:00
+published: 2026-03-29T21:53:56.078-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Stone Giant
+ac: 17
+hp: 126
+modifier: 2
+hit_dice: 11d12 + 55
+cr: "7"
+stats:
+  - 23
+  - 15
+  - 20
+  - 10
+  - 12
+  - 9
+source:
+  - MM
 ---
 
 # Stone Giant
 
-_Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/stone-giant.webp#right)
-
 Stone giants are reclusive, quiet, and peaceful as long as they are left alone. Their granite-gray skin, gaunt features, and black, sunken eyes endow stone giants with a stern countenance. They are private creatures, hiding their lives and art away from the world.
 
 ## Inhabitants of a Stone World
@@ -88,11 +103,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Stone Giant
-![](Mechanics/CLI/bestiary/giant/token/stone-giant.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/stone-giant.webp#token)
 *Huge giant, Neutral*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 126 (`11d12 + 55`) 
+- **Hit Points** 126 (11d12 + 55) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -101,15 +116,14 @@ title: Stone Giant
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Constitution +8, Wisdom +4
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +12, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Gear** [greatclub](Mechanics/CLI/items/greatclub-xphb.md)
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +12, [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Giant
 - **Challenge** 7
 
 ## Traits
 
-***Stone Camouflage.*** The giant has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The giant has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 
 ## Actions
 
@@ -117,7 +131,7 @@ title: Stone Giant
 
 ***Greatclub.*** *Melee Weapon Attack:* `+9` to hit, reach 15 ft., one target. *Hit:* 19 (`3d8 + 6`) bludgeoning damage.
 
-***Rock.*** *Ranged Weapon Attack:* `+9` to hit, range 60/240 ft., one target. *Hit:* 28 (`4d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Rock.*** *Ranged Weapon Attack:* `+9` to hit, range 60/240 ft., one target. *Hit:* 28 (`4d10 + 6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Reactions
 
@@ -129,3 +143,7 @@ title: Stone Giant
 ## Environment
 
 underdark, mountain, hill
+
+## Sources
+
+_Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

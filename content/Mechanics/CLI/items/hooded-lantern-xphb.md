@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hooded Lantern
-created: 2026-03-09T12:15:33.774-04:00
-modified: 2026-03-09T12:15:33.774-04:00
-published: 2026-03-09T12:15:33.774-04:00
+created: 2026-03-29T21:53:55.557-04:00
+modified: 2026-03-29T21:53:55.557-04:00
+published: 2026-03-29T21:53:55.557-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/
@@ -21,6 +21,8 @@ _Adventuring gear_
 - **Cost**: 5 gp
 - **Weight**: 2.0 lbs.
 
-A Hooded Lantern burns Oil as fuel to cast [Bright Light](Mechanics/CLI/rules/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for an additional 30 feet. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can lower the hood, reducing the light to [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) in a 5-foot radius, or raise it again.
+A Hooded Lantern burns Oil as fuel to cast [Bright Light](/Mechanics/CLI/variant-rules/bright-light-xphb.md) in a 30-foot radius and [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) for an additional 30 feet. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can lower the hood, reducing the light to [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) in a 5-foot radius, or raise it again.
 
-_Source: Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 226. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

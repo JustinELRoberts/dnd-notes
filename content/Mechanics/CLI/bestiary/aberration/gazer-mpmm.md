@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gazer
-created: 2026-03-09T12:15:33.818-04:00
-modified: 2026-03-09T12:15:33.818-04:00
-published: 2026-03-09T12:15:33.818-04:00
+created: 2026-03-29T21:53:55.607-04:00
+modified: 2026-03-29T21:53:55.607-04:00
+published: 2026-03-29T21:53:55.607-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gazer (MPMM)
+ac: 13
+hp: 13
+modifier: 3
+hit_dice: 3d4 + 6
+cr: 1/2
+stats:
+  - 3
+  - 17
+  - 14
+  - 3
+  - 10
+  - 7
+source:
+  - MPMM
+  - VGM
 ---
 
 # Gazer
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126_\
 ![](Mechanics/CLI/bestiary/aberration/img/gazer.webp#right)
-
 A gazer is a tiny manifestation of the dreams of a beholder. It resembles the beholder who dreamed it into existence, but its body is only 8 inches wide and it has only four eyestalks. It follows its creator like a devoted, aggressive puppy, and sometimes small packs of these creatures patrol their master's lair for vermin to kill and lone creatures to harass.
 
 A gazer can't speak any languages but can approximate words and sentences it hears, mimicking them in a high-pitched, mocking manner. Beholders find gazers amusing and tolerate their presence like spoiled pets. Some beholders with wizard minions insist they take a gazer as a familiar because the beholders can see through the eyes of these creatures.
@@ -29,11 +45,11 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 
 ```ad-statblock
 title: Gazer
-![](Mechanics/CLI/bestiary/aberration/token/gazer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/gazer-mpmm.webp#token)
 *Tiny aberration (beholder), Typically  Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 13 (`3d4 + 6`) 
+- **Hit Points** 13 (3d4 + 6) 
 - **Speed** 0 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,15 +58,15 @@ title: Gazer
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +2
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Condition Immunities** [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Condition Immunities** [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 1/2
 
 ## Traits
 
-***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check.
+***Mimicry.*** The gazer can mimic simple sounds of speech it has heard, in any language. A creature that hears the sounds can tell they are imitations with a successful DC 10 Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check.
 
 ## Actions
 
@@ -58,8 +74,8 @@ title: Gazer
 
 ***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (roll two `d4`s, and reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 
-- **1 Dazing Ray.** The targeted creature must succeed on a DC 12 Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) until the start of the gazer's next turn. While the target is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) in this way, its speed is halved, and it has disadvantage on attack rolls.  
-- **2 Fear Ray.** The targeted creature must succeed on a DC 12 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the start of the gazer's next turn.  
+- **1 Dazing Ray.** The targeted creature must succeed on a DC 12 Wisdom saving throw or be [charmed](/Mechanics/CLI/conditions.md#Charmed) until the start of the gazer's next turn. While the target is [charmed](/Mechanics/CLI/conditions.md#Charmed) in this way, its speed is halved, and it has disadvantage on attack rolls.  
+- **2 Fear Ray.** The targeted creature must succeed on a DC 12 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) until the start of the gazer's next turn.  
 - **3 Frost Ray.** The target must succeed on a DC 12 Dexterity saving throw or take 10 (`3d6`) cold damage.  
 - **4 Telekinetic Ray.** If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. If the target is a Tiny object that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.  
 
@@ -73,3 +89,7 @@ title: Gazer
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 134, Volo's Guide to Monsters p. 126_

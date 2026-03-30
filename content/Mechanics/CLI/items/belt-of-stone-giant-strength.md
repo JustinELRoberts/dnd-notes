@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Belt of Stone Giant Strength
-created: 2026-03-09T12:15:33.953-04:00
-modified: 2026-03-09T12:15:33.953-04:00
-published: 2026-03-09T12:15:33.953-04:00
+created: 2026-03-29T21:53:55.955-04:00
+modified: 2026-03-29T21:53:55.955-04:00
+published: 2026-03-29T21:53:55.955-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -20,6 +20,11 @@ obsidianUIMode: preview
 _Wondrous item, major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/belt-of-stone-giant-strength.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 While wearing this belt, your Strength score changes to 23. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
 
-_Source: Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

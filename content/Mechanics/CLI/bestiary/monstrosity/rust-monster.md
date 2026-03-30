@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rust Monster
-created: 2026-03-09T12:15:33.814-04:00
-modified: 2026-03-09T12:15:33.814-04:00
-published: 2026-03-09T12:15:33.814-04:00
+created: 2026-03-29T21:53:55.598-04:00
+modified: 2026-03-29T21:53:55.598-04:00
+published: 2026-03-29T21:53:55.598-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Rust Monster
+ac: 14
+hp: 27
+modifier: 1
+hit_dice: 5d8 + 5
+cr: 1/2
+stats:
+  - 13
+  - 12
+  - 13
+  - 2
+  - 13
+  - 6
+source:
+  - MM
 ---
 
 # Rust Monster
 
-_Source: Monster Manual p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/rust-monster.webp#right)
-
 Most dwarves would rather face a squad of orcs than confront a single rust monster. These strange, normally docile creatures corrode ferrous metals, then gobble up the rust they create. In doing so, they have ruined the armor, shields, and weapons of countless adventurers.
 
 A rust monster's body is covered in thick, lumpy armor, its long tail ends in a bony protrusion, and two feathery antennae sprout from its insectile head.
@@ -45,11 +60,11 @@ Rust monsters are rarely found in large numbers, preferring to hunt alone or in 
 
 ```ad-statblock
 title: Rust Monster
-![](Mechanics/CLI/bestiary/monstrosity/token/rust-monster.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/rust-monster.webp#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 27 (`5d8 + 5`) 
+- **Hit Points** 27 (5d8 + 5) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -59,7 +74,7 @@ title: Rust Monster
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** —
 - **Challenge** 1/2
 
@@ -83,3 +98,7 @@ If the object touched is either metal armor or a metal shield being worn or carr
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 262. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

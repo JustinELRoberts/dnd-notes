@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Random Tricks; Tricks
-created: 2026-03-09T12:15:34.370-04:00
-modified: 2026-03-09T12:15:34.370-04:00
-published: 2026-03-09T12:15:34.370-04:00
+created: 2026-03-29T21:53:56.467-04:00
+modified: 2026-03-29T21:53:56.467-04:00
+published: 2026-03-29T21:53:56.467-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:
@@ -30,24 +30,24 @@ _Source: Dungeon Master's Guide p. 297_
 | 23-26 | Creates an illusion |
 | 27-29 | Suppresses magic items for a time |
 | 30-32 | Enlarges or reduces characters |
-| 33-35 | [Magic mouth](Mechanics/CLI/spells/magic-mouth-xphb.md) speaks a riddle |
-| 36-38 | [Confusion](Mechanics/CLI/spells/confusion-xphb.md) (targets all creatures within 10 ft.) |
+| 33-35 | [Magic mouth](/Mechanics/CLI/spells/magic-mouth-xphb.md) speaks a riddle |
+| 36-38 | [Confusion](/Mechanics/CLI/spells/confusion-xphb.md) (targets all creatures within 10 ft.) |
 | 39-41 | Gives directions (true or false) |
 | 42-44 | Grants a wish |
 | 45-47 | Flies about to avoid being touched |
-| 48-50 | Casts [geas](Mechanics/CLI/spells/geas-xphb.md) on the characters |
+| 48-50 | Casts [geas](/Mechanics/CLI/spells/geas-xphb.md) on the characters |
 | 51-53 | Increases, reduces, negates, or reverses gravity |
 | 54-56 | Induces greed |
 | 57-59 | Contains an imprisoned creature |
 | 60-62 | Locks or unlocks exits |
 | 63-65 | Offers a game of chance, with the promise of a reward or valuable information |
 | 66-68 | Helps or harms certain types of creatures |
-| 69-71 | Casts [polymorph](Mechanics/CLI/spells/polymorph-xphb.md) on the characters (lasts 1 hour) |
+| 69-71 | Casts [polymorph](/Mechanics/CLI/spells/polymorph-xphb.md) on the characters (lasts 1 hour) |
 | 72-75 | Presents a puzzle or riddle |
 | 76-78 | Prevents movement |
 | 79-81 | Releases coins, false coins, gems, false gems, a magic item, or a map |
 | 82-84 | Releases, summons, or turns into a monster |
-| 85-87 | Casts [suggestion](Mechanics/CLI/spells/suggestion-xphb.md) on the characters |
+| 85-87 | Casts [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md) on the characters |
 | 88-90 | Wails loudly when touched |
 | 91-93 | Talks (normal speech, nonsense, poetry and rhymes, singing, spellcasting, or screaming) |
 | 94-97 | Teleports characters to another place |

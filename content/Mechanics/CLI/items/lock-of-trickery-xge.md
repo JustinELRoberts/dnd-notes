@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lock of Trickery
-created: 2026-03-09T12:15:33.844-04:00
-modified: 2026-03-09T12:15:33.844-04:00
-published: 2026-03-09T12:15:33.844-04:00
+created: 2026-03-29T21:53:55.633-04:00
+modified: 2026-03-29T21:53:55.633-04:00
+published: 2026-03-29T21:53:55.633-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/rarity/common
@@ -18,6 +18,11 @@ obsidianUIMode: preview
 
 _Wondrous item, minor, common_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 This lock appears to be an ordinary lock (of the type described in chapter 5 of the Player's Handbook) and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have disadvantage.
 
-_Source: Xanathar's Guide to Everything p. 138_
+## Sources
+
+_Xanathar's Guide to Everything p. 138_

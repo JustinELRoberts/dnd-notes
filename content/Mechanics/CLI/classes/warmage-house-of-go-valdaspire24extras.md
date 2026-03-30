@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Go
-created: 2026-03-09T12:15:34.130-04:00
-modified: 2026-03-09T12:15:34.130-04:00
-published: 2026-03-09T12:15:34.130-04:00
+created: 2026-03-29T21:53:56.174-04:00
+modified: 2026-03-29T21:53:56.174-04:00
+published: 2026-03-29T21:53:56.174-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/warmage/go
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # House of Go
 
-_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,28 +58,32 @@ The renowned House of Go predates the other Warmage colleges by centuries. Unlik
 
 ### Formations (Level 3)
 
-You learn special tactics called Formations. You can use a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to activate one of the following Formations, which lasts until you and your [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) are no longer in that formation, you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition, die, or activate a different formation.
+You learn special tactics called Formations. You can use a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to activate one of the following Formations, which lasts until you and your [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) are no longer in that formation, you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition, die, or activate a different formation.
 
-**Flank.** You can use this formation when you and an [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) that doesn't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition are adjacent to an enemy and on opposite sides of it. You can determine this by tracing a 5-foot-wide [Line](Mechanics/CLI/rules/variant-rules/line-area-of-effect-xphb.md) from your space. If this line passes through the center of all three spaces, the enemy is flanked. You and your [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against the flanked creature.
+**Flank.** You can use this formation when you and an [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) that doesn't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition are adjacent to an enemy and on opposite sides of it. You can determine this by tracing a 5-foot-wide [Line](/Mechanics/CLI/variant-rules/line-area-of-effect-xphb.md) from your space. If this line passes through the center of all three spaces, the enemy is flanked. You and your [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against the flanked creature.
 
-**Solo.** You can use this formation when you have no [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) within 5 feet of you. While in this formation, if you target a creature with a cantrip, that creature can't make [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) against you for the rest of the turn or until you are no longer in this formation, whether or not you deal damage with the cantrip.
+**Solo.** You can use this formation when you have no [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) within 5 feet of you. While in this formation, if you target a creature with a cantrip, that creature can't make [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) against you for the rest of the turn or until you are no longer in this formation, whether or not you deal damage with the cantrip.
 
-**Wall.** You can use this formation when you and two to six [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) that don't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition are within 5 feet of another [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md). Each creature in this formation (including you), gains a +2 bonus to its AC.
+**Wall.** You can use this formation when you and two to six [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) that don't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition are within 5 feet of another [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md). Each creature in this formation (including you), gains a +2 bonus to its AC.
 
 ### Opening Strategy (Level 7)
 
-You can spend 10 minutes planning an encounter in exact detail. When you do so, you can share your plan with up to six [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) within 30 feet of you who can see or hear you and who can understand you. Each [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) that understands the plan can gain [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on an attack roll or ability check it makes within the next 10 minutes. If an [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) rolls [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) during this time, it can't use this feature to gain [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) after the end of the first round of combat.
+You can spend 10 minutes planning an encounter in exact detail. When you do so, you can share your plan with up to six [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) within 30 feet of you who can see or hear you and who can understand you. Each [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) that understands the plan can gain [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on an attack roll or ability check it makes within the next 10 minutes. If an [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) rolls [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) during this time, it can't use this feature to gain [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) after the end of the first round of combat.
 
-Once you use this feature to make a plan, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature to make a plan, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Hardened Formations (Level 10)
 
-While you are in a formation, any [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) against you or an [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) in your formation becomes a normal hit.
+While you are in a formation, any [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) against you or an [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) in your formation becomes a normal hit.
 
 ### Chain of Liberties (Level 15)
 
-Your formation moves as if your [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) were links in a chain. Whenever you move on your turn, any number of willing [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) in your formation can move the same distance.
+Your formation moves as if your [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) were links in a chain. Whenever you move on your turn, any number of willing [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) in your formation can move the same distance.
 
 ### End Game (Level 18)
 
-On your turn, when you reduce a creature to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) with a Warmage cantrip, you can cast another cantrip as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). You can apply [Warmage Edge](Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to this cantrip, even if you have already used it on your turn.
+On your turn, when you reduce a creature to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) with a Warmage cantrip, you can cast another cantrip as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md). You can apply [Warmage Edge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Warmage%20Edge%20\(Level%201\)) to this cantrip, even if you have already used it on your turn.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

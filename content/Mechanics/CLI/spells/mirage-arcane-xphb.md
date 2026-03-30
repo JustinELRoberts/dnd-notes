@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Mirage Arcane
-created: 2026-03-09T12:15:33.848-04:00
-modified: 2026-03-09T12:15:33.848-04:00
-published: 2026-03-09T12:15:33.848-04:00
+created: 2026-03-29T21:53:55.637-04:00
+modified: 2026-03-29T21:53:55.637-04:00
+published: 2026-03-29T21:53:55.637-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/7th-level
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Wizard
-  - Wizard (Illusionist)
 ---
 
 # Mirage Arcane
@@ -36,10 +32,18 @@ You make terrain in an area up to 1 mile square look, sound, smell, and even fee
 
 Similarly, you can alter the appearance of structures or add them where none are present. The spell doesn't disguise, conceal, or add creatures.
 
-The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.
+The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell's area disappears immediately.
 
-Creatures with [Truesight](Mechanics/CLI/rules/senses.md#Truesight) can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
+Creatures with [Truesight](/Mechanics/CLI/senses.md#Truesight) can see through the illusion to the terrain's true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion's presence, the creature can still physically interact with the illusion.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Wizard (Illusionist)](/Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Clockwork Iron Cobra
-created: 2026-03-09T12:15:33.885-04:00
-modified: 2026-03-09T12:15:33.885-04:00
-published: 2026-03-09T12:15:33.885-04:00
+created: 2026-03-29T21:53:55.680-04:00
+modified: 2026-03-29T21:53:55.680-04:00
+published: 2026-03-29T21:53:55.680-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Clockwork Iron Cobra (MPMM)
+ac: 13
+hp: 91
+modifier: 3
+hit_dice: 14d8 + 28
+cr: "4"
+stats:
+  - 12
+  - 16
+  - 14
+  - 3
+  - 10
+  - 1
+source:
+  - MPMM
 ---
 
 # Clockwork Iron Cobra
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 79_\
 ![](Mechanics/CLI/bestiary/construct/img/clockwork-iron-cobra.webp#right)
-
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
 
 ## Clockworks
@@ -38,8 +53,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d10 | Enhancement |
 |-----------|-------------|
-| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](Mechanics/CLI/rules/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
-| 2 | **Sensors.** The range of the clockwork's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](Mechanics/CLI/rules/skills.md#Perception) if it lacks that proficiency. |
+| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](/Mechanics/CLI/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
+| 2 | **Sensors.** The range of the clockwork's [darkvision](/Mechanics/CLI/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](/Mechanics/CLI/skills.md#Perception) if it lacks that proficiency. |
 | 3 | **Fortified.** The clockwork's AC increases by 2. |
 | 4 | **Increased Speed.** The clockwork's speed increases by 10 feet. |
 | 5 | **Reinforced Construction.** The clockwork has resistance to force, lightning, and thunder damage. |
@@ -54,13 +69,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of its turn. |
 | 2 | **Flawed Targeting.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
 | 4 | **Imprinting Loop.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
 | 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) until the end of its turn. |
+| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -68,11 +83,11 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 ```ad-statblock
 title: Clockwork Iron Cobra
-![](Mechanics/CLI/bestiary/construct/token/clockwork-iron-cobra-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/clockwork-iron-cobra-mpmm.webp#token)
 *Medium construct, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 91 (`14d8 + 28`) 
+- **Hit Points** 91 (14d8 + 28) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -81,10 +96,10 @@ title: Clockwork Iron Cobra
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands one language of its creator but can't speak
 - **Challenge** 4
 
@@ -98,8 +113,8 @@ title: Clockwork Iron Cobra
 
 ***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or suffer one random effect (roll a `d6`):
 
-- **1–2 Confusion.** On its next turn, the target must use its action to make one weapon attack against a random creature it can see within 30 feet of it, using whatever weapon it has in hand and moving beforehand if necessary to get in range. If it's holding no weapon, it makes an unarmed strike. If no creature is visible within 30 feet, it takes the [Dash](Mechanics/CLI/rules/actions.md#Dash) action, moving toward the nearest creature.  
-- **3–4 Paralysis.** The target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) until the end of its next turn.  
+- **1–2 Confusion.** On its next turn, the target must use its action to make one weapon attack against a random creature it can see within 30 feet of it, using whatever weapon it has in hand and moving beforehand if necessary to get in range. If it's holding no weapon, it makes an unarmed strike. If no creature is visible within 30 feet, it takes the [Dash](/Mechanics/CLI/actions.md#Dash) action, moving toward the nearest creature.  
+- **3–4 Paralysis.** The target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) until the end of its next turn.  
 - **5–6 Poison.** The target takes 13 (`3d8`) poison damage.  
 ```
 
@@ -108,3 +123,7 @@ title: Clockwork Iron Cobra
 ## Environment
 
 forest, grassland, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 79_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warhorse Skeleton
-created: 2026-03-09T12:15:33.877-04:00
-modified: 2026-03-09T12:15:33.877-04:00
-published: 2026-03-09T12:15:33.877-04:00
+created: 2026-03-29T21:53:55.670-04:00
+modified: 2026-03-29T21:53:55.670-04:00
+published: 2026-03-29T21:53:55.670-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -13,11 +13,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Warhorse Skeleton
+ac: 13
+hp: 22
+modifier: 1
+hit_dice: 3d10 + 6
+cr: 1/2
+stats:
+  - 18
+  - 12
+  - 15
+  - 2
+  - 8
+  - 5
+source:
+  - MM
 ---
 
 # Warhorse Skeleton
-
-_Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
@@ -49,11 +64,11 @@ A skeleton doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Warhorse Skeleton
-![](Mechanics/CLI/bestiary/undead/token/warhorse-skeleton.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/warhorse-skeleton.webp#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 13 (barding scraps)
-- **Hit Points** 22 (`3d10 + 6`) 
+- **Hit Points** 22 (3d10 + 6) 
 - **Speed** 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -63,10 +78,10 @@ title: Warhorse Skeleton
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Vulnerabilities** bludgeoning
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 1/2
 
@@ -76,3 +91,7 @@ title: Warhorse Skeleton
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

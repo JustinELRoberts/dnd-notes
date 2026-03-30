@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Weird
-created: 2026-03-09T12:15:33.948-04:00
-modified: 2026-03-09T12:15:33.948-04:00
-published: 2026-03-09T12:15:33.948-04:00
+created: 2026-03-29T21:53:55.950-04:00
+modified: 2026-03-29T21:53:55.950-04:00
+published: 2026-03-29T21:53:55.950-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/9th-level
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 ---
 
 # Weird
@@ -32,10 +28,18 @@ _9th-level, Illusion_
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for the duration. On a successful save, a target takes half as much damage only.
+You try to create illusory terrors in others' minds. Each creature of your choice in a 30-foot-radius [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point within range makes a Wisdom saving throw. On a failed save, a target takes `10d10` Psychic damage and has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for the duration. On a successful save, a target takes half as much damage only.
 
-A [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
+A [Frightened](/Mechanics/CLI/conditions.md#Frightened) target makes a Wisdom saving throw at the end of each of its turns. On a failed save, it takes `5d10` Psychic damage. On a successful save, the spell ends on that target.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Wizard (Illusionist)](/Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

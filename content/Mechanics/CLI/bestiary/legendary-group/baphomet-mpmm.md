@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Baphomet
-created: 2026-03-09T12:15:34.414-04:00
-modified: 2026-03-09T12:15:34.414-04:00
-published: 2026-03-09T12:15:34.414-04:00
+created: 2026-03-29T21:53:56.510-04:00
+modified: 2026-03-29T21:53:56.510-04:00
+published: 2026-03-29T21:53:56.510-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/legendary-group
@@ -31,8 +31,8 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse_
 
 The region containing Baphomet's lair is warped by his magic, creating one or more of the following effects:
 
-- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) and Charisma ([Performance](Mechanics/CLI/rules/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) and Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) checks have advantage.
+- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) and Charisma ([Performance](/Mechanics/CLI/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) and Charisma ([Intimidation](/Mechanics/CLI/skills.md#Intimidation)) checks have advantage.
 - **Hedge Mazes.** Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.
-- **Panicked Beasts.** Beasts within 1 mile of the lair become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.
+- **Panicked Beasts.** Beasts within 1 mile of the lair become [frightened](/Mechanics/CLI/conditions.md#Frightened) and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.
 
 If Baphomet dies, these effects fade over the course of `1d10` days.

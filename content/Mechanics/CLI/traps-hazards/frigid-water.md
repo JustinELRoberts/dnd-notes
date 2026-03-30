@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Frigid Water
-created: 2026-03-09T12:15:33.988-04:00
-modified: 2026-03-09T12:15:33.988-04:00
-published: 2026-03-09T12:15:33.988-04:00
+created: 2026-03-29T21:53:55.994-04:00
+modified: 2026-03-29T21:53:55.994-04:00
+published: 2026-03-29T21:53:55.994-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/hazard/wld
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _Wilderness Hazard_
 
-A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
+A creature can be immersed in frigid water for a number of minutes equal to its Constitution score before suffering any ill effects. Each additional minute spent in frigid water requires the creature to succeed on a DC 10 Constitution saving throw or gain one level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion). Creatures with resistance or immunity to cold damage automatically succeed on the saving throw, as do creatures that are naturally adapted to living in ice-cold water.
 
 ## Sources
 

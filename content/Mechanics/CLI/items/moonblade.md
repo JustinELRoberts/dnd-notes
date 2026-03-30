@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Moonblade
-created: 2026-03-09T12:15:33.775-04:00
-modified: 2026-03-09T12:15:33.775-04:00
-published: 2026-03-09T12:15:33.775-04:00
+created: 2026-03-29T21:53:55.557-04:00
+modified: 2026-03-29T21:53:55.557-04:00
+published: 2026-03-29T21:53:55.557-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -18,13 +18,14 @@ obsidianUIMode: preview
 
 # Moonblade
 
-_Weapon ([longsword](Mechanics/CLI/items/longsword-xphb.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)_\
+_Weapon ([longsword](/Mechanics/CLI/items/longsword.md)), legendary (requires attunement by an elf or half-elf of neutral good alignment)_\
 ![Moonblade (Longsword)](Mechanics/CLI/items/img/moonblade.webp#right)
 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
+- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 Of all the magic items created by the elves, one of the most prized and jealously guarded is a moon blade. In ancient times, nearly all elven noble houses claimed one such blade. Over the centuries, some blades have faded from the world, their magic lost as family lines have become extinct. Other blades have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
@@ -42,22 +43,22 @@ A moonblade has one rune on its blade for each master it has served (typically `
 | dice: d100 | Property |
 |------------|----------|
 | 01-40 | Increase the bonus to attack and damage rolls by 1, to a maximum of +3. Reroll if the moonblade already has a +3 bonus. |
-| 41-80 | The moonblade gains a randomly determined [minor property](Mechanics/CLI/tables/special-features-what-minor-property-does-it-have.md) (see "Special Features" DMG p143). |
+| 41-80 | The moonblade gains a randomly determined [minor property](/Mechanics/CLI/tables/special-features-what-minor-property-does-it-have.md) (see "Special Features" DMG p143). |
 | 81-82 | The moonblade gains the finesse property. |
 | 83-84 | The moonblade gains the thrown property (range 20/60 feet). |
-| 85-86 | The moonblade functions as a [defender](Mechanics/CLI/items/defender.md). |
+| 85-86 | The moonblade functions as a [defender](/Mechanics/CLI/items/defender.md). |
 | 87-90 | The moon blade scores a critical hit on a roll of 19 or 20. |
 | 91-92 | When you hit with an attack using the moon blade, the attack deals an extra `1d6` slashing damage. |
 | 93-94 | When you hit a creature of a specific type (such as dragon, fiend, or undead) with the moonblade, the target takes an extra `1d6` damage of one of these types: acid, cold, fire, lightning, or thunder. |
-| 95-96 | You can use a bonus action to cause the moonblade to flash brightly. Each creature that can see you and is within 30 feet of you must succeed on a DC 15 Constitution saving throw or become [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until you take a short rest while attuned to the weapon. |
-| 97-98 | The moonblade functions as a [ring of spell storing](Mechanics/CLI/items/ring-of-spell-storing.md). |
-| 99 | You can use an action to call forth an elfshadow, provided that you don't already have one serving you. The elfshadow appears in an unoccupied space within 120 feet of you. It uses the statistics for a [shadow](Mechanics/CLI/bestiary/undead/shadow.md), except it is neutral, immune to effects that turn undead, and doesn't create new shadows. You control this creature, deciding how it acts and moves. It remains until it drops to 0 hit points or you dismiss it as an action. |
-| 00 | The moonblade functions as a [vorpal sword](Mechanics/CLI/items/vorpal-sword.md). |
+| 95-96 | You can use a bonus action to cause the moonblade to flash brightly. Each creature that can see you and is within 30 feet of you must succeed on a DC 15 Constitution saving throw or become [blinded](/Mechanics/CLI/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. This property can't be used again until you take a short rest while attuned to the weapon. |
+| 97-98 | The moonblade functions as a [ring of spell storing](/Mechanics/CLI/items/ring-of-spell-storing.md). |
+| 99 | You can use an action to call forth an elfshadow, provided that you don't already have one serving you. The elfshadow appears in an unoccupied space within 120 feet of you. It uses the statistics for a [shadow](/Mechanics/CLI/bestiary/undead/shadow.md), except it is neutral, immune to effects that turn undead, and doesn't create new shadows. You control this creature, deciding how it acts and moves. It remains until it drops to 0 hit points or you dismiss it as an action. |
+| 00 | The moonblade functions as a [vorpal sword](/Mechanics/CLI/items/vorpal-sword.md). |
 ^moonblade-properties
 
 ## Sentience
 
-A moon blade is a sentient neutral good weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet.
+A moon blade is a sentient neutral good weapon with an Intelligence of 12, a Wisdom of 10, and a Charisma of 12. It has hearing and [darkvision](/Mechanics/CLI/senses.md#Darkvision) out to a range of 120 feet.
 
 The weapon communicates by transmitting emotions, sending a tingling sensation through the wielder's hand when it wants to communicate something it has sensed. It can communicate more explicitly, through visions or dreams, when the wielder is either in a trance or asleep.
 
@@ -69,4 +70,6 @@ The weapon is bonded to the family line it is meant to serve. Once it has bonded
 
 If a moon blade has a flaw, it is overconfidence. Once it has decided on an owner, it believes that only that person should wield it, even if the owner falls short of elven ideals.
 
-_Source: Dungeon Master's Guide p. 217_
+## Sources
+
+_Dungeon Master's Guide p. 217_

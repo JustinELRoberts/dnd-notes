@@ -2,17 +2,19 @@
 publish: true
 aliases:
   - Wall of Fire
-created: 2026-03-09T12:15:33.983-04:00
-modified: 2026-03-09T12:15:33.983-04:00
-published: 2026-03-09T12:15:33.983-04:00
+created: 2026-03-29T21:53:55.988-04:00
+modified: 2026-03-29T21:53:55.988-04:00
+published: 2026-03-29T21:53:55.988-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
   - ttrpg-cli/spell/level/4th-level
+  - ttrpg-cli/spell/optfeature/river-of-hungry-flame
   - ttrpg-cli/spell/school/evocation
   - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/artillerist
@@ -26,26 +28,11 @@ tags:
   - ttrpg-cli/spell/subclass/house-of-bishops
   - ttrpg-cli/spell/subclass/light-domain
   - ttrpg-cli/spell/subclass/red-magic
+  - ttrpg-cli/spell/subclass/the-celestial
+  - ttrpg-cli/spell/subclass/the-fiend
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Cleric (Forge Domain)
-  - Cleric (Light Domain)
-  - Druid
-  - Fighter (Eldritch Knight)
-  - Martyr (Burden of Revolution)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warlock (Celestial Patron)
-  - Warlock (Fiend Patron)
-  - Warmage (House of Bishops)
-  - Witch (Red Magic)
-  - Wizard
-  - Wizard (Evoker)
 ---
 
 # Wall of Fire
@@ -65,6 +52,38 @@ One side of the wall, selected by you when you cast this spell, deals `5d8` Fire
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 4.
 
-**Classes**: [Artificer (Artillerist)](Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Forge Domain)](Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB"); [Cleric (Light Domain)](Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Martyr (Burden of Revolution)](Mechanics/CLI/lists/list-spells-classes-burden-of-revolution-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock (Celestial Patron)](Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (Fiend Patron)](Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Red Magic)](Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Witch (Red Magic)](/Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Warlock (The Celestial)](/Mechanics/CLI/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE;class=XPHB")
+- [Artificer (Artillerist)](/Mechanics/CLI/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE")
+- [Warlock (The Celestial)](/Mechanics/CLI/lists/list-spells-classes-the-celestial-xge.md "subclass=XGE")
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Artificer (Artillerist)](/Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA")
+- [Cleric (Forge Domain)](/Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE;class=XPHB")
+- [Wizard (Evoker)](/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Cleric (Forge Domain)](/Mechanics/CLI/lists/list-spells-classes-forge-domain-xge.md "subclass=XGE")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock (Fiend Patron)](/Mechanics/CLI/lists/list-spells-classes-fiend-patron-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Light Domain)](/Mechanics/CLI/lists/list-spells-classes-light-domain.md "class=XPHB")
+- [Cleric (Light Domain)](/Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB")
+- [Warlock (Celestial Patron)](/Mechanics/CLI/lists/list-spells-classes-celestial-patron-xphb.md "subclass=XPHB;class=XPHB")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Warlock (The Fiend)](/Mechanics/CLI/lists/list-spells-classes-the-fiend.md "class=XPHB")
+- [Martyr (Burden of Revolution)](/Mechanics/CLI/lists/list-spells-classes-burden-of-revolution-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Warlock (The Fiend)](/Mechanics/CLI/lists/list-spells-classes-the-fiend.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Cleric (Light Domain)](/Mechanics/CLI/lists/list-spells-classes-light-domain.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [River of Hungry Flame](/Mechanics/CLI/lists/list-spells-optional-features-river-of-hungry-flame.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

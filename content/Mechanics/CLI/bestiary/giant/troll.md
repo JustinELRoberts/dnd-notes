@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Troll
-created: 2026-03-09T12:15:33.833-04:00
-modified: 2026-03-09T12:15:33.833-04:00
-published: 2026-03-09T12:15:33.833-04:00
+created: 2026-03-29T21:53:55.619-04:00
+modified: 2026-03-29T21:53:55.619-04:00
+published: 2026-03-29T21:53:55.619-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -19,13 +19,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Troll
+ac: 15
+hp: 84
+modifier: 1
+hit_dice: 8d10 + 40
+cr: "5"
+stats:
+  - 18
+  - 13
+  - 20
+  - 7
+  - 9
+  - 7
+source:
+  - MM
 ---
 
 # Troll
 
-_Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/troll.webp#right)
-
 Born with horrific appetites, trolls eat anything they can catch and devour. They have no society to speak of, but they do serve as mercenaries to orcs, ogres, ettins, hags, and giants. As payment, trolls demand food and treasure. Trolls are difficult to control, however, doing as they please even when working with more powerful creatures.
 
 ## Regeneration
@@ -40,11 +55,11 @@ Their regenerative capabilities make trolls especially susceptible to mutation. 
 
 ```ad-statblock
 title: Troll
-![](Mechanics/CLI/bestiary/giant/token/troll.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/troll.webp#token)
 *Large giant, Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 84 (`8d10 + 40`) 
+- **Hit Points** 84 (8d10 + 40) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,14 +68,14 @@ title: Troll
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** Giant
 - **Challenge** 5
 
 ## Traits
 
-***Keen Smell.*** The troll has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The troll has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
@@ -78,3 +93,7 @@ title: Troll
 ## Environment
 
 underdark, mountain, forest, swamp, hill, arctic
+
+## Sources
+
+_Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

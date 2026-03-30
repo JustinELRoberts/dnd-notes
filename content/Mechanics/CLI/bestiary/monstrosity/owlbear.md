@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Owlbear
-created: 2026-03-09T12:15:34.131-04:00
-modified: 2026-03-09T12:15:34.131-04:00
-published: 2026-03-09T12:15:34.131-04:00
+created: 2026-03-29T21:53:56.177-04:00
+modified: 2026-03-29T21:53:56.177-04:00
+published: 2026-03-29T21:53:56.177-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Owlbear
+ac: 13
+hp: 59
+modifier: 1
+hit_dice: 7d10 + 21
+cr: "3"
+stats:
+  - 20
+  - 12
+  - 17
+  - 3
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Owlbear
 
-_Source: Monster Manual p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/owlbear.webp#right)
-
 An owlbear's screech echoes through dark valleys and benighted forests, piercing the quiet night to announce the death of its prey. Feathers cover the thick, shaggy coat of its bearlike body, and the limpid pupils of its great round eyes stare furiously from its owlish head.
 
 ## Deadly Ferocity
@@ -53,11 +68,11 @@ Scholars have long debated the origins of the owlbear. The most common theory is
 
 ```ad-statblock
 title: Owlbear
-![](Mechanics/CLI/bestiary/monstrosity/token/owlbear.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/owlbear.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,14 +81,14 @@ title: Owlbear
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** —
 - **Challenge** 3
 
 ## Traits
 
-***Keen Sight and Smell.*** The owlbear has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The owlbear has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight or smell.
 
 ## Actions
 
@@ -89,3 +104,7 @@ title: Owlbear
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 249. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

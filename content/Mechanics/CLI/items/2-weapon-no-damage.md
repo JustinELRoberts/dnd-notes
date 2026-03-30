@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - +2 Weapon (no damage)
-created: 2026-03-09T12:15:34.132-04:00
-modified: 2026-03-09T12:15:34.132-04:00
-published: 2026-03-09T12:15:34.132-04:00
+created: 2026-03-29T21:53:56.178-04:00
+modified: 2026-03-29T21:53:56.178-04:00
+published: 2026-03-29T21:53:56.178-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -19,6 +19,11 @@ obsidianUIMode: preview
 
 _Major, rare_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You have a +2 bonus to attack rolls made with this weapon.
 
-_Source: Dungeon Master's Guide p. 213_
+## Sources
+
+_Dungeon Master's Guide p. 213_

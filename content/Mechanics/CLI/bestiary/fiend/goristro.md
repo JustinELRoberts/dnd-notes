@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Goristro
-created: 2026-03-09T12:15:33.909-04:00
-modified: 2026-03-09T12:15:33.909-04:00
-published: 2026-03-09T12:15:33.909-04:00
+created: 2026-03-29T21:53:55.910-04:00
+modified: 2026-03-29T21:53:55.910-04:00
+published: 2026-03-29T21:53:55.910-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/17
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Goristro
+ac: 19
+hp: 310
+modifier: 0
+hit_dice: 23d12 + 161
+cr: "17"
+stats:
+  - 25
+  - 11
+  - 25
+  - 6
+  - 13
+  - 14
+source:
+  - MM
 ---
 
 # Goristro
 
-_Source: Monster Manual p. 59_\
 ![](Mechanics/CLI/bestiary/fiend/img/goristro.webp#right)
-
 The goristro resembles a fiendish minotaur towering more than twenty feet tall. When controlled by a demon lord, goristros make formidable living siege engines and prized pets. Goristros possess preternatural cunning when navigating labyrinthine passages and shifting corridors, pursuing foes in a terrifying hunt.
 
 A hulking goristro sometimes bears a palanquin, carrying smaller demons on its broad shoulders, much like an elephant carries riders on its back.
@@ -164,7 +179,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -194,11 +209,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Goristro
-![](Mechanics/CLI/bestiary/fiend/token/goristro.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/goristro.webp#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 310 (`23d12 + 161`) 
+- **Hit Points** 310 (23d12 + 161) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -207,17 +222,17 @@ title: Goristro
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Strength +13, Dexterity +6, Constitution +13, Wisdom +7
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 17
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal
 - **Challenge** 17
 
 ## Traits
 
-***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (`7d10`) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Charge.*** If the goristro moves at least 15 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 38 (`7d10`) piercing damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be pushed up to 20 feet away and knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Labyrinthine Recall.*** The goristro can perfectly recall any path it has traveled.
 
@@ -231,9 +246,13 @@ title: Goristro
 
 ***Fist.*** *Melee Weapon Attack:* `+13` to hit, reach 10 ft., one target. *Hit:* 20 (`3d8 + 7`) bludgeoning damage.
 
-***Hoof.*** *Melee Weapon Attack:* `+13` to hit, reach 5 ft., one target. *Hit:* 23 (`3d10 + 7`) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Hoof.*** *Melee Weapon Attack:* `+13` to hit, reach 5 ft., one target. *Hit:* 23 (`3d10 + 7`) bludgeoning damage. If the target is a creature, it must succeed on a DC 21 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Gore.*** *Melee Weapon Attack:* `+13` to hit, reach 10 ft., one target. *Hit:* 45 (`7d10 + 7`) piercing damage.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 59_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pits
-created: 2026-03-09T12:15:33.803-04:00
-modified: 2026-03-09T12:15:33.803-04:00
-published: 2026-03-09T12:15:33.803-04:00
+created: 2026-03-29T21:53:55.587-04:00
+modified: 2026-03-29T21:53:55.587-04:00
+published: 2026-03-29T21:53:55.587-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/hazard/mech
@@ -25,11 +25,11 @@ The DC to spot the pit is 10. Anyone stepping on the cloth falls through and pul
 
 ## Hidden Pit
 
-A successful DC 15 Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check discerns an absence of foot traffic over the section of floor that forms the pit's cover. A successful DC 15 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check is necessary to confirm that the trapped section of floor is actually the cover of a pit.
+A successful DC 15 Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check discerns an absence of foot traffic over the section of floor that forms the pit's cover. A successful DC 15 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check is necessary to confirm that the trapped section of floor is actually the cover of a pit.
 
 When a creature steps on the cover, it swings open like a trapdoor, causing the intruder to spill into the pit below. The pit is usually 10 or 20 feet deep but can be deeper.
 
-Once the pit trap is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be magically held shut using the [arcane lock](Mechanics/CLI/spells/arcane-lock-xphb.md) spell or similar magic.
+Once the pit trap is detected, an iron spike or similar object can be wedged between the pit's cover and the surrounding floor in such a way as to prevent the cover from opening, thereby making it safe to cross. The cover can also be magically held shut using the [arcane lock](/Mechanics/CLI/spells/arcane-lock-xphb.md) spell or similar magic.
 
 ## Locking Pit
 

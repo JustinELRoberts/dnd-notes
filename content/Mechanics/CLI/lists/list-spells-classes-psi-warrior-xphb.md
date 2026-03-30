@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Psi Warrior
-created: 2026-03-09T12:15:34.422-04:00
-modified: 2026-03-09T12:15:34.422-04:00
-published: 2026-03-09T12:15:34.422-04:00
+created: 2026-03-29T21:53:56.525-04:00
+modified: 2026-03-29T21:53:56.525-04:00
+published: 2026-03-29T21:53:56.525-04:00
 tags:
   - ttrpg-cli/spell/list/subclass/psi-warrior
 cssclasses:
@@ -16,4 +16,4 @@ obsidianUIMode: preview
 
 ## 5th Level
 
-- [Telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 18
+- [Telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 18

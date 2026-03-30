@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hound of Ill Omen
-created: 2026-03-09T12:15:33.795-04:00
-modified: 2026-03-09T12:15:33.796-04:00
-published: 2026-03-09T12:15:33.796-04:00
+created: 2026-03-29T21:53:55.579-04:00
+modified: 2026-03-29T21:53:55.579-04:00
+published: 2026-03-29T21:53:55.579-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/monster/cr/1
@@ -13,19 +13,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hound of Ill Omen (XGE)
+ac: 14
+hp: 37
+modifier: 2
+hit_dice: 5d10 + 10
+cr: "1"
+stats:
+  - 17
+  - 15
+  - 15
+  - 3
+  - 12
+  - 7
+source:
+  - XGE
 ---
 
 # Hound of Ill Omen
 
-_Source: Xanathar's Guide to Everything p. 50_
-
 ```ad-statblock
 title: Hound of Ill Omen
-![](Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 37 (`5d10 + 10`) 
+- **Hit Points** 37 (5d10 + 10) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,16 +49,16 @@ title: Hound of Ill Omen
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 1
 
 ## Traits
 
-***Keen Hearing and Smell.*** The hound has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The hound has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ***Cloak of Shadows.*** The hound appears with a number of temporary hit points equal to half your sorcerer level.
 
@@ -55,7 +70,11 @@ title: Hound of Ill Omen
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
+
+## Sources
+
+_Xanathar's Guide to Everything p. 50_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ancient Black Dragon
-created: 2026-03-09T12:15:33.982-04:00
-modified: 2026-03-09T12:15:33.982-04:00
-published: 2026-03-09T12:15:33.982-04:00
+created: 2026-03-29T21:53:55.986-04:00
+modified: 2026-03-29T21:53:55.986-04:00
+published: 2026-03-29T21:53:55.986-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/21
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ancient Black Dragon
+ac: 22
+hp: 367
+modifier: 2
+hit_dice: 21d20 + 147
+cr: "21"
+stats:
+  - 27
+  - 14
+  - 25
+  - 16
+  - 15
+  - 19
+source:
+  - MM
 ---
 
 # Ancient Black Dragon
 
-_Source: Monster Manual p. 87. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/black-dragon.webp#right)
-
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
 
 With deep-socketed eyes and broad nasal openings, a black dragon's face resembles a skull. Its curving, segmented horns are bone-colored near the base and darken to dead black at the tips. As a black dragon ages, the flesh around its horns and cheekbones deteriorates as though eaten by acid, leaving thin layers of hide that enhance its skeletal appearance. A black dragon's head is marked by spikes and horns. Its tongue is flat with a forked tip, drooling slime whose acidic scent adds to the dragon's reek of rotting vegetation and foul water.
@@ -101,11 +116,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Ancient Black Dragon
-![](Mechanics/CLI/bestiary/dragon/token/ancient-black-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/ancient-black-dragon.webp#token)
 *Gargantuan dragon, Chaotic Evil*
 
 - **Armor Class** 22 (natural armor)
-- **Hit Points** 367 (`21d20 + 147`) 
+- **Hit Points** 367 (21d20 + 147) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -114,8 +129,8 @@ title: Ancient Black Dragon
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Constitution +14, Wisdom +9, Charisma +11
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +16, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +9
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 26
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +16, [Stealth](/Mechanics/CLI/skills.md#Stealth) +9
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 26
 - **Damage Immunities** acid
 - **Languages** Common, Draconic
 - **Challenge** 21
@@ -136,7 +151,7 @@ title: Ancient Black Dragon
 
 ***Tail.*** *Melee Weapon Attack:* `+15` to hit, reach 20 ft., one target. *Hit:* 17 (`2d8 + 8`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 19 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (`15d8`) acid damage on a failed save, or half as much damage on a successful one.
 
@@ -144,25 +159,25 @@ title: Ancient Black Dragon
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dragon makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dragon makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dragon can then fly up to half its flying speed.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 
-- Pools of water that the dragon can see within 120 feet of it surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 15 Strength saving throw or be pulled up to 20 feet into the water and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
+- Pools of water that the dragon can see within 120 feet of it surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 15 Strength saving throw or be pulled up to 20 feet into the water and knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
 - A cloud of swarming insects fills a 20-foot-radius sphere centered on a point the dragon chooses within 120 feet of it. The cloud spreads around corners and remains until the dragon dismisses it as an action, uses this lair action again, or dies. The cloud is lightly obscured. Any creature in the cloud when it appears must make on a DC 15 Constitution saving throw, taking 10 (`3d6`) piercing damage on a failed save, or half as much damage on a successful one. A creature that ends its turn in the cloud takes 10 (`3d6`) piercing damage.  
-- Magical darkness spreads from a point the dragon chooses within 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses it as an action, uses this lair action again, or dies. The darkness spreads around corners. A creature with [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) can't see through this darkness, and nonmagical light can't illuminate it. If any of the effect's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.  
+- Magical darkness spreads from a point the dragon chooses within 60 feet of it, filling a 15-foot-radius sphere until the dragon dismisses it as an action, uses this lair action again, or dies. The darkness spreads around corners. A creature with [darkvision](/Mechanics/CLI/senses.md#Darkvision) can't see through this darkness, and nonmagical light can't illuminate it. If any of the effect's area overlaps with an area of light created by a spell of 2nd level or lower, the spell that created the light is dispelled.  
 
-**Additional Lair Actions.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-black-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-black-dragon.md)) black dragon can use one or more of the following additional lair actions while in its lair:
+**Additional Lair Actions.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-black-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-black-dragon.md)) black dragon can use one or more of the following additional lair actions while in its lair:
 
 - **Filth Burst.** The dragon chooses a point on the ground it can see within 120 feet of it. A 20-foot-radius, 20-foot-high cylinder of watery filth centered on that point erupts from the ground until initiative count 20 on the next round. Each creature in the cylinder when it appears or that ends its turn there must make a DC 15 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one. The cylinder is "difficult terrain".  
-- **Grasping Muck.** Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a DC 15 Strength saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until initiative count 20 on the next round.  
-- **Noxious Gas.** A bubble of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon can see within its lair. Each creature in the area must succeed on a DC 15 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Grasping Muck.** Tendrils of roiling muck extend from the dragon's lair to grasp up to three creatures of the dragon's choice that it can see within the lair. A targeted creature must succeed on a DC 15 Strength saving throw or be [restrained](/Mechanics/CLI/conditions.md#Restrained) until initiative count 20 on the next round.  
+- **Noxious Gas.** A bubble of swamp gas erupts in a 20-foot-radius sphere centered on a point the dragon can see within its lair. Each creature in the area must succeed on a DC 15 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
 ## Regional Effects
 
@@ -177,7 +192,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 **Additional Regional Effects.** Any of these effects might appear in the area around a black dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 
 - **Ennui.** Creatures that spend a year within 10 miles of the dragon's lair are filled with listless despair.  
-- **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks. The dragon can suppress this effect at will.  
+- **Grating Spies.** Trilling, obnoxious birds, bugs, and reptiles follow any Humanoid creatures unknown to the dragon within 6 miles of the lair, imposing disadvantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks. The dragon can suppress this effect at will.  
 - **Rotting Domain.** Stinging bugs are aggressive and the air is heavy with the odor of rot within 6 miles of the lair.  
 ```
 
@@ -186,3 +201,7 @@ If the dragon dies, vegetation remains as it has grown, but other effects fade o
 ## Environment
 
 swamp
+
+## Sources
+
+_Monster Manual p. 87. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

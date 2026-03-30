@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Kavalrachni
-created: 2026-03-09T12:15:33.871-04:00
-modified: 2026-03-09T12:15:33.871-04:00
-published: 2026-03-09T12:15:33.871-04:00
+created: 2026-03-29T21:53:55.663-04:00
+modified: 2026-03-29T21:53:55.663-04:00
+published: 2026-03-29T21:53:55.663-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Kavalrachni (MPMM)
+ac: 16
+hp: 26
+modifier: 0
+hit_dice: 4d8 + 8
+cr: "2"
+stats:
+  - 14
+  - 11
+  - 14
+  - 11
+  - 10
+  - 9
+source:
+  - MPMM
 ---
 
 # Duergar Kavalrachni
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 107_
-
-Kavalrachni are duergar cavalry trained to fight while riding [female steeders](Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
+Kavalrachni are duergar cavalry trained to fight while riding [female steeders](/Mechanics/CLI/bestiary/monstrosity/female-steeder-mpmm.md) (in this book) or other Underdark creatures as mounts.
 
 ## Duergar
 
@@ -47,11 +62,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Kavalrachni
-![](Mechanics/CLI/bestiary/humanoid/token/duergar-kavalrachni-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar-kavalrachni-mpmm.webp#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 16 ([scale mail](Mechanics/CLI/items/scale-mail-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 26 (`4d8 + 8`) 
+- **Armor Class** 16 ([scale mail](/Mechanics/CLI/items/scale-mail.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 26 (4d8 + 8) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,9 +76,8 @@ title: Duergar Kavalrachni
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** poison
-- **Gear** [heavy crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), [war pick](Mechanics/CLI/items/war-pick-xphb.md)
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 2
 
@@ -71,9 +85,9 @@ title: Duergar Kavalrachni
 
 ***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted, the mount can use its reaction to make one melee attack against the same target.
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -83,7 +97,7 @@ title: Duergar Kavalrachni
 
 ***Heavy Crossbow.*** *Ranged Weapon Attack:* `+2` to hit, range 100/400 ft., one target. *Hit:* 5 (`1d10`) piercing damage.
 
-***Shared Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it. While the [invisible](Mechanics/CLI/rules/conditions.md#Invisible) duergar is mounted, the mount is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) as well. The invisibility ends early on the mount immediately after it attacks.
+***Shared Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it. While the [invisible](/Mechanics/CLI/conditions.md#Invisible) duergar is mounted, the mount is [invisible](/Mechanics/CLI/conditions.md#Invisible) as well. The invisibility ends early on the mount immediately after it attacks.
 ```
 
 ^statblock
@@ -91,3 +105,7 @@ title: Duergar Kavalrachni
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 107_

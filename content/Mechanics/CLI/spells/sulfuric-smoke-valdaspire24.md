@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Sulfuric Smoke
-created: 2026-03-09T12:15:34.030-04:00
-modified: 2026-03-09T12:15:34.030-04:00
-published: 2026-03-09T12:15:34.030-04:00
+created: 2026-03-29T21:53:56.041-04:00
+modified: 2026-03-29T21:53:56.041-04:00
+published: 2026-03-29T21:53:56.041-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/necromancer
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warmage
@@ -19,19 +20,12 @@ tags:
   - ttrpg-cli/spell/school/conjuration
   - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subrace/elf-high
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard (College of Lore)
-  - Necromancer
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warmage
-  - Warmage (House of Bishops)
-  - Witch
-  - Wizard
 ---
 
 # Sulfuric Smoke
@@ -43,10 +37,28 @@ _cantrip, Conjuration_
 - **Components:** V, S
 - **Duration:** 1 round
 
-You create a 5-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) of acidic smoke at a point you can see within range. Each creature in the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) must succeed on a Constitution saving throw or take `1d8` Acid damage. The area of the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) is [Lightly Obscured](Mechanics/CLI/rules/variant-rules/lightly-obscured-xphb.md) with noxious fumes and lasts until the start of your next turn. A creature entirely within the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls.
+You create a 5-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) of acidic smoke at a point you can see within range. Each creature in the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) must succeed on a Constitution saving throw or take `1d8` Acid damage. The area of the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) is [Lightly Obscured](/Mechanics/CLI/variant-rules/lightly-obscured-xphb.md) with noxious fumes and lasts until the start of your next turn. A creature entirely within the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls.
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Warmage](/Mechanics/CLI/lists/list-spells-classes-warmage.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Elf (High)](/Mechanics/CLI/lists/list-spells-races-elf-high.md)
+- [Necromancer](/Mechanics/CLI/lists/list-spells-classes-necromancer.md)
+- [Elf (High Elf)](/Mechanics/CLI/lists/list-spells-races-elf-xphb.md)
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Khoravar](/Mechanics/CLI/lists/list-spells-races-khoravar-efa.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

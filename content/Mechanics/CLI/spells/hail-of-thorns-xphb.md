@@ -2,19 +2,18 @@
 publish: true
 aliases:
   - Hail of Thorns
-created: 2026-03-09T12:15:33.953-04:00
-modified: 2026-03-09T12:15:33.953-04:00
-published: 2026-03-09T12:15:33.953-04:00
+created: 2026-03-29T21:53:55.955-04:00
+modified: 2026-03-29T21:53:55.955-04:00
+published: 2026-03-29T21:53:55.955-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/level/1st-level
   - ttrpg-cli/spell/school/conjuration
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Ranger
 ---
 
 # Hail of Thorns
@@ -30,6 +29,11 @@ As you hit the creature, this spell creates a rain of thorns that sprouts from y
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 1.
 
-**Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 283_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 283_

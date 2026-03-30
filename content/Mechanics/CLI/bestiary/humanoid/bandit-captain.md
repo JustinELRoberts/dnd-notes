@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bandit Captain
-created: 2026-03-09T12:15:33.800-04:00
-modified: 2026-03-09T12:15:33.800-04:00
-published: 2026-03-09T12:15:33.800-04:00
+created: 2026-03-29T21:53:55.584-04:00
+modified: 2026-03-29T21:53:55.584-04:00
+published: 2026-03-29T21:53:55.584-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -19,13 +19,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bandit Captain
+ac: 15
+hp: 65
+modifier: 3
+hit_dice: 10d8 + 20
+cr: "2"
+stats:
+  - 15
+  - 16
+  - 14
+  - 14
+  - 11
+  - 14
+source:
+  - MM
 ---
 
 # Bandit Captain
 
-_Source: Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bandit-captain.webp#right)
-
 It takes a strong personality, ruthless cunning, and a silver tongue to keep a gang of bandits in line. The bandit captain has these qualities in spades.
 
 In addition to managing a crew of selfish malcontents, the pirate captain is a variation of the bandit captain, with a ship to protect and command. To keep the crew in line, the captain must mete out rewards and punishment on a regular basis.
@@ -34,11 +49,11 @@ More than treasure, a bandit captain or pirate captain craves infamy. A prisoner
 
 ```ad-statblock
 title: Bandit Captain
-![](Mechanics/CLI/bestiary/humanoid/token/bandit-captain.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/bandit-captain.webp#token)
 *Medium humanoid (any race), Any Non-Lawful alignment*
 
-- **Armor Class** 15 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 65 (`10d8 + 20`) 
+- **Armor Class** 15 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 65 (10d8 + 20) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,9 +62,8 @@ title: Bandit Captain
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +4, Dexterity +5, Wisdom +2
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +4, [Deception](Mechanics/CLI/rules/skills.md#Deception) +4
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +4, [Deception](/Mechanics/CLI/skills.md#Deception) +4
 - **Senses** passive Perception 10
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md), [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
 - **Languages** any two languages
 - **Challenge** 2
 
@@ -71,3 +85,7 @@ title: Bandit Captain
 ## Environment
 
 coastal, hill, arctic, urban, forest, desert
+
+## Sources
+
+_Monster Manual p. 344. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

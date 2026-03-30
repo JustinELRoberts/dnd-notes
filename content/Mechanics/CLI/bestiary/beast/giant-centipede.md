@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Centipede
-created: 2026-03-09T12:15:33.931-04:00
-modified: 2026-03-09T12:15:33.931-04:00
-published: 2026-03-09T12:15:33.931-04:00
+created: 2026-03-29T21:53:55.934-04:00
+modified: 2026-03-29T21:53:55.934-04:00
+published: 2026-03-29T21:53:55.934-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -15,19 +15,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Centipede
+ac: 13
+hp: 4
+modifier: 2
+hit_dice: 1d6 + 1
+cr: 1/4
+stats:
+  - 5
+  - 14
+  - 12
+  - 1
+  - 7
+  - 3
+source:
+  - MM
 ---
 
 # Giant Centipede
 
-_Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Giant Centipede
-![](Mechanics/CLI/bestiary/beast/token/giant-centipede.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-centipede.webp#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 4 (`1d6 + 1`) 
+- **Hit Points** 4 (1d6 + 1) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,13 +52,13 @@ title: Giant Centipede
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive Perception 8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception 8
 - **Languages** —
 - **Challenge** 1/4
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (`3d6`) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
+***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (`3d6`) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way.
 ```
 
 ^statblock
@@ -51,3 +66,7 @@ title: Giant Centipede
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

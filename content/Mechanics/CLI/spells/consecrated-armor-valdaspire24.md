@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Consecrated Armor
-created: 2026-03-09T12:15:34.046-04:00
-modified: 2026-03-09T12:15:34.046-04:00
-published: 2026-03-09T12:15:34.046-04:00
+created: 2026-03-29T21:53:56.058-04:00
+modified: 2026-03-29T21:53:56.058-04:00
+published: 2026-03-29T21:53:56.058-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/investigator
   - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
@@ -21,12 +22,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Investigator
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Consecrated Armor
@@ -38,8 +33,21 @@ _1st-level, Abjuration (ritual)_
 - **Components:** V, S, M (a drop of blessed oil)
 - **Duration:** 8 hours
 
-You trace a holy symbol on yourself, creating an [invisible](Mechanics/CLI/rules/conditions.md#Invisible) barrier until the spell ends. Your base AC becomes 12 plus your Dexterity modifier. If you are attacked by an Aberration, Fey, Fiend, or Undead, you add your spellcasting ability modifier to your AC against that attack. The spell ends early if the target dons armor.
+You trace a holy symbol on yourself, creating an [invisible](/Mechanics/CLI/conditions.md#Invisible) barrier until the spell ends. Your base AC becomes 12 plus your Dexterity modifier. If you are attacked by an Aberration, Fey, Fiend, or Undead, you add your spellcasting ability modifier to your AC against that attack. The spell ends early if the target dons armor.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Ritual Caster](/Mechanics/CLI/lists/list-spells-feats-ritual-caster-xphb.md)
+- [Magic Initiate (Cleric Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Investigator](/Mechanics/CLI/lists/list-spells-classes-investigator.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

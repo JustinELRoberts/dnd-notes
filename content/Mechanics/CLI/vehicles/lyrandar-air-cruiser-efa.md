@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lyrandar Air Cruiser
-created: 2026-03-09T12:15:33.850-04:00
-modified: 2026-03-09T12:15:33.850-04:00
-published: 2026-03-09T12:15:33.850-04:00
+created: 2026-03-29T21:53:55.639-04:00
+modified: 2026-03-29T21:53:55.639-04:00
+published: 2026-03-29T21:53:55.639-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/vehicle/terrain/air
@@ -23,7 +23,7 @@ Haloed by their enormous rings of elemental energy, Lyrandar Air Cruisers cast i
 
 ```ad-statblock
 title: Lyrandar Air Cruiser
-![](Mechanics/CLI/vehicles/token/lyrandar-air-cruiser-efa.webp#token)
+![](/Mechanics/CLI/vehicles/token/lyrandar-air-cruiser-efa.webp#token)
 *; air*
 
 - **Creature Capacity** 10 crew, 40 passengers
@@ -31,3 +31,7 @@ title: Lyrandar Air Cruiser
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 106_

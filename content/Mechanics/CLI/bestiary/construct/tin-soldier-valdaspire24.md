@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tin Soldier
-created: 2026-03-09T12:15:34.002-04:00
-modified: 2026-03-09T12:15:34.002-04:00
-published: 2026-03-09T12:15:34.002-04:00
+created: 2026-03-29T21:53:56.013-04:00
+modified: 2026-03-29T21:53:56.013-04:00
+published: 2026-03-29T21:53:56.013-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/1-8
@@ -13,11 +13,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Tin Soldier (ValdaSpire24)
+ac: 14
+hp: 7
+modifier: 1
+hit_dice: 2d4 + 2
+cr: 1/8
+stats:
+  - 7
+  - 12
+  - 12
+  - 5
+  - 10
+  - 10
+source:
+  - ValdaSpire24
 ---
 
 # Tin Soldier
-
-_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Full of ticking clockwork and mechanical gizmos, tin soldiers are mechanical creations fashioned by arcanists as servants and messengers. With some patience and skill, almost anyone can build a tin soldier, but spellcasters have long devised methods to conjure them wholesale from the Plane of Law's excess energies.
 
@@ -27,7 +42,7 @@ title: Tin Soldier
 *Tiny construct (Familiar), Lawful Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 7 (`2d4 + 2`) 
+- **Hit Points** 7 (2d4 + 2) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -36,10 +51,10 @@ title: Tin Soldier
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 1/8
 
@@ -51,3 +66,7 @@ title: Tin Soldier
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Merregon
-created: 2026-03-09T12:15:33.833-04:00
-modified: 2026-03-09T12:15:33.833-04:00
-published: 2026-03-09T12:15:33.833-04:00
+created: 2026-03-29T21:53:55.619-04:00
+modified: 2026-03-29T21:53:55.619-04:00
+published: 2026-03-29T21:53:55.619-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Merregon (MPMM)
+ac: 16
+hp: 45
+modifier: 2
+hit_dice: 6d8 + 18
+cr: "4"
+stats:
+  - 18
+  - 14
+  - 17
+  - 6
+  - 12
+  - 8
+source:
+  - MPMM
 ---
 
 # Merregon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 179_\
 ![](Mechanics/CLI/bestiary/fiend/img/merregon.webp#right)
-
 The souls of fallen soldiers, mercenaries, and bodyguards who served evil without reservation often find everlasting servitude in the Nine Hells as merregons. These faceless foot soldiers are the Hells' legionnaires, tasked with protecting their infernal plane and its rulers against intruders.
 
 Merregons have no individuality and hence no need for faces. Every merregon legionnaire has a metal mask bolted to its head. Markings on the mask indicate the only elements of the wearer's identity that matter: the commander it serves and the layer of the Nine Hells it protects.
@@ -28,11 +43,11 @@ Because of their unshakable loyalty, merregons form the backbone of many devils'
 
 ```ad-statblock
 title: Merregon
-![](Mechanics/CLI/bestiary/fiend/token/merregon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/merregon-mpmm.webp#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,17 +57,16 @@ title: Merregon
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [halberd](Mechanics/CLI/items/halberd-xphb.md), [heavy crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md)
+- **Condition Immunities** [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Infernal but can't speak, telepathy 120 ft.
 - **Challenge** 4
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the merregon's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the merregon's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
 ***Magic Resistance.*** The merregon has advantage on saving throws against spells and other magical effects.
 
@@ -70,3 +84,7 @@ title: Merregon
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 179_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rot Troll
-created: 2026-03-09T12:15:33.885-04:00
-modified: 2026-03-09T12:15:33.885-04:00
-published: 2026-03-09T12:15:33.885-04:00
+created: 2026-03-29T21:53:55.680-04:00
+modified: 2026-03-29T21:53:55.680-04:00
+published: 2026-03-29T21:53:55.680-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Rot Troll (MPMM)
+ac: 16
+hp: 138
+modifier: 1
+hit_dice: 12d10 + 72
+cr: "9"
+stats:
+  - 18
+  - 13
+  - 22
+  - 5
+  - 8
+  - 4
+source:
+  - MPMM
 ---
 
 # Rot Troll
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 247_\
 ![](Mechanics/CLI/bestiary/giant/img/rot-troll.webp#right)
-
 A troll infused with waves of necrotic energy as it regenerates can develop a symbiotic relationship with that deathly power. The troll's body wither and the flesh falls away from the body as quickly, as it forms. Eventually a rot troll becomes unable to regenerate, though the troll still heals normally. The creature courses with necrotic energy; simply standing near a rot troll exposes other creatures to lethal emanations.
 
 ## Trolls
@@ -40,11 +55,11 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 ```ad-statblock
 title: Rot Troll
-![](Mechanics/CLI/bestiary/giant/token/rot-troll-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/rot-troll-mpmm.webp#token)
 *Large giant, Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 138 (`12d10 + 72`) 
+- **Hit Points** 138 (12d10 + 72) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,8 +68,8 @@ title: Rot Troll
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Immunities** necrotic
 - **Languages** Giant
 - **Challenge** 9
@@ -77,3 +92,7 @@ title: Rot Troll
 ## Environment
 
 desert, forest, swamp, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 247_

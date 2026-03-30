@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Astral Projection
-created: 2026-03-09T12:15:33.858-04:00
-modified: 2026-03-09T12:15:33.858-04:00
-published: 2026-03-09T12:15:33.858-04:00
+created: 2026-03-29T21:53:55.649-04:00
+modified: 2026-03-29T21:53:55.649-04:00
+published: 2026-03-29T21:53:55.649-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/monk
   - ttrpg-cli/spell/class/warlock
@@ -18,13 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Monk
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Wizard
 ---
 
 # Astral Projection
@@ -36,16 +30,27 @@ _9th-level, Necromancy_
 - **Components:** V, S, M (for each of the spell's targets, one jacinth worth 1,000+ GP and one silver bar worth 100+ GP, all of which the spell consumes)
 - **Duration:** Until dispelled
 
-You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition, doesn't need food or air, and doesn't age.
+You and up to eight willing creatures within range project your astral bodies into the Astral Plane (the spell ends instantly if you are already on that plane). Each target's body is left behind in a state of suspended animation; it has the [Unconscious](/Mechanics/CLI/conditions.md#Unconscious) condition, doesn't need food or air, and doesn't age.
 
 A target's astral form resembles its body in almost every way, replicating its game statistics and possessions. The principal difference is the addition of a silvery cord that trails from between the shoulder blades of the astral form. The cord fades from view after 1 foot. If the cord is cut—which happens only when an effect states that it does so—the target's body and astral form both die.
 
 A target's astral form can travel through the Astral Plane. The moment an astral form leaves that plane, the target's body and possessions travel along the silver cord, causing the target to re-enter its body on the new plane.
 
-Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), the spell ends for that target. The spell ends for all the targets if you take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to dismiss it.
+Any damage or other effects that apply to an astral form have no effect on the target's body and vice versa. If a target's body or astral form drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), the spell ends for that target. The spell ends for all the targets if you take a [Magic](/Mechanics/CLI/actions.md#Magic) action to dismiss it.
 
 When the spell ends for a target who isn't dead, the target reappears in its body and exits the state of suspended animation.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Monk](Mechanics/CLI/lists/list-spells-classes-monk.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Monk](/Mechanics/CLI/lists/list-spells-classes-monk.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

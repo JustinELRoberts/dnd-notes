@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Malnutrition
-created: 2026-03-09T12:15:33.808-04:00
-modified: 2026-03-09T12:15:33.808-04:00
-published: 2026-03-09T12:15:33.808-04:00
+created: 2026-03-29T21:53:55.592-04:00
+modified: 2026-03-29T21:53:55.592-04:00
+published: 2026-03-29T21:53:55.592-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
 cssclasses:
@@ -16,9 +16,9 @@ obsidianUIMode: preview
 
 _Generic Hazard_
 
-A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution [saving throw](Mechanics/CLI/rules/variant-rules/saving-throw-xphb.md) or gain 1 [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level at the day's end. A creature that eats nothing for 5 days automatically gains 1 [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Constitution [saving throw](/Mechanics/CLI/variant-rules/saving-throw-xphb.md) or gain 1 [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) level at the day's end. A creature that eats nothing for 5 days automatically gains 1 [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
 
-[Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) caused by malnutrition can't be removed until the creature eats the full amount of food required for a day.
+[Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) caused by malnutrition can't be removed until the creature eats the full amount of food required for a day.
 
 **Food Needs per Day**
 

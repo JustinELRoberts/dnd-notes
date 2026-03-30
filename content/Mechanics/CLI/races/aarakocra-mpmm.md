@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Aarakocra
-created: 2026-03-09T12:15:34.018-04:00
-modified: 2026-03-09T12:15:34.018-04:00
-published: 2026-03-09T12:15:34.018-04:00
+created: 2026-03-29T21:53:56.027-04:00
+modified: 2026-03-29T21:53:56.027-04:00
+published: 2026-03-29T21:53:56.027-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/aarakocra
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Aarakocra
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 5_\
 ![](Mechanics/CLI/races/img/aarakocra.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -35,12 +34,16 @@ You have talons that you can use to make unarmed strikes. When you hit with them
 
 ### Wind Caller
 
-Starting at 3rd level, you can cast the [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
+Starting at 3rd level, you can cast the [gust of wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md) spell with this trait, without requiring a material component. Once you cast the spell with this trait, you can't do so again until you finish a long rest. You can also cast the spell using any spell slots you have of 2nd level or higher.
 
-Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) with this trait (choose when you select this race).
+Intelligence, Wisdom, or Charisma is your spellcasting ability for when you cast [gust of wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md) with this trait (choose when you select this race).
 
 ## Description
 
 A winged people who originated on the Elemental Plane of Air, aarakocra soar through the sky wherever they wander. The first aarakocra served the Wind Dukes of Aaqa—mighty beings of air—and were imbued with a measure of their masters' power over winds. Their descendants still command echoes of that power.
 
 From below, aarakocra look like large birds and thus are sometimes called birdfolk. Only when they roost on a branch or walk across the ground is their Humanoid nature clear. Standing upright, aarakocra are typically about 5 feet tall, and they have long, narrow legs that taper to sharp talons. Feathers cover their bodies—usually red, orange, yellow, brown, or gray. Their heads are also avian, often resembling those of parrots or eagles.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 5_

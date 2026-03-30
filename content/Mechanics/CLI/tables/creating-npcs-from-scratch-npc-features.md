@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Creating NPCs from Scratch; NPC Features
-created: 2026-03-09T12:15:34.408-04:00
-modified: 2026-03-09T12:15:34.408-04:00
-published: 2026-03-09T12:15:34.408-04:00
+created: 2026-03-29T21:53:56.505-04:00
+modified: 2026-03-29T21:53:56.505-04:00
+published: 2026-03-29T21:53:56.505-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:
@@ -41,7 +41,7 @@ _Source: Dungeon Master's Guide p. 282_
 | Lizardfolk | +2 Str, -2 Int | Hold Breath (15 min.), +3 natural armor bonus to AC, speed 30 ft., swim 30 ft., speaks Draconic |
 | Merfolk | None | Amphibious, speed 10 ft., swim 40 ft., speaks Aquan and Common |
 | Orc | +2 Str, -2 Int | Aggressive, darkvision 60 ft., speaks Common and Orc |
-| Skeleton | +2 Dex, -4 Int, -4 Cha | Vulnerable to bludgeoning damage, immune to poison damage and [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), can't be poisoned, darkvision 60 ft., can't speak but understands the languages it knew in life |
+| Skeleton | +2 Dex, -4 Int, -4 Cha | Vulnerable to bludgeoning damage, immune to poison damage and [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), can't be poisoned, darkvision 60 ft., can't speak but understands the languages it knew in life |
 | Tiefling\* | +1 Int, +2 Cha | Infernal Legacy (use challenge rating instead of level to determine spells), resistance to fire damage, darkvision 60 ft., speaks Common and Infernal |
 | Troglodyte | +2 Str, +2 Con, -4 Int, -4 Cha | Chameleon Skin, Stench, Sunlight Sensitivity, +1 natural armor bonus to AC, darkvision 60 ft., speaks Troglodyte |
 | Zombie | +1 Str, +2 Con, -6 Int, -4 Wis, -4 Cha | Undead Fortitude, immune to poison damage, can't be poisoned, darkvision 60 ft., can't speak but understands the languages it knew in life |

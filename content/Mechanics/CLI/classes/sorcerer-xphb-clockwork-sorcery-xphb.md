@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Clockwork Sorcery
-created: 2026-03-09T12:15:33.887-04:00
-modified: 2026-03-09T12:15:33.887-04:00
-published: 2026-03-09T12:15:33.887-04:00
+created: 2026-03-29T21:53:55.885-04:00
+modified: 2026-03-29T21:53:55.885-04:00
+published: 2026-03-29T21:53:55.885-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/sorcerer/clockwork
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Clockwork Sorcery
 
-_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
-_Source: Player's Handbook (2024) p. 146_
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,10 +64,10 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [Aid](Mechanics/CLI/spells/aid-xphb.md), [Alarm](Mechanics/CLI/spells/alarm-xphb.md), [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [Protection from Evil and Good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
-| 5th | [Dispel Magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [Protection From Energy](Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 7th | [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md), [Summon Construct](Mechanics/CLI/spells/summon-construct-xphb.md) |
-| 9th | [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md), [Wall of Force](Mechanics/CLI/spells/wall-of-force-xphb.md) |
+| 3rd | [Aid](/Mechanics/CLI/spells/aid-xphb.md), [Alarm](/Mechanics/CLI/spells/alarm-xphb.md), [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [Protection from Evil and Good](/Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) |
+| 5th | [Dispel Magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [Protection From Energy](/Mechanics/CLI/spells/protection-from-energy-xphb.md) |
+| 7th | [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md), [Summon Construct](/Mechanics/CLI/spells/summon-construct-xphb.md) |
+| 9th | [Greater Restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md), [Wall of Force](/Mechanics/CLI/spells/wall-of-force-xphb.md) |
 ^clockwork-spells
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.
@@ -81,34 +80,38 @@ In addition, consult the Manifestations of Order table and choose or randomly de
 | 2 | The hands of a clock spin in your eyes. |
 | 3 | Your skin glows with a brassy sheen. |
 | 4 | Floating equations and geometric objects overlay your body. |
-| 5 | Your [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) temporarily takes the form of a Tiny clockwork mechanism. |
+| 5 | Your [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) temporarily takes the form of a Tiny clockwork mechanism. |
 | 6 | The ticking of gears or ringing of a clock can be heard by you and those affected by your magic. |
 ^manifestations-of-order
 
 ### Restore Balance (Level 3)
 
-Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a `d20` with [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) or [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to prevent the roll from being affected by [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) and [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
+Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of yourself is about to roll a `d20` with [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) or [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md), you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to prevent the roll from being affected by [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) and [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md).
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Bastion of Law (Level 6)
 
-You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
+You can tap into the grand equation of existence to imbue a creature with a shimmering shield of order. As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can expend 1 to 5 Sorcery Points to create a magical ward around yourself or another creature you can see within 30 feet of yourself. The ward is represented by a number of d8s equal to the number of Sorcery Points spent to create it. When the warded creature takes damage, it can expend a number of those dice, roll them, and reduce the damage taken by the total rolled on those dice.
 
-The ward lasts until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) or until you use this feature again.
+The ward lasts until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) or until you use this feature again.
 
 ### Trance of Order (Level 14)
 
-You gain the ability to align your consciousness with the endless calculations of Mechanus. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md), and whenever you make a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can treat a roll of 9 or lower on the `d20` as a 10.
+You gain the ability to align your consciousness with the endless calculations of Mechanus. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can enter this state for 1 minute. For the duration, attack rolls against you can't benefit from [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md), and whenever you make a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), you can treat a roll of 9 or lower on the `d20` as a 10.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
 ### Clockwork Cavalcade (Level 18)
 
-You momentarily summon spirits of order to expunge disorder around you. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you summon the spirits in a 30-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) before vanishing. Once you use this action, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you spend 7 Sorcery Points (no action required) to restore your use of it.
+You momentarily summon spirits of order to expunge disorder around you. As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you summon the spirits in a 30-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) originating from you. The spirits look like modrons or other Constructs of your choice. The spirits are intangible and invulnerable, and they create the effects below within the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) before vanishing. Once you use this action, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you spend 7 Sorcery Points (no action required) to restore your use of it.
 
-**Heal.** The spirits restore up to 100 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), divided as you choose among any number of creatures of your choice in the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md).
+**Heal.** The spirits restore up to 100 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), divided as you choose among any number of creatures of your choice in the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md).
 
-**Repair.** Any damaged objects entirely in the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) are repaired instantly.
+**Repair.** Any damaged objects entirely in the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) are repaired instantly.
 
-**Dispel.** Every spell of level 6 and lower ends on creatures and objects of your choice in the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md).
+**Dispel.** Every spell of level 6 and lower ends on creatures and objects of your choice in the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md).
+
+## Sources
+
+_Player's Handbook (2024) p. 146_

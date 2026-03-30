@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Jolt
-created: 2026-03-09T12:15:33.802-04:00
-modified: 2026-03-09T12:15:33.802-04:00
-published: 2026-03-09T12:15:33.802-04:00
+created: 2026-03-29T21:53:55.586-04:00
+modified: 2026-03-29T21:53:55.586-04:00
+published: 2026-03-29T21:53:55.586-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/mp
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 5 Craftsman, Masterwork Weapon, Lightning Damage
 
-If you hit a creature with this weapon, the creature can't make [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) until the start of its next turn.
+If you hit a creature with this weapon, the creature can't make [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) until the start of its next turn.
 
 ## Sources
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Construct Spirit
-created: 2026-03-09T12:15:34.134-04:00
-modified: 2026-03-09T12:15:34.134-04:00
-published: 2026-03-09T12:15:34.134-04:00
+created: 2026-03-29T21:53:56.181-04:00
+modified: 2026-03-29T21:53:56.181-04:00
+published: 2026-03-29T21:53:56.181-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Construct Spirit (XPHB)
+modifier: 0
+stats:
+  - 18
+  - 10
+  - 18
+  - 14
+  - 11
+  - 5
+source:
+  - XPHB
 ---
 
 # Construct Spirit
 
-_Source: Player's Handbook (2024) p. 324_\
 ![](Mechanics/CLI/bestiary/construct/img/construct-spirit.webp#center)
 
 ```ad-statblock
 title: Construct Spirit
-![](Mechanics/CLI/bestiary/construct/token/construct-spirit-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/construct-spirit-xphb.webp#token)
 *Medium construct, Neutral*
 
 - **Armor Class** (13 + the spell's level)
@@ -36,9 +48,9 @@ title: Construct Spirit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Understands the languages you know
 - **Challenge** 
 
@@ -46,7 +58,7 @@ title: Construct Spirit
 
 ***Heated Body (Metal Only).*** A creature that hits the spirit with a melee attack or that starts its turn in a grapple with the spirit takes `1d10` Fire damage.
 
-***Stony Lethargy (Stone Only).*** When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. *Wisdom Saving Throw:* DC equals your spell save DC, the target. *Failure:* Until the start of its next turn, the target can't make [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack), and its Speed is halved.
+***Stony Lethargy (Stone Only).*** When a creature starts its turn within 10 feet of the spirit, the spirit can target it with magical energy if the spirit can see it. *Wisdom Saving Throw:* DC equals your spell save DC, the target. *Failure:* Until the start of its next turn, the target can't make [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack), and its Speed is halved.
 
 ## Actions
 
@@ -56,7 +68,11 @@ title: Construct Spirit
 
 ## Reactions
 
-***Berserk Lashing (Clay Only).*** Trigger: The spirit takes damage from a creature. _Response:_ The spirit makes a Slam attack against that creature if possible, or the spirit moves up to half its Speed toward that creature without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+***Berserk Lashing (Clay Only).*** Trigger: The spirit takes damage from a creature. _Response:_ The spirit makes a Slam attack against that creature if possible, or the spirit moves up to half its Speed toward that creature without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 324_

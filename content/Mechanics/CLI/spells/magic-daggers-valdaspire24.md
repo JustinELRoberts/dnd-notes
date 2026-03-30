@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Magic Daggers
-created: 2026-03-09T12:15:33.910-04:00
-modified: 2026-03-09T12:15:33.910-04:00
-published: 2026-03-09T12:15:33.910-04:00
+created: 2026-03-29T21:53:55.912-04:00
+modified: 2026-03-29T21:53:55.912-04:00
+published: 2026-03-29T21:53:55.912-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warmage
   - ttrpg-cli/spell/level/cantrip
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -15,9 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Warmage
-  - Warmage (House of Darts)
 ---
 
 # Magic Daggers
@@ -33,6 +31,13 @@ With a flourish, you conjure two daggers composed of magical force and flick the
 
 **Cantrip Upgrade.** This spell creates an additional dagger and you make an additional attack when you reach level 5 (3 attacks), 11 (4 attacks), and 17 (5 attacks).
 
-**Classes**: [Warmage (House of Darts)](Mechanics/CLI/lists/list-spells-classes-house-of-darts-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Warmage](/Mechanics/CLI/lists/list-spells-classes-warmage.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Warmage (House of Darts)](/Mechanics/CLI/lists/list-spells-classes-house-of-darts-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

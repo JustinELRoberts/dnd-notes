@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Tenser's Transformation
-created: 2026-03-09T12:15:33.821-04:00
-modified: 2026-03-09T12:15:33.821-04:00
-published: 2026-03-09T12:15:33.821-04:00
+created: 2026-03-29T21:53:55.610-04:00
+modified: 2026-03-29T21:53:55.610-04:00
+published: 2026-03-29T21:53:55.610-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/6th-level
   - ttrpg-cli/spell/school/transmutation
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Wizard
 ---
 
 # Tenser's Transformation
@@ -35,10 +33,16 @@ You endow yourself with endurance and martial prowess fueled by magic. Until the
 - When you hit a target with a weapon attack, that target takes an extra `2d12` force damage.
 - You have proficiency with all armor, shields, simple weapons, and martial weapons.
 - You have proficiency in Strength and Constitution saving throws.
-- You can attack twice, instead of once, when you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
+- You can attack twice, instead of once, when you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
-Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion).
+Immediately after the spell ends, you must succeed on a DC 15 Constitution saving throw or suffer one level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion).
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 168_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 168_

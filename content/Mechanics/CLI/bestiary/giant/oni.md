@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Oni
-created: 2026-03-09T12:15:34.013-04:00
-modified: 2026-03-09T12:15:34.013-04:00
-published: 2026-03-09T12:15:34.013-04:00
+created: 2026-03-29T21:53:56.020-04:00
+modified: 2026-03-29T21:53:56.020-04:00
+published: 2026-03-29T21:53:56.020-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Oni
+ac: 16
+hp: 110
+modifier: 0
+hit_dice: 13d10 + 39
+cr: "7"
+stats:
+  - 19
+  - 11
+  - 16
+  - 14
+  - 12
+  - 15
+source:
+  - MM
 ---
 
 # Oni
 
-_Source: Monster Manual p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/oni.webp#right)
-
 In nursery rhymes, oni are fearsome bogeymen that haunt the nightmares of children and adults alike, yet they are very real and always hungry. They find human babies especially delicious. Oni look like demonic ogres with blue or green skin, dark hair, and a pair of short ivory horns protruding from their foreheads. Their eyes are dark with strikingly white pupils, and their teeth and claws are jet black.
 
 ## Night Haunters
@@ -54,11 +69,11 @@ Oni are sometimes called ogre mages because of their innate magical ability. Tho
 
 ```ad-statblock
 title: Oni
-![](Mechanics/CLI/bestiary/giant/token/oni.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/oni.webp#token)
 *Large giant, Lawful Evil*
 
-- **Armor Class** 16 ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md))
-- **Hit Points** 110 (`13d10 + 39`) 
+- **Armor Class** 16 ([chain mail](/Mechanics/CLI/items/chain-mail.md))
+- **Hit Points** 110 (13d10 + 39) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -67,9 +82,8 @@ title: Oni
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +3, Constitution +6, Wisdom +4, Charisma +5
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [Deception](Mechanics/CLI/rules/skills.md#Deception) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Gear** [glaive](Mechanics/CLI/items/glaive-xphb.md)
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [Deception](/Mechanics/CLI/skills.md#Deception) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Common, Giant
 - **Challenge** 7
 
@@ -77,9 +91,9 @@ title: Oni
 
 ***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
-**At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md)
+**At will:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md)
 
-**1/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md), [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md)
+**1/day each:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [cone of cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md), [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md), [sleep](/Mechanics/CLI/spells/sleep-xphb.md)
 
 ***Magic Weapons.*** The oni's weapon attacks are magical.
 
@@ -101,3 +115,7 @@ title: Oni
 ## Environment
 
 forest, urban
+
+## Sources
+
+_Monster Manual p. 239. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

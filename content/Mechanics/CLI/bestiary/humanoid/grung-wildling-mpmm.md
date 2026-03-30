@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grung Wildling
-created: 2026-03-09T12:15:33.864-04:00
-modified: 2026-03-09T12:15:33.864-04:00
-published: 2026-03-09T12:15:33.864-04:00
+created: 2026-03-29T21:53:55.652-04:00
+modified: 2026-03-29T21:53:55.652-04:00
+published: 2026-03-29T21:53:55.652-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Grung Wildling (MPMM)
+ac: 16
+hp: 27
+modifier: 3
+hit_dice: 5d6 + 10
+cr: "1"
+stats:
+  - 7
+  - 16
+  - 15
+  - 10
+  - 15
+  - 11
+source:
+  - MPMM
+  - VGM
 ---
 
 # Grung Wildling
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_\
 ![](Mechanics/CLI/bestiary/humanoid/img/grungs.webp#right)
-
 Gifted with druidic magic, a grung wildling typically serves as an advisor, a healer, and a nurturer of crops.
 
 ## Grungs
@@ -33,11 +49,11 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 
 ```ad-statblock
 title: Grung Wildling
-![](Mechanics/CLI/bestiary/humanoid/token/grung-wildling-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/grung-wildling-mpmm.webp#token)
 *Small humanoid, Any alignment*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 27 (`5d6 + 10`) 
+- **Hit Points** 27 (5d6 + 10) 
 - **Speed** 25 ft., climb 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,11 +62,10 @@ title: Grung Wildling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5, [Survival](Mechanics/CLI/rules/skills.md#Survival) +4
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5, [Survival](/Mechanics/CLI/skills.md#Survival) +4
 - **Senses** passive Perception 14
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md), [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Grung
 - **Challenge** 1
 
@@ -58,11 +73,11 @@ title: Grung Wildling
 
 ***Amphibious.*** The grung can breathe air and water.
 
-***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. A [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Standing Leap.*** The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
 
-***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
+***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
 
 ## Actions
 
@@ -72,11 +87,11 @@ title: Grung Wildling
 
 ***Spellcasting.*** The grung casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 12):
 
-**At will:** [druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md)
+**At will:** [druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md)
 
-**3/day each:** [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [spike growth](Mechanics/CLI/spells/spike-growth-xphb.md)
+**3/day each:** [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [spike growth](/Mechanics/CLI/spells/spike-growth-xphb.md)
 
-**2/day:** [plant growth](Mechanics/CLI/spells/plant-growth-xphb.md)
+**2/day:** [plant growth](/Mechanics/CLI/spells/plant-growth-xphb.md)
 ```
 
 ^statblock
@@ -84,3 +99,7 @@ title: Grung Wildling
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_

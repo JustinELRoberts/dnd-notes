@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eldritch Claw Tattoo
-created: 2026-03-09T12:15:33.797-04:00
-modified: 2026-03-09T12:15:33.797-04:00
-published: 2026-03-09T12:15:33.797-04:00
+created: 2026-03-29T21:53:55.581-04:00
+modified: 2026-03-29T21:53:55.581-04:00
+published: 2026-03-29T21:53:55.581-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -18,6 +18,9 @@ obsidianUIMode: preview
 # Eldritch Claw Tattoo
 
 _Wondrous item (tattoo), uncommon (requires attunement)_
+
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo depicts claw-like forms and other jagged shapes.
 
@@ -35,4 +38,6 @@ While the tattoo is on your skin, your unarmed strikes are considered magical fo
 
 As a bonus action, you can empower the tattoo for 1 minute. For the duration, each of your melee attacks with a weapon or an unarmed strike can reach a target up to 15 feet away from you, as inky tendrils launch toward the target. In addition, your melee attacks deal an extra `1d6` force damage on a hit. Once used, this bonus action can't be used again until the next dawn.
 
-_Source: Tasha's Cauldron of Everything p. 126_
+## Sources
+
+_Tasha's Cauldron of Everything p. 126_

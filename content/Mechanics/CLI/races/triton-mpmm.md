@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Triton
-created: 2026-03-09T12:15:33.925-04:00
-modified: 2026-03-09T12:15:33.925-04:00
-published: 2026-03-09T12:15:33.925-04:00
+created: 2026-03-29T21:53:55.929-04:00
+modified: 2026-03-29T21:53:55.929-04:00
+published: 2026-03-29T21:53:55.929-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/triton
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Triton
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 35_\
 ![](Mechanics/CLI/races/img/triton.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -35,7 +34,7 @@ You can breathe air and water.
 
 ### Control Air and Water
 
-You can cast [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](Mechanics/CLI/spells/water-walk-xphb.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
+You can cast [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md) with this trait. Starting at 3rd level, you can cast the [gust of wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](/Mechanics/CLI/spells/water-walk-xphb.md) spell with it. Once you cast any of these spells with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast these spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -56,3 +55,7 @@ Adapted to the frigid ocean depths, you have resistance to cold damage.
 Originally from the Elemental Plane of Water, many tritons entered the Material Plane centuries ago in response to the growing threat of evil elementals. Those tritons spread across the worlds' oceans, protecting the surface from terrors in the deep. Over time, triton have extended their stewardship over the sea floor to the ocean's surface.
 
 Tritons have webbed hands and feet, small fins on their calves, and coloration that favors blues and greens.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 35_

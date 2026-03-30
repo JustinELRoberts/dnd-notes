@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Holy Symbol
-created: 2026-03-09T12:15:33.846-04:00
-modified: 2026-03-09T12:15:33.846-04:00
-published: 2026-03-09T12:15:33.846-04:00
+created: 2026-03-29T21:53:55.635-04:00
+modified: 2026-03-29T21:53:55.635-04:00
+published: 2026-03-29T21:53:55.635-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/spellcasting-focus
@@ -18,10 +18,15 @@ obsidianUIMode: preview
 
 _Spellcasting focus_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 **Items in this group:**
 
-- [Amulet](Mechanics/CLI/items/amulet-xphb.md)
-- [Emblem](Mechanics/CLI/items/emblem-xphb.md)
-- [Reliquary](Mechanics/CLI/items/reliquary-xphb.md)
+- [Amulet](/Mechanics/CLI/items/amulet-xphb.md)
+- [Emblem](/Mechanics/CLI/items/emblem-xphb.md)
+- [Reliquary](/Mechanics/CLI/items/reliquary-xphb.md)
 
-_Source: Player's Handbook (2024) p. 226_
+## Sources
+
+_Player's Handbook (2024) p. 226_

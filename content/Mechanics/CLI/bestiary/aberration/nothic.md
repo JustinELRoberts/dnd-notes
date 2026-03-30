@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nothic
-created: 2026-03-09T12:15:34.046-04:00
-modified: 2026-03-09T12:15:34.046-04:00
-published: 2026-03-09T12:15:34.046-04:00
+created: 2026-03-29T21:53:56.058-04:00
+modified: 2026-03-29T21:53:56.058-04:00
+published: 2026-03-29T21:53:56.058-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nothic
+ac: 15
+hp: 45
+modifier: 3
+hit_dice: 6d8 + 18
+cr: "2"
+stats:
+  - 14
+  - 16
+  - 16
+  - 13
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Nothic
 
-_Source: Monster Manual p. 236. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/aberration/img/nothic.webp#right)
-
 A baleful eye peers out from the darkness, its gleam hinting at a weird intelligence and unnerving malevolence. Most times, a nothic is content to watch, weighing and assessing the creatures it encounters. When driven to violence, it uses its horrific gaze to rot the flesh from its enemies' bones.
 
 ## Cursed Arcanists
@@ -39,11 +54,11 @@ Nothics are notorious for infiltrating arcane academies and other places rich in
 
 ```ad-statblock
 title: Nothic
-![](Mechanics/CLI/bestiary/aberration/token/nothic.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/nothic.webp#token)
 *Medium aberration, Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,14 +67,14 @@ title: Nothic
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +3, [Insight](Mechanics/CLI/rules/skills.md#Insight) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 12
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +3, [Insight](/Mechanics/CLI/skills.md#Insight) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 12
 - **Languages** Undercommon
 - **Challenge** 2
 
 ## Traits
 
-***Keen Sight.*** The nothic has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The nothic has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -69,7 +84,7 @@ title: Nothic
 
 ***Rotting Gaze.*** The nothic targets one creature it can see within 30 feet of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (`3d6`) necrotic damage.
 
-***Weird Insight.*** The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) check against the nothic's Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being [charmed](Mechanics/CLI/rules/conditions.md#Charmed).
+***Weird Insight.*** The nothic targets one creature it can see within 30 feet of it. The target must contest its Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) check against the nothic's Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being [charmed](/Mechanics/CLI/conditions.md#Charmed).
 ```
 
 ^statblock
@@ -77,3 +92,7 @@ title: Nothic
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 236. Available in the Basic Rules (2014)_

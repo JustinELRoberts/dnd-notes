@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deathlock
-created: 2026-03-09T12:15:34.117-04:00
-modified: 2026-03-09T12:15:34.117-04:00
-published: 2026-03-09T12:15:34.117-04:00
+created: 2026-03-29T21:53:56.152-04:00
+modified: 2026-03-29T21:53:56.152-04:00
+published: 2026-03-29T21:53:56.152-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deathlock (MPMM)
+ac: 12
+hp: 36
+modifier: 2
+hit_dice: 8d8
+cr: "4"
+stats:
+  - 11
+  - 15
+  - 10
+  - 14
+  - 12
+  - 16
+source:
+  - MPMM
 ---
 
 # Deathlock
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 86_\
 ![](Mechanics/CLI/bestiary/undead/img/deathlock.webp#right)
-
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
 
 Whatever the goal, it always reflects the patron's interests, ranging from small-scale concerns to matters of cosmic scope. A deathlock in the thrall of a Fiend might work to destroy a specific temple dedicated to a good god, while one that serves a Great Old One might hunt for the materials needed to call forth a horrifying entity into the world. To accomplish a difficult goal, the deathlock might be forced to serve another powerful creature or might need to gather servants of its own.
@@ -35,11 +50,11 @@ An powerful necromancer might also discover the wicked methods of creating a dea
 
 ```ad-statblock
 title: Deathlock
-![](Mechanics/CLI/bestiary/undead/token/deathlock-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/deathlock-mpmm.webp#token)
 *Medium undead (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 36 (`8d8`) 
+- **Hit Points** 36 (8d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,11 +63,11 @@ title: Deathlock
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Intelligence +4, Charisma +5
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +4, [History](Mechanics/CLI/rules/skills.md#History) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +4, [History](/Mechanics/CLI/skills.md#History) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** the languages it knew in life
 - **Challenge** 4
 
@@ -72,9 +87,9 @@ title: Deathlock
 
 ***Spellcasting.*** The deathlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md)
 
-**1/day each:** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [hunger of Hadar](Mechanics/CLI/spells/hunger-of-hadar-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [spider climb](Mechanics/CLI/spells/spider-climb-xphb.md)
+**1/day each:** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [hunger of Hadar](/Mechanics/CLI/spells/hunger-of-hadar-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [spider climb](/Mechanics/CLI/spells/spider-climb-xphb.md)
 ```
 
 ^statblock
@@ -82,3 +97,7 @@ title: Deathlock
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 86_

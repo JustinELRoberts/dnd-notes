@@ -8,9 +8,9 @@ aliases:
   - Rapier of Wounding
   - Scimitar of Wounding
   - Shortsword of Wounding
-created: 2026-03-09T12:15:33.925-04:00
-modified: 2026-03-09T12:15:33.925-04:00
-published: 2026-03-09T12:15:33.925-04:00
+created: 2026-03-29T21:53:55.929-04:00
+modified: 2026-03-29T21:53:55.929-04:00
+published: 2026-03-29T21:53:55.929-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -28,11 +28,14 @@ obsidianUIMode: preview
 
 _Major, rare (requires attunement)_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Hit points lost to this weapon's damage can be regained only through a short or long rest, rather than by regeneration, magic, or any other means.
 
-Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes `1d4` necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check, ending the effect of such wounds on it on a success.
+Once per turn, when you hit a creature with an attack using this magic weapon, you can wound the target. At the start of each of the wounded creature's turns, it takes `1d4` necrotic damage for each time you've wounded it, and it can then make a DC 15 Constitution saving throw, ending the effect of all such wounds on itself on a success. Alternatively, the wounded creature, or a creature within 5 feet of it, can use an action to make a DC 15 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check, ending the effect of such wounds on it on a success.
 
-**Variants**:
+## Variants
 
 - [Double-Bladed Scimitar of Wounding](#Double-Bladed%20Scimitar%20of%20Wounding)
 - [Greatsword of Wounding](#Greatsword%20of%20Wounding)
@@ -44,13 +47,13 @@ Once per turn, when you hit a creature with an attack using this magic weapon, y
 ### Double-Bladed Scimitar of Wounding
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Greatsword of Wounding
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Longsword of Wounding
@@ -58,25 +61,27 @@ Once per turn, when you hit a creature with an attack using this magic weapon, y
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Rapier of Wounding
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Scimitar of Wounding
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Shortsword of Wounding
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-_Source: Dungeon Master's Guide p. 207. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 207. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

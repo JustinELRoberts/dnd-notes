@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Purple Worm
-created: 2026-03-09T12:15:33.832-04:00
-modified: 2026-03-09T12:15:33.832-04:00
-published: 2026-03-09T12:15:33.832-04:00
+created: 2026-03-29T21:53:55.617-04:00
+modified: 2026-03-29T21:53:55.617-04:00
+published: 2026-03-29T21:53:55.617-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/15
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Purple Worm
+ac: 18
+hp: 247
+modifier: -2
+hit_dice: 15d20 + 90
+cr: "15"
+stats:
+  - 28
+  - 7
+  - 22
+  - 1
+  - 8
+  - 4
+source:
+  - MM
 ---
 
 # Purple Worm
 
-_Source: Monster Manual p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/purple-worm.webp#right)
-
 The massive burrowing monster known as the purple worm terrorizes the creatures of the Underdark as it chews through solid rock in pursuit of prey. A dimwitted, ravenous force of nature, this creature regards anything it encounters as food.
 
 ## Ravenous Hunters
@@ -40,11 +55,11 @@ A burrowing purple worm constantly creates new tunnels throughout the Underdark,
 
 ```ad-statblock
 title: Purple Worm
-![](Mechanics/CLI/bestiary/monstrosity/token/purple-worm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/purple-worm.webp#token)
 *Gargantuan monstrosity, Unaligned*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 247 (`15d20 + 90`) 
+- **Hit Points** 247 (15d20 + 90) 
 - **Speed** 50 ft., burrow 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,7 +69,7 @@ title: Purple Worm
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +11, Wisdom +4
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., tremorsense 60 ft., passive Perception 9
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., tremorsense 60 ft., passive Perception 9
 - **Languages** —
 - **Challenge** 15
 
@@ -66,9 +81,9 @@ title: Purple Worm
 
 ***Multiattack.*** The worm makes two attacks: one with its bite and one with its stinger.
 
-***Bite.*** *Melee Weapon Attack:* `+14` to hit, reach 10 ft., one target. *Hit:* 22 (`3d8 + 9`) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) and [restrained](Mechanics/CLI/rules/conditions.md#Restrained), it has total cover against attacks and other effects outside the worm, and it takes 21 (`6d6`) acid damage at the start of each of the worm's turns.
+***Bite.*** *Melee Weapon Attack:* `+14` to hit, reach 10 ft., one target. *Hit:* 22 (`3d8 + 9`) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is [blinded](/Mechanics/CLI/conditions.md#Blinded) and [restrained](/Mechanics/CLI/conditions.md#Restrained), it has total cover against attacks and other effects outside the worm, and it takes 21 (`6d6`) acid damage at the start of each of the worm's turns.
 
-If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](Mechanics/CLI/rules/conditions.md#Prone) in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by it and can escape from the corpse by using 20 feet of movement, exiting [prone](Mechanics/CLI/rules/conditions.md#Prone).
+If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](/Mechanics/CLI/conditions.md#Prone) in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer [restrained](/Mechanics/CLI/conditions.md#Restrained) by it and can escape from the corpse by using 20 feet of movement, exiting [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Tail Stinger.*** *Melee Weapon Attack:* `+14` to hit, reach 10 ft., one creature. *Hit:* 19 (`3d6 + 9`) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (`12d6`) poison damage on a failed save, or half as much damage on a successful one.
 ```
@@ -78,3 +93,7 @@ If the worm takes 30 damage or more on a single turn from a creature inside it, 
 ## Environment
 
 underdark, desert
+
+## Sources
+
+_Monster Manual p. 255. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

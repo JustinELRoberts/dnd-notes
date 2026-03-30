@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Chimera
-created: 2026-03-09T12:15:34.105-04:00
-modified: 2026-03-09T12:15:34.105-04:00
-published: 2026-03-09T12:15:34.105-04:00
+created: 2026-03-29T21:53:56.139-04:00
+modified: 2026-03-29T21:53:56.139-04:00
+published: 2026-03-29T21:53:56.139-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Chimera
+ac: 14
+hp: 114
+modifier: 0
+hit_dice: 12d10 + 48
+cr: "6"
+stats:
+  - 19
+  - 11
+  - 19
+  - 3
+  - 14
+  - 10
+source:
+  - MM
 ---
 
 # Chimera
 
-_Source: Monster Manual p. 39. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/chimera.webp#right)
-
 Chimeras were created after mortals summoned Demogorgon to the world. The Prince of Demons, unimpressed with the creatures that surrounded it, transformed them into horrific, multi-headed monstrosities. This act gave rise to the first chimeras.
 
 Gifted with demonic cruelty, a chimera serves as a grim reminder of what happens when demon princes find their way to the Material Plane. A typical specimen has the hindquarters of a large goat, the forequarters of a lion, and the leathery wings of a dragon, along with the heads of all three of those creatures. The monster likes to surprise its victims, swooping down from the sky and engulfing prey with its fiery breath before landing.
@@ -40,11 +55,11 @@ Though chimeras are far from cunning, their draconic ego makes them susceptible 
 
 ```ad-statblock
 title: Chimera
-![](Mechanics/CLI/bestiary/monstrosity/token/chimera.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/chimera.webp#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 114 (`12d10 + 48`) 
+- **Hit Points** 114 (12d10 + 48) 
 - **Speed** 30 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,8 +68,8 @@ title: Chimera
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 18
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 18
 - **Languages** understands Draconic but can't speak
 - **Challenge** 6
 
@@ -76,3 +91,7 @@ title: Chimera
 ## Environment
 
 underdark, mountain, grassland, hill
+
+## Sources
+
+_Monster Manual p. 39. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

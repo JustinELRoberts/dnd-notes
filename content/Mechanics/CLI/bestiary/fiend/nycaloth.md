@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nycaloth
-created: 2026-03-09T12:15:34.026-04:00
-modified: 2026-03-09T12:15:34.026-04:00
-published: 2026-03-09T12:15:34.026-04:00
+created: 2026-03-29T21:53:56.036-04:00
+modified: 2026-03-29T21:53:56.036-04:00
+published: 2026-03-29T21:53:56.036-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -13,14 +13,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nycaloth
+ac: 18
+hp: 123
+modifier: 0
+hit_dice: 13d10 + 52
+cr: "9"
+stats:
+  - 20
+  - 11
+  - 19
+  - 12
+  - 10
+  - 15
+source:
+  - MM
 ---
 
 # Nycaloth
 
-_Source: Monster Manual p. 314_\
 ![](Mechanics/CLI/bestiary/fiend/img/nycaloth.webp#right)
-
-The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razor-sharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [invisible](Mechanics/CLI/rules/conditions.md#Invisible) or create illusory doubles of itself, further confounding its enemies.
+The elite airborne shock troops of the yugoloths, nycaloths look like muscular gargoyles. Powerful bat wings bear them swiftly aloft in battle, and the razor-sharp claws of their hands and feet cut through flesh and bone with ease. A nightmarish foe, a nycaloth strikes hard and fast without warning, then teleports away. It uses its innate magic to turn [invisible](/Mechanics/CLI/conditions.md#Invisible) or create illusory doubles of itself, further confounding its enemies.
 
 Nycaloths are the most loyal of the yugoloths. When they find an evil master that treats them well, they are unlikely to break their agreement unless the reward for doing so is extreme.
 
@@ -78,11 +93,11 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ```ad-statblock
 title: Nycaloth
-![](Mechanics/CLI/bestiary/fiend/token/nycaloth.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/nycaloth.webp#token)
 *Large fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 123 (`13d10 + 52`) 
+- **Hit Points** 123 (13d10 + 52) 
 - **Speed** 40 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -91,12 +106,11 @@ title: Nycaloth
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 9
 
@@ -104,7 +118,7 @@ title: Nycaloth
 
 ***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
 
-**At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only), [mirror image](Mechanics/CLI/spells/mirror-image-xphb.md)
+**At will:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only), [mirror image](/Mechanics/CLI/spells/mirror-image-xphb.md)
 
 ***Magic Resistance.*** The nycaloth has advantage on saving throws against spells and other magical effects.
 
@@ -114,7 +128,7 @@ title: Nycaloth
 
 ***Multiattack.*** The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
 
-***Claw.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) slashing damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 5 (`2d4`) slashing damage at the start of each of its turns due to a fiendish wound. Each time the nycaloth hits the wounded target with this attack, the damage dealt by the wound increases by 5 (`2d4`). Any creature can take an action to stanch the wound with a successful DC 13 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. The wound also closes if the target receives magical healing.
+***Claw.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) slashing damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or take 5 (`2d4`) slashing damage at the start of each of its turns due to a fiendish wound. Each time the nycaloth hits the wounded target with this attack, the damage dealt by the wound increases by 5 (`2d4`). Any creature can take an action to stanch the wound with a successful DC 13 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check. The wound also closes if the target receives magical healing.
 
 ***Greataxe.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 18 (`2d12 + 5`) slashing damage.
 
@@ -122,3 +136,7 @@ title: Nycaloth
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 314_

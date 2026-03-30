@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Githyanki Gish
-created: 2026-03-09T12:15:34.112-04:00
-modified: 2026-03-09T12:15:34.112-04:00
-published: 2026-03-09T12:15:34.112-04:00
+created: 2026-03-29T21:53:56.150-04:00
+modified: 2026-03-29T21:53:56.150-04:00
+published: 2026-03-29T21:53:56.150-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/10
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Githyanki Gish (MPMM)
+ac: 17
+hp: 130
+modifier: 2
+hit_dice: 20d8 + 40
+cr: "10"
+stats:
+  - 17
+  - 15
+  - 14
+  - 16
+  - 15
+  - 16
+source:
+  - MPMM
 ---
 
 # Githyanki Gish
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 140_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki-gish.webp#right)
-
 Gish blend their magical abilities with swordplay to become dangerous foes in battle. Their specialized capabilities make them well suited for assassination, raiding, and espionage.
 
 ## Githyanki
@@ -34,11 +49,11 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 
 ```ad-statblock
 title: Githyanki Gish
-![](Mechanics/CLI/bestiary/humanoid/token/githyanki-gish-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/githyanki-gish-mpmm.webp#token)
 *Medium humanoid (gith, wizard), Any alignment*
 
-- **Armor Class** 17 ([half plate](Mechanics/CLI/items/half-plate-armor-xphb.md))
-- **Hit Points** 130 (`20d8 + 40`) 
+- **Armor Class** 17 ([half plate](/Mechanics/CLI/items/half-plate-armor.md))
+- **Hit Points** 130 (20d8 + 40) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,9 +62,8 @@ title: Githyanki Gish
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +6, Intelligence +7, Wisdom +6
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
 - **Senses** passive Perception 16
-- **Gear** [longsword](Mechanics/CLI/items/longsword-xphb.md)
 - **Languages** Gith
 - **Challenge** 10
 
@@ -63,11 +77,11 @@ title: Githyanki Gish
 
 ***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 
-**At will:** [light](Mechanics/CLI/spells/light-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible), [message](Mechanics/CLI/spells/message-xphb.md)
+**At will:** [light](/Mechanics/CLI/spells/light-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible), [message](/Mechanics/CLI/spells/message-xphb.md)
 
-**3/day each:** [fireball](Mechanics/CLI/spells/fireball-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) (self only)
+**3/day each:** [fireball](/Mechanics/CLI/spells/fireball-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md) (self only)
 
-**1/day each:** [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md)
+**1/day each:** [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md)
 
 ## Bonus Actions
 
@@ -79,3 +93,7 @@ title: Githyanki Gish
 ## Environment
 
 desert, mountain, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 140_

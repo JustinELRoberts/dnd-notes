@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Silver Dragon
-created: 2026-03-09T12:15:33.795-04:00
-modified: 2026-03-09T12:15:33.795-04:00
-published: 2026-03-09T12:15:33.795-04:00
+created: 2026-03-29T21:53:55.579-04:00
+modified: 2026-03-29T21:53:55.579-04:00
+published: 2026-03-29T21:53:55.579-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/16
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Silver Dragon
+ac: 19
+hp: 243
+modifier: 0
+hit_dice: 18d12 + 126
+cr: "16"
+stats:
+  - 27
+  - 10
+  - 25
+  - 16
+  - 13
+  - 21
+source:
+  - MM
 ---
 
 # Adult Silver Dragon
 
-_Source: Monster Manual p. 117. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/silver-dragon.webp#right)
-
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
 
 A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury.
@@ -98,11 +113,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Adult Silver Dragon
-![](Mechanics/CLI/bestiary/dragon/token/adult-silver-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/adult-silver-dragon.webp#token)
 *Huge dragon, Lawful Good*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 243 (`18d12 + 126`) 
+- **Hit Points** 243 (18d12 + 126) 
 - **Speed** 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -111,8 +126,8 @@ title: Adult Silver Dragon
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +5, Constitution +12, Wisdom +6, Charisma +10
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +8, [History](Mechanics/CLI/rules/skills.md#History) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +11, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 21
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +8, [History](/Mechanics/CLI/skills.md#History) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +11, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 21
 - **Damage Immunities** cold
 - **Languages** Common, Draconic
 - **Challenge** 16
@@ -131,12 +146,12 @@ title: Adult Silver Dragon
 
 ***Tail.*** *Melee Weapon Attack:* `+13` to hit, reach 15 ft., one target. *Hit:* 17 (`2d8 + 8`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
 - **Cold Breath.** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 20 Constitution saving throw, taking 58 (`13d8`) cold damage on a failed save, or half as much damage on a successful one.  
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
 ***Change Shape.*** The dragon magically polymorphs into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or borne by the new form (the dragon's choice).
 
@@ -146,28 +161,28 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dragon makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dragon makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dragon can then fly up to half its flying speed.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 
-- The dragon creates fog as if it had cast the [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md) spell. The fog lasts until initiative count 20 on the next round.  
+- The dragon creates fog as if it had cast the [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md) spell. The fog lasts until initiative count 20 on the next round.  
 - A blisteringly cold wind blows through the lair near the dragon. Each creature within 120 feet of the dragon must succeed on a DC 15 Constitution saving throw or take 5 (`1d10`) cold damage. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished.  
 
-**Additional Lair Action.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md)) silver dragon can use the following additional lair action while in its lair:
+**Additional Lair Action.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-silver-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-silver-dragon.md)) silver dragon can use the following additional lair action while in its lair:
 
-- **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
+- **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be [restrained](/Mechanics/CLI/conditions.md#Restrained) until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
 
 ## Regional Effects
 
 The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.
 
-- Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the [control weather](Mechanics/CLI/spells/control-weather-xphb.md) spell.  
+- Once per day, the dragon can alter the weather in a 6-mile radius centered on its lair. The dragon doesn't need to be outdoors; otherwise the effect is identical to the [control weather](/Mechanics/CLI/spells/control-weather-xphb.md) spell.  
 - Within 1 mile of the lair, winds buoy non-evil creatures that fall due to no act of the dragon's or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage.  
 - Given days or longer to work, the dragon can make clouds and fog within its lair as solid as stone, forming structures and other objects as it wishes.  
 
@@ -179,3 +194,7 @@ If the dragon dies, changed weather reverts to normal, as described in the spell
 ## Environment
 
 mountain, urban
+
+## Sources
+
+_Monster Manual p. 117. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

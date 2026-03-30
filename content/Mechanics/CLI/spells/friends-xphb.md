@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Friends
-created: 2026-03-09T12:15:33.965-04:00
-modified: 2026-03-09T12:15:33.966-04:00
-published: 2026-03-09T12:15:33.966-04:00
+created: 2026-03-29T21:53:55.970-04:00
+modified: 2026-03-29T21:53:55.970-04:00
+published: 2026-03-29T21:53:55.970-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -24,19 +25,10 @@ tags:
   - ttrpg-cli/spell/subclass/drake-blooded
   - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subrace/elf-high
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warlock
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Friends
@@ -48,10 +40,32 @@ _cantrip, Enchantment_
 - **Components:** S, M (some makeup)
 - **Duration:** Concentration, up to 1 minute
 
-You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
+You magically emanate a sense of friendship toward one creature you can see within range. The target must succeed on a Wisdom saving throw or have the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition for the duration. The target succeeds automatically if it isn't a Humanoid, if you're fighting it, or if you have cast this spell on it within the past 24 hours.
 
-The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you.
+The spell ends early if the target takes damage or if you make an attack roll, deal damage, or force anyone to make a saving throw. When the spell ends, the target knows it was [Charmed](/Mechanics/CLI/conditions.md#Charmed) by you.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 277_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Aberrant Dragonmark](/Mechanics/CLI/lists/list-spells-feats-aberrant-dragonmark-efa.md)
+- [Elf (High)](/Mechanics/CLI/lists/list-spells-races-elf-high.md)
+- [Elf (High Elf)](/Mechanics/CLI/lists/list-spells-races-elf-xphb.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Magic Initiate (Wizard Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Khoravar](/Mechanics/CLI/lists/list-spells-races-khoravar-efa.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Kobold](/Mechanics/CLI/lists/list-spells-races-kobold-mpmm.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 277_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Scarecrow
-created: 2026-03-09T12:15:33.877-04:00
-modified: 2026-03-09T12:15:33.877-04:00
-published: 2026-03-09T12:15:33.877-04:00
+created: 2026-03-29T21:53:55.670-04:00
+modified: 2026-03-29T21:53:55.670-04:00
+published: 2026-03-29T21:53:55.670-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Scarecrow
+ac: 11
+hp: 36
+modifier: 1
+hit_dice: 8d8
+cr: "1"
+stats:
+  - 11
+  - 13
+  - 11
+  - 10
+  - 10
+  - 13
+source:
+  - MM
 ---
 
 # Scarecrow
 
-_Source: Monster Manual p. 268_\
 ![](Mechanics/CLI/bestiary/construct/img/scarecrow.webp#right)
-
 At harvest time, when death revisits the twilit world and summer's blossoms bow their withered heads, eerie scarecrows loom in silent vigil over empty fields. With immortal patience, these stoic sentinels hold their posts through wind, storm, and flood, bound to their master's command, eager to terrify prey with its sackcloth visage and rend victims with its razor-sharp claws.
 
 ## Spirit-Powered Constructs
@@ -31,11 +46,11 @@ A scarecrow is animated by the bound spirit of a slain evil creature, granting i
 
 ```ad-statblock
 title: Scarecrow
-![](Mechanics/CLI/bestiary/construct/token/scarecrow.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/scarecrow.webp#token)
 *Medium construct, Chaotic Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 36 (`8d8`) 
+- **Hit Points** 36 (8d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,11 +60,11 @@ title: Scarecrow
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 1
 
@@ -61,9 +76,9 @@ title: Scarecrow
 
 ***Multiattack.*** The scarecrow makes two claw attacks.
 
-***Claw.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage. If the target is a creature, it must succeed on a DC 11 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the scarecrow's next turn.
+***Claw.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage. If the target is a creature, it must succeed on a DC 11 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of the scarecrow's next turn.
 
-***Terrifying Glare.*** The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11 Wisdom saving throw or be magically [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the scarecrow's next turn. The [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed).
+***Terrifying Glare.*** The scarecrow targets one creature it can see within 30 feet of it. If the target can see the scarecrow, the target must succeed on a DC 11 Wisdom saving throw or be magically [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of the scarecrow's next turn. The [frightened](/Mechanics/CLI/conditions.md#Frightened) target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed).
 ```
 
 ^statblock
@@ -71,3 +86,7 @@ title: Scarecrow
 ## Environment
 
 grassland
+
+## Sources
+
+_Monster Manual p. 268_

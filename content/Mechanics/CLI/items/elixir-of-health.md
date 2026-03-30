@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Elixir of Health
-created: 2026-03-09T12:15:33.878-04:00
-modified: 2026-03-09T12:15:33.878-04:00
-published: 2026-03-09T12:15:33.878-04:00
+created: 2026-03-29T21:53:55.671-04:00
+modified: 2026-03-29T21:53:55.671-04:00
+published: 2026-03-29T21:53:55.671-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -19,6 +19,11 @@ obsidianUIMode: preview
 
 _Potion, minor, rare_
 
-When you drink this potion, it cures any disease afflicting you, and it removes the [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions. The clear red liquid has tiny bubbles of light in it.
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-_Source: Dungeon Master's Guide p. 168_
+When you drink this potion, it cures any disease afflicting you, and it removes the [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions. The clear red liquid has tiny bubbles of light in it.
+
+## Sources
+
+_Dungeon Master's Guide p. 168_

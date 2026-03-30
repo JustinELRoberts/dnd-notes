@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sahuagin Priestess
-created: 2026-03-09T12:15:34.054-04:00
-modified: 2026-03-09T12:15:34.054-04:00
-published: 2026-03-09T12:15:34.054-04:00
+created: 2026-03-29T21:53:56.070-04:00
+modified: 2026-03-29T21:53:56.070-04:00
+published: 2026-03-29T21:53:56.070-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sahuagin Priestess
+ac: 12
+hp: 33
+modifier: 0
+hit_dice: 6d8 + 6
+cr: "2"
+stats:
+  - 13
+  - 11
+  - 12
+  - 12
+  - 14
+  - 13
+source:
+  - MM
 ---
 
 # Sahuagin Priestess
 
-_Source: Monster Manual p. 264_\
 ![](Mechanics/CLI/bestiary/humanoid/img/sahuagin.webp#right)
-
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
 ## Devils of the Deep
@@ -52,11 +67,11 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 
 ```ad-statblock
 title: Sahuagin Priestess
-![](Mechanics/CLI/bestiary/humanoid/token/sahuagin-priestess.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/sahuagin-priestess.webp#token)
 *Medium humanoid (sahuagin), Lawful Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 30 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,8 +80,8 @@ title: Sahuagin Priestess
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Religion](Mechanics/CLI/rules/skills.md#Religion) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Religion](/Mechanics/CLI/skills.md#Religion) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Languages** Sahuagin
 - **Challenge** 2
 
@@ -74,13 +89,13 @@ title: Sahuagin Priestess
 
 ***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, `+4` to hit with spell attacks). She has the following cleric spells prepared:
 
-**Cantrips (at will):** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [bless](Mechanics/CLI/spells/bless-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [guiding bolt](Mechanics/CLI/spells/guiding-bolt-xphb.md)
+**1st level (4 slots):** [bless](/Mechanics/CLI/spells/bless-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [guiding bolt](/Mechanics/CLI/spells/guiding-bolt-xphb.md)
 
-**2nd level (3 slots):** [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](Mechanics/CLI/spells/spiritual-weapon-xphb.md) (trident)
+**2nd level (3 slots):** [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [spiritual weapon](/Mechanics/CLI/spells/spiritual-weapon-xphb.md) (trident)
 
-**3rd level (3 slots):** [mass healing word](Mechanics/CLI/spells/mass-healing-word-xphb.md), [tongues](Mechanics/CLI/spells/tongues-xphb.md)
+**3rd level (3 slots):** [mass healing word](/Mechanics/CLI/spells/mass-healing-word-xphb.md), [tongues](/Mechanics/CLI/spells/tongues-xphb.md)
 
 ***Blood Frenzy.*** The sahuagin has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
@@ -102,3 +117,7 @@ title: Sahuagin Priestess
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 264_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Siegeball Jersey
-created: 2026-03-09T12:15:33.878-04:00
-modified: 2026-03-09T12:15:33.878-04:00
-published: 2026-03-09T12:15:33.878-04:00
+created: 2026-03-29T21:53:55.671-04:00
+modified: 2026-03-29T21:53:55.671-04:00
+published: 2026-03-29T21:53:55.671-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/vagabond/siegeball-jersey
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Siegeball Jersey
 
-_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -49,7 +48,7 @@ _Source: Valda's Spire of Secrets Extras (2024)_
 
 ^class-progression
 
-Cross-Compatible Subclass: This subclass originates from the [Captain](Mechanics/CLI/classes/captain-valdaspire24.md) class
+Cross-Compatible Subclass: This subclass originates from the [Captain](/Mechanics/CLI/classes/captain-valdaspire24.md) class
 
 Note that cross-compatible subclasses might be stronger or weaker than other subclasses.
 
@@ -57,7 +56,7 @@ The GM decides if a subclass should be cross-compatible in your campaign.
 
 > [!note] Cross-Compatability Modifictaions
 >
-> **Level 6: Game Plan.** Replace "When you use your Blitz feature, you can direct your Cohort or an ally within 60 feet of yourself" with "When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can replace one of your attacks with directing an ally within 60 feet of yourself".
+> **Level 6: Game Plan.** Replace "When you use your Blitz feature, you can direct your Cohort or an ally within 60 feet of yourself" with "When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action, you can replace one of your attacks with directing an ally within 60 feet of yourself".
 > ^cross-compatability-modifictaions
 
 _Cheer and Coach Your Team to Victory_
@@ -70,34 +69,38 @@ Siegeball is a beloved sport, and Captains adorned with a Siegeball Jersey live 
 
 Your absolute devotion to your sport of choice grants you the following benefits.
 
-**Charismatic Athletics.** You gain proficiency in the [Athletics](Mechanics/CLI/rules/skills.md#Athletics) skill. Additionally, you gain a bonus to Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) checks equal to your Charisma modifier (minimum bonus of +1).
+**Charismatic Athletics.** You gain proficiency in the [Athletics](/Mechanics/CLI/skills.md#Athletics) skill. Additionally, you gain a bonus to Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) checks equal to your Charisma modifier (minimum bonus of +1).
 
-**Number One Fan.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check you make to recall information about a sport, its teams, and its players.
+**Number One Fan.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on any ability check you make to recall information about a sport, its teams, and its players.
 
 ### Team Inspiration \[Maneuver] (Level 3)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to inspire another creature within 60 feet of yourself who can see or hear you. Give that creature one of your unexpended Battle Dice. A creature can have only one Battle Die from this maneuver at a time.
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to inspire another creature within 60 feet of yourself who can see or hear you. Give that creature one of your unexpended Battle Dice. A creature can have only one Battle Die from this maneuver at a time.
 
-Once within the next minute when the creature fails a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the creature can roll the Battle Die and add the number rolled to the `d20`, potentially turning the failure into a success. A Battle Die is expended when it's rolled.
+Once within the next minute when the creature fails a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), the creature can roll the Battle Die and add the number rolled to the `d20`, potentially turning the failure into a success. A Battle Die is expended when it's rolled.
 
 ### Game Plan (Level 6)
 
-When you use your Blitz feature, you can direct your Cohort or an ally within 60 feet of yourself to take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to use one of the following options.
+When you use your Blitz feature, you can direct your Cohort or an ally within 60 feet of yourself to take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to use one of the following options.
 
-**Defensive Tackle.** The chosen ally moves up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) and uses the Grapple or Shove option of its [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+**Defensive Tackle.** The chosen ally moves up to its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) and uses the Grapple or Shove option of its [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
 
-**Go Long.** The chosen ally moves up to twice its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+**Go Long.** The chosen ally moves up to twice its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md).
 
-**Take Cover.** The chosen ally moves up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) and takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action. It has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on its Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) check.
+**Take Cover.** The chosen ally moves up to its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) and takes the [Hide](/Mechanics/CLI/actions.md#Hide) action. It has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on its Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) check.
 
 ### Athletic Constitution (Level 10)
 
-When you make a Strength or Dexterity saving throw, you can make a Constitution saving throw with [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) instead.
+When you make a Strength or Dexterity saving throw, you can make a Constitution saving throw with [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) instead.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
 ### Game-Winning Play (Level 14)
 
-When you are reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to delay the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition. You can immediately move up to twice your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) and take an action and a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). Taking damage causes [Death Saving Throw](Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md) failures as normal, and three [Death Saving Throw](Mechanics/CLI/rules/variant-rules/death-saving-throw-xphb.md) failures can still kill you. Following this, you have the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition if you still have 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+When you are reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to delay the [Unconscious](/Mechanics/CLI/conditions.md#Unconscious) condition. You can immediately move up to twice your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) and take an action and a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md). Taking damage causes [Death Saving Throw](/Mechanics/CLI/variant-rules/death-saving-throw-xphb.md) failures as normal, and three [Death Saving Throw](/Mechanics/CLI/variant-rules/death-saving-throw-xphb.md) failures can still kill you. Following this, you have the [Unconscious](/Mechanics/CLI/conditions.md#Unconscious) condition if you still have 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

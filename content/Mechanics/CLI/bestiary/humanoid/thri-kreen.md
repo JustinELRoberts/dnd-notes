@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Thri-kreen
-created: 2026-03-09T12:15:33.980-04:00
-modified: 2026-03-09T12:15:33.980-04:00
-published: 2026-03-09T12:15:33.980-04:00
+created: 2026-03-29T21:53:55.983-04:00
+modified: 2026-03-29T21:53:55.983-04:00
+published: 2026-03-29T21:53:55.983-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Thri-kreen
+ac: 15
+hp: 33
+modifier: 2
+hit_dice: 6d8 + 6
+cr: "1"
+stats:
+  - 12
+  - 15
+  - 13
+  - 8
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Thri-kreen
 
-_Source: Monster Manual p. 288_\
 ![](Mechanics/CLI/bestiary/humanoid/img/thri-kreen.webp#right)
-
 Thri-kreen wander the deserts and savannas of the world, avoiding all other races.
 
 ## Thri-kreen Communication
@@ -46,11 +61,11 @@ Thri-kreen don't require sleep and can rest while remaining alert and performing
 
 ```ad-statblock
 title: Thri-kreen
-![](Mechanics/CLI/bestiary/humanoid/token/thri-kreen.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/thri-kreen.webp#token)
 *Medium humanoid (thri-kreen), Chaotic Neutral*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -59,14 +74,14 @@ title: Thri-kreen
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** Thri-kreen
 - **Challenge** 1
 
 ## Traits
 
-***Chameleon Carapace.*** The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide.
+***Chameleon Carapace.*** The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide.
 
 ***Standing Leap.*** The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
@@ -74,7 +89,7 @@ title: Thri-kreen
 
 ***Multiattack.*** The thri-kreen makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. If the saving throw fails by 5 or more, the target is also [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 6 (`2d4 + 1`) slashing damage.
 ```
@@ -84,3 +99,7 @@ title: Thri-kreen
 ## Environment
 
 grassland, desert
+
+## Sources
+
+_Monster Manual p. 288_

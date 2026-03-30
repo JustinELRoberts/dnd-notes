@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wand of Enemy Detection
-created: 2026-03-09T12:15:34.088-04:00
-modified: 2026-03-09T12:15:34.088-04:00
-published: 2026-03-09T12:15:34.088-04:00
+created: 2026-03-29T21:53:56.114-04:00
+modified: 2026-03-29T21:53:56.114-04:00
+published: 2026-03-29T21:53:56.114-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -21,10 +21,13 @@ obsidianUIMode: preview
 _Wand, major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/wand-of-enemy-detection.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-This wand has 7 charges. While holding it, you can use an action and expend 1 charge to speak its command word. For the next minute, you know the direction of the nearest creature hostile to you within 60 feet, but not its distance from you. The wand can sense the presence of hostile creatures that are ethereal, [invisible](Mechanics/CLI/rules/conditions.md#Invisible), disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
+This wand has 7 charges. While holding it, you can use an action and expend 1 charge to speak its command word. For the next minute, you know the direction of the nearest creature hostile to you within 60 feet, but not its distance from you. The wand can sense the presence of hostile creatures that are ethereal, [invisible](/Mechanics/CLI/conditions.md#Invisible), disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll a `d20`. On a 1, the wand crumbles into ashes and is destroyed.
 
-_Source: Dungeon Master's Guide p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 210. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

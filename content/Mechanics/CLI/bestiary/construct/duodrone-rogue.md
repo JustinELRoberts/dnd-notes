@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duodrone (Rogue)
-created: 2026-03-09T12:15:33.938-04:00
-modified: 2026-03-09T12:15:33.938-04:00
-published: 2026-03-09T12:15:33.938-04:00
+created: 2026-03-29T21:53:55.939-04:00
+modified: 2026-03-29T21:53:55.939-04:00
+published: 2026-03-29T21:53:55.939-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -13,18 +13,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duodrone (Rogue)
+ac: 15
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/4
+stats:
+  - 11
+  - 13
+  - 12
+  - 6
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Duodrone (Rogue)
-
-_Source: Monster Manual p. 225_
 
 ```ad-statblock
 title: Duodrone (Rogue)
 *Medium construct, Any alignment*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,8 +49,7 @@ title: Duodrone (Rogue)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 10
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 10
 - **Languages** Modron
 - **Challenge** 1/4
 
@@ -53,3 +67,7 @@ title: Duodrone (Rogue)
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 225_

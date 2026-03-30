@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mud Mephit
-created: 2026-03-09T12:15:33.802-04:00
-modified: 2026-03-09T12:15:33.802-04:00
-published: 2026-03-09T12:15:33.802-04:00
+created: 2026-03-29T21:53:55.586-04:00
+modified: 2026-03-29T21:53:55.586-04:00
+published: 2026-03-29T21:53:55.586-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mud Mephit
+ac: 11
+hp: 27
+modifier: 1
+hit_dice: 6d6 + 6
+cr: 1/4
+stats:
+  - 8
+  - 12
+  - 12
+  - 9
+  - 11
+  - 7
+source:
+  - MM
 ---
 
 # Mud Mephit
 
-_Source: Monster Manual p. 216_\
 ![](Mechanics/CLI/bestiary/elemental/img/mud-mephit.webp#right)
 
 ## Mephits
@@ -39,11 +55,11 @@ Mud mephits are slow, unctuous creatures of earth and water. They drone their co
 
 ```ad-statblock
 title: Mud Mephit
-![](Mechanics/CLI/bestiary/elemental/token/mud-mephit.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/mud-mephit.webp#token)
 *Small elemental, Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 27 (`6d6 + 6`) 
+- **Hit Points** 27 (6d6 + 6) 
 - **Speed** 20 ft., fly 20 ft., swim 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,16 +68,16 @@ title: Mud Mephit
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Aquan, Terran
 - **Challenge** 1/4
 
 ## Traits
 
-***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the end of the creature's next turn.
+***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 feet of it must succeed on a DC 11 Dexterity saving throw or be [restrained](/Mechanics/CLI/conditions.md#Restrained) until the end of the creature's next turn.
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary mound of mud.
 
@@ -69,7 +85,7 @@ title: Mud Mephit
 
 ***Fists.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one creature. *Hit:* 4 (`1d6 + 1`) bludgeoning damage.
 
-***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mud Breath (Recharge 6).*** The mephit belches viscid mud onto one creature within 5 feet of it. If the target is Medium or smaller, it must succeed on a DC 11 Dexterity saving throw or be [restrained](/Mechanics/CLI/conditions.md#Restrained) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -77,3 +93,7 @@ title: Mud Mephit
 ## Environment
 
 swamp
+
+## Sources
+
+_Monster Manual p. 216_

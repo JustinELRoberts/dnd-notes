@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pouch
-created: 2026-03-09T12:15:34.125-04:00
-modified: 2026-03-09T12:15:34.125-04:00
-published: 2026-03-09T12:15:34.125-04:00
+created: 2026-03-29T21:53:56.168-04:00
+modified: 2026-03-29T21:53:56.168-04:00
+published: 2026-03-29T21:53:56.168-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/
@@ -23,4 +23,6 @@ _Adventuring gear_
 
 A Pouch holds up to 6 pounds within one-fifth of a cubic foot.
 
-_Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

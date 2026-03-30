@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Blue Dracolich
-created: 2026-03-09T12:15:33.941-04:00
-modified: 2026-03-09T12:15:33.941-04:00
-published: 2026-03-09T12:15:33.941-04:00
+created: 2026-03-29T21:53:55.942-04:00
+modified: 2026-03-29T21:53:55.942-04:00
+published: 2026-03-29T21:53:55.942-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/17
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Blue Dracolich
+ac: 19
+hp: 225
+modifier: 0
+hit_dice: 18d12 + 108
+cr: "17"
+stats:
+  - 25
+  - 10
+  - 23
+  - 16
+  - 15
+  - 19
+source:
+  - MM
 ---
 
 # Adult Blue Dracolich
 
-_Source: Monster Manual p. 84_\
 ![](Mechanics/CLI/bestiary/undead/img/blue-dracolich.webp#right)
-
 Even as long-lived as they are, all dragons must eventually die. This thought doesn't sit well with many dragons, some of which allow themselves to be transformed by necromantic energy and ancient rituals into powerful undead dracoliches. Only the most narcissistic dragons choose this path, knowing that by doing so, they sever all ties to their kin and the dragon gods.
 
 ## Beyond Death
@@ -55,7 +70,7 @@ The dracolich has immunity to poison. It also retains any immunities it had prio
 
 ### Condition Immunities
 
-The dracolich can't be [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), or [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). It also doesn't suffer from [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion).
+The dracolich can't be [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), or [poisoned](/Mechanics/CLI/conditions.md#Poisoned). It also doesn't suffer from [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion).
 
 ### Magic Resistance
 
@@ -65,11 +80,11 @@ The dracolich has advantage on saving throws against spells and other magical ef
 
 ```ad-statblock
 title: Adult Blue Dracolich
-![](Mechanics/CLI/bestiary/undead/token/adult-blue-dracolich.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/adult-blue-dracolich.webp#token)
 *Huge undead, Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 225 (`18d12 + 108`) 
+- **Hit Points** 225 (18d12 + 108) 
 - **Speed** 40 ft., burrow 30 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -78,11 +93,11 @@ title: Adult Blue Dracolich
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Constitution +12, Wisdom +8, Charisma +10
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +14, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 24
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +14, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 24
 - **Damage Resistances** necrotic
 - **Damage Immunities** lightning, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common, Draconic
 - **Challenge** 17
 
@@ -102,7 +117,7 @@ title: Adult Blue Dracolich
 
 ***Tail.*** *Melee Weapon Attack:* `+13` to hit, reach 15 ft., one target. *Hit:* 16 (`2d8 + 7`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dracolich's choice that is within 120 feet of the dracolich and aware of it must succeed on a DC 18 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dracolich's Frightful Presence for the next 24 hours.
 
 ***Lightning Breath (Recharge 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (`12d10`) lightning damage on a failed save, or half as much damage on a successful one.
 
@@ -110,24 +125,24 @@ title: Adult Blue Dracolich
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dracolich can expend a use to take one of the following actions. The dracolich regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dracolich makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dracolich makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dracolich makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (`2d6 + 7`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). After beating its wings this way, the dracolich can fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dracolich beats its tattered wings. Each creature within 10 feet of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (`2d6 + 7`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). After beating its wings this way, the dracolich can fly up to half its flying speed.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 
-- Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone) and buried. The buried target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.  
-- A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone) and buried. The buried target is [restrained](/Mechanics/CLI/conditions.md#Restrained) and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.  
+- A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) lightning damage.  
 
-**Additional Lair Actions.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)) blue dragon can use one or both of the following additional lair actions while in its lair:
+**Additional Lair Actions.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-blue-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-blue-dragon.md)) blue dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Misleading Mirage.** Until initiative count 20 on the next round, at each intersection or branching passage in the lair, a creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
-- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking 7 (`2d6`) bludgeoning damage and landing [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
+- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking 7 (`2d6`) bludgeoning damage and landing [prone](/Mechanics/CLI/conditions.md#Prone). On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
 
 ## Regional Effects
 
@@ -135,14 +150,14 @@ The region containing a legendary blue dragon's lair is warped by the dragon's m
 
 - Thunderstorms rage within 6 miles of the lair.  
 - Dust devils scour the land within 6 miles of the lair. A dust devil has the statistics of an air elemental, but it can't fly, has a speed of 50 feet, and has an Intelligence and Charisma of 1 (-5).  
-- Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall `1d6 × 10` feet into the sinkhole.  
+- Hidden sinkholes form in and around the dragon's lair. A sinkhole can be spotted from a safe distance with a successful DC 20 Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check. Otherwise, the first creature to step on the thin crust covering the sinkhole must succeed on a DC 15 Dexterity saving throw or fall `1d6 × 10` feet into the sinkhole.  
 
 If the dragon dies, the dust devils disappear immediately, and the thunderstorms abate within `1d10` days. Any sinkholes remain where they are.
 
 **Additional Regional Effects.** Any of these effects might appear in the area around a blue dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 
 - **Blue Luster.** Creatures that spend a year within 1 mile of the dragon's lair find blue objects fascinating and feel compelled to acquire them at every opportunity.  
-- **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
+- **Mirage Terrain.** The area immediately surrounding the lair appears to be a lush oasis. A creature carefully examining the illusion can attempt a DC 15 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check to disbelieve it. A creature who disbelieves the illusion sees it as a vague image superimposed on the underlying terrain.  
 - **Sandstorm.** A sandstorm blows constantly within 1 mile of the dragon's lair.  
 ```
 
@@ -151,3 +166,7 @@ If the dragon dies, the dust devils disappear immediately, and the thunderstorms
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 84_

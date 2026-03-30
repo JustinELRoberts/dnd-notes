@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Stone Guard
-created: 2026-03-09T12:15:34.136-04:00
-modified: 2026-03-09T12:15:34.136-04:00
-published: 2026-03-09T12:15:34.136-04:00
+created: 2026-03-29T21:53:56.185-04:00
+modified: 2026-03-29T21:53:56.185-04:00
+published: 2026-03-29T21:53:56.185-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Stone Guard (MPMM)
+ac: 18
+hp: 39
+modifier: 0
+hit_dice: 6d8 + 12
+cr: "2"
+stats:
+  - 18
+  - 11
+  - 14
+  - 11
+  - 10
+  - 9
+source:
+  - MPMM
 ---
 
 # Duergar Stone Guard
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 110_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar-stone-guard.webp#right)
-
 Stone guards are elite troops deployed in small numbers to bolster war bands of regulars or organized into elite strike forces for specific missions.
 
 ## Duergar
@@ -48,11 +63,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Stone Guard
-![](Mechanics/CLI/bestiary/humanoid/token/duergar-stone-guard-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar-stone-guard-mpmm.webp#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 18 ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 39 (`6d8 + 12`) 
+- **Armor Class** 18 ([chain mail](/Mechanics/CLI/items/chain-mail.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 39 (6d8 + 12) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,19 +77,18 @@ title: Duergar Stone Guard
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** poison
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 2
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions.
 
-***Phalanx Formation.*** The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of an ally wielding a [shield](Mechanics/CLI/items/shield-xphb.md).
+***Phalanx Formation.*** The duergar has advantage on attack rolls and Dexterity saving throws while standing within 5 feet of an ally wielding a [shield](/Mechanics/CLI/items/shield.md).
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -84,7 +98,7 @@ title: Duergar Stone Guard
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+6` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, or 11 (`2d6 + 4`) piercing damage while under the effect of Enlarge.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 
 ## Bonus Actions
 
@@ -96,3 +110,7 @@ title: Duergar Stone Guard
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 110_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Ray of Sickness
-created: 2026-03-09T12:15:34.118-04:00
-modified: 2026-03-09T12:15:34.118-04:00
-published: 2026-03-09T12:15:34.118-04:00
+created: 2026-03-29T21:53:56.154-04:00
+modified: 2026-03-29T21:53:56.155-04:00
+published: 2026-03-29T21:53:56.155-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/aberrant-dragonmark
@@ -28,18 +29,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Alchemist)
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Death Domain)
-  - Druid (Circle of the Land, Tropical Land)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Ray of Sickness
@@ -51,10 +40,34 @@ _1st-level, Necromancy_
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `2d8` Poison damage and has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition until the end of your next turn.
+You shoot a greenish ray at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes `2d8` Poison damage and has the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 1.
 
-**Classes**: [Artificer (Alchemist)](Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA"); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Druid (Circle of the Land, Tropical Land)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Artificer (Alchemist)](/Mechanics/CLI/lists/list-spells-classes-alchemist-tce.md "subclass=TCE;class=TCE")
+- [Aberrant Dragonmark](/Mechanics/CLI/lists/list-spells-feats-aberrant-dragonmark-efa.md)
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG")
+- [Shadow-Touched](/Mechanics/CLI/lists/list-spells-feats-shadow-touched-xphb.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Tiefling (Abyssal)](/Mechanics/CLI/lists/list-spells-races-tiefling-xphb.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Artificer (Alchemist)](/Mechanics/CLI/lists/list-spells-classes-alchemist-efa.md "subclass=EFA;class=EFA")
+- [Magic Initiate (Wizard Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Tropical Land)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

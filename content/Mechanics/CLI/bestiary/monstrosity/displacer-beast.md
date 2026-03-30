@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Displacer Beast
-created: 2026-03-09T12:15:33.870-04:00
-modified: 2026-03-09T12:15:33.870-04:00
-published: 2026-03-09T12:15:33.870-04:00
+created: 2026-03-29T21:53:55.661-04:00
+modified: 2026-03-29T21:53:55.661-04:00
+published: 2026-03-29T21:53:55.661-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Displacer Beast
+ac: 13
+hp: 85
+modifier: 2
+hit_dice: 10d10 + 30
+cr: "3"
+stats:
+  - 18
+  - 15
+  - 16
+  - 6
+  - 12
+  - 8
+source:
+  - MM
 ---
 
 # Displacer Beast
 
-_Source: Monster Manual p. 81_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/displacer-beast.webp#right)
-
 This monstrous predator takes its name from its ability to displace light so that it appears to be several feet away from its actual location. A displacer beast resembles a sleek great cat covered in blue-black fur.
 
 However, its otherworldly origins are clear in its six legs and the two tentacles sprouting from its shoulders, both ending in pads tipped with spiky protrusions. A displacer beast's eyes glow with an awful malevolence that persists even in death.
@@ -41,11 +56,11 @@ Displacer beasts hunt alone or in small prides that demonstrate skill at setting
 
 ```ad-statblock
 title: Displacer Beast
-![](Mechanics/CLI/bestiary/monstrosity/token/displacer-beast.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/displacer-beast.webp#token)
 *Large monstrosity, Lawful Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 85 (`10d10 + 30`) 
+- **Hit Points** 85 (10d10 + 30) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,7 +70,7 @@ title: Displacer Beast
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** —
 - **Challenge** 3
 
@@ -63,7 +78,7 @@ title: Displacer Beast
 
 ***Avoidance.*** If the displacer beast is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Displacement.*** The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or has a speed of 0.
+***Displacement.*** The displacer beast projects a magical illusion that makes it appear to be standing near its actual location, causing attack rolls against it to have disadvantage. If it is hit by an attack, this trait is disrupted until the end of its next turn. This trait is also disrupted while the displacer beast is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) or has a speed of 0.
 
 ## Actions
 
@@ -77,3 +92,7 @@ title: Displacer Beast
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 81_

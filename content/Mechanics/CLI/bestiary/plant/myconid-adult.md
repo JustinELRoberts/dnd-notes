@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Myconid Adult
-created: 2026-03-09T12:15:34.091-04:00
-modified: 2026-03-09T12:15:34.091-04:00
-published: 2026-03-09T12:15:34.091-04:00
+created: 2026-03-29T21:53:56.120-04:00
+modified: 2026-03-29T21:53:56.120-04:00
+published: 2026-03-29T21:53:56.120-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Myconid Adult
+ac: 12
+hp: 22
+modifier: 0
+hit_dice: 4d8 + 4
+cr: 1/2
+stats:
+  - 10
+  - 10
+  - 12
+  - 10
+  - 13
+  - 7
+source:
+  - MM
 ---
 
 # Myconid Adult
 
-_Source: Monster Manual p. 232_\
 ![](Mechanics/CLI/bestiary/plant/img/myconids.webp#right)
-
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 
 ## Circles and Melds
@@ -37,11 +52,11 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 
 ```ad-statblock
 title: Myconid Adult
-![](Mechanics/CLI/bestiary/plant/token/myconid-adult.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/myconid-adult.webp#token)
 *Medium plant, Lawful Neutral*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,7 +66,7 @@ title: Myconid Adult
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Languages** —
 - **Challenge** 1/2
 
@@ -65,7 +80,7 @@ title: Myconid Adult
 
 ***Fist.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 5 (`2d4`) bludgeoning damage plus 5 (`2d4`) poison damage.
 
-***Pacifying Spores (3/Day).*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 11 Constitution saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Pacifying Spores (3/Day).*** The myconid ejects spores at one creature it can see within 5 feet of it. The target must succeed on a DC 11 Constitution saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Rapport Spores.*** A 20-foot radius of spores extends from the myconid. These spores can go around corners and affect only creatures with an Intelligence of 2 or higher that aren't undead, constructs, or elementals. Affected creatures can communicate telepathically with one another while they are within 30 feet of each other. The effect lasts for 1 hour.
 ```
@@ -75,3 +90,7 @@ title: Myconid Adult
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 232_

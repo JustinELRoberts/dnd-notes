@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Flail Snail
-created: 2026-03-09T12:15:33.922-04:00
-modified: 2026-03-09T12:15:33.922-04:00
-published: 2026-03-09T12:15:33.922-04:00
+created: 2026-03-29T21:53:55.926-04:00
+modified: 2026-03-29T21:53:55.926-04:00
+published: 2026-03-29T21:53:55.926-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -16,13 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Flail Snail (MPMM)
+ac: 16
+hp: 52
+modifier: -3
+hit_dice: 5d10 + 25
+cr: "3"
+stats:
+  - 17
+  - 5
+  - 20
+  - 3
+  - 10
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Flail Snail
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144_\
 ![](Mechanics/CLI/bestiary/elemental/img/flail-snail.webp#right)
-
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
 
 Left undisturbed, a flail snail moves slowly along the ground. It consumes everything on the surface, including rocks, sand, and soil, and it stops periodically to relish crystal growths and other large mineral deposits. It leaves behind a shimmering trail that quickly solidifies into a thin and nearly transparent layer. This glassy residue can be harvested and cut to form window panes. It can also be heated and spun into other glass objects. Some folk make a living from trailing flail snails to collect this glass.
@@ -31,19 +47,19 @@ Left undisturbed, a flail snail moves slowly along the ground. It consumes every
 
 A flail snail shell weighs about 250 pounds and has numerous uses. An intact shell can sell for 5,000 gp.
 
-Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](Mechanics/CLI/items/spellguard-shield.md).
+Many hunters seek the shell for its antimagic properties. A skilled armorer can make three shields from one shell. For 1 month, each shield gives its wielder the snail's Antimagic Shell trait. When the shield's magic fades, it becomes an exotic shield that is the perfect item from which to make a [spellguard shield](/Mechanics/CLI/items/spellguard-shield.md).
 
-A flail snail shell can also be used to make a [robe of scintillating colors](Mechanics/CLI/items/robe-of-scintillating-colors.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
+A flail snail shell can also be used to make a [robe of scintillating colors](/Mechanics/CLI/items/robe-of-scintillating-colors.md). The shell is ground and added to the dye applied to the fabric. The powder is also a material component of the ritual that enchants the robe.
 
 ## Statblock
 
 ```ad-statblock
 title: Flail Snail
-![](Mechanics/CLI/bestiary/elemental/token/flail-snail-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/flail-snail-mpmm.webp#token)
 *Large elemental, Unaligned*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 52 (`5d10 + 25`) 
+- **Hit Points** 52 (5d10 + 25) 
 - **Speed** 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,9 +69,9 @@ title: Flail Snail
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 10
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 3
 
@@ -71,9 +87,9 @@ If the snail succeeds on its saving throw against a spell or a spell's attack ro
 
 ***Flail Tentacle.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one target. *Hit:* 5 (`1d4 + 3`) bludgeoning damage.
 
-***Scintillating Shell (Recharges after a Short or Long Rest).*** The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the light ends.
+***Scintillating Shell (Recharges after a Short or Long Rest).*** The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the light ends.
 
-***Shell Defense.*** The flail snail withdraws into its shell. Until it emerges, it gains a +4 bonus to its AC and is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). It can emerge from its shell as a bonus action on its turn.
+***Shell Defense.*** The flail snail withdraws into its shell. Until it emerges, it gains a +4 bonus to its AC and is [restrained](/Mechanics/CLI/conditions.md#Restrained). It can emerge from its shell as a bonus action on its turn.
 ```
 
 ^statblock
@@ -81,3 +97,7 @@ If the snail succeeds on its saving throw against a spell or a spell's attack ro
 ## Environment
 
 forest, swamp, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 126, Volo's Guide to Monsters p. 144_

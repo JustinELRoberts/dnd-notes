@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wave
-created: 2026-03-09T12:15:34.030-04:00
-modified: 2026-03-09T12:15:34.030-04:00
-published: 2026-03-09T12:15:34.030-04:00
+created: 2026-03-29T21:53:56.040-04:00
+modified: 2026-03-29T21:53:56.040-04:00
+published: 2026-03-29T21:53:56.040-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -18,27 +18,28 @@ obsidianUIMode: preview
 
 # Wave
 
-_Weapon ([trident](Mechanics/CLI/items/trident-xphb.md)), legendary (requires attunement by a creature that worships a god of the sea)_\
+_Weapon ([trident](/Mechanics/CLI/items/trident.md)), legendary (requires attunement by a creature that worships a god of the sea)_\
 ![](Mechanics/CLI/items/img/wave.webp#right)
 
 - **Damage**:
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
+- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 Held in the dungeon of White Plume Mountain, this trident is an exquisite weapon engraved with images of waves, shells, and sea creatures. Although you must worship a god of the sea to attune to this weapon, Wave happily accepts new converts.
 
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. If you score a critical hit with it, the target takes extra necrotic damage equal to half its hit point maximum.
 
-The weapon also functions as a [trident of fish command](Mechanics/CLI/items/trident-of-fish-command.md) and a [weapon of warning](Mechanics/CLI/items/weapon-of-warning.md). It can confer the benefit of a [cap of water breathing](Mechanics/CLI/items/cap-of-water-breathing.md) while you hold it, and you can use it as a [cube of force](Mechanics/CLI/items/cube-of-force.md) by choosing the effect, instead of pressing cube sides to select it.
+The weapon also functions as a [trident of fish command](/Mechanics/CLI/items/trident-of-fish-command.md) and a [weapon of warning](/Mechanics/CLI/items/weapon-of-warning.md). It can confer the benefit of a [cap of water breathing](/Mechanics/CLI/items/cap-of-water-breathing.md) while you hold it, and you can use it as a [cube of force](/Mechanics/CLI/items/cube-of-force.md) by choosing the effect, instead of pressing cube sides to select it.
 
 ## Sentience
 
-Wave is a sentient weapon of neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 120 feet.
+Wave is a sentient weapon of neutral alignment, with an Intelligence of 14, a Wisdom of 10, and a Charisma of 18. It has hearing and [darkvision](/Mechanics/CLI/senses.md#Darkvision) out to a range of 120 feet.
 
-The weapon communicates telepathically with its wielder and can speak, read, and understand Aquan. It can also speak with aquatic animals as if using a [speak with animals](Mechanics/CLI/spells/speak-with-animals-xphb.md) spell, using telepathy to involve its wielder in the conversation.
+The weapon communicates telepathically with its wielder and can speak, read, and understand Aquan. It can also speak with aquatic animals as if using a [speak with animals](/Mechanics/CLI/spells/speak-with-animals-xphb.md) spell, using telepathy to involve its wielder in the conversation.
 
 ## Personality
 
@@ -48,4 +49,6 @@ Wave zealously desires to convert mortals to the worship of one or more sea gods
 
 Wave harbors a secret doubt about its own nature and purpose. For all its devotion to the sea gods, Wave fears that it was intended to bring about a particular sea god's demise. This destiny is something Wave might not be able to avert.
 
-_Source: Dungeon Master's Guide p. 218_
+## Sources
+
+_Dungeon Master's Guide p. 218_

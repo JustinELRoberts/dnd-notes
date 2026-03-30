@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nabassu
-created: 2026-03-09T12:15:33.778-04:00
-modified: 2026-03-09T12:15:33.778-04:00
-published: 2026-03-09T12:15:33.778-04:00
+created: 2026-03-29T21:53:55.560-04:00
+modified: 2026-03-29T21:53:55.560-04:00
+published: 2026-03-29T21:53:55.560-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/15
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nabassu (MPMM)
+ac: 18
+hp: 190
+modifier: 2
+hit_dice: 20d8 + 100
+cr: "15"
+stats:
+  - 22
+  - 14
+  - 21
+  - 14
+  - 15
+  - 17
+source:
+  - MPMM
 ---
 
 # Nabassu
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 188_\
 ![](Mechanics/CLI/bestiary/fiend/img/nabassu.webp#right)
-
 The insatiable nabassus prowl the multiverse in search of souls to devour. If they think they can kill a creature and consume its soul, they attack—even if that other creature is a demon, including another nabassu.
 
 Most other demons shun nabassus and force them to live on the fringes of the Abyss. There, nabassus pick off weaker demons or, if the situation warrants, gather in packs to take down larger prey. Some especially powerful nabassus even search for demon lords' amulets.
@@ -31,11 +46,11 @@ Whenever magic pulls demons from the Abyss to the Material Plane, nabassus try t
 
 ```ad-statblock
 title: Nabassu
-![](Mechanics/CLI/bestiary/fiend/token/nabassu-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/nabassu-mpmm.webp#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 190 (`20d8 + 100`) 
+- **Hit Points** 190 (20d8 + 100) 
 - **Speed** 40 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,11 +59,11 @@ title: Nabassu
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +11, Dexterity +7
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 17
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 17
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 15
 
@@ -56,7 +71,7 @@ title: Nabassu
 
 ***Demonic Shadows.*** The nabassu darkens the area around its body in a 10-foot radius. Nonmagical light can't illuminate this area of dim light.
 
-***Devour Soul.*** A nabassu can eat the soul of a creature it has killed within the last hour, provided that creature is neither a Construct nor an Undead. The devouring requires the nabassu to be within 5 feet of the corpse for at least 10 minutes, after which it gains a number of Hit Dice (d8s) equal to half the creature's number of Hit Dice. Roll those dice, and increase the nabassu's hit points by the numbers rolled. For every 4 Hit Dice the nabassu gains in this way, its attacks deal an extra 3 (`1d6`) damage on a hit. The nabassu retains these benefits for 6 days. A creature devoured by a nabassu can be restored to life only by a [wish](Mechanics/CLI/spells/wish-xphb.md) spell.
+***Devour Soul.*** A nabassu can eat the soul of a creature it has killed within the last hour, provided that creature is neither a Construct nor an Undead. The devouring requires the nabassu to be within 5 feet of the corpse for at least 10 minutes, after which it gains a number of Hit Dice (d8s) equal to half the creature's number of Hit Dice. Roll those dice, and increase the nabassu's hit points by the numbers rolled. For every 4 Hit Dice the nabassu gains in this way, its attacks deal an extra 3 (`1d6`) damage on a hit. The nabassu retains these benefits for 6 days. A creature devoured by a nabassu can be restored to life only by a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell.
 
 ***Magic Resistance.*** The nabassu has advantage on saving throws against spells and other magical effects.
 
@@ -68,7 +83,7 @@ title: Nabassu
 
 ***Claw.*** *Melee Weapon Attack:* `+11` to hit, reach 5 ft., one target. *Hit:* 28 (`4d10 + 6`) force damage.
 
-***Soul-Stealing Gaze.*** The nabassu targets one creature it can see within 30 feet of it. If the target isn't a Construct or an Undead, it must succeed on a DC 16 Charisma saving throw or take 13 (`2d12`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the nabassu regains hit points equal to half that amount. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a Humanoid, it immediately rises as a [ghoul](Mechanics/CLI/bestiary/undead/ghoul.md) under the nabassu's control.
+***Soul-Stealing Gaze.*** The nabassu targets one creature it can see within 30 feet of it. If the target isn't a Construct or an Undead, it must succeed on a DC 16 Charisma saving throw or take 13 (`2d12`) necrotic damage. The target's hit point maximum is reduced by an amount equal to the necrotic damage dealt, and the nabassu regains hit points equal to half that amount. This reduction lasts until the target finishes a short or long rest. The target dies if its hit point maximum is reduced to 0, and if the target is a Humanoid, it immediately rises as a [ghoul](/Mechanics/CLI/bestiary/undead/ghoul.md) under the nabassu's control.
 ```
 
 ^statblock
@@ -76,3 +91,7 @@ title: Nabassu
 ## Environment
 
 swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 188_

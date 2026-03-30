@@ -2,23 +2,21 @@
 publish: true
 aliases:
   - Grasping Vine
-created: 2026-03-09T12:15:33.872-04:00
-modified: 2026-03-09T12:15:33.872-04:00
-published: 2026-03-09T12:15:33.872-04:00
+created: 2026-03-29T21:53:55.664-04:00
+modified: 2026-03-29T21:53:55.664-04:00
+published: 2026-03-29T21:53:55.664-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/level/4th-level
   - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/nature-domain
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Ranger
 ---
 
 # Grasping Vine
@@ -32,12 +30,21 @@ _4th-level, Conjuration_
 
 You conjure a vine that sprouts from a surface in an unoccupied space that you can see within range. The vine lasts for the duration.
 
-Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes `4d8` Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) creature (no action required).
+Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes `4d8` Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the [Grappled](/Mechanics/CLI/conditions.md#Grappled) condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a [Grappled](/Mechanics/CLI/conditions.md#Grappled) creature (no action required).
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
 
 **Using a Higher-Level Spell Slot.** The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 280_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 280_

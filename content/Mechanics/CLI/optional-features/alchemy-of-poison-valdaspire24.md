@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alchemy of Poison
-created: 2026-03-09T12:15:33.962-04:00
-modified: 2026-03-09T12:15:33.962-04:00
-published: 2026-03-09T12:15:33.962-04:00
+created: 2026-03-29T21:53:55.966-04:00
+modified: 2026-03-29T21:53:55.966-04:00
+published: 2026-03-29T21:53:55.966-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/do
@@ -23,11 +23,11 @@ The number of potions you can have at one time increases by 2.
 
 ## Poisoner's Kit
 
-You gain proficiency in the [Poisoner's Kit](Mechanics/CLI/items/poisoners-kit-xphb.md).
+You gain proficiency in the [Poisoner's Kit](/Mechanics/CLI/items/poisoners-kit-xphb.md).
 
 ## Potent Poison
 
-When you make a damage roll that deals Poison damage, it ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Poison damage.
+When you make a damage roll that deals Poison damage, it ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Poison damage.
 
 ## Poison Crafting
 

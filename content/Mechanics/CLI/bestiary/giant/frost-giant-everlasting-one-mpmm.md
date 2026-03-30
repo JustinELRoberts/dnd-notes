@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Frost Giant Everlasting One
-created: 2026-03-09T12:15:34.001-04:00
-modified: 2026-03-09T12:15:34.001-04:00
-published: 2026-03-09T12:15:34.001-04:00
+created: 2026-03-29T21:53:56.011-04:00
+modified: 2026-03-29T21:53:56.011-04:00
+published: 2026-03-29T21:53:56.011-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/12
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Frost Giant Everlasting One (MPMM)
+ac: 15
+hp: 189
+modifier: -1
+hit_dice: 14d12 + 98
+cr: "12"
+stats:
+  - 25
+  - 9
+  - 24
+  - 9
+  - 10
+  - 12
+source:
+  - MPMM
+  - VGM
 ---
 
 # Frost Giant Everlasting One
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148_\
 ![](Mechanics/CLI/bestiary/giant/img/frost-giant-everlasting-one.webp#right)
-
 To hold its place or rise within the ordning, a frost giant must routinely face mighty foes in single combat. Some seek out magic that will aid them, but enchanted objects can be taken or lost. True greatness relies on personal prowess. Faced with this truth, a frost giant might seek a supernatural gift from Vaprak the Destroyer.
 
 Vaprak is a ferocious god of strength and hunger also worshiped by some ogres and trolls. He likes to tempt frost giants with dreams of glory followed by nightmares of bloody cannibalism. Those who don't shrink from such visions or report them to priests of Thrym receive more of the same. If a frost giant comes to relish these dreams and nightmares, as some do, Vaprak sets a troll upon a sacred quest to find the frost giant and meet the giant in secret. The troll offers up its own body to be devoured in Vaprak's name. Only the boldest and most determined frost giants can finish such a gory feast.
@@ -29,11 +45,11 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 
 ```ad-statblock
 title: Frost Giant Everlasting One
-![](Mechanics/CLI/bestiary/giant/token/frost-giant-everlasting-one-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/frost-giant-everlasting-one-mpmm.webp#token)
 *Huge giant, Typically  Chaotic Evil*
 
 - **Armor Class** 15 (patchwork armor)
-- **Hit Points** 189 (`14d12 + 98`) 
+- **Hit Points** 189 (14d12 + 98) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,16 +58,15 @@ title: Frost Giant Everlasting One
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +11, Constitution +11, Wisdom +4
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +11, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +11, [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** cold
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md)
 - **Languages** Giant
 - **Challenge** 12
 
 ## Traits
 
-***Extra Heads.*** The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks and on saving throws against being [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), or knocked [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious).
+***Extra Heads.*** The giant has a 25 percent chance of having more than one head. If it has more than one, it has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks and on saving throws against being [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened), [stunned](/Mechanics/CLI/conditions.md#Stunned), or knocked [unconscious](/Mechanics/CLI/conditions.md#Unconscious).
 
 ***Regeneration.*** The giant regains 10 hit points at the start of its turn. If the giant takes acid or fire damage, this trait doesn't function at the start of its next turn. The giant dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
@@ -65,7 +80,7 @@ title: Frost Giant Everlasting One
 
 ## Bonus Actions
 
-***Vaprak's Rage (Recharges after a Short or Long Rest).*** The giant enters a rage. The rage lasts for 1 minute or until the giant is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). While raging, the giant gains the following benefits:
+***Vaprak's Rage (Recharges after a Short or Long Rest).*** The giant enters a rage. The rage lasts for 1 minute or until the giant is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). While raging, the giant gains the following benefits:
 
 - The giant has advantage on Strength checks and Strength saving throws.  
 - When it makes a melee weapon attack, the giant gains a +4 bonus to the damage roll.  
@@ -77,3 +92,7 @@ title: Frost Giant Everlasting One
 ## Environment
 
 coastal
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 131, Volo's Guide to Monsters p. 148_

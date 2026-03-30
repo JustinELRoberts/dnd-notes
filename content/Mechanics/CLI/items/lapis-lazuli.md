@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lapis Lazuli
-created: 2026-03-09T12:15:34.082-04:00
-modified: 2026-03-09T12:15:34.082-04:00
-published: 2026-03-09T12:15:34.082-04:00
+created: 2026-03-29T21:53:56.112-04:00
+modified: 2026-03-29T21:53:56.112-04:00
+published: 2026-03-29T21:53:56.112-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/gear/treasure-gemstone
@@ -19,7 +19,10 @@ obsidianUIMode: preview
 _Treasure (gemstone)_
 
 - **Cost**: 10 gp
+- **Weight**: ⏤
 
 An opaque light and dark blue with yellow flecks gemstone.
 
-_Source: Dungeon Master's Guide p. 134_
+## Sources
+
+_Dungeon Master's Guide p. 134_

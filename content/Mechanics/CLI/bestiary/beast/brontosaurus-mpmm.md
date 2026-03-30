@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Brontosaurus
-created: 2026-03-09T12:15:33.967-04:00
-modified: 2026-03-09T12:15:33.967-04:00
-published: 2026-03-09T12:15:33.967-04:00
+created: 2026-03-29T21:53:55.971-04:00
+modified: 2026-03-29T21:53:55.972-04:00
+published: 2026-03-29T21:53:55.972-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -15,21 +15,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Brontosaurus (MPMM)
+ac: 15
+hp: 121
+modifier: -1
+hit_dice: 9d20 + 27
+cr: "5"
+stats:
+  - 21
+  - 9
+  - 17
+  - 2
+  - 10
+  - 7
+source:
+  - MPMM
+  - VGM
 ---
 
 # Brontosaurus
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139_
 
 This massive four-legged dinosaur is large enough that most predators leave it alone. Its deadly tail can drive away or kill smaller threats.
 
 ```ad-statblock
 title: Brontosaurus
-![](Mechanics/CLI/bestiary/beast/token/brontosaurus-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/brontosaurus-mpmm.webp#token)
 *Gargantuan beast (dinosaur), Unaligned*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 121 (`9d20 + 27`) 
+- **Hit Points** 121 (9d20 + 27) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,7 +61,7 @@ title: Brontosaurus
 
 ## Actions
 
-***Stomp.*** *Melee Weapon Attack:* `+8` to hit, reach 20 ft., one target. *Hit:* 27 (`5d8 + 5`) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Stomp.*** *Melee Weapon Attack:* `+8` to hit, reach 20 ft., one target. *Hit:* 27 (`5d8 + 5`) bludgeoning damage, and the target must succeed on a DC 14 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Tail.*** *Melee Weapon Attack:* `+8` to hit, reach 20 ft., one target. *Hit:* 32 (`6d8 + 5`) bludgeoning damage.
 ```
@@ -55,3 +71,7 @@ title: Brontosaurus
 ## Environment
 
 forest, grassland
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 95, Volo's Guide to Monsters p. 139_

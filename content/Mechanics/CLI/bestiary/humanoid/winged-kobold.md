@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Winged Kobold
-created: 2026-03-09T12:15:34.022-04:00
-modified: 2026-03-09T12:15:34.022-04:00
-published: 2026-03-09T12:15:34.022-04:00
+created: 2026-03-29T21:53:56.032-04:00
+modified: 2026-03-29T21:53:56.032-04:00
+published: 2026-03-29T21:53:56.032-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -22,13 +22,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Winged Kobold
+ac: 13
+hp: 7
+modifier: 3
+hit_dice: 3d6 - 3
+cr: 1/4
+stats:
+  - 7
+  - 16
+  - 9
+  - 8
+  - 7
+  - 8
+source:
+  - MM
 ---
 
 # Winged Kobold
 
-_Source: Monster Manual p. 195_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold.webp#right)
-
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 
 ## Strength in Numbers
@@ -47,11 +62,11 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 
 ```ad-statblock
 title: Winged Kobold
-![](Mechanics/CLI/bestiary/humanoid/token/winged-kobold.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/winged-kobold.webp#token)
 *Small humanoid (kobold), Lawful Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 7 (`3d6 - 3`) 
+- **Hit Points** 7 (3d6 - 3) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,16 +76,15 @@ title: Winged Kobold
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Draconic
 - **Challenge** 1/4
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
-***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -84,3 +98,7 @@ title: Winged Kobold
 ## Environment
 
 forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark
+
+## Sources
+
+_Monster Manual p. 195_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Benign Dismemberment
-created: 2026-03-09T12:15:34.062-04:00
-modified: 2026-03-09T12:15:34.062-04:00
-published: 2026-03-09T12:15:34.062-04:00
+created: 2026-03-29T21:53:56.083-04:00
+modified: 2026-03-29T21:53:56.083-04:00
+published: 2026-03-29T21:53:56.083-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/investigator
   - ttrpg-cli/spell/class/necromancer
   - ttrpg-cli/spell/class/witch
@@ -15,19 +16,13 @@ tags:
   - ttrpg-cli/spell/level/3rd-level
   - ttrpg-cli/spell/ritual
   - ttrpg-cli/spell/school/necromancy
+  - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Investigator
-  - Necromancer
-  - Warmage (House of Bishops)
-  - Witch
-  - Wizard
 ---
 
 # Benign Dismemberment
@@ -43,6 +38,19 @@ You touch a willing creature, allowing its body parts (fingers, limbs, and even 
 
 At the end of the duration, severed body parts become permanently severed. The target dies if vital organs have not been reattached to its head.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Necromancer](/Mechanics/CLI/lists/list-spells-classes-necromancer.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Investigator](/Mechanics/CLI/lists/list-spells-classes-investigator.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Thrown Weapon Fighting
-created: 2026-03-09T12:15:34.104-04:00
-modified: 2026-03-09T12:15:34.104-04:00
-published: 2026-03-09T12:15:34.104-04:00
+created: 2026-03-29T21:53:56.138-04:00
+modified: 2026-03-29T21:53:56.138-04:00
+published: 2026-03-29T21:53:56.138-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Fighting Style Feature
 
-When you hit with a ranged attack roll using a weapon that has the [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown) property, you gain a +2 bonus to the damage roll.
+When you hit with a ranged attack roll using a weapon that has the [Thrown](/Mechanics/CLI/item-properties.md#Thrown) property, you gain a +2 bonus to the damage roll.
 
 ## Sources
 

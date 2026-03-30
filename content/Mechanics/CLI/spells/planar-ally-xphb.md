@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Planar Ally
-created: 2026-03-09T12:15:34.009-04:00
-modified: 2026-03-09T12:15:34.009-04:00
-published: 2026-03-09T12:15:34.009-04:00
+created: 2026-03-29T21:53:56.015-04:00
+modified: 2026-03-29T21:53:56.015-04:00
+published: 2026-03-29T21:53:56.015-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/level/6th-level
   - ttrpg-cli/spell/school/conjuration
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Planar Ally
@@ -40,6 +37,14 @@ A task that can be measured in minutes requires a payment worth 100 GP per minut
 
 After the creature completes the task, or when the agreed-upon duration of service expires, the creature returns to its home plane after reporting back to you if possible. If you are unable to agree on a price for the creature's service, the creature immediately returns to its home plane.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 304. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

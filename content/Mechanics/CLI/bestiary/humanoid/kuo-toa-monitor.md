@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kuo-toa Monitor
-created: 2026-03-09T12:15:33.813-04:00
-modified: 2026-03-09T12:15:33.813-04:00
-published: 2026-03-09T12:15:33.813-04:00
+created: 2026-03-29T21:53:55.597-04:00
+modified: 2026-03-29T21:53:55.597-04:00
+published: 2026-03-29T21:53:55.597-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Kuo-toa Monitor
+ac: 13
+hp: 65
+modifier: 0
+hit_dice: 10d8 + 20
+cr: "3"
+stats:
+  - 14
+  - 10
+  - 14
+  - 12
+  - 14
+  - 11
+source:
+  - MM
 ---
 
 # Kuo-toa Monitor
 
-_Source: Monster Manual p. 198_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kuo-toa.webp#right)
-
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
 
 ## Mad Slaves
@@ -53,9 +68,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 >
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 >
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
 >
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 > ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan
@@ -66,11 +81,11 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 ```ad-statblock
 title: Kuo-toa Monitor
-![](Mechanics/CLI/bestiary/humanoid/token/kuo-toa-monitor.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/kuo-toa-monitor.webp#token)
 *Medium humanoid (kuo-toa), Neutral Evil*
 
 - **Armor Class** 13 (natural armor, Unarmored Defense)
-- **Hit Points** 65 (`10d8 + 20`) 
+- **Hit Points** 65 (10d8 + 20) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -79,8 +94,8 @@ title: Kuo-toa Monitor
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Religion](Mechanics/CLI/rules/skills.md#Religion) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Religion](/Mechanics/CLI/skills.md#Religion) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Languages** Undercommon
 - **Challenge** 3
 
@@ -88,11 +103,11 @@ title: Kuo-toa Monitor
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
-***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
+***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](/Mechanics/CLI/conditions.md#Invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
 ***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
 
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ***Unarmored Defense.*** The kuo-toa adds its Wisdom modifier to its armor class.
 
@@ -110,3 +125,7 @@ title: Kuo-toa Monitor
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 198_

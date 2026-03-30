@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Time Operative
-created: 2026-03-09T12:15:33.832-04:00
-modified: 2026-03-09T12:15:33.832-04:00
-published: 2026-03-09T12:15:33.832-04:00
+created: 2026-03-29T21:53:55.617-04:00
+modified: 2026-03-29T21:53:55.617-04:00
+published: 2026-03-29T21:53:55.617-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/investigator/time-operative
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Time Operative
 
-_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,30 +56,34 @@ Time Operatives are agents from the future bestowed with a series of cryptic goa
 
 ### Borrowed Time (Level 3)
 
-Once on each of your turns, you can take an additional action. This action can only be used to take only the [Attack](Mechanics/CLI/rules/actions.md#Attack) (one attack only), [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), [Hide](Mechanics/CLI/rules/actions.md#Hide), or [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action.
+Once on each of your turns, you can take an additional action. This action can only be used to take only the [Attack](/Mechanics/CLI/actions.md#Attack) (one attack only), [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), [Hide](/Mechanics/CLI/actions.md#Hide), or [Utilize](/Mechanics/CLI/actions.md#Utilize) action.
 
-You can use this feature twice, and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature twice, and regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Trinkets (Level 3)
 
 You can use the following trinkets.
 
-**Blank Tablet.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you touch a creature and end one condition on it: [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), or [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). You can't remove a condition that a creature has had for longer than 1 minute.
+**Blank Tablet.** As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you touch a creature and end one condition on it: [Blinded](/Mechanics/CLI/conditions.md#Blinded), [Deafened](/Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), or [Poisoned](/Mechanics/CLI/conditions.md#Poisoned). You can't remove a condition that a creature has had for longer than 1 minute.
 
-**Quicksilver Emblem.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [Longstrider](Mechanics/CLI/spells/longstrider-xphb.md) without a spell slot or components.
+**Quicksilver Emblem.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [Longstrider](/Mechanics/CLI/spells/longstrider-xphb.md) without a spell slot or components.
 
-**Weightless Sphere.** You can cast [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md) without a spell slot or components.
+**Weightless Sphere.** You can cast [Feather Fall](/Mechanics/CLI/spells/feather-fall-xphb.md) without a spell slot or components.
 
 ### Rewind (Level 6)
 
-When you make a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) and fail, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to rewind time to the moment before the attempt. Reroll the [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) and you must use the new roll.
+When you make a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) and fail, you can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to rewind time to the moment before the attempt. Reroll the [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) and you must use the new roll.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Echo of Yesterday (Level 10)
 
-You can take the [Magic](Mechanics/CLI/rules/actions.md#Magic) action to cast your senses up to 24 hours back in time at your current location. You can see and hear this location as if you were there, but the past appears dreamlike and shadowy. While perceiving the past, you can look in any direction, but you can't move or speak. This glimpse into the past lasts for 10 minutes, but it ends early if you dismiss it (no action required).
+You can take the [Magic](/Mechanics/CLI/actions.md#Magic) action to cast your senses up to 24 hours back in time at your current location. You can see and hear this location as if you were there, but the past appears dreamlike and shadowy. While perceiving the past, you can look in any direction, but you can't move or speak. This glimpse into the past lasts for 10 minutes, but it ends early if you dismiss it (no action required).
 
 ### Steal Time (Level 14)
 
-When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you regain a use of your Borrowed Time.
+When you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or reduce an enemy to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), you regain a use of your Borrowed Time.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

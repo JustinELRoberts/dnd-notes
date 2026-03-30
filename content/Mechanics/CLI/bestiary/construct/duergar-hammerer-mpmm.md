@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Hammerer
-created: 2026-03-09T12:15:34.127-04:00
-modified: 2026-03-09T12:15:34.127-04:00
-published: 2026-03-09T12:15:34.127-04:00
+created: 2026-03-29T21:53:56.170-04:00
+modified: 2026-03-29T21:53:56.171-04:00
+published: 2026-03-29T21:53:56.171-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Hammerer (MPMM)
+ac: 17
+hp: 33
+modifier: -2
+hit_dice: 6d8 + 6
+cr: "2"
+stats:
+  - 17
+  - 7
+  - 12
+  - 5
+  - 5
+  - 5
+source:
+  - MPMM
 ---
 
 # Duergar Hammerer
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 112_\
 ![](Mechanics/CLI/bestiary/construct/img/duergar-hammerer.webp#right)
-
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
 
 ## Duergar Constructs
@@ -34,11 +49,11 @@ These machines are deployed to assist with construction projects and war. Some d
 
 ```ad-statblock
 title: Duergar Hammerer
-![](Mechanics/CLI/bestiary/construct/token/duergar-hammerer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/duergar-hammerer-mpmm.webp#token)
 *Medium construct (dwarf), Any alignment*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,9 +63,9 @@ title: Duergar Hammerer
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 7
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Dwarvish but can't speak
 - **Challenge** 2
 
@@ -76,3 +91,7 @@ title: Duergar Hammerer
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 112_

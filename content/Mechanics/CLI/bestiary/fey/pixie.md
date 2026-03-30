@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pixie
-created: 2026-03-09T12:15:33.865-04:00
-modified: 2026-03-09T12:15:33.865-04:00
-published: 2026-03-09T12:15:33.865-04:00
+created: 2026-03-29T21:53:55.653-04:00
+modified: 2026-03-29T21:53:55.653-04:00
+published: 2026-03-29T21:53:55.653-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Pixie
+ac: 15
+hp: 1
+modifier: 5
+hit_dice: 1d4 - 1
+cr: 1/4
+stats:
+  - 2
+  - 20
+  - 8
+  - 10
+  - 14
+  - 15
+source:
+  - MM
 ---
 
 # Pixie
 
-_Source: Monster Manual p. 253_\
 ![](Mechanics/CLI/bestiary/fey/img/pixie.webp#right)
-
 Standing barely a foot tall, pixies resemble diminutive elves with gossamer wings like those of dragonflies or butterflies, bright as the clear dawn and as luminous as the full moonrise.
 
 Curious as cats and shy as deer, pixies go where they please. They like to spy on other creatures and can barely contain their excitement around them. The urge to introduce themselves and strike up a friendship is almost overwhelming; only a pixie's fear of being captured or attacked stays its hand. Those who wander through a pixie's glade might never see the creatures, yet hear the occasional giggle, gasp, or sigh.
@@ -53,11 +68,11 @@ Unlike their fey cousins, the sprites, pixies abhor weapons and would sooner fle
 
 ```ad-statblock
 title: Pixie
-![](Mechanics/CLI/bestiary/fey/token/pixie.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/pixie.webp#token)
 *Tiny fey, Neutral Good*
 
 - **Armor Class** 15 
-- **Hit Points** 1 (`1d4 - 1`) 
+- **Hit Points** 1 (1d4 - 1) 
 - **Speed** 10 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,7 +81,7 @@ title: Pixie
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
 - **Senses** passive Perception 14
 - **Languages** Sylvan
 - **Challenge** 1/4
@@ -75,15 +90,15 @@ title: Pixie
 
 ***Innate Spellcasting.*** The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:
 
-**At will:** [druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md)
+**At will:** [druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md)
 
-**1/day each:** [confusion](Mechanics/CLI/spells/confusion-xphb.md), [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [entangle](Mechanics/CLI/spells/entangle-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [phantasmal force](Mechanics/CLI/spells/phantasmal-force-xphb.md), [polymorph](Mechanics/CLI/spells/polymorph-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md)
+**1/day each:** [confusion](/Mechanics/CLI/spells/confusion-xphb.md), [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [entangle](/Mechanics/CLI/spells/entangle-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [phantasmal force](/Mechanics/CLI/spells/phantasmal-force-xphb.md), [polymorph](/Mechanics/CLI/spells/polymorph-xphb.md), [sleep](/Mechanics/CLI/spells/sleep-xphb.md)
 
 ***Magic Resistance.*** The pixie has advantage on saving throws against spells and other magical effects.
 
 ## Actions
 
-***Superior Invisibility.*** The pixie magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) ends (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the pixie wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Superior Invisibility.*** The pixie magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) until its [concentration](/Mechanics/CLI/conditions.md#Concentration) ends (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the pixie wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 ```
 
 ^statblock
@@ -91,3 +106,7 @@ title: Pixie
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 253_

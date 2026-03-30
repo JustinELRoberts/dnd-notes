@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Merrow
-created: 2026-03-09T12:15:33.788-04:00
-modified: 2026-03-09T12:15:33.788-04:00
-published: 2026-03-09T12:15:33.788-04:00
+created: 2026-03-29T21:53:55.566-04:00
+modified: 2026-03-29T21:53:55.566-04:00
+published: 2026-03-29T21:53:55.566-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Merrow
+ac: 13
+hp: 45
+modifier: 0
+hit_dice: 6d10 + 12
+cr: "2"
+stats:
+  - 18
+  - 10
+  - 15
+  - 8
+  - 10
+  - 9
+source:
+  - MM
 ---
 
 # Merrow
 
-_Source: Monster Manual p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/merrow.webp#right)
-
 Merrow haunt coastal waters, preying on fisherfolk, merfolk, and any other edible creature that crosses their path. These savage monsters snatch and devour unwary prey, hauling drowned corpses back to their underwater grottoes to feed.
 
 ## Transformed Merfolk
@@ -40,11 +55,11 @@ Merrow dwell in undersea caves filled with treasures and trophies, taken from th
 
 ```ad-statblock
 title: Merrow
-![](Mechanics/CLI/bestiary/monstrosity/token/merrow.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/merrow.webp#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 45 (`6d10 + 12`) 
+- **Hit Points** 45 (6d10 + 12) 
 - **Speed** 10 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,7 +69,7 @@ title: Merrow
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Abyssal, Aquan
 - **Challenge** 2
 
@@ -78,3 +93,7 @@ title: Merrow
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 219. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

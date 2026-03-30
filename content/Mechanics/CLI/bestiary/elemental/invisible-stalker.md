@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Invisible Stalker
-created: 2026-03-09T12:15:34.034-04:00
-modified: 2026-03-09T12:15:34.034-04:00
-published: 2026-03-09T12:15:34.034-04:00
+created: 2026-03-29T21:53:56.047-04:00
+modified: 2026-03-29T21:53:56.047-04:00
+published: 2026-03-29T21:53:56.047-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Invisible Stalker
+ac: 14
+hp: 104
+modifier: 4
+hit_dice: 16d8 + 32
+cr: "6"
+stats:
+  - 16
+  - 19
+  - 14
+  - 10
+  - 15
+  - 11
+source:
+  - MM
 ---
 
 # Invisible Stalker
 
-_Source: Monster Manual p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/invisible-stalker.webp#right)
-
 An invisible stalker is an air elemental that has been summoned from its native plane and transformed by powerful magic. Its sole purpose is to hunt down creatures and retrieve objects for its summoner. When it is defeated or the magic that binds it expires, an invisible stalker vanishes in a gust of wind.
 
 ## Directed Hunter
@@ -41,11 +56,11 @@ An invisible stalker requires no air, food, drink, or sleep.
 
 ```ad-statblock
 title: Invisible Stalker
-![](Mechanics/CLI/bestiary/elemental/token/invisible-stalker.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/invisible-stalker.webp#token)
 *Medium elemental, Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 104 (`16d8 + 32`) 
+- **Hit Points** 104 (16d8 + 32) 
 - **Speed** 50 ft., fly 50 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,17 +69,17 @@ title: Invisible Stalker
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +8, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +10
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 18
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +8, [Stealth](/Mechanics/CLI/skills.md#Stealth) +10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 18
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** Auran, understands Common but doesn't speak it
 - **Challenge** 6
 
 ## Traits
 
-***Invisibility.*** The stalker is [invisible](Mechanics/CLI/rules/conditions.md#Invisible).
+***Invisibility.*** The stalker is [invisible](/Mechanics/CLI/conditions.md#Invisible).
 
 ***Faultless Tracker.*** The stalker is given a quarry by its summoner. The stalker knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The stalker also knows the location of its summoner.
 
@@ -80,3 +95,7 @@ title: Invisible Stalker
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 192. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

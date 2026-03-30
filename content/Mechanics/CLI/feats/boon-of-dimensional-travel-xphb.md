@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boon of Dimensional Travel
-created: 2026-03-09T12:15:33.923-04:00
-modified: 2026-03-09T12:15:33.923-04:00
-published: 2026-03-09T12:15:33.923-04:00
+created: 2026-03-29T21:53:55.927-04:00
+modified: 2026-03-29T21:53:55.927-04:00
+published: 2026-03-29T21:53:55.927-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,7 +21,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Blink Steps.** Immediately after you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action or the [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can teleport up to 30 feet to an unoccupied space you can see.
+**Blink Steps.** Immediately after you take the [Attack](/Mechanics/CLI/actions.md#Attack) action or the [Magic](/Mechanics/CLI/actions.md#Magic) action, you can teleport up to 30 feet to an unoccupied space you can see.
 
 ## Sources
 

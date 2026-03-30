@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Vampiric Mist
-created: 2026-03-09T12:15:33.851-04:00
-modified: 2026-03-09T12:15:33.851-04:00
-published: 2026-03-09T12:15:33.851-04:00
+created: 2026-03-29T21:53:55.640-04:00
+modified: 2026-03-29T21:53:55.640-04:00
+published: 2026-03-29T21:53:55.640-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -21,16 +21,31 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Vampiric Mist (MPMM)
+ac: 13
+hp: 30
+modifier: 3
+hit_dice: 4d8 + 12
+cr: "3"
+stats:
+  - 6
+  - 16
+  - 16
+  - 6
+  - 12
+  - 7
+source:
+  - MPMM
 ---
 
 # Vampiric Mist
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 250_\
 ![](Mechanics/CLI/bestiary/undead/img/vampiric-mist.webp#right)
+In billowing clouds of fog lurk vampiric mists, the wretched remnants of [vampires](/Mechanics/CLI/bestiary/undead/vampire.md) that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
 
-In billowing clouds of fog lurk vampiric mists, the wretched remnants of [vampires](Mechanics/CLI/bestiary/undead/vampire.md) that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
-
-Vampiric mists, sometimes called crimson mists, are all that remain of [vampires](Mechanics/CLI/bestiary/undead/vampire.md) who couldn't return to their burial places after being defeated or suffering some mishap. Denied the restorative power of these places, the [vampires'](Mechanics/CLI/bestiary/undead/vampire.md) bodies dissolve into mist. The transformation strips the intelligence and personality from them until only an unholy, insatiable thirst for blood remains.
+Vampiric mists, sometimes called crimson mists, are all that remain of [vampires](/Mechanics/CLI/bestiary/undead/vampire.md) who couldn't return to their burial places after being defeated or suffering some mishap. Denied the restorative power of these places, the [vampires'](/Mechanics/CLI/bestiary/undead/vampire.md) bodies dissolve into mist. The transformation strips the intelligence and personality from them until only an unholy, insatiable thirst for blood remains.
 
 Indistinguishable from fog aside from the charnel reek it exudes, a vampiric mist descends on a creature and causes the blood in the creature's body to ooze through its pores or spill out from its eyes, nose, and mouth. This blood wafts out from the victim like crimson smoke, which the mist then consumes. The feeding causes no pain or discomfort to the victim, so vampiric mists can feed on sleepers without waking them. The more a mist feeds, the redder it gets, such that it turns pink, then red, and finally a deep scarlet hue; when sated, it rains blood droplets wherever it goes.
 
@@ -38,11 +53,11 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 
 ```ad-statblock
 title: Vampiric Mist
-![](Mechanics/CLI/bestiary/undead/token/vampiric-mist-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/vampiric-mist-mpmm.webp#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 30 (`4d8 + 12`) 
+- **Hit Points** 30 (4d8 + 12) 
 - **Speed** 0 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,10 +67,10 @@ title: Vampiric Mist
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +3
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** acid; cold; lightning; necrotic; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** —
 - **Challenge** 3
 
@@ -81,3 +96,7 @@ title: Vampiric Mist
 ## Environment
 
 arctic, coastal, forest, grassland, mountain, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 250_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Galeb Duhr
-created: 2026-03-09T12:15:33.830-04:00
-modified: 2026-03-09T12:15:33.830-04:00
-published: 2026-03-09T12:15:33.830-04:00
+created: 2026-03-29T21:53:55.615-04:00
+modified: 2026-03-29T21:53:55.615-04:00
+published: 2026-03-29T21:53:55.615-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Galeb Duhr
+ac: 16
+hp: 85
+modifier: 2
+hit_dice: 9d8 + 45
+cr: "6"
+stats:
+  - 20
+  - 14
+  - 20
+  - 11
+  - 12
+  - 11
+source:
+  - MM
 ---
 
 # Galeb Duhr
 
-_Source: Monster Manual p. 139_\
 ![](Mechanics/CLI/bestiary/elemental/img/galeb-duhr.webp#right)
-
 The galeb duhr is a boulder-like creature with stumpy appendages that act as arms and legs. It has the ability to animate the rocks and boulders around it, and is thus usually encountered in rocky terrain.
 
 Powerful magic allows a spellcaster to summon a galeb duhr from the Plane of Earth. Some galeb duhr also form naturally in places touched by that plane. The galeb duhr is imbued with greater intelligence than most elementals, allowing it to better assess threats and to communicate with creatures entering its guarded area.
@@ -40,11 +55,11 @@ A galeb duhr can become one with the earth around it, allowing it to imbue nearb
 
 ```ad-statblock
 title: Galeb Duhr
-![](Mechanics/CLI/bestiary/elemental/token/galeb-duhr.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/galeb-duhr.webp#token)
 *Medium elemental, Neutral*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 85 (`9d8 + 45`) 
+- **Hit Points** 85 (9d8 + 45) 
 - **Speed** 15 ft. (30 ft. when rolling, 60 ft. rolling downhill)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,10 +69,10 @@ title: Galeb Duhr
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 11
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Terran
 - **Challenge** 6
 
@@ -65,13 +80,13 @@ title: Galeb Duhr
 
 ***False Appearance.*** While the galeb duhr remains motionless, it is indistinguishable from a normal boulder.
 
-***Rolling Charge.*** If the galeb duhr rolls at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 7 (`2d6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Rolling Charge.*** If the galeb duhr rolls at least 20 feet straight toward a target and then hits it with a slam attack on the same turn, the target takes an extra 7 (`2d6`) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Actions
 
 ***Slam.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) bludgeoning damage.
 
-***Animate Boulders (1/Day).*** The galeb duhr magically animates up to two boulders it can see within 60 feet of it. A boulder has statistics like those of a galeb duhr, except it has Intelligence 1 and Charisma 1, it can't be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and it lacks this action option. A boulder remains animated as long as the galeb duhr maintains [concentration](Mechanics/CLI/rules/conditions.md#Concentration), up to 1 minute (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell).
+***Animate Boulders (1/Day).*** The galeb duhr magically animates up to two boulders it can see within 60 feet of it. A boulder has statistics like those of a galeb duhr, except it has Intelligence 1 and Charisma 1, it can't be [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened), and it lacks this action option. A boulder remains animated as long as the galeb duhr maintains [concentration](/Mechanics/CLI/conditions.md#Concentration), up to 1 minute (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell).
 ```
 
 ^statblock
@@ -79,3 +94,7 @@ title: Galeb Duhr
 ## Environment
 
 mountain, hill
+
+## Sources
+
+_Monster Manual p. 139_

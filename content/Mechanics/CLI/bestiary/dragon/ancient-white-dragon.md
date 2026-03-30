@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ancient White Dragon
-created: 2026-03-09T12:15:33.943-04:00
-modified: 2026-03-09T12:15:33.943-04:00
-published: 2026-03-09T12:15:33.943-04:00
+created: 2026-03-29T21:53:55.944-04:00
+modified: 2026-03-29T21:53:55.944-04:00
+published: 2026-03-29T21:53:55.944-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/20
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ancient White Dragon
+ac: 20
+hp: 333
+modifier: 0
+hit_dice: 18d20 + 144
+cr: "20"
+stats:
+  - 26
+  - 10
+  - 26
+  - 10
+  - 13
+  - 14
+source:
+  - MM
 ---
 
 # Ancient White Dragon
 
-_Source: Monster Manual p. 100. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/white-dragon.webp#right)
-
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
 A white dragon has feral eyes, a sleek profile, and a spined crest. The scales of a wyrmling white dragon glisten pure white. As the dragon ages, its sheen disappears and some of its scales begin to darken, so that by the time it is old, it is mottled by patches of pale blue and light gray. This patterning helps the dragon blend into the realms of ice and stone in which it hunts, and to fade from view when it soars across a cloud-filled sky.
@@ -107,11 +122,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Ancient White Dragon
-![](Mechanics/CLI/bestiary/dragon/token/ancient-white-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/ancient-white-dragon.webp#token)
 *Gargantuan dragon, Chaotic Evil*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 333 (`18d20 + 144`) 
+- **Hit Points** 333 (18d20 + 144) 
 - **Speed** 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -120,8 +135,8 @@ title: Ancient White Dragon
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Constitution +14, Wisdom +7, Charisma +8
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +13, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 23
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +13, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 23
 - **Damage Immunities** cold
 - **Languages** Common, Draconic
 - **Challenge** 20
@@ -142,7 +157,7 @@ title: Ancient White Dragon
 
 ***Tail.*** *Melee Weapon Attack:* `+14` to hit, reach 20 ft., one target. *Hit:* 17 (`2d8 + 8`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 90-foot cone. Each creature in that area must make a DC 22 Constitution saving throw, taking 72 (`16d8`) cold damage on a failed save, or half as much damage on a successful one.
 
@@ -150,11 +165,11 @@ title: Ancient White Dragon
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dragon makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dragon makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dragon can then fly up to half its flying speed.
 
 ## Lair Actions
 
@@ -164,9 +179,9 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 - Jagged ice shards fall from the ceiling, striking up to three creatures underneath that the dragon can see within 120 feet of it. The dragon makes one ranged attack roll (`+7` to hit) against each target. On a hit, the target takes 10 (`3d6`) piercing damage.  
 - The dragon creates an opaque wall of ice on a solid surface it can see within 120 feet of it. The wall can be up to 30 feet long, 30 feet high, and 1 foot thick. When the wall appears, each creature within its area is pushed 5 feet out of the wall's space; appearing on whichever side of the wall it wants. Each 10-foot section of the wall has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. The wall disappears when the dragon uses this lair action again or when the dragon dies.  
 
-**Additional Lair Actions.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-white-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md)) white dragon can use one or both of the following additional lair actions while in its lair:
+**Additional Lair Actions.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-white-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-white-dragon.md)) white dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until initiative count 20 on the next round.  
+- **Blinding Sleet.** Driving sleet falls in a 40-foot-high, 20-foot-radius cylinder centered on a point the dragon can see within 120 feet of it. Each creature in that area must succeed on a DC 15 Constitution saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) until initiative count 20 on the next round.  
 - **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the "Dungeon Master's Guide" for rules on "strong wind"). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
 
 ## Regional Effects
@@ -183,7 +198,7 @@ If the dragon dies, the fog and precipitation fade within 1 day. The ice walls m
 **Additional Regional Effects.** Any of these effects might appear in the area around a white dragon's lair, in addition to or instead of the effects described in the *Monster Manual*:
 
 - **Biting Chill.** Extreme cold envelops the land within 6 miles of the dragon's lair (see the "Dungeon Master's Guide" for rules on "extreme cold"). If the climate in the area already features extreme cold, the cold is numbing, giving creatures in the area without immunity or resistance to cold damage disadvantage on Strength and Dexterity checks.  
-- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
+- **Mirror Ice.** The icy surfaces in the dragon's lair reflect light like mirrors, giving creatures in the lair other than the dragon disadvantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide. In addition, at each intersection or branching passage, any creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
 ```
 
 ^statblock
@@ -191,3 +206,7 @@ If the dragon dies, the fog and precipitation fade within 1 day. The ice walls m
 ## Environment
 
 arctic
+
+## Sources
+
+_Monster Manual p. 100. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

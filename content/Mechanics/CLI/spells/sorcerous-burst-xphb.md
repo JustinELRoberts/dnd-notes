@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Sorcerous Burst
-created: 2026-03-09T12:15:34.118-04:00
-modified: 2026-03-09T12:15:34.118-04:00
-published: 2026-03-09T12:15:34.118-04:00
+created: 2026-03-29T21:53:56.153-04:00
+modified: 2026-03-29T21:53:56.153-04:00
+published: 2026-03-29T21:53:56.153-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/feat/aberrant-dragonmark
   - ttrpg-cli/spell/level/cantrip
@@ -18,9 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Sorcerer
-  - Warden (Drake-Blooded)
 ---
 
 # Sorcerous Burst
@@ -38,6 +36,16 @@ If you roll an 8 on a `d8` for this spell, you can roll another `d8`, and add it
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Aberrant Dragonmark](/Mechanics/CLI/lists/list-spells-feats-aberrant-dragonmark-efa.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Arcane Event](/Mechanics/CLI/lists/list-spells-optional-features-arcane-event-valdaspire24.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Kobold](/Mechanics/CLI/lists/list-spells-races-kobold-mpmm.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 318. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

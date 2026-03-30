@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mummy Lord
-created: 2026-03-09T12:15:33.954-04:00
-modified: 2026-03-09T12:15:33.954-04:00
-published: 2026-03-09T12:15:33.954-04:00
+created: 2026-03-29T21:53:55.956-04:00
+modified: 2026-03-29T21:53:55.956-04:00
+published: 2026-03-29T21:53:55.956-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/15
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mummy Lord
+ac: 17
+hp: 97
+modifier: 0
+hit_dice: 13d8 + 39
+cr: "15"
+stats:
+  - 18
+  - 10
+  - 17
+  - 11
+  - 18
+  - 16
+source:
+  - MM
 ---
 
 # Mummy Lord
 
-_Source: Monster Manual p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/mummy.webp#right)
-
 Raised by dark funerary rituals, a mummy shambles from the shrouded stillness of a time-lost temple or tomb. Having been awoken from its rest, it punishes transgressors with the power of its unholy curse.
 
 ## Preserved Wrath
@@ -79,11 +94,11 @@ A mummy lord watches over an ancient temple or tomb that is protected by lesser 
 
 ```ad-statblock
 title: Mummy Lord
-![](Mechanics/CLI/bestiary/undead/token/mummy-lord.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/mummy-lord.webp#token)
 *Medium undead, Lawful Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 97 (`13d8 + 39`) 
+- **Hit Points** 97 (13d8 + 39) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -92,11 +107,11 @@ title: Mummy Lord
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +8, Intelligence +5, Wisdom +9, Charisma +8
-- **Skills** [History](Mechanics/CLI/rules/skills.md#History) +5, [Religion](Mechanics/CLI/rules/skills.md#Religion) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [History](/Mechanics/CLI/skills.md#History) +5, [Religion](/Mechanics/CLI/skills.md#Religion) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Vulnerabilities** fire
 - **Damage Immunities** necrotic; poison; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** the languages it knew in life
 - **Challenge** 15
 
@@ -104,19 +119,19 @@ title: Mummy Lord
 
 ***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, `+9` to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 
-**Cantrips (at will):** [sacred flame](Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [sacred flame](/Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [command](Mechanics/CLI/spells/command-xphb.md), [guiding bolt](Mechanics/CLI/spells/guiding-bolt-xphb.md), [shield of faith](Mechanics/CLI/spells/shield-of-faith-xphb.md)
+**1st level (4 slots):** [command](/Mechanics/CLI/spells/command-xphb.md), [guiding bolt](/Mechanics/CLI/spells/guiding-bolt-xphb.md), [shield of faith](/Mechanics/CLI/spells/shield-of-faith-xphb.md)
 
-**2nd level (3 slots):** [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [silence](Mechanics/CLI/spells/silence-xphb.md), [spiritual weapon](Mechanics/CLI/spells/spiritual-weapon-xphb.md)
+**2nd level (3 slots):** [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [silence](/Mechanics/CLI/spells/silence-xphb.md), [spiritual weapon](/Mechanics/CLI/spells/spiritual-weapon-xphb.md)
 
-**3rd level (3 slots):** [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md)
+**3rd level (3 slots):** [animate dead](/Mechanics/CLI/spells/animate-dead-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md)
 
-**4th level (3 slots):** [divination](Mechanics/CLI/spells/divination-xphb.md), [guardian of faith](Mechanics/CLI/spells/guardian-of-faith-xphb.md)
+**4th level (3 slots):** [divination](/Mechanics/CLI/spells/divination-xphb.md), [guardian of faith](/Mechanics/CLI/spells/guardian-of-faith-xphb.md)
 
-**5th level (2 slots):** [contagion](Mechanics/CLI/spells/contagion-xphb.md), [insect plague](Mechanics/CLI/spells/insect-plague-xphb.md)
+**5th level (2 slots):** [contagion](/Mechanics/CLI/spells/contagion-xphb.md), [insect plague](/Mechanics/CLI/spells/insect-plague-xphb.md)
 
-**6th level (1 slots):** [harm](Mechanics/CLI/spells/harm-xphb.md)
+**6th level (1 slots):** [harm](/Mechanics/CLI/spells/harm-xphb.md)
 
 ***Magic Resistance.*** The mummy lord has advantage on saving throws against spells and other magical effects.
 
@@ -126,9 +141,9 @@ title: Mummy Lord
 
 ***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
-***Rotting Fist.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 14 (`3d6 + 4`) bludgeoning damage plus 21 (`6d6`) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or other magic.
+***Rotting Fist.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 14 (`3d6 + 4`) bludgeoning damage plus 21 (`6d6`) necrotic damage. If the target is a creature, it must succeed on a DC 16 Constitution saving throw or be cursed with mummy rot. The cursed target can't regain hit points, and its hit point maximum decreases by 10 (`3d6`) for every 24 hours that elapse. If the curse reduces the target's hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell or other magic.
 
-***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
+***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
 ## Legendary Actions
 
@@ -136,13 +151,13 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the mummy l
 
 ***Attack.*** The mummy lord makes one attack with its rotting fist or uses its Dreadful Glare.
 
-***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of the creature's next turn.
+***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a DC 16 Constitution saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of the creature's next turn.
 
-***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the mummy lord's next turn.
+***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each non-undead creature within 10 feet of the mummy lord that can hear the magical utterance must succeed on a DC 16 Constitution saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of the mummy lord's next turn.
 
 ***Channel Negative Energy (Costs 2 Actions).*** The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
 
-***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), knocked [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), or [stunned](Mechanics/CLI/rules/conditions.md#Stunned). Equipment worn or carried by the mummy lord remain in its possession.
+***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be [grappled](/Mechanics/CLI/conditions.md#Grappled), [petrified](/Mechanics/CLI/conditions.md#Petrified), knocked [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), or [stunned](/Mechanics/CLI/conditions.md#Stunned). Equipment worn or carried by the mummy lord remain in its possession.
 
 ## Lair Actions
 
@@ -157,8 +172,8 @@ On initiative count 20 (losing initiative ties), the mummy lord takes a lair act
 A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:
 
 - Food instantly molders and water instantly evaporates when brought into the lair. Other non magical drinks are spoiled - wine turning to vinegar, for instance.  
-- [Divination](Mechanics/CLI/spells/divination-xphb.md) spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a [divination](Mechanics/CLI/spells/divination-xphb.md) spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.  
-- A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or other magic.  
+- [Divination](/Mechanics/CLI/spells/divination-xphb.md) spells cast within the lair by creatures other than the mummy lord have a 25 percent chance to provide misleading results, as determined by the DM. If a [divination](/Mechanics/CLI/spells/divination-xphb.md) spell already has a chance to fail or become unreliable when cast multiple times, that chance increases by 25 percent.  
+- A creature that takes treasure from the lair is cursed until the treasure is returned. The cursed target has disadvantage on all saving throws. The curse lasts until removed by a [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell or other magic.  
 
 If the mummy lord is destroyed, these regional effects end immediately.
 ```
@@ -168,3 +183,7 @@ If the mummy lord is destroyed, these regional effects end immediately.
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 229. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

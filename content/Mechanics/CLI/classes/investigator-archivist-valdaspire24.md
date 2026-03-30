@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Archivist
-created: 2026-03-09T12:15:33.868-04:00
-modified: 2026-03-09T12:15:33.868-04:00
-published: 2026-03-09T12:15:33.868-04:00
+created: 2026-03-29T21:53:55.659-04:00
+modified: 2026-03-29T21:53:55.659-04:00
+published: 2026-03-29T21:53:55.659-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/investigator/archivist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Archivist
 
-_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,7 +56,7 @@ Though most Investigators fill their grimoires with hard-won knowledge borne fro
 
 ### Thesis (Level 3)
 
-You gain access to certain spells associated with your thesis. Choose one of the following subject areas for your thesis: Corpus, Mentis, Mortis, or Oculus. Consult the table below that corresponds to the chosen thesis; you add the listed spells for your Investigator level to your grimoire for free. The listed spells count as Investigator spells for you and you treat them if they have the [Ritual](Mechanics/CLI/rules/variant-rules/ritual-xphb.md) tag.
+You gain access to certain spells associated with your thesis. Choose one of the following subject areas for your thesis: Corpus, Mentis, Mortis, or Oculus. Consult the table below that corresponds to the chosen thesis; you add the listed spells for your Investigator level to your grimoire for free. The listed spells count as Investigator spells for you and you treat them if they have the [Ritual](/Mechanics/CLI/variant-rules/ritual-xphb.md) tag.
 
 Whenever you gain an Investigator level, you can replace your thesis with another one. The spells in your grimoire corresponding to your thesis are magically replaced with those of the new thesis for your Investigator level.
 
@@ -65,17 +64,17 @@ Whenever you gain an Investigator level, you can replace your thesis with anothe
 
 You can use the following trinkets.
 
-**Aura Lenses.** You can cast [Detect Magic](Mechanics/CLI/spells/detect-magic-xphb.md) without a spell slot or components.
+**Aura Lenses.** You can cast [Detect Magic](/Mechanics/CLI/spells/detect-magic-xphb.md) without a spell slot or components.
 
-**Mnemonic Script.** You can cast [Memorize](Mechanics/CLI/spells/memorize-valdaspire24.md) without a spell slot or components.
+**Mnemonic Script.** You can cast [Memorize](/Mechanics/CLI/spells/memorize-valdaspire24.md) without a spell slot or components.
 
-**Tongue Stone.** You can cast [Comprehend Languages](Mechanics/CLI/spells/comprehend-languages-xphb.md) without a spell slot or components.
+**Tongue Stone.** You can cast [Comprehend Languages](/Mechanics/CLI/spells/comprehend-languages-xphb.md) without a spell slot or components.
 
 ### Erudite Spell (Level 6)
 
-When you cast a spell that forces a creature to make a saving throw, you can give one target of the spell [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on saves against the spell.
+When you cast a spell that forces a creature to make a saving throw, you can give one target of the spell [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on saves against the spell.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](/Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
 
 ### Encyclopedic Expertise (Level 10)
 
@@ -87,4 +86,8 @@ You can effortlessly duplicate spells you see or hear, granting you the followin
 
 **Ritual Recall.** If you see or hear an Investigator spell being cast, you can thereafter copy it into your grimoire.
 
-**Spell Duplication.** When you see or hear a spell of level 5 or lower being cast, you can fix the spell in your mind. Within the next minute, you can expend a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) to cast the spell without a spell slot. Once you use this benefit to cast a spell, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Duplication.** When you see or hear a spell of level 5 or lower being cast, you can fix the spell in your mind. Within the next minute, you can expend a use of your [Rushed Incantation](/Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) to cast the spell without a spell slot. Once you use this benefit to cast a spell, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

@@ -15,9 +15,9 @@ aliases:
   - Drow +2 Spiked Armor
   - Drow +2 Splint Armor
   - Drow +2 Studded Leather Armor
-created: 2026-03-09T12:15:33.944-04:00
-modified: 2026-03-09T12:15:33.944-04:00
-published: 2026-03-09T12:15:33.944-04:00
+created: 2026-03-29T21:53:55.946-04:00
+modified: 2026-03-29T21:53:55.946-04:00
+published: 2026-03-29T21:53:55.946-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/item/armor/heavy
@@ -32,9 +32,12 @@ obsidianUIMode: preview
 
 # Drow +2 Armor
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You have a +2 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
 
-**Variants**:
+## Variants
 
 - [Drow +2 Breastplate](#Drow%20+2%20Breastplate)
 - [Drow +2 Chain Mail](#Drow%20+2%20Chain%20Mail)
@@ -126,4 +129,6 @@ You have a +2 bonus to AC while wearing this armor. This armor loses its enchant
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-_Source: Monster Manual p. 126_
+## Sources
+
+_Monster Manual p. 126_

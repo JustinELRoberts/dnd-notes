@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Eldritch Blast
-created: 2026-03-09T12:15:33.916-04:00
-modified: 2026-03-09T12:15:33.916-04:00
-published: 2026-03-09T12:15:33.916-04:00
+created: 2026-03-29T21:53:55.920-04:00
+modified: 2026-03-29T21:53:55.920-04:00
+published: 2026-03-29T21:53:55.920-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/level/cantrip
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
@@ -14,8 +15,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Warlock
 ---
 
 # Eldritch Blast
@@ -31,6 +30,12 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 **Cantrip Upgrade.** The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
-**Classes**: [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

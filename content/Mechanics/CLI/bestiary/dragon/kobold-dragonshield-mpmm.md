@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kobold Dragonshield
-created: 2026-03-09T12:15:34.132-04:00
-modified: 2026-03-09T12:15:34.132-04:00
-published: 2026-03-09T12:15:34.132-04:00
+created: 2026-03-29T21:53:56.179-04:00
+modified: 2026-03-29T21:53:56.179-04:00
+published: 2026-03-29T21:53:56.179-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -17,11 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Kobold Dragonshield (MPMM)
+ac: 15
+hp: 44
+modifier: 2
+hit_dice: 8d6 + 16
+cr: "1"
+stats:
+  - 12
+  - 15
+  - 14
+  - 8
+  - 9
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Kobold Dragonshield
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165_\
 ![](Mechanics/CLI/bestiary/dragon/img/kobold-dragonshield.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -34,11 +51,11 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 
 ```ad-statblock
 title: Kobold Dragonshield
-![](Mechanics/CLI/bestiary/dragon/token/kobold-dragonshield-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/kobold-dragonshield-mpmm.webp#token)
 *Small dragon, Any alignment*
 
-- **Armor Class** 15 ([leather](Mechanics/CLI/items/leather-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 44 (`8d6 + 16`) 
+- **Armor Class** 15 ([leather](/Mechanics/CLI/items/leather-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 44 (8d6 + 16) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,10 +64,9 @@ title: Kobold Dragonshield
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +1
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +1
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** see Dragon's Resistance below
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** Common, Draconic
 - **Challenge** 1
 
@@ -58,11 +74,11 @@ title: Kobold Dragonshield
 
 ***Dragon's Resistance.*** The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a `d10`): 1–2, acid (black or copper); 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–8, lightning (blue or bronze); 9–10, poison (green).
 
-***Heart of the Dragon.*** If the kobold is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) or [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.
+***Heart of the Dragon.*** If the kobold is [frightened](/Mechanics/CLI/conditions.md#Frightened) or [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) by an effect that allows a saving throw, it can repeat the save at the start of its turn to end the effect on itself and all kobolds within 30 feet of it. Any kobold that benefits from this trait (including the dragonshield) has advantage on its next attack roll.
 
-***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -76,3 +92,7 @@ title: Kobold Dragonshield
 ## Environment
 
 forest, hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165_

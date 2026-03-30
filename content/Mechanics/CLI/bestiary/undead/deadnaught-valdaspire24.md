@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deadnaught
-created: 2026-03-09T12:15:34.012-04:00
-modified: 2026-03-09T12:15:34.012-04:00
-published: 2026-03-09T12:15:34.012-04:00
+created: 2026-03-29T21:53:56.019-04:00
+modified: 2026-03-29T21:53:56.019-04:00
+published: 2026-03-29T21:53:56.019-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/1
@@ -13,17 +13,30 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deadnaught (ValdaSpire24)
+ac: 16
+modifier: 2
+cr: "1"
+stats:
+  - 19
+  - 14
+  - 16
+  - 7
+  - 10
+  - 6
+source:
+  - ValdaSpire24
 ---
 
 # Deadnaught
-
-_Source: Valda's Spire of Secrets (2024)_
 
 An Undead hulk clad in heavy armor, a deadnaught is a Necromancer's most fearsome ally.
 
 ## Proficiencies
 
-Simple and Martial weapons; Light, Medium, and Heavy armor, [Shields](Mechanics/CLI/items/shield-xphb.md). The monster can equip any gear for which it has proficiency or training.
+Simple and Martial weapons; Light, Medium, and Heavy armor, [Shields](/Mechanics/CLI/items/shield-xphb.md). The monster can equip any gear for which it has proficiency or training.
 
 ## Statblock
 
@@ -42,10 +55,9 @@ title: Deadnaught
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [warhammer](Mechanics/CLI/items/warhammer-xphb.md), [chain mail](Mechanics/CLI/items/chain-mail-xphb.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages you know but can't speak
 - **Challenge** 1
 
@@ -53,7 +65,7 @@ title: Deadnaught
 
 ***Necromantic Bond.*** You can only animate and control a deadnaught once you reach Necromancer level 7. While you control a deadnaught, you can't control other thralls.
 
-***Regeneration.*** The deadnaught regains 5 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns if it has at least 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+***Regeneration.*** The deadnaught regains 5 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) at the start of each of its turns if it has at least 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 ## Actions
 
@@ -63,3 +75,7 @@ title: Deadnaught
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

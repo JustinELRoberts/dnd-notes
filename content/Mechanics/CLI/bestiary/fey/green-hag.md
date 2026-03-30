@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Green Hag
-created: 2026-03-09T12:15:34.082-04:00
-modified: 2026-03-09T12:15:34.082-04:00
-published: 2026-03-09T12:15:34.082-04:00
+created: 2026-03-29T21:53:56.112-04:00
+modified: 2026-03-29T21:53:56.112-04:00
+published: 2026-03-29T21:53:56.112-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Green Hag
+ac: 17
+hp: 82
+modifier: 1
+hit_dice: 11d8 + 33
+cr: "3"
+stats:
+  - 18
+  - 12
+  - 16
+  - 13
+  - 14
+  - 14
+source:
+  - MM
 ---
 
 # Green Hag
 
-_Source: Monster Manual p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fey/img/green-hag.webp#right)
-
 The wretched and hateful green hags dwell in dying forests, lonely swamps, and misty moors, making their homes in caves. Green hags love to manipulate other creatures into doing their bidding, masking their intentions behind layers of deception. They lure victims to them by mimicking voices calling out for help, or drive unwanted visitors away by imitating the cries of fierce beasts.
 
 ## Obsession with Tragedy
@@ -81,29 +96,29 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 >
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 >
-> 1st level (4 slots): [identify](Mechanics/CLI/spells/identify-xphb.md), [ray of sickness](Mechanics/CLI/spells/ray-of-sickness-xphb.md)\
-> 2nd level (3 slots): [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [locate object](Mechanics/CLI/spells/locate-object-xphb.md)\
-> 3rd level (3 slots): [bestow curse](Mechanics/CLI/spells/bestow-curse-xphb.md), [counterspell](Mechanics/CLI/spells/counterspell-xphb.md), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md)\
-> 4th level (3 slots): [phantasmal killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md), [polymorph](Mechanics/CLI/spells/polymorph-xphb.md)\
-> 5th level (2 slots): [contact other plane](Mechanics/CLI/spells/contact-other-plane-xphb.md), [scrying](Mechanics/CLI/spells/scrying-xphb.md)\
-> 6th level (1 slot): [eyebite](Mechanics/CLI/spells/eyebite-xphb.md)
+> 1st level (4 slots): [identify](/Mechanics/CLI/spells/identify-xphb.md), [ray of sickness](/Mechanics/CLI/spells/ray-of-sickness-xphb.md)\
+> 2nd level (3 slots): [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [locate object](/Mechanics/CLI/spells/locate-object-xphb.md)\
+> 3rd level (3 slots): [bestow curse](/Mechanics/CLI/spells/bestow-curse-xphb.md), [counterspell](/Mechanics/CLI/spells/counterspell-xphb.md), [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md)\
+> 4th level (3 slots): [phantasmal killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md), [polymorph](/Mechanics/CLI/spells/polymorph-xphb.md)\
+> 5th level (2 slots): [contact other plane](/Mechanics/CLI/spells/contact-other-plane-xphb.md), [scrying](/Mechanics/CLI/spells/scrying-xphb.md)\
+> 6th level (1 slot): [eyebite](/Mechanics/CLI/spells/eyebite-xphb.md)
 >
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 >
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](/Mechanics/CLI/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](/Mechanics/CLI/conditions.md#Blinded) for 24 hours.
 >
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](Mechanics/CLI/rules/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](/Mechanics/CLI/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
 > ^hag-covens
 
 ## Statblock
 
 ```ad-statblock
 title: Green Hag
-![](Mechanics/CLI/bestiary/fey/token/green-hag.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/green-hag.webp#token)
 *Medium fey, Neutral Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 82 (`11d8 + 33`) 
+- **Hit Points** 82 (11d8 + 33) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -112,8 +127,8 @@ title: Green Hag
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +3, [Deception](Mechanics/CLI/rules/skills.md#Deception) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +3, [Deception](/Mechanics/CLI/skills.md#Deception) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Common, Draconic, Sylvan
 - **Challenge** 3
 
@@ -121,11 +136,11 @@ title: Green Hag
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 12). She can innately cast the following spells, requiring no material components:
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [vicious mockery](Mechanics/CLI/spells/vicious-mockery-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [vicious mockery](/Mechanics/CLI/spells/vicious-mockery-xphb.md)
 
 ***Amphibious.*** The hag can breathe air and water.
 
-***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check.
+***Mimicry.*** The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check.
 
 ## Actions
 
@@ -133,9 +148,9 @@ title: Green Hag
 
 ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.
 
-The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to discern that the hag is disguised.
+The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check to discern that the hag is disguised.
 
-***Invisible Passage.*** The hag magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until she attacks or casts a spell, or until her [concentration](Mechanics/CLI/rules/conditions.md#Concentration) ends (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). While [invisible](Mechanics/CLI/rules/conditions.md#Invisible), she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with her.
+***Invisible Passage.*** The hag magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) until she attacks or casts a spell, or until her [concentration](/Mechanics/CLI/conditions.md#Concentration) ends (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). While [invisible](/Mechanics/CLI/conditions.md#Invisible), she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with her.
 
 ## Lair Actions
 
@@ -157,14 +172,14 @@ Each hag's lair is the source of three to five regional effects; the home of a g
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
-- Beasts that have an Intelligence score of 2 or lower are [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
+- Beasts that have an Intelligence score of 2 or lower are [charmed](/Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.  
 
 A powerful green hag creates one or more of the following additional regional effects within 1 mile of her lair:
 
 - Illusory duplicates of the hag appear in random places at random times (but never more than one in any given location). An illusory duplicate has no substance, but it looks, sounds, and moves like the hag. The hag can sense when one or more creatures are within 60 feet of her duplicate and can interact with them as if she were present and standing in the duplicate's space. If the illusory duplicate takes any damage, it disappears.  
 - The region takes twice as long as normal to traverse, since the plants grow thick and twisted, and the swamps are thick with reeking mud.  
-- Trees transform into [awakened trees](Mechanics/CLI/bestiary/plant/awakened-tree.md) and attack when hostile intruders are near.  
+- Trees transform into [awakened trees](/Mechanics/CLI/bestiary/plant/awakened-tree.md) and attack when hostile intruders are near.  
 ```
 
 ^statblock
@@ -172,3 +187,7 @@ A powerful green hag creates one or more of the following additional regional ef
 ## Environment
 
 forest, swamp, hill
+
+## Sources
+
+_Monster Manual p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

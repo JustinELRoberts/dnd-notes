@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Gold Dragon
-created: 2026-03-09T12:15:33.979-04:00
-modified: 2026-03-09T12:15:33.979-04:00
-published: 2026-03-09T12:15:33.979-04:00
+created: 2026-03-29T21:53:55.983-04:00
+modified: 2026-03-29T21:53:55.983-04:00
+published: 2026-03-29T21:53:55.983-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/17
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Gold Dragon
+ac: 19
+hp: 256
+modifier: 2
+hit_dice: 19d12 + 133
+cr: "17"
+stats:
+  - 27
+  - 14
+  - 25
+  - 16
+  - 15
+  - 24
+source:
+  - MM
 ---
 
 # Adult Gold Dragon
 
-_Source: Monster Manual p. 114. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/gold-dragon.webp#right)
-
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
 A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
@@ -94,11 +109,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Adult Gold Dragon
-![](Mechanics/CLI/bestiary/dragon/token/adult-gold-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/adult-gold-dragon.webp#token)
 *Huge dragon, Lawful Good*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 256 (`19d12 + 133`) 
+- **Hit Points** 256 (19d12 + 133) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -107,8 +122,8 @@ title: Adult Gold Dragon
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +8, Constitution +13, Wisdom +8, Charisma +13
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +14, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +13, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 24
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +14, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +13, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 24
 - **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 17
@@ -129,7 +144,7 @@ title: Adult Gold Dragon
 
 ***Tail.*** *Melee Weapon Attack:* `+14` to hit, reach 15 ft., one target. *Hit:* 17 (`2d8 + 8`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 21 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
@@ -144,11 +159,11 @@ In a new form, the dragon retains its alignment, hit points, Hit Dice, ability t
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dragon makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dragon makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (`2d6 + 8`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dragon can then fly up to half its flying speed.
 
 ## Lair Actions
 
@@ -157,9 +172,9 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 - The dragon glimpses the future, so it has advantage on attack rolls, ability checks, and saving throws until initiative count 20 on the next round.  
 - One creature the dragon can see within 120 feet of it must succeed on a DC 15 Charisma saving throw or be banished to a dream plane, a different plane of existence the dragon has imagined into being. To escape, the creature must use its action to make a Charisma check contested by the dragon's. If the creature wins, it escapes the dream plane. Otherwise, the effect ends on initiative count 20 on the next round. When the effect ends, the creature reappears in the space it left or in the nearest unoccupied space if that one is occupied.  
 
-**Additional Lair Action.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)) gold dragon can use the following additional lair action while in its lair:
+**Additional Lair Action.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md)) gold dragon can use the following additional lair action while in its lair:
 
-- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
+- **Beguiling Glow.** Warm light fills a 30-foot-radius sphere centered on the dragon; each creature in that area must succeed on a DC 15 Wisdom saving throw or be [charmed](/Mechanics/CLI/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
 
 ## Regional Effects
 
@@ -183,3 +198,7 @@ If the dragon dies, these effects end immediately.
 ## Environment
 
 grassland, forest
+
+## Sources
+
+_Monster Manual p. 114. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bag of Tricks, Gray
-created: 2026-03-09T12:15:33.947-04:00
-modified: 2026-03-09T12:15:33.947-04:00
-published: 2026-03-09T12:15:33.947-04:00
+created: 2026-03-29T21:53:55.949-04:00
+modified: 2026-03-29T21:53:55.949-04:00
+published: 2026-03-29T21:53:55.949-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -18,6 +18,7 @@ obsidianUIMode: preview
 
 _Wondrous item, major, uncommon_
 
+- **Cost**: ⏤
 - **Weight**: 0.5 lbs.
 
 This ordinary bag, made from gray cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.
@@ -30,14 +31,16 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: d8 | Creature |
 |----------|----------|
-| 1 | [Weasel](Mechanics/CLI/bestiary/beast/weasel-xmm.md) |
-| 2 | [Giant rat](Mechanics/CLI/bestiary/beast/giant-rat.md) |
-| 3 | [Badger](Mechanics/CLI/bestiary/beast/badger-xmm.md) |
-| 4 | [Boar](Mechanics/CLI/bestiary/beast/boar-xmm.md) |
-| 5 | [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) |
-| 6 | [Giant badger](Mechanics/CLI/bestiary/beast/giant-badger-xmm.md) |
-| 7 | [Dire wolf](Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) |
-| 8 | [Giant elk](Mechanics/CLI/bestiary/beast/giant-elk.md) |
+| 1 | [Weasel](/Mechanics/CLI/bestiary/beast/weasel-xmm.md) |
+| 2 | [Giant rat](/Mechanics/CLI/bestiary/beast/giant-rat.md) |
+| 3 | [Badger](/Mechanics/CLI/bestiary/beast/badger-xmm.md) |
+| 4 | [Boar](/Mechanics/CLI/bestiary/beast/boar-xmm.md) |
+| 5 | [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) |
+| 6 | [Giant badger](/Mechanics/CLI/bestiary/beast/giant-badger-xmm.md) |
+| 7 | [Dire wolf](/Mechanics/CLI/bestiary/beast/dire-wolf-xmm.md) |
+| 8 | [Giant elk](/Mechanics/CLI/bestiary/beast/giant-elk.md) |
 ^creature
 
-_Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

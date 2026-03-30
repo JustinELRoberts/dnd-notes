@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lemure
-created: 2026-03-09T12:15:33.793-04:00
-modified: 2026-03-09T12:15:33.793-04:00
-published: 2026-03-09T12:15:33.793-04:00
+created: 2026-03-29T21:53:55.576-04:00
+modified: 2026-03-29T21:53:55.576-04:00
+published: 2026-03-29T21:53:55.576-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Lemure
+ac: 7
+hp: 13
+modifier: -3
+hit_dice: 3d8
+cr: "0"
+stats:
+  - 10
+  - 5
+  - 11
+  - 1
+  - 11
+  - 3
+source:
+  - MM
 ---
 
 # Lemure
 
-_Source: Monster Manual p. 76. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/lemure.webp#right)
-
 A lemure arises when a mortal soul is twisted by evil and banished to the Nine Hells for eternity. The lowest type of devil, lemures are repugnant, shapeless creatures doomed to suffer torment until they are promoted to a higher form of devil, most commonly an imp.
 
 A lemure resembles a molten mass of flesh with a vaguely humanoid head and torso. A permanent expression of anguish twists across its face, its feeble mouth babbling even though it can't speak.
@@ -120,7 +135,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -148,11 +163,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Lemure
-![](Mechanics/CLI/bestiary/fiend/token/lemure.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/lemure.webp#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 7 
-- **Hit Points** 13 (`3d8`) 
+- **Hit Points** 13 (3d8) 
 - **Speed** 15 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -162,10 +177,10 @@ title: Lemure
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** cold
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Infernal but can't speak
 - **Challenge** 0
 
@@ -173,7 +188,7 @@ title: Lemure
 
 ***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
 
-***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in `1d10` days unless it is killed by a good-aligned creature with a [bless](Mechanics/CLI/spells/bless-xphb.md) spell cast on that creature or its remains are sprinkled with holy water.
+***Hellish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its hit points in `1d10` days unless it is killed by a good-aligned creature with a [bless](/Mechanics/CLI/spells/bless-xphb.md) spell cast on that creature or its remains are sprinkled with holy water.
 
 ## Actions
 
@@ -181,3 +196,7 @@ title: Lemure
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 76. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

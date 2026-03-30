@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Greater Mark of Handling
-created: 2026-03-09T12:15:33.837-04:00
-modified: 2026-03-09T12:15:33.837-04:00
-published: 2026-03-09T12:15:33.837-04:00
+created: 2026-03-29T21:53:55.622-04:00
+modified: 2026-03-29T21:53:55.622-04:00
+published: 2026-03-29T21:53:55.622-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/feat
@@ -21,11 +21,11 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 20.
 
-**Improved Intuition.** When you use the Wild Intuition benefit of your [Mark of Handling](Mechanics/CLI/feats/mark-of-handling-efa.md) feat, you can roll `1d6` instead of `1d4`.
+**Improved Intuition.** When you use the Wild Intuition benefit of your [Mark of Handling](/Mechanics/CLI/feats/mark-of-handling-efa.md) feat, you can roll `1d6` instead of `1d4`.
 
-**Improved Handling.** While you are mounted, immediately after you hit a target within 5 feet of your mount with a melee attack roll, your mount can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to move up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) or take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action to make one attack only (your choice).
+**Improved Handling.** While you are mounted, immediately after you hit a target within 5 feet of your mount with a melee attack roll, your mount can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to move up to its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) or take the [Attack](/Mechanics/CLI/actions.md#Attack) action to make one attack only (your choice).
 
-**Subdue Animal.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you exert command over one Beast or Monstrosity you can see within 30 feet of yourself. The target must succeed on a Wisdom saving throw (DC 8 plus your Wisdom modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the start of your next turn. You can use this benefit a number of times equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Subdue Animal.** As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you exert command over one Beast or Monstrosity you can see within 30 feet of yourself. The target must succeed on a Wisdom saving throw (DC 8 plus your Wisdom modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)) or have the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the start of your next turn. You can use this benefit a number of times equal to your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Sources
 

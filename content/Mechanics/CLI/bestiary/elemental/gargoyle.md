@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gargoyle
-created: 2026-03-09T12:15:33.880-04:00
-modified: 2026-03-09T12:15:33.880-04:00
-published: 2026-03-09T12:15:33.880-04:00
+created: 2026-03-29T21:53:55.674-04:00
+modified: 2026-03-29T21:53:55.674-04:00
+published: 2026-03-29T21:53:55.674-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gargoyle
+ac: 15
+hp: 52
+modifier: 0
+hit_dice: 7d8 + 21
+cr: "2"
+stats:
+  - 15
+  - 11
+  - 16
+  - 6
+  - 11
+  - 7
+source:
+  - MM
 ---
 
 # Gargoyle
 
-_Source: Monster Manual p. 140. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/gargoyle.webp#right)
-
 The inanimate gargoyles that perch atop great buildings are inspired by these malevolent creatures of elemental earth that resemble grotesque, fiendish statues. A gargoyle lurks among masonry and ruins, as still as any stone sculpture, and delights in the terror it creates when it breaks from its suspended pose, as well as the pain it inflicts on its victims.
 
 ## Animate Stone
@@ -55,11 +70,11 @@ A gargoyle doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Gargoyle
-![](Mechanics/CLI/bestiary/elemental/token/gargoyle.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/gargoyle.webp#token)
 *Medium elemental, Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 52 (`7d8 + 21`) 
+- **Hit Points** 52 (7d8 + 21) 
 - **Speed** 30 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -69,10 +84,10 @@ title: Gargoyle
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Terran
 - **Challenge** 2
 
@@ -94,3 +109,7 @@ title: Gargoyle
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 140. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Summer Eladrin
-created: 2026-03-09T12:15:33.945-04:00
-modified: 2026-03-09T12:15:33.945-04:00
-published: 2026-03-09T12:15:33.945-04:00
+created: 2026-03-29T21:53:55.946-04:00
+modified: 2026-03-29T21:53:55.946-04:00
+published: 2026-03-29T21:53:55.946-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/10
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Summer Eladrin (MPMM)
+ac: 19
+hp: 165
+modifier: 5
+hit_dice: 22d8 + 66
+cr: "10"
+stats:
+  - 19
+  - 21
+  - 16
+  - 14
+  - 12
+  - 18
+source:
+  - MPMM
 ---
 
 # Summer Eladrin
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 116_\
 ![](Mechanics/CLI/bestiary/fey/img/summer-eladrin.webp#right)
-
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
 
 ## Eladrin
@@ -40,17 +55,17 @@ The magic flowing through eladrin responds to their emotional state by transform
 
 ### Changeable Natures
 
-Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
+Whenever one of the eladrin presented here finishes a long rest, they can associate themself with a different season, provided they aren't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). When the eladrin makes this change, they use the stat block of the new season rather than their old stat block. Any damage the eladrin sustained in their previous form applies to the new form, as do any conditions or other ongoing effects affecting them.
 
 ## Statblock
 
 ```ad-statblock
 title: Summer Eladrin
-![](Mechanics/CLI/bestiary/fey/token/summer-eladrin-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/summer-eladrin-mpmm.webp#token)
 *Medium fey (elf), Typically  Chaotic Neutral*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 165 (`22d8 + 66`) 
+- **Hit Points** 165 (22d8 + 66) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -59,16 +74,15 @@ title: Summer Eladrin
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +8, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +8, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** fire
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md)
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 10
 
 ## Traits
 
-***Fearsome Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the eladrin for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Fearsome Presence for the next 24 hours.
+***Fearsome Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes [frightened](/Mechanics/CLI/conditions.md#Frightened) of the eladrin for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Fearsome Presence for the next 24 hours.
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
@@ -94,3 +108,7 @@ title: Summer Eladrin
 ## Environment
 
 desert, forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 116_

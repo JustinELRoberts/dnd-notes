@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Poisonous Snake
-created: 2026-03-09T12:15:33.856-04:00
-modified: 2026-03-09T12:15:33.856-04:00
-published: 2026-03-09T12:15:33.856-04:00
+created: 2026-03-29T21:53:55.646-04:00
+modified: 2026-03-29T21:53:55.646-04:00
+published: 2026-03-29T21:53:55.646-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -19,19 +19,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Poisonous Snake
+ac: 14
+hp: 11
+modifier: 4
+hit_dice: 2d8 + 2
+cr: 1/4
+stats:
+  - 10
+  - 18
+  - 13
+  - 2
+  - 10
+  - 3
+source:
+  - MM
 ---
 
 # Giant Poisonous Snake
 
-_Source: Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Giant Poisonous Snake
-![](Mechanics/CLI/bestiary/beast/token/giant-poisonous-snake.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-poisonous-snake.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 14 
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,8 +55,8 @@ title: Giant Poisonous Snake
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 1/4
 
@@ -55,3 +70,7 @@ title: Giant Poisonous Snake
 ## Environment
 
 underdark, grassland, forest, swamp, urban, desert
+
+## Sources
+
+_Monster Manual p. 327. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Constrictor Snake
-created: 2026-03-09T12:15:33.965-04:00
-modified: 2026-03-09T12:15:33.965-04:00
-published: 2026-03-09T12:15:33.965-04:00
+created: 2026-03-29T21:53:55.969-04:00
+modified: 2026-03-29T21:53:55.969-04:00
+published: 2026-03-29T21:53:55.969-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-4
@@ -17,16 +17,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Constrictor Snake (XMM)
+ac: 13
+hp: 13
+modifier: 2
+hit_dice: 2d10 + 2
+cr: 1/4
+stats:
+  - 15
+  - 14
+  - 12
+  - 1
+  - 10
+  - 3
+source:
+  - XMM
+  - XPHB
 ---
 
 # Constrictor Snake
 
-_Source: Monster Manual (2024) p. 351, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/constrictor-snake.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -35,11 +52,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Constrictor Snake
-![](Mechanics/CLI/bestiary/beast/token/constrictor-snake-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/constrictor-snake-xmm.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 13 (`2d10 + 2`) 
+- **Hit Points** 13 (2d10 + 2) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,8 +65,8 @@ title: Constrictor Snake
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [Blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 1/4
 
@@ -57,7 +74,7 @@ title: Constrictor Snake
 
 ***Bite.*** *Melee Attack Roll:* `+4`, reach 5 ft. *Hit:* 6 (`1d8 + 2`) Piercing damage.
 
-***Constrict.*** *Strength Saving Throw:* DC 12, one Medium or smaller creature the snake can see within 5 feet. *Failure:* 7 (`3d4`) Bludgeoning damage, and the target has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC 12).
+***Constrict.*** *Strength Saving Throw:* DC 12, one Medium or smaller creature the snake can see within 5 feet. *Failure:* 7 (`3d4`) Bludgeoning damage, and the target has the [Grappled](/Mechanics/CLI/conditions.md#Grappled) condition (escape DC 12).
 ```
 
 ^statblock
@@ -65,3 +82,7 @@ title: Constrictor Snake
 ## Environment
 
 desert, forest, swamp, underwater
+
+## Sources
+
+_Monster Manual (2024) p. 351, Player's Handbook (2024) p. 348. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

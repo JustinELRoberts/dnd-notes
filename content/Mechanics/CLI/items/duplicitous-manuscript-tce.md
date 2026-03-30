@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duplicitous Manuscript
-created: 2026-03-09T12:15:34.016-04:00
-modified: 2026-03-09T12:15:34.016-04:00
-published: 2026-03-09T12:15:34.016-04:00
+created: 2026-03-29T21:53:56.025-04:00
+modified: 2026-03-29T21:53:56.025-04:00
+published: 2026-03-29T21:53:56.025-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,17 +19,20 @@ obsidianUIMode: preview
 
 _Wondrous item, spellcasting focus, rare (requires attunement by a wizard)_
 
+- **Cost**: ⏤
 - **Weight**: 3.0 lbs.
 
 To you, this book is a magical spellbook. To anyone else, the book appears to be a volume of verbose romance fiction. As an action, you can change the book's appearance and alter the plot of the romance.
 
-When found, the book contains the following spells: [hallucinatory terrain](Mechanics/CLI/spells/hallucinatory-terrain-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md), [mirror image](Mechanics/CLI/spells/mirror-image-xphb.md), [mislead](Mechanics/CLI/spells/mislead-xphb.md), [Nystul's magic aura](Mechanics/CLI/spells/nystuls-magic-aura-xphb.md), [phantasmal force](Mechanics/CLI/spells/phantasmal-force-xphb.md), and [silent image](Mechanics/CLI/spells/silent-image-xphb.md). It functions as a spellbook for you.
+When found, the book contains the following spells: [hallucinatory terrain](/Mechanics/CLI/spells/hallucinatory-terrain-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md), [mirror image](/Mechanics/CLI/spells/mirror-image-xphb.md), [mislead](/Mechanics/CLI/spells/mislead-xphb.md), [Nystul's magic aura](/Mechanics/CLI/spells/nystuls-magic-aura-xphb.md), [phantasmal force](/Mechanics/CLI/spells/phantasmal-force-xphb.md), and [silent image](/Mechanics/CLI/spells/silent-image-xphb.md). It functions as a spellbook for you.
 
 While you are holding the book, you can use it as a spellcasting focus for your wizard spells.
 
 The book has 3 charges, and it regains `1d3` expended charges daily at dawn. You can use the charges in the following ways while holding it:
 
 - If you spend 1 minute studying the book, you can expend 1 charge to replace one of your prepared wizard spells with a different spell in the book. The new spell must be of the illusion school.
-- When a creature you can see makes an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to discern the true nature of an illusion spell you cast, or makes a saving throw against an illusion spell you cast, you can use your reaction and expend 1 charge to impose disadvantage on the roll.
+- When a creature you can see makes an Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check to discern the true nature of an illusion spell you cast, or makes a saving throw against an illusion spell you cast, you can use your reaction and expend 1 charge to impose disadvantage on the roll.
 
-_Source: Tasha's Cauldron of Everything p. 126_
+## Sources
+
+_Tasha's Cauldron of Everything p. 126_

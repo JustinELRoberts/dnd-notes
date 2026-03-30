@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dao
-created: 2026-03-09T12:15:33.803-04:00
-modified: 2026-03-09T12:15:33.803-04:00
-published: 2026-03-09T12:15:33.803-04:00
+created: 2026-03-29T21:53:55.587-04:00
+modified: 2026-03-29T21:53:55.587-04:00
+published: 2026-03-29T21:53:55.587-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/11
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dao
+ac: 18
+hp: 187
+modifier: 1
+hit_dice: 15d10 + 105
+cr: "11"
+stats:
+  - 23
+  - 12
+  - 24
+  - 12
+  - 13
+  - 14
+source:
+  - MM
 ---
 
 # Dao
 
-_Source: Monster Manual p. 143_\
 ![](Mechanics/CLI/bestiary/elemental/img/dao.webp#right)
-
 Dao are greedy, malicious genies from the Elemental Plane of Earth. They adorn themselves with jewelry crafted from precious gems and rare metals, and when they fly, their lower bodies become columns of swirling sand. A dao isn't happy unless it is the envy of other dao.
 
 ## All That Glitters
@@ -71,11 +86,11 @@ Genies acknowledge the gods as powerful entities but have no desire to court or 
 
 ```ad-statblock
 title: Dao
-![](Mechanics/CLI/bestiary/elemental/token/dao.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/dao.webp#token)
 *Large elemental, Neutral Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 187 (`15d10 + 105`) 
+- **Hit Points** 187 (15d10 + 105) 
 - **Speed** 30 ft., burrow 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -85,9 +100,8 @@ title: Dao
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +5, Wisdom +5, Charisma +6
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
-- **Condition Immunities** [petrified](Mechanics/CLI/rules/conditions.md#Petrified)
-- **Gear** [maul](Mechanics/CLI/items/maul-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Condition Immunities** [petrified](/Mechanics/CLI/conditions.md#Petrified)
 - **Languages** Terran
 - **Challenge** 11
 
@@ -95,17 +109,17 @@ title: Dao
 
 ***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, `+6` to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will:** [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [stone shape](Mechanics/CLI/spells/stone-shape-xphb.md)
+**At will:** [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [stone shape](/Mechanics/CLI/spells/stone-shape-xphb.md)
 
-**3/day each:** [passwall](Mechanics/CLI/spells/passwall-xphb.md), [move earth](Mechanics/CLI/spells/move-earth-xphb.md), [tongues](Mechanics/CLI/spells/tongues-xphb.md)
+**3/day each:** [passwall](/Mechanics/CLI/spells/passwall-xphb.md), [move earth](/Mechanics/CLI/spells/move-earth-xphb.md), [tongues](/Mechanics/CLI/spells/tongues-xphb.md)
 
-**1/day each:** [conjure elemental](Mechanics/CLI/spells/conjure-elemental-xphb.md) ([earth elemental](Mechanics/CLI/bestiary/elemental/earth-elemental.md) only), [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [phantasmal killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [wall of stone](Mechanics/CLI/spells/wall-of-stone-xphb.md)
+**1/day each:** [conjure elemental](/Mechanics/CLI/spells/conjure-elemental-xphb.md) ([earth elemental](/Mechanics/CLI/bestiary/elemental/earth-elemental.md) only), [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [phantasmal killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [wall of stone](/Mechanics/CLI/spells/wall-of-stone-xphb.md)
 
 ***Earth Glide.*** The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.
 
 ***Elemental Demise.*** If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.
 
-***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Actions
 
@@ -113,7 +127,7 @@ title: Dao
 
 ***Fist.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 15 (`2d8 + 6`) bludgeoning damage.
 
-***Maul.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 20 (`4d6 + 6`) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Maul.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 20 (`4d6 + 6`) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -121,3 +135,7 @@ title: Dao
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 143_

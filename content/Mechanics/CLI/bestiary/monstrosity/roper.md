@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Roper
-created: 2026-03-09T12:15:33.849-04:00
-modified: 2026-03-09T12:15:33.849-04:00
-published: 2026-03-09T12:15:33.849-04:00
+created: 2026-03-29T21:53:55.638-04:00
+modified: 2026-03-29T21:53:55.638-04:00
+published: 2026-03-29T21:53:55.638-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Roper
+ac: 20
+hp: 93
+modifier: -1
+hit_dice: 11d10 + 33
+cr: "5"
+stats:
+  - 18
+  - 8
+  - 17
+  - 7
+  - 16
+  - 6
+source:
+  - MM
 ---
 
 # Roper
 
-_Source: Monster Manual p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/roper.webp#right)
-
 Living in caves and caverns throughout the Underdark, voracious ropers feast on whatever they can catch and seize. A roper eats any creature, from Underdark beasts to adventurers and their gear.
 
 A roper has the appearance of a stalagmite or stalactite, which often allows it to attack with surprise. The creature can move slowly using thousands of sticky cilia beneath its base. It creeps up cave walls and along stone ceilings, finding the best position from which to attack.
@@ -39,11 +54,11 @@ A roper has six nubs set along its body, through which it extrudes sticky tendri
 
 ```ad-statblock
 title: Roper
-![](Mechanics/CLI/bestiary/monstrosity/token/roper.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/roper.webp#token)
 *Large monstrosity, Neutral Evil*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 93 (`11d10 + 33`) 
+- **Hit Points** 93 (11d10 + 33) 
 - **Speed** 10 ft., climb 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,8 +67,8 @@ title: Roper
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 16
 - **Languages** —
 - **Challenge** 5
 
@@ -71,9 +86,9 @@ title: Roper
 
 ***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 22 (`4d8 + 4`) piercing damage.
 
-***Tendril.*** *Melee Weapon Attack:* `+7` to hit, reach 50 ft., one creature. *Hit:* The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). Until the grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
+***Tendril.*** *Melee Weapon Attack:* `+7` to hit, reach 50 ft., one creature. *Hit:* The target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15). Until the grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained) and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
 
-***Reel.*** The roper pulls each creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it up to 25 feet straight toward it.
+***Reel.*** The roper pulls each creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by it up to 25 feet straight toward it.
 ```
 
 ^statblock
@@ -81,3 +96,7 @@ title: Roper
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 261. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

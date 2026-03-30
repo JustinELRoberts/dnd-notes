@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Merfolk
-created: 2026-03-09T12:15:33.929-04:00
-modified: 2026-03-09T12:15:33.929-04:00
-published: 2026-03-09T12:15:33.929-04:00
+created: 2026-03-29T21:53:55.932-04:00
+modified: 2026-03-29T21:53:55.932-04:00
+published: 2026-03-29T21:53:55.932-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Merfolk
+ac: 11
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/8
+stats:
+  - 10
+  - 13
+  - 12
+  - 11
+  - 11
+  - 12
+source:
+  - MM
 ---
 
 # Merfolk
 
-_Source: Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/merfolk.webp#right)
-
 Aquatic humanoids with the upper body of a human and the lower body of a fish, merfolk adorn their skin and scales with shell decorations.
 
 Merfolk tribes and kingdoms span the world, and their people are as varied in color, culture, and outlook as the human races of the surface. Land folk and merfolk rarely meet except by chance, though starry-eyed mariners tell tales of romance with these creatures along the shoals of faraway islands.
@@ -38,11 +53,11 @@ Merfolk defend their communities with spears crafted from whatever materials the
 
 ```ad-statblock
 title: Merfolk
-![](Mechanics/CLI/bestiary/humanoid/token/merfolk.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/merfolk.webp#token)
 *Medium humanoid (merfolk), Neutral*
 
 - **Armor Class** 11 
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 10 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,9 +66,8 @@ title: Merfolk
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
 - **Senses** passive Perception 12
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** Aquan, Common
 - **Challenge** 1/8
 
@@ -71,3 +85,7 @@ title: Merfolk
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 218. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

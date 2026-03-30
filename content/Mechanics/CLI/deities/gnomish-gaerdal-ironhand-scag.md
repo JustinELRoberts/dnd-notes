@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gaerdal Ironhand
-created: 2026-03-09T12:15:33.836-04:00
-modified: 2026-03-09T12:15:33.836-04:00
-published: 2026-03-09T12:15:33.836-04:00
+created: 2026-03-29T21:53:55.621-04:00
+modified: 2026-03-29T21:53:55.621-04:00
+published: 2026-03-29T21:53:55.621-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/scag
   - ttrpg-cli/deity/gnomish

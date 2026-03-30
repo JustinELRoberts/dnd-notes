@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Godsworn
-created: 2026-03-09T12:15:34.016-04:00
-modified: 2026-03-09T12:15:34.016-04:00
-published: 2026-03-09T12:15:34.016-04:00
+created: 2026-03-29T21:53:56.025-04:00
+modified: 2026-03-29T21:53:56.025-04:00
+published: 2026-03-29T21:53:56.025-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warden/godsworn
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Godsworn
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,24 +64,28 @@ Your oath of protection grants you the following benefits.
 
 **Cantrips.** You learn two cantrips of your choice from the Cleric spell list. Wisdom is your spellcasting ability for these spells.
 
-**Doctrine.** You gain proficiency in the [Religion](Mechanics/CLI/rules/skills.md#Religion) skill. Additionally, you gain a bonus to checks using this skill equal to your Constitution modifier (minimum bonus of +1).
+**Doctrine.** You gain proficiency in the [Religion](/Mechanics/CLI/skills.md#Religion) skill. Additionally, you gain a bonus to checks using this skill equal to your Constitution modifier (minimum bonus of +1).
 
-**Radiant Resistance.** You gain [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Radiant damage.
+**Radiant Resistance.** You gain [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Radiant damage.
 
 ### Benediction (Level 6)
 
-You can cast any of the following spells once without a spell slot: [Daylight](Mechanics/CLI/spells/daylight-xphb.md), [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [Sanctuary](Mechanics/CLI/spells/sanctuary-xphb.md), and [Zone of Truth](Mechanics/CLI/spells/zone-of-truth-xphb.md). Wisdom is your spellcasting ability for the spells you cast with this feature. Once you cast a spell using this feature, you regain the ability to cast it in this way when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can cast any of the following spells once without a spell slot: [Daylight](/Mechanics/CLI/spells/daylight-xphb.md), [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [Sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md), and [Zone of Truth](/Mechanics/CLI/spells/zone-of-truth-xphb.md). Wisdom is your spellcasting ability for the spells you cast with this feature. Once you cast a spell using this feature, you regain the ability to cast it in this way when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Selfless Survival (Level 10)
 
-When a creature you can see within 30 feet of yourself is reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and not killed outright, you can expend the use of your Survive to prevent its demise.
+When a creature you can see within 30 feet of yourself is reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) and not killed outright, you can expend the use of your Survive to prevent its demise.
 
-The creature drops to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead and regains a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to twice your Warden level.
+The creature drops to 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead and regains a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to twice your Warden level.
 
 ### Sainted Mantle (Level 17)
 
-You can wreathe yourself in divine protection. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can wreathe yourself in divine protection. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Radiant Regeneration.** At the start of each of your turns, you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to half your Warden level plus your Constitution modifier.
+**Radiant Regeneration.** At the start of each of your turns, you regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to half your Warden level plus your Constitution modifier.
 
-**Spirit Guardians.** As a part of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast [Spirit Guardians](Mechanics/CLI/spells/spirit-guardians-xphb.md) without a spell slot. When you cast it in this way, its duration is 1 minute and doesn't require [Concentration](Mechanics/CLI/rules/conditions.md#Concentration).
+**Spirit Guardians.** As a part of the [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast [Spirit Guardians](/Mechanics/CLI/spells/spirit-guardians-xphb.md) without a spell slot. When you cast it in this way, its duration is 1 minute and doesn't require [Concentration](/Mechanics/CLI/conditions.md#Concentration).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Scout
-created: 2026-03-09T12:15:33.901-04:00
-modified: 2026-03-09T12:15:33.901-04:00
-published: 2026-03-09T12:15:33.901-04:00
+created: 2026-03-29T21:53:55.899-04:00
+modified: 2026-03-29T21:53:55.899-04:00
+published: 2026-03-29T21:53:55.899-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -22,22 +22,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Scout
+ac: 13
+hp: 16
+modifier: 2
+hit_dice: 3d8 + 3
+cr: 1/2
+stats:
+  - 11
+  - 14
+  - 12
+  - 11
+  - 13
+  - 11
+source:
+  - MM
 ---
 
 # Scout
 
-_Source: Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/scout.webp#right)
-
 Scouts are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance.
 
 ```ad-statblock
 title: Scout
-![](Mechanics/CLI/bestiary/humanoid/token/scout.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/scout.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 13 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 16 (`3d8 + 3`) 
+- **Armor Class** 13 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 16 (3d8 + 3) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,15 +61,14 @@ title: Scout
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Nature](Mechanics/CLI/rules/skills.md#Nature) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6, [Survival](Mechanics/CLI/rules/skills.md#Survival) +5
+- **Skills** [Nature](/Mechanics/CLI/skills.md#Nature) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6, [Survival](/Mechanics/CLI/skills.md#Survival) +5
 - **Senses** passive Perception 15
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 1/2
 
 ## Traits
 
-***Keen Hearing and Sight.*** The scout has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing or sight.
+***Keen Hearing and Sight.*** The scout has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or sight.
 
 ## Actions
 
@@ -70,3 +84,7 @@ title: Scout
 ## Environment
 
 coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert
+
+## Sources
+
+_Monster Manual p. 349. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

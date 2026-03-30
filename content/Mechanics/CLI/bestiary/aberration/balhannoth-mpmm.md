@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Balhannoth
-created: 2026-03-09T12:15:33.786-04:00
-modified: 2026-03-09T12:15:33.786-04:00
-published: 2026-03-09T12:15:33.786-04:00
+created: 2026-03-29T21:53:55.563-04:00
+modified: 2026-03-29T21:53:55.563-04:00
+published: 2026-03-29T21:53:55.563-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/11
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Balhannoth (MPMM)
+ac: 17
+hp: 114
+modifier: -1
+hit_dice: 12d10 + 48
+cr: "11"
+stats:
+  - 17
+  - 8
+  - 18
+  - 6
+  - 15
+  - 8
+source:
+  - MPMM
 ---
 
 # Balhannoth
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 55_\
 ![](Mechanics/CLI/bestiary/aberration/img/balhannoth.webp#right)
-
 Native to the Shadowfell, the vicious, predatory balhannoth alters reality in its lair to make the place appear inviting to travelers. A limited form of telepathy enables a balhannoth to identify images of places where its prey expects their needs and desires to be met, such as an inn or a temple offering healing. It then warps reality around itself, hiding itself and remaking its environment to resemble such a place. The imitation is imperfect, but it's good enough to fool greedy or desperate creatures. Once its prey enters the trap, it snatches the targets and teleports away to feed on their fear and despair.
 
 Dungeon builders and Underdark tyrants sometimes venture into the Shadowfell to capture balhannoths for use as guardians.
@@ -35,11 +50,11 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
 
 ```ad-statblock
 title: Balhannoth
-![](Mechanics/CLI/bestiary/aberration/token/balhannoth-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/balhannoth-mpmm.webp#token)
 *Large aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 114 (`12d10 + 48`) 
+- **Hit Points** 114 (12d10 + 48) 
 - **Speed** 25 ft., climb 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,9 +63,9 @@ title: Balhannoth
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +8
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 500 ft. (blind beyond this radius), passive Perception 16
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 500 ft. (blind beyond this radius), passive Perception 16
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded)
 - **Languages** understands Deep Speech, telepathy 1 mile
 - **Challenge** 11
 
@@ -64,24 +79,24 @@ title: Balhannoth
 
 ***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 19 (`3d10 + 3`) piercing damage.
 
-***Tentacle.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
+***Tentacle.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15) and is moved up to 5 feet toward the balhannoth. Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the balhannoth can't use this tentacle against other targets. The balhannoth has four tentacles.
 
 ## Legendary Actions
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the balhannoth can expend a use to take one of the following actions. The balhannoth regains all expended uses at the start of each of its turns.
 
-***Bite.*** The balhannoth makes one Bite attack against one creature it has [grappled](Mechanics/CLI/rules/conditions.md#Grappled).
+***Bite.*** The balhannoth makes one Bite attack against one creature it has [grappled](/Mechanics/CLI/conditions.md#Grappled).
 
-***Teleport.*** The balhannoth teleports, along with any equipment it is wearing or carrying and any creatures it has [grappled](Mechanics/CLI/rules/conditions.md#Grappled), up to 60 feet to an unoccupied space it can see.
+***Teleport.*** The balhannoth teleports, along with any equipment it is wearing or carrying and any creatures it has [grappled](/Mechanics/CLI/conditions.md#Grappled), up to 60 feet to an unoccupied space it can see.
 
-***Vanish.*** The balhannoth magically becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 10 minutes or until immediately after it makes an attack roll.
+***Vanish.*** The balhannoth magically becomes [invisible](/Mechanics/CLI/conditions.md#Invisible) for up to 10 minutes or until immediately after it makes an attack roll.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), a balhannoth can take one of the following lair actions; the balhannoth can't take the same lair action two rounds in a row:
 
 - **Teleport.** The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw, or the target, along with whatever it is wearing and carrying, teleports to an unoccupied space of the balhannoth's choice within 60 feet of it.  
-- **Vanish.** The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw, or the balhannoth becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible) to that creature for 1 minute. This effect ends if the balhannoth attacks the target.  
+- **Vanish.** The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw, or the balhannoth becomes [invisible](/Mechanics/CLI/conditions.md#Invisible) to that creature for 1 minute. This effect ends if the balhannoth attacks the target.  
 - **Warp Terrain.** The balhannoth warps reality around it in an area up to 500 feet square. After 10 minutes, the terrain in the area reshapes to assume the appearance of a location sought by one Humanoid whose desires the balhannoth has sensed (see Regional Effects below). The transformation affects nonliving material only and can't create anything with moving parts or magical properties. Any object created in this area is, upon close inspection, revealed as a fake. Books are filled with empty pages, golden items are obvious counterfeits, and so on. The transformation lasts until the balhannoth dies or takes this lair action again.  
 
 ## Regional Effects
@@ -99,3 +114,7 @@ If the balhannoth dies, these effects end immediately.
 ## Environment
 
 coastal, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 55_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Drow Elite Warrior
-created: 2026-03-09T12:15:33.856-04:00
-modified: 2026-03-09T12:15:33.856-04:00
-published: 2026-03-09T12:15:33.856-04:00
+created: 2026-03-29T21:53:55.646-04:00
+modified: 2026-03-29T21:53:55.646-04:00
+published: 2026-03-29T21:53:55.646-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Drow Elite Warrior
+ac: 18
+hp: 71
+modifier: 4
+hit_dice: 11d8 + 22
+cr: "5"
+stats:
+  - 13
+  - 18
+  - 14
+  - 11
+  - 13
+  - 12
+source:
+  - MM
 ---
 
 # Drow Elite Warrior
 
-_Source: Monster Manual p. 128_\
 ![Drow](Mechanics/CLI/bestiary/humanoid/img/drow.webp#right)
 
 ## Drow
@@ -59,7 +75,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](/Mechanics/CLI/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 >
@@ -76,11 +92,11 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 
 ```ad-statblock
 title: Drow Elite Warrior
-![](Mechanics/CLI/bestiary/humanoid/token/drow-elite-warrior.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/drow-elite-warrior.webp#token)
 *Medium humanoid (Drow elf), Neutral Evil*
 
-- **Armor Class** 18 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 71 (`11d8 + 22`) 
+- **Armor Class** 18 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 71 (11d8 + 22) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -89,9 +105,8 @@ title: Drow Elite Warrior
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +7, Constitution +5, Wisdom +4
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +10
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 14
-- **Gear** [hand crossbow](Mechanics/CLI/items/hand-crossbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Languages** Elvish, Undercommon
 - **Challenge** 5
 
@@ -99,13 +114,13 @@ title: Drow Elite Warrior
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md)
 
-**1/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md) (self only)
+**1/day each:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md) (self only)
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put the drow to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -113,7 +128,7 @@ title: Drow Elite Warrior
 
 ***Shortsword.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage plus 10 (`3d6`) poison damage.
 
-***Hand Crossbow.*** *Ranged Weapon Attack:* `+7` to hit, range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+***Hand Crossbow.*** *Ranged Weapon Attack:* `+7` to hit, range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/Mechanics/CLI/conditions.md#Unconscious) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
 
 ## Reactions
 
@@ -125,3 +140,7 @@ title: Drow Elite Warrior
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 128_

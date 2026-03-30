@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bag of Devouring
-created: 2026-03-09T12:15:33.906-04:00
-modified: 2026-03-09T12:15:33.906-04:00
-published: 2026-03-09T12:15:33.906-04:00
+created: 2026-03-29T21:53:55.905-04:00
+modified: 2026-03-29T21:53:55.905-04:00
+published: 2026-03-29T21:53:55.905-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/very-rare
@@ -19,9 +19,10 @@ obsidianUIMode: preview
 _Wondrous item, minor, very rare_\
 ![](Mechanics/CLI/items/img/bag-of-devouring.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 15.0 lbs.
 
-This bag superficially resembles a [bag of holding](Mechanics/CLI/items/bag-of-holding.md) but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
+This bag superficially resembles a [bag of holding](/Mechanics/CLI/items/bag-of-holding.md) but is a feeding orifice for a gigantic extradimensional creature. Turning the bag inside out closes the orifice.
 
 The extradimensional creature attached to the bag can sense whatever is placed inside the bag. Animal or vegetable matter placed wholly in the bag is devoured and lost forever. When part of a living creature is placed in the bag, as happens when someone reaches inside it, there is a 50 percent chance that the creature is pulled inside the bag. A creature inside the bag can use its action to try to escape with a successful DC 15 Strength check. Another creature can use its action to reach into the bag to pull a creature out, doing so with a successful DC 20 Strength check (provided it isn't pulled inside the bag first). Any creature that starts its turn inside the bag is devoured, its body destroyed.
 
@@ -29,4 +30,6 @@ Inanimate objects can be stored in the bag, which can hold a cubic foot of such 
 
 If the bag is pierced or torn, it is destroyed, and anything contained within it is transported to a random location on the Astral Plane.
 
-_Source: Dungeon Master's Guide p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 153. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

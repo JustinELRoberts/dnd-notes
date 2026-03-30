@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Corpse Florist
-created: 2026-03-09T12:15:33.822-04:00
-modified: 2026-03-09T12:15:33.822-04:00
-published: 2026-03-09T12:15:33.822-04:00
+created: 2026-03-29T21:53:55.610-04:00
+modified: 2026-03-29T21:53:55.610-04:00
+published: 2026-03-29T21:53:55.610-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/necromancer/corpse-florist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Corpse Florist
 
-_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,27 +64,27 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 | Necromancer Level | Spells |
 |-------------------|--------|
-| 3 | [Barkskin](Mechanics/CLI/spells/barkskin-xphb.md), [False Life](Mechanics/CLI/spells/false-life-xphb.md), [Goodberry](Mechanics/CLI/spells/goodberry-xphb.md), [Spike Growth](Mechanics/CLI/spells/spike-growth-xphb.md) |
-| 5 | [Plant Growth](Mechanics/CLI/spells/plant-growth-xphb.md), [Speak with Plants](Mechanics/CLI/spells/speak-with-plants-xphb.md) |
-| 7 | [Blight](Mechanics/CLI/spells/blight-xphb.md), [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 9 | [Reincarnate](Mechanics/CLI/spells/reincarnate-xphb.md), [Tree Stride](Mechanics/CLI/spells/tree-stride-xphb.md) |
+| 3 | [Barkskin](/Mechanics/CLI/spells/barkskin-xphb.md), [False Life](/Mechanics/CLI/spells/false-life-xphb.md), [Goodberry](/Mechanics/CLI/spells/goodberry-xphb.md), [Spike Growth](/Mechanics/CLI/spells/spike-growth-xphb.md) |
+| 5 | [Plant Growth](/Mechanics/CLI/spells/plant-growth-xphb.md), [Speak with Plants](/Mechanics/CLI/spells/speak-with-plants-xphb.md) |
+| 7 | [Blight](/Mechanics/CLI/spells/blight-xphb.md), [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
+| 9 | [Reincarnate](/Mechanics/CLI/spells/reincarnate-xphb.md), [Tree Stride](/Mechanics/CLI/spells/tree-stride-xphb.md) |
 ^corpse-florist-spells
 
 ### Garden of the Grave (Level 3)
 
-When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can choose to plant corpse flowers in any of your thralls, causing each such thrall to have the following benefits.
+When you perform your [Animate Thralls](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can choose to plant corpse flowers in any of your thralls, causing each such thrall to have the following benefits.
 
 **Plant.** The thrall is a Plant instead of an Undead, but counts as Undead for the purpose of your Necromancer features.
 
-**Necrosynthesis.** Whenever you take a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), the thrall takes root in the ground and regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `1d8` plus your Intelligence modifier.
+**Necrosynthesis.** Whenever you take a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), the thrall takes root in the ground and regains [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `1d8` plus your Intelligence modifier.
 
 ### Charnel Entangle (Level 3)
 
-When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target must succeed on a Strength saving throw against your spell save DC or have the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition until the end of your next turn as weeds and brambles grasp at it.
+When you deal 5 or more damage with [Charnel Touch](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), the target must succeed on a Strength saving throw against your spell save DC or have the [Restrained](/Mechanics/CLI/conditions.md#Restrained) condition until the end of your next turn as weeds and brambles grasp at it.
 
 ### Rotten Seed (Level 6)
 
-You can plant your budding corpse flowers in the living as well as the dead. You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to toss a seed at an enemy that you can see within 15 feet of you, which makes a Dexterity saving throw. On a failed save, a corpse flower seedling sprouts and burrows into the creature's flesh. At the start of each of the creature's turns, it takes `1d8` Necrotic damage and you gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to the Necrotic damage dealt.
+You can plant your budding corpse flowers in the living as well as the dead. You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to toss a seed at an enemy that you can see within 15 feet of you, which makes a Dexterity saving throw. On a failed save, a corpse flower seedling sprouts and burrows into the creature's flesh. At the start of each of the creature's turns, it takes `1d8` Necrotic damage and you gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to the Necrotic damage dealt.
 
 The seedling withers and dies after 1 minute, when the target dies, or when you use this feature again.
 
@@ -93,14 +92,18 @@ The damage of this feature changes when you reach level 11 (`1d10`) and 17 (`1d1
 
 ### Death in Bloom (Level 10)
 
-Once on each of your turns when a Medium or Small creature under the effect of your Rotten Seed dies, you can animate that creature's corpse as a [Skeleton](Mechanics/CLI/bestiary/undead/skeleton-valdaspire24.md), [Spirit](Mechanics/CLI/bestiary/undead/spirit-valdaspire24.md), or [Zombie](Mechanics/CLI/bestiary/undead/zombie-valdaspire24.md) (your choice) under your control. This Undead counts as one of your thralls and gains the benefit of your Garden of the Grave.
+Once on each of your turns when a Medium or Small creature under the effect of your Rotten Seed dies, you can animate that creature's corpse as a [Skeleton](/Mechanics/CLI/bestiary/undead/skeleton-valdaspire24.md), [Spirit](/Mechanics/CLI/bestiary/undead/spirit-valdaspire24.md), or [Zombie](/Mechanics/CLI/bestiary/undead/zombie-valdaspire24.md) (your choice) under your control. This Undead counts as one of your thralls and gains the benefit of your Garden of the Grave.
 
 ### Botanical Lich \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your body becomes a fertile garden of flowers that bloom from every inch of your skin, and exotic flowers bloom in your wake. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. Your body becomes a fertile garden of flowers that bloom from every inch of your skin, and exotic flowers bloom in your wake. You gain the following benefits in addition to those of your [Lichdom](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
-**Spirit Flowers.** Your spirit jar is a set of thirteen immortal flowers of different types located in places important to you. Each one has a specific weakness, which you must discuss with your GM. When you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you reform in the soil at your nearest spirit flower.
+**Spirit Flowers.** Your spirit jar is a set of thirteen immortal flowers of different types located in places important to you. Each one has a specific weakness, which you must discuss with your GM. When you drop to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), you reform in the soil at your nearest spirit flower.
 
-**Petal Stride.** Flowers sprout from the ground in a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You can use a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your turn to step into a flower and teleport to any other flower you can see within 30 feet of you. When you do so, you can choose any number of friendly Plants within 30 feet of you and cause them to teleport to flowers you can see within range.
+**Petal Stride.** Flowers sprout from the ground in a 30-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You can use a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your turn to step into a flower and teleport to any other flower you can see within 30 feet of you. When you do so, you can choose any number of friendly Plants within 30 feet of you and cause them to teleport to flowers you can see within range.
 
-**Regeneration.** At the start of each of your turns, you regain 10 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). You don't gain this benefit if you have 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or you are in [Darkness](Mechanics/CLI/rules/variant-rules/darkness-xphb.md).
+**Regeneration.** At the start of each of your turns, you regain 10 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). You don't gain this benefit if you have 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or you are in [Darkness](/Mechanics/CLI/variant-rules/darkness-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

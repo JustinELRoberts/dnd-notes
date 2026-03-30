@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dragon Turtle
-created: 2026-03-09T12:15:33.990-04:00
-modified: 2026-03-09T12:15:33.990-04:00
-published: 2026-03-09T12:15:33.990-04:00
+created: 2026-03-29T21:53:55.997-04:00
+modified: 2026-03-29T21:53:55.997-04:00
+published: 2026-03-29T21:53:55.997-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/17
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dragon Turtle
+ac: 20
+hp: 341
+modifier: 0
+hit_dice: 22d20 + 110
+cr: "17"
+stats:
+  - 25
+  - 10
+  - 20
+  - 10
+  - 12
+  - 12
+source:
+  - MM
 ---
 
 # Dragon Turtle
 
-_Source: Monster Manual p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/dragon-turtle.webp#right)
-
 Dragon turtles are among the most fearsome creatures of the oceans. As large and voracious as the oldest of its land-based dragon kin, a dragon turtle strikes with its deadly jaws, steaming breath, and crushing tail.
 
 A dragon turtle's rough shell is the same dark green color as the deep water where this monster dwells. Silver highlights lining the shell resemble light dancing on open water, and a surfacing dragon turtle is sometimes mistaken for the reflection of the sun or moon on the waves.
@@ -44,11 +59,11 @@ Dragon turtles sometimes find their way through sunken planar rifts to the Eleme
 
 ```ad-statblock
 title: Dragon Turtle
-![](Mechanics/CLI/bestiary/dragon/token/dragon-turtle.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/dragon-turtle.webp#token)
 *Gargantuan dragon, Neutral*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 341 (`22d20 + 110`) 
+- **Hit Points** 341 (22d20 + 110) 
 - **Speed** 20 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,7 +73,7 @@ title: Dragon Turtle
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Constitution +11, Wisdom +7
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Resistances** fire
 - **Languages** Aquan, Draconic
 - **Challenge** 17
@@ -75,7 +90,7 @@ title: Dragon Turtle
 
 ***Claw.*** *Melee Weapon Attack:* `+13` to hit, reach 10 ft., one target. *Hit:* 16 (`2d8 + 7`) slashing damage.
 
-***Tail.*** *Melee Weapon Attack:* `+13` to hit, reach 15 ft., one target. *Hit:* 26 (`3d12 + 7`) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Tail.*** *Melee Weapon Attack:* `+13` to hit, reach 15 ft., one target. *Hit:* 26 (`3d12 + 7`) bludgeoning damage. If the target is a creature, it must succeed on a DC 20 Strength saving throw or be pushed up to 10 feet away from the dragon turtle and knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Steam Breath (Recharge 5-6).*** The dragon turtle exhales scalding steam in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 52 (`15d6`) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn't grant resistance against this damage.
 ```
@@ -85,3 +100,7 @@ title: Dragon Turtle
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

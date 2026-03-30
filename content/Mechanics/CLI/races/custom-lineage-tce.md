@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Custom Lineage
-created: 2026-03-09T12:15:33.834-04:00
-modified: 2026-03-09T12:15:33.834-04:00
-published: 2026-03-09T12:15:33.834-04:00
+created: 2026-03-29T21:53:55.620-04:00
+modified: 2026-03-29T21:53:55.620-04:00
+published: 2026-03-29T21:53:55.620-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/race/custom-lineage
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Custom Lineage
-
-_Source: Tasha's Cauldron of Everything p. 8_
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma.
 - **Size**: Small or Medium
@@ -39,10 +37,14 @@ You gain one feat of your choice for which you qualify.
 
 ### Variable Trait
 
-You gain one of the following options of your choice: (a) [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet or (b) proficiency in one skill of your choice.
+You gain one of the following options of your choice: (a) [darkvision](/Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet or (b) proficiency in one skill of your choice.
 
 ### Languages
 
 You can speak, read, and write Common and one other language that you and your DM agree is appropriate for your character.
 
 Your race is considered to be a Custom Lineage for any game feature that requires a certain race, such as elf or dwarf.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 8_

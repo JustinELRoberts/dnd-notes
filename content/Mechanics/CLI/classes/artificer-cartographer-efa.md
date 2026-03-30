@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cartographer
-created: 2026-03-09T12:15:33.949-04:00
-modified: 2026-03-09T12:15:33.949-04:00
-published: 2026-03-09T12:15:33.949-04:00
+created: 2026-03-29T21:53:55.951-04:00
+modified: 2026-03-29T21:53:55.951-04:00
+published: 2026-03-29T21:53:55.951-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/subclass/artificer/cartographer
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Cartographer
 
-_[Artificer](./artificer-efa.md): Artificer Subclass_\
-_Source: Eberron: Forge of the Artificer p. 20_
+_[Artificer](./artificer-efa.md): Artificer Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -61,7 +60,7 @@ Cartographers are the premier navigators and reconnaissance agents. Using their 
 
 You gain the following benefits.
 
-**Tool Proficiency.** You gain proficiency with [Calligrapher's Supplies](Mechanics/CLI/items/calligraphers-supplies-xphb.md) and [Cartographer's Tools](Mechanics/CLI/items/cartographers-tools-xphb.md). If you already have one of these proficiencies, you gain proficiency with one other type of [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) of your choice (or with two other types if you have both).
+**Tool Proficiency.** You gain proficiency with [Calligrapher's Supplies](/Mechanics/CLI/items/calligraphers-supplies-xphb.md) and [Cartographer's Tools](/Mechanics/CLI/items/cartographers-tools-xphb.md). If you already have one of these proficiencies, you gain proficiency with one other type of [Artisan's Tools](/Mechanics/CLI/items/artisans-tools-xphb.md) of your choice (or with two other types if you have both).
 
 **Scroll Crafting.** When you scribe a Spell Scroll using the crafting rules in the "Player's Handbook", the amount of time required to craft it is halved.
 
@@ -73,20 +72,20 @@ When you reach an Artificer level specified in the Cartographer Spells table, yo
 
 | Artificer Level | Spells |
 |-----------------|--------|
-| 3 | [Faerie Fire](Mechanics/CLI/spells/faerie-fire-xphb.md), [Guiding Bolt](Mechanics/CLI/spells/guiding-bolt-xphb.md), [Healing Word](Mechanics/CLI/spells/healing-word-xphb.md) |
-| 5 | [Locate Object](Mechanics/CLI/spells/locate-object-xphb.md), [Mind Spike](Mechanics/CLI/spells/mind-spike-xphb.md) |
-| 9 | [Call Lightning](Mechanics/CLI/spells/call-lightning-xphb.md), [Clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md) |
-| 13 | [Banishment](Mechanics/CLI/spells/banishment-xphb.md), [Locate Creature](Mechanics/CLI/spells/locate-creature-xphb.md) |
-| 17 | [Scrying](Mechanics/CLI/spells/scrying-xphb.md), [Teleportation Circle](Mechanics/CLI/spells/teleportation-circle-xphb.md) |
+| 3 | [Faerie Fire](/Mechanics/CLI/spells/faerie-fire-xphb.md), [Guiding Bolt](/Mechanics/CLI/spells/guiding-bolt-xphb.md), [Healing Word](/Mechanics/CLI/spells/healing-word-xphb.md) |
+| 5 | [Locate Object](/Mechanics/CLI/spells/locate-object-xphb.md), [Mind Spike](/Mechanics/CLI/spells/mind-spike-xphb.md) |
+| 9 | [Call Lightning](/Mechanics/CLI/spells/call-lightning-xphb.md), [Clairvoyance](/Mechanics/CLI/spells/clairvoyance-xphb.md) |
+| 13 | [Banishment](/Mechanics/CLI/spells/banishment-xphb.md), [Locate Creature](/Mechanics/CLI/spells/locate-creature-xphb.md) |
+| 17 | [Scrying](/Mechanics/CLI/spells/scrying-xphb.md), [Teleportation Circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md) |
 ^cartographer-spells
 
 ### Adventurer's Atlas (Level 3)
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) while holding [Cartographer's Tools](Mechanics/CLI/items/cartographers-tools-xphb.md), you can use that tool to create a set of magical maps by touching at least two creatures (one of whom can be yourself), up to a maximum number of creatures equal to 1 plus your Intelligence modifier (minimum of two creatures). Each target receives a magical map, which constantly updates to show the relative position of all the map holders but is illegible to all others. The maps last until you die or until you use this feature again, at which point any existing maps created by this feature immediately vanish.
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) while holding [Cartographer's Tools](/Mechanics/CLI/items/cartographers-tools-xphb.md), you can use that tool to create a set of magical maps by touching at least two creatures (one of whom can be yourself), up to a maximum number of creatures equal to 1 plus your Intelligence modifier (minimum of two creatures). Each target receives a magical map, which constantly updates to show the relative position of all the map holders but is illegible to all others. The maps last until you die or until you use this feature again, at which point any existing maps created by this feature immediately vanish.
 
 While carrying the map, a target gains the following benefits.
 
-**Awareness.** The target adds `1d4` to its [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls.
+**Awareness.** The target adds `1d4` to its [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls.
 
 **Positioning.** The target knows the location of all other map holders that are on the same plane of existence as itself. When casting a spell or creating another effect that requires being able to see the effect's target, a map holder can target another map holder regardless of sight or cover, so long as the other map holder is still within the effect's range.
 
@@ -94,24 +93,28 @@ While carrying the map, a target gains the following benefits.
 
 You gain the following benefits.
 
-**Illuminated Cartography.** You can cast [Faerie Fire](Mechanics/CLI/spells/faerie-fire-xphb.md) without expending a spell slot, outlining the affected creatures as if in ink. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Illuminated Cartography.** You can cast [Faerie Fire](/Mechanics/CLI/spells/faerie-fire-xphb.md) without expending a spell slot, outlining the affected creatures as if in ink. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Portal Jump.** On your turn, you can spend an amount of movement equal to half your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) (round down) to teleport to an unoccupied space you can see within 10 feet of yourself or within 5 feet of a creature that is within 30 feet of you and holding one of your Adventurer's Atlas maps. You can't use this benefit if your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0.
+**Portal Jump.** On your turn, you can spend an amount of movement equal to half your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) (round down) to teleport to an unoccupied space you can see within 10 feet of yourself or within 5 feet of a creature that is within 30 feet of you and holding one of your Adventurer's Atlas maps. You can't use this benefit if your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is 0.
 
 ### Guided Precision (Level 5)
 
-Once per turn, whenever you cast a spell from your Cartographer Spells list or hit a creature affected by your [Faerie Fire](Mechanics/CLI/spells/faerie-fire-xphb.md) with an attack roll, you can add your Intelligence modifier to one damage roll of the spell or attack.
+Once per turn, whenever you cast a spell from your Cartographer Spells list or hit a creature affected by your [Faerie Fire](/Mechanics/CLI/spells/faerie-fire-xphb.md) with an attack roll, you can add your Intelligence modifier to one damage roll of the spell or attack.
 
-In addition, taking damage can't cause you to lose [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) on [Faerie Fire](Mechanics/CLI/spells/faerie-fire-xphb.md).
+In addition, taking damage can't cause you to lose [Concentration](/Mechanics/CLI/conditions.md#Concentration) on [Faerie Fire](/Mechanics/CLI/spells/faerie-fire-xphb.md).
 
 ### Ingenious Movement (Level 9)
 
-When you use your [Flash of Genius](Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20\(Level%207\)), you or a willing creature of your choice that you can see within 30 feet of yourself can teleport up to 30 feet to an unoccupied space you can see as part of that same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+When you use your [Flash of Genius](/Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20\(Level%207\)), you or a willing creature of your choice that you can see within 30 feet of yourself can teleport up to 30 feet to an unoccupied space you can see as part of that same [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
 ### Superior Atlas (Level 15)
 
 Your Adventurer's Atlas improves, gaining the following benefits.
 
-**Safe Haven.** When a map holder would be reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) but not killed outright, that creature can destroy its map. The creature's [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead change to a number equal to twice your Artificer level, and the creature is teleported to an unoccupied space within 5 feet of you or another map holder of its choice.
+**Safe Haven.** When a map holder would be reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) but not killed outright, that creature can destroy its map. The creature's [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead change to a number equal to twice your Artificer level, and the creature is teleported to an unoccupied space within 5 feet of you or another map holder of its choice.
 
-**Unerring Path.** If you are one of the map holders for your Adventurer's Atlas, you can cast [Find the Path](Mechanics/CLI/spells/find-the-path-xphb.md) without expending a spell slot, without preparing the spell, and without needing spell components. Once you use this benefit, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Unerring Path.** If you are one of the map holders for your Adventurer's Atlas, you can cast [Find the Path](/Mechanics/CLI/spells/find-the-path-xphb.md) without expending a spell slot, without preparing the spell, and without needing spell components. Once you use this benefit, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 20_

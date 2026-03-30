@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cloud Giant Smiling One
-created: 2026-03-09T12:15:33.993-04:00
-modified: 2026-03-09T12:15:33.993-04:00
-published: 2026-03-09T12:15:33.993-04:00
+created: 2026-03-29T21:53:56.003-04:00
+modified: 2026-03-29T21:53:56.003-04:00
+published: 2026-03-29T21:53:56.003-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/11
@@ -14,24 +14,40 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cloud Giant Smiling One (MPMM)
+ac: 15
+hp: 250
+modifier: 1
+hit_dice: 20d12 + 120
+cr: "11"
+stats:
+  - 26
+  - 12
+  - 22
+  - 15
+  - 16
+  - 17
+source:
+  - MPMM
+  - VGM
 ---
 
 # Cloud Giant Smiling One
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146_\
 ![](Mechanics/CLI/bestiary/giant/img/cloud-giant-smiling-one.webp#right)
-
 Smiling ones are cloud giants who honor and emulate the craftiness and deceit of the deity Memnor above all else. They are tricksters supreme who use sleight of hand, deception, misdirection, and magic in their pursuit of wealth. They also possess a flair for unpredictability and a wicked sense of humor. Smiling ones overstep all bounds of decorum with their behavior, doing and saying things that even other knavish folk consider beneath their dignity.
 
 Smiling ones take their name from the strange two-faced masks they wear. The smiling half of the face often looks more like a smirk or a triumphant sneer than a pleasant grin. The frowning half represents the displeasure smiling ones feel about cloud giants' place in the ordning—second to storm giants. The masks serve as symbols of smiling ones' devotion and also conceal their wearers' true facial expressions.
 
 ```ad-statblock
 title: Cloud Giant Smiling One
-![](Mechanics/CLI/bestiary/giant/token/cloud-giant-smiling-one-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/cloud-giant-smiling-one-mpmm.webp#token)
 *Huge giant, Typically  Chaotic Neutral*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 250 (`20d12 + 120`) 
+- **Hit Points** 250 (20d12 + 120) 
 - **Speed** 40 ft., fly 40 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,14 +56,14 @@ title: Cloud Giant Smiling One
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +10, Intelligence +6, Charisma +7
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +11, [Insight](Mechanics/CLI/rules/skills.md#Insight) +7, [Perception](Mechanics/CLI/rules/skills.md#Perception) +11, [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) +9
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +11, [Insight](/Mechanics/CLI/skills.md#Insight) +7, [Perception](/Mechanics/CLI/skills.md#Perception) +11, [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand) +9
 - **Senses** passive Perception 21
 - **Languages** Common, Giant
 - **Challenge** 11
 
 ## Traits
 
-***Control Weather (8th-level Spell).*** The giant can cast the [control weather](Mechanics/CLI/spells/control-weather-xphb.md) spell, requiring no material components and using Charisma as the spellcasting ability.
+***Control Weather (8th-level Spell).*** The giant can cast the [control weather](/Mechanics/CLI/spells/control-weather-xphb.md) spell, requiring no material components and using Charisma as the spellcasting ability.
 
 ## Actions
 
@@ -61,11 +77,11 @@ title: Cloud Giant Smiling One
 
 ***Spellcasting.*** The giant casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 15):
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md), [light](/Mechanics/CLI/spells/light-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 
-**3/day each:** [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [silent image](Mechanics/CLI/spells/silent-image-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md), [tongues](Mechanics/CLI/spells/tongues-xphb.md)
+**3/day each:** [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [silent image](/Mechanics/CLI/spells/silent-image-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md), [tongues](/Mechanics/CLI/spells/tongues-xphb.md)
 
-**1/day each:** [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md)
+**1/day each:** [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md)
 
 ## Bonus Actions
 
@@ -77,3 +93,7 @@ title: Cloud Giant Smiling One
 ## Environment
 
 mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 81, Volo's Guide to Monsters p. 146_

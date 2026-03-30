@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Twinned Spell
-created: 2026-03-09T12:15:33.840-04:00
-modified: 2026-03-09T12:15:33.840-04:00
-published: 2026-03-09T12:15:33.840-04:00
+created: 2026-03-29T21:53:55.625-04:00
+modified: 2026-03-29T21:53:55.625-04:00
+published: 2026-03-29T21:53:55.625-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/mm
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Twinned Spell
 
-When you cast a spell, such as [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+When you cast a spell, such as [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md), that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
 
 ## Sources
 

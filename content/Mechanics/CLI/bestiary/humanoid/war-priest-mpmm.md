@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - War Priest
-created: 2026-03-09T12:15:33.982-04:00
-modified: 2026-03-09T12:15:33.982-04:00
-published: 2026-03-09T12:15:33.982-04:00
+created: 2026-03-29T21:53:55.987-04:00
+modified: 2026-03-29T21:53:55.987-04:00
+published: 2026-03-29T21:53:55.987-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -15,14 +15,30 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: War Priest (MPMM)
+ac: 18
+hp: 117
+modifier: 0
+hit_dice: 18d8 + 36
+cr: "9"
+stats:
+  - 16
+  - 10
+  - 14
+  - 11
+  - 17
+  - 13
+source:
+  - MPMM
+  - VGM
 ---
 
 # War Priest
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218_\
 ![](Mechanics/CLI/bestiary/humanoid/img/war-priest.webp#right)
-
-War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [warlord](Mechanics/CLI/bestiary/humanoid/warlord-mpmm.md) (appears in "this book") on the battlefield.
+War priests worship deities of war, protection, and strategy. They plan tactics, lead soldiers into battle, confront enemy spellcasters, and tend to casualties. A war priest might command an army or serve as the right hand of a [warlord](/Mechanics/CLI/bestiary/humanoid/warlord-mpmm.md) (appears in "this book") on the battlefield.
 
 War priests typically adorn themselves with a symbol of their faith. You can roll on the War Priest Holy Symbols table below, or choose one that fits your campaign.
 
@@ -33,20 +49,20 @@ War priests typically adorn themselves with a symbol of their faith. You can rol
 | 1 | Vial of iridescent liquid |
 | 2 | Hilt of a broken sword |
 | 3 | Piece of stained glass from a shrine |
-| 4 | Clay figurine of a [ki-rin](Mechanics/CLI/bestiary/celestial/ki-rin-mpmm.md) or another Celestial |
-| 5 | [Torch](Mechanics/CLI/items/torch-xphb.md) carved so that a hand appears to be holding the flame |
+| 4 | Clay figurine of a [ki-rin](/Mechanics/CLI/bestiary/celestial/ki-rin-mpmm.md) or another Celestial |
+| 5 | [Torch](/Mechanics/CLI/items/torch-xphb.md) carved so that a hand appears to be holding the flame |
 | 6 | Circlet of woven reeds |
 | 7 | Scrimshawed bone |
-| 8 | Vessel such as a cup, a [jug](Mechanics/CLI/items/jug-xphb.md), an urn, or an amphora |
+| 8 | Vessel such as a cup, a [jug](/Mechanics/CLI/items/jug-xphb.md), an urn, or an amphora |
 ^war-priest-holy-symbols
 
 ```ad-statblock
 title: War Priest
-![](Mechanics/CLI/bestiary/humanoid/token/war-priest-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/war-priest-mpmm.webp#token)
 *Medium humanoid (cleric), Any alignment*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 117 (`18d8 + 36`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 117 (18d8 + 36) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,9 +71,8 @@ title: War Priest
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +6, Wisdom +7
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +5, [Religion](Mechanics/CLI/rules/skills.md#Religion) +4
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +5, [Religion](/Mechanics/CLI/skills.md#Religion) +4
 - **Senses** passive Perception 13
-- **Gear** [maul](Mechanics/CLI/items/maul-xphb.md)
 - **Languages** any two languages
 - **Challenge** 9
 
@@ -67,13 +82,13 @@ title: War Priest
 
 ***Maul.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) bludgeoning damage  plus *Hit:* 10 (`3d6`) radiant damage.
 
-***Holy Fire.*** The war priest targets one creature it can see within 60 feet of it. The target must make a DC 15 Wisdom saving throw. On a failed save, the target takes 12 (`2d8 + 3`) radiant damage, and it is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the start of the war priest's next turn. On a successful save, the target takes half as much damage and isn't [blinded](Mechanics/CLI/rules/conditions.md#Blinded).
+***Holy Fire.*** The war priest targets one creature it can see within 60 feet of it. The target must make a DC 15 Wisdom saving throw. On a failed save, the target takes 12 (`2d8 + 3`) radiant damage, and it is [blinded](/Mechanics/CLI/conditions.md#Blinded) until the start of the war priest's next turn. On a successful save, the target takes half as much damage and isn't [blinded](/Mechanics/CLI/conditions.md#Blinded).
 
 ***Spellcasting.*** The war priest casts one of the following spells, using Wisdom as the spellcasting ability (spell save DC 15):
 
-**At will:** [light](Mechanics/CLI/spells/light-xphb.md), [spare the dying](Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**At will:** [light](/Mechanics/CLI/spells/light-xphb.md), [spare the dying](/Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1/day each:** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [command](Mechanics/CLI/spells/command-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [flame strike](Mechanics/CLI/spells/flame-strike-xphb.md), [guardian of faith](Mechanics/CLI/spells/guardian-of-faith-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [revivify](Mechanics/CLI/spells/revivify-xphb.md)
+**1/day each:** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [command](/Mechanics/CLI/spells/command-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [flame strike](/Mechanics/CLI/spells/flame-strike-xphb.md), [guardian of faith](/Mechanics/CLI/spells/guardian-of-faith-xphb.md), [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [revivify](/Mechanics/CLI/spells/revivify-xphb.md)
 
 ## Bonus Actions
 
@@ -85,3 +100,7 @@ title: War Priest
 ## Environment
 
 desert, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 254, Volo's Guide to Monsters p. 218_

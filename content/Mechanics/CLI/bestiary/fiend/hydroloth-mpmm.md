@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hydroloth
-created: 2026-03-09T12:15:33.887-04:00
-modified: 2026-03-09T12:15:33.887-04:00
-published: 2026-03-09T12:15:33.887-04:00
+created: 2026-03-29T21:53:55.884-04:00
+modified: 2026-03-29T21:53:55.884-04:00
+published: 2026-03-29T21:53:55.884-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -13,24 +13,39 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hydroloth (MPMM)
+ac: 15
+hp: 135
+modifier: 5
+hit_dice: 18d8 + 54
+cr: "9"
+stats:
+  - 12
+  - 21
+  - 16
+  - 19
+  - 10
+  - 14
+source:
+  - MPMM
 ---
 
 # Hydroloth
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 158_\
 ![](Mechanics/CLI/bestiary/fiend/img/hydroloth.webp#right)
-
 Like the thought-stealing waters of the River Styx they inhabit, hydroloths filch the memories of creatures they attack, stealing away thoughts for delivery to whatever master they happen to serve. Hydroloths also savor finding lost things, especially those that have been swallowed up in the deeps.
 
 For amphibious assaults or underwater conflicts, hydroloths have no equal among yugoloths. They sometimes hire themselves out to attack and scuttle ships and raid coastal settlements.
 
 ```ad-statblock
 title: Hydroloth
-![](Mechanics/CLI/bestiary/fiend/token/hydroloth-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/hydroloth-mpmm.webp#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 15 
-- **Hit Points** 135 (`18d8 + 54`) 
+- **Hit Points** 135 (18d8 + 54) 
 - **Speed** 20 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -39,12 +54,12 @@ title: Hydroloth
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** cold; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 9
 
@@ -66,15 +81,19 @@ title: Hydroloth
 
 ***Claw.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target.  *Hit:* 14 (`2d8 + 5`) force damage plus 9 (`2d10`) psychic damage.
 
-***Steal Memory (1/Day).*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (`4d6`) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) or [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell cast on the target ends this effect early.
+***Steal Memory (1/Day).*** The hydroloth targets one creature it can see within 60 feet of it. The target takes 14 (`4d6`) psychic damage, and it must make a DC 16 Intelligence saving throw. On a successful save, the target becomes immune to this hydroloth's Steal Memory for 24 hours. On a failed save, the target loses all proficiencies; it can't cast spells; it can't understand language; and if its Intelligence and Charisma scores are higher than 5, they become 5. Each time the target finishes a long rest, it can repeat the saving throw, ending the effect on itself on a success. A [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) or [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell cast on the target ends this effect early.
 
 ***Teleport.*** The hydroloth teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
 ***Spellcasting.*** The hydroloth casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only)
+**At will:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only)
 
-**3/day each:** [control water](Mechanics/CLI/spells/control-water-xphb.md), [crown of madness](Mechanics/CLI/spells/crown-of-madness-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**3/day each:** [control water](/Mechanics/CLI/spells/control-water-xphb.md), [crown of madness](/Mechanics/CLI/spells/crown-of-madness-xphb.md), [fear](/Mechanics/CLI/spells/fear-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 158_

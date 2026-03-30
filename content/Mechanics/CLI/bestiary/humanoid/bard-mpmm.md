@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bard
-created: 2026-03-09T12:15:34.007-04:00
-modified: 2026-03-09T12:15:34.007-04:00
-published: 2026-03-09T12:15:34.007-04:00
+created: 2026-03-29T21:53:56.014-04:00
+modified: 2026-03-29T21:53:56.014-04:00
+published: 2026-03-29T21:53:56.014-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -14,16 +14,32 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bard (MPMM)
+ac: 15
+hp: 44
+modifier: 2
+hit_dice: 8d8 + 8
+cr: "2"
+stats:
+  - 11
+  - 14
+  - 12
+  - 10
+  - 13
+  - 14
+source:
+  - MPMM
+  - VGM
 ---
 
 # Bard
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211_\
 ![](Mechanics/CLI/bestiary/humanoid/img/bard.webp#right)
-
 Bards are gifted poets, storytellers, and entertainers who travel far and wide. They're commonly found in taverns or in the company of jolly bands of adventurers, rough-and-tumble mercenaries, and wealthy patrons.
 
-Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](Mechanics/CLI/rules/skills.md#Performance) Types table to determine it.
+Each bard is a master of at least one type of performance. You may choose a bard's main type, or you may roll on the Bard [Performance](/Mechanics/CLI/skills.md#Performance) Types table to determine it.
 
 **Bard Performance Types**
 
@@ -43,11 +59,11 @@ Each bard is a master of at least one type of performance. You may choose a bard
 
 ```ad-statblock
 title: Bard
-![](Mechanics/CLI/bestiary/humanoid/token/bard-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/bard-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 15 ([chain shirt](Mechanics/CLI/items/chain-shirt-xphb.md))
-- **Hit Points** 44 (`8d8 + 8`) 
+- **Armor Class** 15 ([chain shirt](/Mechanics/CLI/items/chain-shirt.md))
+- **Hit Points** 44 (8d8 + 8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,9 +72,8 @@ title: Bard
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4, Wisdom +3
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Performance](Mechanics/CLI/rules/skills.md#Performance) +6
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Performance](/Mechanics/CLI/skills.md#Performance) +6
 - **Senses** passive Perception 15
-- **Gear** [shortbow](Mechanics/CLI/items/shortbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** any two languages
 - **Challenge** 2
 
@@ -74,9 +89,9 @@ title: Bard
 
 ***Spellcasting.*** The bard casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md)
+**1/day each:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [sleep](/Mechanics/CLI/spells/sleep-xphb.md)
 
 ## Bonus Actions
 
@@ -88,3 +103,7 @@ title: Bard
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 59, Volo's Guide to Monsters p. 211_

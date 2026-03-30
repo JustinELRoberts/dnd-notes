@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Monodrone
-created: 2026-03-09T12:15:33.886-04:00
-modified: 2026-03-09T12:15:33.886-04:00
-published: 2026-03-09T12:15:33.886-04:00
+created: 2026-03-29T21:53:55.682-04:00
+modified: 2026-03-29T21:53:55.682-04:00
+published: 2026-03-29T21:53:55.682-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Monodrone
+ac: 15
+hp: 5
+modifier: 1
+hit_dice: 1d8 + 1
+cr: 1/8
+stats:
+  - 10
+  - 13
+  - 12
+  - 4
+  - 10
+  - 5
+source:
+  - MM
 ---
 
 # Monodrone
 
-_Source: Monster Manual p. 224_\
 ![](Mechanics/CLI/bestiary/construct/img/monodrone.webp#right)
-
 A monodrone can perform one simple task at a time and can relay a single message of up to forty-eight words.
 
 ## Modrons
@@ -57,11 +72,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 
 ```ad-statblock
 title: Monodrone
-![](Mechanics/CLI/bestiary/construct/token/monodrone.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/monodrone.webp#token)
 *Medium construct, Lawful Neutral*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 5 (`1d8 + 1`) 
+- **Hit Points** 5 (1d8 + 1) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -71,8 +86,7 @@ title: Monodrone
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 10
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md), [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 10
 - **Languages** Modron
 - **Challenge** 1/8
 
@@ -90,3 +104,7 @@ title: Monodrone
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 224_

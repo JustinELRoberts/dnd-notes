@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Castle
-created: 2026-03-09T12:15:33.965-04:00
-modified: 2026-03-09T12:15:33.965-04:00
-published: 2026-03-09T12:15:33.965-04:00
+created: 2026-03-29T21:53:55.969-04:00
+modified: 2026-03-29T21:53:55.969-04:00
+published: 2026-03-29T21:53:55.969-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/t
@@ -17,9 +17,9 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 10 Warmage (House of Rooks)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can choose a willing Small or Medium creature you can see within 120 feet of you. You both teleport, swapping places.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can choose a willing Small or Medium creature you can see within 120 feet of you. You both teleport, swapping places.
 
-Once you use this trick, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this trick, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Sources
 

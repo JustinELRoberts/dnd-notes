@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Twilight Domain
-created: 2026-03-09T12:15:33.960-04:00
-modified: 2026-03-09T12:15:33.960-04:00
-published: 2026-03-09T12:15:33.960-04:00
+created: 2026-03-29T21:53:55.964-04:00
+modified: 2026-03-29T21:53:55.964-04:00
+published: 2026-03-29T21:53:55.964-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/domain/twilight
@@ -16,8 +16,7 @@ obsidianUIMode: preview
 
 # Twilight Domain
 
-_[Cleric](./cleric-xphb.md): Cleric Subclass_\
-_Source: Tasha's Cauldron of Everything p. 34_
+_[Cleric](./cleric-xphb.md): Cleric Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -62,13 +61,13 @@ Clerics who serve these deities-examples of which appear on the Twilight Deities
 | Example Deity | Pantheon |
 |---------------|----------|
 | Boldrei | Eberron |
-| [Celestian](Mechanics/CLI/deities/greyhawk-celestian.md) | Greyhawk |
+| [Celestian](/Mechanics/CLI/deities/greyhawk-celestian.md) | Greyhawk |
 | Dol Arrah | Eberron |
 | Helm | Forgotten Realms |
 | Ilmater | Forgotten Realms |
-| [Mishakal](Mechanics/CLI/deities/dragonlance-mishakal-phb.md) | Dragonlance |
+| [Mishakal](/Mechanics/CLI/deities/dragonlance-mishakal-phb.md) | Dragonlance |
 | Selûne | Forgotten Realms |
-| [Yondalla](Mechanics/CLI/deities/nonhuman-yondalla.md) | Halfling |
+| [Yondalla](/Mechanics/CLI/deities/nonhuman-yondalla.md) | Halfling |
 ^twilight-deities
 
 ## Subclass Features
@@ -83,11 +82,11 @@ You gain domain spells at the cleric levels listed in the Twilight Domain Spells
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md) |
-| 3rd | [moonbeam](Mechanics/CLI/spells/moonbeam-xphb.md), [see invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md) |
-| 5th | [aura of vitality](Mechanics/CLI/spells/aura-of-vitality-xphb.md), [Leomund's tiny hut](Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md) |
-| 7th | [aura of life](Mechanics/CLI/spells/aura-of-life-xphb.md), [greater invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md) |
-| 9th | [circle of power](Mechanics/CLI/spells/circle-of-power-xphb.md), [mislead](Mechanics/CLI/spells/mislead-xphb.md) |
+| 1st | [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md), [sleep](/Mechanics/CLI/spells/sleep-xphb.md) |
+| 3rd | [moonbeam](/Mechanics/CLI/spells/moonbeam-xphb.md), [see invisibility](/Mechanics/CLI/spells/see-invisibility-xphb.md) |
+| 5th | [aura of vitality](/Mechanics/CLI/spells/aura-of-vitality-xphb.md), [Leomund's tiny hut](/Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md) |
+| 7th | [aura of life](/Mechanics/CLI/spells/aura-of-life-xphb.md), [greater invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md) |
+| 9th | [circle of power](/Mechanics/CLI/spells/circle-of-power-xphb.md), [mislead](/Mechanics/CLI/spells/mislead-xphb.md) |
 ^twilight-domain-spells
 
 ### Bonus Proficiencies (Level 1)
@@ -100,9 +99,9 @@ You gain proficiency with martial weapons and heavy armor.
 
 _1st-level Twilight Domain feature_
 
-You can see through the deepest gloom. You have [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
+You can see through the deepest gloom. You have [darkvision](/Mechanics/CLI/senses.md#Darkvision) out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
-As an action, you can magically share the [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
+As an action, you can magically share the [darkvision](/Mechanics/CLI/senses.md#Darkvision) of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared [darkvision](/Mechanics/CLI/senses.md#Darkvision) lasts for 1 hour. Once you share it, you can't do so again until you finish a long rest, unless you expend a spell slot of any level to share it again.
 
 ### Vigilant Blessing (Level 1)
 
@@ -116,10 +115,10 @@ _2nd-level Twilight Domain feature_
 
 You can use your Channel Divinity to refresh your allies with soothing twilight.
 
-As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
+As an action, you present your holy symbol, and a sphere of twilight emanates from you. The sphere is centered on you, has a 30-foot radius, and is filled with dim light. The sphere moves with you, and it lasts for 1 minute or until you are [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) or die. Whenever a creature (including you) ends its turn in the sphere, you can grant that creature one of these benefits:
 
 - You grant it temporary hit points equal to `1d6` plus your cleric level.
-- You end one effect on it causing it to be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened).
+- You end one effect on it causing it to be [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened).
 
 ### Steps of Night (Level 6)
 
@@ -132,3 +131,7 @@ You can draw on the mystical power of night to rise into the air. As a bonus act
 _17th-level Twilight Domain feature_
 
 The twilight that you summon offers a protective embrace: you and your allies have half cover while in the sphere created by your Twilight Sanctuary.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 34_

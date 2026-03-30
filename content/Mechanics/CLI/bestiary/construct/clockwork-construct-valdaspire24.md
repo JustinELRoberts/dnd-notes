@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Clockwork Construct
-created: 2026-03-09T12:15:33.806-04:00
-modified: 2026-03-09T12:15:33.806-04:00
-published: 2026-03-09T12:15:33.806-04:00
+created: 2026-03-29T21:53:55.590-04:00
+modified: 2026-03-29T21:53:55.590-04:00
+published: 2026-03-29T21:53:55.590-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Clockwork Construct (ValdaSpire24)
+modifier: 1
+stats:
+  - 13
+  - 13
+  - 10
+  - 1
+  - 3
+  - 1
+source:
+  - ValdaSpire24
 ---
 
 # Clockwork Construct
-
-_Source: Valda's Spire of Secrets (2024)_
 
 ```ad-statblock
 title: Clockwork Construct
@@ -35,17 +46,21 @@ title: Clockwork Construct
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive Perception 6
+- **Senses** [Blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception 6
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages you know
 - **Challenge** 
 
 ## Actions
 
-***Crossbow (Bolter Only).*** *Ranged Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), range 30/120 ft. *Hit:* `1d6 + 1` Piercing damage.
+***Crossbow (Bolter Only).*** *Ranged Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), range 30/120 ft. *Hit:* `1d6 + 1` Piercing damage.
 
-***Mace (Macer Only).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6 + 1` Bludgeoning damage.
+***Mace (Macer Only).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6 + 1` Bludgeoning damage.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

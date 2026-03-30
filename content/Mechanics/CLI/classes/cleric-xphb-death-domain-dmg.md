@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Death Domain
-created: 2026-03-09T12:15:33.853-04:00
-modified: 2026-03-09T12:15:33.853-04:00
-published: 2026-03-09T12:15:33.853-04:00
+created: 2026-03-29T21:53:55.642-04:00
+modified: 2026-03-29T21:53:55.642-04:00
+published: 2026-03-29T21:53:55.642-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/domain/death
@@ -16,8 +16,7 @@ obsidianUIMode: preview
 
 # Death Domain
 
-_[Cleric](./cleric-xphb.md): Cleric Subclass_\
-_Source: Dungeon Master's Guide p. 96_
+_[Cleric](./cleric-xphb.md): Cleric Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -53,7 +52,7 @@ _Source: Dungeon Master's Guide p. 96_
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as Chemosh, Myrkul, and [Wee Jas](Mechanics/CLI/deities/greyhawk-wee-jas.md) are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([Anubis](Mechanics/CLI/deities/egyptian-anubis.md), Bhaal, and Pyremius), pain (Iuz or Loviatar), disease or poison (Incabulos, Talona, or Morgion), and the underworld ([Hades](Mechanics/CLI/deities/greek-hades.md) and Hel).
+The Death domain is concerned with the forces that cause death, as well as the negative energy that gives rise to undead creatures. Deities such as [Chemosh](/Mechanics/CLI/deities/dragonlance-chemosh-phb.md), Myrkul, and [Wee Jas](/Mechanics/CLI/deities/greyhawk-wee-jas.md) are patrons of necromancers, death knights, liches, mummy lords, and vampires. Gods of the Death domain also embody murder ([Anubis](/Mechanics/CLI/deities/egyptian-anubis.md), Bhaal, and Pyremius), pain ([Iuz](/Mechanics/CLI/deities/greyhawk-iuz.md) or Loviatar), disease or poison ([Incabulos](/Mechanics/CLI/deities/greyhawk-incabulos.md), Talona, or [Morgion](/Mechanics/CLI/deities/dragonlance-morgion-phb.md)), and the underworld ([Hades](/Mechanics/CLI/deities/greek-hades.md) and [Hel](/Mechanics/CLI/deities/norse-hel.md)).
 
 ## Subclass Features
 
@@ -65,11 +64,11 @@ At each indicated cleric level, add the listed spells to your spells prepared. T
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [false life](Mechanics/CLI/spells/false-life-xphb.md), [ray of sickness](Mechanics/CLI/spells/ray-of-sickness-xphb.md) |
-| 3rd | [blindness/deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md), [ray of enfeeblement](Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
-| 5th | [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md), [vampiric touch](Mechanics/CLI/spells/vampiric-touch-xphb.md) |
-| 7th | [blight](Mechanics/CLI/spells/blight-xphb.md), [death ward](Mechanics/CLI/spells/death-ward-xphb.md) |
-| 9th | [antilife shell](Mechanics/CLI/spells/antilife-shell-xphb.md), [cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md) |
+| 1st | [false life](/Mechanics/CLI/spells/false-life-xphb.md), [ray of sickness](/Mechanics/CLI/spells/ray-of-sickness-xphb.md) |
+| 3rd | [blindness/deafness](/Mechanics/CLI/spells/blindness-deafness-xphb.md), [ray of enfeeblement](/Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
+| 5th | [animate dead](/Mechanics/CLI/spells/animate-dead-xphb.md), [vampiric touch](/Mechanics/CLI/spells/vampiric-touch-xphb.md) |
+| 7th | [blight](/Mechanics/CLI/spells/blight-xphb.md), [death ward](/Mechanics/CLI/spells/death-ward-xphb.md) |
+| 9th | [antilife shell](/Mechanics/CLI/spells/antilife-shell-xphb.md), [cloudkill](/Mechanics/CLI/spells/cloudkill-xphb.md) |
 ^death-domain-spells
 
 ### Bonus Proficiency (Level 1)
@@ -93,3 +92,7 @@ Starting at 6th level, the cleric's ability to channel negative energy becomes m
 ### Improved Reaper (Level 17)
 
 Starting at 17th level, when the cleric casts a Necromancy spell of 1st through 5th-level that targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other. If the spell consumes its material components, the cleric must provide them for each target.
+
+## Sources
+
+_Dungeon Master's Guide p. 96_

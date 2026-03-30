@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orc Hand of Yurtrus
-created: 2026-03-09T12:15:33.979-04:00
-modified: 2026-03-09T12:15:33.979-04:00
-published: 2026-03-09T12:15:33.979-04:00
+created: 2026-03-29T21:53:55.982-04:00
+modified: 2026-03-29T21:53:55.982-04:00
+published: 2026-03-29T21:53:55.982-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/2
@@ -18,11 +18,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orc Hand of Yurtrus (VGM)
+ac: 12
+hp: 30
+modifier: 0
+hit_dice: 4d8 + 12
+cr: "2"
+stats:
+  - 12
+  - 11
+  - 16
+  - 11
+  - 14
+  - 9
+source:
+  - VGM
 ---
 
 # Orc Hand of Yurtrus
-
-_Source: Volo's Guide to Monsters p. 184_
 
 Yurtrus is the orc god of death and disease. He is a horrifying abomination covered in rot and infection, except for his perfect, smooth white hands.
 
@@ -44,11 +59,11 @@ In addition, orcs have special relationships with two creatures that are sometim
 
 ```ad-statblock
 title: Orc Hand of Yurtrus
-![](Mechanics/CLI/bestiary/humanoid/token/orc-hand-of-yurtrus-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orc-hand-of-yurtrus-vgm.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 12 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 30 (`4d8 + 12`) 
+- **Armor Class** 12 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 30 (4d8 + 12) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,8 +72,8 @@ title: Orc Hand of Yurtrus
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +2, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +1, [Medicine](Mechanics/CLI/rules/skills.md#Medicine) +4, [Religion](Mechanics/CLI/rules/skills.md#Religion) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +2, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +1, [Medicine](/Mechanics/CLI/skills.md#Medicine) +4, [Religion](/Mechanics/CLI/skills.md#Religion) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** understands Common and Orc but can't speak
 - **Challenge** 2
 
@@ -66,11 +81,11 @@ title: Orc Hand of Yurtrus
 
 ***Spellcasting.*** The orc is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `+4` to hit with spell attacks). It requires no verbal components to cast its spells. The orc has the following cleric spells prepared:
 
-**Cantrips (at will):** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [mending](Mechanics/CLI/spells/mending-xphb.md), [resistance](Mechanics/CLI/spells/resistance-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [mending](/Mechanics/CLI/spells/mending-xphb.md), [resistance](/Mechanics/CLI/spells/resistance-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [bane](Mechanics/CLI/spells/bane-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [inflict wounds](Mechanics/CLI/spells/inflict-wounds-xphb.md), [protection from evil and good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)
+**1st level (4 slots):** [bane](/Mechanics/CLI/spells/bane-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [inflict wounds](/Mechanics/CLI/spells/inflict-wounds-xphb.md), [protection from evil and good](/Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md)
 
-**2nd level (3 slots):** [blindness/deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md), [silence](Mechanics/CLI/spells/silence-xphb.md)
+**2nd level (3 slots):** [blindness/deafness](/Mechanics/CLI/spells/blindness-deafness-xphb.md), [silence](/Mechanics/CLI/spells/silence-xphb.md)
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
@@ -84,3 +99,7 @@ title: Orc Hand of Yurtrus
 ## Environment
 
 underdark, mountain, grassland, forest, hill
+
+## Sources
+
+_Volo's Guide to Monsters p. 184_

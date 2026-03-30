@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Frost Giant
-created: 2026-03-09T12:15:34.061-04:00
-modified: 2026-03-09T12:15:34.061-04:00
-published: 2026-03-09T12:15:34.061-04:00
+created: 2026-03-29T21:53:56.081-04:00
+modified: 2026-03-29T21:53:56.081-04:00
+published: 2026-03-29T21:53:56.081-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Frost Giant
+ac: 15
+hp: 138
+modifier: -1
+hit_dice: 12d12 + 60
+cr: "8"
+stats:
+  - 23
+  - 9
+  - 21
+  - 9
+  - 10
+  - 12
+source:
+  - MM
 ---
 
 # Frost Giant
 
-_Source: Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/frost-giant.webp#right)
-
 Gigantic reavers from the freezing lands beyond civilization, frost giants are fierce, hardy warriors that survive on the spoils of their raids and pillaging. They respect only brute strength and skill in battle, demonstrating both with their scars and the grisly trophies they take from their enemies.
 
 ## Hearts of Ice
@@ -87,11 +102,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Frost Giant
-![](Mechanics/CLI/bestiary/giant/token/frost-giant.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/frost-giant.webp#token)
 *Huge giant, Neutral Evil*
 
 - **Armor Class** 15 (patchwork armor)
-- **Hit Points** 138 (`12d12 + 60`) 
+- **Hit Points** 138 (12d12 + 60) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -100,10 +115,9 @@ title: Frost Giant
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +8, Wisdom +3, Charisma +4
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +9, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +9, [Perception](/Mechanics/CLI/skills.md#Perception) +3
 - **Senses** passive Perception 13
 - **Damage Immunities** cold
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md)
 - **Languages** Giant
 - **Challenge** 8
 
@@ -121,3 +135,7 @@ title: Frost Giant
 ## Environment
 
 mountain, arctic
+
+## Sources
+
+_Monster Manual p. 155. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

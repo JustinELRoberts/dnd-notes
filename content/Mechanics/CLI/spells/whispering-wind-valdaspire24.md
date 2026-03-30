@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Whispering Wind
-created: 2026-03-09T12:15:33.774-04:00
-modified: 2026-03-09T12:15:33.774-04:00
-published: 2026-03-09T12:15:33.774-04:00
+created: 2026-03-29T21:53:55.556-04:00
+modified: 2026-03-29T21:53:55.556-04:00
+published: 2026-03-29T21:53:55.556-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/investigator
@@ -19,21 +20,13 @@ tags:
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
   - ttrpg-cli/spell/ritual
   - ttrpg-cli/spell/school/evocation
+  - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Investigator
-  - Necromancer
-  - Warmage (House of Bishops)
-  - Witch
-  - Wizard
 ---
 
 # Whispering Wind
@@ -49,6 +42,23 @@ You whisper a message of twenty-five words or less, while specifying up to six c
 
 The message is blocked if every path within range to the target is blocked by solid objects or areas of magical silence.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Necromancer](Mechanics/CLI/lists/list-spells-classes-necromancer.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Ritual Caster](/Mechanics/CLI/lists/list-spells-feats-ritual-caster-xphb.md)
+- [Necromancer](/Mechanics/CLI/lists/list-spells-classes-necromancer.md)
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Investigator](/Mechanics/CLI/lists/list-spells-classes-investigator.md)
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

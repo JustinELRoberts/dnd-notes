@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Balor
-created: 2026-03-09T12:15:34.089-04:00
-modified: 2026-03-09T12:15:34.089-04:00
-published: 2026-03-09T12:15:34.089-04:00
+created: 2026-03-29T21:53:56.118-04:00
+modified: 2026-03-29T21:53:56.118-04:00
+published: 2026-03-29T21:53:56.118-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/19
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Balor
+ac: 19
+hp: 262
+modifier: 2
+hit_dice: 21d12 + 126
+cr: "19"
+stats:
+  - 26
+  - 15
+  - 22
+  - 20
+  - 16
+  - 22
+source:
+  - MM
 ---
 
 # Balor
 
-_Source: Monster Manual p. 55. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/balor.webp#right)
-
 Figures of ancient and terrible evil, balors rule as generals over demonic armies, yearning to seize power while destroying any creatures that oppose them.
 
 Wielding a flaming whip and a longsword that channels the power of the storm, a balor's battle prowess is fueled by hatred and rage. It channels this demonic fury in its death throes, falling within a blast of fire that can destroy even the hardiest foes.
@@ -164,7 +179,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -194,11 +209,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Balor
-![](Mechanics/CLI/bestiary/fiend/token/balor.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/balor.webp#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 262 (`21d12 + 126`) 
+- **Hit Points** 262 (21d12 + 126) 
 - **Speed** 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -208,11 +223,10 @@ title: Balor
 - **Proficiency Bonus** +6
 - **Saving Throws** Strength +14, Constitution +12, Wisdom +9, Charisma +12
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 13
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 13
 - **Damage Resistances** cold; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [longsword](Mechanics/CLI/items/longsword-xphb.md), [whip](Mechanics/CLI/items/whip-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 19
 
@@ -238,3 +252,7 @@ title: Balor
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 55. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

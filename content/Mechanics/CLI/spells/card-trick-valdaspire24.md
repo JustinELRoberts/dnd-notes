@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Card Trick
-created: 2026-03-09T12:15:33.866-04:00
-modified: 2026-03-09T12:15:33.866-04:00
-published: 2026-03-09T12:15:33.866-04:00
+created: 2026-03-29T21:53:55.657-04:00
+modified: 2026-03-29T21:53:55.657-04:00
+published: 2026-03-29T21:53:55.657-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warmage
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/cantrip
@@ -19,17 +20,10 @@ tags:
   - ttrpg-cli/spell/subclass/college-of-lore
   - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
+  - ttrpg-cli/spell/subrace/elf-high
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Rogue (Arcane Trickster)
-  - Warmage
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Card Trick
@@ -45,6 +39,23 @@ With a flash of your hands, you fling a playing or tarot card charged with magic
 
 **Cantrip Upgrade.** The damage increases by `1d8` when you reach levels 5 (`2d8`), 11 (`3d8`), and 17 (`4d8`).
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage](Mechanics/CLI/lists/list-spells-classes-warmage.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024)_
+- [Warmage](/Mechanics/CLI/lists/list-spells-classes-warmage.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Elf (High)](/Mechanics/CLI/lists/list-spells-races-elf-high.md)
+- [Elf (High Elf)](/Mechanics/CLI/lists/list-spells-races-elf-xphb.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Khoravar](/Mechanics/CLI/lists/list-spells-races-khoravar-efa.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

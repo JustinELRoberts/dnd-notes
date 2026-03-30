@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Strider
-created: 2026-03-09T12:15:33.880-04:00
-modified: 2026-03-09T12:15:33.880-04:00
-published: 2026-03-09T12:15:33.880-04:00
+created: 2026-03-29T21:53:55.674-04:00
+modified: 2026-03-29T21:53:55.674-04:00
+published: 2026-03-29T21:53:55.674-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -16,11 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Strider (MPMM)
+ac: 14
+hp: 22
+modifier: 1
+hit_dice: 3d10 + 6
+cr: "1"
+stats:
+  - 18
+  - 13
+  - 14
+  - 4
+  - 12
+  - 6
+source:
+  - MPMM
+  - VGM
 ---
 
 # Giant Strider
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143_\
 ![](Mechanics/CLI/bestiary/elemental/img/giant-strider.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -37,11 +54,11 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 
 ```ad-statblock
 title: Giant Strider
-![](Mechanics/CLI/bestiary/elemental/token/giant-strider-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/giant-strider-mpmm.webp#token)
 *Large elemental, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 22 (`3d10 + 6`) 
+- **Hit Points** 22 (3d10 + 6) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -72,3 +89,7 @@ title: Giant Strider
 ## Environment
 
 hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 137, Volo's Guide to Monsters p. 143_

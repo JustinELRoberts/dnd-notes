@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Axe Beak
-created: 2026-03-09T12:15:33.885-04:00
-modified: 2026-03-09T12:15:33.885-04:00
-published: 2026-03-09T12:15:33.885-04:00
+created: 2026-03-29T21:53:55.679-04:00
+modified: 2026-03-29T21:53:55.679-04:00
+published: 2026-03-29T21:53:55.679-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -15,21 +15,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Axe Beak
+ac: 11
+hp: 19
+modifier: 1
+hit_dice: 3d10 + 3
+cr: 1/4
+stats:
+  - 14
+  - 12
+  - 12
+  - 2
+  - 10
+  - 5
+source:
+  - MM
 ---
 
 # Axe Beak
-
-_Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 An axe beak is a tall flightless bird with strong legs and a heavy, wedge-shaped beak. It has a nasty disposition and tends to attack any unfamiliar creature that wanders too close.
 
 ```ad-statblock
 title: Axe Beak
-![](Mechanics/CLI/bestiary/beast/token/axe-beak.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/axe-beak.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 19 (`3d10 + 3`) 
+- **Hit Points** 19 (3d10 + 3) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,3 +68,7 @@ title: Axe Beak
 ## Environment
 
 grassland, hill
+
+## Sources
+
+_Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

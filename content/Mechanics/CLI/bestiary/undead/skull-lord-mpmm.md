@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Skull Lord
-created: 2026-03-09T12:15:34.061-04:00
-modified: 2026-03-09T12:15:34.061-04:00
-published: 2026-03-09T12:15:34.061-04:00
+created: 2026-03-29T21:53:56.081-04:00
+modified: 2026-03-29T21:53:56.081-04:00
+published: 2026-03-29T21:53:56.081-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/15
@@ -16,24 +16,39 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Skull Lord (MPMM)
+ac: 18
+hp: 112
+modifier: 3
+hit_dice: 15d8 + 45
+cr: "15"
+stats:
+  - 14
+  - 16
+  - 17
+  - 16
+  - 15
+  - 21
+source:
+  - MPMM
 ---
 
 # Skull Lord
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 220_\
 ![](Mechanics/CLI/bestiary/undead/img/skull-lord.webp#right)
-
 Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
 
 Infighting and treachery brought skull lords into existence. The first of them appeared in the aftermath of Vecna's bid to conquer the world of Greyhawk, after the vampire Kas betrayed Vecna and took his eye and hand. In the confusion resulting from this turn of events, Vecna's warlords turned against each other, and his plans were dashed. In a rage, Vecna gathered up his generals and captains and bound them in groups of three, fusing them into abominations cursed to fight among themselves for all time. Since the first skull lords were exiled into the shadows, others have arisen, typically created from other leaders who betrayed their masters.
 
 ```ad-statblock
 title: Skull Lord
-![](Mechanics/CLI/bestiary/undead/token/skull-lord-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/skull-lord-mpmm.webp#token)
 *Medium undead (sorcerer), Typically  Lawful Evil*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 112 (`15d8 + 45`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 112 (15d8 + 45) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,17 +57,17 @@ title: Skull Lord
 
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +7, [History](Mechanics/CLI/rules/skills.md#History) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +12, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 22
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +7, [History](/Mechanics/CLI/skills.md#History) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +12, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 22
 - **Damage Resistances** cold; necrotic; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [stunned](/Mechanics/CLI/conditions.md#Stunned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** all the languages it knew in life
 - **Challenge** 15
 
 ## Traits
 
-***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw and only half damage if it fails, provided it isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.
 
@@ -70,11 +85,11 @@ title: Skull Lord
 
 ***Spellcasting.*** The skull, lord casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 18):
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [message](Mechanics/CLI/spells/message-xphb.md)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [message](/Mechanics/CLI/spells/message-xphb.md)
 
-**2/day each:** [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md)
+**2/day each:** [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md), [fear](/Mechanics/CLI/spells/fear-xphb.md)
 
-**1/day each:** [cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md), [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md)
+**1/day each:** [cloudkill](/Mechanics/CLI/spells/cloudkill-xphb.md), [cone of cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md)
 
 ## Legendary Actions
 
@@ -82,9 +97,9 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the skull l
 
 ***Attack.*** The skull lord makes one Bone Staff or Deathly Ray attack.
 
-***Move.*** The skull lord moves up to its speed without provoking [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+***Move.*** The skull lord moves up to its speed without provoking [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
-***Summon Undead (Costs 2 Actions).*** The skull lord summons up to five [skeletons](Mechanics/CLI/bestiary/undead/skeleton-xmm.md) or [zombies](Mechanics/CLI/bestiary/undead/zombie-xmm.md) in unoccupied spaces within 30 feet of it. They remain until destroyed. Undead summoned in this way roll initiative, act in the next available turn, and obey the skull lord. The skull lord can have no more than five Undead summoned by this ability at a time.
+***Summon Undead (Costs 2 Actions).*** The skull lord summons up to five [skeletons](/Mechanics/CLI/bestiary/undead/skeleton-xmm.md) or [zombies](/Mechanics/CLI/bestiary/undead/zombie-xmm.md) in unoccupied spaces within 30 feet of it. They remain until destroyed. Undead summoned in this way roll initiative, act in the next available turn, and obey the skull lord. The skull lord can have no more than five Undead summoned by this ability at a time.
 ```
 
 ^statblock
@@ -92,3 +107,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the skull l
 ## Environment
 
 desert, swamp, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 220_

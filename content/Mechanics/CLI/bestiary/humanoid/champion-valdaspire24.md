@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Champion
-created: 2026-03-09T12:15:33.848-04:00
-modified: 2026-03-09T12:15:33.848-04:00
-published: 2026-03-09T12:15:33.848-04:00
+created: 2026-03-29T21:53:55.637-04:00
+modified: 2026-03-29T21:53:55.637-04:00
+published: 2026-03-29T21:53:55.637-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,23 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Champion (ValdaSpire24)
+ac: 18
+modifier: 1
+stats:
+  - 16
+  - 12
+  - 12
+  - 10
+  - 10
+  - 11
+source:
+  - ValdaSpire24
 ---
 
 # Champion
-
-_Source: Valda's Spire of Secrets (2024)_
 
 A champion is a skilled, tactical fighter, just as comfortable in the saddle during military drills as armored on the field of battle.
 
@@ -36,9 +48,8 @@ title: Champion
 
 - **Proficiency Bonus** +2
 - **Saving Throws** 3+PB, 1+PB
-- **Skills** [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling) +2, [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5
+- **Skills** [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling) +2, [Athletics](/Mechanics/CLI/skills.md#Athletics) +5
 - **Senses** passive Perception 10
-- **Gear** [battleaxe](Mechanics/CLI/items/battleaxe-xphb.md), [chain mail](Mechanics/CLI/items/chain-mail-xphb.md), four [javelins](Mechanics/CLI/items/javelin-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md)
 - **Languages** Common plus one other language
 - **Challenge** 
 
@@ -52,19 +63,23 @@ title: Champion
 
 ## Actions
 
-***Battleaxe.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d8` plus your Charisma modifier Slashing damage.
+***Battleaxe.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d8` plus your Charisma modifier Slashing damage.
 
-***Javelin.*** *Ranged Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), range 30/120 ft. *Hit:* `1d6` plus your Charisma modifier Piercing damage.
+***Javelin.*** *Ranged Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), range 30/120 ft. *Hit:* `1d6` plus your Charisma modifier Piercing damage.
 
-***Level 5.*** Flurry (1/Day). The champion makes three attacks in any combination with [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md), regardless of circumstance.
+***Level 5.*** Flurry (1/Day). The champion makes three attacks in any combination with [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md), regardless of circumstance.
 
 ***Level 17.*** Multiattack. The champion makes two attacks in any combination.
 
 ## Bonus Actions
 
-***Second Wind (2/Day).*** The champion regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your Captain level.
+***Second Wind (2/Day).*** The champion regains [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your Captain level.
 
 ***Level 9.*** Keen Strike. The champion deals `1d8` extra damage on a hit with a weapon. The damage is the same type dealt by the weapon.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

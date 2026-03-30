@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deva
-created: 2026-03-09T12:15:33.850-04:00
-modified: 2026-03-09T12:15:33.850-04:00
-published: 2026-03-09T12:15:33.850-04:00
+created: 2026-03-29T21:53:55.639-04:00
+modified: 2026-03-29T21:53:55.639-04:00
+published: 2026-03-29T21:53:55.639-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/10
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deva
+ac: 17
+hp: 136
+modifier: 4
+hit_dice: 16d8 + 64
+cr: "10"
+stats:
+  - 18
+  - 18
+  - 18
+  - 17
+  - 20
+  - 20
+source:
+  - MM
 ---
 
 # Deva
 
-_Source: Monster Manual p. 16. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/deva.webp#right)
-
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
 ## Shards of the Divine
@@ -48,11 +63,11 @@ Legend tells of angels that take mortal form for years, lending aid, hope, and c
 
 ```ad-statblock
 title: Deva
-![](Mechanics/CLI/bestiary/celestial/token/deva.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/deva.webp#token)
 *Medium celestial, Lawful Good*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 136 (`16d8 + 64`) 
+- **Hit Points** 136 (16d8 + 64) 
 - **Speed** 30 ft., fly 90 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,11 +76,10 @@ title: Deva
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Wisdom +9, Charisma +9
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +9, [Perception](Mechanics/CLI/rules/skills.md#Perception) +9
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 19
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +9, [Perception](/Mechanics/CLI/skills.md#Perception) +9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 19
 - **Damage Resistances** radiant; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
-- **Gear** [mace](Mechanics/CLI/items/mace-xphb.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 10
 
@@ -73,9 +87,9 @@ title: Deva
 
 ***Innate Spellcasting.*** The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
 
-**At will:** [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md)
+**At will:** [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md)
 
-**1/day each:** [commune](Mechanics/CLI/spells/commune-xphb.md), [raise dead](Mechanics/CLI/spells/raise-dead-xphb.md)
+**1/day each:** [commune](/Mechanics/CLI/spells/commune-xphb.md), [raise dead](/Mechanics/CLI/spells/raise-dead-xphb.md)
 
 ***Angelic Weapons.*** The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra `4d8` radiant damage (included in the attack).
 
@@ -95,3 +109,7 @@ In a new form, the deva retains its game statistics and ability to speak, but it
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 16. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

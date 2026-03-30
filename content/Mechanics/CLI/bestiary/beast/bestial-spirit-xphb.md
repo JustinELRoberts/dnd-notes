@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bestial Spirit
-created: 2026-03-09T12:15:33.995-04:00
-modified: 2026-03-09T12:15:33.995-04:00
-published: 2026-03-09T12:15:33.995-04:00
+created: 2026-03-29T21:53:56.006-04:00
+modified: 2026-03-29T21:53:56.006-04:00
+published: 2026-03-29T21:53:56.006-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bestial Spirit (XPHB)
+modifier: 0
+stats:
+  - 18
+  - 11
+  - 16
+  - 4
+  - 14
+  - 5
+source:
+  - XPHB
 ---
 
 # Bestial Spirit
 
-_Source: Player's Handbook (2024) p. 323_\
 ![](Mechanics/CLI/bestiary/beast/img/bestial-spirit.webp#center)
 
 ```ad-statblock
 title: Bestial Spirit
-![](Mechanics/CLI/bestiary/beast/token/bestial-spirit-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/bestial-spirit-xphb.webp#token)
 *Small beast, Neutral*
 
 - **Armor Class** (11 + the spell's level)
@@ -36,15 +48,15 @@ title: Bestial Spirit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** understands the languages you know
 - **Challenge** 
 
 ## Traits
 
-***Flyby (Air Only).*** The spirit doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+***Flyby (Air Only).*** The spirit doesn't provoke [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
 
-***Pack Tactics (Land and Water Only).*** The spirit has Advantage on an attack roll against a creature if at least one of the spirit's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+***Pack Tactics (Land and Water Only).*** The spirit has Advantage on an attack roll against a creature if at least one of the spirit's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ***Water Breathing (Water Only).*** The spirit can breathe only underwater.
 
@@ -56,3 +68,7 @@ title: Bestial Spirit
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 323_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spy
-created: 2026-03-09T12:15:34.101-04:00
-modified: 2026-03-09T12:15:34.101-04:00
-published: 2026-03-09T12:15:34.101-04:00
+created: 2026-03-29T21:53:56.134-04:00
+modified: 2026-03-29T21:53:56.134-04:00
+published: 2026-03-29T21:53:56.134-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/investigator/spy
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Spy
 
-_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,30 +56,34 @@ Infiltration, disguise, and lying through their teeth: these are the principal s
 
 ### Bravado (Level 3)
 
-Your infectious confidence gives you a bonus to your Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception) and [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) checks equal to our Intelligence modifier (minimum of +1).
+Your infectious confidence gives you a bonus to your Charisma ([Deception](/Mechanics/CLI/skills.md#Deception) and [Persuasion](/Mechanics/CLI/skills.md#Persuasion)) checks equal to our Intelligence modifier (minimum of +1).
 
 ### Trinkets (Level 3)
 
 You can use the following trinkets.
 
-**Glass Dust.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can throw this pouch at a point you can see within 10 feet of you, filling a 5-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point with glittering dust until the start of your next turn. A creature that enters the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) for the first time on a turn or ends its turn there has the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition. This condition ends early for a creature that leaves the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md), makes an attack roll, deals damage, or casts a spell.
+**Glass Dust.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can throw this pouch at a point you can see within 10 feet of you, filling a 5-foot-radius [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on that point with glittering dust until the start of your next turn. A creature that enters the [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) for the first time on a turn or ends its turn there has the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition. This condition ends early for a creature that leaves the [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md), makes an attack roll, deals damage, or casts a spell.
 
-**Horn-Rimmed Glasses.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [Disguise Self](Mechanics/CLI/spells/disguise-self-xphb.md) without a spell slot or components.
+**Horn-Rimmed Glasses.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [Disguise Self](/Mechanics/CLI/spells/disguise-self-xphb.md) without a spell slot or components.
 
-**Martini Glass.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md) without a spell slot or components.
+**Martini Glass.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md) without a spell slot or components.
 
 ### Cloak and Dagger (Level 6)
 
-When you deal damage during the first round of combat, you can deal extra Force damage to the target if the target hasn't taken a turn yet or if you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the attack roll against the target. The Force damage equals your Investigator level.
+When you deal damage during the first round of combat, you can deal extra Force damage to the target if the target hasn't taken a turn yet or if you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the attack roll against the target. The Force damage equals your Investigator level.
 
 ### Body Double (Level 10)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can assume the identity of a Humanoid or a corpse of a Humanoid that you touch that has been dead for no longer than 24 hours. An illusion causes your appearance to perfectly match the target, including clothing, armor, weapons, and other belongings. If the target is a corpse, you resemble the Humanoid as it appeared in life. Additionally, the corpse, its blood, clothing, and other physical evidence of its death, become magically [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for 8 hours.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can assume the identity of a Humanoid or a corpse of a Humanoid that you touch that has been dead for no longer than 24 hours. An illusion causes your appearance to perfectly match the target, including clothing, armor, weapons, and other belongings. If the target is a corpse, you resemble the Humanoid as it appeared in life. Additionally, the corpse, its blood, clothing, and other physical evidence of its death, become magically [invisible](/Mechanics/CLI/conditions.md#Invisible) for 8 hours.
 
-To discern that you are disguised, a creature must take the [Study](Mechanics/CLI/rules/actions.md#Study) action to inspect your appearance and succeed on an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC.
+To discern that you are disguised, a creature must take the [Study](/Mechanics/CLI/actions.md#Study) action to inspect your appearance and succeed on an Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check against your spell save DC.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a use of your [Rushed Incantation](/Mechanics/CLI/classes/investigator-valdaspire24.md#Rushed%20Incantation%20\(Level%202\)) (no action required).
 
 ### Glib (Level 14)
 
-You can cast [Glibness](Mechanics/CLI/spells/glibness-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). For the spell's duration, you can take the [Influence](Mechanics/CLI/rules/actions.md#Influence) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+You can cast [Glibness](/Mechanics/CLI/spells/glibness-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). For the spell's duration, you can take the [Influence](/Mechanics/CLI/actions.md#Influence) action as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Beast Master
-created: 2026-03-09T12:15:33.823-04:00
-modified: 2026-03-09T12:15:33.823-04:00
-published: 2026-03-09T12:15:33.823-04:00
+created: 2026-03-29T21:53:55.612-04:00
+modified: 2026-03-29T21:53:55.612-04:00
+published: 2026-03-29T21:53:55.612-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/ranger/beast-master
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Beast Master
 
-_[Ranger](./ranger-xphb.md): Ranger Subclass_\
-_Source: Player's Handbook (2024) p. 123_
+_[Ranger](./ranger-xphb.md): Ranger Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,19 +58,19 @@ A Beast Master forms a mystical bond with a special animal, drawing on primal ma
 
 ### Primal Companion (Level 3)
 
-You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: [Beast of the Land](Mechanics/CLI/bestiary/beast/beast-of-the-land-xphb.md), [Beast of the Sea](Mechanics/CLI/bestiary/beast/beast-of-the-sea-xphb.md), or [Beast of the Sky](Mechanics/CLI/bestiary/beast/beast-of-the-sky-xphb.md). You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
+You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: [Beast of the Land](/Mechanics/CLI/bestiary/beast/beast-of-the-land-xphb.md), [Beast of the Sea](/Mechanics/CLI/bestiary/beast/beast-of-the-sea-xphb.md), or [Beast of the Sky](/Mechanics/CLI/bestiary/beast/beast-of-the-sky-xphb.md). You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
 
 The beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.
 
-**The Beast in Combat.** In combat, the beast acts during your turn. It can move and use its [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) on its own, but the only action it takes is the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action unless you take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action to command the beast to take the Beast's Strike action. If you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition, the beast acts on its own and isn't limited to the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action.
+**The Beast in Combat.** In combat, the beast acts during your turn. It can move and use its [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) on its own, but the only action it takes is the [Dodge](/Mechanics/CLI/actions.md#Dodge) action unless you take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the [Attack](/Mechanics/CLI/actions.md#Attack) action to command the beast to take the Beast's Strike action. If you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition, the beast acts on its own and isn't limited to the [Dodge](/Mechanics/CLI/actions.md#Dodge) action.
 
-**Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) restored.
+**Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) restored.
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.
 
 ### Exceptional Training (Level 7)
 
-When you take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to command your Primal Companion beast to take an action, you can also command it to take the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), [Dodge](Mechanics/CLI/rules/actions.md#Dodge), or [Help](Mechanics/CLI/rules/actions.md#Help) action using its [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+When you take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to command your Primal Companion beast to take an action, you can also command it to take the [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), [Dodge](/Mechanics/CLI/actions.md#Dodge), or [Help](/Mechanics/CLI/actions.md#Help) action using its [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 In addition, whenever it hits with an attack roll and deals damage, it can deal your choice of Force damage or its normal damage type.
 
@@ -79,8 +78,12 @@ In addition, whenever it hits with an attack roll and deals damage, it can deal 
 
 When you command your Primal Companion beast to take the Beast's Strike action, the beast can use it twice.
 
-In addition, the first time each turn it hits a creature under the effect of your [Hunter's Mark](Mechanics/CLI/spells/hunters-mark-xphb.md) spell, the beast deals extra Force damage equal to the bonus damage of that spell.
+In addition, the first time each turn it hits a creature under the effect of your [Hunter's Mark](/Mechanics/CLI/spells/hunters-mark-xphb.md) spell, the beast deals extra Force damage equal to the bonus damage of that spell.
 
 ### Share Spells (Level 15)
 
 When you cast a spell targeting yourself, you can also affect your Primal Companion beast with the spell if the beast is within 30 feet of you.
+
+## Sources
+
+_Player's Handbook (2024) p. 123_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Arcane Gate
-created: 2026-03-09T12:15:33.874-04:00
-modified: 2026-03-09T12:15:33.875-04:00
-published: 2026-03-09T12:15:33.875-04:00
+created: 2026-03-29T21:53:55.667-04:00
+modified: 2026-03-29T21:53:55.667-04:00
+published: 2026-03-29T21:53:55.667-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -17,11 +18,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 ---
 
 # Arcane Gate
@@ -37,8 +33,17 @@ You create linked teleportation portals. Choose two Large, unoccupied spaces on 
 
 The portals are two-dimensional glowing rings filled with mist that blocks sight. They hover inches from the ground and are perpendicular to it.
 
-A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can change the facing of the open sides.
+A portal is open on only one side (you choose which). Anything entering the open side of a portal exits from the open side of the other portal as if the two were adjacent to each other. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can change the facing of the open sides.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 242_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 242_

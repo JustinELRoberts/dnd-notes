@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wastrilith
-created: 2026-03-09T12:15:33.826-04:00
-modified: 2026-03-09T12:15:33.827-04:00
-published: 2026-03-09T12:15:33.827-04:00
+created: 2026-03-29T21:53:55.612-04:00
+modified: 2026-03-29T21:53:55.612-04:00
+published: 2026-03-29T21:53:55.612-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/13
@@ -17,26 +17,41 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Wastrilith (MPMM)
+ac: 18
+hp: 157
+modifier: 4
+hit_dice: 15d10 + 75
+cr: "13"
+stats:
+  - 19
+  - 18
+  - 21
+  - 19
+  - 12
+  - 14
+source:
+  - MPMM
 ---
 
 # Wastrilith
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 258_\
 ![](Mechanics/CLI/bestiary/fiend/img/wastrilith.webp#right)
-
 Found in the waters of the Abyss and other bodies of water contaminated by that plane's fell influence, wastriliths establish themselves as lords of the deep and rule their dominions with cruelty.
 
 A wastrilith pollutes the waters around it. Its noxious presence even affects nearby sources of water when the demon travels on land. The corrupted water, which contains a measure of the demon's essence, responds to the wastrilith's commands—perhaps hardening to prevent foes from escaping or erupting in a surge that drags victims into its reach.
 
-Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [optional rule on abyssal corruption](Mechanics/CLI/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
+Creatures that ingest water corrupted by a wastrilith risk their very souls. Those who drink the poisonous liquid might wither away until they finally die, or they remain alive only to become thralls of chaos and evil. To represent this defilement, you can use the [optional rule on abyssal corruption](/Mechanics/CLI/tables/optional-rule-abyssal-corruption-abyssal-corruption.md) in "chapter 2 of the Dungeon Master's Guide", causing the poisoned creature to be corrupted.
 
 ```ad-statblock
 title: Wastrilith
-![](Mechanics/CLI/bestiary/fiend/token/wastrilith-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/wastrilith-mpmm.webp#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 157 (`15d10 + 75`) 
+- **Hit Points** 157 (15d10 + 75) 
 - **Speed** 30 ft., swim 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,10 +61,10 @@ title: Wastrilith
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +9, Constitution +10
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 13
 
@@ -59,7 +74,7 @@ title: Wastrilith
 
 ***Corrupt Water.*** At the start of each of the wastrilith's turns, exposed water within 30 feet of it is befouled. Underwater, this effect lightly obscures the area until a current clears it away. Water in containers remains corrupted until it evaporates.
 
-A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (`4d6`) poison damage and is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. At the end of this time, the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature must repeat the saving throw. On a failure, the creature takes 18 (`4d8`) poison damage and is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until it finishes a long rest.
+A creature that consumes this foul water or swims in it must make a DC 18 Constitution saving throw. On a successful save, the creature is immune to the foul water for 24 hours. On a failed save, the creature takes 14 (`4d6`) poison damage and is [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. At the end of this time, the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature must repeat the saving throw. On a failure, the creature takes 18 (`4d8`) poison damage and is [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until it finishes a long rest.
 
 If another demon drinks the foul water as an action, it gains 11 (`2d10`) temporary hit points.
 
@@ -85,3 +100,7 @@ If another demon drinks the foul water as an action, it gains 11 (`2d10`) tempor
 ## Environment
 
 coastal, swamp, underdark, underwater
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 258_
