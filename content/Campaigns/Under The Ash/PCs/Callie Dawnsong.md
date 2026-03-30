@@ -4,14 +4,14 @@ aliases:
   - Cal
   - Callie
 created: 2026-03-12T17:01:19.797-04:00
-modified: 2026-03-30T13:38:46.767-04:00
-published: 2026-03-30T13:38:46.767-04:00
+modified: 2026-03-30T13:48:44.403-04:00
+published: 2026-03-30T13:48:44.403-04:00
 Gender: Female
 Race: "[[half-elf|Half-Elf]]"
 Class: "[[bard-xphb|Bard]]"
 Subclass: "[[bard-xphb-college-of-lore-xphb|College of Lore]]"
 ---
 
-![[Campaigns/Under The Ash/PCs/_img/Callie Dawnsong.png|700]]
+![[Campaigns/Under The Ash/PCs/_img/Callie Dawnsong.png| center | 700]]
 
 ## Description

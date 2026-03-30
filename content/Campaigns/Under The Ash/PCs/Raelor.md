@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-12T17:47:07.478-04:00
-modified: 2026-03-30T13:38:32.873-04:00
-published: 2026-03-30T13:38:32.873-04:00
+modified: 2026-03-30T13:48:38.029-04:00
+published: 2026-03-30T13:48:38.029-04:00
 Gender: Male
 Race: "[[human-xphb|Human]]"
 Class: "[[ranger-xphb|Ranger]]"
@@ -10,7 +10,7 @@ Subclass: "[[ranger-xphb-hunter-xphb|Hunter]]"
 aliases:
 ---
 
-![[Campaigns/Under The Ash/PCs/_img/Raelor.png|700]]
+![[Campaigns/Under The Ash/PCs/_img/Raelor.png| center | 700]]
 
 ## Description
 
