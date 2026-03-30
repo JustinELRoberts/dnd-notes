@@ -3,15 +3,15 @@ publish: true
 aliases:
   - Roz
 created: 2026-03-12T17:02:43.811-04:00
-modified: 2026-03-30T13:24:21.955-04:00
-published: 2026-03-30T13:24:21.955-04:00
+modified: 2026-03-30T13:38:57.712-04:00
+published: 2026-03-30T13:38:57.712-04:00
 Gender: Male
 Race: "[[human-xphb|Human]]"
 Class: "[[cleric-xphb|Cleric]]"
 Subclass: "[[cleric-xphb-twilight-domain-tce|Twilight Domain]]"
 ---
 
-![](Campaigns/Under The Ash/PCs/_img/Roz Rozum.png)
+![[Campaigns/Under The Ash/PCs/_img/Roz Rozum.png|700]]
 
 ## Description
 
