@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Carrion Crawler
-created: 2026-03-09T12:15:34.055-04:00
-modified: 2026-03-09T12:15:34.055-04:00
-published: 2026-03-09T12:15:34.055-04:00
+created: 2026-03-29T21:53:56.073-04:00
+modified: 2026-03-29T21:53:56.073-04:00
+published: 2026-03-29T21:53:56.073-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Carrion Crawler
+ac: 13
+hp: 51
+modifier: 1
+hit_dice: 6d10 + 18
+cr: "2"
+stats:
+  - 14
+  - 13
+  - 16
+  - 1
+  - 12
+  - 5
+source:
+  - MM
 ---
 
 # Carrion Crawler
 
-_Source: Monster Manual p. 37_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/carrion-crawler.webp#right)
-
 Carrion crawlers scour putrid flesh from carcasses and gobble the slimy bones that remain. They aggressively attack any creature that trespasses on their territory or disturbs their feasting.
 
 ## Carrion Eaters
@@ -35,11 +50,11 @@ Whether in subterranean darkness or while hunting at night, light signals a pote
 
 ```ad-statblock
 title: Carrion Crawler
-![](Mechanics/CLI/bestiary/monstrosity/token/carrion-crawler.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/carrion-crawler.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 51 (`6d10 + 18`) 
+- **Hit Points** 51 (6d10 + 18) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,14 +63,14 @@ title: Carrion Crawler
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** —
 - **Challenge** 2
 
 ## Traits
 
-***Keen Smell.*** The carrion crawler has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The carrion crawler has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
 ***Spider Climb.*** The carrion crawler can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -63,7 +78,7 @@ title: Carrion Crawler
 
 ***Multiattack.*** The carrion crawler makes two attacks: one with its tentacles and one with its bite.
 
-***Tentacles.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one creature. *Hit:* 4 (`1d4 + 2`) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. Until this poison ends, the target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.
+***Tentacles.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one creature. *Hit:* 4 (`1d4 + 2`) poison damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. Until this poison ends, the target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the poison on itself on a success.
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage.
 ```
@@ -73,3 +88,7 @@ title: Carrion Crawler
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 37_

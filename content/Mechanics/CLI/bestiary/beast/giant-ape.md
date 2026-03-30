@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Ape
-created: 2026-03-09T12:15:34.109-04:00
-modified: 2026-03-09T12:15:34.109-04:00
-published: 2026-03-09T12:15:34.109-04:00
+created: 2026-03-29T21:53:56.146-04:00
+modified: 2026-03-29T21:53:56.146-04:00
+published: 2026-03-29T21:53:56.146-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -14,19 +14,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Ape
+ac: 12
+hp: 157
+modifier: 2
+hit_dice: 15d12 + 60
+cr: "7"
+stats:
+  - 23
+  - 14
+  - 18
+  - 7
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Giant Ape
 
-_Source: Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Giant Ape
-![](Mechanics/CLI/bestiary/beast/token/giant-ape.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-ape.webp#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 157 (`15d12 + 60`) 
+- **Hit Points** 157 (15d12 + 60) 
 - **Speed** 40 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -35,7 +50,7 @@ title: Giant Ape
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +9, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +9, [Perception](/Mechanics/CLI/skills.md#Perception) +4
 - **Senses** passive Perception 14
 - **Languages** —
 - **Challenge** 7
@@ -54,3 +69,7 @@ title: Giant Ape
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 323. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

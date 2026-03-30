@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Awakened Shrub
-created: 2026-03-09T12:15:33.857-04:00
-modified: 2026-03-09T12:15:33.857-04:00
-published: 2026-03-09T12:15:33.857-04:00
+created: 2026-03-29T21:53:55.647-04:00
+modified: 2026-03-29T21:53:55.647-04:00
+published: 2026-03-29T21:53:55.647-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -14,21 +14,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Awakened Shrub
+ac: 9
+hp: 10
+modifier: -1
+hit_dice: 3d6
+cr: "0"
+stats:
+  - 3
+  - 8
+  - 11
+  - 10
+  - 10
+  - 6
+source:
+  - MM
 ---
 
 # Awakened Shrub
 
-_Source: Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
-An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](Mechanics/CLI/spells/awaken-xphb.md) spell or similar magic.
+An awakened shrub is an ordinary shrub given sentience and mobility by the [awaken](/Mechanics/CLI/spells/awaken-xphb.md) spell or similar magic.
 
 ```ad-statblock
 title: Awakened Shrub
-![](Mechanics/CLI/bestiary/plant/token/awakened-shrub.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/awakened-shrub.webp#token)
 *Small plant, Unaligned*
 
 - **Armor Class** 9 
-- **Hit Points** 10 (`3d6`) 
+- **Hit Points** 10 (3d6) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,3 +73,7 @@ title: Awakened Shrub
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 317. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Goblin Boss
-created: 2026-03-09T12:15:33.832-04:00
-modified: 2026-03-09T12:15:33.832-04:00
-published: 2026-03-09T12:15:33.832-04:00
+created: 2026-03-29T21:53:55.618-04:00
+modified: 2026-03-29T21:53:55.618-04:00
+published: 2026-03-29T21:53:55.618-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Goblin Boss
+ac: 17
+hp: 21
+modifier: 2
+hit_dice: 6d6
+cr: "1"
+stats:
+  - 10
+  - 14
+  - 10
+  - 10
+  - 8
+  - 10
+source:
+  - MM
 ---
 
 # Goblin Boss
 
-_Source: Monster Manual p. 166_\
 ![](Mechanics/CLI/bestiary/humanoid/img/goblin.webp#right)
-
 Goblins are small, black-hearted, selfish humanoids that lair in caves, abandoned mines, despoiled dungeons, and other dismal settings. Individually weak, goblins gather in large-sometimes overwhelming-numbers. They crave power and regularly abuse whatever authority they obtain.
 
 ## Goblinoids
@@ -58,11 +73,11 @@ Maglubiyet the Mighty One, the Lord of Depths and Darkness, is the greater god o
 
 ```ad-statblock
 title: Goblin Boss
-![](Mechanics/CLI/bestiary/humanoid/token/goblin-boss.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/goblin-boss.webp#token)
 *Small humanoid (goblinoid), Neutral Evil*
 
-- **Armor Class** 17 ([chain shirt](Mechanics/CLI/items/chain-shirt-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 21 (`6d6`) 
+- **Armor Class** 17 ([chain shirt](/Mechanics/CLI/items/chain-shirt.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 21 (6d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -71,15 +86,14 @@ title: Goblin Boss
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md), [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** Common, Goblin
 - **Challenge** 1
 
 ## Traits
 
-***Nimble Escape.*** The goblin can take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action on each of its turns.
+***Nimble Escape.*** The goblin can take the [Disengage](/Mechanics/CLI/actions.md#Disengage) or [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action on each of its turns.
 
 ## Actions
 
@@ -99,3 +113,7 @@ title: Goblin Boss
 ## Environment
 
 underdark, grassland, forest, hill
+
+## Sources
+
+_Monster Manual p. 166_

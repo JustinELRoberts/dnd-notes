@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Copper Dragon Wyrmling
-created: 2026-03-09T12:15:34.135-04:00
-modified: 2026-03-09T12:15:34.135-04:00
-published: 2026-03-09T12:15:34.135-04:00
+created: 2026-03-29T21:53:56.184-04:00
+modified: 2026-03-29T21:53:56.184-04:00
+published: 2026-03-29T21:53:56.184-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Copper Dragon Wyrmling
+ac: 16
+hp: 22
+modifier: 1
+hit_dice: 4d8 + 4
+cr: "1"
+stats:
+  - 15
+  - 12
+  - 13
+  - 14
+  - 11
+  - 13
+source:
+  - MM
 ---
 
 # Copper Dragon Wyrmling
 
-_Source: Monster Manual p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/copper-dragon.webp#right)
-
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 
 A copper dragon has brow plates jutting over its eyes, extending back to long horns that grow as a series of overlapping segments. Its backswept cheek ridges and jaw frills give it a pensive look. At birth, a copper dragon's scales are a ruddy brown with a metallic tint. As the dragon ages, its scales become more coppery in color, later taking on a green tint as it ages. A copper dragon's pupils fade with age, and the eyes of the oldest copper dragons resemble glowing turquoise orbs.
@@ -90,11 +105,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Copper Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/copper-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/copper-dragon-wyrmling.webp#token)
 *Medium dragon, Chaotic Good*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -103,8 +118,8 @@ title: Copper Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +3, Constitution +3, Wisdom +2, Charisma +3
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** acid
 - **Languages** Draconic
 - **Challenge** 1
@@ -120,3 +135,7 @@ title: Copper Dragon Wyrmling
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

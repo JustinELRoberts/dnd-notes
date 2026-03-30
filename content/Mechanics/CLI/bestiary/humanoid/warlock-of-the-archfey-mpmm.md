@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warlock of the Archfey
-created: 2026-03-09T12:15:34.062-04:00
-modified: 2026-03-09T12:15:34.062-04:00
-published: 2026-03-09T12:15:34.062-04:00
+created: 2026-03-29T21:53:56.083-04:00
+modified: 2026-03-29T21:53:56.083-04:00
+published: 2026-03-29T21:53:56.083-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -18,13 +18,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Warlock of the Archfey (MPMM)
+ac: 13
+hp: 67
+modifier: 3
+hit_dice: 15d8
+cr: "4"
+stats:
+  - 9
+  - 16
+  - 11
+  - 11
+  - 12
+  - 18
+source:
+  - MPMM
+  - VGM
 ---
 
 # Warlock of the Archfey
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219_
-
-Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](Mechanics/CLI/bestiary/fey/boggle-mpmm.md), [quicklings](Mechanics/CLI/bestiary/fey/quickling-mpmm.md), and [redcaps](Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (all appear in "this book") or even [satyrs](Mechanics/CLI/bestiary/fey/satyr.md) and [sprites](Mechanics/CLI/bestiary/fey/sprite-xmm.md).
+Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as [boggles](/Mechanics/CLI/bestiary/fey/boggle-mpmm.md), [quicklings](/Mechanics/CLI/bestiary/fey/quickling-mpmm.md), and [redcaps](/Mechanics/CLI/bestiary/fey/redcap-mpmm.md) (all appear in "this book") or even [satyrs](/Mechanics/CLI/bestiary/fey/satyr.md) and [sprites](/Mechanics/CLI/bestiary/fey/sprite-xmm.md).
 
 ## Warlocks
 
@@ -34,11 +50,11 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 
 ```ad-statblock
 title: Warlock of the Archfey
-![](Mechanics/CLI/bestiary/humanoid/token/warlock-of-the-archfey-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/warlock-of-the-archfey-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 13 (16 with [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md))
-- **Hit Points** 67 (`15d8`) 
+- **Armor Class** 13 (16 with [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md))
+- **Hit Points** 67 (15d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,10 +63,9 @@ title: Warlock of the Archfey
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +3, Charisma +6
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +2, [Deception](Mechanics/CLI/rules/skills.md#Deception) +6, [Nature](Mechanics/CLI/rules/skills.md#Nature) +2, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +6
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +2, [Deception](/Mechanics/CLI/skills.md#Deception) +6, [Nature](/Mechanics/CLI/skills.md#Nature) +2, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +6
 - **Senses** passive Perception 11
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed)
-- **Gear** [rapier](Mechanics/CLI/items/rapier-xphb.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed)
 - **Languages** any two languages (usually Sylvan)
 - **Challenge** 4
 
@@ -64,13 +79,13 @@ title: Warlock of the Archfey
 
 ***Spellcasting.*** The warlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 14): 
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md), [speak with animals](Mechanics/CLI/spells/speak-with-animals-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md), [speak with animals](/Mechanics/CLI/spells/speak-with-animals-xphb.md)
 
-**1/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [hold monster](Mechanics/CLI/spells/hold-monster-xphb.md)
+**1/day each:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md), [hold monster](/Mechanics/CLI/spells/hold-monster-xphb.md)
 
 ## Reactions
 
-***Misty Escape (Recharges after a Short or Long Rest).*** In response to taking damage, the warlock turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
+***Misty Escape (Recharges after a Short or Long Rest).*** In response to taking damage, the warlock turns [invisible](/Mechanics/CLI/conditions.md#Invisible) and teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see. It remains [invisible](/Mechanics/CLI/conditions.md#Invisible) until the start of its next turn or until it attacks, makes a damage roll, or casts a spell.
 ```
 
 ^statblock
@@ -78,3 +93,7 @@ title: Warlock of the Archfey
 ## Environment
 
 arctic, forest, mountain, swamp, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219_

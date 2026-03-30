@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dhergoloth
-created: 2026-03-09T12:15:34.017-04:00
-modified: 2026-03-09T12:15:34.017-04:00
-published: 2026-03-09T12:15:34.017-04:00
+created: 2026-03-29T21:53:56.027-04:00
+modified: 2026-03-29T21:53:56.027-04:00
+published: 2026-03-29T21:53:56.027-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dhergoloth (MPMM)
+ac: 15
+hp: 119
+modifier: 0
+hit_dice: 14d8 + 56
+cr: "7"
+stats:
+  - 17
+  - 10
+  - 19
+  - 7
+  - 10
+  - 9
+source:
+  - MPMM
 ---
 
 # Dhergoloth
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 94_\
 ![](Mechanics/CLI/bestiary/fiend/img/dhergoloth.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -33,11 +49,11 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 
 ```ad-statblock
 title: Dhergoloth
-![](Mechanics/CLI/bestiary/fiend/token/dhergoloth-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/dhergoloth-mpmm.webp#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 119 (`14d8 + 56`) 
+- **Hit Points** 119 (14d8 + 56) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,10 +63,10 @@ title: Dhergoloth
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +6
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 7
 
@@ -70,7 +86,7 @@ title: Dhergoloth
 
 ***Spellcasting.*** The dhergoloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 10):
 
-**At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md)
+**At will:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [fear](/Mechanics/CLI/spells/fear-xphb.md)
 ```
 
 ^statblock
@@ -78,3 +94,7 @@ title: Dhergoloth
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 94_

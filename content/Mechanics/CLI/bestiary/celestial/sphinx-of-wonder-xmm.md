@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sphinx of Wonder
-created: 2026-03-09T12:15:34.025-04:00
-modified: 2026-03-09T12:15:34.025-04:00
-published: 2026-03-09T12:15:34.025-04:00
+created: 2026-03-29T21:53:56.035-04:00
+modified: 2026-03-29T21:53:56.035-04:00
+published: 2026-03-29T21:53:56.035-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1
@@ -16,13 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sphinx of Wonder (XMM)
+ac: 13
+hp: 24
+modifier: 3
+hit_dice: 7d4 + 7
+cr: "1"
+stats:
+  - 6
+  - 17
+  - 13
+  - 15
+  - 12
+  - 11
+source:
+  - XMM
+  - XPHB
 ---
 
 # Sphinx of Wonder
 
-_Source: Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/celestial/img/sphinx-of-wonder.webp#right)
-
 A sphinx of wonder is brightly feathered and the size of a lion cub. One comes into being every time a unique idea is conceived on the Material Plane. Each sphinx of wonder is fascinated by a particular type of story or field of study, and it learns all it can about that topic. It bears a unique sigil on its forehead that suggests the type of knowledge that fascinates it. Sometimes, a sphinx of wonder forms a bond with a mortal scholar and aids them in their research.
 
 ## Sphinxes
@@ -57,11 +73,11 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
 ```ad-statblock
 title: Sphinx of Wonder
-![](Mechanics/CLI/bestiary/celestial/token/sphinx-of-wonder-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/sphinx-of-wonder-xmm.webp#token)
 *Tiny celestial, Lawful Good*
 
 - **Armor Class** 13 
-- **Hit Points** 24 (`7d4 + 7`) 
+- **Hit Points** 24 (7d4 + 7) 
 - **Speed** 20 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -70,15 +86,15 @@ title: Sphinx of Wonder
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +4, [Religion](Mechanics/CLI/rules/skills.md#Religion) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +4, [Religion](/Mechanics/CLI/skills.md#Religion) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** necrotic, psychic, radiant
 - **Languages** Celestial, Common
 - **Challenge** 1
 
 ## Traits
 
-***Magic Resistance.*** The sphinx has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+***Magic Resistance.*** The sphinx has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
 
 ## Actions
 
@@ -94,3 +110,7 @@ title: Sphinx of Wonder
 ## Environment
 
 desert, planar, upper
+
+## Sources
+
+_Monster Manual (2024) p. 291, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

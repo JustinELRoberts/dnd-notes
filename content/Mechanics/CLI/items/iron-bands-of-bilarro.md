@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Iron Bands of Bilarro
-created: 2026-03-09T12:15:34.049-04:00
-modified: 2026-03-09T12:15:34.049-04:00
-published: 2026-03-09T12:15:34.049-04:00
+created: 2026-03-29T21:53:56.061-04:00
+modified: 2026-03-29T21:53:56.061-04:00
+published: 2026-03-29T21:53:56.061-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -19,14 +19,17 @@ obsidianUIMode: preview
 _Wondrous item, major, rare_\
 ![](Mechanics/CLI/items/img/iron-bands-of-bilarro.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This rusty iron sphere measures 3 inches in diameter and weighs 1 pound. You can use an action to speak the command word and throw the sphere at a Huge or smaller creature you can see within 60 feet of you. As the sphere moves through the air, it opens into a tangle of metal bands.
 
-Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.
+Make a ranged attack roll with an attack bonus equal to your Dexterity modifier plus your proficiency bonus. On a hit, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained) until you take a bonus action to speak the command word again to release it. Doing so, or missing with the attack, causes the bands to contract and become a sphere once more.
 
-A creature, including the one [restrained](Mechanics/CLI/rules/conditions.md#Restrained), can use an action to make a DC 20 Strength check to break the iron bands. On a success, the item is destroyed, and the [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed.
+A creature, including the one [restrained](/Mechanics/CLI/conditions.md#Restrained), can use an action to make a DC 20 Strength check to break the iron bands. On a success, the item is destroyed, and the [restrained](/Mechanics/CLI/conditions.md#Restrained) creature is freed. If the check fails, any further attempts made by that creature automatically fail until 24 hours have elapsed.
 
 Once the bands are used, they can't be used again until the next dawn.
 
-_Source: Dungeon Master's Guide p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Iron Bands of Binding")_
+## Sources
+
+_Dungeon Master's Guide p. 177. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Iron Bands of Binding")_

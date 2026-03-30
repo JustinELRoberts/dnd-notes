@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Elemental Spirit (Air)
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.096-04:00
-published: 2026-03-09T12:15:34.096-04:00
+created: 2026-03-29T21:53:56.127-04:00
+modified: 2026-03-29T21:53:56.127-04:00
+published: 2026-03-29T21:53:56.127-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Elemental Spirit (Air) (XPHB)
+modifier: 2
+stats:
+  - 18
+  - 15
+  - 17
+  - 4
+  - 10
+  - 16
+source:
+  - XPHB
 ---
 
 # Elemental Spirit (Air)
-
-_Source: Player's Handbook (2024) p. 325_
 
 ```ad-statblock
 title: Elemental Spirit (Air)
@@ -34,10 +45,10 @@ title: Elemental Spirit (Air)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** lightning, thunder
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Primordial, understands the languages you know
 - **Challenge** 
 
@@ -53,3 +64,7 @@ title: Elemental Spirit (Air)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 325_

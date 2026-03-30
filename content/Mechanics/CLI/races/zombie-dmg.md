@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Zombie
-created: 2026-03-09T12:15:33.797-04:00
-modified: 2026-03-09T12:15:33.797-04:00
-published: 2026-03-09T12:15:33.797-04:00
+created: 2026-03-29T21:53:55.580-04:00
+modified: 2026-03-29T21:53:55.580-04:00
+published: 2026-03-29T21:53:55.580-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/zombie
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Zombie
-
-_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +1 con +2 int -6 wis -4 cha -4
 - **Type**: undead
@@ -34,7 +32,7 @@ If damage reduces you to 0 hit points, you must make a Constitution saving throw
 
 ### Undead Nature
 
-You are immune to poison damage, and you can't be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). You don't require air, food, drink, or sleep.
+You are immune to poison damage, and you can't be [poisoned](/Mechanics/CLI/conditions.md#Poisoned). You don't require air, food, drink, or sleep.
 
 ### Darkvision
 
@@ -43,3 +41,7 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 ### Languages
 
 You can't speak, but you can understand the languages you knew in life.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

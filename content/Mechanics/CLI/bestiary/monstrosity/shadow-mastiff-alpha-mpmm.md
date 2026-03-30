@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadow Mastiff Alpha
-created: 2026-03-09T12:15:33.941-04:00
-modified: 2026-03-09T12:15:33.941-04:00
-published: 2026-03-09T12:15:33.941-04:00
+created: 2026-03-29T21:53:55.943-04:00
+modified: 2026-03-29T21:53:55.943-04:00
+published: 2026-03-29T21:53:55.943-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -16,11 +16,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shadow Mastiff Alpha (MPMM)
+ac: 12
+hp: 44
+modifier: 2
+hit_dice: 8d8 + 8
+cr: "3"
+stats:
+  - 16
+  - 14
+  - 13
+  - 6
+  - 12
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Shadow Mastiff Alpha
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190_
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
 
@@ -32,11 +48,11 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 
 ```ad-statblock
 title: Shadow Mastiff Alpha
-![](Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-alpha-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/shadow-mastiff-alpha-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 44 (`8d8 + 8`) 
+- **Hit Points** 44 (8d8 + 8) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,8 +61,8 @@ title: Shadow Mastiff Alpha
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks while in dim light or darkness
 - **Languages** —
 - **Challenge** 3
@@ -59,13 +75,13 @@ title: Shadow Mastiff Alpha
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Bite.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
-***Terrifying Howl (Recharge 6).*** The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it must succeed on a DC 11 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of it for 1 minute. A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's save is successful or the effect ends for it, the target is immune to any shadow mastiff's Terrifying Howl for the next 24 hours.
+***Terrifying Howl (Recharge 6).*** The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it must succeed on a DC 11 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) of it for 1 minute. A [frightened](/Mechanics/CLI/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's save is successful or the effect ends for it, the target is immune to any shadow mastiff's Terrifying Howl for the next 24 hours.
 
 ## Bonus Actions
 
-***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](Mechanics/CLI/rules/conditions.md#Invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Shadow Blend.*** While in dim light or darkness, the shadow mastiff becomes [invisible](/Mechanics/CLI/conditions.md#Invisible), along with anything it is wearing or carrying. The invisibility lasts until the shadow mastiff uses a bonus action to end it or until the shadow mastiff attacks, is in bright light, or is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 ```
 
 ^statblock
@@ -73,3 +89,7 @@ title: Shadow Mastiff Alpha
 ## Environment
 
 forest, hill, swamp
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190_

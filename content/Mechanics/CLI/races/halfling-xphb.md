@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Halfling
-created: 2026-03-09T12:15:34.117-04:00
-modified: 2026-03-09T12:15:34.117-04:00
-published: 2026-03-09T12:15:34.117-04:00
+created: 2026-03-29T21:53:56.152-04:00
+modified: 2026-03-29T21:53:56.152-04:00
+published: 2026-03-29T21:53:56.152-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/race/halfling
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Halfling
 
-_Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)_\
 ![](Mechanics/CLI/races/img/halfling.webp#right)
 
 - **Ability Scores**: None
@@ -27,7 +26,7 @@ _Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)_\
 
 ### Brave
 
-You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition.
+You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition.
 
 ### Halfling Nimbleness
 
@@ -35,11 +34,11 @@ You can move through the space of any creature that is a size larger than you, b
 
 ### Luck
 
-When you roll a 1 on the `d20` of a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can reroll the die, and you must use the new roll.
+When you roll a 1 on the `d20` of a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), you can reroll the die, and you must use the new roll.
 
 ### Naturally Stealthy
 
-You can take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action even when you are obscured only by a creature that is at least one size larger than you.
+You can take the [Hide](/Mechanics/CLI/actions.md#Hide) action even when you are obscured only by a creature that is at least one size larger than you.
 
 ## Description
 
@@ -50,3 +49,7 @@ Anyone who has spent time around halflings, particularly halfling adventurers, h
 Halfling communities come in all varieties. For every sequestered shire tucked away in an unspoiled part of the world, there's a crime syndicate like the Boromar Clan in the Eberron setting or a territorial mob of halflings like those in the Dark Sun setting.
 
 Halflings who prefer to live underground are sometimes called strongheart halflings or stouts. Nomadic halflings, as well as those who live among humans and other tall folk, are sometimes called lightfoot halflings or tallfellows.
+
+## Sources
+
+_Player's Handbook (2024) p. 193. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

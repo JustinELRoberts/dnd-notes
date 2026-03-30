@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lizardfolk
-created: 2026-03-09T12:15:34.138-04:00
-modified: 2026-03-09T12:15:34.138-04:00
-published: 2026-03-09T12:15:34.138-04:00
+created: 2026-03-29T21:53:56.189-04:00
+modified: 2026-03-29T21:53:56.189-04:00
+published: 2026-03-29T21:53:56.189-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Lizardfolk
+ac: 15
+hp: 22
+modifier: 0
+hit_dice: 4d8 + 4
+cr: 1/2
+stats:
+  - 15
+  - 10
+  - 13
+  - 7
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Lizardfolk
 
-_Source: Monster Manual p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/lizardfolk.webp#right)
-
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
 ## Territorial Xenophobes
@@ -62,11 +77,11 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 
 ```ad-statblock
 title: Lizardfolk
-![](Mechanics/CLI/bestiary/humanoid/token/lizardfolk.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/lizardfolk.webp#token)
 *Medium humanoid (lizardfolk), Neutral*
 
-- **Armor Class** 15 (natural armor, [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Armor Class** 15 (natural armor, [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -75,9 +90,8 @@ title: Lizardfolk
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +5
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +5
 - **Senses** passive Perception 13
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md)
 - **Languages** Draconic
 - **Challenge** 1/2
 
@@ -103,3 +117,7 @@ title: Lizardfolk
 ## Environment
 
 forest, swamp
+
+## Sources
+
+_Monster Manual p. 204. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

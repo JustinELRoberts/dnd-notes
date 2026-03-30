@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Blue Abishai
-created: 2026-03-09T12:15:33.864-04:00
-modified: 2026-03-09T12:15:33.864-04:00
-published: 2026-03-09T12:15:33.864-04:00
+created: 2026-03-29T21:53:55.652-04:00
+modified: 2026-03-29T21:53:55.652-04:00
+published: 2026-03-29T21:53:55.652-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/17
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Blue Abishai (MPMM)
+ac: 19
+hp: 202
+modifier: 2
+hit_dice: 27d8 + 81
+cr: "17"
+stats:
+  - 15
+  - 14
+  - 17
+  - 22
+  - 23
+  - 18
+source:
+  - MPMM
 ---
 
 # Blue Abishai
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 39_\
 ![](Mechanics/CLI/bestiary/fiend/img/blue-abishai.webp#right)
-
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
 
 ## Abishais
@@ -37,11 +52,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 ```ad-statblock
 title: Blue Abishai
-![](Mechanics/CLI/bestiary/fiend/token/blue-abishai-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/blue-abishai-mpmm.webp#token)
 *Medium fiend (devil, wizard), Typically  Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 202 (`27d8 + 81`) 
+- **Hit Points** 202 (27d8 + 81) 
 - **Speed** 30 ft., fly 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,17 +65,17 @@ title: Blue Abishai
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Intelligence +12, Wisdom +12
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +12
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, lightning, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Draconic, Infernal, telepathy 120 ft.
 - **Challenge** 17
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
@@ -74,9 +89,9 @@ title: Blue Abishai
 
 ***Spellcasting.*** The abishai casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
 
-**At will:** [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 
-**2/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [greater invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md), [wall of force](Mechanics/CLI/spells/wall-of-force-xphb.md)
+**2/day each:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [greater invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md), [wall of force](/Mechanics/CLI/spells/wall-of-force-xphb.md)
 
 ## Bonus Actions
 
@@ -88,3 +103,7 @@ title: Blue Abishai
 ## Environment
 
 coastal, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 39_

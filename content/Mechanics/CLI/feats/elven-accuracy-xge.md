@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Elven Accuracy
-created: 2026-03-09T12:15:33.848-04:00
-modified: 2026-03-09T12:15:33.848-04:00
-published: 2026-03-09T12:15:33.848-04:00
+created: 2026-03-29T21:53:55.637-04:00
+modified: 2026-03-29T21:53:55.637-04:00
+published: 2026-03-29T21:53:55.637-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/feat
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Elven Accuracy
 
-_**Prerequisites**_ [Elf](Mechanics/CLI/races/elf-xphb.md) or [Khoravar](Mechanics/CLI/races/khoravar-efa.md)
+_**Prerequisites**_ elf or [Half-Elf](/Mechanics/CLI/races/half-elf.md)
 
 The accuracy of elves is legendary, especially that of elf archers and spellcasters. You have uncanny aim with attacks that rely on precision rather than brute force. You gain the following benefits:
 

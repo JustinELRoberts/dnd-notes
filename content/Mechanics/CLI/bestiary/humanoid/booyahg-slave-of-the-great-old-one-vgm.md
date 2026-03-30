@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Booyahg Slave of the Great Old One
-created: 2026-03-09T12:15:33.956-04:00
-modified: 2026-03-09T12:15:33.956-04:00
-published: 2026-03-09T12:15:33.956-04:00
+created: 2026-03-29T21:53:55.959-04:00
+modified: 2026-03-29T21:53:55.959-04:00
+published: 2026-03-29T21:53:55.959-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/6
@@ -13,11 +13,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Booyahg Slave of the Great Old One (VGM)
+ac: 12
+hp: 91
+modifier: 2
+hit_dice: 14d8 + 28
+cr: "6"
+stats:
+  - 9
+  - 14
+  - 15
+  - 12
+  - 12
+  - 18
+source:
+  - VGM
 ---
 
 # Booyahg Slave of the Great Old One
-
-_Source: Volo's Guide to Monsters p. 42_
 
 This goblin warlock serves a patron who can extract payment in flesh if the goblin doesn't do as promised. Often this patron is a coven of hags serving as the tribe's boss, a fiend that has made its way into the world, or an undying lord such as a lich or a vampire. (For more information on undying lord patrons, see the "Sword Coast Adventurer's Guide").
 
@@ -33,11 +48,11 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Slave of the Great Old One
-![](Mechanics/CLI/bestiary/humanoid/token/booyahg-slave-of-the-great-old-one-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/booyahg-slave-of-the-great-old-one-vgm.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 12 (15 with [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md))
-- **Hit Points** 91 (`14d8 + 28`) 
+- **Armor Class** 12 (15 with [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md))
+- **Hit Points** 91 (14d8 + 28) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,10 +61,9 @@ title: Booyahg Slave of the Great Old One
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Wisdom +4, Charisma +7
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +4, [History](Mechanics/CLI/rules/skills.md#History) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +4, [History](/Mechanics/CLI/skills.md#History) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** psychic
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
 - **Languages** any two languages, telepathy 30 ft., Goblin
 - **Challenge** 6
 
@@ -57,17 +71,17 @@ title: Booyahg Slave of the Great Old One
 
 ***Spellcasting.*** The goblin is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, `+7` to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-**Cantrips (at will):** [chill touch](Mechanics/CLI/spells/chill-touch-xphb.md), [eldritch blast](Mechanics/CLI/spells/eldritch-blast-xphb.md), [guidance](Mechanics/CLI/spells/guidance-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md), [shocking grasp](Mechanics/CLI/spells/shocking-grasp-xphb.md)
+**Cantrips (at will):** [chill touch](/Mechanics/CLI/spells/chill-touch-xphb.md), [eldritch blast](/Mechanics/CLI/spells/eldritch-blast-xphb.md), [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md), [shocking grasp](/Mechanics/CLI/spells/shocking-grasp-xphb.md)
 
-**1st-5th level (3 slots):** [armor of Agathys](Mechanics/CLI/spells/armor-of-agathys-xphb.md), [arms of Hadar](Mechanics/CLI/spells/arms-of-hadar-xphb.md), [crown of madness](Mechanics/CLI/spells/crown-of-madness-xphb.md), [clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md), [contact other plane](Mechanics/CLI/spells/contact-other-plane-xphb.md), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md), [dissonant whispers](Mechanics/CLI/spells/dissonant-whispers-xphb.md), [dominate beast](Mechanics/CLI/spells/dominate-beast-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md), [vampiric touch](Mechanics/CLI/spells/vampiric-touch-xphb.md)
+**1st-5th level (3 slots):** [armor of Agathys](/Mechanics/CLI/spells/armor-of-agathys-xphb.md), [arms of Hadar](/Mechanics/CLI/spells/arms-of-hadar-xphb.md), [crown of madness](/Mechanics/CLI/spells/crown-of-madness-xphb.md), [clairvoyance](/Mechanics/CLI/spells/clairvoyance-xphb.md), [contact other plane](/Mechanics/CLI/spells/contact-other-plane-xphb.md), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md), [dissonant whispers](/Mechanics/CLI/spells/dissonant-whispers-xphb.md), [dominate beast](/Mechanics/CLI/spells/dominate-beast-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md), [vampiric touch](/Mechanics/CLI/spells/vampiric-touch-xphb.md)
 
 ***Innate Spellcasting.*** The goblin's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [jump](Mechanics/CLI/spells/jump-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [speak with dead](Mechanics/CLI/spells/speak-with-dead-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [jump](/Mechanics/CLI/spells/jump-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [speak with dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md)
 
-**1/day each:** [arcane gate](Mechanics/CLI/spells/arcane-gate-xphb.md), [true seeing](Mechanics/CLI/spells/true-seeing-xphb.md)
+**1/day each:** [arcane gate](/Mechanics/CLI/spells/arcane-gate-xphb.md), [true seeing](/Mechanics/CLI/spells/true-seeing-xphb.md)
 
-***Whispering Aura.*** At the start of each of the goblin's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (`3d6`) psychic damage, provided that the goblin isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Whispering Aura.*** At the start of each of the goblin's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (`3d6`) psychic damage, provided that the goblin isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ***Nimble Escape.*** The goblin
 
@@ -77,3 +91,7 @@ title: Booyahg Slave of the Great Old One
 ```
 
 ^statblock
+
+## Sources
+
+_Volo's Guide to Monsters p. 42_

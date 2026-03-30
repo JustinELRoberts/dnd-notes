@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Perfume
-created: 2026-03-09T12:15:33.775-04:00
-modified: 2026-03-09T12:15:33.775-04:00
-published: 2026-03-09T12:15:33.775-04:00
+created: 2026-03-29T21:53:55.558-04:00
+modified: 2026-03-29T21:53:55.558-04:00
+published: 2026-03-29T21:53:55.558-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/
@@ -19,7 +19,10 @@ obsidianUIMode: preview
 _Adventuring gear_
 
 - **Cost**: 5 gp
+- **Weight**: ⏤
 
-Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
+Perfume comes in a 4-ounce vial. For 1 hour after applying Perfume to yourself, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) checks made to influence an Indifferent Humanoid within 5 feet of yourself.
 
-_Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

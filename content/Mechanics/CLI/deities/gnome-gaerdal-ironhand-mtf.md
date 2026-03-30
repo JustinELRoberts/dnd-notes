@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gaerdal Ironhand
-created: 2026-03-09T12:15:34.024-04:00
-modified: 2026-03-09T12:15:34.024-04:00
-published: 2026-03-09T12:15:34.024-04:00
+created: 2026-03-29T21:53:56.034-04:00
+modified: 2026-03-29T21:53:56.034-04:00
+published: 2026-03-29T21:53:56.034-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mtf
   - ttrpg-cli/deity/gnome

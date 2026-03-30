@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spawn of Kyuss
-created: 2026-03-09T12:15:33.900-04:00
-modified: 2026-03-09T12:15:33.900-04:00
-published: 2026-03-09T12:15:33.900-04:00
+created: 2026-03-29T21:53:55.897-04:00
+modified: 2026-03-29T21:53:55.897-04:00
+published: 2026-03-29T21:53:55.897-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Spawn of Kyuss (MPMM)
+ac: 10
+hp: 76
+modifier: 0
+hit_dice: 9d8 + 36
+cr: "5"
+stats:
+  - 16
+  - 11
+  - 18
+  - 5
+  - 7
+  - 3
+source:
+  - MPMM
+  - VGM
 ---
 
 # Spawn of Kyuss
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192_\
 ![](Mechanics/CLI/bestiary/undead/img/spawn-of-kyuss.webp#right)
-
 Kyuss was a high priest of Orcus who plundered corpses from necropolises to create the first spawn of Kyuss. Even centuries after Kyuss's death, his malign disciples continue performing the horrific rites he perfected.
 
 From a distance or in poor light, a spawn of Kyuss looks like an ordinary zombie. As it comes into clearer view, however, the scores of little green worms crawling in and out of it become visible. These worms jump onto nearby Humanoids and burrow into their flesh. A worm that penetrates a Humanoid body makes its way to the creature's brain. Once inside the brain, the worm kills its host and animates the corpse, transforming it into a spawn of Kyuss, which breeds more worms.
@@ -30,11 +46,11 @@ Spawn of Kyuss are expressions of Orcus's intent to replace all life with undeat
 
 ```ad-statblock
 title: Spawn of Kyuss
-![](Mechanics/CLI/bestiary/undead/token/spawn-of-kyuss-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/spawn-of-kyuss-mpmm.webp#token)
 *Medium undead, Typically  Chaotic Evil*
 
 - **Armor Class** 10 
-- **Hit Points** 76 (`9d8 + 36`) 
+- **Hit Points** 76 (9d8 + 36) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,9 +60,9 @@ title: Spawn of Kyuss
 - **Proficiency Bonus** +3
 - **Saving Throws** Wisdom +1
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages it knew in life but can't speak
 - **Challenge** 5
 
@@ -72,3 +88,7 @@ title: Spawn of Kyuss
 ## Environment
 
 desert, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 225, Volo's Guide to Monsters p. 192_

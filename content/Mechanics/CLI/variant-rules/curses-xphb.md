@@ -1,0 +1,19 @@
+---
+publish: true
+aliases:
+  - Curses
+created: 2026-03-29T21:53:56.539-04:00
+modified: 2026-03-29T21:53:56.539-04:00
+published: 2026-03-29T21:53:56.539-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/xphb
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Curses
+
+_Source: Player's Handbook (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+
+Some game effects curse a creature or an object. The effect that confers a curse defines what the curse does. Curses can be removed by the [Remove Curse](/Mechanics/CLI/spells/remove-curse-xphb.md) and [Greater Restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spells or other magic that explicitly ends curses.

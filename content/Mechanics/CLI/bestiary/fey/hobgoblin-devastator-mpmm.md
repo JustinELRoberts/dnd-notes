@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hobgoblin Devastator
-created: 2026-03-09T12:15:33.950-04:00
-modified: 2026-03-09T12:15:33.950-04:00
-published: 2026-03-09T12:15:33.950-04:00
+created: 2026-03-29T21:53:55.952-04:00
+modified: 2026-03-29T21:53:55.952-04:00
+published: 2026-03-29T21:53:55.952-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -16,13 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hobgoblin Devastator (MPMM)
+ac: 13
+hp: 45
+modifier: 1
+hit_dice: 7d8 + 14
+cr: "4"
+stats:
+  - 13
+  - 12
+  - 14
+  - 16
+  - 13
+  - 11
+source:
+  - MPMM
+  - VGM
 ---
 
 # Hobgoblin Devastator
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161_\
 ![](Mechanics/CLI/bestiary/fey/img/hobgoblin-devastator.webp#right)
-
 Hobgoblins with a prodigious talent for magic sometimes undergo grueling training to become hobgoblin devastators. Devastators are spellcasters who call down fireballs and other destructive magic in the defense of the court they serve, whether that court is in the Feywild or the Material Plane. A hobgoblin devastator on the battlefield is a boon to their allies and a threat to every foe around them.
 
 Far from being cloistered academics, hobgoblin devastators are masters of the battlefield. In addition to tactical applications of the magical arts, they learn the basics of weapon use, and they measure their deeds by the enemies defeated though their magic. They have the respect of other members of the host and receive obedience and deference from many quarters.
@@ -36,11 +52,11 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 
 ```ad-statblock
 title: Hobgoblin Devastator
-![](Mechanics/CLI/bestiary/fey/token/hobgoblin-devastator-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/hobgoblin-devastator-mpmm.webp#token)
 *Medium fey (goblinoid), Typically  Lawful Neutral*
 
-- **Armor Class** 13 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 45 (`7d8 + 14`) 
+- **Armor Class** 13 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 45 (7d8 + 14) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,9 +65,8 @@ title: Hobgoblin Devastator
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Gear** [quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** Common, Goblin
 - **Challenge** 4
 
@@ -65,13 +80,13 @@ title: Hobgoblin Devastator
 
 ***Quarterstaff.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 4 (`1d6 + 1`) bludgeoning damage, or 5 (`1d8 + 1`) bludgeoning damage if used with two hands, plus 13 (`3d8`) force damage.
 
-***Devastating Bolt.*** *Ranged Spell Attack:* `+5` to hit, range 60 ft., one target. *Hit:* 21 (`4d8 + 3`) force damage, and the target is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Devastating Bolt.*** *Ranged Spell Attack:* `+5` to hit, range 60 ft., one target. *Hit:* 21 (`4d8 + 3`) force damage, and the target is knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Spellcasting.*** The hobgoblin casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 13):
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**2/day each:** [fireball](Mechanics/CLI/spells/fireball-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md)
+**2/day each:** [fireball](/Mechanics/CLI/spells/fireball-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md), [gust of wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md), [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md)
 ```
 
 ^statblock
@@ -79,3 +94,7 @@ title: Hobgoblin Devastator
 ## Environment
 
 forest, grassland, hill
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 153, Volo's Guide to Monsters p. 161_

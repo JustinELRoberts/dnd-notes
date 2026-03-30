@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Black Dragon Wyrmling
-created: 2026-03-09T12:15:33.956-04:00
-modified: 2026-03-09T12:15:33.956-04:00
-published: 2026-03-09T12:15:33.956-04:00
+created: 2026-03-29T21:53:55.960-04:00
+modified: 2026-03-29T21:53:55.960-04:00
+published: 2026-03-29T21:53:55.960-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Black Dragon Wyrmling
+ac: 17
+hp: 33
+modifier: 2
+hit_dice: 6d8 + 6
+cr: "2"
+stats:
+  - 15
+  - 14
+  - 13
+  - 10
+  - 11
+  - 13
+source:
+  - MM
 ---
 
 # Black Dragon Wyrmling
 
-_Source: Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/black-dragon-wyrmling.webp#right)
-
 The most evil-tempered and vile of the chromatic dragons, black dragons collect the wreckage and treasures of fallen peoples. These dragons loathe seeing the weak prosper and revel in the collapse of humanoid kingdoms. They make their homes in fetid swamps and crumbling ruins where kingdoms once stood.
 
 With deep-socketed eyes and broad nasal openings, a black dragon's face resembles a skull. Its curving, segmented horns are bone-colored near the base and darken to dead black at the tips. As a black dragon ages, the flesh around its horns and cheekbones deteriorates as though eaten by acid, leaving thin layers of hide that enhance its skeletal appearance. A black dragon's head is marked by spikes and horns. Its tongue is flat with a forked tip, drooling slime whose acidic scent adds to the dragon's reek of rotting vegetation and foul water.
@@ -100,11 +115,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Black Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/black-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/black-dragon-wyrmling.webp#token)
 *Medium dragon, Chaotic Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -113,8 +128,8 @@ title: Black Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4, Constitution +3, Wisdom +2, Charisma +3
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** acid
 - **Languages** Draconic
 - **Challenge** 2
@@ -131,3 +146,7 @@ title: Black Dragon Wyrmling
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 88. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

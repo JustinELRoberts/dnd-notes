@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Peace Domain
-created: 2026-03-09T12:15:34.062-04:00
-modified: 2026-03-09T12:15:34.062-04:00
-published: 2026-03-09T12:15:34.062-04:00
+created: 2026-03-29T21:53:56.083-04:00
+modified: 2026-03-29T21:53:56.083-04:00
+published: 2026-03-29T21:53:56.083-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/domain/peace
@@ -16,8 +16,7 @@ obsidianUIMode: preview
 
 # Peace Domain
 
-_[Cleric](./cleric-xphb.md): Cleric Subclass_\
-_Source: Tasha's Cauldron of Everything p. 32_
+_[Cleric](./cleric-xphb.md): Cleric Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -66,9 +65,9 @@ Clerics of the Peace Domain preside over the signing of treaties, and they are o
 | Boldrei | Eberron |
 | Cyrrollalee | Halfling |
 | Eldath | Forgotten Realms |
-| [Gaerdal Ironhand](Mechanics/CLI/deities/gnomish-gaerdal-ironhand-scag.md) | Gnomish |
-| [Paladine](Mechanics/CLI/deities/dragonlance-paladine-phb.md) | Dragonlance |
-| [Rao](Mechanics/CLI/deities/greyhawk-rao.md) | Greyhawk |
+| [Gaerdal Ironhand](/Mechanics/CLI/deities/gnomish-gaerdal-ironhand-scag.md) | Gnomish |
+| [Paladine](/Mechanics/CLI/deities/dragonlance-paladine-phb.md) | Dragonlance |
+| [Rao](/Mechanics/CLI/deities/greyhawk-rao.md) | Greyhawk |
 ^peace-deities
 
 ## Subclass Features
@@ -83,18 +82,18 @@ You gain domain spells at the cleric levels listed in the Peace Domain Spells ta
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [heroism](Mechanics/CLI/spells/heroism-xphb.md), [sanctuary](Mechanics/CLI/spells/sanctuary-xphb.md) |
-| 3rd | [aid](Mechanics/CLI/spells/aid-xphb.md), [warding bond](Mechanics/CLI/spells/warding-bond-xphb.md) |
-| 5th | [beacon of hope](Mechanics/CLI/spells/beacon-of-hope-xphb.md), [sending](Mechanics/CLI/spells/sending-xphb.md) |
-| 7th | [aura of purity](Mechanics/CLI/spells/aura-of-purity-xphb.md), [Otiluke's resilient sphere](Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md) |
-| 9th | [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md), [Rary's telepathic bond](Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md) |
+| 1st | [heroism](/Mechanics/CLI/spells/heroism-xphb.md), [sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md) |
+| 3rd | [aid](/Mechanics/CLI/spells/aid-xphb.md), [warding bond](/Mechanics/CLI/spells/warding-bond-xphb.md) |
+| 5th | [beacon of hope](/Mechanics/CLI/spells/beacon-of-hope-xphb.md), [sending](/Mechanics/CLI/spells/sending-xphb.md) |
+| 7th | [aura of purity](/Mechanics/CLI/spells/aura-of-purity-xphb.md), [Otiluke's resilient sphere](/Mechanics/CLI/spells/otilukes-resilient-sphere-xphb.md) |
+| 9th | [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md), [Rary's telepathic bond](/Mechanics/CLI/spells/rarys-telepathic-bond-xphb.md) |
 ^peace-domain-spells
 
 ### Implement of Peace (Level 1)
 
 _1st-level Peace Domain feature_
 
-You gain proficiency in the [Insight](Mechanics/CLI/rules/skills.md#Insight), [Performance](Mechanics/CLI/rules/skills.md#Performance), or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) skill (your choice).
+You gain proficiency in the [Insight](/Mechanics/CLI/skills.md#Insight), [Performance](/Mechanics/CLI/skills.md#Performance), or [Persuasion](/Mechanics/CLI/skills.md#Persuasion) skill (your choice).
 
 ### Emboldening Bond (Level 1)
 
@@ -121,3 +120,7 @@ The bond you forge between people helps them protect each other. When a creature
 _17th-level Peace Domain feature_
 
 The benefits of your Emboldening Bond and Protective Bond features now work when the creatures are within 60 feet of each other. Moreover, when a creature uses Protective Bond to take someone else's damage, the creature has resistance to that damage.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 32_

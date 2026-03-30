@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadow Demon
-created: 2026-03-09T12:15:33.939-04:00
-modified: 2026-03-09T12:15:33.939-04:00
-published: 2026-03-09T12:15:33.939-04:00
+created: 2026-03-29T21:53:55.940-04:00
+modified: 2026-03-29T21:53:55.940-04:00
+published: 2026-03-29T21:53:55.940-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shadow Demon
+ac: 13
+hp: 66
+modifier: 3
+hit_dice: 12d8 + 12
+cr: "4"
+stats:
+  - 1
+  - 17
+  - 12
+  - 14
+  - 13
+  - 14
+source:
+  - MM
 ---
 
 # Shadow Demon
 
-_Source: Monster Manual p. 64_\
 ![](Mechanics/CLI/bestiary/fiend/img/shadow-demon.webp#right)
-
 When a demon's body is destroyed but the fiend is prevented from reforming in the Abyss, its essence sometimes takes on a vague physical form. These shadow demons exist outside the normal abyssal hierarchy, since their creation results most often from mortal magic, not from transformation or promotion.
 
 Shadow demons all but disappear in the darkness, and they can creep about without making a sound. A shadow demon uses its insubstantial claws to feast on its victim's fears, to taste its memories, and drink in its doubts. Bright light harries this fiend and shows its distinct shape, resolving it from a blur of darkness to a winged humanoid creature whose lower body trails off into nothing, and whose claws rend a victim's mind.
@@ -168,7 +183,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -198,11 +213,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Shadow Demon
-![](Mechanics/CLI/bestiary/fiend/token/shadow-demon.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/shadow-demon.webp#token)
 *Medium fiend (demon), Chaotic Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 66 (`12d8 + 12`) 
+- **Hit Points** 66 (12d8 + 12) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -211,12 +226,12 @@ title: Shadow Demon
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5, Charisma +4
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Vulnerabilities** radiant
 - **Damage Resistances** acid; fire; necrotic; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** cold, lightning, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 4
 
@@ -224,9 +239,9 @@ title: Shadow Demon
 
 ***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (`1d10`) force damage if it ends its turn inside an object.
 
-***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Light Sensitivity.*** While in bright light, the demon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
-***Shadow Stealth.*** While in dim light or darkness, the demon can take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action.
+***Shadow Stealth.*** While in dim light or darkness, the demon can take the [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action.
 
 ## Actions
 
@@ -234,3 +249,7 @@ title: Shadow Demon
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 64_

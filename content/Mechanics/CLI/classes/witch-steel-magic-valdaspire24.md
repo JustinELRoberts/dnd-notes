@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Steel Magic
-created: 2026-03-09T12:15:33.925-04:00
-modified: 2026-03-09T12:15:33.925-04:00
-published: 2026-03-09T12:15:33.925-04:00
+created: 2026-03-29T21:53:55.928-04:00
+modified: 2026-03-29T21:53:55.928-04:00
+published: 2026-03-29T21:53:55.928-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/witch/steel
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Steel Magic
 
-_[Witch](./witch-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Witch](./witch-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,29 +64,29 @@ When you reach a Witch level specified in the Steel Spells table, you thereafter
 
 | Witch Level | Spells |
 |-------------|--------|
-| 3 | [Heat Metal](Mechanics/CLI/spells/heat-metal-xphb.md), [Heroism](Mechanics/CLI/spells/heroism-xphb.md), [Magic Weapon](Mechanics/CLI/spells/magic-weapon-xphb.md), [Shield](Mechanics/CLI/spells/shield-xphb.md), [True Strike](Mechanics/CLI/spells/true-strike-xphb.md) |
-| 5 | [Blink](Mechanics/CLI/spells/blink-xphb.md), [Haste](Mechanics/CLI/spells/haste-xphb.md) |
-| 7 | [Death Ward](Mechanics/CLI/spells/death-ward-xphb.md), [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 9 | [Flame Strike](Mechanics/CLI/spells/flame-strike-xphb.md), [Telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md) |
+| 3 | [Heat Metal](/Mechanics/CLI/spells/heat-metal-xphb.md), [Heroism](/Mechanics/CLI/spells/heroism-xphb.md), [Magic Weapon](/Mechanics/CLI/spells/magic-weapon-xphb.md), [Shield](/Mechanics/CLI/spells/shield-xphb.md), [True Strike](/Mechanics/CLI/spells/true-strike-xphb.md) |
+| 5 | [Blink](/Mechanics/CLI/spells/blink-xphb.md), [Haste](/Mechanics/CLI/spells/haste-xphb.md) |
+| 7 | [Death Ward](/Mechanics/CLI/spells/death-ward-xphb.md), [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
+| 9 | [Flame Strike](/Mechanics/CLI/spells/flame-strike-xphb.md), [Telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md) |
 ^steel-spells
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons that don't have [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy) and training with Medium armor and [Shields](Mechanics/CLI/items/shield-xphb.md).
+You gain proficiency with Martial weapons that don't have [Heavy](/Mechanics/CLI/item-properties.md#Heavy) and training with Medium armor and [Shields](/Mechanics/CLI/items/shield-xphb.md).
 
 ### Soulsteel (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can draw the essence of your familiar into a Melee weapon that you are holding, manifesting in a cloak of green flame. This weapon becomes your Soulsteel weapon. Your familiar is temporarily dismissed until this effect ends at the end of your next turn. You gain the following benefits.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can draw the essence of your familiar into a Melee weapon that you are holding, manifesting in a cloak of green flame. This weapon becomes your Soulsteel weapon. Your familiar is temporarily dismissed until this effect ends at the end of your next turn. You gain the following benefits.
 
 **Bonus Damage.** When you hit with your Soulsteel weapon, the target takes an extra `1d6` damage. This damage is your choice of Force, Necrotic, or Radiant.
 
-**Cackling Killer.** When you [Cackle](Mechanics/CLI/classes/witch-valdaspire24.md#Cackle%20\(Level%202\)), you can extend the duration of this feature by 1 round.
+**Cackling Killer.** When you [Cackle](/Mechanics/CLI/classes/witch-valdaspire24.md#Cackle%20\(Level%202\)), you can extend the duration of this feature by 1 round.
 
-**Spellcasting Focus.** You can use your Soulsteel weapon as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md).
+**Spellcasting Focus.** You can use your Soulsteel weapon as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md).
 
 ### Extra Attack (Level 6)
 
-You can attack twice instead of once whenever you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn.
 
 In addition, you can cast one of your cantrips (including your Hexes) that has a casting time of an action in place of one of those attacks.
 
@@ -97,4 +96,8 @@ Once on each of your turns when you hit a creature with your Soulsteel weapon, y
 
 ### Hexplate (Level 14)
 
-You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage dealt by an enemy that is the sole target of your Hex.
+You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage dealt by an enemy that is the sole target of your Hex.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

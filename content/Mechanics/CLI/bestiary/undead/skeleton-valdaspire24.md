@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Skeleton
-created: 2026-03-09T12:15:33.848-04:00
-modified: 2026-03-09T12:15:33.848-04:00
-published: 2026-03-09T12:15:33.848-04:00
+created: 2026-03-29T21:53:55.637-04:00
+modified: 2026-03-29T21:53:55.637-04:00
+published: 2026-03-29T21:53:55.637-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/1-4
@@ -13,11 +13,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Skeleton (ValdaSpire24)
+ac: 14
+hp: 13
+modifier: 3
+hit_dice: 2d8 + 4
+cr: 1/4
+stats:
+  - 10
+  - 16
+  - 15
+  - 6
+  - 8
+  - 5
+source:
+  - ValdaSpire24
 ---
 
 # Skeleton
-
-_Source: Valda's Spire of Secrets (2024) p. 0_
 
 The renanimated remains of humanoids long since dead, skeletons are puppets of bone held aloft by strings of magic.
 
@@ -26,7 +41,7 @@ title: Skeleton
 *Medium undead (Thrall), Lawful Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 13 (`2d8 + 4`) 
+- **Hit Points** 13 (2d8 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -36,11 +51,10 @@ title: Skeleton
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Vulnerabilities** bludgeoning
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [shortbow](Mechanics/CLI/items/shortbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Common plus one other language but can't speak
 - **Challenge** 1/4
 
@@ -52,3 +66,7 @@ title: Skeleton
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ogre Howdah
-created: 2026-03-09T12:15:34.040-04:00
-modified: 2026-03-09T12:15:34.040-04:00
-published: 2026-03-09T12:15:34.040-04:00
+created: 2026-03-29T21:53:56.050-04:00
+modified: 2026-03-29T21:53:56.050-04:00
+published: 2026-03-29T21:53:56.050-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -16,14 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ogre Howdah (MPMM)
+ac: 15
+hp: 59
+modifier: -1
+hit_dice: 7d10 + 21
+cr: "2"
+stats:
+  - 19
+  - 8
+  - 16
+  - 5
+  - 7
+  - 7
+source:
+  - MPMM
 ---
 
 # Ogre Howdah
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 201_\
 ![](Mechanics/CLI/bestiary/giant/img/ogre-howdah.webp#right)
-
-The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](Mechanics/CLI/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](Mechanics/CLI/bestiary/humanoid/kobold.md) or [deep gnomes](Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
+The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [goblins](/Mechanics/CLI/bestiary/humanoid/goblin.md) into battle, or perhaps [kobolds](/Mechanics/CLI/bestiary/humanoid/kobold.md) or [deep gnomes](/Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin.md), but they might also transport other Small folk.
 
 ## Ogres of War
 
@@ -33,11 +48,11 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 
 ```ad-statblock
 title: Ogre Howdah
-![](Mechanics/CLI/bestiary/giant/token/ogre-howdah-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/ogre-howdah-mpmm.webp#token)
 *Large giant, Typically  Chaotic Evil*
 
-- **Armor Class** 15 ([breastplate](Mechanics/CLI/items/breastplate-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Armor Class** 15 ([breastplate](/Mechanics/CLI/items/breastplate.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,8 +62,7 @@ title: Ogre Howdah
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
-- **Gear** [mace](Mechanics/CLI/items/mace-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Giant
 - **Challenge** 2
 
@@ -66,3 +80,7 @@ title: Ogre Howdah
 ## Environment
 
 grassland, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 201_

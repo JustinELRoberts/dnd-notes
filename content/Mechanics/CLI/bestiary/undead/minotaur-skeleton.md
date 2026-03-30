@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Minotaur Skeleton
-created: 2026-03-09T12:15:33.868-04:00
-modified: 2026-03-09T12:15:33.868-04:00
-published: 2026-03-09T12:15:33.868-04:00
+created: 2026-03-29T21:53:55.659-04:00
+modified: 2026-03-29T21:53:55.659-04:00
+published: 2026-03-29T21:53:55.659-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Minotaur Skeleton
+ac: 12
+hp: 67
+modifier: 0
+hit_dice: 9d10 + 18
+cr: "2"
+stats:
+  - 18
+  - 11
+  - 15
+  - 6
+  - 8
+  - 5
+source:
+  - MM
 ---
 
 # Minotaur Skeleton
 
-_Source: Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/minotaur-skeleton.webp#right)
-
 Skeletons arise when animated by dark magic. They heed the summons of spellcasters who call them from their stony tombs and ancient battlefields, or rise of their own accord in places saturated with death and loss, awakened by stirrings of necromantic energy or the presence of corrupting evil.
 
 ## Animated Dead
@@ -51,11 +66,11 @@ A skeleton doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Minotaur Skeleton
-![](Mechanics/CLI/bestiary/undead/token/minotaur-skeleton.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/minotaur-skeleton.webp#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 67 (`9d10 + 18`) 
+- **Hit Points** 67 (9d10 + 18) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,17 +80,16 @@ title: Minotaur Skeleton
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Vulnerabilities** bludgeoning
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Abyssal but can't speak
 - **Challenge** 2
 
 ## Traits
 
-***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Charge.*** If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Actions
 
@@ -89,3 +103,7 @@ title: Minotaur Skeleton
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 273. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

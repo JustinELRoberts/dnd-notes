@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Martial Arts Adept
-created: 2026-03-09T12:15:34.128-04:00
-modified: 2026-03-09T12:15:34.128-04:00
-published: 2026-03-09T12:15:34.128-04:00
+created: 2026-03-29T21:53:56.172-04:00
+modified: 2026-03-29T21:53:56.172-04:00
+published: 2026-03-29T21:53:56.172-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Martial Arts Adept (MPMM)
+ac: 16
+hp: 60
+modifier: 3
+hit_dice: 11d8 + 11
+cr: "3"
+stats:
+  - 11
+  - 17
+  - 13
+  - 11
+  - 16
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Martial Arts Adept
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216_\
 ![](Mechanics/CLI/bestiary/humanoid/img/martial-arts-adept.webp#right)
-
 Martial arts adepts are disciplined monks with extensive training in hand-to-hand combat. Some protect monasteries; others travel the world seeking enlightenment or new forms of combat to master. A few become bodyguards, trading their combat prowess and loyalty for food and lodging.
 
 Some martial artists adorn themselves with tattoos to honor inspirations or instructors, or to memorialize profound lessons, triumphs, or defeats. You may roll on the Martial Arts Adept Tattoos table to determine what sort of tattoo an adept bears.
@@ -41,11 +57,11 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 
 ```ad-statblock
 title: Martial Arts Adept
-![](Mechanics/CLI/bestiary/humanoid/token/martial-arts-adept-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/martial-arts-adept-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
 - **Armor Class** 16 (Unarmored Defense)
-- **Hit Points** 60 (`11d8 + 11`) 
+- **Hit Points** 60 (11d8 + 11) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,9 +70,8 @@ title: Martial Arts Adept
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +5, [Insight](Mechanics/CLI/rules/skills.md#Insight) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +5, [Insight](/Mechanics/CLI/skills.md#Insight) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
 - **Senses** passive Perception 13
-- **Gear** [dart](Mechanics/CLI/items/dart-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 3
 
@@ -70,7 +85,7 @@ title: Martial Arts Adept
 
 ***Unarmed Strike.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage. Once per turn, the adept can cause one of the following additional effects (choose one or roll a `d4`):
 
-- **1–2 Knock Down..** The target must succeed on a DC 13 Dexterity saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
+- **1–2 Knock Down..** The target must succeed on a DC 13 Dexterity saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
 - **3–4 Push..** The target must succeed on a DC 13 Strength saving throw or be pushed up to 10 feet directly away from the adept.  
 
 ***Dart.*** *Ranged Weapon Attack:* `+5` to hit, range 20/60 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage.
@@ -85,3 +100,7 @@ title: Martial Arts Adept
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 172, Volo's Guide to Monsters p. 216_

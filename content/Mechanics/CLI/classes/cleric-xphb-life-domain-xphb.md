@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Life Domain
-created: 2026-03-09T12:15:33.854-04:00
-modified: 2026-03-09T12:15:33.854-04:00
-published: 2026-03-09T12:15:33.854-04:00
+created: 2026-03-29T21:53:55.644-04:00
+modified: 2026-03-29T21:53:55.644-04:00
+published: 2026-03-29T21:53:55.644-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/domain/life
@@ -16,8 +16,7 @@ obsidianUIMode: preview
 
 # Life Domain
 
-_[Cleric](./cleric-xphb.md): Cleric Subclass_\
-_Source: Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_[Cleric](./cleric-xphb.md): Cleric Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -68,24 +67,28 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [Aid](Mechanics/CLI/spells/aid-xphb.md), [Bless](Mechanics/CLI/spells/bless-xphb.md), [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) |
-| 5th | [Mass Healing Word](Mechanics/CLI/spells/mass-healing-word-xphb.md), [Revivify](Mechanics/CLI/spells/revivify-xphb.md) |
-| 7th | [Aura of Life](Mechanics/CLI/spells/aura-of-life-xphb.md), [Death Ward](Mechanics/CLI/spells/death-ward-xphb.md) |
-| 9th | [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md), [Mass Cure Wounds](Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
+| 3rd | [Aid](/Mechanics/CLI/spells/aid-xphb.md), [Bless](/Mechanics/CLI/spells/bless-xphb.md), [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md) |
+| 5th | [Mass Healing Word](/Mechanics/CLI/spells/mass-healing-word-xphb.md), [Revivify](/Mechanics/CLI/spells/revivify-xphb.md) |
+| 7th | [Aura of Life](/Mechanics/CLI/spells/aura-of-life-xphb.md), [Death Ward](/Mechanics/CLI/spells/death-ward-xphb.md) |
+| 9th | [Greater Restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md), [Mass Cure Wounds](/Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
 ^life-domain-spells
 
 ### Disciple of Life (Level 3)
 
-When a spell you cast with a spell slot restores [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) to a creature, that creature regains additional [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) on the turn you cast the spell. The additional [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal 2 plus the spell slot's level.
+When a spell you cast with a spell slot restores [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) to a creature, that creature regains additional [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) on the turn you cast the spell. The additional [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal 2 plus the spell slot's level.
 
 ### Preserve Life (Level 3)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you present your [Holy Symbol](Mechanics/CLI/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to five times your Cleric level. Choose [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied) creatures within 30 feet of yourself (which can include you), and divide those [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) among them. This feature can restore a creature to no more than half its [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you present your [Holy Symbol](/Mechanics/CLI/items/holy-symbol-xphb.md) and expend a use of your Channel Divinity to evoke healing energy that can restore a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to five times your Cleric level. Choose [Bloodied](/Mechanics/CLI/conditions.md#Bloodied) creatures within 30 feet of yourself (which can include you), and divide those [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) among them. This feature can restore a creature to no more than half its [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum.
 
 ### Blessed Healer (Level 6)
 
-The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) to one creature other than you, you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to 2 plus the spell slot's level.
+The healing spells you cast on others heal you as well. Immediately after you cast a spell with a spell slot that restores [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) to one creature other than you, you regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to 2 plus the spell slot's level.
 
 ### Supreme Healing (Level 17)
 
-When you would normally roll one or more dice to restore [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring `2d6` [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) to a creature with a spell, you restore 12.
+When you would normally roll one or more dice to restore [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) to a creature with a spell or Channel Divinity, don't roll those dice for the healing; instead use the highest number possible for each die. For example, instead of restoring `2d6` [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) to a creature with a spell, you restore 12.
+
+## Sources
+
+_Player's Handbook (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

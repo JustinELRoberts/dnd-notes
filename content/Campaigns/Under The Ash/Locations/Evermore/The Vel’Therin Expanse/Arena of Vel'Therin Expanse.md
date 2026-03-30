@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-26T22:48:22.058-04:00
-modified: 2026-03-26T22:52:53.668-04:00
-published: 2026-03-26T22:52:53.668-04:00
+modified: 2026-03-29T19:57:53.195-04:00
+published: 2026-03-29T19:57:53.195-04:00
 LocationType: Building
 aliases:
 tags:
@@ -28,4 +28,4 @@ id: Arena of Vel'Therin Expanse-map
 
 ## Description
 
-A fighting arena in [[Vel Rau’dan]]. We killed (an old, weakened) [[behir|Behir]] here.
+A fighting arena in [[Vel Rau'dan]]. We killed (an old, weakened) [[behir|Behir]] here.

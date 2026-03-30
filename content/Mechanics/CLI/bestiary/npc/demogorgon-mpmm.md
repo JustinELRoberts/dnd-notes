@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Demogorgon
-created: 2026-03-09T12:15:34.120-04:00
-modified: 2026-03-09T12:15:34.120-04:00
-published: 2026-03-09T12:15:34.120-04:00
+created: 2026-03-29T21:53:56.158-04:00
+modified: 2026-03-29T21:53:56.158-04:00
+published: 2026-03-29T21:53:56.158-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/26
@@ -13,11 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Demogorgon (MPMM)
+ac: 22
+hp: 464
+modifier: 2
+hit_dice: 32d12 + 256
+cr: "26"
+stats:
+  - 29
+  - 14
+  - 26
+  - 20
+  - 17
+  - 25
+source:
+  - MPMM
 ---
 
 # Demogorgon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 90_\
 ![](Mechanics/CLI/bestiary/npc/img/demogorgon.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -43,11 +59,11 @@ Demogorgon makes his lair in a palace called Abysm, found on a layer of the Abys
 
 ```ad-statblock
 title: Demogorgon
-![](Mechanics/CLI/bestiary/npc/token/demogorgon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/npc/token/demogorgon-mpmm.webp#token)
 *Huge fiend (demon), Chaotic Evil*
 
 - **Armor Class** 22 (natural armor)
-- **Hit Points** 464 (`32d12 + 256`) 
+- **Hit Points** 464 (32d12 + 256) 
 - **Speed** 50 ft., swim 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,11 +72,11 @@ title: Demogorgon
 
 - **Proficiency Bonus** +8
 - **Saving Throws** Dexterity +10, Constitution +16, Wisdom +11, Charisma +15
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +11, [Perception](Mechanics/CLI/rules/skills.md#Perception) +19
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 29
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +11, [Perception](/Mechanics/CLI/skills.md#Perception) +19
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 29
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 26
 
@@ -70,7 +86,7 @@ title: Demogorgon
 
 ***Magic Resistance.*** Demogorgon has advantage on saving throws against spells and other magical effects.
 
-***Two Heads.*** Demogorgon has advantage on saving throws against being [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), or knocked [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious).
+***Two Heads.*** Demogorgon has advantage on saving throws against being [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [stunned](/Mechanics/CLI/conditions.md#Stunned), or knocked [unconscious](/Mechanics/CLI/conditions.md#Unconscious).
 
 ## Actions
 
@@ -80,17 +96,17 @@ title: Demogorgon
 
 ***Gaze.*** Demogorgon turns his magical gaze toward one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw or suffer one of the following effects (choose one or roll a `d6`):
 
-- **1–2 Beguiling Gaze.** The target is [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.  
-- **3–4 Confusing Gaze.** The target suffers the effect of the [confusion](Mechanics/CLI/spells/confusion-xphb.md) spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.  
-- **5–6 Hypnotic Gaze.** The target is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target uses its action, reaction, and movement.  
+- **1–2 Beguiling Gaze.** The target is [stunned](/Mechanics/CLI/conditions.md#Stunned) until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.  
+- **3–4 Confusing Gaze.** The target suffers the effect of the [confusion](/Mechanics/CLI/spells/confusion-xphb.md) spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.  
+- **5–6 Hypnotic Gaze.** The target is [charmed](/Mechanics/CLI/conditions.md#Charmed) by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the [charmed](/Mechanics/CLI/conditions.md#Charmed) target uses its action, reaction, and movement.  
 
 ***Spellcasting.*** Demogorgon casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md)
 
-**3/day each:** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md)
+**3/day each:** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](/Mechanics/CLI/spells/fear-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md)
 
-**1/day each:** [feeblemind](Mechanics/CLI/spells/befuddlement-xphb.md), [project image](Mechanics/CLI/spells/project-image-xphb.md)
+**1/day each:** [feeblemind](/Mechanics/CLI/spells/befuddlement-xphb.md), [project image](/Mechanics/CLI/spells/project-image-xphb.md)
 
 ## Legendary Actions
 
@@ -106,18 +122,22 @@ Legendary Action Uses: 2. Immediately after another creature's turn, Demogorgon 
 
 On initiative count 20 (losing initiative ties), Demogorgon can take one of the following lair actions; he can't take the same lair action two rounds in a row:
 
-- **Darkness.** Demogorgon casts the [darkness](Mechanics/CLI/spells/darkness-xphb.md) spell four times, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round.  
+- **Darkness.** Demogorgon casts the [darkness](/Mechanics/CLI/spells/darkness-xphb.md) spell four times, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round.  
 - **Illusory Duplicate.** Demogorgon creates an illusory duplicate of himself, which appears in his space and lasts until initiative count 20 of the next round. On his turn, Demogorgon can move the illusory duplicate a distance equal to his walking speed (no action required). The first time a creature or an object interacts physically with Demogorgon (for example, by hitting him with an attack), there is a 50 percent chance that the illusory duplicate is affected, not Demogorgon, in which case the illusion disappears.  
 
 ## Regional Effects
 
 The region containing Demogorgon's lair is warped by his magic, creating one or more of the following effects:
 
-- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) and Charisma ([Performance](Mechanics/CLI/rules/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) and Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) checks have advantage.  
+- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) and Charisma ([Performance](/Mechanics/CLI/skills.md#Performance)) checks have disadvantage, and all Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) and Charisma ([Intimidation](/Mechanics/CLI/skills.md#Intimidation)) checks have advantage.  
 - **Frenzied Animals.** Beasts within 1 mile of the lair become frenzied and violent—even creatures that are normally docile. Within that area, any ability check involving Animal Handling has disadvantage.  
-- **Venomous Beasts.** The area within 6 miles of the lair becomes overpopulated with [poisonous snakes](Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) and other venomous Beasts.  
+- **Venomous Beasts.** The area within 6 miles of the lair becomes overpopulated with [poisonous snakes](/Mechanics/CLI/bestiary/beast/venomous-snake-xmm.md) and other venomous Beasts.  
 
 If Demogorgon dies, these effects fade over the course of `1d10` days.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 90_

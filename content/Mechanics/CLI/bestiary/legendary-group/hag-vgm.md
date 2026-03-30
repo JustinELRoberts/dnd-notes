@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hag
-created: 2026-03-09T12:15:34.395-04:00
-modified: 2026-03-09T12:15:34.395-04:00
-published: 2026-03-09T12:15:34.395-04:00
+created: 2026-03-29T21:53:56.494-04:00
+modified: 2026-03-29T21:53:56.494-04:00
+published: 2026-03-29T21:53:56.494-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/legendary-group
@@ -35,5 +35,5 @@ Each hag's lair is the source of three to five regional effects; the home of a g
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.
-- Beasts that have an Intelligence score of 2 or lower are [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.
+- Beasts that have an Intelligence score of 2 or lower are [charmed](/Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.

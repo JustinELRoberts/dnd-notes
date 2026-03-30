@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eagle
-created: 2026-03-09T12:15:33.887-04:00
-modified: 2026-03-09T12:15:33.887-04:00
-published: 2026-03-09T12:15:33.887-04:00
+created: 2026-03-29T21:53:55.885-04:00
+modified: 2026-03-29T21:53:55.885-04:00
+published: 2026-03-29T21:53:55.885-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -17,20 +17,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Eagle
+ac: 12
+hp: 3
+modifier: 2
+hit_dice: 1d6
+cr: "0"
+stats:
+  - 6
+  - 15
+  - 10
+  - 2
+  - 14
+  - 7
+source:
+  - MM
 ---
 
 # Eagle
 
-_Source: Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/eagle.webp#center)
 
 ```ad-statblock
 title: Eagle
-![](Mechanics/CLI/bestiary/beast/token/eagle.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/eagle.webp#token)
 *Small beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 3 (`1d6`) 
+- **Hit Points** 3 (1d6) 
 - **Speed** 10 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -39,14 +55,14 @@ title: Eagle
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
 - **Senses** passive Perception 14
 - **Languages** —
 - **Challenge** 0
 
 ## Traits
 
-***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -58,3 +74,7 @@ title: Eagle
 ## Environment
 
 mountain, grassland, hill, coastal
+
+## Sources
+
+_Monster Manual p. 322. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

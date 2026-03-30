@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - "Treasure Hoard: Challenge 17+"
-created: 2026-03-09T12:15:34.398-04:00
-modified: 2026-03-09T12:15:34.398-04:00
-published: 2026-03-09T12:15:34.398-04:00
+created: 2026-03-29T21:53:56.496-04:00
+modified: 2026-03-29T21:53:56.496-04:00
+published: 2026-03-29T21:53:56.496-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:
@@ -26,28 +26,28 @@ _Source: Dungeon Master's Guide p. 133_
 | dice: d100 | Gems or Art Objects | Magic Items |
 |------------|---------------------|-------------|
 | 01-02 | — | — |
-| 03-05 | `3d6` (10) 1,000 gp gems | Roll `1d8` times on [Magic Item Table C](Mechanics/CLI/tables/magic-item-table-c.md). |
-| 06-08 | `1d10` (5) 2,500 gp art objects | Roll `1d8` times on [Magic Item Table C](Mechanics/CLI/tables/magic-item-table-c.md). |
-| 09-11 | `1d4` (2) 7,500 gp art objects | Roll `1d8` times on [Magic Item Table C](Mechanics/CLI/tables/magic-item-table-c.md). |
-| 12-14 | `1d8` (4) 5,000 gp gems | Roll `1d8` times on [Magic Item Table C](Mechanics/CLI/tables/magic-item-table-c.md). |
-| 15-22 | `3d6` (10) 1,000 gp gems | Roll `1d6` times on [Magic Item Table D](Mechanics/CLI/tables/magic-item-table-d.md). |
-| 23-30 | `1d10` (5) 2,500 gp art objects | Roll `1d6` times on [Magic Item Table D](Mechanics/CLI/tables/magic-item-table-d.md). |
-| 31-38 | `1d4` (2) 7,500 gp art objects | Roll `1d6` times on [Magic Item Table D](Mechanics/CLI/tables/magic-item-table-d.md). |
-| 39-46 | `1d8` (4) 5,000 gp gems | Roll `1d6` times on [Magic Item Table D](Mechanics/CLI/tables/magic-item-table-d.md). |
-| 47-52 | `3d6` (10) 1,000 gp gems | Roll `1d6` times on [Magic Item Table E](Mechanics/CLI/tables/magic-item-table-e.md). |
-| 53-58 | `1d10` (5) 2,500 gp art objects | Roll `1d6` times on [Magic Item Table E](Mechanics/CLI/tables/magic-item-table-e.md). |
-| 59-63 | `1d4` (2) 7,500 gp art objects | Roll `1d6` times on [Magic Item Table E](Mechanics/CLI/tables/magic-item-table-e.md). |
-| 64-68 | `1d8` (4) 5,000 gp gems | Roll `1d6` times on [Magic Item Table E](Mechanics/CLI/tables/magic-item-table-e.md). |
-| 69 | `3d6` (10) 1,000 gp gems | Roll `1d4` times on [Magic Item Table G](Mechanics/CLI/tables/magic-item-table-g.md). |
-| 70 | `1d10` (5) 2,500 gp art objects | Roll `1d4` times on [Magic Item Table G](Mechanics/CLI/tables/magic-item-table-g.md). |
-| 71 | `1d4` (2) 7,500 gp art objects | Roll `1d4` times on [Magic Item Table G](Mechanics/CLI/tables/magic-item-table-g.md). |
-| 72 | `1d8` (4) 5,000 gp gems | Roll `1d4` times on [Magic Item Table G](Mechanics/CLI/tables/magic-item-table-g.md). |
-| 73-74 | `3d6` (10) 1,000 gp gems | Roll `1d4` times on [Magic Item Table H](Mechanics/CLI/tables/magic-item-table-h.md). |
-| 75-76 | `1d10` (5) 2,500 gp art objects | Roll `1d4` times on [Magic Item Table H](Mechanics/CLI/tables/magic-item-table-h.md). |
-| 77-78 | `1d4` (2) 7,500 gp art objects | Roll `1d4` times on [Magic Item Table H](Mechanics/CLI/tables/magic-item-table-h.md). |
-| 79-80 | `1d8` (4) 5,000 gp gems | Roll `1d4` times on [Magic Item Table H](Mechanics/CLI/tables/magic-item-table-h.md). |
-| 81-85 | `3d6` (10) 1,000 gp gems | Roll `1d4` times on [Magic Item Table I](Mechanics/CLI/tables/magic-item-table-i.md). |
-| 86-90 | `1d10` (5) 2,500 gp art objects | Roll `1d4` times on [Magic Item Table I](Mechanics/CLI/tables/magic-item-table-i.md). |
-| 91-95 | `1d4` (2) 7,500 gp art objects | Roll `1d4` times on [Magic Item Table I](Mechanics/CLI/tables/magic-item-table-i.md). |
-| 96-00 | `1d8` (4) 5,000 gp gems | Roll `1d4` times on [Magic Item Table I](Mechanics/CLI/tables/magic-item-table-i.md). |
+| 03-05 | `3d6` (10) 1,000 gp gems | Roll `1d8` times on [Magic Item Table C](/Mechanics/CLI/tables/magic-item-table-c.md). |
+| 06-08 | `1d10` (5) 2,500 gp art objects | Roll `1d8` times on [Magic Item Table C](/Mechanics/CLI/tables/magic-item-table-c.md). |
+| 09-11 | `1d4` (2) 7,500 gp art objects | Roll `1d8` times on [Magic Item Table C](/Mechanics/CLI/tables/magic-item-table-c.md). |
+| 12-14 | `1d8` (4) 5,000 gp gems | Roll `1d8` times on [Magic Item Table C](/Mechanics/CLI/tables/magic-item-table-c.md). |
+| 15-22 | `3d6` (10) 1,000 gp gems | Roll `1d6` times on [Magic Item Table D](/Mechanics/CLI/tables/magic-item-table-d.md). |
+| 23-30 | `1d10` (5) 2,500 gp art objects | Roll `1d6` times on [Magic Item Table D](/Mechanics/CLI/tables/magic-item-table-d.md). |
+| 31-38 | `1d4` (2) 7,500 gp art objects | Roll `1d6` times on [Magic Item Table D](/Mechanics/CLI/tables/magic-item-table-d.md). |
+| 39-46 | `1d8` (4) 5,000 gp gems | Roll `1d6` times on [Magic Item Table D](/Mechanics/CLI/tables/magic-item-table-d.md). |
+| 47-52 | `3d6` (10) 1,000 gp gems | Roll `1d6` times on [Magic Item Table E](/Mechanics/CLI/tables/magic-item-table-e.md). |
+| 53-58 | `1d10` (5) 2,500 gp art objects | Roll `1d6` times on [Magic Item Table E](/Mechanics/CLI/tables/magic-item-table-e.md). |
+| 59-63 | `1d4` (2) 7,500 gp art objects | Roll `1d6` times on [Magic Item Table E](/Mechanics/CLI/tables/magic-item-table-e.md). |
+| 64-68 | `1d8` (4) 5,000 gp gems | Roll `1d6` times on [Magic Item Table E](/Mechanics/CLI/tables/magic-item-table-e.md). |
+| 69 | `3d6` (10) 1,000 gp gems | Roll `1d4` times on [Magic Item Table G](/Mechanics/CLI/tables/magic-item-table-g.md). |
+| 70 | `1d10` (5) 2,500 gp art objects | Roll `1d4` times on [Magic Item Table G](/Mechanics/CLI/tables/magic-item-table-g.md). |
+| 71 | `1d4` (2) 7,500 gp art objects | Roll `1d4` times on [Magic Item Table G](/Mechanics/CLI/tables/magic-item-table-g.md). |
+| 72 | `1d8` (4) 5,000 gp gems | Roll `1d4` times on [Magic Item Table G](/Mechanics/CLI/tables/magic-item-table-g.md). |
+| 73-74 | `3d6` (10) 1,000 gp gems | Roll `1d4` times on [Magic Item Table H](/Mechanics/CLI/tables/magic-item-table-h.md). |
+| 75-76 | `1d10` (5) 2,500 gp art objects | Roll `1d4` times on [Magic Item Table H](/Mechanics/CLI/tables/magic-item-table-h.md). |
+| 77-78 | `1d4` (2) 7,500 gp art objects | Roll `1d4` times on [Magic Item Table H](/Mechanics/CLI/tables/magic-item-table-h.md). |
+| 79-80 | `1d8` (4) 5,000 gp gems | Roll `1d4` times on [Magic Item Table H](/Mechanics/CLI/tables/magic-item-table-h.md). |
+| 81-85 | `3d6` (10) 1,000 gp gems | Roll `1d4` times on [Magic Item Table I](/Mechanics/CLI/tables/magic-item-table-i.md). |
+| 86-90 | `1d10` (5) 2,500 gp art objects | Roll `1d4` times on [Magic Item Table I](/Mechanics/CLI/tables/magic-item-table-i.md). |
+| 91-95 | `1d4` (2) 7,500 gp art objects | Roll `1d4` times on [Magic Item Table I](/Mechanics/CLI/tables/magic-item-table-i.md). |
+| 96-00 | `1d8` (4) 5,000 gp gems | Roll `1d4` times on [Magic Item Table I](/Mechanics/CLI/tables/magic-item-table-i.md). |
 ^gems-or-art-objects-magic-items

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Red Dragon Wyrmling
-created: 2026-03-09T12:15:33.842-04:00
-modified: 2026-03-09T12:15:33.842-04:00
-published: 2026-03-09T12:15:33.842-04:00
+created: 2026-03-29T21:53:55.628-04:00
+modified: 2026-03-29T21:53:55.628-04:00
+published: 2026-03-29T21:53:55.628-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Red Dragon Wyrmling
+ac: 17
+hp: 75
+modifier: 0
+hit_dice: 10d8 + 30
+cr: "4"
+stats:
+  - 19
+  - 10
+  - 17
+  - 12
+  - 11
+  - 15
+source:
+  - MM
 ---
 
 # Red Dragon Wyrmling
 
-_Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/red-dragon.webp#right)
-
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 
 The scales of a red dragon wyrmling are a bright glossy scarlet, turning a dull, deeper red and becoming as thick and strong as metal as the dragon ages. Its pupils also fade as it ages, and the oldest red dragons have eyes that resemble molten lava orbs.
@@ -102,11 +117,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Red Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/red-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/red-dragon-wyrmling.webp#token)
 *Medium dragon, Chaotic Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 75 (`10d8 + 30`) 
+- **Hit Points** 75 (10d8 + 30) 
 - **Speed** 30 ft., climb 30 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -115,8 +130,8 @@ title: Red Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +2, Constitution +5, Wisdom +2, Charisma +4
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** fire
 - **Languages** Draconic
 - **Challenge** 4
@@ -129,3 +144,7 @@ title: Red Dragon Wyrmling
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

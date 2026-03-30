@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Korred
-created: 2026-03-09T12:15:33.845-04:00
-modified: 2026-03-09T12:15:33.845-04:00
-published: 2026-03-09T12:15:33.845-04:00
+created: 2026-03-29T21:53:55.634-04:00
+modified: 2026-03-29T21:53:55.634-04:00
+published: 2026-03-29T21:53:55.634-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -14,16 +14,32 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Korred (MPMM)
+ac: 17
+hp: 93
+modifier: 2
+hit_dice: 11d6 + 55
+cr: "7"
+stats:
+  - 23
+  - 14
+  - 20
+  - 10
+  - 15
+  - 9
+source:
+  - MPMM
+  - VGM
 ---
 
 # Korred
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168_\
 ![](Mechanics/CLI/bestiary/fey/img/korred.webp#right)
-
 Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Because of their magical hair and mystical understanding of minerals, they are sought after by treasure-hunting dwarves and others who desire wealth beneath the earth.
 
-Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [galeb duhr](Mechanics/CLI/bestiary/elemental/galeb-duhr.md). They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
+Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [galeb duhr](/Mechanics/CLI/bestiary/elemental/galeb-duhr.md). They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
 
 Korreds can hurl boulders far larger than it seems they should be able to, shape stone as though it were clay, and swim through rock. They also gain supernatural strength just from standing on the ground.
 
@@ -35,11 +51,11 @@ Korreds have hair all over their bodies, but the hair that grows from their head
 
 ```ad-statblock
 title: Korred
-![](Mechanics/CLI/bestiary/fey/token/korred-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/korred-mpmm.webp#token)
 *Small fey, Typically  Chaotic Neutral*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 93 (`11d6 + 55`) 
+- **Hit Points** 93 (11d6 + 55) 
 - **Speed** 30 ft., burrow 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,16 +64,15 @@ title: Korred
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +9, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., tremorsense 120 ft., passive Perception 15
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +9, [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., tremorsense 120 ft., passive Perception 15
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
-- **Gear** [greatclub](Mechanics/CLI/items/greatclub-xphb.md)
 - **Languages** Dwarvish, Gnomish, Sylvan, Terran, Undercommon
 - **Challenge** 7
 
 ## Traits
 
-***Stone Camouflage.*** The korred has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The korred has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 
 ## Actions
 
@@ -69,13 +84,13 @@ title: Korred
 
 ***Spellcasting.*** The korred casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 13):
 
-**At will:** [commune with nature](Mechanics/CLI/spells/commune-with-nature-xphb.md) (as an action), [meld into stone](Mechanics/CLI/spells/meld-into-stone-xphb.md), [stone shape](Mechanics/CLI/spells/stone-shape-xphb.md)
+**At will:** [commune with nature](/Mechanics/CLI/spells/commune-with-nature-xphb.md) (as an action), [meld into stone](/Mechanics/CLI/spells/meld-into-stone-xphb.md), [stone shape](/Mechanics/CLI/spells/stone-shape-xphb.md)
 
-**1/day:** [Otto's irresistible dance](Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)
+**1/day:** [Otto's irresistible dance](/Mechanics/CLI/spells/ottos-irresistible-dance-xphb.md)
 
 ## Bonus Actions
 
-***Command Hair.*** The korred has at least one 50-foot-long rope woven out of its hair. The korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the rope (escape DC 13). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Command Hair.*** The korred has at least one 50-foot-long rope woven out of its hair. The korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become [grappled](/Mechanics/CLI/conditions.md#Grappled) by the rope (escape DC 13). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained). The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred's turns while the rope has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.
 ```
@@ -85,3 +100,7 @@ A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 166, Volo's Guide to Monsters p. 168_

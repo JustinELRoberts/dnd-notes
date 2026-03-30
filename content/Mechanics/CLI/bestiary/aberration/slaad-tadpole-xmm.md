@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Slaad Tadpole
-created: 2026-03-09T12:15:33.855-04:00
-modified: 2026-03-09T12:15:33.855-04:00
-published: 2026-03-09T12:15:33.855-04:00
+created: 2026-03-29T21:53:55.645-04:00
+modified: 2026-03-29T21:53:55.645-04:00
+published: 2026-03-29T21:53:55.645-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-8
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Slaad Tadpole (XMM)
+ac: 12
+hp: 7
+modifier: 2
+hit_dice: 3d4
+cr: 1/8
+stats:
+  - 7
+  - 15
+  - 10
+  - 3
+  - 5
+  - 3
+source:
+  - XMM
+  - XPHB
 ---
 
 # Slaad Tadpole
 
-_Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/aberration/img/slaad-tadpole.webp#right)
-
 Slaad tadpoles are ravenous, newborn slaadi. They hatch from eggs implanted into living hosts by red slaadi, but they also appear in great numbers in Limbo and other chaotic realms. Under most conditions, a slaad tadpole transforms into a blue slaad—or a green slaad if its host was able to cast spells of level 3 or higher—within `2d12` hours of hatching.
 
 ## Slaadi
@@ -37,9 +53,9 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!note] Slaad Control Gems
 >
-> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](Mechanics/CLI/rules/conditions.md#Charmed).
+> A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition and obeys the gem's bearer. The slaad ceases to be [Charmed](/Mechanics/CLI/conditions.md#Charmed) if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [Greater Restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on a slaad destroys the gem, and the slaad ceases to be [Charmed](/Mechanics/CLI/conditions.md#Charmed).
 >
-> One can obtain a slaad's control gem using a [Wish](Mechanics/CLI/spells/wish-xphb.md) or [Imprisonment](Mechanics/CLI/spells/imprisonment-xphb.md) spell. If the slaad fails its saving throw against [Imprisonment](Mechanics/CLI/spells/imprisonment-xphb.md), the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
+> One can obtain a slaad's control gem using a [Wish](/Mechanics/CLI/spells/wish-xphb.md) or [Imprisonment](/Mechanics/CLI/spells/imprisonment-xphb.md) spell. If the slaad fails its saving throw against [Imprisonment](/Mechanics/CLI/spells/imprisonment-xphb.md), the caster gains the gem, and the slaad isn't imprisoned. An [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 > ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom
@@ -52,11 +68,11 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 ```ad-statblock
 title: Slaad Tadpole
-![](Mechanics/CLI/bestiary/aberration/token/slaad-tadpole-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/slaad-tadpole-xmm.webp#token)
 *Tiny aberration, Chaotic Neutral*
 
 - **Armor Class** 12 
-- **Hit Points** 7 (`3d4`) 
+- **Hit Points** 7 (3d4) 
 - **Speed** 30 ft., burrow 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,15 +81,15 @@ title: Slaad Tadpole
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 7
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 7
 - **Damage Resistances** acid, cold, fire, lightning, thunder
 - **Languages** understands Slaad but can't speak
 - **Challenge** 1/8
 
 ## Traits
 
-***Magic Resistance.*** The slaad has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+***Magic Resistance.*** The slaad has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
 
 ## Actions
 
@@ -85,3 +101,7 @@ title: Slaad Tadpole
 ## Environment
 
 planar, limbo
+
+## Sources
+
+_Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)_

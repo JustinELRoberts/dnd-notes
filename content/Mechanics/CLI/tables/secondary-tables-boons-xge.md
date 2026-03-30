@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Secondary Tables; Boons
-created: 2026-03-09T12:15:34.371-04:00
-modified: 2026-03-09T12:15:34.371-04:00
-published: 2026-03-09T12:15:34.371-04:00
+created: 2026-03-29T21:53:56.468-04:00
+modified: 2026-03-29T21:53:56.468-04:00
+published: 2026-03-29T21:53:56.468-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:

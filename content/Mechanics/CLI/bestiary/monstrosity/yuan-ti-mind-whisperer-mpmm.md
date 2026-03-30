@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yuan-ti Mind Whisperer
-created: 2026-03-09T12:15:33.790-04:00
-modified: 2026-03-09T12:15:33.790-04:00
-published: 2026-03-09T12:15:33.790-04:00
+created: 2026-03-29T21:53:55.572-04:00
+modified: 2026-03-29T21:53:55.572-04:00
+published: 2026-03-29T21:53:55.572-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -16,24 +16,40 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Yuan-ti Mind Whisperer (MPMM)
+ac: 14
+hp: 71
+modifier: 2
+hit_dice: 13d8 + 13
+cr: "4"
+stats:
+  - 16
+  - 14
+  - 13
+  - 14
+  - 14
+  - 16
+source:
+  - MPMM
+  - VGM
 ---
 
 # Yuan-ti Mind Whisperer
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-mind-whisperer.webp#right)
-
 Mind whisperers are yuan-ti malison spellcasters who enter into a pact with the serpent god Sseth, the Sibilant Death. They use their abilities to convert others to their faith, increase their personal power, and befuddle the minds of their enemies.
 
 Mind whisperers are elusive, manipulative, unpredictable, and willing to cheat or kill comrades and rivals alike if doing so benefits them. The worshipers of Sseth have their hands in many schemes, often plying the middle ground between two factions, and thus spend a lot of energy making sure none of their allies learn of their conflicting connections. Even among Sseth-worshiping communities, mind whisperers are known for being self-important, sneaky, and prone to flee at the first sign of trouble.
 
 ```ad-statblock
 title: Yuan-ti Mind Whisperer
-![](Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-mind-whisperer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-mind-whisperer-mpmm.webp#token)
 *Medium monstrosity (warlock), Typically  Neutral Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 71 (`13d8 + 13`) 
+- **Hit Points** 71 (13d8 + 13) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,17 +58,16 @@ title: Yuan-ti Mind Whisperer
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +4, Charisma +5
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 4
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the yuan-ti's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
@@ -70,11 +85,11 @@ title: Yuan-ti Mind Whisperer
 
 ***Spellcasting (Yuan-ti Form Only).*** The yuan-ti casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will:** [animal friendship](Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only), [message](Mechanics/CLI/spells/message-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [animal friendship](/Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only), [message](/Mechanics/CLI/spells/message-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**3/day:** [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**3/day:** [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
-**2/day each:** [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [hypnotic pattern](Mechanics/CLI/spells/hypnotic-pattern-xphb.md)
+**2/day each:** [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [hypnotic pattern](/Mechanics/CLI/spells/hypnotic-pattern-xphb.md)
 
 ## Bonus Actions
 
@@ -86,3 +101,7 @@ title: Yuan-ti Mind Whisperer
 ## Environment
 
 desert, forest, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 274, Volo's Guide to Monsters p. 204_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Death Tyrant
-created: 2026-03-09T12:15:34.413-04:00
-modified: 2026-03-09T12:15:34.413-04:00
-published: 2026-03-09T12:15:34.413-04:00
+created: 2026-03-29T21:53:56.509-04:00
+modified: 2026-03-29T21:53:56.509-04:00
+published: 2026-03-29T21:53:56.509-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/legendary-group
@@ -22,7 +22,7 @@ _Source: Monster Manual_
 When fighting inside its lair, a death tyrant can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the death tyrant can take one lair action to cause one of the following effects:
 
 - An area that is a 50-foot cube within 120 feet of the tyrant is filled with spectral eyes and tentacles. To creatures other than the death tyrant, that area is lightly obscured and difficult terrain until initiative count 20 on the next round.
-- Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be [grappled](Mechanics/CLI/rules/conditions.md#Grappled). Escaping requires a successful DC 17 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check.
+- Walls sprout spectral appendages until initiative count 20 on the round after next. Any creature, including one on the Ethereal Plane, that is hostile to the tyrant and starts its turn within 10 feet of a wall must succeed on a DC 17 Dexterity saving throw or be [grappled](/Mechanics/CLI/conditions.md#Grappled). Escaping requires a successful DC 17 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/Mechanics/CLI/skills.md#Acrobatics)) check.
 - A spectral eye opens in the air at a point within 50 feet of the tyrant. One random eye ray of the tyrant shoots from that eye, which is considered to be an ethereal source, at a target of the tyrant's choice. The eye then closes and disappears.
 
 The death tyrant can't repeat an effect until all three have been used, and it can't use the same effect on consecutive rounds.

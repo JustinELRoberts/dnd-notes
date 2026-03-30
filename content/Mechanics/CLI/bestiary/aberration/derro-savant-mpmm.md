@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Derro Savant
-created: 2026-03-09T12:15:33.978-04:00
-modified: 2026-03-09T12:15:33.978-04:00
-published: 2026-03-09T12:15:33.978-04:00
+created: 2026-03-29T21:53:55.982-04:00
+modified: 2026-03-29T21:53:55.982-04:00
+published: 2026-03-29T21:53:55.982-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Derro Savant (MPMM)
+ac: 13
+hp: 36
+modifier: 2
+hit_dice: 8d6 + 8
+cr: "3"
+stats:
+  - 9
+  - 14
+  - 12
+  - 11
+  - 5
+  - 14
+source:
+  - MPMM
 ---
 
 # Derro Savant
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 92_\
 ![](Mechanics/CLI/bestiary/aberration/img/derro-savant.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -37,11 +53,11 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 
 ```ad-statblock
 title: Derro Savant
-![](Mechanics/CLI/bestiary/aberration/token/derro-savant-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/derro-savant-mpmm.webp#token)
 *Small aberration (sorcerer), Typically  Chaotic Evil*
 
-- **Armor Class** 13 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 36 (`8d6 + 8`) 
+- **Armor Class** 13 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 36 (8d6 + 8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,9 +66,8 @@ title: Derro Savant
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 7
-- **Gear** [quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 7
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 3
 
@@ -60,7 +75,7 @@ title: Derro Savant
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
-***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -70,9 +85,9 @@ title: Derro Savant
 
 ***Spellcasting.*** The derro casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [message](Mechanics/CLI/spells/message-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [message](/Mechanics/CLI/spells/message-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1/day each:** [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md), [spider climb](Mechanics/CLI/spells/spider-climb-xphb.md)
+**1/day each:** [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [sleep](/Mechanics/CLI/spells/sleep-xphb.md), [spider climb](/Mechanics/CLI/spells/spider-climb-xphb.md)
 ```
 
 ^statblock
@@ -80,3 +95,7 @@ title: Derro Savant
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 92_

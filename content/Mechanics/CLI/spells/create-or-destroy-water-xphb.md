@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Create or Destroy Water
-created: 2026-03-09T12:15:33.910-04:00
-modified: 2026-03-09T12:15:33.910-04:00
-published: 2026-03-09T12:15:33.910-04:00
+created: 2026-03-29T21:53:55.912-04:00
+modified: 2026-03-29T21:53:55.912-04:00
+published: 2026-03-29T21:53:55.912-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/feat/magic-initiate/druid-spells
@@ -20,13 +21,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
-  - Warlock (The Fathomless)
 ---
 
 # Create or Destroy Water
@@ -40,11 +34,25 @@ _1st-level, Transmutation_
 
 You do one of the following:
 
-- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) within range, extinguishing exposed flames there.
-- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) within range.
+- **Create Water.** You create up to 10 gallons of clean water within range in an open container. Alternatively, the water falls as rain in a 30-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) within range, extinguishing exposed flames there.
+- **Destroy Water.** You destroy up to 10 gallons of water in an open container within range. Alternatively, you destroy fog in a 30-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) within range.
 
-**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) increases by 5 feet, for each spell slot level above 1.
+**Using a Higher-Level Spell Slot.** You create or destroy 10 additional gallons of water, or the size of the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) increases by 5 feet, for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock (The Fathomless)](Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Warlock (The Fathomless)](/Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE")
+- [Warlock (The Fathomless)](/Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Genasi (Water)](/Mechanics/CLI/lists/list-spells-races-genasi-water-mpmm.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Magic Initiate (Druid Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

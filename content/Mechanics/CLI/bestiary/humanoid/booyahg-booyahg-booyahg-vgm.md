@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Booyahg Booyahg Booyahg
-created: 2026-03-09T12:15:33.915-04:00
-modified: 2026-03-09T12:15:33.915-04:00
-published: 2026-03-09T12:15:33.915-04:00
+created: 2026-03-29T21:53:55.918-04:00
+modified: 2026-03-29T21:53:55.918-04:00
+published: 2026-03-29T21:53:55.918-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/6
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Booyahg Booyahg Booyahg (VGM)
+ac: 12
+hp: 40
+modifier: 2
+hit_dice: 9d8
+cr: "6"
+stats:
+  - 9
+  - 14
+  - 11
+  - 17
+  - 12
+  - 11
+source:
+  - VGM
 ---
 
 # Booyahg Booyahg Booyahg
 
-_Source: Volo's Guide to Monsters p. 43_
-
-This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
+This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](/Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 ## Booyahgs
 
@@ -33,11 +48,11 @@ A goblin with access to booyahg becomes a member of the lashers and can often ri
 
 ```ad-statblock
 title: Booyahg Booyahg Booyahg
-![](Mechanics/CLI/bestiary/humanoid/token/booyahg-booyahg-booyahg-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/booyahg-booyahg-booyahg-vgm.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 12 (15 with [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md))
-- **Hit Points** 40 (`9d8`) 
+- **Armor Class** 12 (15 with [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md))
+- **Hit Points** 40 (9d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,9 +61,8 @@ title: Booyahg Booyahg Booyahg
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +6, Wisdom +4
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +6, [History](Mechanics/CLI/rules/skills.md#History) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +6, [History](/Mechanics/CLI/skills.md#History) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** any four languages, Goblin
 - **Challenge** 6
 
@@ -56,19 +70,19 @@ title: Booyahg Booyahg Booyahg
 
 ***Spellcasting.*** The goblin is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, `+6` to hit with spell attacks). The goblin has the following wizard spells prepared:
 
-**Cantrips (at will):** [fire bolt](Mechanics/CLI/spells/fire-bolt-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**Cantrips (at will):** [fire bolt](/Mechanics/CLI/spells/fire-bolt-xphb.md), [light](/Mechanics/CLI/spells/light-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1st level (4 slots):** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](Mechanics/CLI/spells/magic-missile-xphb.md), [shield](Mechanics/CLI/spells/shield-xphb.md)
+**1st level (4 slots):** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md), [magic missile](/Mechanics/CLI/spells/magic-missile-xphb.md), [shield](/Mechanics/CLI/spells/shield-xphb.md)
 
-**2nd level (3 slots):** [misty step](Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**2nd level (3 slots):** [misty step](/Mechanics/CLI/spells/misty-step-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
-**3rd level (3 slots):** [counterspell](Mechanics/CLI/spells/counterspell-xphb.md), [fireball](Mechanics/CLI/spells/fireball-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md)
+**3rd level (3 slots):** [counterspell](/Mechanics/CLI/spells/counterspell-xphb.md), [fireball](/Mechanics/CLI/spells/fireball-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md)
 
-**4th level (3 slots):** [greater invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md), [ice storm](Mechanics/CLI/spells/ice-storm-xphb.md)
+**4th level (3 slots):** [greater invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md), [ice storm](/Mechanics/CLI/spells/ice-storm-xphb.md)
 
-**5th level (1 slots):** [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md)
+**5th level (1 slots):** [cone of cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md)
 
-***Wild Magic.*** Each time the goblin casts a spell (including cantrips), there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
+***Wild Magic.*** Each time the goblin casts a spell (including cantrips), there is an accompanying surge of wild magic; roll on the [Wild Magic Surge](/Mechanics/CLI/tables/wild-magic-surge-xphb.md) table in the "Player's Handbook" to determine the wild magic effect.
 
 ***Nimble Escape.*** The goblin
 
@@ -78,3 +92,7 @@ title: Booyahg Booyahg Booyahg
 ```
 
 ^statblock
+
+## Sources
+
+_Volo's Guide to Monsters p. 43_

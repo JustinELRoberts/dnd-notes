@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orc Eye of Gruumsh
-created: 2026-03-09T12:15:33.961-04:00
-modified: 2026-03-09T12:15:33.961-04:00
-published: 2026-03-09T12:15:33.961-04:00
+created: 2026-03-29T21:53:55.965-04:00
+modified: 2026-03-29T21:53:55.965-04:00
+published: 2026-03-29T21:53:55.965-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -20,13 +20,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orc Eye of Gruumsh
+ac: 16
+hp: 45
+modifier: 1
+hit_dice: 6d8 + 18
+cr: "2"
+stats:
+  - 16
+  - 12
+  - 17
+  - 9
+  - 13
+  - 12
+source:
+  - MM
 ---
 
 # Orc Eye of Gruumsh
 
-_Source: Monster Manual p. 247_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc.webp#right)
-
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
 ## Gruumsh One-Eye
@@ -67,11 +82,11 @@ If the orc plucks out one of its eyes, Gruumsh might grant the orc spellcasting 
 
 ```ad-statblock
 title: Orc Eye of Gruumsh
-![](Mechanics/CLI/bestiary/humanoid/token/orc-eye-of-gruumsh.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orc-eye-of-gruumsh.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 16 ([ring mail](Mechanics/CLI/items/ring-mail-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Armor Class** 16 ([ring mail](/Mechanics/CLI/items/ring-mail.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -80,9 +95,8 @@ title: Orc Eye of Gruumsh
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +3, [Religion](Mechanics/CLI/rules/skills.md#Religion) +1
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +3, [Religion](/Mechanics/CLI/skills.md#Religion) +1
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** Common, Orc
 - **Challenge** 2
 
@@ -90,11 +104,11 @@ title: Orc Eye of Gruumsh
 
 ***Spellcasting.*** The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, `+3` to hit with spell attacks). The orc has the following cleric spells prepared:
 
-**Cantrips (at will):** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [resistance](Mechanics/CLI/spells/resistance-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [resistance](/Mechanics/CLI/spells/resistance-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [bless](Mechanics/CLI/spells/bless-xphb.md), [command](Mechanics/CLI/spells/command-xphb.md)
+**1st level (4 slots):** [bless](/Mechanics/CLI/spells/bless-xphb.md), [command](/Mechanics/CLI/spells/command-xphb.md)
 
-**2nd level (2 slots):** [augury](Mechanics/CLI/spells/augury-xphb.md), [spiritual weapon](Mechanics/CLI/spells/spiritual-weapon-xphb.md) (spear)
+**2nd level (2 slots):** [augury](/Mechanics/CLI/spells/augury-xphb.md), [spiritual weapon](/Mechanics/CLI/spells/spiritual-weapon-xphb.md) (spear)
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
@@ -110,3 +124,7 @@ title: Orc Eye of Gruumsh
 ## Environment
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
+
+## Sources
+
+_Monster Manual p. 247_

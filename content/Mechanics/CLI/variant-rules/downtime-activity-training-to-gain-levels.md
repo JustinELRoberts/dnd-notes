@@ -1,0 +1,31 @@
+---
+publish: true
+aliases:
+  - "Downtime Activity: Training to Gain Levels"
+created: 2026-03-29T21:53:56.534-04:00
+modified: 2026-03-29T21:53:56.534-04:00
+published: 2026-03-29T21:53:56.534-04:00
+tags:
+  - ttrpg-cli/compendium/src/5e/dmg
+cssclasses:
+  - json5e-note
+obsidianUIMode: preview
+---
+
+# Downtime Activity: Training to Gain Levels
+
+_Source: Dungeon Master's Guide p. 131_
+
+As a variant rule, you can require characters to spend downtime training or studying before they gain the benefits of a new level. If you choose this option, once a character has earned enough experience points to attain a new level, he or she must train for a number of days before gaining any class features associated with the new level.
+
+The training time required depends on the level to be gained, as shown on the Training to Gain Levels table. The training cost is for the total training time.
+
+**Training to Gain Levels**
+
+| Level Attained | Training Time | Training Cost |
+|----------------|---------------|---------------|
+| 2nd-4th | 10 days | 20 gp |
+| 5th-10th | 20 days | 40 gp |
+| 11th-16th | 30 days | 60 gp |
+| 17th-20th | 40 days | 80 gp |
+^training-to-gain-levels

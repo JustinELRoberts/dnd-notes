@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nagpa
-created: 2026-03-09T12:15:33.834-04:00
-modified: 2026-03-09T12:15:33.834-04:00
-published: 2026-03-09T12:15:33.834-04:00
+created: 2026-03-29T21:53:55.620-04:00
+modified: 2026-03-29T21:53:55.620-04:00
+published: 2026-03-29T21:53:55.620-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/17
@@ -19,13 +19,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nagpa (MPMM)
+ac: 19
+hp: 203
+modifier: 2
+hit_dice: 37d8 + 37
+cr: "17"
+stats:
+  - 9
+  - 15
+  - 12
+  - 23
+  - 18
+  - 21
+source:
+  - MPMM
 ---
 
 # Nagpa
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 189_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/nagpa.webp#right)
-
 Long ago, the Raven Queen cursed a cabal of powerful wizards for meddling in a ritual that would have helped avert a war between the gods. She transformed them into the scabrous, birdlike creatures known as nagpas and rendered them able to acquire new lore and magical power only from the ruins of fallen civilizations and great calamities.
 
 Nagpas still fear the Raven Queen and do their best to avoid her and her agents. When it's impossible to do so, they become cringing, fawning things, eager to please and thereby escape further attention from her cold gaze. All the original thirteen remain alive, thanks to their cunning and their willingness to do whatever is necessary to survive.
@@ -34,11 +49,11 @@ Hungry to claim more power despite the Raven Queen's curse, nagpas strive to bri
 
 ```ad-statblock
 title: Nagpa
-![](Mechanics/CLI/bestiary/monstrosity/token/nagpa-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/nagpa-mpmm.webp#token)
 *Medium monstrosity (wizard), Typically  Neutral Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 203 (`37d8 + 37`) 
+- **Hit Points** 203 (37d8 + 37) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,8 +62,8 @@ title: Nagpa
 
 - **Proficiency Bonus** +6
 - **Saving Throws** Intelligence +12, Wisdom +10, Charisma +11
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +12, [Deception](Mechanics/CLI/rules/skills.md#Deception) +11, [History](Mechanics/CLI/rules/skills.md#History) +12, [Insight](Mechanics/CLI/rules/skills.md#Insight) +10, [Perception](Mechanics/CLI/rules/skills.md#Perception) +10
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 20
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +12, [Deception](/Mechanics/CLI/skills.md#Deception) +11, [History](/Mechanics/CLI/skills.md#History) +12, [Insight](/Mechanics/CLI/skills.md#Insight) +10, [Perception](/Mechanics/CLI/skills.md#Perception) +10
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 20
 - **Languages** Common plus up to five other languages
 - **Challenge** 17
 
@@ -62,17 +77,17 @@ title: Nagpa
 
 ***Spellcasting.*** The nagpa casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 20):
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [message](Mechanics/CLI/spells/message-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [message](/Mechanics/CLI/spells/message-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 
-**2/day each:** [fireball](Mechanics/CLI/spells/fireball-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md)
+**2/day each:** [fireball](/Mechanics/CLI/spells/fireball-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md)
 
-**1/day each:** [dominate person](Mechanics/CLI/spells/dominate-person-xphb.md), [etherealness](Mechanics/CLI/spells/etherealness-xphb.md), [feeblemind](Mechanics/CLI/spells/befuddlement-xphb.md)
+**1/day each:** [dominate person](/Mechanics/CLI/spells/dominate-person-xphb.md), [etherealness](/Mechanics/CLI/spells/etherealness-xphb.md), [feeblemind](/Mechanics/CLI/spells/befuddlement-xphb.md)
 
 ## Bonus Actions
 
-***Corruption.*** The nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.
+***Corruption.*** The nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is [charmed](/Mechanics/CLI/conditions.md#Charmed) by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.
 
-***Paralysis (Recharge 6-6).*** The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom saving throw, excluding Undead and Constructs. On a failed save, a target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. A [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralysis (Recharge 6-6).*** The nagpa forces each creature within 30 feet of it to make a DC 20 Wisdom saving throw, excluding Undead and Constructs. On a failed save, a target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -80,3 +95,7 @@ title: Nagpa
 ## Environment
 
 coastal, desert, forest, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 189_

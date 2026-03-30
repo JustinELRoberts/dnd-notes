@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Death Knight
-created: 2026-03-09T12:15:33.874-04:00
-modified: 2026-03-09T12:15:33.874-04:00
-published: 2026-03-09T12:15:33.874-04:00
+created: 2026-03-29T21:53:55.667-04:00
+modified: 2026-03-29T21:53:55.667-04:00
+published: 2026-03-29T21:53:55.667-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/17
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Death Knight
+ac: 20
+hp: 180
+modifier: 0
+hit_dice: 19d8 + 95
+cr: "17"
+stats:
+  - 20
+  - 11
+  - 20
+  - 12
+  - 16
+  - 18
+source:
+  - MM
 ---
 
 # Death Knight
 
-_Source: Monster Manual p. 47_\
 ![](Mechanics/CLI/bestiary/undead/img/death-knight.webp#right)
-
 When a paladin that falls from grace dies without seeking atonement, dark powers can transform the once-mortal knight into a hateful undead creature. A death knight is a skeletal warrior clad in fearsome plate armor. Beneath its helmet, one can see the knight's skull with malevolent pinpoints of light burning in its eye sockets.
 
 ## Eldritch Power
@@ -43,11 +58,11 @@ A death knight doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Death Knight
-![](Mechanics/CLI/bestiary/undead/token/death-knight.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/death-knight.webp#token)
 *Medium undead, Chaotic Evil*
 
-- **Armor Class** 20 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 180 (`19d8 + 95`) 
+- **Armor Class** 20 ([plate armor](/Mechanics/CLI/items/plate-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 180 (19d8 + 95) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,10 +72,9 @@ title: Death Knight
 - **Proficiency Bonus** +6
 - **Saving Throws** Dexterity +6, Wisdom +9, Charisma +10
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 13
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common
 - **Challenge** 17
 
@@ -68,19 +82,19 @@ title: Death Knight
 
 ***Spellcasting.*** The death knight is a 19th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 18, `+10` to hit with spell attacks). It has the following paladin spells prepared:
 
-**1st level (4 slots):** [command](Mechanics/CLI/spells/command-xphb.md), [compelled duel](Mechanics/CLI/spells/compelled-duel-xphb.md), [searing smite](Mechanics/CLI/spells/searing-smite-xphb.md)
+**1st level (4 slots):** [command](/Mechanics/CLI/spells/command-xphb.md), [compelled duel](/Mechanics/CLI/spells/compelled-duel-xphb.md), [searing smite](/Mechanics/CLI/spells/searing-smite-xphb.md)
 
-**2nd level (3 slots):** [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [magic weapon](Mechanics/CLI/spells/magic-weapon-xphb.md)
+**2nd level (3 slots):** [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [magic weapon](/Mechanics/CLI/spells/magic-weapon-xphb.md)
 
-**3rd level (3 slots):** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [elemental weapon](Mechanics/CLI/spells/elemental-weapon-xphb.md)
+**3rd level (3 slots):** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [elemental weapon](/Mechanics/CLI/spells/elemental-weapon-xphb.md)
 
-**4th level (3 slots):** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [staggering smite](Mechanics/CLI/spells/staggering-smite-xphb.md)
+**4th level (3 slots):** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [staggering smite](/Mechanics/CLI/spells/staggering-smite-xphb.md)
 
-**5th level (2 slots):** [destructive wave](Mechanics/CLI/spells/destructive-wave-xphb.md) (necrotic)
+**5th level (2 slots):** [destructive wave](/Mechanics/CLI/spells/destructive-wave-xphb.md) (necrotic)
 
 ***Magic Resistance.*** The death knight has advantage on saving throws against spells and other magical effects.
 
-***Marshal Undead.*** Unless the death knight is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.
+***Marshal Undead.*** Unless the death knight is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.
 
 ## Actions
 
@@ -96,3 +110,7 @@ title: Death Knight
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 47_

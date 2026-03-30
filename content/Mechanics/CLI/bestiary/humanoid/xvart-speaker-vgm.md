@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Xvart Speaker
-created: 2026-03-09T12:15:33.810-04:00
-modified: 2026-03-09T12:15:33.810-04:00
-published: 2026-03-09T12:15:33.810-04:00
+created: 2026-03-29T21:53:55.594-04:00
+modified: 2026-03-29T21:53:55.594-04:00
+published: 2026-03-29T21:53:55.594-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/1-8
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Xvart Speaker (VGM)
+ac: 13
+hp: 7
+modifier: 2
+hit_dice: 2d6
+cr: 1/8
+stats:
+  - 8
+  - 14
+  - 10
+  - 13
+  - 7
+  - 7
+source:
+  - VGM
 ---
 
 # Xvart Speaker
 
-_Source: Volo's Guide to Monsters p. 200_\
 ![](Mechanics/CLI/bestiary/humanoid/img/xvart.webp#right)
-
 Xvarts are cruel, cowardly humanoids spawned by a cowardly, renegade demigod. They have blue skin, vivid orange eyes, and receding hairlines, mirroring their creator's appearance. They stand about 3 feet tall.
 
 Xvarts live in remote hills, forests, and caves. Each tribe is led by a speaker, who is usually the brightest one among them. The speaker serves as the tribe's ambassador, and often dons short wooden stilts and heavy robes to look taller and more imperious. The rest of the tribe hunts for food, plundering crops and livestock from nearby farms if the hunt goes poorly. Xvarts aren't much of a threat to civilized locations because they are somewhat fearful of humans, dwarves, and elves.
@@ -67,11 +82,11 @@ Raxivort's warlocks are respected and feared in xvart society, but they have lit
 
 ```ad-statblock
 title: Xvart Speaker
-![](Mechanics/CLI/bestiary/humanoid/token/xvart-speaker-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/xvart-speaker-vgm.webp#token)
 *Small humanoid (xvart), Chaotic Evil*
 
-- **Armor Class** 13 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 7 (`2d6`) 
+- **Armor Class** 13 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 7 (2d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -80,17 +95,16 @@ title: Xvart Speaker
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive Perception 8
-- **Gear** [shortsword](Mechanics/CLI/items/shortsword-xphb.md), [sling](Mechanics/CLI/items/sling-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception 8
 - **Languages** Abyssal and one additional language (usually Common or Goblin)
 - **Challenge** 1/8
 
 ## Traits
 
-***Low Cunning.*** The xvart can take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action as a bonus action on each of its turns.
+***Low Cunning.*** The xvart can take the [Disengage](/Mechanics/CLI/actions.md#Disengage) action as a bonus action on each of its turns.
 
-***Overbearing Pack.*** The xvart has advantage on Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Overbearing Pack.*** The xvart has advantage on Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) checks to shove a creature if at least one of the xvart's allies is within 5 feet of the target and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
 
@@ -106,3 +120,7 @@ title: Xvart Speaker
 ## Environment
 
 underdark, hill
+
+## Sources
+
+_Volo's Guide to Monsters p. 200_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Brass Dragon Wyrmling
-created: 2026-03-09T12:15:34.016-04:00
-modified: 2026-03-09T12:15:34.016-04:00
-published: 2026-03-09T12:15:34.016-04:00
+created: 2026-03-29T21:53:56.026-04:00
+modified: 2026-03-29T21:53:56.026-04:00
+published: 2026-03-29T21:53:56.026-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Brass Dragon Wyrmling
+ac: 16
+hp: 16
+modifier: 0
+hit_dice: 3d8 + 3
+cr: "1"
+stats:
+  - 15
+  - 10
+  - 13
+  - 10
+  - 11
+  - 13
+source:
+  - MM
 ---
 
 # Brass Dragon Wyrmling
 
-_Source: Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/brass-dragon.webp#right)
-
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
 A brass dragon's head is defined by the broad protective plate that expands from its forehead and the spikes protruding from its chin. A frill runs the length of its neck, and its tapering wings extend down the length of its tail. A brass dragon wyrmling's scales are a dull, mottled brown. As it ages, the dragon's scales begin to shine, eventually taking on a warm, burnished luster. Its wings and frills are mottled green toward the edges, darkening with age. As a brass dragon grows older, its pupils fade until its eyes resemble molten metal orbs.
@@ -90,11 +105,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Brass Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/brass-dragon-wyrmling.webp#token)
 *Medium dragon, Chaotic Good*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 16 (`3d8 + 3`) 
+- **Hit Points** 16 (3d8 + 3) 
 - **Speed** 30 ft., burrow 15 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -103,8 +118,8 @@ title: Brass Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +2, Constitution +3, Wisdom +2, Charisma +3
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** fire
 - **Languages** Draconic
 - **Challenge** 1
@@ -116,7 +131,11 @@ title: Brass Dragon Wyrmling
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
 - **Fire Breath.** The dragon exhales fire in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 11 Dexterity saving throw, taking 14 (`4d6`) fire damage on a failed save, or half as much damage on a successful one.  
-- **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.  
+- **Sleep Breath.** The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 11 Constitution saving throw or fall [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.  
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 106. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

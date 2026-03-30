@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ioun Stone
-created: 2026-03-09T12:15:34.013-04:00
-modified: 2026-03-09T12:15:34.013-04:00
-published: 2026-03-09T12:15:34.013-04:00
+created: 2026-03-29T21:53:56.021-04:00
+modified: 2026-03-29T21:53:56.021-04:00
+published: 2026-03-29T21:53:56.021-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -16,23 +16,29 @@ obsidianUIMode: preview
 
 # Ioun Stone
 
-_Wondrous item (requires attunement)_
+_Wondrous item (requires attunement)_\
+![](Mechanics/CLI/items/img/ioun-stone.webp#right)
+
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 **Items in this group:**
 
-- [Ioun Stone, Absorption](Mechanics/CLI/items/ioun-stone-absorption.md)
-- [Ioun Stone, Agility](Mechanics/CLI/items/ioun-stone-agility.md)
-- [Ioun Stone, Awareness](Mechanics/CLI/items/ioun-stone-awareness.md)
-- [Ioun Stone, Fortitude](Mechanics/CLI/items/ioun-stone-fortitude.md)
-- [Ioun Stone, Greater Absorption](Mechanics/CLI/items/ioun-stone-greater-absorption.md)
-- [Ioun Stone, Insight](Mechanics/CLI/items/ioun-stone-insight.md)
-- [Ioun Stone, Intellect](Mechanics/CLI/items/ioun-stone-intellect.md)
-- [Ioun Stone, Leadership](Mechanics/CLI/items/ioun-stone-leadership.md)
-- [Ioun Stone, Mastery](Mechanics/CLI/items/ioun-stone-mastery.md)
-- [Ioun Stone, Protection](Mechanics/CLI/items/ioun-stone-protection.md)
-- [Ioun Stone, Regeneration](Mechanics/CLI/items/ioun-stone-regeneration.md)
-- [Ioun Stone, Reserve](Mechanics/CLI/items/ioun-stone-reserve.md)
-- [Ioun Stone, Strength](Mechanics/CLI/items/ioun-stone-strength.md)
-- [Ioun Stone, Sustenance](Mechanics/CLI/items/ioun-stone-sustenance.md)
+- [Ioun Stone, Absorption](/Mechanics/CLI/items/ioun-stone-absorption.md)
+- [Ioun Stone, Agility](/Mechanics/CLI/items/ioun-stone-agility.md)
+- [Ioun Stone, Awareness](/Mechanics/CLI/items/ioun-stone-awareness.md)
+- [Ioun Stone, Fortitude](/Mechanics/CLI/items/ioun-stone-fortitude.md)
+- [Ioun Stone, Greater Absorption](/Mechanics/CLI/items/ioun-stone-greater-absorption.md)
+- [Ioun Stone, Insight](/Mechanics/CLI/items/ioun-stone-insight.md)
+- [Ioun Stone, Intellect](/Mechanics/CLI/items/ioun-stone-intellect.md)
+- [Ioun Stone, Leadership](/Mechanics/CLI/items/ioun-stone-leadership.md)
+- [Ioun Stone, Mastery](/Mechanics/CLI/items/ioun-stone-mastery.md)
+- [Ioun Stone, Protection](/Mechanics/CLI/items/ioun-stone-protection.md)
+- [Ioun Stone, Regeneration](/Mechanics/CLI/items/ioun-stone-regeneration.md)
+- [Ioun Stone, Reserve](/Mechanics/CLI/items/ioun-stone-reserve.md)
+- [Ioun Stone, Strength](/Mechanics/CLI/items/ioun-stone-strength.md)
+- [Ioun Stone, Sustenance](/Mechanics/CLI/items/ioun-stone-sustenance.md)
 
-_Source: Dungeon Master's Guide p. 176_
+## Sources
+
+_Dungeon Master's Guide p. 176_

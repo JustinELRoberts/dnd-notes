@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Trebuchet
-created: 2026-03-09T12:15:33.945-04:00
-modified: 2026-03-09T12:15:33.945-04:00
-published: 2026-03-09T12:15:33.945-04:00
+created: 2026-03-29T21:53:55.947-04:00
+modified: 2026-03-29T21:53:55.947-04:00
+published: 2026-03-29T21:53:55.947-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/object/size/huge
@@ -16,8 +16,6 @@ obsidianUIMode: preview
 
 # Trebuchet
 
-_Source: Dungeon Master's Guide p. 256_
-
 A trebuchet is a powerful catapult that throws its payload in a high arc, so it can hit targets behind cover.
 
 Before the trebuchet can be fired, it must be loaded and aimed. It takes two actions to load the weapon, two actions to aim it, and one action to fire it.
@@ -26,7 +24,7 @@ A trebuchet typically hurls a heavy stone. However, it can launch other kinds of
 
 ```ad-statblock
 title: Trebuchet
-![](Mechanics/CLI/objects/token/trebuchet.webp#token)
+![](/Mechanics/CLI/objects/token/trebuchet.webp#token)
 *Huge Siege weapon*
 
 - **Armor Class** 15 
@@ -45,3 +43,7 @@ title: Trebuchet
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 256_

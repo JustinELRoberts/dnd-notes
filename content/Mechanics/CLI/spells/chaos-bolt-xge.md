@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Chaos Bolt
-created: 2026-03-09T12:15:34.122-04:00
-modified: 2026-03-09T12:15:34.122-04:00
-published: 2026-03-09T12:15:34.122-04:00
+created: 2026-03-29T21:53:56.160-04:00
+modified: 2026-03-29T21:53:56.160-04:00
+published: 2026-03-29T21:53:56.160-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/feat/aberrant-dragonmark
   - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
@@ -16,9 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Sorcerer
-  - Warden (Drake-Blooded)
 ---
 
 # Chaos Bolt
@@ -52,6 +50,14 @@ A creature can be targeted only once by each casting of this spell.
 
 **At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, each target takes `1d6` extra damage of the type rolled for each slot level above 1st.
 
-**Classes**: [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 151_
+- [Aberrant Dragonmark](/Mechanics/CLI/lists/list-spells-feats-aberrant-dragonmark-efa.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 151_

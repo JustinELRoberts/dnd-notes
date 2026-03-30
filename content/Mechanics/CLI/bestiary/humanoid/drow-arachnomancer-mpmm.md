@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Drow Arachnomancer
-created: 2026-03-09T12:15:33.978-04:00
-modified: 2026-03-09T12:15:33.978-04:00
-published: 2026-03-09T12:15:33.978-04:00
+created: 2026-03-29T21:53:55.981-04:00
+modified: 2026-03-29T21:53:55.981-04:00
+published: 2026-03-29T21:53:55.981-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/13
@@ -14,22 +14,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Drow Arachnomancer (MPMM)
+ac: 15
+hp: 162
+modifier: 3
+hit_dice: 25d8 + 50
+cr: "13"
+stats:
+  - 11
+  - 17
+  - 14
+  - 19
+  - 14
+  - 16
+source:
+  - MPMM
 ---
 
 # Drow Arachnomancer
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 99_\
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-arachnomancer.webp#right)
-
 Drow spellcasters who seek to devote themselves wholly to Lolth, the Spider Queen, sometimes walk the sinister path of the arachnomancer. By offering up body and soul to Lolth, they gain tremendous power and a supernatural connection to the ancient spiders of the Demonweb Pits, channeling magic from that dread place.
 
 ```ad-statblock
 title: Drow Arachnomancer
-![](Mechanics/CLI/bestiary/humanoid/token/drow-arachnomancer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/drow-arachnomancer-mpmm.webp#token)
 *Medium humanoid (Drow elf), Typically  Chaotic Evil*
 
-- **Armor Class** 15 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 162 (`25d8 + 50`) 
+- **Armor Class** 15 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 162 (25d8 + 50) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,19 +53,19 @@ title: Drow Arachnomancer
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +7, Intelligence +9, Charisma +8
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +9, [Nature](Mechanics/CLI/rules/skills.md#Nature) +9, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +9, [Nature](/Mechanics/CLI/skills.md#Nature) +9, [Perception](/Mechanics/CLI/skills.md#Perception) +7, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 17
 - **Damage Resistances** poison
 - **Languages** Elvish, Undercommon, can speak with spiders
 - **Challenge** 13
 
 ## Traits
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put the drow to sleep.
 
 ***Spider Climb.*** The drow can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ***Web Walker.*** The drow ignores movement restrictions caused by webbing.
 
@@ -58,17 +73,17 @@ title: Drow Arachnomancer
 
 ***Multiattack.*** The drow makes three attacks, using Bite, Poisonous Touch, Web, or a combination of them. One attack can be replaced by a use of Spellcasting.
 
-***Bite (Spider Form Only).*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 31 (`7d8`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
+***Bite (Spider Form Only).*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 31 (`7d8`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way.
 
 ***Poisonous Touch (Humanoid Form Only).*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 35 (`10d6`) poison damage.
 
-***Web (Spider Form Only; (Recharge 5-6)).*** *Ranged Weapon Attack:* `+8` to hit, range 30/60 ft., one target. *Hit:* The target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by webbing. As an action, the [restrained](Mechanics/CLI/rules/conditions.md#Restrained) target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
+***Web (Spider Form Only; (Recharge 5-6)).*** *Ranged Weapon Attack:* `+8` to hit, range 30/60 ft., one target. *Hit:* The target is [restrained](/Mechanics/CLI/conditions.md#Restrained) by webbing. As an action, the [restrained](/Mechanics/CLI/conditions.md#Restrained) target can make a DC 15 Strength check, bursting the webbing on a success. The webbing can also be attacked and destroyed (AC 10; hp 5; vulnerability to fire damage; immunity to bludgeoning, poison, and psychic damage).
 
 ***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Intelligence as the spellcasting ability (spell save DC 17):
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md)
 
-**1/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [etherealness](Mechanics/CLI/spells/etherealness-xphb.md), [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [insect plague](Mechanics/CLI/spells/insect-plague-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md)
+**1/day each:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [etherealness](/Mechanics/CLI/spells/etherealness-xphb.md), [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [insect plague](/Mechanics/CLI/spells/insect-plague-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md)
 
 ## Bonus Actions
 
@@ -80,3 +95,7 @@ title: Drow Arachnomancer
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 99_

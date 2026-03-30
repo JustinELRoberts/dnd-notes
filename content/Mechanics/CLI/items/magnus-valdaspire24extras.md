@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Magnus
-created: 2026-03-09T12:15:33.780-04:00
-modified: 2026-03-09T12:15:33.780-04:00
-published: 2026-03-09T12:15:33.780-04:00
+created: 2026-03-29T21:53:55.562-04:00
+modified: 2026-03-29T21:53:55.562-04:00
+published: 2026-03-29T21:53:55.562-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/item/rarity/none
@@ -21,10 +21,12 @@ _Weapon_
 
 - **Damage**: 2d8 radiant
 - **Range**: 30/120
-- **Properties**: [Blaster](Mechanics/CLI/rules/item-properties.md#Blaster), [Cooldown](Mechanics/CLI/rules/item-properties.md#Cooldown), [Futuristic Era](Mechanics/CLI/rules/item-properties.md#Futuristic%20Era), [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy)
+- **Properties**: [Blaster](/Mechanics/CLI/item-properties.md#Blaster), [Cooldown](/Mechanics/CLI/item-properties.md#Cooldown), [Futuristic Era](/Mechanics/CLI/item-properties.md#Futuristic%20Era), [Heavy](/Mechanics/CLI/item-properties.md#Heavy)
 - **Cost**: 700 gp
 - **Weight**: 6.0 lbs.
 
 This impressive handgun weighs almost twice that of a Repeater. Its infamous heft, recoil, and stopping power make it a favorite of spacers that accept no compromises.
 
-_Source: Valda's Spire of Secrets Extras (2024)_
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

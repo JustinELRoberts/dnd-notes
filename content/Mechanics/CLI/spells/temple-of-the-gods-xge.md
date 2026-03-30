@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Temple of the Gods
-created: 2026-03-09T12:15:33.947-04:00
-modified: 2026-03-09T12:15:33.947-04:00
-published: 2026-03-09T12:15:33.947-04:00
+created: 2026-03-29T21:53:55.949-04:00
+modified: 2026-03-29T21:53:55.949-04:00
+published: 2026-03-29T21:53:55.949-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/level/7th-level
   - ttrpg-cli/spell/school/conjuration
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Temple of the Gods
@@ -42,10 +39,18 @@ In addition, the sensors created by divination spells can't appear inside the te
 
 Finally, whenever any creature in the temple regains hit points from a spell of 1st level or higher, the creature regains additional hit points equal to your Wisdom modifier (minimum 1 hit point).
 
-The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), and [antimagic field](Mechanics/CLI/spells/antimagic-field-xphb.md) has no effect on it. A [disintegrate](Mechanics/CLI/spells/disintegrate-xphb.md) spell destroys the temple instantly.
+The temple is made from opaque magical force that extends into the Ethereal Plane, thus blocking ethereal travel into the temple's interior. Nothing can physically pass through the temple's exterior. It can't be dispelled by [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), and [antimagic field](/Mechanics/CLI/spells/antimagic-field-xphb.md) has no effect on it. A [disintegrate](/Mechanics/CLI/spells/disintegrate-xphb.md) spell destroys the temple instantly.
 
 Casting this spell on the same spot every day for a year makes this effect permanent.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 167_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Xanathar's Guide to Everything p. 167_

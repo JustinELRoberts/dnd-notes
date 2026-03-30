@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Githzerai Zerth
-created: 2026-03-09T12:15:33.938-04:00
-modified: 2026-03-09T12:15:33.938-04:00
-published: 2026-03-09T12:15:33.938-04:00
+created: 2026-03-29T21:53:55.939-04:00
+modified: 2026-03-29T21:53:55.939-04:00
+published: 2026-03-29T21:53:55.939-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Githzerai Zerth
+ac: 17
+hp: 84
+modifier: 4
+hit_dice: 13d8 + 26
+cr: "6"
+stats:
+  - 13
+  - 18
+  - 15
+  - 16
+  - 17
+  - 12
+source:
+  - MM
 ---
 
 # Githzerai Zerth
 
-_Source: Monster Manual p. 161_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githzerai.webp#right)
-
 Focused philosophers and austere ascetics, the githzerai pursue lives of rigid order. Lean and muscular, they wear unadorned clothing free of ornamentation, keeping their own counsel and trusting few creatures outside of their own kind. Having turned their backs on their warlike githyanki kin, the githzerai maintain a strict monastic lifestyle, dwelling on islands of order in the vast sea of chaos that is the plane of Limbo.
 
 ## Psionic Adepts
@@ -38,7 +53,7 @@ The social hierarchy of the githzerai is based on merit, and those githzerai who
 
 ## Disciples of Zerthimon
 
-Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [mind flayers](Mechanics/CLI/bestiary/aberration/mind-flayer.md).
+Githzerai revere Zerthimon, the founder of their race. Although Gith won their people's freedom, Zerthimon saw her as unfit to lead. He believed that her warmongering would soon make her a tyrant no better than the [mind flayers](/Mechanics/CLI/bestiary/aberration/mind-flayer.md).
 
 Skilled githzerai monks that best exemplify the teachings and principles of Zerthimon are called zerths.
 
@@ -54,13 +69,13 @@ As a special devotion, they organize a rrakkma—an illithid hunting party—to 
 
 ## Gith
 
-The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](Mechanics/CLI/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
+The warlike githyanki and the contemplative githzerai are a sundered people-two cultures that utterly despise one another. Before there were githyanki or githzerai, these creatures were a single race enslaved by the [mind flayers](/Mechanics/CLI/bestiary/aberration/mind-flayer.md). Although they attempted to overthrow their masters many times, their rebellions were repeatedly crushed until a great leader named Gith arose.
 
 After much bloodshed, Gith and her followers threw off the yoke of their illithid masters, but another leader named Zerthimon emerged in the aftermath of battle.
 
 Zerthimon challenged Gith's motives, claiming that her strict martial leadership and desire for vengeance amounted to little more than another form of slavery for her people. A rift erupted between followers of each leader, and they eventually became the two races whose enmity endures to this day.
 
-Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](Mechanics/CLI/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
+Whether these tall, gaunt creatures were peaceful or savage, cultured or primitive before the [mind flayers](/Mechanics/CLI/bestiary/aberration/mind-flayer.md) enslaved and changed them, none can say. Not even the original name of their race remains from that distant time.
 
 > [!quote] A quote from Aristul the Yellow, master of planar lore
 >
@@ -70,11 +85,11 @@ Whether these tall, gaunt creatures were peaceful or savage, cultured or primiti
 
 ```ad-statblock
 title: Githzerai Zerth
-![](Mechanics/CLI/bestiary/humanoid/token/githzerai-zerth.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/githzerai-zerth.webp#token)
 *Medium humanoid (gith), Lawful Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 84 (`13d8 + 26`) 
+- **Hit Points** 84 (13d8 + 26) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -83,7 +98,7 @@ title: Githzerai Zerth
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +4, Dexterity +7, Intelligence +6, Wisdom +6
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +6, [Insight](Mechanics/CLI/rules/skills.md#Insight) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +6, [Insight](/Mechanics/CLI/skills.md#Insight) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +6
 - **Senses** passive Perception 16
 - **Languages** Gith
 - **Challenge** 6
@@ -92,11 +107,11 @@ title: Githzerai Zerth
 
 ***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
 
-**3/day each:** [feather fall](Mechanics/CLI/spells/feather-fall-xphb.md), [jump](Mechanics/CLI/spells/jump-xphb.md), [see invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md), [shield](Mechanics/CLI/spells/shield-xphb.md)
+**3/day each:** [feather fall](/Mechanics/CLI/spells/feather-fall-xphb.md), [jump](/Mechanics/CLI/spells/jump-xphb.md), [see invisibility](/Mechanics/CLI/spells/see-invisibility-xphb.md), [shield](/Mechanics/CLI/spells/shield-xphb.md)
 
-**1/day each:** [phantasmal killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md)
+**1/day each:** [phantasmal killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md)
 
 ***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
@@ -108,3 +123,7 @@ title: Githzerai Zerth
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 161_

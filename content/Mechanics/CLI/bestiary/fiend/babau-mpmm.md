@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Babau
-created: 2026-03-09T12:15:34.019-04:00
-modified: 2026-03-09T12:15:34.019-04:00
-published: 2026-03-09T12:15:34.019-04:00
+created: 2026-03-29T21:53:56.028-04:00
+modified: 2026-03-29T21:53:56.029-04:00
+published: 2026-03-29T21:53:56.029-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -15,11 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Babau (MPMM)
+ac: 16
+hp: 82
+modifier: 3
+hit_dice: 11d8 + 33
+cr: "4"
+stats:
+  - 19
+  - 16
+  - 16
+  - 11
+  - 12
+  - 13
+source:
+  - MPMM
+  - VGM
 ---
 
 # Babau
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136_\
 ![](Mechanics/CLI/bestiary/fiend/img/babau.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -32,11 +49,11 @@ A babau demon has the cunning of a devil and the bloodthirstiness of a demon. It
 
 ```ad-statblock
 title: Babau
-![](Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/babau-mpmm.webp#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 82 (`11d8 + 33`) 
+- **Hit Points** 82 (11d8 + 33) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,11 +62,11 @@ title: Babau
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 15
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal
 - **Challenge** 4
 
@@ -63,7 +80,7 @@ title: Babau
 
 ***Spellcasting.*** The babau casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 11):
 
-**At will:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md), [heat metal](Mechanics/CLI/spells/heat-metal-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md)
+**At will:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [fear](/Mechanics/CLI/spells/fear-xphb.md), [heat metal](/Mechanics/CLI/spells/heat-metal-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md)
 ```
 
 ^statblock
@@ -71,3 +88,7 @@ title: Babau
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 52, Volo's Guide to Monsters p. 136_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Keen Mind
-created: 2026-03-09T12:15:33.942-04:00
-modified: 2026-03-09T12:15:33.942-04:00
-published: 2026-03-09T12:15:33.942-04:00
+created: 2026-03-29T21:53:55.943-04:00
+modified: 2026-03-29T21:53:55.943-04:00
+published: 2026-03-29T21:53:55.943-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Intelligence score by 1, to a maximum of 20.
 
-**Lore Knowledge.** Choose one of the following skills: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion). If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in it.
+**Lore Knowledge.** Choose one of the following skills: [Arcana](/Mechanics/CLI/skills.md#Arcana), [History](/Mechanics/CLI/skills.md#History), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Nature](/Mechanics/CLI/skills.md#Nature), or [Religion](/Mechanics/CLI/skills.md#Religion). If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in it.
 
-**Quick Study.** You can take the [Study](Mechanics/CLI/rules/actions.md#Study) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+**Quick Study.** You can take the [Study](/Mechanics/CLI/actions.md#Study) action as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 ## Sources
 

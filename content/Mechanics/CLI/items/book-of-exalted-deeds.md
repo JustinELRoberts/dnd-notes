@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Book of Exalted Deeds
-created: 2026-03-09T12:15:33.778-04:00
-modified: 2026-03-09T12:15:33.778-04:00
-published: 2026-03-09T12:15:33.778-04:00
+created: 2026-03-29T21:53:55.561-04:00
+modified: 2026-03-29T21:53:55.561-04:00
+published: 2026-03-29T21:53:55.561-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,7 @@ obsidianUIMode: preview
 _Wondrous item, artifact (requires attunement by a creature of good alignment)_\
 ![](Mechanics/CLI/items/img/book-of-exalted-deeds.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
 The definitive treatise on all that is good in the multiverse, the fabled Book of Exalted Deeds figures prominently in many religions. Rather than being a scripture devoted to a particular faith, the book's various authors filled the pages with their own vision of true virtue, providing guidance for defeating evil.
@@ -33,8 +34,8 @@ Benefits granted by the Book of Exalted Deeds last only as long as you strive to
 
 The Book of Exalted Deeds has the following random properties:
 
-- 2 [minor beneficial properties](Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
-- 2 [major beneficial properties](Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)
+- 2 [minor beneficial properties](/Mechanics/CLI/tables/artifact-properties-minor-beneficial-properties.md)
+- 2 [major beneficial properties](/Mechanics/CLI/tables/artifact-properties-major-beneficial-properties.md)
 
 ## Increased Wisdom
 
@@ -46,10 +47,12 @@ Once you've read and studied the book, any spell slot you expend to cast a cleri
 
 ## Halo
 
-Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) checks made to interact with good creatures and Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
+Once you've read and studied the book, you gain a protective halo. This halo sheds bright light in a 10-foot radius and dim light for an additional 10 feet. You can dismiss or manifest the halo as a bonus action. While present, the halo gives you advantage on Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) checks made to interact with good creatures and Charisma ([Intimidation](/Mechanics/CLI/skills.md#Intimidation)) checks made to interact with evil creatures. In addition, fiends and undead within the halo's bright light make attack rolls against you with disadvantage.
 
 ## Destroying the Book
 
 It is rumored that the Book of Exalted Deeds can't be destroyed as long as good exists in the multiverse. However, drowning the book in the River Styx removes all writing and imagery from its pages and renders the book powerless for `1d100` years.
 
-_Source: Dungeon Master's Guide p. 222_
+## Sources
+
+_Dungeon Master's Guide p. 222_

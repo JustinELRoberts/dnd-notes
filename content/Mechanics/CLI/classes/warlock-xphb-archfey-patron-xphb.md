@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Archfey Patron
-created: 2026-03-09T12:15:34.019-04:00
-modified: 2026-03-09T12:15:34.019-04:00
-published: 2026-03-09T12:15:34.019-04:00
+created: 2026-03-29T21:53:56.029-04:00
+modified: 2026-03-29T21:53:56.029-04:00
+published: 2026-03-29T21:53:56.029-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/warlock/archfey
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Archfey Patron
 
-_[Warlock](./warlock-xphb.md): Warlock Subclass_\
-_Source: Player's Handbook (2024) p. 159_
+_[Warlock](./warlock-xphb.md): Warlock Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,38 +64,42 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells |
 |---------------|--------|
-| 3 | [Calm Emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [Faerie Fire](Mechanics/CLI/spells/faerie-fire-xphb.md), [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md), [Phantasmal Force](Mechanics/CLI/spells/phantasmal-force-xphb.md), [Sleep](Mechanics/CLI/spells/sleep-xphb.md) |
-| 5 | [Blink](Mechanics/CLI/spells/blink-xphb.md), [Plant Growth](Mechanics/CLI/spells/plant-growth-xphb.md) |
-| 7 | [Dominate Beast](Mechanics/CLI/spells/dominate-beast-xphb.md), [Greater Invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md) |
-| 9 | [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md), [Seeming](Mechanics/CLI/spells/seeming-xphb.md) |
+| 3 | [Calm Emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [Faerie Fire](/Mechanics/CLI/spells/faerie-fire-xphb.md), [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md), [Phantasmal Force](/Mechanics/CLI/spells/phantasmal-force-xphb.md), [Sleep](/Mechanics/CLI/spells/sleep-xphb.md) |
+| 5 | [Blink](/Mechanics/CLI/spells/blink-xphb.md), [Plant Growth](/Mechanics/CLI/spells/plant-growth-xphb.md) |
+| 7 | [Dominate Beast](/Mechanics/CLI/spells/dominate-beast-xphb.md), [Greater Invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md) |
+| 9 | [Dominate Person](/Mechanics/CLI/spells/dominate-person-xphb.md), [Seeming](/Mechanics/CLI/spells/seeming-xphb.md) |
 ^archfey-spells
 
 ### Steps of the Fey (Level 3)
 
-Your patron grants you the ability to move between the boundaries of the planes. You can cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Your patron grants you the ability to move between the boundaries of the planes. You can cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) without expending a spell slot a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 In addition, whenever you cast that spell, you can choose one of the following additional effects.
 
-**Refreshing Step.** Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains `1d10` [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+**Refreshing Step.** Immediately after you teleport, you or one creature you can see within 10 feet of yourself gains `1d10` [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
-**Taunting Step.** Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you until the start of your next turn.
+**Taunting Step.** Creatures within 5 feet of the space you left must succeed on a Wisdom saving throw against your spell save DC or have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you until the start of your next turn.
 
 ### Misty Escape (Level 6)
 
-You can cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) as a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) in response to taking damage.
+You can cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) as a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) in response to taking damage.
 
 In addition, the following effects are now among your Steps of the Fey options.
 
-**Disappearing Step.** You have the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the start of your next turn or until immediately after you make an attack roll, deal damage, or cast a spell.
+**Disappearing Step.** You have the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition until the start of your next turn or until immediately after you make an attack roll, deal damage, or cast a spell.
 
 **Dreadful Step.** Creatures within 5 feet of the space you left or the space you appear in (your choice) must succeed on a Wisdom saving throw against your spell save DC or take `2d10` Psychic damage.
 
 ### Beguiling Defenses (Level 10)
 
-Your patron teaches you how to guard your mind and body. You are immune to the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition.
+Your patron teaches you how to guard your mind and body. You are immune to the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition.
 
-In addition, immediately after a creature you can see hits you with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md), you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
+In addition, immediately after a creature you can see hits you with an attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to reduce the damage you take by half (round down), and you can force the attacker to make a Wisdom saving throw against your spell save DC. On a failed save, the attacker takes Psychic damage equal to the damage you take. Once you use this [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md), you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
 ### Bewitching Magic (Level 14)
 
-Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) as part of the same action and without expending a spell slot.
+Your patron grants you the ability to weave your magic with teleportation. Immediately after you cast an Enchantment or Illusion spell using an action and a spell slot, you can cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) as part of the same action and without expending a spell slot.
+
+## Sources
+
+_Player's Handbook (2024) p. 159_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dwarf
-created: 2026-03-09T12:15:33.869-04:00
-modified: 2026-03-09T12:15:33.869-04:00
-published: 2026-03-09T12:15:33.869-04:00
+created: 2026-03-29T21:53:55.661-04:00
+modified: 2026-03-29T21:53:55.661-04:00
+published: 2026-03-29T21:53:55.661-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/race/dwarf
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Dwarf
 
-_Source: Player's Handbook (2024) p. 188. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/races/img/dwarf.webp#right)
 
 - **Ability Scores**: None
@@ -27,21 +26,21 @@ _Source: Player's Handbook (2024) p. 188. Available in the <span title='Systems 
 
 ### Darkvision
 
-You have [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 120 feet.
+You have [Darkvision](/Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.
 
 ### Dwarven Resilience
 
-You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Poison damage. You also have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition.
+You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Poison damage. You also have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition.
 
 ### Dwarven Toughness
 
-Your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum increases by 1, and it increases by 1 again whenever you gain a level.
+Your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum increases by 1, and it increases by 1 again whenever you gain a level.
 
 ### Stonecunning
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you gain [Tremorsense](Mechanics/CLI/rules/senses.md#Tremorsense) with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [Tremorsense](Mechanics/CLI/rules/senses.md#Tremorsense). The stone can be natural or worked.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you gain [Tremorsense](/Mechanics/CLI/senses.md#Tremorsense) with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this [Tremorsense](/Mechanics/CLI/senses.md#Tremorsense). The stone can be natural or worked.
 
-You can use this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) a number of times equal to your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Description
 
@@ -50,3 +49,7 @@ Dwarves were raised from the earth in the elder days by a deity of the forge. Ca
 Squat and often bearded, the original dwarves carved cities and strongholds into mountainsides and under the earth. Their oldest legends tell of conflicts with the monsters of mountaintops and the Underdark, whether those monsters were towering giants or subterranean horrors. Inspired by those tales, dwarves of any culture often sing of valorous deeds—especially of the little overcoming the mighty.
 
 On some worlds in the multiverse, the first settlements of dwarves were built in hills or mountains, and the families who trace their ancestry to those settlements call themselves hill dwarves or mountain dwarves, respectively. The Greyhawk and Dragonlance settings have such communities.
+
+## Sources
+
+_Player's Handbook (2024) p. 188. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

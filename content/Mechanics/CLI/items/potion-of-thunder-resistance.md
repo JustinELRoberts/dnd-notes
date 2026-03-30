@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Potion of Thunder Resistance
-created: 2026-03-09T12:15:33.992-04:00
-modified: 2026-03-09T12:15:33.992-04:00
-published: 2026-03-09T12:15:33.992-04:00
+created: 2026-03-29T21:53:56.000-04:00
+modified: 2026-03-29T21:53:56.000-04:00
+published: 2026-03-29T21:53:56.000-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -19,4 +19,9 @@ obsidianUIMode: preview
 
 _Potion, minor, uncommon_
 
-_Source: Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+- **Cost**: ⏤
+- **Weight**: ⏤
+
+## Sources
+
+_Dungeon Master's Guide p. 188. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

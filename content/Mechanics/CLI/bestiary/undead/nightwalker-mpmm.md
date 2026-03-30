@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nightwalker
-created: 2026-03-09T12:15:34.017-04:00
-modified: 2026-03-09T12:15:34.017-04:00
-published: 2026-03-09T12:15:34.017-04:00
+created: 2026-03-29T21:53:56.026-04:00
+modified: 2026-03-29T21:53:56.026-04:00
+published: 2026-03-29T21:53:56.026-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/20
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nightwalker (MPMM)
+ac: 14
+hp: 337
+modifier: 4
+hit_dice: 25d12 + 175
+cr: "20"
+stats:
+  - 22
+  - 19
+  - 24
+  - 6
+  - 9
+  - 8
+source:
+  - MPMM
 ---
 
 # Nightwalker
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 194_\
 ![](Mechanics/CLI/bestiary/undead/img/nightwalker.webp#right)
-
 The Negative Plane is a place of death, anathema to all living things. Yet there are some who would tap into its fell power and use its energy for sinister ends. Most individuals prove unequal to the task. Those not destroyed outright are sometimes drawn inside the plane and replaced by nightwalkers—terrifying Undead creatures that devour all life they encounter.
 
 One can reach the Negative Plane from the Shadowfell in places where the barrier between the planes is thin. Stepping onto the Negative Plane is almost always fatal since the plane sucks the life and soul from creatures, annihilating most at once. The few who survive by sheer luck or by harnessing some rare form of protective magic soon discover that they can't leave as easily as they arrived. Worse, for each creature that enters the plane, a nightwalker is released to take its place. In order for a trapped creature to escape, the released nightwalker must be lured back to the Negative Plane by offerings of life for it to devour. If the nightwalker is destroyed, the trapped creature has no hope of escape.
@@ -32,11 +47,11 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 
 ```ad-statblock
 title: Nightwalker
-![](Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp#token)
 *Huge undead, Typically  Chaotic Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 337 (`25d12 + 175`) 
+- **Hit Points** 337 (25d12 + 175) 
 - **Speed** 40 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,10 +61,10 @@ title: Nightwalker
 - **Proficiency Bonus** +6
 - **Saving Throws** Constitution +13
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 9
 - **Damage Resistances** acid; cold; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** —
 - **Challenge** 20
 
@@ -57,7 +72,7 @@ title: Nightwalker
 
 ***Annihilating Aura.*** Any creature that starts its turn within 30 feet of the nightwalker must succeed on a DC 21 Constitution saving throw or take 21 (`6d6`) necrotic damage. Undead are immune to this aura.
 
-***Life Eater.*** A creature dies if reduced to 0 hit points by the nightwalker and can't be revived except by a [wish](Mechanics/CLI/spells/wish-xphb.md) spell.
+***Life Eater.*** A creature dies if reduced to 0 hit points by the nightwalker and can't be revived except by a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell.
 
 ***Unusual Nature.*** The nightwalker doesn't require air, food, drink, or sleep.
 
@@ -67,7 +82,7 @@ title: Nightwalker
 
 ***Enervating Focus.*** *Melee Weapon Attack:* `+12` to hit, reach 15 ft., one target. *Hit:* 28 (`5d8 + 6`) necrotic damage. The target must succeed on a DC 21 Constitution saving throw or its hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.
 
-***Finger of Doom (Recharge 6).*** The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (`6d12`) necrotic damage and become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the nightwalker's next turn. While [frightened](Mechanics/CLI/rules/conditions.md#Frightened) in this way, the creature is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed). If a target's saving throw is successful, the target is immune to the nightwalker's Finger of Doom for the next 24 hours.
+***Finger of Doom (Recharge 6).*** The nightwalker points at one creature it can see within 300 feet of it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (`6d12`) necrotic damage and become [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of the nightwalker's next turn. While [frightened](/Mechanics/CLI/conditions.md#Frightened) in this way, the creature is also [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed). If a target's saving throw is successful, the target is immune to the nightwalker's Finger of Doom for the next 24 hours.
 ```
 
 ^statblock
@@ -75,3 +90,7 @@ title: Nightwalker
 ## Environment
 
 arctic, desert, swamp, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 194_

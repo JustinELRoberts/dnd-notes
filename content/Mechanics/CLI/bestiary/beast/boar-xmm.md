@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boar
-created: 2026-03-09T12:15:33.946-04:00
-modified: 2026-03-09T12:15:33.946-04:00
-published: 2026-03-09T12:15:33.946-04:00
+created: 2026-03-29T21:53:55.948-04:00
+modified: 2026-03-29T21:53:55.948-04:00
+published: 2026-03-29T21:53:55.948-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-4
@@ -16,16 +16,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Boar (XMM)
+ac: 11
+hp: 13
+modifier: 0
+hit_dice: 2d8 + 4
+cr: 1/4
+stats:
+  - 13
+  - 11
+  - 14
+  - 2
+  - 9
+  - 5
+source:
+  - XMM
+  - XPHB
 ---
 
 # Boar
 
-_Source: Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/boar.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -34,11 +51,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Boar
-![](Mechanics/CLI/bestiary/beast/token/boar-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/boar-xmm.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 13 (`2d8 + 4`) 
+- **Hit Points** 13 (2d8 + 4) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,11 +71,11 @@ title: Boar
 
 ## Traits
 
-***Bloodied Fury.*** While [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), the boar has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls.
+***Bloodied Fury.*** While [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), the boar has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls.
 
 ## Actions
 
-***Gore.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 4 (`1d6 + 1`) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (`1d6`) Piercing damage and has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+***Gore.*** *Melee Attack Roll:* `+3`, reach 5 ft. *Hit:* 4 (`1d6 + 1`) Piercing damage. If the target is a Medium or smaller creature and the boar moved 20+ feet straight toward it immediately before the hit, the target takes an extra 3 (`1d6`) Piercing damage and has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 ```
 
 ^statblock
@@ -66,3 +83,7 @@ title: Boar
 ## Environment
 
 forest, grassland, hill
+
+## Sources
+
+_Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

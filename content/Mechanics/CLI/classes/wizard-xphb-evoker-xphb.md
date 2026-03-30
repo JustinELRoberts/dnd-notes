@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Evoker
-created: 2026-03-09T12:15:33.822-04:00
-modified: 2026-03-09T12:15:33.822-04:00
-published: 2026-03-09T12:15:33.822-04:00
+created: 2026-03-29T21:53:55.611-04:00
+modified: 2026-03-29T21:53:55.611-04:00
+published: 2026-03-29T21:53:55.611-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/wizard/evoker
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Evoker
 
-_[Wizard](./wizard-xphb.md): Wizard Subclass_\
-_Source: Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_[Wizard](./wizard-xphb.md): Wizard Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -79,6 +78,10 @@ Whenever you cast a Wizard spell from the Evocation school, you can add your Int
 
 You can increase the power of your spells. When you cast a Wizard spell with a spell slot of levels 1–5 that deals damage, you can deal maximum damage with that spell on the turn you cast it.
 
-The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md).
+The first time you do so, you suffer no adverse effect. If you use this feature again before you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you take `2d12` Necrotic damage for each level of the spell slot immediately after you cast it. This damage ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md).
 
-Each time you use this feature again before finishing a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `1d12`.
+Each time you use this feature again before finishing a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), the Necrotic damage per spell level increases by `1d12`.
+
+## Sources
+
+_Player's Handbook (2024) p. 174. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

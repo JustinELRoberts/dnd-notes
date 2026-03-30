@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Aarakocra
-created: 2026-03-09T12:15:33.827-04:00
-modified: 2026-03-09T12:15:33.827-04:00
-published: 2026-03-09T12:15:33.827-04:00
+created: 2026-03-29T21:53:55.612-04:00
+modified: 2026-03-29T21:53:55.612-04:00
+published: 2026-03-29T21:53:55.612-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/aarakocra
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Aarakocra
-
-_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: dex +2 wis +2
 - **Size**: Medium
@@ -34,3 +32,7 @@ You are proficient with your unarmed strikes, which deal `1d4` slashing damage o
 ### Language
 
 You can speak, read, and write Auran.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

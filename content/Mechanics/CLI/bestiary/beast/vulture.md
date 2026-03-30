@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Vulture
-created: 2026-03-09T12:15:33.852-04:00
-modified: 2026-03-09T12:15:33.852-04:00
-published: 2026-03-09T12:15:33.852-04:00
+created: 2026-03-29T21:53:55.641-04:00
+modified: 2026-03-29T21:53:55.641-04:00
+published: 2026-03-29T21:53:55.641-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -16,19 +16,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Vulture
+ac: 10
+hp: 5
+modifier: 0
+hit_dice: 1d8 + 1
+cr: "0"
+stats:
+  - 7
+  - 10
+  - 13
+  - 2
+  - 12
+  - 4
+source:
+  - MM
 ---
 
 # Vulture
 
-_Source: Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Vulture
-![](Mechanics/CLI/bestiary/beast/token/vulture.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/vulture.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 10 
-- **Hit Points** 5 (`1d8 + 1`) 
+- **Hit Points** 5 (1d8 + 1) 
 - **Speed** 10 ft., fly 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,16 +52,16 @@ title: Vulture
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 0
 
 ## Traits
 
-***Keen Sight and Smell.*** The vulture has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The vulture has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight or smell.
 
-***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The vulture has advantage on an attack roll against a creature if at least one of the vulture's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -58,3 +73,7 @@ title: Vulture
 ## Environment
 
 grassland, hill, desert
+
+## Sources
+
+_Monster Manual p. 339. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

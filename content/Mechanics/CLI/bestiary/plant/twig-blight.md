@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Twig Blight
-created: 2026-03-09T12:15:33.961-04:00
-modified: 2026-03-09T12:15:33.961-04:00
-published: 2026-03-09T12:15:33.961-04:00
+created: 2026-03-29T21:53:55.966-04:00
+modified: 2026-03-29T21:53:55.966-04:00
+published: 2026-03-29T21:53:55.966-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Twig Blight
+ac: 13
+hp: 4
+modifier: 1
+hit_dice: 1d6 + 1
+cr: 1/8
+stats:
+  - 6
+  - 13
+  - 12
+  - 4
+  - 8
+  - 3
+source:
+  - MM
 ---
 
 # Twig Blight
 
-_Source: Monster Manual p. 32. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/plant/img/twig-blight.webp#right)
-
 Twig blights can root in soil, which they do when living prey are scarce. While rooted, they resemble woody shrubs. When it pulls its roots free of the ground to move, a twig blight's branches twist together to form a humanoid-looking body with a head and limbs.
 
 Twig blights seek out campsites and watering holes, rooting there to set up ambushes for potential victims coming to drink or rest. Huddled together in groups, twig blights blend in with an area's natural vegetation or with piles of debris or firewood.
@@ -53,11 +68,11 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 
 ```ad-statblock
 title: Twig Blight
-![](Mechanics/CLI/bestiary/plant/token/twig-blight.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/twig-blight.webp#token)
 *Small plant, Neutral Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 4 (`1d6 + 1`) 
+- **Hit Points** 4 (1d6 + 1) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,10 +81,10 @@ title: Twig Blight
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 9
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 9
 - **Damage Vulnerabilities** fire
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened)
 - **Languages** understands Common but can't speak
 - **Challenge** 1/8
 
@@ -87,3 +102,7 @@ title: Twig Blight
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 32. Available in the Basic Rules (2014)_

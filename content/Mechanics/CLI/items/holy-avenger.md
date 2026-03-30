@@ -8,9 +8,9 @@ aliases:
   - Holy Avenger Rapier
   - Holy Avenger Scimitar
   - Holy Avenger Shortsword
-created: 2026-03-09T12:15:34.129-04:00
-modified: 2026-03-09T12:15:34.129-04:00
-published: 2026-03-09T12:15:34.129-04:00
+created: 2026-03-29T21:53:56.173-04:00
+modified: 2026-03-29T21:53:56.173-04:00
+published: 2026-03-29T21:53:56.173-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -29,11 +29,14 @@ obsidianUIMode: preview
 _Major, legendary (requires attunement by a paladin)_\
 ![Holy Avenger (Greatsword)](Mechanics/CLI/items/img/holy-avenger.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. When you hit a fiend or an undead with it, that creature takes an extra `2d10` radiant damage.
 
 While you hold the drawn sword, it creates an aura in a 10-foot radius around you. You and all creatures friendly to you in the aura have advantage on saving throws against spells and other magical effects. If you have 17 or more levels in the paladin class, the radius of the aura increases to 30 feet.
 
-**Variants**:
+## Variants
 
 - [Holy Avenger Double-Bladed Scimitar](#Holy%20Avenger%20Double-Bladed%20Scimitar)
 - [Holy Avenger Greatsword](#Holy%20Avenger%20Greatsword)
@@ -45,13 +48,13 @@ While you hold the drawn sword, it creates an aura in a 10-foot radius around yo
 ### Holy Avenger Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Holy Avenger Longsword
@@ -59,25 +62,27 @@ While you hold the drawn sword, it creates an aura in a 10-foot radius around yo
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Holy Avenger Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Holy Avenger Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-_Source: Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 174. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

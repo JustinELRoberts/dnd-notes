@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bag of Tricks, Tan
-created: 2026-03-09T12:15:34.059-04:00
-modified: 2026-03-09T12:15:34.059-04:00
-published: 2026-03-09T12:15:34.059-04:00
+created: 2026-03-29T21:53:56.077-04:00
+modified: 2026-03-29T21:53:56.077-04:00
+published: 2026-03-29T21:53:56.077-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -18,6 +18,7 @@ obsidianUIMode: preview
 
 _Wondrous item, major, uncommon_
 
+- **Cost**: ⏤
 - **Weight**: 0.5 lbs.
 
 This ordinary bag, made from tan cloth, appears empty. Reaching inside the bag, however, reveals the presence of a small, fuzzy object.
@@ -30,14 +31,16 @@ Once three fuzzy objects have been pulled from the bag, the bag can't be used ag
 
 | dice: d8 | Creature |
 |----------|----------|
-| 1 | [Jackal](Mechanics/CLI/bestiary/beast/jackal.md) |
-| 2 | [Ape](Mechanics/CLI/bestiary/beast/ape-xmm.md) |
-| 3 | [Baboon](Mechanics/CLI/bestiary/beast/baboon.md) |
-| 4 | [Axe beak](Mechanics/CLI/bestiary/beast/axe-beak.md) |
-| 5 | [Black bear](Mechanics/CLI/bestiary/beast/black-bear-xmm.md) |
-| 6 | [Giant weasel](Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md) |
-| 7 | [Giant hyena](Mechanics/CLI/bestiary/beast/giant-hyena.md) |
-| 8 | [Tiger](Mechanics/CLI/bestiary/beast/tiger-xmm.md) |
+| 1 | [Jackal](/Mechanics/CLI/bestiary/beast/jackal.md) |
+| 2 | [Ape](/Mechanics/CLI/bestiary/beast/ape-xmm.md) |
+| 3 | [Baboon](/Mechanics/CLI/bestiary/beast/baboon.md) |
+| 4 | [Axe beak](/Mechanics/CLI/bestiary/beast/axe-beak.md) |
+| 5 | [Black bear](/Mechanics/CLI/bestiary/beast/black-bear-xmm.md) |
+| 6 | [Giant weasel](/Mechanics/CLI/bestiary/beast/giant-weasel-xmm.md) |
+| 7 | [Giant hyena](/Mechanics/CLI/bestiary/beast/giant-hyena.md) |
+| 8 | [Tiger](/Mechanics/CLI/bestiary/beast/tiger-xmm.md) |
 ^creature
 
-_Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

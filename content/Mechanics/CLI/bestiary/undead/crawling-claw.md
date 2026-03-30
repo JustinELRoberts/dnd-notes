@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Crawling Claw
-created: 2026-03-09T12:15:33.859-04:00
-modified: 2026-03-09T12:15:33.860-04:00
-published: 2026-03-09T12:15:33.860-04:00
+created: 2026-03-29T21:53:55.651-04:00
+modified: 2026-03-29T21:53:55.651-04:00
+published: 2026-03-29T21:53:55.651-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Crawling Claw
+ac: 12
+hp: 2
+modifier: 2
+hit_dice: 1d4
+cr: "0"
+stats:
+  - 13
+  - 14
+  - 11
+  - 5
+  - 10
+  - 4
+source:
+  - MM
 ---
 
 # Crawling Claw
 
-_Source: Monster Manual p. 44_\
 ![](Mechanics/CLI/bestiary/undead/img/crawling-claw.webp#right)
-
 Crawling claws are the severed hands of murderers animated by dark magic so that they can go on killing. Wizards and warlocks of a dark bent use crawling claws as extra hands in their labors.
 
 ## Magical Origins
@@ -56,11 +71,11 @@ A crawling claw doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Crawling Claw
-![](Mechanics/CLI/bestiary/undead/token/crawling-claw.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/crawling-claw.webp#token)
 *Tiny undead, Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 2 (`1d4`) 
+- **Hit Points** 2 (1d4) 
 - **Speed** 20 ft., climb 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -70,9 +85,9 @@ title: Crawling Claw
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 10
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Common but can't speak
 - **Challenge** 0
 
@@ -86,3 +101,7 @@ title: Crawling Claw
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 44_

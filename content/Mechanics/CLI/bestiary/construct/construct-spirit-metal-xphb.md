@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Construct Spirit (Metal)
-created: 2026-03-09T12:15:34.031-04:00
-modified: 2026-03-09T12:15:34.031-04:00
-published: 2026-03-09T12:15:34.031-04:00
+created: 2026-03-29T21:53:56.044-04:00
+modified: 2026-03-29T21:53:56.044-04:00
+published: 2026-03-29T21:53:56.044-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Construct Spirit (Metal) (XPHB)
+modifier: 0
+stats:
+  - 18
+  - 10
+  - 18
+  - 14
+  - 11
+  - 5
+source:
+  - XPHB
 ---
 
 # Construct Spirit (Metal)
-
-_Source: Player's Handbook (2024) p. 324_
 
 ```ad-statblock
 title: Construct Spirit (Metal)
@@ -34,9 +45,9 @@ title: Construct Spirit (Metal)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Understands the languages you know
 - **Challenge** 
 
@@ -52,3 +63,7 @@ title: Construct Spirit (Metal)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 324_

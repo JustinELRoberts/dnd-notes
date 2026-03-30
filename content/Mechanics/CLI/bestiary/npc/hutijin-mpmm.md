@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hutijin
-created: 2026-03-09T12:15:33.815-04:00
-modified: 2026-03-09T12:15:33.815-04:00
-published: 2026-03-09T12:15:33.815-04:00
+created: 2026-03-29T21:53:55.600-04:00
+modified: 2026-03-29T21:53:55.600-04:00
+published: 2026-03-29T21:53:55.600-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/21
@@ -13,16 +13,31 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hutijin (MPMM)
+ac: 19
+hp: 200
+modifier: 2
+hit_dice: 16d10 + 112
+cr: "21"
+stats:
+  - 27
+  - 15
+  - 25
+  - 23
+  - 19
+  - 25
+source:
+  - MPMM
 ---
 
 # Hutijin
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 157_\
 ![](Mechanics/CLI/bestiary/npc/img/hutijin.webp#right)
-
 Politics in the Nine Hells are anything but predictable. Alliances form all the time, but most wind up unraveling due to treachery. Nevertheless, for all their backbiting and betrayal, devils do occasionally display loyalty, offering unwavering service to their masters. One such example is Hutijin, a duke of Cania and loyal servant of Mephistopheles.
 
-Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](Mechanics/CLI/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
+Across the Hells, Hutijin's name fills lesser devils with fear and loathing, for this duke commands two companies of [pit fiends](/Mechanics/CLI/bestiary/fiend/pit-fiend.md). With such soldiers under his command, Hutijin can easily crush any rival who gets in his way while also defending Mephistopheles against armies seeking to contest his dominion. Hutijin has amassed enough power to challenge the lord of Cania, but he has never wavered in his support for his master—suggesting, perhaps, that Mephistopheles has some hold over him.
 
 Outside the Nine Hells, Hutijin is a relatively obscure figure, known only to the most learned infernal scholars. He has no cults of his own, and his servants are few in number. The reason is simple: Hutijin hates mortals. When summoned from the Hells, he repays the instigator with a long and agonizing death.
 
@@ -30,11 +45,11 @@ Mephistopheles forbids Hutijin from making too many forays into the Material Pla
 
 ```ad-statblock
 title: Hutijin
-![](Mechanics/CLI/bestiary/npc/token/hutijin-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/npc/token/hutijin-mpmm.webp#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 200 (`16d10 + 112`) 
+- **Hit Points** 200 (16d10 + 112) 
 - **Speed** 30 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -43,12 +58,11 @@ title: Hutijin
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Constitution +14, Wisdom +11
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +14, [Perception](Mechanics/CLI/rules/skills.md#Perception) +11
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 21
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +14, [Perception](/Mechanics/CLI/skills.md#Perception) +11
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 21
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [mace](Mechanics/CLI/items/mace-xphb.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 21
 
@@ -66,7 +80,7 @@ title: Hutijin
 
 ***Multiattack.*** Hutijin makes one Bite attack, one Claw attack, one Mace attack, and one Tail attack.
 
-***Bite.*** *Melee Weapon Attack:* `+15` to hit, reach 5 ft., one target. *Hit:* 15 (`2d6 + 8`) fire damage. The target must succeed on a DC 22 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target can't regain hit points, and it takes 10 (`3d6`) poison damage at the start of each of its turns. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* `+15` to hit, reach 5 ft., one target. *Hit:* 15 (`2d6 + 8`) fire damage. The target must succeed on a DC 22 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned). While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way, the target can't regain hit points, and it takes 10 (`3d6`) poison damage at the start of each of its turns. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claw.*** *Melee Weapon Attack:* `+15` to hit, reach 10 ft., one target. *Hit:* 17 (`2d8 + 8`) cold damage.
 
@@ -78,13 +92,13 @@ title: Hutijin
 
 ***Spellcasting.*** Hutijin casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 22):
 
-**At will:** [alter self](Mechanics/CLI/spells/alter-self-xphb.md) (can become Medium when changing his appearance), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [hold monster](Mechanics/CLI/spells/hold-monster-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md)
+**At will:** [alter self](/Mechanics/CLI/spells/alter-self-xphb.md) (can become Medium when changing his appearance), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [hold monster](/Mechanics/CLI/spells/hold-monster-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only), [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md), [wall of fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md)
 
-**3/day:** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md)
+**3/day:** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md)
 
 ## Reactions
 
-***Fearful Voice (Recharge 5-6).*** In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn't a devil must succeed on a DC 22 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
+***Fearful Voice (Recharge 5-6).*** In response to taking damage, Hutijin utters a dreadful word of power. Each creature within 30 feet of him that isn't a devil must succeed on a DC 22 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) of him for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that saves against this effect is immune to his Fearful Voice for 24 hours.
 
 ## Legendary Actions
 
@@ -98,3 +112,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, Hutijin can
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 157_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Visions of Distant Realms
-created: 2026-03-09T12:15:34.041-04:00
-modified: 2026-03-09T12:15:34.041-04:00
-published: 2026-03-09T12:15:34.041-04:00
+created: 2026-03-29T21:53:56.051-04:00
+modified: 2026-03-29T21:53:56.051-04:00
+published: 2026-03-29T21:53:56.051-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/ei
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 9
 
-You can cast [Arcane Eye](Mechanics/CLI/spells/arcane-eye-xphb.md) without expending a spell slot.
+You can cast [Arcane Eye](/Mechanics/CLI/spells/arcane-eye-xphb.md) without expending a spell slot.
 
 ## Sources
 

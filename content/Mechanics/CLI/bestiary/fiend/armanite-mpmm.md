@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Armanite
-created: 2026-03-09T12:15:33.829-04:00
-modified: 2026-03-09T12:15:33.829-04:00
-published: 2026-03-09T12:15:33.829-04:00
+created: 2026-03-29T21:53:55.614-04:00
+modified: 2026-03-29T21:53:55.614-04:00
+published: 2026-03-29T21:53:55.614-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Armanite (MPMM)
+ac: 16
+hp: 94
+modifier: 4
+hit_dice: 9d10 + 45
+cr: "7"
+stats:
+  - 21
+  - 18
+  - 21
+  - 8
+  - 12
+  - 13
+source:
+  - MPMM
 ---
 
 # Armanite
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 50_\
 ![](Mechanics/CLI/bestiary/fiend/img/armanite.webp#right)
-
 Great herds of armanites race across the blasted fields of the Abyss, bent on slaughter and death, driven by unrestrained bloodlust. Whether they're controlled by more powerful demons or charging into battle for the sake of it, armanites use their claws and hooves, as well as their long, whiplike tails, to tear apart foes.
 
 In the armies of demon lords, armanites perform the role of heavy cavalry, leading the charge and tearing into their enemies' flanks. Armanites fight all the time—even battling each other if they can't find another enemy. They make ideal shock troops, utterly ruthless and bold to the point of stupidity.
@@ -29,11 +44,11 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 
 ```ad-statblock
 title: Armanite
-![](Mechanics/CLI/bestiary/fiend/token/armanite-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/armanite-mpmm.webp#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 94 (`9d10 + 45`) 
+- **Hit Points** 94 (9d10 + 45) 
 - **Speed** 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -43,10 +58,10 @@ title: Armanite
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 7
 
@@ -60,7 +75,7 @@ title: Armanite
 
 ***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 10 (`2d4 + 5`) slashing damage plus 9 (`2d8`) lightning damage.
 
-***Hooves.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Hooves.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 12 (`2d6 + 5`) bludgeoning damage. If the target is a Large or smaller creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Serrated Tail.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 16 (`2d10 + 5`) slashing damage.
 
@@ -72,3 +87,7 @@ title: Armanite
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 50_

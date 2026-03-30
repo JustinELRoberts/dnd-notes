@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pickaxe
-created: 2026-03-09T12:15:33.930-04:00
-modified: 2026-03-09T12:15:33.930-04:00
-published: 2026-03-09T12:15:33.930-04:00
+created: 2026-03-29T21:53:55.933-04:00
+modified: 2026-03-29T21:53:55.933-04:00
+published: 2026-03-29T21:53:55.933-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/item/rarity/none
@@ -20,8 +20,10 @@ obsidianUIMode: preview
 _Weapon_
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 5 sp
 - **Weight**: 10.0 lbs.
 
-_Source: Valda's Spire of Secrets (2024)_
+## Sources
+
+_Valda's Spire of Secrets (2024)_

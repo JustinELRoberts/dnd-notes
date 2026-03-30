@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - "Variant: Mixing Potions; Potion Miscibility"
-created: 2026-03-09T12:15:34.391-04:00
-modified: 2026-03-09T12:15:34.391-04:00
-published: 2026-03-09T12:15:34.391-04:00
+created: 2026-03-29T21:53:56.492-04:00
+modified: 2026-03-29T21:53:56.492-04:00
+published: 2026-03-29T21:53:56.492-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:
@@ -27,5 +27,5 @@ _Source: Dungeon Master's Guide p. 140_
 | 26-35 | Both potions work, but with their numerical effects and durations halved. A potion has no effect if it can't be halved in this way. |
 | 36-90 | Both potions work normally. |
 | 91-99 | The numerical effects and duration of one potion are doubled. If neither potion has anything to double in this way, they work normally. |
-| 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [potion of healing](Mechanics/CLI/items/potion-of-healing-xdmg.md) might increase the drinker's hit point maximum by 4, or [oil of etherealness](Mechanics/CLI/items/oil-of-etherealness.md) might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md) or [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md), might end this lasting effect. |
+| 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [potion of healing](/Mechanics/CLI/items/potion-of-healing-xdmg.md) might increase the drinker's hit point maximum by 4, or [oil of etherealness](/Mechanics/CLI/items/oil-of-etherealness.md) might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md) or [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md), might end this lasting effect. |
 ^potion-miscibility

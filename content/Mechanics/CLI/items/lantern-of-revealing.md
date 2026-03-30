@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lantern of Revealing
-created: 2026-03-09T12:15:34.091-04:00
-modified: 2026-03-09T12:15:34.091-04:00
-published: 2026-03-09T12:15:34.091-04:00
+created: 2026-03-29T21:53:56.121-04:00
+modified: 2026-03-29T21:53:56.121-04:00
+published: 2026-03-29T21:53:56.121-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -19,8 +19,11 @@ obsidianUIMode: preview
 _Wondrous item, minor, uncommon_\
 ![](Mechanics/CLI/items/img/lantern-of-revealing.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
-While lit, this [hooded lantern](Mechanics/CLI/items/hooded-lantern-xphb.md) burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.
+While lit, this [hooded lantern](/Mechanics/CLI/items/hooded-lantern-xphb.md) burns for 6 hours on 1 pint of oil, shedding bright light in a 30-foot radius and dim light for an additional 30 feet. [Invisible](/Mechanics/CLI/conditions.md#Invisible) creatures and objects are visible as long as they are in the lantern's bright light. You can use an action to lower the hood, reducing the light to dim light in a 5-foot radius.
 
-_Source: Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 179. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

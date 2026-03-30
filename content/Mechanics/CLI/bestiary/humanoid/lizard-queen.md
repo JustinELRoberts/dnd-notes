@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lizard Queen
-created: 2026-03-09T12:15:33.908-04:00
-modified: 2026-03-09T12:15:33.908-04:00
-published: 2026-03-09T12:15:33.908-04:00
+created: 2026-03-29T21:53:55.908-04:00
+modified: 2026-03-29T21:53:55.908-04:00
+published: 2026-03-29T21:53:55.908-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Lizard Queen
+ac: 15
+hp: 78
+modifier: 1
+hit_dice: 12d8 + 24
+cr: "4"
+stats:
+  - 17
+  - 12
+  - 15
+  - 11
+  - 11
+  - 15
+source:
+  - MM
 ---
 
 # Lizard Queen
 
-_Source: Monster Manual p. 205_\
 ![](Mechanics/CLI/bestiary/humanoid/img/lizardfolk.webp#right)
-
 Lizardfolk are primitive reptilian humanoids that lurk in the swamps and jungles of the world. Their hut villages thrive in forbidding grottos, half-sunken ruins, and watery caverns.
 
 ## Territorial Xenophobes
@@ -62,11 +77,11 @@ Lizardfolk speak Draconic, which they are thought to have learned from dragons i
 
 ```ad-statblock
 title: Lizard Queen
-![](Mechanics/CLI/bestiary/humanoid/token/lizard-queen.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/lizard-queen.webp#token)
 *Medium humanoid (lizardfolk), Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 78 (`12d8 + 24`) 
+- **Hit Points** 78 (12d8 + 24) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -75,10 +90,9 @@ title: Lizard Queen
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4, Wisdom +2
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5, [Survival](Mechanics/CLI/rules/skills.md#Survival) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Condition Immunities** [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
-- **Gear** [trident](Mechanics/CLI/items/trident-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5, [Survival](/Mechanics/CLI/skills.md#Survival) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Condition Immunities** [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Abyssal, Draconic
 - **Challenge** 4
 
@@ -104,3 +118,7 @@ title: Lizard Queen
 ## Environment
 
 forest, swamp
+
+## Sources
+
+_Monster Manual p. 205_

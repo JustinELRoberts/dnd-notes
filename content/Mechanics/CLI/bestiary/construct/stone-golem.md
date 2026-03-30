@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stone Golem
-created: 2026-03-09T12:15:33.838-04:00
-modified: 2026-03-09T12:15:33.838-04:00
-published: 2026-03-09T12:15:33.838-04:00
+created: 2026-03-29T21:53:55.623-04:00
+modified: 2026-03-29T21:53:55.623-04:00
+published: 2026-03-29T21:53:55.623-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/10
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Stone Golem
+ac: 17
+hp: 178
+modifier: -1
+hit_dice: 17d10 + 85
+cr: "10"
+stats:
+  - 22
+  - 9
+  - 20
+  - 3
+  - 11
+  - 1
+source:
+  - MM
 ---
 
 # Stone Golem
 
-_Source: Monster Manual p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/construct/img/stone-golem.webp#right)
-
 Stone golems display great variety in shape and form, cut and chiseled from stone to appear as tall, impressive statues. Though most bear humanoid features, stone golems can be carved in any form the sculptor can imagine. Ancient stone golems found in sealed tombs or flanking the gates of lost cities sometimes take the forms of giant beasts.
 
 Like other golems, stone golems are nearly impervious to spells and ordinary weapons. Creatures that fight a stone golem can feel the ebb and flow of time slow down around them, almost as though they were made of stone themselves.
@@ -28,7 +43,7 @@ Like other golems, stone golems are nearly impervious to spells and ordinary wea
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [manual of golems](Mechanics/CLI/items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [manual of golems](/Mechanics/CLI/items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -46,7 +61,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -56,11 +71,11 @@ A golem doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Stone Golem
-![](Mechanics/CLI/bestiary/construct/token/stone-golem.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/stone-golem.webp#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 178 (`17d10 + 85`) 
+- **Hit Points** 178 (17d10 + 85) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -70,9 +85,9 @@ title: Stone Golem
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Immunities** poison; psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 10
 
@@ -94,3 +109,7 @@ title: Stone Golem
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

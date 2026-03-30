@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Choker
-created: 2026-03-09T12:15:33.958-04:00
-modified: 2026-03-09T12:15:33.958-04:00
-published: 2026-03-09T12:15:33.958-04:00
+created: 2026-03-29T21:53:55.962-04:00
+modified: 2026-03-29T21:53:55.962-04:00
+published: 2026-03-29T21:53:55.962-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Choker (MPMM)
+ac: 16
+hp: 13
+modifier: 2
+hit_dice: 3d6 + 3
+cr: "1"
+stats:
+  - 16
+  - 14
+  - 13
+  - 4
+  - 12
+  - 7
+source:
+  - MPMM
 ---
 
 # Choker
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 76_\
 ![](Mechanics/CLI/bestiary/aberration/img/choker.webp#right)
-
 The choker is a subterranean predator far more dangerous than its small size and spindly, rubbery limbs would suggest.
 
 Chokers have cartilage rather than a bony skeleton. This flexible internal structure enables them to easily slip into narrow fissures and niches in the walls of their cavern homes. They lurk in these spots, silent and unseen, waiting for prey to happen by.
@@ -35,11 +50,11 @@ Chokers tend to set their ambushes alone, rather than working in concert, but wh
 
 ```ad-statblock
 title: Choker
-![](Mechanics/CLI/bestiary/aberration/token/choker-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/choker-mpmm.webp#token)
 *Small aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 13 (`3d6 + 3`) 
+- **Hit Points** 13 (3d6 + 3) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,8 +63,8 @@ title: Choker
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** Deep Speech
 - **Challenge** 1
 
@@ -65,7 +80,7 @@ title: Choker
 
 ***Multiattack.*** The choker makes two Tentacle attacks.
 
-***Tentacle.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage. If the target is a Large or smaller creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
+***Tentacle.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage. If the target is a Large or smaller creature, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the choker can't use this tentacle on another target. The choker has two tentacles. If this attack is a critical hit, the target also can't breathe or speak until the grapple ends.
 ```
 
 ^statblock
@@ -73,3 +88,7 @@ title: Choker
 ## Environment
 
 forest, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 76_

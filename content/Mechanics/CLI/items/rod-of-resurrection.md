@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rod of Resurrection
-created: 2026-03-09T12:15:34.032-04:00
-modified: 2026-03-09T12:15:34.032-04:00
-published: 2026-03-09T12:15:34.032-04:00
+created: 2026-03-29T21:53:56.044-04:00
+modified: 2026-03-29T21:53:56.044-04:00
+published: 2026-03-29T21:53:56.044-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -21,10 +21,13 @@ obsidianUIMode: preview
 _Rod, major, legendary (requires attunement by a cleric, druid, or paladin)_\
 ![](Mechanics/CLI/items/img/rod-of-resurrection.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
-The rod has 5 charges. While you hold it, you can use an action to cast one of the following spells from it: [heal](Mechanics/CLI/spells/heal-xphb.md) (expends 1 charge) or [resurrection](Mechanics/CLI/spells/resurrection-xphb.md) (expends 5 charges).
+The rod has 5 charges. While you hold it, you can use an action to cast one of the following spells from it: [heal](/Mechanics/CLI/spells/heal-xphb.md) (expends 1 charge) or [resurrection](/Mechanics/CLI/spells/resurrection-xphb.md) (expends 5 charges).
 
 The rod regains 1 expended charge daily at dawn. If the rod is reduced to 0 charges, roll a `d20`. On a 1, the rod disappears in a burst of radiance.
 
-_Source: Dungeon Master's Guide p. 197_
+## Sources
+
+_Dungeon Master's Guide p. 197_

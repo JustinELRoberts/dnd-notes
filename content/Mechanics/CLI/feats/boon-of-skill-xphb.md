@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boon of Skill
-created: 2026-03-09T12:15:33.792-04:00
-modified: 2026-03-09T12:15:33.792-04:00
-published: 2026-03-09T12:15:33.792-04:00
+created: 2026-03-29T21:53:55.575-04:00
+modified: 2026-03-29T21:53:55.575-04:00
+published: 2026-03-29T21:53:55.575-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -25,7 +25,7 @@ You gain the following benefits.
 
 **All-Around Adept.** You gain proficiency in all skills.
 
-**Expertise.** Choose one skill in which you lack [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in that skill.
+**Expertise.** Choose one skill in which you lack [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md). You gain [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in that skill.
 
 ## Sources
 

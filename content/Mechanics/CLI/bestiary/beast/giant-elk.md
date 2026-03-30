@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Elk
-created: 2026-03-09T12:15:34.013-04:00
-modified: 2026-03-09T12:15:34.013-04:00
-published: 2026-03-09T12:15:34.013-04:00
+created: 2026-03-29T21:53:56.021-04:00
+modified: 2026-03-29T21:53:56.021-04:00
+published: 2026-03-29T21:53:56.021-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -17,21 +17,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Elk
+ac: 14
+hp: 42
+modifier: 3
+hit_dice: 5d12 + 10
+cr: "2"
+stats:
+  - 19
+  - 16
+  - 14
+  - 7
+  - 14
+  - 10
+source:
+  - MM
 ---
 
 # Giant Elk
-
-_Source: Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 The majestic giant elk is rare to the point that its appearance is often taken as a foreshadowing of an important event, such as the birth of a king. Legends tell of gods that take the form of giant elk when visiting the Material Plane. Many cultures therefore believe that to hunt these creatures is to invite divine wrath.
 
 ```ad-statblock
 title: Giant Elk
-![](Mechanics/CLI/bestiary/beast/token/giant-elk.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-elk.webp#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 42 (`5d12 + 10`) 
+- **Hit Points** 42 (5d12 + 10) 
 - **Speed** 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,20 +55,20 @@ title: Giant Elk
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
 - **Senses** passive Perception 14
 - **Languages** Giant Elk, understands Common, Elvish, Sylvan but can't speak them
 - **Challenge** 2
 
 ## Traits
 
-***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (`2d6`) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Charge.*** If the elk moves at least 20 feet straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (`2d6`) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Actions
 
 ***Ram.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage.
 
-***Hooves.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one [prone](Mechanics/CLI/rules/conditions.md#Prone) creature. *Hit:* 22 (`4d8 + 4`) bludgeoning damage.
+***Hooves.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one [prone](/Mechanics/CLI/conditions.md#Prone) creature. *Hit:* 22 (`4d8 + 4`) bludgeoning damage.
 ```
 
 ^statblock
@@ -61,3 +76,7 @@ title: Giant Elk
 ## Environment
 
 mountain, grassland, forest, hill
+
+## Sources
+
+_Monster Manual p. 325. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

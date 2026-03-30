@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Red Dragon
-created: 2026-03-09T12:15:34.050-04:00
-modified: 2026-03-09T12:15:34.050-04:00
-published: 2026-03-09T12:15:34.050-04:00
+created: 2026-03-29T21:53:56.062-04:00
+modified: 2026-03-29T21:53:56.062-04:00
+published: 2026-03-29T21:53:56.062-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/10
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Red Dragon
+ac: 18
+hp: 178
+modifier: 0
+hit_dice: 17d10 + 85
+cr: "10"
+stats:
+  - 23
+  - 10
+  - 21
+  - 14
+  - 11
+  - 19
+source:
+  - MM
 ---
 
 # Young Red Dragon
 
-_Source: Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/red-dragon.webp#right)
-
 The most covetous of the true dragons, red dragons tirelessly seek to increase their treasure hoards. They are exceptionally vain, even for dragons, and their conceit is reflected in their proud bearing and their disdain for other creatures. The odor of sulfur and pumice surrounds a red dragon, whose swept-back horns and spinal frill define its silhouette. Its beaked snout vents smoke at all times, and its eyes dance with flame when it is angry. Its wings are the longest of any chromatic dragon, and have a blue-black tint along the trailing edge that resembles metal burned blue by fire.
 
 The scales of a red dragon wyrmling are a bright glossy scarlet, turning a dull, deeper red and becoming as thick and strong as metal as the dragon ages. Its pupils also fade as it ages, and the oldest red dragons have eyes that resemble molten lava orbs.
@@ -104,11 +119,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Red Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-red-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-red-dragon.webp#token)
 *Large dragon, Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 178 (`17d10 + 85`) 
+- **Hit Points** 178 (17d10 + 85) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -117,8 +132,8 @@ title: Young Red Dragon
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +4, Constitution +9, Wisdom +4, Charisma +8
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +8, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 18
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +8, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 18
 - **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 10
@@ -139,3 +154,7 @@ title: Young Red Dragon
 ## Environment
 
 mountain, hill
+
+## Sources
+
+_Monster Manual p. 98. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Apothecary
-created: 2026-03-09T12:15:34.042-04:00
-modified: 2026-03-09T12:15:34.042-04:00
-published: 2026-03-09T12:15:34.042-04:00
+created: 2026-03-29T21:53:56.052-04:00
+modified: 2026-03-29T21:53:56.052-04:00
+published: 2026-03-29T21:53:56.052-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/alchemist/apothecary
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Apothecary
 
-_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,24 +56,28 @@ Many practically minded Alchemists assume the role of the Apothecary, for advent
 
 ### Physician's Studies (Level 3)
 
-You gain proficiency in the [Medicine](Mechanics/CLI/rules/skills.md#Medicine) skill. Additionally, you gain a bonus to checks using this skill equal to your Intelligence modifier (minimum bonus of +1).
+You gain proficiency in the [Medicine](/Mechanics/CLI/skills.md#Medicine) skill. Additionally, you gain a bonus to checks using this skill equal to your Intelligence modifier (minimum bonus of +1).
 
 ### Painkiller Bomb \[Formula] (Level 3)
 
-You can mix your [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) contents with analgesic oil, changing it into a Painkiller Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage, but instead causes the target or each creature within the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) of the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property to gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md). These [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal your Alchemist level.
+You can mix your [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) contents with analgesic oil, changing it into a Painkiller Bomb. This [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage, but instead causes the target or each creature within the [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) of the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) Explode property to gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md). These [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal your Alchemist level.
 
-When you grant [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) using this [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can also expend [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to use Empowered Bomb. Instead of increasing the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) damage, you increase the number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) by `1d10` for each expended [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
+When you grant [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) using this [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md), you can also expend [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to use Empowered Bomb. Instead of increasing the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) damage, you increase the number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) by `1d10` for each expended [Reagent](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
 
-You can use this formula a number of times equal to your Intelligence modifier (minimum of once) and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this formula a number of times equal to your Intelligence modifier (minimum of once) and regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Concentrated Healing (Level 6)
 
-When a creature regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) as a result of drinking one of your potions, it can instead replace up to half of the die rolled with the highest possible number for each die.
+When a creature regains [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) as a result of drinking one of your potions, it can instead replace up to half of the die rolled with the highest possible number for each die.
 
 ### Self-Medication (Level 10)
 
-Whenever you drink a potion that has the effect of restoring your [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) (even if you already have all of your [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md)), you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws until the end of your next turn.
+Whenever you drink a potion that has the effect of restoring your [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) (even if you already have all of your [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md)), you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws until the end of your next turn.
 
 ### Alchemical Resurrection (Level 14)
 
-Your medicines are potent enough to rouse the dead. By using a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to mix diamond dust worth 1,000 GP+ into a Potion of Superior Healing or a Potion of Supreme Healing, you create a [Potion of Resurrection](Mechanics/CLI/items/potion-of-resurrection-valdaspire24.md). This potion doesn't become inert after 24 hours.
+Your medicines are potent enough to rouse the dead. By using a [Magic](/Mechanics/CLI/actions.md#Magic) action to mix diamond dust worth 1,000 GP+ into a Potion of Superior Healing or a Potion of Supreme Healing, you create a [Potion of Resurrection](/Mechanics/CLI/items/potion-of-resurrection-valdaspire24.md). This potion doesn't become inert after 24 hours.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

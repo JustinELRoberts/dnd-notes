@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Canoloth
-created: 2026-03-09T12:15:34.083-04:00
-modified: 2026-03-09T12:15:34.083-04:00
-published: 2026-03-09T12:15:34.083-04:00
+created: 2026-03-29T21:53:56.114-04:00
+modified: 2026-03-29T21:53:56.114-04:00
+published: 2026-03-29T21:53:56.114-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/8
@@ -16,11 +16,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Canoloth (MPMM)
+ac: 16
+hp: 120
+modifier: 0
+hit_dice: 16d8 + 48
+cr: "8"
+stats:
+  - 18
+  - 10
+  - 17
+  - 5
+  - 17
+  - 12
+source:
+  - MPMM
 ---
 
 # Canoloth
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 69_\
 ![](Mechanics/CLI/bestiary/fiend/img/canoloth.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -29,15 +45,15 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse p. 69_\
 
 A type of yugoloth, canoloths are fiendish trackers and guardians employed by evil powers. They prefer to enter into contracts to guard valuable treasures and important locations. They always do exactly as asked—never any more, never any less.
 
-With senses sharp enough to pinpoint the locations of nearby [invisible](Mechanics/CLI/rules/conditions.md#Invisible) creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting. Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
+With senses sharp enough to pinpoint the locations of nearby [invisible](/Mechanics/CLI/conditions.md#Invisible) creatures, canoloths respond unfailingly to any threat to their charges. Furthermore, they emit a magical distortion field that prevents creatures close to them from teleporting. Canoloths confront intruders with swift and terrible force, projecting long, spiny tongues to grab their foes and drag them close. What happens next depends on the contract. Unless instructed to kill, a canoloth merely holds on to its prisoner, but if given the order to do so, it tears its prey limb from limb.
 
 ```ad-statblock
 title: Canoloth
-![](Mechanics/CLI/bestiary/fiend/token/canoloth-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/canoloth-mpmm.webp#token)
 *Medium fiend (yugoloth), Typically  Neutral Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 120 (`16d8 + 48`) 
+- **Hit Points** 120 (16d8 + 48) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,11 +62,11 @@ title: Canoloth
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Investigation](Mechanics/CLI/rules/skills.md#Investigation) +3, [Perception](Mechanics/CLI/rules/skills.md#Perception) +9
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 19
+- **Skills** [Investigation](/Mechanics/CLI/skills.md#Investigation) +3, [Perception](/Mechanics/CLI/skills.md#Perception) +9
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 19
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Infernal, telepathy 60 ft.
 - **Challenge** 8
 
@@ -60,7 +76,7 @@ title: Canoloth
 
 ***Magic Resistance.*** The canoloth has advantage on saving throws against spells and other magical effects.
 
-***Uncanny Senses.*** The canoloth can't be [surprised](Mechanics/CLI/rules/conditions.md#Surprised) unless it's [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Uncanny Senses.*** The canoloth can't be [surprised](/Mechanics/CLI/conditions.md#Surprised) unless it's [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -70,7 +86,7 @@ title: Canoloth
 
 ***Claw.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) slashing damage plus 9 (`2d8`) force damage.
 
-***Tongue.*** *Melee Weapon Attack:* `+7` to hit, reach 30 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage plus 7 (`2d6`) acid damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15), pulled up to 30 feet toward the canoloth, and [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the grapple ends. The canoloth can grapple one target at a time with its tongue.
+***Tongue.*** *Melee Weapon Attack:* `+7` to hit, reach 30 ft., one target. *Hit:* 10 (`1d12 + 4`) piercing damage plus 7 (`2d6`) acid damage. If the target is Medium or smaller, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15), pulled up to 30 feet toward the canoloth, and [restrained](/Mechanics/CLI/conditions.md#Restrained) until the grapple ends. The canoloth can grapple one target at a time with its tongue.
 ```
 
 ^statblock
@@ -78,3 +94,7 @@ title: Canoloth
 ## Environment
 
 coastal, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 69_

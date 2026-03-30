@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Githzerai Anarch
-created: 2026-03-09T12:15:33.796-04:00
-modified: 2026-03-09T12:15:33.796-04:00
-published: 2026-03-09T12:15:33.796-04:00
+created: 2026-03-29T21:53:55.580-04:00
+modified: 2026-03-29T21:53:55.580-04:00
+published: 2026-03-29T21:53:55.580-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/16
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Githzerai Anarch (MPMM)
+ac: 20
+hp: 144
+modifier: 5
+hit_dice: 17d8 + 68
+cr: "16"
+stats:
+  - 16
+  - 21
+  - 18
+  - 18
+  - 20
+  - 14
+source:
+  - MPMM
 ---
 
 # Githzerai Anarch
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 142_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githzerai-anarch.webp#right)
-
 Anarchs are githzerai sages and mystics who lead communities and maintain the adamantine citadels that serve as strong points in Limbo and on other planes. They have formidable psionic capabilities and are able to manipulate the unformed substance of their adopted plane with a thought.
 
 ## An Anarch's Lair
@@ -36,11 +51,11 @@ Githzerai are otherworldly folk with psionic powers who share an ancestral link 
 
 ```ad-statblock
 title: Githzerai Anarch
-![](Mechanics/CLI/bestiary/humanoid/token/githzerai-anarch-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/githzerai-anarch-mpmm.webp#token)
 *Medium humanoid (gith), Any alignment*
 
 - **Armor Class** 20 (psychic defense)
-- **Hit Points** 144 (`17d8 + 68`) 
+- **Hit Points** 144 (17d8 + 68) 
 - **Speed** 30 ft., fly 40 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,7 +64,7 @@ title: Githzerai Anarch
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +8, Dexterity +10, Intelligence +9, Wisdom +10
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +9, [Insight](Mechanics/CLI/rules/skills.md#Insight) +10, [Perception](Mechanics/CLI/rules/skills.md#Perception) +10
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +9, [Insight](/Mechanics/CLI/skills.md#Insight) +10, [Perception](/Mechanics/CLI/skills.md#Perception) +10
 - **Senses** passive Perception 20
 - **Languages** Gith
 - **Challenge** 16
@@ -68,11 +83,11 @@ title: Githzerai Anarch
 
 ***Spellcasting (Psionics).*** The githzerai casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 18):
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
 
-**3/day each:** [see invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md)
+**3/day each:** [see invisibility](/Mechanics/CLI/spells/see-invisibility-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md)
 
-**1/day each:** [globe of invulnerability](Mechanics/CLI/spells/globe-of-invulnerability-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [wall of force](Mechanics/CLI/spells/wall-of-force-xphb.md)
+**1/day each:** [globe of invulnerability](/Mechanics/CLI/spells/globe-of-invulnerability-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [wall of force](/Mechanics/CLI/spells/wall-of-force-xphb.md)
 
 ## Legendary Actions
 
@@ -82,13 +97,13 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the githzer
 
 ***Teleport.*** The githzerai teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 30 feet of it.
 
-***Change Gravity (Costs 3 Actions).*** The githzerai casts the [reverse gravity](Mechanics/CLI/spells/reverse-gravity-xphb.md) spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
+***Change Gravity (Costs 3 Actions).*** The githzerai casts the [reverse gravity](/Mechanics/CLI/spells/reverse-gravity-xphb.md) spell, using Wisdom as the spellcasting ability. The spell has the normal effect, except that the githzerai can orient the area in any direction and creatures and objects fall toward the end of the area.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), the anarch can take one of the following lair actions; the anarch can't take the same lair action two rounds in a row:
 
-- **Create Object.** The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, the anarch's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) breaks.  
+- **Create Object.** The anarch casts the creation spell (as a 9th-level spell) using the unformed substance of Limbo instead of shadow material. If used in Limbo, the object remains until the anarch's [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken, regardless of its composition. If the anarch moves more than 120 feet from the object, the anarch's [concentration](/Mechanics/CLI/conditions.md#Concentration) breaks.  
 - **Move Object.** The anarch can magically move an object it can see within 150 feet of it by making a Wisdom check with advantage. The DC depends on the object's size: DC 5 for Tiny, DC 10 for Small, DC 15 for Medium, DC 20 for Large, and DC 25 for Huge or larger.  
 - **Psionic Bolt.** The anarch casts the lightning bolt spell (at 5th level), but the anarch can change the damage type from lightning to cold, fire, psychic, radiant, or thunder. If the spell deals damage other than fire or lightning, it doesn't ignite flammable objects.  
 
@@ -103,3 +118,7 @@ If the anarch dies, these effects end after `1d6` rounds. All formed substance b
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 142_

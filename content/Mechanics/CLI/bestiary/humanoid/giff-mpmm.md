@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giff
-created: 2026-03-09T12:15:33.989-04:00
-modified: 2026-03-09T12:15:33.989-04:00
-published: 2026-03-09T12:15:33.989-04:00
+created: 2026-03-29T21:53:55.996-04:00
+modified: 2026-03-29T21:53:55.996-04:00
+published: 2026-03-29T21:53:55.996-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giff (MPMM)
+ac: 16
+hp: 60
+modifier: 2
+hit_dice: 8d8 + 24
+cr: "3"
+stats:
+  - 18
+  - 14
+  - 17
+  - 11
+  - 12
+  - 12
+source:
+  - MPMM
 ---
 
 # Giff
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 138_\
 ![](Mechanics/CLI/bestiary/humanoid/img/giff.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -33,7 +49,7 @@ Muskets and grenades are the specialties of many giff regiments. The bigger the 
 
 ## Gunpowder by the Keg
 
-In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (`7d6`) fire damage and is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+In addition to their personal gunpowder weapons, giff ships and mercenary companies carry spare gunpowder in kegs. In an emergency, or if a large explosion is needed, a whole keg can be detonated. A giff lights the fuse on the keg and can then throw the keg up to 15 feet as part of the same action. The keg explodes at the start of the giff's next turn. Each creature within 20 feet of the exploding keg must make a DC 12 Dexterity saving throw. On a failed save, a creature takes 24 (`7d6`) fire damage and is knocked [prone](/Mechanics/CLI/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent chance of also exploding. Check each keg only once per turn, no matter how many other kegs explode around it.
 
@@ -41,11 +57,11 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 
 ```ad-statblock
 title: Giff
-![](Mechanics/CLI/bestiary/humanoid/token/giff-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/giff-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 16 ([breastplate](Mechanics/CLI/items/breastplate-xphb.md))
-- **Hit Points** 60 (`8d8 + 24`) 
+- **Armor Class** 16 ([breastplate](/Mechanics/CLI/items/breastplate.md))
+- **Hit Points** 60 (8d8 + 24) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,7 +72,6 @@ title: Giff
 - **Saving Throws** ⏤
 - **Skills** ⏤
 - **Senses** passive Perception 11
-- **Gear** [longsword](Mechanics/CLI/items/longsword-xphb.md), [musket](Mechanics/CLI/items/musket-xphb.md), [pistol](Mechanics/CLI/items/pistol-xphb.md)
 - **Languages** Common
 - **Challenge** 3
 
@@ -64,7 +79,7 @@ title: Giff
 
 ***Firearms Knowledge.*** The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols.
 
-***Headfirst Charge.*** The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line and ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14 Strength saving throw or take 7 (`2d6`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Headfirst Charge.*** The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line and ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14 Strength saving throw or take 7 (`2d6`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Actions
 
@@ -84,3 +99,7 @@ title: Giff
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 138_

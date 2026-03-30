@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Control Weather
-created: 2026-03-09T12:15:34.110-04:00
-modified: 2026-03-09T12:15:34.110-04:00
-published: 2026-03-09T12:15:34.110-04:00
+created: 2026-03-29T21:53:56.148-04:00
+modified: 2026-03-29T21:53:56.148-04:00
+published: 2026-03-29T21:53:56.148-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/wizard
@@ -18,12 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
 ---
 
 # Control Weather
@@ -76,6 +71,17 @@ When you change the weather conditions, find a current condition on the followin
 | 5 | Storm |
 ^wind
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Boon of Siberys (Mark of Storm)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

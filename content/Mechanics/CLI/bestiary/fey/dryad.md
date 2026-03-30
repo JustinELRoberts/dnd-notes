@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dryad
-created: 2026-03-09T12:15:33.883-04:00
-modified: 2026-03-09T12:15:33.883-04:00
-published: 2026-03-09T12:15:33.883-04:00
+created: 2026-03-29T21:53:55.677-04:00
+modified: 2026-03-29T21:53:55.677-04:00
+published: 2026-03-29T21:53:55.677-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dryad
+ac: 11
+hp: 22
+modifier: 1
+hit_dice: 5d8
+cr: "1"
+stats:
+  - 10
+  - 12
+  - 11
+  - 14
+  - 15
+  - 18
+source:
+  - MM
 ---
 
 # Dryad
 
-_Source: Monster Manual p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fey/img/dryad.webp#right)
-
 Travelers entering a forest might catch a glimpse of a feminine form flitting through the trees. Warm laughter hangs on the air, drawing those who hear it deeper into the emerald shadows.
 
 ## Treebound
@@ -31,7 +46,7 @@ A dryad can emerge from the tree and travel the lands around it, but the tree re
 
 ## Reclusive Fey
 
-Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [charmed](Mechanics/CLI/rules/conditions.md#Charmed).
+Dryads act as guardians of their woodland demesnes. Shy and reclusive, they watch interlopers from the trees. A dryad struck by the beauty of a stranger might investigate more closely, perhaps even try to lure the individual away to be [charmed](/Mechanics/CLI/conditions.md#Charmed).
 
 Dryads work with other sylvan creatures to defend their forests. Unicorns, treants, and satyrs live alongside them, in addition to druids that share the dryads' devotion to the woods they call home.
 
@@ -43,11 +58,11 @@ Dryads can speak with plants and animals. They can teleport from one tree to ano
 
 ```ad-statblock
 title: Dryad
-![](Mechanics/CLI/bestiary/fey/token/dryad.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/dryad.webp#token)
 *Medium fey, Neutral*
 
-- **Armor Class** 11 (16 with [barkskin](Mechanics/CLI/spells/barkskin-xphb.md))
-- **Hit Points** 22 (`5d8`) 
+- **Armor Class** 11 (16 with [barkskin](/Mechanics/CLI/spells/barkskin-xphb.md))
+- **Hit Points** 22 (5d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,9 +71,8 @@ title: Dryad
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
-- **Gear** [club](Mechanics/CLI/items/club-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** Elvish, Sylvan
 - **Challenge** 1
 
@@ -66,11 +80,11 @@ title: Dryad
 
 ***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
-**At will:** [druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md)
+**At will:** [druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md)
 
-**3/day each:** [entangle](Mechanics/CLI/spells/entangle-xphb.md), [goodberry](Mechanics/CLI/spells/goodberry-xphb.md)
+**3/day each:** [entangle](/Mechanics/CLI/spells/entangle-xphb.md), [goodberry](/Mechanics/CLI/spells/goodberry-xphb.md)
 
-**1/day each:** [barkskin](Mechanics/CLI/spells/barkskin-xphb.md), [pass without trace](Mechanics/CLI/spells/pass-without-trace-xphb.md), [shillelagh](Mechanics/CLI/spells/shillelagh-xphb.md)
+**1/day each:** [barkskin](/Mechanics/CLI/spells/barkskin-xphb.md), [pass without trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md), [shillelagh](/Mechanics/CLI/spells/shillelagh-xphb.md)
 
 ***Magic Resistance.*** The dryad has advantage on saving throws against spells and other magical effects.
 
@@ -82,11 +96,11 @@ title: Dryad
 
 ***Club.*** *Melee Weapon Attack:* `+2` to hit (`+6` to hit with shillelagh), reach 5 ft., one target. *Hit:* 2 (`1d4`) bludgeoning damage, or 8 (`1d8 + 4`) bludgeoning damage with shillelagh.
 
-***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically [charmed](Mechanics/CLI/rules/conditions.md#Charmed). The [charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
+***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically [charmed](/Mechanics/CLI/conditions.md#Charmed). The [charmed](/Mechanics/CLI/conditions.md#Charmed) creature regards the dryad as a trusted friend to be heeded and protected. Although the target isn't under the dryad's control, it takes the dryad's requests or actions in the most favorable way it can.
 
 Each time the dryad or its allies do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as a bonus action. If a target's saving throw is successful, the target is immune to the dryad's Fey Charm for the next 24 hours.
 
-The dryad can have no more than one humanoid and up to three beasts [charmed](Mechanics/CLI/rules/conditions.md#Charmed) at a time.
+The dryad can have no more than one humanoid and up to three beasts [charmed](/Mechanics/CLI/conditions.md#Charmed) at a time.
 ```
 
 ^statblock
@@ -94,3 +108,7 @@ The dryad can have no more than one humanoid and up to three beasts [charmed](Me
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

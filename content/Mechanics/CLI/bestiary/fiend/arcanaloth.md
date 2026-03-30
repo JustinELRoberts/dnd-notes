@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Arcanaloth
-created: 2026-03-09T12:15:33.798-04:00
-modified: 2026-03-09T12:15:33.798-04:00
-published: 2026-03-09T12:15:33.798-04:00
+created: 2026-03-29T21:53:55.582-04:00
+modified: 2026-03-29T21:53:55.582-04:00
+published: 2026-03-29T21:53:55.582-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/12
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Arcanaloth
+ac: 17
+hp: 104
+modifier: 1
+hit_dice: 16d8 + 32
+cr: "12"
+stats:
+  - 17
+  - 12
+  - 14
+  - 20
+  - 16
+  - 17
+source:
+  - MM
 ---
 
 # Arcanaloth
 
-_Source: Monster Manual p. 313_\
 ![](Mechanics/CLI/bestiary/fiend/img/arcanaloth.webp#right)
-
 Arcanaloths are sly, jackal-headed beings with humanoid bodies, but they can employ magic to take any humanoid form. They do so to gain the trust of creatures with whom they negotiate, replacing jackal snarls with winsome smiles. Regardless of its chosen form, an arcanaloth appears well groomed, clothing itself in fine robes. Highly intelligent spellcasters who hunger for knowledge and power, arcanaloths command units of lesser yugoloths and maintain the contracts, records, and accounts of their kind.
 
 Arcanaloths speak and write all languages, making them cunning diplomats and negotiators. An arcanaloth properly paid can broker treaties or alliances with subtlety and finesse, just as an arcanaloth who changes sides can easily turn the best-laid peace talks into all-out war. What the fiend demands in exchange for its time and talent is information, as well as powerful magic items that it can trade for even more information.
@@ -78,11 +93,11 @@ Whatever the case, no fiend finds the General unless the General desires it. His
 
 ```ad-statblock
 title: Arcanaloth
-![](Mechanics/CLI/bestiary/fiend/token/arcanaloth.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/arcanaloth.webp#token)
 *Medium fiend (yugoloth), Neutral Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 104 (`16d8 + 32`) 
+- **Hit Points** 104 (16d8 + 32) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -91,11 +106,11 @@ title: Arcanaloth
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +5, Intelligence +9, Wisdom +7, Charisma +7
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +13, [Deception](Mechanics/CLI/rules/skills.md#Deception) +11, [Insight](Mechanics/CLI/rules/skills.md#Insight) +11, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 17
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +13, [Deception](/Mechanics/CLI/skills.md#Deception) +11, [Insight](/Mechanics/CLI/skills.md#Insight) +11, [Perception](/Mechanics/CLI/skills.md#Perception) +7
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 17
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 12
 
@@ -103,27 +118,27 @@ title: Arcanaloth
 
 ***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, `+9` to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
 
-**Cantrips (at will):** [fire bolt](Mechanics/CLI/spells/fire-bolt-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**Cantrips (at will):** [fire bolt](/Mechanics/CLI/spells/fire-bolt-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1st level (4 slots):** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [identify](Mechanics/CLI/spells/identify-xphb.md), [shield](Mechanics/CLI/spells/shield-xphb.md), [Tenser's floating disk](Mechanics/CLI/spells/tensers-floating-disk-xphb.md)
+**1st level (4 slots):** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [identify](/Mechanics/CLI/spells/identify-xphb.md), [shield](/Mechanics/CLI/spells/shield-xphb.md), [Tenser's floating disk](/Mechanics/CLI/spells/tensers-floating-disk-xphb.md)
 
-**2nd level (3 slots):** [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [mirror image](Mechanics/CLI/spells/mirror-image-xphb.md), [phantasmal force](Mechanics/CLI/spells/phantasmal-force-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**2nd level (3 slots):** [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [mirror image](/Mechanics/CLI/spells/mirror-image-xphb.md), [phantasmal force](/Mechanics/CLI/spells/phantasmal-force-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
-**3rd level (3 slots):** [counterspell](Mechanics/CLI/spells/counterspell-xphb.md), [fear](Mechanics/CLI/spells/fear-xphb.md), [fireball](Mechanics/CLI/spells/fireball-xphb.md)
+**3rd level (3 slots):** [counterspell](/Mechanics/CLI/spells/counterspell-xphb.md), [fear](/Mechanics/CLI/spells/fear-xphb.md), [fireball](/Mechanics/CLI/spells/fireball-xphb.md)
 
-**4th level (3 slots):** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md)
+**4th level (3 slots):** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md)
 
-**5th level (2 slots):** [contact other plane](Mechanics/CLI/spells/contact-other-plane-xphb.md), [hold monster](Mechanics/CLI/spells/hold-monster-xphb.md)
+**5th level (2 slots):** [contact other plane](/Mechanics/CLI/spells/contact-other-plane-xphb.md), [hold monster](/Mechanics/CLI/spells/hold-monster-xphb.md)
 
-**6th level (1 slots):** [chain lightning](Mechanics/CLI/spells/chain-lightning-xphb.md)
+**6th level (1 slots):** [chain lightning](/Mechanics/CLI/spells/chain-lightning-xphb.md)
 
-**7th level (1 slots):** [finger of death](Mechanics/CLI/spells/finger-of-death-xphb.md)
+**7th level (1 slots):** [finger of death](/Mechanics/CLI/spells/finger-of-death-xphb.md)
 
-**8th level (1 slots):** [mind blank](Mechanics/CLI/spells/mind-blank-xphb.md)
+**8th level (1 slots):** [mind blank](/Mechanics/CLI/spells/mind-blank-xphb.md)
 
 ***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:
 
-**At will:** [alter self](Mechanics/CLI/spells/alter-self-xphb.md), [darkness](Mechanics/CLI/spells/darkness-xphb.md), [heat metal](Mechanics/CLI/spells/heat-metal-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only), [magic missile](Mechanics/CLI/spells/magic-missile-xphb.md)
+**At will:** [alter self](/Mechanics/CLI/spells/alter-self-xphb.md), [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [heat metal](/Mechanics/CLI/spells/heat-metal-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only), [magic missile](/Mechanics/CLI/spells/magic-missile-xphb.md)
 
 ***Magic Resistance.*** The arcanaloth has advantage on saving throws against spells and other magical effects.
 
@@ -137,3 +152,7 @@ title: Arcanaloth
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 313_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dretch
-created: 2026-03-09T12:15:33.996-04:00
-modified: 2026-03-09T12:15:33.996-04:00
-published: 2026-03-09T12:15:33.996-04:00
+created: 2026-03-29T21:53:56.006-04:00
+modified: 2026-03-29T21:53:56.006-04:00
+published: 2026-03-29T21:53:56.006-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dretch
+ac: 11
+hp: 18
+modifier: 0
+hit_dice: 4d6 + 4
+cr: 1/4
+stats:
+  - 11
+  - 11
+  - 12
+  - 5
+  - 8
+  - 3
+source:
+  - MM
 ---
 
 # Dretch
 
-_Source: Monster Manual p. 57. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/dretch.webp#right)
-
 Dretches are among the weakest of demons-repulsive, self-loathing creatures doomed to spend eternity in a state of perpetual discontent. Their low intelligence makes dretches unsuitable for anything but the simplest tasks. However, what they lack in potential, they make up for in sheer malice. Dretches mill about in mobs, voicing their displeasure as an unsettling din of hoots, snarls, and grunts.
 
 ## Demons
@@ -162,7 +177,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -192,11 +207,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Dretch
-![](Mechanics/CLI/bestiary/fiend/token/dretch.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/dretch.webp#token)
 *Small fiend (demon), Chaotic Evil*
 
 - **Armor Class** 11 (natural armor)
-- **Hit Points** 18 (`4d6 + 4`) 
+- **Hit Points** 18 (4d6 + 4) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -206,10 +221,10 @@ title: Dretch
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 60 ft. (works only with creatures that understand Abyssal)
 - **Challenge** 1/4
 
@@ -221,7 +236,11 @@ title: Dretch
 
 ***Claws.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one target. *Hit:* 5 (`2d4`) slashing damage.
 
-***Fetid Cloud (1/Day).*** A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of its next turn. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
+***Fetid Cloud (1/Day).*** A 10-foot radius of disgusting green gas extends out from the dretch. The gas spreads around corners, and its area is lightly obscured. It lasts for 1 minute or until a strong wind disperses it. Any creature that starts its turn in that area must succeed on a DC 11 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the start of its next turn. While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way, the target can take either an action or a bonus action on its turn, not both, and can't take reactions.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 57. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wild Magic Sorcery
-created: 2026-03-09T12:15:34.020-04:00
-modified: 2026-03-09T12:15:34.020-04:00
-published: 2026-03-09T12:15:34.020-04:00
+created: 2026-03-29T21:53:56.029-04:00
+modified: 2026-03-29T21:53:56.029-04:00
+published: 2026-03-29T21:53:56.029-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/sorcerer/wild-magic
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Wild Magic Sorcery
 
-_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
-_Source: Player's Handbook (2024) p. 149_
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,17 +62,17 @@ Your spellcasting can unleash surges of untamed magic. Once per turn, you can ro
 
 If the magical effect is a spell, it is too wild to be affected by your Metamagic.
 
-![Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md)
+![Wild Magic Surge](/Mechanics/CLI/tables/wild-magic-surge-xphb.md)
 
 ### Tides of Chaos (Level 3)
 
-You can manipulate chaos itself to give yourself [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on one [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) before you can use this feature again.
+You can manipulate chaos itself to give yourself [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on one [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) before you roll the `d20`. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) before you can use this feature again.
 
-If you do cast a Sorcerer spell with a spell slot before you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you automatically roll on the [Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md) table.
+If you do cast a Sorcerer spell with a spell slot before you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you automatically roll on the [Wild Magic Surge](/Mechanics/CLI/tables/wild-magic-surge-xphb.md) table.
 
 ### Bend Luck (Level 6)
 
-You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
+You have the ability to twist fate using your wild magic. Immediately after another creature you can see rolls the `d20` for a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) and spend 1 Sorcery Point to roll `1d4` and apply the number rolled as a bonus or penalty (your choice) to the `d20` roll.
 
 ### Controlled Chaos (Level 14)
 
@@ -81,6 +80,10 @@ You gain a modicum of control over the surges of your wild magic. Whenever you r
 
 ### Tamed Surge (Level 18)
 
-Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [Wild Magic Surge](Mechanics/CLI/tables/wild-magic-surge-xphb.md) table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
+Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the [Wild Magic Surge](/Mechanics/CLI/tables/wild-magic-surge-xphb.md) table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.
 
-Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Player's Handbook (2024) p. 149_

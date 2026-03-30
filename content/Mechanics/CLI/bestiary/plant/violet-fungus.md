@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Violet Fungus
-created: 2026-03-09T12:15:33.827-04:00
-modified: 2026-03-09T12:15:33.827-04:00
-published: 2026-03-09T12:15:33.827-04:00
+created: 2026-03-29T21:53:55.612-04:00
+modified: 2026-03-29T21:53:55.612-04:00
+published: 2026-03-29T21:53:55.612-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Violet Fungus
+ac: 5
+hp: 18
+modifier: -5
+hit_dice: 4d8
+cr: 1/4
+stats:
+  - 3
+  - 1
+  - 10
+  - 1
+  - 3
+  - 1
+source:
+  - MM
 ---
 
 # Violet Fungus
 
-_Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/plant/img/violet-fungus.webp#right)
-
 This purplish mushroom uses root-like feelers growing from its base to creep across cavern floors. The four stalks protruding from a violet fungi's central mass are used to lash out at prey, rotting flesh with the slightest touch. Any creature killed by a violet fungus decomposes rapidly. A new violet fungus sprouts from the moldering corpse, growing to full size in `2d6` days.
 
 ## Fungi
@@ -35,11 +50,11 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 
 ```ad-statblock
 title: Violet Fungus
-![](Mechanics/CLI/bestiary/plant/token/violet-fungus.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/violet-fungus.webp#token)
 *Medium plant, Unaligned*
 
 - **Armor Class** 5 
-- **Hit Points** 18 (`4d8`) 
+- **Hit Points** 18 (4d8) 
 - **Speed** 5 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,8 +64,8 @@ title: Violet Fungus
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 6
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 6
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** —
 - **Challenge** 1/4
 
@@ -70,3 +85,7 @@ title: Violet Fungus
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

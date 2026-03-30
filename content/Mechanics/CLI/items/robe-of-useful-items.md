@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Robe of Useful Items
-created: 2026-03-09T12:15:34.104-04:00
-modified: 2026-03-09T12:15:34.104-04:00
-published: 2026-03-09T12:15:34.104-04:00
+created: 2026-03-29T21:53:56.139-04:00
+modified: 2026-03-29T21:53:56.139-04:00
+published: 2026-03-29T21:53:56.139-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -18,6 +18,9 @@ obsidianUIMode: preview
 
 _Wondrous item, minor, uncommon_\
 ![](Mechanics/CLI/items/img/robe-of-useful-items.webp#right)
+
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 This robe has cloth patches of various shapes and colors covering it. While wearing the robe, you can use an action to detach one of the patches, causing it to become the object or creature it represents. Once the last patch is removed, the robe becomes an ordinary garment.
 
@@ -39,14 +42,16 @@ In addition, the robe has `4d4` other patches. The DM chooses the patches or det
 | 16-22 | Iron door (up to 10 feet wide and 10 feet high, barred on one side of your choice), which you can place in an opening you can reach; it conforms to fit the opening, attaching and hinging itself |
 | 23-30 | 10 gems worth 100 gp each |
 | 31-44 | Wooden ladder (24 feet long) |
-| 45-51 | A [riding horse](Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) with saddle bags |
+| 45-51 | A [riding horse](/Mechanics/CLI/bestiary/beast/riding-horse-xmm.md) with saddle bags |
 | 52-59 | Pit (a cube 10 feet on a side), which you can place on the ground within 10 feet of you |
-| 60-68 | 4 [potions of healing](Mechanics/CLI/items/potion-of-healing-xdmg.md) |
-| 69-75 | [Rowboat](Mechanics/CLI/items/rowboat-xphb.md) (12 feet long) |
+| 60-68 | 4 [potions of healing](/Mechanics/CLI/items/potion-of-healing-xdmg.md) |
+| 69-75 | [Rowboat](/Mechanics/CLI/items/rowboat-xphb.md) (12 feet long) |
 | 76-83 | Spell scroll containing one spell of 1st to 3rd level |
-| 84-90 | 2 [mastiffs](Mechanics/CLI/bestiary/beast/mastiff-xmm.md) |
+| 84-90 | 2 [mastiffs](/Mechanics/CLI/bestiary/beast/mastiff-xmm.md) |
 | 91-96 | Window (2 feet by 4 feet, up to 2 feet deep), which you can place on a vertical surface you can reach |
-| 97-00 | [Portable ram](Mechanics/CLI/items/portable-ram-xphb.md) |
+| 97-00 | [Portable ram](/Mechanics/CLI/items/portable-ram-xphb.md) |
 ^patch
 
-_Source: Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

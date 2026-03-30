@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Genasi (Earth)
-created: 2026-03-09T12:15:33.988-04:00
-modified: 2026-03-09T12:15:33.988-04:00
-published: 2026-03-09T12:15:33.988-04:00
+created: 2026-03-29T21:53:55.994-04:00
+modified: 2026-03-29T21:53:55.994-04:00
+published: 2026-03-29T21:53:55.994-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/genasi/earth
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Genasi (Earth)
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 17_\
 ![](Mechanics/CLI/races/img/genasi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -43,9 +42,9 @@ You can move across difficult terrain without expending extra movement if you ar
 
 ### Merge with Stone
 
-You know the [blade ward](Mechanics/CLI/spells/blade-ward-xphb.md) cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
+You know the [blade ward](/Mechanics/CLI/spells/blade-ward-xphb.md) cantrip. You can cast it as normal, and you can also cast it as a bonus action a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.
 
-Starting at 5th level, you can cast the [pass without trace](Mechanics/CLI/spells/pass-without-trace-xphb.md) spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+Starting at 5th level, you can cast the [pass without trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md) spell with this trait, without requiring a material component. Once you cast that spell with this trait, you can't do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -54,3 +53,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.
 
 A typical genasi has a life span of 120 years.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 17_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fire Giant
-created: 2026-03-09T12:15:33.846-04:00
-modified: 2026-03-09T12:15:33.846-04:00
-published: 2026-03-09T12:15:33.846-04:00
+created: 2026-03-29T21:53:55.635-04:00
+modified: 2026-03-29T21:53:55.635-04:00
+published: 2026-03-29T21:53:55.635-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fire Giant
+ac: 18
+hp: 162
+modifier: -1
+hit_dice: 13d12 + 78
+cr: "9"
+stats:
+  - 25
+  - 9
+  - 23
+  - 10
+  - 14
+  - 13
+source:
+  - MM
 ---
 
 # Fire Giant
 
-_Source: Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/giant/img/fire-giant.webp#right)
-
 Master crafters and organized warriors, fire giants dwell among volcanoes, lava floes, and rocky mountains. They are ruthless militaristic brutes whose mastery of metalwork is legendary.
 
 ## Fire Forged
@@ -93,11 +108,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Fire Giant
-![](Mechanics/CLI/bestiary/giant/token/fire-giant.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/fire-giant.webp#token)
 *Huge giant, Lawful Evil*
 
-- **Armor Class** 18 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 162 (`13d12 + 78`) 
+- **Armor Class** 18 ([plate armor](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 162 (13d12 + 78) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -106,10 +121,9 @@ title: Fire Giant
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +3, Constitution +10, Charisma +5
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +11, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +11, [Perception](/Mechanics/CLI/skills.md#Perception) +6
 - **Senses** passive Perception 16
 - **Damage Immunities** fire
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md)
 - **Languages** Giant
 - **Challenge** 9
 
@@ -127,3 +141,7 @@ title: Fire Giant
 ## Environment
 
 underdark, mountain
+
+## Sources
+
+_Monster Manual p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

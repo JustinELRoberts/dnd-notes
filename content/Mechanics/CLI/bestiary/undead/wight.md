@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wight
-created: 2026-03-09T12:15:33.877-04:00
-modified: 2026-03-09T12:15:33.877-04:00
-published: 2026-03-09T12:15:33.877-04:00
+created: 2026-03-29T21:53:55.670-04:00
+modified: 2026-03-29T21:53:55.670-04:00
+published: 2026-03-29T21:53:55.670-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Wight
+ac: 14
+hp: 45
+modifier: 2
+hit_dice: 6d8 + 18
+cr: "3"
+stats:
+  - 15
+  - 14
+  - 16
+  - 10
+  - 13
+  - 15
+source:
+  - MM
 ---
 
 # Wight
 
-_Source: Monster Manual p. 300. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/wight.webp#right)
-
 The word "wight" meant "person" in days of yore, but the name now refers to evil undead who were once mortals driven by dark desire and great vanity. When death stills such a creature's heart and snuffs its living breath, its spirit cries out to the demon lord Orcus or some vile god of the underworld for a reprieve: undeath in return for eternal war on the living. If a dark power answers the call, the spirit is granted undeath so that it can pursue its own malevolent agenda.
 
 Wights possess the memories and drives of their formerly living selves. They will heed the call of whatever dark entity transformed them into undead, swearing oaths to appease their new lord while retaining their autonomy. Never tiring, a wight can pursue its goals relentlessly and without distraction.
@@ -48,11 +63,11 @@ A wight doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Wight
-![](Mechanics/CLI/bestiary/undead/token/wight.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/wight.webp#token)
 *Medium undead, Neutral Evil*
 
-- **Armor Class** 14 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Armor Class** 14 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,18 +76,17 @@ title: Wight
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Resistances** necrotic; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** the languages it knew in life
 - **Challenge** 3
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -80,7 +94,7 @@ title: Wight
 
 ***Life Drain.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 5 (`1d6 + 2`) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-A humanoid slain by this attack rises 24 hours later as a [zombie](Mechanics/CLI/bestiary/undead/zombie-xmm.md) under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
+A humanoid slain by this attack rises 24 hours later as a [zombie](/Mechanics/CLI/bestiary/undead/zombie-xmm.md) under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
 
 ***Longsword.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) slashing damage, or 7 (`1d10 + 2`) slashing damage if used with two hands.
 
@@ -92,3 +106,7 @@ A humanoid slain by this attack rises 24 hours later as a [zombie](Mechanics/CLI
 ## Environment
 
 underdark, swamp, urban, desert
+
+## Sources
+
+_Monster Manual p. 300. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

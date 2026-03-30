@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Titivilus
-created: 2026-03-09T12:15:34.018-04:00
-modified: 2026-03-09T12:15:34.018-04:00
-published: 2026-03-09T12:15:34.018-04:00
+created: 2026-03-29T21:53:56.028-04:00
+modified: 2026-03-29T21:53:56.028-04:00
+published: 2026-03-29T21:53:56.028-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/16
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Titivilus (MPMM)
+ac: 20
+hp: 150
+modifier: 6
+hit_dice: 20d8 + 60
+cr: "16"
+stats:
+  - 19
+  - 22
+  - 17
+  - 24
+  - 22
+  - 26
+source:
+  - MPMM
 ---
 
 # Titivilus
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 242_\
 ![](Mechanics/CLI/bestiary/npc/img/titivilus.webp#right)
-
 Dispater, the gloomy Lord of Dis, rules from his iron palace, seeming to hide behind its labyrinthine corridors, iron walls, diabolical traps, and monstrous servants. Knowing he has enemies on all sides and fearing he'll be displaced like Moloch, Geryon, and so many others, he almost never travels farther than the sprawling city that lies outside his palace.
 
 Dispater is correct to fear, but the true threat comes not from without. The lord's great error was allowing himself to be seduced by Titivilus, who beguiled his way into being the primary advisor in Dispater's household.
@@ -32,11 +47,11 @@ Titivilus recognizes the precariousness of his position. After all, Dispater's a
 
 ```ad-statblock
 title: Titivilus
-![](Mechanics/CLI/bestiary/npc/token/titivilus-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/npc/token/titivilus-mpmm.webp#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 150 (`20d8 + 60`) 
+- **Hit Points** 150 (20d8 + 60) 
 - **Speed** 40 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,11 +60,11 @@ title: Titivilus
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +11, Constitution +8, Wisdom +11, Charisma +13
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +13, [Insight](Mechanics/CLI/rules/skills.md#Insight) +11, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +13, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +13
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +13, [Insight](/Mechanics/CLI/skills.md#Insight) +11, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +13, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +13
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 16
 
@@ -69,23 +84,23 @@ title: Titivilus
 
 ***Silver Sword.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 8 (`1d8 + 4`) force damage, or 9 (`1d10 + 4`) force damage if used with two hands, plus 16 (`3d10`) necrotic damage. If the target is a creature, its hit point maximum is reduced by an amount equal to half the necrotic damage taken.
 
-***Frightful Word.*** Titivilus targets one creature he can see within 10 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of him for 1 minute. While [frightened](Mechanics/CLI/rules/conditions.md#Frightened) in this way, the target must take the [Dash](Mechanics/CLI/rules/actions.md#Dash) action and move away from Titivilus by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the [Dash](Mechanics/CLI/rules/actions.md#Dash) action. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Frightful Word.*** Titivilus targets one creature he can see within 10 feet of him. The target must succeed on a DC 21 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) of him for 1 minute. While [frightened](/Mechanics/CLI/conditions.md#Frightened) in this way, the target must take the [Dash](/Mechanics/CLI/actions.md#Dash) action and move away from Titivilus by the safest available route on each of its turns, unless there is nowhere to move, in which case it needn't take the [Dash](/Mechanics/CLI/actions.md#Dash) action. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Teleport.*** Titivilus teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 
-***Twisting Words.*** Titivilus targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Charisma saving throw or become [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by Titivilus for 1 minute. The [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus's Twisting Words for 24 hours.
+***Twisting Words.*** Titivilus targets one creature he can see within 60 feet of him. The target must succeed on a DC 21 Charisma saving throw or become [charmed](/Mechanics/CLI/conditions.md#Charmed) by Titivilus for 1 minute. The [charmed](/Mechanics/CLI/conditions.md#Charmed) target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus's Twisting Words for 24 hours.
 
 ***Spellcasting.*** Titivilus casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 21):
 
-**At will:** [alter self](Mechanics/CLI/spells/alter-self-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md), [nondetection](Mechanics/CLI/spells/nondetection-xphb.md), [sending](Mechanics/CLI/spells/sending-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**At will:** [alter self](/Mechanics/CLI/spells/alter-self-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md), [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md), [sending](/Mechanics/CLI/spells/sending-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
-**3/day each:** [mislead](Mechanics/CLI/spells/mislead-xphb.md), [modify memory](Mechanics/CLI/spells/modify-memory-xphb.md)
+**3/day each:** [mislead](/Mechanics/CLI/spells/mislead-xphb.md), [modify memory](/Mechanics/CLI/spells/modify-memory-xphb.md)
 
 ## Legendary Actions
 
 Legendary Action Uses: 3. Immediately after another creature's turn, Titivilus can expend a use to take one of the following actions. Titivilus regains all expended uses at the start of each of their turns.
 
-***Corrupting Guidance.*** Titivilus uses Twisting Words. Alternatively, he targets one creature [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by him that is within 60 feet of him; that [charmed](Mechanics/CLI/rules/conditions.md#Charmed) target must succeed on a DC 21 Charisma saving throw, or Titivilus decides how the target acts during its next turn.
+***Corrupting Guidance.*** Titivilus uses Twisting Words. Alternatively, he targets one creature [charmed](/Mechanics/CLI/conditions.md#Charmed) by him that is within 60 feet of him; that [charmed](/Mechanics/CLI/conditions.md#Charmed) target must succeed on a DC 21 Charisma saving throw, or Titivilus decides how the target acts during its next turn.
 
 ***Teleport.*** Titivilus uses Teleport.
 
@@ -93,3 +108,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, Titivilus c
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 242_

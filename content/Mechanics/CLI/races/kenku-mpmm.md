@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kenku
-created: 2026-03-09T12:15:33.789-04:00
-modified: 2026-03-09T12:15:33.789-04:00
-published: 2026-03-09T12:15:33.789-04:00
+created: 2026-03-29T21:53:55.571-04:00
+modified: 2026-03-29T21:53:55.571-04:00
+published: 2026-03-29T21:53:55.571-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/kenku
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Kenku
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 24_\
 ![](Mechanics/CLI/races/img/kenku.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -40,10 +39,14 @@ Moreover, when you make an ability check using any skill in which you have profi
 
 ### Mimicry
 
-You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations only with a successful Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
+You can accurately mimic sounds you have heard, including voices. A creature that hears the sounds you make can tell they are imitations only with a successful Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check against a DC of 8 + your proficiency bonus + your Charisma modifier.
 
 ## Description
 
 Feathered folk who resemble ravens, kenku are blessed with keen observation and supernaturally accurate memories. None of them can remember the origin of the first kenku, however, and they often joke that there are as many kenku origin stories as there are kenku. Some of them paint their genesis as a curse, being a flightless bird people doomed to mimic other people's creations. Other kenku recite cryptic but beautiful poems about their advent being a blessed event in which they were sent into the multiverse to observe and catalog its many wonders.
 
 Whatever their true origin, kenku are most often found in the Shadowfell and the Material Plane, and they tend to have the coloration typical of ravens.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 24_

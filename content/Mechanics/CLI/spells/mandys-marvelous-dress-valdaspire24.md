@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Mandy's Marvelous Dress
-created: 2026-03-09T12:15:33.926-04:00
-modified: 2026-03-09T12:15:33.926-04:00
-published: 2026-03-09T12:15:33.926-04:00
+created: 2026-03-29T21:53:55.929-04:00
+modified: 2026-03-29T21:53:55.929-04:00
+published: 2026-03-29T21:53:55.929-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/witch
   - ttrpg-cli/spell/level/4th-level
   - ttrpg-cli/spell/school/conjuration
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Witch
 ---
 
 # Mandy's Marvelous Dress
@@ -32,7 +30,7 @@ A willing creature you touch is instantly clothed in a fabulous ball gown, perfe
 
 ## Elegant Flair
 
-Until the spell ends, when the wearer makes a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) using Charisma, it can replace the number it rolls with a 10.
+Until the spell ends, when the wearer makes a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) using Charisma, it can replace the number it rolls with a 10.
 
 ## Glamorous Ward
 
@@ -44,6 +42,12 @@ This spell's duration varies depending upon when and where it was cast. If cast 
 
 ## Summary
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

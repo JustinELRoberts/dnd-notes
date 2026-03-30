@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Order Domain
-created: 2026-03-09T12:15:33.790-04:00
-modified: 2026-03-09T12:15:33.790-04:00
-published: 2026-03-09T12:15:33.790-04:00
+created: 2026-03-29T21:53:55.573-04:00
+modified: 2026-03-29T21:53:55.573-04:00
+published: 2026-03-29T21:53:55.573-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/domain/order
@@ -16,8 +16,7 @@ obsidianUIMode: preview
 
 # Order Domain
 
-_[Cleric](./cleric-xphb.md): Cleric Subclass_\
-_Source: Tasha's Cauldron of Everything p. 31_
+_[Cleric](./cleric-xphb.md): Cleric Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -53,7 +52,7 @@ _Source: Tasha's Cauldron of Everything p. 31_
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include Bane, Tyr, Majere, [Erathis](Mechanics/CLI/deities/dawn-war-erathis-dmg.md), Pholtus, [Wee Jas](Mechanics/CLI/deities/greyhawk-wee-jas.md), Aureon, Maglubiyet, Nuada, Athena, [Anubis](Mechanics/CLI/deities/egyptian-anubis.md), Forseti, and [Asmodeus](Mechanics/CLI/deities/dawn-war-asmodeus-dmg.md).
+The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include Bane, Tyr, [Majere](/Mechanics/CLI/deities/dragonlance-majere-phb.md), [Erathis](/Mechanics/CLI/deities/dawn-war-erathis-dmg.md), [Pholtus](/Mechanics/CLI/deities/greyhawk-pholtus.md), [Wee Jas](/Mechanics/CLI/deities/greyhawk-wee-jas.md), [Aureon](/Mechanics/CLI/deities/eberron-aureon.md), [Maglubiyet](/Mechanics/CLI/deities/nonhuman-maglubiyet.md), [Nuada](/Mechanics/CLI/deities/celtic-nuada.md), [Athena](/Mechanics/CLI/deities/greek-athena.md), [Anubis](/Mechanics/CLI/deities/egyptian-anubis.md), [Forseti](/Mechanics/CLI/deities/norse-forseti.md), and [Asmodeus](/Mechanics/CLI/deities/dawn-war-asmodeus-dmg.md).
 
 The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their guilds or deities.
 
@@ -69,16 +68,16 @@ At each indicated cleric level, you add the listed spells to your spells prepare
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [command](Mechanics/CLI/spells/command-xphb.md), [heroism](Mechanics/CLI/spells/heroism-xphb.md) |
-| 3rd | [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [zone of truth](Mechanics/CLI/spells/zone-of-truth-xphb.md) |
-| 5th | [mass healing word](Mechanics/CLI/spells/mass-healing-word-xphb.md), [slow](Mechanics/CLI/spells/slow-xphb.md) |
-| 7th | [compulsion](Mechanics/CLI/spells/compulsion-xphb.md), [locate creature](Mechanics/CLI/spells/locate-creature-xphb.md) |
-| 9th | [commune](Mechanics/CLI/spells/commune-xphb.md), [dominate person](Mechanics/CLI/spells/dominate-person-xphb.md) |
+| 1st | [command](/Mechanics/CLI/spells/command-xphb.md), [heroism](/Mechanics/CLI/spells/heroism-xphb.md) |
+| 3rd | [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [zone of truth](/Mechanics/CLI/spells/zone-of-truth-xphb.md) |
+| 5th | [mass healing word](/Mechanics/CLI/spells/mass-healing-word-xphb.md), [slow](/Mechanics/CLI/spells/slow-xphb.md) |
+| 7th | [compulsion](/Mechanics/CLI/spells/compulsion-xphb.md), [locate creature](/Mechanics/CLI/spells/locate-creature-xphb.md) |
+| 9th | [commune](/Mechanics/CLI/spells/commune-xphb.md), [dominate person](/Mechanics/CLI/spells/dominate-person-xphb.md) |
 ^order-domain-spells
 
 ### Bonus Proficiencies (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) or [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) skill (your choice).
+When you choose this domain at 1st level, you gain proficiency with heavy armor. You also gain proficiency in the [Intimidation](/Mechanics/CLI/skills.md#Intimidation) or [Persuasion](/Mechanics/CLI/skills.md#Persuasion) skill (your choice).
 
 ### Voice of Authority (Level 1)
 
@@ -90,7 +89,7 @@ If the spell targets more than one ally, you choose the ally who can make the at
 
 Starting at 2nd level, you can use your Channel Divinity to exert an intimidating presence over others.
 
-As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you until the end of your next turn or until the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) creature takes any damage. You can also cause any of the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) creatures to drop what they are holding when they fail the saving throw.
+As an action, you present your holy symbol, and each creature of your choice that can see or hear you within 30 feet of you must succeed on a Wisdom saving throw or be [charmed](/Mechanics/CLI/conditions.md#Charmed) by you until the end of your next turn or until the [charmed](/Mechanics/CLI/conditions.md#Charmed) creature takes any damage. You can also cause any of the [charmed](/Mechanics/CLI/conditions.md#Charmed) creatures to drop what they are holding when they fail the saving throw.
 
 ### Embodiment of the Law (Level 6)
 
@@ -103,3 +102,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 ### Order's Wrath (Level 17)
 
 Starting at 17th level, enemies you designate for destruction wilt under the combined efforts of you and your allies. If you deal your Divine Strike damage to a creature on your turn, you can curse that creature until the start of your next turn. The next time one of your allies hits the cursed creature with an attack, the target also takes `2d8` psychic damage, and the curse ends. You can curse a creature in this way only once per turn.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 31_

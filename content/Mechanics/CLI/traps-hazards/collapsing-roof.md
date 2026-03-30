@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Collapsing Roof
-created: 2026-03-09T12:15:33.840-04:00
-modified: 2026-03-09T12:15:33.840-04:00
-published: 2026-03-09T12:15:33.840-04:00
+created: 2026-03-29T21:53:55.626-04:00
+modified: 2026-03-29T21:53:55.626-04:00
+published: 2026-03-29T21:53:55.626-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/hazard/mech
@@ -19,7 +19,7 @@ _Mechanical Trap_
 
 This trap uses a trip wire to collapse the supports keeping an unstable section of a ceiling in place.
 
-The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using [thieves' tools](Mechanics/CLI/items/thieves-tools-xphb.md) disables the trip wire harmlessly. A character without [thieves' tools](Mechanics/CLI/items/thieves-tools-xphb.md) can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
+The trip wire is 3 inches off the ground and stretches between two support beams. The DC to spot the trip wire is 10. A successful DC 15 Dexterity check using [thieves' tools](/Mechanics/CLI/items/thieves-tools-xphb.md) disables the trip wire harmlessly. A character without [thieves' tools](/Mechanics/CLI/items/thieves-tools-xphb.md) can attempt this check with disadvantage using any edged weapon or edged tool. On a failed check, the trap triggers.
 
 Anyone who inspects the beams can easily determine that they are merely wedged in place. As an action, a character can knock over a beam, causing the trap to trigger.
 

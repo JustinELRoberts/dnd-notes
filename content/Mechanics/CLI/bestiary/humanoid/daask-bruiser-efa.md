@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Daask Bruiser
-created: 2026-03-09T12:15:33.916-04:00
-modified: 2026-03-09T12:15:33.916-04:00
-published: 2026-03-09T12:15:33.916-04:00
+created: 2026-03-29T21:53:55.920-04:00
+modified: 2026-03-29T21:53:55.920-04:00
+published: 2026-03-29T21:53:55.920-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/monster/cr/9
@@ -13,22 +13,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Daask Bruiser (EFA)
+ac: 17
+hp: 150
+modifier: 5
+hit_dice: 20d8 + 60
+cr: "9"
+stats:
+  - 20
+  - 13
+  - 16
+  - 10
+  - 12
+  - 14
+source:
+  - EFA
 ---
 
 # Daask Bruiser
 
-_Source: Eberron: Forge of the Artificer p. 58_\
 ![](Mechanics/CLI/bestiary/humanoid/img/daask-bruiser.webp#right)
-
 Intimidating and powerful, bruisers lead Daask operations when more violent and decisive shows of force are needed. These enforcers relish the brutality of their work.
 
 ```ad-statblock
 title: Daask Bruiser
-![](Mechanics/CLI/bestiary/humanoid/token/daask-bruiser-efa.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/daask-bruiser-efa.webp#token)
 *Medium humanoid (gnoll), Neutral Evil*
 
 - **Armor Class** 17 
-- **Hit Points** 150 (`20d8 + 60`) 
+- **Hit Points** 150 (20d8 + 60) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,14 +52,14 @@ title: Daask Bruiser
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +9, Constitution +7, Wisdom +5
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +9, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +9, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** Common, Gnoll
 - **Challenge** 9
 
 ## Traits
 
-***Blood Frenzy.*** The bruiser has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against any creature that doesn't have all its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+***Blood Frenzy.*** The bruiser has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against any creature that doesn't have all its [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 ## Actions
 
@@ -52,7 +67,7 @@ title: Daask Bruiser
 
 ***Pummel.*** *Melee Attack Roll:* `+9`, reach 5 ft. *Hit:* 12 (`2d6 + 5`) Bludgeoning damage.
 
-***Glare.*** *Wisdom Saving Throw:* DC 14, one creature the bruiser can see within 30 feet. *Failure:* The target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the start of the bruiser's next turn.
+***Glare.*** *Wisdom Saving Throw:* DC 14, one creature the bruiser can see within 30 feet. *Failure:* The target has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the start of the bruiser's next turn.
 
 ## Reactions
 
@@ -60,3 +75,7 @@ title: Daask Bruiser
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 58_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ice Devil
-created: 2026-03-09T12:15:33.954-04:00
-modified: 2026-03-09T12:15:33.954-04:00
-published: 2026-03-09T12:15:33.954-04:00
+created: 2026-03-29T21:53:55.956-04:00
+modified: 2026-03-29T21:53:55.956-04:00
+published: 2026-03-29T21:53:55.956-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/14
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ice Devil
+ac: 18
+hp: 180
+modifier: 2
+hit_dice: 19d10 + 76
+cr: "14"
+stats:
+  - 21
+  - 14
+  - 18
+  - 18
+  - 15
+  - 18
+source:
+  - MM
 ---
 
 # Ice Devil
 
-_Source: Monster Manual p. 75. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/ice-devil.webp#right)
-
 Found most commonly on the cold layers of Stygia and Cania, ice devils serve as commanders of the infernal armies of the Nine Hells, tormenting lesser devils as an outlet for their anger and resentment. Coveting the power of their pit fiend superiors, ice devils work ceaselessly toward promotion, slaughtering the enemies of the Nine Hells and claiming as many souls as they can for their archdevil masters.
 
 Resembling a giant bipedal insect, an ice devil has clawed hands and feet, powerful mandibles, and a long tail covered in razor-sharp spikes. Some carry barbed spears whose icy touch can render a foe all but helpless in combat.
@@ -129,7 +144,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -157,11 +172,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Ice Devil
-![](Mechanics/CLI/bestiary/fiend/token/ice-devil.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/ice-devil.webp#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 180 (`19d10 + 76`) 
+- **Hit Points** 180 (19d10 + 76) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -171,10 +186,10 @@ title: Ice Devil
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +7, Constitution +9, Wisdom +7, Charisma +9
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison, cold
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 14
 
@@ -196,9 +211,13 @@ title: Ice Devil
 
 ***Wall of Ice (Recharge 6).*** The devil magically forms an opaque wall of ice on a solid surface it can see within 60 feet of it. The wall is 1 foot thick and up to 30 feet long and 10 feet high, or it's a hemispherical dome up to 20 feet in diameter.
 
-When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). The creature then makes a DC 17 Dexterity saving throw, taking 35 (`10d6`) cold damage on a failed save, or half as much damage on a successful one.
+When the wall appears, each creature in its space is pushed out of it by the shortest route. The creature chooses which side of the wall to end up on, unless the creature is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). The creature then makes a DC 17 Dexterity saving throw, taking 35 (`10d6`) cold damage on a failed save, or half as much damage on a successful one.
 
-The wall lasts for 1 minute or until the devil is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (`5d6`) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
+The wall lasts for 1 minute or until the devil is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) or dies. The wall can be damaged and breached; each 10-foot section has AC 5, 30 hit points, vulnerability to fire damage, and immunity to acid, cold, necrotic, poison, and psychic damage. If a section is destroyed, it leaves behind a sheet of frigid air in the space the wall occupied. Whenever a creature finishes moving through the frigid air on a turn, willingly or otherwise, the creature must make a DC 17 Constitution saving throw, taking 17 (`5d6`) cold damage on a failed save, or half as much damage on a successful one. The frigid air dissipates when the rest of the wall vanishes.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 75. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

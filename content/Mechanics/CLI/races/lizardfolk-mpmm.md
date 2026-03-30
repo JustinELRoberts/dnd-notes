@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lizardfolk
-created: 2026-03-09T12:15:34.081-04:00
-modified: 2026-03-09T12:15:34.082-04:00
-published: 2026-03-09T12:15:34.082-04:00
+created: 2026-03-29T21:53:56.111-04:00
+modified: 2026-03-29T21:53:56.111-04:00
+published: 2026-03-29T21:53:56.111-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/lizardfolk
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Lizardfolk
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 26_\
 ![](Mechanics/CLI/races/img/lizardfolk.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -46,10 +45,14 @@ You have tough, scaly skin. When you aren't wearing armor, your base AC is 13 + 
 
 ### Nature's Intuition
 
-Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival).
+Thanks to your mystical connection to nature, you gain proficiency with two of the following skills of your choice: [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), [Stealth](/Mechanics/CLI/skills.md#Stealth), or [Survival](/Mechanics/CLI/skills.md#Survival).
 
 ## Description
 
 The saurian lizardfolk are thought by some sages to be distant cousins of dragonborn and kobolds. Despite their resemblance to those other scaled folk, however, lizardfolk are their own people and have lived on the worlds of the Material Plane since the worlds' creation. Gifted by the gods with remarkable physical defenses and a mystical connection to the natural world, lizardfolk can survive with just their wits in situations that would be deadly for other folk. Because of that fact, many lizardfolk myths state that their people were placed by the gods in the Material Plane to guard its natural wonders.
 
 Lizardfolk have colorful scales and exhibit a wide array of scale patterns. Their individual facial features are as varied as those of lizards.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 26_

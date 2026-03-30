@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Path of the Zealot
-created: 2026-03-09T12:15:33.811-04:00
-modified: 2026-03-09T12:15:33.811-04:00
-published: 2026-03-09T12:15:33.811-04:00
+created: 2026-03-29T21:53:55.596-04:00
+modified: 2026-03-29T21:53:55.596-04:00
+published: 2026-03-29T21:53:55.596-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/barbarian/zealot
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Path of the Zealot
 
-_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
-_Source: Player's Handbook (2024) p. 57_
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,13 +58,13 @@ Barbarians who walk the Path of the Zealot receive boons from a god or pantheon.
 
 ### Divine Fury (Level 3)
 
-You can channel divine power into your strikes. On each of your turns while your Rage is active, the first creature you hit with a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) takes extra damage equal to `1d6` plus half your Barbarian level (round down). The extra damage is Necrotic or Radiant; you choose the type each time you deal the damage.
+You can channel divine power into your strikes. On each of your turns while your Rage is active, the first creature you hit with a weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) takes extra damage equal to `1d6` plus half your Barbarian level (round down). The extra damage is Necrotic or Radiant; you choose the type each time you deal the damage.
 
 ### Warrior of the Gods (Level 3)
 
-A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend dice from the pool, roll them, and regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the roll's total.
+A divine entity helps ensure you can continue the fight. You have a pool of four d12s that you can spend to heal yourself. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend dice from the pool, roll them, and regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the roll's total.
 
-Your pool regains all expended dice when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Your pool regains all expended dice when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 The pool's maximum number of dice increases by one when you reach Barbarian levels 6 (5 dice), 12 (6 dice), and 17 (7 dice).
 
@@ -75,18 +74,22 @@ Once per active Rage, if you fail a saving throw, you can reroll it with a bonus
 
 ### Zealous Presence (Level 10)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls and saving throws until the start of your next turn.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you unleash a battle cry infused with divine energy. Up to ten other creatures of your choice within 60 feet of you gain [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls and saving throws until the start of your next turn.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend a use of your Rage (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend a use of your Rage (no action required) to restore your use of it.
 
 ### Rage of the Gods (Level 14)
 
-When you activate your Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When you activate your Rage, you can assume the form of a divine warrior. This form lasts for 1 minute or until you drop to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 While in this form, you gain the benefits below.
 
-**Flight.** You have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) and can hover.
+**Flight.** You have a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) and can hover.
 
-**Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Necrotic, Psychic, and Radiant damage.
+**Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Necrotic, Psychic, and Radiant damage.
 
-**Revivification.** When a creature within 30 feet of you would drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to expend a use of your Rage to instead change the target's [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) to a number equal to your Barbarian level.
+**Revivification.** When a creature within 30 feet of you would drop to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to expend a use of your Rage to instead change the target's [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) to a number equal to your Barbarian level.
+
+## Sources
+
+_Player's Handbook (2024) p. 57_

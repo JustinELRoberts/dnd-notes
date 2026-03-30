@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warlock
-created: 2026-03-09T12:15:34.002-04:00
-modified: 2026-03-09T12:15:34.002-04:00
-published: 2026-03-09T12:15:34.002-04:00
+created: 2026-03-29T21:53:56.012-04:00
+modified: 2026-03-29T21:53:56.012-04:00
+published: 2026-03-29T21:53:56.012-04:00
 tags:
   - ttrpg-cli/class/warlock
   - ttrpg-cli/compendium/src/5e/xphb
@@ -15,14 +15,12 @@ obsidianUIMode: preview
 
 # Warlock
 
-_Source: Player's Handbook (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
-
 > [!tldr] Class and Feature Progression
 >
 > <table class="class-progression">
 > <thead>
 > <tr><th colspan='8'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value"><a href="Mechanics/CLI/lists/list-optfeaturetype-ei.md">Invocations</a></th><th class="value">Cantrips</th><th class="value">Prepared Spells</th><th class="value">Spell Slots</th><th class="value">Slot Level</th></tr>
+> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value"><a href="/Mechanics/CLI/lists/list-optfeaturetype-ei.md">Invocations</a></th><th class="value">Cantrips</th><th class="value">Prepared Spells</th><th class="value">Spell Slots</th><th class="value">Slot Level</th></tr>
 > </thead><tbody>
 > <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Eldritch Invocations (Level 1)' class='internal-link'>Eldritch Invocations</a>, <a href='#Pact Magic (Level 1)' class='internal-link'>Pact Magic</a>, <a href='#Eldritch Invocation Options (Level 1)' class='internal-link'>Eldritch Invocation Options</a></td><td class="value">1</td><td class="value">2</td><td class="value">2</td><td class="value">1</td><td class="value">1</td></tr>
 > <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Magical Cunning (Level 2)' class='internal-link'>Magical Cunning</a></td><td class="value">3</td><td class="value">2</td><td class="value">3</td><td class="value">2</td><td class="value">1</td></tr>
@@ -48,28 +46,28 @@ _Source: Player's Handbook (2024) p. 152. Available in the <span title='Systems 
 
 ^class-progression
 
-![](Mechanics/CLI/classes/img/warlock.webp#right)
-
 ## Hit Points
+
+![](Mechanics/CLI/classes/img/warlock.webp#right)
 
 - **Hit Dice**: 1d8 per Warlock level
 - **Hit Points at First Level:** 8 + CON
 - **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
 
-## Starting Warlock
+![](Mechanics/CLI/classes/img/114-04-029-skull-spiders.webp#center)
+
+## Starting a Warlock
 
 - **Saving Throw Proficiencies**: Charisma, Wisdom
-- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Deception](Mechanics/CLI/rules/skills.md#Deception), [History](Mechanics/CLI/rules/skills.md#History), [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Religion](Mechanics/CLI/rules/skills.md#Religion)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](/Mechanics/CLI/skills.md#Arcana), [Deception](/Mechanics/CLI/skills.md#Deception), [History](/Mechanics/CLI/skills.md#History), [Intimidation](/Mechanics/CLI/skills.md#Intimidation), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Nature](/Mechanics/CLI/skills.md#Nature), or [Religion](/Mechanics/CLI/skills.md#Religion)
 - **Weapon Proficiencies**: Simple weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor)
 
-**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](Mechanics/CLI/items/leather-armor-xphb.md), [Sickle](Mechanics/CLI/items/sickle-xphb.md), 2 [Daggers](Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) ([orb](Mechanics/CLI/items/orb-xphb.md)), [Book](Mechanics/CLI/items/book-xphb.md) (occult lore), [Scholar's Pack](Mechanics/CLI/items/scholars-pack-xphb.md), and 15 GP; or (B) 100 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Leather Armor](/Mechanics/CLI/items/leather-armor-xphb.md), [Sickle](/Mechanics/CLI/items/sickle-xphb.md), 2 [Daggers](/Mechanics/CLI/items/dagger-xphb.md), [Arcane Focus](/Mechanics/CLI/items/arcane-focus-xphb.md) ([orb](/Mechanics/CLI/items/orb-xphb.md)), [Book](/Mechanics/CLI/items/book-xphb.md) (occult lore), [Scholar's Pack](/Mechanics/CLI/items/scholars-pack-xphb.md), and 15 GP; or (B) 100 GP
 
 ## Multiclassing Warlock
 
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor)
-
-![](Mechanics/CLI/classes/img/114-04-029-skull-spiders.webp#center)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor)
 
 ## Warlock
 
@@ -83,7 +81,7 @@ Once a pact is made, a Warlock's thirst for knowledge and power can't be slaked 
 
 ### Eldritch Invocations (Level 1)
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^\[Optional features from [Eldritch Invocation](Mechanics/CLI/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the "Eldritch Invocation Options^\[Optional features from [Eldritch Invocation](/Mechanics/CLI/lists/list-optfeaturetype-ei.md); defined in Player's Handbook (2024)]" section later in this class's description.
 
 **Prerequisites.** If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
@@ -97,15 +95,15 @@ You can't pick the same invocation more than once unless its description says ot
 
 Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows—its identity unclear—but its boon to you is concrete: the ability to cast spells. See "chapter 7" for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the Warlock spell list later in the class's description.
 
-**Cantrips.** You know two Warlock cantrips of your choice. [Eldritch Blast](Mechanics/CLI/spells/eldritch-blast-xphb.md) and [Prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md) are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
+**Cantrips.** You know two Warlock cantrips of your choice. [Eldritch Blast](/Mechanics/CLI/spells/eldritch-blast-xphb.md) and [Prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md) are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.
 
 When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table.
 
-**Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Slots.** The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1–5. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](Mechanics/CLI/spells/witch-bolt-xphb.md), you must spend one of those slots, and you cast it as a level 3 spell.
+For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell [Witch Bolt](/Mechanics/CLI/spells/witch-bolt-xphb.md), you must spend one of those slots, and you cast it as a level 3 spell.
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md) and [Hex](Mechanics/CLI/spells/hex-xphb.md) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md) and [Hex](/Mechanics/CLI/spells/hex-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1–3.
 
@@ -115,7 +113,7 @@ If another Warlock feature gives you spells that you always have prepared, those
 
 **Spellcasting Ability.** Charisma is the spellcasting ability for your Warlock spells.
 
-**Spellcasting Focus.** You can use an [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Warlock spells.
+**Spellcasting Focus.** You can use an [Arcane Focus](/Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Warlock spells.
 
 ### Eldritch Invocation Options (Level 1)
 
@@ -123,38 +121,38 @@ Eldritch Invocation options appear in alphabetical order.
 
 Options (choose 1):
 
-- [Agonizing Blast](Mechanics/CLI/optional-features/agonizing-blast-xphb.md)
-- [Armor of Shadows](Mechanics/CLI/optional-features/armor-of-shadows-xphb.md)
-- [Ascendant Step](Mechanics/CLI/optional-features/ascendant-step-xphb.md)
-- [Devil's Sight](Mechanics/CLI/optional-features/devils-sight-xphb.md)
-- [Devouring Blade](Mechanics/CLI/optional-features/devouring-blade-xphb.md)
-- [Eldritch Mind](Mechanics/CLI/optional-features/eldritch-mind-xphb.md)
-- [Eldritch Smite](Mechanics/CLI/optional-features/eldritch-smite-xphb.md)
-- [Eldritch Spear](Mechanics/CLI/optional-features/eldritch-spear-xphb.md)
-- [Fiendish Vigor](Mechanics/CLI/optional-features/fiendish-vigor-xphb.md)
-- [Gaze of Two Minds](Mechanics/CLI/optional-features/gaze-of-two-minds-xphb.md)
-- [Gift of the Depths](Mechanics/CLI/optional-features/gift-of-the-depths-xphb.md)
-- [Gift of the Protectors](Mechanics/CLI/optional-features/gift-of-the-protectors-xphb.md)
-- [Investment of the Chain Master](Mechanics/CLI/optional-features/investment-of-the-chain-master-xphb.md)
-- [Lessons of the First Ones](Mechanics/CLI/optional-features/lessons-of-the-first-ones-xphb.md)
-- [Lifedrinker](Mechanics/CLI/optional-features/lifedrinker-xphb.md)
-- [Mask of Many Faces](Mechanics/CLI/optional-features/mask-of-many-faces-xphb.md)
-- [Master of Myriad Forms](Mechanics/CLI/optional-features/master-of-myriad-forms-xphb.md)
-- [Misty Visions](Mechanics/CLI/optional-features/misty-visions-xphb.md)
-- [One with Shadows](Mechanics/CLI/optional-features/one-with-shadows-xphb.md)
-- [Otherworldly Leap](Mechanics/CLI/optional-features/otherworldly-leap-xphb.md)
-- [Pact of the Blade](Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md)
-- [Pact of the Chain](Mechanics/CLI/optional-features/pact-of-the-chain-xphb.md)
-- [Pact of the Tome](Mechanics/CLI/optional-features/pact-of-the-tome-xphb.md)
-- [Repelling Blast](Mechanics/CLI/optional-features/repelling-blast-xphb.md)
-- [Thirsting Blade](Mechanics/CLI/optional-features/thirsting-blade-xphb.md)
-- [Visions of Distant Realms](Mechanics/CLI/optional-features/visions-of-distant-realms-xphb.md)
-- [Whispers of the Grave](Mechanics/CLI/optional-features/whispers-of-the-grave-xphb.md)
-- [Witch Sight](Mechanics/CLI/optional-features/witch-sight-xphb.md)
+- [Agonizing Blast](/Mechanics/CLI/optional-features/agonizing-blast-xphb.md)
+- [Armor of Shadows](/Mechanics/CLI/optional-features/armor-of-shadows-xphb.md)
+- [Ascendant Step](/Mechanics/CLI/optional-features/ascendant-step-xphb.md)
+- [Devil's Sight](/Mechanics/CLI/optional-features/devils-sight-xphb.md)
+- [Devouring Blade](/Mechanics/CLI/optional-features/devouring-blade-xphb.md)
+- [Eldritch Mind](/Mechanics/CLI/optional-features/eldritch-mind-xphb.md)
+- [Eldritch Smite](/Mechanics/CLI/optional-features/eldritch-smite-xphb.md)
+- [Eldritch Spear](/Mechanics/CLI/optional-features/eldritch-spear-xphb.md)
+- [Fiendish Vigor](/Mechanics/CLI/optional-features/fiendish-vigor-xphb.md)
+- [Gaze of Two Minds](/Mechanics/CLI/optional-features/gaze-of-two-minds-xphb.md)
+- [Gift of the Depths](/Mechanics/CLI/optional-features/gift-of-the-depths-xphb.md)
+- [Gift of the Protectors](/Mechanics/CLI/optional-features/gift-of-the-protectors-xphb.md)
+- [Investment of the Chain Master](/Mechanics/CLI/optional-features/investment-of-the-chain-master-xphb.md)
+- [Lessons of the First Ones](/Mechanics/CLI/optional-features/lessons-of-the-first-ones-xphb.md)
+- [Lifedrinker](/Mechanics/CLI/optional-features/lifedrinker-xphb.md)
+- [Mask of Many Faces](/Mechanics/CLI/optional-features/mask-of-many-faces-xphb.md)
+- [Master of Myriad Forms](/Mechanics/CLI/optional-features/master-of-myriad-forms-xphb.md)
+- [Misty Visions](/Mechanics/CLI/optional-features/misty-visions-xphb.md)
+- [One with Shadows](/Mechanics/CLI/optional-features/one-with-shadows-xphb.md)
+- [Otherworldly Leap](/Mechanics/CLI/optional-features/otherworldly-leap-xphb.md)
+- [Pact of the Blade](/Mechanics/CLI/optional-features/pact-of-the-blade-xphb.md)
+- [Pact of the Chain](/Mechanics/CLI/optional-features/pact-of-the-chain-xphb.md)
+- [Pact of the Tome](/Mechanics/CLI/optional-features/pact-of-the-tome-xphb.md)
+- [Repelling Blast](/Mechanics/CLI/optional-features/repelling-blast-xphb.md)
+- [Thirsting Blade](/Mechanics/CLI/optional-features/thirsting-blade-xphb.md)
+- [Visions of Distant Realms](/Mechanics/CLI/optional-features/visions-of-distant-realms-xphb.md)
+- [Whispers of the Grave](/Mechanics/CLI/optional-features/whispers-of-the-grave-xphb.md)
+- [Witch Sight](/Mechanics/CLI/optional-features/witch-sight-xphb.md)
 
 ### Magical Cunning (Level 2)
 
-You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can perform an esoteric rite for 1 minute. At the end of it, you regain expended Pact Magic spell slots but no more than a number equal to half your maximum (round up). Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Warlock Subclass (Level 3)
 
@@ -162,7 +160,7 @@ You gain a Warlock subclass of your choice. A subclass is a specialization that 
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16.
 
 ### Subclass Feature (Level 6)
 
@@ -170,13 +168,13 @@ You gain a feature from your Warlock subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Contact Patron (Level 9)
 
-In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](Mechanics/CLI/spells/contact-other-plane-xphb.md) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
+In the past, you usually contacted your patron through intermediaries. Now you can communicate directly; you always have the [Contact Other Plane](/Mechanics/CLI/spells/contact-other-plane-xphb.md) spell prepared. With this feature, you can cast the spell without expending a spell slot to contact your patron, and you automatically succeed on the spell's saving throw.
 
-Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Subclass Feature (Level 10)
 
@@ -186,15 +184,15 @@ You gain a feature from your Warlock subclass.
 
 Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.
 
-You can cast your arcanum spell once without expending a spell slot, and you must finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) before you can cast it in this way again.
+You can cast your arcanum spell once without expending a spell slot, and you must finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) before you can cast it in this way again.
 
-As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 13)
 
@@ -210,7 +208,7 @@ You gain a level 8 Warlock Spell of your choice.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) Feat or another feat of your choice for which you qualify.
 
 ### Mystic Arcanum (Level 17)
 
@@ -218,7 +216,7 @@ You gain a level 9 Warlock Spell of your choice.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](Mechanics/CLI/feats/boon-of-fate-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Fate](/Mechanics/CLI/feats/boon-of-fate-xphb.md) is recommended.
 
 ### Eldritch Master (Level 20)
 
@@ -227,5 +225,9 @@ When you use your Magical Cunning feature, you regain all your expended Pact Mag
 ## Optional Features
 
 > [!example]- Optional Features: Eldritch Invocation
-> ![Eldritch Invocation](Mechanics/CLI/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
+> ![Eldritch Invocation](/Mechanics/CLI/lists/list-optfeaturetype-ei.md#Eldritch%20Invocation)
 > ^list-optfeature-ei
+
+## Sources
+
+_Player's Handbook (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

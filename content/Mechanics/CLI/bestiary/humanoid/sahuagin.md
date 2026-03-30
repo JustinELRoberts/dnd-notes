@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sahuagin
-created: 2026-03-09T12:15:33.804-04:00
-modified: 2026-03-09T12:15:33.804-04:00
-published: 2026-03-09T12:15:33.804-04:00
+created: 2026-03-29T21:53:55.588-04:00
+modified: 2026-03-29T21:53:55.588-04:00
+published: 2026-03-29T21:53:55.588-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sahuagin
+ac: 12
+hp: 22
+modifier: 0
+hit_dice: 4d8 + 4
+cr: 1/2
+stats:
+  - 13
+  - 11
+  - 12
+  - 12
+  - 13
+  - 9
+source:
+  - MM
 ---
 
 # Sahuagin
 
-_Source: Monster Manual p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/sahuagin.webp#right)
-
 Across fog-shrouded coasts or endless ocean swells, an ominous drone sounded on a conch shell chills the blood of all who hear it. This is the sound of the sahuagin hunting horn-a call to raid and battle. Coastal settlers refer to sahuagin as "sea devils," for sahuagin have no compassion in them, slaughtering the crews of ships and decimating coastal villages.
 
 ## Devils of the Deep
@@ -52,11 +67,11 @@ The sahuagin put the malenti to good use as spies and assassins in aquatic elf c
 
 ```ad-statblock
 title: Sahuagin
-![](Mechanics/CLI/bestiary/humanoid/token/sahuagin.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/sahuagin.webp#token)
 *Medium humanoid (sahuagin), Lawful Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 22 (`4d8 + 4`) 
+- **Hit Points** 22 (4d8 + 4) 
 - **Speed** 30 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,9 +80,8 @@ title: Sahuagin
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 15
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 15
 - **Languages** Sahuagin
 - **Challenge** 1/2
 
@@ -95,3 +109,7 @@ title: Sahuagin
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 263. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

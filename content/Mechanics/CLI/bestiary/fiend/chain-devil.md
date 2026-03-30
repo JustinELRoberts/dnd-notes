@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Chain Devil
-created: 2026-03-09T12:15:34.063-04:00
-modified: 2026-03-09T12:15:34.063-04:00
-published: 2026-03-09T12:15:34.063-04:00
+created: 2026-03-29T21:53:56.084-04:00
+modified: 2026-03-29T21:53:56.084-04:00
+published: 2026-03-29T21:53:56.084-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Chain Devil
+ac: 16
+hp: 85
+modifier: 2
+hit_dice: 10d8 + 40
+cr: "8"
+stats:
+  - 18
+  - 15
+  - 18
+  - 11
+  - 12
+  - 14
+source:
+  - MM
 ---
 
 # Chain Devil
 
-_Source: Monster Manual p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/chain-devil.webp#right)
-
 This ominous fiend wears chains like a shroud. Driving lesser creatures before it with its fearsome gaze, a chain devil animates the chains that cover its body as well as inanimate chains nearby, which sprout hooks, blades, and spikes to eviscerate enemies.
 
 Chain devils act as sadistic jailers and torturers in the infernal realms, relishing pain and living to inflict it on others. They are called on to torment mortal souls trapped in the Nine Hells, inflicting their sadistic fury on the horrid lemures in which those souls manifest.
@@ -120,7 +135,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -148,11 +163,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Chain Devil
-![](Mechanics/CLI/bestiary/fiend/token/chain-devil.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/chain-devil.webp#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 85 (`10d8 + 40`) 
+- **Hit Points** 85 (10d8 + 40) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -162,10 +177,10 @@ title: Chain Devil
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +7, Wisdom +4, Charisma +5
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 8
 
@@ -179,15 +194,19 @@ title: Chain Devil
 
 ***Multiattack.*** The devil makes two attacks with its chains.
 
-***Chain.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage. The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) and takes 7 (`2d6`) piercing damage at the start of each of its turns.
+***Chain.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage. The target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14) if the devil isn't already grappling a creature. Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained) and takes 7 (`2d6`) piercing damage at the start of each of its turns.
 
 ***Animate Chains (Recharges after a Short or Long Rest).*** Up to four chains the devil can see within 60 feet of it magically sprout razor-edged barbs and animate under the devil's control, provided that the chains aren't being worn or carried.
 
-Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or dies.
+Each animated chain is an object with AC 20, 20 hit points, resistance to piercing damage, and immunity to psychic and thunder damage. When the devil uses Multiattack on its turn, it can use each animated chain to make one additional chain attack. An animated chain can grapple one creature of its own but can't make attacks while grappling. An animated chain reverts to its inanimate state if reduced to 0 hit points or if the devil is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) or dies.
 
 ## Reactions
 
-***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of its turn.
+***Unnerving Mask.*** When a creature the devil can see starts its turn within 30 feet of the devil, the devil can create the illusion that it looks like one of the creature's departed loved ones or bitter enemies. If the creature can see the devil, it must succeed on a DC 14 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of its turn.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 72. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

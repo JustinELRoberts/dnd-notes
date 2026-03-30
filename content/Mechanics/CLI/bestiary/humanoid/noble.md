@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Noble
-created: 2026-03-09T12:15:33.814-04:00
-modified: 2026-03-09T12:15:33.814-04:00
-published: 2026-03-09T12:15:33.814-04:00
+created: 2026-03-29T21:53:55.599-04:00
+modified: 2026-03-29T21:53:55.599-04:00
+published: 2026-03-29T21:53:55.599-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -14,24 +14,39 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Noble
+ac: 15
+hp: 9
+modifier: 1
+hit_dice: 2d8
+cr: 1/8
+stats:
+  - 11
+  - 12
+  - 11
+  - 12
+  - 14
+  - 16
+source:
+  - MM
 ---
 
 # Noble
 
-_Source: Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/noble.webp#right)
-
 Nobles wield great authority and influence as members of the upper class, possessing wealth and connections that can make them as powerful as monarchs and generals. A noble often travels in the company of guards, as well as servants who are commoners.
 
 The noble's statistics can also be used to represent courtiers who aren't of noble birth.
 
 ```ad-statblock
 title: Noble
-![](Mechanics/CLI/bestiary/humanoid/token/noble.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/noble.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 15 ([breastplate](Mechanics/CLI/items/breastplate-xphb.md))
-- **Hit Points** 9 (`2d8`) 
+- **Armor Class** 15 ([breastplate](/Mechanics/CLI/items/breastplate.md))
+- **Hit Points** 9 (2d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -40,9 +55,8 @@ title: Noble
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Insight](Mechanics/CLI/rules/skills.md#Insight) +4, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +5
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Insight](/Mechanics/CLI/skills.md#Insight) +4, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +5
 - **Senses** passive Perception 12
-- **Gear** [rapier](Mechanics/CLI/items/rapier-xphb.md)
 - **Languages** any two languages
 - **Challenge** 1/8
 
@@ -60,3 +74,7 @@ title: Noble
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 348. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

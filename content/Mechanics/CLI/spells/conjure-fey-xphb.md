@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Conjure Fey
-created: 2026-03-09T12:15:34.121-04:00
-modified: 2026-03-09T12:15:34.121-04:00
-published: 2026-03-09T12:15:34.121-04:00
+created: 2026-03-29T21:53:56.159-04:00
+modified: 2026-03-29T21:53:56.159-04:00
+published: 2026-03-29T21:53:56.159-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/level/6th-level
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Warlock
 ---
 
 # Conjure Fey
@@ -30,12 +27,19 @@ _6th-level, Conjuration_
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to `3d12` plus your spellcasting ability modifier, and the target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the start of your next turn, with both you and the spirit as the source of the fear.
+You conjure a Medium spirit from the Feywild in an unoccupied space you can see within range. The spirit lasts for the duration, and it looks like a Fey creature of your choice. When the spirit appears, you can make one melee spell attack against a creature within 5 feet of it. On a hit, the target takes Psychic damage equal to `3d12` plus your spellcasting ability modifier, and the target has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the start of your next turn, with both you and the spirit as the source of the fear.
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your later turns, you can teleport the spirit to an unoccupied space you can see within 30 feet of the space it left and make the attack against a creature within 5 feet of it.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d12` for each spell slot level above 6.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Class Training; I became...
-created: 2026-03-09T12:15:34.413-04:00
-modified: 2026-03-09T12:15:34.413-04:00
-published: 2026-03-09T12:15:34.413-04:00
+created: 2026-03-29T21:53:56.509-04:00
+modified: 2026-03-29T21:53:56.509-04:00
+published: 2026-03-29T21:53:56.509-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:

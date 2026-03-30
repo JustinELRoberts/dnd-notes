@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Star Spawn Grue
-created: 2026-03-09T12:15:33.996-04:00
-modified: 2026-03-09T12:15:33.996-04:00
-published: 2026-03-09T12:15:33.996-04:00
+created: 2026-03-29T21:53:56.007-04:00
+modified: 2026-03-29T21:53:56.007-04:00
+published: 2026-03-29T21:53:56.007-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Star Spawn Grue (MPMM)
+ac: 11
+hp: 17
+modifier: 1
+hit_dice: 5d6
+cr: 1/4
+stats:
+  - 6
+  - 13
+  - 10
+  - 9
+  - 11
+  - 6
+source:
+  - MPMM
 ---
 
 # Star Spawn Grue
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 227_\
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-grue.webp#right)
-
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
 
 ## Star Spawn
@@ -52,11 +67,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Grue
-![](Mechanics/CLI/bestiary/aberration/token/star-spawn-grue-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/star-spawn-grue-mpmm.webp#token)
 *Small aberration, Typically  Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 17 (`5d6`) 
+- **Hit Points** 17 (5d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,7 +81,7 @@ title: Star Spawn Grue
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** psychic
 - **Languages** Deep Speech
 - **Challenge** 1/4
@@ -85,3 +100,7 @@ title: Star Spawn Grue
 ## Environment
 
 mountain, swamp
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 227_

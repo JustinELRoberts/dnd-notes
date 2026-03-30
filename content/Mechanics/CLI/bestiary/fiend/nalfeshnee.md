@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nalfeshnee
-created: 2026-03-09T12:15:33.987-04:00
-modified: 2026-03-09T12:15:33.987-04:00
-published: 2026-03-09T12:15:33.987-04:00
+created: 2026-03-29T21:53:55.993-04:00
+modified: 2026-03-29T21:53:55.993-04:00
+published: 2026-03-29T21:53:55.993-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/13
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Nalfeshnee
+ac: 18
+hp: 184
+modifier: 0
+hit_dice: 16d10 + 96
+cr: "13"
+stats:
+  - 21
+  - 10
+  - 22
+  - 19
+  - 12
+  - 15
+source:
+  - MM
 ---
 
 # Nalfeshnee
 
-_Source: Monster Manual p. 62. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/nalfeshnee.webp#right)
-
 The nalfeshnee is one of the most grotesque demons-a corpulent mockery of ape and boar standing twice the height of a human, with feathered wings that seem too small for its bloated body. These brutish features conceal a remarkable intelligence and cunning.
 
 Nalfeshnees are devastating in combat, using their wings to soar above the front ranks and reach vulnerable adversaries that can be dispatched with little effort. From the thick of battle, they telepathically bellow commands to lesser demons, even as they inspire a sense of dread that forces their foes to scatter and run. Nalfeshnees feed on hatred and despair, but they crave humanoid flesh above all else. They keep their larders filled with humanoids abducted from the Material Plane, then eat those creatures alive during elaborate feasts. Thinking of themselves as refined and cultured, nalfeshnees employ stained and rusted cutlery when they dine.
@@ -164,7 +179,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -194,11 +209,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Nalfeshnee
-![](Mechanics/CLI/bestiary/fiend/token/nalfeshnee.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/nalfeshnee.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 184 (`16d10 + 96`) 
+- **Hit Points** 184 (16d10 + 96) 
 - **Speed** 20 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -208,10 +223,10 @@ title: Nalfeshnee
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +11, Intelligence +9, Wisdom +6, Charisma +7
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 11
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 11
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 13
 
@@ -227,9 +242,13 @@ title: Nalfeshnee
 
 ***Claw.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 15 (`3d6 + 5`) slashing damage.
 
-***Horror Nimbus (Recharge 5-6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
+***Horror Nimbus (Recharge 5-6).*** The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the nalfeshnee's Horror Nimbus for the next 24 hours.
 
 ***Teleport.*** The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 62. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

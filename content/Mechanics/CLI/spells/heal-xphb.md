@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Heal
-created: 2026-03-09T12:15:33.873-04:00
-modified: 2026-03-09T12:15:33.873-04:00
-published: 2026-03-09T12:15:33.873-04:00
+created: 2026-03-29T21:53:55.665-04:00
+modified: 2026-03-29T21:53:55.665-04:00
+published: 2026-03-29T21:53:55.665-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/6th-level
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Heal
@@ -32,10 +28,19 @@ _6th-level, Abjuration_
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). This spell also ends the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), and [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions on the target.
+Choose a creature that you can see within range. Positive energy washes through the target, restoring 70 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). This spell also ends the [Blinded](/Mechanics/CLI/conditions.md#Blinded), [Deafened](/Mechanics/CLI/conditions.md#Deafened), and [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions on the target.
 
 **Using a Higher-Level Spell Slot.** The healing increases by `10` for each spell slot level above 6.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

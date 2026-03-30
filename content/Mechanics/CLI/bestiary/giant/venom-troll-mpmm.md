@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Venom Troll
-created: 2026-03-09T12:15:33.838-04:00
-modified: 2026-03-09T12:15:33.838-04:00
-published: 2026-03-09T12:15:33.838-04:00
+created: 2026-03-29T21:53:55.623-04:00
+modified: 2026-03-29T21:53:55.623-04:00
+published: 2026-03-29T21:53:55.623-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Venom Troll (MPMM)
+ac: 15
+hp: 94
+modifier: 1
+hit_dice: 9d10 + 45
+cr: "7"
+stats:
+  - 18
+  - 13
+  - 20
+  - 7
+  - 9
+  - 7
+source:
+  - MPMM
 ---
 
 # Venom Troll
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 248_\
 ![](Mechanics/CLI/bestiary/giant/img/venom-troll.webp#right)
-
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
 
 ## Trolls
@@ -39,11 +54,11 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 ```ad-statblock
 title: Venom Troll
-![](Mechanics/CLI/bestiary/giant/token/venom-troll-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/venom-troll-mpmm.webp#token)
 *Large giant, Typically  Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 94 (`9d10 + 45`) 
+- **Hit Points** 94 (9d10 + 45) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,10 +67,10 @@ title: Venom Troll
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Giant
 - **Challenge** 7
 
@@ -69,11 +84,11 @@ title: Venom Troll
 
 ***Multiattack.*** The troll makes one Bite attack and two Claw attacks.
 
-***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage plus 4 (`1d8`) poison damage, and the creature is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of the troll's next turn.
+***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage plus 4 (`1d8`) poison damage, and the creature is [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the start of the troll's next turn.
 
 ***Claws.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage plus 4 (`1d8`) poison damage.
 
-***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (`2d6`) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (`4d8`) poison damage and is [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). A [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Venom Spray (Recharge 6).*** The troll slices itself with a claw, releasing a spray of poison in a 15-foot cube. The troll takes 7 (`2d6`) slashing damage (this damage can't be reduced in any way). Each creature in the area must make a DC 16 Constitution saving throw. On a failed save, a creature takes 18 (`4d8`) poison damage and is [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. On a successful save, the creature takes half as much damage and isn't [poisoned](/Mechanics/CLI/conditions.md#Poisoned). A [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -81,3 +96,7 @@ title: Venom Troll
 ## Environment
 
 forest, swamp, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 248_

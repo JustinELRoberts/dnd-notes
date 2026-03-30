@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rhinoceros
-created: 2026-03-09T12:15:33.794-04:00
-modified: 2026-03-09T12:15:33.794-04:00
-published: 2026-03-09T12:15:33.794-04:00
+created: 2026-03-29T21:53:55.577-04:00
+modified: 2026-03-29T21:53:55.577-04:00
+published: 2026-03-29T21:53:55.577-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,19 +14,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Rhinoceros
+ac: 11
+hp: 45
+modifier: -1
+hit_dice: 6d10 + 12
+cr: "2"
+stats:
+  - 21
+  - 8
+  - 15
+  - 2
+  - 12
+  - 6
+source:
+  - MM
 ---
 
 # Rhinoceros
 
-_Source: Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Rhinoceros
-![](Mechanics/CLI/bestiary/beast/token/rhinoceros.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/rhinoceros.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11 (natural armor)
-- **Hit Points** 45 (`6d10 + 12`) 
+- **Hit Points** 45 (6d10 + 12) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,7 +57,7 @@ title: Rhinoceros
 
 ## Traits
 
-***Charge.*** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Charge.*** If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (`2d8`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Actions
 
@@ -54,3 +69,7 @@ title: Rhinoceros
 ## Environment
 
 grassland
+
+## Sources
+
+_Monster Manual p. 336. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

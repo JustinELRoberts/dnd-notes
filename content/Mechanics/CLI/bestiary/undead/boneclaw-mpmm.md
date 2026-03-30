@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boneclaw
-created: 2026-03-09T12:15:34.048-04:00
-modified: 2026-03-09T12:15:34.048-04:00
-published: 2026-03-09T12:15:34.048-04:00
+created: 2026-03-29T21:53:56.059-04:00
+modified: 2026-03-29T21:53:56.059-04:00
+published: 2026-03-29T21:53:56.059-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/12
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Boneclaw (MPMM)
+ac: 16
+hp: 150
+modifier: 3
+hit_dice: 20d10 + 40
+cr: "12"
+stats:
+  - 19
+  - 16
+  - 15
+  - 13
+  - 15
+  - 9
+source:
+  - MPMM
 ---
 
 # Boneclaw
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 66_\
 ![](Mechanics/CLI/bestiary/undead/img/boneclaw.webp#right)
-
 A wizard who tries to become a lich but fails might become a boneclaw instead. These hideous, cackling monsters share a few of liches' attributes, but while liches are immortal masters of the arcane, boneclaws are thralls to evil, hatred, and pain.
 
 The most important part of the transformation ritual occurs when the soul of the aspiring lich migrates to a prepared phylactery. If the wizard is too physically or magically weak to compel the soul into its new home, the soul instead seeks out a master—a person within a few miles who has a hate-filled heart. The soul bonds to that person and becomes enslaved to its new master's wishes. The boneclaw forms near its master, sometimes appearing before that individual to receive orders and other times simply seeking to fulfill its master's desires.
@@ -33,11 +48,11 @@ In service to its master, a boneclaw delights in causing horrific pain. It lurks
 
 ```ad-statblock
 title: Boneclaw
-![](Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/boneclaw-mpmm.webp#token)
 *Large undead, Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 150 (`20d10 + 40`) 
+- **Hit Points** 150 (20d10 + 40) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,10 +61,10 @@ title: Boneclaw
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +7, Constitution +6, Wisdom +6
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 16
 - **Damage Resistances** cold, necrotic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common plus one language spoken by its master
 - **Challenge** 12
 
@@ -63,7 +78,7 @@ title: Boneclaw
 
 ***Multiattack.*** The boneclaw makes two Piercing Claw attacks.
 
-***Piercing Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 15 ft., one target. *Hit:* 20 (`3d10 + 4`) piercing damage plus 11 (`2d10`) necrotic damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
+***Piercing Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 15 ft., one target. *Hit:* 20 (`3d10 + 4`) piercing damage plus 11 (`2d10`) necrotic damage. If the target is a creature, the boneclaw can pull the target up to 10 feet toward itself, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14). The boneclaw has two claws. While a claw grapples a target, the claw can attack only that target.
 
 ***Shadow Jump (Recharge 5-6).*** If the boneclaw is in dim light or darkness, each creature of the boneclaw's choice within 15 feet of it must succeed on a DC 14 Constitution saving throw or take 34 (`5d12 + 2`) necrotic damage.
 
@@ -71,7 +86,7 @@ The boneclaw then teleports up to 60 feet to an unoccupied space it can see. It 
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in dim light or darkness, the boneclaw takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
+***Shadow Stealth.*** While in dim light or darkness, the boneclaw takes the [Hide](/Mechanics/CLI/actions.md#Hide) action.
 
 ## Reactions
 
@@ -83,3 +98,7 @@ The boneclaw then teleports up to 60 feet to an unoccupied space it can see. It 
 ## Environment
 
 arctic, desert, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 66_

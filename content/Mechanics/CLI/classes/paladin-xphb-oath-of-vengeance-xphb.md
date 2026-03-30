@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Oath of Vengeance
-created: 2026-03-09T12:15:34.100-04:00
-modified: 2026-03-09T12:15:34.100-04:00
-published: 2026-03-09T12:15:34.100-04:00
+created: 2026-03-29T21:53:56.132-04:00
+modified: 2026-03-29T21:53:56.132-04:00
+published: 2026-03-29T21:53:56.132-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/paladin/vengeance
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Oath of Vengeance
 
-_[Paladin](./paladin-xphb.md): Paladin Subclass_\
-_Source: Player's Handbook (2024) p. 116_
+_[Paladin](./paladin-xphb.md): Paladin Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -71,31 +70,35 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells |
 |---------------|--------|
-| 3rd | [Bane](Mechanics/CLI/spells/bane-xphb.md), [Hunter's Mark](Mechanics/CLI/spells/hunters-mark-xphb.md) |
-| 5th | [Hold Person](Mechanics/CLI/spells/hold-person-xphb.md), [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) |
-| 9th | [Haste](Mechanics/CLI/spells/haste-xphb.md), [Protection from Energy](Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 13th | [Banishment](Mechanics/CLI/spells/banishment-xphb.md), [Dimension Door](Mechanics/CLI/spells/dimension-door-xphb.md) |
-| 17th | [Hold Monster](Mechanics/CLI/spells/hold-monster-xphb.md), [Scrying](Mechanics/CLI/spells/scrying-xphb.md) |
+| 3rd | [Bane](/Mechanics/CLI/spells/bane-xphb.md), [Hunter's Mark](/Mechanics/CLI/spells/hunters-mark-xphb.md) |
+| 5th | [Hold Person](/Mechanics/CLI/spells/hold-person-xphb.md), [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) |
+| 9th | [Haste](/Mechanics/CLI/spells/haste-xphb.md), [Protection from Energy](/Mechanics/CLI/spells/protection-from-energy-xphb.md) |
+| 13th | [Banishment](/Mechanics/CLI/spells/banishment-xphb.md), [Dimension Door](/Mechanics/CLI/spells/dimension-door-xphb.md) |
+| 17th | [Hold Monster](/Mechanics/CLI/spells/hold-monster-xphb.md), [Scrying](/Mechanics/CLI/spells/scrying-xphb.md) |
 ^oath-of-vengeance-spells
 
 ### Vow of Enmity (Level 3)
 
-When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against the creature for 1 minute or until you use this feature again.
+When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action, you can expend one use of your Channel Divinity to utter a vow of enmity against a creature you can see within 30 feet of yourself. You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against the creature for 1 minute or until you use this feature again.
 
-If the creature drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
+If the creature drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) before the vow ends, you can transfer the vow to a different creature within 30 feet of yourself (no action required).
 
 ### Relentless Avenger (Level 7)
 
-Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack), you can reduce the creature's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) to 0 until the end of the current turn. You can then move up to half your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) as part of the same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md). This movement doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+Your supernatural focus helps you close off a foe's retreat. When you hit a creature with an [Opportunity Attack](/Mechanics/CLI/actions.md#Opportunity%20Attack), you can reduce the creature's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) to 0 until the end of the current turn. You can then move up to half your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) as part of the same [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md). This movement doesn't provoke [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Soul of Vengeance (Level 15)
 
-Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to make a melee attack against that creature if it's within range.
+Immediately after a creature under the effect of your Vow of Enmity hits or misses with an attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to make a melee attack against that creature if it's within range.
 
 ### Avenging Angel (Level 20)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you gain the benefits below for 10 minutes or until you end them (no action required). Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 5 spell slot (no action required).
 
-**Flight.** You sprout spectral wings on your back, have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 60 feet, and can hover.
+**Flight.** You sprout spectral wings on your back, have a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 60 feet, and can hover.
 
-**Frightful Aura.** Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](Mechanics/CLI/rules/actions.md#Attack) rolls against the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+**Frightful Aura.** Whenever an enemy starts its turn in your Aura of Protection, that creature must succeed on a Wisdom saving throw or have the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](/Mechanics/CLI/actions.md#Attack) rolls against the [Frightened](/Mechanics/CLI/conditions.md#Frightened) creature have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md).
+
+## Sources
+
+_Player's Handbook (2024) p. 116_

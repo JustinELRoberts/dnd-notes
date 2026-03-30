@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - College of Lore
-created: 2026-03-09T12:15:33.864-04:00
-modified: 2026-03-09T12:15:33.864-04:00
-published: 2026-03-09T12:15:33.864-04:00
+created: 2026-03-29T21:53:55.652-04:00
+modified: 2026-03-29T21:53:55.652-04:00
+published: 2026-03-29T21:53:55.652-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/bard/lore
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # College of Lore
 
-_[Bard](./bard-xphb.md): Bard Subclass_\
-_Source: Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_[Bard](./bard-xphb.md): Bard Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,7 +62,7 @@ You gain proficiency with three skills of your choice.
 
 ### Cutting Words (Level 3)
 
-You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
+You learn to use your wit to supernaturally distract, confuse, and otherwise sap the confidence and competence of others. When a creature that you can see within 60 feet of yourself makes a damage roll or succeeds on an ability check or attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to expend one use of your Bardic Inspiration; roll your Bardic Inspiration die, and subtract the number rolled from the creature's roll, reducing the damage or potentially turning the success into a failure.
 
 ### Magical Discoveries (Level 6)
 
@@ -74,3 +73,7 @@ You always have the chosen spells prepared, and whenever you gain a Bard level, 
 ### Peerless Skill (Level 14)
 
 When you make an ability check or attack roll and fail, you can expend one use of Bardic Inspiration; roll the Bardic Inspiration die, and add the number rolled to the `d20`, potentially turning a failure into a success. On a failure, the Bardic Inspiration isn't expended.
+
+## Sources
+
+_Player's Handbook (2024) p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

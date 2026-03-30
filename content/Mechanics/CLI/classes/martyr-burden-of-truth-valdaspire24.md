@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Truth
-created: 2026-03-09T12:15:33.827-04:00
-modified: 2026-03-09T12:15:33.827-04:00
-published: 2026-03-09T12:15:33.827-04:00
+created: 2026-03-29T21:53:55.612-04:00
+modified: 2026-03-29T21:53:55.612-04:00
+published: 2026-03-29T21:53:55.612-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/martyr/truth
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Truth
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,33 +64,37 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Identify](Mechanics/CLI/spells/identify-xphb.md), [Word of Force](Mechanics/CLI/spells/word-of-force-valdaspire24.md) |
-| 5 | [Word of Terror](Mechanics/CLI/spells/word-of-terror-valdaspire24.md), [Zone of Truth](Mechanics/CLI/spells/zone-of-truth-xphb.md) |
-| 9 | [Sending](Mechanics/CLI/spells/sending-xphb.md), Word of Transience |
-| 13 | [Divination](Mechanics/CLI/spells/divination-xphb.md), [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 17 | [Legend Lore](Mechanics/CLI/spells/legend-lore-xphb.md), [Word of Control](Mechanics/CLI/spells/word-of-control-valdaspire24.md) |
+| 3 | [Identify](/Mechanics/CLI/spells/identify-xphb.md), [Word of Force](/Mechanics/CLI/spells/word-of-force-valdaspire24.md) |
+| 5 | [Word of Terror](/Mechanics/CLI/spells/word-of-terror-valdaspire24.md), [Zone of Truth](/Mechanics/CLI/spells/zone-of-truth-xphb.md) |
+| 9 | [Sending](/Mechanics/CLI/spells/sending-xphb.md), Word of Transience |
+| 13 | [Divination](/Mechanics/CLI/spells/divination-xphb.md), [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
+| 17 | [Legend Lore](/Mechanics/CLI/spells/legend-lore-xphb.md), [Word of Control](/Mechanics/CLI/spells/word-of-control-valdaspire24.md) |
 ^truth-spells
 
 ### Compelling Message (Level 3)
 
-You gain proficiency in the [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
+You gain proficiency in the [Persuasion](/Mechanics/CLI/skills.md#Persuasion) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
 
 ### Forewarning (Level 3)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can glimpse some future peril and warn yourself or an ally within 60 feet of yourself who can hear you. This warning lasts until the creature finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) and ends early if you use this feature to warn a different creature. When the warned creature is hit by an attack roll, it can use this warning to gain a +5 bonus to its AC against the attack, potentially causing it to miss. The warning then ends for it.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can glimpse some future peril and warn yourself or an ally within 60 feet of yourself who can hear you. This warning lasts until the creature finishes a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) and ends early if you use this feature to warn a different creature. When the warned creature is hit by an attack roll, it can use this warning to gain a +5 bonus to its AC against the attack, potentially causing it to miss. The warning then ends for it.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage (no action required). This damage ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage (no action required). This damage ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
 ### Seer (Level 6)
 
-You have [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 30 feet.
+You have [Blindsight](/Mechanics/CLI/senses.md#Blindsight) with a range of 30 feet.
 
 ### Word of Revelation (Level 14)
 
-You can cast [Word of Force](Mechanics/CLI/spells/word-of-force-valdaspire24.md), [Word of Terror](Mechanics/CLI/spells/word-of-terror-valdaspire24.md), and Word of Transience once each without taking Radiant damage or expending a spell use.
+You can cast [Word of Force](/Mechanics/CLI/spells/word-of-force-valdaspire24.md), [Word of Terror](/Mechanics/CLI/spells/word-of-terror-valdaspire24.md), and Word of Transience once each without taking Radiant damage or expending a spell use.
 
-Once you cast one of these spells without taking Radiant damage, you must finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) before you can cast the spell in that way again.
+Once you cast one of these spells without taking Radiant damage, you must finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) before you can cast the spell in that way again.
 
 ### Sacrificial Foresight (Level 18)
 
-When you use your Sacrificial [Skill](Mechanics/CLI/rules/variant-rules/skill-xphb.md), you gain a +5 bonus to all [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) you make until the end of the current turn.
+When you use your Sacrificial [Skill](/Mechanics/CLI/variant-rules/skill-xphb.md), you gain a +5 bonus to all [D20 Tests](/Mechanics/CLI/variant-rules/d20-test-xphb.md) you make until the end of the current turn.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

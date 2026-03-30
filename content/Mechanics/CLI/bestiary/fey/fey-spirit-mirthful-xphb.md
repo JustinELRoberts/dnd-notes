@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fey Spirit (Mirthful)
-created: 2026-03-09T12:15:33.904-04:00
-modified: 2026-03-09T12:15:33.904-04:00
-published: 2026-03-09T12:15:33.904-04:00
+created: 2026-03-29T21:53:55.903-04:00
+modified: 2026-03-29T21:53:55.903-04:00
+published: 2026-03-29T21:53:55.903-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fey Spirit (Mirthful) (XPHB)
+modifier: 3
+stats:
+  - 13
+  - 16
+  - 14
+  - 14
+  - 11
+  - 16
+source:
+  - XPHB
 ---
 
 # Fey Spirit (Mirthful)
-
-_Source: Player's Handbook (2024) p. 326_
 
 ```ad-statblock
 title: Fey Spirit (Mirthful)
@@ -34,8 +45,8 @@ title: Fey Spirit (Mirthful)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed)
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed)
 - **Languages** Sylvan, understands the languages you know
 - **Challenge** 
 
@@ -47,7 +58,11 @@ title: Fey Spirit (Mirthful)
 
 ## Bonus Actions
 
-***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you and the spirit for 1 minute or until the target takes any damage.
+***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](/Mechanics/CLI/conditions.md#Charmed) by you and the spirit for 1 minute or until the target takes any damage.
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 326_

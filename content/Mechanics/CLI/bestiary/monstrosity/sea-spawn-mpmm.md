@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sea Spawn
-created: 2026-03-09T12:15:33.841-04:00
-modified: 2026-03-09T12:15:33.841-04:00
-published: 2026-03-09T12:15:33.841-04:00
+created: 2026-03-29T21:53:55.627-04:00
+modified: 2026-03-29T21:53:55.627-04:00
+published: 2026-03-29T21:53:55.627-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -15,36 +15,52 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sea Spawn (MPMM)
+ac: 11
+hp: 32
+modifier: -1
+hit_dice: 5d8 + 10
+cr: "1"
+stats:
+  - 15
+  - 8
+  - 15
+  - 6
+  - 10
+  - 8
+source:
+  - MPMM
+  - VGM
 ---
 
 # Sea Spawn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/sea-spawn.webp#right)
-
 Many of the stories sung as sea chanteys and recounted in dockside taverns tell of people lost to the sea—but not merely drowned and gone. Some unfortunates taken by the ocean live on as sea spawn, haunting the waves like tortured reflections of their former selves. Coral encrusts them. Barnacles cling to their cold skin. Lungs that once filled with air can now breathe in water as well.
 
 Tales provide myriad reasons for these strange transformations. Folklore warns against falling in love with a sea elf or merfolk, braving storms in hopes of a bounteous catch, and promising your heart to a sea god. Such cautionary tales disguise the deeper truth: things lurking beneath the waves strive to claim the hearts and minds of land dwellers.
 
-[Krakens](Mechanics/CLI/bestiary/monstrosity/kraken.md), morkoths, [sea hags](Mechanics/CLI/bestiary/fey/sea-hag.md), [marids](Mechanics/CLI/bestiary/elemental/marid.md), [storm giants](Mechanics/CLI/bestiary/giant/storm-giant.md), [dragon turtles](Mechanics/CLI/bestiary/dragon/dragon-turtle.md)—all of these and more can mark mortals as their own and claim them as minions. Unlucky folk might become beholden to such a master through a bleak bargain, or they might find themselves cursed by one. Once warped into a fishlike form, a sea spawn can't leave the water for long without courting death.
+[Krakens](/Mechanics/CLI/bestiary/monstrosity/kraken.md), morkoths, [sea hags](/Mechanics/CLI/bestiary/fey/sea-hag.md), [marids](/Mechanics/CLI/bestiary/elemental/marid.md), [storm giants](/Mechanics/CLI/bestiary/giant/storm-giant.md), [dragon turtles](/Mechanics/CLI/bestiary/dragon/dragon-turtle.md)—all of these and more can mark mortals as their own and claim them as minions. Unlucky folk might become beholden to such a master through a bleak bargain, or they might find themselves cursed by one. Once warped into a fishlike form, a sea spawn can't leave the water for long without courting death.
 
 Sea spawn come in a wide variety of forms. An individual might have a tentacle for an arm, the jaws of a shark, a sea urchin's spines, a whale's fin, octopus eyes, seaweed hair, or any combination of such qualities. Some of these piscine body parts provide them with special abilities.
 
 ## The Sea Spawn of Purple Rocks
 
-Visitors to a string of islands called the Purple Rocks (in the Forgotten Realms setting) might notice one curious fact about the islands' human inhabitants: no infants or elderly are among them. This is because babies born to the Rocklanders are claimed by a [kraken](Mechanics/CLI/bestiary/monstrosity/kraken.md) named Slarkrethel. The experience transforms the children into fanatics dedicated to the kraken. They return from the sea as humans, but when they reach old age, they transform into sea spawn and rejoin their master in the depths. Some children return having suffered partial transformations and must conceal themselves from strangers until their full transformation in order to keep the secret of the Purple Rocks.
+Visitors to a string of islands called the Purple Rocks (in the Forgotten Realms setting) might notice one curious fact about the islands' human inhabitants: no infants or elderly are among them. This is because babies born to the Rocklanders are claimed by a [kraken](/Mechanics/CLI/bestiary/monstrosity/kraken.md) named Slarkrethel. The experience transforms the children into fanatics dedicated to the kraken. They return from the sea as humans, but when they reach old age, they transform into sea spawn and rejoin their master in the depths. Some children return having suffered partial transformations and must conceal themselves from strangers until their full transformation in order to keep the secret of the Purple Rocks.
 
-Kraken priests (in this book) tend to the kraken's flock. Most of the priests are island natives, but some are other sorts of creatures that live in the water around the Purple Rocks, such as [merfolk](Mechanics/CLI/bestiary/humanoid/merfolk.md) or [merrow](Mechanics/CLI/bestiary/monstrosity/merrow.md), or even sea elves.
+Kraken priests (in this book) tend to the kraken's flock. Most of the priests are island natives, but some are other sorts of creatures that live in the water around the Purple Rocks, such as [merfolk](/Mechanics/CLI/bestiary/humanoid/merfolk.md) or [merrow](/Mechanics/CLI/bestiary/monstrosity/merrow.md), or even sea elves.
 
 ## Statblock
 
 ```ad-statblock
 title: Sea Spawn
-![](Mechanics/CLI/bestiary/monstrosity/token/sea-spawn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/sea-spawn-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 11 (natural armor)
-- **Hit Points** 32 (`5d8 + 10`) 
+- **Hit Points** 32 (5d8 + 10) 
 - **Speed** 20 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,7 +70,7 @@ title: Sea Spawn
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Languages** understands Aquan and Common but can't speak
 - **Challenge** 1
 
@@ -71,8 +87,8 @@ title: Sea Spawn
 ***Piscine Anatomy.*** The sea spawn uses one of the following options (choose one or roll a `d6`):
 
 - **1–2 Bite.** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 4 (`1d4 + 2`) piercing damage.  
-- **3–4 Poison Quills.** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 3 (`1d6`) poison damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **5–6 Tentacle.** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 12) if it is a Medium or smaller creature. Until this grapple ends, the sea spawn can't use this tentacle on another target.  
+- **3–4 Poison Quills.** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 3 (`1d6`) poison damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **5–6 Tentacle.** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 12) if it is a Medium or smaller creature. Until this grapple ends, the sea spawn can't use this tentacle on another target.  
 ```
 
 ^statblock
@@ -80,3 +96,7 @@ title: Sea Spawn
 ## Environment
 
 coastal, underwater
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 211, Volo's Guide to Monsters p. 189_

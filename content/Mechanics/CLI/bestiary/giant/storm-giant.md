@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Storm Giant
-created: 2026-03-09T12:15:33.913-04:00
-modified: 2026-03-09T12:15:33.913-04:00
-published: 2026-03-09T12:15:33.913-04:00
+created: 2026-03-29T21:53:55.915-04:00
+modified: 2026-03-29T21:53:55.915-04:00
+published: 2026-03-29T21:53:55.915-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/13
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Storm Giant
+ac: 16
+hp: 230
+modifier: 2
+hit_dice: 20d12 + 100
+cr: "13"
+stats:
+  - 29
+  - 14
+  - 20
+  - 16
+  - 18
+  - 18
+source:
+  - MM
 ---
 
 # Storm Giant
 
-_Source: Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/giant/img/storm-giant.webp#right)
-
 Storm giants are contemplative seers that live in places far removed from mortal civilization. Most have pale purple-gray skin and hair, and glittering emerald eyes.
 
 Some rare storm giants are violet-skinned, with deep violet or blue-black hair and silvery gray or purple eyes. They are benevolent and wise unless angered, in response to which the fury of a storm giant can affect the fate of thousands.
@@ -85,11 +100,11 @@ Regardless of a giant's rank among its own race, the chief of a hill giant tribe
 
 ```ad-statblock
 title: Storm Giant
-![](Mechanics/CLI/bestiary/giant/token/storm-giant.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/storm-giant.webp#token)
 *Huge giant, Chaotic Good*
 
-- **Armor Class** 16 ([scale mail](Mechanics/CLI/items/scale-mail-xphb.md))
-- **Hit Points** 230 (`20d12 + 100`) 
+- **Armor Class** 16 ([scale mail](/Mechanics/CLI/items/scale-mail.md))
+- **Hit Points** 230 (20d12 + 100) 
 - **Speed** 50 ft., swim 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -98,11 +113,10 @@ title: Storm Giant
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +14, Constitution +10, Wisdom +9, Charisma +9
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +8, [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +14, [History](Mechanics/CLI/rules/skills.md#History) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +9
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +8, [Athletics](/Mechanics/CLI/skills.md#Athletics) +14, [History](/Mechanics/CLI/skills.md#History) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +9
 - **Senses** passive Perception 19
 - **Damage Resistances** cold
 - **Damage Immunities** lightning, thunder
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md)
 - **Languages** Common, Giant
 - **Challenge** 13
 
@@ -110,9 +124,9 @@ title: Storm Giant
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [feather fall](Mechanics/CLI/spells/feather-fall-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [feather fall](/Mechanics/CLI/spells/feather-fall-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md), [light](/Mechanics/CLI/spells/light-xphb.md)
 
-**3/day each:** [control weather](Mechanics/CLI/spells/control-weather-xphb.md), [water breathing](Mechanics/CLI/spells/water-breathing-xphb.md)
+**3/day each:** [control weather](/Mechanics/CLI/spells/control-weather-xphb.md), [water breathing](/Mechanics/CLI/spells/water-breathing-xphb.md)
 
 ***Amphibious.*** The giant can breathe air and water.
 
@@ -132,3 +146,7 @@ title: Storm Giant
 ## Environment
 
 coastal, underwater
+
+## Sources
+
+_Monster Manual p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

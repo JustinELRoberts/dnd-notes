@@ -2,19 +2,18 @@
 publish: true
 aliases:
   - Shadow of Moil
-created: 2026-03-09T12:15:33.805-04:00
-modified: 2026-03-09T12:15:33.805-04:00
-published: 2026-03-09T12:15:33.805-04:00
+created: 2026-03-29T21:53:55.589-04:00
+modified: 2026-03-29T21:53:55.589-04:00
+published: 2026-03-29T21:53:55.589-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/level/4th-level
   - ttrpg-cli/spell/school/necromancy
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Warlock
 ---
 
 # Shadow of Moil
@@ -30,6 +29,11 @@ Flame-like shadows wreathe your body until the spell ends, causing you to become
 
 Until the spell ends, you have resistance to radiant damage. In addition, whenever a creature within 10 feet of you hits you with an attack, the shadows lash out at that creature, dealing it `2d8` necrotic damage.
 
-**Classes**: [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 164_
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 164_

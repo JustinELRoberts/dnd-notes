@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - White Magic
-created: 2026-03-09T12:15:34.092-04:00
-modified: 2026-03-09T12:15:34.092-04:00
-published: 2026-03-09T12:15:34.092-04:00
+created: 2026-03-29T21:53:56.122-04:00
+modified: 2026-03-29T21:53:56.122-04:00
+published: 2026-03-29T21:53:56.122-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/witch/white
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # White Magic
 
-_[Witch](./witch-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Witch](./witch-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,30 +62,34 @@ When you reach a Witch level specified in the White Magic Spells table, you ther
 
 | Witch Level | Spells |
 |-------------|--------|
-| 3 | [Bless](Mechanics/CLI/spells/bless-xphb.md), [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [Prayer of Healing](Mechanics/CLI/spells/prayer-of-healing-xphb.md), [Spare The Dying](Mechanics/CLI/spells/spare-the-dying-xphb.md) |
-| 5 | [Beacon of Hope](Mechanics/CLI/spells/beacon-of-hope-xphb.md), [Revivify](Mechanics/CLI/spells/revivify-xphb.md) |
-| 7 | [Death Ward](Mechanics/CLI/spells/death-ward-xphb.md), [Guardian of Faith](Mechanics/CLI/spells/guardian-of-faith-xphb.md) |
-| 9 | [Mass Cure Wounds](Mechanics/CLI/spells/mass-cure-wounds-xphb.md), [Raise Dead](Mechanics/CLI/spells/raise-dead-xphb.md) |
+| 3 | [Bless](/Mechanics/CLI/spells/bless-xphb.md), [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [Prayer of Healing](/Mechanics/CLI/spells/prayer-of-healing-xphb.md), [Spare The Dying](/Mechanics/CLI/spells/spare-the-dying-xphb.md) |
+| 5 | [Beacon of Hope](/Mechanics/CLI/spells/beacon-of-hope-xphb.md), [Revivify](/Mechanics/CLI/spells/revivify-xphb.md) |
+| 7 | [Death Ward](/Mechanics/CLI/spells/death-ward-xphb.md), [Guardian of Faith](/Mechanics/CLI/spells/guardian-of-faith-xphb.md) |
+| 9 | [Mass Cure Wounds](/Mechanics/CLI/spells/mass-cure-wounds-xphb.md), [Raise Dead](/Mechanics/CLI/spells/raise-dead-xphb.md) |
 ^white-magic-spells
 
 ### Remedy (Level 3)
 
 You have a reservoir of healing magic represented by a pool of d6s. The number of dice in this pool equals your Witch level.
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action or a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can heal yourself or one creature you can see within 60 feet of yourself, expending one or more dice from the pool. You can expend a maximum number of dice equal to your Charisma modifier (minimum of one). Roll the dice you expend, and add your Charisma modifier to the roll if you use this feature as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, restoring a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the total.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action or a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can heal yourself or one creature you can see within 60 feet of yourself, expending one or more dice from the pool. You can expend a maximum number of dice equal to your Charisma modifier (minimum of one). Roll the dice you expend, and add your Charisma modifier to the roll if you use this feature as a [Magic](/Mechanics/CLI/actions.md#Magic) action, restoring a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the total.
 
-Your pool regains all expended dice when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Your pool regains all expended dice when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Talisman of Protection (Level 6)
 
-You can craft a magical talisman that wards off harm. Creating a talisman takes 1 hour of work, which can be done during a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can only have one of these talismans at a time; crafting a new talisman causes the previous one to become nonmagical. Any creature wearing the talisman adds a `d4` to all saving throws it makes.
+You can craft a magical talisman that wards off harm. Creating a talisman takes 1 hour of work, which can be done during a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can only have one of these talismans at a time; crafting a new talisman causes the previous one to become nonmagical. Any creature wearing the talisman adds a `d4` to all saving throws it makes.
 
 ### Benevolent Surge (Level 10)
 
-When you, your familiar, or an [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) you can see within 30 feet of you takes damage, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to cause that creature to regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Charisma modifier.
+When you, your familiar, or an [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) you can see within 30 feet of you takes damage, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to cause that creature to regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Charisma modifier.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 2+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 2+ spell slot (no action required).
 
 ### Witch's Gift (Level 14)
 
-Whenever you cast a spell or use a Witch feature that restores a creature's [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), that creature gains a +3 bonus to its [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) until the end of your next turn.
+Whenever you cast a spell or use a Witch feature that restores a creature's [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), that creature gains a +3 bonus to its [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md) until the end of your next turn.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

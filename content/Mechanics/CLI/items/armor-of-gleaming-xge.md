@@ -12,9 +12,9 @@ aliases:
   - Scale Mail of Gleaming
   - Spiked Armor of Gleaming
   - Splint Armor of Gleaming
-created: 2026-03-09T12:15:33.938-04:00
-modified: 2026-03-09T12:15:33.938-04:00
-published: 2026-03-09T12:15:33.938-04:00
+created: 2026-03-29T21:53:55.939-04:00
+modified: 2026-03-29T21:53:55.939-04:00
+published: 2026-03-29T21:53:55.939-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/armor/heavy
@@ -31,9 +31,12 @@ obsidianUIMode: preview
 
 _Minor, common_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 This armor never gets dirty.
 
-**Variants**:
+## Variants
 
 - [Breastplate of Gleaming](#Breastplate%20of%20Gleaming)
 - [Chain Mail of Gleaming](#Chain%20Mail%20of%20Gleaming)
@@ -106,4 +109,6 @@ This armor never gets dirty.
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
 
-_Source: Xanathar's Guide to Everything p. 136_
+## Sources
+
+_Xanathar's Guide to Everything p. 136_

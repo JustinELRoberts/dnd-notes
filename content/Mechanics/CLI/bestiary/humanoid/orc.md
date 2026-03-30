@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orc
-created: 2026-03-09T12:15:33.836-04:00
-modified: 2026-03-09T12:15:33.837-04:00
-published: 2026-03-09T12:15:33.837-04:00
+created: 2026-03-29T21:53:55.622-04:00
+modified: 2026-03-29T21:53:55.622-04:00
+published: 2026-03-29T21:53:55.622-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -20,13 +20,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orc
+ac: 13
+hp: 15
+modifier: 1
+hit_dice: 2d8 + 6
+cr: 1/2
+stats:
+  - 16
+  - 12
+  - 16
+  - 7
+  - 11
+  - 10
+source:
+  - MM
 ---
 
 # Orc
 
-_Source: Monster Manual p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc.webp#right)
-
 Orcs are savage raiders and pillagers with stooped postures, low foreheads, and piggish faces with prominent lower canines that resemble tusks.
 
 ## Gruumsh One-Eye
@@ -61,11 +76,11 @@ Luthic, the orc goddess of fertility and wife of Gruumsh, demands that orcs proc
 
 ```ad-statblock
 title: Orc
-![](Mechanics/CLI/bestiary/humanoid/token/orc.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orc.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 13 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 15 (`2d8 + 6`) 
+- **Armor Class** 13 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 15 (2d8 + 6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -74,9 +89,8 @@ title: Orc
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md), [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Orc
 - **Challenge** 1/2
 
@@ -96,3 +110,7 @@ title: Orc
 ## Environment
 
 underdark, mountain, grassland, forest, swamp, hill, arctic
+
+## Sources
+
+_Monster Manual p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

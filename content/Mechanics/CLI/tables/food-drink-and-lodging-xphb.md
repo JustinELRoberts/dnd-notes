@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Food, Drink, and Lodging
-created: 2026-03-09T12:15:34.389-04:00
-modified: 2026-03-09T12:15:34.389-04:00
-published: 2026-03-09T12:15:34.389-04:00
+created: 2026-03-29T21:53:56.489-04:00
+modified: 2026-03-29T21:53:56.489-04:00
+published: 2026-03-29T21:53:56.489-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
 cssclasses:
@@ -20,9 +20,9 @@ _Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems 
 
 | Item | Cost |
 |------|------|
-|  [Ale (mug)](Mechanics/CLI/items/ale-mug-xphb.md) | 4 CP |
-|  [Bread (loaf)](Mechanics/CLI/items/bread-loaf-xphb.md) | 2 CP |
-|  [Cheese (wedge)](Mechanics/CLI/items/cheese-wedge-xphb.md) | 1 SP |
+|  [Ale (mug)](/Mechanics/CLI/items/ale-mug-xphb.md) | 4 CP |
+|  [Bread (loaf)](/Mechanics/CLI/items/bread-loaf-xphb.md) | 2 CP |
+|  [Cheese (wedge)](/Mechanics/CLI/items/cheese-wedge-xphb.md) | 1 SP |
 | _Inn Stay per Day_ |
 |  Squalid | 7 CP |
 |  Poor | 1 SP |
@@ -38,6 +38,6 @@ _Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems 
 |  Wealthy | 3 SP |
 |  Aristocratic | 6 SP |
 | _Wine (bottle)_ |
-|  [Common](Mechanics/CLI/items/common-wine-bottle-xphb.md) | 2 SP |
-|  [Fine](Mechanics/CLI/items/fine-wine-bottle-xphb.md) | 10 GP |
+|  [Common](/Mechanics/CLI/items/common-wine-bottle-xphb.md) | 2 SP |
+|  [Fine](/Mechanics/CLI/items/fine-wine-bottle-xphb.md) | 10 GP |
 ^food-drink-and-lodging

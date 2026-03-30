@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fire Giant Dreadnought
-created: 2026-03-09T12:15:34.052-04:00
-modified: 2026-03-09T12:15:34.052-04:00
-published: 2026-03-09T12:15:34.052-04:00
+created: 2026-03-29T21:53:56.065-04:00
+modified: 2026-03-29T21:53:56.065-04:00
+published: 2026-03-29T21:53:56.065-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/14
@@ -15,11 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fire Giant Dreadnought (MPMM)
+ac: 21
+hp: 187
+modifier: -1
+hit_dice: 15d12 + 90
+cr: "14"
+stats:
+  - 27
+  - 9
+  - 23
+  - 8
+  - 10
+  - 11
+source:
+  - MPMM
+  - VGM
 ---
 
 # Fire Giant Dreadnought
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147_\
 ![](Mechanics/CLI/bestiary/giant/img/fire-giant-dreadnought.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -36,11 +53,11 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 
 ```ad-statblock
 title: Fire Giant Dreadnought
-![](Mechanics/CLI/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp#token)
 *Huge giant, Typically  Lawful Evil*
 
-- **Armor Class** 21 ([plate](Mechanics/CLI/items/plate-armor-xphb.md), [Dual Shields](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 187 (`15d12 + 90`) 
+- **Armor Class** 21 ([plate](/Mechanics/CLI/items/plate-armor.md), [Dual Shields](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 187 (15d12 + 90) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,7 +66,7 @@ title: Fire Giant Dreadnought
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +4, Constitution +11, Charisma +5
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +13, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +13, [Perception](/Mechanics/CLI/skills.md#Perception) +5
 - **Senses** passive Perception 15
 - **Damage Immunities** fire
 - **Languages** Giant
@@ -67,7 +84,7 @@ title: Fire Giant Dreadnought
 
 ***Rock.*** *Ranged Weapon Attack:* `+13` to hit, range 60/240 ft., one target. *Hit:* 30 (`4d10 + 8`) bludgeoning damage.
 
-***Shield Charge (Recharge 5-6).*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (`8d6 + 8`) bludgeoning damage plus 14 (`4d6`) fire damage and be pushed up to 30 feet and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Shield Charge (Recharge 5-6).*** The giant moves up to 30 feet in a straight line and can move through the space of any creature smaller than Huge. The first time it enters a creature's space during this move, that creature must succeed on a DC 21 Strength saving throw or take 36 (`8d6 + 8`) bludgeoning damage plus 14 (`4d6`) fire damage and be pushed up to 30 feet and knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -75,3 +92,7 @@ title: Fire Giant Dreadnought
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 124, Volo's Guide to Monsters p. 147_

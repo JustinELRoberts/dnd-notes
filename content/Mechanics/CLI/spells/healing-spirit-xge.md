@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Healing Spirit
-created: 2026-03-09T12:15:33.982-04:00
-modified: 2026-03-09T12:15:33.982-04:00
-published: 2026-03-09T12:15:33.982-04:00
+created: 2026-03-29T21:53:55.986-04:00
+modified: 2026-03-29T21:53:55.986-04:00
+published: 2026-03-29T21:53:55.986-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/level/2nd-level
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Ranger
 ---
 
 # Healing Spirit
@@ -40,6 +36,14 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 **At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by `1d6` for each slot level above 2nd.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 157_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 157_

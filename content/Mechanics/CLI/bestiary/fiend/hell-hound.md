@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hell Hound
-created: 2026-03-09T12:15:34.049-04:00
-modified: 2026-03-09T12:15:34.049-04:00
-published: 2026-03-09T12:15:34.049-04:00
+created: 2026-03-29T21:53:56.060-04:00
+modified: 2026-03-29T21:53:56.060-04:00
+published: 2026-03-29T21:53:56.060-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hell Hound
+ac: 15
+hp: 45
+modifier: 1
+hit_dice: 7d8 + 14
+cr: "3"
+stats:
+  - 17
+  - 12
+  - 14
+  - 6
+  - 13
+  - 6
+source:
+  - MM
 ---
 
 # Hell Hound
 
-_Source: Monster Manual p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/fiend/img/hell-hound.webp#right)
-
 Monstrous, fire-breathing fiends that take the form of powerful dogs, hell hounds are found on the battlefields of Acheron and throughout the Lower Planes. On the Material Plane, hell hounds are most commonly seen in service to devils, fire giants, and other evil creatures that use them as guard animals and companions.
 
 ## Burning Hunger
@@ -38,11 +53,11 @@ Hell hounds are smarter than mundane beasts, and their lawful nature makes them 
 
 ```ad-statblock
 title: Hell Hound
-![](Mechanics/CLI/bestiary/fiend/token/hell-hound.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/hell-hound.webp#token)
 *Medium fiend, Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 45 (`7d8 + 14`) 
+- **Hit Points** 45 (7d8 + 14) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,17 +66,17 @@ title: Hell Hound
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Immunities** fire
 - **Languages** understands Infernal but can't speak it
 - **Challenge** 3
 
 ## Traits
 
-***Keen Hearing and Smell.*** The hound has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The hound has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -75,3 +90,7 @@ title: Hell Hound
 ## Environment
 
 underdark, mountain
+
+## Sources
+
+_Monster Manual p. 182. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

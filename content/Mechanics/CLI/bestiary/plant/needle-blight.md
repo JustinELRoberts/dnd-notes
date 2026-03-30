@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Needle Blight
-created: 2026-03-09T12:15:34.060-04:00
-modified: 2026-03-09T12:15:34.060-04:00
-published: 2026-03-09T12:15:34.060-04:00
+created: 2026-03-29T21:53:56.081-04:00
+modified: 2026-03-29T21:53:56.081-04:00
+published: 2026-03-29T21:53:56.081-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Needle Blight
+ac: 12
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/4
+stats:
+  - 12
+  - 12
+  - 13
+  - 4
+  - 8
+  - 3
+source:
+  - MM
 ---
 
 # Needle Blight
 
-_Source: Monster Manual p. 32_\
 ![](Mechanics/CLI/bestiary/plant/img/needle-blight.webp#right)
-
 In the shadows of a forest, needle blights might be taken at a distance for shuffling, hunched humanoids. Up close, these creatures reveal themselves as horrid plants whose conifer-like needles grow across their bodies in quivering clumps. A needle blight lashes out with these needles or launches them as an aerial assault that can punch through armor and flesh.
 
 When needle blights detect a threat, they loose a pollen that the wind carries to other needle blights throughout the forest. Alerted to their foes' location, needle blights converge from all sides to drench their roots in blood.
@@ -51,11 +66,11 @@ Blights are independent creatures, but most act under a Gulthias tree's control,
 
 ```ad-statblock
 title: Needle Blight
-![](Mechanics/CLI/bestiary/plant/token/needle-blight.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/needle-blight.webp#token)
 *Medium plant, Neutral Evil*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,8 +80,8 @@ title: Needle Blight
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 9
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened)
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 9
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened)
 - **Languages** understands Common but can't speak
 - **Challenge** 1/4
 
@@ -82,3 +97,7 @@ title: Needle Blight
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 32_

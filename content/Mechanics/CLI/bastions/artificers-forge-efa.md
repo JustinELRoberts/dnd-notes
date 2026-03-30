@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Artificer's Forge
-created: 2026-03-09T12:15:33.987-04:00
-modified: 2026-03-09T12:15:33.987-04:00
-published: 2026-03-09T12:15:33.987-04:00
+created: 2026-03-29T21:53:55.992-04:00
+modified: 2026-03-29T21:53:55.992-04:00
+published: 2026-03-29T21:53:55.992-04:00
 tags:
   - ttrpg-cli/bastion
   - ttrpg-cli/compendium/src/5e/efa
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _Level 13 Bastion facility_
 
-- **Prerequisites**: Ability to use an artisansTool as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md)
+- **Prerequisites**: Ability to use an artisansTool as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md)
 - **Space**: Roomy (16 sq)
 - **Hirelings**: 2
 - **Order**: craft
@@ -30,7 +30,7 @@ If you "create a magic item" in your Bastion using the rules in the "Dungeon Mas
 
 ## Craft: Magic Item
 
-When you issue the Craft order to this facility, you commission the facility's hirelings to craft a "Common or an Uncommon magic item" chosen by you from the "Dungeon Master's Guide". The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](Mechanics/CLI/rules/skills.md#Arcana) skill. The two hirelings assist each other, reducing the time required to craft the item. If the item allows its user to cast any spells from it, the hirelings have those spells prepared.
+When you issue the Craft order to this facility, you commission the facility's hirelings to craft a "Common or an Uncommon magic item" chosen by you from the "Dungeon Master's Guide". The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](/Mechanics/CLI/skills.md#Arcana) skill. The two hirelings assist each other, reducing the time required to craft the item. If the item allows its user to cast any spells from it, the hirelings have those spells prepared.
 
 ## Charge Refreshment
 

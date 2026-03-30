@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Solar
-created: 2026-03-09T12:15:33.892-04:00
-modified: 2026-03-09T12:15:33.892-04:00
-published: 2026-03-09T12:15:33.892-04:00
+created: 2026-03-29T21:53:55.891-04:00
+modified: 2026-03-29T21:53:55.891-04:00
+published: 2026-03-29T21:53:55.891-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/21
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Solar
+ac: 21
+hp: 243
+modifier: 6
+hit_dice: 18d10 + 144
+cr: "21"
+stats:
+  - 26
+  - 22
+  - 26
+  - 25
+  - 25
+  - 30
+source:
+  - MM
 ---
 
 # Solar
 
-_Source: Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/solar.webp#right)
-
 An angel is a celestial agent sent forth into the planes to further its god's agenda for weal or woe. Its sublime beauty and presence can drive awestruck onlookers to their knees. Yet angels are destroyers too, and their appearance portends doom as often as it signals hope.
 
 ## Shards of the Divine
@@ -50,11 +65,11 @@ It is said that only twenty-four solars exist. The few solars that are known are
 
 ```ad-statblock
 title: Solar
-![](Mechanics/CLI/bestiary/celestial/token/solar.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/solar.webp#token)
 *Large celestial, Lawful Good*
 
 - **Armor Class** 21 (natural armor)
-- **Hit Points** 243 (`18d10 + 144`) 
+- **Hit Points** 243 (18d10 + 144) 
 - **Speed** 50 ft., fly 150 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -63,12 +78,11 @@ title: Solar
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Intelligence +14, Wisdom +14, Charisma +17
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +14
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 24
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +14
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 24
 - **Damage Resistances** radiant; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 21
 
@@ -76,11 +90,11 @@ title: Solar
 
 ***Innate Spellcasting.*** The solar's spellcasting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
-**At will:** [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md) (self only)
+**At will:** [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) (self only)
 
-**3/day each:** [blade barrier](Mechanics/CLI/spells/blade-barrier-xphb.md), [dispel evil and good](Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [resurrection](Mechanics/CLI/spells/resurrection-xphb.md)
+**3/day each:** [blade barrier](/Mechanics/CLI/spells/blade-barrier-xphb.md), [dispel evil and good](/Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [resurrection](/Mechanics/CLI/spells/resurrection-xphb.md)
 
-**1/day each:** [commune](Mechanics/CLI/spells/commune-xphb.md), [control weather](Mechanics/CLI/spells/control-weather-xphb.md)
+**1/day each:** [commune](/Mechanics/CLI/spells/commune-xphb.md), [control weather](/Mechanics/CLI/spells/control-weather-xphb.md)
 
 ***Angelic Weapons.*** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra `6d8` radiant damage (included in the attack).
 
@@ -108,7 +122,11 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the solar c
 
 ***Searing Burst (Costs 2 Actions).*** The solar emits magical, divine energy. Each creature of its choice in a 10-foot radius must make a DC 23 Dexterity saving throw, taking 14 (`4d6`) fire damage plus 14 (`4d6`) radiant damage on a failed save, or half as much damage on a successful one.
 
-***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until magic such as the [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) spell removes the blindness.
+***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 feet of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) until magic such as the [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md) spell removes the blindness.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 18. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

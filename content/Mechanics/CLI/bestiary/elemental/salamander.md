@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Salamander
-created: 2026-03-09T12:15:34.059-04:00
-modified: 2026-03-09T12:15:34.059-04:00
-published: 2026-03-09T12:15:34.059-04:00
+created: 2026-03-29T21:53:56.078-04:00
+modified: 2026-03-29T21:53:56.078-04:00
+published: 2026-03-29T21:53:56.078-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Salamander
+ac: 15
+hp: 90
+modifier: 2
+hit_dice: 12d10 + 24
+cr: "5"
+stats:
+  - 18
+  - 14
+  - 15
+  - 11
+  - 10
+  - 12
+source:
+  - MM
 ---
 
 # Salamander
 
-_Source: Monster Manual p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/salamander.webp#right)
-
 Salamanders slither across the Sea of Ash on the Elemental Plane of Fire, their sinuous coils and jagged spines smoldering. Intense heat washes off their bodies, while their yellow eyes glow like candles in the deep-set hollows of their hawkish faces.
 
 Salamanders adore power, and they delight in setting fire to things. Outside their home plane, they play among the burning skeletons of charred trees as forest fires rage around them, or slither down the slopes of erupting volcanoes to linger in fire pits and magma floes.
@@ -53,11 +68,11 @@ This inherent heat is an asset to salamanders' skill as smiths, allowing them to
 
 ```ad-statblock
 title: Salamander
-![](Mechanics/CLI/bestiary/elemental/token/salamander.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/salamander.webp#token)
 *Large elemental, Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 90 (`12d10 + 24`) 
+- **Hit Points** 90 (12d10 + 24) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -67,11 +82,10 @@ title: Salamander
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Vulnerabilities** cold
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** fire
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** Ignan
 - **Challenge** 5
 
@@ -87,7 +101,7 @@ title: Salamander
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+7` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage, or 13 (`2d8 + 4`) piercing damage if used with two hands to make a melee attack, plus 3 (`1d6`) fire damage.
 
-***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage plus 7 (`2d6`) fire damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
+***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage plus 7 (`2d6`) fire damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), the salamander can automatically hit the target with its tail, and the salamander can't make tail attacks against other targets.
 ```
 
 ^statblock
@@ -95,3 +109,7 @@ title: Salamander
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 266. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

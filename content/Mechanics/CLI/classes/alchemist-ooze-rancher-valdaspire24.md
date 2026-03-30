@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ooze Rancher
-created: 2026-03-09T12:15:33.997-04:00
-modified: 2026-03-09T12:15:33.997-04:00
-published: 2026-03-09T12:15:33.997-04:00
+created: 2026-03-29T21:53:56.007-04:00
+modified: 2026-03-29T21:53:56.007-04:00
+published: 2026-03-29T21:53:56.007-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/alchemist/ooze-rancher
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Ooze Rancher
 
-_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,41 +58,45 @@ Unsurprisingly, Oozes, jellies, and slimes are a fascinating subject for Alchemi
 
 Your experience with Oozes grants you the following benefits.
 
-**Acid Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Acid damage.
+**Acid Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Acid damage.
 
 **Ooze Empathy.** Additionally, whenever an Ooze tries to attack you, it makes a Wisdom saving throw against your Alchemist save DC. On a failed save, the attack automatically misses you. On a successful save, the Ooze is immune to this feature for the next 24 hours.
 
 ### Slime Bomb \[Formula] (Level 3)
 
-By mixing your [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) explosive contents with the remnants of an Ooze, you can change it into a Slime Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage, but instead causes the target or each creature within the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) of the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property to become coated in a viscous, green slime. A creature coated in slime can't take Bonus Actions or the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action. This slime lasts for 1 minute or until it or another creature takes the [Utilize](Mechanics/CLI/rules/actions.md#Utilize) action to remove the slime.
+By mixing your [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) explosive contents with the remnants of an Ooze, you can change it into a Slime Bomb. This [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage, but instead causes the target or each creature within the [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) of the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) Explode property to become coated in a viscous, green slime. A creature coated in slime can't take Bonus Actions or the [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), or [Dodge](/Mechanics/CLI/actions.md#Dodge) action. This slime lasts for 1 minute or until it or another creature takes the [Utilize](/Mechanics/CLI/actions.md#Utilize) action to remove the slime.
 
 ### Bottled Oozes (Level 6)
 
-Whenever you brew potions, you can spend 2 [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to create a Bottled Ooze, which contains a Gray Ooze. This item retains potency until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), after which it becomes inert.
+Whenever you brew potions, you can spend 2 [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) to create a Bottled Ooze, which contains a Gray Ooze. This item retains potency until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), after which it becomes inert.
 
-An Ooze produced by your Bottled Oozes uses your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) for its attack rolls. If the Ooze forces a creature to make a saving throw, it uses your Alchemist save DC.
+An Ooze produced by your Bottled Oozes uses your Intelligence modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) for its attack rolls. If the Ooze forces a creature to make a saving throw, it uses your Alchemist save DC.
 
-**Improved Bottled Oozes.** At higher Alchemist levels, you can distill more powerful slimes into Bottled Oozes that you create, as shown on the Improved Bottled Oozes table. An Ooze by your Bottled Ooze can't take the Split [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+**Improved Bottled Oozes.** At higher Alchemist levels, you can distill more powerful slimes into Bottled Oozes that you create, as shown on the Improved Bottled Oozes table. An Ooze by your Bottled Ooze can't take the Split [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
 **Improved Bottled Oozes**
 
 | Item | Reagents |
 |------|----------|
 | Alchemist Level 6 |  |
-| [Bottled Ooze (Gray Ooze)](Mechanics/CLI/items/bottled-ooze-gray-ooze-valdaspire24.md) | 2 |
+| [Bottled Ooze (Gray Ooze)](/Mechanics/CLI/items/bottled-ooze-gray-ooze-valdaspire24.md) | 2 |
 | Alchemist Level 9 |  |
-| [Bottled Ooze (Ochre Jelly)](Mechanics/CLI/items/bottled-ooze-ochre-jelly-valdaspire24.md) | 4 |
-| [Bottled Ooze (Gelatinous Cube)](Mechanics/CLI/items/bottled-ooze-gelatinous-cube-valdaspire24.md) | 4 |
+| [Bottled Ooze (Ochre Jelly)](/Mechanics/CLI/items/bottled-ooze-ochre-jelly-valdaspire24.md) | 4 |
+| [Bottled Ooze (Gelatinous Cube)](/Mechanics/CLI/items/bottled-ooze-gelatinous-cube-valdaspire24.md) | 4 |
 | Alchemist Level 13 |  |
-| [Bottled Ooze (Black Pudding)](Mechanics/CLI/items/bottled-ooze-black-pudding-valdaspire24.md) | 6 |
+| [Bottled Ooze (Black Pudding)](/Mechanics/CLI/items/bottled-ooze-black-pudding-valdaspire24.md) | 6 |
 ^improved-bottled-oozes
 
 ### Sacrificial Slime (Level 10)
 
-Whenever you are targeted by an attack while an allied Ooze is within 5 feet of you, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to command it to move in the way of the attack, causing the attack to target it instead.
+Whenever you are targeted by an attack while an allied Ooze is within 5 feet of you, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to command it to move in the way of the attack, causing the attack to target it instead.
 
-You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Elemental Oozes (Level 14)
 
-Whenever you create a Bottled Ooze, choose Acid, Cold, Fire, Lightning, Poison, or Thunder damage. The Ooze has [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to that damage. Whenever it is subjected to that damage type, it takes no damage and instead regains a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to half the damage dealt.
+Whenever you create a Bottled Ooze, choose Acid, Cold, Fire, Lightning, Poison, or Thunder damage. The Ooze has [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to that damage. Whenever it is subjected to that damage type, it takes no damage and instead regains a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to half the damage dealt.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

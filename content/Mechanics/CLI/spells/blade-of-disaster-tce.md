@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Blade of Disaster
-created: 2026-03-09T12:15:33.958-04:00
-modified: 2026-03-09T12:15:33.958-04:00
-published: 2026-03-09T12:15:33.958-04:00
+created: 2026-03-29T21:53:55.962-04:00
+modified: 2026-03-29T21:53:55.962-04:00
+published: 2026-03-29T21:53:55.962-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 ---
 
 # Blade of Disaster
@@ -36,8 +32,16 @@ You create a blade-shaped planar rift about 3 feet long in an unoccupied space y
 
 As a bonus action on your turn, you can move the blade up to 30 feet to an unoccupied space you can see and then make up to two melee spell attacks with it again.
 
-The blade can harmlessly pass through any barrier, including a [wall of force](Mechanics/CLI/spells/wall-of-force-xphb.md).
+The blade can harmlessly pass through any barrier, including a [wall of force](/Mechanics/CLI/spells/wall-of-force-xphb.md).
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Tasha's Cauldron of Everything p. 106_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 106_

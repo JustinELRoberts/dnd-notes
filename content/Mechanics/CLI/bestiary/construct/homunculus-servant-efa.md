@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Homunculus Servant
-created: 2026-03-09T12:15:33.791-04:00
-modified: 2026-03-09T12:15:33.791-04:00
-published: 2026-03-09T12:15:33.791-04:00
+created: 2026-03-29T21:53:55.573-04:00
+modified: 2026-03-29T21:53:55.573-04:00
+published: 2026-03-29T21:53:55.573-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/monster/cr/
@@ -13,15 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Homunculus Servant (EFA)
+ac: 13
+modifier: 0
+stats:
+  - 4
+  - 15
+  - 12
+  - 10
+  - 10
+  - 7
+source:
+  - EFA
 ---
 
 # Homunculus Servant
 
-_Source: Eberron: Forge of the Artificer p. 21_
-
 ```ad-statblock
 title: Homunculus Servant
-![](Mechanics/CLI/bestiary/construct/token/homunculus-servant-efa.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/homunculus-servant-efa.webp#token)
 *Tiny construct, Neutral*
 
 - **Armor Class** 13 
@@ -35,15 +47,15 @@ title: Homunculus Servant
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** telepathy 1 mile (works only with you)
 - **Challenge** 
 
 ## Traits
 
-***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the homunculus instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the homunculus instead takes no damage if it succeeds on the save and only half damage if it fails. It can't use this trait if it has the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ***Magic Bond.*** Add the spell's level to any ability check or saving throw the homunculus makes.
 
@@ -57,3 +69,7 @@ title: Homunculus Servant
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 21_

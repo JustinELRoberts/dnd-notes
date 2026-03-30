@@ -2,13 +2,14 @@
 publish: true
 aliases:
   - Bigby's Hand
-created: 2026-03-09T12:15:34.026-04:00
-modified: 2026-03-09T12:15:34.026-04:00
-published: 2026-03-09T12:15:34.026-04:00
+created: 2026-03-29T21:53:56.036-04:00
+modified: 2026-03-29T21:53:56.036-04:00
+published: 2026-03-29T21:53:56.036-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/artificer
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
@@ -20,13 +21,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard
-  - Sorcerer
-  - Warlock (The Fathomless)
-  - Wizard
-  - Wizard (Evoker)
 ---
 
 # Bigby's Hand
@@ -41,17 +35,30 @@ _5th-level, Evocation_\
 
 You create a Large hand of shimmering magical energy in an unoccupied space that you can see within range. The hand lasts for the duration, and it moves at your command, mimicking the movements of your own hand.
 
-The hand is an object that has AC 20 and [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum. If it drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), the spell ends. The hand doesn't occupy its space.
+The hand is an object that has AC 20 and [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum. If it drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), the spell ends. The hand doesn't occupy its space.
 
-When you cast the spell and as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:
+When you cast the spell and as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your later turns, you can move the hand up to 60 feet and then cause one of the following effects:
 
 - **Clenched Fist.** The hand strikes a target within 5 feet of it. Make a melee spell attack. On a hit, the target takes `5d8` Force damage.
 - **Forceful Hand.** The hand attempts to push a Huge or smaller creature within 5 feet of it. The target must succeed on a Strength saving throw, or the hand pushes the target up to 5 feet plus a number of feet equal to five times your spellcasting ability modifier. The hand moves with the target, remaining within 5 feet of it.
-- **Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to cause the hand to crush it, dealing Bludgeoning damage to the target equal to `4d6` plus your spellcasting ability modifier.
-- **Interposing Hand.** The hand grants you Half [Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) for your enemies.
+- **Grasping Hand.** The hand attempts to grapple a Huge or smaller creature within 5 feet of it. The target must succeed on a Dexterity saving throw, or the target has the [Grappled](/Mechanics/CLI/conditions.md#Grappled) condition, with an escape DC equal to your spell save DC. While the hand grapples the target, you can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to cause the hand to crush it, dealing Bludgeoning damage to the target equal to `4d6` plus your spellcasting ability modifier.
+- **Interposing Hand.** The hand grants you Half [Cover](/Mechanics/CLI/variant-rules/cover-xphb.md) against attacks and other effects that originate from its space or that pass through it. In addition, its space counts as [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) for your enemies.
 
 **Using a Higher-Level Spell Slot.** The damage of the Clenched Fist increases by `2d8` and the damage of the Grasping Hand increases by `2d6` for each spell slot level above 5.
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (The Fathomless)](Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 246. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Hand") and the Free Rules (2024)_
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock (The Fathomless)](/Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE")
+- [Warlock (The Fathomless)](/Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Mark of Sentinel](/Mechanics/CLI/lists/list-spells-feats-mark-of-sentinel-efa.md)
+- [Wizard (Evoker)](/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 246. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Arcane Hand") and the Free Rules (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Staff of the Adder
-created: 2026-03-09T12:15:34.097-04:00
-modified: 2026-03-09T12:15:34.097-04:00
-published: 2026-03-09T12:15:34.097-04:00
+created: 2026-03-29T21:53:56.129-04:00
+modified: 2026-03-29T21:53:56.129-04:00
+published: 2026-03-29T21:53:56.129-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -24,7 +24,8 @@ _Staff, weapon, major, uncommon (requires attunement by a cleric, druid, or warl
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
+- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 You can use a bonus action to speak this staff's command word and make the head of the staff become that of an animate poisonous snake for 1 minute. By using another bonus action to speak the command word again, you return the staff to its normal inanimate form.
@@ -33,4 +34,6 @@ You can make a melee attack using the snake head, which has a reach of 5 feet. Y
 
 The snake head can be attacked while it is animate. It has an Armor Class of 15 and 20 hit points. If the head drops to 0 hit points, the staff is destroyed. As long as it's not destroyed, the staff regains all lost hit points when it reverts to its inanimate form.
 
-_Source: Dungeon Master's Guide p. 203_
+## Sources
+
+_Dungeon Master's Guide p. 203_

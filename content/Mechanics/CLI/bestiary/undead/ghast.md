@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ghast
-created: 2026-03-09T12:15:33.915-04:00
-modified: 2026-03-09T12:15:33.915-04:00
-published: 2026-03-09T12:15:33.915-04:00
+created: 2026-03-29T21:53:55.917-04:00
+modified: 2026-03-29T21:53:55.917-04:00
+published: 2026-03-29T21:53:55.917-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ghast
+ac: 13
+hp: 36
+modifier: 3
+hit_dice: 8d8
+cr: "2"
+stats:
+  - 16
+  - 17
+  - 10
+  - 11
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Ghast
 
-_Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/ghast.webp#right)
-
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
 ## Devourers of Flesh
@@ -41,11 +56,11 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 
 ```ad-statblock
 title: Ghast
-![](Mechanics/CLI/bestiary/undead/token/ghast.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/ghast.webp#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 36 (`8d8`) 
+- **Hit Points** 36 (8d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,16 +70,16 @@ title: Ghast
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** necrotic
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common
 - **Challenge** 2
 
 ## Traits
 
-***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
+***Stench.*** Any creature that starts its turn within 5 feet of the ghast must succeed on a DC 10 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
 
 ***Turn Defiance.*** The ghast and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 
@@ -72,7 +87,7 @@ title: Ghast
 
 ***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one creature. *Hit:* 12 (`2d8 + 3`) piercing damage.
 
-***Claws.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -80,3 +95,7 @@ title: Ghast
 ## Environment
 
 underdark, swamp, urban
+
+## Sources
+
+_Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Xvart
-created: 2026-03-09T12:15:33.969-04:00
-modified: 2026-03-09T12:15:33.969-04:00
-published: 2026-03-09T12:15:33.969-04:00
+created: 2026-03-29T21:53:55.973-04:00
+modified: 2026-03-29T21:53:55.973-04:00
+published: 2026-03-29T21:53:55.973-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-8
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Xvart (MPMM)
+ac: 13
+hp: 7
+modifier: 2
+hit_dice: 2d6
+cr: 1/8
+stats:
+  - 8
+  - 14
+  - 10
+  - 8
+  - 7
+  - 7
+source:
+  - MPMM
+  - VGM
 ---
 
 # Xvart
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/xvart.webp#right)
-
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
 
 ## Xvarts
@@ -34,11 +50,11 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 
 ```ad-statblock
 title: Xvart
-![](Mechanics/CLI/bestiary/monstrosity/token/xvart-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/xvart-mpmm.webp#token)
 *Small monstrosity, Typically  Chaotic Evil*
 
-- **Armor Class** 13 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 7 (`2d6`) 
+- **Armor Class** 13 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 7 (2d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,15 +63,14 @@ title: Xvart
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive Perception 8
-- **Gear** [shortsword](Mechanics/CLI/items/shortsword-xphb.md), [sling](Mechanics/CLI/items/sling-xphb.md)
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception 8
 - **Languages** Abyssal
 - **Challenge** 1/8
 
 ## Traits
 
-***Raxivort's Tongue.*** The xvart can communicate with ordinary [bats](Mechanics/CLI/bestiary/beast/bat-xmm.md) and [rats](Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant bats](Mechanics/CLI/bestiary/beast/giant-bat.md) and [giant rats](Mechanics/CLI/bestiary/beast/giant-rat.md).
+***Raxivort's Tongue.*** The xvart can communicate with ordinary [bats](/Mechanics/CLI/bestiary/beast/bat-xmm.md) and [rats](/Mechanics/CLI/bestiary/beast/rat-xmm.md), as well as [giant bats](/Mechanics/CLI/bestiary/beast/giant-bat.md) and [giant rats](/Mechanics/CLI/bestiary/beast/giant-rat.md).
 
 ## Actions
 
@@ -65,7 +80,7 @@ title: Xvart
 
 ## Bonus Actions
 
-***Low Cunning.*** The xvart takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action.
+***Low Cunning.*** The xvart takes the [Disengage](/Mechanics/CLI/actions.md#Disengage) action.
 ```
 
 ^statblock
@@ -73,3 +88,7 @@ title: Xvart
 ## Environment
 
 hill, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200_

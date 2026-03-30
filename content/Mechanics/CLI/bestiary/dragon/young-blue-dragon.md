@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Blue Dragon
-created: 2026-03-09T12:15:33.770-04:00
-modified: 2026-03-09T12:15:33.770-04:00
-published: 2026-03-09T12:15:33.770-04:00
+created: 2026-03-29T21:53:55.552-04:00
+modified: 2026-03-29T21:53:55.552-04:00
+published: 2026-03-29T21:53:55.552-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Blue Dragon
+ac: 18
+hp: 152
+modifier: 0
+hit_dice: 16d10 + 64
+cr: "9"
+stats:
+  - 21
+  - 10
+  - 19
+  - 14
+  - 13
+  - 17
+source:
+  - MM
 ---
 
 # Young Blue Dragon
 
-_Source: Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/young-blue-dragon.webp#right)
-
 Vain and territorial, blue dragons soar through the skies over deserts, preying on caravans and plundering herds and settlements in the verdant lands beyond the desert's reach. These dragons can also be found in dry steppes, searing badlands, and rocky coasts. They guard their territories against all potential competitors, especially brass dragons.
 
 A blue dragon is recognized by its dramatic frilled ears and the massive ridged horn atop its blunt head. Rows of spikes extend back from its nostrils to line its brow, and cluster on its jutting lower jaw.
@@ -110,11 +125,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Blue Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-blue-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-blue-dragon.webp#token)
 *Large dragon, Lawful Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 152 (`16d10 + 64`) 
+- **Hit Points** 152 (16d10 + 64) 
 - **Speed** 40 ft., burrow 20 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -123,8 +138,8 @@ title: Young Blue Dragon
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +4, Constitution +8, Wisdom +5, Charisma +7
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +9, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 19
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +9, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 19
 - **Damage Immunities** lightning
 - **Languages** Common, Draconic
 - **Challenge** 9
@@ -145,3 +160,7 @@ title: Young Blue Dragon
 ## Environment
 
 desert, coastal
+
+## Sources
+
+_Monster Manual p. 91. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

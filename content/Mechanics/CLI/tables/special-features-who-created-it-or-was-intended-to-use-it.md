@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Special Features; Who Created It or Was Intended to Use It?
-created: 2026-03-09T12:15:34.407-04:00
-modified: 2026-03-09T12:15:34.407-04:00
-published: 2026-03-09T12:15:34.407-04:00
+created: 2026-03-29T21:53:56.504-04:00
+modified: 2026-03-29T21:53:56.504-04:00
+published: 2026-03-29T21:53:56.504-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:

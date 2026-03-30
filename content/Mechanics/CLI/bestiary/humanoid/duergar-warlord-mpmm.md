@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Warlord
-created: 2026-03-09T12:15:34.044-04:00
-modified: 2026-03-09T12:15:34.045-04:00
-published: 2026-03-09T12:15:34.045-04:00
+created: 2026-03-29T21:53:56.056-04:00
+modified: 2026-03-29T21:53:56.056-04:00
+published: 2026-03-29T21:53:56.056-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/6
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Warlord (MPMM)
+ac: 20
+hp: 75
+modifier: 0
+hit_dice: 10d8 + 30
+cr: "6"
+stats:
+  - 18
+  - 11
+  - 17
+  - 12
+  - 12
+  - 14
+source:
+  - MPMM
 ---
 
 # Duergar Warlord
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 111_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar-warlord.webp#right)
-
 A warlord is cunning, inspiring, and merciless in equal parts. A skilled leader in battle, the warlord can use spikes of psionic energy to compel the warriors they command to fight harder.
 
 ## Duergar
@@ -48,11 +63,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Warlord
-![](Mechanics/CLI/bestiary/humanoid/token/duergar-warlord-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar-warlord-mpmm.webp#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 20 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 75 (`10d8 + 30`) 
+- **Armor Class** 20 ([plate armor](/Mechanics/CLI/items/plate-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 75 (10d8 + 30) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,17 +77,16 @@ title: Duergar Warlord
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Resistances** poison
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md)
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 6
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -84,7 +98,7 @@ title: Duergar Warlord
 
 ***Call to Attack.*** Up to three allies within 120 feet of this duergar that can hear it can each use their reaction to make one weapon attack.
 
-***Invisibility (Recharge 4-6).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Invisibility (Recharge 4-6).*** The duergar magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 
 ## Bonus Actions
 
@@ -100,3 +114,7 @@ title: Duergar Warlord
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 111_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ettercap
-created: 2026-03-09T12:15:33.819-04:00
-modified: 2026-03-09T12:15:33.819-04:00
-published: 2026-03-09T12:15:33.819-04:00
+created: 2026-03-29T21:53:55.607-04:00
+modified: 2026-03-29T21:53:55.607-04:00
+published: 2026-03-29T21:53:55.607-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ettercap
+ac: 13
+hp: 44
+modifier: 2
+hit_dice: 8d8 + 8
+cr: "2"
+stats:
+  - 14
+  - 15
+  - 13
+  - 7
+  - 12
+  - 8
+source:
+  - MM
 ---
 
 # Ettercap
 
-_Source: Monster Manual p. 131. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/ettercap.webp#right)
-
 Ettercaps are humanoid spiders that tend, feed, and watch over spiders the way a shepherd oversees a flock of sheep. They lair deep in remote forests.
 
 Fine strands of silk stream from glands in an ettercap's abdomen, letting it shoot sticky strands of webbing to bind, entrap, or strangle its victims. It can also use its webbing to fashion elaborate snares and nets, which often festoon its lair.
@@ -41,11 +56,11 @@ Ettercaps are natural enemies of fey creatures. The foul creatures set web snare
 
 ```ad-statblock
 title: Ettercap
-![](Mechanics/CLI/bestiary/monstrosity/token/ettercap.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/ettercap.webp#token)
 *Medium monstrosity, Neutral Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 44 (`8d8 + 8`) 
+- **Hit Points** 44 (8d8 + 8) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,8 +69,8 @@ title: Ettercap
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** —
 - **Challenge** 2
 
@@ -71,11 +86,11 @@ title: Ettercap
 
 ***Multiattack.*** The ettercap makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage plus 4 (`1d8`) poison damage. The target must succeed on a DC 11 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 6 (`1d8 + 2`) piercing damage plus 4 (`1d8`) poison damage. The target must succeed on a DC 11 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Claws.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage.
 
-***Web (Recharge 5-6).*** *Ranged Weapon Attack:* `+4` to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by webbing. As an action, the [restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage.
+***Web (Recharge 5-6).*** *Ranged Weapon Attack:* `+4` to hit, range 30/60 ft., one Large or smaller creature. *Hit:* The creature is [restrained](/Mechanics/CLI/conditions.md#Restrained) by webbing. As an action, the [restrained](/Mechanics/CLI/conditions.md#Restrained) creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning, poison and psychic damage.
 ```
 
 ^statblock
@@ -83,3 +98,7 @@ title: Ettercap
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 131. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

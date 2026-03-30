@@ -2,19 +2,18 @@
 publish: true
 aliases:
   - Cordon of Arrows
-created: 2026-03-09T12:15:33.772-04:00
-modified: 2026-03-09T12:15:33.772-04:00
-published: 2026-03-09T12:15:33.772-04:00
+created: 2026-03-29T21:53:55.554-04:00
+modified: 2026-03-29T21:53:55.555-04:00
+published: 2026-03-29T21:53:55.555-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/level/2nd-level
   - ttrpg-cli/spell/school/transmutation
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Ranger
 ---
 
 # Cordon of Arrows
@@ -32,6 +31,11 @@ When you cast this spell, you can designate any creatures you choose, and the sp
 
 **Using a Higher-Level Spell Slot.** The amount of ammunition that can be affected increases by two for each spell slot level above 2.
 
-**Classes**: [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 258_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 258_

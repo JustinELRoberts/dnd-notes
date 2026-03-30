@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Apparatus of Kwalish
-created: 2026-03-09T12:15:33.987-04:00
-modified: 2026-03-09T12:15:33.987-04:00
-published: 2026-03-09T12:15:33.987-04:00
+created: 2026-03-29T21:53:55.993-04:00
+modified: 2026-03-29T21:53:55.993-04:00
+published: 2026-03-29T21:53:55.993-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/vehicle/size/large
@@ -23,7 +23,7 @@ _Source: Dungeon Master's Guide p. 151. Available in the <span title='Systems Re
 
 ```ad-statblock
 title: Apparatus of Kwalish
-![](Mechanics/CLI/vehicles/token/apparatus-of-kwalish-dmg.webp#token)
+![](/Mechanics/CLI/vehicles/token/apparatus-of-kwalish-dmg.webp#token)
 *Large vehicle; sea*
 
 - **Creature Capacity** 1 crew, 1 passenger
@@ -37,7 +37,7 @@ title: Apparatus of Kwalish
 
 - **Damage Immunities** poison, psychic
 
-This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
+This item first appears to be a Large sealed iron barrel weighing 500 pounds. The barrel has a hidden catch, which can be found with a successful DC 20 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check. Releasing the catch unlocks a hatch at one end of the barrel, allowing two Medium or smaller creatures to crawl inside. Ten levers are set in a row at the far end, each in a neutral position, able to move either up or down. When certain levers are used, the apparatus transforms to resemble a giant lobster.
 
 To be used as a vehicle, the apparatus requires one pilot. While the apparatus's hatch is closed, the compartment is airtight and watertight. The compartment holds enough air for 10 hours of breathing, divided by the number of breathing creatures inside.
 
@@ -53,7 +53,7 @@ A creature in the compartment can use an action to move as many as two of the ap
 | 2 | Forward window shutter opens. | Forward window shutter closes. |
 | 3 | Side window shutters open (two per side). | Side window shutters close (two per side). |
 | 4 | Two claws extend from the front sides of the apparatus. | The claws retract. |
-| 5 | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. *Hit:*  7 (`2d6`) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. *Hit:*  The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). |
+| 5 | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. *Hit:*  7 (`2d6`) bludgeoning damage. | Each extended claw makes the following melee weapon attack: `+8` to hit, reach 5 ft., one target. *Hit:*  The target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15). |
 | 6 | The apparatus walks or swims forward. | The apparatus walks or swims backward. |
 | 7 | The apparatus turns 90 degrees left. | The apparatus turns 90 degrees right. |
 | 8 | Eyelike fixtures emit bright light in a 30-foot radius and dim light for an additional 30 feet. | The light turns off. |
@@ -64,3 +64,7 @@ A creature in the compartment can use an action to move as many as two of the ap
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> (as "Apparatus of the Crab")_

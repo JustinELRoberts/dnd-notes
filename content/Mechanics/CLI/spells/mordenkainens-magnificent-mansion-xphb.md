@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Mordenkainen's Magnificent Mansion
-created: 2026-03-09T12:15:34.052-04:00
-modified: 2026-03-09T12:15:34.052-04:00
-published: 2026-03-09T12:15:34.052-04:00
+created: 2026-03-29T21:53:56.065-04:00
+modified: 2026-03-29T21:53:56.065-04:00
+published: 2026-03-29T21:53:56.065-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/7th-level
   - ttrpg-cli/spell/school/conjuration
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Wizard
 ---
 
 # Mordenkainen's Magnificent Mansion
@@ -39,6 +37,12 @@ A staff of 100 near-transparent servants attends all who enter. You determine th
 
 When the spell ends, any creatures or objects left inside the extradimensional space are expelled into the unoccupied spaces nearest to the entrance.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion") and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Magnificent Mansion") and the Free Rules (2024)_

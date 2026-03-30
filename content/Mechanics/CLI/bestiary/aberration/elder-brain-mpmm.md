@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Elder Brain
-created: 2026-03-09T12:15:33.840-04:00
-modified: 2026-03-09T12:15:33.840-04:00
-published: 2026-03-09T12:15:33.840-04:00
+created: 2026-03-29T21:53:55.626-04:00
+modified: 2026-03-29T21:53:55.626-04:00
+published: 2026-03-29T21:53:55.626-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/14
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Elder Brain (MPMM)
+ac: 10
+hp: 210
+modifier: 0
+hit_dice: 20d10 + 100
+cr: "14"
+stats:
+  - 15
+  - 10
+  - 20
+  - 21
+  - 19
+  - 24
+source:
+  - MPMM
+  - VGM
 ---
 
 # Elder Brain
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173_\
 ![](Mechanics/CLI/bestiary/aberration/img/elder-brain.webp#right)
-
 The ultimate expression of mind flayer domination, an elder brain sprawls within a vat of viscous brine, cared for by mind flayer minions as it touches the thoughts of creatures near and far. It scrawls upon the canvas of the creatures' minds, rewriting their thoughts and authoring their dreams.
 
 An elder brain sustains itself by consuming the brains of other creatures. If its mind flayer servants don't bring meals directly to it, the elder brain reaches out with tendrils of thought, compelling creatures to come to it so that it can feed on them.
@@ -43,11 +59,11 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
 
 ```ad-statblock
 title: Elder Brain
-![](Mechanics/CLI/bestiary/aberration/token/elder-brain-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/elder-brain-mpmm.webp#token)
 *Large aberration (mind flayer), Typically  Lawful Evil*
 
 - **Armor Class** 10 
-- **Hit Points** 210 (`20d10 + 100`) 
+- **Hit Points** 210 (20d10 + 100) 
 - **Speed** 5 ft., swim 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,14 +72,14 @@ title: Elder Brain
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Intelligence +10, Wisdom +9, Charisma +12
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +10, [Deception](Mechanics/CLI/rules/skills.md#Deception) +12, [Insight](Mechanics/CLI/rules/skills.md#Insight) +14, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +12, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +12
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive Perception 14
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +10, [Deception](/Mechanics/CLI/skills.md#Deception) +12, [Insight](/Mechanics/CLI/skills.md#Insight) +14, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +12, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +12
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 120 ft., passive Perception 14
 - **Languages** understands Common, Deep Speech, and Undercommon but can't speak, telepathy 5 miles
 - **Challenge** 14
 
 ## Traits
 
-***Creature Sense.*** The elder brain is aware of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's Intelligence score, but can't sense anything else about it. A creature protected by a [mind blank](Mechanics/CLI/spells/mind-blank-xphb.md) spell, a [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) spell, or similar magic can't be perceived in this manner.
+***Creature Sense.*** The elder brain is aware of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each one's Intelligence score, but can't sense anything else about it. A creature protected by a [mind blank](/Mechanics/CLI/spells/mind-blank-xphb.md) spell, a [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md) spell, or similar magic can't be perceived in this manner.
 
 ***Legendary Resistance (3/Day).*** If the elder brain fails a saving throw, it can choose to succeed instead.
 
@@ -73,21 +89,21 @@ title: Elder Brain
 
 ## Actions
 
-***Tentacle.*** *Melee Weapon Attack:* `+7` to hit, reach 30 ft., one target. *Hit:* 20 (`4d8 + 2`) bludgeoning damage. If the target is a Huge or smaller creature, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15) and takes 9 (`1d8 + 5`) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets [grappled](Mechanics/CLI/rules/conditions.md#Grappled) at a time.
+***Tentacle.*** *Melee Weapon Attack:* `+7` to hit, reach 30 ft., one target. *Hit:* 20 (`4d8 + 2`) bludgeoning damage. If the target is a Huge or smaller creature, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15) and takes 9 (`1d8 + 5`) psychic damage at the start of each of its turns until the grapple ends. The elder brain can have up to four targets [grappled](/Mechanics/CLI/conditions.md#Grappled) at a time.
 
-***Mind Blast (Recharge 5-6).*** Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (`5d10 + 5`) psychic damage and be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Mind Blast (Recharge 5-6).*** Creatures of the elder brain's choice within 60 feet of it must succeed on a DC 18 Intelligence saving throw or take 32 (`5d10 + 5`) psychic damage and be [stunned](/Mechanics/CLI/conditions.md#Stunned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Spellcasting (Psionics).*** The elder brain casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 18):
 
-**At will:** [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md)
+**At will:** [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md)
 
-**3/day:** [modify memory](Mechanics/CLI/spells/modify-memory-xphb.md)
+**3/day:** [modify memory](/Mechanics/CLI/spells/modify-memory-xphb.md)
 
-**1/day each:** [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
+**1/day each:** [dominate monster](/Mechanics/CLI/spells/dominate-monster-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
 
 ## Bonus Actions
 
-***Psychic Link.*** The elder brain targets one [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) creature it senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it is no longer [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful DC 18 Charisma saving throw. On a successful save, the target takes 10 (`3d6`) psychic damage. The link also ends if the target and the elder brain are more than 5 miles apart. The elder brain can form psychic links with up to ten creatures at a time.
+***Psychic Link.*** The elder brain targets one [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) creature it senses with its Creature Sense trait and establishes a psychic link with the target. Until the link ends, the elder brain can perceive everything the target senses. The target becomes aware that something is linked to its mind once it is no longer [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), and the elder brain can terminate the link at any time (no action required). The target can use an action on its turn to attempt to break the link, doing so with a successful DC 18 Charisma saving throw. On a successful save, the target takes 10 (`3d6`) psychic damage. The link also ends if the target and the elder brain are more than 5 miles apart. The elder brain can form psychic links with up to ten creatures at a time.
 
 ***Sense Thoughts.*** The elder brain targets a creature with which it has a psychic link. The elder brain gains insight into the target's emotional state and foremost thoughts (including worries, loves, and hates).
 
@@ -95,7 +111,7 @@ title: Elder Brain
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the elder brain can expend a use to take one of the following actions. The elder brain regains all expended uses at the start of each of its turns.
 
-***Break Concentration.*** The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) on a spell it has cast. The creature also takes 2 (`1d4`) psychic damage per level of the spell.
+***Break Concentration.*** The elder brain targets one creature within 120 feet of it with which it has a psychic link. The elder brain breaks the creature's [concentration](/Mechanics/CLI/conditions.md#Concentration) on a spell it has cast. The creature also takes 2 (`1d4`) psychic damage per level of the spell.
 
 ***Psychic Pulse.*** The elder brain targets one creature within 120 feet of it with which it has a psychic link. The target and enemies of the elder brain within 30 feet of target take 10 (`3d6`) psychic damage.
 
@@ -107,7 +123,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the elder b
 
 On initiative count 20 (losing initiative ties), an elder brain can take one of the following lair actions; the elder brain can't take the same lair action two rounds in a row:
 
-- **Force Wall.** The elder brain casts [wall of force](Mechanics/CLI/spells/wall-of-force-xphb.md).  
+- **Force Wall.** The elder brain casts [wall of force](/Mechanics/CLI/spells/wall-of-force-xphb.md).  
 - **Psionic Anchor.** The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must make a DC 18 Charisma saving throw. On a failed save, its speed is reduced to 0, and it can't teleport. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **Psychic Inspiration.** The elder brain targets one friendly creature it can sense within 120 feet of it. The target has a flash of inspiration and gains advantage on one attack roll, ability check, or saving throw it makes before the end of its next turn.  
 
@@ -127,3 +143,7 @@ If the elder brain dies, these effects immediately end.
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 120, Volo's Guide to Monsters p. 173_

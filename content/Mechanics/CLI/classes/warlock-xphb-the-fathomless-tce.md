@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Fathomless
-created: 2026-03-09T12:15:33.847-04:00
-modified: 2026-03-09T12:15:33.847-04:00
-published: 2026-03-09T12:15:33.847-04:00
+created: 2026-03-29T21:53:55.636-04:00
+modified: 2026-03-29T21:53:55.636-04:00
+published: 2026-03-29T21:53:55.636-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/subclass/warlock/fathomless
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # The Fathomless
 
-_[Warlock](./warlock-xphb.md): Warlock Subclass_\
-_Source: Tasha's Cauldron of Everything p. 72_
+_[Warlock](./warlock-xphb.md): Warlock Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -70,11 +69,11 @@ The Fathomless lets you choose from an expanded list of spells when you learn a 
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [create or destroy water](Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) |
-| 2nd | [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md), [silence](Mechanics/CLI/spells/silence-xphb.md) |
-| 3rd | [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md), [sleet storm](Mechanics/CLI/spells/sleet-storm-xphb.md) |
-| 4th | [control water](Mechanics/CLI/spells/control-water-xphb.md), [summon elemental](Mechanics/CLI/spells/summon-elemental-xphb.md) (water only) |
-| 5th | [Bigby's hand](Mechanics/CLI/spells/bigbys-hand-xphb.md) (appears as a tentacle), [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md) |
+| 1st | [create or destroy water](/Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [thunderwave](/Mechanics/CLI/spells/thunderwave-xphb.md) |
+| 2nd | [gust of wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md), [silence](/Mechanics/CLI/spells/silence-xphb.md) |
+| 3rd | [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md), [sleet storm](/Mechanics/CLI/spells/sleet-storm-xphb.md) |
+| 4th | [control water](/Mechanics/CLI/spells/control-water-xphb.md), [summon elemental](/Mechanics/CLI/spells/summon-elemental-xphb.md) (water only) |
+| 5th | [Bigby's hand](/Mechanics/CLI/spells/bigbys-hand-xphb.md) (appears as a tentacle), [cone of cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md) |
 ^fathomless-expanded-spells
 
 ### Tentacle of the Deeps (Level 1)
@@ -111,9 +110,9 @@ Your Tentacle of the Deeps can defend you and others, interposing itself between
 
 _10th-level Fathomless feature_
 
-You learn the spell [Evard's black tentacles](Mechanics/CLI/spells/evards-black-tentacles-xphb.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+You learn the spell [Evard's black tentacles](/Mechanics/CLI/spells/evards-black-tentacles-xphb.md). It counts as a warlock spell for you, but it doesn't count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
 
-Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](Mechanics/CLI/rules/conditions.md#Concentration) on this spell.
+Whenever you cast this spell, your patron's magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can't break your [concentration](/Mechanics/CLI/conditions.md#Concentration) on this spell.
 
 ### Fathomless Plunge (Level 14)
 
@@ -122,3 +121,7 @@ _14th-level Fathomless feature_
 You can magically open temporary conduits to watery destinations. As an action, you can teleport yourself and up to five other willing creatures that you can see within 30 feet of you. Amid a whirl of tentacles, you all vanish and then reappear up to 1 mile away in a body of water you've seen (pond size or larger) or within 30 feet of it, each of you appearing in an unoccupied space within 30 feet of the others.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 72_

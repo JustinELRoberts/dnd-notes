@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Allosaurus
-created: 2026-03-09T12:15:33.881-04:00
-modified: 2026-03-09T12:15:33.881-04:00
-published: 2026-03-09T12:15:33.881-04:00
+created: 2026-03-29T21:53:55.675-04:00
+modified: 2026-03-29T21:53:55.675-04:00
+published: 2026-03-29T21:53:55.675-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Allosaurus
+ac: 13
+hp: 51
+modifier: 1
+hit_dice: 6d10 + 18
+cr: "2"
+stats:
+  - 19
+  - 13
+  - 17
+  - 2
+  - 12
+  - 5
+source:
+  - MM
 ---
 
 # Allosaurus
 
-_Source: Monster Manual p. 79. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/dinosaurs.webp#right)
-
 The allosaurus is a predator possessing great size, strength, and speed. It can run down almost any prey over open ground, pouncing to pull creatures down with its wicked claws.
 
 ## Dinosaurs
@@ -33,11 +48,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Allosaurus
-![](Mechanics/CLI/bestiary/beast/token/allosaurus.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/allosaurus.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 51 (`6d10 + 18`) 
+- **Hit Points** 51 (6d10 + 18) 
 - **Speed** 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,14 +61,14 @@ title: Allosaurus
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
 - **Senses** passive Perception 15
 - **Languages** —
 - **Challenge** 2
 
 ## Traits
 
-***Pounce.*** If the allosaurus moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). If the target is [prone](Mechanics/CLI/rules/conditions.md#Prone), the allosaurus can make one bite attack against it as a bonus action.
+***Pounce.*** If the allosaurus moves at least 30 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone). If the target is [prone](/Mechanics/CLI/conditions.md#Prone), the allosaurus can make one bite attack against it as a bonus action.
 
 ## Actions
 
@@ -67,3 +82,7 @@ title: Allosaurus
 ## Environment
 
 grassland
+
+## Sources
+
+_Monster Manual p. 79. Available in the Basic Rules (2014)_

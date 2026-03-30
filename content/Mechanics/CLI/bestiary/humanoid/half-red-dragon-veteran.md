@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Half-Red Dragon Veteran
-created: 2026-03-09T12:15:33.986-04:00
-modified: 2026-03-09T12:15:33.986-04:00
-published: 2026-03-09T12:15:33.986-04:00
+created: 2026-03-29T21:53:55.991-04:00
+modified: 2026-03-29T21:53:55.991-04:00
+published: 2026-03-29T21:53:55.991-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Half-Red Dragon Veteran
+ac: 18
+hp: 65
+modifier: 1
+hit_dice: 10d8 + 20
+cr: "5"
+stats:
+  - 16
+  - 13
+  - 14
+  - 10
+  - 11
+  - 10
+source:
+  - MM
 ---
 
 # Half-Red Dragon Veteran
 
-_Source: Monster Manual p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/half-red-dragon-veteran.webp#right)
-
 When a dragon in polymorphed form mates with another creature, the union sometimes produces half dragon offspring. A creature might also transform into a half-dragon as a result of a mad wizard's spell or a ritual bath in dragon's blood. In all these cases, the result is a creature that combines the essence of a dragon with the form of its original race. Regardless of their origins, all half-dragons have similar features and appearance, gaining special senses, resistance to destructive energy, and a breath weapon.
 
 ## Draconic Nature
@@ -38,13 +53,13 @@ To avoid recalculating the creature's challenge rating, apply the template only 
 
 ### Senses
 
-The half-dragon gains [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a radius of 10 feet and [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a radius of 60 feet.
+The half-dragon gains [blindsight](/Mechanics/CLI/senses.md#Blindsight) with a radius of 10 feet and [darkvision](/Mechanics/CLI/senses.md#Darkvision) with a radius of 60 feet.
 
 ### Resistances
 
 The half-dragon gains resistance to a type of damage based on its color.
 
-![Resistances](Mechanics/CLI/tables/resistances-mm.md)
+![Resistances](/Mechanics/CLI/tables/resistances-mm.md)
 
 ### Languages
 
@@ -54,21 +69,21 @@ The half-dragon speaks Draconic in addition to any other languages it knows.
 
 The half-dragon has the breath weapon of its dragon half. The half-dragon's size determines how this action functions.
 
-![New Action: Breath Weapon](Mechanics/CLI/tables/new-action-breath-weapon-mm.md)
+![New Action: Breath Weapon](/Mechanics/CLI/tables/new-action-breath-weapon-mm.md)
 
 ### Sample Half-Dragon
 
-Here the half-dragon template has been applied to a human [veteran](Mechanics/CLI/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](Mechanics/CLI/items/splint-armor-xphb.md) has been replaced with [plate](Mechanics/CLI/items/plate-armor-xphb.md).
+Here the half-dragon template has been applied to a human [veteran](/Mechanics/CLI/bestiary/humanoid/veteran.md) to create a half-red dragon veteran. [Splint armor](/Mechanics/CLI/items/splint-armor.md) has been replaced with [plate](/Mechanics/CLI/items/plate-armor.md).
 
 ## Statblock
 
 ```ad-statblock
 title: Half-Red Dragon Veteran
-![](Mechanics/CLI/bestiary/humanoid/token/half-red-dragon-veteran.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/half-red-dragon-veteran.webp#token)
 *Medium humanoid (human), Any alignment*
 
-- **Armor Class** 18 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 65 (`10d8 + 20`) 
+- **Armor Class** 18 ([plate armor](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 65 (10d8 + 20) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -77,10 +92,9 @@ title: Half-Red Dragon Veteran
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** fire
-- **Gear** [heavy crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** Common, Draconic
 - **Challenge** 5
 
@@ -98,3 +112,7 @@ title: Half-Red Dragon Veteran
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 180. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -15,9 +15,9 @@ aliases:
   - Spiked Armor of Acid Resistance
   - Splint Armor of Acid Resistance
   - Studded Leather Armor of Acid Resistance
-created: 2026-03-09T12:15:33.959-04:00
-modified: 2026-03-09T12:15:33.959-04:00
-published: 2026-03-09T12:15:33.959-04:00
+created: 2026-03-29T21:53:55.963-04:00
+modified: 2026-03-29T21:53:55.963-04:00
+published: 2026-03-29T21:53:55.963-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy
@@ -36,7 +36,10 @@ obsidianUIMode: preview
 
 _Major, rare (requires attunement)_
 
-**Variants**:
+- **Cost**: ⏤
+- **Weight**: ⏤
+
+## Variants
 
 - [Breastplate of Acid Resistance](#Breastplate%20of%20Acid%20Resistance)
 - [Chain Mail of Acid Resistance](#Chain%20Mail%20of%20Acid%20Resistance)
@@ -128,4 +131,6 @@ _Major, rare (requires attunement)_
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-_Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Levity
-created: 2026-03-09T12:15:33.909-04:00
-modified: 2026-03-09T12:15:33.909-04:00
-published: 2026-03-09T12:15:33.909-04:00
+created: 2026-03-29T21:53:55.911-04:00
+modified: 2026-03-29T21:53:55.911-04:00
+published: 2026-03-29T21:53:55.911-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/martyr/levity
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Levity
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,35 +62,39 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Disguise Self](Mechanics/CLI/spells/disguise-self-xphb.md), [Hideous Laughter](Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [Minor Illusion](Mechanics/CLI/spells/minor-illusion-xphb.md) |
-| 5 | [Calm Emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) |
-| 9 | [Major Image](Mechanics/CLI/spells/major-image-xphb.md), [Stinking Cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md) |
-| 13 | [Confusion](Mechanics/CLI/spells/confusion-xphb.md), [Dimension Door](Mechanics/CLI/spells/dimension-door-xphb.md) |
-| 17 | [Modify Memory](Mechanics/CLI/spells/modify-memory-xphb.md), [Seeming](Mechanics/CLI/spells/seeming-xphb.md) |
+| 3 | [Disguise Self](/Mechanics/CLI/spells/disguise-self-xphb.md), [Hideous Laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [Minor Illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md) |
+| 5 | [Calm Emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) |
+| 9 | [Major Image](/Mechanics/CLI/spells/major-image-xphb.md), [Stinking Cloud](/Mechanics/CLI/spells/stinking-cloud-xphb.md) |
+| 13 | [Confusion](/Mechanics/CLI/spells/confusion-xphb.md), [Dimension Door](/Mechanics/CLI/spells/dimension-door-xphb.md) |
+| 17 | [Modify Memory](/Mechanics/CLI/spells/modify-memory-xphb.md), [Seeming](/Mechanics/CLI/spells/seeming-xphb.md) |
 ^levity-spells
 
 ### Ne'er-Do-Well (Level 3)
 
-You gain proficiency in the [Deception](Mechanics/CLI/rules/skills.md#Deception) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
+You gain proficiency in the [Deception](/Mechanics/CLI/skills.md#Deception) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
 
 ### Sacrificial Shenanigans (Level 3)
 
 When you use your Sacrificial Strike, choose one of the following effects.
 
-**Taunt.** The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the next attack it makes before the start of your next turn.
+**Taunt.** The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next attack it makes before the start of your next turn.
 
-**Trip.** The target has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+**Trip.** The target has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 
 ### Just a Prank (Level 6)
 
-Once per turn when a creature you can see makes an [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) against you, you can make a melee attack against the creature. Your attack precedes the triggering attack.
+Once per turn when a creature you can see makes an [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) against you, you can make a melee attack against the creature. Your attack precedes the triggering attack.
 
 ### Matador Backstab (Level 14)
 
-You can cast [Mass Suggestion](Mechanics/CLI/spells/mass-suggestion-xphb.md) without taking Radiant damage or expending a spell use. Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can cast [Mass Suggestion](/Mechanics/CLI/spells/mass-suggestion-xphb.md) without taking Radiant damage or expending a spell use. Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Mechanics/CLI/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting and the spell can target up to 100 creatures within range.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting and the spell can target up to 100 creatures within range.
 
 ### Zany Misdirection (Level 18)
 
 When you use your Reprisal, instead of dealing Radiant or Necrotic damage to the attacker, you can force the attack to hit another creature other than the attacker within the attack's range.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

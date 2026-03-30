@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Potion of Frost Giant Strength
-created: 2026-03-09T12:15:34.133-04:00
-modified: 2026-03-09T12:15:34.133-04:00
-published: 2026-03-09T12:15:34.133-04:00
+created: 2026-03-29T21:53:56.180-04:00
+modified: 2026-03-29T21:53:56.180-04:00
+published: 2026-03-29T21:53:56.180-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -19,8 +19,13 @@ obsidianUIMode: preview
 
 _Potion, minor, rare_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 When you drink this potion, your Strength score changes to 23 for 1 hour. The potion has no effect on you if your Strength is equal to or greater than that score.
 
-This potion's transparent liquid has floating in it a sliver of fingernail from a [frost giant](Mechanics/CLI/bestiary/giant/frost-giant.md).
+This potion's transparent liquid has floating in it a sliver of fingernail from a [frost giant](/Mechanics/CLI/bestiary/giant/frost-giant.md).
 
-_Source: Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 187. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Control Winds
-created: 2026-03-09T12:15:33.867-04:00
-modified: 2026-03-09T12:15:33.867-04:00
-published: 2026-03-09T12:15:33.867-04:00
+created: 2026-03-29T21:53:55.659-04:00
+modified: 2026-03-29T21:53:55.659-04:00
+published: 2026-03-29T21:53:55.659-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
@@ -17,11 +18,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Wizard
 ---
 
 # Control Winds
@@ -41,7 +37,7 @@ A wind picks up within the cube, continually blowing in a horizontal direction y
 
 ## Downdraft
 
-You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+You cause a sustained blast of strong wind to blow downward from the top of the cube. Ranged weapon attacks that pass through the cube or that are made against targets within it have disadvantage on their attack rolls. A creature must make a Strength saving throw if it flies into the cube for the first time on a turn or starts its turn there flying. On a failed save, the creature is knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Updraft
 
@@ -49,6 +45,15 @@ You cause a sustained updraft within the cube, rising upward from the cube's bot
 
 ## Summary
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 152_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 152_

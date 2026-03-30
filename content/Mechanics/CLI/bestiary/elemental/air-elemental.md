@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Air Elemental
-created: 2026-03-09T12:15:33.983-04:00
-modified: 2026-03-09T12:15:33.983-04:00
-published: 2026-03-09T12:15:33.983-04:00
+created: 2026-03-29T21:53:55.988-04:00
+modified: 2026-03-29T21:53:55.988-04:00
+published: 2026-03-29T21:53:55.988-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Air Elemental
+ac: 15
+hp: 90
+modifier: 5
+hit_dice: 12d10 + 24
+cr: "5"
+stats:
+  - 14
+  - 20
+  - 14
+  - 6
+  - 10
+  - 6
+source:
+  - MM
 ---
 
 # Air Elemental
 
-_Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/air-elemental.webp#right)
-
 An air elemental is a funneling cloud of whirling air with a vague semblance of a face. Although it likes to race across the ground, picking up dust and debris as it goes, it can also fly and attack from above.
 
 An air elemental can turn itself into a screaming cyclone, creating a whirlwind that batters creatures even as it flings them away.
@@ -50,11 +65,11 @@ An elemental doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Air Elemental
-![](Mechanics/CLI/bestiary/elemental/token/air-elemental.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/air-elemental.webp#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 90 (`12d10 + 24`) 
+- **Hit Points** 90 (12d10 + 24) 
 - **Speed** fly 90 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -64,10 +79,10 @@ title: Air Elemental
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** Auran
 - **Challenge** 5
 
@@ -81,9 +96,9 @@ title: Air Elemental
 
 ***Slam.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 14 (`2d8 + 5`) bludgeoning damage.
 
-***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (`3d8 + 2`) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). If a thrown target strikes an object, such as a wall or floor, the target takes 3 (`1d6`) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Whirlwind (Recharge 4-6).*** Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (`3d8 + 2`) bludgeoning damage and is flung up 20 feet away from the elemental in a random direction and knocked [prone](/Mechanics/CLI/conditions.md#Prone). If a thrown target strikes an object, such as a wall or floor, the target takes 3 (`1d6`) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Dexterity saving throw or take the same damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
-If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+If the saving throw is successful, the target takes half the bludgeoning damage and isn't flung away or knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -91,3 +106,7 @@ If the saving throw is successful, the target takes half the bludgeoning damage 
 ## Environment
 
 mountain, desert
+
+## Sources
+
+_Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

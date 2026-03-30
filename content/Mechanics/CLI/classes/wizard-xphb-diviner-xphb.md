@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Diviner
-created: 2026-03-09T12:15:33.940-04:00
-modified: 2026-03-09T12:15:33.940-04:00
-published: 2026-03-09T12:15:33.940-04:00
+created: 2026-03-29T21:53:55.942-04:00
+modified: 2026-03-29T21:53:55.942-04:00
+published: 2026-03-29T21:53:55.942-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/wizard/diviner
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Diviner
 
-_[Wizard](./wizard-xphb.md): Wizard Subclass_\
-_Source: Player's Handbook (2024) p. 173_
+_[Wizard](./wizard-xphb.md): Wizard Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,9 +64,9 @@ In addition, whenever you gain access to a new level of spell slots in this clas
 
 ### Portent (Level 3)
 
-Glimpses of the future begin to press on your awareness. Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), roll two d20s and record the numbers rolled. You can replace any [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
+Glimpses of the future begin to press on your awareness. Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), roll two d20s and record the numbers rolled. You can replace any [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per turn.
 
-Each foretelling roll can be used only once. When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you lose any unused foretelling rolls.
+Each foretelling roll can be used only once. When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you lose any unused foretelling rolls.
 
 ### Expert Divination (Level 6)
 
@@ -75,14 +74,18 @@ Casting Divination spells comes so easily to you that it expends only a fraction
 
 ### The Third Eye (Level 10)
 
-You can increase your powers of perception. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), choose one of the following benefits, which lasts until you start a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can't use this feature again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can increase your powers of perception. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), choose one of the following benefits, which lasts until you start a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can't use this feature again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Darkvision.** You gain [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 120 feet.
+**Darkvision.** You gain [Darkvision](/Mechanics/CLI/senses.md#Darkvision) with a range of 120 feet.
 
 **Greater Comprehension.** You can read any language.
 
-**See Invisibility.** You can cast [See Invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md) without expending a spell slot.
+**See Invisibility.** You can cast [See Invisibility](/Mechanics/CLI/spells/see-invisibility-xphb.md) without expending a spell slot.
 
 ### Greater Portent (Level 14)
 
 The visions in your dreams intensify and paint a more accurate picture in your mind of what is to come. Roll three d20s for your Portent feature rather than two.
+
+## Sources
+
+_Player's Handbook (2024) p. 173_

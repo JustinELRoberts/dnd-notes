@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Genasi (Air)
-created: 2026-03-09T12:15:33.995-04:00
-modified: 2026-03-09T12:15:33.995-04:00
-published: 2026-03-09T12:15:33.995-04:00
+created: 2026-03-29T21:53:56.006-04:00
+modified: 2026-03-29T21:53:56.006-04:00
+published: 2026-03-29T21:53:56.006-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/genasi/air
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Genasi (Air)
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 16_\
 ![](Mechanics/CLI/races/img/genasi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -39,7 +38,7 @@ You can speak, read, and write Common and one other language that you and your D
 
 ### Unending Breath
 
-You can hold your breath indefinitely while you're not [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+You can hold your breath indefinitely while you're not [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Lightning Resistance
 
@@ -47,7 +46,7 @@ You have resistance to lightning damage.
 
 ### Mingle with the Wind
 
-You know the [shocking grasp](Mechanics/CLI/spells/shocking-grasp-xphb.md) cantrip. Starting at 3rd level, you can cast the [feather fall](Mechanics/CLI/spells/feather-fall-xphb.md) spell with this trait, without requiring a material component. Starting 5th level, you can also cast the [levitate](Mechanics/CLI/spells/levitate-xphb.md) spell with this trait, without requiring a material component. Once you cast [feather fall](Mechanics/CLI/spells/feather-fall-xphb.md) or [levitate](Mechanics/CLI/spells/levitate-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+You know the [shocking grasp](/Mechanics/CLI/spells/shocking-grasp-xphb.md) cantrip. Starting at 3rd level, you can cast the [feather fall](/Mechanics/CLI/spells/feather-fall-xphb.md) spell with this trait, without requiring a material component. Starting 5th level, you can also cast the [levitate](/Mechanics/CLI/spells/levitate-xphb.md) spell with this trait, without requiring a material component. Once you cast [feather fall](/Mechanics/CLI/spells/feather-fall-xphb.md) or [levitate](/Mechanics/CLI/spells/levitate-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -56,3 +55,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.
 
 A typical genasi has a life span of 120 years.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 16_

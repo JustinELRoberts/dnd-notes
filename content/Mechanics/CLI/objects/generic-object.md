@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Generic Object
-created: 2026-03-09T12:15:34.008-04:00
-modified: 2026-03-09T12:15:34.009-04:00
-published: 2026-03-09T12:15:34.009-04:00
+created: 2026-03-29T21:53:56.015-04:00
+modified: 2026-03-29T21:53:56.015-04:00
+published: 2026-03-29T21:53:56.015-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/object/size/varies
@@ -15,8 +15,6 @@ obsidianUIMode: preview
 ---
 
 # Generic Object
-
-_Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
@@ -30,13 +28,13 @@ When time is a factor, you can assign an Armor Class and hit points to a destruc
 
 An object's Armor Class is a measure of how difficult it is to deal damage to the object when striking it (because the object has no chance of dodging out of the way). The Object Armor Class table provides suggested AC values for various substances.
 
-![Object Armor Class](Mechanics/CLI/tables/object-armor-class.md)
+![Object Armor Class](/Mechanics/CLI/tables/object-armor-class.md)
 
 ### Hit Points
 
 An object's hit points measure how much damage it can take before losing its structural integrity. Resilient objects have more hit points than fragile ones. Large objects also tend to have more hit points than small ones, unless breaking a small part of the object is just as effective as breaking the whole thing. The Object Hit Points table provides suggested hit points for fragile and resilient objects that are Large or smaller.
 
-![Object Hit Points](Mechanics/CLI/tables/object-hit-points.md)
+![Object Hit Points](/Mechanics/CLI/tables/object-hit-points.md)
 
 ### Huge and Gargantuan Objects
 
@@ -54,7 +52,7 @@ Big objects such as castle walls often have extra resilience represented by a da
 
 ```ad-statblock
 title: Generic Object
-![](Mechanics/CLI/objects/token/generic-object.webp#token)
+![](/Mechanics/CLI/objects/token/generic-object.webp#token)
 *Varies Generic*
 
 - **Armor Class** (Varies (see below))
@@ -69,3 +67,7 @@ title: Generic Object
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

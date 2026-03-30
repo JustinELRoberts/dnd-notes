@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Roc
-created: 2026-03-09T12:15:33.797-04:00
-modified: 2026-03-09T12:15:33.798-04:00
-published: 2026-03-09T12:15:33.798-04:00
+created: 2026-03-29T21:53:55.581-04:00
+modified: 2026-03-29T21:53:55.581-04:00
+published: 2026-03-29T21:53:55.581-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/11
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Roc
+ac: 15
+hp: 248
+modifier: 0
+hit_dice: 16d20 + 80
+cr: "11"
+stats:
+  - 28
+  - 10
+  - 20
+  - 3
+  - 10
+  - 9
+source:
+  - MM
 ---
 
 # Roc
 
-_Source: Monster Manual p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/roc.webp#right)
-
 At first sight, a roc's silhouette looks much like any other bird of prey. As it descends, however, its unearthly size becomes terrifyingly clear. In flight, a roc's wingspan spreads two hundred feet or more. At rest, perched upon the mountain peaks that are its home, this monstrous bird rivals the oldest dragons in size.
 
 ## Sky Titans
@@ -45,11 +60,11 @@ Sometimes a roc's nest contains treasures from the caravans or ships they raid, 
 
 ```ad-statblock
 title: Roc
-![](Mechanics/CLI/bestiary/monstrosity/token/roc.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/roc.webp#token)
 *Gargantuan monstrosity, Unaligned*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 248 (`16d20 + 80`) 
+- **Hit Points** 248 (16d20 + 80) 
 - **Speed** 20 ft., fly 120 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,14 +73,14 @@ title: Roc
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +4, Constitution +9, Wisdom +4, Charisma +3
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
 - **Senses** passive Perception 14
 - **Languages** —
 - **Challenge** 11
 
 ## Traits
 
-***Keen Sight.*** The roc has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The roc has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -73,7 +88,7 @@ title: Roc
 
 ***Beak.*** *Melee Weapon Attack:* `+13` to hit, reach 10 ft., one target. *Hit:* 27 (`4d8 + 9`) piercing damage.
 
-***Talons.*** *Melee Weapon Attack:* `+13` to hit, reach 5 ft., one target. *Hit:* 23 (`4d6 + 9`) slashing damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 19). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the roc can't use its talons on another target.
+***Talons.*** *Melee Weapon Attack:* `+13` to hit, reach 5 ft., one target. *Hit:* 23 (`4d6 + 9`) slashing damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 19). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the roc can't use its talons on another target.
 ```
 
 ^statblock
@@ -81,3 +96,7 @@ title: Roc
 ## Environment
 
 mountain, hill, desert, coastal, arctic
+
+## Sources
+
+_Monster Manual p. 260. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

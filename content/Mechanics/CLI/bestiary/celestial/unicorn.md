@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Unicorn
-created: 2026-03-09T12:15:34.023-04:00
-modified: 2026-03-09T12:15:34.023-04:00
-published: 2026-03-09T12:15:34.023-04:00
+created: 2026-03-29T21:53:56.033-04:00
+modified: 2026-03-29T21:53:56.033-04:00
+published: 2026-03-29T21:53:56.033-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Unicorn
+ac: 12
+hp: 67
+modifier: 2
+hit_dice: 9d10 + 18
+cr: "5"
+stats:
+  - 18
+  - 14
+  - 15
+  - 11
+  - 17
+  - 16
+source:
+  - MM
 ---
 
 # Unicorn
 
-_Source: Monster Manual p. 294. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/celestial/img/unicorn.webp#right)
-
 Unicorns dwell in enchanted forests. Unrelated to the horses it resembles, a unicorn is a celestial creature that wanders sylvan realms, its white form glimmering like starlight.
 
 A unicorn's brow sports a single spiraling horn of ivory whose magical touch can heal the sick and the injured. Its ears catch the words and whispers of the creatures that share its domain, and it knows the tongues of elves and sylvan folk. Unicorns allow good-hearted creatures to enter their woods to hunt or gather food, but they hold evil ever at bay. Foul-hearted creatures seldom leave a unicorn's domain alive.
@@ -63,11 +78,11 @@ A unicorn's lair might be an ancient ruin overgrown with vines, a misty clearing
 
 ```ad-statblock
 title: Unicorn
-![](Mechanics/CLI/bestiary/celestial/token/unicorn.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/unicorn.webp#token)
 *Large celestial, Lawful Good*
 
 - **Armor Class** 12 
-- **Hit Points** 67 (`9d10 + 18`) 
+- **Hit Points** 67 (9d10 + 18) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -77,9 +92,9 @@ title: Unicorn
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
 - **Challenge** 5
 
@@ -87,11 +102,11 @@ title: Unicorn
 
 ***Innate Spellcasting.*** The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
 
-**At will:** [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md), [pass without trace](Mechanics/CLI/spells/pass-without-trace-xphb.md)
+**At will:** [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md), [pass without trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md)
 
-**1/day each:** [calm emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [dispel evil and good](Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [entangle](Mechanics/CLI/spells/entangle-xphb.md)
+**1/day each:** [calm emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [dispel evil and good](/Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [entangle](/Mechanics/CLI/spells/entangle-xphb.md)
 
-***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Charge.*** If the unicorn moves at least 20 feet straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (`2d8`) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Magic Resistance.*** The unicorn has advantage on saving throws against spells and other magical effects.
 
@@ -124,7 +139,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the unicorn
 Transformed by the creature's celestial presence, the domain of a unicorn might include any of the following magical effects:
 
 - Open flames of a non magical nature are extinguished within the unicorn's domain. Torches and campfires refuse to burn, but closed lanterns are unaffected.  
-- Creatures native to the unicorn's domain have an easier time hiding; they have advantage on all Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide.  
+- Creatures native to the unicorn's domain have an easier time hiding; they have advantage on all Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide.  
 - When a good-aligned creature casts a spell or uses a magical effect that causes another good-aligned creature to regain hit points, the target regains the maximum number of hit points possible for the spell or effect.  
 - Curses affecting any good-aligned creature are suppressed.  
 
@@ -136,3 +151,7 @@ If the unicorn dies, these effects end immediately.
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 294. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

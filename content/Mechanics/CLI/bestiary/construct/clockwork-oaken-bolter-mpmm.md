@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Clockwork Oaken Bolter
-created: 2026-03-09T12:15:33.894-04:00
-modified: 2026-03-09T12:15:33.894-04:00
-published: 2026-03-09T12:15:33.894-04:00
+created: 2026-03-29T21:53:55.893-04:00
+modified: 2026-03-29T21:53:55.893-04:00
+published: 2026-03-29T21:53:55.893-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Clockwork Oaken Bolter (MPMM)
+ac: 16
+hp: 117
+modifier: 4
+hit_dice: 18d8 + 36
+cr: "5"
+stats:
+  - 12
+  - 18
+  - 15
+  - 3
+  - 10
+  - 1
+source:
+  - MPMM
 ---
 
 # Clockwork Oaken Bolter
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 80_\
 ![](Mechanics/CLI/bestiary/construct/img/clockwork-oaken-bolter.webp#right)
-
 No ordinary ballista, an oaken bolter is a Construct capable of striking at long distances. The bolts it launches can rend flesh, destroy armor, or drag enemies toward traps or melee-oriented clockworks—and at shorter ranges, burst with explosive force.
 
 ## Clockworks
@@ -38,8 +53,8 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d10 | Enhancement |
 |-----------|-------------|
-| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](Mechanics/CLI/rules/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
-| 2 | **Sensors.** The range of the clockwork's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](Mechanics/CLI/rules/skills.md#Perception) if it lacks that proficiency. |
+| 1 | **Camouflaged.** The clockwork gains proficiency in [Stealth](/Mechanics/CLI/skills.md#Stealth) if it lacks that proficiency. While motionless, it is indistinguishable from a stopped machine. |
+| 2 | **Sensors.** The range of the clockwork's [darkvision](/Mechanics/CLI/senses.md#Darkvision) increases by 60 feet, and it gains proficiency in [Perception](/Mechanics/CLI/skills.md#Perception) if it lacks that proficiency. |
 | 3 | **Fortified.** The clockwork's AC increases by 2. |
 | 4 | **Increased Speed.** The clockwork's speed increases by 10 feet. |
 | 5 | **Reinforced Construction.** The clockwork has resistance to force, lightning, and thunder damage. |
@@ -54,13 +69,13 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 | dice: d8 | Malfunction |
 |----------|-------------|
-| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the end of its turn. |
+| 1 | **Faulty Sensors.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork is [blinded](/Mechanics/CLI/conditions.md#Blinded) until the end of its turn. |
 | 2 | **Flawed Targeting.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork makes attack rolls with disadvantage until the end of its turn. |
 | 3 | **Ground Fault.** The clockwork has vulnerability to lightning damage. |
 | 4 | **Imprinting Loop.** Roll a `d6` at the start of the clock work's turn. If you roll a 1, the clockwork mistakes one creature it can see within 30 feet for its creator. The clockwork won't willingly harm that creature for 1 minute or until that creature attacks or dam ages it. |
 | 5 | **Limited Steering.** The clockwork must move in a straight line. It can turn up to 90 degrees before moving and again at the midpoint of its movement. It can rotate freely if it doesn't use any of its speeds on its turn. |
 | 6 | **Overactive Sense of Self-Preservation.** If the clock work has half its hit points or fewer at the start of its turn in combat, roll a `d6`. If you roll a 1, it retreats from combat if possible. It otherwise keeps fighting. |
-| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) until the end of its turn. |
+| 7 | **Overheats.** Roll a `d6` at the start of the clockwork's turn. If you roll a 1, the clockwork is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) until the end of its turn. |
 | 8 | **Rusty Gears.** The clockwork has disadvantage on initiative rolls, and its speed decreases by 10 feet. |
 ^clockwork-malfunctions
 
@@ -68,11 +83,11 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
 
 ```ad-statblock
 title: Clockwork Oaken Bolter
-![](Mechanics/CLI/bestiary/construct/token/clockwork-oaken-bolter-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/clockwork-oaken-bolter-mpmm.webp#token)
 *Medium construct, Unaligned*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 117 (`18d8 + 36`) 
+- **Hit Points** 117 (18d8 + 36) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -82,9 +97,9 @@ title: Clockwork Oaken Bolter
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands one language of its creator but can't speak
 - **Challenge** 5
 
@@ -100,13 +115,13 @@ title: Clockwork Oaken Bolter
 
 ***Lancing Bolt.*** *Melee  or Ranged Weapon Attack:* `+7` to hit, reach 5 ft. or range 100/400 ft., one target. *Hit:* 15 (`2d10 + 4`) piercing damage.
 
-***Harpoon.*** *Ranged Weapon Attack:* `+7` to hit, range 50/200 ft., one target. *Hit:* 9 (`1d10 + 4`) piercing damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 12). While [grappled](Mechanics/CLI/rules/conditions.md#Grappled) in this way, a creature's speed isn't reduced, but it can move only in directions that bring it closer to the clockwork. A creature takes 5 (`1d10`) slashing damage if it escapes from the grapple or if it tries and fails. The clockwork can grapple only one creature at a time with its harpoon.
+***Harpoon.*** *Ranged Weapon Attack:* `+7` to hit, range 50/200 ft., one target. *Hit:* 9 (`1d10 + 4`) piercing damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 12). While [grappled](/Mechanics/CLI/conditions.md#Grappled) in this way, a creature's speed isn't reduced, but it can move only in directions that bring it closer to the clockwork. A creature takes 5 (`1d10`) slashing damage if it escapes from the grapple or if it tries and fails. The clockwork can grapple only one creature at a time with its harpoon.
 
 ***Explosive Bolt (Recharge 5-6).*** The clockwork launches an explosive charge at a point within 120 feet. Each creature in a 20-foot-radius sphere centered on that point must make a DC 15 Dexterity saving throw, taking 17 (`5d6`) fire damage on a failed save, or half as much damage on a successful one.
 
 ## Bonus Actions
 
-***Reel In.*** The clockwork pulls the creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by its Harpoon up to 20 feet closer.
+***Reel In.*** The clockwork pulls the creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by its Harpoon up to 20 feet closer.
 ```
 
 ^statblock
@@ -114,3 +129,7 @@ title: Clockwork Oaken Bolter
 ## Environment
 
 forest, grassland, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 80_

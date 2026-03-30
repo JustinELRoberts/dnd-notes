@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fraz-Urb'luu
-created: 2026-03-09T12:15:34.026-04:00
-modified: 2026-03-09T12:15:34.026-04:00
-published: 2026-03-09T12:15:34.026-04:00
+created: 2026-03-29T21:53:56.036-04:00
+modified: 2026-03-29T21:53:56.036-04:00
+published: 2026-03-29T21:53:56.036-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/23
@@ -13,20 +13,35 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fraz-Urb'luu (MPMM)
+ac: 18
+hp: 337
+modifier: 1
+hit_dice: 27d10 + 189
+cr: "23"
+stats:
+  - 29
+  - 12
+  - 25
+  - 26
+  - 24
+  - 26
+source:
+  - MPMM
 ---
 
 # Fraz-Urb'luu
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 129_\
 ![](Mechanics/CLI/bestiary/npc/img/fraz-urbluu.webp#right)
+Fraz-Urb'luu is the Prince of [Deception](/Mechanics/CLI/skills.md#Deception) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
 
-Fraz-Urb'luu is the Prince of [Deception](Mechanics/CLI/rules/skills.md#Deception) and Demon Lord of Illusions. He uses every trick, every ounce of demonic cunning, to manipulate his enemies—mortal and Fiend alike—to do his will. Fraz-Urb'luu can create dreamlands and mind-bending fantasies able to deceive the most discerning foes.
+Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary [staff of power](/Mechanics/CLI/items/staff-of-power.md) taken from him by those who imprisoned him and commands his servants to do likewise.
 
-Once imprisoned for centuries below Castle Greyhawk on the world of Oerth, Fraz-Urb'luu has slowly rebuilt his power in the Abyss. He seeks the pieces of the legendary [staff of power](Mechanics/CLI/items/staff-of-power.md) taken from him by those who imprisoned him and commands his servants to do likewise.
+The Prince of [Deception](/Mechanics/CLI/skills.md#Deception)'s true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
 
-The Prince of [Deception](Mechanics/CLI/rules/skills.md#Deception)'s true form is like that of a great gargoyle, some 12 feet tall, with an extended, muscular neck; a smiling face framed by long, pointed ears and lank, dark hair; and bat-like wings are furled against his powerful shoulders. He can assume other forms, however, from the hideous to the beautiful.
-
-Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of [Deception](Mechanics/CLI/rules/skills.md#Deception), believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb'luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
+Many of the cultists of Fraz-Urb'luu aren't even aware they serve the Prince of [Deception](/Mechanics/CLI/skills.md#Deception), believing their master is a beneficent being and granter of wishes, some lost god or Celestial, or even another Fiend. Fraz-Urb'luu wears all these masks and more. He particularly delights in aiding demon-hunters against his demonic adversaries, driving the hunters to greater and greater atrocities in the name of their cause, only to eventually reveal his true nature and claim their souls as his own.
 
 ## Cultists of Fraz-Urb'luu
 
@@ -43,11 +58,11 @@ The challenge rating of Fraz-Urb'luu is 24 (62,000 XP) when he's encountered in 
 
 ```ad-statblock
 title: Fraz-Urb'luu
-![](Mechanics/CLI/bestiary/npc/token/fraz-urbluu-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/npc/token/fraz-urbluu-mpmm.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 337 (`27d10 + 189`) 
+- **Hit Points** 337 (27d10 + 189) 
 - **Speed** 40 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,11 +71,11 @@ title: Fraz-Urb'luu
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +8, Constitution +14, Intelligence +15, Wisdom +14
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +15, [Perception](Mechanics/CLI/rules/skills.md#Perception) +14, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 24
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +15, [Perception](/Mechanics/CLI/skills.md#Perception) +14, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 24
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison; bludgeoning, piercing, slashing that is nonmagical
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 23
 
@@ -80,21 +95,21 @@ title: Fraz-Urb'luu
 
 ***Fist.*** *Melee Weapon Attack:* `+16` to hit, reach 10 ft., one target. *Hit:* 22 (`3d8 + 9`) force damage.
 
-***Phantasmal Terror.*** Fraz-Urb'luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (`3d10`) psychic damage and is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of Fraz-Urb'luu until the end of its next turn.
+***Phantasmal Terror.*** Fraz-Urb'luu targets one creature he can see within 120 feet of him. The target must succeed on a DC 23 Wisdom saving throw, or it takes 16 (`3d10`) psychic damage and is [frightened](/Mechanics/CLI/conditions.md#Frightened) of Fraz-Urb'luu until the end of its next turn.
 
 ***Spellcasting.*** Fraz-Urb'luu casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 
-**At will:** [alter self](Mechanics/CLI/spells/alter-self-xphb.md) (can become Medium when changing his appearance), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [phantasmal force](Mechanics/CLI/spells/phantasmal-force-xphb.md)
+**At will:** [alter self](/Mechanics/CLI/spells/alter-self-xphb.md) (can become Medium when changing his appearance), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [phantasmal force](/Mechanics/CLI/spells/phantasmal-force-xphb.md)
 
-**3/day each:** [mislead](Mechanics/CLI/spells/mislead-xphb.md), [programmed illusion](Mechanics/CLI/spells/programmed-illusion-xphb.md), [seeming](Mechanics/CLI/spells/seeming-xphb.md)
+**3/day each:** [mislead](/Mechanics/CLI/spells/mislead-xphb.md), [programmed illusion](/Mechanics/CLI/spells/programmed-illusion-xphb.md), [seeming](/Mechanics/CLI/spells/seeming-xphb.md)
 
-**1/day each:** [modify memory](Mechanics/CLI/spells/modify-memory-xphb.md), [project image](Mechanics/CLI/spells/project-image-xphb.md)
+**1/day each:** [modify memory](/Mechanics/CLI/spells/modify-memory-xphb.md), [project image](/Mechanics/CLI/spells/project-image-xphb.md)
 
 ## Legendary Actions
 
 Legendary Action Uses: 3. Immediately after another creature's turn, Fraz-Urb'luu can expend a use to take one of the following actions. Fraz-Urb'luu regains all expended uses at the start of each of their turns.
 
-***Tail.*** *Melee Weapon Attack:* `+16` to hit, reach 15 ft., one target. *Hit:* 20 (`2d10 + 9`) force damage. If the target is a Large or smaller creature, it is also [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 24), and it is [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the grapple ends. Fraz-Urb'luu can grapple only one creature with his tail at a time.
+***Tail.*** *Melee Weapon Attack:* `+16` to hit, reach 15 ft., one target. *Hit:* 20 (`2d10 + 9`) force damage. If the target is a Large or smaller creature, it is also [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 24), and it is [restrained](/Mechanics/CLI/conditions.md#Restrained) until the grapple ends. Fraz-Urb'luu can grapple only one creature with his tail at a time.
 
 ***Terror (Costs 2 Actions).*** Fraz-Urb'luu uses Phantasmal Terror.
 
@@ -104,13 +119,13 @@ On initiative count 20 (losing initiative ties), Fraz-Urb'luu can take one of th
 
 - **Conjure Walls and Doors.** Fraz-Urb'luu causes up to five doors within the lair to become walls and an equal number of doors to appear on walls where there previously were none.  
 - **Psychic Anguish.** Fraz-Urb'luu creates a wave of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (`6d10`) psychic damage.  
-- **Simulacrum.** Fraz-Urb'luu chooses one Humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [simulacrum](Mechanics/CLI/spells/simulacrum-xphb.md) spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.  
+- **Simulacrum.** Fraz-Urb'luu chooses one Humanoid within the lair and instantly creates a simulacrum of that creature (as if created with the [simulacrum](/Mechanics/CLI/spells/simulacrum-xphb.md) spell). This simulacrum obeys Fraz-Urb'luu's commands and is destroyed on the next initiative count 20.  
 
 ## Regional Effects
 
 The region containing Fraz-Urb'luu's lair is warped by his magic, creating one or more of the following effects:
 
-- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) and Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) checks have disadvantage, and all Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) and Charisma ([Performance](Mechanics/CLI/rules/skills.md#Performance)) checks have advantage.  
+- **Beguiling Realm.** Within 6 miles of the lair, all Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) and Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) checks have disadvantage, and all Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) and Charisma ([Performance](/Mechanics/CLI/skills.md#Performance)) checks have advantage.  
 - **Nostalgic Pangs.** Sapient creatures within 1 mile of the lair frequently see hallucinations of long-dead friends and comrades that vanish after only a brief glimpse.  
 - **Twisted Paths.** Roads and paths within 6 miles of the lair twist and turn back on themselves, making navigation in the area exceedingly difficult.  
 
@@ -118,3 +133,7 @@ If Fraz-Urb'luu dies, these effects fade over the course of `1d10` days.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 129_

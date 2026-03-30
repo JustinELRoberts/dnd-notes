@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Tsunami
-created: 2026-03-09T12:15:34.010-04:00
-modified: 2026-03-09T12:15:34.010-04:00
-published: 2026-03-09T12:15:34.010-04:00
+created: 2026-03-29T21:53:56.017-04:00
+modified: 2026-03-29T21:53:56.017-04:00
+published: 2026-03-29T21:53:56.017-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/8th-level
   - ttrpg-cli/spell/school/conjuration
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
 ---
 
 # Tsunami
@@ -34,8 +32,14 @@ When the wall appears, each creature in its area makes a Strength saving throw, 
 
 At the start of each of your turns after the wall appears, the wall, along with any creatures in it, moves 50 feet away from you. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a Strength saving throw or take `5d10` Bludgeoning damage. A creature can take this damage only once per round. At the end of the turn, the wall's height is reduced by 50 feet, and the damage the wall deals on later rounds is reduced by `1d10`. When the wall reaches 0 feet in height, the spell ends.
 
-A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
+A creature caught in the wall can move by swimming. Because of the wave's force, though, the creature must succeed on a Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) check against your spell save DC to move at all. If it fails the check, it can't move. A creature that moves out of the wall falls to the ground.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

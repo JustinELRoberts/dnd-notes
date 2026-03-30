@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Triceratops
-created: 2026-03-09T12:15:34.079-04:00
-modified: 2026-03-09T12:15:34.079-04:00
-published: 2026-03-09T12:15:34.079-04:00
+created: 2026-03-29T21:53:56.110-04:00
+modified: 2026-03-29T21:53:56.110-04:00
+published: 2026-03-29T21:53:56.110-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Triceratops
+ac: 13
+hp: 95
+modifier: -1
+hit_dice: 10d12 + 30
+cr: "5"
+stats:
+  - 22
+  - 9
+  - 17
+  - 2
+  - 11
+  - 5
+source:
+  - MM
 ---
 
 # Triceratops
 
-_Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/dinosaurs.webp#right)
-
 One of the most aggressive of the herbivorous dinosaurs, a triceratops has a skull that flares out to form a protective plate of bone. With its great horns and formidable speed, a triceratops gores and tramples would-be predators to death.
 
 ## Dinosaurs
@@ -33,11 +48,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Triceratops
-![](Mechanics/CLI/bestiary/beast/token/triceratops.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/triceratops.webp#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 95 (`10d12 + 30`) 
+- **Hit Points** 95 (10d12 + 30) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,13 +68,13 @@ title: Triceratops
 
 ## Traits
 
-***Trampling Charge.*** If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). If the target is [prone](Mechanics/CLI/rules/conditions.md#Prone), the triceratops can make one stomp attack against it as a bonus action.
+***Trampling Charge.*** If the triceratops moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone). If the target is [prone](/Mechanics/CLI/conditions.md#Prone), the triceratops can make one stomp attack against it as a bonus action.
 
 ## Actions
 
 ***Gore.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 24 (`4d8 + 6`) piercing damage.
 
-***Stomp.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one [prone](Mechanics/CLI/rules/conditions.md#Prone) creature. *Hit:* 22 (`3d10 + 6`) bludgeoning damage.
+***Stomp.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one [prone](/Mechanics/CLI/conditions.md#Prone) creature. *Hit:* 22 (`3d10 + 6`) bludgeoning damage.
 ```
 
 ^statblock
@@ -67,3 +82,7 @@ title: Triceratops
 ## Environment
 
 grassland
+
+## Sources
+
+_Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

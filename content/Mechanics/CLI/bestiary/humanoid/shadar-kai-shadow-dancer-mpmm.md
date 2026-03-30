@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shadar-kai Shadow Dancer
-created: 2026-03-09T12:15:33.873-04:00
-modified: 2026-03-09T12:15:33.873-04:00
-published: 2026-03-09T12:15:33.873-04:00
+created: 2026-03-29T21:53:55.665-04:00
+modified: 2026-03-29T21:53:55.665-04:00
+published: 2026-03-29T21:53:55.665-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shadar-kai Shadow Dancer (MPMM)
+ac: 15
+hp: 71
+modifier: 3
+hit_dice: 13d8 + 13
+cr: "7"
+stats:
+  - 12
+  - 16
+  - 13
+  - 11
+  - 12
+  - 12
+source:
+  - MPMM
 ---
 
 # Shadar-kai Shadow Dancer
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 213_\
 ![](Mechanics/CLI/bestiary/humanoid/img/shadar-kai-shadow-dancer.webp#right)
-
 Those who have fought shadow dancers describe the experience as similar to fighting a living darkness. Every dim alcove and darkened nook is a place the lithe and acrobatic shadow dancers can emerge from to ambush their prey. Using this tactic, they attack their enemies from all angles with a flurry of entangling chains that hold fast and corrupt the flesh. When their quarry is helpless, they dispatch it and then loot the corpse for trinkets, particularly anything colorful and lively to gaze at after they return to the gloom of the Shadowfell.
 
 ## Shadar-kai
@@ -45,11 +60,11 @@ Shadar-kai encountered outside the Shadowfell are often on quests to find the mo
 
 ```ad-statblock
 title: Shadar-kai Shadow Dancer
-![](Mechanics/CLI/bestiary/humanoid/token/shadar-kai-shadow-dancer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/shadar-kai-shadow-dancer-mpmm.webp#token)
 *Medium humanoid (elf), Any alignment*
 
-- **Armor Class** 15 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 71 (`13d8 + 13`) 
+- **Armor Class** 15 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 71 (13d8 + 13) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,16 +73,16 @@ title: Shadar-kai Shadow Dancer
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Charisma +4
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** necrotic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion)
 - **Languages** Common, Elvish
 - **Challenge** 7
 
 ## Traits
 
-***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put it to sleep.
+***Fey Ancestry.*** The shadar-kai has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put it to sleep.
 
 ## Actions
 
@@ -78,8 +93,8 @@ It can use Shadow Jump after one of these attacks.
 ***Spiked Chain.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage. The target must succeed on a DC 14 Dexterity saving throw or suffer one of the following effects (choose one or roll a `d6`):
 
 - **1–2 Decay.** The target takes 22 (`4d10`) necrotic damage.  
-- **3–4 Grapple.** The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the shadar-kai can't grapple another target.  
-- **5–6 Topple.** The target is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
+- **3–4 Grapple.** The target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the shadar-kai can't grapple another target.  
+- **5–6 Topple.** The target is knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
 
 ## Bonus Actions
 
@@ -91,3 +106,7 @@ It can use Shadow Jump after one of these attacks.
 ## Environment
 
 forest, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 213_

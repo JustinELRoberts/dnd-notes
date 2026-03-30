@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Earthquake
-created: 2026-03-09T12:15:33.814-04:00
-modified: 2026-03-09T12:15:33.814-04:00
-published: 2026-03-09T12:15:33.814-04:00
+created: 2026-03-29T21:53:55.598-04:00
+modified: 2026-03-29T21:53:55.598-04:00
+published: 2026-03-29T21:53:55.598-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/sorcerer
@@ -18,12 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Earthquake
@@ -35,9 +30,9 @@ _8th-level, Transmutation_
 - **Components:** V, S, M (a fractured rock)
 - **Duration:** Concentration, up to 1 minute
 
-Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).
+Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).
 
-When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition, and its [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken.
+When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition, and its [Concentration](/Mechanics/CLI/conditions.md#Concentration) is broken.
 
 You can also cause the effects below.
 
@@ -47,12 +42,23 @@ A total of `1d6` fissures open in the spell's area at the end of the turn you ca
 
 ## Structures
 
-The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), it collapses.
+The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), it collapses.
 
-A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition, and is buried in the rubble, requiring a DC 20 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check as an action to escape. On a successful save, the creature takes half as much damage only.
+A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition, and is buried in the rubble, requiring a DC 20 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
 ## Summary
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

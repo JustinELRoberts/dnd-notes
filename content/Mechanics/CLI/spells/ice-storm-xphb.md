@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Ice Storm
-created: 2026-03-09T12:15:34.049-04:00
-modified: 2026-03-09T12:15:34.049-04:00
-published: 2026-03-09T12:15:34.049-04:00
+created: 2026-03-29T21:53:56.061-04:00
+modified: 2026-03-29T21:53:56.061-04:00
+published: 2026-03-29T21:53:56.061-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
@@ -16,6 +17,7 @@ tags:
   - ttrpg-cli/spell/school/evocation
   - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/artillerist
+  - ttrpg-cli/spell/subclass/circle-of-the-land/arctic
   - ttrpg-cli/spell/subclass/circle-of-the-land/polar-land
   - ttrpg-cli/spell/subclass/circle-of-the-sea
   - ttrpg-cli/spell/subclass/drake-blooded
@@ -25,25 +27,10 @@ tags:
   - ttrpg-cli/spell/subclass/oath-of-the-ancients
   - ttrpg-cli/spell/subclass/red-magic
   - ttrpg-cli/spell/subclass/sky-magic
+  - ttrpg-cli/spell/subclass/tempest-domain
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Artillerist)
-  - Bard
-  - Druid
-  - Druid (Circle of the Land, Polar Land)
-  - Druid (Circle of the Sea)
-  - Fighter (Eldritch Knight)
-  - Paladin (Oath of the Ancients)
-  - Rogue (Arcane Trickster)
-  - Sorcerer
-  - Warden (Drake-Blooded)
-  - Warmage (House of Bishops)
-  - Witch (Red Magic)
-  - Witch (Sky Magic)
-  - Wizard
-  - Wizard (Evoker)
 ---
 
 # Ice Storm
@@ -55,12 +42,40 @@ _4th-level, Evocation_
 - **Components:** V, S, M (a mitten)
 - **Duration:** Instantaneous
 
-Hail falls in a 20-foot-radius, 40-foot-high [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md) centered on a point within range. Each creature in the [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md) makes a Dexterity saving throw. A creature takes `2d10` Bludgeoning damage and `4d6` Cold damage on a failed save or half as much damage on a successful one.
+Hail falls in a 20-foot-radius, 40-foot-high [Cylinder](/Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md) centered on a point within range. Each creature in the [Cylinder](/Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md) makes a Dexterity saving throw. A creature takes `2d10` Bludgeoning damage and `4d6` Cold damage on a failed save or half as much damage on a successful one.
 
-Hailstones turn ground in the [Cylinder](Mechanics/CLI/rules/variant-rules/cylinder-area-of-effect-xphb.md) into [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) until the end of your next turn.
+Hailstones turn ground in the [Cylinder](/Mechanics/CLI/variant-rules/cylinder-area-of-effect-xphb.md) into [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) until the end of your next turn.
 
 **Using a Higher-Level Spell Slot.** The Bludgeoning damage increases by `1d10` for each spell slot level above 4.
 
-**Classes**: [Artificer (Artillerist)](Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid (Circle of the Land, Polar Land)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB"); [Druid (Circle of the Sea)](Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Ancients)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warden (Drake-Blooded)](Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Red Magic)](Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Sky Magic)](Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Witch (Red Magic)](/Mechanics/CLI/lists/list-spells-classes-red-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Paladin (Oath of the Ancients)](/Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients.md)
+- [Artificer (Artillerist)](/Mechanics/CLI/lists/list-spells-classes-artillerist-tce.md "subclass=TCE;class=TCE")
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Druid (Circle of the Land, Polar Land)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land-xphb.md "subclass=XPHB;class=XPHB")
+- [Artificer (Artillerist)](/Mechanics/CLI/lists/list-spells-classes-artillerist-efa.md "subclass=EFA;class=EFA")
+- [Wizard (Evoker)](/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Arctic)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md "class=XPHB")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Cleric (Tempest Domain)](/Mechanics/CLI/lists/list-spells-classes-tempest-domain.md "class=XPHB")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Arctic)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md)
+- [Paladin (Oath of the Ancients)](/Mechanics/CLI/lists/list-spells-classes-oath-of-the-ancients-xphb.md "subclass=XPHB;class=XPHB")
+- [Witch (Sky Magic)](/Mechanics/CLI/lists/list-spells-classes-sky-magic-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Cleric (Tempest Domain)](/Mechanics/CLI/lists/list-spells-classes-tempest-domain.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Sea)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Warden (Drake-Blooded)](/Mechanics/CLI/lists/list-spells-classes-drake-blooded-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+
+## Sources
+
+_Player's Handbook (2024) p. 287. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

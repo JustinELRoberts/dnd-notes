@@ -2,27 +2,23 @@
 publish: true
 aliases:
   - Scrutinize Foe
-created: 2026-03-09T12:15:33.984-04:00
-modified: 2026-03-09T12:15:33.984-04:00
-published: 2026-03-09T12:15:33.984-04:00
+created: 2026-03-29T21:53:55.989-04:00
+modified: 2026-03-29T21:53:55.989-04:00
+published: 2026-03-29T21:53:55.989-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/investigator
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/4th-level
   - ttrpg-cli/spell/school/divination
+  - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/house-of-bishops
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Cleric
-  - Investigator
-  - Ranger
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Scrutinize Foe
@@ -34,8 +30,18 @@ _4th-level, Divination_
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You discern minute details concerning one creature you can see within range. You learn two of the following pieces of information of your choice about the target: its [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md), [Speeds](Mechanics/CLI/rules/variant-rules/speed-xphb.md), [Immunities](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) (if any), [Resistances](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) (if any), highest ability score, lowest ability score, and enchantments (which reveals which spells, if any, are currently affecting the target). The GM must share with you the chosen information.
+You discern minute details concerning one creature you can see within range. You learn two of the following pieces of information of your choice about the target: its [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md), [Speeds](/Mechanics/CLI/variant-rules/speed-xphb.md), [Immunities](/Mechanics/CLI/variant-rules/immunity-xphb.md) (if any), [Resistances](/Mechanics/CLI/variant-rules/resistance-xphb.md) (if any), highest ability score, lowest ability score, and enchantments (which reveals which spells, if any, are currently affecting the target). The GM must share with you the chosen information.
 
-**Classes**: [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Investigator](/Mechanics/CLI/lists/list-spells-classes-investigator.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

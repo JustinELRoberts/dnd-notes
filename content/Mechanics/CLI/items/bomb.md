@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bomb
-created: 2026-03-09T12:15:33.880-04:00
-modified: 2026-03-09T12:15:33.880-04:00
-published: 2026-03-09T12:15:33.880-04:00
+created: 2026-03-29T21:53:55.674-04:00
+modified: 2026-03-29T21:53:55.674-04:00
+published: 2026-03-29T21:53:55.674-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/renaissance
@@ -24,4 +24,6 @@ _Explosive_
 
 As an action, a character can light this bomb and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must succeed on a DC 12 Dexterity saving throw or take `3d6` fire damage.
 
-_Source: Dungeon Master's Guide p. 268_
+## Sources
+
+_Dungeon Master's Guide p. 268_

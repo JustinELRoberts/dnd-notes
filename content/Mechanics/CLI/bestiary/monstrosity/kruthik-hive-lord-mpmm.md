@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kruthik Hive Lord
-created: 2026-03-09T12:15:33.816-04:00
-modified: 2026-03-09T12:15:33.816-04:00
-published: 2026-03-09T12:15:33.816-04:00
+created: 2026-03-29T21:53:55.600-04:00
+modified: 2026-03-29T21:53:55.600-04:00
+published: 2026-03-29T21:53:55.600-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Kruthik Hive Lord (MPMM)
+ac: 20
+hp: 102
+modifier: 3
+hit_dice: 12d10 + 36
+cr: "5"
+stats:
+  - 19
+  - 16
+  - 17
+  - 10
+  - 14
+  - 10
+source:
+  - MPMM
 ---
 
 # Kruthik Hive Lord
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 169_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/kruthik-hive-lord.webp#right)
-
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
 
 ## Kruthiks
@@ -49,11 +64,11 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 ```ad-statblock
 title: Kruthik Hive Lord
-![](Mechanics/CLI/bestiary/monstrosity/token/kruthik-hive-lord-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/kruthik-hive-lord-mpmm.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 102 (`12d10 + 36`) 
+- **Hit Points** 102 (12d10 + 36) 
 - **Speed** 40 ft., burrow 20 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,14 +77,14 @@ title: Kruthik Hive Lord
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 18
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 18
 - **Languages** Kruthik
 - **Challenge** 5
 
 ## Traits
 
-***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
 
@@ -89,3 +104,7 @@ title: Kruthik Hive Lord
 ## Environment
 
 desert, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 169_

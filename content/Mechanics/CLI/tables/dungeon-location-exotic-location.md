@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dungeon Location; Exotic Location
-created: 2026-03-09T12:15:34.372-04:00
-modified: 2026-03-09T12:15:34.372-04:00
-published: 2026-03-09T12:15:34.372-04:00
+created: 2026-03-29T21:53:56.469-04:00
+modified: 2026-03-29T21:53:56.469-04:00
+published: 2026-03-29T21:53:56.469-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:
@@ -39,5 +39,5 @@ _Source: Dungeon Master's Guide p. 99_
 | 17 | In a volcano |
 | 18 | On the back of a Gargantuan living creature |
 | 19 | Sealed inside a magical dome of force |
-| 20 | Inside a [Mordenkainen's magnificent mansion](Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) |
+| 20 | Inside a [Mordenkainen's magnificent mansion](/Mechanics/CLI/spells/mordenkainens-magnificent-mansion-xphb.md) |
 ^exotic-location

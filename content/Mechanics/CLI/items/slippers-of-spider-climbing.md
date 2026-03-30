@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Slippers of Spider Climbing
-created: 2026-03-09T12:15:33.820-04:00
-modified: 2026-03-09T12:15:33.820-04:00
-published: 2026-03-09T12:15:33.820-04:00
+created: 2026-03-29T21:53:55.609-04:00
+modified: 2026-03-29T21:53:55.609-04:00
+published: 2026-03-29T21:53:55.609-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -20,6 +20,11 @@ obsidianUIMode: preview
 _Wondrous item, major, uncommon (requires attunement)_\
 ![](Mechanics/CLI/items/img/slippers-of-spider-climbing.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 While you wear these light shoes, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. You have a climbing speed equal to your walking speed. However, the slippers don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
 
-_Source: Dungeon Master's Guide p. 200. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 200. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

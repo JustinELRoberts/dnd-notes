@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Arcane Trickster
-created: 2026-03-09T12:15:34.017-04:00
-modified: 2026-03-09T12:15:34.017-04:00
-published: 2026-03-09T12:15:34.017-04:00
+created: 2026-03-29T21:53:56.026-04:00
+modified: 2026-03-29T21:53:56.026-04:00
+published: 2026-03-29T21:53:56.026-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/rogue/arcane-trickster
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Arcane Trickster
 
-_[Rogue](./rogue-xphb.md): Rogue Subclass_\
-_Source: Player's Handbook (2024) p. 132_
+_[Rogue](./rogue-xphb.md): Rogue Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -61,15 +60,15 @@ Some Rogues enhance their fine-honed skills of stealth and agility with spells, 
 
 You have learned to cast spells. See "chapter 7" for the rules on spellcasting. The information below details how you use those rules as an Arcane Trickster.
 
-**Cantrips.** You know three cantrips: [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md) and two other cantrips of your choice from the Wizard spell list (see that class's section for its list). [Mind Sliver](Mechanics/CLI/spells/mind-sliver-xphb.md) and [Minor Illusion](Mechanics/CLI/spells/minor-illusion-xphb.md) are recommended.
+**Cantrips.** You know three cantrips: [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md) and two other cantrips of your choice from the Wizard spell list (see that class's section for its list). [Mind Sliver](/Mechanics/CLI/spells/mind-sliver-xphb.md) and [Minor Illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md) are recommended.
 
-Whenever you gain a Rogue level, you can replace one of your cantrips, except [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md), with another Wizard cantrip of your choice.
+Whenever you gain a Rogue level, you can replace one of your cantrips, except [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md), with another Wizard cantrip of your choice.
 
 When you reach Rogue level 10, you learn another Wizard cantrip of your choice.
 
-**Spell Slots.** The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Slots.** The Arcane Trickster Spellcasting table shows how many spell slots you have to cast your level 1+ spells. You regain all expended spell slots when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Prepared Spells of 1st+ Level.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md), [Disguise Self](Mechanics/CLI/spells/disguise-self-xphb.md), and [Fog Cloud](Mechanics/CLI/spells/fog-cloud-xphb.md) are recommended.
+**Prepared Spells of 1st+ Level.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md), [Disguise Self](/Mechanics/CLI/spells/disguise-self-xphb.md), and [Fog Cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination.
 
@@ -77,24 +76,28 @@ The number of spells on your list increases as you gain Rogue levels, as shown i
 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Wizard spells.
 
-**Spellcasting Focus.** You can use an [Arcane Focus](Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
+**Spellcasting Focus.** You can use an [Arcane Focus](/Mechanics/CLI/items/arcane-focus-xphb.md) as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Wizard spells.
 
 ### Mage Hand Legerdemain (Level 3)
 
-When you cast [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md), you can cast it as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), and you can make the spectral hand [Invisible](Mechanics/CLI/rules/conditions.md#Invisible). You can control the hand as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), and through it, you can make Dexterity ([Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)) checks.
+When you cast [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md), you can cast it as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), and you can make the spectral hand [Invisible](/Mechanics/CLI/conditions.md#Invisible). You can control the hand as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), and through it, you can make Dexterity ([Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand)) checks.
 
 ### Magical Ambush (Level 9)
 
-If you have the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition when you cast a spell on a creature, it has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on any saving throw it makes against the spell on the same turn.
+If you have the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition when you cast a spell on a creature, it has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on any saving throw it makes against the spell on the same turn.
 
 ### Versatile Trickster (Level 13)
 
-You gain the ability to distract targets with your [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md). When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand.
+You gain the ability to distract targets with your [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md). When you use the Trip option of your Cunning Strike on a creature, you can also use that option on another creature within 5 feet of the spectral hand.
 
 ### Spell Thief (Level 17)
 
 You gain the ability to magically steal the knowledge of how to cast a spell from another spellcaster.
 
-Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.
+Immediately after a creature casts a spell that targets you or includes you in its area of effect, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to force the creature to make an Intelligence saving throw. The DC equals your spell save DC. On a failed save, you negate the spell's effect against you, and you steal the knowledge of the spell if it is at least level 1 and of a level you can cast (it doesn't need to be a Wizard spell). For the next 8 hours, you have the spell prepared. The creature can't cast it until the 8 hours have passed.
 
-Once you steal a spell with this feature, you can't use this feature again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you steal a spell with this feature, you can't use this feature again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Player's Handbook (2024) p. 132_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Redcap
-created: 2026-03-09T12:15:33.869-04:00
-modified: 2026-03-09T12:15:33.869-04:00
-published: 2026-03-09T12:15:33.869-04:00
+created: 2026-03-29T21:53:55.661-04:00
+modified: 2026-03-29T21:53:55.661-04:00
+published: 2026-03-29T21:53:55.661-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -16,13 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Redcap (MPMM)
+ac: 14
+hp: 45
+modifier: 1
+hit_dice: 6d6 + 24
+cr: "3"
+stats:
+  - 18
+  - 13
+  - 18
+  - 10
+  - 12
+  - 9
+source:
+  - MPMM
+  - VGM
 ---
 
 # Redcap
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188_\
 ![](Mechanics/CLI/bestiary/fey/img/redcap.webp#right)
-
 A redcap is a homicidal Fey creature born of blood lust. Redcaps, although small, have formidable strength, which they use to hunt and kill without hesitation or regret.
 
 In the Feywild, or where that plane touches the material world at a fey crossing, if a sentient creature acts on an intense desire for bloodshed, one or more redcaps might appear where the blood of a slain person soaks the ground. At first, new redcaps look like tiny bloodstained mushrooms just pushing their caps out of the soil. When moonlight shines on one of these caps, a creature that resembles a wizened and undersized gnome with a hunched back and a sinewy frame springs from the earth. The creature has a pointed leather cap, clothing of similar material, heavy iron boots, and a heavy bladed weapon. From the moment redcaps awaken, they desire only murder and carnage, and they constantly seek to satisfy these cravings.
@@ -37,11 +53,11 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 
 ```ad-statblock
 title: Redcap
-![](Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp#token)
 *Small fey, Typically  Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 45 (`6d6 + 24`) 
+- **Hit Points** 45 (6d6 + 24) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,14 +66,14 @@ title: Redcap
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** Common, Sylvan
 - **Challenge** 3
 
 ## Traits
 
-***Iron Boots.*** The redcap has disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks.
+***Iron Boots.*** The redcap has disadvantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks.
 
 ***Outsize Strength.*** While grappling, the redcap is considered to be Medium. Also, wielding a heavy weapon doesn't impose disadvantage on its attack rolls.
 
@@ -67,7 +83,7 @@ title: Redcap
 
 ***Wicked Sickle.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 9 (`2d4 + 4`) slashing damage.
 
-***Ironbound Pursuit.*** The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (`3d10 + 4`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Ironbound Pursuit.*** The redcap moves up to its speed to a creature it can see and kicks with its iron boots. The target must succeed on a DC 14 Dexterity saving throw or take 20 (`3d10 + 4`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -75,3 +91,7 @@ title: Redcap
 ## Environment
 
 forest, hill, swamp
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 208, Volo's Guide to Monsters p. 188_

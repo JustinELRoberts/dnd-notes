@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Angry Sorrowsworn
-created: 2026-03-09T12:15:33.901-04:00
-modified: 2026-03-09T12:15:33.901-04:00
-published: 2026-03-09T12:15:33.901-04:00
+created: 2026-03-29T21:53:55.899-04:00
+modified: 2026-03-29T21:53:55.899-04:00
+published: 2026-03-29T21:53:55.899-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/13
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Angry Sorrowsworn (MPMM)
+ac: 18
+hp: 255
+modifier: 0
+hit_dice: 30d8 + 120
+cr: "13"
+stats:
+  - 17
+  - 10
+  - 19
+  - 8
+  - 13
+  - 6
+source:
+  - MPMM
 ---
 
 # Angry Sorrowsworn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 222_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/angry-sorrowsworn.webp#right)
-
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
 
 ## Sorrowsworn
@@ -32,11 +47,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Angry Sorrowsworn
-![](Mechanics/CLI/bestiary/monstrosity/token/angry-sorrowsworn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/angry-sorrowsworn-mpmm.webp#token)
 *Medium monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 255 (`30d8 + 120`) 
+- **Hit Points** 255 (30d8 + 120) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,15 +60,15 @@ title: Angry Sorrowsworn
 
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +11
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 21
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 21
 - **Damage Resistances** bludgeoning, piercing, slashing while in dim light or darkness
 - **Languages** Common
 - **Challenge** 13
 
 ## Traits
 
-***Two Heads.*** The sorrowsworn has advantage on saving throws against being [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [stunned](Mechanics/CLI/rules/conditions.md#Stunned), or knocked [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious).
+***Two Heads.*** The sorrowsworn has advantage on saving throws against being [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened), [stunned](/Mechanics/CLI/conditions.md#Stunned), or knocked [unconscious](/Mechanics/CLI/conditions.md#Unconscious).
 
 ***Rising Anger.*** If another creature deals damage to the sorrowsworn, the sorrowsworn's attack rolls have advantage until the end of its next turn, and the first time it hits with a Hook attack on its next turn, the attack's target takes an extra 19 (`3d12`) psychic damage.
 
@@ -71,3 +86,7 @@ On its turn, the sorrowsworn has disadvantage on attack rolls if no other creatu
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 222_

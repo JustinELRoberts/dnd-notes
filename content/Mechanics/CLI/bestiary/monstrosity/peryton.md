@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Peryton
-created: 2026-03-09T12:15:33.819-04:00
-modified: 2026-03-09T12:15:33.819-04:00
-published: 2026-03-09T12:15:33.819-04:00
+created: 2026-03-29T21:53:55.607-04:00
+modified: 2026-03-29T21:53:55.607-04:00
+published: 2026-03-29T21:53:55.607-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Peryton
+ac: 13
+hp: 33
+modifier: 1
+hit_dice: 6d8 + 6
+cr: "2"
+stats:
+  - 16
+  - 12
+  - 13
+  - 9
+  - 12
+  - 10
+source:
+  - MM
 ---
 
 # Peryton
 
-_Source: Monster Manual p. 251_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/peryton.webp#right)
-
 Although this monstrous carnivore feeds on any creature, it prefers humanoids, especially elves, half-elves, and humans. When it kills a humanoid, a peryton rips out its prey's heart and takes it back to its nest to be devoured.
 
 The peryton is a bizarre creature that blends the body and wings of a bird of prey with the head of a stag. Its strangest feature is its shadow, which appears humanoid rather than reflecting the creature's physical form. Sages postulate that the first perytons were humans transformed by a hideous curse or magical experiment, but bards tell a different tale of a man whose infidelity caused his scorned wife to cut out the heart of her younger, more beautiful rival and consume it in a ritual intended to forever win her husband's heart. The ritual succeeded until the woman's villainy was exposed. She was hanged for her crime, but the lingering magic of her foul ritual caused the carrion birds that feasted on her corpse to transform into the first perytons.
@@ -42,11 +57,11 @@ Established settlements are attractive to perytons as a renewable food source. A
 
 ```ad-statblock
 title: Peryton
-![](Mechanics/CLI/bestiary/monstrosity/token/peryton.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/peryton.webp#token)
 *Medium monstrosity, Chaotic Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 20 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,7 +70,7 @@ title: Peryton
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
 - **Senses** passive Perception 15
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Languages** understands Common and Elvish but can't speak
@@ -67,7 +82,7 @@ title: Peryton
 
 ***Flyby.*** The peryton doesn't provoke an opportunity attack when it flies out of an enemy's reach.
 
-***Keen Sight and Smell.*** The peryton has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight or smell.
+***Keen Sight and Smell.*** The peryton has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight or smell.
 
 ## Actions
 
@@ -83,3 +98,7 @@ title: Peryton
 ## Environment
 
 mountain, hill
+
+## Sources
+
+_Monster Manual p. 251_

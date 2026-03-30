@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mimic
-created: 2026-03-09T12:15:33.913-04:00
-modified: 2026-03-09T12:15:33.913-04:00
-published: 2026-03-09T12:15:33.913-04:00
+created: 2026-03-29T21:53:55.916-04:00
+modified: 2026-03-29T21:53:55.916-04:00
+published: 2026-03-29T21:53:55.916-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mimic
+ac: 12
+hp: 58
+modifier: 1
+hit_dice: 9d8 + 18
+cr: "2"
+stats:
+  - 17
+  - 12
+  - 15
+  - 5
+  - 13
+  - 8
+source:
+  - MM
 ---
 
 # Mimic
 
-_Source: Monster Manual p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/mimic.webp#right)
-
 Mimics are shapeshifting predators able to take on the form of inanimate objects to lure creatures to their doom. In dungeons, these cunning creatures most often take the form of doors and chests, having learned that such forms attract a steady stream of prey.
 
 ## Imitative Predators
@@ -42,11 +57,11 @@ Mimics live and hunt alone, though they occasionally share their feeding grounds
 
 ```ad-statblock
 title: Mimic
-![](Mechanics/CLI/bestiary/monstrosity/token/mimic.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/mimic.webp#token)
 *Medium monstrosity (shapechanger), Neutral*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 58 (`9d8 + 18`) 
+- **Hit Points** 58 (9d8 + 18) 
 - **Speed** 15 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,10 +70,10 @@ title: Mimic
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Immunities** acid
-- **Condition Immunities** [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 2
 
@@ -66,11 +81,11 @@ title: Mimic
 
 ***Shapechanger.*** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.
+***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also [grappled](/Mechanics/CLI/conditions.md#Grappled) by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.
 
 ***False Appearance (Object Form Only).*** While the mimic remains motionless, it is indistinguishable from an ordinary object.
 
-***Grappler.*** The mimic has advantage on attack rolls against any creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it.
+***Grappler.*** The mimic has advantage on attack rolls against any creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by it.
 
 ## Actions
 
@@ -84,3 +99,7 @@ title: Mimic
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 220. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

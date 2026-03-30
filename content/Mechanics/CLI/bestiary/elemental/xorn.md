@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Xorn
-created: 2026-03-09T12:15:34.132-04:00
-modified: 2026-03-09T12:15:34.132-04:00
-published: 2026-03-09T12:15:34.132-04:00
+created: 2026-03-29T21:53:56.179-04:00
+modified: 2026-03-29T21:53:56.179-04:00
+published: 2026-03-29T21:53:56.179-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Xorn
+ac: 19
+hp: 73
+modifier: 0
+hit_dice: 7d8 + 42
+cr: "5"
+stats:
+  - 17
+  - 10
+  - 22
+  - 11
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Xorn
 
-_Source: Monster Manual p. 304. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/elemental/img/xorn.webp#right)
-
 Bizarre creatures native to the Elemental Plane of Earth, xorn sniff out gemstones and precious metals, then tunnel through earth and rock to consume those treasures. On the Material Plane, xorn must range far and wide through the Underdark to sustain themselves, becoming aggressive toward miners and treasure hunters when the valuable minerals of their diet are scarce.
 
 A xorn's unnatural origins are suggested by its unusually heavy body and the large, powerful mouth sitting atop its head. Its three long arms are each tipped with sharp talons, and its three large, stone-lidded eyes see in all directions.
@@ -37,11 +52,11 @@ Possessed of the power of elemental earth, a xorn glides through stone and dirt 
 
 ```ad-statblock
 title: Xorn
-![](Mechanics/CLI/bestiary/elemental/token/xorn.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/xorn.webp#token)
 *Medium elemental, Neutral*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 73 (`7d8 + 42`) 
+- **Hit Points** 73 (7d8 + 42) 
 - **Speed** 20 ft., burrow 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,8 +65,8 @@ title: Xorn
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 16
 - **Damage Resistances** piercing, slashing from nonmagical attacks that aren't adamantine
 - **Languages** Terran
 - **Challenge** 5
@@ -60,7 +75,7 @@ title: Xorn
 
 ***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
 
-***Stone Camouflage.*** The xorn has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The xorn has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 
 ***Treasure Sense.*** The xorn can pinpoint, by scent, the location of precious metals and stones, such as coins and gems, within 60 feet of it.
 
@@ -78,3 +93,7 @@ title: Xorn
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 304. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

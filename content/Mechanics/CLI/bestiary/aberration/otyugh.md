@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Otyugh
-created: 2026-03-09T12:15:33.928-04:00
-modified: 2026-03-09T12:15:33.929-04:00
-published: 2026-03-09T12:15:33.929-04:00
+created: 2026-03-29T21:53:55.932-04:00
+modified: 2026-03-29T21:53:55.932-04:00
+published: 2026-03-29T21:53:55.932-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Otyugh
+ac: 14
+hp: 114
+modifier: 0
+hit_dice: 12d10 + 48
+cr: "5"
+stats:
+  - 16
+  - 11
+  - 19
+  - 6
+  - 13
+  - 6
+source:
+  - MM
 ---
 
 # Otyugh
 
-_Source: Monster Manual p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/aberration/img/otyugh.webp#right)
-
 An otyugh is a grotesque, bulbous creature borne along on three sturdy legs, its eyes and nose set along a vine-like stalk that snakes from the top of its bloated body. Two rubbery tentacles end in spiky, leaf-like appendages that the otyugh uses to shovel food into its gaping maw.
 
 An otyugh buries itself under mounds of offal and carrion, leaving only its sensory stalk exposed. When an edible creature happens by, the otyugh's tentacles erupt from the filth and grab hold of it.
@@ -41,11 +56,11 @@ Sentient subterranean beings can coexist with otyughs, employing them as garbage
 
 ```ad-statblock
 title: Otyugh
-![](Mechanics/CLI/bestiary/aberration/token/otyugh.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/otyugh.webp#token)
 *Large aberration, Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 114 (`12d10 + 48`) 
+- **Hit Points** 114 (12d10 + 48) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,7 +70,7 @@ title: Otyugh
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +7
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Languages** Otyugh
 - **Challenge** 5
 
@@ -67,11 +82,11 @@ title: Otyugh
 
 ***Multiattack.*** The otyugh makes three attacks: one with its bite and two with its tentacles.
 
-***Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (`1d10`) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.
+***Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 12 (`2d8 + 3`) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the disease is cured. Every 24 hours that elapse, the target must repeat the saving throw, reducing its hit point maximum by 5 (`1d10`) on a failure. The disease is cured on a success. The target dies if the disease reduces its hit point maximum to 0. This reduction to the target's hit point maximum lasts until the disease is cured.
 
-***Tentacle.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage plus 4 (`1d8`) piercing damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13) and [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until the grapple ends. The otyugh has two tentacles, each of which can grapple one target.
+***Tentacle.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage plus 4 (`1d8`) piercing damage. If the target is Medium or smaller, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 13) and [restrained](/Mechanics/CLI/conditions.md#Restrained) until the grapple ends. The otyugh has two tentacles, each of which can grapple one target.
 
-***Tentacle Slam.*** The otyugh slams creatures [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (`2d6 + 3`) bludgeoning damage and be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't [stunned](Mechanics/CLI/rules/conditions.md#Stunned).
+***Tentacle Slam.*** The otyugh slams creatures [grappled](/Mechanics/CLI/conditions.md#Grappled) by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (`2d6 + 3`) bludgeoning damage and be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't [stunned](/Mechanics/CLI/conditions.md#Stunned).
 ```
 
 ^statblock
@@ -79,3 +94,7 @@ title: Otyugh
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 248. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

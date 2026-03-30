@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yuan-ti Abomination
-created: 2026-03-09T12:15:34.031-04:00
-modified: 2026-03-09T12:15:34.031-04:00
-published: 2026-03-09T12:15:34.031-04:00
+created: 2026-03-29T21:53:56.042-04:00
+modified: 2026-03-29T21:53:56.042-04:00
+published: 2026-03-29T21:53:56.042-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Yuan-ti Abomination
+ac: 15
+hp: 127
+modifier: 3
+hit_dice: 15d10 + 45
+cr: "7"
+stats:
+  - 19
+  - 16
+  - 17
+  - 17
+  - 15
+  - 18
+source:
+  - MM
 ---
 
 # Yuan-ti Abomination
 
-_Source: Monster Manual p. 308_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/yuan-ti-abomination.webp#right)
-
 Monstrous serpents with burly humanoid torsos and arms, abominations form the highest caste of yuan-ti society, and they most closely resemble the race as the serpent gods intended it. They mastermind elaborate schemes and perform dark rites in the hope of one day ruling the world.
 
 ## Yuan-ti
@@ -56,11 +71,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 >
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 >
-> **Dendar, the Night Serpent.** [Dendar's](Mechanics/CLI/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
+> **Dendar, the Night Serpent.** [Dendar's](/Mechanics/CLI/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
 >
-> **Merrshaulk, Master of the Pit.** [Merrshaulk](Mechanics/CLI/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
+> **Merrshaulk, Master of the Pit.** [Merrshaulk](/Mechanics/CLI/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
 >
-> **Sseth, the Sibilant Death.** [Sseth](Mechanics/CLI/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
+> **Sseth, the Sibilant Death.** [Sseth](/Mechanics/CLI/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 > ^serpent-gods
 
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak
@@ -71,11 +86,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ```ad-statblock
 title: Yuan-ti Abomination
-![](Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/yuan-ti-abomination.webp#token)
 *Large monstrosity (shapechanger, yuan-ti), Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 127 (`15d10 + 45`) 
+- **Hit Points** 127 (15d10 + 45) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -84,11 +99,10 @@ title: Yuan-ti Abomination
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 7
 
@@ -96,11 +110,11 @@ title: Yuan-ti Abomination
 
 ***Innate Spellcasting (Abomination Form Only).*** The yuan-ti's innate spellcasting ability is Charisma (spell save DC 15). The yuan-ti can innately cast the following spells, requiring no material components:
 
-**At will:** [animal friendship](Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only)
+**At will:** [animal friendship](/Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only)
 
-**3/day:** [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**3/day:** [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
-**1/day:** [fear](Mechanics/CLI/spells/fear-xphb.md)
+**1/day:** [fear](/Mechanics/CLI/spells/fear-xphb.md)
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
 
@@ -112,7 +126,7 @@ title: Yuan-ti Abomination
 
 ***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one creature. *Hit:* 7 (`1d6 + 4`) piercing damage plus 10 (`3d6`) poison damage.
 
-***Constrict.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the yuan-ti can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the yuan-ti can't constrict another target.
 
 ***Scimitar (Abomination Form Only).*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) slashing damage.
 
@@ -124,3 +138,7 @@ title: Yuan-ti Abomination
 ## Environment
 
 forest, swamp, desert
+
+## Sources
+
+_Monster Manual p. 308_

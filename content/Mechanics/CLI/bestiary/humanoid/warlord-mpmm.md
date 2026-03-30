@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warlord
-created: 2026-03-09T12:15:33.929-04:00
-modified: 2026-03-09T12:15:33.929-04:00
-published: 2026-03-09T12:15:33.929-04:00
+created: 2026-03-29T21:53:55.932-04:00
+modified: 2026-03-29T21:53:55.932-04:00
+published: 2026-03-29T21:53:55.932-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/12
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Warlord (MPMM)
+ac: 18
+hp: 229
+modifier: 3
+hit_dice: 27d8 + 108
+cr: "12"
+stats:
+  - 20
+  - 16
+  - 18
+  - 12
+  - 12
+  - 18
+source:
+  - MPMM
+  - VGM
 ---
 
 # Warlord
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220_\
 ![](Mechanics/CLI/bestiary/humanoid/img/warlord.webp#right)
-
 Warlords are legendary battlefield commanders, whose names are spoken with awe. After a string of decisive victories, a warlord could easily take on the role of monarch or general and attract followers willing to die for the warlord's banner.
 
 Warlords urge their troops into the fray with shouted exhortations. You can roll on the Warlord Battle Cries table to select one, or choose a battle cry that fits with your campaign.
@@ -41,11 +57,11 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 
 ```ad-statblock
 title: Warlord
-![](Mechanics/CLI/bestiary/humanoid/token/warlord-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/warlord-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 229 (`27d8 + 108`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 229 (27d8 + 108) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,9 +70,8 @@ title: Warlord
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +9, Dexterity +7, Constitution +8
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +9, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +8
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +9, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +8
 - **Senses** passive Perception 15
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md), [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
 - **Languages** any two languages
 - **Challenge** 12
 
@@ -82,7 +97,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the warlord
 
 ***Weapon Attack.*** The warlord makes one Greatsword or Shortbow attack.
 
-***Frighten Foe (Costs 2 Actions).*** The warlord targets one creature it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of warlord's next turn.
+***Frighten Foe (Costs 2 Actions).*** The warlord targets one creature it can see within 30 feet of it. If the target can see and hear it, the target must succeed on a DC 16 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of warlord's next turn.
 ```
 
 ^statblock
@@ -90,3 +105,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the warlord
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 257, Volo's Guide to Monsters p. 220_

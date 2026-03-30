@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hobgoblin
-created: 2026-03-09T12:15:34.002-04:00
-modified: 2026-03-09T12:15:34.002-04:00
-published: 2026-03-09T12:15:34.002-04:00
+created: 2026-03-29T21:53:56.012-04:00
+modified: 2026-03-29T21:53:56.012-04:00
+published: 2026-03-29T21:53:56.012-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hobgoblin
+ac: 18
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/2
+stats:
+  - 13
+  - 12
+  - 12
+  - 10
+  - 10
+  - 9
+source:
+  - MM
 ---
 
 # Hobgoblin
 
-_Source: Monster Manual p. 186. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/hobgoblin.webp#right)
-
 War horns sound, stones fly from catapults, and the thunder of a thousand booted feet echoes across the land as hobgoblins march to battle. Across the borderlands of civilization, settlements and settlers must contend with these aggressive humanoids, whose thirst for conquest is never satisfied.
 
 Hobgoblins have dark orange or red-orange skin, and hair ranging from dark red-brown to dark gray. Yellow or dark brown eyes peer out beneath their beetling brows, and their wide mouths sport sharp and yellowed teeth. A male hobgoblin might have a large blue or red nose, which symbolizes virility and power among goblinkin. Hobgoblins can live as long as humans, though their love of warfare and battle means that few do.
@@ -85,11 +100,11 @@ Hobgoblins worship Maglubiyet the Mighty One, the greater god of goblinoids. As 
 
 ```ad-statblock
 title: Hobgoblin
-![](Mechanics/CLI/bestiary/humanoid/token/hobgoblin.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/hobgoblin.webp#token)
 *Medium humanoid (goblinoid), Lawful Evil*
 
-- **Armor Class** 18 ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Armor Class** 18 ([chain mail](/Mechanics/CLI/items/chain-mail.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -99,14 +114,13 @@ title: Hobgoblin
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Goblin
 - **Challenge** 1/2
 
 ## Traits
 
-***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (`2d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Martial Advantage.*** Once per turn, the hobgoblin can deal an extra 7 (`2d6`) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -120,3 +134,7 @@ title: Hobgoblin
 ## Environment
 
 underdark, grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 186. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

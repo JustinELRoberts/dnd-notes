@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Green Dragon
-created: 2026-03-09T12:15:33.821-04:00
-modified: 2026-03-09T12:15:33.821-04:00
-published: 2026-03-09T12:15:33.821-04:00
+created: 2026-03-29T21:53:55.610-04:00
+modified: 2026-03-29T21:53:55.610-04:00
+published: 2026-03-29T21:53:55.610-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Green Dragon
+ac: 18
+hp: 136
+modifier: 1
+hit_dice: 16d10 + 48
+cr: "8"
+stats:
+  - 19
+  - 12
+  - 17
+  - 16
+  - 13
+  - 15
+source:
+  - MM
 ---
 
 # Young Green Dragon
 
-_Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/dragon/img/green-dragon.webp#right)
-
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 
 A green dragon is recognized by its curved jawline and the crest that begins near its eyes and continues down its spine, reaching full height just behind the skull. A green dragon has no external ears, but bears leathery spiked plates that run down the sides of its neck.
@@ -115,11 +130,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Green Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-green-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-green-dragon.webp#token)
 *Large dragon, Lawful Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 136 (`16d10 + 48`) 
+- **Hit Points** 136 (16d10 + 48) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -128,10 +143,10 @@ title: Young Green Dragon
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +4, Constitution +6, Wisdom +4, Charisma +5
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +7, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 17
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common, Draconic
 - **Challenge** 8
 
@@ -155,3 +170,7 @@ title: Young Green Dragon
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

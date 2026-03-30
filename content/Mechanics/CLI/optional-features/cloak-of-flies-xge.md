@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cloak of Flies
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.096-04:00
-published: 2026-03-09T12:15:34.096-04:00
+created: 2026-03-29T21:53:56.127-04:00
+modified: 2026-03-29T21:53:56.127-04:00
+published: 2026-03-29T21:53:56.127-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/optional-feature/ei
@@ -17,9 +17,9 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 5
 
-As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) or you dismiss it as a bonus action.
+As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) or you dismiss it as a bonus action.
 
-The aura grants you advantage on Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
+The aura grants you advantage on Charisma ([Intimidation](/Mechanics/CLI/skills.md#Intimidation)) checks but disadvantage on all other Charisma checks. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 0 damage).
 
 Once you use this invocation, you can't use it again until you finish a short or long rest.
 

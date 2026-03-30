@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bugbear
-created: 2026-03-09T12:15:33.788-04:00
-modified: 2026-03-09T12:15:33.788-04:00
-published: 2026-03-09T12:15:33.788-04:00
+created: 2026-03-29T21:53:55.565-04:00
+modified: 2026-03-29T21:53:55.565-04:00
+published: 2026-03-29T21:53:55.565-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/bugbear
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Bugbear
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 8_\
 ![](Mechanics/CLI/races/img/bugbear.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -35,7 +34,7 @@ You can see in dim light within 60 feet of you as if it were bright light and in
 
 ### Fey Ancestry
 
-You have advantage on saving throws you make to avoid or end the [charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition on yourself.
+You have advantage on saving throws you make to avoid or end the [charmed](/Mechanics/CLI/conditions.md#Charmed) condition on yourself.
 
 ### Long-Limbed
 
@@ -47,7 +46,7 @@ You count as one size larger when determining your carrying capacity and the wei
 
 ### Sneaky
 
-You are proficient in the [Stealth](Mechanics/CLI/rules/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
+You are proficient in the [Stealth](/Mechanics/CLI/skills.md#Stealth) skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
 
 ### Surprise Attack
 
@@ -58,3 +57,7 @@ If you hit a creature with an attack roll, the creature takes an extra `2d6` dam
 Neither bugs nor bears, bugbears are the hulking cousins of goblins and hobgoblins. With roots in the Feywild, early bugbears resided in hidden places, in hard-to-reach and shadowed spaces. Long ago and from out of the corner of your eye, they came to the Material Plane, urged to spread throughout the multiverse by the conquering god Maglubiyet. Centuries later, they still bear a fey gift for lurking just out of sight, and many of them have sneaked away from that god's influence.
 
 They are long of limb and covered in coarse hair, with wedge-shaped ears and pointed teeth. Despite their formidable build, bugbears are quiet skulkers, thanks to a fey magic that allows them to hide in spaces seemingly too small for them.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 8_

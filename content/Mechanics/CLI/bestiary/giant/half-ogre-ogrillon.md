@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Half-Ogre (Ogrillon)
-created: 2026-03-09T12:15:33.850-04:00
-modified: 2026-03-09T12:15:33.850-04:00
-published: 2026-03-09T12:15:33.850-04:00
+created: 2026-03-29T21:53:55.638-04:00
+modified: 2026-03-29T21:53:55.638-04:00
+published: 2026-03-29T21:53:55.638-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -20,13 +20,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Half-Ogre (Ogrillon)
+ac: 12
+hp: 30
+modifier: 0
+hit_dice: 4d10 + 8
+cr: "1"
+stats:
+  - 17
+  - 10
+  - 14
+  - 7
+  - 9
+  - 10
+source:
+  - MM
 ---
 
 # Half-Ogre (Ogrillon)
 
-_Source: Monster Manual p. 238_\
 ![](Mechanics/CLI/bestiary/giant/img/half-ogre-ogrillon.webp#right)
-
 Ogres are as lazy of mind as they are strong of body. They live by raiding, scavenging, and killing for food and pleasure. The average adult specimen stands between 9 and 10 feet tall and weighs close to a thousand pounds.
 
 ## Furious Tempers
@@ -71,11 +86,11 @@ The half-ogre offspring of an ogre and an orc is also called an ogrillon. An adu
 
 ```ad-statblock
 title: Half-Ogre (Ogrillon)
-![](Mechanics/CLI/bestiary/giant/token/half-ogre-ogrillon.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/half-ogre-ogrillon.webp#token)
 *Large giant, Any Chaotic alignment*
 
-- **Armor Class** 12 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 30 (`4d10 + 8`) 
+- **Armor Class** 12 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 30 (4d10 + 8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -85,8 +100,7 @@ title: Half-Ogre (Ogrillon)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
-- **Gear** [battleaxe](Mechanics/CLI/items/battleaxe-xphb.md), [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** Common, Giant
 - **Challenge** 1
 
@@ -102,3 +116,7 @@ title: Half-Ogre (Ogrillon)
 ## Environment
 
 underdark, mountain, forest, hill, urban, desert, arctic
+
+## Sources
+
+_Monster Manual p. 238_

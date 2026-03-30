@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Werebear
-created: 2026-03-09T12:15:33.775-04:00
-modified: 2026-03-09T12:15:33.775-04:00
-published: 2026-03-09T12:15:33.775-04:00
+created: 2026-03-29T21:53:55.557-04:00
+modified: 2026-03-29T21:53:55.557-04:00
+published: 2026-03-29T21:53:55.557-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Werebear
+ac: 10
+hp: 135
+modifier: 0
+hit_dice: 18d8 + 54
+cr: "5"
+stats:
+  - 19
+  - 10
+  - 17
+  - 11
+  - 12
+  - 12
+source:
+  - MM
 ---
 
 # Werebear
 
-_Source: Monster Manual p. 208. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/werebear.webp#right)
-
 Werebears are powerful lycanthropes with the ability to temper their monstrous natures and reject their violent impulses. In humanoid form, they are large, muscular, and covered in hair matching the color of their ursine form's fur. A werebear is a loner by nature, fearing what might happen to innocent creatures around it when its bestial nature takes over.
 
 When a werebear transforms, it grows to enormous size, lashing out with weapons or claws. It fights with the ferocity of a bear, though even in its bestial forms, it avoids biting so as to not pass on its curse. Typically, a werebear passes on its lycanthropy only to chosen companions or apprentices, spending the time that follows helping the new lycanthrope accept the curse in order to control it.
@@ -38,7 +53,7 @@ Evil lycanthropes hide among normal folk, emerging in animal form at night to sp
 
 ### Curse of Lycanthropy
 
-A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
+A humanoid creature can be afflicted with the curse of lycanthropy after being wounded by a lycanthrope, or if one or both of its parents are lycanthropes. A [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell can rid an afflicted lycanthrope of the curse, but a natural born lycanthrope can be freed of the curse only with a wish.
 
 A lycanthrope can either resist its curse or embrace it. By resisting the curse, a lycanthrope retains its normal alignment and personality while in humanoid form. It lives its life as it always has, burying deep the bestial urges raging inside it. However, when the full moon rises, the curse becomes too strong to resist, transforming the individual into its beast form-or into a horrible hybrid form that combines animal and humanoid traits. When the moon wanes, the beast within can be controlled once again. Especially if the cursed creature is unaware of its condition, it might not remember the events of its transformation, though those memories often haunt a lycanthrope as bloody dreams.
 
@@ -52,26 +67,26 @@ Some individuals see little point in fighting the curse and accept what they are
 >
 > The following information applies to specific lycanthropes.
 >
-> **[Werebear](Mechanics/CLI/bestiary/humanoid/werebear.md).** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[Werebear](/Mechanics/CLI/bestiary/humanoid/werebear.md).** The character gains a Strength of 19 if his or her score isn't already higher, and a +1 bonus to AC while in bear or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 >
-> **[Wereboar](Mechanics/CLI/bestiary/humanoid/wereboar.md).** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[Wereboar](/Mechanics/CLI/bestiary/humanoid/wereboar.md).** The character gains a Strength of 17 if his or her score isn't already higher, and a +1 bonus to AC while in boar or hybrid form (from natural armor). Attack and damage rolls for the tusks are based on Strength. For the Charge trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 >
-> **[Wererat](Mechanics/CLI/bestiary/humanoid/wererat.md).** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
+> **[Wererat](/Mechanics/CLI/bestiary/humanoid/wererat.md).** The character gains a Dexterity of 15 if his or her score isn't already higher. Attack and damage rolls for the bite are based on whichever is higher of the character's Strength and Dexterity.
 >
-> **[Weretiger](Mechanics/CLI/bestiary/humanoid/weretiger.md).** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
+> **[Weretiger](/Mechanics/CLI/bestiary/humanoid/weretiger.md).** The character gains a Strength of 17 if his or her score isn't already higher. Attack and damage rolls for the natural weapons are based on Strength. For the Pounce trait, the DC is 8 + the character's proficiency bonus + Strength modifier.
 >
-> **[Werewolf](Mechanics/CLI/bestiary/humanoid/werewolf.md).** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
+> **[Werewolf](/Mechanics/CLI/bestiary/humanoid/werewolf.md).** The character gains a Strength of 15 if his or her score isn't already higher, and a +1 bonus to AC while in wolf or hybrid form (from natural armor). Attack and damage rolls for the natural weapons are based on Strength.
 > ^player-characters-as-lycanthropes
 
 ## Statblock
 
 ```ad-statblock
 title: Werebear
-![](Mechanics/CLI/bestiary/humanoid/token/werebear.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/werebear.webp#token)
 *Medium humanoid (human, shapechanger), Neutral Good*
 
 - **Armor Class** 10 (11 natural armor in bear or hybrid form)
-- **Hit Points** 135 (`18d8 + 54`) 
+- **Hit Points** 135 (18d8 + 54) 
 - **Speed** 30 ft. (40 ft., climb 30 ft. in bear or hybrid form)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -80,10 +95,9 @@ title: Werebear
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +7
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +7
 - **Senses** passive Perception 17
 - **Damage Immunities** bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Gear** [greataxe](Mechanics/CLI/items/greataxe-xphb.md)
 - **Languages** Common (can't speak in bear form)
 - **Challenge** 5
 
@@ -91,7 +105,7 @@ title: Werebear
 
 ***Shapechanger.*** The werebear can use its action to polymorph into a Large bear-humanoid hybrid or into a Large bear, or back into its true form, which is humanoid. Its statistics, other than its size and AC, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Keen Smell.*** The werebear has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The werebear has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
 ## Actions
 
@@ -109,3 +123,7 @@ title: Werebear
 ## Environment
 
 forest, hill, arctic
+
+## Sources
+
+_Monster Manual p. 208. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

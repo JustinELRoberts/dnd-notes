@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Brigand
-created: 2026-03-09T12:15:34.016-04:00
-modified: 2026-03-09T12:15:34.016-04:00
-published: 2026-03-09T12:15:34.016-04:00
+created: 2026-03-29T21:53:56.025-04:00
+modified: 2026-03-29T21:53:56.025-04:00
+published: 2026-03-29T21:53:56.025-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/captain/brigand
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Brigand
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -49,7 +48,7 @@ _Source: Valda's Spire of Secrets Extras (2024)_
 
 ^class-progression
 
-Cross-Compatible Subclass: This subclass originates from the [Vagabond](Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
+Cross-Compatible Subclass: This subclass originates from the [Vagabond](/Mechanics/CLI/classes/vagabond-valdaspire24extras.md) class
 
 Note that cross-compatible subclasses might be stronger or weaker than other subclasses.
 
@@ -63,26 +62,30 @@ Brigands encompass all manner of highwaymen, pirates, raiders, and dastardly fol
 
 ### Ambush \[Maneuver] (Level 3)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can expend one Battle Die immediately after regaining your Battle Dice to draw up to two weapons and make one weapon attack. You can't use this maneuver if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can expend one Battle Die immediately after regaining your Battle Dice to draw up to two weapons and make one weapon attack. You can't use this maneuver if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Craven (Level 3)
 
-When a creature you can see misses you with a melee attack roll, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to move 5 feet without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+When a creature you can see misses you with a melee attack roll, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to move 5 feet without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Take Hostage (Level 6)
 
-When you hit a Medium or smaller creature with an attack using a melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) and reduce the target to a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) less than or equal to twice your Vagabond level, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to hold the target hostage. While held hostage, the target has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) and [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) conditions.
+When you hit a Medium or smaller creature with an attack using a melee weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) and reduce the target to a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) less than or equal to twice your Vagabond level, you can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to hold the target hostage. While held hostage, the target has the [Grappled](/Mechanics/CLI/conditions.md#Grappled) and [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) conditions.
 
-While holding a creature hostage, you have [Three-Quarters Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md). Attacks that miss you hit the hostage instead. Additionally, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](Mechanics/CLI/rules/skills.md#Intimidation)) checks against the hostage's allies.
+While holding a creature hostage, you have [Three-Quarters Cover](/Mechanics/CLI/variant-rules/cover-xphb.md). Attacks that miss you hit the hostage instead. Additionally, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma ([Intimidation](/Mechanics/CLI/skills.md#Intimidation)) checks against the hostage's allies.
 
-You can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) in response to any creature's action to release the hostage or attack it with a weapon you are holding.
+You can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) in response to any creature's action to release the hostage or attack it with a weapon you are holding.
 
 ### Underhanded Blow (Level 10)
 
-When you hit a creature with an attack roll, you can give the target [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attacks it makes before the start of your next turn.
+When you hit a creature with an attack roll, you can give the target [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attacks it makes before the start of your next turn.
 
-Once you use this feature, you can't use it again until you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) or finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) or finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Cutthroat (Level 14)
 
 Ruthlessness is second-nature to you. When you hit a creature with an attack roll and roll the highest number on any damage die, you can roll that damage die again and add it to the damage, rolling again if it is the highest number, and so on. You can roll each damage die up to a maximum of four times.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

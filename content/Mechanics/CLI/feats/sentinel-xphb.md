@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sentinel
-created: 2026-03-09T12:15:33.908-04:00
-modified: 2026-03-09T12:15:33.908-04:00
-published: 2026-03-09T12:15:33.908-04:00
+created: 2026-03-29T21:53:55.909-04:00
+modified: 2026-03-29T21:53:55.909-04:00
+published: 2026-03-29T21:53:55.909-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Guardian.** Immediately after a creature within 5 feet of you takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action or hits a target other than you with an attack, you can make an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) against that creature.
+**Guardian.** Immediately after a creature within 5 feet of you takes the [Disengage](/Mechanics/CLI/actions.md#Disengage) action or hits a target other than you with an attack, you can make an [Opportunity Attack](/Mechanics/CLI/actions.md#Opportunity%20Attack) against that creature.
 
-**Halt.** When you hit a creature with an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack), the creature's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) becomes 0 for the rest of the current turn.
+**Halt.** When you hit a creature with an [Opportunity Attack](/Mechanics/CLI/actions.md#Opportunity%20Attack), the creature's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) becomes 0 for the rest of the current turn.
 
 ## Sources
 

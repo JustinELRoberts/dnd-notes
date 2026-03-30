@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ki-rin
-created: 2026-03-09T12:15:33.980-04:00
-modified: 2026-03-09T12:15:33.980-04:00
-published: 2026-03-09T12:15:33.980-04:00
+created: 2026-03-29T21:53:55.984-04:00
+modified: 2026-03-29T21:53:55.984-04:00
+published: 2026-03-29T21:53:55.984-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/12
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ki-rin (MPMM)
+ac: 20
+hp: 153
+modifier: 3
+hit_dice: 18d10 + 54
+cr: "12"
+stats:
+  - 21
+  - 16
+  - 16
+  - 19
+  - 20
+  - 20
+source:
+  - MPMM
+  - VGM
 ---
 
 # Ki-rin
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163_\
 ![](Mechanics/CLI/bestiary/celestial/img/ki-rin.webp#right)
-
 Ki-rins are noble, celestial creatures. In the Outer Planes, ki-rins in service to benevolent deities take a direct role in the eternal struggle between good and evil. In the mortal world, ki-rins are celebrated far and wide as harbingers of destiny, guardians of the sacred, and counterbalances to the forces of evil.
 
 Ki-rins are an embodiment of good, and simply beholding one can evoke fear or awe in an observer. A typical ki-rin looks like a muscular stag, covered in golden scales lined in some places with golden fur. It has a long mane and tail, coppery cloven hooves, and a spiral-shaped coppery horn just above and between its luminous violet eyes. In a breeze or when aloft, the creature's scales and hair appear to blaze with a holy, golden fire.
@@ -44,11 +60,11 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 
 ```ad-statblock
 title: Ki-rin
-![](Mechanics/CLI/bestiary/celestial/token/ki-rin-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/ki-rin-mpmm.webp#token)
 *Large celestial, Typically  Lawful Good*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 153 (`18d10 + 54`) 
+- **Hit Points** 153 (18d10 + 54) 
 - **Speed** 60 ft., fly 120 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,10 +73,10 @@ title: Ki-rin
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +9, [Insight](Mechanics/CLI/rules/skills.md#Insight) +9, [Religion](Mechanics/CLI/rules/skills.md#Religion) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [truesight](Mechanics/CLI/rules/senses.md#Truesight) 30 ft., passive Perception 19
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +9, [Insight](/Mechanics/CLI/skills.md#Insight) +9, [Religion](/Mechanics/CLI/skills.md#Religion) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., [truesight](/Mechanics/CLI/senses.md#Truesight) 30 ft., passive Perception 19
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 12
 
@@ -82,17 +98,17 @@ title: Ki-rin
 
 ***Spellcasting.*** The ki-rin casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 17):
 
-**At will:** [light](Mechanics/CLI/spells/light-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md) (6th-level version), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**At will:** [light](/Mechanics/CLI/spells/light-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md) (6th-level version), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**3/day each:** [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [sending](Mechanics/CLI/spells/sending-xphb.md)
+**3/day each:** [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [sending](/Mechanics/CLI/spells/sending-xphb.md)
 
-**1/day each:** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [calm emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [create food and water](Mechanics/CLI/spells/create-food-and-water-xphb.md), [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [protection from evil and good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [revivify](Mechanics/CLI/spells/revivify-xphb.md), [wind walk](Mechanics/CLI/spells/wind-walk-xphb.md)
+**1/day each:** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [calm emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [create food and water](/Mechanics/CLI/spells/create-food-and-water-xphb.md), [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [protection from evil and good](/Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md), [revivify](/Mechanics/CLI/spells/revivify-xphb.md), [wind walk](/Mechanics/CLI/spells/wind-walk-xphb.md)
 
 ## Legendary Actions
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the ki-rin can expend a use to take one of the following actions. The ki-rin regains all expended uses at the start of each of its turns.
 
-***Move.*** The ki-rin moves up to half its speed without provoking [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+***Move.*** The ki-rin moves up to half its speed without provoking [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ***Smite.*** The ki-rin makes one Hoof, Horn, or Sacred Fire attack.
 
@@ -109,7 +125,7 @@ On initiative count 20 (losing initiative ties), a kirin can take one of the fol
 A ki-rin's Celestial nature transforms the region around its lair. Any of the following magical effects is possible for travelers to encounter in the vicinity:
 
 - **Blessed Nature.** Beasts, Plants, and Celestials within 3 miles of the ki-rin's lair grow more vigorous as they evolve toward an idealized form. Such creatures are rarely aggressive toward others that aren't normally prey.  
-- **Controlled Weather.** A ki-rin can cast [control weather](Mechanics/CLI/spells/control-weather-xphb.md) while it is within 3 miles of its lair. The spell's point of origin is always the point outdoors closest to the center of its lair. The ki-rin doesn't need to maintain a clear path to the sky or to concentrate for the change in weather to persist.  
+- **Controlled Weather.** A ki-rin can cast [control weather](/Mechanics/CLI/spells/control-weather-xphb.md) while it is within 3 miles of its lair. The spell's point of origin is always the point outdoors closest to the center of its lair. The ki-rin doesn't need to maintain a clear path to the sky or to concentrate for the change in weather to persist.  
 - **Pure Waters.** Water flows pure within 3 miles of a ki-rin's lair. Any purposeful corruption of the water lasts for no longer than 3 minutes.  
 - **Realm of Respite.** Curses, diseases, and poisons on creatures are suppressed when those creatures are within 3 miles of the lair, unless the creatures are Aberrations, Fiends, or Undead.  
 - **Safe Descents.** Within 3 miles of the lair, winds buoy creatures that fall due to no act of the ki-rin or its allies. Such creatures descend at a rate of 60 feet per round and take no falling damage. Aberrations, Fiends, and Undead don't gain this benefit, falling as normal.  
@@ -122,3 +138,7 @@ When the ki-rin dies, all these effects disappear immediately, although the invi
 ## Environment
 
 coastal, desert, grassland, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163_

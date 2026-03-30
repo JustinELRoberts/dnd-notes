@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bestial Spirit (Air)
-created: 2026-03-09T12:15:34.081-04:00
-modified: 2026-03-09T12:15:34.081-04:00
-published: 2026-03-09T12:15:34.081-04:00
+created: 2026-03-29T21:53:56.111-04:00
+modified: 2026-03-29T21:53:56.111-04:00
+published: 2026-03-29T21:53:56.111-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bestial Spirit (Air) (XPHB)
+modifier: 0
+stats:
+  - 18
+  - 11
+  - 16
+  - 4
+  - 14
+  - 5
+source:
+  - XPHB
 ---
 
 # Bestial Spirit (Air)
-
-_Source: Player's Handbook (2024) p. 323_
 
 ```ad-statblock
 title: Bestial Spirit (Air)
@@ -34,13 +45,13 @@ title: Bestial Spirit (Air)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** understands the languages you know
 - **Challenge** 
 
 ## Traits
 
-***Flyby.*** The spirit doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+***Flyby.*** The spirit doesn't provoke [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
 
 ## Actions
 
@@ -50,3 +61,7 @@ title: Bestial Spirit (Air)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 323_

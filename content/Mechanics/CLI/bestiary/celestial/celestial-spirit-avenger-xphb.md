@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Celestial Spirit (Avenger)
-created: 2026-03-09T12:15:34.119-04:00
-modified: 2026-03-09T12:15:34.119-04:00
-published: 2026-03-09T12:15:34.119-04:00
+created: 2026-03-29T21:53:56.156-04:00
+modified: 2026-03-29T21:53:56.156-04:00
+published: 2026-03-29T21:53:56.156-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Celestial Spirit (Avenger) (XPHB)
+modifier: 2
+stats:
+  - 16
+  - 14
+  - 16
+  - 10
+  - 14
+  - 16
+source:
+  - XPHB
 ---
 
 # Celestial Spirit (Avenger)
-
-_Source: Player's Handbook (2024) p. 323_
 
 ```ad-statblock
 title: Celestial Spirit (Avenger)
@@ -34,9 +45,9 @@ title: Celestial Spirit (Avenger)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** radiant
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Celestial, understands the languages you know
 - **Challenge** 
 
@@ -50,3 +61,7 @@ title: Celestial Spirit (Avenger)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 323_

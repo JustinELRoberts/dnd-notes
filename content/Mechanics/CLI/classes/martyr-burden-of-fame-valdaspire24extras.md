@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Fame
-created: 2026-03-09T12:15:33.777-04:00
-modified: 2026-03-09T12:15:33.777-04:00
-published: 2026-03-09T12:15:33.777-04:00
+created: 2026-03-29T21:53:55.559-04:00
+modified: 2026-03-29T21:53:55.559-04:00
+published: 2026-03-29T21:53:55.559-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/martyr/fame
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Fame
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,35 +62,39 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md), [Unseen Servant](Mechanics/CLI/spells/unseen-servant-xphb.md) |
-| 5 | [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md), [Suggestion](Mechanics/CLI/spells/suggestion-xphb.md) |
-| 9 | [Hypnotic Pattern](Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [Tongues](Mechanics/CLI/spells/tongues-xphb.md) |
-| 13 | [Compulsion](Mechanics/CLI/spells/compulsion-xphb.md), [Private Sanctum](Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md) |
-| 17 | [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md), [Teleportation Circle](Mechanics/CLI/spells/teleportation-circle-xphb.md) |
+| 3 | [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md), [Unseen Servant](/Mechanics/CLI/spells/unseen-servant-xphb.md) |
+| 5 | [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md), [Suggestion](/Mechanics/CLI/spells/suggestion-xphb.md) |
+| 9 | [Hypnotic Pattern](/Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [Tongues](/Mechanics/CLI/spells/tongues-xphb.md) |
+| 13 | [Compulsion](/Mechanics/CLI/spells/compulsion-xphb.md), [Private Sanctum](/Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md) |
+| 17 | [Dominate Person](/Mechanics/CLI/spells/dominate-person-xphb.md), [Teleportation Circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md) |
 ^fame-spells
 
 ### Celebrity (Level 3)
 
-You gain proficiency in the [Performance](Mechanics/CLI/rules/skills.md#Performance) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
+You gain proficiency in the [Performance](/Mechanics/CLI/skills.md#Performance) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
 
 ### Starstruck (Level 3)
 
-You can cast [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md) as a level 1 spell without taking Radiant damage. When you cast it, the target doesn't have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on its saving throw as a result of you fighting it. Additionally, a creature that has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition due to one of your Martyr spells regards you as a celebrity and is awed by your presence.
+You can cast [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md) as a level 1 spell without taking Radiant damage. When you cast it, the target doesn't have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on its saving throw as a result of you fighting it. Additionally, a creature that has the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition due to one of your Martyr spells regards you as a celebrity and is awed by your presence.
 
 ### Entourage (Level 6)
 
-You gain a bonus to your [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) equal to the number of creatures with the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition within 30 feet of you, to a maximum of your Wisdom modifier.
+You gain a bonus to your [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md) equal to the number of creatures with the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition within 30 feet of you, to a maximum of your Wisdom modifier.
 
 ### Crowd Suggestion (Level 14)
 
-You can cast [Mass Suggestion](Mechanics/CLI/spells/mass-suggestion-xphb.md) without taking Radiant damage or expending a spell use. Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can cast [Mass Suggestion](/Mechanics/CLI/spells/mass-suggestion-xphb.md) without taking Radiant damage or expending a spell use. Once you cast the spell with this feature, you can't do so in this way again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Mechanics/CLI/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting and the spell can target up to 100 creatures within range.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting and the spell can target up to 100 creatures within range.
 
 ### Superstar Sanctitude (Level 18)
 
 Your unparalleled stardom grants you the following benefits.
 
-**Reactive Sanctuary.** When you use your Reprisal, you can cast [Sanctuary](Mechanics/CLI/spells/sanctuary-xphb.md) on yourself without taking Radiant damage or expending a spell use as a part of the [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+**Reactive Sanctuary.** When you use your Reprisal, you can cast [Sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md) on yourself without taking Radiant damage or expending a spell use as a part of the [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
-**Superstar Aura.** Each Large or smaller enemy that ends its turn within 5 feet of you must succeed on a Wisdom saving throw against your spell save DC or have the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+**Superstar Aura.** Each Large or smaller enemy that ends its turn within 5 feet of you must succeed on a Wisdom saving throw against your spell save DC or have the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

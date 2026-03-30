@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Kruthik
-created: 2026-03-09T12:15:33.815-04:00
-modified: 2026-03-09T12:15:33.815-04:00
-published: 2026-03-09T12:15:33.815-04:00
+created: 2026-03-29T21:53:55.600-04:00
+modified: 2026-03-29T21:53:55.600-04:00
+published: 2026-03-29T21:53:55.600-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-8
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Kruthik (MPMM)
+ac: 16
+hp: 9
+modifier: 3
+hit_dice: 2d6 + 2
+cr: 1/8
+stats:
+  - 13
+  - 16
+  - 13
+  - 4
+  - 10
+  - 6
+source:
+  - MPMM
 ---
 
 # Young Kruthik
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 168_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/young-kruthik.webp#right)
-
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
 
 ## Kruthiks
@@ -49,11 +64,11 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 ```ad-statblock
 title: Young Kruthik
-![](Mechanics/CLI/bestiary/monstrosity/token/young-kruthik-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/young-kruthik-mpmm.webp#token)
 *Small monstrosity, Unaligned*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 9 (`2d6 + 2`) 
+- **Hit Points** 9 (2d6 + 2) 
 - **Speed** 30 ft., burrow 10 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,14 +77,14 @@ title: Young Kruthik
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., tremorsense 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 30 ft., tremorsense 60 ft., passive Perception 14
 - **Languages** Kruthik
 - **Challenge** 1/8
 
 ## Traits
 
-***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 2½-foot-diameter tunnel in its wake.
 
@@ -83,3 +98,7 @@ title: Young Kruthik
 ## Environment
 
 desert, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 168_

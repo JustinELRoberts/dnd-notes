@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Water Weird
-created: 2026-03-09T12:15:34.043-04:00
-modified: 2026-03-09T12:15:34.043-04:00
-published: 2026-03-09T12:15:34.043-04:00
+created: 2026-03-29T21:53:56.054-04:00
+modified: 2026-03-29T21:53:56.054-04:00
+published: 2026-03-29T21:53:56.054-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Water Weird
+ac: 13
+hp: 58
+modifier: 3
+hit_dice: 9d10 + 9
+cr: "3"
+stats:
+  - 17
+  - 16
+  - 13
+  - 11
+  - 10
+  - 10
+source:
+  - MM
 ---
 
 # Water Weird
 
-_Source: Monster Manual p. 299_\
 ![](Mechanics/CLI/bestiary/elemental/img/water-weird.webp#right)
-
 A water weird is an elemental guardian bound to a specific water-filled location, such as a pool or fountain.
 
 Invisible while immersed in water, its serpentine shape becomes clear only when it emerges to attack, using its coils to crush any creature other than its summoner and those its summoner declares as off limits. When slain, a water weird becomes an inanimate pool of water.
@@ -30,7 +45,7 @@ Invisible while immersed in water, its serpentine shape becomes clear only when 
 
 Like most elementals, a water weird has no concept of good or evil. However, a water weird bound to a sacred or befouled source of water begins to take on the nature of that site, becoming neutral good or neutral evil.
 
-A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](Mechanics/CLI/spells/purify-food-and-drink-xphb.md) spell.
+A neutral good water weird tries to frighten away interlopers rather than kill them, while a neutral evil water weird kills its victims for pleasure and might turn against its summoner. A water weird loses its evil alignment if its waters are cleansed with a [purify food and drink](/Mechanics/CLI/spells/purify-food-and-drink-xphb.md) spell.
 
 ## Elemental Nature
 
@@ -44,11 +59,11 @@ A water weird doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Water Weird
-![](Mechanics/CLI/bestiary/elemental/token/water-weird.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/water-weird.webp#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 58 (`9d10 + 9`) 
+- **Hit Points** 58 (9d10 + 9) 
 - **Speed** 0 ft., swim 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,22 +73,22 @@ title: Water Weird
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive Perception 10
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception 10
 - **Damage Resistances** fire; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [prone](Mechanics/CLI/rules/conditions.md#Prone), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [restrained](/Mechanics/CLI/conditions.md#Restrained), [prone](/Mechanics/CLI/conditions.md#Prone), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** understands Aquan but doesn't speak
 - **Challenge** 3
 
 ## Traits
 
-***Invisible in Water.*** The water weird is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) while fully immersed in water.
+***Invisible in Water.*** The water weird is [invisible](/Mechanics/CLI/conditions.md#Invisible) while fully immersed in water.
 
 ***Water Bound.*** The water weird dies if it leaves the water to which it is bound or if that water is destroyed.
 
 ## Actions
 
-***Constrict.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one creature. *Hit:* 13 (`3d6 + 3`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), the water weird tries to drown it, and the water weird can't constrict another target.
+***Constrict.*** *Melee Weapon Attack:* `+5` to hit, reach 10 ft., one creature. *Hit:* 13 (`3d6 + 3`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 13) and pulled 5 feet toward the water weird. Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), the water weird tries to drown it, and the water weird can't constrict another target.
 ```
 
 ^statblock
@@ -81,3 +96,7 @@ title: Water Weird
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Monster Manual p. 299_

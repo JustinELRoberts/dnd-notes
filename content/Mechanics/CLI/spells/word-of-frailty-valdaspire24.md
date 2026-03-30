@@ -2,19 +2,18 @@
 publish: true
 aliases:
   - Word of Frailty
-created: 2026-03-09T12:15:33.982-04:00
-modified: 2026-03-09T12:15:33.982-04:00
-published: 2026-03-09T12:15:33.982-04:00
+created: 2026-03-29T21:53:55.987-04:00
+modified: 2026-03-29T21:53:55.987-04:00
+published: 2026-03-29T21:53:55.987-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/martyr
   - ttrpg-cli/spell/level/3rd-level
   - ttrpg-cli/spell/school/necromancy
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Martyr
 ---
 
 # Word of Frailty
@@ -26,8 +25,13 @@ _3rd-level, Necromancy_
 - **Components:** V
 - **Duration:** 1 round
 
-You recite a withering magical word to a creature you can see within range, which makes a Constitution saving throw. On a failed save, the creature's [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) is 10 until the end of your next turn if its AC is higher than that.
+You recite a withering magical word to a creature you can see within range, which makes a Constitution saving throw. On a failed save, the creature's [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md) is 10 until the end of your next turn if its AC is higher than that.
 
-**Classes**: [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Martyr](/Mechanics/CLI/lists/list-spells-classes-martyr.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

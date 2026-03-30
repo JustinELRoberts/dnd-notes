@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Secondary Tables; Weird Stuff
-created: 2026-03-09T12:15:34.366-04:00
-modified: 2026-03-09T12:15:34.366-04:00
-published: 2026-03-09T12:15:34.366-04:00
+created: 2026-03-29T21:53:56.464-04:00
+modified: 2026-03-29T21:53:56.464-04:00
+published: 2026-03-29T21:53:56.464-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:
@@ -21,7 +21,7 @@ _Source: Xanathar's Guide to Everything p. 70_
 | dice: d12 | What Happened |
 |-----------|---------------|
 | 1 | You were turned into a toad and remained in that form for `1d4` weeks. |
-| 2 | You were [petrified](Mechanics/CLI/rules/conditions.md#Petrified) and remained a stone statue for a time until someone freed you. |
+| 2 | You were [petrified](/Mechanics/CLI/conditions.md#Petrified) and remained a stone statue for a time until someone freed you. |
 | 3 | You were enslaved by a hag, a satyr, or some other being and lived in that creature's thrall for `1d6` years. |
 | 4 | A dragon held you as a prisoner for `1d4` months until adventurers killed it. |
 | 5 | You were taken captive by a race of evil humanoids such as drow, kuo-toa, or quaggoths. You lived as a slave in the Underdark until you escaped. |

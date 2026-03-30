@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mystical Weaponmaster
-created: 2026-03-09T12:15:34.107-04:00
-modified: 2026-03-09T12:15:34.107-04:00
-published: 2026-03-09T12:15:34.107-04:00
+created: 2026-03-29T21:53:56.142-04:00
+modified: 2026-03-29T21:53:56.142-04:00
+published: 2026-03-29T21:53:56.142-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/t
@@ -15,9 +15,9 @@ obsidianUIMode: preview
 
 # Mystical Weaponmaster
 
-_**Prerequisites**_ Level 5 Warmage; [Force Weapon](Mechanics/CLI/spells/force-weapon-valdaspire24.md) cantrip or [Magic Daggers](Mechanics/CLI/spells/magic-daggers-valdaspire24.md) cantrip
+_**Prerequisites**_ Level 5 Warmage; [Force Weapon](/Mechanics/CLI/spells/force-weapon-valdaspire24.md) cantrip or [Magic Daggers](/Mechanics/CLI/spells/magic-daggers-valdaspire24.md) cantrip
 
-When you cast [Force Weapon](Mechanics/CLI/spells/force-weapon-valdaspire24.md) or [Magic Daggers](Mechanics/CLI/spells/magic-daggers-valdaspire24.md), you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to make one additional spell attack with that cantrip.
+When you cast [Force Weapon](/Mechanics/CLI/spells/force-weapon-valdaspire24.md) or [Magic Daggers](/Mechanics/CLI/spells/magic-daggers-valdaspire24.md), you can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to make one additional spell attack with that cantrip.
 
 ## Sources
 

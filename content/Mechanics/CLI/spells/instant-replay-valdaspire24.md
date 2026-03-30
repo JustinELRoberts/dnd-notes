@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Instant Replay
-created: 2026-03-09T12:15:33.904-04:00
-modified: 2026-03-09T12:15:33.904-04:00
-published: 2026-03-09T12:15:33.904-04:00
+created: 2026-03-29T21:53:55.903-04:00
+modified: 2026-03-29T21:53:55.903-04:00
+published: 2026-03-29T21:53:55.903-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/martyr
   - ttrpg-cli/spell/class/paladin
   - ttrpg-cli/spell/class/ranger
@@ -17,12 +18,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Martyr
-  - Paladin
-  - Ranger
-  - Wizard
 ---
 
 # Instant Replay
@@ -36,6 +31,15 @@ _1st-level, Transmutation_
 
 As your attack misses the target, you instantly reset yourself to the moment before the attack and repeat the attack roll against the same target, potentially causing it to hit.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr](Mechanics/CLI/lists/list-spells-classes-martyr.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Martyr](/Mechanics/CLI/lists/list-spells-classes-martyr.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Paladin](/Mechanics/CLI/lists/list-spells-classes-paladin.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

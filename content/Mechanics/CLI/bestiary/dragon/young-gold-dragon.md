@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Gold Dragon
-created: 2026-03-09T12:15:34.099-04:00
-modified: 2026-03-09T12:15:34.099-04:00
-published: 2026-03-09T12:15:34.099-04:00
+created: 2026-03-29T21:53:56.131-04:00
+modified: 2026-03-29T21:53:56.131-04:00
+published: 2026-03-29T21:53:56.131-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/10
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Gold Dragon
+ac: 18
+hp: 178
+modifier: 2
+hit_dice: 17d10 + 85
+cr: "10"
+stats:
+  - 23
+  - 14
+  - 21
+  - 16
+  - 13
+  - 20
+source:
+  - MM
 ---
 
 # Young Gold Dragon
 
-_Source: Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/gold-dragon.webp#right)
-
 The most powerful and majestic of the metallic dragons, gold dragons are dedicated foes of evil.
 
 A gold dragon has a sagacious face anointed with flexible spines that resemble whiskers. Its horns sweep back from its nose and brow, echoing twin frills that adorn its long neck. A gold dragon's sail-like wings start at its shoulders and trace down to the tip of its tail, letting it fly with a distinctive rippling motion as if swimming through the air. A gold dragon wyrmling has scales of dark yellow with metallic flecks. Those flecks grow larger as the dragon matures. As a gold dragon ages, its pupils fade until its eyes resemble pools of molten gold.
@@ -94,11 +109,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Gold Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-gold-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-gold-dragon.webp#token)
 *Large dragon, Lawful Good*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 178 (`17d10 + 85`) 
+- **Hit Points** 178 (17d10 + 85) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -107,8 +122,8 @@ title: Young Gold Dragon
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +6, Constitution +9, Wisdom +5, Charisma +9
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +9, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +9, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 19
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +9, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +9, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 19
 - **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 10
@@ -136,3 +151,7 @@ title: Young Gold Dragon
 ## Environment
 
 grassland, forest
+
+## Sources
+
+_Monster Manual p. 115. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

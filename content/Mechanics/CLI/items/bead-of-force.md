@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bead of Force
-created: 2026-03-09T12:15:34.015-04:00
-modified: 2026-03-09T12:15:34.015-04:00
-published: 2026-03-09T12:15:34.015-04:00
+created: 2026-03-29T21:53:56.025-04:00
+modified: 2026-03-29T21:53:56.025-04:00
+published: 2026-03-29T21:53:56.025-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -18,6 +18,7 @@ obsidianUIMode: preview
 
 _Wondrous item, minor, rare_
 
+- **Cost**: ⏤
 - **Weight**: 0.0625 lbs.
 
 This small black sphere measures ¾ of an inch in diameter and weighs an ounce. Typically, `1d4 + 4` _beads of force_ are found together.
@@ -26,4 +27,6 @@ You can use an action to throw the bead up to 60 feet. The bead explodes on impa
 
 An enclosed creature can use its action to push against the sphere's wall, moving the sphere up to half the creature's walking speed. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
-_Source: Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 154. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

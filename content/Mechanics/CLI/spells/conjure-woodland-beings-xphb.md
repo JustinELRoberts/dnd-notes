@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Conjure Woodland Beings
-created: 2026-03-09T12:15:34.127-04:00
-modified: 2026-03-09T12:15:34.127-04:00
-published: 2026-03-09T12:15:34.127-04:00
+created: 2026-03-29T21:53:56.169-04:00
+modified: 2026-03-29T21:53:56.169-04:00
+published: 2026-03-29T21:53:56.169-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/level/4th-level
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Ranger
 ---
 
 # Conjure Woodland Beings
@@ -30,12 +27,19 @@ _4th-level, Conjuration_
 - **Components:** V, S
 - **Duration:** Concentration, up to 10 minutes
 
-You conjure nature spirits that flit around you in a 10-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) for the duration. Whenever the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) enters the space of a creature you can see and whenever a creature you can see enters the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes `5d8` Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
+You conjure nature spirits that flit around you in a 10-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) for the duration. Whenever the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) enters the space of a creature you can see and whenever a creature you can see enters the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) or ends its turn there, you can force that creature to make a Wisdom saving throw. The creature takes `5d8` Force damage on a failed save or half as much damage on a successful one. A creature makes this save only once per turn.
 
-In addition, you can take the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) for the spell's duration.
+In addition, you can take the [Disengage](/Mechanics/CLI/actions.md#Disengage) action as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) for the spell's duration.
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 4.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

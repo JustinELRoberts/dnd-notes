@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Crone
-created: 2026-03-09T12:15:34.423-04:00
-modified: 2026-03-09T12:15:34.423-04:00
-published: 2026-03-09T12:15:34.423-04:00
+created: 2026-03-29T21:53:56.516-04:00
+modified: 2026-03-29T21:53:56.516-04:00
+published: 2026-03-29T21:53:56.516-04:00
 tags:
   - ttrpg-cli/spell/list/subclass/crone
 cssclasses:
@@ -16,25 +16,25 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Find Familiar](Mechanics/CLI/spells/find-familiar-xphb.md "XPHB") at class level 5
-- [Tasha's Hideous Laughter](Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 5
+- [Find Familiar](/Mechanics/CLI/spells/find-familiar-xphb.md "XPHB") at class level 5
+- [Tasha's Hideous Laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 5
 
 ## 2nd Level
 
-- [Blindness/Deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 5
-- [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 5
+- [Blindness/Deafness](/Mechanics/CLI/spells/blindness-deafness-xphb.md "XPHB") at class level 5
+- [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Bestow Curse](Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") at class level 5
-- [Fly](Mechanics/CLI/spells/fly-xphb.md "XPHB") at class level 5
+- [Bestow Curse](/Mechanics/CLI/spells/bestow-curse-xphb.md "XPHB") at class level 5
+- [Fly](/Mechanics/CLI/spells/fly-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Polymorph](Mechanics/CLI/spells/polymorph-xphb.md "XPHB") at class level 5
-- [Soul Effigy](Mechanics/CLI/spells/soul-effigy-valdaspire24.md "ValdaSpire24") at class level 5
+- [Polymorph](/Mechanics/CLI/spells/polymorph-xphb.md "XPHB") at class level 5
+- [Soul Effigy](/Mechanics/CLI/spells/soul-effigy-valdaspire24.md "ValdaSpire24") at class level 5
 
 ## 5th Level
 
-- [Contagion](Mechanics/CLI/spells/contagion-xphb.md "XPHB") at class level 5
-- [Seeming](Mechanics/CLI/spells/seeming-xphb.md "XPHB") at class level 5
+- [Contagion](/Mechanics/CLI/spells/contagion-xphb.md "XPHB") at class level 5
+- [Seeming](/Mechanics/CLI/spells/seeming-xphb.md "XPHB") at class level 5

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Flurry
-created: 2026-03-09T12:15:33.884-04:00
-modified: 2026-03-09T12:15:33.884-04:00
-published: 2026-03-09T12:15:33.884-04:00
+created: 2026-03-29T21:53:55.678-04:00
+modified: 2026-03-29T21:53:55.678-04:00
+published: 2026-03-29T21:53:55.678-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/mp
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 5 Craftsman; Masterwork Weapon, Ammunition, Finesse, Light, or Versatile Property
 
-When you make an attack with this weapon, you can choose to make two attacks instead. These attacks are always made with [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md), regardless of circumstance. You can't replace these attacks. If this weapon has the [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition) property, these attacks use twice the normal amount of ammunition. This property is often called Automatic when added to Ranged weapons.
+When you make an attack with this weapon, you can choose to make two attacks instead. These attacks are always made with [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md), regardless of circumstance. You can't replace these attacks. If this weapon has the [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition) property, these attacks use twice the normal amount of ammunition. This property is often called Automatic when added to Ranged weapons.
 
 ## Sources
 

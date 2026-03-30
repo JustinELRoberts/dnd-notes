@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Troll (Loathsome Limb; Severed Leg)
-created: 2026-03-09T12:15:33.920-04:00
-modified: 2026-03-09T12:15:33.920-04:00
-published: 2026-03-09T12:15:33.920-04:00
+created: 2026-03-29T21:53:55.925-04:00
+modified: 2026-03-29T21:53:55.925-04:00
+published: 2026-03-29T21:53:55.925-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -19,11 +19,25 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Troll (Loathsome Limb; Severed Leg)
+ac: 13
+hp: 10
+modifier: 1
+cr: "5"
+stats:
+  - 18
+  - 13
+  - 20
+  - 7
+  - 9
+  - 7
+source:
+  - MM
 ---
 
 # Troll (Loathsome Limb; Severed Leg)
-
-_Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Troll (Loathsome Limb; Severed Leg)
@@ -54,3 +68,7 @@ title: Troll (Loathsome Limb; Severed Leg)
 ## Environment
 
 underdark, mountain, forest, swamp, hill, arctic
+
+## Sources
+
+_Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

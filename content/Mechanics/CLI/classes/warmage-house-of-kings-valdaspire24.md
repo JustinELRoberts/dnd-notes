@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Kings
-created: 2026-03-09T12:15:34.010-04:00
-modified: 2026-03-09T12:15:34.010-04:00
-published: 2026-03-09T12:15:34.010-04:00
+created: 2026-03-29T21:53:56.017-04:00
+modified: 2026-03-29T21:53:56.017-04:00
+published: 2026-03-29T21:53:56.017-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warmage/kings
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # House of Kings
 
-_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,13 +58,13 @@ Warmages who train in the House of Kings specialize in tactics and strategy, lea
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor and [Shields](Mechanics/CLI/items/shield-xphb.md).
+You gain proficiency with Martial weapons and training with Medium armor and [Shields](/Mechanics/CLI/items/shield-xphb.md).
 
 ### Battle Tactics (Level 3)
 
 You learn maneuvers that are fueled by special dice called Battle Dice.
 
-**Battle Dice.** You have two Battle Dice, which are d6s. A Battle Die is expended when you use it. You regain all expended Battle Dice when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) or finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). Your Battle Die changes and more Battle Dice become available when you reach certain Warmage levels as shown on the Battle Dice table.
+**Battle Dice.** You have two Battle Dice, which are d6s. A Battle Die is expended when you use it. You regain all expended Battle Dice when you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) or finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). Your Battle Die changes and more Battle Dice become available when you reach certain Warmage levels as shown on the Battle Dice table.
 
 **Maneuvers.** You can expend Battle Dice to perform maneuvers. Your maneuver options are detailed at the end of the subclass description.
 
@@ -87,27 +86,31 @@ The maneuvers are presented in alphabetical order.
 
 Options:
 
-- [Blitz](Mechanics/CLI/optional-features/blitz-valdaspire24.md)
-- [Check](Mechanics/CLI/optional-features/check-valdaspire24.md)
-- [Flash of Brilliance](Mechanics/CLI/optional-features/flash-of-brilliance-valdaspire24.md)
-- [Gambit](Mechanics/CLI/optional-features/gambit-valdaspire24.md)
-- [Morale Boost](Mechanics/CLI/optional-features/morale-boost-valdaspire24.md)
-- [Stalemate](Mechanics/CLI/optional-features/stalemate-valdaspire24.md)
+- [Blitz](/Mechanics/CLI/optional-features/blitz-valdaspire24.md)
+- [Check](/Mechanics/CLI/optional-features/check-valdaspire24.md)
+- [Flash of Brilliance](/Mechanics/CLI/optional-features/flash-of-brilliance-valdaspire24.md)
+- [Gambit](/Mechanics/CLI/optional-features/gambit-valdaspire24.md)
+- [Morale Boost](/Mechanics/CLI/optional-features/morale-boost-valdaspire24.md)
+- [Stalemate](/Mechanics/CLI/optional-features/stalemate-valdaspire24.md)
 
 ### Lead from the Front (Level 7)
 
-[Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement. [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) that can see you within 120 feet of you also gain this benefit.
+[Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) doesn't cost you extra movement. [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) that can see you within 120 feet of you also gain this benefit.
 
 ### Tactical Master (Level 10)
 
-[Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) within 10 feet of you add your Intelligence modifier (minimum of 1) to their saving throws against spells and magical effects.
+[Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) within 10 feet of you add your Intelligence modifier (minimum of 1) to their saving throws against spells and magical effects.
 
 ### Checkmate \[Maneuver] (Level 15)
 
-When you hit a creature with an attack, you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to direct an [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) within 60 feet of yourself that can see or hear you to strike. The [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to cast a cantrip or make one attack with a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). The ally adds the Battle Die to one damage roll of the attack or cantrip.
+When you hit a creature with an attack, you can expend one Battle Die as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to direct an [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) within 60 feet of yourself that can see or hear you to strike. The [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to cast a cantrip or make one attack with a weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). The ally adds the Battle Die to one damage roll of the attack or cantrip.
 
 ### Grandmaster (Level 18)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), choose a number of [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) up to your Intelligence modifier (minimum of one) within 60 feet of yourself that can see or hear you. Give each [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) a Battle Die without expending it.
+When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), choose a number of [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) up to your Intelligence modifier (minimum of one) within 60 feet of yourself that can see or hear you. Give each [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) a Battle Die without expending it.
 
-Once within the next minute when the [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) fails a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), it can roll the Battle Die and add the number rolled to the `d20`, potentially turning the failure into a success. A Battle Die is expended when it's rolled.
+Once within the next minute when the [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) fails a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), it can roll the Battle Die and add the number rolled to the `d20`, potentially turning the failure into a success. A Battle Die is expended when it's rolled.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

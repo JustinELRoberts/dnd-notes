@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Undead Spirit (Ghostly)
-created: 2026-03-09T12:15:34.001-04:00
-modified: 2026-03-09T12:15:34.001-04:00
-published: 2026-03-09T12:15:34.001-04:00
+created: 2026-03-29T21:53:56.011-04:00
+modified: 2026-03-29T21:53:56.011-04:00
+published: 2026-03-29T21:53:56.011-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Undead Spirit (Ghostly) (XPHB)
+modifier: 3
+stats:
+  - 12
+  - 16
+  - 15
+  - 4
+  - 10
+  - 9
+source:
+  - XPHB
 ---
 
 # Undead Spirit (Ghostly)
-
-_Source: Player's Handbook (2024) p. 328_
 
 ```ad-statblock
 title: Undead Spirit (Ghostly)
@@ -34,9 +45,9 @@ title: Undead Spirit (Ghostly)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages you know
 - **Challenge** 
 
@@ -48,7 +59,11 @@ title: Undead Spirit (Ghostly)
 
 ***Multiattack.*** The spirit makes a number of attacks equal to half this spell's level (round down).
 
-***Deathly Touch.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Necrotic damage, and the target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of its next turn.
+***Deathly Touch.*** *Melee Attack Roll:* Bonus equals your spell attack modifier, reach 5 ft. *Hit:* `1d8 + 3` + the spell's level Necrotic damage, and the target has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the end of its next turn.
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 328_

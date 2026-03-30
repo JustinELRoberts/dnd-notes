@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Great Old One Patron
-created: 2026-03-09T12:15:34.428-04:00
-modified: 2026-03-09T12:15:34.428-04:00
-published: 2026-03-09T12:15:34.428-04:00
+created: 2026-03-29T21:53:56.528-04:00
+modified: 2026-03-29T21:53:56.528-04:00
+published: 2026-03-29T21:53:56.528-04:00
 tags:
   - ttrpg-cli/spell/list/subclass/great-old-one-patron
 cssclasses:
@@ -16,26 +16,26 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Dissonant Whispers](Mechanics/CLI/spells/dissonant-whispers-xphb.md "XPHB") at class level 5
-- [Hex](Mechanics/CLI/spells/hex-xphb.md "XPHB") at class level 5
-- [Tasha's Hideous Laughter](Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 5
+- [Dissonant Whispers](/Mechanics/CLI/spells/dissonant-whispers-xphb.md "XPHB") at class level 5
+- [Hex](/Mechanics/CLI/spells/hex-xphb.md "XPHB") at class level 5
+- [Tasha's Hideous Laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 5
 
 ## 2nd Level
 
-- [Detect Thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5
-- [Phantasmal Force](Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") at class level 5
+- [Detect Thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md "XPHB") at class level 5
+- [Phantasmal Force](/Mechanics/CLI/spells/phantasmal-force-xphb.md "XPHB") at class level 5
 
 ## 3rd Level
 
-- [Clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 5
-- [Hunger of Hadar](Mechanics/CLI/spells/hunger-of-hadar-xphb.md "XPHB") at class level 5
+- [Clairvoyance](/Mechanics/CLI/spells/clairvoyance-xphb.md "XPHB") at class level 5
+- [Hunger of Hadar](/Mechanics/CLI/spells/hunger-of-hadar-xphb.md "XPHB") at class level 5
 
 ## 4th Level
 
-- [Confusion](Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 5
-- [Summon Aberration](Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB") at class level 5
+- [Confusion](/Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 5
+- [Summon Aberration](/Mechanics/CLI/spells/summon-aberration-xphb.md "XPHB") at class level 5
 
 ## 5th Level
 
-- [Modify Memory](Mechanics/CLI/spells/modify-memory-xphb.md "XPHB") at class level 5
-- [Telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 5
+- [Modify Memory](/Mechanics/CLI/spells/modify-memory-xphb.md "XPHB") at class level 5
+- [Telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md "XPHB") at class level 5

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Druid
-created: 2026-03-09T12:15:33.790-04:00
-modified: 2026-03-09T12:15:33.790-04:00
-published: 2026-03-09T12:15:33.790-04:00
+created: 2026-03-29T21:53:55.572-04:00
+modified: 2026-03-29T21:53:55.572-04:00
+published: 2026-03-29T21:53:55.572-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -22,22 +22,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Druid
+ac: 11
+hp: 27
+modifier: 1
+hit_dice: 5d8 + 5
+cr: "2"
+stats:
+  - 10
+  - 12
+  - 13
+  - 12
+  - 15
+  - 11
+source:
+  - MM
 ---
 
 # Druid
 
-_Source: Monster Manual p. 346. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/druid.webp#right)
-
 Druids dwell in forests and other secluded wilderness locations, where they protect the natural world from monsters and the encroachment of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance.
 
 ```ad-statblock
 title: Druid
-![](Mechanics/CLI/bestiary/humanoid/token/druid.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/druid.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 11 (16 with [barkskin](Mechanics/CLI/spells/barkskin-xphb.md))
-- **Hit Points** 27 (`5d8 + 5`) 
+- **Armor Class** 11 (16 with [barkskin](/Mechanics/CLI/spells/barkskin-xphb.md))
+- **Hit Points** 27 (5d8 + 5) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,9 +61,8 @@ title: Druid
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Medicine](Mechanics/CLI/rules/skills.md#Medicine) +4, [Nature](Mechanics/CLI/rules/skills.md#Nature) +3, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
+- **Skills** [Medicine](/Mechanics/CLI/skills.md#Medicine) +4, [Nature](/Mechanics/CLI/skills.md#Nature) +3, [Perception](/Mechanics/CLI/skills.md#Perception) +4
 - **Senses** passive Perception 14
-- **Gear** [quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)
 - **Languages** Druidic plus any two languages
 - **Challenge** 2
 
@@ -56,15 +70,15 @@ title: Druid
 
 ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, `+4` to hit with spell attacks). It has the following druid spells prepared:
 
-**Cantrips (at will):** [druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md), [produce flame](Mechanics/CLI/spells/produce-flame-xphb.md), [shillelagh](Mechanics/CLI/spells/shillelagh-xphb.md)
+**Cantrips (at will):** [druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md), [produce flame](/Mechanics/CLI/spells/produce-flame-xphb.md), [shillelagh](/Mechanics/CLI/spells/shillelagh-xphb.md)
 
-**1st level (4 slots):** [entangle](Mechanics/CLI/spells/entangle-xphb.md), [longstrider](Mechanics/CLI/spells/longstrider-xphb.md), [speak with animals](Mechanics/CLI/spells/speak-with-animals-xphb.md), [thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md)
+**1st level (4 slots):** [entangle](/Mechanics/CLI/spells/entangle-xphb.md), [longstrider](/Mechanics/CLI/spells/longstrider-xphb.md), [speak with animals](/Mechanics/CLI/spells/speak-with-animals-xphb.md), [thunderwave](/Mechanics/CLI/spells/thunderwave-xphb.md)
 
-**2nd level (3 slots):** [animal messenger](Mechanics/CLI/spells/animal-messenger-xphb.md), [barkskin](Mechanics/CLI/spells/barkskin-xphb.md)
+**2nd level (3 slots):** [animal messenger](/Mechanics/CLI/spells/animal-messenger-xphb.md), [barkskin](/Mechanics/CLI/spells/barkskin-xphb.md)
 
 ## Actions
 
-***Quarterstaff.*** *Melee Weapon Attack:* `+2` to hit (`+4` to hit with shillelagh), reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage, 4 (`1d8`) bludgeoning damage if wielded with two hands, or 6 (`1d8 + 2`) bludgeoning damage with [shillelagh](Mechanics/CLI/spells/shillelagh-xphb.md).
+***Quarterstaff.*** *Melee Weapon Attack:* `+2` to hit (`+4` to hit with shillelagh), reach 5 ft., one target. *Hit:* 3 (`1d6`) bludgeoning damage, 4 (`1d8`) bludgeoning damage if wielded with two hands, or 6 (`1d8 + 2`) bludgeoning damage with [shillelagh](/Mechanics/CLI/spells/shillelagh-xphb.md).
 ```
 
 ^statblock
@@ -72,3 +86,7 @@ title: Druid
 ## Environment
 
 coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert
+
+## Sources
+
+_Monster Manual p. 346. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

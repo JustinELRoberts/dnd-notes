@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Drow Priestess of Lolth
-created: 2026-03-09T12:15:33.891-04:00
-modified: 2026-03-09T12:15:33.891-04:00
-published: 2026-03-09T12:15:33.891-04:00
+created: 2026-03-29T21:53:55.889-04:00
+modified: 2026-03-29T21:53:55.889-04:00
+published: 2026-03-29T21:53:55.889-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Drow Priestess of Lolth
+ac: 16
+hp: 71
+modifier: 2
+hit_dice: 13d8 + 13
+cr: "8"
+stats:
+  - 10
+  - 14
+  - 12
+  - 13
+  - 17
+  - 18
+source:
+  - MM
 ---
 
 # Drow Priestess of Lolth
 
-_Source: Monster Manual p. 129_\
 ![Drow](Mechanics/CLI/bestiary/humanoid/img/drow.webp#right)
-
 Female drow with blood ties to a noble house are molded and trained from birth to become priestesses of Lolth. The Spider Queen doesn't allow male drow to hold such positions.
 
 Such priestesses execute the will of the Spider Queen, and as a result, they wield tremendous power and influence in drow society. The matron mothers who rule the drow houses are the most powerful of Lolth's priestesses, but they must constantly balance their devotion to the Spider Queen with their devotion to their families.
@@ -63,7 +78,7 @@ In drow society, males are subservient to females. A male drow might lead an Und
 
 ### Poison Predilection
 
-Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
+Distilled from spider venom and the flora of the Underdark, poison can be found in abundance among the drow, and it plays an important part in their culture and politics. Drow mages concoct a viscid toxin that leaves enemies [unconscious](/Mechanics/CLI/conditions.md#Unconscious). Drow warriors coat their blades and crossbow bolts with this venom, looking forward to the interrogation and torture that follows combat.
 
 > [!note] Variant: Drow Magic Armor and Weapons
 >
@@ -82,11 +97,11 @@ Distilled from spider venom and the flora of the Underdark, poison can be found 
 
 ```ad-statblock
 title: Drow Priestess of Lolth
-![](Mechanics/CLI/bestiary/humanoid/token/drow-priestess-of-lolth.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/drow-priestess-of-lolth.webp#token)
 *Medium humanoid (Drow elf), Neutral Evil*
 
-- **Armor Class** 16 ([scale mail](Mechanics/CLI/items/scale-mail-xphb.md))
-- **Hit Points** 71 (`13d8 + 13`) 
+- **Armor Class** 16 ([scale mail](/Mechanics/CLI/items/scale-mail.md))
+- **Hit Points** 71 (13d8 + 13) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -95,8 +110,8 @@ title: Drow Priestess of Lolth
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Constitution +4, Wisdom +6, Charisma +7
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Religion](Mechanics/CLI/rules/skills.md#Religion) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Religion](/Mechanics/CLI/skills.md#Religion) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Languages** Elvish, Undercommon
 - **Challenge** 8
 
@@ -104,27 +119,27 @@ title: Drow Priestess of Lolth
 
 ***Spellcasting.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, `+6` to hit with spell attacks). The drow has the following cleric spells prepared:
 
-**Cantrips (at will):** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [poison spray](Mechanics/CLI/spells/poison-spray-xphb.md), [resistance](Mechanics/CLI/spells/resistance-xphb.md), [spare the dying](Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [poison spray](/Mechanics/CLI/spells/poison-spray-xphb.md), [resistance](/Mechanics/CLI/spells/resistance-xphb.md), [spare the dying](/Mechanics/CLI/spells/spare-the-dying-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [animal friendship](Mechanics/CLI/spells/animal-friendship-xphb.md), [cure wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [detect poison and disease](Mechanics/CLI/spells/detect-poison-and-disease-xphb.md), [ray of sickness](Mechanics/CLI/spells/ray-of-sickness-xphb.md)
+**1st level (4 slots):** [animal friendship](/Mechanics/CLI/spells/animal-friendship-xphb.md), [cure wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [detect poison and disease](/Mechanics/CLI/spells/detect-poison-and-disease-xphb.md), [ray of sickness](/Mechanics/CLI/spells/ray-of-sickness-xphb.md)
 
-**2nd level (3 slots):** [lesser restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md), [protection from poison](Mechanics/CLI/spells/protection-from-poison-xphb.md), [web](Mechanics/CLI/spells/web-xphb.md)
+**2nd level (3 slots):** [lesser restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md), [protection from poison](/Mechanics/CLI/spells/protection-from-poison-xphb.md), [web](/Mechanics/CLI/spells/web-xphb.md)
 
-**3rd level (3 slots):** [conjure animals](Mechanics/CLI/spells/conjure-animals-xphb.md) (2 [giant spiders](Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md)
+**3rd level (3 slots):** [conjure animals](/Mechanics/CLI/spells/conjure-animals-xphb.md) (2 [giant spiders](/Mechanics/CLI/bestiary/beast/giant-spider-xmm.md)), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md)
 
-**4th level (3 slots):** [divination](Mechanics/CLI/spells/divination-xphb.md), [freedom of movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md)
+**4th level (3 slots):** [divination](/Mechanics/CLI/spells/divination-xphb.md), [freedom of movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md)
 
-**5th level (2 slots):** [insect plague](Mechanics/CLI/spells/insect-plague-xphb.md), [mass cure wounds](Mechanics/CLI/spells/mass-cure-wounds-xphb.md)
+**5th level (2 slots):** [insect plague](/Mechanics/CLI/spells/insect-plague-xphb.md), [mass cure wounds](/Mechanics/CLI/spells/mass-cure-wounds-xphb.md)
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 15). She can innately cast the following spells, requiring no material components:
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md)
 
-**1/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md) (self only)
+**1/day each:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md) (self only)
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put the drow to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -132,7 +147,7 @@ title: Drow Priestess of Lolth
 
 ***Scourge.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage plus 17 (`5d6`) poison damage.
 
-***Summon Demon (1/Day).*** The drow attempts to magically summon a [yochlol](Mechanics/CLI/bestiary/fiend/yochlol.md) with a 30 percent chance of success. If the attempt fails, the drow takes 5 (`1d10`) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
+***Summon Demon (1/Day).*** The drow attempts to magically summon a [yochlol](/Mechanics/CLI/bestiary/fiend/yochlol.md) with a 30 percent chance of success. If the attempt fails, the drow takes 5 (`1d10`) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 ```
 
 ^statblock
@@ -140,3 +155,7 @@ title: Drow Priestess of Lolth
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 129_

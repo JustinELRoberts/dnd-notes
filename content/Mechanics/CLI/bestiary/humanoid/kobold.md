@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kobold
-created: 2026-03-09T12:15:33.947-04:00
-modified: 2026-03-09T12:15:33.947-04:00
-published: 2026-03-09T12:15:33.947-04:00
+created: 2026-03-29T21:53:55.949-04:00
+modified: 2026-03-29T21:53:55.949-04:00
+published: 2026-03-29T21:53:55.949-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -22,13 +22,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Kobold
+ac: 12
+hp: 5
+modifier: 2
+hit_dice: 2d6 - 2
+cr: 1/8
+stats:
+  - 7
+  - 15
+  - 9
+  - 8
+  - 7
+  - 8
+source:
+  - MM
 ---
 
 # Kobold
 
-_Source: Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kobold.webp#right)
-
 Kobolds are craven reptilian humanoids that worship evil dragons as demigods and serve them as minions and toadies. Kobolds inhabit dragons' lairs when they can but more commonly infest dungeons, gathering treasures and trinkets to add to their own tiny hoards.
 
 ## Strength in Numbers
@@ -47,11 +62,11 @@ In addition to the dragons they revere, kobolds worship a lesser god named Kurtu
 
 ```ad-statblock
 title: Kobold
-![](Mechanics/CLI/bestiary/humanoid/token/kobold.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/kobold.webp#token)
 *Small humanoid (kobold), Lawful Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 5 (`2d6 - 2`) 
+- **Hit Points** 5 (2d6 - 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,16 +76,15 @@ title: Kobold
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md), [sling](Mechanics/CLI/items/sling-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Draconic
 - **Challenge** 1/8
 
 ## Traits
 
-***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
-***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -84,3 +98,7 @@ title: Kobold
 ## Environment
 
 forest, swamp, hill, urban, desert, coastal, arctic, mountain, underdark
+
+## Sources
+
+_Monster Manual p. 195. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

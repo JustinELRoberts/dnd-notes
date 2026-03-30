@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Airborne Encounters
-created: 2026-03-09T12:15:34.396-04:00
-modified: 2026-03-09T12:15:34.396-04:00
-published: 2026-03-09T12:15:34.396-04:00
+created: 2026-03-29T21:53:56.494-04:00
+modified: 2026-03-29T21:53:56.494-04:00
+published: 2026-03-29T21:53:56.494-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
 cssclasses:
@@ -20,7 +20,7 @@ _Source: Eberron: Forge of the Artificer p. 111_
 
 | dice: 1d10 | Encounter |
 |------------|-----------|
-| 1 | A gleaming "Lyrandar Air Cruiser" helmed by a Friendly but pompous Noble Prodigy or [Lyrandar Scion](Mechanics/CLI/bestiary/humanoid/lyrandar-scion-efa.md) |
+| 1 | A gleaming "Lyrandar Air Cruiser" helmed by a Friendly but pompous Noble Prodigy or [Lyrandar Scion](/Mechanics/CLI/bestiary/humanoid/lyrandar-scion-efa.md) |
 | 2 | A "Strider Airship" with a Hostile crew of `2d4` Pirates and one Pirate Captain |
 | 3 | `2d6` "Lyrandar Skyskiffs" gathered for a race; the ships' pilots are Indifferent but disgruntled toward anyone who interrupts their activities |
 | 4 | A derelict Lyrandar Air Cruiser, stranded in the sky after its engine's elemental core shattered |

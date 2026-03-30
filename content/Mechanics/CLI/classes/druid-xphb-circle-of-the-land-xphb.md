@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Circle of the Land
-created: 2026-03-09T12:15:33.932-04:00
-modified: 2026-03-09T12:15:33.932-04:00
-published: 2026-03-09T12:15:33.932-04:00
+created: 2026-03-29T21:53:55.936-04:00
+modified: 2026-03-29T21:53:55.936-04:00
+published: 2026-03-29T21:53:55.936-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/druid/land
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Circle of the Land
 
-_[Druid](./druid-xphb.md): Druid Subclass_\
-_Source: Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_[Druid](./druid-xphb.md): Druid Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,63 +58,63 @@ The Circle of the Land comprises mystics and sages who safeguard ancient knowled
 
 ### Circle of the Land Spells (Level 3)
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.
 
 **Arid Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [Blur](Mechanics/CLI/spells/blur-xphb.md), [Burning Hands](Mechanics/CLI/spells/burning-hands-xphb.md), [Fire Bolt](Mechanics/CLI/spells/fire-bolt-xphb.md) |
-| 5th | [Fireball](Mechanics/CLI/spells/fireball-xphb.md) |
-| 7th | [Blight](Mechanics/CLI/spells/blight-xphb.md) |
-| 9th | [Wall of Stone](Mechanics/CLI/spells/wall-of-stone-xphb.md) |
+| 3rd | [Blur](/Mechanics/CLI/spells/blur-xphb.md), [Burning Hands](/Mechanics/CLI/spells/burning-hands-xphb.md), [Fire Bolt](/Mechanics/CLI/spells/fire-bolt-xphb.md) |
+| 5th | [Fireball](/Mechanics/CLI/spells/fireball-xphb.md) |
+| 7th | [Blight](/Mechanics/CLI/spells/blight-xphb.md) |
+| 9th | [Wall of Stone](/Mechanics/CLI/spells/wall-of-stone-xphb.md) |
 ^arid-land
 
 **Polar Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [Fog Cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), [Hold Person](Mechanics/CLI/spells/hold-person-xphb.md), [Ray of Frost](Mechanics/CLI/spells/ray-of-frost-xphb.md) |
-| 5th | [Sleet Storm](Mechanics/CLI/spells/sleet-storm-xphb.md) |
-| 7th | [Ice Storm](Mechanics/CLI/spells/ice-storm-xphb.md) |
-| 9th | [Cone of Cold](Mechanics/CLI/spells/cone-of-cold-xphb.md) |
+| 3rd | [Fog Cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md), [Hold Person](/Mechanics/CLI/spells/hold-person-xphb.md), [Ray of Frost](/Mechanics/CLI/spells/ray-of-frost-xphb.md) |
+| 5th | [Sleet Storm](/Mechanics/CLI/spells/sleet-storm-xphb.md) |
+| 7th | [Ice Storm](/Mechanics/CLI/spells/ice-storm-xphb.md) |
+| 9th | [Cone of Cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md) |
 ^polar-land
 
 **Temperate Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md), [Shocking Grasp](Mechanics/CLI/spells/shocking-grasp-xphb.md), [Sleep](Mechanics/CLI/spells/sleep-xphb.md) |
-| 5th | [Lightning Bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md) |
-| 7th | [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 9th | [Tree Stride](Mechanics/CLI/spells/tree-stride-xphb.md) |
+| 3rd | [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md), [Shocking Grasp](/Mechanics/CLI/spells/shocking-grasp-xphb.md), [Sleep](/Mechanics/CLI/spells/sleep-xphb.md) |
+| 5th | [Lightning Bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md) |
+| 7th | [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
+| 9th | [Tree Stride](/Mechanics/CLI/spells/tree-stride-xphb.md) |
 ^temperate-land
 
 **Tropical Land**
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [Acid Splash](Mechanics/CLI/spells/acid-splash-xphb.md), [Ray of Sickness](Mechanics/CLI/spells/ray-of-sickness-xphb.md), [Web](Mechanics/CLI/spells/web-xphb.md) |
-| 5th | [Stinking Cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md) |
-| 7th | [Polymorph](Mechanics/CLI/spells/polymorph-xphb.md) |
-| 9th | [Insect Plague](Mechanics/CLI/spells/insect-plague-xphb.md) |
+| 3rd | [Acid Splash](/Mechanics/CLI/spells/acid-splash-xphb.md), [Ray of Sickness](/Mechanics/CLI/spells/ray-of-sickness-xphb.md), [Web](/Mechanics/CLI/spells/web-xphb.md) |
+| 5th | [Stinking Cloud](/Mechanics/CLI/spells/stinking-cloud-xphb.md) |
+| 7th | [Polymorph](/Mechanics/CLI/spells/polymorph-xphb.md) |
+| 9th | [Insect Plague](/Mechanics/CLI/spells/insect-plague-xphb.md) |
 ^tropical-land
 
 ### Land's Aid (Level 3)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. Each creature of your choice in the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on that point. Each creature of your choice in the [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) must make a Constitution saving throw against your spell save DC, taking `2d6` Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains `2d6` [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 The damage and healing increase by `1d6` when you reach Druid levels 10 (`3d6`) and 14 (`4d6`).
 
 ### Natural Recovery (Level 6)
 
-You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) before you do so again.
+You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) before you do so again.
 
-In addition, when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+In addition, when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Nature's Ward (Level 10)
 
-You are immune to the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition, and you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [Nature](Mechanics/CLI/rules/skills.md#Nature)'s Ward table.
+You are immune to the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition, and you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to a damage type associated with your current land choice in the Circle Spells feature, as shown in the [Nature](/Mechanics/CLI/skills.md#Nature)'s Ward table.
 
 **Nature's Ward**
 
@@ -129,6 +128,10 @@ You are immune to the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) con
 
 ### Nature's Sanctuary (Level 14)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition or die. You and your allies have [Half Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) while in that area, and your allies gain the current [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) of your [Nature](Mechanics/CLI/rules/skills.md#Nature)'s Ward while there.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can expend a use of your Wild Shape and cause spectral trees and vines to appear in a 15-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) on the ground within 120 feet of yourself. They last there for 1 minute or until you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition or die. You and your allies have [Half Cover](/Mechanics/CLI/variant-rules/cover-xphb.md) while in that area, and your allies gain the current [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) of your [Nature](/Mechanics/CLI/skills.md#Nature)'s Ward while there.
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can move the [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md) up to 60 feet to ground within 120 feet of yourself.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can move the [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md) up to 60 feet to ground within 120 feet of yourself.
+
+## Sources
+
+_Player's Handbook (2024) p. 84. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

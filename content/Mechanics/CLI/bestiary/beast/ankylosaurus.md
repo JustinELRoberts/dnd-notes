@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ankylosaurus
-created: 2026-03-09T12:15:33.989-04:00
-modified: 2026-03-09T12:15:33.989-04:00
-published: 2026-03-09T12:15:33.989-04:00
+created: 2026-03-29T21:53:55.996-04:00
+modified: 2026-03-29T21:53:55.996-04:00
+published: 2026-03-29T21:53:55.996-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ankylosaurus
+ac: 15
+hp: 68
+modifier: 0
+hit_dice: 8d12 + 16
+cr: "3"
+stats:
+  - 19
+  - 11
+  - 15
+  - 2
+  - 12
+  - 5
+source:
+  - MM
 ---
 
 # Ankylosaurus
 
-_Source: Monster Manual p. 79. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/dinosaurs.webp#right)
-
 Thick armor plating covers the body of the plant-eating ankylosaurus, which defends itself against predators with a knobbed tail that delivers a devastating strike. Some varieties of ankylosaurus have spiked tails that deal piercing damage instead of bludgeoning damage.
 
 ## Dinosaurs
@@ -33,11 +48,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Ankylosaurus
-![](Mechanics/CLI/bestiary/beast/token/ankylosaurus.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/ankylosaurus.webp#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 68 (`8d12 + 16`) 
+- **Hit Points** 68 (8d12 + 16) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,7 +68,7 @@ title: Ankylosaurus
 
 ## Actions
 
-***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 18 (`4d6 + 4`) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -61,3 +76,7 @@ title: Ankylosaurus
 ## Environment
 
 grassland
+
+## Sources
+
+_Monster Manual p. 79. Available in the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wood Woad
-created: 2026-03-09T12:15:34.094-04:00
-modified: 2026-03-09T12:15:34.094-04:00
-published: 2026-03-09T12:15:34.094-04:00
+created: 2026-03-29T21:53:56.124-04:00
+modified: 2026-03-29T21:53:56.124-04:00
+published: 2026-03-29T21:53:56.124-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Wood Woad (MPMM)
+ac: 18
+hp: 75
+modifier: 1
+hit_dice: 10d8 + 30
+cr: "5"
+stats:
+  - 18
+  - 12
+  - 16
+  - 10
+  - 13
+  - 8
+source:
+  - MPMM
+  - VGM
 ---
 
 # Wood Woad
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198_\
 ![](Mechanics/CLI/bestiary/plant/img/wood-woad.webp#right)
-
 A wood woad is a powerful bipedal Plant invested with the soul of someone who gave up life to become an everlasting guardian.
 
 The ritual to create a wood woad is a primeval secret passed down through generations of forest-dwelling societies and druid circles. Performing the ritual isn't necessarily an evil act if the victim-to-be is a willing sacrifice.
@@ -33,15 +49,15 @@ A wood woad has a hole where its heart would be, just as does the body of its fo
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
-Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [druids](Mechanics/CLI/bestiary/humanoid/druid.md) and [treants](Mechanics/CLI/bestiary/plant/treant.md). Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
+Wood woads are drawn to creatures that have close ties to nature and that protect and respect the land, such as [druids](/Mechanics/CLI/bestiary/humanoid/druid.md) and [treants](/Mechanics/CLI/bestiary/plant/treant.md). Some treants have wood woad servants by virtue of age-old pacts with druids or Fey that performed the rituals, while others acquire the services of freed wood woads that find renewed purpose in serving a kindred guardian.
 
 ```ad-statblock
 title: Wood Woad
-![](Mechanics/CLI/bestiary/plant/token/wood-woad-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/wood-woad-mpmm.webp#token)
 *Medium plant, Typically  Lawful Neutral*
 
-- **Armor Class** 18 (natural armor, [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 75 (`10d8 + 30`) 
+- **Armor Class** 18 (natural armor, [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 75 (10d8 + 30) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,18 +66,17 @@ title: Wood Woad
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +7, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +7, [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** bludgeoning, piercing
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
-- **Gear** [club](Mechanics/CLI/items/club-xphb.md)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Sylvan
 - **Challenge** 5
 
 ## Traits
 
-***Plant Camouflage.*** The wood woad has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks it makes in any terrain with ample obscuring vegetation.
+***Plant Camouflage.*** The wood woad has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks it makes in any terrain with ample obscuring vegetation.
 
 ***Regeneration.*** The wood woad regains 10 hit points at the start of its turn if it is in contact with the ground. If the wood woad takes fire damage, this trait doesn't function at the start of the wood woad's next turn. The wood woad dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
@@ -79,3 +94,7 @@ title: Wood Woad
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 266, Volo's Guide to Monsters p. 198_

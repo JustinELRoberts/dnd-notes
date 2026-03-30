@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Beholder Zombie
-created: 2026-03-09T12:15:33.837-04:00
-modified: 2026-03-09T12:15:33.837-04:00
-published: 2026-03-09T12:15:33.837-04:00
+created: 2026-03-29T21:53:55.622-04:00
+modified: 2026-03-29T21:53:55.622-04:00
+published: 2026-03-29T21:53:55.622-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,20 +14,35 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Beholder Zombie
+ac: 15
+hp: 93
+modifier: -1
+hit_dice: 11d10 + 33
+cr: "5"
+stats:
+  - 10
+  - 8
+  - 16
+  - 3
+  - 8
+  - 5
+source:
+  - MM
 ---
 
 # Beholder Zombie
 
-_Source: Monster Manual p. 316_\
 ![](Mechanics/CLI/bestiary/undead/img/beholder-zombie.webp#right)
-
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
 
 ## Dark Servants
 
 Sinister necromantic magic infuses the remains of the dead, causing them to rise as zombies that do their creator's bidding without fear or hesitation. They move with a jerky, uneven gait, clad in the moldering apparel they wore when put to rest, and carrying the stench of decay.
 
-Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](Mechanics/CLI/spells/resurrection-xphb.md) spell.
+Most zombies are made from humanoid remains, though the flesh and bones of any formerly living creature can be imbued with a semblance of life. Necromantic magic, usually from spells, animates a zombie. Some zombies rise spontaneously when dark magic saturates an area. Once turned into a zombie, a creature can't be restored to life except by powerful magic, such as a [resurrection](/Mechanics/CLI/spells/resurrection-xphb.md) spell.
 
 A zombie retains no vestiges of its former self, its mind devoid of thought and imagination. A zombie left without orders simply stands in place and rots unless something comes along that it can kill. The magic animating a zombie imbues it with evil, so left without purpose, it attacks any living creature it encounters.
 
@@ -47,17 +62,17 @@ A zombie doesn't require air, food, drink, or sleep.
 
 > [!quote] A quote from Fonkin Hoodypeak
 >
-> After Beek died, we cast an [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
+> After Beek died, we cast an [animate dead](/Mechanics/CLI/spells/animate-dead-xphb.md) spell on his corpse. It was fun for a while, but the zombie started to smell real bad, so we doused it in oil and set it on fire. Beek would've found that hilarious.
 
 ## Statblock
 
 ```ad-statblock
 title: Beholder Zombie
-![](Mechanics/CLI/bestiary/undead/token/beholder-zombie.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/beholder-zombie.webp#token)
 *Large undead, Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 93 (`11d10 + 33`) 
+- **Hit Points** 93 (11d10 + 33) 
 - **Speed** 0 ft., fly 20 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -67,9 +82,9 @@ title: Beholder Zombie
 - **Proficiency Bonus** +3
 - **Saving Throws** Wisdom +2
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** understands Deep Speech and Undercommon but can't speak
 - **Challenge** 5
 
@@ -83,8 +98,8 @@ title: Beholder Zombie
 
 ***Eye Ray.*** The zombie uses a random magical eye ray, choosing a target that it can see within 60 feet of it.
 
-- **1. Paralyzing Ray.** The targeted creature must succeed on a DC 14 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **2. Fear Ray.** The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **1. Paralyzing Ray.** The targeted creature must succeed on a DC 14 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **2. Fear Ray.** The targeted creature must succeed on a DC 14 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - **3. Enervation Ray.** The targeted creature must make a DC 14 Constitution saving throw, taking 36 (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one.  
 - **4. Disintegration Ray.** If the target is a creature, it must succeed on a DC 14 Dexterity saving throw or take 45 (`10d8`) force damage. If this damage reduces the creature to 0 hit points, its body becomes a pile of fine gray dust.  
 
@@ -96,3 +111,7 @@ title: Beholder Zombie
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 316_

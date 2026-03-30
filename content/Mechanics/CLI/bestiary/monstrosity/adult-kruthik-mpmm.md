@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Kruthik
-created: 2026-03-09T12:15:34.120-04:00
-modified: 2026-03-09T12:15:34.120-04:00
-published: 2026-03-09T12:15:34.120-04:00
+created: 2026-03-29T21:53:56.156-04:00
+modified: 2026-03-29T21:53:56.156-04:00
+published: 2026-03-29T21:53:56.156-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -16,14 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Kruthik (MPMM)
+ac: 18
+hp: 39
+modifier: 3
+hit_dice: 6d8 + 12
+cr: "2"
+stats:
+  - 15
+  - 16
+  - 15
+  - 7
+  - 12
+  - 8
+source:
+  - MPMM
 ---
 
 # Adult Kruthik
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 169_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/adult-kruthik.webp#right)
-
-It takes six months of steady eating for a [young kruthik](Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
+It takes six months of steady eating for a [young kruthik](/Mechanics/CLI/bestiary/monstrosity/young-kruthik-mpmm.md) to reach adult size. The natural life span of an adult kruthik is roughly seven years.
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
@@ -51,11 +66,11 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 ```ad-statblock
 title: Adult Kruthik
-![](Mechanics/CLI/bestiary/monstrosity/token/adult-kruthik-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/adult-kruthik-mpmm.webp#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 39 (`6d8 + 12`) 
+- **Hit Points** 39 (6d8 + 12) 
 - **Speed** 40 ft., burrow 20 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -64,14 +79,14 @@ title: Adult Kruthik
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 15
 - **Languages** Kruthik
 - **Challenge** 2
 
 ## Traits
 
-***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The kruthik has advantage on an attack roll against a creature if at least one of the kruthik's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
 
@@ -89,3 +104,7 @@ title: Adult Kruthik
 ## Environment
 
 desert, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 169_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Inflict Wounds
-created: 2026-03-09T12:15:33.950-04:00
-modified: 2026-03-09T12:15:33.950-04:00
-published: 2026-03-09T12:15:33.950-04:00
+created: 2026-03-29T21:53:55.951-04:00
+modified: 2026-03-29T21:53:55.951-04:00
+published: 2026-03-29T21:53:55.951-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
   - ttrpg-cli/spell/feat/shadow-touched
@@ -24,17 +25,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Martyr (Burden of Discord)
-  - Necromancer (Reaper)
-  - Paladin (Oathbreaker)
-  - Sorcerer (Divine Soul, Evil)
-  - Warmage (House of Knights)
-  - Witch (Black Magic)
-  - Witch (Blood Magic)
 ---
 
 # Inflict Wounds
@@ -50,6 +40,23 @@ A creature you touch makes a Constitution saving throw, taking `2d10` Necrotic d
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d10` for each spell slot level above 1.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Discord)](Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Reaper)](Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oathbreaker)](Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG;class=XPHB"); [Sorcerer (Divine Soul, Evil)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warmage (House of Knights)](Mechanics/CLI/lists/list-spells-classes-house-of-knights-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Black Magic)](Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Blood Magic)](Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Necromancer (Reaper)](/Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Shadow-Touched](/Mechanics/CLI/lists/list-spells-feats-shadow-touched-xphb.md)
+- [Witch (Blood Magic)](/Mechanics/CLI/lists/list-spells-classes-blood-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer (Divine Soul, Evil)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Sorcerer (Divine Soul, Evil)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Warmage (House of Knights)](/Mechanics/CLI/lists/list-spells-classes-house-of-knights-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Magic Initiate (Cleric Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Paladin (Oathbreaker)](/Mechanics/CLI/lists/list-spells-classes-oathbreaker-dmg.md "subclass=DMG")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch (Black Magic)](/Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Martyr (Burden of Discord)](/Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

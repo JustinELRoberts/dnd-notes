@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Templar
-created: 2026-03-09T12:15:33.798-04:00
-modified: 2026-03-09T12:15:33.798-04:00
-published: 2026-03-09T12:15:33.798-04:00
+created: 2026-03-29T21:53:55.582-04:00
+modified: 2026-03-29T21:53:55.582-04:00
+published: 2026-03-29T21:53:55.582-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,13 +13,25 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Templar (ValdaSpire24)
+ac: 16
+modifier: -1
+stats:
+  - 16
+  - 9
+  - 13
+  - 10
+  - 10
+  - 13
+source:
+  - ValdaSpire24
 ---
 
 # Templar
 
-_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Creatures/Templar.webp#right)
-
 A daring knight, sworn to virtue and station, a templar knows no fear in their heart and no equal in battle.
 
 ```ad-statblock
@@ -37,9 +49,8 @@ title: Templar
 
 - **Proficiency Bonus** +2
 - **Saving Throws** 0+PB, 1+PB
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5, [Religion](Mechanics/CLI/rules/skills.md#Religion) +2
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +5, [Religion](/Mechanics/CLI/skills.md#Religion) +2
 - **Senses** passive Perception 10
-- **Gear** [chain mail](Mechanics/CLI/items/chain-mail-xphb.md), four [javelins](Mechanics/CLI/items/javelin-xphb.md), [greatsword](Mechanics/CLI/items/greatsword-xphb.md)
 - **Languages** Common plus one other language
 - **Challenge** 
 
@@ -53,21 +64,25 @@ title: Templar
 
 ***Level 13.*** Zealous. The templar adds your Charisma modifier to its saving throws.
 
-***Level 17.*** Blessed Blade. The templar has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls.
+***Level 17.*** Blessed Blade. The templar has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls.
 
 ## Actions
 
-***Greatsword.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `2d6` plus your Charisma modifier Slashing damage.
+***Greatsword.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `2d6` plus your Charisma modifier Slashing damage.
 
-***Javelin.*** *Ranged Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), range 30/120 ft. *Hit:* `1d6` plus your Charisma modifier Piercing damage.
+***Javelin.*** *Ranged Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), range 30/120 ft. *Hit:* `1d6` plus your Charisma modifier Piercing damage.
 
 ## Bonus Actions
 
-***Smite (2/Day).*** The templar deals an extra `2d8` Radiant damage on a hit. The templar can use this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) once more at Captain level 5 (3/Day), 9 (4/Day), 13 (5/Day), and 17 (6/Day).
+***Smite (2/Day).*** The templar deals an extra `2d8` Radiant damage on a hit. The templar can use this [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) once more at Captain level 5 (3/Day), 9 (4/Day), 13 (5/Day), and 17 (6/Day).
 
 ## Reactions
 
-***Level 5.*** Parry. Trigger: The templar is hit by a melee attack roll while holding a weapon. _Response:_ The templar adds your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to its AC against that attack, possibly causing it to miss.
+***Level 5.*** Parry. Trigger: The templar is hit by a melee attack roll while holding a weapon. _Response:_ The templar adds your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to its AC against that attack, possibly causing it to miss.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

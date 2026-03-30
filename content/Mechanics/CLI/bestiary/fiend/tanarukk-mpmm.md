@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tanarukk
-created: 2026-03-09T12:15:34.009-04:00
-modified: 2026-03-09T12:15:34.009-04:00
-published: 2026-03-09T12:15:34.009-04:00
+created: 2026-03-29T21:53:56.016-04:00
+modified: 2026-03-29T21:53:56.016-04:00
+published: 2026-03-29T21:53:56.016-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -16,11 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Tanarukk (MPMM)
+ac: 14
+hp: 95
+modifier: 1
+hit_dice: 10d8 + 50
+cr: "5"
+stats:
+  - 18
+  - 13
+  - 20
+  - 9
+  - 9
+  - 9
+source:
+  - MPMM
+  - VGM
 ---
 
 # Tanarukk
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186_\
 ![](Mechanics/CLI/bestiary/fiend/img/tanarukk.webp#right)
 
 > [!quote] A quote from Tasha
@@ -29,17 +46,17 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide 
 
 When demonic influence corrupts the leadership of a people or an organization, the leaders might embrace abyssal magic to make tanarukks, using these ferocious warriors to bolster their followers' strength.
 
-The demon lord [Baphomet](Mechanics/CLI/bestiary/npc/baphomet-mpmm.md) gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
+The demon lord [Baphomet](/Mechanics/CLI/bestiary/npc/baphomet-mpmm.md) gladly shares the secret of creating tanarukks with those who entreat him for power; the cult of Gruumsh has also mastered a ritual for this purpose, and bestows it on those deemed worthy. Whatever process is used corrupts the subject, transforming them into a vicious Fiend.
 
 Although tanarukks are valued as fearsome fighters, they are a threat to their allies off the battlefield. When not in combat, a tanarukk is destructive and volatile and is usually kept imprisoned by its allies. If unrestrained, a free tanarukk embarks on a rampage, attempting to take over by force. Most such coups fail but are costly nonetheless. If a tanarukk does seize the leadership of a group, reckless raiding or even war is the course they inevitably choose.
 
 ```ad-statblock
 title: Tanarukk
-![](Mechanics/CLI/bestiary/fiend/token/tanarukk-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/tanarukk-mpmm.webp#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 95 (`10d8 + 50`) 
+- **Hit Points** 95 (10d8 + 50) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,10 +65,9 @@ title: Tanarukk
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** fire, poison
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md)
 - **Languages** Abyssal, Common, plus any one language
 - **Challenge** 5
 
@@ -81,3 +97,7 @@ title: Tanarukk
 ## Environment
 
 hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 240, Volo's Guide to Monsters p. 186_

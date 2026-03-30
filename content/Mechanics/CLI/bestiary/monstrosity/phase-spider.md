@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Phase Spider
-created: 2026-03-09T12:15:34.025-04:00
-modified: 2026-03-09T12:15:34.025-04:00
-published: 2026-03-09T12:15:34.025-04:00
+created: 2026-03-29T21:53:56.034-04:00
+modified: 2026-03-29T21:53:56.034-04:00
+published: 2026-03-29T21:53:56.034-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -19,24 +19,39 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Phase Spider
+ac: 13
+hp: 32
+modifier: 2
+hit_dice: 5d10 + 5
+cr: "3"
+stats:
+  - 15
+  - 15
+  - 12
+  - 6
+  - 10
+  - 6
+source:
+  - MM
 ---
 
 # Phase Spider
 
-_Source: Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/phase-spider.webp#right)
-
 A phase spider possesses the magical ability to phase in and out of the Ethereal Plane. It seems to appear out of nowhere and quickly vanishes after attacking. Its movement on the Ethereal Plane before coming back to the Material Plane makes it seem like it can teleport.
 
 ![](Mechanics/CLI/bestiary/monstrosity/img/phase-spider-2.webp#center)
 
 ```ad-statblock
 title: Phase Spider
-![](Mechanics/CLI/bestiary/monstrosity/token/phase-spider.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/phase-spider.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 32 (`5d10 + 5`) 
+- **Hit Points** 32 (5d10 + 5) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,8 +60,8 @@ title: Phase Spider
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 3
 
@@ -60,7 +75,7 @@ title: Phase Spider
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (`4d8`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
+***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (`4d8`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way.
 ```
 
 ^statblock
@@ -68,3 +83,7 @@ title: Phase Spider
 ## Environment
 
 underdark, grassland, forest, hill, urban, desert
+
+## Sources
+
+_Monster Manual p. 334. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Tyranny
-created: 2026-03-09T12:15:34.132-04:00
-modified: 2026-03-09T12:15:34.132-04:00
-published: 2026-03-09T12:15:34.132-04:00
+created: 2026-03-29T21:53:56.179-04:00
+modified: 2026-03-29T21:53:56.179-04:00
+published: 2026-03-29T21:53:56.179-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/martyr/tyranny
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Tyranny
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,35 +62,39 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Bane](Mechanics/CLI/spells/bane-xphb.md), [Command](Mechanics/CLI/spells/command-xphb.md) |
-| 5 | [Hold Person](Mechanics/CLI/spells/hold-person-xphb.md), [Word of Terror](Mechanics/CLI/spells/word-of-terror-valdaspire24.md) |
-| 9 | [Bestow Curse](Mechanics/CLI/spells/bestow-curse-xphb.md), [Fear](Mechanics/CLI/spells/fear-xphb.md) |
-| 13 | [Dominate Beast](Mechanics/CLI/spells/dominate-beast-xphb.md), [Phantasmal Killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md) |
-| 17 | [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md), [Hold Monster](Mechanics/CLI/spells/hold-monster-xphb.md) |
+| 3 | [Bane](/Mechanics/CLI/spells/bane-xphb.md), [Command](/Mechanics/CLI/spells/command-xphb.md) |
+| 5 | [Hold Person](/Mechanics/CLI/spells/hold-person-xphb.md), [Word of Terror](/Mechanics/CLI/spells/word-of-terror-valdaspire24.md) |
+| 9 | [Bestow Curse](/Mechanics/CLI/spells/bestow-curse-xphb.md), [Fear](/Mechanics/CLI/spells/fear-xphb.md) |
+| 13 | [Dominate Beast](/Mechanics/CLI/spells/dominate-beast-xphb.md), [Phantasmal Killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md) |
+| 17 | [Dominate Person](/Mechanics/CLI/spells/dominate-person-xphb.md), [Hold Monster](/Mechanics/CLI/spells/hold-monster-xphb.md) |
 ^tyranny-spells
 
 ### Diabolic Presence (Level 3)
 
-You gain proficiency in the [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
+You gain proficiency in the [Intimidation](/Mechanics/CLI/skills.md#Intimidation) skill. Additionally, you gain a bonus to checks using this skill equal to your Wisdom modifier (minimum of +1).
 
 ### Vengeful Reprisal (Level 3)
 
-When you deal Radiant damage to a creature with your Reprisal, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against the target until the end of your next turn.
+When you deal Radiant damage to a creature with your Reprisal, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against the target until the end of your next turn.
 
 ### Death Stare (Level 6)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), or as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action on your turn, you can lay a chilling gaze upon a creature you can see within 60 feet of yourself. The target must succeed on a Wisdom saving throw against your spell save DC or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of its next turn.
+When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), or as a [Magic](/Mechanics/CLI/actions.md#Magic) action on your turn, you can lay a chilling gaze upon a creature you can see within 60 feet of yourself. The target must succeed on a Wisdom saving throw against your spell save DC or have the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the end of its next turn.
 
 ### Sacrificial Resilience (Level 14)
 
-Once on each of your turns, immediately after you use your Sacrificial Strike, you can gain a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to the amount of Radiant damage you take.
+Once on each of your turns, immediately after you use your Sacrificial Strike, you can gain a number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to the amount of Radiant damage you take.
 
 ### Totalitarian Control (Level 18)
 
-You can cast [Dominate Beast](Mechanics/CLI/spells/dominate-beast-xphb.md), [Dominate Monster](Mechanics/CLI/spells/dominate-monster-xphb.md), or [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md) once without taking Radiant damage or expending a spell use. When you cast one of these spells using this feature, you gain the following benefits. Once you cast one of these spells without taking Radiant damage, you must finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) before you can cast the spell in that way again.
+You can cast [Dominate Beast](/Mechanics/CLI/spells/dominate-beast-xphb.md), [Dominate Monster](/Mechanics/CLI/spells/dominate-monster-xphb.md), or [Dominate Person](/Mechanics/CLI/spells/dominate-person-xphb.md) once without taking Radiant damage or expending a spell use. When you cast one of these spells using this feature, you gain the following benefits. Once you cast one of these spells without taking Radiant damage, you must finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) before you can cast the spell in that way again.
 
-**Overpowering Command.** The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on its saving throw against the spell.
+**Overpowering Command.** The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on its saving throw against the spell.
 
 **Psychic Recoil.** When the spell ends, you can choose to deal `6d8` Psychic damage to the target.
 
-**Iron Grip.** If you cast [Dominate Beast](Mechanics/CLI/spells/dominate-beast-xphb.md) or Dominate Person, you can numb the target to pain. The target doesn't repeat its saving throw against the spell when it takes damage.
+**Iron Grip.** If you cast [Dominate Beast](/Mechanics/CLI/spells/dominate-beast-xphb.md) or Dominate Person, you can numb the target to pain. The target doesn't repeat its saving throw against the spell when it takes damage.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

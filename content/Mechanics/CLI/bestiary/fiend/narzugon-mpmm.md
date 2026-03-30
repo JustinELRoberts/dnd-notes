@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Narzugon
-created: 2026-03-09T12:15:34.093-04:00
-modified: 2026-03-09T12:15:34.093-04:00
-published: 2026-03-09T12:15:34.093-04:00
+created: 2026-03-29T21:53:56.123-04:00
+modified: 2026-03-29T21:53:56.123-04:00
+published: 2026-03-29T21:53:56.123-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/13
@@ -13,26 +13,41 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Narzugon (MPMM)
+ac: 20
+hp: 112
+modifier: 0
+hit_dice: 15d8 + 45
+cr: "13"
+stats:
+  - 20
+  - 10
+  - 17
+  - 16
+  - 14
+  - 19
+source:
+  - MPMM
 ---
 
 # Narzugon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 190_\
 ![](Mechanics/CLI/bestiary/fiend/img/narzugon.webp#right)
-
 Paladins who make deals with devils and carry their twisted sense of honor into the afterlife are especially valuable to the archdukes of the Nine Hells. These narzugons act as horrific perversions of knights errant, carrying out their masters' will.
 
-Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [lemures](Mechanics/CLI/bestiary/fiend/lemure.md). Every lance bears the marks of both a narzugon and its master.
+Narzugons wield hell-forged lances that shunt the souls of any they killed to the River Styx for rebirth as [lemures](/Mechanics/CLI/bestiary/fiend/lemure.md). Every lance bears the marks of both a narzugon and its master.
 
-Each narzugon claims a [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) as its mount. These steeds are bound by [infernal tack](Mechanics/CLI/items/infernal-tack-mtf.md) and must respond to the summons and commands of the spurs' wearer.
+Each narzugon claims a [nightmare](/Mechanics/CLI/bestiary/fiend/nightmare.md) as its mount. These steeds are bound by [infernal tack](/Mechanics/CLI/items/infernal-tack-mtf.md) and must respond to the summons and commands of the spurs' wearer.
 
 ```ad-statblock
 title: Narzugon
-![](Mechanics/CLI/bestiary/fiend/token/narzugon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/narzugon-mpmm.webp#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
-- **Armor Class** 20 ([plate armor](Mechanics/CLI/items/plate-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 112 (`15d8 + 45`) 
+- **Armor Class** 20 ([plate armor](/Mechanics/CLI/items/plate-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 112 (15d8 + 45) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -41,17 +56,17 @@ title: Narzugon
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +5, Constitution +8, Charisma +9
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +12
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 22
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 22
 - **Damage Resistances** acid; cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common, Infernal, telepathy 120 ft.
 - **Challenge** 13
 
 ## Traits
 
-***Infernal Tack.*** The narzugon wears spurs that are part of [infernal tack](Mechanics/CLI/items/infernal-tack-mtf.md), which allow it to summon its [nightmare](Mechanics/CLI/bestiary/fiend/nightmare.md) companion as an action.
+***Infernal Tack.*** The narzugon wears spurs that are part of [infernal tack](/Mechanics/CLI/items/infernal-tack-mtf.md), which allow it to summon its [nightmare](/Mechanics/CLI/bestiary/fiend/nightmare.md) companion as an action.
 
 ***Magic Resistance.*** The narzugon has advantage on saving throws against spells and other magical effects.
 
@@ -59,13 +74,17 @@ title: Narzugon
 
 ***Multiattack.*** The narzugon makes three Hellfire Lance attacks. It also uses Infernal Command or Terrifying Command.
 
-***Hellfire Lance.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 11 (`1d12 + 5`) piercing damage plus 16 (`3d10`) fire damage. If this damage kills a creature with a soul, the soul rises from the River Styx as a [lemure](Mechanics/CLI/bestiary/fiend/lemure.md) in Avernus in `1d4` hours. If the creature isn't revived before then, only a [wish](Mechanics/CLI/spells/wish-xphb.md) spell or killing the lemure and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.
+***Hellfire Lance.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 11 (`1d12 + 5`) piercing damage plus 16 (`3d10`) fire damage. If this damage kills a creature with a soul, the soul rises from the River Styx as a [lemure](/Mechanics/CLI/bestiary/fiend/lemure.md) in Avernus in `1d4` hours. If the creature isn't revived before then, only a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell or killing the lemure and casting true resurrection on the creature's original body can restore it to life. Constructs and devils are immune to this effect.
 
-***Infernal Command.*** Each ally of the narzugon within 60 feet of it can't be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the narzugon's next turn.
+***Infernal Command.*** Each ally of the narzugon within 60 feet of it can't be [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of the narzugon's next turn.
 
-***Terrifying Command.*** Each creature within 60 feet of the narzugon that isn't a Fiend must succeed on a DC 17 Charisma saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) of the narzugon for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that makes a successful saving throw is immune to this narzugon's Terrifying Command for 24 hours.
+***Terrifying Command.*** Each creature within 60 feet of the narzugon that isn't a Fiend must succeed on a DC 17 Charisma saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) of the narzugon for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. A creature that makes a successful saving throw is immune to this narzugon's Terrifying Command for 24 hours.
 
 ***Healing (1/Day).*** The narzugon, or one creature it touches, regains 100 hit points.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 190_

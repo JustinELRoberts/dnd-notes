@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Criminal Syndicate Member Roles
-created: 2026-03-09T12:15:34.385-04:00
-modified: 2026-03-09T12:15:34.385-04:00
-published: 2026-03-09T12:15:34.385-04:00
+created: 2026-03-29T21:53:56.484-04:00
+modified: 2026-03-29T21:53:56.484-04:00
+published: 2026-03-29T21:53:56.484-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
 cssclasses:
@@ -20,10 +20,10 @@ _Source: Tasha's Cauldron of Everything p. 92_
 
 | Role | Backgrounds |
 |------|-------------|
-| Burglar | [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), Folk Hero, [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), Outlander, Urchin |
-| Muscle | [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md), Outlander, [Sailor](Mechanics/CLI/backgrounds/sailor-xphb.md), [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md) |
-| Con Artist | [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md), [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md), [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md), [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), Urchin |
-| Cleaner | [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md), [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md), Guild Artisan, [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md) |
-| Mastermind | [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md), [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), Folk Hero, [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), [Sage](Mechanics/CLI/backgrounds/sage-xphb.md) |
+| Burglar | [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Folk Hero](/Mechanics/CLI/backgrounds/folk-hero.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Outlander](/Mechanics/CLI/backgrounds/outlander.md), [Urchin](/Mechanics/CLI/backgrounds/urchin.md) |
+| Muscle | [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Entertainer](/Mechanics/CLI/backgrounds/entertainer.md), [Outlander](/Mechanics/CLI/backgrounds/outlander.md), [Sailor](/Mechanics/CLI/backgrounds/sailor.md), [Soldier](/Mechanics/CLI/backgrounds/soldier.md) |
+| Con Artist | [Acolyte](/Mechanics/CLI/backgrounds/acolyte.md), [Charlatan](/Mechanics/CLI/backgrounds/charlatan.md), [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Entertainer](/Mechanics/CLI/backgrounds/entertainer.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Urchin](/Mechanics/CLI/backgrounds/urchin.md) |
+| Cleaner | [Acolyte](/Mechanics/CLI/backgrounds/acolyte.md), [Charlatan](/Mechanics/CLI/backgrounds/charlatan.md), [Guild Artisan](/Mechanics/CLI/backgrounds/guild-artisan.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Soldier](/Mechanics/CLI/backgrounds/soldier.md) |
+| Mastermind | [Acolyte](/Mechanics/CLI/backgrounds/acolyte.md), [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Folk Hero](/Mechanics/CLI/backgrounds/folk-hero.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Sage](/Mechanics/CLI/backgrounds/sage.md) |
 | Mole | Any |
 ^criminal-syndicate-member-roles

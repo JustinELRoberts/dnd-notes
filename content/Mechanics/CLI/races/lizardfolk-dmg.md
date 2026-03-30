@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lizardfolk
-created: 2026-03-09T12:15:33.904-04:00
-modified: 2026-03-09T12:15:33.904-04:00
-published: 2026-03-09T12:15:33.904-04:00
+created: 2026-03-29T21:53:55.903-04:00
+modified: 2026-03-29T21:53:55.903-04:00
+published: 2026-03-29T21:53:55.903-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/race/lizardfolk
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Lizardfolk
-
-_Source: Dungeon Master's Guide p. 282_
 
 - **Ability Scores**: str +2 int -2
 - **Size**: Medium
@@ -34,3 +32,7 @@ Your scales function as natural armor, granting you a +3 bonus to Armor Class.
 ### Languages
 
 You can speak, read, and write Draconic.
+
+## Sources
+
+_Dungeon Master's Guide p. 282_

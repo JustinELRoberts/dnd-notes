@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Crocodile
-created: 2026-03-09T12:15:34.011-04:00
-modified: 2026-03-09T12:15:34.011-04:00
-published: 2026-03-09T12:15:34.011-04:00
+created: 2026-03-29T21:53:56.018-04:00
+modified: 2026-03-29T21:53:56.018-04:00
+published: 2026-03-29T21:53:56.018-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,19 +14,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Crocodile
+ac: 14
+hp: 85
+modifier: -1
+hit_dice: 9d12 + 27
+cr: "5"
+stats:
+  - 21
+  - 9
+  - 17
+  - 2
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Giant Crocodile
 
-_Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Giant Crocodile
-![](Mechanics/CLI/bestiary/beast/token/giant-crocodile.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-crocodile.webp#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 85 (`9d12 + 27`) 
+- **Hit Points** 85 (9d12 + 27) 
 - **Speed** 30 ft., swim 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -35,7 +50,7 @@ title: Giant Crocodile
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
 - **Senses** passive Perception 10
 - **Languages** —
 - **Challenge** 5
@@ -48,9 +63,9 @@ title: Giant Crocodile
 
 ***Multiattack.*** The crocodile makes two attacks: one with its bite and one with its tail.
 
-***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 21 (`3d10 + 5`) piercing damage, and the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 16). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and the crocodile can't bite another target.
+***Bite.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 21 (`3d10 + 5`) piercing damage, and the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 16). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), and the crocodile can't bite another target.
 
-***Tail.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target not [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the crocodile. *Hit:* 14 (`2d8 + 5`) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Tail.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target not [grappled](/Mechanics/CLI/conditions.md#Grappled) by the crocodile. *Hit:* 14 (`2d8 + 5`) bludgeoning damage. If the target is a creature, it must succeed on a DC 16 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -58,3 +73,7 @@ title: Giant Crocodile
 ## Environment
 
 swamp
+
+## Sources
+
+_Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

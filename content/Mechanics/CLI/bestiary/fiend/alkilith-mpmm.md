@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alkilith
-created: 2026-03-09T12:15:34.123-04:00
-modified: 2026-03-09T12:15:34.124-04:00
-published: 2026-03-09T12:15:34.124-04:00
+created: 2026-03-29T21:53:56.165-04:00
+modified: 2026-03-29T21:53:56.165-04:00
+published: 2026-03-29T21:53:56.165-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/11
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Alkilith (MPMM)
+ac: 17
+hp: 168
+modifier: 4
+hit_dice: 16d8 + 96
+cr: "11"
+stats:
+  - 12
+  - 19
+  - 22
+  - 6
+  - 11
+  - 7
+source:
+  - MPMM
 ---
 
 # Alkilith
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 44_\
 ![](Mechanics/CLI/bestiary/fiend/img/alkilith.webp#right)
-
 An alkilith is easily mistaken for some kind of foul fungal growth that appears on doorways, windows, and other portals. These dripping infestations conceal the demonic nature of the alkilith, making what should be a dire warning appear strange but otherwise innocuous. Wherever alkiliths take root, they weaken the fabric of reality, creating a portal through which even nastier demons can invade.
 
 The appearance of an alkilith in the world heralds a great wrongness and an imminent catastrophe. An alkilith searches for an aperture such as a window or a door around which it can take root, stretching its body around the opening and anchoring itself with a sticky secretion. If left undisturbed, the opening becomes attuned to the Abyss and eventually becomes a portal to that plane (see "Planar Portals" in the Dungeon Master's Guide).
@@ -30,11 +45,11 @@ Alkiliths spring from cast-off bits of the hideous, shuddering body of Juiblex. 
 
 ```ad-statblock
 title: Alkilith
-![](Mechanics/CLI/bestiary/fiend/token/alkilith-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/alkilith-mpmm.webp#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 168 (`16d8 + 96`) 
+- **Hit Points** 168 (16d8 + 96) 
 - **Speed** 40 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -43,11 +58,11 @@ title: Alkilith
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +8, Constitution +10
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** acid; cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Abyssal but can't speak
 - **Challenge** 11
 
@@ -57,11 +72,11 @@ title: Alkilith
 
 ***Amorphous.*** The alkilith can move through a space as narrow as 1 inch wide without squeezing.
 
-***False Appearance.*** If the alkilith is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the alkilith move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to discern that the alkilith isn't ordinary slime or fungus.
+***False Appearance.*** If the alkilith is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the alkilith move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check to discern that the alkilith isn't ordinary slime or fungus.
 
 ***Foment Confusion.*** Any creature that isn't a demon that starts its turn within 30 feet of the alkilith must succeed on a DC 18 Wisdom saving throw, or it hears a faint buzzing in its head for a moment and has disadvantage on its next attack roll, saving throw, or ability check.
 
-If the saving throw against Foment Confusion fails by 5 or more, the creature is instead subjected to the [confusion](Mechanics/CLI/spells/confusion-xphb.md) spell for 1 minute (no [concentration](Mechanics/CLI/rules/conditions.md#Concentration) required by the alkilith). While under the effect of that confusion, the creature is immune to Foment Confusion.
+If the saving throw against Foment Confusion fails by 5 or more, the creature is instead subjected to the [confusion](/Mechanics/CLI/spells/confusion-xphb.md) spell for 1 minute (no [concentration](/Mechanics/CLI/conditions.md#Concentration) required by the alkilith). While under the effect of that confusion, the creature is immune to Foment Confusion.
 
 ***Magic Resistance.*** The alkilith has advantage on saving throws against spells and other magical effects.
 
@@ -81,3 +96,7 @@ If the saving throw against Foment Confusion fails by 5 or more, the creature is
 ## Environment
 
 underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 44_

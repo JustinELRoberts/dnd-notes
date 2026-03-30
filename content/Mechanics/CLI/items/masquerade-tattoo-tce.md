@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Masquerade Tattoo
-created: 2026-03-09T12:15:33.777-04:00
-modified: 2026-03-09T12:15:33.777-04:00
-published: 2026-03-09T12:15:33.777-04:00
+created: 2026-03-29T21:53:55.559-04:00
+modified: 2026-03-29T21:53:55.559-04:00
+published: 2026-03-29T21:53:55.559-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -18,6 +18,9 @@ obsidianUIMode: preview
 # Masquerade Tattoo
 
 _Wondrous item (tattoo), common (requires attunement)_
+
+- **Cost**: ⏤
+- **Weight**: ⏤
 
 Produced by a special needle, this magic tattoo appears on your body as whatever you desire.
 
@@ -33,6 +36,8 @@ As a bonus action, you can shape the tattoo into any color or pattern and move i
 
 ## Disguise Self
 
-As an action, you can use the tattoo to cast the [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md) spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn.
+As an action, you can use the tattoo to cast the [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md) spell (DC 13 to discern the disguise). Once the spell is cast from the tattoo, it can't be cast from the tattoo again until the next dawn.
 
-_Source: Tasha's Cauldron of Everything p. 131_
+## Sources
+
+_Tasha's Cauldron of Everything p. 131_

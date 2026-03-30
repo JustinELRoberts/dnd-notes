@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rimekeeper
-created: 2026-03-09T12:15:33.943-04:00
-modified: 2026-03-09T12:15:33.943-04:00
-published: 2026-03-09T12:15:33.943-04:00
+created: 2026-03-29T21:53:55.945-04:00
+modified: 2026-03-29T21:53:55.945-04:00
+published: 2026-03-29T21:53:55.945-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/warden/rimekeeper
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Rimekeeper
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,34 +64,38 @@ When you use Block or Challenge on a Large or smaller creature, you can create a
 
 Your adaptation to arctic climates grants you the following benefits.
 
-**Cold Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Cold damage.
+**Cold Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Cold damage.
 
-**Frozen Weapons.** When you deal damage with a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), it can deal your choice of Cold damage or its normal damage type.
+**Frozen Weapons.** When you deal damage with a weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), it can deal your choice of Cold damage or its normal damage type.
 
-**Frigid Weapons.** When you attack with a Melee weapon whose mastery property you can use, you can replace that property with the [Slow](Mechanics/CLI/rules/item-mastery.md#Slow) property for that attack.
+**Frigid Weapons.** When you attack with a Melee weapon whose mastery property you can use, you can replace that property with the [Slow](/Mechanics/CLI/item-mastery.md#Slow) property for that attack.
 
 ### Ice Blast (Level 6)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can unleash a burst of ice from your hands. You can use this ice to create one of the following magical effects of your choice within 5 feet of you. If an effect calls for a saving throw or ability check, the DC equals 8 plus your Constitution modifier and your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can unleash a burst of ice from your hands. You can use this ice to create one of the following magical effects of your choice within 5 feet of you. If an effect calls for a saving throw or ability check, the DC equals 8 plus your Constitution modifier and your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
-**Black Ice.** You can create a slick area of ice covering the ground in a 5-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) centered on yourself. When the ice appears, each creature other than yourself standing in its area must succeed on a Dexterity saving throw or have the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition. A creature that enters the area for the first time on a turn or ends its turn there must also succeed on that save or fall [Prone](Mechanics/CLI/rules/conditions.md#Prone). This ice melts after 1 minute or if you create this effect again.
+**Black Ice.** You can create a slick area of ice covering the ground in a 5-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) centered on yourself. When the ice appears, each creature other than yourself standing in its area must succeed on a Dexterity saving throw or have the [Prone](/Mechanics/CLI/conditions.md#Prone) condition. A creature that enters the area for the first time on a turn or ends its turn there must also succeed on that save or fall [Prone](/Mechanics/CLI/conditions.md#Prone). This ice melts after 1 minute or if you create this effect again.
 
-**Freeze Shut.** You freeze over a closed door, window, gate, container, or hatch, causing it to become stuck. A Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check can force the object open again. This ice melts after 10 minutes.
+**Freeze Shut.** You freeze over a closed door, window, gate, container, or hatch, causing it to become stuck. A Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) check can force the object open again. This ice melts after 10 minutes.
 
 **Frostbite.** You bombard a creature you can see with frost. The target makes a Constitution saving throw, taking `2d12` Cold damage on a failed save or half as much damage on a successful one. This damage increases by `1d12` at Warden levels 11 (`3d12`) and 17 (`4d12`).
 
-**Snowbank.** You deposit enough snow and ice in a 10-foot-wide bank to provide [Half Cover](Mechanics/CLI/rules/variant-rules/cover-xphb.md) for two Medium creatures. This bank melts after 10 minutes.
+**Snowbank.** You deposit enough snow and ice in a 10-foot-wide bank to provide [Half Cover](/Mechanics/CLI/variant-rules/cover-xphb.md) for two Medium creatures. This bank melts after 10 minutes.
 
 ### Snowclad (Level 10)
 
-You gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Constitution modifier at the start of each of your turns if you don't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+You gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Constitution modifier at the start of each of your turns if you don't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Hoarfrost Herald (Level 17)
 
-You can embrace the bitter chill of hoarfrost. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can embrace the bitter chill of hoarfrost. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Cold Immunity.** You have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Cold damage.
+**Cold Immunity.** You have [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to Cold damage.
 
-**Frostbite Strike.** When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can replace one of your attacks with a use of the Frostbite option of your Ice Blast.
+**Frostbite Strike.** When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action, you can replace one of your attacks with a use of the Frostbite option of your Ice Blast.
 
-**Iceclad.** You gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to twice your Constitution modifier at the start of each of your turns if you don't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Iceclad.** You gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to twice your Constitution modifier at the start of each of your turns if you don't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

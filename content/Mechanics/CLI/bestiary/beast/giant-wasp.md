@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Wasp
-created: 2026-03-09T12:15:33.951-04:00
-modified: 2026-03-09T12:15:33.951-04:00
-published: 2026-03-09T12:15:33.951-04:00
+created: 2026-03-29T21:53:55.953-04:00
+modified: 2026-03-29T21:53:55.953-04:00
+published: 2026-03-29T21:53:55.953-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -16,19 +16,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Wasp
+ac: 12
+hp: 13
+modifier: 2
+hit_dice: 3d8
+cr: 1/2
+stats:
+  - 10
+  - 14
+  - 10
+  - 1
+  - 10
+  - 3
+source:
+  - MM
 ---
 
 # Giant Wasp
 
-_Source: Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Giant Wasp
-![](Mechanics/CLI/bestiary/beast/token/giant-wasp.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-wasp.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 13 (`3d8`) 
+- **Hit Points** 13 (3d8) 
 - **Speed** 10 ft., fly 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,7 +59,7 @@ title: Giant Wasp
 
 ## Actions
 
-***Sting.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 5 (`1d6 + 2`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way.
+***Sting.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 5 (`1d6 + 2`) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (`3d6`) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 hour, even after regaining hit points, and is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way.
 ```
 
 ^statblock
@@ -52,3 +67,7 @@ title: Giant Wasp
 ## Environment
 
 grassland, forest, urban
+
+## Sources
+
+_Monster Manual p. 329. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stoneheart Defender
-created: 2026-03-09T12:15:33.966-04:00
-modified: 2026-03-09T12:15:33.966-04:00
-published: 2026-03-09T12:15:33.966-04:00
+created: 2026-03-29T21:53:55.970-04:00
+modified: 2026-03-29T21:53:55.970-04:00
+published: 2026-03-29T21:53:55.970-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warden/stoneheart-defender
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Stoneheart Defender
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,11 +58,11 @@ Your call was the steadfast rumble of mountains, a pull which dwarves and gnomes
 
 ### Stonewall (Level 3)
 
-When you use the Block option of your Guardian Tactics while you are holding a [Shield](Mechanics/CLI/items/shield-xphb.md), you and the chosen ally are further protected from harm. Until the start of your next turn, any Bludgeoning, Piercing, or Slashing damage dealt to you or the ally is reduced by an amount equal to the AC bonus of your [Shield](Mechanics/CLI/items/shield-xphb.md).
+When you use the Block option of your Guardian Tactics while you are holding a [Shield](/Mechanics/CLI/items/shield-xphb.md), you and the chosen ally are further protected from harm. Until the start of your next turn, any Bludgeoning, Piercing, or Slashing damage dealt to you or the ally is reduced by an amount equal to the AC bonus of your [Shield](/Mechanics/CLI/items/shield-xphb.md).
 
 ### Earthshatter (Level 3)
 
-When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can replace one of your attacks with a downward slam that knocks others off their feet. Each Large or smaller creature you choose on the ground within 5 feet of yourself must succeed on a Strength saving throw (DC 8 plus your Strength modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action, you can replace one of your attacks with a downward slam that knocks others off their feet. Each Large or smaller creature you choose on the ground within 5 feet of yourself must succeed on a Strength saving throw (DC 8 plus your Strength modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)) or have the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 
 At Warden level 14, this area increases to 10 feet.
 
@@ -73,7 +72,7 @@ Your attunement to the mountains grants you the following benefits.
 
 **Immovable.** You can't be pushed, pulled, or teleported against your will.
 
-**Prone Immunity.** You have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition unless you choose to have it or have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+**Prone Immunity.** You have [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to [Prone](/Mechanics/CLI/conditions.md#Prone) condition unless you choose to have it or have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ### Legendary Interruption (Level 10)
 
@@ -81,10 +80,14 @@ When an enemy you can see takes a Legendary Action to make an attack, you can us
 
 ### Stoneforged Champion (Level 17)
 
-You can encase yourself in rock to become a living mountain. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can encase yourself in rock to become a living mountain. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 **Earthshatter Stomp.** Once on each of your turns, you can use your Earthshatter without replacing one of your attacks.
 
 **Giant Strength.** Your Strength increases by 4, to a maximum of 25.
 
-**Immortal Resolve.** While you are [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage.
+**Immortal Resolve.** While you are [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

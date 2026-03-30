@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mouth of Grolantor
-created: 2026-03-09T12:15:34.103-04:00
-modified: 2026-03-09T12:15:34.103-04:00
-published: 2026-03-09T12:15:34.103-04:00
+created: 2026-03-29T21:53:56.138-04:00
+modified: 2026-03-29T21:53:56.138-04:00
+published: 2026-03-29T21:53:56.138-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/6
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mouth of Grolantor (MPMM)
+ac: 14
+hp: 105
+modifier: 0
+hit_dice: 10d12 + 40
+cr: "6"
+stats:
+  - 21
+  - 10
+  - 18
+  - 5
+  - 7
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Mouth of Grolantor
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149_\
 ![](Mechanics/CLI/bestiary/giant/img/mouth-of-grolantor.webp#right)
-
 Hill giants consume spoiled food and diseased carcasses with as much enthusiasm as children eating dessert and rarely suffer for such eating habits. When one of their kind becomes incapable of keeping down food, that giant is seen, among hill giant worshipers of the god Grolantor, as the vessel of a message from the deity.
 
 The sickened giant's compatriots separate the giant from the rest of the community, often trapping them in a cage or tying them to a post. A priest of Grolantor visits the famished giant daily, trying to read portents in the puddles of bile the hill giant retches up. If the sickness soon passes, they allow the hill giant to rejoin society. If not, the hill giant is instead starved to the point of desperation so Grolantor's hunger can be given a mouth in the world.
@@ -30,11 +46,11 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 
 ```ad-statblock
 title: Mouth of Grolantor
-![](Mechanics/CLI/bestiary/giant/token/mouth-of-grolantor-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/mouth-of-grolantor-mpmm.webp#token)
 *Huge giant (hill giant), Typically  Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 105 (`10d12 + 40`) 
+- **Hit Points** 105 (10d12 + 40) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -43,21 +59,21 @@ title: Mouth of Grolantor
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +1
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +1
 - **Senses** passive Perception 11
-- **Condition Immunities** [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Giant
 - **Challenge** 6
 
 ## Traits
 
-***Mouth of Chaos.*** The giant is immune to the [confusion](Mechanics/CLI/spells/confusion-xphb.md) spell.
+***Mouth of Chaos.*** The giant is immune to the [confusion](/Mechanics/CLI/spells/confusion-xphb.md) spell.
 
 On each of its turns, the giant uses all its movement to move toward the nearest creature or whatever else it might perceive as food. Roll a `d10` at the start of each of the giant's turns to determine its action for that turn:
 
 - **1–3.** The giant makes three Fist attacks against one random creature within reach. If no creatures are within reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.  
 - **4–5.** The giant makes one Fist attack against each creature within reach. If no creatures are within reach, the giant makes one Fist attack against itself.  
-- **6–7.** The giant makes one Bite attack against one random creature within reach. If no other creatures are within reach, its eyes glaze over and it is [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the start of its next turn.  
+- **6–7.** The giant makes one Bite attack against one random creature within reach. If no other creatures are within reach, its eyes glaze over and it is [stunned](/Mechanics/CLI/conditions.md#Stunned) until the start of its next turn.  
 - **8–10.** The giant makes one Bite attack and two Fist attacks against one random creature within reach. If no creatures are within reach, the giant flies into a rage and gains advantage on all attack rolls until the end of its next turn.  
 
 ## Actions
@@ -72,3 +88,7 @@ On each of its turns, the giant uses all its movement to move toward the nearest
 ## Environment
 
 grassland, hill
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 187, Volo's Guide to Monsters p. 149_

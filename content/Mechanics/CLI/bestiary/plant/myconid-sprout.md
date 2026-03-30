@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Myconid Sprout
-created: 2026-03-09T12:15:34.015-04:00
-modified: 2026-03-09T12:15:34.015-04:00
-published: 2026-03-09T12:15:34.015-04:00
+created: 2026-03-29T21:53:56.024-04:00
+modified: 2026-03-29T21:53:56.024-04:00
+published: 2026-03-29T21:53:56.024-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Myconid Sprout
+ac: 10
+hp: 7
+modifier: 0
+hit_dice: 2d6
+cr: "0"
+stats:
+  - 8
+  - 10
+  - 10
+  - 8
+  - 11
+  - 5
+source:
+  - MM
 ---
 
 # Myconid Sprout
 
-_Source: Monster Manual p. 230_\
 ![](Mechanics/CLI/bestiary/plant/img/myconids.webp#right)
-
 Myconids are intelligent, ambulatory fungi that live in the Underdark, seek enlightenment, and deplore violence. If approached peacefully, myconids gladly provide shelter or allow safe passage through their colonies.
 
 ## Circles and Melds
@@ -37,11 +52,11 @@ Like other fungi, myconids reproduce by mundane sporing. They carefully control 
 
 ```ad-statblock
 title: Myconid Sprout
-![](Mechanics/CLI/bestiary/plant/token/myconid-sprout.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/myconid-sprout.webp#token)
 *Small plant, Lawful Neutral*
 
 - **Armor Class** 10 
-- **Hit Points** 7 (`2d6`) 
+- **Hit Points** 7 (2d6) 
 - **Speed** 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,7 +66,7 @@ title: Myconid Sprout
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 0
 
@@ -73,3 +88,7 @@ title: Myconid Sprout
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 230_

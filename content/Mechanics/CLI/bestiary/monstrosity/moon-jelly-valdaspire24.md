@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Moon Jelly
-created: 2026-03-09T12:15:33.873-04:00
-modified: 2026-03-09T12:15:33.873-04:00
-published: 2026-03-09T12:15:33.873-04:00
+created: 2026-03-29T21:53:55.665-04:00
+modified: 2026-03-29T21:53:55.665-04:00
+published: 2026-03-29T21:53:55.665-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/1-8
@@ -13,11 +13,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Moon Jelly (ValdaSpire24)
+ac: 11
+hp: 1
+modifier: 1
+hit_dice: 1d4 - 1
+cr: 1/8
+stats:
+  - 3
+  - 13
+  - 8
+  - 2
+  - 11
+  - 3
+source:
+  - ValdaSpire24
 ---
 
 # Moon Jelly
-
-_Source: Valda's Spire of Secrets (2024) p. 0_
 
 Though incapable of surviving on land, moon jellies are favored for their bioluminescence by witches that intend to explore deep underwater.
 
@@ -27,7 +42,7 @@ title: Moon Jelly
 *Tiny monstrosity (Familiar), Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 1 (`1d4 - 1`) 
+- **Hit Points** 1 (1d4 - 1) 
 - **Speed** fly 20 ft. (hover), swim 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,7 +52,7 @@ title: Moon Jelly
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 1/8
 
@@ -45,7 +60,7 @@ title: Moon Jelly
 
 ***Amphibious.*** The jelly can breathe air and water.
 
-***Illumination.*** The jelly sheds [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) in a 10-foot radius.
+***Illumination.*** The jelly sheds [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) in a 10-foot radius.
 
 ## Actions
 
@@ -53,3 +68,7 @@ title: Moon Jelly
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

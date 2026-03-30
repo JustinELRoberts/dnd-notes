@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bone Devil
-created: 2026-03-09T12:15:34.088-04:00
-modified: 2026-03-09T12:15:34.088-04:00
-published: 2026-03-09T12:15:34.088-04:00
+created: 2026-03-29T21:53:56.117-04:00
+modified: 2026-03-29T21:53:56.117-04:00
+published: 2026-03-29T21:53:56.117-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bone Devil
+ac: 19
+hp: 142
+modifier: 3
+hit_dice: 15d10 + 60
+cr: "9"
+stats:
+  - 18
+  - 16
+  - 18
+  - 13
+  - 14
+  - 16
+source:
+  - MM
 ---
 
 # Bone Devil
 
-_Source: Monster Manual p. 71. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/bone-devil.webp#right)
-
 Driven by hate, lust, and envy, bone devils act as the cruel taskmasters of the Nine Hells. They set weaker devils to work, taking special delight in seeing fiends that defy them demoted. At the same time, they long for promotion and are bitterly envious of their superiors, attempting to curry favor though it irks them to do so.
 
 A bone devil appears as a humanoid husk, with dried skin stretched tight across its skeletal frame. It bears a fearsome skull-like head and the tail of a scorpion, and a foul odor of decay hangs in the air around it. Though they are devastating in combat with their claws, bone devils also wield hooked polearms made of bone, which they use to subdue enemies before striking with their venomous tails.
@@ -120,7 +135,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -150,11 +165,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Bone Devil
-![](Mechanics/CLI/bestiary/fiend/token/bone-devil.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/bone-devil.webp#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 142 (`15d10 + 60`) 
+- **Hit Points** 142 (15d10 + 60) 
 - **Speed** 40 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -163,11 +178,11 @@ title: Bone Devil
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Intelligence +5, Wisdom +6, Charisma +7
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +7, [Insight](Mechanics/CLI/rules/skills.md#Insight) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +7, [Insight](/Mechanics/CLI/skills.md#Insight) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 9
 
@@ -183,7 +198,11 @@ title: Bone Devil
 
 ***Claw.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 8 (`1d8 + 4`) slashing damage.
 
-***Sting.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage plus 17 (`5d6`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Sting.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 13 (`2d8 + 4`) piercing damage plus 17 (`5d6`) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 71. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

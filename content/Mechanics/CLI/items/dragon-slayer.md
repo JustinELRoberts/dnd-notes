@@ -8,9 +8,9 @@ aliases:
   - Dragon Slayer Rapier
   - Dragon Slayer Scimitar
   - Dragon Slayer Shortsword
-created: 2026-03-09T12:15:33.933-04:00
-modified: 2026-03-09T12:15:33.933-04:00
-published: 2026-03-09T12:15:33.933-04:00
+created: 2026-03-29T21:53:55.938-04:00
+modified: 2026-03-29T21:53:55.938-04:00
+published: 2026-03-29T21:53:55.938-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -28,11 +28,14 @@ obsidianUIMode: preview
 _Major, rare_\
 ![Dragon Slayer (Greatsword)](Mechanics/CLI/items/img/dragon-slayer.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
 When you hit a dragon with this weapon, the dragon takes an extra `3d6` damage of the weapon's type. For the purpose of this weapon, "dragon" refers to any creature with the dragon type, including dragon turtles and wyverns.
 
-**Variants**:
+## Variants
 
 - [Dragon Slayer Double-Bladed Scimitar](#Dragon%20Slayer%20Double-Bladed%20Scimitar)
 - [Dragon Slayer Greatsword](#Dragon%20Slayer%20Greatsword)
@@ -44,13 +47,13 @@ When you hit a dragon with this weapon, the dragon takes an extra `3d6` damage o
 ### Dragon Slayer Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Dragon Slayer Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Dragon Slayer Longsword
@@ -58,25 +61,27 @@ When you hit a dragon with this weapon, the dragon takes an extra `3d6` damage o
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Dragon Slayer Rapier
 
 - **Damage**: 1d8 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse)
 - **Weight**: 2.0 lbs.
 
 ### Dragon Slayer Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
 ### Dragon Slayer Shortsword
 
 - **Damage**: 1d6 piercing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 2.0 lbs.
 
-_Source: Dungeon Master's Guide p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 166. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

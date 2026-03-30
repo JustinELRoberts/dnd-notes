@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Insect (Centipede)
-created: 2026-03-09T12:15:33.838-04:00
-modified: 2026-03-09T12:15:33.838-04:00
-published: 2026-03-09T12:15:33.838-04:00
+created: 2026-03-29T21:53:55.623-04:00
+modified: 2026-03-29T21:53:55.623-04:00
+published: 2026-03-29T21:53:55.623-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Insect (Centipede) (XPHB)
+modifier: 1
+stats:
+  - 17
+  - 13
+  - 15
+  - 4
+  - 14
+  - 3
+source:
+  - XPHB
 ---
 
 # Giant Insect (Centipede)
-
-_Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Giant Insect (Centipede)
@@ -34,7 +45,7 @@ title: Giant Insect (Centipede)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** understands the languages you know
 - **Challenge** 
 
@@ -50,7 +61,11 @@ title: Giant Insect (Centipede)
 
 ## Bonus Actions
 
-***Venomous Spew (Centipede Only).*** *Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition until the start of the insect's next turn.
+***Venomous Spew (Centipede Only).*** *Constitution Saving Throw:* Your spell save DC, one creature the insect can see within 10 feet. *Failure:* The target has the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition until the start of the insect's next turn.
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

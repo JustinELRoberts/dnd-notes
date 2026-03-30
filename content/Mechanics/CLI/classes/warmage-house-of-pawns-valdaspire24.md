@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Pawns
-created: 2026-03-09T12:15:34.059-04:00
-modified: 2026-03-09T12:15:34.059-04:00
-published: 2026-03-09T12:15:34.059-04:00
+created: 2026-03-29T21:53:56.078-04:00
+modified: 2026-03-29T21:53:56.078-04:00
+published: 2026-03-29T21:53:56.078-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warmage/pawns
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # House of Pawns
 
-_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,24 +56,28 @@ By far the most prominent Warmage house is that of the Pawns. Warmages who join 
 
 ### Promotion (Level 3)
 
-As a Pawn, you have trained as the quintessential Warmage. When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), choose one of the following benefits, which lasts until you use this feature to choose a different benefit.
+As a Pawn, you have trained as the quintessential Warmage. When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), choose one of the following benefits, which lasts until you use this feature to choose a different benefit.
 
 **Adaptive Magic.** You learn one Warmage trick of your choice for which you meet the prerequisites and one Warmage cantrip of your choice. This trick doesn't count against your number of tricks known.
 
-**Martial Training.** You gain proficiency with Martial weapons and training with Medium armor and [Shields](Mechanics/CLI/items/shield-xphb.md).
+**Martial Training.** You gain proficiency with Martial weapons and training with Medium armor and [Shields](/Mechanics/CLI/items/shield-xphb.md).
 
 ### Pawn Storm (Level 7)
 
-You can add your Intelligence modifier (minimum of 1) to [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) rolls. Additionally, when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can move up to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+You can add your Intelligence modifier (minimum of 1) to [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) rolls. Additionally, when you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can move up to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ### Multidiscipline (Level 10)
 
-You can add half your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) (round down) to any saving throw you make that doesn't otherwise use your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+You can add half your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) (round down) to any saving throw you make that doesn't otherwise use your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
 ### Pawn Wall (Level 15)
 
-Whenever you deal damage with a Warmage cantrip, you and up to two [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) within 5 feet of you have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to that damage type until the end of your next turn.
+Whenever you deal damage with a Warmage cantrip, you and up to two [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) within 5 feet of you have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage type until the end of your next turn.
 
 ### Fundamental Mastery (Level 18)
 
 Your magic always finds its way to your foes' most vulnerable spots. Once per turn when you roll damage for a Warmage cantrip, you can choose one damage die and treat it as having rolled its maximum value.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

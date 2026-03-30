@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fey Spirit
-created: 2026-03-09T12:15:33.965-04:00
-modified: 2026-03-09T12:15:33.965-04:00
-published: 2026-03-09T12:15:33.965-04:00
+created: 2026-03-29T21:53:55.969-04:00
+modified: 2026-03-29T21:53:55.969-04:00
+published: 2026-03-29T21:53:55.969-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Fey Spirit (XPHB)
+modifier: 3
+stats:
+  - 13
+  - 16
+  - 14
+  - 14
+  - 11
+  - 16
+source:
+  - XPHB
 ---
 
 # Fey Spirit
 
-_Source: Player's Handbook (2024) p. 326_\
 ![](Mechanics/CLI/bestiary/fey/img/fey-spirit.webp#center)
 
 ```ad-statblock
 title: Fey Spirit
-![](Mechanics/CLI/bestiary/fey/token/fey-spirit-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/fey-spirit-xphb.webp#token)
 *Small fey, Neutral*
 
 - **Armor Class** (12 + the spell's level)
@@ -36,8 +48,8 @@ title: Fey Spirit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed)
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed)
 - **Languages** Sylvan, understands the languages you know
 - **Challenge** 
 
@@ -52,8 +64,12 @@ title: Fey Spirit
 ***Fey Step.*** The spirit magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs, based on the spirit's chosen mood:
 
 - **Fuming.** The spirit has Advantage on the next attack roll it makes before the end of this turn.  
-- **Mirthful.** *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you and the spirit for 1 minute or until the target takes any damage.  
+- **Mirthful.** *Wisdom Saving Throw:* DC equals your spell save DC, one creature the spirit can see within 10 feet of itself. *Failure:* The target is [Charmed](/Mechanics/CLI/conditions.md#Charmed) by you and the spirit for 1 minute or until the target takes any damage.  
 - **Tricksy.** The spirit fills a 10-foot Cube within 5 feet of it with magical Darkness, which lasts until the end of its next turn.  
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 326_

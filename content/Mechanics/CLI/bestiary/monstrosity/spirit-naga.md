@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spirit Naga
-created: 2026-03-09T12:15:33.837-04:00
-modified: 2026-03-09T12:15:33.837-04:00
-published: 2026-03-09T12:15:33.837-04:00
+created: 2026-03-29T21:53:55.622-04:00
+modified: 2026-03-29T21:53:55.622-04:00
+published: 2026-03-29T21:53:55.622-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Spirit Naga
+ac: 15
+hp: 75
+modifier: 3
+hit_dice: 10d10 + 20
+cr: "8"
+stats:
+  - 18
+  - 17
+  - 14
+  - 16
+  - 15
+  - 16
+source:
+  - MM
 ---
 
 # Spirit Naga
 
-_Source: Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/spirit-naga.webp#right)
-
 Spirit nagas live in gloom and spitefulness, constantly plotting vengeance against creatures that have wronged them-or that they believe have wronged them. Lairing in dismal caverns and ruins, they devote their time to developing new spells and enslaving the mortals with which they surround themselves. A spirit naga likes to charm its foes, drawing them close so that it can sink its poisonous fangs into their flesh.
 
 > [!quote] A quote from Explictica Defilus, spirit naga
@@ -51,11 +66,11 @@ A naga doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Spirit Naga
-![](Mechanics/CLI/bestiary/monstrosity/token/spirit-naga.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/spirit-naga.webp#token)
 *Large monstrosity, Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 75 (`10d10 + 20`) 
+- **Hit Points** 75 (10d10 + 20) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,9 +80,9 @@ title: Spirit Naga
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Constitution +5, Wisdom +5, Charisma +6
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common
 - **Challenge** 8
 
@@ -75,19 +90,19 @@ title: Spirit Naga
 
 ***Spellcasting.*** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, `+6` to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
-**Cantrips (at will):** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [ray of frost](Mechanics/CLI/spells/ray-of-frost-xphb.md)
+**Cantrips (at will):** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [ray of frost](/Mechanics/CLI/spells/ray-of-frost-xphb.md)
 
-**1st level (4 slots):** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md)
+**1st level (4 slots):** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [sleep](/Mechanics/CLI/spells/sleep-xphb.md)
 
-**2nd level (3 slots):** [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md)
+**2nd level (3 slots):** [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [hold person](/Mechanics/CLI/spells/hold-person-xphb.md)
 
-**3rd level (3 slots):** [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md), [water breathing](Mechanics/CLI/spells/water-breathing-xphb.md)
+**3rd level (3 slots):** [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md), [water breathing](/Mechanics/CLI/spells/water-breathing-xphb.md)
 
-**4th level (3 slots):** [blight](Mechanics/CLI/spells/blight-xphb.md), [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md)
+**4th level (3 slots):** [blight](/Mechanics/CLI/spells/blight-xphb.md), [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md)
 
-**5th level (2 slots):** [dominate person](Mechanics/CLI/spells/dominate-person-xphb.md)
+**5th level (2 slots):** [dominate person](/Mechanics/CLI/spells/dominate-person-xphb.md)
 
-***Rejuvenation.*** If it dies, the naga returns to life in `1d6` days and regains all its hit points. Only a [wish](Mechanics/CLI/spells/wish-xphb.md) spell can prevent this trait from functioning.
+***Rejuvenation.*** If it dies, the naga returns to life in `1d6` days and regains all its hit points. Only a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell can prevent this trait from functioning.
 
 ## Actions
 
@@ -99,3 +114,7 @@ title: Spirit Naga
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 234. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

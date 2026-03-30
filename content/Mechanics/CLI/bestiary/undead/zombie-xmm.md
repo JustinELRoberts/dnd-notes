@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Zombie
-created: 2026-03-09T12:15:34.009-04:00
-modified: 2026-03-09T12:15:34.009-04:00
-published: 2026-03-09T12:15:34.009-04:00
+created: 2026-03-29T21:53:56.016-04:00
+modified: 2026-03-29T21:53:56.016-04:00
+published: 2026-03-29T21:53:56.016-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-4
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Zombie (XMM)
+ac: 8
+hp: 15
+modifier: -2
+hit_dice: 2d8 + 6
+cr: 1/4
+stats:
+  - 13
+  - 6
+  - 16
+  - 3
+  - 6
+  - 5
+source:
+  - XMM
+  - XPHB
 ---
 
 # Zombie
 
-_Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/undead/img/zombies.webp#right)
-
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
 
 ## Zombies
@@ -45,11 +61,11 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 
 ```ad-statblock
 title: Zombie
-![](Mechanics/CLI/bestiary/undead/token/zombie-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/zombie-xmm.webp#token)
 *Medium undead, Neutral Evil*
 
 - **Armor Class** 8 
-- **Hit Points** 15 (`2d8 + 6`) 
+- **Hit Points** 15 (2d8 + 6) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -59,15 +75,15 @@ title: Zombie
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +0
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Common plus one other language but can't speak
 - **Challenge** 1/4
 
 ## Traits
 
-***Undead Fortitude.*** If damage reduces the zombie to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md). On a successful save, the zombie drops to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead.
+***Undead Fortitude.*** If damage reduces the zombie to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), it makes a Constitution saving throw (DC 5 plus the damage taken) unless the damage is Radiant or from a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md). On a successful save, the zombie drops to 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead.
 
 ## Actions
 
@@ -79,3 +95,7 @@ title: Zombie
 ## Environment
 
 planar, shadowfell, underdark, urban
+
+## Sources
+
+_Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

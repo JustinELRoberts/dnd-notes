@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Manticore
-created: 2026-03-09T12:15:33.867-04:00
-modified: 2026-03-09T12:15:33.867-04:00
-published: 2026-03-09T12:15:33.867-04:00
+created: 2026-03-29T21:53:55.659-04:00
+modified: 2026-03-29T21:53:55.659-04:00
+published: 2026-03-29T21:53:55.659-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Manticore
+ac: 14
+hp: 68
+modifier: 3
+hit_dice: 8d10 + 24
+cr: "3"
+stats:
+  - 17
+  - 16
+  - 17
+  - 7
+  - 12
+  - 8
+source:
+  - MM
 ---
 
 # Manticore
 
-_Source: Monster Manual p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/manticore.webp#right)
-
 A monster in every sense of the word, a manticore has a vaguely humanoid head, the body of a lion, and the wings of a dragon. A bristling mane stretches down the creature's back, and its long tail ends in a cluster of deadly spikes that can impale prey at impressive range.
 
 ## Evil Predators
@@ -47,11 +62,11 @@ The manticores' greatest territorial rivals include chimeras, griffons, perytons
 
 ```ad-statblock
 title: Manticore
-![](Mechanics/CLI/bestiary/monstrosity/token/manticore.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/manticore.webp#token)
 *Large monstrosity, Lawful Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 68 (`8d10 + 24`) 
+- **Hit Points** 68 (8d10 + 24) 
 - **Speed** 30 ft., fly 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,7 +76,7 @@ title: Manticore
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** Common
 - **Challenge** 3
 
@@ -85,3 +100,7 @@ title: Manticore
 ## Environment
 
 mountain, grassland, hill, coastal, arctic
+
+## Sources
+
+_Monster Manual p. 213. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

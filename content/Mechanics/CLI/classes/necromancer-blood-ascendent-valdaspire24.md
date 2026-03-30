@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Blood Ascendent
-created: 2026-03-09T12:15:34.106-04:00
-modified: 2026-03-09T12:15:34.106-04:00
-published: 2026-03-09T12:15:34.106-04:00
+created: 2026-03-29T21:53:56.140-04:00
+modified: 2026-03-29T21:53:56.140-04:00
+published: 2026-03-29T21:53:56.140-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/necromancer/blood-ascendent
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Blood Ascendent
 
-_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,36 +62,40 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 | Necromancer Level | Spells |
 |-------------------|--------|
-| 3 | [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md), [Enthrall](Mechanics/CLI/spells/enthrall-xphb.md), [Sleep](Mechanics/CLI/spells/sleep-xphb.md), [Suggestion](Mechanics/CLI/spells/suggestion-xphb.md) |
-| 5 | [Hypnotic Pattern](Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [Vampiric Touch](Mechanics/CLI/spells/vampiric-touch-xphb.md) |
-| 7 | [Phantasmal Killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md), [Private Sanctum](Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md) |
-| 9 | [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md), [Modify Memory](Mechanics/CLI/spells/modify-memory-xphb.md) |
+| 3 | [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md), [Enthrall](/Mechanics/CLI/spells/enthrall-xphb.md), [Sleep](/Mechanics/CLI/spells/sleep-xphb.md), [Suggestion](/Mechanics/CLI/spells/suggestion-xphb.md) |
+| 5 | [Hypnotic Pattern](/Mechanics/CLI/spells/hypnotic-pattern-xphb.md), [Vampiric Touch](/Mechanics/CLI/spells/vampiric-touch-xphb.md) |
+| 7 | [Phantasmal Killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md), [Private Sanctum](/Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md) |
+| 9 | [Dominate Person](/Mechanics/CLI/spells/dominate-person-xphb.md), [Modify Memory](/Mechanics/CLI/spells/modify-memory-xphb.md) |
 ^blood-ascendent-spells
 
 ### Charnel Drain (Level 3)
 
-When you reduce an enemy to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) with your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your Intelligence modifier + your Necromancer level (minimum of 1).
+When you reduce an enemy to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) with your [Charnel Touch](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your Intelligence modifier + your Necromancer level (minimum of 1).
 
 ### Vampiric Transformation (Level 6)
 
-You can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action and expend 15 [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to shape-shift into a bat or a cloud of mist. This transformation lasts for 1 hour or until you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition or you dismiss it (no action required). Your gear melds into the new form, and you can't use or otherwise benefit from your equipment while shape-shifted.
+You can take a [Magic](/Mechanics/CLI/actions.md#Magic) action and expend 15 [Charnel Touch](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) points to shape-shift into a bat or a cloud of mist. This transformation lasts for 1 hour or until you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition or you dismiss it (no action required). Your gear melds into the new form, and you can't use or otherwise benefit from your equipment while shape-shifted.
 
-**Bat.** You transform into a bat. Your game statistics are replaced by the [Bat](Mechanics/CLI/bestiary/beast/bat-xmm.md) stat block, but you retain your creature type, [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md), Intelligence, Wisdom, and Charisma scores, class features, languages, and feats.
+**Bat.** You transform into a bat. Your game statistics are replaced by the [Bat](/Mechanics/CLI/bestiary/beast/bat-xmm.md) stat block, but you retain your creature type, [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), [Hit Point Dice](/Mechanics/CLI/variant-rules/hit-point-dice-xphb.md), Intelligence, Wisdom, and Charisma scores, class features, languages, and feats.
 
-**Mist.** You transform into a Medium cloud of mist. While shape-shifted, you can't speak, manipulate objects, or take any actions. You have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 20 feet and can hover, and can enter and occupy the space of another creature. You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage, [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition, and [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Strength, Dexterity, and Constitution saving throws. You can pass through narrow openings, but treat liquid as though they were solid surfaces.
+**Mist.** You transform into a Medium cloud of mist. While shape-shifted, you can't speak, manipulate objects, or take any actions. You have a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 20 feet and can hover, and can enter and occupy the space of another creature. You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage, [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Prone](/Mechanics/CLI/conditions.md#Prone) condition, and [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Strength, Dexterity, and Constitution saving throws. You can pass through narrow openings, but treat liquid as though they were solid surfaces.
 
 ### Children of the Night (Level 10)
 
-When you perform your [Animate Thralls](Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can summon one or more [Wolves](Mechanics/CLI/bestiary/beast/wolf-xmm.md), Swarms of Bats, or Swarms of Rats. You command these creatures as your thralls and they count as Undead for the purpose of your Necromancer features.
+When you perform your [Animate Thralls](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Thralls%20\(Level%202\)) ritual, you can summon one or more [Wolves](/Mechanics/CLI/bestiary/beast/wolf-xmm.md), Swarms of Bats, or Swarms of Rats. You command these creatures as your thralls and they count as Undead for the purpose of your Necromancer features.
 
 ### Nosferatu \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have embraced the blood curse of vampirism to become a vampire lord in all but name: a nosferatu. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have embraced the blood curse of vampirism to become a vampire lord in all but name: a nosferatu. You gain the following benefits in addition to those of your [Lichdom](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
-**Coffin Jar.** Your spirit jar is a coffin filled with grave dirt. When you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you reform in your coffin after 1 hour. You are permanently weakened until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) in the coffin. While weakened, your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum is reduced to 1, and you drop to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) if you begin your turn in sunlight.
+**Coffin Jar.** Your spirit jar is a coffin filled with grave dirt. When you drop to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), you reform in your coffin after 1 hour. You are permanently weakened until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) in the coffin. While weakened, your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum is reduced to 1, and you drop to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) if you begin your turn in sunlight.
 
-**Regeneration.** At the start of each of your turns, you regain 10 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). You don't gain this benefit if you have 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) or are in sunlight.
+**Regeneration.** At the start of each of your turns, you regain 10 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). You don't gain this benefit if you have 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) or are in sunlight.
 
-**Spider Climb.** You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Additionally, you gain a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md) equal to your speed.
+**Spider Climb.** You can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check. Additionally, you gain a [Climb Speed](/Mechanics/CLI/variant-rules/climb-speed-xphb.md) equal to your speed.
 
-**Vampiric Speed.** Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is doubled.
+**Vampiric Speed.** Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is doubled.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

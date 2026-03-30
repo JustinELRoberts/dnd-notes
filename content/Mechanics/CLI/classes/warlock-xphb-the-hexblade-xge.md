@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Hexblade
-created: 2026-03-09T12:15:33.795-04:00
-modified: 2026-03-09T12:15:33.795-04:00
-published: 2026-03-09T12:15:33.795-04:00
+created: 2026-03-29T21:53:55.579-04:00
+modified: 2026-03-29T21:53:55.579-04:00
+published: 2026-03-29T21:53:55.579-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/subclass/warlock/hexblade
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # The Hexblade
 
-_[Warlock](./warlock-xphb.md): Warlock Subclass_\
-_Source: Xanathar's Guide to Everything p. 55_
+_[Warlock](./warlock-xphb.md): Warlock Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -66,16 +65,16 @@ The Hexblade lets you choose from an expanded list of spells when you learn a wa
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [shield](Mechanics/CLI/spells/shield-xphb.md), [wrathful smite](Mechanics/CLI/spells/wrathful-smite-xphb.md) |
-| 2nd | [blur](Mechanics/CLI/spells/blur-xphb.md), [branding smite](Mechanics/CLI/spells/shining-smite-xphb.md) |
-| 3rd | [blink](Mechanics/CLI/spells/blink-xphb.md), [elemental weapon](Mechanics/CLI/spells/elemental-weapon-xphb.md) |
-| 4th | [phantasmal killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md), [staggering smite](Mechanics/CLI/spells/staggering-smite-xphb.md) |
-| 5th | [banishing smite](Mechanics/CLI/spells/banishing-smite-xphb.md), [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md) |
+| 1st | [shield](/Mechanics/CLI/spells/shield-xphb.md), [wrathful smite](/Mechanics/CLI/spells/wrathful-smite-xphb.md) |
+| 2nd | [blur](/Mechanics/CLI/spells/blur-xphb.md), [branding smite](/Mechanics/CLI/spells/shining-smite-xphb.md) |
+| 3rd | [blink](/Mechanics/CLI/spells/blink-xphb.md), [elemental weapon](/Mechanics/CLI/spells/elemental-weapon-xphb.md) |
+| 4th | [phantasmal killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md), [staggering smite](/Mechanics/CLI/spells/staggering-smite-xphb.md) |
+| 5th | [banishing smite](/Mechanics/CLI/spells/banishing-smite-xphb.md), [cone of cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md) |
 ^hexblade-expanded-spells
 
 ### Hexblade's Curse (Level 1)
 
-Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). Until the curse ends, you gain the following benefits:
+Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). Until the curse ends, you gain the following benefits:
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.
 - Any attack roll you make against the cursed target is a critical hit on a roll of 19 or 20 on the `d20`.
@@ -91,7 +90,7 @@ The influence of your patron also allows you to mystically channel your will thr
 
 ### Accursed Specter (Level 6)
 
-Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [specter](Mechanics/CLI/bestiary/undead/specter.md), the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
+Starting at 6th level, you can curse the soul of a person you slay, temporarily binding it to your service. When you slay a humanoid, you can cause its spirit to rise from its corpse as a [specter](/Mechanics/CLI/bestiary/undead/specter.md), the statistics for which are in the Monster Manual. When the specter appears, it gains temporary hit points equal to half your warlock level. Roll initiative for the specter, which has its own turns. It obeys your verbal commands, and it gains a special bonus to its attack rolls equal to your Charisma modifier (minimum of +0).
 
 The specter remains in your service until the end of your next long rest, at which point it vanishes to the afterlife.
 
@@ -103,4 +102,8 @@ At 10th level, your hex grows more powerful. If the target cursed by your Hexbla
 
 ### Master of Hexes (Level 14)
 
-Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+Starting at 14th level, you can spread your Hexblade's Curse from a slain creature to another creature. When the creature cursed by your Hexblade's Curse dies, you can apply the curse to a different creature you can see within 30 feet of you, provided you aren't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). When you apply the curse in this way, you don't regain hit points from the death of the previously cursed creature.
+
+## Sources
+
+_Xanathar's Guide to Everything p. 55_

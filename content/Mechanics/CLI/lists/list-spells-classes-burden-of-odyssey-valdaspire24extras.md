@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Burden of Odyssey
-created: 2026-03-09T12:15:34.425-04:00
-modified: 2026-03-09T12:15:34.425-04:00
-published: 2026-03-09T12:15:34.425-04:00
+created: 2026-03-29T21:53:56.518-04:00
+modified: 2026-03-29T21:53:56.518-04:00
+published: 2026-03-29T21:53:56.518-04:00
 tags:
   - ttrpg-cli/spell/list/subclass/burden-of-odyssey
 cssclasses:
@@ -16,25 +16,25 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Expeditious Retreat](Mechanics/CLI/spells/expeditious-retreat-xphb.md "XPHB") at class level 13
-- [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md "XPHB") at class level 13
+- [Expeditious Retreat](/Mechanics/CLI/spells/expeditious-retreat-xphb.md "XPHB") at class level 13
+- [Feather Fall](/Mechanics/CLI/spells/feather-fall-xphb.md "XPHB") at class level 13
 
 ## 2nd Level
 
-- [Gust of Wind](Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 13
-- [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 13
+- [Gust of Wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md "XPHB") at class level 13
+- [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 13
 
 ## 3rd Level
 
-- [Fly](Mechanics/CLI/spells/fly-xphb.md "XPHB") at class level 13
-- [Water Walk](Mechanics/CLI/spells/water-walk-xphb.md "XPHB") at class level 13
+- [Fly](/Mechanics/CLI/spells/fly-xphb.md "XPHB") at class level 13
+- [Water Walk](/Mechanics/CLI/spells/water-walk-xphb.md "XPHB") at class level 13
 
 ## 4th Level
 
-- [Dimension Door](Mechanics/CLI/spells/dimension-door-xphb.md "XPHB") at class level 13
-- [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") at class level 13
+- [Dimension Door](/Mechanics/CLI/spells/dimension-door-xphb.md "XPHB") at class level 13
+- [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md "XPHB") at class level 13
 
 ## 5th Level
 
-- [Passwall](Mechanics/CLI/spells/passwall-xphb.md "XPHB") at class level 13
-- [Teleportation Circle](Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB") at class level 13
+- [Passwall](/Mechanics/CLI/spells/passwall-xphb.md "XPHB") at class level 13
+- [Teleportation Circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB") at class level 13

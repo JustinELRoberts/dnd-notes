@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mage Hand Knack
-created: 2026-03-09T12:15:33.786-04:00
-modified: 2026-03-09T12:15:33.786-04:00
-published: 2026-03-09T12:15:33.786-04:00
+created: 2026-03-29T21:53:55.564-04:00
+modified: 2026-03-29T21:53:55.564-04:00
+published: 2026-03-29T21:53:55.564-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/t
@@ -15,9 +15,9 @@ obsidianUIMode: preview
 
 # Mage Hand Knack
 
-_**Prerequisites**_ [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md) cantrip
+_**Prerequisites**_ [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md) cantrip
 
-Your skill with the [Mage Hand](Mechanics/CLI/spells/mage-hand-xphb.md) cantrip allows you to use it as an extension of yourself. You can cast the spell as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) instead of an action. You can also control the hand as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on each of your turns, and can use one of the following abilities when you control the hand.
+Your skill with the [Mage Hand](/Mechanics/CLI/spells/mage-hand-xphb.md) cantrip allows you to use it as an extension of yourself. You can cast the spell as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) instead of an action. You can also control the hand as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on each of your turns, and can use one of the following abilities when you control the hand.
 
 ## Press
 
@@ -29,7 +29,7 @@ The hand strikes one creature or object within 5 feet of it. Make a melee spell 
 
 ## Seize
 
-The hand attempts to grapple a Small or smaller creature within 5 feet of it. The target must succeed on a Strength or Dexterity saving throw against your spell save DC (it chooses which), or it has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition. The escape DC equals your spell save DC. The hand continues grappling the target until the spell ends or you take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to control the hand.
+The hand attempts to grapple a Small or smaller creature within 5 feet of it. The target must succeed on a Strength or Dexterity saving throw against your spell save DC (it chooses which), or it has the [Grappled](/Mechanics/CLI/conditions.md#Grappled) condition. The escape DC equals your spell save DC. The hand continues grappling the target until the spell ends or you take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to control the hand.
 
 ## Sources
 

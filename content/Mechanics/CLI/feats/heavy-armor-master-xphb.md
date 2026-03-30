@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Heavy Armor Master
-created: 2026-03-09T12:15:34.139-04:00
-modified: 2026-03-09T12:15:34.139-04:00
-published: 2026-03-09T12:15:34.139-04:00
+created: 2026-03-29T21:53:56.191-04:00
+modified: 2026-03-29T21:53:56.191-04:00
+published: 2026-03-29T21:53:56.191-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,7 +21,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Constitution or Strength by 1, to a maximum of 20.
 
-**Damage Reduction.** When you're hit by an attack while you're wearing Heavy armor, any Bludgeoning, Piercing, and Slashing damage dealt to you by that attack is reduced by an amount equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+**Damage Reduction.** When you're hit by an attack while you're wearing Heavy armor, any Bludgeoning, Piercing, and Slashing damage dealt to you by that attack is reduced by an amount equal to your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
 ## Sources
 

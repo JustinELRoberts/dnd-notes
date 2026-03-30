@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yuan-ti Pureblood
-created: 2026-03-09T12:15:34.017-04:00
-modified: 2026-03-09T12:15:34.018-04:00
-published: 2026-03-09T12:15:34.018-04:00
+created: 2026-03-29T21:53:56.027-04:00
+modified: 2026-03-29T21:53:56.027-04:00
+published: 2026-03-29T21:53:56.027-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Yuan-ti Pureblood
+ac: 11
+hp: 40
+modifier: 1
+hit_dice: 9d8
+cr: "1"
+stats:
+  - 11
+  - 12
+  - 11
+  - 13
+  - 12
+  - 14
+source:
+  - MM
 ---
 
 # Yuan-ti Pureblood
 
-_Source: Monster Manual p. 310_\
 ![](Mechanics/CLI/bestiary/humanoid/img/yuan-ti-pureblood.webp#right)
-
 Purebloods form the lowest caste of yuan-ti society. They closely resemble humans, yet a pureblood can't pass for human under close scrutiny because there's always some hint of its true nature, such as scaly patches of skin, serpentine eyes, pointed teeth, or a forked tongue. Wearing cloaks and cowls, they masquerade as humans and infiltrate civilized lands to gather information, kidnap prisoners for interrogation and sacrifice, and trade with anyone who has something that can further their myriad plots.
 
 ## Yuan-ti
@@ -56,11 +71,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 >
 > The yuan-ti revere a number of powerful entities as gods, including the following.
 >
-> **Dendar, the Night Serpent.** [Dendar's](Mechanics/CLI/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
+> **Dendar, the Night Serpent.** [Dendar's](/Mechanics/CLI/deities/yuan-ti-dendar-vgm.md) followers say that one day she will grow so large from feasting on the fears and nightmares of the world that she will devour it whole. Yuan-ti that serve Dendar terrorize other creatures in any way they can, growing and nurturing the fears of humanoids to feed the Night Serpent.
 >
-> **Merrshaulk, Master of the Pit.** [Merrshaulk](Mechanics/CLI/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
+> **Merrshaulk, Master of the Pit.** [Merrshaulk](/Mechanics/CLI/deities/yuan-ti-merrshaulk-vgm.md) is the long slumbering chief deity of the yuan-ti. As worship of Merrshaulk waned, he went into slumber. Merrshaulk's priests are yuan-ti abominations that maintain traditions of living sacrifice and cause suffering in the god's name. With enough vile acts, the abominations believe that Merrshaulk will reawaken and restore the yuan-ti to their rightful place.
 >
-> **Sseth, the Sibilant Death.** [Sseth](Mechanics/CLI/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
+> **Sseth, the Sibilant Death.** [Sseth](/Mechanics/CLI/deities/yuan-ti-sseth-vgm.md) appeared to the yuan-ti of antiquity in the form of a winged yuan-ti claiming to be an avatar of Merrshaulk. Speaking with Merrshaulk's voice, Sseth vowed to pull the yuan-ti out of decline and build a new empire. Many of Merrshaulk's devout turned to the worship of Sseth. Some yuan-ti have long suspected Sseth as an usurper taking advantage of Merrshaulk's slumber to make himself a god. They believe that Sseth might even have devoured Merrshaulk, and now answers the prayers of Merrshaulk's followers, as his priests convert or consume Merrshaulk's more stubborn adherents.
 > ^serpent-gods
 
 > [!quote] A quote from From Masters of the Forbidden City by Codo Vidak
@@ -71,11 +86,11 @@ Yuan-ti life revolves around their temples, yet yuan-ti don't love the gods they
 
 ```ad-statblock
 title: Yuan-ti Pureblood
-![](Mechanics/CLI/bestiary/humanoid/token/yuan-ti-pureblood.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/yuan-ti-pureblood.webp#token)
 *Medium humanoid (yuan-ti), Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 40 (`9d8`) 
+- **Hit Points** 40 (9d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -84,11 +99,10 @@ title: Yuan-ti Pureblood
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md), [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Common, Draconic
 - **Challenge** 1
 
@@ -96,9 +110,9 @@ title: Yuan-ti Pureblood
 
 ***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
 
-**At will:** [animal friendship](Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only)
+**At will:** [animal friendship](/Mechanics/CLI/spells/animal-friendship-xphb.md) (snakes only)
 
-**3/day each:** [poison spray](Mechanics/CLI/spells/poison-spray-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**3/day each:** [poison spray](/Mechanics/CLI/spells/poison-spray-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
@@ -116,3 +130,7 @@ title: Yuan-ti Pureblood
 ## Environment
 
 forest, swamp, urban, desert
+
+## Sources
+
+_Monster Manual p. 310_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Folding Boat
-created: 2026-03-09T12:15:33.975-04:00
-modified: 2026-03-09T12:15:33.975-04:00
-published: 2026-03-09T12:15:33.975-04:00
+created: 2026-03-29T21:53:55.976-04:00
+modified: 2026-03-29T21:53:55.976-04:00
+published: 2026-03-29T21:53:55.976-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -19,6 +19,7 @@ obsidianUIMode: preview
 _Wondrous item, minor, rare_\
 ![](Mechanics/CLI/items/img/folding-boat.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 This object appears as a wooden box that measures 12 inches long, 6 inches wide, and 6 inches deep. It weighs 4 pounds and floats. It can be opened to store items inside. This item also has three command words, each requiring you to use an action to speak it.
@@ -31,4 +32,6 @@ When the box becomes a vessel, its weight becomes that of a normal vessel its si
 
 The third command word causes the folding boat to fold back into a box, provided that no creatures are aboard. Any objects in the vessel that can't fit inside the box remain outside the box as it folds. Any objects in the vessel that can fit inside the box do so.
 
-_Source: Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 170. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Artifact Properties; Major Beneficial Properties
-created: 2026-03-09T12:15:34.413-04:00
-modified: 2026-03-09T12:15:34.413-04:00
-published: 2026-03-09T12:15:34.413-04:00
+created: 2026-03-29T21:53:56.510-04:00
+modified: 2026-03-29T21:53:56.510-04:00
+published: 2026-03-29T21:53:56.510-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:
@@ -28,5 +28,5 @@ _Source: Dungeon Master's Guide p. 219_
 | 61-70 | As 51-60 above, except the spell is 5th level. |
 | 71-80 | As 51-60 above, except the spell is 6th level. |
 | 81-90 | As 51-60 above, except the spell is 7th level. |
-| 91-00 | While attuned to the artifact, you can't be [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), or [stunned](Mechanics/CLI/rules/conditions.md#Stunned). |
+| 91-00 | While attuned to the artifact, you can't be [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [petrified](/Mechanics/CLI/conditions.md#Petrified), or [stunned](/Mechanics/CLI/conditions.md#Stunned). |
 ^major-beneficial-properties

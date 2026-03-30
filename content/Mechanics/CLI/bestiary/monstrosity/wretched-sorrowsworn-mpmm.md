@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wretched Sorrowsworn
-created: 2026-03-09T12:15:33.928-04:00
-modified: 2026-03-09T12:15:33.928-04:00
-published: 2026-03-09T12:15:33.928-04:00
+created: 2026-03-29T21:53:55.931-04:00
+modified: 2026-03-29T21:53:55.931-04:00
+published: 2026-03-29T21:53:55.931-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Wretched Sorrowsworn (MPMM)
+ac: 15
+hp: 10
+modifier: 1
+hit_dice: 4d6 - 4
+cr: 1/4
+stats:
+  - 7
+  - 12
+  - 9
+  - 5
+  - 6
+  - 5
+source:
+  - MPMM
 ---
 
 # Wretched Sorrowsworn
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 224_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/wretched-sorrowsworn.webp#right)
-
 Horrid little monsters, wretched sorrowsworn—or the Wretched—gather in packs to scour the Shadowfell for prey. These desperate entities subsist on life force; when they find a creature, they surge forward to sink their fangs into their victims and drink deep.
 
 ## Sorrowsworn
@@ -33,11 +48,11 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 
 ```ad-statblock
 title: Wretched Sorrowsworn
-![](Mechanics/CLI/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/wretched-sorrowsworn-mpmm.webp#token)
 *Small monstrosity, Typically  Neutral Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 10 (`4d6 - 4`) 
+- **Hit Points** 10 (4d6 - 4) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,14 +62,14 @@ title: Wretched Sorrowsworn
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Damage Resistances** bludgeoning, piercing, slashing while in dim light or darkness
 - **Languages** —
 - **Challenge** 1/4
 
 ## Traits
 
-***Wretched Pack Tactics.*** The sorrowsworn has advantage on an attack roll against a creature if at least one of the sorrowsworn's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). The sorrowsworn otherwise has disadvantage on attack rolls.
+***Wretched Pack Tactics.*** The sorrowsworn has advantage on an attack roll against a creature if at least one of the sorrowsworn's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). The sorrowsworn otherwise has disadvantage on attack rolls.
 
 ## Actions
 
@@ -68,3 +83,7 @@ The attached sorrowsworn moves with the target whenever the target moves, requir
 ## Environment
 
 swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 224_

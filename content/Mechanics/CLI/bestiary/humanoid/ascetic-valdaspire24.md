@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ascetic
-created: 2026-03-09T12:15:33.823-04:00
-modified: 2026-03-09T12:15:33.823-04:00
-published: 2026-03-09T12:15:33.823-04:00
+created: 2026-03-29T21:53:55.611-04:00
+modified: 2026-03-29T21:53:55.611-04:00
+published: 2026-03-29T21:53:55.611-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ascetic (ValdaSpire24)
+modifier: 3
+stats:
+  - 10
+  - 16
+  - 12
+  - 9
+  - 14
+  - 9
+source:
+  - ValdaSpire24
 ---
 
 # Ascetic
-
-_Source: Valda's Spire of Secrets (2024)_
 
 An ascetic is a disciplined, nimble combatant whose fists are as deadly as weapons.
 
@@ -49,17 +60,17 @@ title: Ascetic
 
 ## Actions
 
-***Unarmed Strike.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6` plus your Charisma modifier Bludgeoning damage.
+***Unarmed Strike.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6` plus your Charisma modifier Bludgeoning damage.
 
-***Level 9.*** Multiattack. The ascetic makes two [Unarmed Strikes](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+***Level 9.*** Multiattack. The ascetic makes two [Unarmed Strikes](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
 
-***Level 17.*** Stunning Strike (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 5 feet. *Failure:* The target has the [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) condition until the end of its next turn. *Success:* The target's speed is halved and the next attack roll made against the target before then has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+***Level 17.*** Stunning Strike (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 5 feet. *Failure:* The target has the [Stunned](/Mechanics/CLI/conditions.md#Stunned) condition until the end of its next turn. *Success:* The target's speed is halved and the next attack roll made against the target before then has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md).
 
 ## Bonus Actions
 
-***Level 5.*** Flurry of Blows (2/Day). The ascetic makes one [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). The ascetic can take this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) once more at Captain levels 9 (3/Day), 13 (4/Day), and 17 (5/Day).
+***Level 5.*** Flurry of Blows (2/Day). The ascetic makes one [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). The ascetic can take this [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) once more at Captain levels 9 (3/Day), 13 (4/Day), and 17 (5/Day).
 
-***Focused Movement (2/Day).*** The ascetic takes the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action.
+***Focused Movement (2/Day).*** The ascetic takes the [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), or [Dodge](/Mechanics/CLI/actions.md#Dodge) action.
 
 ## Reactions
 
@@ -67,3 +78,7 @@ title: Ascetic
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

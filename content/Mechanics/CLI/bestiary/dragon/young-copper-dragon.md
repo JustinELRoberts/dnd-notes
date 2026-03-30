@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Copper Dragon
-created: 2026-03-09T12:15:34.119-04:00
-modified: 2026-03-09T12:15:34.119-04:00
-published: 2026-03-09T12:15:34.119-04:00
+created: 2026-03-29T21:53:56.155-04:00
+modified: 2026-03-29T21:53:56.155-04:00
+published: 2026-03-29T21:53:56.155-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Copper Dragon
+ac: 17
+hp: 119
+modifier: 1
+hit_dice: 14d10 + 42
+cr: "7"
+stats:
+  - 19
+  - 12
+  - 17
+  - 16
+  - 13
+  - 15
+source:
+  - MM
 ---
 
 # Young Copper Dragon
 
-_Source: Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/copper-dragon.webp#right)
-
 Copper dragons are incorrigible pranksters, joke tellers, and riddlers that live in hills and rocky uplands. Despite their gregarious and even-tempered natures, they possess a covetous, miserly streak, and can become dangerous when their hoards are threatened.
 
 A copper dragon has brow plates jutting over its eyes, extending back to long horns that grow as a series of overlapping segments. Its backswept cheek ridges and jaw frills give it a pensive look. At birth, a copper dragon's scales are a ruddy brown with a metallic tint. As the dragon ages, its scales become more coppery in color, later taking on a green tint as it ages. A copper dragon's pupils fade with age, and the eyes of the oldest copper dragons resemble glowing turquoise orbs.
@@ -91,11 +106,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Copper Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-copper-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-copper-dragon.webp#token)
 *Large dragon, Chaotic Good*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 119 (`14d10 + 42`) 
+- **Hit Points** 119 (14d10 + 42) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -104,8 +119,8 @@ title: Young Copper Dragon
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +4, Constitution +6, Wisdom +4, Charisma +5
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +7, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 17
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +7, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 17
 - **Damage Immunities** acid
 - **Languages** Common, Draconic
 - **Challenge** 7
@@ -129,3 +144,7 @@ title: Young Copper Dragon
 ## Environment
 
 hill
+
+## Sources
+
+_Monster Manual p. 112. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

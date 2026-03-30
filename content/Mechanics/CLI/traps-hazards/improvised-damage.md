@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Improvised Damage
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.096-04:00
-published: 2026-03-09T12:15:34.096-04:00
+created: 2026-03-29T21:53:56.127-04:00
+modified: 2026-03-29T21:53:56.127-04:00
+published: 2026-03-29T21:53:56.127-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/hazard/gen
@@ -19,7 +19,7 @@ _Generic Hazard_
 
 In some cases you need to determine damage on the fly. The Improvising Damage table gives you suggestions for when you do so.
 
-![Improvising Damage](Mechanics/CLI/tables/improvising-damage.md)
+![Improvising Damage](/Mechanics/CLI/tables/improvising-damage.md)
 
 The Damage Severity and Level table is a guide to how deadly these damage numbers are for characters of various levels. Cross-reference a character's level with the damage being dealt to gauge the severity of the damage.
 

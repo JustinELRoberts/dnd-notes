@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Brass Dragon
-created: 2026-03-09T12:15:33.976-04:00
-modified: 2026-03-09T12:15:33.976-04:00
-published: 2026-03-09T12:15:33.976-04:00
+created: 2026-03-29T21:53:55.978-04:00
+modified: 2026-03-29T21:53:55.978-04:00
+published: 2026-03-29T21:53:55.978-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/13
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Brass Dragon
+ac: 18
+hp: 172
+modifier: 0
+hit_dice: 15d12 + 75
+cr: "13"
+stats:
+  - 23
+  - 10
+  - 21
+  - 14
+  - 13
+  - 17
+source:
+  - MM
 ---
 
 # Adult Brass Dragon
 
-_Source: Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/brass-dragon.webp#right)
-
 The most gregarious of the true dragons, brass dragons crave conversation, sunlight, and hot, dry climates.
 
 A brass dragon's head is defined by the broad protective plate that expands from its forehead and the spikes protruding from its chin. A frill runs the length of its neck, and its tapering wings extend down the length of its tail. A brass dragon wyrmling's scales are a dull, mottled brown. As it ages, the dragon's scales begin to shine, eventually taking on a warm, burnished luster. Its wings and frills are mottled green toward the edges, darkening with age. As a brass dragon grows older, its pupils fade until its eyes resemble molten metal orbs.
@@ -91,11 +106,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Adult Brass Dragon
-![](Mechanics/CLI/bestiary/dragon/token/adult-brass-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/adult-brass-dragon.webp#token)
 *Huge dragon, Chaotic Good*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 172 (`15d12 + 75`) 
+- **Hit Points** 172 (15d12 + 75) 
 - **Speed** 40 ft., burrow 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -104,8 +119,8 @@ title: Adult Brass Dragon
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +5, Constitution +10, Wisdom +6, Charisma +8
-- **Skills** [History](Mechanics/CLI/rules/skills.md#History) +7, [Perception](Mechanics/CLI/rules/skills.md#Perception) +11, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +8, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 21
+- **Skills** [History](/Mechanics/CLI/skills.md#History) +7, [Perception](/Mechanics/CLI/skills.md#Perception) +11, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +8, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 21
 - **Damage Immunities** fire
 - **Languages** Common, Draconic
 - **Challenge** 13
@@ -124,34 +139,34 @@ title: Adult Brass Dragon
 
 ***Tail.*** *Melee Weapon Attack:* `+11` to hit, reach 15 ft., one target. *Hit:* 15 (`2d8 + 6`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
 - **Fire Breath.** The dragon exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (`13d6`) fire damage on a failed save, or half as much damage on a successful one.  
-- **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.  
+- **Sleep Breath.** The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.  
 
 ## Legendary Actions
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dragon makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dragon makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (`2d6 + 6`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (`2d6 + 6`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dragon can then fly up to half its flying speed.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 
-- A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames; such as lanterns, have a 50 percent chance of being extinguished.  
-- A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in it must succeed on a DC 15 Constitution saving throw or be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked [prone](/Mechanics/CLI/conditions.md#Prone). Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames; such as lanterns, have a 50 percent chance of being extinguished.  
+- A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in it must succeed on a DC 15 Constitution saving throw or be [blinded](/Mechanics/CLI/conditions.md#Blinded) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
-**Additional Lair Actions.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-brass-dragon.md)) brass dragon can use one or more of the following additional lair actions while in its lair:
+**Additional Lair Actions.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-brass-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-brass-dragon.md)) brass dragon can use one or more of the following additional lair actions while in its lair:
 
 - **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit.  
-- **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon [prone](Mechanics/CLI/rules/conditions.md#Prone).  
+- **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon [prone](/Mechanics/CLI/conditions.md#Prone).  
 - **Obscuring Sand.** Dust and sand fill the air within 120 feet of the dragon, making the area lightly obscured until initiative count 20 on the next round.  
 
 ## Regional Effects
@@ -159,7 +174,7 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 The region containing a legendary brass dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 
 - Tracks appear in the sand within 6 miles of the dragon's lair. The tracks lead to safe shelters and hidden water sources, while also leading away from areas that the dragon prefers to remain undisturbed.  
-- Images of Large or smaller monsters haunt the desert sands within 1 mile of the dragon's lair. These illusions move and appear real, although they can do no harm. A creature that examines an image from a distance can tell it's an illusion with a successful DC 20 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check. Any physical interaction with an image reveals it to be an illusion, because objects pass through it.  
+- Images of Large or smaller monsters haunt the desert sands within 1 mile of the dragon's lair. These illusions move and appear real, although they can do no harm. A creature that examines an image from a distance can tell it's an illusion with a successful DC 20 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check. Any physical interaction with an image reveals it to be an illusion, because objects pass through it.  
 - Whenever a creature with an Intelligence of 3 or higher comes within 30 feet of a water source within 1 mile of the dragon's lair, the dragon becomes aware of the creature's presence and location.  
 
 If the dragon dies, the tracks fade in `1d10` days, but the other effects fade immediately.
@@ -175,3 +190,7 @@ If the dragon dies, the tracks fade in `1d10` days, but the other effects fade i
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 105. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

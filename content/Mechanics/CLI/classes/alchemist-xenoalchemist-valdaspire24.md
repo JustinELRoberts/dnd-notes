@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Xenoalchemist
-created: 2026-03-09T12:15:33.831-04:00
-modified: 2026-03-09T12:15:33.831-04:00
-published: 2026-03-09T12:15:33.831-04:00
+created: 2026-03-29T21:53:55.616-04:00
+modified: 2026-03-29T21:53:55.616-04:00
+published: 2026-03-29T21:53:55.616-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/alchemist/xenoalchemist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Xenoalchemist
 
-_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,31 +56,31 @@ A small number of renegade Alchemists elect to experiment on themselves, modifyi
 
 ### Xenobiology (Level 3)
 
-You also gain proficiency in one of these skills of your choice: [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Medicine](Mechanics/CLI/rules/skills.md#Medicine). Additionally, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on all ability checks you make to identify or research monsters.
+You also gain proficiency in one of these skills of your choice: [Arcana](/Mechanics/CLI/skills.md#Arcana), [Nature](/Mechanics/CLI/skills.md#Nature), or [Medicine](/Mechanics/CLI/skills.md#Medicine). Additionally, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on all ability checks you make to identify or research monsters.
 
 ### Mad Scientist (Level 3)
 
 Your experiments in xenoalchemy grant you the following benefits.
 
-**Two Grafts.** You gain two Common or Uncommon monstrous grafts of your choice. [Monstrous Hide](Mechanics/CLI/items/monstrous-hide-valdaspire24.md) and [Climbing Apparatus](Mechanics/CLI/items/climbing-apparatus-valdaspire24.md) are recommended. Monstrous grafts are detailed at the end of the class description.
+**Two Grafts.** You gain two Common or Uncommon monstrous grafts of your choice. [Monstrous Hide](/Mechanics/CLI/items/monstrous-hide-valdaspire24.md) and [Climbing Apparatus](/Mechanics/CLI/items/climbing-apparatus-valdaspire24.md) are recommended. Monstrous grafts are detailed at the end of the class description.
 
-**Painless Attachment.** You don't lose [Hit Point Dice](Mechanics/CLI/rules/variant-rules/hit-point-dice-xphb.md) from installing or removing grafts, and it takes you no time to recover after the attachment of a new graft.
+**Painless Attachment.** You don't lose [Hit Point Dice](/Mechanics/CLI/variant-rules/hit-point-dice-xphb.md) from installing or removing grafts, and it takes you no time to recover after the attachment of a new graft.
 
-**Intelligent Grafts.** You can use your Intelligence modifier, instead of Strength or Dexterity, for the attacks and damage of [Unarmed Strikes](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) that are improved by a graft, such as [Monstrous Bite](Mechanics/CLI/items/monstrous-bite-valdaspire24.md) and [Monstrous Weapon](Mechanics/CLI/items/monstrous-weapon-valdaspire24.md). If a graft forces a creature to make a saving throw, it uses your Alchemist save DC.
+**Intelligent Grafts.** You can use your Intelligence modifier, instead of Strength or Dexterity, for the attacks and damage of [Unarmed Strikes](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) that are improved by a graft, such as [Monstrous Bite](/Mechanics/CLI/items/monstrous-bite-valdaspire24.md) and [Monstrous Weapon](/Mechanics/CLI/items/monstrous-weapon-valdaspire24.md). If a graft forces a creature to make a saving throw, it uses your Alchemist save DC.
 
 ### Sleep Bomb \[Formula] (Level 3)
 
-By adding a tranquilizer to your [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into a Sleep Bomb. This [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage. When you use the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, each creature within the explosion makes a Wisdom saving throw, instead of Dexterity. A target hit by this [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) or that fails its saving throw against it has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition until the end of its next turn at which point it must repeat the save. If the target fails the second save, the target has the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition for 1 minute. The condition ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) effect.
+By adding a tranquilizer to your [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into a Sleep Bomb. This [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) deals no damage. When you use the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) Explode property, each creature within the explosion makes a Wisdom saving throw, instead of Dexterity. A target hit by this [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) or that fails its saving throw against it has the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition until the end of its next turn at which point it must repeat the save. If the target fails the second save, the target has the [Unconscious](/Mechanics/CLI/conditions.md#Unconscious) condition for 1 minute. The condition ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) effect.
 
-Creatures that don't sleep, such as elves, or that have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) condition automatically succeed on saves against this Bomb. A creature that succeeds on its saving throw against the [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) is Immune to its conditions for 24 hours.
+Creatures that don't sleep, such as elves, or that have [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) condition automatically succeed on saves against this Bomb. A creature that succeeds on its saving throw against the [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) is Immune to its conditions for 24 hours.
 
-You can use this formula a number of times equal to your Intelligence modifier (minimum of once) and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this formula a number of times equal to your Intelligence modifier (minimum of once) and regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Surgical Strike (Level 6)
 
-You can take the [Study](Mechanics/CLI/rules/actions.md#Study) action to examine a creature as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). You learn the target's creature type and make a DC 15 Intelligence check using a skill from the Examine Specimen table, corresponding to the target's creature type. If you succeed, you learn one of the following pieces of information of your choice about the target: its AC, [Immunities](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), [Resistances](Mechanics/CLI/rules/variant-rules/resistance-xphb.md), and whether it is [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied).
+You can take the [Study](/Mechanics/CLI/actions.md#Study) action to examine a creature as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md). You learn the target's creature type and make a DC 15 Intelligence check using a skill from the Examine Specimen table, corresponding to the target's creature type. If you succeed, you learn one of the following pieces of information of your choice about the target: its AC, [Immunities](/Mechanics/CLI/variant-rules/immunity-xphb.md), [Resistances](/Mechanics/CLI/variant-rules/resistance-xphb.md), and whether it is [Bloodied](/Mechanics/CLI/conditions.md#Bloodied).
 
-Whether you succeed or fail, you can't use this feature again to target that creature or another creature of its specific kind (such as humans or unicorns) until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Whether you succeed or fail, you can't use this feature again to target that creature or another creature of its specific kind (such as humans or unicorns) until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 **Examine Specimen**
 
@@ -95,18 +94,22 @@ Whether you succeed or fail, you can't use this feature again to target that cre
 
 ### Necromantic Organs (Level 10)
 
-You've augmented your body with reanimated organs that persist after your death. If you are reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to your Alchemist level.
+You've augmented your body with reanimated organs that persist after your death. If you are reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) but not killed outright, you can drop to a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to your Alchemist level.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### It's Alive! (Level 14)
 
-Your research into necromancy has culminated in golem stitched together from discarded body parts. This golem uses the [Alchemy Golem](Mechanics/CLI/bestiary/construct/alchemy-golem-valdaspire24.md) stat block.
+Your research into necromancy has culminated in golem stitched together from discarded body parts. This golem uses the [Alchemy Golem](/Mechanics/CLI/bestiary/construct/alchemy-golem-valdaspire24.md) stat block.
 
-**Creating or Replacing the Golem.** You can make a golem using 3 Humanoid corpses in a process that requires 8 hours of work, which can be done during a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). If you already have a golem from this feature, the old one dies when the new one is completed.
+**Creating or Replacing the Golem.** You can make a golem using 3 Humanoid corpses in a process that requires 8 hours of work, which can be done during a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). If you already have a golem from this feature, the old one dies when the new one is completed.
 
-**Golem in Combat.** The golem is under your control and is an ally to you and your allies. In combat, it takes its turn immediately before or after your turn each round (your choice). You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to mentally command the golem if it is within 500 feet of you. If you issue no commands, the golem takes the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) action and moves only to avoid harm.
+**Golem in Combat.** The golem is under your control and is an ally to you and your allies. In combat, it takes its turn immediately before or after your turn each round (your choice). You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to mentally command the golem if it is within 500 feet of you. If you issue no commands, the golem takes the [Dodge](/Mechanics/CLI/actions.md#Dodge) action and moves only to avoid harm.
 
 **Golem Grafts.** You can attach up to three monstrous grafts to the golem.
 
-**Restoring the Golem.** If the golem has died within the last hour, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to touch it and expend 1 [Reagent](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)). The golem returns to life with a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Intelligence modifier.
+**Restoring the Golem.** If the golem has died within the last hour, you can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to touch it and expend 1 [Reagent](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)). The golem returns to life with a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to `1d10` plus your Intelligence modifier.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

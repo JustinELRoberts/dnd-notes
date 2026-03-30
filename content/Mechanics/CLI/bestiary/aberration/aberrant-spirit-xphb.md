@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Aberrant Spirit
-created: 2026-03-09T12:15:33.915-04:00
-modified: 2026-03-09T12:15:33.915-04:00
-published: 2026-03-09T12:15:33.915-04:00
+created: 2026-03-29T21:53:55.919-04:00
+modified: 2026-03-29T21:53:55.919-04:00
+published: 2026-03-29T21:53:55.919-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Aberrant Spirit (XPHB)
+modifier: 0
+stats:
+  - 16
+  - 10
+  - 15
+  - 16
+  - 10
+  - 6
+source:
+  - XPHB
 ---
 
 # Aberrant Spirit
 
-_Source: Player's Handbook (2024) p. 322_\
 ![](Mechanics/CLI/bestiary/aberration/img/aberrant-spirit.webp#center)
 
 ```ad-statblock
 title: Aberrant Spirit
-![](Mechanics/CLI/bestiary/aberration/token/aberrant-spirit-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/aberrant-spirit-xphb.webp#token)
 *Medium aberration, Neutral*
 
 - **Armor Class** (11 + the spell's level)
@@ -36,7 +48,7 @@ title: Aberrant Spirit
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** psychic
 - **Languages** Deep Speech, understands the languages you know
 - **Challenge** 
@@ -45,7 +57,7 @@ title: Aberrant Spirit
 
 ***Regeneration (Slaad Only).*** The spirit regains 5 Hit Points at the start of its turn if it has at least 1 Hit Point.
 
-***Whispering Aura (Mind Flayer Only).*** At the start of each of the spirit's turns, the spirit emits psionic energy if it doesn't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. *Failure:* `2d6` Psychic damage.
+***Whispering Aura (Mind Flayer Only).*** At the start of each of the spirit's turns, the spirit emits psionic energy if it doesn't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. *Wisdom Saving Throw:* DC equals your spell save DC, each creature (other than you) within 5 feet of the spirit. *Failure:* `2d6` Psychic damage.
 
 ## Actions
 
@@ -59,3 +71,7 @@ title: Aberrant Spirit
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 322_

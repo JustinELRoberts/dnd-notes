@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Thorn Whip
-created: 2026-03-09T12:15:33.991-04:00
-modified: 2026-03-09T12:15:33.991-04:00
-published: 2026-03-09T12:15:33.991-04:00
+created: 2026-03-29T21:53:55.999-04:00
+modified: 2026-03-29T21:53:55.999-04:00
+published: 2026-03-29T21:53:55.999-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/artificer
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/feat/artificer-initiate
   - ttrpg-cli/spell/feat/druidic-warrior
@@ -17,14 +18,12 @@ tags:
   - ttrpg-cli/spell/optfeature/pact-of-the-tome
   - ttrpg-cli/spell/race/khoravar
   - ttrpg-cli/spell/school/transmutation
+  - ttrpg-cli/spell/subclass/circle-of-the-land/arctic
   - ttrpg-cli/spell/subclass/college-of-lore
+  - ttrpg-cli/spell/subclass/nature-domain
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer
-  - Bard (College of Lore)
-  - Druid
 ---
 
 # Thorn Whip
@@ -40,6 +39,23 @@ You create a vine-like whip covered in thorns that lashes out at your command to
 
 **Cantrip Upgrade.** The damage increases by `1d6` when you reach levels 5 (`2d6`), 11 (`3d6`), and 17 (`4d6`).
 
-**Classes**: [Artificer](Mechanics/CLI/lists/list-spells-classes-artificer.md); [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 333_
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md)
+- [Wood Elf Magic](/Mechanics/CLI/lists/list-spells-feats-wood-elf-magic-xge.md)
+- [Magic Initiate (Druid Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Khoravar](/Mechanics/CLI/lists/list-spells-races-khoravar-efa.md)
+- [Druid (Circle of the Land, Arctic)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md "class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Artificer](/Mechanics/CLI/lists/list-spells-classes-artificer.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Druidic Warrior](/Mechanics/CLI/lists/list-spells-feats-druidic-warrior-xphb.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Artificer Initiate](/Mechanics/CLI/lists/list-spells-feats-artificer-initiate-tce.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Arctic)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md)
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 333_

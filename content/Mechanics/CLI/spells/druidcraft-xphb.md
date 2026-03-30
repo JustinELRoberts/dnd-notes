@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Druidcraft
-created: 2026-03-09T12:15:34.107-04:00
-modified: 2026-03-09T12:15:34.107-04:00
-published: 2026-03-09T12:15:34.107-04:00
+created: 2026-03-29T21:53:56.142-04:00
+modified: 2026-03-29T21:53:56.142-04:00
+published: 2026-03-29T21:53:56.142-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/feat/druidic-warrior
   - ttrpg-cli/spell/feat/magic-initiate/druid-spells
@@ -19,16 +20,13 @@ tags:
   - ttrpg-cli/spell/race/khoravar
   - ttrpg-cli/spell/school/transmutation
   - ttrpg-cli/spell/subclass/arcane-archer
+  - ttrpg-cli/spell/subclass/circle-of-the-land/arctic
   - ttrpg-cli/spell/subclass/college-of-lore
   - ttrpg-cli/spell/subclass/green-magic
+  - ttrpg-cli/spell/subclass/nature-domain
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard (College of Lore)
-  - Druid
-  - Fighter (Arcane Archer)
-  - Witch (Green Magic)
 ---
 
 # Druidcraft
@@ -53,7 +51,7 @@ You instantly make a flower blossom, a seed pod open, or a leaf bud bloom.
 
 ## Sensory Effect
 
-You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [Cube](Mechanics/CLI/rules/variant-rules/cube-area-of-effect-xphb.md).
+You create a harmless sensory effect, such as falling leaves, spectral dancing fairies, a gentle breeze, the sound of an animal, or the faint odor of skunk. The effect must fit in a 5-foot [Cube](/Mechanics/CLI/variant-rules/cube-area-of-effect-xphb.md).
 
 ## Fire Play
 
@@ -61,6 +59,26 @@ You light or snuff out a candle, a torch, or a campfire.
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Fighter (Arcane Archer)](Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE;class=XPHB"); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Fairy](/Mechanics/CLI/lists/list-spells-races-fairy-mpmm.md)
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md)
+- [Wood Elf Magic](/Mechanics/CLI/lists/list-spells-feats-wood-elf-magic-xge.md)
+- [Magic Initiate (Druid Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Khoravar](/Mechanics/CLI/lists/list-spells-races-khoravar-efa.md)
+- [Druid (Circle of the Land, Arctic)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md "class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch (Green Magic)](/Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Druidic Warrior](/Mechanics/CLI/lists/list-spells-feats-druidic-warrior-xphb.md)
+- [Elf (Wood Elf)](/Mechanics/CLI/lists/list-spells-races-elf-xphb.md)
+- [Survivalist](/Mechanics/CLI/lists/list-spells-optional-features-survivalist-valdaspire24.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Arctic)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md)
+- [Fighter (Arcane Archer)](/Mechanics/CLI/lists/list-spells-classes-arcane-archer-xge.md "subclass=XGE")
+- [Cleric (Nature Domain)](/Mechanics/CLI/lists/list-spells-classes-nature-domain.md "class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

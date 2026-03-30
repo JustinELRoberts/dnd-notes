@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fairy
-created: 2026-03-09T12:15:34.042-04:00
-modified: 2026-03-09T12:15:34.042-04:00
-published: 2026-03-09T12:15:34.042-04:00
+created: 2026-03-29T21:53:56.052-04:00
+modified: 2026-03-29T21:53:56.052-04:00
+published: 2026-03-29T21:53:56.052-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/fairy
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Fairy
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 14_\
 ![](Mechanics/CLI/races/img/fairy.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -32,7 +31,7 @@ You are a Fey.
 
 ### Fairy Magic
 
-You know the [druidcraft](Mechanics/CLI/spells/druidcraft-xphb.md) cantrip. Starting at 3rd level, you can cast the [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [enlarge/reduce](Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell with this trait. Once you cast [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md) or [enlarge/reduce](Mechanics/CLI/spells/enlarge-reduce-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+You know the [druidcraft](/Mechanics/CLI/spells/druidcraft-xphb.md) cantrip. Starting at 3rd level, you can cast the [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [enlarge/reduce](/Mechanics/CLI/spells/enlarge-reduce-xphb.md) spell with this trait. Once you cast [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md) or [enlarge/reduce](/Mechanics/CLI/spells/enlarge-reduce-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -59,3 +58,7 @@ Infused with the magic of the Feywild, most fairies look like Small elves with i
 | 7 | You smell like fresh brownies. |
 | 8 | A noticeable, harmless chill surrounds you. |
 ^fey-characteristics
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 14_

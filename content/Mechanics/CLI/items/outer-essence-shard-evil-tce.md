@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Outer Essence Shard (Evil)
-created: 2026-03-09T12:15:33.789-04:00
-modified: 2026-03-09T12:15:33.789-04:00
-published: 2026-03-09T12:15:33.789-04:00
+created: 2026-03-29T21:53:55.572-04:00
+modified: 2026-03-29T21:53:55.572-04:00
+published: 2026-03-29T21:53:55.572-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,7 @@ obsidianUIMode: preview
 
 _Wondrous item, spellcasting focus, rare (requires attunement by a sorcerer)_
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 This flickering crystal holds the essence of an Outer Plane. As an action, you can attach the shard to a Tiny object (such as a weapon or a piece of jewelry) or detach it. It falls off if your attunement to it ends. You can use the shard as a spellcasting focus while you hold or wear it.
@@ -29,4 +30,6 @@ When you use a Metamagic option on a spell while you are holding or wearing the 
 
 Choose one creature who takes damage from the spell. That target takes an extra `3d6` necrotic damage.
 
-_Source: Tasha's Cauldron of Everything p. 133_
+## Sources
+
+_Tasha's Cauldron of Everything p. 133_

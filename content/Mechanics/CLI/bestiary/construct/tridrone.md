@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tridrone
-created: 2026-03-09T12:15:34.021-04:00
-modified: 2026-03-09T12:15:34.021-04:00
-published: 2026-03-09T12:15:34.021-04:00
+created: 2026-03-29T21:53:56.031-04:00
+modified: 2026-03-29T21:53:56.031-04:00
+published: 2026-03-29T21:53:56.031-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Tridrone
+ac: 15
+hp: 16
+modifier: 1
+hit_dice: 3d8 + 3
+cr: 1/2
+stats:
+  - 12
+  - 13
+  - 12
+  - 9
+  - 10
+  - 9
+source:
+  - MM
 ---
 
 # Tridrone
 
-_Source: Monster Manual p. 225_\
 ![](Mechanics/CLI/bestiary/construct/img/tridrone.webp#right)
-
 Tridrones are shaped like inverted pyramids. They lead lesser modrons in battle.
 
 ## Modrons
@@ -57,11 +72,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 
 ```ad-statblock
 title: Tridrone
-![](Mechanics/CLI/bestiary/construct/token/tridrone.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/tridrone.webp#token)
 *Medium construct, Lawful Neutral*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 16 (`3d8 + 3`) 
+- **Hit Points** 16 (3d8 + 3) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -71,8 +86,7 @@ title: Tridrone
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 10
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 10
 - **Languages** Modron
 - **Challenge** 1/2
 
@@ -92,3 +106,7 @@ title: Tridrone
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 225_

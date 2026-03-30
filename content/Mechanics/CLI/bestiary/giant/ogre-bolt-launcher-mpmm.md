@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ogre Bolt Launcher
-created: 2026-03-09T12:15:33.801-04:00
-modified: 2026-03-09T12:15:33.801-04:00
-published: 2026-03-09T12:15:33.801-04:00
+created: 2026-03-29T21:53:55.585-04:00
+modified: 2026-03-29T21:53:55.585-04:00
+published: 2026-03-29T21:53:55.585-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -16,11 +16,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ogre Bolt Launcher (MPMM)
+ac: 13
+hp: 59
+modifier: 1
+hit_dice: 7d10 + 21
+cr: "2"
+stats:
+  - 19
+  - 12
+  - 16
+  - 5
+  - 7
+  - 7
+source:
+  - MPMM
 ---
 
 # Ogre Bolt Launcher
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 200_
 
 A bolt launcher carries a gigantic crossbow—a weapon so large it's essentially an ogre-held ballista. An ogre bolt launcher can load this immense weapon and loose its deadly missile as quickly as a dwarf handles a crossbow. The bolts are so large that few ogres can carry more than a half dozen at a time, but bolt launchers have been known to uproot small trees or tear beams out of buildings and launch those when their ammunition runs low.
 
@@ -32,11 +47,11 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
 
 ```ad-statblock
 title: Ogre Bolt Launcher
-![](Mechanics/CLI/bestiary/giant/token/ogre-bolt-launcher-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/ogre-bolt-launcher-mpmm.webp#token)
 *Large giant, Typically  Chaotic Evil*
 
-- **Armor Class** 13 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Armor Class** 13 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,7 +61,7 @@ title: Ogre Bolt Launcher
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** Common, Giant
 - **Challenge** 2
 
@@ -62,3 +77,7 @@ title: Ogre Bolt Launcher
 ## Environment
 
 grassland, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 200_

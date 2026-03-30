@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Curse Object
-created: 2026-03-09T12:15:33.893-04:00
-modified: 2026-03-09T12:15:33.894-04:00
-published: 2026-03-09T12:15:33.894-04:00
+created: 2026-03-29T21:53:55.892-04:00
+modified: 2026-03-29T21:53:55.892-04:00
+published: 2026-03-29T21:53:55.892-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/witch
   - ttrpg-cli/spell/level/5th-level
   - ttrpg-cli/spell/ritual
@@ -14,8 +15,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Witch
 ---
 
 # Curse Object
@@ -31,23 +30,23 @@ You bestow a curse upon an object that you touch. The object must be one that is
 
 ## Bleeding
 
-The attuned creature can't regain [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+The attuned creature can't regain [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 ## Frenzied (Weapon Only)
 
-Whenever the attuned creature deals damage with the cursed weapon, it has the Frenzied condition for 1 minute. A creature with the Frenzied condition loses the ability to distinguish between friend and foe, regarding all creatures it can see as enemies. While Frenzied, the creature chooses the targets for its attacks, spells, and abilities randomly from among the creatures it can see within range, and it must make an [Opportunity Attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) if any creature provokes one.
+Whenever the attuned creature deals damage with the cursed weapon, it has the Frenzied condition for 1 minute. A creature with the Frenzied condition loses the ability to distinguish between friend and foe, regarding all creatures it can see as enemies. While Frenzied, the creature chooses the targets for its attacks, spells, and abilities randomly from among the creatures it can see within range, and it must make an [Opportunity Attack](/Mechanics/CLI/actions.md#Opportunity%20Attack) if any creature provokes one.
 
 ## Hobbled
 
-The attuned creature's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is halved and can't take the [Dash](Mechanics/CLI/rules/actions.md#Dash) action.
+The attuned creature's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is halved and can't take the [Dash](/Mechanics/CLI/actions.md#Dash) action.
 
 ## Obsessed
 
-The attuned creature is unwilling to part with the object, keeping it on its person at all times. If the cursed object is a weapon, the attuned creature has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls with weapons other than the cursed weapon.
+The attuned creature is unwilling to part with the object, keeping it on its person at all times. If the cursed object is a weapon, the attuned creature has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls with weapons other than the cursed weapon.
 
 ## Restless
 
-Whenever the attuned creature finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), it must succeed on a Constitution saving throw or gain no benefits from the rest.
+Whenever the attuned creature finishes a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), it must succeed on a Constitution saving throw or gain no benefits from the rest.
 
 ## Speechless
 
@@ -55,14 +54,19 @@ The attuned creature can't speak.
 
 ## Unfortunate
 
-Whenever the target rolls a 20 on the `d20` of a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), the roll instead becomes a 1.
+Whenever the target rolls a 20 on the `d20` of a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), the roll instead becomes a 1.
 
 ## Vulnerable
 
-The attuned creature has [Vulnerability](Mechanics/CLI/rules/variant-rules/vulnerability-xphb.md) to one damage type (choose when you cast this spell).
+The attuned creature has [Vulnerability](/Mechanics/CLI/variant-rules/vulnerability-xphb.md) to one damage type (choose when you cast this spell).
 
 ## Summary
 
-**Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

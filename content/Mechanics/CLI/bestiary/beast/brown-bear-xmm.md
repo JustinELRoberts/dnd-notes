@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Brown Bear
-created: 2026-03-09T12:15:34.022-04:00
-modified: 2026-03-09T12:15:34.022-04:00
-published: 2026-03-09T12:15:34.022-04:00
+created: 2026-03-29T21:53:56.031-04:00
+modified: 2026-03-29T21:53:56.031-04:00
+published: 2026-03-29T21:53:56.031-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1
@@ -16,16 +16,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Brown Bear (XMM)
+ac: 11
+hp: 22
+modifier: 1
+hit_dice: 3d10 + 6
+cr: "1"
+stats:
+  - 17
+  - 12
+  - 15
+  - 2
+  - 13
+  - 7
+source:
+  - XMM
+  - XPHB
 ---
 
 # Brown Bear
 
-_Source: Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/brown-bear.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -34,11 +51,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Brown Bear
-![](Mechanics/CLI/bestiary/beast/token/brown-bear-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/brown-bear-xmm.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 11 
-- **Hit Points** 22 (`3d10 + 6`) 
+- **Hit Points** 22 (3d10 + 6) 
 - **Speed** 40 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,8 +64,8 @@ title: Brown Bear
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** —
 - **Challenge** 1
 
@@ -58,7 +75,7 @@ title: Brown Bear
 
 ***Bite.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 7 (`1d8 + 3`) Piercing damage.
 
-***Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 5 (`1d4 + 3`) Slashing damage. If the target is a Large or smaller creature, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+***Claw.*** *Melee Attack Roll:* `+5`, reach 5 ft. *Hit:* 5 (`1d4 + 3`) Slashing damage. If the target is a Large or smaller creature, it has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 ```
 
 ^statblock
@@ -66,3 +83,7 @@ title: Brown Bear
 ## Environment
 
 arctic, forest, hill
+
+## Sources
+
+_Monster Manual (2024) p. 350, Player's Handbook (2024) p. 347. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

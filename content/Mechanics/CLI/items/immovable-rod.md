@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Immovable Rod
-created: 2026-03-09T12:15:34.127-04:00
-modified: 2026-03-09T12:15:34.127-04:00
-published: 2026-03-09T12:15:34.127-04:00
+created: 2026-03-29T21:53:56.171-04:00
+modified: 2026-03-29T21:53:56.171-04:00
+published: 2026-03-29T21:53:56.171-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -20,8 +20,11 @@ obsidianUIMode: preview
 _Rod, minor, uncommon_\
 ![](Mechanics/CLI/items/img/immovable-rod.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 2.0 lbs.
 
 This flat iron rod has a button on one end. You can use an action to press the button, which causes the rod to become magically fixed in place. Until you or another creature uses an action to push the button again, the rod doesn't move, even if it is defying gravity. The rod can hold up to 8,000 pounds of weight. More weight causes the rod to deactivate and fall. A creature can use an action to make a DC 30 Strength check, moving the fixed rod up to 10 feet on a success.
 
-_Source: Dungeon Master's Guide p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

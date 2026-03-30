@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gelatinous Cube
-created: 2026-03-09T12:15:33.905-04:00
-modified: 2026-03-09T12:15:33.905-04:00
-published: 2026-03-09T12:15:33.905-04:00
+created: 2026-03-29T21:53:55.904-04:00
+modified: 2026-03-29T21:53:55.904-04:00
+published: 2026-03-29T21:53:55.904-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gelatinous Cube
+ac: 6
+hp: 84
+modifier: -4
+hit_dice: 8d10 + 40
+cr: "2"
+stats:
+  - 14
+  - 3
+  - 20
+  - 1
+  - 6
+  - 1
+source:
+  - MM
 ---
 
 # Gelatinous Cube
 
-_Source: Monster Manual p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/ooze/img/gelatinous-cube.webp#right)
-
 Gelatinous cubes scour dungeon passages in silent, predictable patterns, leaving perfectly clean paths in their wake. They consume living tissue while leaving bones and other materials undissolved.
 
 A gelatinous cube is all but transparent, making it hard to spot until it attacks. A cube that is well fed can be easier to spot, since its victims' bones, coins, and other objects can be seen suspended inside the creature.
@@ -31,11 +46,11 @@ A gelatinous cube is all but transparent, making it hard to spot until it attack
 
 ```ad-statblock
 title: Gelatinous Cube
-![](Mechanics/CLI/bestiary/ooze/token/gelatinous-cube.webp#token)
+![](/Mechanics/CLI/bestiary/ooze/token/gelatinous-cube.webp#token)
 *Large ooze, Unaligned*
 
 - **Armor Class** 6 
-- **Hit Points** 84 (`8d10 + 40`) 
+- **Hit Points** 84 (8d10 + 40) 
 - **Speed** 15 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,8 +60,8 @@ title: Gelatinous Cube
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 2
 
@@ -60,7 +75,7 @@ A creature within 5 feet of the cube can take an action to pull a creature or ob
 
 The cube can hold only one Large creature or up to four Medium or smaller creatures inside it at a time.
 
-***Transparent.*** Even when the cube is in plain sight, it takes a successful DC 15 Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is [surprised](Mechanics/CLI/rules/conditions.md#Surprised) by the cube.
+***Transparent.*** Even when the cube is in plain sight, it takes a successful DC 15 Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is [surprised](/Mechanics/CLI/conditions.md#Surprised) by the cube.
 
 ## Actions
 
@@ -70,7 +85,7 @@ The cube can hold only one Large creature or up to four Medium or smaller creatu
 
 On a successful save, the creature can choose to be pushed 5 feet back or to the side of the cube. A creature that chooses not to be pushed suffers the consequences of a failed saving throw.
 
-On a failed save, the cube enters the creature's space, and the creature takes 10 (`3d6`) acid damage and is engulfed. The engulfed creature can't breathe, is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and takes 21 (`6d6`) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.
+On a failed save, the cube enters the creature's space, and the creature takes 10 (`3d6`) acid damage and is engulfed. The engulfed creature can't breathe, is [restrained](/Mechanics/CLI/conditions.md#Restrained), and takes 21 (`6d6`) acid damage at the start of each of the cube's turns. When the cube moves, the engulfed creature moves with it.
 
 An engulfed creature can try to escape by taking an action to make a DC 12 Strength check. On a success, the creature escapes and enters a space of its choice within 5 feet of the cube.
 ```
@@ -80,3 +95,7 @@ An engulfed creature can try to escape by taking an action to make a DC 12 Stren
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 242. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

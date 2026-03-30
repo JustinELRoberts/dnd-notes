@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Draegloth
-created: 2026-03-09T12:15:34.105-04:00
-modified: 2026-03-09T12:15:34.105-04:00
-published: 2026-03-09T12:15:34.105-04:00
+created: 2026-03-29T21:53:56.139-04:00
+modified: 2026-03-29T21:53:56.139-04:00
+published: 2026-03-29T21:53:56.139-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -14,14 +14,30 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Draegloth (MPMM)
+ac: 15
+hp: 123
+modifier: 2
+hit_dice: 13d10 + 52
+cr: "7"
+stats:
+  - 20
+  - 15
+  - 18
+  - 13
+  - 11
+  - 11
+source:
+  - MPMM
+  - VGM
 ---
 
 # Draegloth
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141_\
 ![](Mechanics/CLI/bestiary/fiend/img/draegloth.webp#right)
-
-A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](Mechanics/CLI/bestiary/fiend/glabrezu.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
+A draegloth is a demon created by an elf priest of Lolth in an unholy, dangerous ritual in which it is infused with the fey essence of the creator and the fiendish essence of a [glabrezu](/Mechanics/CLI/bestiary/fiend/glabrezu.md). This ritual rarely succeeds, but Lolth's faithful consider it worth the risk, as the resulting creature is gifted with innate magic and physical might. The draegloth usually serves its creator, lending its thirst for destruction to the creator's plans to triumph over rivals.
 
 A draegloth is an ogre-sized, four-armed biped with purple skin and pale hair. Two of its arms are muscular, tipped with sharp claws; the other two are the size and shape of an elf's arms, capable of delicate movements. Although the creature is heavily muscled, it is graceful like an elf. Its bestial face features glowing red eyes, a doglike snout, and a mouth full of sharp teeth.
 
@@ -31,11 +47,11 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 
 ```ad-statblock
 title: Draegloth
-![](Mechanics/CLI/bestiary/fiend/token/draegloth-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/draegloth-mpmm.webp#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 123 (`13d10 + 52`) 
+- **Hit Points** 123 (13d10 + 52) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,17 +60,17 @@ title: Draegloth
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 13
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Elvish, Undercommon
 - **Challenge** 7
 
 ## Traits
 
-***Fey Ancestry.*** The draegloth has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put it to sleep.
+***Fey Ancestry.*** The draegloth has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put it to sleep.
 
 ## Actions
 
@@ -66,9 +82,9 @@ title: Draegloth
 
 ***Spellcasting.*** The draegloth casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 11):
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [darkness](Mechanics/CLI/spells/darkness-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [darkness](/Mechanics/CLI/spells/darkness-xphb.md)
 
-**1/day each:** [confusion](Mechanics/CLI/spells/confusion-xphb.md), [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md)
+**1/day each:** [confusion](/Mechanics/CLI/spells/confusion-xphb.md), [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md)
 ```
 
 ^statblock
@@ -76,3 +92,7 @@ title: Draegloth
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 98, Volo's Guide to Monsters p. 141_

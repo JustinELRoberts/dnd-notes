@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hound (Strength)
-created: 2026-03-09T12:15:33.906-04:00
-modified: 2026-03-09T12:15:33.906-04:00
-published: 2026-03-09T12:15:33.906-04:00
+created: 2026-03-29T21:53:55.905-04:00
+modified: 2026-03-29T21:53:55.905-04:00
+published: 2026-03-29T21:53:55.905-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hound (Strength) (ValdaSpire24Extras)
+modifier: 2
+stats:
+  - 13
+  - 14
+  - 12
+  - 3
+  - 12
+  - 7
+source:
+  - ValdaSpire24Extras
 ---
 
 # Hound (Strength)
-
-_Source: Valda's Spire of Secrets Extras (2024)_
 
 ```ad-statblock
 title: Hound (Strength)
@@ -34,20 +45,24 @@ title: Hound (Strength)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** 1+PB, 2+PB, 1+PB, -4+PB, 1+PB, -1+PB
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Survival](Mechanics/CLI/rules/skills.md#Survival) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Survival](/Mechanics/CLI/skills.md#Survival) +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 
 
 ## Traits
 
-***Good Dog.*** The hound adds your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check or saving throw it makes.
+***Good Dog.*** The hound adds your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to any ability check or saving throw it makes.
 
-***Pack Tactics.*** The hound has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+***Pack Tactics.*** The hound has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally doesn't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ## Actions
 
-***Bite.*** *Melee Attack Roll:* Bonus equals your Strength modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6` plus your Strength modifier Piercing damage. If the target is a Medium or smaller creature, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+***Bite.*** *Melee Attack Roll:* Bonus equals your Strength modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6` plus your Strength modifier Piercing damage. If the target is a Medium or smaller creature, it has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

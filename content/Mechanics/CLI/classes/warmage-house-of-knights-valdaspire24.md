@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Knights
-created: 2026-03-09T12:15:33.829-04:00
-modified: 2026-03-09T12:15:33.830-04:00
-published: 2026-03-09T12:15:33.830-04:00
+created: 2026-03-29T21:53:55.615-04:00
+modified: 2026-03-29T21:53:55.615-04:00
+published: 2026-03-29T21:53:55.615-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warmage/knights
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # House of Knights
 
-_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,15 +56,15 @@ The House of Knights has a long and storied tradition of melding swordplay with 
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor, Heavy armor, and [Shields](Mechanics/CLI/items/shield-xphb.md). You can ignore the Strength requirement for wearing Heavy armor and wielding weapons with [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy).
+You gain proficiency with Martial weapons and training with Medium armor, Heavy armor, and [Shields](/Mechanics/CLI/items/shield-xphb.md). You can ignore the Strength requirement for wearing Heavy armor and wielding weapons with [Heavy](/Mechanics/CLI/item-properties.md#Heavy).
 
 ### Mystical Armament (Level 3)
 
 Your melding of swordplay and arcana grants you the following benefits.
 
-**Martial Cantrips.** You learn the [Force Buckler](Mechanics/CLI/spells/force-buckler-valdaspire24.md) and one of the following cantrips of your choice: [Arc Blade](Mechanics/CLI/spells/arc-blade-valdaspire24.md), [Burning Blade](Mechanics/CLI/spells/burning-blade-valdaspire24.md), [Frigid Blade](Mechanics/CLI/spells/frigid-blade-valdaspire24.md), or [True Strike](Mechanics/CLI/spells/true-strike-xphb.md).
+**Martial Cantrips.** You learn the [Force Buckler](/Mechanics/CLI/spells/force-buckler-valdaspire24.md) and one of the following cantrips of your choice: [Arc Blade](/Mechanics/CLI/spells/arc-blade-valdaspire24.md), [Burning Blade](/Mechanics/CLI/spells/burning-blade-valdaspire24.md), [Frigid Blade](/Mechanics/CLI/spells/frigid-blade-valdaspire24.md), or [True Strike](/Mechanics/CLI/spells/true-strike-xphb.md).
 
-**Manifest Weapon.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can create a Simple or Martial Melee weapon made of magical force in your hand. This weapon counts as being worth 1 GP for the purposes of Material components. You can use this weapon as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md).
+**Manifest Weapon.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can create a Simple or Martial Melee weapon made of magical force in your hand. This weapon counts as being worth 1 GP for the purposes of Material components. You can use this weapon as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md).
 
 Whenever you attack with the manifested weapon, you can use your Intelligence modifier for the attack and damage rolls instead of using Strength or Dexterity. The weapon deals Force damage or its normal damage type.
 
@@ -77,9 +76,9 @@ You gain a Fighting Style feat of your choice. Whenever you gain a Warmage level
 
 ### Knight's Ward (Level 10)
 
-You can raise a hardened magical barrier between you and your foes. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you gain a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to twice your Warmage level.
+You can raise a hardened magical barrier between you and your foes. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you gain a number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to twice your Warmage level.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Tactical Maneuver (Level 15)
 
@@ -87,4 +86,8 @@ You can spend up to 30 feet of movement to teleport to an unoccupied space you c
 
 ### Field of Blades (Level 18)
 
-You can summon a whirlwind of mystical weapons for a flurry of strikes. As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can make a melee spell attack against up to five creatures you can see within 30 feet of you. Make a separate attack roll for each target. On a hit, a target takes Force damage equal to `2d10` + your Intelligence modifier.
+You can summon a whirlwind of mystical weapons for a flurry of strikes. As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can make a melee spell attack against up to five creatures you can see within 30 feet of you. Make a separate attack roll for each target. On a hit, a target takes Force damage equal to `2d10` + your Intelligence modifier.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

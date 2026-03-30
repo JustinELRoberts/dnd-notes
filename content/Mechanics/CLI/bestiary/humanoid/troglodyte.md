@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Troglodyte
-created: 2026-03-09T12:15:34.032-04:00
-modified: 2026-03-09T12:15:34.032-04:00
-published: 2026-03-09T12:15:34.032-04:00
+created: 2026-03-29T21:53:56.044-04:00
+modified: 2026-03-29T21:53:56.044-04:00
+published: 2026-03-29T21:53:56.044-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Troglodyte
+ac: 11
+hp: 13
+modifier: 0
+hit_dice: 2d8 + 4
+cr: 1/4
+stats:
+  - 14
+  - 10
+  - 14
+  - 6
+  - 10
+  - 6
+source:
+  - MM
 ---
 
 # Troglodyte
 
-_Source: Monster Manual p. 290_\
 ![](Mechanics/CLI/bestiary/humanoid/img/troglodyte.webp#right)
-
 The savage, degenerate troglodytes squat in the shallow depths of the Underdark in a constant state of war against their neighbors and one another. They mark the borders of their territories with cracked bones and skulls, or with pictographs painted in blood or dung.
 
 Perhaps the most loathsome of all humanoids, troglodytes eat anything they can stomach. They dwell in filth. The walls of their cavern homes are smeared with grime, oily secretions, and the debris of their foul feasting.
@@ -45,11 +60,11 @@ Some troglodytes venerate Laogzed, a demonic, monstrously fat toad-lizard that s
 
 ```ad-statblock
 title: Troglodyte
-![](Mechanics/CLI/bestiary/humanoid/token/troglodyte.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/troglodyte.webp#token)
 *Medium humanoid (troglodyte), Chaotic Evil*
 
 - **Armor Class** 11 (natural armor)
-- **Hit Points** 13 (`2d8 + 4`) 
+- **Hit Points** 13 (2d8 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,18 +73,18 @@ title: Troglodyte
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Troglodyte
 - **Challenge** 1/4
 
 ## Traits
 
-***Chameleon Skin.*** The troglodyte has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide.
+***Chameleon Skin.*** The troglodyte has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide.
 
-***Stench.*** Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
+***Stench.*** Any creature other than a troglodyte that starts its turn within 5 feet of the troglodyte must succeed on a DC 12 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the stench of all troglodytes for 1 hour.
 
-***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the troglodyte has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -85,3 +100,7 @@ title: Troglodyte
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 290_

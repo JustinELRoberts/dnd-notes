@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - College of Dance
-created: 2026-03-09T12:15:33.835-04:00
-modified: 2026-03-09T12:15:33.835-04:00
-published: 2026-03-09T12:15:33.835-04:00
+created: 2026-03-29T21:53:55.621-04:00
+modified: 2026-03-29T21:53:55.621-04:00
+published: 2026-03-29T21:53:55.621-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/bard/dance
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # College of Dance
 
-_[Bard](./bard-xphb.md): Bard Subclass_\
-_Source: Player's Handbook (2024) p. 64_
+_[Bard](./bard-xphb.md): Bard Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,36 +58,40 @@ Bards of the College of Dance know that the Words of Creation can't be contained
 
 ### Dazzling Footwork (Level 3)
 
-While you aren't wearing armor or wielding a [Shield](Mechanics/CLI/items/shield-xphb.md), you gain the following benefits.
+While you aren't wearing armor or wielding a [Shield](/Mechanics/CLI/items/shield-xphb.md), you gain the following benefits.
 
 ### Dance Virtuoso (Level 3)
 
-You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any Charisma ([Performance](Mechanics/CLI/rules/skills.md#Performance)) check you make that involves you dancing.
+You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on any Charisma ([Performance](/Mechanics/CLI/skills.md#Performance)) check you make that involves you dancing.
 
 ### Unarmored Defense (Level 3)
 
-Your base [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
+Your base [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Agile Strikes (Level 3)
 
-When you expend a use of your Bardic Inspiration as part of an action, a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md), you can make one [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) as part of that action, [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+When you expend a use of your Bardic Inspiration as part of an action, a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), or a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md), you can make one [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) as part of that action, [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), or [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
 ### Bardic Damage (Level 3)
 
-You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
+You can use Dexterity instead of Strength for the attack rolls of your Unarmed Strikes. When you deal damage with an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can deal Bludgeoning damage equal to a roll of your Bardic Inspiration die plus your Dexterity modifier, instead of the strike's normal damage. This roll doesn't expend the die.
 
 ### Inspiring Movement (Level 6)
 
-When an enemy you can see ends its turn within 5 feet of you, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) and expend one use of your Bardic Inspiration to move up to half your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md). Then one ally of your choice within 30 feet of you can also move up to half their [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) using their [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+When an enemy you can see ends its turn within 5 feet of you, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) and expend one use of your Bardic Inspiration to move up to half your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md). Then one ally of your choice within 30 feet of you can also move up to half their [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) using their [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
-None of this feature's movement provokes [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+None of this feature's movement provokes [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Tandem Footwork (Level 6)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) equal to the number rolled.
+When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can expend one use of your Bardic Inspiration if you don't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. When you do so, roll your Bardic Inspiration die; you and each ally within 30 feet of you who can see or hear you gains a bonus to [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) equal to the number rolled.
 
 ### Leading Evasion (Level 14)
 
 When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail. If any creatures within 5 feet of you are making the same Dexterity saving throw, you can share this benefit with them for that save.
 
-You can't use this feature if you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+You can't use this feature if you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
+
+## Sources
+
+_Player's Handbook (2024) p. 64_

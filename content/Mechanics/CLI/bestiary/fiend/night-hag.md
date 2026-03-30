@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Night Hag
-created: 2026-03-09T12:15:34.012-04:00
-modified: 2026-03-09T12:15:34.012-04:00
-published: 2026-03-09T12:15:34.012-04:00
+created: 2026-03-29T21:53:56.019-04:00
+modified: 2026-03-29T21:53:56.019-04:00
+published: 2026-03-29T21:53:56.019-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -13,20 +13,35 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Night Hag
+ac: 17
+hp: 112
+modifier: 2
+hit_dice: 15d8 + 45
+cr: "5"
+stats:
+  - 18
+  - 15
+  - 16
+  - 16
+  - 14
+  - 16
+source:
+  - MM
 ---
 
 # Night Hag
 
-_Source: Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/night-hag.webp#right)
-
 Sly and subversive, night hags want to see the virtuous turn to villainy: love turned into obsession, kindness turned to hate, devotion to disregard, and generosity to selfishness. Night hags take perverse joy in corrupting mortals.
 
 Night hags were once creatures of the Feywild, but their foulness saw them exiled to Hades long ago, where they degenerated into fiends. The night hags have long since spread across the Lower Planes.
 
 ## Soulmongers
 
-While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [truesight](Mechanics/CLI/rules/senses.md#Truesight) can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
+While a humanoid sleeps, a night hag can straddle the person ethereally and intrude upon its dreams. Any creature with [truesight](/Mechanics/CLI/senses.md#Truesight) can see the hag's spectral form straddling its prey. The ethereal hag fills her victim's head with doubts and fears, in the hope of tricking it into performing evil acts in the waking world. The hag continues her nightly visitations until the victim finally expires in its sleep. If the hag has driven her victim to commit evil deeds, she traps its corrupted soul in her soul bag (see the "Night Hag Items" sidebar) for transport to Hades.
 
 ## Covens
 
@@ -89,29 +104,29 @@ Hags dwell in dark and twisted woods, bleak moors, storm-lashed seacoasts, and g
 >
 > **Shared Spellcasting.** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 >
-> 1st level (4 slots): [identify](Mechanics/CLI/spells/identify-xphb.md), [ray of sickness](Mechanics/CLI/spells/ray-of-sickness-xphb.md)\
-> 2nd level (3 slots): [hold person](Mechanics/CLI/spells/hold-person-xphb.md), [locate object](Mechanics/CLI/spells/locate-object-xphb.md)\
-> 3rd level (3 slots): [bestow curse](Mechanics/CLI/spells/bestow-curse-xphb.md), [counterspell](Mechanics/CLI/spells/counterspell-xphb.md), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md)\
-> 4th level (3 slots): [phantasmal killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md), [polymorph](Mechanics/CLI/spells/polymorph-xphb.md)\
-> 5th level (2 slots): [contact other plane](Mechanics/CLI/spells/contact-other-plane-xphb.md), [scrying](Mechanics/CLI/spells/scrying-xphb.md)\
-> 6th level (1 slot): [eyebite](Mechanics/CLI/spells/eyebite-xphb.md)
+> 1st level (4 slots): [identify](/Mechanics/CLI/spells/identify-xphb.md), [ray of sickness](/Mechanics/CLI/spells/ray-of-sickness-xphb.md)\
+> 2nd level (3 slots): [hold person](/Mechanics/CLI/spells/hold-person-xphb.md), [locate object](/Mechanics/CLI/spells/locate-object-xphb.md)\
+> 3rd level (3 slots): [bestow curse](/Mechanics/CLI/spells/bestow-curse-xphb.md), [counterspell](/Mechanics/CLI/spells/counterspell-xphb.md), [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md)\
+> 4th level (3 slots): [phantasmal killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md), [polymorph](/Mechanics/CLI/spells/polymorph-xphb.md)\
+> 5th level (2 slots): [contact other plane](/Mechanics/CLI/spells/contact-other-plane-xphb.md), [scrying](/Mechanics/CLI/spells/scrying-xphb.md)\
+> 6th level (1 slot): [eyebite](/Mechanics/CLI/spells/eyebite-xphb.md)
 >
 > For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12 + the hag's Intelligence modifier, and the spell attack bonus is 4 + the hag's Intelligence modifier.
 >
-> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) for 24 hours.
+> **Hag Eye.** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and [darkvision](/Mechanics/CLI/senses.md#Darkvision) with a radius of 60 feet. If it is destroyed, each coven member takes `3d10` psychic damage and is [blinded](/Mechanics/CLI/conditions.md#Blinded) for 24 hours.
 >
-> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](Mechanics/CLI/rules/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
+> A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while [blinded](/Mechanics/CLI/conditions.md#Blinded). During the ritual, if the hags take any action other than performing the ritual, they must start over.
 > ^hag-covens
 
 ## Statblock
 
 ```ad-statblock
 title: Night Hag
-![](Mechanics/CLI/bestiary/fiend/token/night-hag.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/night-hag.webp#token)
 *Medium fiend, Neutral Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 112 (`15d8 + 45`) 
+- **Hit Points** 112 (15d8 + 45) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -120,10 +135,10 @@ title: Night Hag
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +6, [Insight](Mechanics/CLI/rules/skills.md#Insight) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +6, [Insight](/Mechanics/CLI/skills.md#Insight) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Resistances** cold; fire; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed)
 - **Languages** Abyssal, Common, Infernal, Primordial
 - **Challenge** 5
 
@@ -131,9 +146,9 @@ title: Night Hag
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, `+6` to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
-**At will:** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [magic missile](Mechanics/CLI/spells/magic-missile-xphb.md)
+**At will:** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [magic missile](/Mechanics/CLI/spells/magic-missile-xphb.md)
 
-**2/day each:** [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [ray of enfeeblement](Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md), [sleep](Mechanics/CLI/spells/sleep-xphb.md)
+**2/day each:** [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only), [ray of enfeeblement](/Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md), [sleep](/Mechanics/CLI/spells/sleep-xphb.md)
 
 ***Magic Resistance.*** The hag has advantage on saving throws against spells and other magical effects.
 
@@ -151,7 +166,7 @@ Soul Bag: When an evil humanoid dies as a result of a night hag's Nightmare Haun
 
 ***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.
 
-***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A [protection from evil and good](Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (`1d10`). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic.
+***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A [protection from evil and good](/Mechanics/CLI/spells/protection-from-evil-and-good-xphb.md) spell cast on the target prevents this contact, as does a magic circle. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (`1d10`). If this effect reduces the target's hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag's soul bag. The reduction to the target's hit point maximum lasts until removed by the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or similar magic.
 
 ## Lair Actions
 
@@ -174,7 +189,7 @@ Each hag's lair is the source of three to five regional effects; the home of a g
 The region within 1 mile of a grandmother hag's lair is warped by the creature's fell magic, which creates one or more of the following effects:
 
 - Birds, rodents, snakes, spiders, or toads (or some other creatures appropriate to the hag) are found in great profusion.  
-- Beasts that have an Intelligence score of 2 or lower are [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
+- Beasts that have an Intelligence score of 2 or lower are [charmed](/Mechanics/CLI/conditions.md#Charmed) by the hag and directed to be aggressive toward intruders in the area.  
 - Strange carved figurines, twig fetishes, or rag dolls magically appear in trees.  
 
 A powerful night hag creates one or more of the following additional regional effects within 1 mile of her lair:
@@ -185,3 +200,7 @@ A powerful night hag creates one or more of the following additional regional ef
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 178. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

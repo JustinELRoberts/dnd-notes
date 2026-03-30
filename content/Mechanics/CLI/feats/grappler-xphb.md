@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grappler
-created: 2026-03-09T12:15:33.916-04:00
-modified: 2026-03-09T12:15:33.916-04:00
-published: 2026-03-09T12:15:33.916-04:00
+created: 2026-03-29T21:53:55.919-04:00
+modified: 2026-03-29T21:53:55.919-04:00
+published: 2026-03-29T21:53:55.919-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,11 +21,11 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Punch and Grab.** When you hit a creature with an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+**Punch and Grab.** When you hit a creature with an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) as part of the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
 
-**Attack Advantage.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against a creature [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) by you.
+**Attack Advantage.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against a creature [Grappled](/Mechanics/CLI/conditions.md#Grappled) by you.
 
-**Fast Wrestler.** You don't have to spend extra movement to move a creature [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) by you if the creature is your size or smaller.
+**Fast Wrestler.** You don't have to spend extra movement to move a creature [Grappled](/Mechanics/CLI/conditions.md#Grappled) by you if the creature is your size or smaller.
 
 ## Sources
 

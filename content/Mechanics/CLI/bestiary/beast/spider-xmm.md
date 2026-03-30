@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spider
-created: 2026-03-09T12:15:33.785-04:00
-modified: 2026-03-09T12:15:33.785-04:00
-published: 2026-03-09T12:15:33.785-04:00
+created: 2026-03-29T21:53:55.562-04:00
+modified: 2026-03-29T21:53:55.562-04:00
+published: 2026-03-29T21:53:55.562-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/0
@@ -18,16 +18,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Spider (XMM)
+ac: 12
+hp: 1
+modifier: 2
+hit_dice: 1d4 - 1
+cr: "0"
+stats:
+  - 2
+  - 14
+  - 8
+  - 1
+  - 10
+  - 2
+source:
+  - XMM
+  - XPHB
 ---
 
 # Spider
 
-_Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/spiders.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -36,11 +53,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Spider
-![](Mechanics/CLI/bestiary/beast/token/spider-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/spider-xmm.webp#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 1 (`1d4 - 1`) 
+- **Hit Points** 1 (1d4 - 1) 
 - **Speed** 20 ft., climb 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,8 +66,8 @@ title: Spider
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 30 ft., passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 30 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 0
 
@@ -70,3 +87,7 @@ title: Spider
 ## Environment
 
 desert, forest, swamp, underdark, urban
+
+## Sources
+
+_Monster Manual (2024) p. 369, Player's Handbook (2024) p. 357. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

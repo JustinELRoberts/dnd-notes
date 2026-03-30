@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Zaratan
-created: 2026-03-09T12:15:33.853-04:00
-modified: 2026-03-09T12:15:33.853-04:00
-published: 2026-03-09T12:15:33.853-04:00
+created: 2026-03-29T21:53:55.643-04:00
+modified: 2026-03-29T21:53:55.643-04:00
+published: 2026-03-29T21:53:55.643-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/22
@@ -19,22 +19,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Zaratan (MPMM)
+ac: 21
+hp: 307
+modifier: 0
+hit_dice: 15d20 + 150
+cr: "22"
+stats:
+  - 30
+  - 10
+  - 30
+  - 2
+  - 21
+  - 18
+source:
+  - MPMM
 ---
 
 # Zaratan
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 278_\
 ![](Mechanics/CLI/bestiary/elemental/img/zaratan.webp#right)
-
 When a zaratan is summoned from the Elemental Plane of Earth, the ground rises up to take the shape of a hulking, armored reptile. A zaratan's steps trigger shock waves severe enough to level structures. It expresses its rage through trumpeting calls and the occasional boulder or blast of debris it spews from its cavernous maw. If seriously injured, a zaratan retracts its appendages to gain shelter beneath its impervious shell, biding its time until it recovers and can resume its march.
 
 ```ad-statblock
 title: Zaratan
-![](Mechanics/CLI/bestiary/elemental/token/zaratan-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/zaratan-mpmm.webp#token)
 *Gargantuan elemental, Typically  Neutral*
 
 - **Armor Class** 21 (natural armor)
-- **Hit Points** 307 (`15d20 + 150`) 
+- **Hit Points** 307 (15d20 + 150) 
 - **Speed** 40 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,10 +59,10 @@ title: Zaratan
 - **Proficiency Bonus** +7
 - **Saving Throws** Wisdom +12, Charisma +11
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 15
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 15
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](Mechanics/CLI/rules/conditions.md#Stunned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [stunned](/Mechanics/CLI/conditions.md#Stunned)
 - **Languages** —
 - **Challenge** 22
 
@@ -67,11 +82,11 @@ title: Zaratan
 
 ***Spit Rock.*** *Ranged Weapon Attack:* `+17` to hit, range 120 ft./240 ft., one target. *Hit:* 31 (`6d8 + 10`) force damage.
 
-***Spew Debris (Recharge 5-6).*** The zaratan exhales rocky debris in a 90-foot cube. Each creature in that area must make a DC 25 Dexterity saving throw. A creature takes 33 (`6d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails the save by 5 or more is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Spew Debris (Recharge 5-6).*** The zaratan exhales rocky debris in a 90-foot cube. Each creature in that area must make a DC 25 Dexterity saving throw. A creature takes 33 (`6d10`) bludgeoning damage on a failed save, or half as much damage on a successful one. A creature that fails the save by 5 or more is knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Bonus Actions
 
-***Earth-Shaking Movement.*** After moving at least 10 feet on the ground, the zaratan sends a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground that is [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) must succeed on a DC 25 Constitution saving throw or the creature's [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken. The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure's height must make a DC 25 Dexterity saving throw. On a failed save, the creature takes 17 (`5d6`) bludgeoning damage, is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone), and is trapped in the rubble. A trapped creature is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), requiring a successful DC 20 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn't fall [prone](Mechanics/CLI/rules/conditions.md#Prone) or become trapped.
+***Earth-Shaking Movement.*** After moving at least 10 feet on the ground, the zaratan sends a shock wave through the ground in a 120-foot-radius circle centered on itself. That area becomes difficult terrain for 1 minute. Each creature on the ground that is [concentrating](/Mechanics/CLI/conditions.md#Concentration) must succeed on a DC 25 Constitution saving throw or the creature's [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken. The shock wave deals 100 thunder damage to all structures in contact with the ground in the area. If a creature is near a structure that collapses, the creature might be buried; a creature within half the distance of the structure's height must make a DC 25 Dexterity saving throw. On a failed save, the creature takes 17 (`5d6`) bludgeoning damage, is knocked [prone](/Mechanics/CLI/conditions.md#Prone), and is trapped in the rubble. A trapped creature is [restrained](/Mechanics/CLI/conditions.md#Restrained), requiring a successful DC 20 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) check as an action to escape. Another creature within 5 feet of the buried creature can use its action to clear rubble and grant advantage on the check. If three creatures use their actions in this way, the check is an automatic success. On a successful save, the creature takes half as much damage and doesn't fall [prone](/Mechanics/CLI/conditions.md#Prone) or become trapped.
 
 ## Legendary Actions
 
@@ -83,7 +98,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the zaratan
 
 ***Spit (Costs 2 Actions).*** The zaratan makes one Spit Rock attack.
 
-***Retract (Costs 2 Actions).*** The zaratan retracts into its shell. Until it takes its Emerge action, it has resistance to all damage, and it is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). The next time it takes a legendary action, it must take its Revitalize or Emerge action.
+***Retract (Costs 2 Actions).*** The zaratan retracts into its shell. Until it takes its Emerge action, it has resistance to all damage, and it is [restrained](/Mechanics/CLI/conditions.md#Restrained). The next time it takes a legendary action, it must take its Revitalize or Emerge action.
 
 ***Revitalize (Costs 2 Actions).*** The zaratan can use this option only if it is retracted in its shell. It regains 52 (`5d20`) hit points. The next time it takes a legendary action, it must take its Emerge action.
 
@@ -95,3 +110,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the zaratan
 ## Environment
 
 desert, forest, grassland, hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 278_

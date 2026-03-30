@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Teleportation Circle
-created: 2026-03-09T12:15:33.955-04:00
-modified: 2026-03-09T12:15:33.955-04:00
-published: 2026-03-09T12:15:33.955-04:00
+created: 2026-03-29T21:53:55.958-04:00
+modified: 2026-03-29T21:53:55.958-04:00
+published: 2026-03-29T21:53:55.958-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -23,16 +24,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Cartographer)
-  - Bard
-  - Martyr (Burden of Fame)
-  - Martyr (Burden of Odyssey)
-  - Ranger (Horizon Walker)
-  - Sorcerer
-  - Warlock
-  - Witch (Technicolor Magic)
-  - Wizard
 ---
 
 # Teleportation Circle
@@ -52,6 +43,21 @@ When you first gain the ability to cast this spell, you learn the sigil sequence
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for 365 days.
 
-**Classes**: [Artificer (Cartographer)](Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr (Burden of Fame)](Mechanics/CLI/lists/list-spells-classes-burden-of-fame-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Odyssey)](Mechanics/CLI/lists/list-spells-classes-burden-of-odyssey-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger (Horizon Walker)](Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch (Technicolor Magic)](Mechanics/CLI/lists/list-spells-classes-technicolor-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Witch (Technicolor Magic)](/Mechanics/CLI/lists/list-spells-classes-technicolor-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Artificer (Cartographer)](/Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Ranger (Horizon Walker)](/Mechanics/CLI/lists/list-spells-classes-horizon-walker-xge.md "subclass=XGE")
+- [Mark of Passage](/Mechanics/CLI/lists/list-spells-feats-mark-of-passage-efa.md)
+- [Martyr (Burden of Fame)](/Mechanics/CLI/lists/list-spells-classes-burden-of-fame-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Martyr (Burden of Odyssey)](/Mechanics/CLI/lists/list-spells-classes-burden-of-odyssey-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 332. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

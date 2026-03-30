@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Staff of Power
-created: 2026-03-09T12:15:33.839-04:00
-modified: 2026-03-09T12:15:33.839-04:00
-published: 2026-03-09T12:15:33.839-04:00
+created: 2026-03-29T21:53:55.625-04:00
+modified: 2026-03-29T21:53:55.625-04:00
+published: 2026-03-29T21:53:55.625-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -24,7 +24,8 @@ _Staff, weapon, major, very rare (requires attunement by a sorcerer, warlock, or
 - **Damage**:
   - One-handed: 1d6 bludgeoning
   - Two-handed: 1d8 bludgeoning
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
+- **Cost**: ⏤
 - **Weight**: 4.0 lbs.
 
 This staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage rolls made with it. While holding it, you gain a +2 bonus to Armor Class, saving throws, and spell attack rolls.
@@ -37,7 +38,7 @@ When you hit with a melee attack using the staff, you can expend 1 charge to dea
 
 ## Spells
 
-While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md) (5 charges), [fireball](Mechanics/CLI/spells/fireball-xphb.md) (5th-level version, 5 charges), [globe of invulnerability](Mechanics/CLI/spells/globe-of-invulnerability-xphb.md) (6 charges), [hold monster](Mechanics/CLI/spells/hold-monster-xphb.md) (5 charges), [levitate](Mechanics/CLI/spells/levitate-xphb.md) (2 charges), [lightning bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md) (5th-level version, 5 charges), [magic missile](Mechanics/CLI/spells/magic-missile-xphb.md) (1 charge), [ray of enfeeblement](Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) (1 charge), or [wall of force](Mechanics/CLI/spells/wall-of-force-xphb.md) (5 charges).
+While holding this staff, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spell attack bonus: [cone of cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md) (5 charges), [fireball](/Mechanics/CLI/spells/fireball-xphb.md) (5th-level version, 5 charges), [globe of invulnerability](/Mechanics/CLI/spells/globe-of-invulnerability-xphb.md) (6 charges), [hold monster](/Mechanics/CLI/spells/hold-monster-xphb.md) (5 charges), [levitate](/Mechanics/CLI/spells/levitate-xphb.md) (2 charges), [lightning bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md) (5th-level version, 5 charges), [magic missile](/Mechanics/CLI/spells/magic-missile-xphb.md) (1 charge), [ray of enfeeblement](/Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) (1 charge), or [wall of force](/Mechanics/CLI/spells/wall-of-force-xphb.md) (5 charges).
 
 ## Retributive Strike
 
@@ -52,4 +53,6 @@ You have a 50 percent chance to instantly travel to a random plane of existence,
 | 21 to 30 ft. away | 4 × the number of charges in the staff |
 ^distance-from-origin-effect
 
-_Source: Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 202. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

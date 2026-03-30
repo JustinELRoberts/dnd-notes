@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Satyr
-created: 2026-03-09T12:15:33.986-04:00
-modified: 2026-03-09T12:15:33.986-04:00
-published: 2026-03-09T12:15:33.986-04:00
+created: 2026-03-29T21:53:55.992-04:00
+modified: 2026-03-29T21:53:55.992-04:00
+published: 2026-03-29T21:53:55.992-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Satyr
+ac: 14
+hp: 31
+modifier: 3
+hit_dice: 7d8
+cr: 1/2
+stats:
+  - 12
+  - 16
+  - 11
+  - 12
+  - 10
+  - 14
+source:
+  - MM
 ---
 
 # Satyr
 
-_Source: Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/fey/img/satyr.webp#right)
-
 Satyrs are raucous fey that frolic in wild forests, driven by curiosity and hedonism in equal measure.
 
 Satyrs resemble stout male humans with the furry lower bodies and cloven hooves of goats. Horns sprout from their heads, ranging in shape from a pair of small nubs to large, curling rams' horns. They typically sport facial hair.
@@ -65,11 +80,11 @@ Inebriated on drink and pleasure, satyrs give no thought to the consequences of 
 
 ```ad-statblock
 title: Satyr
-![](Mechanics/CLI/bestiary/fey/token/satyr.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/satyr.webp#token)
 *Medium fey, Chaotic Neutral*
 
-- **Armor Class** 14 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 31 (`7d8`) 
+- **Armor Class** 14 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 31 (7d8) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -78,9 +93,8 @@ title: Satyr
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Performance](Mechanics/CLI/rules/skills.md#Performance) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Performance](/Mechanics/CLI/skills.md#Performance) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
 - **Senses** passive Perception 12
-- **Gear** [shortbow](Mechanics/CLI/items/shortbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** Common, Elvish, Sylvan
 - **Challenge** 1/2
 
@@ -102,3 +116,7 @@ title: Satyr
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 267. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dire Troll
-created: 2026-03-09T12:15:33.938-04:00
-modified: 2026-03-09T12:15:33.938-04:00
-published: 2026-03-09T12:15:33.938-04:00
+created: 2026-03-29T21:53:55.939-04:00
+modified: 2026-03-29T21:53:55.939-04:00
+published: 2026-03-29T21:53:55.939-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/13
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dire Troll (MPMM)
+ac: 15
+hp: 172
+modifier: 2
+hit_dice: 15d12 + 75
+cr: "13"
+stats:
+  - 22
+  - 15
+  - 21
+  - 9
+  - 11
+  - 5
+source:
+  - MPMM
 ---
 
 # Dire Troll
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 246_\
 ![](Mechanics/CLI/bestiary/giant/img/dire-troll.webp#right)
-
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
 
 Dire trolls also increase their size by grafting flesh onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on a dire troll, the dire troll's regenerative capacity incorporates the new mass into the troll's own musculature. Even more horrifying are the multiple arms, eyes, claws, and organs that dire trolls tear from their victims and graft onto themselves in this manner.
@@ -43,11 +58,11 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 ```ad-statblock
 title: Dire Troll
-![](Mechanics/CLI/bestiary/giant/token/dire-troll-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/dire-troll-mpmm.webp#token)
 *Huge giant, Typically  Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 172 (`15d12 + 75`) 
+- **Hit Points** 172 (15d12 + 75) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,10 +71,10 @@ title: Dire Troll
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Wisdom +5, Charisma +2
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Giant
 - **Challenge** 13
 
@@ -83,3 +98,7 @@ title: Dire Troll
 ## Environment
 
 arctic, forest, hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 246_

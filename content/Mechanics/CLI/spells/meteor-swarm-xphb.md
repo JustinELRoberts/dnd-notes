@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Meteor Swarm
-created: 2026-03-09T12:15:33.965-04:00
-modified: 2026-03-09T12:15:33.965-04:00
-published: 2026-03-09T12:15:33.965-04:00
+created: 2026-03-29T21:53:55.968-04:00
+modified: 2026-03-29T21:53:55.969-04:00
+published: 2026-03-29T21:53:55.969-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/9th-level
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Wizard
-  - Wizard (Evoker)
 ---
 
 # Meteor Swarm
@@ -32,10 +28,18 @@ _9th-level, Evocation_
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on each of those points makes a Dexterity saving throw. A creature takes `20d6` Fire damage and `20d6` Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) is affected only once.
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on each of those points makes a Dexterity saving throw. A creature takes `20d6` Fire damage and `20d6` Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) is affected only once.
 
-A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts [burning](Mechanics/CLI/traps-hazards/burning-xphb.md) if it's flammable.
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts [burning](/Mechanics/CLI/traps-hazards/burning-xphb.md) if it's flammable.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Wizard (Evoker)](Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Wizard (Evoker)](/Mechanics/CLI/lists/list-spells-classes-evoker-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 298. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

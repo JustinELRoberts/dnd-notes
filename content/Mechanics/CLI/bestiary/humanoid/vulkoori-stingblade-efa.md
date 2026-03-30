@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Vulkoori Stingblade
-created: 2026-03-09T12:15:33.883-04:00
-modified: 2026-03-09T12:15:33.883-04:00
-published: 2026-03-09T12:15:33.883-04:00
+created: 2026-03-29T21:53:55.677-04:00
+modified: 2026-03-29T21:53:55.677-04:00
+published: 2026-03-29T21:53:55.677-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/monster/cr/1-2
@@ -13,22 +13,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Vulkoori Stingblade (EFA)
+ac: 14
+hp: 27
+modifier: 4
+hit_dice: 6d8
+cr: 1/2
+stats:
+  - 11
+  - 15
+  - 10
+  - 11
+  - 12
+  - 12
+source:
+  - EFA
 ---
 
 # Vulkoori Stingblade
 
-_Source: Eberron: Forge of the Artificer p. 98_\
 ![](Mechanics/CLI/bestiary/humanoid/img/vulkoori-stingblade.webp#right)
-
 Vulkoori drow warriors coat their weapons with the same deadly scorpion venom they use to tattoo their skin. Thanks to their extensive use of poison, they are resistant to the scorpion venom's full effects.
 
 ```ad-statblock
 title: Vulkoori Stingblade
-![](Mechanics/CLI/bestiary/humanoid/token/vulkoori-stingblade-efa.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/vulkoori-stingblade-efa.webp#token)
 *Medium humanoid (elf), Neutral*
 
 - **Armor Class** 14 
-- **Hit Points** 27 (`6d8`) 
+- **Hit Points** 27 (6d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,10 +52,9 @@ title: Vulkoori Stingblade
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 13
 - **Damage Resistances** poison
-- **Gear** [shortsword](Mechanics/CLI/items/shortsword-xphb.md), [studded leather armor](Mechanics/CLI/items/studded-leather-armor-xphb.md)
 - **Languages** Common, Elvish, Giant
 - **Challenge** 1/2
 
@@ -56,3 +70,7 @@ title: Vulkoori Stingblade
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 98_

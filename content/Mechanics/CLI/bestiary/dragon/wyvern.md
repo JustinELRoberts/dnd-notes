@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wyvern
-created: 2026-03-09T12:15:33.920-04:00
-modified: 2026-03-09T12:15:33.920-04:00
-published: 2026-03-09T12:15:33.920-04:00
+created: 2026-03-29T21:53:55.924-04:00
+modified: 2026-03-29T21:53:55.924-04:00
+published: 2026-03-29T21:53:55.924-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Wyvern
+ac: 13
+hp: 110
+modifier: 0
+hit_dice: 13d10 + 39
+cr: "6"
+stats:
+  - 19
+  - 10
+  - 16
+  - 5
+  - 12
+  - 6
+source:
+  - MM
 ---
 
 # Wyvern
 
-_Source: Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/dragon/img/wyvern.webp#right)
-
 Travelers in the wild sometimes look to the skies to see the dark-winged shape of a wyvern carrying its prey. These cousins to the great dragons hunt the same tangled forests and caverns as their kin. Their appearance sends ripples of alarm through the borderlands of civilization.
 
 A wyvern has two scaly legs, leathery wings, and a sinewy tail topped with its most potent weapon: a poison stinger. The poison in a wyvern's stinger can kill a creature in seconds. Extremely potent, wyvern poison burns through its victim's bloodstream, disintegrating veins and arteries on its way to the heart. As deadly as wyverns can be, however, hunters and adventurers often track them to claim the venom, which is used in alchemical compounds and to coat weapons.
@@ -44,11 +59,11 @@ A wyvern can be tamed for use as a mount, but doing so presents a difficult and 
 
 ```ad-statblock
 title: Wyvern
-![](Mechanics/CLI/bestiary/dragon/token/wyvern.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/wyvern.webp#token)
 *Large dragon, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 110 (`13d10 + 39`) 
+- **Hit Points** 110 (13d10 + 39) 
 - **Speed** 20 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,8 +72,8 @@ title: Wyvern
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Languages** —
 - **Challenge** 6
 
@@ -78,3 +93,7 @@ title: Wyvern
 ## Environment
 
 mountain, hill
+
+## Sources
+
+_Monster Manual p. 303. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

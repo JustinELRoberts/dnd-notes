@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Resurrection
-created: 2026-03-09T12:15:33.925-04:00
-modified: 2026-03-09T12:15:33.925-04:00
-published: 2026-03-09T12:15:33.925-04:00
+created: 2026-03-29T21:53:55.929-04:00
+modified: 2026-03-29T21:53:55.929-04:00
+published: 2026-03-29T21:53:55.929-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/level/7th-level
   - ttrpg-cli/spell/school/necromancy
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Resurrection
@@ -32,12 +29,20 @@ _7th-level, Necromancy_
 
 With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
 
-The creature returns to life with all its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
+The creature returns to life with all its [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
 
-Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md). Every time the target finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), the penalty is reduced by 1 until it becomes 0.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to [D20 Tests](/Mechanics/CLI/variant-rules/d20-test-xphb.md). Every time the target finishes a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), the penalty is reduced by 1 until it becomes 0.
 
-Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can't cast spells again, and you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md).
+Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can't cast spells again, and you have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on [D20 Tests](/Mechanics/CLI/variant-rules/d20-test-xphb.md).
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 312. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

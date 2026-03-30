@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Primordial Ward
-created: 2026-03-09T12:15:34.019-04:00
-modified: 2026-03-09T12:15:34.019-04:00
-published: 2026-03-09T12:15:34.019-04:00
+created: 2026-03-29T21:53:56.029-04:00
+modified: 2026-03-29T21:53:56.029-04:00
+published: 2026-03-29T21:53:56.029-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/6th-level
   - ttrpg-cli/spell/school/abjuration
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
 ---
 
 # Primordial Ward
@@ -32,6 +30,12 @@ You have resistance to acid, cold, fire, lightning, and thunder damage for the s
 
 When you take damage of one of those types, you can use your reaction to gain immunity to that type of damage, including against the triggering damage. If you do so, the resistances end, and you have the immunity until the end of your next turn, at which time the spell ends.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 163_
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 163_

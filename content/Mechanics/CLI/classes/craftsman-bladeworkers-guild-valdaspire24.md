@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bladeworkers' Guild
-created: 2026-03-09T12:15:33.849-04:00
-modified: 2026-03-09T12:15:33.849-04:00
-published: 2026-03-09T12:15:33.849-04:00
+created: 2026-03-29T21:53:55.638-04:00
+modified: 2026-03-29T21:53:55.638-04:00
+published: 2026-03-29T21:53:55.638-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/craftsman/bladeworkers
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Bladeworkers' Guild
 
-_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,22 +56,26 @@ Blade and bow, axe and mace: these are the tools with which the Guild of Bladewo
 
 ### Weapon Versatilist (Level 3)
 
-Once on each of your turns when you make an attack roll with a weapon, you can give yourself [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll. You can't use this feature again with that specific kind of weapon (such as Longswords) until you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md) or finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once on each of your turns when you make an attack roll with a weapon, you can give yourself [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the roll. You can't use this feature again with that specific kind of weapon (such as Longswords) until you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md) or finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Bane Weapons (Level 3)
 
-When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can use your Crafting Tools and materials worth 50+ GP to etch a rune of slaying on a Melee weapon or modify its rune to another one. When you etch a rune, choose one of the following creature types: Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, Giants, or Undead. If a creature of that type takes damage from the weapon, the creature takes an extra `1d10` Force damage.
+When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can use your Crafting Tools and materials worth 50+ GP to etch a rune of slaying on a Melee weapon or modify its rune to another one. When you etch a rune, choose one of the following creature types: Aberrations, Celestials, Dragons, Elementals, Fey, Fiends, Giants, or Undead. If a creature of that type takes damage from the weapon, the creature takes an extra `1d10` Force damage.
 
 A weapon that deals extra damage to Dragons is called a "Dragonsbane" weapon, one that deals extra damage to Giants is called a "Giantsbane," and so on.
 
 ### Flex Grip (Level 6)
 
-During your turn, your reach is 5 feet greater with any Masterwork Melee weapon that has the [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed) or [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile) property.
+During your turn, your reach is 5 feet greater with any Masterwork Melee weapon that has the [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed) or [Versatile](/Mechanics/CLI/item-properties.md#Versatile) property.
 
 ### Defensive Disarm (Level 10)
 
-When a creature you can see within 5 feet of you makes an attack roll against you with a weapon, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to attempt to disarm the attacker. The target makes a Strength saving throw (DC 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, it drops one item of your choice that it's holding. The object lands in a space you choose within 10 feet of the target. The target can replace the attack with one using a different weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md); otherwise the triggering attack misses.
+When a creature you can see within 5 feet of you makes an attack roll against you with a weapon, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to attempt to disarm the attacker. The target makes a Strength saving throw (DC 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, it drops one item of your choice that it's holding. The object lands in a space you choose within 10 feet of the target. The target can replace the attack with one using a different weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md); otherwise the triggering attack misses.
 
 ### Vicious Strike (Level 14)
 
-When you make an attack roll with a Melee weapon and have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll, you can attempt a Vicious Strike. The attack roll instead has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md). If this attack hits, it scores a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md).
+When you make an attack roll with a Melee weapon and have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the roll, you can attempt a Vicious Strike. The attack roll instead has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md). If this attack hits, it scores a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

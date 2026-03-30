@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Arcane Focus (Varies); Arcane Focuses
-created: 2026-03-09T12:15:34.402-04:00
-modified: 2026-03-09T12:15:34.402-04:00
-published: 2026-03-09T12:15:34.402-04:00
+created: 2026-03-29T21:53:56.499-04:00
+modified: 2026-03-29T21:53:56.499-04:00
+published: 2026-03-29T21:53:56.499-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
 cssclasses:
@@ -20,9 +20,9 @@ _Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems 
 
 | Focus | Weight | Cost |
 |-------|--------|------|
-| [Crystal](Mechanics/CLI/items/crystal-xphb.md) | 1 lb. | 10 GP |
-| [Orb](Mechanics/CLI/items/orb-xphb.md) | 3 lb. | 20 GP |
-| [Rod](Mechanics/CLI/items/rod-xphb.md) | 2 lb. | 10 GP |
-| [Staff](Mechanics/CLI/items/staff-xphb.md) (also a [Quarterstaff](Mechanics/CLI/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
-| [Wand](Mechanics/CLI/items/wand-xphb.md) | 1 lb. | 10 GP |
+| [Crystal](/Mechanics/CLI/items/crystal-xphb.md) | 1 lb. | 10 GP |
+| [Orb](/Mechanics/CLI/items/orb-xphb.md) | 3 lb. | 20 GP |
+| [Rod](/Mechanics/CLI/items/rod-xphb.md) | 2 lb. | 10 GP |
+| [Staff](/Mechanics/CLI/items/staff-xphb.md) (also a [Quarterstaff](/Mechanics/CLI/items/quarterstaff-xphb.md)) | 4 lb. | 5 GP |
+| [Wand](/Mechanics/CLI/items/wand-xphb.md) | 1 lb. | 10 GP |
 ^arcane-focuses

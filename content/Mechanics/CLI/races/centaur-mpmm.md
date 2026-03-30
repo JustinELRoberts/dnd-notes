@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Centaur
-created: 2026-03-09T12:15:34.120-04:00
-modified: 2026-03-09T12:15:34.120-04:00
-published: 2026-03-09T12:15:34.120-04:00
+created: 2026-03-29T21:53:56.158-04:00
+modified: 2026-03-29T21:53:56.158-04:00
+published: 2026-03-29T21:53:56.158-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/centaur
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Centaur
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 9_\
 ![](Mechanics/CLI/races/img/centaur.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -45,8 +44,12 @@ You have hooves that you can use to make unarmed strikes. When you hit with them
 
 ### Natural Affinity
 
-Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), or [Survival](Mechanics/CLI/rules/skills.md#Survival).
+Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Nature](/Mechanics/CLI/skills.md#Nature), or [Survival](/Mechanics/CLI/skills.md#Survival).
 
 ## Description
 
 Centaurs gallop throughout the multiverse and trace their origins to many different realms. The centaurs presented here hail from the Feywild and mystically resonate with the natural world. From the waist up, they resemble elves, displaying all the elf varieties of skin tone. From the waist down, they have the bodies of horses.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 9_

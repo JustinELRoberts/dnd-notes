@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gas Spore
-created: 2026-03-09T12:15:33.985-04:00
-modified: 2026-03-09T12:15:33.985-04:00
-published: 2026-03-09T12:15:33.985-04:00
+created: 2026-03-29T21:53:55.991-04:00
+modified: 2026-03-29T21:53:55.991-04:00
+published: 2026-03-29T21:53:55.991-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gas Spore
+ac: 5
+hp: 1
+modifier: -5
+hit_dice: 1d10 - 4
+cr: 1/2
+stats:
+  - 5
+  - 1
+  - 3
+  - 1
+  - 1
+  - 1
+source:
+  - MM
 ---
 
 # Gas Spore
 
-_Source: Monster Manual p. 138_\
 ![](Mechanics/CLI/bestiary/plant/img/gas-spore.webp#right)
-
 The first gas spores are thought to have been spawned from dead beholders, whose moldering corpses fed a parasitic fungus with aberrant magic. Having long since adapted into a unique plant creature, a gas spore grows quickly and purposefully out of any corpse, creating a malevolent-looking mockery of the most feared denizen of the Underdark.
 
 ## Eye Tyrant's Form
@@ -47,11 +62,11 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 
 ```ad-statblock
 title: Gas Spore
-![](Mechanics/CLI/bestiary/plant/token/gas-spore.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/gas-spore.webp#token)
 *Large plant, Unaligned*
 
 - **Armor Class** 5 
-- **Hit Points** 1 (`1d10 - 4`) 
+- **Hit Points** 1 (1d10 - 4) 
 - **Speed** 0 ft., fly 10 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,19 +76,19 @@ title: Gas Spore
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 5
 - **Damage Immunities** poison
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 1/2
 
 ## Traits
 
-***Death Burst.*** The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (`3d6`) poison damage and become infected with a disease on a failed save. Creatures immune to the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition are immune to this disease.
+***Death Burst.*** The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (`3d6`) poison damage and become infected with a disease on a failed save. Creatures immune to the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition are immune to this disease.
 
-Spores invade an infected creature's system, killing the creature in a number of hours equal to `1d12` + the creature's Constitution score, unless the disease is removed. In half that time, the creature becomes [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for the rest of the duration. After the creature dies, it sprouts `2d4` Tiny gas spores that grow to full size in 7 days.
+Spores invade an infected creature's system, killing the creature in a number of hours equal to `1d12` + the creature's Constitution score, unless the disease is removed. In half that time, the creature becomes [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for the rest of the duration. After the creature dies, it sprouts `2d4` Tiny gas spores that grow to full size in 7 days.
 
-***Eerie Resemblance.*** The gas spore resembles a beholder. A creature that can see the gas spore can discern its true nature with a successful DC 15 Intelligence ([Nature](Mechanics/CLI/rules/skills.md#Nature)) check.
+***Eerie Resemblance.*** The gas spore resembles a beholder. A creature that can see the gas spore can discern its true nature with a successful DC 15 Intelligence ([Nature](/Mechanics/CLI/skills.md#Nature)) check.
 
 ## Actions
 
@@ -85,3 +100,7 @@ Spores invade an infected creature's system, killing the creature in a number of
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 138_

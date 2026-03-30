@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sivis Scribe
-created: 2026-03-09T12:15:33.795-04:00
-modified: 2026-03-09T12:15:33.795-04:00
-published: 2026-03-09T12:15:33.795-04:00
+created: 2026-03-29T21:53:55.578-04:00
+modified: 2026-03-29T21:53:55.578-04:00
+published: 2026-03-29T21:53:55.578-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/monster/cr/3
@@ -13,22 +13,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sivis Scribe (EFA)
+ac: 15
+hp: 56
+modifier: 2
+hit_dice: 16d6
+cr: "3"
+stats:
+  - 11
+  - 15
+  - 10
+  - 16
+  - 12
+  - 11
+source:
+  - EFA
 ---
 
 # Sivis Scribe
 
-_Source: Eberron: Forge of the Artificer p. 84_\
 ![](Mechanics/CLI/bestiary/humanoid/img/sivis-scribe.webp#right)
-
 The dragonmarked heirs of House Sivis are typically accomplished gnome scholars of magic. In addition to the might that comes with their marks, they favor magical sigils and words of power.
 
 ```ad-statblock
 title: Sivis Scribe
-![](Mechanics/CLI/bestiary/humanoid/token/sivis-scribe-efa.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/sivis-scribe-efa.webp#token)
 *Small humanoid (gnome), Neutral*
 
 - **Armor Class** 15 
-- **Hit Points** 56 (`16d6`) 
+- **Hit Points** 56 (16d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,14 +52,14 @@ title: Sivis Scribe
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +3
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +5, [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) +4
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +5, [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand) +4
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** Common, Gnomish plus three other languages
 - **Challenge** 3
 
 ## Traits
 
-***Words of Reason.*** Allies in a 10-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from the scribe have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition. This trait doesn't function if the scribe has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+***Words of Reason.*** Allies in a 10-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from the scribe have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition. This trait doesn't function if the scribe has the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ## Actions
 
@@ -54,13 +69,17 @@ title: Sivis Scribe
 
 ***Spellcasting.*** The scribe casts one of the following spells, requiring no Material components and using Intelligence as the spellcasting ability (DC 13):
 
-**At will:** [Comprehend Languages](Mechanics/CLI/spells/comprehend-languages-xphb.md), [Mage Armor](Mechanics/CLI/spells/mage-armor-xphb.md) (included in AC), [Message](Mechanics/CLI/spells/message-xphb.md)
+**At will:** [Comprehend Languages](/Mechanics/CLI/spells/comprehend-languages-xphb.md), [Mage Armor](/Mechanics/CLI/spells/mage-armor-xphb.md) (included in AC), [Message](/Mechanics/CLI/spells/message-xphb.md)
 
 1/Da y: Sending
 
 ## Reactions
 
-***Word of Stasis (Recharge 5-6).*** *Constitution Saving Throw:* DC 13, each creature in a 20-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the scribe can see within 60 feet. *Failure:* The target has the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition until the start of the scribe's next turn. While the target is [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is 0 and can't increase.
+***Word of Stasis (Recharge 5-6).*** *Constitution Saving Throw:* DC 13, each creature in a 20-foot-radius [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) centered on a point the scribe can see within 60 feet. *Failure:* The target has the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition until the start of the scribe's next turn. While the target is [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is 0 and can't increase.
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 84_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Killer Whale
-created: 2026-03-09T12:15:33.928-04:00
-modified: 2026-03-09T12:15:33.928-04:00
-published: 2026-03-09T12:15:33.928-04:00
+created: 2026-03-29T21:53:55.931-04:00
+modified: 2026-03-29T21:53:55.931-04:00
+published: 2026-03-29T21:53:55.931-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,19 +14,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Killer Whale
+ac: 12
+hp: 90
+modifier: 0
+hit_dice: 12d12 + 12
+cr: "3"
+stats:
+  - 19
+  - 10
+  - 13
+  - 3
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Killer Whale
 
-_Source: Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Killer Whale
-![](Mechanics/CLI/bestiary/beast/token/killer-whale.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/killer-whale.webp#token)
 *Huge beast, Unaligned*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 90 (`12d12 + 12`) 
+- **Hit Points** 90 (12d12 + 12) 
 - **Speed** swim 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -35,18 +50,18 @@ title: Killer Whale
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 120 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 120 ft., passive Perception 13
 - **Languages** —
 - **Challenge** 3
 
 ## Traits
 
-***Echolocation.*** The whale can't use its blindsight while [deafened](Mechanics/CLI/rules/conditions.md#Deafened).
+***Echolocation.*** The whale can't use its blindsight while [deafened](/Mechanics/CLI/conditions.md#Deafened).
 
 ***Hold Breath.*** The whale can hold its breath for 30 minutes.
 
-***Keen Hearing.*** The whale has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing.
+***Keen Hearing.*** The whale has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing.
 
 ## Actions
 
@@ -58,3 +73,7 @@ title: Killer Whale
 ## Environment
 
 underwater
+
+## Sources
+
+_Monster Manual p. 331. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

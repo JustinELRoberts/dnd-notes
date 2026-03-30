@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Investiture of Stone
-created: 2026-03-09T12:15:33.788-04:00
-modified: 2026-03-09T12:15:33.788-04:00
-published: 2026-03-09T12:15:33.788-04:00
+created: 2026-03-29T21:53:55.565-04:00
+modified: 2026-03-29T21:53:55.566-04:00
+published: 2026-03-29T21:53:55.566-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
@@ -18,12 +19,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Sorcerer
-  - Warlock
-  - Wizard
 ---
 
 # Investiture of Stone
@@ -38,9 +33,19 @@ _6th-level, Transmutation_
 Until the spell ends, bits of rock spread across your body, and you gain the following benefits:
 
 - You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
-- You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
-- You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of your next turn.
+- You can use your action to create a small earthquake on the ground in a 15-foot radius centered on you. Other creatures on that ground must succeed on a Dexterity saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
+- You can move across difficult terrain made of earth or stone without spending extra movement. You can move through solid earth or stone as if it was air and without destabilizing it, but you can't end your movement there. If you do so, you are ejected to the nearest unoccupied space, this spell ends, and you are [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of your next turn.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 159_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 159_

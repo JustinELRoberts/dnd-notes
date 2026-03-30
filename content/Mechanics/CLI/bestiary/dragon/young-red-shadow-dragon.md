@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Red Shadow Dragon
-created: 2026-03-09T12:15:33.791-04:00
-modified: 2026-03-09T12:15:33.791-04:00
-published: 2026-03-09T12:15:33.791-04:00
+created: 2026-03-29T21:53:55.574-04:00
+modified: 2026-03-29T21:53:55.574-04:00
+published: 2026-03-29T21:53:55.574-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/13
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Red Shadow Dragon
+ac: 18
+hp: 178
+modifier: 0
+hit_dice: 17d10 + 85
+cr: "13"
+stats:
+  - 23
+  - 10
+  - 21
+  - 14
+  - 11
+  - 19
+source:
+  - MM
 ---
 
 # Young Red Shadow Dragon
 
-_Source: Monster Manual p. 85_\
 ![](Mechanics/CLI/bestiary/dragon/img/shadow-dragon.webp#right)
-
 Shadow dragons are true dragons that were either born in the Shadowfell or transformed by years spent within its dismal confines. Some shadow dragons embrace the Shadowfell for its bleak landscapes and desolation. Others seek to return to the Material Plane, hungry to spread the darkness and evil of the Plane of Shadow.
 
 ## Dark Portals
@@ -47,7 +62,7 @@ The dragon has resistance to necrotic damage.
 
 ### Skill Proficiency: Stealth
 
-The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks.
+The dragon's proficiency bonus is doubled for its Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks.
 
 ### Living Shadow
 
@@ -55,11 +70,11 @@ While in dim light or darkness, the dragon has resistance to damage that isn't f
 
 ### Shadow Stealth
 
-While in dim light or darkness, the dragon can take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action.
+While in dim light or darkness, the dragon can take the [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action.
 
 ### Sunlight Sensitivity
 
-While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ### New Action: Bite
 
@@ -73,11 +88,11 @@ Any damage-dealing breath weapon possessed by the dragon deals necrotic damage i
 
 ```ad-statblock
 title: Young Red Shadow Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-red-shadow-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-red-shadow-dragon.webp#token)
 *Large dragon, Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 178 (`17d10 + 85`) 
+- **Hit Points** 178 (17d10 + 85) 
 - **Speed** 40 ft., climb 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -86,8 +101,8 @@ title: Young Red Shadow Dragon
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +5, Constitution +10, Wisdom +5, Charisma +9
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +10, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +10
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 18
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +10, [Stealth](/Mechanics/CLI/skills.md#Stealth) +10
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 18
 - **Damage Resistances** necrotic
 - **Damage Immunities** fire
 - **Languages** Common, Draconic
@@ -97,9 +112,9 @@ title: Young Red Shadow Dragon
 
 ***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.
 
-***Shadow Stealth.*** While in dim light or darkness, the dragon can take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action.
+***Shadow Stealth.*** While in dim light or darkness, the dragon can take the [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action.
 
-***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the dragon has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -109,7 +124,7 @@ title: Young Red Shadow Dragon
 
 ***Claw.*** *Melee Weapon Attack:* `+11` to hit, reach 5 ft., one target. *Hit:* 13 (`2d6 + 6`) slashing damage.
 
-***Shadow Breath (Recharge 5-6).*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (`16d6`) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead [shadow](Mechanics/CLI/bestiary/undead/shadow.md) rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
+***Shadow Breath (Recharge 5-6).*** The dragon exhales shadowy fire in a 30-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 56 (`16d6`) necrotic damage on a failed save, or half as much damage on a successful one. A humanoid reduced to 0 hit points by this damage dies, and an undead [shadow](/Mechanics/CLI/bestiary/undead/shadow.md) rises from its corpse and acts immediately after the dragon in the initiative count. The shadow is under the dragon's control.
 ```
 
 ^statblock
@@ -117,3 +132,7 @@ title: Young Red Shadow Dragon
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 85_

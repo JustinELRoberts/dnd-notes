@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Plesiosaurus
-created: 2026-03-09T12:15:34.111-04:00
-modified: 2026-03-09T12:15:34.111-04:00
-published: 2026-03-09T12:15:34.111-04:00
+created: 2026-03-29T21:53:56.149-04:00
+modified: 2026-03-29T21:53:56.149-04:00
+published: 2026-03-29T21:53:56.149-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Plesiosaurus
+ac: 13
+hp: 68
+modifier: 2
+hit_dice: 8d10 + 24
+cr: "2"
+stats:
+  - 18
+  - 15
+  - 16
+  - 2
+  - 12
+  - 5
+source:
+  - MM
 ---
 
 # Plesiosaurus
 
-_Source: Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/plesiosaurus.webp#right)
-
 A plesiosaurus is a marine dinosaur whose compact body is driven by powerful flippers. Predatory and aggressive, it attacks any creature it encounters. Its flexible neck accounts for a third of its total length, letting it twist in any direction to deliver a powerful bite.
 
 ## Dinosaurs
@@ -34,11 +49,11 @@ Dinosaurs come in many sizes and shapes. Larger varieties often have drab colora
 
 ```ad-statblock
 title: Plesiosaurus
-![](Mechanics/CLI/bestiary/beast/token/plesiosaurus.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/plesiosaurus.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 68 (`8d10 + 24`) 
+- **Hit Points** 68 (8d10 + 24) 
 - **Speed** 20 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,7 +62,7 @@ title: Plesiosaurus
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 2
@@ -66,3 +81,7 @@ title: Plesiosaurus
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 80. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

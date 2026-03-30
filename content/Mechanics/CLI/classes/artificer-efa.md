@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Artificer
-created: 2026-03-09T12:15:34.137-04:00
-modified: 2026-03-09T12:15:34.137-04:00
-published: 2026-03-09T12:15:34.137-04:00
+created: 2026-03-29T21:53:56.189-04:00
+modified: 2026-03-29T21:53:56.189-04:00
+published: 2026-03-29T21:53:56.189-04:00
 tags:
   - ttrpg-cli/class/artificer
   - ttrpg-cli/compendium/src/5e/efa
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Artificer
-
-_Source: Eberron: Forge of the Artificer p. 7_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,30 +46,31 @@ _Source: Eberron: Forge of the Artificer p. 7_
 
 ^class-progression
 
-![](Mechanics/CLI/classes/img/artificer.webp#right)
-
 ## Hit Points
+
+![](Mechanics/CLI/classes/img/artificer.webp#right)
 
 - **Hit Dice**: 1d8 per Artificer level
 - **Hit Points at First Level:** 8 + CON
 - **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
 
-## Starting Artificer
+## Starting a Artificer
 
 - **Saving Throw Proficiencies**: Constitution, Intelligence
-- **Skill Proficiencies**: _Choose 2:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)
+- **Skill Proficiencies**: _Choose 2:_ [Arcana](/Mechanics/CLI/skills.md#Arcana), [History](/Mechanics/CLI/skills.md#History), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), or [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand)
 - **Weapon Proficiencies**: Simple weapons
-- **Tool Proficiencies**: [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md), [Tinker's Tools](Mechanics/CLI/items/tinkers-tools-xphb.md), and one type of [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) of your choice
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
+- **Tool Proficiencies**: [Thieves' Tools](/Mechanics/CLI/items/thieves-tools-xphb.md), [Tinker's Tools](/Mechanics/CLI/items/tinkers-tools-xphb.md), and one type of [Artisan's Tools](/Mechanics/CLI/items/artisans-tools-xphb.md) of your choice
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), and [Shields](/Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** _Choose A or B:_ (A) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md), [Tinker's Tools](Mechanics/CLI/items/tinkers-tools-xphb.md), [Dungeoneer's Pack](Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 16 GP; or (B) 150 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Studded Leather Armor](/Mechanics/CLI/items/studded-leather-armor-xphb.md), [Dagger](/Mechanics/CLI/items/dagger-xphb.md), [Thieves' Tools](/Mechanics/CLI/items/thieves-tools-xphb.md), [Tinker's Tools](/Mechanics/CLI/items/tinkers-tools-xphb.md), [Dungeoneer's Pack](/Mechanics/CLI/items/dungeoneers-pack-xphb.md), and 16 GP; or (B) 150 GP
 
 ## Multiclassing Artificer
 
-- **Skill Proficiencies**: _Choose 1:_ [Arcana](Mechanics/CLI/rules/skills.md#Arcana), [History](Mechanics/CLI/rules/skills.md#History), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Medicine](Mechanics/CLI/rules/skills.md#Medicine), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), or [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand)
-- **Tool Proficiencies**: [Tinker's Tools](Mechanics/CLI/items/tinkers-tools-xphb.md)
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Shields](Mechanics/CLI/items/shield-xphb.md)
-  Masters of invention, Artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in this chapter.
+- **Skill Proficiencies**: _Choose 1:_ [Arcana](/Mechanics/CLI/skills.md#Arcana), [History](/Mechanics/CLI/skills.md#History), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Medicine](/Mechanics/CLI/skills.md#Medicine), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), or [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand)
+- **Tool Proficiencies**: [Tinker's Tools](/Mechanics/CLI/items/tinkers-tools-xphb.md)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), [Shields](/Mechanics/CLI/items/shield-xphb.md)
+
+Masters of invention, Artificers use ingenuity and magic to unlock extraordinary capabilities in objects. They see magic as a complex system waiting to be decoded and then harnessed in their spells and inventions. You can find everything you need to play one of these inventors in this chapter.
 
 ## Class Features
 
@@ -79,67 +78,67 @@ _Source: Eberron: Forge of the Artificer p. 7_
 
 You have learned how to channel magical energy through objects. See the "Player's Handbook" for the rules on spellcasting. The information below details how you use those rules with Artificer spells, which appear in the Artificer spell list later in the class's description.
 
-**Tools Required.** You produce your Artificer spells through tools. You can use [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md), [Tinker's Tools](Mechanics/CLI/items/tinkers-tools-xphb.md), or another kind of [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md) with which you have proficiency as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md), and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
+**Tools Required.** You produce your Artificer spells through tools. You can use [Thieves' Tools](/Mechanics/CLI/items/thieves-tools-xphb.md), [Tinker's Tools](/Mechanics/CLI/items/tinkers-tools-xphb.md), or another kind of [Artisan's Tools](/Mechanics/CLI/items/artisans-tools-xphb.md) with which you have proficiency as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md), and you must have one of those focuses in hand when you cast an Artificer spell (meaning the spell has an _M_ component when you cast it).
 
-**Cantrips.** You know two Artificer cantrips of your choice. [Acid Splash](Mechanics/CLI/spells/acid-splash-xphb.md) and [Prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md) are recommended.
+**Cantrips.** You know two Artificer cantrips of your choice. [Acid Splash](/Mechanics/CLI/spells/acid-splash-xphb.md) and [Prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md) are recommended.
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace one of your cantrips from this feature with another Artificer cantrip of your choice.
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace one of your cantrips from this feature with another Artificer cantrip of your choice.
 
 When you reach Artificer levels 10 and 14, you learn another Artificer cantrip of your choice, as shown in the Cantrips column of the Artificer Features table.
 
-**Spell Slots.** The Artificer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Slots.** The Artificer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md) and [Grease](Mechanics/CLI/spells/grease-xphb.md) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Artificer spells. [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md) and [Grease](/Mechanics/CLI/spells/grease-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Artificer levels, as shown in the Prepared Spells column of the Artificer Features table. Whenever that number increases, choose additional Artificer spells until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Artificer, your list of prepared spells can include six Artificer spells of levels 1 and 2 in any combination.
 
 If another Artificer feature gives you spells that you always have prepared, those don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Artificer spells for you.
 
-**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can change your list of prepared spells, replacing any of the spells there with other Artificer spells for which you have spell slots.
+**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change your list of prepared spells, replacing any of the spells there with other Artificer spells for which you have spell slots.
 
 **Spellcasting Ability.** Intelligence is your spellcasting ability for your Artificer spells.
 
 ### Tinker's Magic (Level 1)
 
-You know the [Mending](Mechanics/CLI/spells/mending-xphb.md) cantrip.
+You know the [Mending](/Mechanics/CLI/spells/mending-xphb.md) cantrip.
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action while holding [Tinker's Tools](Mechanics/CLI/items/tinkers-tools-xphb.md), you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action while holding [Tinker's Tools](/Mechanics/CLI/items/tinkers-tools-xphb.md), you can create one item in an unoccupied space within 5 feet of yourself, choosing the item from the following list:
 
-- [Ball Bearings](Mechanics/CLI/items/ball-bearings-xphb.md)
-- [Basket](Mechanics/CLI/items/basket-xphb.md)
-- [Bedroll](Mechanics/CLI/items/bedroll-xphb.md)
-- [Bell](Mechanics/CLI/items/bell-xphb.md)
-- [Blanket](Mechanics/CLI/items/blanket-xphb.md)
-- [Block and Tackle](Mechanics/CLI/items/block-and-tackle-xphb.md)
-- [Bottle, Glass](Mechanics/CLI/items/glass-bottle-xphb.md)
-- [Bucket](Mechanics/CLI/items/bucket-xphb.md)
-- [Caltrops](Mechanics/CLI/items/caltrops-xphb.md)
-- [Candle](Mechanics/CLI/items/candle-xphb.md)
-- [Crowbar](Mechanics/CLI/items/crowbar-xphb.md)
-- [Flask](Mechanics/CLI/items/flask-xphb.md)
-- [Grappling Hook](Mechanics/CLI/items/grappling-hook-xphb.md)
-- [Hunting Trap](Mechanics/CLI/items/hunting-trap-xphb.md)
-- [Jug](Mechanics/CLI/items/jug-xphb.md)
-- [Lamp](Mechanics/CLI/items/lamp-xphb.md)
-- [Manacles](Mechanics/CLI/items/manacles-xphb.md)
-- [Net](Mechanics/CLI/items/net-xphb.md)
-- [Oil](Mechanics/CLI/items/oil-xphb.md)
-- [Paper](Mechanics/CLI/items/paper-xphb.md)
-- [Parchment](Mechanics/CLI/items/parchment-xphb.md)
-- [Pole](Mechanics/CLI/items/pole-xphb.md)
-- [Pouch](Mechanics/CLI/items/pouch-xphb.md)
-- [Rope](Mechanics/CLI/items/rope-xphb.md)
-- [Sack](Mechanics/CLI/items/sack-xphb.md)
-- [Shovel](Mechanics/CLI/items/shovel-xphb.md)
-- [Spikes, Iron](Mechanics/CLI/items/iron-spikes-xphb.md)
-- [String](Mechanics/CLI/items/string-xphb.md)
-- [Tinderbox](Mechanics/CLI/items/tinderbox-xphb.md)
-- [Torch](Mechanics/CLI/items/torch-xphb.md)
-- [Vial](Mechanics/CLI/items/vial-xphb.md)
+- [Ball Bearings](/Mechanics/CLI/items/ball-bearings-xphb.md)
+- [Basket](/Mechanics/CLI/items/basket-xphb.md)
+- [Bedroll](/Mechanics/CLI/items/bedroll-xphb.md)
+- [Bell](/Mechanics/CLI/items/bell-xphb.md)
+- [Blanket](/Mechanics/CLI/items/blanket-xphb.md)
+- [Block and Tackle](/Mechanics/CLI/items/block-and-tackle-xphb.md)
+- [Bottle, Glass](/Mechanics/CLI/items/glass-bottle-xphb.md)
+- [Bucket](/Mechanics/CLI/items/bucket-xphb.md)
+- [Caltrops](/Mechanics/CLI/items/caltrops-xphb.md)
+- [Candle](/Mechanics/CLI/items/candle-xphb.md)
+- [Crowbar](/Mechanics/CLI/items/crowbar-xphb.md)
+- [Flask](/Mechanics/CLI/items/flask-xphb.md)
+- [Grappling Hook](/Mechanics/CLI/items/grappling-hook-xphb.md)
+- [Hunting Trap](/Mechanics/CLI/items/hunting-trap-xphb.md)
+- [Jug](/Mechanics/CLI/items/jug-xphb.md)
+- [Lamp](/Mechanics/CLI/items/lamp-xphb.md)
+- [Manacles](/Mechanics/CLI/items/manacles-xphb.md)
+- [Net](/Mechanics/CLI/items/net-xphb.md)
+- [Oil](/Mechanics/CLI/items/oil-xphb.md)
+- [Paper](/Mechanics/CLI/items/paper-xphb.md)
+- [Parchment](/Mechanics/CLI/items/parchment-xphb.md)
+- [Pole](/Mechanics/CLI/items/pole-xphb.md)
+- [Pouch](/Mechanics/CLI/items/pouch-xphb.md)
+- [Rope](/Mechanics/CLI/items/rope-xphb.md)
+- [Sack](/Mechanics/CLI/items/sack-xphb.md)
+- [Shovel](/Mechanics/CLI/items/shovel-xphb.md)
+- [Spikes, Iron](/Mechanics/CLI/items/iron-spikes-xphb.md)
+- [String](/Mechanics/CLI/items/string-xphb.md)
+- [Tinderbox](/Mechanics/CLI/items/tinderbox-xphb.md)
+- [Torch](/Mechanics/CLI/items/torch-xphb.md)
+- [Vial](/Mechanics/CLI/items/vial-xphb.md)
 
-See the rules for the item in the "Player's Handbook". The item lasts until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), at which point it vanishes.
+See the rules for the item in the "Player's Handbook". The item lasts until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), at which point it vanishes.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Replicate Magic Item (Level 2)
 
@@ -149,11 +148,11 @@ You have learned arcane plans that you use to make magic items.
 
 You learn another plan of your choice when you reach certain Artificer levels, as shown in the Plans Known column of the Artificer Features table. When you choose a plan to learn, you choose it from any Magic Item Plans table for which you qualify; your qualification is based on your Artificer level.
 
-**Creating an Item.** When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can create one or two different magic items if you have [Tinker's Tools](Mechanics/CLI/items/tinkers-tools-xphb.md) in hand. Each item is based on one of the plans you know for this feature.
+**Creating an Item.** When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can create one or two different magic items if you have [Tinker's Tools](/Mechanics/CLI/items/tinkers-tools-xphb.md) in hand. Each item is based on one of the plans you know for this feature.
 
-If a created item requires [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md), you can attune yourself to it the instant you create it. If you decide to attune to the item later, you must do so using the normal process for [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md).
+If a created item requires [Attunement](/Mechanics/CLI/variant-rules/attunement-xphb.md), you can attune yourself to it the instant you create it. If you decide to attune to the item later, you must do so using the normal process for [Attunement](/Mechanics/CLI/variant-rules/attunement-xphb.md).
 
-When you reach certain Artificer levels specified in the Magic Items column of the Artificer Features table, the number of magic items you can create at the end of a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) increases. Each item you create must be based on a different plan you know.
+When you reach certain Artificer levels specified in the Magic Items column of the Artificer Features table, the number of magic items you can create at the end of a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) increases. Each item you create must be based on a different plan you know.
 
 You can't have more magic items from this feature than the number shown in the Magic Items column of the Artificer Features table for your level. If you try to exceed your maximum number of magic items for this feature, the oldest item vanishes, and then the new item appears.
 
@@ -161,7 +160,7 @@ You can't have more magic items from this feature than the number shown in the M
 
 If an item that you created with this feature is a container, such as a Bag of Holding, and it vanishes, its contents harmlessly appear in and around its space.
 
-**Spellcasting Focus.** You can use any Wand or Weapon created by this feature as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) in lieu of using a set of [Artisan's Tools](Mechanics/CLI/items/artisans-tools-xphb.md).
+**Spellcasting Focus.** You can use any Wand or Weapon created by this feature as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) in lieu of using a set of [Artisan's Tools](/Mechanics/CLI/items/artisans-tools-xphb.md).
 
 > [!note] Crafting More Magic Items
 >
@@ -179,9 +178,9 @@ If an item that you created with this feature is a container, such as a Bag of H
 | Cap of Water Breathing | No |
 | Common magic item that isn't a Potion, a Scroll, or cursed\* | Varies |
 | Goggles of Night | No |
-| [Manifold Tool](Mechanics/CLI/items/manifold-tool-efa.md) | Yes |
-| [Repeating Shot](Mechanics/CLI/items/repeating-shot-efa.md) | Yes |
-| [Returning Weapon](Mechanics/CLI/items/returning-weapon-efa.md) | No |
+| [Manifold Tool](/Mechanics/CLI/items/manifold-tool-efa.md) | Yes |
+| [Repeating Shot](/Mechanics/CLI/items/repeating-shot-efa.md) | Yes |
+| [Returning Weapon](/Mechanics/CLI/items/returning-weapon-efa.md) | No |
 | Rope of Climbing | No |
 | Sending Stones | No |
 | Shield +1 | No |
@@ -200,23 +199,23 @@ If an item that you created with this feature is a container, such as a Bag of H
 |-----------------|------------|
 | Armor +1 | No |
 | Boots of Elvenkind | No |
-| [Boots of the Winding Path](Mechanics/CLI/items/boots-of-the-winding-path-efa.md) | Yes |
+| [Boots of the Winding Path](/Mechanics/CLI/items/boots-of-the-winding-path-efa.md) | Yes |
 | Cloak of Elvenkind | Yes |
 | Cloak of the Manta Ray | Yes |
-| [Dazzling Weapon](Mechanics/CLI/items/dazzling-weapon-efa.md) | Yes |
+| [Dazzling Weapon](/Mechanics/CLI/items/dazzling-weapon-efa.md) | Yes |
 | Eyes of Charming | Yes |
 | Eyes of Minute Seeing | No |
 | Gloves of Thievery | No |
-| [Helm of Awareness](Mechanics/CLI/items/helm-of-awareness-efa.md) | No |
+| [Helm of Awareness](/Mechanics/CLI/items/helm-of-awareness-efa.md) | No |
 | Lantern of Revealing | No |
-| [Mind Sharpener](Mechanics/CLI/items/mind-sharpener-efa.md) | Yes |
+| [Mind Sharpener](/Mechanics/CLI/items/mind-sharpener-efa.md) | Yes |
 | Necklace of Adaptation | Yes |
 | Pipes of Haunting | No |
-| [Repulsion Shield](Mechanics/CLI/items/repulsion-shield-efa.md) | No |
+| [Repulsion Shield](/Mechanics/CLI/items/repulsion-shield-efa.md) | No |
 | Ring of Swimming | No |
 | Ring of Water Walking | No |
 | Sentinel Shield | No |
-| [Spell-Refueling Ring](Mechanics/CLI/items/spell-refueling-ring-efa.md) | Yes |
+| [Spell-Refueling Ring](/Mechanics/CLI/items/spell-refueling-ring-efa.md) | Yes |
 | Wand of Magic Missiles | No |
 | Wand of Web | Yes |
 | Weapon of Warning | Yes |
@@ -258,11 +257,11 @@ If an item that you created with this feature is a container, such as a Bag of H
 
 ### Artificer Subclass (Level 3)
 
-You gain an Artificer subclass of your choice. The [Alchemist](Mechanics/CLI/classes/artificer-alchemist-efa.md), [Armorer](Mechanics/CLI/classes/artificer-armorer-efa.md), [Artillerist](Mechanics/CLI/classes/artificer-artillerist-efa.md), and [Battle Smith](Mechanics/CLI/classes/artificer-battle-smith-efa.md), and [Cartographer](Mechanics/CLI/classes/artificer-cartographer-efa.md) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass's features that are of your Artificer level or lower.
+You gain an Artificer subclass of your choice. The [Alchemist](/Mechanics/CLI/classes/artificer-alchemist-efa.md), [Armorer](/Mechanics/CLI/classes/artificer-armorer-efa.md), [Artillerist](/Mechanics/CLI/classes/artificer-artillerist-efa.md), and [Battle Smith](/Mechanics/CLI/classes/artificer-battle-smith-efa.md), and [Cartographer](/Mechanics/CLI/classes/artificer-cartographer-efa.md) subclasses are detailed after this class's description. A subclass is a specialization that grants you features at certain Artificer levels. For the rest of your career, you gain each of your subclass's features that are of your Artificer level or lower.
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Artificer levels 8, 12, and 16.
 
 ### Subclass feature (Level 5)
 
@@ -270,23 +269,23 @@ You gain a feature from your Artificer Subclass.
 
 ### Magic Item Tinker (Level 6)
 
-Your [Replicate Magic Item](Mechanics/CLI/classes/artificer-efa.md#Replicate%20Magic%20Item%20\(Level%202\)) feature gains the following options.
+Your [Replicate Magic Item](/Mechanics/CLI/classes/artificer-efa.md#Replicate%20Magic%20Item%20\(Level%202\)) feature gains the following options.
 
-**Charge Magic Item.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can touch a magic item within 5 feet of yourself that you created with Replicate Magic Item and that uses charges. You expend a level 1+ spell slot and recharge the item. The number of charges the item regains is equal to the level of spell slot expended.
+**Charge Magic Item.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can touch a magic item within 5 feet of yourself that you created with Replicate Magic Item and that uses charges. You expend a level 1+ spell slot and recharge the item. The number of charges the item regains is equal to the level of spell slot expended.
 
-**Drain Magic Item.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can touch a magic item within 5 feet of yourself that you created with Replicate Magic Item and cause the item to vanish, converting its magical energy into a spell slot. The slot is level 1 if the item is Common or level 2 if the item is Uncommon or Rare. Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). Any spell slot you create with this feature vanishes when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Drain Magic Item.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can touch a magic item within 5 feet of yourself that you created with Replicate Magic Item and cause the item to vanish, converting its magical energy into a spell slot. The slot is level 1 if the item is Common or level 2 if the item is Uncommon or Rare. Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). Any spell slot you create with this feature vanishes when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Transmute Magic Item.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can touch one magic item within 5 feet of yourself that you created with Replicate Magic Item and transform it into a different magic item. The resulting item must be based on a magic item plan you know. Once you use this feature, you can't do so again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Transmute Magic Item.** As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can touch one magic item within 5 feet of yourself that you created with Replicate Magic Item and transform it into a different magic item. The resulting item must be based on a magic item plan you know. Once you use this feature, you can't do so again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Flash of Genius (Level 7)
 
-When you or a creature you can see within 30 feet of you fails an ability check or a saving throw, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to add a bonus to the roll, potentially causing it to succeed. The bonus equals your Intelligence modifier (minimum of +1).
+When you or a creature you can see within 30 feet of you fails an ability check or a saving throw, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to add a bonus to the roll, potentially causing it to succeed. The bonus equals your Intelligence modifier (minimum of +1).
 
-You can take this [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can take this [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Subclass feature (Level 9)
 
@@ -298,15 +297,15 @@ You can now attune to up to four magic items at once.
 
 ### Spell-Storing Item (Level 11)
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can touch one Simple or Martial weapon or one item that you can use as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md), and you store a spell in it, choosing a level 1, 2, or 3 Artificer spell that has a casting time of an action and doesn't require a Material component that is consumed by the spell (you needn't have the spell prepared).
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can touch one Simple or Martial weapon or one item that you can use as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md), and you store a spell in it, choosing a level 1, 2, or 3 Artificer spell that has a casting time of an action and doesn't require a Material component that is consumed by the spell (you needn't have the spell prepared).
 
-While holding the object, a creature can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [Concentration](Mechanics/CLI/rules/conditions.md#Concentration), the creature must concentrate. Once a creature has used the object to produce the spell's effect, the object can't be used this way again until the start of the creature's next turn.
+While holding the object, a creature can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires [Concentration](/Mechanics/CLI/conditions.md#Concentration), the creature must concentrate. Once a creature has used the object to produce the spell's effect, the object can't be used this way again until the start of the creature's next turn.
 
 The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Advanced Artifice (Level 14)
 
@@ -314,7 +313,7 @@ You gain the following benefits.
 
 **Magic Item Savant.** You can now attune to up to five magic items at once.
 
-**Refreshed Genius.** When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you regain one expended use of your [Flash of Genius](Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20\(Level%207\)) feature.
+**Refreshed Genius.** When you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you regain one expended use of your [Flash of Genius](/Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20\(Level%207\)) feature.
 
 ### Subclass feature (Level 15)
 
@@ -322,7 +321,7 @@ You gain a feature from your Artificer Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Magic Item Master (Level 18)
 
@@ -330,12 +329,16 @@ You can now attune to up to six magic items at once.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Energy Resistance](Mechanics/CLI/feats/boon-of-energy-resistance-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Energy Resistance](/Mechanics/CLI/feats/boon-of-energy-resistance-xphb.md) is recommended.
 
 ### Soul of Artifice (Level 20)
 
 You have developed a mystical connection to your magic items, which you can draw on for aid. You gain the following benefits.
 
-**Cheat Death.** If you're reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead change to a number equal to 20 times the number of magic items disintegrated.
+**Cheat Death.** If you're reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) but not killed outright, you can disintegrate any number of Uncommon or Rare magic items created by your Replicate Magic Item feature. If you do so, your [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead change to a number equal to 20 times the number of magic items disintegrated.
 
-**Magical Guidance.** When you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), you regain all expended uses of your [Flash of Genius](Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20\(Level%207\)) if you have [Attunement](Mechanics/CLI/rules/variant-rules/attunement-xphb.md) to at least one magic item.
+**Magical Guidance.** When you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), you regain all expended uses of your [Flash of Genius](/Mechanics/CLI/classes/artificer-efa.md#Flash%20of%20Genius%20\(Level%207\)) if you have [Attunement](/Mechanics/CLI/variant-rules/attunement-xphb.md) to at least one magic item.
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 7_

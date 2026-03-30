@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grung
-created: 2026-03-09T12:15:34.109-04:00
-modified: 2026-03-09T12:15:34.109-04:00
-published: 2026-03-09T12:15:34.109-04:00
+created: 2026-03-29T21:53:56.146-04:00
+modified: 2026-03-29T21:53:56.146-04:00
+published: 2026-03-29T21:53:56.146-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Grung (MPMM)
+ac: 12
+hp: 11
+modifier: 2
+hit_dice: 2d6 + 4
+cr: 1/4
+stats:
+  - 7
+  - 14
+  - 15
+  - 10
+  - 11
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Grung
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156_\
 ![](Mechanics/CLI/bestiary/humanoid/img/grungs.webp#right)
-
 The grung stat block represents a typical grung warrior or hunter, met either in a grung community or traveling elsewhere as a mercenary, game warden, guard, or bandit.
 
 ## Grungs
@@ -33,11 +49,11 @@ Born in a wide range of colors, grungs most often appear in shades of green, blu
 
 ```ad-statblock
 title: Grung
-![](Mechanics/CLI/bestiary/humanoid/token/grung-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/grung-mpmm.webp#token)
 *Small humanoid, Any alignment*
 
 - **Armor Class** 12 
-- **Hit Points** 11 (`2d6 + 4`) 
+- **Hit Points** 11 (2d6 + 4) 
 - **Speed** 25 ft., climb 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,11 +62,10 @@ title: Grung
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +2
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +2
 - **Senses** passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Grung
 - **Challenge** 1/4
 
@@ -58,11 +73,11 @@ title: Grung
 
 ***Amphibious.*** The grung can breathe air and water.
 
-***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Poisonous Skin.*** Any creature that grapples the grung or otherwise comes into direct contact with the grung's skin must succeed on a DC 12 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. A [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature no longer in direct contact with the grung can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Standing Leap.*** The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
 
-***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
+***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
 
 ## Actions
 
@@ -74,3 +89,7 @@ title: Grung
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Wand of Magic Detection
-created: 2026-03-09T12:15:33.913-04:00
-modified: 2026-03-09T12:15:33.913-04:00
-published: 2026-03-09T12:15:33.913-04:00
+created: 2026-03-29T21:53:55.915-04:00
+modified: 2026-03-29T21:53:55.915-04:00
+published: 2026-03-29T21:53:55.915-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -20,8 +20,11 @@ obsidianUIMode: preview
 _Wand, minor, uncommon_\
 ![](Mechanics/CLI/items/img/wand-of-magic-detection.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md) spell from it. The wand regains `1d3` expended charges daily at dawn.
+This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md) spell from it. The wand regains `1d3` expended charges daily at dawn.
 
-_Source: Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+## Sources
+
+_Dungeon Master's Guide p. 211. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

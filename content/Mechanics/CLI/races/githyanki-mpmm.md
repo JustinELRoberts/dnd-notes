@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Githyanki
-created: 2026-03-09T12:15:33.929-04:00
-modified: 2026-03-09T12:15:33.929-04:00
-published: 2026-03-09T12:15:33.929-04:00
+created: 2026-03-29T21:53:55.932-04:00
+modified: 2026-03-29T21:53:55.932-04:00
+published: 2026-03-29T21:53:55.932-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/githyanki
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Githyanki
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 18_\
 ![](Mechanics/CLI/races/img/githyanki.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -31,9 +30,9 @@ You can mystically access a reservoir of experiences of entities connected to th
 
 ### Githyanki Psionics
 
-You know the [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md) cantrip, and the hand is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) when you cast the cantrip with this trait.
+You know the [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md) cantrip, and the hand is [invisible](/Mechanics/CLI/conditions.md#Invisible) when you cast the cantrip with this trait.
 
-Starting at 3rd level, you can cast the [jump](Mechanics/CLI/spells/jump-xphb.md) spell with this trait. Starting at 5th level, you can also cast [misty step](Mechanics/CLI/spells/misty-step-xphb.md) with it. Once you cast [jump](Mechanics/CLI/spells/jump-xphb.md) or [misty step](Mechanics/CLI/spells/misty-step-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+Starting at 3rd level, you can cast the [jump](/Mechanics/CLI/spells/jump-xphb.md) spell with this trait. Starting at 5th level, you can also cast [misty step](/Mechanics/CLI/spells/misty-step-xphb.md) with it. Once you cast [jump](/Mechanics/CLI/spells/jump-xphb.md) or [misty step](/Mechanics/CLI/spells/misty-step-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race). None of these spells require spell components when you cast them with this trait.
 
@@ -48,3 +47,7 @@ Once members of a people who escaped servitude to mind flayers, githyanki split 
 A lanky people with skin tones of yellows, greens, and browns, githyanki complement their physical prowess with psionic might, instilled in them by mind flayers and cultivated over eons in the Astral Plane. Now all githyanki can use their psychic bond with that plane to access splinters of knowledge left behind by beings who travel, live, and die among the silver astral clouds.
 
 Githyanki who reside in the Astral Plane can live indefinitely.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 18_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sovereign Proxy Roles
-created: 2026-03-09T12:15:34.380-04:00
-modified: 2026-03-09T12:15:34.380-04:00
-published: 2026-03-09T12:15:34.380-04:00
+created: 2026-03-29T21:53:56.477-04:00
+modified: 2026-03-29T21:53:56.477-04:00
+published: 2026-03-29T21:53:56.477-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
 cssclasses:
@@ -20,10 +20,10 @@ _Source: Tasha's Cauldron of Everything p. 102_
 
 | Role | Backgrounds |
 |------|-------------|
-| Advisor | [Acolyte](Mechanics/CLI/backgrounds/acolyte-xphb.md), Folk Hero, [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), [Sage](Mechanics/CLI/backgrounds/sage-xphb.md), [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md) |
-| Ambassador | [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md), Folk Hero, Guild Artisan, [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), [Sailor](Mechanics/CLI/backgrounds/sailor-xphb.md) |
-| Secret Agent | [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md), [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md), [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md), Urchin |
-| Champion | [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), [Noble](Mechanics/CLI/backgrounds/noble-xphb.md), Outlander, [Soldier](Mechanics/CLI/backgrounds/soldier-xphb.md), Urchin |
-| Jester | [Charlatan](Mechanics/CLI/backgrounds/charlatan-xphb.md), [Criminal](Mechanics/CLI/backgrounds/criminal-xphb.md), [Entertainer](Mechanics/CLI/backgrounds/entertainer-xphb.md), Outlander, Urchin |
+| Advisor | [Acolyte](/Mechanics/CLI/backgrounds/acolyte.md), [Folk Hero](/Mechanics/CLI/backgrounds/folk-hero.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Sage](/Mechanics/CLI/backgrounds/sage.md), [Soldier](/Mechanics/CLI/backgrounds/soldier.md) |
+| Ambassador | [Charlatan](/Mechanics/CLI/backgrounds/charlatan.md), [Folk Hero](/Mechanics/CLI/backgrounds/folk-hero.md), [Guild Artisan](/Mechanics/CLI/backgrounds/guild-artisan.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Sailor](/Mechanics/CLI/backgrounds/sailor.md) |
+| Secret Agent | [Charlatan](/Mechanics/CLI/backgrounds/charlatan.md), [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Entertainer](/Mechanics/CLI/backgrounds/entertainer.md), [Soldier](/Mechanics/CLI/backgrounds/soldier.md), [Urchin](/Mechanics/CLI/backgrounds/urchin.md) |
+| Champion | [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Noble](/Mechanics/CLI/backgrounds/noble.md), [Outlander](/Mechanics/CLI/backgrounds/outlander.md), [Soldier](/Mechanics/CLI/backgrounds/soldier.md), [Urchin](/Mechanics/CLI/backgrounds/urchin.md) |
+| Jester | [Charlatan](/Mechanics/CLI/backgrounds/charlatan.md), [Criminal](/Mechanics/CLI/backgrounds/criminal.md), [Entertainer](/Mechanics/CLI/backgrounds/entertainer.md), [Outlander](/Mechanics/CLI/backgrounds/outlander.md), [Urchin](/Mechanics/CLI/backgrounds/urchin.md) |
 | Confidant | Any |
 ^sovereign-proxy-roles

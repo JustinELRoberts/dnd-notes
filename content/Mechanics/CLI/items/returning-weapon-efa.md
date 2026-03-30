@@ -13,9 +13,9 @@ aliases:
   - Returning Spear
   - Returning Throwing Dagger
   - Returning Trident
-created: 2026-03-09T12:15:33.827-04:00
-modified: 2026-03-09T12:15:33.828-04:00
-published: 2026-03-09T12:15:33.828-04:00
+created: 2026-03-29T21:53:55.613-04:00
+modified: 2026-03-29T21:53:55.613-04:00
+published: 2026-03-29T21:53:55.613-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/item/rarity/uncommon
@@ -33,9 +33,12 @@ obsidianUIMode: preview
 
 _Uncommon_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to your hand immediately after you use it to make a ranged attack roll.
 
-**Variants**:
+## Variants
 
 - [Returning Bomb](#Returning%20Bomb)
 - [Returning Boomerang](#Returning%20Boomerang)
@@ -53,55 +56,55 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
 
 - **Damage**: 1d10 fire
 - **Range**: 30/90
-- **Properties**: [Destructible](Mechanics/CLI/rules/item-properties.md#Destructible), [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Destructible](/Mechanics/CLI/item-properties.md#Destructible), [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Returning Boomerang
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 60/180
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Returning Dagger
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Returning Dart
 
 - **Damage**: 1d4 piercing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 0.25 lbs.
 
 ### Returning Edged Card
 
 - **Damage**: 1d4 slashing
 - **Range**: 20/60
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 
 ### Returning Handaxe
 
 - **Damage**: 1d6 slashing
 - **Range**: 20/60
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Returning Javelin
 
 - **Damage**: 1d6 piercing
 - **Range**: 30/120
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Returning Light Hammer
 
 - **Damage**: 1d4 bludgeoning
 - **Range**: 20/60
-- **Properties**: [Light](Mechanics/CLI/rules/item-properties.md#Light), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Light](/Mechanics/CLI/item-properties.md#Light), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 2.0 lbs.
 
 ### Returning Spear
@@ -110,14 +113,14 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
   - One-handed: 1d6 piercing
   - Two-handed: 1d8 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Returning Throwing Dagger
 
 - **Damage**: 1d4 slashing
 - **Range**: 30/120
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Weight**: 1.0 lbs.
 
 ### Returning Trident
@@ -126,7 +129,9 @@ This magic weapon grants a +1 bonus to attack and damage rolls made with it, and
   - One-handed: 1d8 piercing
   - Two-handed: 1d10 piercing
 - **Range**: 20/60
-- **Properties**: [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown), [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Thrown](/Mechanics/CLI/item-properties.md#Thrown), [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 4.0 lbs.
 
-_Source: Eberron: Forge of the Artificer p. 112_
+## Sources
+
+_Eberron: Forge of the Artificer p. 112_

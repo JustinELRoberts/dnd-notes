@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Seahorse
-created: 2026-03-09T12:15:33.858-04:00
-modified: 2026-03-09T12:15:33.858-04:00
-published: 2026-03-09T12:15:33.858-04:00
+created: 2026-03-29T21:53:55.649-04:00
+modified: 2026-03-29T21:53:55.649-04:00
+published: 2026-03-29T21:53:55.649-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-2
@@ -14,16 +14,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Seahorse (XMM)
+ac: 14
+hp: 16
+modifier: 1
+hit_dice: 3d10
+cr: 1/2
+stats:
+  - 15
+  - 12
+  - 11
+  - 2
+  - 12
+  - 5
+source:
+  - XMM
+  - XPHB
 ---
 
 # Giant Seahorse
 
-_Source: Monster Manual (2024) p. 359, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/seahorse.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -32,11 +49,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Giant Seahorse
-![](Mechanics/CLI/bestiary/beast/token/giant-seahorse-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-seahorse-xmm.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 14 
-- **Hit Points** 16 (`3d10`) 
+- **Hit Points** 16 (3d10) 
 - **Speed** 5 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -60,7 +77,7 @@ title: Giant Seahorse
 
 ## Bonus Actions
 
-***Bubble Dash.*** While underwater, the seahorse moves up to half its [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+***Bubble Dash.*** While underwater, the seahorse moves up to half its [Swim Speed](/Mechanics/CLI/variant-rules/swim-speed-xphb.md) without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 ```
 
 ^statblock
@@ -68,3 +85,7 @@ title: Giant Seahorse
 ## Environment
 
 underwater
+
+## Sources
+
+_Monster Manual (2024) p. 359, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

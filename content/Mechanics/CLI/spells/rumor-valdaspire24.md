@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Rumor
-created: 2026-03-09T12:15:33.920-04:00
-modified: 2026-03-09T12:15:33.921-04:00
-published: 2026-03-09T12:15:33.921-04:00
+created: 2026-03-29T21:53:55.925-04:00
+modified: 2026-03-29T21:53:55.925-04:00
+published: 2026-03-29T21:53:55.925-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/investigator
   - ttrpg-cli/spell/class/witch
   - ttrpg-cli/spell/class/wizard
@@ -22,15 +23,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Fighter (Eldritch Knight)
-  - Investigator
-  - Rogue (Arcane Trickster)
-  - Warmage (House of Bishops)
-  - Witch
-  - Wizard
 ---
 
 # Rumor
@@ -42,8 +34,24 @@ _1st-level, Enchantment_
 - **Components:** V, S
 - **Duration:** 1 minute
 
-You magically spread a rumor of 10 words or less in a 100-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. Any creature within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) that can hear and understand three or more other creatures believes that they hear the rumor being repeated by someone nearby. Different creatures hear the rumor from different people, so a concrete origin is impossible to discern. Generally, creatures won't become [Hostile](Mechanics/CLI/rules/variant-rules/hostile-attitude-xphb.md) upon hearing even the most vicious rumors, but hearing a rumor can affect their attitude positively or negatively.
+You magically spread a rumor of 10 words or less in a 100-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. Any creature within the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) that can hear and understand three or more other creatures believes that they hear the rumor being repeated by someone nearby. Different creatures hear the rumor from different people, so a concrete origin is impossible to discern. Generally, creatures won't become [Hostile](/Mechanics/CLI/variant-rules/hostile-attitude-xphb.md) upon hearing even the most vicious rumors, but hearing a rumor can affect their attitude positively or negatively.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Investigator](Mechanics/CLI/lists/list-spells-classes-investigator.md); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Magic Initiate (Wizard Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Investigator](/Mechanics/CLI/lists/list-spells-classes-investigator.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Fey-Touched](/Mechanics/CLI/lists/list-spells-feats-fey-touched-xphb.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

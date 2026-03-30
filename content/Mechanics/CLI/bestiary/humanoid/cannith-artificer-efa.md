@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cannith Artificer
-created: 2026-03-09T12:15:33.984-04:00
-modified: 2026-03-09T12:15:33.984-04:00
-published: 2026-03-09T12:15:33.984-04:00
+created: 2026-03-29T21:53:55.990-04:00
+modified: 2026-03-29T21:53:55.990-04:00
+published: 2026-03-29T21:53:55.990-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/monster/cr/4
@@ -13,22 +13,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cannith Artificer (EFA)
+ac: 16
+hp: 71
+modifier: 1
+hit_dice: 11d8 + 22
+cr: "4"
+stats:
+  - 13
+  - 13
+  - 14
+  - 18
+  - 14
+  - 11
+source:
+  - EFA
 ---
 
 # Cannith Artificer
 
-_Source: Eberron: Forge of the Artificer p. 80_\
 ![](Mechanics/CLI/bestiary/humanoid/img/cannith-artificer.webp#right)
-
 Dragonmarked artificers of House Cannith (typically human) often wield compact devices similar to eldritch cannons that can produce a variety of devastating effects. Both these cannons and the artificers' force-empowered maces function only in their creator's hands.
 
 ```ad-statblock
 title: Cannith Artificer
-![](Mechanics/CLI/bestiary/humanoid/token/cannith-artificer-efa.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/cannith-artificer-efa.webp#token)
 *Small or Medium humanoid (human), Neutral*
 
 - **Armor Class** 16 
-- **Hit Points** 71 (`11d8 + 22`) 
+- **Hit Points** 71 (11d8 + 22) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,9 +52,8 @@ title: Cannith Artificer
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4, Intelligence +6
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand) +3
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand) +3
 - **Senses** passive Perception 14
-- **Gear** [chain mail](Mechanics/CLI/items/chain-mail-xphb.md), [mace](Mechanics/CLI/items/mace-xphb.md), [tinker's tools](Mechanics/CLI/items/tinkers-tools-xphb.md)
 - **Languages** Common plus two other languages
 - **Challenge** 4
 
@@ -47,15 +61,19 @@ title: Cannith Artificer
 
 ***Multiattack.*** The artificer makes two attacks, using Battering Mace or Artillery Strike in any combination.
 
-***Battering Mace.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 14 (`3d6 + 4`) Bludgeoning damage, and if the target is a Large or smaller creature, it has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition.
+***Battering Mace.*** *Melee Attack Roll:* `+6`, reach 5 ft. *Hit:* 14 (`3d6 + 4`) Bludgeoning damage, and if the target is a Large or smaller creature, it has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition.
 
 ***Artillery Strike.*** *Ranged Attack Roll:* `+6`, range 120 ft. *Hit:* 22 (`4d8 + 4`) Force damage.
 
 ***Spellcasting.*** The artificer casts one of the following spells, using its Tinker's Tools as an Arcane Focus and using Intelligence as the spellcasting ability (spell save DC 14):
 
-**At will:** [Burning Hands](Mechanics/CLI/spells/burning-hands-xphb.md) (level 3 version), [Mending](Mechanics/CLI/spells/mending-xphb.md), [Thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) (level 3 version)
+**At will:** [Burning Hands](/Mechanics/CLI/spells/burning-hands-xphb.md) (level 3 version), [Mending](/Mechanics/CLI/spells/mending-xphb.md), [Thunderwave](/Mechanics/CLI/spells/thunderwave-xphb.md) (level 3 version)
 
-**1/day each:** [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md)
+**1/day each:** [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md)
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 80_

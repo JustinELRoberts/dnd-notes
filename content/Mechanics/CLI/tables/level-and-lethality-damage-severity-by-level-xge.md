@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Level and Lethality; Damage Severity by Level
-created: 2026-03-09T12:15:34.382-04:00
-modified: 2026-03-09T12:15:34.382-04:00
-published: 2026-03-09T12:15:34.382-04:00
+created: 2026-03-29T21:53:56.480-04:00
+modified: 2026-03-29T21:53:56.480-04:00
+published: 2026-03-29T21:53:56.480-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:

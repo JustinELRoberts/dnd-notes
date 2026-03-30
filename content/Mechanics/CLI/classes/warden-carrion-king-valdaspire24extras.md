@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Carrion King
-created: 2026-03-09T12:15:33.954-04:00
-modified: 2026-03-09T12:15:33.954-04:00
-published: 2026-03-09T12:15:33.954-04:00
+created: 2026-03-29T21:53:55.958-04:00
+modified: 2026-03-29T21:53:55.958-04:00
+published: 2026-03-29T21:53:55.958-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/warden/carrion-king
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Carrion King
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,7 +56,7 @@ A champion of vermin, you are called to defend the lowliest creatures of all: in
 
 ### Infest (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can command your vermin to swarm a creature you can see within 30 feet of you. The creature takes `1d6` Piercing damage and subtracts `1d6` from the next [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) it makes before the start of your next turn.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can command your vermin to swarm a creature you can see within 30 feet of you. The creature takes `1d6` Piercing damage and subtracts `1d6` from the next [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) it makes before the start of your next turn.
 
 **At Higher Levels.** The damage increases when you reach Warden levels 5 (`1d8`), 11 (`1d10`), and 17 (`1d12`).
 
@@ -67,24 +66,28 @@ Once on each of your turns, you can command your vermin to manipulate an object 
 
 ### Swarm Cloud (Level 6)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you surround yourself with countless flying pests in an [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You choose whether the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) extends 5 feet, 10 feet, or 15 feet. This area is [Lightly Obscured](Mechanics/CLI/rules/variant-rules/lightly-obscured-xphb.md) and has one of the following effects of your choice, which lasts for 10 minutes or until you end it (no action required).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you surround yourself with countless flying pests in an [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you. You choose whether the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) extends 5 feet, 10 feet, or 15 feet. This area is [Lightly Obscured](/Mechanics/CLI/variant-rules/lightly-obscured-xphb.md) and has one of the following effects of your choice, which lasts for 10 minutes or until you end it (no action required).
 
-**Deafening.** Creatures you choose entirely within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) have the [Deafened](Mechanics/CLI/rules/conditions.md#Deafened) condition.
+**Deafening.** Creatures you choose entirely within the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) have the [Deafened](/Mechanics/CLI/conditions.md#Deafened) condition.
 
-**Difficult Terrain.** The area of the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) is [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) for creatures other than yourself.
+**Difficult Terrain.** The area of the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) is [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) for creatures other than yourself.
 
-**Heavily Obscured.** The area of the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) is [Heavily Obscured](Mechanics/CLI/rules/variant-rules/heavily-obscured-xphb.md) for creatures other than yourself.
+**Heavily Obscured.** The area of the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) is [Heavily Obscured](/Mechanics/CLI/variant-rules/heavily-obscured-xphb.md) for creatures other than yourself.
 
 ### Plague Vector (Level 10)
 
-Whenever you use your Interrupt, the target has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition until the end of the current turn.
+Whenever you use your Interrupt, the target has the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition until the end of the current turn.
 
 ### Lord of the Flies (Level 17)
 
 You can call a colossal swarm of vermin to your aid.
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Blinding Bites.** When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can replace one of your attacks with commanding your vermin to blind a creature you can see within 30 feet of yourself. The target must succeed on a Constitution saving throw (DC 8 plus your Constitution modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or take `2d10` Piercing damage and have the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) condition for 1 minute. At the end of each of its turns, a [Blinded](Mechanics/CLI/rules/conditions.md#Blinded) target repeats the save, ending the effect on itself on a success.
+**Blinding Bites.** When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action, you can replace one of your attacks with commanding your vermin to blind a creature you can see within 30 feet of yourself. The target must succeed on a Constitution saving throw (DC 8 plus your Constitution modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)) or take `2d10` Piercing damage and have the [Blinded](/Mechanics/CLI/conditions.md#Blinded) condition for 1 minute. At the end of each of its turns, a [Blinded](/Mechanics/CLI/conditions.md#Blinded) target repeats the save, ending the effect on itself on a success.
 
-**Infesting Swarm.** When you use your Infest while your Swarm Cloud is active, you can target any creatures of your choice within your Swarm Cloud's [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md).
+**Infesting Swarm.** When you use your Infest while your Swarm Cloud is active, you can target any creatures of your choice within your Swarm Cloud's [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

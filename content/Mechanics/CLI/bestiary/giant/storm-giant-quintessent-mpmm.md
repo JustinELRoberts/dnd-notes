@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Storm Giant Quintessent
-created: 2026-03-09T12:15:34.028-04:00
-modified: 2026-03-09T12:15:34.028-04:00
-published: 2026-03-09T12:15:34.028-04:00
+created: 2026-03-29T21:53:56.038-04:00
+modified: 2026-03-29T21:53:56.038-04:00
+published: 2026-03-29T21:53:56.038-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/16
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Storm Giant Quintessent (MPMM)
+ac: 12
+hp: 230
+modifier: 2
+hit_dice: 20d12 + 100
+cr: "16"
+stats:
+  - 29
+  - 14
+  - 20
+  - 17
+  - 20
+  - 19
+source:
+  - MPMM
+  - VGM
 ---
 
 # Storm Giant Quintessent
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151_\
 ![](Mechanics/CLI/bestiary/giant/img/storm-giant-quintessent.webp#right)
-
 To forestall the inevitable, some storm giants approaching the end of their natural life spans seek an escape from death. They plumb the depths of their powerful connection to the elements and disperse themselves into nature, transforming into semiconscious storms. The blizzard that rages unendingly around a mountain peak, the vortex that swirls around a remote island, or the thunderstorm that howls ceaselessly up and down a rugged coastline could, in fact, be the undying form of a storm giant clinging to existence.
 
 A storm giant quintessent sheds their armor and weapons but gains the power to form makeshift weapons out of thin air. When the giant has no further use of these elemental weapons, or when the giant dies, the weapons disappear.
@@ -40,11 +56,11 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
 
 ```ad-statblock
 title: Storm Giant Quintessent
-![](Mechanics/CLI/bestiary/giant/token/storm-giant-quintessent-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/giant/token/storm-giant-quintessent-mpmm.webp#token)
 *Huge giant, Typically  Chaotic Good*
 
 - **Armor Class** 12 
-- **Hit Points** 230 (`20d12 + 100`) 
+- **Hit Points** 230 (20d12 + 100) 
 - **Speed** 50 ft., fly 50 ft. (hover), swim 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,8 +69,8 @@ title: Storm Giant Quintessent
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +14, Constitution +10, Wisdom +10, Charisma +9
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +8, [History](Mechanics/CLI/rules/skills.md#History) +8, [Perception](Mechanics/CLI/rules/skills.md#Perception) +10
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 60 ft., passive Perception 20
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +8, [History](/Mechanics/CLI/skills.md#History) +8, [Perception](/Mechanics/CLI/skills.md#Perception) +10
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 60 ft., passive Perception 20
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** lightning, thunder
 - **Languages** Common, Giant
@@ -82,13 +98,13 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the storm g
 
 ***Thunderbolt (Costs 2 Actions).*** The giant hurls a thunderbolt at a creature it can see within 600 feet of it. The target must make a DC 18 Dexterity saving throw, taking 22 (`4d10`) thunder damage on a failed save, or half as much damage on a successful one.
 
-***One with the Storm (Costs 3 Actions).*** The giant vanishes, dispersing itself into the storm surrounding its lair. The giant can end this effect at the start of any of its turns, becoming a giant once more and appearing in any location it chooses within its lair. While dispersed, the giant can't take any actions other than lair actions, and it can't be targeted by attacks, spells, or other effects. The giant can't use this ability outside its lair, nor can it use this ability if another creature is using a [control weather](Mechanics/CLI/spells/control-weather-xphb.md) spell or similar magic to quell the storm.
+***One with the Storm (Costs 3 Actions).*** The giant vanishes, dispersing itself into the storm surrounding its lair. The giant can end this effect at the start of any of its turns, becoming a giant once more and appearing in any location it chooses within its lair. While dispersed, the giant can't take any actions other than lair actions, and it can't be targeted by attacks, spells, or other effects. The giant can't use this ability outside its lair, nor can it use this ability if another creature is using a [control weather](/Mechanics/CLI/spells/control-weather-xphb.md) spell or similar magic to quell the storm.
 
 ## Lair Actions
 
 A storm giant quintessent can use lair actions in giant form and while transformed into a storm. On initiative count 20 (losing initiative ties), the giant can take one of the following lair actions; the giant can't take the same lair action two rounds in a row:
 
-- **Deafening Boom.** The giant creates a thunderclap centered on a point anywhere in their lair. Each creature within 20 feet of that point must succeed on a DC 18 Constitution saving throw or be [deafened](Mechanics/CLI/rules/conditions.md#Deafened) until the end of its next turn.  
+- **Deafening Boom.** The giant creates a thunderclap centered on a point anywhere in their lair. Each creature within 20 feet of that point must succeed on a DC 18 Constitution saving throw or be [deafened](/Mechanics/CLI/conditions.md#Deafened) until the end of its next turn.  
 - **Fog.** The giant creates a 20-foot-radius sphere of fog (or murky water if within water) centered on a point anywhere in its lair. The sphere spreads around corners, and its area is heavily obscured. The fog lasts until the giant disperses it (no action required), and it can't be dispersed by wind.  
 - **Gale.** The giant creates a 60-foot-long, 10-foot-wide line of strong wind (or strong current within water) originating from a point anywhere in its lair. Each creature in that line must succeed on a DC 18 Strength saving throw or be pushed 15 feet in the direction the wind is blowing. The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in its area. Protected flames, such as those of lanterns, have a 50 percent chance of being extinguished.  
 
@@ -108,3 +124,7 @@ If the giant dies, the lightning, thunder, and high wind regional effects end im
 ## Environment
 
 coastal, desert, mountain, underwater
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 235, Volo's Guide to Monsters p. 151_

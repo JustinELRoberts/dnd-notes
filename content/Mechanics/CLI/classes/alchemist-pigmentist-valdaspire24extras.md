@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pigmentist
-created: 2026-03-09T12:15:33.954-04:00
-modified: 2026-03-09T12:15:33.954-04:00
-published: 2026-03-09T12:15:33.954-04:00
+created: 2026-03-29T21:53:55.957-04:00
+modified: 2026-03-29T21:53:55.957-04:00
+published: 2026-03-29T21:53:55.957-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/alchemist/pigmentist
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Pigmentist
 
-_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,11 +56,11 @@ One of the lesser-known duties of Alchemists is synthesizing new and increasingl
 
 ### Painter (Level 3)
 
-You gain proficiency with [Painter's Supplies](Mechanics/CLI/items/painters-supplies-xphb.md) and gain a bonus to checks using it equal to your Intelligence modifier (minimum bonus of +1). Additionally, you can make a gallon of paint whenever you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You gain proficiency with [Painter's Supplies](/Mechanics/CLI/items/painters-supplies-xphb.md) and gain a bonus to checks using it equal to your Intelligence modifier (minimum bonus of +1). Additionally, you can make a gallon of paint whenever you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Paint Bombs (Level 3)
 
-You gain the [Paint Bomb](Mechanics/CLI/optional-features/paint-bomb-valdaspire24.md) formula, which doesn't count against your total number of formulae known. If you already have it, gain another formula of your choice. For you, the [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) is improved in the following ways.
+You gain the [Paint Bomb](/Mechanics/CLI/optional-features/paint-bomb-valdaspire24.md) formula, which doesn't count against your total number of formulae known. If you already have it, gain another formula of your choice. For you, the [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) is improved in the following ways.
 
 **Extended Duration.** Creatures remain coated in paint until the end of your next turn, instead of the start of your next turn.
 
@@ -94,4 +93,8 @@ Your Paint Bombs are improved in the following ways:
 
 **Rainbow Blast.** You can add up to three colors from the Magical Pigments table when you throw a Paint Bomb.
 
-**Selective Splatter.** When you use the Explode property of your Paint Bomb, you can choose for each creature within the area to automatically succeed or fail (your choice) on its saving throw against the [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md).
+**Selective Splatter.** When you use the Explode property of your Paint Bomb, you can choose for each creature within the area to automatically succeed or fail (your choice) on its saving throw against the [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md).
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

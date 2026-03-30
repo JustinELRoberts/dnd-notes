@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Thug
-created: 2026-03-09T12:15:33.847-04:00
-modified: 2026-03-09T12:15:33.847-04:00
-published: 2026-03-09T12:15:33.847-04:00
+created: 2026-03-29T21:53:55.636-04:00
+modified: 2026-03-29T21:53:55.636-04:00
+published: 2026-03-29T21:53:55.636-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,22 +14,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Thug
+ac: 11
+hp: 32
+modifier: 0
+hit_dice: 5d8 + 10
+cr: 1/2
+stats:
+  - 15
+  - 11
+  - 14
+  - 10
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # Thug
 
-_Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/thug.webp#right)
-
 Thugs are ruthless enforcers skilled at intimidation and violence. They work for money and have few scruples.
 
 ```ad-statblock
 title: Thug
-![](Mechanics/CLI/bestiary/humanoid/token/thug.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/thug.webp#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 11 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 32 (`5d8 + 10`) 
+- **Armor Class** 11 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 32 (5d8 + 10) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,15 +53,14 @@ title: Thug
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +2
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +2
 - **Senses** passive Perception 10
-- **Gear** [heavy crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), [mace](Mechanics/CLI/items/mace-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 1/2
 
 ## Traits
 
-***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The thug has advantage on an attack roll against a creature if at least one of the thug's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -62,3 +76,7 @@ title: Thug
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

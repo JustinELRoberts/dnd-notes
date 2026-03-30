@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ballista
-created: 2026-03-09T12:15:33.818-04:00
-modified: 2026-03-09T12:15:33.818-04:00
-published: 2026-03-09T12:15:33.818-04:00
+created: 2026-03-29T21:53:55.606-04:00
+modified: 2026-03-29T21:53:55.606-04:00
+published: 2026-03-29T21:53:55.606-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/object/size/large
@@ -16,13 +16,11 @@ obsidianUIMode: preview
 
 # Ballista
 
-_Source: Dungeon Master's Guide p. 255_
-
 A ballista is a massive crossbow that fires heavy bolts. Before it can be fired, it must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.
 
 ```ad-statblock
 title: Ballista
-![](Mechanics/CLI/objects/token/ballista.webp#token)
+![](/Mechanics/CLI/objects/token/ballista.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 15 
@@ -41,3 +39,7 @@ title: Ballista
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 255_

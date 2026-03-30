@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gray Ooze
-created: 2026-03-09T12:15:34.064-04:00
-modified: 2026-03-09T12:15:34.064-04:00
-published: 2026-03-09T12:15:34.064-04:00
+created: 2026-03-29T21:53:56.103-04:00
+modified: 2026-03-29T21:53:56.103-04:00
+published: 2026-03-29T21:53:56.103-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gray Ooze
+ac: 8
+hp: 22
+modifier: -2
+hit_dice: 3d8 + 9
+cr: 1/2
+stats:
+  - 12
+  - 6
+  - 16
+  - 1
+  - 6
+  - 2
+source:
+  - MM
 ---
 
 # Gray Ooze
 
-_Source: Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/ooze/img/gray-ooze.webp#right)
-
 A gray ooze is stone turned to liquid by chaos. When it moves, it slithers like a liquid snake, rising to strike.
 
 ## Oozes
@@ -53,11 +68,11 @@ An ooze doesn't require sleep.
 
 ```ad-statblock
 title: Gray Ooze
-![](Mechanics/CLI/bestiary/ooze/token/gray-ooze.webp#token)
+![](/Mechanics/CLI/bestiary/ooze/token/gray-ooze.webp#token)
 *Medium ooze, Unaligned*
 
 - **Armor Class** 8 
-- **Hit Points** 22 (`3d8 + 9`) 
+- **Hit Points** 22 (3d8 + 9) 
 - **Speed** 10 ft., climb 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -66,10 +81,10 @@ title: Gray Ooze
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 8
 - **Damage Resistances** acid, cold, fire
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** —
 - **Challenge** 1/2
 
@@ -93,3 +108,7 @@ The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 243. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

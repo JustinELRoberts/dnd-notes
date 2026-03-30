@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Speak with Plants
-created: 2026-03-09T12:15:33.867-04:00
-modified: 2026-03-09T12:15:33.867-04:00
-published: 2026-03-09T12:15:33.867-04:00
+created: 2026-03-29T21:53:55.659-04:00
+modified: 2026-03-29T21:53:55.659-04:00
+published: 2026-03-29T21:53:55.659-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/feat/mark-of-finding
@@ -20,14 +21,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Druid
-  - Martyr (Burden of Rebirth)
-  - Necromancer (Corpse Florist)
-  - Ranger
-  - Witch (Green Magic)
 ---
 
 # Speak with Plants
@@ -39,14 +32,26 @@ _3rd-level, Transmutation_
 - **Components:** V, S
 - **Duration:** 10 minutes
 
-You imbue plants in an immobile 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
+You imbue plants in an immobile 30-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) with limited sentience and animation, giving them the ability to communicate with you and follow your simple commands. You can question plants about events in the spell's area within the past day, gaining information about creatures that have passed, weather, and other circumstances.
 
-You can also turn [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md) that lasts for the duration.
+You can also turn [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) caused by plant growth (such as thickets and undergrowth) into ordinary terrain that lasts for the duration. Or you can turn ordinary terrain where plants are present into [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md) that lasts for the duration.
 
 The spell doesn't enable plants to uproot themselves and move about, but they can move their branches, tendrils, and stalks for you.
 
 If a Plant creature is in the area, you can communicate with it as if you shared a common language.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Corpse Florist)](Mechanics/CLI/lists/list-spells-classes-corpse-florist-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md); [Witch (Green Magic)](Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+**References**:
 
-_Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Necromancer (Corpse Florist)](/Mechanics/CLI/lists/list-spells-classes-corpse-florist-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Martyr (Burden of Rebirth)](/Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Mark of Finding](/Mechanics/CLI/lists/list-spells-feats-mark-of-finding-efa.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch (Green Magic)](/Mechanics/CLI/lists/list-spells-classes-green-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+
+## Sources
+
+_Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

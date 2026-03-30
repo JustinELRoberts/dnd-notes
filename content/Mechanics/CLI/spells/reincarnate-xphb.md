@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Reincarnate
-created: 2026-03-09T12:15:33.816-04:00
-modified: 2026-03-09T12:15:33.816-04:00
-published: 2026-03-09T12:15:33.816-04:00
+created: 2026-03-29T21:53:55.601-04:00
+modified: 2026-03-29T21:53:55.601-04:00
+published: 2026-03-29T21:53:55.601-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/5th-level
   - ttrpg-cli/spell/school/necromancy
@@ -16,11 +17,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
-  - Martyr (Burden of Rebirth)
-  - Necromancer (Corpse Florist)
 ---
 
 # Reincarnate
@@ -36,20 +32,28 @@ You touch a dead Humanoid or a piece of one. If the creature has been dead no lo
 
 | dice: 1d10 | Species |
 |------------|---------|
-| 1 | [Aasimar](Mechanics/CLI/races/aasimar-xphb.md) |
-| 2 | [Dragonborn](Mechanics/CLI/races/dragonborn-xphb.md) |
-| 3 | [Dwarf](Mechanics/CLI/races/dwarf-xphb.md) |
-| 4 | [Elf](Mechanics/CLI/races/elf-xphb.md) |
-| 5 | [Gnome](Mechanics/CLI/races/gnome-xphb.md) |
-| 6 | [Goliath](Mechanics/CLI/races/goliath-xphb.md) |
-| 7 | [Halfling](Mechanics/CLI/races/halfling-xphb.md) |
-| 8 | [Human](Mechanics/CLI/races/human-xphb.md) |
-| 9 | [Orc](Mechanics/CLI/races/orc-xphb.md) |
-| 10 | [Tiefling](Mechanics/CLI/races/tiefling-xphb.md) |
+| 1 | [Aasimar](/Mechanics/CLI/races/aasimar-xphb.md) |
+| 2 | [Dragonborn](/Mechanics/CLI/races/dragonborn-xphb.md) |
+| 3 | [Dwarf](/Mechanics/CLI/races/dwarf-xphb.md) |
+| 4 | [Elf](/Mechanics/CLI/races/elf-xphb.md) |
+| 5 | [Gnome](/Mechanics/CLI/races/gnome-xphb.md) |
+| 6 | [Goliath](/Mechanics/CLI/races/goliath-xphb.md) |
+| 7 | [Halfling](/Mechanics/CLI/races/halfling-xphb.md) |
+| 8 | [Human](/Mechanics/CLI/races/human-xphb.md) |
+| 9 | [Orc](/Mechanics/CLI/races/orc-xphb.md) |
+| 10 | [Tiefling](/Mechanics/CLI/races/tiefling-xphb.md) |
 ^1-species
 
 The reincarnated creature makes any choices that a species' description offers, and the creature recalls its former life. It retains the capabilities it had in its original form, except it loses the traits of its previous species and gains the traits of its new one.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Corpse Florist)](Mechanics/CLI/lists/list-spells-classes-corpse-florist-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+**References**:
 
-_Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Necromancer (Corpse Florist)](/Mechanics/CLI/lists/list-spells-classes-corpse-florist-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Martyr (Burden of Rebirth)](/Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

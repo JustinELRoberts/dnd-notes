@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shoosuva
-created: 2026-03-09T12:15:33.839-04:00
-modified: 2026-03-09T12:15:33.839-04:00
-published: 2026-03-09T12:15:33.839-04:00
+created: 2026-03-29T21:53:55.625-04:00
+modified: 2026-03-29T21:53:55.625-04:00
+published: 2026-03-29T21:53:55.625-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/8
@@ -17,11 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shoosuva (MPMM)
+ac: 14
+hp: 136
+modifier: 1
+hit_dice: 16d10 + 48
+cr: "8"
+stats:
+  - 18
+  - 13
+  - 17
+  - 7
+  - 14
+  - 9
+source:
+  - MPMM
+  - VGM
 ---
 
 # Shoosuva
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137_\
 ![](Mechanics/CLI/bestiary/fiend/img/shoosuva.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -32,17 +49,17 @@ _Source: Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide 
 >
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
-A shoosuva is a hyena-demon gifted by [Yeenoghu](Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
+A shoosuva is a hyena-demon gifted by [Yeenoghu](/Mechanics/CLI/bestiary/npc/yeenoghu-mpmm.md) to an especially powerful worshiper (typically a [fang of Yeenoghu](/Mechanics/CLI/bestiary/fiend/gnoll-fang-of-yeenoghu.md)). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
 
 Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongside its master. A gnoll that has been gifted with a shoosuva is second only to a flind in status within a war band dedicated to Yeenoghu.
 
 ```ad-statblock
 title: Shoosuva
-![](Mechanics/CLI/bestiary/fiend/token/shoosuva-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/shoosuva-mpmm.webp#token)
 *Large fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 136 (`16d10 + 48`) 
+- **Hit Points** 136 (16d10 + 48) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,10 +69,10 @@ title: Shoosuva
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +4, Constitution +6, Wisdom +5
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, Gnoll, telepathy 120 ft.
 - **Challenge** 8
 
@@ -65,7 +82,7 @@ title: Shoosuva
 
 ***Bite.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 26 (`4d10 + 4`) piercing damage.
 
-***Tail Stinger.*** *Melee Weapon Attack:* `+7` to hit, reach 15 ft., one creature. *Hit:* 13 (`2d8 + 4`) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way, the target is also [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Tail Stinger.*** *Melee Weapon Attack:* `+7` to hit, reach 15 ft., one creature. *Hit:* 13 (`2d8 + 4`) piercing damage, and the target must succeed on a DC 14 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned). While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way, the target is also [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ## Bonus Actions
 
@@ -77,3 +94,7 @@ title: Shoosuva
 ## Environment
 
 coastal, forest, grassland, hill
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 216, Volo's Guide to Monsters p. 137_

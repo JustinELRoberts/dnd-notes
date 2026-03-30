@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Veteran
-created: 2026-03-09T12:15:34.122-04:00
-modified: 2026-03-09T12:15:34.122-04:00
-published: 2026-03-09T12:15:34.122-04:00
+created: 2026-03-29T21:53:56.161-04:00
+modified: 2026-03-29T21:53:56.161-04:00
+published: 2026-03-29T21:53:56.161-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -21,21 +21,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Veteran
+ac: 17
+hp: 58
+modifier: 1
+hit_dice: 9d8 + 18
+cr: "3"
+stats:
+  - 16
+  - 13
+  - 14
+  - 10
+  - 11
+  - 10
+source:
+  - MM
 ---
 
 # Veteran
-
-_Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 Veterans are professional fighters that take up arms for pay or to protect something they believe in or value. Their ranks include soldiers retired from long service and warriors who never served anyone but themselves.
 
 ```ad-statblock
 title: Veteran
-![](Mechanics/CLI/bestiary/humanoid/token/veteran.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/veteran.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 17 ([splint armor](Mechanics/CLI/items/splint-armor-xphb.md))
-- **Hit Points** 58 (`9d8 + 18`) 
+- **Armor Class** 17 ([splint armor](/Mechanics/CLI/items/splint-armor.md))
+- **Hit Points** 58 (9d8 + 18) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,9 +59,8 @@ title: Veteran
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +2
 - **Senses** passive Perception 12
-- **Gear** [heavy crossbow](Mechanics/CLI/items/heavy-crossbow-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 3
 
@@ -66,3 +80,7 @@ title: Veteran
 ## Environment
 
 coastal, mountain, grassland, hill, arctic, urban, forest, underdark
+
+## Sources
+
+_Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Draconic Sorcery
-created: 2026-03-09T12:15:34.101-04:00
-modified: 2026-03-09T12:15:34.101-04:00
-published: 2026-03-09T12:15:34.101-04:00
+created: 2026-03-29T21:53:56.133-04:00
+modified: 2026-03-29T21:53:56.133-04:00
+published: 2026-03-29T21:53:56.133-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/sorcerer/draconic
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Draconic Sorcery
 
-_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_\
-_Source: Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_[Sorcerer](./sorcerer-xphb.md): Sorcerer Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,9 +58,9 @@ Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon fac
 
 ### Draconic Resilience (Level 3)
 
-The magic in your body manifests physical traits of your draconic gift. Your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
+The magic in your body manifests physical traits of your draconic gift. Your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.
 
-Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
+Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md) equals 10 plus your Dexterity and Charisma modifiers.
 
 ### Draconic Spells (Level 3)
 
@@ -71,26 +70,30 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [Alter Self](Mechanics/CLI/spells/alter-self-xphb.md), [Chromatic Orb](Mechanics/CLI/spells/chromatic-orb-xphb.md), [Command](Mechanics/CLI/spells/command-xphb.md), [Dragon's Breath](Mechanics/CLI/spells/dragons-breath-xphb.md) |
-| 5th | [Fear](Mechanics/CLI/spells/fear-xphb.md), [Fly](Mechanics/CLI/spells/fly-xphb.md) |
-| 7th | [Arcane Eye](Mechanics/CLI/spells/arcane-eye-xphb.md), [Charm Monster](Mechanics/CLI/spells/charm-monster-xphb.md) |
-| 9th | [Legend Lore](Mechanics/CLI/spells/legend-lore-xphb.md), [Summon Dragon](Mechanics/CLI/spells/summon-dragon-xphb.md) |
+| 3rd | [Alter Self](/Mechanics/CLI/spells/alter-self-xphb.md), [Chromatic Orb](/Mechanics/CLI/spells/chromatic-orb-xphb.md), [Command](/Mechanics/CLI/spells/command-xphb.md), [Dragon's Breath](/Mechanics/CLI/spells/dragons-breath-xphb.md) |
+| 5th | [Fear](/Mechanics/CLI/spells/fear-xphb.md), [Fly](/Mechanics/CLI/spells/fly-xphb.md) |
+| 7th | [Arcane Eye](/Mechanics/CLI/spells/arcane-eye-xphb.md), [Charm Monster](/Mechanics/CLI/spells/charm-monster-xphb.md) |
+| 9th | [Legend Lore](/Mechanics/CLI/spells/legend-lore-xphb.md), [Summon Dragon](/Mechanics/CLI/spells/summon-dragon-xphb.md) |
 ^draconic-spells
 
 ### Elemental Affinity (Level 6)
 
 Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison.
 
-You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
+You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.
 
 ### Dragon Wings (Level 14)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 60 feet.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cause draconic wings to appear on your back. The wings last for 1 hour or until you dismiss them (no action required). For the duration, you have a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 60 feet.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you spend 3 Sorcery Points (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you spend 3 Sorcery Points (no action required) to restore your use of it.
 
 ### Dragon Companion (Level 18)
 
-You can cast [Summon Dragon](Mechanics/CLI/spells/summon-dragon-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can cast [Summon Dragon](/Mechanics/CLI/spells/summon-dragon-xphb.md) without a Material component. You can also cast it once without a spell slot, and you regain the ability to cast it in this way when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](Mechanics/CLI/rules/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
+Whenever you start casting the spell, you can modify it so that it doesn't require [Concentration](/Mechanics/CLI/conditions.md#Concentration). If you do so, the spell's duration becomes 1 minute for that casting.
+
+## Sources
+
+_Player's Handbook (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

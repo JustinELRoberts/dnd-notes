@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Forest Encounters (Levels 17—20)
-created: 2026-03-09T12:15:34.398-04:00
-modified: 2026-03-09T12:15:34.398-04:00
-published: 2026-03-09T12:15:34.398-04:00
+created: 2026-03-29T21:53:56.496-04:00
+modified: 2026-03-29T21:53:56.496-04:00
+published: 2026-03-29T21:53:56.496-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:
@@ -20,28 +20,28 @@ _Source: Xanathar's Guide to Everything p. 97_
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-05 | 1 [young green dragon](Mechanics/CLI/bestiary/dragon/young-green-dragon.md) |
-| 06-10 | 1 [treant](Mechanics/CLI/bestiary/plant/treant.md) |
-| 11-13 | 1 [guardian naga](Mechanics/CLI/bestiary/monstrosity/guardian-naga.md) |
-| 14-16 | `1d10` [revenants](Mechanics/CLI/bestiary/undead/revenant.md) |
-| 17-19 | `1d8 + 1` [unicorns](Mechanics/CLI/bestiary/celestial/unicorn.md) |
-| 20-22 | `1d3` [grick alphas](Mechanics/CLI/bestiary/monstrosity/grick-alpha.md) |
+| 01-05 | 1 [young green dragon](/Mechanics/CLI/bestiary/dragon/young-green-dragon.md) |
+| 06-10 | 1 [treant](/Mechanics/CLI/bestiary/plant/treant.md) |
+| 11-13 | 1 [guardian naga](/Mechanics/CLI/bestiary/monstrosity/guardian-naga.md) |
+| 14-16 | `1d10` [revenants](/Mechanics/CLI/bestiary/undead/revenant.md) |
+| 17-19 | `1d8 + 1` [unicorns](/Mechanics/CLI/bestiary/celestial/unicorn.md) |
+| 20-22 | `1d3` [grick alphas](/Mechanics/CLI/bestiary/monstrosity/grick-alpha.md) |
 | 23-25 | For a few hundred feet, wherever the characters step, flowers bloom and emit soft light. |
-| 26-28 | 1 [young gold dragon](Mechanics/CLI/bestiary/dragon/young-gold-dragon.md) |
-| 29-31 | `1d6 + 2` [shambling mounds](Mechanics/CLI/bestiary/plant/shambling-mound.md) |
-| 32-34 | `2d4` [werebears](Mechanics/CLI/bestiary/humanoid/werebear.md) |
-| 35-37 | `1d4` [oni](Mechanics/CLI/bestiary/giant/oni.md) |
+| 26-28 | 1 [young gold dragon](/Mechanics/CLI/bestiary/dragon/young-gold-dragon.md) |
+| 29-31 | `1d6 + 2` [shambling mounds](/Mechanics/CLI/bestiary/plant/shambling-mound.md) |
+| 32-34 | `2d4` [werebears](/Mechanics/CLI/bestiary/humanoid/werebear.md) |
+| 35-37 | `1d4` [oni](/Mechanics/CLI/bestiary/giant/oni.md) |
 | 38-40 | `4d6 + 10` elves living in a small community in the treetop |
-| 41-43 | `1d6 + 2` [gorgons](Mechanics/CLI/bestiary/monstrosity/gorgon.md) |
-| 44-46 | `2d4` [trolls](Mechanics/CLI/bestiary/giant/troll.md) |
-| 47-49 | `1d4` [giant apes](Mechanics/CLI/bestiary/beast/giant-ape.md) |
-| 50-52 | `1d3` [yuan-ti abominations](Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md) |
-| 53-62 | `1d3` [young green dragons](Mechanics/CLI/bestiary/dragon/young-green-dragon.md) |
+| 41-43 | `1d6 + 2` [gorgons](/Mechanics/CLI/bestiary/monstrosity/gorgon.md) |
+| 44-46 | `2d4` [trolls](/Mechanics/CLI/bestiary/giant/troll.md) |
+| 47-49 | `1d4` [giant apes](/Mechanics/CLI/bestiary/beast/giant-ape.md) |
+| 50-52 | `1d3` [yuan-ti abominations](/Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination.md) |
+| 53-62 | `1d3` [young green dragons](/Mechanics/CLI/bestiary/dragon/young-green-dragon.md) |
 | 63-65 | A 50-foot-tall stone statue of an elf warrior with hand raised, palm out, as if to forbid travelers from coming this way |
-| 66-75 | `1d4` [treants](Mechanics/CLI/bestiary/plant/treant.md) |
+| 66-75 | `1d4` [treants](/Mechanics/CLI/bestiary/plant/treant.md) |
 | 76-80 | A cairn set atop a low hill |
-| 81-90 | 1 [adult gold dragon](Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md) |
-| 91-96 | 1 [ancient green dragon](Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md) |
-| 97-99 | `2d4 + 1` [treants](Mechanics/CLI/bestiary/plant/treant.md) |
-| 00 | 1 [ancient gold dragon](Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md) |
+| 81-90 | 1 [adult gold dragon](/Mechanics/CLI/bestiary/dragon/adult-gold-dragon.md) |
+| 91-96 | 1 [ancient green dragon](/Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md) |
+| 97-99 | `2d4 + 1` [treants](/Mechanics/CLI/bestiary/plant/treant.md) |
+| 00 | 1 [ancient gold dragon](/Mechanics/CLI/bestiary/dragon/ancient-gold-dragon.md) |
 ^forest-encounters-levels-1720

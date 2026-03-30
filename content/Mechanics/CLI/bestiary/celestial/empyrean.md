@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Empyrean
-created: 2026-03-09T12:15:33.875-04:00
-modified: 2026-03-09T12:15:33.875-04:00
-published: 2026-03-09T12:15:33.875-04:00
+created: 2026-03-29T21:53:55.668-04:00
+modified: 2026-03-29T21:53:55.668-04:00
+published: 2026-03-29T21:53:55.668-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/23
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Empyrean
+ac: 22
+hp: 313
+modifier: 5
+hit_dice: 19d12 + 190
+cr: "23"
+stats:
+  - 30
+  - 21
+  - 30
+  - 21
+  - 22
+  - 27
+source:
+  - MM
 ---
 
 # Empyrean
 
-_Source: Monster Manual p. 130_\
 ![](Mechanics/CLI/bestiary/celestial/img/empyrean.webp#right)
-
 Empyreans are the celestial children of the gods of the Upper Planes. They are universally beautiful, statuesque, and self-assured.
 
 ## Manifest Emotion
@@ -38,11 +53,11 @@ Empyreans don't age but can be slain. Because few empyreans can imagine their ow
 
 ```ad-statblock
 title: Empyrean
-![](Mechanics/CLI/bestiary/celestial/token/empyrean.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/empyrean.webp#token)
 *Huge celestial (titan), Chaotic Good or Neutral Evil*
 
 - **Armor Class** 22 (natural armor)
-- **Hit Points** 313 (`19d12 + 190`) 
+- **Hit Points** 313 (19d12 + 190) 
 - **Speed** 50 ft., fly 50 ft., swim 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,10 +66,9 @@ title: Empyrean
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Strength +17, Intelligence +12, Wisdom +13, Charisma +15
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +13, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +15
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 16
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +13, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +15
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 16
 - **Damage Immunities** bludgeoning, piercing, slashing from nonmagical attacks
-- **Gear** [maul](Mechanics/CLI/items/maul-xphb.md)
 - **Languages** all
 - **Challenge** 23
 
@@ -62,9 +76,9 @@ title: Empyrean
 
 ***Innate Spellcasting.*** The empyrean's innate spellcasting ability is Charisma (spell save DC 23, `+15` to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will:** [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md), [pass without trace](Mechanics/CLI/spells/pass-without-trace-xphb.md), [water breathing](Mechanics/CLI/spells/water-breathing-xphb.md), [water walk](Mechanics/CLI/spells/water-walk-xphb.md)
+**At will:** [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md), [pass without trace](/Mechanics/CLI/spells/pass-without-trace-xphb.md), [water breathing](/Mechanics/CLI/spells/water-breathing-xphb.md), [water walk](/Mechanics/CLI/spells/water-walk-xphb.md)
 
-**1/day each:** [commune](Mechanics/CLI/spells/commune-xphb.md), [dispel evil and good](Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [earthquake](Mechanics/CLI/spells/earthquake-xphb.md), [fire storm](Mechanics/CLI/spells/fire-storm-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
+**1/day each:** [commune](/Mechanics/CLI/spells/commune-xphb.md), [dispel evil and good](/Mechanics/CLI/spells/dispel-evil-and-good-xphb.md), [earthquake](/Mechanics/CLI/spells/earthquake-xphb.md), [fire storm](/Mechanics/CLI/spells/fire-storm-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
 
 ***Legendary Resistance (3/Day).*** If the empyrean fails a saving throw, it can choose to succeed instead.
 
@@ -74,7 +88,7 @@ title: Empyrean
 
 ## Actions
 
-***Maul.*** *Melee Weapon Attack:* `+17` to hit, reach 10 ft., one target. *Hit:* 31 (`6d6 + 10`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the empyrean's next turn.
+***Maul.*** *Melee Weapon Attack:* `+17` to hit, reach 10 ft., one target. *Hit:* 31 (`6d6 + 10`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of the empyrean's next turn.
 
 ***Bolt.*** *Ranged Spell Attack:* `+15` to hit, range 600 ft., one target. *Hit:* 24 (`7d6`) damage of one of the following types (empyrean's choice): acid, cold, fire, force, lightning, radiant, or thunder.
 
@@ -84,9 +98,13 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the empyrea
 
 ***Attack.*** The empyrean makes one attack.
 
-***Bolster.*** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
+***Bolster.*** The empyrean bolsters all nonhostile creatures within 120 feet of it until the end of its next turn. Bolstered creatures can't be [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened), and they gain advantage on ability checks and saving throws until the end of the empyrean's next turn.
 
-***Trembling Strike (Costs 2 Actions).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Trembling Strike (Costs 2 Actions).*** The empyrean strikes the ground with its maul, triggering an earth tremor. All other creatures on the ground within 60 feet of the empyrean must succeed on a DC 25 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 130_

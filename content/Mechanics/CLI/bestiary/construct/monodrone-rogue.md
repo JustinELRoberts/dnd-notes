@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Monodrone (Rogue)
-created: 2026-03-09T12:15:33.961-04:00
-modified: 2026-03-09T12:15:33.961-04:00
-published: 2026-03-09T12:15:33.961-04:00
+created: 2026-03-29T21:53:55.965-04:00
+modified: 2026-03-29T21:53:55.965-04:00
+published: 2026-03-29T21:53:55.965-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -13,18 +13,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Monodrone (Rogue)
+ac: 15
+hp: 5
+modifier: 1
+hit_dice: 1d8 + 1
+cr: 1/8
+stats:
+  - 10
+  - 13
+  - 12
+  - 4
+  - 10
+  - 5
+source:
+  - MM
 ---
 
 # Monodrone (Rogue)
-
-_Source: Monster Manual p. 224_
 
 ```ad-statblock
 title: Monodrone (Rogue)
 *Medium construct, Any alignment*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 5 (`1d8 + 1`) 
+- **Hit Points** 5 (1d8 + 1) 
 - **Speed** 30 ft., fly 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,8 +49,7 @@ title: Monodrone (Rogue)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 10
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md), [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 10
 - **Languages** Modron
 - **Challenge** 1/8
 
@@ -51,3 +65,7 @@ title: Monodrone (Rogue)
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 224_

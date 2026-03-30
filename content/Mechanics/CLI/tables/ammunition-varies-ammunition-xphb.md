@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ammunition (Varies); Ammunition
-created: 2026-03-09T12:15:34.382-04:00
-modified: 2026-03-09T12:15:34.382-04:00
-published: 2026-03-09T12:15:34.382-04:00
+created: 2026-03-29T21:53:56.480-04:00
+modified: 2026-03-29T21:53:56.480-04:00
+published: 2026-03-29T21:53:56.480-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
 cssclasses:
@@ -20,9 +20,9 @@ _Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems 
 
 | Type | Amount | Storage | Weight | Cost |
 |------|--------|---------|--------|------|
-| [Arrows](Mechanics/CLI/items/arrows-20-xphb.md) | 20 | [Quiver](Mechanics/CLI/items/quiver-xphb.md) | 1 lb. | 1 GP |
-| [Bolts](Mechanics/CLI/items/bolts-20-xphb.md) | 20 | [Case](Mechanics/CLI/items/crossbow-bolt-case-xphb.md) | 1½ lb. | 1 GP |
-| [Bullets, Firearm](Mechanics/CLI/items/firearm-bullets-10-xphb.md) | 10 | [Pouch](Mechanics/CLI/items/pouch-xphb.md) | 2 lb. | 3 GP |
-| [Bullets, Sling](Mechanics/CLI/items/sling-bullet-xphb.md) | 20 | [Pouch](Mechanics/CLI/items/pouch-xphb.md) | 1½ lb. | 4 CP |
-| [Needles](Mechanics/CLI/items/needles-50-xphb.md) | 50 | [Pouch](Mechanics/CLI/items/pouch-xphb.md) | 1 lb. | 1 GP |
+| [Arrows](/Mechanics/CLI/items/arrows-20-xphb.md) | 20 | [Quiver](/Mechanics/CLI/items/quiver-xphb.md) | 1 lb. | 1 GP |
+| [Bolts](/Mechanics/CLI/items/bolts-20-xphb.md) | 20 | [Case](/Mechanics/CLI/items/crossbow-bolt-case-xphb.md) | 1½ lb. | 1 GP |
+| [Bullets, Firearm](/Mechanics/CLI/items/firearm-bullets-10-xphb.md) | 10 | [Pouch](/Mechanics/CLI/items/pouch-xphb.md) | 2 lb. | 3 GP |
+| [Bullets, Sling](/Mechanics/CLI/items/sling-bullet-xphb.md) | 20 | [Pouch](/Mechanics/CLI/items/pouch-xphb.md) | 1½ lb. | 4 CP |
+| [Needles](/Mechanics/CLI/items/needles-50-xphb.md) | 50 | [Pouch](/Mechanics/CLI/items/pouch-xphb.md) | 1 lb. | 1 GP |
 ^ammunition

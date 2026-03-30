@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bone Naga (Guardian)
-created: 2026-03-09T12:15:33.950-04:00
-modified: 2026-03-09T12:15:33.950-04:00
-published: 2026-03-09T12:15:33.950-04:00
+created: 2026-03-29T21:53:55.952-04:00
+modified: 2026-03-29T21:53:55.952-04:00
+published: 2026-03-29T21:53:55.952-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bone Naga (Guardian)
+ac: 15
+hp: 58
+modifier: 3
+hit_dice: 9d10 + 9
+cr: "4"
+stats:
+  - 15
+  - 16
+  - 12
+  - 15
+  - 15
+  - 16
+source:
+  - MM
 ---
 
 # Bone Naga (Guardian)
 
-_Source: Monster Manual p. 233_\
 ![](Mechanics/CLI/bestiary/undead/img/bone-naga.webp#right)
-
 In response to the long history of conflict between the yuan-ti and the nagas, yuan-ti created a necromantic ritual that could halt a naga's resurrection by transforming the living naga into a skeletal undead servitor. A bone naga retains only a few of the spells it knew in life.
 
 ## Nagas
@@ -47,11 +62,11 @@ A naga doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Bone Naga (Guardian)
-![](Mechanics/CLI/bestiary/undead/token/bone-naga-guardian.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/bone-naga-guardian.webp#token)
 *Large undead, Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 58 (`9d10 + 9`) 
+- **Hit Points** 58 (9d10 + 9) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,9 +76,9 @@ title: Bone Naga (Guardian)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common plus one other language
 - **Challenge** 4
 
@@ -71,13 +86,13 @@ title: Bone Naga (Guardian)
 
 ***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, `+4` to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Wisdom, and it has the following cleric spells prepared:
 
-**Cantrips (at will):** [mending](Mechanics/CLI/spells/mending-xphb.md), [sacred flame](Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](Mechanics/CLI/spells/thaumaturgy-xphb.md)
+**Cantrips (at will):** [mending](/Mechanics/CLI/spells/mending-xphb.md), [sacred flame](/Mechanics/CLI/spells/sacred-flame-xphb.md), [thaumaturgy](/Mechanics/CLI/spells/thaumaturgy-xphb.md)
 
-**1st level (4 slots):** [command](Mechanics/CLI/spells/command-xphb.md), [shield of faith](Mechanics/CLI/spells/shield-of-faith-xphb.md)
+**1st level (4 slots):** [command](/Mechanics/CLI/spells/command-xphb.md), [shield of faith](/Mechanics/CLI/spells/shield-of-faith-xphb.md)
 
-**2nd level (3 slots):** [calm emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](Mechanics/CLI/spells/hold-person-xphb.md)
+**2nd level (3 slots):** [calm emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [hold person](/Mechanics/CLI/spells/hold-person-xphb.md)
 
-**3rd level (2 slots):** [bestow curse](Mechanics/CLI/spells/bestow-curse-xphb.md)
+**3rd level (2 slots):** [bestow curse](/Mechanics/CLI/spells/bestow-curse-xphb.md)
 
 ## Actions
 
@@ -89,3 +104,7 @@ title: Bone Naga (Guardian)
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 233_

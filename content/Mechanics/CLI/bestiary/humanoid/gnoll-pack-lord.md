@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gnoll Pack Lord
-created: 2026-03-09T12:15:33.906-04:00
-modified: 2026-03-09T12:15:33.906-04:00
-published: 2026-03-09T12:15:33.906-04:00
+created: 2026-03-29T21:53:55.906-04:00
+modified: 2026-03-29T21:53:55.906-04:00
+published: 2026-03-29T21:53:55.906-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gnoll Pack Lord
+ac: 15
+hp: 49
+modifier: 2
+hit_dice: 9d8 + 9
+cr: "2"
+stats:
+  - 16
+  - 14
+  - 13
+  - 8
+  - 11
+  - 9
+source:
+  - MM
 ---
 
 # Gnoll Pack Lord
 
-_Source: Monster Manual p. 163_\
 ![](Mechanics/CLI/bestiary/humanoid/img/gnoll.webp#right)
-
 The alpha of a gnoll pack is the pack lord, ruling by might and cunning. A pack lord earns the best of a gnoll pack's spoils, food, valuable trinkets, and magic items. It ornaments its body with brutal piercings and grotesque trophies, dyeing its fur with demonic sigils, hoping Yeenoghu will make it invulnerable.
 
 ## Gnolls
@@ -48,11 +63,11 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 
 ```ad-statblock
 title: Gnoll Pack Lord
-![](Mechanics/CLI/bestiary/humanoid/token/gnoll-pack-lord.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/gnoll-pack-lord.webp#token)
 *Medium humanoid (gnoll), Chaotic Evil*
 
-- **Armor Class** 15 ([chain shirt](Mechanics/CLI/items/chain-shirt-xphb.md))
-- **Hit Points** 49 (`9d8 + 9`) 
+- **Armor Class** 15 ([chain shirt](/Mechanics/CLI/items/chain-shirt.md))
+- **Hit Points** 49 (9d8 + 9) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -62,8 +77,7 @@ title: Gnoll Pack Lord
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Gear** [glaive](Mechanics/CLI/items/glaive-xphb.md), [longbow](Mechanics/CLI/items/longbow-xphb.md)
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Gnoll
 - **Challenge** 2
 
@@ -89,3 +103,7 @@ title: Gnoll Pack Lord
 ## Environment
 
 grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 163_

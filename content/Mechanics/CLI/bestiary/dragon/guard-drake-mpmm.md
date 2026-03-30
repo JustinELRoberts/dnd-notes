@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Guard Drake
-created: 2026-03-09T12:15:34.106-04:00
-modified: 2026-03-09T12:15:34.106-04:00
-published: 2026-03-09T12:15:34.106-04:00
+created: 2026-03-29T21:53:56.140-04:00
+modified: 2026-03-29T21:53:56.140-04:00
+published: 2026-03-29T21:53:56.140-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -20,13 +20,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Guard Drake (MPMM)
+ac: 14
+hp: 52
+modifier: 0
+hit_dice: 7d8 + 21
+cr: "2"
+stats:
+  - 16
+  - 11
+  - 16
+  - 4
+  - 10
+  - 7
+source:
+  - MPMM
 ---
 
 # Guard Drake
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 151_\
 ![](Mechanics/CLI/bestiary/dragon/img/guard-drake.webp#right)
-
 A guard drake is a reptilian creature created out of dragon scales by means of a bizarre and grisly ritual. When trained properly, a drake is obedient and territorial, which makes it an excellent watch beast that can follow simple commands.
 
 Tiamat's cult practices the ritual to create guard drakes, as do other groups that are skilled in arcana and associated with Dragons. The ritual requires a chromatic dragon's aid; the dragon typically helps to reward its allies or worshipers with a valuable servant.
@@ -37,11 +52,11 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 
 ```ad-statblock
 title: Guard Drake
-![](Mechanics/CLI/bestiary/dragon/token/guard-drake-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/guard-drake-mpmm.webp#token)
 *Medium dragon, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 52 (`7d8 + 21`) 
+- **Hit Points** 52 (7d8 + 21) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,8 +65,8 @@ title: Guard Drake
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** understands Draconic but can't speak
 - **Challenge** 2
 
@@ -69,3 +84,7 @@ title: Guard Drake
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 151_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dynamite (stick)
-created: 2026-03-09T12:15:33.948-04:00
-modified: 2026-03-09T12:15:33.948-04:00
-published: 2026-03-09T12:15:33.948-04:00
+created: 2026-03-29T21:53:55.950-04:00
+modified: 2026-03-29T21:53:55.950-04:00
+published: 2026-03-29T21:53:55.950-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/modern
@@ -19,6 +19,7 @@ obsidianUIMode: preview
 
 _Explosive_
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
 As an action, a creature can light a stick of dynamite and throw it at a point up to 60 feet away. Each creature within 5 feet of that point must make a DC 12 Dexterity saving throw, taking `3d6` bludgeoning damage on a failed save, or half as much damage on a successful one.
@@ -27,4 +28,6 @@ A character can bind sticks of dynamite together so they explode at the same tim
 
 Dynamite can be rigged with a longer fuse to explode after a set amount of time, usually 1 to 6 rounds. Roll initiative for the dynamite. After the set number of rounds goes by, the dynamite explodes on that initiative.
 
-_Source: Dungeon Master's Guide p. 268_
+## Sources
+
+_Dungeon Master's Guide p. 268_

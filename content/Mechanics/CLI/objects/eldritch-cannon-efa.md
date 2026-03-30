@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eldritch Cannon
-created: 2026-03-09T12:15:33.857-04:00
-modified: 2026-03-09T12:15:33.857-04:00
-published: 2026-03-09T12:15:33.857-04:00
+created: 2026-03-29T21:53:55.648-04:00
+modified: 2026-03-29T21:53:55.648-04:00
+published: 2026-03-29T21:53:55.648-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/object/size/unknown
@@ -16,18 +16,16 @@ obsidianUIMode: preview
 
 # Eldritch Cannon
 
-_Source: Eberron: Forge of the Artificer p. 16_
-
 > [!note]
-> Created by the [Eldritch Cannon](Mechanics/CLI/classes/artificer-artillerist-efa.md#Eldritch%20Cannon%20\(Level%203\)) subclass feature.
+> Created by the [Eldritch Cannon](/Mechanics/CLI/classes/artificer-artillerist-efa.md#Eldritch%20Cannon%20\(Level%203\)) subclass feature.
 
 ```ad-statblock
 title: Eldritch Cannon
-![](Mechanics/CLI/objects/token/eldritch-cannon-efa.webp#token)
+![](/Mechanics/CLI/objects/token/eldritch-cannon-efa.webp#token)
 *Unknown Unknown*
 
 - **Armor Class** 18 
-- **Hit Points** 5 × your artificer level (casting [Mending](Mechanics/CLI/spells/mending-xphb.md) on the cannon restores `2d6` hit points to it) (5 × your artificer level (casting [Mending](Mechanics/CLI/spells/mending-xphb.md) on the cannon restores `2d6` hit points to it))
+- **Hit Points** 5 × your artificer level (casting [Mending](/Mechanics/CLI/spells/mending-xphb.md) on the cannon restores `2d6` hit points to it) (5 × your artificer level (casting [Mending](/Mechanics/CLI/spells/mending-xphb.md) on the cannon restores `2d6` hit points to it))
 - **Speed** 
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,11 +36,15 @@ title: Eldritch Cannon
 
 ## Actions
 
-***Activate Cannon (Requires You to be within 60 Feet of the Cannon).*** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you order the cannon to use the Flamethrower, Force Ballista, or Protector option below; you can direct the cannon to move up to 15 feet before or after that option:
+***Activate Cannon (Requires You to be within 60 Feet of the Cannon).*** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you order the cannon to use the Flamethrower, Force Ballista, or Protector option below; you can direct the cannon to move up to 15 feet before or after that option:
 
-- **Flamethrower.** The cannon blasts fire in a 15-foot [Cone](Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md). Each creature in that area makes a Dexterity saving throw against your spell save DC, taking `2d8` Fire damage on a failed save or half as much damage on a successful one. Flammable objects in the [Cone](Mechanics/CLI/rules/variant-rules/cone-area-of-effect-xphb.md) that aren't being worn or carried start burning.  
+- **Flamethrower.** The cannon blasts fire in a 15-foot [Cone](/Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md). Each creature in that area makes a Dexterity saving throw against your spell save DC, taking `2d8` Fire damage on a failed save or half as much damage on a successful one. Flammable objects in the [Cone](/Mechanics/CLI/variant-rules/cone-area-of-effect-xphb.md) that aren't being worn or carried start burning.  
 - **Force Ballista.** Make a ranged spell attack originating from the cannon at one creature or object within 120 feet of it. On a hit, the target takes `2d8` Force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.  
-- **Protector.** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of the cannon a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to `1d8` plus your Intelligence modifier (minimum of +1).  
+- **Protector.** The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of the cannon a number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to `1d8` plus your Intelligence modifier (minimum of +1).  
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 16_

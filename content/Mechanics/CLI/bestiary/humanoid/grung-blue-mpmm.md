@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grung (Blue)
-created: 2026-03-09T12:15:33.856-04:00
-modified: 2026-03-09T12:15:33.856-04:00
-published: 2026-03-09T12:15:33.856-04:00
+created: 2026-03-29T21:53:55.646-04:00
+modified: 2026-03-29T21:53:55.646-04:00
+published: 2026-03-29T21:53:55.646-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -14,18 +14,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Grung (Blue) (MPMM)
+ac: 12
+hp: 11
+modifier: 2
+hit_dice: 2d6 + 4
+cr: 1/4
+stats:
+  - 7
+  - 14
+  - 15
+  - 10
+  - 11
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Grung (Blue)
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156_
 
 ```ad-statblock
 title: Grung (Blue)
 *Small humanoid, Any alignment*
 
 - **Armor Class** 12 
-- **Hit Points** 11 (`2d6 + 4`) 
+- **Hit Points** 11 (2d6 + 4) 
 - **Speed** 25 ft., climb 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,11 +50,10 @@ title: Grung (Blue)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4, [Survival](Mechanics/CLI/rules/skills.md#Survival) +2
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4, [Survival](/Mechanics/CLI/skills.md#Survival) +2
 - **Senses** passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Grung
 - **Challenge** 1/4
 
@@ -46,11 +61,11 @@ title: Grung (Blue)
 
 ***Amphibious.*** The grung can breathe air and water.
 
-***Poisonous Skin.*** A creature [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) by a grung suffers an additional effect that depends on the grung's color. This effect lasts until the creature is no longer [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) by the grung. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature must make a loud noise at the start and end of its turn.
+***Poisonous Skin.*** A creature [poisoned](/Mechanics/CLI/conditions.md#Poisoned) by a grung suffers an additional effect that depends on the grung's color. This effect lasts until the creature is no longer [poisoned](/Mechanics/CLI/conditions.md#Poisoned) by the grung. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature must make a loud noise at the start and end of its turn.
 
 ***Standing Leap.*** The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
 
-***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
+***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
 
 ## Actions
 
@@ -62,3 +77,7 @@ title: Grung (Blue)
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 149, Volo's Guide to Monsters p. 156_

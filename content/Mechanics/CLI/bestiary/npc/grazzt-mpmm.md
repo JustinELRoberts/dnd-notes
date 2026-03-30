@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Graz'zt
-created: 2026-03-09T12:15:33.959-04:00
-modified: 2026-03-09T12:15:33.959-04:00
-published: 2026-03-09T12:15:33.959-04:00
+created: 2026-03-29T21:53:55.963-04:00
+modified: 2026-03-29T21:53:55.963-04:00
+published: 2026-03-29T21:53:55.963-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/24
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Graz'zt (MPMM)
+ac: 20
+hp: 346
+modifier: 2
+hit_dice: 33d10 + 165
+cr: "24"
+stats:
+  - 22
+  - 15
+  - 21
+  - 23
+  - 21
+  - 26
+source:
+  - MPMM
 ---
 
 # Graz'zt
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 148_\
 ![](Mechanics/CLI/bestiary/npc/img/grazzt.webp#right)
-
 The appearance of this demon lord is a warning that not all that is beautiful is good. Every plane and curve of his nine-foot-tall body, every glance of his burning eyes, promises a mixture of pleasure and pain. Graz'zt can transform himself at will, appearing in any humanlike form that pleases him or his onlookers, all equally tempting in their own ways. In every form, though, a subtle wrongness pervades his beauty, from the cruel cast of his features to the six fingers on each hand and six toes on each foot.
 
 Graz'zt surrounds himself with the finest of things and the most attractive of servants, and he adorns himself in silks and leathers both striking and disturbing in their workmanship. His lair and those of his cultists are pleasure palaces where nothing is forbidden save moderation and kindness.
@@ -43,11 +58,11 @@ Graz'zt's lair is a den of ostentation and hedonism. It is adorned with finery a
 
 ```ad-statblock
 title: Graz'zt
-![](Mechanics/CLI/bestiary/npc/token/grazzt-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/npc/token/grazzt-mpmm.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 346 (`33d10 + 165`) 
+- **Hit Points** 346 (33d10 + 165) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,11 +71,11 @@ title: Graz'zt
 
 - **Proficiency Bonus** +7
 - **Saving Throws** Dexterity +9, Constitution +12, Wisdom +12
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +15, [Perception](Mechanics/CLI/rules/skills.md#Perception) +12, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +15
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 22
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +15, [Perception](/Mechanics/CLI/skills.md#Perception) +12, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +15
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 22
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison; bludgeoning, piercing, slashing that is nonmagical
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** all, telepathy 120 ft.
 - **Challenge** 24
 
@@ -80,11 +95,11 @@ title: Graz'zt
 
 ***Spellcasting.*** Graz'zt casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 23):
 
-**At will:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md)
+**At will:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md)
 
-**3/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [dominate person](Mechanics/CLI/spells/dominate-person-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md), [teleport](Mechanics/CLI/spells/teleport-xphb.md)
+**3/day each:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [dominate person](/Mechanics/CLI/spells/dominate-person-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md), [teleport](/Mechanics/CLI/spells/teleport-xphb.md)
 
-**1/day each:** [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md), [greater invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md)
+**1/day each:** [dominate monster](/Mechanics/CLI/spells/dominate-monster-xphb.md), [greater invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md)
 
 ## Bonus Actions
 
@@ -102,24 +117,28 @@ Legendary Action Uses: 3. Immediately after another creature's turn, Graz'zt can
 
 ***Attack.*** Graz'zt makes one Wave of Sorrow attack.
 
-***Dance, My Puppet!.*** One creature [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
+***Dance, My Puppet!.*** One creature [charmed](/Mechanics/CLI/conditions.md#Charmed) by Graz'zt that Graz'zt can see must use its reaction to move up to its speed as Graz'zt directs.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), Graz'zt can take one of the following lair actions; he can't take the same lair action two rounds in a row:
 
 - **Command.** Graz'zt casts the command spell on every creature of his choice in the lair. He needn't see each one, but he must be aware that an individual is in the lair to target that creature. He issues the same command to all the targets.  
-- **Conjure Mirrors.** Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide.  
+- **Conjure Mirrors.** Smooth surfaces within the lair become as reflective as a polished mirror. Until a different lair action is used, creatures within the lair have disadvantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide.  
 
 ## Regional Effects
 
 The region containing Graz'zt's lair is warped by his magic, creating one or more of the following effects:
 
 - **Agitated Beasts.** Wild beasts within 6 miles of the lair break into frequent conflicts and coupling, mirroring the behavior that occurs during their mating seasons.  
-- **Beguiling Realm.** Within 6 miles of the lair, all Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) checks have disadvantage, and all Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) and Charisma ([Persuasion](Mechanics/CLI/rules/skills.md#Persuasion)) checks have advantage.  
+- **Beguiling Realm.** Within 6 miles of the lair, all Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) checks have disadvantage, and all Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) and Charisma ([Persuasion](/Mechanics/CLI/skills.md#Persuasion)) checks have advantage.  
 - **Mirrors Everywhere.** Flat surfaces within 1 mile of the lair that are made of stone or metal become highly reflective, as though polished to a shine. These surfaces become supernaturally mirrorlike.  
 
 If Graz'zt dies, these effects fade over the course of `1d10` days.
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 148_

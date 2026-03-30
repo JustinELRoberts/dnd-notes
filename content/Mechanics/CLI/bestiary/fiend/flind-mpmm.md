@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Flind
-created: 2026-03-09T12:15:33.794-04:00
-modified: 2026-03-09T12:15:33.794-04:00
-published: 2026-03-09T12:15:33.794-04:00
+created: 2026-03-29T21:53:55.577-04:00
+modified: 2026-03-29T21:53:55.577-04:00
+published: 2026-03-29T21:53:55.577-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Flind (MPMM)
+ac: 16
+hp: 127
+modifier: 2
+hit_dice: 15d8 + 60
+cr: "9"
+stats:
+  - 20
+  - 14
+  - 19
+  - 11
+  - 13
+  - 12
+source:
+  - MPMM
+  - VGM
 ---
 
 # Flind
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153_\
 ![](Mechanics/CLI/bestiary/fiend/img/flind.webp#right)
-
 When the demon lord Yeenoghu wants to create a particularly fearsome war band leader, he transforms an exceptionally strong and vicious gnoll into a demonic warrior known as a flind.
 
 A war band of demon-worshiping gnolls typically contains only one flind, and that creature sets the war band's path. Because of its special connection to Yeenoghu, a flind uses demonic insight to guide the gnolls toward weak prey ripe for slaughter.
@@ -32,11 +48,11 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 
 ```ad-statblock
 title: Flind
-![](Mechanics/CLI/bestiary/fiend/token/flind-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/flind-mpmm.webp#token)
 *Medium fiend (gnoll), Typically  Chaotic Evil*
 
-- **Armor Class** 16 ([breastplate](Mechanics/CLI/items/breastplate-xphb.md))
-- **Hit Points** 127 (`15d8 + 60`) 
+- **Armor Class** 16 ([breastplate](/Mechanics/CLI/items/breastplate.md))
+- **Hit Points** 127 (15d8 + 60) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,15 +61,14 @@ title: Flind
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Constitution +8, Wisdom +5
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md)
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** Gnoll, Abyssal
 - **Challenge** 9
 
 ## Traits
 
-***Aura of Blood Thirst.*** If the flind isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), any creature with the Rampage trait can make a Bite attack as a bonus action while within 10 feet of the flind.
+***Aura of Blood Thirst.*** If the flind isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), any creature with the Rampage trait can make a Bite attack as a bonus action while within 10 feet of the flind.
 
 ## Actions
 
@@ -63,7 +78,7 @@ title: Flind
 
 ***Flail of Pain.*** *Melee Weapon Attack:* `+9` to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage plus 16 (`3d10`) psychic damage.
 
-***Flail of Paralysis.*** *Melee Weapon Attack:* `+9` to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) until the end of its next turn.
+***Flail of Paralysis.*** *Melee Weapon Attack:* `+9` to hit, reach 10 ft., one target. *Hit:* 10 (`1d10 + 5`) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) until the end of its next turn.
 
 ***Longbow.*** *Ranged Weapon Attack:* `+6` to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 ```
@@ -73,3 +88,7 @@ title: Flind
 ## Environment
 
 coastal, forest, grassland, hill
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 127, Volo's Guide to Monsters p. 153_

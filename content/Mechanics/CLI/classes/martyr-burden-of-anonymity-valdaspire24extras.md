@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Anonymity
-created: 2026-03-09T12:15:33.777-04:00
-modified: 2026-03-09T12:15:33.778-04:00
-published: 2026-03-09T12:15:33.778-04:00
+created: 2026-03-29T21:53:55.560-04:00
+modified: 2026-03-29T21:53:55.560-04:00
+published: 2026-03-29T21:53:55.560-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/martyr/anonymity
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Anonymity
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,34 +62,34 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Disguise Self](Mechanics/CLI/spells/disguise-self-xphb.md), [Expeditious Retreat](Mechanics/CLI/spells/expeditious-retreat-xphb.md) |
-| 5 | [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [Silence](Mechanics/CLI/spells/silence-xphb.md) |
-| 9 | [Sending](Mechanics/CLI/spells/sending-xphb.md), Word of Transience |
-| 13 | [Arcane Eye](Mechanics/CLI/spells/arcane-eye-xphb.md), [Greater Invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md) |
-| 17 | [Modify Memory](Mechanics/CLI/spells/modify-memory-xphb.md), [Passwall](Mechanics/CLI/spells/passwall-xphb.md) |
+| 3 | [Disguise Self](/Mechanics/CLI/spells/disguise-self-xphb.md), [Expeditious Retreat](/Mechanics/CLI/spells/expeditious-retreat-xphb.md) |
+| 5 | [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [Silence](/Mechanics/CLI/spells/silence-xphb.md) |
+| 9 | [Sending](/Mechanics/CLI/spells/sending-xphb.md), Word of Transience |
+| 13 | [Arcane Eye](/Mechanics/CLI/spells/arcane-eye-xphb.md), [Greater Invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md) |
+| 17 | [Modify Memory](/Mechanics/CLI/spells/modify-memory-xphb.md), [Passwall](/Mechanics/CLI/spells/passwall-xphb.md) |
 ^anonymity-spells
 
 ### Bonus Proficiencies (Level 3)
 
-You gain proficiency in the [Stealth](Mechanics/CLI/rules/skills.md#Stealth) skill and with [Thieves' Tools](Mechanics/CLI/items/thieves-tools-xphb.md).
+You gain proficiency in the [Stealth](/Mechanics/CLI/skills.md#Stealth) skill and with [Thieves' Tools](/Mechanics/CLI/items/thieves-tools-xphb.md).
 
 ### Fade from View (Level 3)
 
-When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can give yourself the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the end of your next turn. This condition ends early if you make an attack roll, deal damage, or cast a spell.
+When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can give yourself the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition until the end of your next turn. This condition ends early if you make an attack roll, deal damage, or cast a spell.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage. This damage ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage. This damage ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
 ### Silent Sacrifice (Level 6)
 
-When you make an attack or damage roll that is improved by your Sacrifice feature against a target that can't see you, you don't take Radiant damage from using the feature and the target is magically silenced on a hit. Until the start of your next turn, the target can't speak, has the [Deafened](Mechanics/CLI/rules/conditions.md#Deafened) condition, and can't cast any spell that includes a Verbal component.
+When you make an attack or damage roll that is improved by your Sacrifice feature against a target that can't see you, you don't take Radiant damage from using the feature and the target is magically silenced on a hit. Until the start of your next turn, the target can't speak, has the [Deafened](/Mechanics/CLI/conditions.md#Deafened) condition, and can't cast any spell that includes a Verbal component.
 
 ### False Martyrdom (Level 14)
 
-When you take damage or use your Undying Conviction, you can convincingly fake your death. You teleport up to a known location within 10 miles of you at the same time that a duplicate corpse appears to take your place. The corpse is indistinguishable from you and wears nonmagical duplicates of your clothing and equipment. You can choose for the corpse to realistically bleed, mutter incoherently, and breathe shallowly for up to a minute. The corpse is unaffected by spells and other magical effects. The corpse and its clothing and equipment vanish after 10 days, or when you dismiss it as a [Magic](Mechanics/CLI/rules/actions.md#Magic) action or use this feature again.
+When you take damage or use your Undying Conviction, you can convincingly fake your death. You teleport up to a known location within 10 miles of you at the same time that a duplicate corpse appears to take your place. The corpse is indistinguishable from you and wears nonmagical duplicates of your clothing and equipment. You can choose for the corpse to realistically bleed, mutter incoherently, and breathe shallowly for up to a minute. The corpse is unaffected by spells and other magical effects. The corpse and its clothing and equipment vanish after 10 days, or when you dismiss it as a [Magic](/Mechanics/CLI/actions.md#Magic) action or use this feature again.
 
 Furthermore, if you covertly notify the GM, you can also convince other players of your death. You can roll Death Saving Throws as normal, ignoring successes, temporarily prepare a new character sheet, and so on.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 > [!note] Cheating Death
 >
@@ -101,6 +100,10 @@ Once you use this feature, you can't use it again until you finish a [Long Rest]
 
 Your skill at remaining unseen grants you the following benefits.
 
-**Elusive Invisibility.** While you have the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws.
+**Elusive Invisibility.** While you have the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws.
 
-**Swift Disappearance.** You can cast [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) and [Greater Invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md) as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). You take half the normal Radiant damage from casting these spells.
+**Swift Disappearance.** You can cast [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) and [Greater Invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md) as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md). You take half the normal Radiant damage from casting these spells.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-09T12:15:34.142-04:00
-modified: 2026-03-09T12:15:34.142-04:00
-published: 2026-03-09T12:15:34.142-04:00
+created: 2026-03-29T21:53:56.194-04:00
+modified: 2026-03-29T21:53:56.195-04:00
+published: 2026-03-29T21:53:56.195-04:00
 cssclasses:
   - json5e-note
   - json5e-index
@@ -37,6 +37,7 @@ obsidianUIMode: preview
 - [Brass Dragon Wyrmling](./brass-dragon-wyrmling.md)
 - [Bronze Dragon Wyrmling](./bronze-dragon-wyrmling.md)
 - [Copper Dragon Wyrmling](./copper-dragon-wyrmling.md)
+- [Draconic Spirit ({{resist}})](./draconic-spirit-resist-xphb.md)
 - [Draconic Spirit](./draconic-spirit-xphb.md)
 - [Dragon Turtle](./dragon-turtle.md)
 - [Faerie Dragon (Blue)](./faerie-dragon-blue.md)

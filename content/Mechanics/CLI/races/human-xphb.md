@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Human
-created: 2026-03-09T12:15:33.887-04:00
-modified: 2026-03-09T12:15:33.887-04:00
-published: 2026-03-09T12:15:33.887-04:00
+created: 2026-03-29T21:53:55.885-04:00
+modified: 2026-03-29T21:53:55.885-04:00
+published: 2026-03-29T21:53:55.885-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/race/human
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Human
 
-_Source: Player's Handbook (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/races/img/human.webp#right)
 
 - **Ability Scores**: None
@@ -27,7 +26,7 @@ _Source: Player's Handbook (2024) p. 194. Available in the <span title='Systems 
 
 ### Resourceful
 
-You gain [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You gain [Heroic Inspiration](/Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Skillful
 
@@ -42,3 +41,7 @@ You gain an Origin feat of your choice.
 Found throughout the multiverse, humans are as varied as they are numerous, and they endeavor to achieve as much as they can in the years they are given. Their ambition and resourcefulness are commended, respected, and feared on many worlds.
 
 Humans are as diverse in appearance as the people of Earth, and they have many gods. Scholars dispute the origin of humanity, but one of the earliest known human gatherings is said to have occurred in Sigil, the torus-shaped city at the center of the multiverse and the place where the Common language was born. From there, humans could have spread to every part of the multiverse, bringing the City of Doors' cosmopolitanism with them.
+
+## Sources
+
+_Player's Handbook (2024) p. 194. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

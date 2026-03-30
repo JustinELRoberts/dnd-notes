@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Red Magic
-created: 2026-03-09T12:15:33.957-04:00
-modified: 2026-03-09T12:15:33.957-04:00
-published: 2026-03-09T12:15:33.957-04:00
+created: 2026-03-29T21:53:55.960-04:00
+modified: 2026-03-29T21:53:55.960-04:00
+published: 2026-03-29T21:53:55.960-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/witch/red
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Red Magic
 
-_[Witch](./witch-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Witch](./witch-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,30 +62,34 @@ When you reach a Witch level specified in the Red Magic Spells table, you therea
 
 | Witch Level | Spells |
 |-------------|--------|
-| 3 | [Burning Hands](Mechanics/CLI/spells/burning-hands-xphb.md), [Dragon's Breath](Mechanics/CLI/spells/dragons-breath-xphb.md), [Hex: Imperil](Mechanics/CLI/spells/hex-imperil-valdaspire24.md), [Magic Missile](Mechanics/CLI/spells/magic-missile-xphb.md), [Scorching Ray](Mechanics/CLI/spells/scorching-ray-xphb.md) |
-| 5 | [Fireball](Mechanics/CLI/spells/fireball-xphb.md), [Protection From Energy](Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 7 | [Ice Storm](Mechanics/CLI/spells/ice-storm-xphb.md), [Wall of Fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 9 | [Cone of Cold](Mechanics/CLI/spells/cone-of-cold-xphb.md), [Telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md) |
+| 3 | [Burning Hands](/Mechanics/CLI/spells/burning-hands-xphb.md), [Dragon's Breath](/Mechanics/CLI/spells/dragons-breath-xphb.md), [Hex: Imperil](/Mechanics/CLI/spells/hex-imperil-valdaspire24.md), [Magic Missile](/Mechanics/CLI/spells/magic-missile-xphb.md), [Scorching Ray](/Mechanics/CLI/spells/scorching-ray-xphb.md) |
+| 5 | [Fireball](/Mechanics/CLI/spells/fireball-xphb.md), [Protection From Energy](/Mechanics/CLI/spells/protection-from-energy-xphb.md) |
+| 7 | [Ice Storm](/Mechanics/CLI/spells/ice-storm-xphb.md), [Wall of Fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md) |
+| 9 | [Cone of Cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md), [Telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md) |
 ^red-magic-spells
 
 ### Imperil (Level 3)
 
-You gain the [Hex: Imperil](Mechanics/CLI/spells/hex-imperil-valdaspire24.md) cantrip. This cantrip is exclusive to this subclass.
+You gain the [Hex: Imperil](/Mechanics/CLI/spells/hex-imperil-valdaspire24.md) cantrip. This cantrip is exclusive to this subclass.
 
 ### Convolute Energy (Level 6)
 
 When a creature you can see within 60 feet of yourself deals Acid, Cold, Fire, Lightning, or Thunder damage to one or more creatures, you can change that damage type to one of the other listed types (no action required).
 
-You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Invulnerability (Level 10)
 
-When a creature that you can see hits you with an attack, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to reduce the damage you take from the attack by 50, to a minimum of 0.
+When a creature that you can see hits you with an attack, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to reduce the damage you take from the attack by 50, to a minimum of 0.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 4+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 4+ spell slot (no action required).
 
 ### Elemental Annihilation (Level 14)
 
 When you cast a level 1+ Witch spell that deals Acid, Cold, Fire, Lightning, or Thunder damage, you can expend another spell slot of equal or higher level to deal maximum damage with that spell on the turn you cast it.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

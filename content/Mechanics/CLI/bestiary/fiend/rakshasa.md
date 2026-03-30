@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rakshasa
-created: 2026-03-09T12:15:33.793-04:00
-modified: 2026-03-09T12:15:33.793-04:00
-published: 2026-03-09T12:15:33.793-04:00
+created: 2026-03-29T21:53:55.575-04:00
+modified: 2026-03-29T21:53:55.575-04:00
+published: 2026-03-29T21:53:55.575-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/13
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Rakshasa
+ac: 16
+hp: 110
+modifier: 3
+hit_dice: 13d8 + 52
+cr: "13"
+stats:
+  - 14
+  - 17
+  - 18
+  - 13
+  - 16
+  - 20
+source:
+  - MM
 ---
 
 # Rakshasa
 
-_Source: Monster Manual p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/rakshasa.webp#right)
-
 The rakshasa employs delicacy and misdirection in its pursuit of dominion over others. Few creatures ever see the fiend in its true form, for it can take on any guise it wants, although it prefers to masquerade as someone powerful or influential: a noble, cardinal, or rich merchant, for example. A rakshasa's true form combines the features of a human and a tiger, with one noteworthy deformity: its palms are where the backs of the hands would be on a human.
 
 ## Evil Spirits in Mortal Flesh
@@ -45,11 +60,11 @@ Like devils, rakshasas killed in the Nine Hells are forever destroyed.
 
 ```ad-statblock
 title: Rakshasa
-![](Mechanics/CLI/bestiary/fiend/token/rakshasa.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/rakshasa.webp#token)
 *Medium fiend, Lawful Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 110 (`13d8 + 52`) 
+- **Hit Points** 110 (13d8 + 52) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,8 +73,8 @@ title: Rakshasa
 
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +10, [Insight](Mechanics/CLI/rules/skills.md#Insight) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +10, [Insight](/Mechanics/CLI/skills.md#Insight) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 - **Damage Immunities** bludgeoning, piercing, slashing from nonmagical attacks
 - **Languages** Common, Infernal
@@ -69,11 +84,11 @@ title: Rakshasa
 
 ***Innate Spellcasting.*** The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, `+10` to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
-**At will:** [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 
-**3/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [major image](Mechanics/CLI/spells/major-image-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**3/day each:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [major image](/Mechanics/CLI/spells/major-image-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
-**1/day each:** [dominate person](Mechanics/CLI/spells/dominate-person-xphb.md), [fly](Mechanics/CLI/spells/fly-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [true seeing](Mechanics/CLI/spells/true-seeing-xphb.md)
+**1/day each:** [dominate person](/Mechanics/CLI/spells/dominate-person-xphb.md), [fly](/Mechanics/CLI/spells/fly-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [true seeing](/Mechanics/CLI/spells/true-seeing-xphb.md)
 
 ***Limited Magic Immunity.*** The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 
@@ -81,7 +96,7 @@ title: Rakshasa
 
 ***Multiattack.*** The rakshasa makes two claw attacks.
 
-***Claw.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 9 (`2d6 + 2`) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
+***Claw.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 9 (`2d6 + 2`) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md) spell or similar magic.
 ```
 
 ^statblock
@@ -89,3 +104,7 @@ title: Rakshasa
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 257. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

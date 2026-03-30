@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Nightgaunt
-created: 2026-03-09T12:15:33.954-04:00
-modified: 2026-03-09T12:15:33.954-04:00
-published: 2026-03-09T12:15:33.954-04:00
+created: 2026-03-29T21:53:55.956-04:00
+modified: 2026-03-29T21:53:55.956-04:00
+published: 2026-03-29T21:53:55.956-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warden/nightgaunt
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Nightgaunt
 
-_[Warden](./warden-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warden](./warden-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -61,30 +60,34 @@ You felt the calling of the moon bringing you to the graveside of living corpses
 
 ### Death's Gambit (Level 3)
 
-When you deal damage to an enemy targeted by the Challenge option of your Guardian Tactics, it may die instantly. If the enemy has fewer [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) than twice your Warden level after taking damage, it drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+When you deal damage to an enemy targeted by the Challenge option of your Guardian Tactics, it may die instantly. If the enemy has fewer [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) than twice your Warden level after taking damage, it drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 ### Grave Keeper (Level 3)
 
 Your affinity for the Undead grants you the following benefits.
 
-**Darkvision.** You gain [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
+**Darkvision.** You gain [Darkvision](/Mechanics/CLI/senses.md#Darkvision) with a range of 60 feet. If you already have [Darkvision](/Mechanics/CLI/senses.md#Darkvision) when you gain this feature, its range increases by 60 feet.
 
-**Necrotic Resistance.** You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Necrotic damage.
+**Necrotic Resistance.** You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Necrotic damage.
 
-**Undead Empathy.** Whenever an Undead creature attacks you, it makes a Wisdom saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, its attack misses.
+**Undead Empathy.** Whenever an Undead creature attacks you, it makes a Wisdom saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, its attack misses.
 
 ### Innate Necromancy (Level 6)
 
-You can cast any of the following spells once without a spell slot: [Darkness](Mechanics/CLI/spells/darkness-xphb.md), [False Life](Mechanics/CLI/spells/false-life-xphb.md), [Gentle Repose](Mechanics/CLI/spells/gentle-repose-xphb.md), and [Speak with Dead](Mechanics/CLI/spells/speak-with-dead-xphb.md). Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this feature (choose the ability when you cast the spell). Once you cast a spell using this feature, you regain the ability to cast it in this way when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can cast any of the following spells once without a spell slot: [Darkness](/Mechanics/CLI/spells/darkness-xphb.md), [False Life](/Mechanics/CLI/spells/false-life-xphb.md), [Gentle Repose](/Mechanics/CLI/spells/gentle-repose-xphb.md), and [Speak with Dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md). Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this feature (choose the ability when you cast the spell). Once you cast a spell using this feature, you regain the ability to cast it in this way when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Undying (Level 10)
 
-You can use your Survive three times and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use your Survive three times and regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Gravelord (Level 17)
 
-You can invite necromantic energies into your body. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can invite necromantic energies into your body. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can gain the benefits below for 1 minute or until you choose to end them (no action required). Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Frightful Aura.** You emit an aura of terror in a 15-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself. Whenever an enemy starts its turn in the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md), it must succeed on a Wisdom saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](Mechanics/CLI/rules/actions.md#Attack) rolls against the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+**Frightful Aura.** You emit an aura of terror in a 15-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from yourself. Whenever an enemy starts its turn in the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md), it must succeed on a Wisdom saving throw (DC 8 plus your Constitution modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)) or have the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for 1 minute or until it takes any damage. [Attack](/Mechanics/CLI/actions.md#Attack) rolls against the [Frightened](/Mechanics/CLI/conditions.md#Frightened) creature have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md).
 
-**Vampiric Strike.** As a part of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast cast [Vampiric Touch](Mechanics/CLI/spells/vampiric-touch-xphb.md) as a without a spell slot as a level 5 spell. When you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can replace one of your attacks with making the spell's melee spell attack.
+**Vampiric Strike.** As a part of the [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) you take to use this feature, you cast cast [Vampiric Touch](/Mechanics/CLI/spells/vampiric-touch-xphb.md) as a without a spell slot as a level 5 spell. When you take the [Attack](/Mechanics/CLI/actions.md#Attack) action, you can replace one of your attacks with making the spell's melee spell attack.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

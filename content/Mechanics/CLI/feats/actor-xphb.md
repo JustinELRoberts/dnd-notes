@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Actor
-created: 2026-03-09T12:15:33.902-04:00
-modified: 2026-03-09T12:15:33.902-04:00
-published: 2026-03-09T12:15:33.902-04:00
+created: 2026-03-29T21:53:55.900-04:00
+modified: 2026-03-29T21:53:55.900-04:00
+published: 2026-03-29T21:53:55.900-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Charisma score by 1, to a maximum of 20.
 
-**Impersonation.** While you're disguised as a real or fictional person, you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception) or [Performance](Mechanics/CLI/rules/skills.md#Performance)) checks to convince others that you are that person.
+**Impersonation.** While you're disguised as a real or fictional person, you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on Charisma ([Deception](/Mechanics/CLI/skills.md#Deception) or [Performance](/Mechanics/CLI/skills.md#Performance)) checks to convince others that you are that person.
 
-**Mimicry.** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check to determine the effect is faked (DC 8 plus your Charisma modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)).
+**Mimicry.** You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check to determine the effect is faked (DC 8 plus your Charisma modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)).
 
 ## Sources
 

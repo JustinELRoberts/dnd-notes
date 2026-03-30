@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Dominate Monster
-created: 2026-03-09T12:15:33.846-04:00
-modified: 2026-03-09T12:15:33.846-04:00
-published: 2026-03-09T12:15:33.846-04:00
+created: 2026-03-29T21:53:55.635-04:00
+modified: 2026-03-29T21:53:55.635-04:00
+published: 2026-03-29T21:53:55.635-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
@@ -17,11 +18,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Sorcerer
-  - Warlock
-  - Wizard
 ---
 
 # Dominate Monster
@@ -33,14 +29,23 @@ _8th-level, Enchantment_
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 hour
 
-One creature you can see within range must succeed on a Wisdom saving throw or have the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) condition for the duration. The target has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
+One creature you can see within range must succeed on a Wisdom saving throw or have the [Charmed](/Mechanics/CLI/conditions.md#Charmed) condition for the duration. The target has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
 
-You have a telepathic link with the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "[Attack](Mechanics/CLI/rules/actions.md#Attack) that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
+You have a telepathic link with the [Charmed](/Mechanics/CLI/conditions.md#Charmed) target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "[Attack](/Mechanics/CLI/actions.md#Attack) that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
 
-You can command the target to take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) but must take your own [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to do so.
+You can command the target to take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) but must take your own [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to do so.
 
-**Using a Higher-Level Spell Slot.** Your [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) can last longer with a level 9 spell slot (up to 8 hours).
+**Using a Higher-Level Spell Slot.** Your [Concentration](/Mechanics/CLI/conditions.md#Concentration) can last longer with a level 9 spell slot (up to 8 hours).
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 265. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

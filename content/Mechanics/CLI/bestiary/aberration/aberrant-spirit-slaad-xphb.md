@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Aberrant Spirit (Slaad)
-created: 2026-03-09T12:15:33.942-04:00
-modified: 2026-03-09T12:15:33.942-04:00
-published: 2026-03-09T12:15:33.942-04:00
+created: 2026-03-29T21:53:55.943-04:00
+modified: 2026-03-29T21:53:55.943-04:00
+published: 2026-03-29T21:53:55.943-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Aberrant Spirit (Slaad) (XPHB)
+modifier: 0
+stats:
+  - 16
+  - 10
+  - 15
+  - 16
+  - 10
+  - 6
+source:
+  - XPHB
 ---
 
 # Aberrant Spirit (Slaad)
-
-_Source: Player's Handbook (2024) p. 322_
 
 ```ad-statblock
 title: Aberrant Spirit (Slaad)
@@ -34,7 +45,7 @@ title: Aberrant Spirit (Slaad)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** psychic
 - **Languages** Deep Speech, understands the languages you know
 - **Challenge** 
@@ -51,3 +62,7 @@ title: Aberrant Spirit (Slaad)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 322_

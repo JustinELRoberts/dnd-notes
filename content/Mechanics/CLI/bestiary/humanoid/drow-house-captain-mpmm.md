@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Drow House Captain
-created: 2026-03-09T12:15:34.092-04:00
-modified: 2026-03-09T12:15:34.092-04:00
-published: 2026-03-09T12:15:34.092-04:00
+created: 2026-03-29T21:53:56.123-04:00
+modified: 2026-03-29T21:53:56.123-04:00
+published: 2026-03-29T21:53:56.123-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -14,11 +14,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Drow House Captain (MPMM)
+ac: 16
+hp: 162
+modifier: 4
+hit_dice: 25d8 + 50
+cr: "9"
+stats:
+  - 14
+  - 19
+  - 15
+  - 12
+  - 14
+  - 13
+source:
+  - MPMM
 ---
 
 # Drow House Captain
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 101_\
 ![](Mechanics/CLI/bestiary/humanoid/img/drow-house-captain.webp#right)
 
 > [!quote] A quote from Tasha
@@ -31,11 +47,11 @@ Among Lolth's devotees in the city of Menzoberranzan in the Forgotten Realms, ea
 
 ```ad-statblock
 title: Drow House Captain
-![](Mechanics/CLI/bestiary/humanoid/token/drow-house-captain-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/drow-house-captain-mpmm.webp#token)
 *Medium humanoid (Drow elf), Any alignment*
 
-- **Armor Class** 16 ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md))
-- **Hit Points** 162 (`25d8 + 50`) 
+- **Armor Class** 16 ([chain mail](/Mechanics/CLI/items/chain-mail.md))
+- **Hit Points** 162 (25d8 + 50) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,17 +60,16 @@ title: Drow House Captain
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +8, Constitution +6, Wisdom +6
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
-- **Gear** [hand crossbow](Mechanics/CLI/items/hand-crossbow-xphb.md), [scimitar](Mechanics/CLI/items/scimitar-xphb.md), [whip](Mechanics/CLI/items/whip-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Languages** Elvish, Undercommon
 - **Challenge** 9
 
 ## Traits
 
-***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and magic can't put the drow to sleep.
+***Fey Ancestry.*** The drow has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed), and magic can't put the drow to sleep.
 
-***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -64,17 +79,17 @@ title: Drow House Captain
 
 ***Whip.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 6 (`1d4 + 4`) slashing damage.
 
-***Hand Crossbow.*** *Ranged Weapon Attack:* `+8` to hit, range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) while [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
+***Hand Crossbow.*** *Ranged Weapon Attack:* `+8` to hit, range 30/120 ft., one target. *Hit:* 7 (`1d6 + 4`) piercing damage, and the target must succeed on a DC 13 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 hour. If the saving throw fails by 5 or more, the target is also [unconscious](/Mechanics/CLI/conditions.md#Unconscious) while [poisoned](/Mechanics/CLI/conditions.md#Poisoned) in this way. The target regains consciousness if it takes damage or if another creature takes an action to shake it.
 
 ***Spellcasting.*** The drow casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 13):
 
-**At will:** [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md)
+**At will:** [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md)
 
-**1/day each:** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](Mechanics/CLI/spells/levitate-xphb.md) (self only)
+**1/day each:** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [faerie fire](/Mechanics/CLI/spells/faerie-fire-xphb.md), [levitate](/Mechanics/CLI/spells/levitate-xphb.md) (self only)
 
 ## Bonus Actions
 
-***Battle Command.*** Choose one creature within 30 feet of the drow that the drow can see. If the chosen creature can see or hear the drow, that creature can use its reaction to make one melee attack or to take the [Dodge](Mechanics/CLI/rules/actions.md#Dodge) or [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
+***Battle Command.*** Choose one creature within 30 feet of the drow that the drow can see. If the chosen creature can see or hear the drow, that creature can use its reaction to make one melee attack or to take the [Dodge](/Mechanics/CLI/actions.md#Dodge) or [Hide](/Mechanics/CLI/actions.md#Hide) action.
 
 ## Reactions
 
@@ -86,3 +101,7 @@ title: Drow House Captain
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 101_

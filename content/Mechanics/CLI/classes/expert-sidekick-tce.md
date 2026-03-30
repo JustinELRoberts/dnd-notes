@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Expert Sidekick
-created: 2026-03-09T12:15:34.057-04:00
-modified: 2026-03-09T12:15:34.057-04:00
-published: 2026-03-09T12:15:34.057-04:00
+created: 2026-03-29T21:53:56.075-04:00
+modified: 2026-03-29T21:53:56.075-04:00
+published: 2026-03-29T21:53:56.075-04:00
 tags:
   - ttrpg-cli/class/expert-sidekick
   - ttrpg-cli/compendium/src/5e/tce
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Expert Sidekick
-
-_Source: Tasha's Cauldron of Everything p. 142_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,15 +46,15 @@ _Source: Tasha's Cauldron of Everything p. 142_
 
 ^class-progression
 
-![Experts, Left to Right: a ...](Mechanics/CLI/classes/img/expert-sidekick.webp#right "Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku")
-
 ## Hit Points
+
+![Experts, Left to Right: a ...](Mechanics/CLI/classes/img/expert-sidekick.webp#right "Experts, Left to Right: a Tortle, a Winged Kobold, and a Kenku")
 
 - **Hit Dice**: _x_ = hit dice specified in the sidekick's statblock (human, gnome, kobold, etc.)
 - **Hit Points at First Level:** _x_ + CON
 - **Hit Points at Higher Levels:** add 1&#x64;_&#x78;_ + CON (minimum of 1)
 
-## Starting Expert Sidekick
+## Starting a Expert Sidekick
 
 - **Saving Throws**: One saving throw of your choice: Dexterity, Intelligence, or Charisma.
 - **Armor**: Light armor
@@ -75,7 +73,7 @@ The Expert is a master of certain tasks or knowledge, favoring cunning over braw
 To gain the Expert class, a creature must have at least one language in its stat block that it can speak.
 
 > [!note]
-> Note: this class is intended for NPC [sidekicks](Mechanics/CLI/rules/variant-rules/sidekicks-tce.md).
+> Note: this class is intended for NPC [sidekicks](/Mechanics/CLI/variant-rules/sidekicks-tce.md).
 
 ### Bonus Proficiencies (Level 1)
 
@@ -89,13 +87,13 @@ In addition, the sidekick gains proficiency in five skills of your choice, and i
 
 _1st-level Expert feature_
 
-The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](Mechanics/CLI/rules/actions.md#Help) action as a bonus action.
+The sidekick is adept at giving well-timed assistance; the sidekick can take the [Help](/Mechanics/CLI/actions.md#Help) action as a bonus action.
 
 ### Cunning Action (Level 2)
 
 _2nd-level Expert feature_
 
-The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or [Hide](Mechanics/CLI/rules/actions.md#Hide) action as a bonus action.
+The sidekick's agility or quick thinking allows it to act speedily. On its turn in combat, it can take the [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), or [Hide](/Mechanics/CLI/actions.md#Hide) action as a bonus action.
 
 ### Expertise (Level 3)
 
@@ -123,7 +121,7 @@ The sidekick is adept at fighting in concert with a companion. When the sidekick
 
 _7th-level Expert feature_
 
-Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+Because of extraordinary good luck, the sidekick is skilled at avoiding danger. When the sidekick is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it failed. The sidekick doesn't benefit from this feature while [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ### Ability Score Improvement (Level 8)
 
@@ -145,7 +143,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 
 _11th-level Expert feature_
 
-When the sidekick takes the [Help](Mechanics/CLI/rules/actions.md#Help) action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
+When the sidekick takes the [Help](/Mechanics/CLI/actions.md#Help) action, the creature who receives the help also gains a `1d6` bonus to the `d20` roll. If that roll is an attack roll, the creature can forgo adding the bonus to it, and then if the attack hits, the creature can add the bonus to the attack's damage roll against one target.
 
 At 20th level, the bonus increases to `2d6`.
 
@@ -196,3 +194,7 @@ If your DM allows the use of feats, the sidekick may instead take a feat.
 _20th-level Expert feature_
 
 At 20th level, the bonus dice granted by the sidekick's Inspiring Help increases to `2d6`.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 142_

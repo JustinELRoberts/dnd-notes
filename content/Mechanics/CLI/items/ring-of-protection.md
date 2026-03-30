@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ring of Protection
-created: 2026-03-09T12:15:34.127-04:00
-modified: 2026-03-09T12:15:34.127-04:00
-published: 2026-03-09T12:15:34.127-04:00
+created: 2026-03-29T21:53:56.170-04:00
+modified: 2026-03-29T21:53:56.170-04:00
+published: 2026-03-29T21:53:56.170-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -21,6 +21,11 @@ obsidianUIMode: preview
 _Ring, major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/ring-of-protection.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You gain a +1 bonus to AC and saving throws while wearing this ring.
 
-_Source: Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+## Sources
+
+_Dungeon Master's Guide p. 191. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

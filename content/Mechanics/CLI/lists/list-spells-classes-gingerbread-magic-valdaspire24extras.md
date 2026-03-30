@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Gingerbread Magic
-created: 2026-03-09T12:15:34.429-04:00
-modified: 2026-03-09T12:15:34.429-04:00
-published: 2026-03-09T12:15:34.429-04:00
+created: 2026-03-29T21:53:56.529-04:00
+modified: 2026-03-29T21:53:56.529-04:00
+published: 2026-03-29T21:53:56.529-04:00
 tags:
   - ttrpg-cli/spell/list/subclass/gingerbread-magic
 cssclasses:
@@ -16,28 +16,28 @@ obsidianUIMode: preview
 
 ## Cantrip
 
-- [Hex: Sweet Tooth](Mechanics/CLI/spells/hex-sweet-tooth-valdaspire24.md "ValdaSpire24") at class level 9
+- [Hex: Sweet Tooth](/Mechanics/CLI/spells/hex-sweet-tooth-valdaspire24.md "ValdaSpire24") at class level 9
 
 ## 1st Level
 
-- [Tasha's Hideous Laughter](Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 9
+- [Tasha's Hideous Laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md "XPHB") at class level 9
 
 ## 2nd Level
 
-- [Arcane Lock](Mechanics/CLI/spells/arcane-lock-xphb.md "XPHB") at class level 9
-- [Enhance Ability](Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB") at class level 9
+- [Arcane Lock](/Mechanics/CLI/spells/arcane-lock-xphb.md "XPHB") at class level 9
+- [Enhance Ability](/Mechanics/CLI/spells/enhance-ability-xphb.md "XPHB") at class level 9
 
 ## 3rd Level
 
-- [Create Food and Water](Mechanics/CLI/spells/create-food-and-water-xphb.md "XPHB") at class level 9
-- [Leomund's Tiny Hut](Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 9
+- [Create Food and Water](/Mechanics/CLI/spells/create-food-and-water-xphb.md "XPHB") at class level 9
+- [Leomund's Tiny Hut](/Mechanics/CLI/spells/leomunds-tiny-hut-xphb.md "XPHB") at class level 9
 
 ## 4th Level
 
-- [Confusion](Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 9
-- [Hallucinatory Terrain](Mechanics/CLI/spells/hallucinatory-terrain-xphb.md "XPHB") at class level 9
+- [Confusion](/Mechanics/CLI/spells/confusion-xphb.md "XPHB") at class level 9
+- [Hallucinatory Terrain](/Mechanics/CLI/spells/hallucinatory-terrain-xphb.md "XPHB") at class level 9
 
 ## 5th Level
 
-- [Animate Objects](Mechanics/CLI/spells/animate-objects-xphb.md "XPHB") at class level 9
-- [Dream](Mechanics/CLI/spells/dream-xphb.md "XPHB") at class level 9
+- [Animate Objects](/Mechanics/CLI/spells/animate-objects-xphb.md "XPHB") at class level 9
+- [Dream](/Mechanics/CLI/spells/dream-xphb.md "XPHB") at class level 9

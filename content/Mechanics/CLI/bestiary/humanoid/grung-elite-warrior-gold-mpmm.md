@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grung Elite Warrior (Gold)
-created: 2026-03-09T12:15:33.808-04:00
-modified: 2026-03-09T12:15:33.808-04:00
-published: 2026-03-09T12:15:33.808-04:00
+created: 2026-03-29T21:53:55.591-04:00
+modified: 2026-03-29T21:53:55.591-04:00
+published: 2026-03-29T21:53:55.591-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -14,18 +14,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Grung Elite Warrior (Gold) (MPMM)
+ac: 13
+hp: 49
+modifier: 3
+hit_dice: 9d6 + 18
+cr: "2"
+stats:
+  - 7
+  - 16
+  - 15
+  - 10
+  - 11
+  - 12
+source:
+  - MPMM
+  - VGM
 ---
 
 # Grung Elite Warrior (Gold)
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_
 
 ```ad-statblock
 title: Grung Elite Warrior (Gold)
 *Small humanoid, Any alignment*
 
 - **Armor Class** 13 
-- **Hit Points** 49 (`9d6 + 18`) 
+- **Hit Points** 49 (9d6 + 18) 
 - **Speed** 25 ft., climb 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -34,11 +50,10 @@ title: Grung Elite Warrior (Gold)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +5
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5, [Survival](Mechanics/CLI/rules/skills.md#Survival) +2
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5, [Survival](/Mechanics/CLI/skills.md#Survival) +2
 - **Senses** passive Perception 12
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md), [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Grung
 - **Challenge** 2
 
@@ -46,11 +61,11 @@ title: Grung Elite Warrior (Gold)
 
 ***Amphibious.*** The grung can breathe air and water.
 
-***Poisonous Skin.*** A creature [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) by a grung suffers an additional effect that depends on the grung's color. This effect lasts until the creature is no longer [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) by the grung. The creature is [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the grung and can speak Grung.
+***Poisonous Skin.*** A creature [poisoned](/Mechanics/CLI/conditions.md#Poisoned) by a grung suffers an additional effect that depends on the grung's color. This effect lasts until the creature is no longer [poisoned](/Mechanics/CLI/conditions.md#Poisoned) by the grung. The creature is [charmed](/Mechanics/CLI/conditions.md#Charmed) by the grung and can speak Grung.
 
 ***Standing Leap.*** The grung's long jump is up to 25 feet and its high jump is up to 15 feet, with or without a running start.
 
-***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
+***Water Dependency.*** If the grung isn't immersed in water for at least 1 hour during a day, it suffers 1 level of [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) at the end of that day. The grung can recover from this [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) only through magic or by immersing itself in water for at least 1 hour.
 
 ## Actions
 
@@ -58,7 +73,7 @@ title: Grung Elite Warrior (Gold)
 
 ***Shortbow.*** *Ranged Weapon Attack:* `+5` to hit, range 80/320 ft., one target. *Hit:* 6 (`1d6 + 3`) piercing damage plus 5 (`2d4`) poison damage.
 
-***Mesmerizing Chirr (Recharge 6).*** The grung makes a chirring noise to which grungs are immune. Each Humanoid or Beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of the grung's next turn.
+***Mesmerizing Chirr (Recharge 6).*** The grung makes a chirring noise to which grungs are immune. Each Humanoid or Beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of the grung's next turn.
 ```
 
 ^statblock
@@ -66,3 +81,7 @@ title: Grung Elite Warrior (Gold)
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 150, Volo's Guide to Monsters p. 157_

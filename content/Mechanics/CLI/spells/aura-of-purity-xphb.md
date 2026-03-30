@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Aura of Purity
-created: 2026-03-09T12:15:33.903-04:00
-modified: 2026-03-09T12:15:33.903-04:00
-published: 2026-03-09T12:15:33.903-04:00
+created: 2026-03-29T21:53:55.902-04:00
+modified: 2026-03-29T21:53:55.902-04:00
+published: 2026-03-29T21:53:55.902-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/paladin
   - ttrpg-cli/spell/feat/mark-of-healing
@@ -21,14 +22,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Battle Smith)
-  - Bard
-  - Cleric
-  - Cleric (Peace Domain)
-  - Paladin
-  - Paladin (Oath of the Watchers)
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Aura of Purity
@@ -40,8 +33,24 @@ _4th-level, Abjuration_
 - **Components:** V
 - **Duration:** Concentration, up to 10 minutes
 
-An aura radiates from you in a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) for the duration. While in the aura, you and your allies have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Poison damage and [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws to avoid or end effects that include the [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Frightened](Mechanics/CLI/rules/conditions.md#Frightened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), or [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) condition.
+An aura radiates from you in a 30-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) for the duration. While in the aura, you and your allies have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Poison damage and [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws to avoid or end effects that include the [Blinded](/Mechanics/CLI/conditions.md#Blinded), [Charmed](/Mechanics/CLI/conditions.md#Charmed), [Deafened](/Mechanics/CLI/conditions.md#Deafened), [Frightened](/Mechanics/CLI/conditions.md#Frightened), [Paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [Poisoned](/Mechanics/CLI/conditions.md#Poisoned), or [Stunned](/Mechanics/CLI/conditions.md#Stunned) condition.
 
-**Classes**: [Artificer (Battle Smith)](Mechanics/CLI/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Peace Domain)](Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin (Oath of the Watchers)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Player's Handbook (2024) p. 244_
+- [Cleric (Peace Domain)](/Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE")
+- [Paladin (Oath of the Watchers)](/Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE")
+- [Artificer (Battle Smith)](/Mechanics/CLI/lists/list-spells-classes-battle-smith-efa.md "subclass=EFA;class=EFA")
+- [Mark of Healing](/Mechanics/CLI/lists/list-spells-feats-mark-of-healing-efa.md)
+- [Cleric (Peace Domain)](/Mechanics/CLI/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE;class=XPHB")
+- [Artificer (Battle Smith)](/Mechanics/CLI/lists/list-spells-classes-battle-smith-tce.md "subclass=TCE;class=TCE")
+- [Mark of Hospitality](/Mechanics/CLI/lists/list-spells-feats-mark-of-hospitality-efa.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Paladin](/Mechanics/CLI/lists/list-spells-classes-paladin.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+
+## Sources
+
+_Player's Handbook (2024) p. 244_

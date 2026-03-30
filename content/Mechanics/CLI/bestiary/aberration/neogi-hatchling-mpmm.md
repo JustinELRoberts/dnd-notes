@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Neogi Hatchling
-created: 2026-03-09T12:15:33.923-04:00
-modified: 2026-03-09T12:15:33.923-04:00
-published: 2026-03-09T12:15:33.923-04:00
+created: 2026-03-29T21:53:55.927-04:00
+modified: 2026-03-29T21:53:55.927-04:00
+published: 2026-03-29T21:53:55.927-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-8
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Neogi Hatchling (MPMM)
+ac: 11
+hp: 7
+modifier: 1
+hit_dice: 3d4
+cr: 1/8
+stats:
+  - 3
+  - 13
+  - 10
+  - 6
+  - 10
+  - 9
+source:
+  - MPMM
+  - VGM
 ---
 
 # Neogi Hatchling
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179_\
 ![](Mechanics/CLI/bestiary/aberration/img/neogi-hatchling.webp#right)
-
 A neogi lives about a century. When an individual is rendered weak by advanced age, the other neogi in the group overpower it and inject it with a special poison. The toxin transforms the old neogi into a bloated mass of flesh. Younger neogi lay their eggs atop it, and when the hatchlings emerge, they devour the old neogi and one another until only a few of the strongest newborns are left. The surviving neogi hatchlings begin their lives under the control of adult neogi. They must learn about their society and earn a place in it, and each one starts its training by gaining mastery over an umber hulk.
 
 ## Neogi
@@ -38,11 +54,11 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 
 ```ad-statblock
 title: Neogi Hatchling
-![](Mechanics/CLI/bestiary/aberration/token/neogi-hatchling-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/neogi-hatchling-mpmm.webp#token)
 *Tiny aberration, Typically  Lawful Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 7 (`3d4`) 
+- **Hit Points** 7 (3d4) 
 - **Speed** 20 ft., climb 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,19 +68,19 @@ title: Neogi Hatchling
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 1/8
 
 ## Traits
 
-***Mental Fortitude.*** The neogi has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened), and magic can't put the neogi to sleep.
+***Mental Fortitude.*** The neogi has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened), and magic can't put the neogi to sleep.
 
 ***Spider Climb.*** The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ## Actions
 
-***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d4 + 1`) piercing damage plus 3 (`1d6`) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Bite.*** *Melee Weapon Attack:* `+3` to hit, reach 5 ft., one target. *Hit:* 3 (`1d4 + 1`) piercing damage plus 3 (`1d6`) poison damage, and the target must succeed on a DC 10 Constitution saving throw or become [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. A target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -72,3 +88,7 @@ title: Neogi Hatchling
 ## Environment
 
 hill, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 191, Volo's Guide to Monsters p. 179_

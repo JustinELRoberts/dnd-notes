@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Piercer
-created: 2026-03-09T12:15:33.836-04:00
-modified: 2026-03-09T12:15:33.836-04:00
-published: 2026-03-09T12:15:33.836-04:00
+created: 2026-03-29T21:53:55.621-04:00
+modified: 2026-03-29T21:53:55.621-04:00
+published: 2026-03-29T21:53:55.621-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Piercer
+ac: 15
+hp: 22
+modifier: 1
+hit_dice: 3d8 + 9
+cr: 1/2
+stats:
+  - 10
+  - 13
+  - 16
+  - 1
+  - 7
+  - 3
+source:
+  - MM
 ---
 
 # Piercer
 
-_Source: Monster Manual p. 252_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/piercer.webp#right)
-
 Clinging to the ceilings of caverns and large subterranean passages, piercers blend in perfectly with natural rock, dropping in silence to impale unsuspecting foes on the ground below.
 
 A piercer is the larval form of a roper, and the two creatures often attack in tandem. A rock-like shell encases a piercer's body, giving it the look and texture of a stalactite. That shell protects a soft, slug-like upper body that lets the piercer move across cavern walls and ceilings to position itself for prey. With its eye and mouth closed, the piercer is difficult to distinguish from ordinary rock formations.
@@ -35,11 +50,11 @@ Piercers gather in colonies to maximize the effectiveness of their attacks, drop
 
 ```ad-statblock
 title: Piercer
-![](Mechanics/CLI/bestiary/monstrosity/token/piercer.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/piercer.webp#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 22 (`3d8 + 9`) 
+- **Hit Points** 22 (3d8 + 9) 
 - **Speed** 5 ft., climb 5 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,8 +63,8 @@ title: Piercer
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 8
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 8
 - **Languages** —
 - **Challenge** 1/2
 
@@ -69,3 +84,7 @@ title: Piercer
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 252_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Goat
-created: 2026-03-09T12:15:34.026-04:00
-modified: 2026-03-09T12:15:34.026-04:00
-published: 2026-03-09T12:15:34.026-04:00
+created: 2026-03-29T21:53:56.036-04:00
+modified: 2026-03-29T21:53:56.036-04:00
+published: 2026-03-29T21:53:56.036-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/0
@@ -17,16 +17,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Goat (XMM)
+ac: 10
+hp: 4
+modifier: 0
+hit_dice: 1d8
+cr: "0"
+stats:
+  - 11
+  - 10
+  - 11
+  - 2
+  - 10
+  - 5
+source:
+  - XMM
+  - XPHB
 ---
 
 # Goat
 
-_Source: Monster Manual (2024) p. 362, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/goat.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -35,11 +52,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Goat
-![](Mechanics/CLI/bestiary/beast/token/goat-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/goat-xmm.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 10 
-- **Hit Points** 4 (`1d8`) 
+- **Hit Points** 4 (1d8) 
 - **Speed** 40 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,8 +65,8 @@ title: Goat
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Strength +2
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 0
 
@@ -63,3 +80,7 @@ title: Goat
 ## Environment
 
 grassland, hill, mountain, urban
+
+## Sources
+
+_Monster Manual (2024) p. 362, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

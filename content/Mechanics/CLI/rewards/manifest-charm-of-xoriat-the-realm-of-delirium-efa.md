@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Manifest Charm of Xoriat, the Realm of Delirium
-created: 2026-03-09T12:15:33.832-04:00
-modified: 2026-03-09T12:15:33.832-04:00
-published: 2026-03-09T12:15:33.832-04:00
+created: 2026-03-29T21:53:55.618-04:00
+modified: 2026-03-29T21:53:55.618-04:00
+published: 2026-03-29T21:53:55.618-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/reward/charm
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _Charm_
 
-When you use a spell slot to cast a spell, you can expend the Charm (no action required) to roll on the [Wild Magic Surge table](Mechanics/CLI/tables/wild-magic-surge-xphb.md) in the "Player's Handbook".
+When you use a spell slot to cast a spell, you can expend the Charm (no action required) to roll on the [Wild Magic Surge table](/Mechanics/CLI/tables/wild-magic-surge-xphb.md) in the "Player's Handbook".
 
 ## Sources
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Retriever
-created: 2026-03-09T12:15:33.974-04:00
-modified: 2026-03-09T12:15:33.975-04:00
-published: 2026-03-09T12:15:33.975-04:00
+created: 2026-03-29T21:53:55.975-04:00
+modified: 2026-03-29T21:53:55.975-04:00
+published: 2026-03-29T21:53:55.975-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/14
@@ -16,24 +16,39 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Retriever (MPMM)
+ac: 19
+hp: 210
+modifier: 3
+hit_dice: 20d10 + 100
+cr: "14"
+stats:
+  - 22
+  - 16
+  - 20
+  - 3
+  - 11
+  - 4
+source:
+  - MPMM
 ---
 
 # Retriever
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 209_\
 ![](Mechanics/CLI/bestiary/construct/img/retriever.webp#right)
-
 The retriever is a potent, spider-like Construct conceived and built by Underdark followers of Lolth for one original purpose—to prowl the Abyss and capture demons for these cultists to enslave or use in their rituals. The automatons proved so effective and so fearsome that they now perform many different missions.
 
 Though retrievers were created to operate only in the Abyss, they are sometimes dispatched when a powerful devotee of Lolth needs some creature or object captured and brought back alive and intact. Only under the rarest of circumstances is a retriever handed over or sold to others, since Lolth's cultists don't want to take the chance that their creations will be turned against them.
 
 ```ad-statblock
 title: Retriever
-![](Mechanics/CLI/bestiary/construct/token/retriever-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/retriever-mpmm.webp#token)
 *Large construct, Typically  Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 210 (`20d10 + 100`) 
+- **Hit Points** 210 (20d10 + 100) 
 - **Speed** 40 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,10 +57,10 @@ title: Retriever
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +8, Constitution +10, Wisdom +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Immunities** necrotic; poison; psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Abyssal, Elvish, and Undercommon but can't speak
 - **Challenge** 14
 
@@ -61,13 +76,13 @@ title: Retriever
 
 ***Force Beam.*** The retriever targets one creature it can see within 60 feet of it. The target must make a DC 16 Dexterity saving throw, taking 27 (`5d10`) force damage on a failed save, or half as much damage on a successful one.
 
-***Paralyzing Beam (Recharge 5-6).*** The retriever targets one creature it can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Paralyzing Beam (Recharge 5-6).*** The retriever targets one creature it can see within 60 feet of it. The target must succeed on a DC 18 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-If the [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) creature is Medium or smaller, the retriever can pick it up as part of the retriever's move and walk or climb with it at full speed.
+If the [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) creature is Medium or smaller, the retriever can pick it up as part of the retriever's move and walk or climb with it at full speed.
 
 ***Spellcasting.*** The retriever casts one of the following spells, requiring no material components and using Wisdom as the spellcasting ability (spell save DC 13):
 
-**3/day each:** [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (only self and up to one incapacitated creature, which is considered willing for the spell), [web](Mechanics/CLI/spells/web-xphb.md)
+**3/day each:** [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (only self and up to one incapacitated creature, which is considered willing for the spell), [web](/Mechanics/CLI/spells/web-xphb.md)
 ```
 
 ^statblock
@@ -75,3 +90,7 @@ If the [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) creature is Medi
 ## Environment
 
 desert, forest, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 209_

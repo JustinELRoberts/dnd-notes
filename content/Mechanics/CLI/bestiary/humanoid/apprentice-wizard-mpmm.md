@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Apprentice Wizard
-created: 2026-03-09T12:15:34.109-04:00
-modified: 2026-03-09T12:15:34.109-04:00
-published: 2026-03-09T12:15:34.109-04:00
+created: 2026-03-29T21:53:56.146-04:00
+modified: 2026-03-29T21:53:56.146-04:00
+published: 2026-03-29T21:53:56.146-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Apprentice Wizard (MPMM)
+ac: 10
+hp: 13
+modifier: 0
+hit_dice: 3d8
+cr: 1/4
+stats:
+  - 10
+  - 10
+  - 10
+  - 14
+  - 10
+  - 11
+source:
+  - MPMM
+  - VGM
 ---
 
 # Apprentice Wizard
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209_\
 ![](Mechanics/CLI/bestiary/humanoid/img/apprentice-wizard.webp#right)
-
 Apprentices are novice arcane spellcasters who serve more experienced wizards or attend school. They perform menial work like cooking or cleaning in exchange for education in the ways of magic.
 
 ## Wizards
@@ -31,11 +47,11 @@ Wizards pursue magical power through the study of arcane texts. Some travel the 
 
 ```ad-statblock
 title: Apprentice Wizard
-![](Mechanics/CLI/bestiary/humanoid/token/apprentice-wizard-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/apprentice-wizard-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 10 (13 with [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md))
-- **Hit Points** 13 (`3d8`) 
+- **Armor Class** 10 (13 with [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md))
+- **Hit Points** 13 (3d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,7 +60,7 @@ title: Apprentice Wizard
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +4, [History](Mechanics/CLI/rules/skills.md#History) +4
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +4, [History](/Mechanics/CLI/skills.md#History) +4
 - **Senses** passive Perception 10
 - **Languages** any one language (usually Common)
 - **Challenge** 1/4
@@ -55,9 +71,9 @@ title: Apprentice Wizard
 
 ***Spellcasting.*** The apprentice casts one of the following spells, using Intelligence as the spellcasting ability (spell save DC 12)
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1/day each:** [burning hands](Mechanics/CLI/spells/burning-hands-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md)
+**1/day each:** [burning hands](/Mechanics/CLI/spells/burning-hands-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md)
 ```
 
 ^statblock
@@ -65,3 +81,7 @@ title: Apprentice Wizard
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 259, Volo's Guide to Monsters p. 209_

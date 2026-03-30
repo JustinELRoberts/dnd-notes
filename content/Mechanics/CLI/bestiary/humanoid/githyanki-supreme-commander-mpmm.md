@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Githyanki Supreme Commander
-created: 2026-03-09T12:15:33.791-04:00
-modified: 2026-03-09T12:15:33.791-04:00
-published: 2026-03-09T12:15:33.791-04:00
+created: 2026-03-29T21:53:55.574-04:00
+modified: 2026-03-29T21:53:55.574-04:00
+published: 2026-03-29T21:53:55.574-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/14
@@ -16,14 +16,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Githyanki Supreme Commander (MPMM)
+ac: 18
+hp: 187
+modifier: 3
+hit_dice: 22d8 + 88
+cr: "14"
+stats:
+  - 19
+  - 17
+  - 18
+  - 16
+  - 16
+  - 18
+source:
+  - MPMM
 ---
 
 # Githyanki Supreme Commander
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 141_\
 ![](Mechanics/CLI/bestiary/humanoid/img/githyanki-supreme-commander.webp#right)
-
-Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) into battle.
+Supreme commanders lead armies, each one commanding ten kith'raks, who in turn lead the rest of their forces. Most supreme commanders ride [red dragons](/Mechanics/CLI/bestiary/dragon/adult-red-dragon.md) into battle.
 
 ## Githyanki
 
@@ -33,11 +48,11 @@ Githyanki descend from an ancient people who were also the progenitors of githze
 
 ```ad-statblock
 title: Githyanki Supreme Commander
-![](Mechanics/CLI/bestiary/humanoid/token/githyanki-supreme-commander-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/githyanki-supreme-commander-mpmm.webp#token)
 *Medium humanoid (gith), Any alignment*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 187 (`22d8 + 88`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 187 (22d8 + 88) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,7 +61,7 @@ title: Githyanki Supreme Commander
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Constitution +9, Intelligence +8, Wisdom +8
-- **Skills** [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +9, [Perception](Mechanics/CLI/rules/skills.md#Perception) +8
+- **Skills** [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +9, [Perception](/Mechanics/CLI/skills.md#Perception) +8
 - **Senses** passive Perception 18
 - **Languages** Gith
 - **Challenge** 14
@@ -59,15 +74,15 @@ title: Githyanki Supreme Commander
 
 ***Multiattack.*** The githyanki makes two Silver Greatsword attacks.
 
-***Silver Greatsword.*** *Melee Weapon Attack:* `+12` to hit, reach 5 ft., one target. *Hit:* 14 (`2d6 + 7`) slashing damage plus 17 (`5d6`) psychic damage. On a critical hit against a target in an astral body (as with the [astral projection](Mechanics/CLI/spells/astral-projection-xphb.md) spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
+***Silver Greatsword.*** *Melee Weapon Attack:* `+12` to hit, reach 5 ft., one target. *Hit:* 14 (`2d6 + 7`) slashing damage plus 17 (`5d6`) psychic damage. On a critical hit against a target in an astral body (as with the [astral projection](/Mechanics/CLI/spells/astral-projection-xphb.md) spell), the githyanki can cut the silvery cord that tethers the target to its material body, instead of dealing damage.
 
 ***Spellcasting (Psionics).*** The githyanki casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 16):
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md) (the hand is invisible)
 
-**3/day each:** [levitate](Mechanics/CLI/spells/levitate-xphb.md) (self only), [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) (self only)
+**3/day each:** [levitate](/Mechanics/CLI/spells/levitate-xphb.md) (self only), [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md) (self only)
 
-**1/day each:** [Bigby's hand](Mechanics/CLI/spells/bigbys-hand-xphb.md), [mass suggestion](Mechanics/CLI/spells/mass-suggestion-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md)
+**1/day each:** [Bigby's hand](/Mechanics/CLI/spells/bigbys-hand-xphb.md), [mass suggestion](/Mechanics/CLI/spells/mass-suggestion-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md)
 
 ## Bonus Actions
 
@@ -91,3 +106,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the githyan
 ## Environment
 
 desert, mountain, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 141_

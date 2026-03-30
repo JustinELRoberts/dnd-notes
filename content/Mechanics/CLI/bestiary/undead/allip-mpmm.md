@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Allip
-created: 2026-03-09T12:15:34.053-04:00
-modified: 2026-03-09T12:15:34.053-04:00
-published: 2026-03-09T12:15:34.053-04:00
+created: 2026-03-29T21:53:56.069-04:00
+modified: 2026-03-29T21:53:56.069-04:00
+published: 2026-03-29T21:53:56.069-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Allip (MPMM)
+ac: 13
+hp: 40
+modifier: 3
+hit_dice: 9d8
+cr: "5"
+stats:
+  - 6
+  - 17
+  - 10
+  - 17
+  - 15
+  - 16
+source:
+  - MPMM
 ---
 
 # Allip
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 45_\
 ![](Mechanics/CLI/bestiary/undead/img/allip.webp#right)
-
 When a creature uncovers a secret that a powerful being has protected with a mighty curse, the result is often the creation of an allip. Secrets protected in this manner range in scope from a demon lord's true name to the hidden truths of the cosmic order. The creature acquires the secret, but the curse annihilates its body and leaves behind a spectral being composed of fragments from the victim's psyche and overwhelming psychic agony.
 
 Every allip is wracked with a horrifying insight that torments what remains of its mind. In the presence of other creatures, an allip seeks to relieve this burden by sharing its secret. The creature can impart only a shard of the knowledge that doomed it, but that piece is enough to wrack the recipient with temporary mental anguish and violent compulsions. The survivors of an allip's attack are sometimes left with a compulsion to learn more about what spawned this monstrosity. Strange phrases echo through their minds, and weird visions occupy their dreams. The sense that some colossal truth sits just outside their recall plagues them for days, months, and sometimes years after their fateful encounter.
@@ -34,11 +49,11 @@ An allip might attempt to share its lore to escape its curse and enter the after
 
 ```ad-statblock
 title: Allip
-![](Mechanics/CLI/bestiary/undead/token/allip-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/allip-mpmm.webp#token)
 *Medium undead, Typically  Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 40 (`9d8`) 
+- **Hit Points** 40 (9d8) 
 - **Speed** 0 ft., fly 40 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,11 +62,11 @@ title: Allip
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +6, Wisdom +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** acid; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** cold, necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** the languages it knew in life
 - **Challenge** 5
 
@@ -65,7 +80,7 @@ title: Allip
 
 ***Maddening Touch.*** *Melee Spell Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 17 (`4d6 + 3`) psychic damage.
 
-***Howling Babble (Recharge 6).*** Each creature within 30 feet of the allip that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (`2d8 + 3`) psychic damage, and it is [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the end of its next turn. On a successful save, it takes half as much damage and isn't [stunned](Mechanics/CLI/rules/conditions.md#Stunned). Constructs and Undead are immune to this effect.
+***Howling Babble (Recharge 6).*** Each creature within 30 feet of the allip that can hear it must make a DC 14 Wisdom saving throw. On a failed save, a target takes 12 (`2d8 + 3`) psychic damage, and it is [stunned](/Mechanics/CLI/conditions.md#Stunned) until the end of its next turn. On a successful save, it takes half as much damage and isn't [stunned](/Mechanics/CLI/conditions.md#Stunned). Constructs and Undead are immune to this effect.
 
 ***Whispers of Compulsion.*** The allip chooses up to three creatures it can see within 60 feet of it. Each target must succeed on a DC 14 Wisdom saving throw, or it takes 12 (`2d8 + 3`) psychic damage and must use its reaction to make a melee weapon attack against one creature of the allip's choice that the allip can see. Constructs and Undead are immune to this effect.
 ```
@@ -75,3 +90,7 @@ title: Allip
 ## Environment
 
 swamp, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 45_

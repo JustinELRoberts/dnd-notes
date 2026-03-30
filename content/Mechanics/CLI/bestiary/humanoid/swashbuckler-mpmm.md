@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Swashbuckler
-created: 2026-03-09T12:15:34.121-04:00
-modified: 2026-03-09T12:15:34.121-04:00
-published: 2026-03-09T12:15:34.121-04:00
+created: 2026-03-29T21:53:56.159-04:00
+modified: 2026-03-29T21:53:56.159-04:00
+published: 2026-03-29T21:53:56.159-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Swashbuckler (MPMM)
+ac: 17
+hp: 66
+modifier: 4
+hit_dice: 12d8 + 12
+cr: "3"
+stats:
+  - 12
+  - 18
+  - 12
+  - 14
+  - 11
+  - 15
+source:
+  - MPMM
+  - VGM
 ---
 
 # Swashbuckler
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217_\
 ![](Mechanics/CLI/bestiary/humanoid/img/swashbuckler.webp#right)
-
 Swashbucklers are charming ne'er-do-wells who live by their own codes of honor. They crave notoriety, often indulge in romantic trysts, and eke out livings as pirates and corsairs, rarely staying in one place for too long.
 
 Many swashbucklers have a signature flourish with which they embellish their actions to make themselves more memorable. You can roll on the Swashbuckler Flourishes table or choose one of the options to find a suitably dramatic flourish for a swashbuckler.
@@ -42,11 +58,11 @@ Many swashbucklers have a signature flourish with which they embellish their act
 
 ```ad-statblock
 title: Swashbuckler
-![](Mechanics/CLI/bestiary/humanoid/token/swashbuckler-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/swashbuckler-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 17 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md), suave defense)
-- **Hit Points** 66 (`12d8 + 12`) 
+- **Armor Class** 17 ([leather armor](/Mechanics/CLI/items/leather-armor.md), suave defense)
+- **Hit Points** 66 (12d8 + 12) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,15 +71,14 @@ title: Swashbuckler
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +8, [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +6
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +8, [Athletics](/Mechanics/CLI/skills.md#Athletics) +5, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +6
 - **Senses** passive Perception 10
-- **Gear** [dagger](Mechanics/CLI/items/dagger-xphb.md), [rapier](Mechanics/CLI/items/rapier-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 3
 
 ## Traits
 
-***Suave Defense.*** While the swashbuckler is wearing light or no armor and wielding no [shield](Mechanics/CLI/items/shield-xphb.md), its AC includes its Charisma modifier.
+***Suave Defense.*** While the swashbuckler is wearing light or no armor and wielding no [shield](/Mechanics/CLI/items/shield.md), its AC includes its Charisma modifier.
 
 ## Actions
 
@@ -75,7 +90,7 @@ title: Swashbuckler
 
 ## Bonus Actions
 
-***Lightfooted.*** The swashbuckler takes the [Dash](Mechanics/CLI/rules/actions.md#Dash) or [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action.
+***Lightfooted.*** The swashbuckler takes the [Dash](/Mechanics/CLI/actions.md#Dash) or [Disengage](/Mechanics/CLI/actions.md#Disengage) action.
 ```
 
 ^statblock
@@ -83,3 +98,7 @@ title: Swashbuckler
 ## Environment
 
 coastal, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 238, Volo's Guide to Monsters p. 217_

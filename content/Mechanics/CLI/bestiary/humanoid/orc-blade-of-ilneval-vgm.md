@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orc Blade of Ilneval
-created: 2026-03-09T12:15:33.922-04:00
-modified: 2026-03-09T12:15:33.922-04:00
-published: 2026-03-09T12:15:33.922-04:00
+created: 2026-03-29T21:53:55.926-04:00
+modified: 2026-03-29T21:53:55.926-04:00
+published: 2026-03-29T21:53:55.926-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/4
@@ -18,11 +18,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orc Blade of Ilneval (VGM)
+ac: 18
+hp: 60
+modifier: 0
+hit_dice: 8d8 + 24
+cr: "4"
+stats:
+  - 17
+  - 11
+  - 17
+  - 10
+  - 12
+  - 14
+source:
+  - VGM
 ---
 
 # Orc Blade of Ilneval
-
-_Source: Volo's Guide to Monsters p. 183_
 
 Ilneval is Gruumsh's battle captain, a devious strategist who directs Gruumsh's soldiers with boldness. Among orcs, warriors that venerate Ilneval emulate their deity. Such orcs learn to command their fellows in ways that are unpredictable but help to ensure victory.
 
@@ -40,11 +55,11 @@ In addition, orcs have special relationships with two creatures that are sometim
 
 ```ad-statblock
 title: Orc Blade of Ilneval
-![](Mechanics/CLI/bestiary/humanoid/token/orc-blade-of-ilneval-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orc-blade-of-ilneval-vgm.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
-- **Armor Class** 18 ([chain mail](Mechanics/CLI/items/chain-mail-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 60 (`8d8 + 24`) 
+- **Armor Class** 18 ([chain mail](/Mechanics/CLI/items/chain-mail.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 60 (8d8 + 24) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,9 +68,8 @@ title: Orc Blade of Ilneval
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +3
-- **Skills** [Insight](Mechanics/CLI/rules/skills.md#Insight) +3, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Skills** [Insight](/Mechanics/CLI/skills.md#Insight) +3, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** Common, Orc
 - **Challenge** 4
 
@@ -81,3 +95,7 @@ title: Orc Blade of Ilneval
 ## Environment
 
 underdark, mountain, grassland, forest, hill
+
+## Sources
+
+_Volo's Guide to Monsters p. 183_

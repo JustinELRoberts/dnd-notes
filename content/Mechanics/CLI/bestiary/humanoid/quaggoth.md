@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Quaggoth
-created: 2026-03-09T12:15:34.042-04:00
-modified: 2026-03-09T12:15:34.042-04:00
-published: 2026-03-09T12:15:34.042-04:00
+created: 2026-03-29T21:53:56.051-04:00
+modified: 2026-03-29T21:53:56.051-04:00
+published: 2026-03-29T21:53:56.051-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Quaggoth
+ac: 13
+hp: 45
+modifier: 1
+hit_dice: 6d8 + 18
+cr: "2"
+stats:
+  - 17
+  - 12
+  - 16
+  - 6
+  - 12
+  - 7
+source:
+  - MM
 ---
 
 # Quaggoth
 
-_Source: Monster Manual p. 256_\
 ![](Mechanics/CLI/bestiary/humanoid/img/quaggoth.webp#right)
-
 Savage and territorial, quaggoths climb the chasms of the Underdark. They maul their foes in a frenzy, becoming even more murderous in the face of death.
 
 ## Quaggoth Origins
@@ -47,11 +62,11 @@ Generations of hunting venomous subterranean creatures and perpetual exposure to
 
 ```ad-statblock
 title: Quaggoth
-![](Mechanics/CLI/bestiary/humanoid/token/quaggoth.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/quaggoth.webp#token)
 *Medium humanoid (quaggoth), Chaotic Neutral*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -60,10 +75,10 @@ title: Quaggoth
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Undercommon
 - **Challenge** 2
 
@@ -83,3 +98,7 @@ title: Quaggoth
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 256_

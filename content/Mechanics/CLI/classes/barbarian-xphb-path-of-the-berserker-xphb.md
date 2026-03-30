@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Path of the Berserker
-created: 2026-03-09T12:15:34.110-04:00
-modified: 2026-03-09T12:15:34.110-04:00
-published: 2026-03-09T12:15:34.110-04:00
+created: 2026-03-29T21:53:56.147-04:00
+modified: 2026-03-29T21:53:56.147-04:00
+published: 2026-03-29T21:53:56.147-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/barbarian/berserker
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Path of the Berserker
 
-_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_\
-_Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_[Barbarian](./barbarian-xphb.md): Barbarian Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,18 +58,22 @@ Barbarians who walk the Path of the Berserker direct their Rage primarily toward
 
 ### Frenzy (Level 3)
 
-If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) used for the attack.
+If you use Reckless Attack while your Rage is active, you deal extra damage to the first target you hit on your turn with a Strength-based attack. To determine the extra damage, roll a number of d6s equal to your Rage Damage bonus, and add them together. The damage has the same type as the weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) used for the attack.
 
 ### Mindless Rage (Level 6)
 
-You have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) and [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) conditions while your Rage is active. If you're [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) when you enter your Rage, the condition ends on you.
+You have [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Charmed](/Mechanics/CLI/conditions.md#Charmed) and [Frightened](/Mechanics/CLI/conditions.md#Frightened) conditions while your Rage is active. If you're [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) when you enter your Rage, the condition ends on you.
 
 ### Retaliation (Level 10)
 
-When you take damage from a creature that is within 5 feet of you, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to make one melee attack against that creature, using a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+When you take damage from a creature that is within 5 feet of you, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to make one melee attack against that creature, using a weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
 
 ### Intimidating Presence (Level 14)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)). On a failed save, a creature has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)). On a failed save, a creature has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for 1 minute. At the end of each of the [Frightened](/Mechanics/CLI/conditions.md#Frightened) creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend a use of your Rage (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend a use of your Rage (no action required) to restore your use of it.
+
+## Sources
+
+_Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

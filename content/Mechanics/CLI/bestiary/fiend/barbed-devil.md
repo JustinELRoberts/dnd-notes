@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Barbed Devil
-created: 2026-03-09T12:15:33.983-04:00
-modified: 2026-03-09T12:15:33.983-04:00
-published: 2026-03-09T12:15:33.983-04:00
+created: 2026-03-29T21:53:55.988-04:00
+modified: 2026-03-29T21:53:55.988-04:00
+published: 2026-03-29T21:53:55.988-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Barbed Devil
+ac: 15
+hp: 110
+modifier: 3
+hit_dice: 13d8 + 52
+cr: "5"
+stats:
+  - 16
+  - 17
+  - 18
+  - 12
+  - 14
+  - 14
+source:
+  - MM
 ---
 
 # Barbed Devil
 
-_Source: Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/barbed-devil.webp#right)
-
 Creatures of unbridled greed and desire, barbed devils act as guards to the more powerful denizens of the Nine Hells and their vaults. Resembling a tall humanoid covered in sharp barbs, spines, and hooks, a barbed devil has gleaming eyes that are ever watchful for objects and creatures it might claim for itself. These fiends welcome any chance to fight when victory promises reward.
 
 Barbed devils are known for an alertness that makes them difficult to surprise, and they attend to their duties without boredom or distraction. They use their sharp claws as weapons or hurl balls of flame at foes that try to flee them.
@@ -120,7 +135,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -148,11 +163,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Barbed Devil
-![](Mechanics/CLI/bestiary/fiend/token/barbed-devil.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/barbed-devil.webp#token)
 *Medium fiend (devil), Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 110 (`13d8 + 52`) 
+- **Hit Points** 110 (13d8 + 52) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -161,11 +176,11 @@ title: Barbed Devil
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +6, Constitution +7, Wisdom +5, Charisma +5
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5, [Insight](Mechanics/CLI/rules/skills.md#Insight) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +8
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 18
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5, [Insight](/Mechanics/CLI/skills.md#Insight) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +8
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 18
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 5
 
@@ -189,3 +204,7 @@ title: Barbed Devil
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 70. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

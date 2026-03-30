@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Censer of Controlling Air Elementals
-created: 2026-03-09T12:15:34.109-04:00
-modified: 2026-03-09T12:15:34.109-04:00
-published: 2026-03-09T12:15:34.109-04:00
+created: 2026-03-29T21:53:56.145-04:00
+modified: 2026-03-29T21:53:56.145-04:00
+published: 2026-03-29T21:53:56.145-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare
@@ -19,10 +19,13 @@ obsidianUIMode: preview
 _Wondrous item, major, rare_\
 ![](Mechanics/CLI/items/img/censer-of-controlling-air-elementals.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 1.0 lbs.
 
-While incense is burning in this censer, you can use an action to speak the censer's command word and summon an [air elemental](Mechanics/CLI/bestiary/elemental/air-elemental.md), as if you had cast the [conjure elemental](Mechanics/CLI/spells/conjure-elemental-xphb.md) spell. The censer can't be used this way again until the next dawn.
+While incense is burning in this censer, you can use an action to speak the censer's command word and summon an [air elemental](/Mechanics/CLI/bestiary/elemental/air-elemental.md), as if you had cast the [conjure elemental](/Mechanics/CLI/spells/conjure-elemental-xphb.md) spell. The censer can't be used this way again until the next dawn.
 
 This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.
 
-_Source: Dungeon Master's Guide p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

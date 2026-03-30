@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mechanaut's Apparatus
-created: 2026-03-09T12:15:34.132-04:00
-modified: 2026-03-09T12:15:34.132-04:00
-published: 2026-03-09T12:15:34.132-04:00
+created: 2026-03-29T21:53:56.179-04:00
+modified: 2026-03-29T21:53:56.180-04:00
+published: 2026-03-29T21:53:56.180-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,23 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Mechanaut's Apparatus (ValdaSpire24)
+modifier: 2
+stats:
+  - 19
+  - 15
+  - 18
+  - 1
+  - 3
+  - 1
+source:
+  - ValdaSpire24
 ---
 
 # Mechanaut's Apparatus
 
-_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCraftsman/Class/Mechanauts.webp#center)
 
 ```ad-statblock
@@ -36,24 +48,28 @@ title: Mechanaut's Apparatus
 - **Proficiency Bonus** +2
 - **Saving Throws** 4+PB, 4+PB
 - **Skills** ⏤
-- **Senses** [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive Perception 6
+- **Senses** [Blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception 6
 - **Damage Resistances** acid, bludgeoning, cold, fire, force, lightning, necrotic, piercing, radiant, slashing, thunder
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 
 
 ## Traits
 
-***Constructed Bond.*** While the apparatus is being piloted, add the pilot's [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to the apparatus's Strength and Constitution saving throws.
+***Constructed Bond.*** While the apparatus is being piloted, add the pilot's [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to the apparatus's Strength and Constitution saving throws.
 
-***Split Damage.*** While the apparatus is being piloted, it has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage. Each time it takes damage, the pilot takes the same amount of damage.
+***Split Damage.*** While the apparatus is being piloted, it has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage. Each time it takes damage, the pilot takes the same amount of damage.
 
 ## Actions
 
-***Maul (Left Hand).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `2d6` plus your Intelligence modifier Bludgeoning damage.
+***Maul (Left Hand).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `2d6` plus your Intelligence modifier Bludgeoning damage.
 
-***Maul (Right Hand).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `2d6` plus your Intelligence modifier Bludgeoning damage.
+***Maul (Right Hand).*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `2d6` plus your Intelligence modifier Bludgeoning damage.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

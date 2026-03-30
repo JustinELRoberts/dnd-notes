@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Marid
-created: 2026-03-09T12:15:34.135-04:00
-modified: 2026-03-09T12:15:34.135-04:00
-published: 2026-03-09T12:15:34.135-04:00
+created: 2026-03-29T21:53:56.183-04:00
+modified: 2026-03-29T21:53:56.183-04:00
+published: 2026-03-29T21:53:56.183-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/11
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Marid
+ac: 17
+hp: 229
+modifier: 1
+hit_dice: 17d10 + 136
+cr: "11"
+stats:
+  - 22
+  - 12
+  - 26
+  - 18
+  - 17
+  - 18
+source:
+  - MM
 ---
 
 # Marid
 
-_Source: Monster Manual p. 146_\
 ![](Mechanics/CLI/bestiary/elemental/img/marid.webp#right)
-
 Hailing from the Elemental Plane of Water, the marids are the most wondrous of genie-kind. Although all genies wield great power, even the lowliest marid sees itself as clearly superior to the flighty djinn, the ground-hugging dao, and the fuming efreet. Large and piscine, marids are a strange sight to behold, particularly when clad in the finely stitched vests and colorful pantaloons they favor. They speak in voices as soft as the sea breeze or as sonorous as storm waves breaking against a rocky cliff. In flight, their lower bodies transform into columns of foamy water.
 
 ## Water Lords
@@ -54,11 +69,11 @@ Marids are champion tale-tellers, whose favorite legends emphasize the prowess o
 
 ```ad-statblock
 title: Marid
-![](Mechanics/CLI/bestiary/elemental/token/marid.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/marid.webp#token)
 *Large elemental, Chaotic Neutral*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 229 (`17d10 + 136`) 
+- **Hit Points** 229 (17d10 + 136) 
 - **Speed** 30 ft., fly 60 ft., swim 90 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -68,9 +83,8 @@ title: Marid
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +5, Wisdom +7, Charisma +8
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 13
 - **Damage Resistances** acid, cold, lightning
-- **Gear** [trident](Mechanics/CLI/items/trident-xphb.md)
 - **Languages** Aquan
 - **Challenge** 11
 
@@ -78,11 +92,11 @@ title: Marid
 
 ***Innate Spellcasting.*** The marid's innate spellcasting ability is Charisma (spell save DC 16, `+8` to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-**At will:** [create or destroy water](Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md), [purify food and drink](Mechanics/CLI/spells/purify-food-and-drink-xphb.md)
+**At will:** [create or destroy water](/Mechanics/CLI/spells/create-or-destroy-water-xphb.md), [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md), [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md), [purify food and drink](/Mechanics/CLI/spells/purify-food-and-drink-xphb.md)
 
-**3/day each:** [tongues](Mechanics/CLI/spells/tongues-xphb.md), [water breathing](Mechanics/CLI/spells/water-breathing-xphb.md), [water walk](Mechanics/CLI/spells/water-walk-xphb.md)
+**3/day each:** [tongues](/Mechanics/CLI/spells/tongues-xphb.md), [water breathing](/Mechanics/CLI/spells/water-breathing-xphb.md), [water walk](/Mechanics/CLI/spells/water-walk-xphb.md)
 
-**1/day each:** [conjure elemental](Mechanics/CLI/spells/conjure-elemental-xphb.md) ([water elemental](Mechanics/CLI/bestiary/elemental/water-elemental.md) only), [control water](Mechanics/CLI/spells/control-water-xphb.md), [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md), [invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md)
+**1/day each:** [conjure elemental](/Mechanics/CLI/spells/conjure-elemental-xphb.md) ([water elemental](/Mechanics/CLI/bestiary/elemental/water-elemental.md) only), [control water](/Mechanics/CLI/spells/control-water-xphb.md), [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md), [invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md)
 
 ***Amphibious.*** The marid can breathe air and water.
 
@@ -94,7 +108,7 @@ title: Marid
 
 ***Trident.*** *Melee  or Ranged Weapon Attack:* `+10` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 13 (`2d6 + 6`) piercing damage, or 15 (`2d8 + 6`) piercing damage if used with two hands to make a melee attack.
 
-***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (`6d6`) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Water Jet.*** The marid magically shoots water in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 16 Dexterity saving throw. On a failure, a target takes 21 (`6d6`) bludgeoning damage and, if it is Huge or smaller, is pushed up to 20 feet away from the marid and knocked [prone](/Mechanics/CLI/conditions.md#Prone). On a success, a target takes half the bludgeoning damage, but is neither pushed nor knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 ```
 
 ^statblock
@@ -102,3 +116,7 @@ title: Marid
 ## Environment
 
 underwater, coastal
+
+## Sources
+
+_Monster Manual p. 146_

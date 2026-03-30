@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spectator
-created: 2026-03-09T12:15:33.793-04:00
-modified: 2026-03-09T12:15:33.793-04:00
-published: 2026-03-09T12:15:33.793-04:00
+created: 2026-03-29T21:53:55.576-04:00
+modified: 2026-03-29T21:53:55.576-04:00
+published: 2026-03-29T21:53:55.576-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Spectator
+ac: 14
+hp: 39
+modifier: 2
+hit_dice: 6d8 + 12
+cr: "3"
+stats:
+  - 8
+  - 14
+  - 14
+  - 13
+  - 14
+  - 11
+source:
+  - MM
 ---
 
 # Spectator
 
-_Source: Monster Manual p. 30. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/aberration/img/spectator.webp#right)
-
 A spectator is a lesser beholder that is summoned from another plane of existence by a magical ritual, the components of which include four beholder eyestalks that are consumed by the ritual's magic. Appropriately, a spectator has four eyestalks, two on each side of the wide eye at the center of its four-foot diameter body.
 
 ## Magical Guardians
@@ -41,11 +56,11 @@ When a spectator has fulfilled its service, it is free to do as it pleases. Many
 
 ```ad-statblock
 title: Spectator
-![](Mechanics/CLI/bestiary/aberration/token/spectator.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/spectator.webp#token)
 *Medium aberration, Lawful Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 39 (`6d8 + 12`) 
+- **Hit Points** 39 (6d8 + 12) 
 - **Speed** 0 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,9 +69,9 @@ title: Spectator
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
-- **Condition Immunities** [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Condition Immunities** [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Deep Speech, Undercommon, telepathy 120 ft.
 - **Challenge** 3
 
@@ -67,8 +82,8 @@ title: Spectator
 ***Eye Rays.*** The spectator shoots up to two of the following magical eye rays at one or two creatures it can see within 90 feet of it. It can use each ray only once on a turn.
 
 - **1. Confusion Ray.** The target must succeed on a DC 13 Wisdom saving throw, or it can't take reactions until the end of its next turn. On its turn, the target can't move, and it uses its action to make a melee or ranged attack against a randomly determined creature within range. If the target can't attack, it does nothing on its turn.  
-- **2. Paralyzing Ray.** The target must succeed on a DC 13 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
-- **3. Fear Ray.** The target must succeed on a DC 13 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.  
+- **2. Paralyzing Ray.** The target must succeed on a DC 13 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **3. Fear Ray.** The target must succeed on a DC 13 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. The target can repeat the saving throw at the end of each of its turns, with disadvantage if the spectator is visible to the target, ending the effect on itself on a success.  
 - **4. Wounding Ray.** The target must make a DC 13 Constitution saving throw, taking 16 (`3d10`) necrotic damage on a failed save, or half as much damage on a successful one.  
 
 ***Create Food and Water.*** The spectator magically creates enough food and water to sustain itself for 24 hours.
@@ -83,3 +98,7 @@ title: Spectator
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 30. Available in the Basic Rules (2014)_

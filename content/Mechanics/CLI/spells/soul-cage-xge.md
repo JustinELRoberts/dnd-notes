@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Soul Cage
-created: 2026-03-09T12:15:33.798-04:00
-modified: 2026-03-09T12:15:33.798-04:00
-published: 2026-03-09T12:15:33.798-04:00
+created: 2026-03-29T21:53:55.582-04:00
+modified: 2026-03-29T21:53:55.582-04:00
+published: 2026-03-29T21:53:55.582-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/6th-level
@@ -15,10 +16,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Warlock
-  - Wizard
 ---
 
 # Soul Cage
@@ -46,12 +43,19 @@ You can use a bonus action to bolster yourself with the soul's life experience, 
 
 ## Eyes of the Dead
 
-You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
+You can use an action to name a place the humanoid saw in life, which creates an invisible sensor somewhere in that place if it is on the plane of existence you're currently on. The sensor remains for as long as you concentrate, up to 10 minutes (as if you were [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). You receive visual and auditory information from the sensor as if you were in its space using your senses.
 
-A creature that can see the sensor (such as one using [see invisibility](Mechanics/CLI/spells/see-invisibility-xphb.md) or [truesight](Mechanics/CLI/rules/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
+A creature that can see the sensor (such as one using [see invisibility](/Mechanics/CLI/spells/see-invisibility-xphb.md) or [truesight](/Mechanics/CLI/senses.md#Truesight)) sees a translucent image of the tormented humanoid whose soul you caged.
 
 ## Summary
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 165_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Xanathar's Guide to Everything p. 165_

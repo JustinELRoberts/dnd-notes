@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Leather Armor
-created: 2026-03-09T12:15:34.134-04:00
-modified: 2026-03-09T12:15:34.134-04:00
-published: 2026-03-09T12:15:34.134-04:00
+created: 2026-03-29T21:53:56.183-04:00
+modified: 2026-03-29T21:53:56.183-04:00
+published: 2026-03-29T21:53:56.183-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/armor/light
@@ -23,4 +23,6 @@ _Light armor_\
 - **Cost**: 10 gp
 - **Weight**: 10.0 lbs.
 
-_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

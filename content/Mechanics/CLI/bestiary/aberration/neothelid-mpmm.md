@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Neothelid
-created: 2026-03-09T12:15:33.994-04:00
-modified: 2026-03-09T12:15:33.994-04:00
-published: 2026-03-09T12:15:33.994-04:00
+created: 2026-03-29T21:53:56.005-04:00
+modified: 2026-03-29T21:53:56.005-04:00
+published: 2026-03-29T21:53:56.005-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/13
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Neothelid (MPMM)
+ac: 16
+hp: 232
+modifier: -2
+hit_dice: 15d20 + 75
+cr: "13"
+stats:
+  - 27
+  - 7
+  - 21
+  - 3
+  - 16
+  - 12
+source:
+  - MPMM
+  - VGM
 ---
 
 # Neothelid
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 193, Volo's Guide to Monsters p. 181_\
 ![](Mechanics/CLI/bestiary/aberration/img/neothelid.webp#right)
-
 A slime-covered worm of immense size, a neothelid is the result of the mind flayer reproductive cycle gone horribly wrong. When an illithid colony collapses, typically after an external assault, and the elder brain is killed, the colony's tadpoles are suddenly freed from their fate. They no longer serve as food—and are no longer fed by their caretakers. Driven by hunger, they turn to devouring one another. Only one tadpole survives out of the thousands in the colony's pool, and it emerges as a neothelid.
 
 Neothelids know nothing beyond their predatory existence. They prowl subterranean passages, using their rudimentary psionic abilities to search out and incapacitate brains to sate their constant hunger, growing ever more vicious. These creatures can spray tissue-dissolving enzymes from their tentacle ducts, reducing victims to puddles of slime and leaving only the pulsing brains unharmed. They have no knowledge of their link to illithids, so they're just as likely to prey on mind flayers as on anything else.
@@ -29,11 +45,11 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
 
 ```ad-statblock
 title: Neothelid
-![](Mechanics/CLI/bestiary/aberration/token/neothelid-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/neothelid-mpmm.webp#token)
 *Gargantuan aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 232 (`15d20 + 75`) 
+- **Hit Points** 232 (15d20 + 75) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -43,29 +59,29 @@ title: Neothelid
 - **Proficiency Bonus** +5
 - **Saving Throws** Intelligence +1, Wisdom +8, Charisma +6
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 120 ft. (blind beyond this radius), passive Perception 13
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 120 ft. (blind beyond this radius), passive Perception 13
 - **Languages** —
 - **Challenge** 13
 
 ## Traits
 
-***Creature Sense.*** The neothelid is aware of the presence of creatures within 1 mile of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature's Intelligence score, but can't sense anything else about it. A creature protected by a [mind blank](Mechanics/CLI/spells/mind-blank-xphb.md) spell, a [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) spell, or similar magic can't be perceived in this manner.
+***Creature Sense.*** The neothelid is aware of the presence of creatures within 1 mile of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature, as well as each creature's Intelligence score, but can't sense anything else about it. A creature protected by a [mind blank](/Mechanics/CLI/spells/mind-blank-xphb.md) spell, a [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md) spell, or similar magic can't be perceived in this manner.
 
 ***Magic Resistance.*** The neothelid has advantage on saving throws against spells and other magical effects.
 
 ## Actions
 
-***Tentacles.*** *Melee Weapon Attack:* `+13` to hit, reach 15 ft., one target. *Hit:* 21 (`3d8 + 8`) bludgeoning damage plus 11 (`2d10`) psychic damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be swallowed by the neothelid. A swallowed creature is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) and [restrained](Mechanics/CLI/rules/conditions.md#Restrained), it has total cover against attacks and other effects outside the neothelid, and it takes 21 (`6d6`) acid damage at the start of each of the neothelid's turns.
+***Tentacles.*** *Melee Weapon Attack:* `+13` to hit, reach 15 ft., one target. *Hit:* 21 (`3d8 + 8`) bludgeoning damage plus 11 (`2d10`) psychic damage. If the target is a Large or smaller creature, it must succeed on a DC 18 Strength saving throw or be swallowed by the neothelid. A swallowed creature is [blinded](/Mechanics/CLI/conditions.md#Blinded) and [restrained](/Mechanics/CLI/conditions.md#Restrained), it has total cover against attacks and other effects outside the neothelid, and it takes 21 (`6d6`) acid damage at the start of each of the neothelid's turns.
 
-If the neothelid takes 30 damage or more on a single turn from a creature inside it, the neothelid must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](Mechanics/CLI/rules/conditions.md#Prone) in a space within 10 feet of the neothelid. If the neothelid dies, a swallowed creature is no longer [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by it and can escape from the corpse by using 20 feet of movement, exiting [prone](Mechanics/CLI/rules/conditions.md#Prone).
+If the neothelid takes 30 damage or more on a single turn from a creature inside it, the neothelid must succeed on a DC 18 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall [prone](/Mechanics/CLI/conditions.md#Prone) in a space within 10 feet of the neothelid. If the neothelid dies, a swallowed creature is no longer [restrained](/Mechanics/CLI/conditions.md#Restrained) by it and can escape from the corpse by using 20 feet of movement, exiting [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ***Acid Breath (Recharge 5-6).*** The neothelid exhales acid in a 60-foot cone. Each creature in that area must make a DC 18 Dexterity saving throw, taking 35 (`10d6`) acid damage on a failed save, or half as much damage on a successful one.
 
 ***Spellcasting (Psionics).*** The neothelid casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability (spell save DC 16):
 
-**At will:** [levitate](Mechanics/CLI/spells/levitate-xphb.md)
+**At will:** [levitate](/Mechanics/CLI/spells/levitate-xphb.md)
 
-**1/day each:** [confusion](Mechanics/CLI/spells/confusion-xphb.md), [feeblemind](Mechanics/CLI/spells/befuddlement-xphb.md), [telekinesis](Mechanics/CLI/spells/telekinesis-xphb.md)
+**1/day each:** [confusion](/Mechanics/CLI/spells/confusion-xphb.md), [feeblemind](/Mechanics/CLI/spells/befuddlement-xphb.md), [telekinesis](/Mechanics/CLI/spells/telekinesis-xphb.md)
 ```
 
 ^statblock
@@ -73,3 +89,7 @@ If the neothelid takes 30 damage or more on a single turn from a creature inside
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 193, Volo's Guide to Monsters p. 181_

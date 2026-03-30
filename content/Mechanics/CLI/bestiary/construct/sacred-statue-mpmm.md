@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sacred Statue
-created: 2026-03-09T12:15:34.043-04:00
-modified: 2026-03-09T12:15:34.043-04:00
-published: 2026-03-09T12:15:34.043-04:00
+created: 2026-03-29T21:53:56.053-04:00
+modified: 2026-03-29T21:53:56.053-04:00
+published: 2026-03-29T21:53:56.053-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/
@@ -13,22 +13,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sacred Statue (MPMM)
+ac: 19
+hp: 95
+modifier: -1
+hit_dice: 10d10 + 40
+stats:
+  - 19
+  - 8
+  - 19
+  - 14
+  - 19
+  - 16
+source:
+  - MPMM
 ---
 
 # Sacred Statue
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 114_\
 ![](Mechanics/CLI/bestiary/construct/img/sacred-statue.webp#right)
-
-To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [eidolon](Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) plunges into a [statue](Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md) specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
+To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bound to safeguard a sacred place. Forged from the souls of those with unwavering devotion, eidolons stalk temples and vaults to ensure that no enemy defiles, damages, or plunders these sites. If an enemy sets foot inside a warded location, the [eidolon](/Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) plunges into a [statue](/Mechanics/CLI/bestiary/construct/sacred-statue-mpmm.md) specially prepared to house its soul; it then animates this effigy and uses the statue to drive out the intruders.
 
 ```ad-statblock
 title: Sacred Statue
-![](Mechanics/CLI/bestiary/construct/token/sacred-statue-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/sacred-statue-mpmm.webp#token)
 *Large construct, as the eidolon's alignment*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 95 (`10d10 + 40`) 
+- **Hit Points** 95 (10d10 + 40) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,20 +52,20 @@ title: Sacred Statue
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +8
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Resistances** acid; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** cold, necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Languages** the languages the [eidolon](Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) knew in life
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
+- **Languages** the languages the [eidolon](/Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) knew in life
 - **Challenge** 
 
 ## Traits
 
-***False Appearance.*** If the statue is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the statue move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check to discern that the statue isn't an object.
+***False Appearance.*** If the statue is motionless at the start of combat, it has advantage on its initiative roll. Moreover, if a creature hasn't observed the statue move or act, that creature must succeed on a DC 18 Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check to discern that the statue isn't an object.
 
-***Ghostly Inhabitant.*** The [eidolon](Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) that enters the statue remains inside it until the statue drops to 0 hit points, the eidolon uses a bonus action to move out of the statue, or the eidolon is turned or forced out by an effect such as the [dispel evil and good](Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell. When the eidolon leaves the statue, it appears in an unoccupied space within 5 feet of the statue.
+***Ghostly Inhabitant.*** The [eidolon](/Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) that enters the statue remains inside it until the statue drops to 0 hit points, the eidolon uses a bonus action to move out of the statue, or the eidolon is turned or forced out by an effect such as the [dispel evil and good](/Mechanics/CLI/spells/dispel-evil-and-good-xphb.md) spell. When the eidolon leaves the statue, it appears in an unoccupied space within 5 feet of the statue.
 
-***Inert.*** Without an [eidolon](Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) inside, the statue is an object.
+***Inert.*** Without an [eidolon](/Mechanics/CLI/bestiary/undead/eidolon-mpmm.md) inside, the statue is an object.
 
 ***Unusual Nature.*** The statue doesn't require air, food, drink, or sleep.
 
@@ -65,3 +79,7 @@ title: Sacred Statue
 ```
 
 ^statblock
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 114_

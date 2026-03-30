@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cow
-created: 2026-03-09T12:15:33.926-04:00
-modified: 2026-03-09T12:15:33.926-04:00
-published: 2026-03-09T12:15:33.926-04:00
+created: 2026-03-29T21:53:55.929-04:00
+modified: 2026-03-29T21:53:55.929-04:00
+published: 2026-03-29T21:53:55.929-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/1-4
@@ -14,21 +14,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cow (VGM)
+ac: 10
+hp: 15
+modifier: 0
+hit_dice: 2d10 + 4
+cr: 1/4
+stats:
+  - 18
+  - 10
+  - 14
+  - 2
+  - 10
+  - 4
+source:
+  - VGM
 ---
 
 # Cow
-
-_Source: Volo's Guide to Monsters p. 207_
 
 There are many kinds of cattle, from common oxen to more unusual, magical variants.
 
 ```ad-statblock
 title: Cow
-![](Mechanics/CLI/bestiary/beast/token/cow-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/cow-vgm.webp#token)
 *Large beast, Unaligned*
 
 - **Armor Class** 10 
-- **Hit Points** 15 (`2d10 + 4`) 
+- **Hit Points** 15 (2d10 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,3 +71,7 @@ title: Cow
 ## Environment
 
 grassland
+
+## Sources
+
+_Volo's Guide to Monsters p. 207_

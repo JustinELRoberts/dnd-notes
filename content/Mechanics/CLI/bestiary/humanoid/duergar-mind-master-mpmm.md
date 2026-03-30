@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar Mind Master
-created: 2026-03-09T12:15:34.102-04:00
-modified: 2026-03-09T12:15:34.102-04:00
-published: 2026-03-09T12:15:34.102-04:00
+created: 2026-03-29T21:53:56.134-04:00
+modified: 2026-03-29T21:53:56.135-04:00
+published: 2026-03-29T21:53:56.135-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar Mind Master (MPMM)
+ac: 14
+hp: 39
+modifier: 3
+hit_dice: 6d8 + 12
+cr: "2"
+stats:
+  - 11
+  - 17
+  - 14
+  - 15
+  - 10
+  - 12
+source:
+  - MPMM
 ---
 
 # Duergar Mind Master
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 108_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar-mind-master.webp#right)
-
 Wearing fearsome masks, duergar mind masters usually operate as spies, both inside and beyond a duergar stronghold. Their psionically augmented abilities enable them to see through illusions with ease and shrink down to miniature size to spy on their targets.
 
 ## Duergar
@@ -48,11 +63,11 @@ Among the duergar of the Forgotten Realms, creation is a fiercely passionate pro
 
 ```ad-statblock
 title: Duergar Mind Master
-![](Mechanics/CLI/bestiary/humanoid/token/duergar-mind-master-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar-mind-master-mpmm.webp#token)
 *Medium humanoid (dwarf), Any alignment*
 
-- **Armor Class** 14 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 39 (`6d8 + 12`) 
+- **Armor Class** 14 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 39 (6d8 + 12) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,17 +76,17 @@ title: Duergar Mind Master
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +2
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., [truesight](Mechanics/CLI/rules/senses.md#Truesight) 30 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., [truesight](/Mechanics/CLI/senses.md#Truesight) 30 ft., passive Perception 12
 - **Damage Resistances** poison
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 2
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) conditions.
+***Duergar Resilience.*** The duergar has advantage on saving throws against spells and the [charmed](/Mechanics/CLI/conditions.md#Charmed), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and [poisoned](/Mechanics/CLI/conditions.md#Poisoned) conditions.
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -79,13 +94,13 @@ title: Duergar Mind Master
 
 ***Mind-Poison Dagger.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 5 (`1d4 + 3`) piercing damage plus 10 (`3d6`) psychic damage, or 1 piercing damage plus 10 (`3d6`) psychic damage while under the effect of Reduce.
 
-***Invisibility (Recharge 4-6).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Invisibility (Recharge 4-6).*** The duergar magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) for up to 1 hour or until it attacks, it forces a creature to make a saving throw, or its [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 
-***Mind Mastery.*** The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction, if available, either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) are immune to this effect.
+***Mind Mastery.*** The duergar targets one creature it can see within 60 feet of it. The target must succeed on a DC 12 Intelligence saving throw, or the duergar causes it to use its reaction, if available, either to make one weapon attack against another creature the duergar can see or to move up to 10 feet in a direction of the duergar's choice. Creatures that can't be [charmed](/Mechanics/CLI/conditions.md#Charmed) are immune to this effect.
 
 ## Bonus Actions
 
-***Reduce (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
+***Reduce (Recharges after a Short or Long Rest).*** For 1 minute, the duergar magically decreases in size, along with anything it is wearing or carrying. While reduced, the duergar is Tiny, reduces its weapon damage to 1, and makes attack rolls, ability checks, and saving throws with disadvantage if they use Strength. It gains a +5 bonus to all Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks and a +5 bonus to its AC. It can also take a bonus action on each of its turns to take the [Hide](/Mechanics/CLI/actions.md#Hide) action.
 ```
 
 ^statblock
@@ -93,3 +108,7 @@ title: Duergar Mind Master
 ## Environment
 
 mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 108_

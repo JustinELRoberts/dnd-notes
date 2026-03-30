@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ox
-created: 2026-03-09T12:15:33.845-04:00
-modified: 2026-03-09T12:15:33.845-04:00
-published: 2026-03-09T12:15:33.845-04:00
+created: 2026-03-29T21:53:55.635-04:00
+modified: 2026-03-29T21:53:55.635-04:00
+published: 2026-03-29T21:53:55.635-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -15,11 +15,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ox (MPMM)
+ac: 10
+hp: 15
+modifier: 0
+hit_dice: 2d10 + 4
+cr: 1/4
+stats:
+  - 18
+  - 10
+  - 14
+  - 2
+  - 10
+  - 4
+source:
+  - MPMM
+  - VGM
 ---
 
 # Ox
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208_
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
 
@@ -31,11 +47,11 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
 
 ```ad-statblock
 title: Ox
-![](Mechanics/CLI/bestiary/beast/token/ox-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/ox-mpmm.webp#token)
 *Large beast (cattle), Unaligned*
 
 - **Armor Class** 10 
-- **Hit Points** 15 (`2d10 + 4`) 
+- **Hit Points** 15 (2d10 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -63,3 +79,7 @@ title: Ox
 ## Environment
 
 grassland, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grick
-created: 2026-03-09T12:15:34.033-04:00
-modified: 2026-03-09T12:15:34.033-04:00
-published: 2026-03-09T12:15:34.033-04:00
+created: 2026-03-29T21:53:56.046-04:00
+modified: 2026-03-29T21:53:56.046-04:00
+published: 2026-03-29T21:53:56.046-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Grick
+ac: 14
+hp: 27
+modifier: 2
+hit_dice: 6d8
+cr: "2"
+stats:
+  - 14
+  - 14
+  - 11
+  - 3
+  - 14
+  - 5
+source:
+  - MM
 ---
 
 # Grick
 
-_Source: Monster Manual p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/grick.webp#right)
-
 The wormlike grick waits unseen, blending in with the rock of the caves and caverns it haunts. Only when prey comes near does it rear up, its four barbed tentacles unfurling to reveal its hungry, snapping beak.
 
 ## Passive Predators
@@ -40,11 +55,11 @@ Over time, grick lairs accumulate the cast-off possessions of intelligent prey, 
 
 ```ad-statblock
 title: Grick
-![](Mechanics/CLI/bestiary/monstrosity/token/grick.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/grick.webp#token)
 *Medium monstrosity, Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 27 (`6d8`) 
+- **Hit Points** 27 (6d8) 
 - **Speed** 30 ft., climb 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,14 +69,14 @@ title: Grick
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Languages** —
 - **Challenge** 2
 
 ## Traits
 
-***Stone Camouflage.*** The grick has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The grick has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 
 ## Actions
 
@@ -77,3 +92,7 @@ title: Grick
 ## Environment
 
 underdark, forest
+
+## Sources
+
+_Monster Manual p. 173. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Antimatter Carbine
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.096-04:00
-published: 2026-03-09T12:15:34.096-04:00
+created: 2026-03-29T21:53:56.127-04:00
+modified: 2026-03-29T21:53:56.127-04:00
+published: 2026-03-29T21:53:56.127-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/item/rarity/none
@@ -21,10 +21,12 @@ _Weapon_
 
 - **Damage**: 2d6 necrotic
 - **Range**: 80/320
-- **Properties**: [Blaster](Mechanics/CLI/rules/item-properties.md#Blaster), [Futuristic Era](Mechanics/CLI/rules/item-properties.md#Futuristic%20Era), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Blaster](/Mechanics/CLI/item-properties.md#Blaster), [Futuristic Era](/Mechanics/CLI/item-properties.md#Futuristic%20Era), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 400 gp
 - **Weight**: 4.0 lbs.
 
-A more lethal model of the [Standard Carbine](Mechanics/CLI/items/standard-carbine-valdaspire24extras.md), this rifle can automatically fire bolts of antimatter with surprising accuracy.
+A more lethal model of the [Standard Carbine](/Mechanics/CLI/items/standard-carbine-valdaspire24extras.md), this rifle can automatically fire bolts of antimatter with surprising accuracy.
 
-_Source: Valda's Spire of Secrets Extras (2024)_
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

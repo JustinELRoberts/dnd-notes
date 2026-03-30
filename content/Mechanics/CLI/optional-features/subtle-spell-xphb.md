@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Subtle Spell
-created: 2026-03-09T12:15:33.884-04:00
-modified: 2026-03-09T12:15:33.885-04:00
-published: 2026-03-09T12:15:33.885-04:00
+created: 2026-03-29T21:53:55.679-04:00
+modified: 2026-03-29T21:53:55.679-04:00
+published: 2026-03-29T21:53:55.679-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/mm

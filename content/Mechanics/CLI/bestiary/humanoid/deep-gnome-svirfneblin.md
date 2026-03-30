@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deep Gnome (Svirfneblin)
-created: 2026-03-09T12:15:33.789-04:00
-modified: 2026-03-09T12:15:33.789-04:00
-published: 2026-03-09T12:15:33.789-04:00
+created: 2026-03-29T21:53:55.566-04:00
+modified: 2026-03-29T21:53:55.566-04:00
+published: 2026-03-29T21:53:55.566-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deep Gnome (Svirfneblin)
+ac: 15
+hp: 16
+modifier: 2
+hit_dice: 3d6 + 6
+cr: 1/2
+stats:
+  - 15
+  - 14
+  - 14
+  - 12
+  - 10
+  - 9
+source:
+  - MM
 ---
 
 # Deep Gnome (Svirfneblin)
 
-_Source: Monster Manual p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/deep-gnome-svirfneblin.webp#right)
-
 Deep gnomes, or svirfneblin, live far below the world's surface in twisting warrens and sculpted caverns. They survive by virtue of their stealth, cleverness, and tenacity. Their gray skin allows them to blend in with surrounding stonework. They are also surprisingly heavy and strong for their size. An average adult weighs 100 to 120 pounds and stands 3 feet tall.
 
 A typical svirfneblin enclave contains several hundred deep gnomes and is strongly fortified. Secret tunnels lead to and from the settlement, and the deep gnomes use these as evacuation routes when the enclave comes under attack.
@@ -41,11 +56,11 @@ Deep gnomes are often encountered in the company of creatures from the Elemental
 
 ```ad-statblock
 title: Deep Gnome (Svirfneblin)
-![](Mechanics/CLI/bestiary/humanoid/token/deep-gnome-svirfneblin.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/deep-gnome-svirfneblin.webp#token)
 *Small humanoid (gnome), Neutral Good*
 
-- **Armor Class** 15 ([chain shirt](Mechanics/CLI/items/chain-shirt-xphb.md))
-- **Hit Points** 16 (`3d6 + 6`) 
+- **Armor Class** 15 ([chain shirt](/Mechanics/CLI/items/chain-shirt.md))
+- **Hit Points** 16 (3d6 + 6) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -54,9 +69,8 @@ title: Deep Gnome (Svirfneblin)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Investigation](Mechanics/CLI/rules/skills.md#Investigation) +3, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
-- **Gear** [war pick](Mechanics/CLI/items/war-pick-xphb.md)
+- **Skills** [Investigation](/Mechanics/CLI/skills.md#Investigation) +3, [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Languages** Gnomish, Terran, Undercommon
 - **Challenge** 1/2
 
@@ -64,11 +78,11 @@ title: Deep Gnome (Svirfneblin)
 
 ***Innate Spellcasting.*** The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-**At will:** [nondetection](Mechanics/CLI/spells/nondetection-xphb.md) (self only)
+**At will:** [nondetection](/Mechanics/CLI/spells/nondetection-xphb.md) (self only)
 
-**1/day each:** [blindness/deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](Mechanics/CLI/spells/blur-xphb.md), [disguise self](Mechanics/CLI/spells/disguise-self-xphb.md)
+**1/day each:** [blindness/deafness](/Mechanics/CLI/spells/blindness-deafness-xphb.md), [blur](/Mechanics/CLI/spells/blur-xphb.md), [disguise self](/Mechanics/CLI/spells/disguise-self-xphb.md)
 
-***Stone Camouflage.*** The gnome has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The gnome has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 
 ***Gnome Cunning.*** The gnome has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
 
@@ -76,7 +90,7 @@ title: Deep Gnome (Svirfneblin)
 
 ***War Pick.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 
-***Poisoned Dart.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success
+***Poisoned Dart.*** *Ranged Weapon Attack:* `+4` to hit, range 30/120 ft., one creature. *Hit:* 4 (`1d4 + 2`) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success
 ```
 
 ^statblock
@@ -84,3 +98,7 @@ title: Deep Gnome (Svirfneblin)
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 164. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

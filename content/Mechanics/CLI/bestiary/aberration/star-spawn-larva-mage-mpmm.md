@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Star Spawn Larva Mage
-created: 2026-03-09T12:15:33.898-04:00
-modified: 2026-03-09T12:15:33.898-04:00
-published: 2026-03-09T12:15:33.898-04:00
+created: 2026-03-29T21:53:55.895-04:00
+modified: 2026-03-29T21:53:55.895-04:00
+published: 2026-03-29T21:53:55.895-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/16
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Star Spawn Larva Mage (MPMM)
+ac: 16
+hp: 168
+modifier: 1
+hit_dice: 16d8 + 96
+cr: "16"
+stats:
+  - 17
+  - 12
+  - 23
+  - 18
+  - 12
+  - 16
+source:
+  - MPMM
 ---
 
 # Star Spawn Larva Mage
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 228_\
 ![](Mechanics/CLI/bestiary/aberration/img/star-spawn-larva-mage.webp#right)
-
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
 
 ## Star Spawn
@@ -51,11 +66,11 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
 
 ```ad-statblock
 title: Star Spawn Larva Mage
-![](Mechanics/CLI/bestiary/aberration/token/star-spawn-larva-mage-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/star-spawn-larva-mage-mpmm.webp#token)
 *Medium aberration, Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 168 (`16d8 + 96`) 
+- **Hit Points** 168 (16d8 + 96) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -64,33 +79,33 @@ title: Star Spawn Larva Mage
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +6, Wisdom +6, Charisma +8
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 16
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** psychic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** Deep Speech
 - **Challenge** 16
 
 ## Traits
 
-***Return to Worms.*** When the mage is reduced to 0 hit points, it breaks apart into a [swarm of insects](Mechanics/CLI/bestiary/beast/swarm-of-insects.md) in the same space. Unless the swarm is destroyed, the mage reforms from it 24 hours later.
+***Return to Worms.*** When the mage is reduced to 0 hit points, it breaks apart into a [swarm of insects](/Mechanics/CLI/bestiary/beast/swarm-of-insects.md) in the same space. Unless the swarm is destroyed, the mage reforms from it 24 hours later.
 
 ## Actions
 
 ***Multiattack.*** The mage makes three Slam or Eldritch Bolt attacks.
 
-***Slam.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage, and the target must succeed on a DC 19 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the end of its next turn.
+***Slam.*** *Melee Weapon Attack:* `+8` to hit, reach 10 ft., one target. *Hit:* 7 (`1d8 + 3`) bludgeoning damage, and the target must succeed on a DC 19 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the end of its next turn.
 
 ***Eldritch Bolt.*** *Ranged Spell Attack:* `+8` to hit, range 60 ft., one target. *Hit:* 19 (`3d10 + 3`) force damage.
 
-***Plague of Worms (Recharge 6).*** Each creature other than a star spawn within 10 feet of the mage must succeed on a DC 19 Dexterity saving throw or take 22 (`5d8`) necrotic damage and be [blinded](Mechanics/CLI/rules/conditions.md#Blinded) and [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by masses of swarming worms. The affected creature takes 22 (`5d8`) necrotic damage at the start of each of the mage's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Plague of Worms (Recharge 6).*** Each creature other than a star spawn within 10 feet of the mage must succeed on a DC 19 Dexterity saving throw or take 22 (`5d8`) necrotic damage and be [blinded](/Mechanics/CLI/conditions.md#Blinded) and [restrained](/Mechanics/CLI/conditions.md#Restrained) by masses of swarming worms. The affected creature takes 22 (`5d8`) necrotic damage at the start of each of the mage's turns. The creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Spellcasting.*** The mage casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 16):
 
-**At will:** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [message](Mechanics/CLI/spells/message-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md)
+**At will:** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [message](/Mechanics/CLI/spells/message-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md)
 
-**1/day:** [dominate monster](Mechanics/CLI/spells/dominate-monster-xphb.md)
+**1/day:** [dominate monster](/Mechanics/CLI/spells/dominate-monster-xphb.md)
 
 ## Reactions
 
@@ -104,7 +119,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the star sp
 
 ***Eldritch Bolt (Costs 2 Actions).*** The mage makes one Eldritch Bolt attack.
 
-***Feed (Costs 3 Actions).*** Each creature [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the mage's Plague of Worms takes 13 (`3d8`) necrotic damage, and the mage gains 6 temporary hit points.
+***Feed (Costs 3 Actions).*** Each creature [restrained](/Mechanics/CLI/conditions.md#Restrained) by the mage's Plague of Worms takes 13 (`3d8`) necrotic damage, and the mage gains 6 temporary hit points.
 ```
 
 ^statblock
@@ -112,3 +127,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the star sp
 ## Environment
 
 mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 228_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Scrying
-created: 2026-03-09T12:15:34.108-04:00
-modified: 2026-03-09T12:15:34.108-04:00
-published: 2026-03-09T12:15:34.108-04:00
+created: 2026-03-29T21:53:56.143-04:00
+modified: 2026-03-29T21:53:56.143-04:00
+published: 2026-03-29T21:53:56.143-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/warlock
@@ -15,8 +16,10 @@ tags:
   - ttrpg-cli/spell/level/5th-level
   - ttrpg-cli/spell/school/divination
   - ttrpg-cli/spell/subclass/cartographer
+  - ttrpg-cli/spell/subclass/circle-of-the-land/coast
   - ttrpg-cli/spell/subclass/divine-soul/good
   - ttrpg-cli/spell/subclass/diviner
+  - ttrpg-cli/spell/subclass/knowledge-domain
   - ttrpg-cli/spell/subclass/light-domain
   - ttrpg-cli/spell/subclass/oath-of-the-watchers
   - ttrpg-cli/spell/subclass/oath-of-vengeance
@@ -25,20 +28,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Artificer (Cartographer)
-  - Bard
-  - Cleric
-  - Cleric (Light Domain)
-  - Druid
-  - Necromancer (Pale Master)
-  - Paladin (Oath of Vengeance)
-  - Paladin (Oath of the Watchers)
-  - Sorcerer (Divine Soul, Good)
-  - Warlock
-  - Witch (Tea Magic)
-  - Wizard
-  - Wizard (Diviner)
 ---
 
 # Scrying
@@ -69,10 +58,35 @@ You can see and hear a creature you choose that is on the same plane of existenc
 
 On a successful save, the target isn't affected, and you can't use this spell on it again for 24 hours.
 
-On a failed save, the spell creates an [Invisible](Mechanics/CLI/rules/conditions.md#Invisible), intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
+On a failed save, the spell creates an [Invisible](/Mechanics/CLI/conditions.md#Invisible), intangible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. If something can see the sensor, it appears as a luminous orb about the size of your fist.
 
 Instead of targeting a creature, you can target a location you have seen. When you do so, the sensor appears at that location and doesn't move.
 
-**Classes**: [Artificer (Cartographer)](Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Light Domain)](Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB"); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Necromancer (Pale Master)](Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Vengeance)](Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB"); [Paladin (Oath of the Watchers)](Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Witch (Tea Magic)](Mechanics/CLI/lists/list-spells-classes-tea-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Cleric (Knowledge Domain)](/Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB")
+- [Cleric (Light Domain)](/Mechanics/CLI/lists/list-spells-classes-light-domain.md "class=XPHB")
+- [Cleric (Light Domain)](/Mechanics/CLI/lists/list-spells-classes-light-domain-xphb.md "subclass=XPHB;class=XPHB")
+- [Paladin (Oath of the Watchers)](/Mechanics/CLI/lists/list-spells-classes-oath-of-the-watchers-tce.md "subclass=TCE")
+- [Artificer (Cartographer)](/Mechanics/CLI/lists/list-spells-classes-cartographer-efa.md "subclass=EFA;class=EFA")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Paladin (Oath of Vengeance)](/Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance.md)
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Cleric (Light Domain)](/Mechanics/CLI/lists/list-spells-classes-light-domain.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch (Tea Magic)](/Mechanics/CLI/lists/list-spells-classes-tea-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Necromancer (Pale Master)](/Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Druid (Circle of the Land, Coast)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md "class=XPHB")
+- [Paladin (Oath of Vengeance)](/Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Coast)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md)
+- [Cleric (Knowledge Domain)](/Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Wizard (Diviner)](/Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 313. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Pass without Trace
-created: 2026-03-09T12:15:33.917-04:00
-modified: 2026-03-09T12:15:33.917-04:00
-published: 2026-03-09T12:15:33.917-04:00
+created: 2026-03-29T21:53:55.921-04:00
+modified: 2026-03-29T21:53:55.921-04:00
+published: 2026-03-29T21:53:55.921-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/ranger
   - ttrpg-cli/spell/feat/mark-of-passage
@@ -17,19 +18,14 @@ tags:
   - ttrpg-cli/spell/race/elf/wood-elf
   - ttrpg-cli/spell/school/abjuration
   - ttrpg-cli/spell/subclass/burden-of-rebirth
+  - ttrpg-cli/spell/subclass/circle-of-the-land/grassland
   - ttrpg-cli/spell/subclass/college-of-lore
   - ttrpg-cli/spell/subclass/trickery-domain
+  - ttrpg-cli/spell/subclass/way-of-shadow
   - ttrpg-cli/spell/subrace/genasi-earth
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Trickery Domain)
-  - Druid
-  - Martyr (Burden of Rebirth)
-  - Ranger
 ---
 
 # Pass without Trace
@@ -41,8 +37,28 @@ _2nd-level, Abjuration_
 - **Components:** V, S, M (ashes from burned mistletoe)
 - **Duration:** Concentration, up to 1 hour
 
-You radiate a concealing aura in a 30-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks and leave no tracks.
+You radiate a concealing aura in a 30-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) for the duration. While in the aura, you and each creature you choose have a +10 bonus to Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks and leave no tracks.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Trickery Domain)](Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB"); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Martyr (Burden of Rebirth)](Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Ranger](Mechanics/CLI/lists/list-spells-classes-ranger.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Druid (Circle of the Land, Grassland)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md)
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain-xphb.md "subclass=XPHB;class=XPHB")
+- [Wood Elf Magic](/Mechanics/CLI/lists/list-spells-feats-wood-elf-magic-xge.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Monk (Way of Shadow)](/Mechanics/CLI/lists/list-spells-classes-way-of-shadow.md)
+- [Elf (Wood Elf)](/Mechanics/CLI/lists/list-spells-races-elf-xphb.md)
+- [Genasi (Earth)](/Mechanics/CLI/lists/list-spells-races-genasi-earth-mpmm.md)
+- [Ranger](/Mechanics/CLI/lists/list-spells-classes-ranger.md)
+- [Martyr (Burden of Rebirth)](/Mechanics/CLI/lists/list-spells-classes-burden-of-rebirth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Mark of Passage](/Mechanics/CLI/lists/list-spells-feats-mark-of-passage-efa.md)
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain.md "class=XPHB")
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Cleric (Trickery Domain)](/Mechanics/CLI/lists/list-spells-classes-trickery-domain.md)
+- [Mark of Shadow](/Mechanics/CLI/lists/list-spells-feats-mark-of-shadow-efa.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Druid (Circle of the Land, Grassland)](/Mechanics/CLI/lists/list-spells-classes-circle-of-the-land.md "class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

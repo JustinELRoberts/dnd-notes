@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Leucrotta
-created: 2026-03-09T12:15:33.899-04:00
-modified: 2026-03-09T12:15:33.899-04:00
-published: 2026-03-09T12:15:33.899-04:00
+created: 2026-03-29T21:53:55.895-04:00
+modified: 2026-03-29T21:53:55.895-04:00
+published: 2026-03-29T21:53:55.895-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Leucrotta (MPMM)
+ac: 14
+hp: 67
+modifier: 2
+hit_dice: 9d10 + 18
+cr: "3"
+stats:
+  - 18
+  - 14
+  - 15
+  - 9
+  - 12
+  - 6
+source:
+  - MPMM
+  - VGM
 ---
 
 # Leucrotta
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/leucrotta.webp#right)
-
 A leucrotta is what you would get if you took the head of a giant badger, the legs of a deer, and the body of a large hyena, then put them together and reanimated them with demon ichor without bothering to cover up the stink of death.
 
 The first leucrottas came into being alongside some gnolls during the rampages of Yeenoghu on the Material Plane. While many of the hyenas that ate Yeenoghu's kills transformed into gnolls, others underwent more bizarre changes; leucrottas were the most numerous of these.
@@ -34,11 +50,11 @@ A leucrotta's stench would normally warn away prey long before the creature coul
 
 ```ad-statblock
 title: Leucrotta
-![](Mechanics/CLI/bestiary/monstrosity/token/leucrotta-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/leucrotta-mpmm.webp#token)
 *Large monstrosity, Typically  Chaotic Evil*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 67 (`9d10 + 18`) 
+- **Hit Points** 67 (9d10 + 18) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,16 +63,16 @@ title: Leucrotta
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +2, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +2, [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** Abyssal, Gnoll
 - **Challenge** 3
 
 ## Traits
 
-***Mimicry.*** The leucrotta can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check.
+***Mimicry.*** The leucrotta can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations only with a successful DC 14 Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check.
 
-***Stench.*** Any creature other than a leucrotta or gnoll that starts its turn within 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all leucrottas for 1 hour.
+***Stench.*** Any creature other than a leucrotta or gnoll that starts its turn within 5 feet of the leucrotta must succeed on a DC 12 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of all leucrottas for 1 hour.
 
 ## Actions
 
@@ -68,7 +84,7 @@ title: Leucrotta
 
 ## Bonus Actions
 
-***Kicking Retreat.*** Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](Mechanics/CLI/rules/actions.md#Disengage) action.
+***Kicking Retreat.*** Immediately after the leucrotta makes a Hooves attack, it takes the [Disengage](/Mechanics/CLI/actions.md#Disengage) action.
 ```
 
 ^statblock
@@ -76,3 +92,7 @@ title: Leucrotta
 ## Environment
 
 desert, grassland
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 170, Volo's Guide to Monsters p. 169_

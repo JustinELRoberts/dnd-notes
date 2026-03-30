@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Potion of Fire Breath
-created: 2026-03-09T12:15:34.123-04:00
-modified: 2026-03-09T12:15:34.123-04:00
-published: 2026-03-09T12:15:34.123-04:00
+created: 2026-03-29T21:53:56.164-04:00
+modified: 2026-03-29T21:53:56.164-04:00
+published: 2026-03-29T21:53:56.164-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -19,6 +19,11 @@ obsidianUIMode: preview
 
 _Potion, minor, uncommon_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Dexterity saving throw, taking `4d6` fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened.
 
-_Source: Dungeon Master's Guide p. 187_
+## Sources
+
+_Dungeon Master's Guide p. 187_

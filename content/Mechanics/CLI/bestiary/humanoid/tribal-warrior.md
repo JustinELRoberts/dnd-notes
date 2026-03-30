@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tribal Warrior
-created: 2026-03-09T12:15:34.045-04:00
-modified: 2026-03-09T12:15:34.045-04:00
-published: 2026-03-09T12:15:34.045-04:00
+created: 2026-03-29T21:53:56.056-04:00
+modified: 2026-03-29T21:53:56.056-04:00
+published: 2026-03-29T21:53:56.056-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -22,21 +22,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Tribal Warrior
+ac: 12
+hp: 11
+modifier: 0
+hit_dice: 2d8 + 2
+cr: 1/8
+stats:
+  - 13
+  - 11
+  - 12
+  - 8
+  - 11
+  - 8
+source:
+  - MM
 ---
 
 # Tribal Warrior
-
-_Source: Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 Tribal warriors live beyond civilization, most often subsisting on fishing and hunting. Each tribe acts in accordance with the wishes of its chief, who is the greatest or oldest warrior of the tribe or a tribe member blessed by the gods.
 
 ```ad-statblock
 title: Tribal Warrior
-![](Mechanics/CLI/bestiary/humanoid/token/tribal-warrior.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/tribal-warrior.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 12 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Armor Class** 12 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,13 +62,12 @@ title: Tribal Warrior
 - **Saving Throws** ⏤
 - **Skills** ⏤
 - **Senses** passive Perception 10
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** any one language
 - **Challenge** 1/8
 
 ## Traits
 
-***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The warrior has advantage on an attack roll against a creature if at least one of the warrior's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -65,3 +79,7 @@ title: Tribal Warrior
 ## Environment
 
 coastal, mountain, grassland, hill, arctic, forest, swamp, underdark, desert
+
+## Sources
+
+_Monster Manual p. 350. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

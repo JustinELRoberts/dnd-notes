@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Red Slaad
-created: 2026-03-09T12:15:34.019-04:00
-modified: 2026-03-09T12:15:34.019-04:00
-published: 2026-03-09T12:15:34.019-04:00
+created: 2026-03-29T21:53:56.029-04:00
+modified: 2026-03-29T21:53:56.029-04:00
+published: 2026-03-29T21:53:56.029-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Red Slaad
+ac: 14
+hp: 93
+modifier: 1
+hit_dice: 11d10 + 33
+cr: "5"
+stats:
+  - 16
+  - 12
+  - 16
+  - 6
+  - 6
+  - 7
+source:
+  - MM
 ---
 
 # Red Slaad
 
-_Source: Monster Manual p. 276_\
 ![](Mechanics/CLI/bestiary/aberration/img/red-slaad.webp#right)
-
 When a red slaad claws a humanoid creature, it can inject an egg from a gland under one of its claws. The egg works its way into its host and gestates, eventually forming a slaad tadpole. Such a tadpole then eats its way out of the host's body, feeds on the host's remains, and then seeks any other fresh meat it can find. The tadpole transforms into a fully grown blue slaad-or green slaad if the host had the ability to cast 3rd level spells or higher-within `2d12` hours.
 
 ## Slaadi
@@ -46,13 +61,13 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 >
 > A slaad born from something other than the Spawning Stone has no gem in its brain, but it gains one if it ever comes into contact with the Spawning Stone. Slaadi on Limbo are attracted to the Spawning Stone, so most end up with a gem. A slaad with a control gem in its brain has the following additional trait.
 >
-> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) while so controlled.
+> **Control Gem.** Implanted in the slaad's brain is a magic control gem. The slaad must obey whoever possesses the gem and is immune to being [charmed](/Mechanics/CLI/conditions.md#Charmed) while so controlled.
 >
-> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](Mechanics/CLI/spells/wish-xphb.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
+> Certain spells can be used to acquire the gem. If the slaad fails its saving throw against imprisonment, the spell can transfer the gem to the spellcaster's open hand, instead of imprisoning the slaad. A [wish](/Mechanics/CLI/spells/wish-xphb.md) spell, if cast in the slaad's presence, can be worded to acquire the gem.
 >
-> A [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the slaad destroys the gem without harming the slaad.
+> A [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell cast on the slaad destroys the gem without harming the slaad.
 >
-> Someone who is proficient in Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) can remove the gem from an [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
+> Someone who is proficient in Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) can remove the gem from an [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check. Each failed attempt deals 22 (`4d10`) psychic damage to the slaad.
 > ^variant-slaad-control-gems
 
 > [!quote]
@@ -63,11 +78,11 @@ Some slaadi can transform into the humanoid creatures from which they were origi
 
 ```ad-statblock
 title: Red Slaad
-![](Mechanics/CLI/bestiary/aberration/token/red-slaad.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/red-slaad.webp#token)
 *Large aberration, Chaotic Neutral*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 93 (`11d10 + 33`) 
+- **Hit Points** 93 (11d10 + 33) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -76,8 +91,8 @@ title: Red Slaad
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +1
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +1
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Resistances** acid, cold, fire, lightning, thunder
 - **Languages** Slaad, telepathy 60 ft.
 - **Challenge** 5
@@ -96,9 +111,13 @@ title: Red Slaad
 
 ***Claw.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 7 (`1d8 + 3`) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected with a disease—a minuscule slaad egg.
 
-A humanoid host can carry only one slaad egg to term at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a [slaad tadpole](Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md). In the 24-hour period before giving birth, the host starts to feel unwell, its speed is halved, and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
+A humanoid host can carry only one slaad egg to term at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a [slaad tadpole](/Mechanics/CLI/bestiary/aberration/slaad-tadpole-xmm.md). In the 24-hour period before giving birth, the host starts to feel unwell, its speed is halved, and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
 
 If the disease is cured before the tadpole's emergence, the unborn slaad is disintegrated.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 276_

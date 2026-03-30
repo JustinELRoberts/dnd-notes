@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Quetzalcoatlus
-created: 2026-03-09T12:15:33.960-04:00
-modified: 2026-03-09T12:15:33.961-04:00
-published: 2026-03-09T12:15:33.961-04:00
+created: 2026-03-29T21:53:55.965-04:00
+modified: 2026-03-29T21:53:55.965-04:00
+published: 2026-03-29T21:53:55.965-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
@@ -16,21 +16,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Quetzalcoatlus (MPMM)
+ac: 13
+hp: 30
+modifier: 1
+hit_dice: 4d12 + 4
+cr: "2"
+stats:
+  - 15
+  - 13
+  - 13
+  - 2
+  - 10
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Quetzalcoatlus
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_
 
 This giant relative of the pteranodon has a wingspan exceeding 30 feet. Although it can walk like a quadruped, it is more comfortable in the air.
 
 ```ad-statblock
 title: Quetzalcoatlus
-![](Mechanics/CLI/bestiary/beast/token/quetzalcoatlus-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/quetzalcoatlus-mpmm.webp#token)
 *Huge beast (dinosaur), Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 30 (`4d12 + 4`) 
+- **Hit Points** 30 (4d12 + 4) 
 - **Speed** 10 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -39,14 +55,14 @@ title: Quetzalcoatlus
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
 - **Senses** passive Perception 12
 - **Languages** —
 - **Challenge** 2
 
 ## Traits
 
-***Flyby.*** The quetzalcoatlus doesn't provoke an [opportunity attack](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+***Flyby.*** The quetzalcoatlus doesn't provoke an [opportunity attack](/Mechanics/CLI/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
 
 ## Actions
 
@@ -58,3 +74,7 @@ title: Quetzalcoatlus
 ## Environment
 
 coastal, hill, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_

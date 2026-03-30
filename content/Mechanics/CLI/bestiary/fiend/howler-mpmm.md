@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Howler
-created: 2026-03-09T12:15:34.020-04:00
-modified: 2026-03-09T12:15:34.020-04:00
-published: 2026-03-09T12:15:34.020-04:00
+created: 2026-03-29T21:53:56.030-04:00
+modified: 2026-03-29T21:53:56.030-04:00
+published: 2026-03-29T21:53:56.030-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/8
@@ -17,11 +17,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Howler (MPMM)
+ac: 16
+hp: 90
+modifier: 3
+hit_dice: 12d10 + 24
+cr: "8"
+stats:
+  - 17
+  - 16
+  - 15
+  - 5
+  - 14
+  - 6
+source:
+  - MPMM
 ---
 
 # Howler
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 155_\
 ![](Mechanics/CLI/bestiary/fiend/img/howler.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -36,11 +52,11 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 
 ```ad-statblock
 title: Howler
-![](Mechanics/CLI/bestiary/fiend/token/howler-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/howler-mpmm.webp#token)
 *Large fiend, Typically  Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 90 (`12d10 + 24`) 
+- **Hit Points** 90 (12d10 + 24) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,24 +65,24 @@ title: Howler
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** understands Abyssal but can't speak
 - **Challenge** 8
 
 ## Traits
 
-***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
 ***Multiattack.*** The howler makes two Rending Bite attacks.
 
-***Rending Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage, plus 22 (`4d10`) psychic damage if the target is [frightened](Mechanics/CLI/rules/conditions.md#Frightened). This attack ignores damage resistance.
+***Rending Bite.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) piercing damage, plus 22 (`4d10`) psychic damage if the target is [frightened](/Mechanics/CLI/conditions.md#Frightened). This attack ignores damage resistance.
 
-***Mind-Breaking Howl (Recharge 4-6).*** The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (`3d10`) psychic damage and be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) until the end of the howler's next turn. While a creature is [frightened](Mechanics/CLI/rules/conditions.md#Frightened) in this way, its speed is halved, and it is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated). A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
+***Mind-Breaking Howl (Recharge 4-6).*** The howler emits a keening howl in a 60-foot cone. Each creature in that area must succeed on a DC 13 Wisdom saving throw or take 16 (`3d10`) psychic damage and be [frightened](/Mechanics/CLI/conditions.md#Frightened) until the end of the howler's next turn. While a creature is [frightened](/Mechanics/CLI/conditions.md#Frightened) in this way, its speed is halved, and it is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated). A target that successfully saves is immune to the Mind-Breaking Howl of all howlers for the next 24 hours.
 ```
 
 ^statblock
@@ -74,3 +90,7 @@ title: Howler
 ## Environment
 
 desert, grassland, hill, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 155_

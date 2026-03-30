@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Heavy Precipitation
-created: 2026-03-09T12:15:33.817-04:00
-modified: 2026-03-09T12:15:33.817-04:00
-published: 2026-03-09T12:15:33.817-04:00
+created: 2026-03-29T21:53:55.606-04:00
+modified: 2026-03-29T21:53:55.606-04:00
+published: 2026-03-29T21:53:55.606-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/hazard/wth
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _Weather_
 
-Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing.
+Everything within an area of heavy rain or heavy snowfall is lightly obscured, and creatures in the area have disadvantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight. Heavy rain also extinguishes open flames and imposes disadvantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing.
 
 ## Sources
 

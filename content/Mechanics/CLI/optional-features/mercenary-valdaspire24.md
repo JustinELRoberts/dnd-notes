@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mercenary
-created: 2026-03-09T12:15:33.774-04:00
-modified: 2026-03-09T12:15:33.774-04:00
-published: 2026-03-09T12:15:33.774-04:00
+created: 2026-03-29T21:53:55.556-04:00
+modified: 2026-03-29T21:53:55.556-04:00
+published: 2026-03-29T21:53:55.556-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/ainit
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Mercenary
 
-You mastered the fundamentals of war magic to engage in battle with similarly armed arcanists. You learn the [Mending](Mechanics/CLI/spells/mending-xphb.md) and [True Strike](Mechanics/CLI/spells/true-strike-xphb.md) cantrips and you gain proficiency in the [Athletics](Mechanics/CLI/rules/skills.md#Athletics) skill.
+You mastered the fundamentals of war magic to engage in battle with similarly armed arcanists. You learn the [Mending](/Mechanics/CLI/spells/mending-xphb.md) and [True Strike](/Mechanics/CLI/spells/true-strike-xphb.md) cantrips and you gain proficiency in the [Athletics](/Mechanics/CLI/skills.md#Athletics) skill.
 
 ## Sources
 

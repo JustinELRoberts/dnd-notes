@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Winter Wolf Pup
-created: 2026-03-09T12:15:34.046-04:00
-modified: 2026-03-09T12:15:34.046-04:00
-published: 2026-03-09T12:15:34.046-04:00
+created: 2026-03-29T21:53:56.057-04:00
+modified: 2026-03-29T21:53:56.057-04:00
+published: 2026-03-29T21:53:56.057-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/1-8
@@ -13,11 +13,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Winter Wolf Pup (ValdaSpire24)
+ac: 13
+hp: 10
+modifier: 1
+hit_dice: 3d6
+cr: 1/8
+stats:
+  - 9
+  - 12
+  - 11
+  - 6
+  - 12
+  - 7
+source:
+  - ValdaSpire24
 ---
 
 # Winter Wolf Pup
-
-_Source: Valda's Spire of Secrets (2024) p. 0_
 
 When fully grown, a winter wolf is an apex predator of the snow, a terror of teeth and fur, stalking the tundra in packs. But before they develop their fearsome freezing breath, winter wolf pups are far more amicable (perhaps because they have yet to realize the scope of their own might), and will dutifully follow a master that feeds them well and treats them with respect.
 
@@ -27,7 +42,7 @@ title: Winter Wolf Pup
 *Small monstrosity (Familiar), Neutral Evil*
 
 - **Armor Class** 13 
-- **Hit Points** 10 (`3d6`) 
+- **Hit Points** 10 (3d6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -36,7 +51,7 @@ title: Winter Wolf Pup
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
 - **Senses** passive Perception 13
 - **Damage Resistances** cold
 - **Languages** Common, Giant
@@ -44,7 +59,7 @@ title: Winter Wolf Pup
 
 ## Traits
 
-***Pack Tactics.*** The pup has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against a creature if at least one of the pup's [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) is within 5 feet of the creature and the [Ally](Mechanics/CLI/rules/variant-rules/ally-xphb.md) doesn't have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition.
+***Pack Tactics.*** The pup has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against a creature if at least one of the pup's [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) is within 5 feet of the creature and the [Ally](/Mechanics/CLI/variant-rules/ally-xphb.md) doesn't have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition.
 
 ## Actions
 
@@ -52,3 +67,7 @@ title: Winter Wolf Pup
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

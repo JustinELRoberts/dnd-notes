@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lion Banner
-created: 2026-03-09T12:15:33.902-04:00
-modified: 2026-03-09T12:15:33.903-04:00
-published: 2026-03-09T12:15:33.903-04:00
+created: 2026-03-29T21:53:55.901-04:00
+modified: 2026-03-29T21:53:55.901-04:00
+published: 2026-03-29T21:53:55.901-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/captain/lion-banner
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Lion Banner
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,7 +62,7 @@ If you use your Born Leader maneuver and the check still fails, you don't expend
 
 ### Challenge \[Maneuver] (Level 3)
 
-When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to goad the target into attacking you. Add the Battle Die to the attack's damage roll. Until the start of your next turn, the target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you while you are within 5 feet of the target.
+When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to goad the target into attacking you. Add the Battle Die to the attack's damage roll. Until the start of your next turn, the target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls against creatures other than you while you are within 5 feet of the target.
 
 ### High Morale (Level 6)
 
@@ -71,8 +70,12 @@ You can use your Morale Boost maneuver when two or more creatures, including you
 
 ### Vengeful Gambit (Level 10)
 
-When a creature under the effect of your Challenge maneuver hits you with an attack, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to gain [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to the attack's damage for that attack and make an attack against that creature using a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md) as a part of the same [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md).
+When a creature under the effect of your Challenge maneuver hits you with an attack, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to gain [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to the attack's damage for that attack and make an attack against that creature using a weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md) as a part of the same [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md).
 
 ### Heroic Leadership (Level 14)
 
-When you use your Bolster or Rally maneuver, the target gains [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md) if it doesn't already have it.
+When you use your Bolster or Rally maneuver, the target gains [Heroic Inspiration](/Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md) if it doesn't already have it.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

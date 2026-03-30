@@ -2,11 +2,12 @@
 publish: true
 aliases:
   - Accursed Act
-created: 2026-03-09T12:15:33.952-04:00
-modified: 2026-03-09T12:15:33.953-04:00
-published: 2026-03-09T12:15:33.953-04:00
+created: 2026-03-29T21:53:55.954-04:00
+modified: 2026-03-29T21:53:55.954-04:00
+published: 2026-03-29T21:53:55.954-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/witch
   - ttrpg-cli/spell/feat/fey-touched
   - ttrpg-cli/spell/level/1st-level
@@ -14,8 +15,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Witch
 ---
 
 # Accursed Act
@@ -31,6 +30,12 @@ Lighting a candle, you attempt to curse a creature you can see within range. The
 
 **Using a Higher-Level Spell Slot.** The damage increases by `1d8` for each spell slot level above 1.
 
-**Classes**: [Witch](Mechanics/CLI/lists/list-spells-classes-witch.md)
+**References**:
 
-_Source: Valda's Spire of Secrets (2024) p. 0_
+- [Fey-Touched](/Mechanics/CLI/lists/list-spells-feats-fey-touched-xphb.md)
+- [Witch](/Mechanics/CLI/lists/list-spells-classes-witch.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

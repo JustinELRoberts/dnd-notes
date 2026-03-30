@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Skulker
-created: 2026-03-09T12:15:33.877-04:00
-modified: 2026-03-09T12:15:33.877-04:00
-published: 2026-03-09T12:15:33.877-04:00
+created: 2026-03-29T21:53:55.670-04:00
+modified: 2026-03-29T21:53:55.670-04:00
+published: 2026-03-29T21:53:55.670-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Dexterity score by 1, to a maximum of 20.
 
-**Blindsight.** You have [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 10 feet.
+**Blindsight.** You have [Blindsight](/Mechanics/CLI/senses.md#Blindsight) with a range of 10 feet.
 
-**Fog of War.** You exploit the distractions of battle, gaining [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) check you make as part of the [Hide](Mechanics/CLI/rules/actions.md#Hide) action during combat.
+**Fog of War.** You exploit the distractions of battle, gaining [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on any Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) check you make as part of the [Hide](/Mechanics/CLI/actions.md#Hide) action during combat.
 
 **Sniper.** If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.
 

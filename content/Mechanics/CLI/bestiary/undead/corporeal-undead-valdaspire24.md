@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Corporeal Undead
-created: 2026-03-09T12:15:34.106-04:00
-modified: 2026-03-09T12:15:34.106-04:00
-published: 2026-03-09T12:15:34.106-04:00
+created: 2026-03-29T21:53:56.141-04:00
+modified: 2026-03-29T21:53:56.141-04:00
+published: 2026-03-29T21:53:56.141-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -14,11 +14,24 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Corporeal Undead (ValdaSpire24)
+ac: 10
+modifier: 0
+stats:
+  - 16
+  - 10
+  - 13
+  - 9
+  - 12
+  - 9
+source:
+  - ValdaSpire24
 ---
 
 # Corporeal Undead
 
-_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaCaptain/Creatures/Corporeal%20Undead.webp#center)
 
 ```ad-statblock
@@ -37,9 +50,9 @@ title: Corporeal Undead
 - **Proficiency Bonus** +2
 - **Saving Throws** 3+PB, 1+PB
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Common plus one other language, but can't speak
 - **Challenge** 
 
@@ -47,17 +60,17 @@ title: Corporeal Undead
 
 ***Proficiencies.*** Simple weapons; Light and Medium armor, Shields
 
-***Reanimate (1/Day).*** If reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) but not destroyed outright, the undead revives with half of its [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) after 1 minute.
+***Reanimate (1/Day).*** If reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) but not destroyed outright, the undead revives with half of its [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) after 1 minute.
 
 ***Level 5.*** Undead Excellence. The undead has a +1 bonus to its attack and damage rolls. This bonus increases to +2 at Captain level 9, and +3 at Captain level 13.
 
-***Level 13.*** Regeneration. The undead regains 5 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) at the start of each of its turns if it is [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied) and has at least 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md).
+***Level 13.*** Regeneration. The undead regains 5 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) at the start of each of its turns if it is [Bloodied](/Mechanics/CLI/conditions.md#Bloodied) and has at least 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md).
 
 ## Actions
 
-***Slam.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d8` plus your Charisma modifier Bludgeoning damage. If the target is a Large or smaller creature, it has the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) condition (escape DC equals your Cohort save DC).
+***Slam.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d8` plus your Charisma modifier Bludgeoning damage. If the target is a Large or smaller creature, it has the [Grappled](/Mechanics/CLI/conditions.md#Grappled) condition (escape DC equals your Cohort save DC).
 
-***Level 17.*** Paralytic Bite (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 5 feet. *Failure:* The target has the [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) condition until the end of its next turn. *Success:* The target's [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is halved until the start of the undead's next turn.
+***Level 17.*** Paralytic Bite (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 5 feet. *Failure:* The target has the [Paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) condition until the end of its next turn. *Success:* The target's [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is halved until the start of the undead's next turn.
 
 ## Bonus Actions
 
@@ -65,7 +78,11 @@ title: Corporeal Undead
 
 ## Reactions
 
-***Level 5.*** Undead Resilience. Trigger: The undead is hit by a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md). _Response:_ The undead turns the [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) into a normal hit.
+***Level 5.*** Undead Resilience. Trigger: The undead is hit by a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md). _Response:_ The undead turns the [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) into a normal hit.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

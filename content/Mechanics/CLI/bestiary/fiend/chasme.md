@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Chasme
-created: 2026-03-09T12:15:33.958-04:00
-modified: 2026-03-09T12:15:33.958-04:00
-published: 2026-03-09T12:15:33.958-04:00
+created: 2026-03-29T21:53:55.961-04:00
+modified: 2026-03-29T21:53:55.962-04:00
+published: 2026-03-29T21:53:55.962-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Chasme
+ac: 15
+hp: 84
+modifier: 2
+hit_dice: 13d10 + 13
+cr: "6"
+stats:
+  - 15
+  - 15
+  - 12
+  - 11
+  - 14
+  - 10
+source:
+  - MM
 ---
 
 # Chasme
 
-_Source: Monster Manual p. 57_\
 ![](Mechanics/CLI/bestiary/fiend/img/chasme.webp#right)
-
 This loathsome demon resembles an unspeakable crossing of humanoid and fly. A chasme shuffles about on four spindly legs that can find purchase on walls and ceilings. A droning sound precedes the approach of a chasme, inflicting foes with a terrible lethargy that leaves them open to attack.
 
 The lowly chasmes serve more powerful masters as interrogators or taskmasters. A chasme lives to dole out torture as punishment, and has a knack for spotting demons that have deserted their lords. Capturing and returning such traitors allows a chasme to torment the victim without fear of reprisal.
@@ -164,7 +179,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -194,11 +209,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Chasme
-![](Mechanics/CLI/bestiary/fiend/token/chasme.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/chasme.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 84 (`13d10 + 13`) 
+- **Hit Points** 84 (13d10 + 13) 
 - **Speed** 20 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -207,17 +222,17 @@ title: Chasme
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +5, Wisdom +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 15
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 6
 
 ## Traits
 
-***Drone.*** The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
+***Drone.*** The chasme produces a horrid droning sound to which demons are immune. Any other creature that starts its turn with in 30 feet of the chasme must succeed on a DC 12 Constitution saving throw or fall [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 10 minutes. A creature that can't hear the drone automatically succeeds on the save. The effect on the creature ends if it takes damage or if another creature takes an action to splash it with holy water. If a creature's saving throw is successful or the effect ends for it, it is immune to the drone for the next 24 hours.
 
 ***Magic Resistance.*** The chasme has advantage on saving throws against spells and other magical effects.
 
@@ -225,7 +240,11 @@ title: Chasme
 
 ## Actions
 
-***Proboscis.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one creature. *Hit:* 16 (`4d6 + 2`) piercing damage plus 24 (`7d6`) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md).
+***Proboscis.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one creature. *Hit:* 16 (`4d6 + 2`) piercing damage plus 24 (`7d6`) necrotic damage, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. If this effect reduces a creature's hit point maximum to 0, the creature dies. This reduction to a creature's hit point maximum lasts until the creature finishes a long rest or until it is affected by a spell like  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md).
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 57_

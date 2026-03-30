@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Silver Dragon
-created: 2026-03-09T12:15:33.808-04:00
-modified: 2026-03-09T12:15:33.808-04:00
-published: 2026-03-09T12:15:33.808-04:00
+created: 2026-03-29T21:53:55.592-04:00
+modified: 2026-03-29T21:53:55.592-04:00
+published: 2026-03-29T21:53:55.592-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Young Silver Dragon
+ac: 18
+hp: 168
+modifier: 0
+hit_dice: 16d10 + 80
+cr: "9"
+stats:
+  - 23
+  - 10
+  - 21
+  - 14
+  - 11
+  - 19
+source:
+  - MM
 ---
 
 # Young Silver Dragon
 
-_Source: Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/silver-dragon.webp#right)
-
 The friendliest and most social of the metallic dragons, silver dragons cheerfully assist good creatures in need.
 
 A silver dragon shimmers as if sculpted from pure metal, its face given a noble cast by its high eyes and sweeping beard-like chin spikes. A spiny frill rises high over its head, tracing down its neck to the tip of its tail. A silver wyrmling's scales are blue-gray with silver highlights. As the dragon approaches adulthood, its color gradually brightens until its individual scales are barely visible. As a silver dragon grows older, its pupils fade until its eyes resemble orbs of mercury.
@@ -98,11 +113,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Young Silver Dragon
-![](Mechanics/CLI/bestiary/dragon/token/young-silver-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/young-silver-dragon.webp#token)
 *Large dragon, Lawful Good*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 168 (`16d10 + 80`) 
+- **Hit Points** 168 (16d10 + 80) 
 - **Speed** 40 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -111,8 +126,8 @@ title: Young Silver Dragon
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Dexterity +4, Constitution +9, Wisdom +4, Charisma +8
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +6, [History](Mechanics/CLI/rules/skills.md#History) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +8, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +4
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 18
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +6, [History](/Mechanics/CLI/skills.md#History) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +8, [Stealth](/Mechanics/CLI/skills.md#Stealth) +4
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 18
 - **Damage Immunities** cold
 - **Languages** Common, Draconic
 - **Challenge** 9
@@ -128,7 +143,7 @@ title: Young Silver Dragon
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons.
 
 - **Cold Breath.** The dragon exhales an icy blast in a 30-foot cone. Each creature in that area must make a DC 17 Constitution saving throw, taking 54 (`12d8`) cold damage on a failed save, or half as much damage on a successful one.  
-- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
+- **Paralyzing Breath.** The dragon exhales paralyzing gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 ```
 
 ^statblock
@@ -136,3 +151,7 @@ title: Young Silver Dragon
 ## Environment
 
 mountain, urban
+
+## Sources
+
+_Monster Manual p. 118. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

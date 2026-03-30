@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ranger
-created: 2026-03-09T12:15:34.041-04:00
-modified: 2026-03-09T12:15:34.041-04:00
-published: 2026-03-09T12:15:34.041-04:00
+created: 2026-03-29T21:53:56.051-04:00
+modified: 2026-03-29T21:53:56.051-04:00
+published: 2026-03-29T21:53:56.051-04:00
 tags:
   - ttrpg-cli/class/ranger
   - ttrpg-cli/compendium/src/5e/xphb
@@ -14,8 +14,6 @@ obsidianUIMode: preview
 ---
 
 # Ranger
-
-_Source: Player's Handbook (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
 
 > [!tldr] Class and Feature Progression
 >
@@ -48,30 +46,30 @@ _Source: Player's Handbook (2024) p. 118. Available in the <span title='Systems 
 
 ^class-progression
 
-![](Mechanics/CLI/classes/img/ranger.webp#right)
-
 ## Hit Points
+
+![](Mechanics/CLI/classes/img/ranger.webp#right)
 
 - **Hit Dice**: 1d10 per Ranger level
 - **Hit Points at First Level:** 10 + CON
 - **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
 
-## Starting Ranger
+![](Mechanics/CLI/classes/img/093-04-008-ranger-and-deer.webp#center)
+
+## Starting a Ranger
 
 - **Saving Throw Proficiencies**: Dexterity, Strength
-- **Skill Proficiencies**: _Choose 3:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 3:_ [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/Mechanics/CLI/skills.md#Athletics), [Insight](/Mechanics/CLI/skills.md#Insight), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), [Stealth](/Mechanics/CLI/skills.md#Stealth), or [Survival](/Mechanics/CLI/skills.md#Survival)
 - **Weapon Proficiencies**: Simple weapons and Martial weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), and [Shields](Mechanics/CLI/items/shield-xphb.md)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), and [Shields](/Mechanics/CLI/items/shield-xphb.md)
 
-**Starting Equipment:** _Choose A or B:_ (A) [Studded Leather Armor](Mechanics/CLI/items/studded-leather-armor-xphb.md), [Scimitar](Mechanics/CLI/items/scimitar-xphb.md), [Shortsword](Mechanics/CLI/items/shortsword-xphb.md), [Longbow](Mechanics/CLI/items/longbow-xphb.md), [20 Arrows](Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](Mechanics/CLI/items/quiver-xphb.md), [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md) ([sprig of mistletoe](Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)), [Explorer's Pack](Mechanics/CLI/items/explorers-pack-xphb.md), and 7 GP; or (B) 150 GP
+**Starting Equipment:** _Choose A or B:_ (A) [Studded Leather Armor](/Mechanics/CLI/items/studded-leather-armor-xphb.md), [Scimitar](/Mechanics/CLI/items/scimitar-xphb.md), [Shortsword](/Mechanics/CLI/items/shortsword-xphb.md), [Longbow](/Mechanics/CLI/items/longbow-xphb.md), [20 Arrows](/Mechanics/CLI/items/arrows-20-xphb.md), [Quiver](/Mechanics/CLI/items/quiver-xphb.md), [Druidic Focus](/Mechanics/CLI/items/druidic-focus-xphb.md) ([sprig of mistletoe](/Mechanics/CLI/items/sprig-of-mistletoe-xphb.md)), [Explorer's Pack](/Mechanics/CLI/items/explorers-pack-xphb.md), and 7 GP; or (B) 150 GP
 
 ## Multiclassing Ranger
 
-- **Skill Proficiencies**: _Choose 1:_ [Animal Handling](Mechanics/CLI/rules/skills.md#Animal%20Handling), [Athletics](Mechanics/CLI/rules/skills.md#Athletics), [Insight](Mechanics/CLI/rules/skills.md#Insight), [Investigation](Mechanics/CLI/rules/skills.md#Investigation), [Nature](Mechanics/CLI/rules/skills.md#Nature), [Perception](Mechanics/CLI/rules/skills.md#Perception), [Stealth](Mechanics/CLI/rules/skills.md#Stealth), or [Survival](Mechanics/CLI/rules/skills.md#Survival)
+- **Skill Proficiencies**: _Choose 1:_ [Animal Handling](/Mechanics/CLI/skills.md#Animal%20Handling), [Athletics](/Mechanics/CLI/skills.md#Athletics), [Insight](/Mechanics/CLI/skills.md#Insight), [Investigation](/Mechanics/CLI/skills.md#Investigation), [Nature](/Mechanics/CLI/skills.md#Nature), [Perception](/Mechanics/CLI/skills.md#Perception), [Stealth](/Mechanics/CLI/skills.md#Stealth), or [Survival](/Mechanics/CLI/skills.md#Survival)
 - **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [Light armor](Mechanics/CLI/rules/item-types.md#Light%20Armor), [Medium armor](Mechanics/CLI/rules/item-types.md#Medium%20Armor), [Shields](Mechanics/CLI/items/shield-xphb.md)
-
-![](Mechanics/CLI/classes/img/093-04-008-ranger-and-deer.webp#center)
+- **Armor Training**: [Light armor](/Mechanics/CLI/item-types.md#Light%20Armor), [Medium armor](/Mechanics/CLI/item-types.md#Medium%20Armor), [Shields](/Mechanics/CLI/items/shield-xphb.md)
 
 ## Ranger
 
@@ -85,37 +83,37 @@ Thanks to their connection with nature, Rangers can also cast spells that harnes
 
 You have learned to channel the magical essence of nature to cast spells. See "chapter 7" for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the Ranger spell list later in the class's description.
 
-**Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Spell Slots.** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md) and [Ensnaring Strike](Mechanics/CLI/spells/ensnaring-strike-xphb.md) are recommended.
+**Prepared Spells of Level 1+.** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells. [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md) and [Ensnaring Strike](/Mechanics/CLI/spells/ensnaring-strike-xphb.md) are recommended.
 
 The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
 
 If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
 
-**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can replace one spell on your list with another Ranger spell for which you have spell slots.
+**Changing Your Prepared Spells.** Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can replace one spell on your list with another Ranger spell for which you have spell slots.
 
 **Spellcasting Ability.** Wisdom is your spellcasting ability for your Ranger spells.
 
-**Spellcasting Focus.** You can use a [Druidic Focus](Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) for your Ranger spells.
+**Spellcasting Focus.** You can use a [Druidic Focus](/Mechanics/CLI/items/druidic-focus-xphb.md) as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) for your Ranger spells.
 
 ### Favored Enemy (Level 1)
 
-You always have the [Hunter's Mark](Mechanics/CLI/spells/hunters-mark-xphb.md) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You always have the [Hunter's Mark](/Mechanics/CLI/spells/hunters-mark-xphb.md) spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table.
 
 ### Weapon Mastery (Level 1)
 
-Your training with weapons allows you to use the [mastery properties](Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longbows](Mechanics/CLI/items/longbow-xphb.md) and [Shortswords](Mechanics/CLI/items/shortsword-xphb.md).
+Your training with weapons allows you to use the [mastery properties](/Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of two kinds of weapons of your choice with which you have proficiency, such as [Longbows](/Mechanics/CLI/items/longbow-xphb.md) and [Shortswords](/Mechanics/CLI/items/shortsword-xphb.md).
 
-Whenever you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](Mechanics/CLI/rules/variant-rules/weapon-mastery-properties-xphb.md) of [Scimitars](Mechanics/CLI/items/scimitar-xphb.md) and [Longswords](Mechanics/CLI/items/longsword-xphb.md).
+Whenever you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can change the kinds of weapons you chose. For example, you could switch to using the [mastery properties](/Mechanics/CLI/variant-rules/weapon-mastery-properties-xphb.md) of [Scimitars](/Mechanics/CLI/items/scimitar-xphb.md) and [Longswords](/Mechanics/CLI/items/longsword-xphb.md).
 
 ### Deft Explorer (Level 2)
 
 Thanks to your travels, you gain the following benefits.
 
-**Expertise.** Choose one of your skill proficiencies with which you lack [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in that skill.
+**Expertise.** Choose one of your skill proficiencies with which you lack [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md). You gain [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in that skill.
 
 **Languages.** You know two languages of your choice from the language tables in "chapter 2".
 
@@ -129,15 +127,15 @@ You gain a Ranger subclass of your choice. A subclass is a specialization that g
 
 ### Ability Score Improvement (Level 4)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
 
 ### Extra Attack (Level 5)
 
-You can attack twice instead of once whenever you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn.
 
 ### Roving (Level 6)
 
-Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet while you aren't wearing Heavy armor. You also have a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md) and a [Swim Speed](Mechanics/CLI/rules/variant-rules/swim-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md).
+Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) increases by 10 feet while you aren't wearing Heavy armor. You also have a [Climb Speed](/Mechanics/CLI/variant-rules/climb-speed-xphb.md) and a [Swim Speed](/Mechanics/CLI/variant-rules/swim-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md).
 
 ### Subclass Feature (Level 7)
 
@@ -145,19 +143,19 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 8)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Expertise (Level 9)
 
-Choose two of your skill proficiencies with which you lack [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md). You gain [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in those skills.
+Choose two of your skill proficiencies with which you lack [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md). You gain [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in those skills.
 
 ### Tireless (Level 10)
 
 Primal forces now help fuel you on your journeys, granting you the following benefits.
 
-**Temporary Hit Points.** As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can give yourself a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Temporary Hit Points.** As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can give yourself a number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to `1d8` plus your Wisdom modifier (minimum of 1). You can use this action a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Decrease Exhaustion.** Whenever you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), your [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level, if any, decreases by 1.
+**Decrease Exhaustion.** Whenever you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), your [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) level, if any, decreases by 1.
 
 ### Subclass Feature (Level 11)
 
@@ -165,17 +163,17 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Relentless Hunter (Level 13)
 
-Taking damage can't break your [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) on Hunter's Mark.
+Taking damage can't break your [Concentration](/Mechanics/CLI/conditions.md#Concentration) on Hunter's Mark.
 
 ### Nature's Veil (Level 14)
 
-You invoke spirits of nature to magically hide yourself. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can give yourself the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the end of your next turn.
+You invoke spirits of nature to magically hide yourself. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can give yourself the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition until the end of your next turn.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Subclass Feature (Level 15)
 
@@ -183,20 +181,24 @@ You gain a feature from your Ranger Subclass.
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [Ability Score Improvement](Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
+You gain the [Ability Score Improvement](/Mechanics/CLI/feats/ability-score-improvement-xphb.md) feat or another feat of your choice for which you qualify.
 
 ### Precise Hunter (Level 17)
 
-You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls against the creature currently marked by your Hunter's Mark.
+You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls against the creature currently marked by your Hunter's Mark.
 
 ### Feral Senses (Level 18)
 
-Your connection to the forces of nature grants you [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a range of 30 feet.
+Your connection to the forces of nature grants you [Blindsight](/Mechanics/CLI/senses.md#Blindsight) with a range of 30 feet.
 
 ### Epic Boon (Level 19)
 
-You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](Mechanics/CLI/feats/boon-of-dimensional-travel-xphb.md) is recommended.
+You gain an Epic Boon feat or another feat of your choice for which you qualify. [Boon of Dimensional Travel](/Mechanics/CLI/feats/boon-of-dimensional-travel-xphb.md) is recommended.
 
 ### Foe Slayer (Level 20)
 
 The damage die of your Hunter's Mark is a `d10` rather than a `d6`.
+
+## Sources
+
+_Player's Handbook (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Marilith
-created: 2026-03-09T12:15:34.110-04:00
-modified: 2026-03-09T12:15:34.110-04:00
-published: 2026-03-09T12:15:34.110-04:00
+created: 2026-03-29T21:53:56.147-04:00
+modified: 2026-03-29T21:53:56.147-04:00
+published: 2026-03-29T21:53:56.147-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/16
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Marilith
+ac: 18
+hp: 189
+modifier: 5
+hit_dice: 18d10 + 90
+cr: "16"
+stats:
+  - 18
+  - 20
+  - 20
+  - 18
+  - 16
+  - 20
+source:
+  - MM
 ---
 
 # Marilith
 
-_Source: Monster Manual p. 61. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/marilith.webp#right)
-
 Terrible to behold, a marilith has the lower body of a great serpent and the upper torso of a humanoid female with six arms. Wielding a wicked blade in each of its six hands, a marilith is a devastating foe that few can match in battle.
 
 These demons possess keen minds and a finely honed sense of tactics, and they are able to lead and unite other demons in common cause. Mariliths are often encountered as captains at the head of a demonic horde, where they embrace any opportunity to rush headlong into battle.
@@ -168,7 +183,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -198,11 +213,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Marilith
-![](Mechanics/CLI/bestiary/fiend/token/marilith.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/marilith.webp#token)
 *Large fiend (demon), Chaotic Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 189 (`18d10 + 90`) 
+- **Hit Points** 189 (18d10 + 90) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -212,11 +227,10 @@ title: Marilith
 - **Proficiency Bonus** +5
 - **Saving Throws** Strength +9, Constitution +10, Wisdom +8, Charisma +10
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 13
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 13
 - **Damage Resistances** cold; fire; lightning; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Abyssal, telepathy 120 ft.
 - **Challenge** 16
 
@@ -234,7 +248,7 @@ title: Marilith
 
 ***Longsword.*** *Melee Weapon Attack:* `+9` to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) slashing damage.
 
-***Tail.*** *Melee Weapon Attack:* `+9` to hit, reach 10 ft., one creature. *Hit:* 15 (`2d10 + 4`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 19). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
+***Tail.*** *Melee Weapon Attack:* `+9` to hit, reach 10 ft., one creature. *Hit:* 15 (`2d10 + 4`) bludgeoning damage. If the target is Medium or smaller, it is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 19). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.
 
 ***Teleport.*** The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.
 
@@ -244,3 +258,7 @@ title: Marilith
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 61. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

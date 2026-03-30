@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dungeoneer's Pack
-created: 2026-03-09T12:15:33.839-04:00
-modified: 2026-03-09T12:15:33.839-04:00
-published: 2026-03-09T12:15:33.839-04:00
+created: 2026-03-29T21:53:55.624-04:00
+modified: 2026-03-29T21:53:55.624-04:00
+published: 2026-03-29T21:53:55.624-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/
@@ -21,6 +21,8 @@ _Adventuring gear_
 - **Cost**: 12 gp
 - **Weight**: 55.0 lbs.
 
-A Dungeoneer's Pack contains the following items: [Backpack](Mechanics/CLI/items/backpack-xphb.md), [Caltrops](Mechanics/CLI/items/caltrops-xphb.md), [Crowbar](Mechanics/CLI/items/crowbar-xphb.md), 2 flasks of [Oil](Mechanics/CLI/items/oil-xphb.md), 10 days of [Rations](Mechanics/CLI/items/rations-xphb.md), [Rope](Mechanics/CLI/items/rope-xphb.md), [Tinderbox](Mechanics/CLI/items/tinderbox-xphb.md), 10 [Torches](Mechanics/CLI/items/torch-xphb.md), and [Waterskin](Mechanics/CLI/items/waterskin-xphb.md).
+A Dungeoneer's Pack contains the following items: [Backpack](/Mechanics/CLI/items/backpack-xphb.md), [Caltrops](/Mechanics/CLI/items/caltrops-xphb.md), [Crowbar](/Mechanics/CLI/items/crowbar-xphb.md), 2 flasks of [Oil](/Mechanics/CLI/items/oil-xphb.md), 10 days of [Rations](/Mechanics/CLI/items/rations-xphb.md), [Rope](/Mechanics/CLI/items/rope-xphb.md), [Tinderbox](/Mechanics/CLI/items/tinderbox-xphb.md), 10 [Torches](/Mechanics/CLI/items/torch-xphb.md), and [Waterskin](/Mechanics/CLI/items/waterskin-xphb.md).
 
-_Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

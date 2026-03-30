@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Guided Explosives
-created: 2026-03-09T12:15:33.909-04:00
-modified: 2026-03-09T12:15:33.909-04:00
-published: 2026-03-09T12:15:33.909-04:00
+created: 2026-03-29T21:53:55.911-04:00
+modified: 2026-03-29T21:53:55.911-04:00
+published: 2026-03-29T21:53:55.911-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/do
@@ -27,7 +27,7 @@ The normal and long ranges of your Bombs double.
 
 ## Seeking Charge
 
-When you miss with an attack roll using a [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can expend a Reagent to roll `1d8` and add the number rolled to the attack roll, potentially causing the attack to hit.
+When you miss with an attack roll using a [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md), you can expend a Reagent to roll `1d8` and add the number rolled to the attack roll, potentially causing the attack to hit.
 
 ## Sources
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Great Weapon Master
-created: 2026-03-09T12:15:34.022-04:00
-modified: 2026-03-09T12:15:34.022-04:00
-published: 2026-03-09T12:15:34.022-04:00
+created: 2026-03-29T21:53:56.032-04:00
+modified: 2026-03-29T21:53:56.032-04:00
+published: 2026-03-29T21:53:56.032-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength score by 1, to a maximum of 20.
 
-**Heavy Weapon Mastery.** When you hit a creature with a weapon that has the [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy) property as part of the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md).
+**Heavy Weapon Mastery.** When you hit a creature with a weapon that has the [Heavy](/Mechanics/CLI/item-properties.md#Heavy) property as part of the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md).
 
-**Hew.** Immediately after you score a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md) with a Melee weapon or reduce a creature to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) with one, you can make one attack with the same weapon as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+**Hew.** Immediately after you score a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md) with a Melee weapon or reduce a creature to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) with one, you can make one attack with the same weapon as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md).
 
 ## Sources
 

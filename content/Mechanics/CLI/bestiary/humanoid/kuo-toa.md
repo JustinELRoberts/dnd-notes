@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kuo-toa
-created: 2026-03-09T12:15:33.985-04:00
-modified: 2026-03-09T12:15:33.985-04:00
-published: 2026-03-09T12:15:33.985-04:00
+created: 2026-03-29T21:53:55.991-04:00
+modified: 2026-03-29T21:53:55.991-04:00
+published: 2026-03-29T21:53:55.991-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Kuo-toa
+ac: 13
+hp: 18
+modifier: 0
+hit_dice: 4d8
+cr: 1/4
+stats:
+  - 13
+  - 10
+  - 11
+  - 11
+  - 10
+  - 8
+source:
+  - MM
 ---
 
 # Kuo-toa
 
-_Source: Monster Manual p. 199_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kuo-toa.webp#right)
-
 Kuo-toa are degenerate fishlike humanoids that once inhabited the shores and islands of the surface world. Long ago humans and their ilk drove the kuo-toa underground, where they dwell in madness and everlasting night. Kuo-toa can no longer abide daylight.
 
 ## Mad Slaves
@@ -53,9 +68,9 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 >
 > **Multiattack.** The kuo-toa makes one bite attack and two unarmed strikes.
 >
-> **Bite.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
+> **Bite.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 4 (`1d4 + 2`) piercing damage.
 >
-> **Unarmed Strike.** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
+> **Unarmed Strike.** Melee Weapon Attack: `+6` to hit, reach 5 ft., one target. Hit: 5 (`1d6 + 2`) bludgeoning damage + 3 (`1d6`) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
 > ^variant-kuo-toa-monitor
 
 > [!quote] A quote from Sabal Mizzrym of Menzoberranzan
@@ -66,11 +81,11 @@ In general, kuo-toa don't like the weight of armor on their slippery bodies and 
 
 ```ad-statblock
 title: Kuo-toa
-![](Mechanics/CLI/bestiary/humanoid/token/kuo-toa.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/kuo-toa.webp#token)
 *Medium humanoid (kuo-toa), Neutral Evil*
 
-- **Armor Class** 13 (natural armor, [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 18 (`4d8`) 
+- **Armor Class** 13 (natural armor, [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 18 (4d8) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -79,9 +94,8 @@ title: Kuo-toa
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 14
-- **Gear** [net](Mechanics/CLI/items/net-xphb.md), [spear](Mechanics/CLI/items/spear-xphb.md)
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 14
 - **Languages** Undercommon
 - **Challenge** 1/4
 
@@ -89,11 +103,11 @@ title: Kuo-toa
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
-***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
+***Otherworldly Perception.*** The kuo-toa can sense the presence of any creature within 30 feet of it that is [invisible](/Mechanics/CLI/conditions.md#Invisible) or on the Ethereal Plane. It can pinpoint such a creature that is moving.
 
 ***Slippery.*** The kuo-toa has advantage on ability checks and saving throws made to escape a grapple.
 
-***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -101,11 +115,11 @@ title: Kuo-toa
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+3` to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (`1d6 + 1`) piercing damage, or 5 (`1d8 + 1`) piercing damage if used with two hands to make a melee attack.
 
-***Net.*** *Ranged Weapon Attack:* `+3` to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained). A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
+***Net.*** *Ranged Weapon Attack:* `+3` to hit, range 5/15 ft., one Large or smaller creature. *Hit:* The target is [restrained](/Mechanics/CLI/conditions.md#Restrained). A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
 
 ## Reactions
 
-***Sticky Shield.*** When a creature misses the kuo-toa with a melee weapon attack, the kuo-toa uses its sticky shield to catch the weapon. The attacker must succeed on a DC 11 Strength saving throw, or the weapon becomes stuck to the kuo-toa's shield. If the weapon's wielder can't or won't let go of the weapon, the wielder is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) while the weapon is stuck. While stuck, the weapon can't be used. A creature can pull the weapon free by taking an action to make a DC 11 Strength check and succeeding.
+***Sticky Shield.*** When a creature misses the kuo-toa with a melee weapon attack, the kuo-toa uses its sticky shield to catch the weapon. The attacker must succeed on a DC 11 Strength saving throw, or the weapon becomes stuck to the kuo-toa's shield. If the weapon's wielder can't or won't let go of the weapon, the wielder is [grappled](/Mechanics/CLI/conditions.md#Grappled) while the weapon is stuck. While stuck, the weapon can't be used. A creature can pull the weapon free by taking an action to make a DC 11 Strength check and succeeding.
 ```
 
 ^statblock
@@ -113,3 +127,7 @@ title: Kuo-toa
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 199_

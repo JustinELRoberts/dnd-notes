@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pegasus
-created: 2026-03-09T12:15:33.982-04:00
-modified: 2026-03-09T12:15:33.982-04:00
-published: 2026-03-09T12:15:33.982-04:00
+created: 2026-03-29T21:53:55.986-04:00
+modified: 2026-03-29T21:53:55.986-04:00
+published: 2026-03-29T21:53:55.986-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Pegasus
+ac: 12
+hp: 59
+modifier: 2
+hit_dice: 7d10 + 21
+cr: "2"
+stats:
+  - 18
+  - 15
+  - 16
+  - 10
+  - 15
+  - 13
+source:
+  - MM
 ---
 
 # Pegasus
 
-_Source: Monster Manual p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/celestial/img/pegasus.webp#right)
-
 The white winged horses known as pegasi soar through the skies, a vision of grace and majesty. When they touch down on solid ground, they linger only for a moment, drinking from mountain springs and pristine lakes. Any sound or sign of another creature startles them, sending them off to fly once more among the clouds.
 
 ## Noble Mounts
@@ -45,11 +60,11 @@ Pegasi mate for life, build their nests in hard-to-reach locations, and give bir
 
 ```ad-statblock
 title: Pegasus
-![](Mechanics/CLI/bestiary/celestial/token/pegasus.webp#token)
+![](/Mechanics/CLI/bestiary/celestial/token/pegasus.webp#token)
 *Large celestial, Chaotic Good*
 
 - **Armor Class** 12 
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 60 ft., fly 90 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,7 +73,7 @@ title: Pegasus
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +4, Wisdom +4, Charisma +3
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6
 - **Senses** passive Perception 16
 - **Languages** understands Celestial, Common, Elvish, and Sylvan but can't speak
 - **Challenge** 2
@@ -73,3 +88,7 @@ title: Pegasus
 ## Environment
 
 grassland, forest, hill
+
+## Sources
+
+_Monster Manual p. 250. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,33 +2,27 @@
 publish: true
 aliases:
   - Evard's Black Tentacles
-created: 2026-03-09T12:15:33.796-04:00
-modified: 2026-03-09T12:15:33.796-04:00
-published: 2026-03-09T12:15:33.796-04:00
+created: 2026-03-29T21:53:55.579-04:00
+modified: 2026-03-29T21:53:55.579-04:00
+published: 2026-03-29T21:53:55.579-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/4th-level
   - ttrpg-cli/spell/school/conjuration
+  - ttrpg-cli/spell/subclass/aberrant-mind
   - ttrpg-cli/spell/subclass/aberrant-sorcery
   - ttrpg-cli/spell/subclass/arcane-trickster
   - ttrpg-cli/spell/subclass/eldritch-knight
   - ttrpg-cli/spell/subclass/house-of-bishops
   - ttrpg-cli/spell/subclass/pale-master
   - ttrpg-cli/spell/subclass/the-fathomless
+  - ttrpg-cli/spell/subclass/the-great-old-one
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Fighter (Eldritch Knight)
-  - Necromancer (Pale Master)
-  - Rogue (Arcane Trickster)
-  - Sorcerer (Aberrant Sorcery)
-  - Warlock (The Fathomless)
-  - Warmage (House of Bishops)
-  - Wizard
 ---
 
 # Evard's Black Tentacles
@@ -41,12 +35,31 @@ _4th-level, Conjuration_\
 - **Components:** V, S, M (a tentacle)
 - **Duration:** Concentration, up to 1 minute
 
-Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md).
+Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md).
 
-Each creature in that area makes a Strength saving throw. On a failed save, it takes `3d6` Bludgeoning damage, and it has the [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.
+Each creature in that area makes a Strength saving throw. On a failed save, it takes `3d6` Bludgeoning damage, and it has the [Restrained](/Mechanics/CLI/conditions.md#Restrained) condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.
 
-A [Restrained](Mechanics/CLI/rules/conditions.md#Restrained) creature can take an action to make a Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) check against your spell save DC, ending the condition on itself on a success.
+A [Restrained](/Mechanics/CLI/conditions.md#Restrained) creature can take an action to make a Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) check against your spell save DC, ending the condition on itself on a success.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Necromancer (Pale Master)](Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Aberrant Sorcery)](Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Fathomless)](Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB"); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Black Tentacles") and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock (The Fathomless)](/Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE")
+- [Sorcerer (Aberrant Mind)](/Mechanics/CLI/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE")
+- [Sorcerer (Aberrant Mind)](/Mechanics/CLI/lists/list-spells-classes-aberrant-mind-tce.md "subclass=TCE;class=XPHB")
+- [Warlock (The Great Old One)](/Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md "class=XPHB")
+- [Warlock (The Fathomless)](/Mechanics/CLI/lists/list-spells-classes-the-fathomless-tce.md "subclass=TCE;class=XPHB")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock (The Great Old One)](/Mechanics/CLI/lists/list-spells-classes-the-great-old-one.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Sorcerer (Aberrant Sorcery)](/Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb.md "subclass=XPHB;class=XPHB")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Necromancer (Pale Master)](/Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 270. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Black Tentacles") and the Free Rules (2024)_

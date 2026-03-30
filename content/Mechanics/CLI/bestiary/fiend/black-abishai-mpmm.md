@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Black Abishai
-created: 2026-03-09T12:15:34.015-04:00
-modified: 2026-03-09T12:15:34.015-04:00
-published: 2026-03-09T12:15:34.015-04:00
+created: 2026-03-29T21:53:56.024-04:00
+modified: 2026-03-29T21:53:56.024-04:00
+published: 2026-03-29T21:53:56.024-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Black Abishai (MPMM)
+ac: 15
+hp: 58
+modifier: 3
+hit_dice: 9d8 + 18
+cr: "7"
+stats:
+  - 14
+  - 17
+  - 14
+  - 13
+  - 16
+  - 11
+source:
+  - MPMM
 ---
 
 # Black Abishai
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 38_\
 ![](Mechanics/CLI/bestiary/fiend/img/black-abishai.webp#right)
-
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
 
 ## Abishais
@@ -35,11 +50,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 ```ad-statblock
 title: Black Abishai
-![](Mechanics/CLI/bestiary/fiend/token/black-abishai-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/black-abishai-mpmm.webp#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 58 (`9d8 + 18`) 
+- **Hit Points** 58 (9d8 + 18) 
 - **Speed** 30 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -48,18 +63,17 @@ title: Black Abishai
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Dexterity +6, Wisdom +6
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +6, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 16
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +6, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 16
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** acid, fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Draconic, Infernal, telepathy 120 ft.
 - **Challenge** 7
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
@@ -71,12 +85,12 @@ title: Black Abishai
 
 ***Scimitar.*** *Melee Weapon Attack:* `+6` to hit, reach 5 ft., one target. *Hit:* 6 (`1d6 + 3`) force damage.
 
-***Creeping Darkness (Recharge 6).*** The abishai casts [darkness](Mechanics/CLI/spells/darkness-xphb.md) at a point within 120 feet of it, requiring no spell components or [concentration](Mechanics/CLI/rules/conditions.md#Concentration). Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.
+***Creeping Darkness (Recharge 6).*** The abishai casts [darkness](/Mechanics/CLI/spells/darkness-xphb.md) at a point within 120 feet of it, requiring no spell components or [concentration](/Mechanics/CLI/conditions.md#Concentration). Wisdom is its spellcasting ability for this spell. While the spell persists, the abishai can move the area of darkness up to 60 feet as a bonus action.
 
 
 ## Bonus Actions
 
-***Shadow Stealth.*** While in dim light or darkness, the abishai takes the [Hide](Mechanics/CLI/rules/actions.md#Hide) action.
+***Shadow Stealth.*** While in dim light or darkness, the abishai takes the [Hide](/Mechanics/CLI/actions.md#Hide) action.
 ```
 
 ^statblock
@@ -84,3 +98,7 @@ title: Black Abishai
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 38_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - White Abishai
-created: 2026-03-09T12:15:33.905-04:00
-modified: 2026-03-09T12:15:33.905-04:00
-published: 2026-03-09T12:15:33.905-04:00
+created: 2026-03-29T21:53:55.904-04:00
+modified: 2026-03-29T21:53:55.904-04:00
+published: 2026-03-29T21:53:55.904-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/6
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: White Abishai (MPMM)
+ac: 15
+hp: 68
+modifier: 0
+hit_dice: 8d8 + 32
+cr: "6"
+stats:
+  - 16
+  - 11
+  - 18
+  - 11
+  - 12
+  - 13
+source:
+  - MPMM
 ---
 
 # White Abishai
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 41_\
 ![](Mechanics/CLI/bestiary/fiend/img/white-abishai.webp#right)
-
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
 
 ## Abishais
@@ -35,11 +50,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 
 ```ad-statblock
 title: White Abishai
-![](Mechanics/CLI/bestiary/fiend/token/white-abishai-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/white-abishai-mpmm.webp#token)
 *Medium fiend (devil), Typically  Lawful Evil*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 68 (`8d8 + 32`) 
+- **Hit Points** 68 (8d8 + 32) 
 - **Speed** 30 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,17 +64,16 @@ title: White Abishai
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +6, Constitution +7
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 11
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 11
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** cold, fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Draconic, Infernal, telepathy 120 ft.
 - **Challenge** 6
 
 ## Traits
 
-***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the abishai's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
@@ -77,7 +91,7 @@ title: White Abishai
 
 ## Reactions
 
-***Vicious Reprisal.*** In response to taking damage, the abishai makes one Bite attack against a random creature within 5 feet of it. If no creature is within reach, the abishai moves up to half its speed toward an enemy it can see, without provoking [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+***Vicious Reprisal.*** In response to taking damage, the abishai makes one Bite attack against a random creature within 5 feet of it. If no creature is within reach, the abishai moves up to half its speed toward an enemy it can see, without provoking [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 ```
 
 ^statblock
@@ -85,3 +99,7 @@ title: White Abishai
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 41_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Genie
-created: 2026-03-09T12:15:33.979-04:00
-modified: 2026-03-09T12:15:33.979-04:00
-published: 2026-03-09T12:15:33.979-04:00
+created: 2026-03-29T21:53:55.983-04:00
+modified: 2026-03-29T21:53:55.983-04:00
+published: 2026-03-29T21:53:55.983-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/subclass/warlock/genie
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # The Genie
 
-_[Warlock](./warlock-xphb.md): Warlock Subclass_\
-_Source: Tasha's Cauldron of Everything p. 73_
+_[Warlock](./warlock-xphb.md): Warlock Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -60,10 +59,10 @@ You choose your patron's kind or determine it randomly, using the Genie Kind tab
 
 | dice: d4 | Kind | Element |
 |----------|------|---------|
-| 1 | [Dao](Mechanics/CLI/bestiary/elemental/dao.md) | Earth |
-| 2 | [Djinni](Mechanics/CLI/bestiary/elemental/djinni.md) | Air |
-| 3 | [Efreeti](Mechanics/CLI/bestiary/elemental/efreeti.md) | Fire |
-| 4 | [Marid](Mechanics/CLI/bestiary/elemental/marid.md) | Water |
+| 1 | [Dao](/Mechanics/CLI/bestiary/elemental/dao.md) | Earth |
+| 2 | [Djinni](/Mechanics/CLI/bestiary/elemental/djinni.md) | Air |
+| 3 | [Efreeti](/Mechanics/CLI/bestiary/elemental/efreeti.md) | Fire |
+| 4 | [Marid](/Mechanics/CLI/bestiary/elemental/marid.md) | Water |
 ^genie-kind
 
 ## Subclass Features
@@ -78,12 +77,12 @@ The Genie lets you choose from an expanded list of spells when you learn a warlo
 
 | Spell Level | Genie Spells | Dao Spells | Djinni Spells | Efreeti Spells | Marid Spells |
 |-------------|--------------|------------|---------------|----------------|--------------|
-| 1st | [detect evil and good](Mechanics/CLI/spells/detect-evil-and-good-xphb.md) | [sanctuary](Mechanics/CLI/spells/sanctuary-xphb.md) | [thunderwave](Mechanics/CLI/spells/thunderwave-xphb.md) | [burning hands](Mechanics/CLI/spells/burning-hands-xphb.md) | [fog cloud](Mechanics/CLI/spells/fog-cloud-xphb.md) |
-| 2nd | [phantasmal force](Mechanics/CLI/spells/phantasmal-force-xphb.md) | [spike growth](Mechanics/CLI/spells/spike-growth-xphb.md) | [gust of wind](Mechanics/CLI/spells/gust-of-wind-xphb.md) | [scorching ray](Mechanics/CLI/spells/scorching-ray-xphb.md) | [blur](Mechanics/CLI/spells/blur-xphb.md) |
-| 3rd | [create food and water](Mechanics/CLI/spells/create-food-and-water-xphb.md) | [meld into stone](Mechanics/CLI/spells/meld-into-stone-xphb.md) | [wind wall](Mechanics/CLI/spells/wind-wall-xphb.md) | [fireball](Mechanics/CLI/spells/fireball-xphb.md) | [sleet storm](Mechanics/CLI/spells/sleet-storm-xphb.md) |
-| 4th | [phantasmal killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md) | [stone shape](Mechanics/CLI/spells/stone-shape-xphb.md) | [greater invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md) | [fire shield](Mechanics/CLI/spells/fire-shield-xphb.md) | [control water](Mechanics/CLI/spells/control-water-xphb.md) |
-| 5th | [creation](Mechanics/CLI/spells/creation-xphb.md) | [wall of stone](Mechanics/CLI/spells/wall-of-stone-xphb.md) | [seeming](Mechanics/CLI/spells/seeming-xphb.md) | [flame strike](Mechanics/CLI/spells/flame-strike-xphb.md) | [cone of cold](Mechanics/CLI/spells/cone-of-cold-xphb.md) |
-| 9th | [wish](Mechanics/CLI/spells/wish-xphb.md) | — | — | — | — |
+| 1st | [detect evil and good](/Mechanics/CLI/spells/detect-evil-and-good-xphb.md) | [sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md) | [thunderwave](/Mechanics/CLI/spells/thunderwave-xphb.md) | [burning hands](/Mechanics/CLI/spells/burning-hands-xphb.md) | [fog cloud](/Mechanics/CLI/spells/fog-cloud-xphb.md) |
+| 2nd | [phantasmal force](/Mechanics/CLI/spells/phantasmal-force-xphb.md) | [spike growth](/Mechanics/CLI/spells/spike-growth-xphb.md) | [gust of wind](/Mechanics/CLI/spells/gust-of-wind-xphb.md) | [scorching ray](/Mechanics/CLI/spells/scorching-ray-xphb.md) | [blur](/Mechanics/CLI/spells/blur-xphb.md) |
+| 3rd | [create food and water](/Mechanics/CLI/spells/create-food-and-water-xphb.md) | [meld into stone](/Mechanics/CLI/spells/meld-into-stone-xphb.md) | [wind wall](/Mechanics/CLI/spells/wind-wall-xphb.md) | [fireball](/Mechanics/CLI/spells/fireball-xphb.md) | [sleet storm](/Mechanics/CLI/spells/sleet-storm-xphb.md) |
+| 4th | [phantasmal killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md) | [stone shape](/Mechanics/CLI/spells/stone-shape-xphb.md) | [greater invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md) | [fire shield](/Mechanics/CLI/spells/fire-shield-xphb.md) | [control water](/Mechanics/CLI/spells/control-water-xphb.md) |
+| 5th | [creation](/Mechanics/CLI/spells/creation-xphb.md) | [wall of stone](/Mechanics/CLI/spells/wall-of-stone-xphb.md) | [seeming](/Mechanics/CLI/spells/seeming-xphb.md) | [flame strike](/Mechanics/CLI/spells/flame-strike-xphb.md) | [cone of cold](/Mechanics/CLI/spells/cone-of-cold-xphb.md) |
+| 9th | [wish](/Mechanics/CLI/spells/wish-xphb.md) | — | — | — | — |
 ^genie-expanded-spells
 
 ### Genie's Vessel (Level 1)
@@ -142,3 +141,7 @@ _14th-level Genie feature_
 You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie's Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class's spell list, and you don't need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.
 
 Once you use this feature, you can't use it again until you finish `1d4` long rests.
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 73_

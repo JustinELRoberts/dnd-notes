@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mad Bomber
-created: 2026-03-09T12:15:33.913-04:00
-modified: 2026-03-09T12:15:33.913-04:00
-published: 2026-03-09T12:15:33.913-04:00
+created: 2026-03-29T21:53:55.915-04:00
+modified: 2026-03-29T21:53:55.916-04:00
+published: 2026-03-29T21:53:55.916-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/alchemist/mad-bomber
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Mad Bomber
 
-_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Alchemist](./alchemist-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,22 +58,26 @@ While many "Mad Bombers" aren't actually mad, it takes a special kind of crazy t
 
 ### Blasting Specialty (Level 3)
 
-Your [Bombs](Mechanics/CLI/items/bomb-valdaspire24.md) deal double damage to objects and structures.
+Your [Bombs](/Mechanics/CLI/items/bomb-valdaspire24.md) deal double damage to objects and structures.
 
 ### Black Powder Bomb \[Formula] (Level 3)
 
-By adding a charge of black powder to your [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into an Black Powder Bomb. All of this [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) damage dice are d12s. If a target has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Fire damage, it loses that [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) for this damage roll. If it has [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to Fire damage, it instead has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) for this damage roll.
+By adding a charge of black powder to your [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md), you can change it into an Black Powder Bomb. All of this [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) damage dice are d12s. If a target has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Fire damage, it loses that [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) for this damage roll. If it has [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to Fire damage, it instead has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) for this damage roll.
 
-You can use this formula a number of times equal to your Intelligence modifier (minimum of once) and regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this formula a number of times equal to your Intelligence modifier (minimum of once) and regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Timed Demolition (Level 6)
 
-When you prime a [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you can set a duration for its detonation, which can be any number of rounds (any increment of 6 seconds) up to 10 minutes. The [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) detonates using the [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) Explode property at the end of your turn after this duration. If a creature is in the area of more than one [Bomb's](Mechanics/CLI/items/bomb-valdaspire24.md) explosion simultaneously, the creature is only affected by one [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) of your choice.
+When you prime a [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md), you can set a duration for its detonation, which can be any number of rounds (any increment of 6 seconds) up to 10 minutes. The [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) detonates using the [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) Explode property at the end of your turn after this duration. If a creature is in the area of more than one [Bomb's](/Mechanics/CLI/items/bomb-valdaspire24.md) explosion simultaneously, the creature is only affected by one [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) of your choice.
 
 ### Blast Shield (Level 10)
 
-Choose one damage type from among Acid, Cold, Fire, Lightning, or Thunder whenever you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to that damage type until you choose a different one with this feature.
+Choose one damage type from among Acid, Cold, Fire, Lightning, or Thunder whenever you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to that damage type until you choose a different one with this feature.
 
 ### Overloaded Charge (Level 14)
 
-Whenever you expend a number of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) equal to your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to empower a [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md), you gain 2 additional [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) which you can immediately expend to further empower the [Bomb](Mechanics/CLI/items/bomb-valdaspire24.md) beyond the normal maximum of [Reagents](Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
+Whenever you expend a number of [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) equal to your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to empower a [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md), you gain 2 additional [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)) which you can immediately expend to further empower the [Bomb](/Mechanics/CLI/items/bomb-valdaspire24.md) beyond the normal maximum of [Reagents](/Mechanics/CLI/classes/alchemist-valdaspire24.md#Reagents%20\(Level%201\)).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

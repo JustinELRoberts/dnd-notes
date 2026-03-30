@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boon of Truesight
-created: 2026-03-09T12:15:33.937-04:00
-modified: 2026-03-09T12:15:33.937-04:00
-published: 2026-03-09T12:15:33.937-04:00
+created: 2026-03-29T21:53:55.938-04:00
+modified: 2026-03-29T21:53:55.938-04:00
+published: 2026-03-29T21:53:55.938-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,7 +21,7 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Truesight.** You have [Truesight](Mechanics/CLI/rules/senses.md#Truesight) with a range of 60 feet.
+**Truesight.** You have [Truesight](/Mechanics/CLI/senses.md#Truesight) with a range of 60 feet.
 
 ## Sources
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Manes
-created: 2026-03-09T12:15:33.785-04:00
-modified: 2026-03-09T12:15:33.785-04:00
-published: 2026-03-09T12:15:33.785-04:00
+created: 2026-03-29T21:53:55.562-04:00
+modified: 2026-03-29T21:53:55.562-04:00
+published: 2026-03-29T21:53:55.562-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Manes
+ac: 9
+hp: 9
+modifier: -1
+hit_dice: 2d6 + 2
+cr: 1/8
+stats:
+  - 10
+  - 9
+  - 13
+  - 3
+  - 8
+  - 4
+source:
+  - MM
 ---
 
 # Manes
 
-_Source: Monster Manual p. 60_\
 ![](Mechanics/CLI/bestiary/fiend/img/manes.webp#right)
-
 Souls of evil creatures that descend to the Lower Planes are transformed into manes-the lowest form of demonkind. These wretched fiends attack any non-demon they see, and they are called to the Material Plane by those seeking to sow death and chaos.
 
 Orcus, the Prince of Undeath, has the power to transform manes into undead monsters, most often ghouls and shadows. Other demon lords feed on manes, destroying them utterly. Otherwise, killing a manes causes it to dissipate into a cloud of reeking vapor that reforms into another manes after one day.
@@ -168,7 +183,7 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 > [!note] Demon True Names
 >
-> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
+> Though demons all have common names, every demon lord and every demon of type 1 through 6 has a true name that it keeps secret. A demon can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of the most powerful demons.
 >
 > A mortal who learns a demon's true name can use powerful summoning magic to call the demon from the Abyss and exercise some measure of control over it. However, most demons brought to the Material Plane in this manner do everything in their power to wreak havoc or sow discord and strife.
 > ^demon-true-names
@@ -198,11 +213,11 @@ Demonologists organize the chaotic distribution of demons into broad categories 
 
 ```ad-statblock
 title: Manes
-![](Mechanics/CLI/bestiary/fiend/token/manes.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/manes.webp#token)
 *Small fiend (demon), Chaotic Evil*
 
 - **Armor Class** 9 (natural armor)
-- **Hit Points** 9 (`2d6 + 2`) 
+- **Hit Points** 9 (2d6 + 2) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -212,10 +227,10 @@ title: Manes
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Abyssal but can't speak
 - **Challenge** 1/8
 
@@ -225,3 +240,7 @@ title: Manes
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 60_

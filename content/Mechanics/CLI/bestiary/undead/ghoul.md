@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ghoul
-created: 2026-03-09T12:15:34.044-04:00
-modified: 2026-03-09T12:15:34.044-04:00
-published: 2026-03-09T12:15:34.044-04:00
+created: 2026-03-29T21:53:56.055-04:00
+modified: 2026-03-29T21:53:56.055-04:00
+published: 2026-03-29T21:53:56.055-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Ghoul
+ac: 12
+hp: 22
+modifier: 2
+hit_dice: 5d8
+cr: "1"
+stats:
+  - 13
+  - 15
+  - 10
+  - 7
+  - 10
+  - 6
+source:
+  - MM
 ---
 
 # Ghoul
 
-_Source: Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/ghoul.webp#right)
-
 Ghouls roam the night in packs, driven by an insatiable hunger for humanoid flesh.
 
 ## Devourers of Flesh
@@ -41,11 +56,11 @@ Orcus sometimes infuses a ghoul with a stronger dose of abyssal energy, making a
 
 ```ad-statblock
 title: Ghoul
-![](Mechanics/CLI/bestiary/undead/token/ghoul.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/ghoul.webp#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 22 (`5d8`) 
+- **Hit Points** 22 (5d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,9 +70,9 @@ title: Ghoul
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common
 - **Challenge** 1
 
@@ -65,7 +80,7 @@ title: Ghoul
 
 ***Bite.*** *Melee Weapon Attack:* `+2` to hit, reach 5 ft., one creature. *Hit:* 9 (`2d6 + 2`) piercing damage.
 
-***Claws.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Claws.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) slashing damage. If the target is a creature other than an elf or undead, it must succeed on a DC 10 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -73,3 +88,7 @@ title: Ghoul
 ## Environment
 
 underdark, swamp, urban
+
+## Sources
+
+_Monster Manual p. 148. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

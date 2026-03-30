@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Reaper
-created: 2026-03-09T12:15:33.851-04:00
-modified: 2026-03-09T12:15:33.851-04:00
-published: 2026-03-09T12:15:33.851-04:00
+created: 2026-03-29T21:53:55.640-04:00
+modified: 2026-03-29T21:53:55.640-04:00
+published: 2026-03-29T21:53:55.640-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/necromancer/reaper
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Reaper
 
-_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Necromancer](./necromancer-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,42 +62,46 @@ Your necromantic ambitions ensure you always have certain spells ready. When you
 
 | Necromancer Level | Spells |
 |-------------------|--------|
-| 3 | [False Life](Mechanics/CLI/spells/false-life-xphb.md), [Inflict Wounds](Mechanics/CLI/spells/inflict-wounds-xphb.md), [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [Silence](Mechanics/CLI/spells/silence-xphb.md) |
-| 5 | [Fear](Mechanics/CLI/spells/fear-xphb.md), [Speak with Dead](Mechanics/CLI/spells/speak-with-dead-xphb.md) |
-| 7 | [Greater Invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md), [Phantasmal Killer](Mechanics/CLI/spells/phantasmal-killer-xphb.md) |
-| 9 | [Mislead](Mechanics/CLI/spells/mislead-xphb.md), [Passwall](Mechanics/CLI/spells/passwall-xphb.md) |
+| 3 | [False Life](/Mechanics/CLI/spells/false-life-xphb.md), [Inflict Wounds](/Mechanics/CLI/spells/inflict-wounds-xphb.md), [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [Silence](/Mechanics/CLI/spells/silence-xphb.md) |
+| 5 | [Fear](/Mechanics/CLI/spells/fear-xphb.md), [Speak with Dead](/Mechanics/CLI/spells/speak-with-dead-xphb.md) |
+| 7 | [Greater Invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md), [Phantasmal Killer](/Mechanics/CLI/spells/phantasmal-killer-xphb.md) |
+| 9 | [Mislead](/Mechanics/CLI/spells/mislead-xphb.md), [Passwall](/Mechanics/CLI/spells/passwall-xphb.md) |
 ^reaper-spells
 
 ### Charnel Veil (Level 3)
 
-When you deal 5 or more damage with [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you gain the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition until the start of your next turn.
+When you deal 5 or more damage with [Charnel Touch](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you gain the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition until the start of your next turn.
 
 ### Umbral Form (Level 6)
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can flatten your body into a shadow upon the floor. You remain in Umbral Form until you end this effect as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md). While in Umbral Form, the following rules apply.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can flatten your body into a shadow upon the floor. You remain in Umbral Form until you end this effect as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md). While in Umbral Form, the following rules apply.
 
-**Inactive.** You can't take any action, [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), or [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md), other than to leave the form.
+**Inactive.** You can't take any action, [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), or [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md), other than to leave the form.
 
-**Immunities.** You have [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md) to the [Grappled](Mechanics/CLI/rules/conditions.md#Grappled) and [Prone](Mechanics/CLI/rules/conditions.md#Prone) conditions.
+**Immunities.** You have [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md) to the [Grappled](/Mechanics/CLI/conditions.md#Grappled) and [Prone](/Mechanics/CLI/conditions.md#Prone) conditions.
 
-**Difficult Target.** Attacks against you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md).
+**Difficult Target.** Attacks against you have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md).
 
-**Invisible in Darkness.** While entirely in [Darkness](Mechanics/CLI/rules/variant-rules/darkness-xphb.md), you have the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition to any creature that relies on [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) to see you in that [Darkness](Mechanics/CLI/rules/variant-rules/darkness-xphb.md).
+**Invisible in Darkness.** While entirely in [Darkness](/Mechanics/CLI/variant-rules/darkness-xphb.md), you have the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition to any creature that relies on [Darkvision](/Mechanics/CLI/senses.md#Darkvision) to see you in that [Darkness](/Mechanics/CLI/variant-rules/darkness-xphb.md).
 
-**Speed.** Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) doubles and you gain a [Climb Speed](Mechanics/CLI/rules/variant-rules/climb-speed-xphb.md) equal to your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md). You can move across difficult surfaces, including ceilings, without needing to make an ability check. As a shadow, you can only move along surfaces; you can't jump or fly.
+**Speed.** Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) doubles and you gain a [Climb Speed](/Mechanics/CLI/variant-rules/climb-speed-xphb.md) equal to your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md). You can move across difficult surfaces, including ceilings, without needing to make an ability check. As a shadow, you can only move along surfaces; you can't jump or fly.
 
 **Gear.** Your equipment merges with your Umbral Form and has no effect until you leave the form.
 
 ### Wraith Flight (Level 10)
 
-Each of your thralls gains a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) equal to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md). If it already has a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md), its [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) is doubled. Additionally, your thralls don't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) while flying.
+Each of your thralls gains a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) equal to its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md). If it already has a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md), its [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) is doubled. Additionally, your thralls don't provoke [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) while flying.
 
 ### Harbinger \[Lichdom] (Level 20)
 
-You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have become an embodiment of death itself. Clad in shadows, you seem little more than a skeletal presence in a foreboding robe, a sight that all people fear to behold. You gain the following benefits in addition to those of your [Lichdom](Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
+You have reached the pinnacle of Necromancy and transformed yourself into a lich. You have become an embodiment of death itself. Clad in shadows, you seem little more than a skeletal presence in a foreboding robe, a sight that all people fear to behold. You gain the following benefits in addition to those of your [Lichdom](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Lichdom%20\(Level%2020\)) feature.
 
-**Death's Touch.** When you use your [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) and roll an 11 or higher on the `d20` for the attack roll, you hit the target, regardless of its AC.
+**Death's Touch.** When you use your [Charnel Touch](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)) and roll an 11 or higher on the `d20` for the attack roll, you hit the target, regardless of its AC.
 
-**Fell Flight.** You gain a [Fly Speed](Mechanics/CLI/rules/variant-rules/fly-speed-xphb.md) of 60 feet.
+**Fell Flight.** You gain a [Fly Speed](/Mechanics/CLI/variant-rules/fly-speed-xphb.md) of 60 feet.
 
-**Grim Harvest.** When you kill a Medium or Small creature that isn't Undead using [Charnel Touch](Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you rip its soul from its body, which animates as a Specter under your control and counts as one of your thrall.
+**Grim Harvest.** When you kill a Medium or Small creature that isn't Undead using [Charnel Touch](/Mechanics/CLI/classes/necromancer-valdaspire24.md#Charnel%20Touch%20\(Level%201\)), you rip its soul from its body, which animates as a Specter under your control and counts as one of your thrall.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Otherworldly Steed
-created: 2026-03-09T12:15:34.097-04:00
-modified: 2026-03-09T12:15:34.097-04:00
-published: 2026-03-09T12:15:34.097-04:00
+created: 2026-03-29T21:53:56.129-04:00
+modified: 2026-03-29T21:53:56.129-04:00
+published: 2026-03-29T21:53:56.129-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,16 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Otherworldly Steed (XPHB)
+modifier: 1
+stats:
+  - 18
+  - 12
+  - 14
+  - 6
+  - 12
+  - 8
+source:
+  - XPHB
 ---
 
 # Otherworldly Steed
 
-_Source: Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/miscellaneous/img/otherworldly-steed.webp#center)
 
 ```ad-statblock
 title: Otherworldly Steed
-![](Mechanics/CLI/bestiary/miscellaneous/token/otherworldly-steed-xphb.webp#token)
+![](/Mechanics/CLI/bestiary/miscellaneous/token/otherworldly-steed-xphb.webp#token)
 *Large , Neutral*
 
 - **Armor Class** (10 + 1 per spell level)
@@ -50,7 +62,7 @@ title: Otherworldly Steed
 
 ## Bonus Actions
 
-***Fell Glare (Fiend Only; Recharges after a Long Rest).*** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition until the end of your next turn.
+***Fell Glare (Fiend Only; Recharges after a Long Rest).*** *Wisdom Saving Throw:* DC equals your spell save DC, one creature within 60 feet the steed can see. *Failure:* The target has the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition until the end of your next turn.
 
 ***Fey Step (Fey Only; Recharges after a Long Rest).*** The steed teleports, along with its rider, to an unoccupied space of your choice up to 60 feet away from itself.
 
@@ -58,3 +70,7 @@ title: Otherworldly Steed
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

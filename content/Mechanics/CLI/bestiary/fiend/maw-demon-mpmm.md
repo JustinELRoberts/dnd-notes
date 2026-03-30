@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Maw Demon
-created: 2026-03-09T12:15:34.032-04:00
-modified: 2026-03-09T12:15:34.032-04:00
-published: 2026-03-09T12:15:34.032-04:00
+created: 2026-03-29T21:53:56.045-04:00
+modified: 2026-03-29T21:53:56.045-04:00
+published: 2026-03-29T21:53:56.045-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -14,11 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Maw Demon (MPMM)
+ac: 13
+hp: 33
+modifier: -1
+hit_dice: 6d8 + 6
+cr: "1"
+stats:
+  - 14
+  - 8
+  - 13
+  - 5
+  - 8
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Maw Demon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137_\
 ![](Mechanics/CLI/bestiary/fiend/img/maw-demon.webp#right)
 
 > [!quote] A quote from Tasha
@@ -47,11 +64,11 @@ Because maw demons are indiscriminate in their hunger, their stomachs contain al
 
 ```ad-statblock
 title: Maw Demon
-![](Mechanics/CLI/bestiary/fiend/token/maw-demon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/maw-demon-mpmm.webp#token)
 *Medium fiend (demon), Typically  Chaotic Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,10 +78,10 @@ title: Maw Demon
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Resistances** cold, fire, lightning
 - **Damage Immunities** poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Abyssal but can't speak
 - **Challenge** 1
 
@@ -72,7 +89,7 @@ title: Maw Demon
 
 ***Bite.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 11 (`2d8 + 2`) piercing damage.
 
-***Disgorge (Recharge 6).*** The demon vomits in a 15-foot cube. Each creature in that area must succeed on a DC 11 Dexterity saving throw or take 11 (`2d10`) acid damage and fall [prone](Mechanics/CLI/rules/conditions.md#Prone) in the spew.
+***Disgorge (Recharge 6).*** The demon vomits in a 15-foot cube. Each creature in that area must succeed on a DC 11 Dexterity saving throw or take 11 (`2d10`) acid damage and fall [prone](/Mechanics/CLI/conditions.md#Prone) in the spew.
 ```
 
 ^statblock
@@ -80,3 +97,7 @@ title: Maw Demon
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 176, Volo's Guide to Monsters p. 137_

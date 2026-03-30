@@ -6,9 +6,9 @@ aliases:
   - Vorpal Greatsword
   - Vorpal Longsword
   - Vorpal Scimitar
-created: 2026-03-09T12:15:34.040-04:00
-modified: 2026-03-09T12:15:34.040-04:00
-published: 2026-03-09T12:15:34.040-04:00
+created: 2026-03-29T21:53:56.050-04:00
+modified: 2026-03-29T21:53:56.050-04:00
+published: 2026-03-29T21:53:56.050-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -27,11 +27,14 @@ obsidianUIMode: preview
 _Major, legendary (requires attunement)_\
 ![Vorpal Sword (Longsword)](Mechanics/CLI/items/img/vorpal-sword.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You gain a +3 bonus to attack and damage rolls made with this magic weapon. In addition, the weapon ignores resistance to slashing damage.
 
 When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature's heads. The creature dies if it can't survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn't have or need a head, has legendary actions, or the DM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra `6d8` slashing damage from the hit.
 
-**Variants**:
+## Variants
 
 - [Vorpal Double-Bladed Scimitar](#Vorpal%20Double-Bladed%20Scimitar)
 - [Vorpal Greatsword](#Vorpal%20Greatsword)
@@ -41,13 +44,13 @@ When you attack a creature that has at least one head with this weapon and roll 
 ### Vorpal Double-Bladed Scimitar
 
 - **Damage**: 2d4 slashing
-- **Properties**: [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed), special
+- **Properties**: [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed), [special](/Mechanics/CLI/item-properties.md#Special%20Weapons)
 - **Weight**: 6.0 lbs.
 
 ### Vorpal Greatsword
 
 - **Damage**: 2d6 slashing
-- **Properties**: [Heavy](Mechanics/CLI/rules/item-properties.md#Heavy), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Heavy](/Mechanics/CLI/item-properties.md#Heavy), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Weight**: 6.0 lbs.
 
 ### Vorpal Longsword
@@ -55,13 +58,15 @@ When you attack a creature that has at least one head with this weapon and roll 
 - **Damage**:
   - One-handed: 1d8 slashing
   - Two-handed: 1d10 slashing
-- **Properties**: [Versatile](Mechanics/CLI/rules/item-properties.md#Versatile)
+- **Properties**: [Versatile](/Mechanics/CLI/item-properties.md#Versatile)
 - **Weight**: 3.0 lbs.
 
 ### Vorpal Scimitar
 
 - **Damage**: 1d6 slashing
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Light](Mechanics/CLI/rules/item-properties.md#Light)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Light](/Mechanics/CLI/item-properties.md#Light)
 - **Weight**: 3.0 lbs.
 
-_Source: Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 209. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

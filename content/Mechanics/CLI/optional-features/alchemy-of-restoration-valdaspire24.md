@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alchemy of Restoration
-created: 2026-03-09T12:15:33.807-04:00
-modified: 2026-03-09T12:15:33.807-04:00
-published: 2026-03-09T12:15:33.807-04:00
+created: 2026-03-29T21:53:55.591-04:00
+modified: 2026-03-29T21:53:55.591-04:00
+published: 2026-03-29T21:53:55.591-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/do
@@ -23,7 +23,7 @@ The number of potions you can have at one time increases by 2.
 
 ## Double Dose
 
-Whenever you brew a [Potion of Healing](Mechanics/CLI/items/potion-of-healing-xdmg.md), Potion of Greater Healing, or Potion of Superior Healing, the potion has two uses. Drinking the potion expends one use.
+Whenever you brew a [Potion of Healing](/Mechanics/CLI/items/potion-of-healing-xdmg.md), Potion of Greater Healing, or Potion of Superior Healing, the potion has two uses. Drinking the potion expends one use.
 
 ## Expanded Potions
 

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Icy Cantrip
-created: 2026-03-09T12:15:33.788-04:00
-modified: 2026-03-09T12:15:33.788-04:00
-published: 2026-03-09T12:15:33.788-04:00
+created: 2026-03-29T21:53:55.565-04:00
+modified: 2026-03-29T21:53:55.565-04:00
+published: 2026-03-29T21:53:55.565-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/t

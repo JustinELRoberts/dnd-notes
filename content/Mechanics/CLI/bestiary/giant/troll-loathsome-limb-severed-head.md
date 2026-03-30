@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Troll (Loathsome Limb; Severed Head)
-created: 2026-03-09T12:15:34.053-04:00
-modified: 2026-03-09T12:15:34.053-04:00
-published: 2026-03-09T12:15:34.053-04:00
+created: 2026-03-29T21:53:56.069-04:00
+modified: 2026-03-29T21:53:56.069-04:00
+published: 2026-03-29T21:53:56.069-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -19,11 +19,25 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Troll (Loathsome Limb; Severed Head)
+ac: 13
+hp: 10
+modifier: 1
+cr: "5"
+stats:
+  - 18
+  - 13
+  - 20
+  - 7
+  - 9
+  - 7
+source:
+  - MM
 ---
 
 # Troll (Loathsome Limb; Severed Head)
-
-_Source: Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
 
 ```ad-statblock
 title: Troll (Loathsome Limb; Severed Head)
@@ -39,14 +53,14 @@ title: Troll (Loathsome Limb; Severed Head)
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** Giant
 - **Challenge** 5
 
 ## Traits
 
-***Keen Smell.*** The troll has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on smell.
+***Keen Smell.*** The troll has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on smell.
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
@@ -60,3 +74,7 @@ title: Troll (Loathsome Limb; Severed Head)
 ## Environment
 
 underdark, mountain, forest, swamp, hill, arctic
+
+## Sources
+
+_Monster Manual p. 291. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

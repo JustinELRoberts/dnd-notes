@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Insect (Spider)
-created: 2026-03-09T12:15:33.949-04:00
-modified: 2026-03-09T12:15:33.949-04:00
-published: 2026-03-09T12:15:33.949-04:00
+created: 2026-03-29T21:53:55.951-04:00
+modified: 2026-03-29T21:53:55.951-04:00
+published: 2026-03-29T21:53:55.951-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Insect (Spider) (XPHB)
+modifier: 1
+stats:
+  - 17
+  - 13
+  - 15
+  - 4
+  - 14
+  - 3
+source:
+  - XPHB
 ---
 
 # Giant Insect (Spider)
-
-_Source: Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 ```ad-statblock
 title: Giant Insect (Spider)
@@ -34,7 +45,7 @@ title: Giant Insect (Spider)
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 12
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 12
 - **Languages** understands the languages you know
 - **Challenge** 
 
@@ -52,3 +63,7 @@ title: Giant Insect (Spider)
 ```
 
 ^statblock
+
+## Sources
+
+_Player's Handbook (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

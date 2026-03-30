@@ -11,9 +11,9 @@ aliases:
   - Adamantine Scale Mail
   - Adamantine Spiked Armor
   - Adamantine Splint Armor
-created: 2026-03-09T12:15:33.902-04:00
-modified: 2026-03-09T12:15:33.902-04:00
-published: 2026-03-09T12:15:33.902-04:00
+created: 2026-03-29T21:53:55.900-04:00
+modified: 2026-03-29T21:53:55.900-04:00
+published: 2026-03-29T21:53:55.900-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy
@@ -30,9 +30,12 @@ obsidianUIMode: preview
 
 _Major, uncommon_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.
 
-**Variants**:
+## Variants
 
 - [Adamantine Breastplate](#Adamantine%20Breastplate)
 - [Adamantine Chain Mail](#Adamantine%20Chain%20Mail)
@@ -99,4 +102,6 @@ This suit of armor is reinforced with adamantine, one of the hardest substances 
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
 - **Weight**: 60.0 lbs.
 
-_Source: Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 150. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

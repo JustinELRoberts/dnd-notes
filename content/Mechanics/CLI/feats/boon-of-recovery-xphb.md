@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boon of Recovery
-created: 2026-03-09T12:15:34.134-04:00
-modified: 2026-03-09T12:15:34.134-04:00
-published: 2026-03-09T12:15:34.134-04:00
+created: 2026-03-29T21:53:56.182-04:00
+modified: 2026-03-29T21:53:56.182-04:00
+published: 2026-03-29T21:53:56.182-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase one ability score of your choice by 1, to a maximum of 30.
 
-**Last Stand.** When you would be reduced to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md), you can drop to 1 [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) instead and regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to half your [Hit Point](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) maximum. Once you use this benefit, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Last Stand.** When you would be reduced to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md), you can drop to 1 [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) instead and regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to half your [Hit Point](/Mechanics/CLI/variant-rules/hit-points-xphb.md) maximum. Once you use this benefit, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Recover Vitality.** You have a pool of ten d10s. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend dice from the pool, roll those dice, and regain a number of [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the roll's total. You regain all the expended dice when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Recover Vitality.** You have a pool of ten d10s. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend dice from the pool, roll those dice, and regain a number of [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the roll's total. You regain all the expended dice when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Sources
 

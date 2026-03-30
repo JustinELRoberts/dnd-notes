@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ghost Step Tattoo
-created: 2026-03-09T12:15:33.819-04:00
-modified: 2026-03-09T12:15:33.819-04:00
-published: 2026-03-09T12:15:33.819-04:00
+created: 2026-03-29T21:53:55.608-04:00
+modified: 2026-03-29T21:53:55.608-04:00
+published: 2026-03-29T21:53:55.608-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,9 @@ obsidianUIMode: preview
 
 _Wondrous item (tattoo), very rare (requires attunement)_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Produced by a special needle, this tattoo shifts and wavers on the skin, parts of it appearing blurred.
 
 ## Tattoo Attunement
@@ -32,7 +35,9 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 The tattoo has 3 charges, and it regains all expended charges daily at dawn. As a bonus action while the tattoo is on your skin, you can expend 1 of the tattoo's charges to become incorporeal until the end of your next turn. For the duration, you gain the following benefits:
 
 - You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
-- You can't be [grappled](Mechanics/CLI/rules/conditions.md#Grappled) or [restrained](Mechanics/CLI/rules/conditions.md#Restrained).
+- You can't be [grappled](/Mechanics/CLI/conditions.md#Grappled) or [restrained](/Mechanics/CLI/conditions.md#Restrained).
 - You can move through creatures and solid objects as if they were difficult terrain. If you end your turn in a solid object, you take `1d10` force damage. If the effect ends while you are inside a solid object, you instead are shunted to the nearest unoccupied space, and you take `1d10` force damage for every 5 feet traveled.
 
-_Source: Tasha's Cauldron of Everything p. 128_
+## Sources
+
+_Tasha's Cauldron of Everything p. 128_

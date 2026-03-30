@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Devouring Blade
-created: 2026-03-09T12:15:34.105-04:00
-modified: 2026-03-09T12:15:34.105-04:00
-published: 2026-03-09T12:15:34.105-04:00
+created: 2026-03-29T21:53:56.139-04:00
+modified: 2026-03-29T21:53:56.139-04:00
+published: 2026-03-29T21:53:56.139-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/ei
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Level 12, thirsting blade|xphb
 
-The Extra Attack of your [Thirsting Blade](Mechanics/CLI/optional-features/thirsting-blade-xphb.md) invocation confers two extra attacks rather than one.
+The Extra Attack of your [Thirsting Blade](/Mechanics/CLI/optional-features/thirsting-blade-xphb.md) invocation confers two extra attacks rather than one.
 
 ## Sources
 

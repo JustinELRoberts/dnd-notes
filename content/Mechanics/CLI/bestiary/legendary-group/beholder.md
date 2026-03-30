@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Beholder
-created: 2026-03-09T12:15:34.411-04:00
-modified: 2026-03-09T12:15:34.411-04:00
-published: 2026-03-09T12:15:34.411-04:00
+created: 2026-03-29T21:53:56.507-04:00
+modified: 2026-03-29T21:53:56.507-04:00
+published: 2026-03-29T21:53:56.507-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/legendary-group
@@ -22,7 +22,7 @@ _Source: Monster Manual_
 When fighting inside its lair, a beholder can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the beholder can take one lair action to cause one of the following effects:
 
 - A 50-foot-square area of ground within 120 feet of the beholder becomes slimy; that area is difficult terrain until initiative count 20 on the next round.
-- Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be [grappled](Mechanics/CLI/rules/conditions.md#Grappled). Escaping requires a successful DC 15 Strength ([Athletics](Mechanics/CLI/rules/skills.md#Athletics)) or Dexterity ([Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics)) check.
+- Walls within 120 feet of the beholder sprout grasping appendages until initiative count 20 on the round after next. Each creature of the beholder's choice that starts its turn within 10 feet of such a wall must succeed on a DC 15 Dexterity saving throw or be [grappled](/Mechanics/CLI/conditions.md#Grappled). Escaping requires a successful DC 15 Strength ([Athletics](/Mechanics/CLI/skills.md#Athletics)) or Dexterity ([Acrobatics](/Mechanics/CLI/skills.md#Acrobatics)) check.
 - An eye opens on a solid surface within 60 feet of the beholder. One random eye ray of the beholder shoots from that eye at a target of the beholder's choice that it can see. The eye then closes and disappears.
 
 The beholder can't repeat an effect until they have all been used, and it can't use the same effect two rounds in a row.

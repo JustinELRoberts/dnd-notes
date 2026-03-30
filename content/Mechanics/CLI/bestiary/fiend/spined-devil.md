@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spined Devil
-created: 2026-03-09T12:15:33.799-04:00
-modified: 2026-03-09T12:15:33.799-04:00
-published: 2026-03-09T12:15:33.799-04:00
+created: 2026-03-29T21:53:55.583-04:00
+modified: 2026-03-29T21:53:55.583-04:00
+published: 2026-03-29T21:53:55.583-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Spined Devil
+ac: 13
+hp: 22
+modifier: 2
+hit_dice: 5d6 + 5
+cr: "2"
+stats:
+  - 10
+  - 15
+  - 12
+  - 11
+  - 14
+  - 8
+source:
+  - MM
 ---
 
 # Spined Devil
 
-_Source: Monster Manual p. 78_\
 ![](Mechanics/CLI/bestiary/fiend/img/spined-devil.webp#right)
-
 Smaller than most other devils, spinagons act as messengers and spies for greater devils and archdevils. They are the eyes and ears of the Nine Hells, and even fiends that despise a spined devil's weakness treat it with a modicum of respect. A spined devil's body and tail bristle with spines, and it can fling its tail spines as ranged weapons. The spines burst into flame on impact.
 
 When not delivering messages or gathering intelligence, spined devils serve in the infernal legions as flying artillery, making up for their relative weakness by mobbing together to overwhelm their foes. Though they crave promotion and power, spined devils are craven by nature, and they will quickly scatter if a fight goes against them.
@@ -124,7 +139,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -152,11 +167,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Spined Devil
-![](Mechanics/CLI/bestiary/fiend/token/spined-devil.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/spined-devil.webp#token)
 *Small fiend (devil), Lawful Evil*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 22 (`5d6 + 5`) 
+- **Hit Points** 22 (5d6 + 5) 
 - **Speed** 20 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -166,10 +181,10 @@ title: Spined Devil
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 2
 
@@ -195,3 +210,7 @@ title: Spined Devil
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 78_

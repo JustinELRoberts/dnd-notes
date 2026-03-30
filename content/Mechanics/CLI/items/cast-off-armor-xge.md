@@ -15,9 +15,9 @@ aliases:
   - Cast-Off Spiked Armor
   - Cast-Off Splint Armor
   - Cast-Off Studded Leather Armor
-created: 2026-03-09T12:15:34.040-04:00
-modified: 2026-03-09T12:15:34.040-04:00
-published: 2026-03-09T12:15:34.040-04:00
+created: 2026-03-29T21:53:56.050-04:00
+modified: 2026-03-29T21:53:56.050-04:00
+published: 2026-03-29T21:53:56.050-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/armor/heavy
@@ -35,9 +35,12 @@ obsidianUIMode: preview
 
 _Minor, common_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You can doff this armor as an action.
 
-**Variants**:
+## Variants
 
 - [Cast-Off Breastplate](#Cast-Off%20Breastplate)
 - [Cast-Off Chain Mail](#Cast-Off%20Chain%20Mail)
@@ -129,4 +132,6 @@ You can doff this armor as an action.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-_Source: Xanathar's Guide to Everything p. 136_
+## Sources
+
+_Xanathar's Guide to Everything p. 136_

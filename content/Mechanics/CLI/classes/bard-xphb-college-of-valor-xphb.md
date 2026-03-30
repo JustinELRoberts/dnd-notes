@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - College of Valor
-created: 2026-03-09T12:15:34.122-04:00
-modified: 2026-03-09T12:15:34.122-04:00
-published: 2026-03-09T12:15:34.122-04:00
+created: 2026-03-29T21:53:56.160-04:00
+modified: 2026-03-29T21:53:56.160-04:00
+published: 2026-03-29T21:53:56.160-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/bard/valor
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # College of Valor
 
-_[Bard](./bard-xphb.md): Bard Subclass_\
-_Source: Player's Handbook (2024) p. 67_
+_[Bard](./bard-xphb.md): Bard Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -61,22 +60,26 @@ Bards of the College of Valor are daring storytellers whose tales preserve the m
 
 You can use your wit to turn the tide of battle. A creature that has a Bardic Inspiration die from you can use it for one of the following effects.
 
-**Defense.** When the creature is hit by an attack roll, that creature can use its [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
+**Defense.** When the creature is hit by an attack roll, that creature can use its [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to roll the Bardic Inspiration die and add the number rolled to its AC against that attack, potentially causing the attack to miss.
 
 **Offense.** Immediately after the creature hits a target with an attack roll, the creature can roll the Bardic Inspiration die and add the number rolled to the attack's damage against the target.
 
 ### Martial Training (Level 3)
 
-You gain proficiency with Martial weapons and training with Medium armor and [Shields](Mechanics/CLI/items/shield-xphb.md).
+You gain proficiency with Martial weapons and training with Medium armor and [Shields](/Mechanics/CLI/items/shield-xphb.md).
 
-In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
+In addition, you can use a Simple or Martial weapon as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md) to cast spells from your Bard spell list.
 
 ### Extra Attack (Level 6)
 
-You can attack twice instead of once whenever you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action on your turn.
+You can attack twice instead of once whenever you take the [Attack](/Mechanics/CLI/actions.md#Attack) action on your turn.
 
 In addition, you can cast one of your cantrips that has a casting time of an action in place of one of those attacks.
 
 ### Battle Magic (Level 14)
 
-After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md).
+After you cast a spell that has a casting time of an action, you can make one attack with a weapon as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md).
+
+## Sources
+
+_Player's Handbook (2024) p. 67_

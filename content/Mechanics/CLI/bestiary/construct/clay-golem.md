@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Clay Golem
-created: 2026-03-09T12:15:33.881-04:00
-modified: 2026-03-09T12:15:33.881-04:00
-published: 2026-03-09T12:15:33.881-04:00
+created: 2026-03-29T21:53:55.675-04:00
+modified: 2026-03-29T21:53:55.675-04:00
+published: 2026-03-29T21:53:55.675-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/9
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Clay Golem
+ac: 14
+hp: 133
+modifier: -1
+hit_dice: 14d10 + 56
+cr: "9"
+stats:
+  - 20
+  - 9
+  - 18
+  - 3
+  - 8
+  - 1
+source:
+  - MM
 ---
 
 # Clay Golem
 
-_Source: Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/clay-golem.webp#right)
-
 Sculpted from clay, this bulky golem stands head and shoulders taller than most human-sized creatures. It is human shaped, but its proportions are off.
 
 Clay golems are often divinely endowed with purpose by priests of great faith. However, clay is a weak vessel for life force. If the golem is damaged, the elemental spirit bound into it can break free. Such a golem runs amok, smashing everything around it until it is destroyed or completely repaired.
@@ -32,7 +47,7 @@ Clay golems are often divinely endowed with purpose by priests of great faith. H
 
 Golems are made from humble materials-clay, flesh and bones, iron, or stone-but they possess astonishing power and durability. A golem has no ambitions, needs no sustenance, feels no pain, and knows no remorse. An unstoppable juggernaut, it exists to follow its creator's orders, and it protects or attacks as that creator demands.
 
-To create a golem, one requires a [manual of golems](Mechanics/CLI/items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
+To create a golem, one requires a [manual of golems](/Mechanics/CLI/items/manual-of-golems.md). The comprehensive illustrations and instructions in a manual detail the process for creating a golem of a particular type.
 
 ### Elemental Spirit in Material Form
 
@@ -50,7 +65,7 @@ Golems can guard sacred sites, tombs, and treasure vaults long after the deaths 
 
 ### Blind Obedience
 
-When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
+When its creator or possessor is on hand to command it, a golem performs flawlessly. If the golem is left without instructions or is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated), it continues to follow its last orders to the best of its ability. When it can't fulfill its orders, a golem might react violently-or stand and do nothing. A golem that has been given conflicting orders sometimes alternates between them.
 
 ### Constructed Nature
 
@@ -60,11 +75,11 @@ A golem doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Clay Golem
-![](Mechanics/CLI/bestiary/construct/token/clay-golem.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/clay-golem.webp#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 133 (`14d10 + 56`) 
+- **Hit Points** 133 (14d10 + 56) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -74,9 +89,9 @@ title: Clay Golem
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Immunities** acid; poison; psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 9
 
@@ -96,9 +111,13 @@ title: Clay Golem
 
 ***Multiattack.*** The golem makes two slam attacks.
 
-***Slam.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the  [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
+***Slam.*** *Melee Weapon Attack:* `+8` to hit, reach 5 ft., one target. *Hit:* 16 (`2d10 + 5`) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the  [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell or other magic.
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 168. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

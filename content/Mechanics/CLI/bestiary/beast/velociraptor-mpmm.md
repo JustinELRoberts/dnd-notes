@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Velociraptor
-created: 2026-03-09T12:15:33.883-04:00
-modified: 2026-03-09T12:15:33.883-04:00
-published: 2026-03-09T12:15:33.883-04:00
+created: 2026-03-29T21:53:55.677-04:00
+modified: 2026-03-29T21:53:55.677-04:00
+published: 2026-03-29T21:53:55.677-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -15,21 +15,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Velociraptor (MPMM)
+ac: 13
+hp: 10
+modifier: 2
+hit_dice: 3d4 + 3
+cr: 1/4
+stats:
+  - 6
+  - 14
+  - 13
+  - 4
+  - 12
+  - 6
+source:
+  - MPMM
+  - VGM
 ---
 
 # Velociraptor
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_
 
 This feathered dinosaur is about the size of a large turkey. It is an aggressive predator and often hunts in packs to bring down larger prey.
 
 ```ad-statblock
 title: Velociraptor
-![](Mechanics/CLI/bestiary/beast/token/velociraptor-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/velociraptor-mpmm.webp#token)
 *Tiny beast (dinosaur), Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 10 (`3d4 + 3`) 
+- **Hit Points** 10 (3d4 + 3) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,14 +54,14 @@ title: Velociraptor
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
 - **Senses** passive Perception 13
 - **Languages** —
 - **Challenge** 1/4
 
 ## Traits
 
-***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Pack Tactics.*** The velociraptor has advantage on an attack roll against a creature if at least one of the velociraptor's allies is within 5 feet of the creature and the ally isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -61,3 +77,7 @@ title: Velociraptor
 ## Environment
 
 forest, grassland
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_

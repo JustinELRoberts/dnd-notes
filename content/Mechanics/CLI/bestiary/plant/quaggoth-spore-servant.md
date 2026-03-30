@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Quaggoth Spore Servant
-created: 2026-03-09T12:15:33.919-04:00
-modified: 2026-03-09T12:15:33.919-04:00
-published: 2026-03-09T12:15:33.919-04:00
+created: 2026-03-29T21:53:55.923-04:00
+modified: 2026-03-29T21:53:55.923-04:00
+published: 2026-03-29T21:53:55.923-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -14,11 +14,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Quaggoth Spore Servant
+ac: 13
+hp: 45
+modifier: 1
+hit_dice: 6d8 + 18
+cr: "1"
+stats:
+  - 17
+  - 12
+  - 16
+  - 2
+  - 6
+  - 1
+source:
+  - MM
 ---
 
 # Quaggoth Spore Servant
-
-_Source: Monster Manual p. 230_
 
 A spore servant is any Large or smaller creature brought back to life by the animating spores of a myconid sovereign. A creature that was never flesh and blood to begin with (such as a construct, elemental, ooze, plant, or undead) can't be turned into a spore servant.
 
@@ -48,11 +63,11 @@ The servant's ability scores change as follows: Int 2 (-4), Wis 6 (-2), Cha 1 (-
 
 ## Senses
 
-The servant has [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
+The servant has [blindsight](/Mechanics/CLI/senses.md#Blindsight) with a radius of 30 feet, and it is blind beyond this radius.
 
 ## Condition Immunities
 
-The servant can't be [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), or [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed).
+The servant can't be [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), or [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed).
 
 ## Languages
 
@@ -66,11 +81,11 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 
 ```ad-statblock
 title: Quaggoth Spore Servant
-![](Mechanics/CLI/bestiary/plant/token/quaggoth-spore-servant.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/quaggoth-spore-servant.webp#token)
 *Medium plant, Unaligned*
 
 - **Armor Class** 13 (natural armor)
-- **Hit Points** 45 (`6d8 + 18`) 
+- **Hit Points** 45 (6d8 + 18) 
 - **Speed** 20 ft., climb 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -80,9 +95,9 @@ title: Quaggoth Spore Servant
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 8
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 8
 - **Damage Immunities** poison
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 1
 
@@ -98,3 +113,7 @@ title: Quaggoth Spore Servant
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 230_

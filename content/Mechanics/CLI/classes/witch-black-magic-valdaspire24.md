@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Black Magic
-created: 2026-03-09T12:15:33.797-04:00
-modified: 2026-03-09T12:15:33.797-04:00
-published: 2026-03-09T12:15:33.797-04:00
+created: 2026-03-29T21:53:55.580-04:00
+modified: 2026-03-29T21:53:55.580-04:00
+published: 2026-03-29T21:53:55.580-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/witch/black
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Black Magic
 
-_[Witch](./witch-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Witch](./witch-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,32 +62,36 @@ When you reach a Witch level specified in the Black Magic Spells table, you ther
 
 | Witch Level | Spells |
 |-------------|--------|
-| 3 | [Exhume](Mechanics/CLI/spells/exhume-valdaspire24.md), [Gentle Repose](Mechanics/CLI/spells/gentle-repose-xphb.md), [Hex: Decay](Mechanics/CLI/spells/hex-decay-valdaspire24.md), [Inflict Wounds](Mechanics/CLI/spells/inflict-wounds-xphb.md), [Ray of Enfeeblement](Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
-| 5 | [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md), [Vampiric Touch](Mechanics/CLI/spells/vampiric-touch-xphb.md) |
-| 7 | [Blight](Mechanics/CLI/spells/blight-xphb.md), [Death Ward](Mechanics/CLI/spells/death-ward-xphb.md) |
-| 9 | [Cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md), [Contagion](Mechanics/CLI/spells/contagion-xphb.md) |
+| 3 | [Exhume](/Mechanics/CLI/spells/exhume-valdaspire24.md), [Gentle Repose](/Mechanics/CLI/spells/gentle-repose-xphb.md), [Hex: Decay](/Mechanics/CLI/spells/hex-decay-valdaspire24.md), [Inflict Wounds](/Mechanics/CLI/spells/inflict-wounds-xphb.md), [Ray of Enfeeblement](/Mechanics/CLI/spells/ray-of-enfeeblement-xphb.md) |
+| 5 | [Animate Dead](/Mechanics/CLI/spells/animate-dead-xphb.md), [Vampiric Touch](/Mechanics/CLI/spells/vampiric-touch-xphb.md) |
+| 7 | [Blight](/Mechanics/CLI/spells/blight-xphb.md), [Death Ward](/Mechanics/CLI/spells/death-ward-xphb.md) |
+| 9 | [Cloudkill](/Mechanics/CLI/spells/cloudkill-xphb.md), [Contagion](/Mechanics/CLI/spells/contagion-xphb.md) |
 ^black-magic-spells
 
 ### Decay (Level 3)
 
-You gain the [Hex: Decay](Mechanics/CLI/spells/hex-decay-valdaspire24.md) cantrip. This cantrip is exclusive to this subclass.
+You gain the [Hex: Decay](/Mechanics/CLI/spells/hex-decay-valdaspire24.md) cantrip. This cantrip is exclusive to this subclass.
 
 ### Undeath Command (Level 6)
 
 Your authority over Undead grants you the following benefits.
 
-**Quick Command.** When you take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to command your familiar, you can use the same [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to issue a command to any Undead you control via the [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md) spell or similar magic.
+**Quick Command.** When you take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to command your familiar, you can use the same [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to issue a command to any Undead you control via the [Animate Dead](/Mechanics/CLI/spells/animate-dead-xphb.md) spell or similar magic.
 
-**Undead Familiar.** Undead you control via the [Animate Dead](Mechanics/CLI/spells/animate-dead-xphb.md) spell gain the benefits of the Witch Familiar sidebar.
+**Undead Familiar.** Undead you control via the [Animate Dead](/Mechanics/CLI/spells/animate-dead-xphb.md) spell gain the benefits of the Witch Familiar sidebar.
 
 ### Life Tether (Level 10)
 
-When you take damage from a creature you can see within 60 feet, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to transfer some of that damage to a creature that is the sole target of your Hex. You take half the damage (round down) and the hexed creature takes the remaining damage.
+When you take damage from a creature you can see within 60 feet, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to transfer some of that damage to a creature that is the sole target of your Hex. You take half the damage (round down) and the hexed creature takes the remaining damage.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 2+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 2+ spell slot (no action required).
 
 ### Grim Sacrifice (Level 14)
 
-If your familiar is within 60 feet of yourself, you can take a [Magic](Mechanics/CLI/rules/actions.md#Magic) action to dissolve its magical bond to this plane. Your familiar drops to 0 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) and unleashes necromantic energy in a 20-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md). Each creature you choose within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) makes a Dexterity saving throw against your spell save DC. A creature takes `8d10` Necrotic damage on a failed save, or half as much damage on a successful one.
+If your familiar is within 60 feet of yourself, you can take a [Magic](/Mechanics/CLI/actions.md#Magic) action to dissolve its magical bond to this plane. Your familiar drops to 0 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) and unleashes necromantic energy in a 20-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md). Each creature you choose within the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) makes a Dexterity saving throw against your spell save DC. A creature takes `8d10` Necrotic damage on a failed save, or half as much damage on a successful one.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 6+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 6+ spell slot (no action required).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

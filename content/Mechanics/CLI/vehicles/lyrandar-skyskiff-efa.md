@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Lyrandar Skyskiff
-created: 2026-03-09T12:15:33.773-04:00
-modified: 2026-03-09T12:15:33.773-04:00
-published: 2026-03-09T12:15:33.773-04:00
+created: 2026-03-29T21:53:55.555-04:00
+modified: 2026-03-29T21:53:55.555-04:00
+published: 2026-03-29T21:53:55.555-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/vehicle/terrain/air
@@ -22,7 +22,7 @@ A recent innovation, the Lyrandar Skyskiff is a nimble and compact airship used 
 
 ```ad-statblock
 title: Lyrandar Skyskiff
-![](Mechanics/CLI/vehicles/token/lyrandar-skyskiff-efa.webp#token)
+![](/Mechanics/CLI/vehicles/token/lyrandar-skyskiff-efa.webp#token)
 *; air*
 
 - **Creature Capacity** 2 crew, 2 passengers
@@ -30,3 +30,7 @@ title: Lyrandar Skyskiff
 ```
 
 ^statblock
+
+## Sources
+
+_Eberron: Forge of the Artificer p. 107_

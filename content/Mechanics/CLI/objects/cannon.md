@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cannon
-created: 2026-03-09T12:15:33.853-04:00
-modified: 2026-03-09T12:15:33.853-04:00
-published: 2026-03-09T12:15:33.853-04:00
+created: 2026-03-29T21:53:55.643-04:00
+modified: 2026-03-29T21:53:55.643-04:00
+published: 2026-03-29T21:53:55.643-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/object/size/large
@@ -16,15 +16,13 @@ obsidianUIMode: preview
 
 # Cannon
 
-_Source: Dungeon Master's Guide p. 255_
-
 A cannon uses gunpowder to propel heavy balls of cast iron through the air at destructive speeds. In a campaign without gunpowder, a cannon might be an arcane device built by clever gnomes or wizardly engineers.
 
 A cannon is usually supported in a wooden frame with wheels. Before it can be fired, the cannon must be loaded and aimed. It takes one action to load the weapon, one action to aim it, and one action to fire it.
 
 ```ad-statblock
 title: Cannon
-![](Mechanics/CLI/objects/token/cannon.webp#token)
+![](/Mechanics/CLI/objects/token/cannon.webp#token)
 *Large Siege weapon*
 
 - **Armor Class** 19 
@@ -43,3 +41,7 @@ title: Cannon
 ```
 
 ^statblock
+
+## Sources
+
+_Dungeon Master's Guide p. 255_

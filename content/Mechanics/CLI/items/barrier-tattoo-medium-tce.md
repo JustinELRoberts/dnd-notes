@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Barrier Tattoo (Medium)
-created: 2026-03-09T12:15:33.886-04:00
-modified: 2026-03-09T12:15:33.886-04:00
-published: 2026-03-09T12:15:33.886-04:00
+created: 2026-03-29T21:53:55.681-04:00
+modified: 2026-03-29T21:53:55.681-04:00
+published: 2026-03-29T21:53:55.681-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,9 @@ obsidianUIMode: preview
 
 _Wondrous item (tattoo), rare (requires attunement)_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 Produced by a special needle, this magic tattoo depicts protective imagery and uses ink that resembles liquid metal.
 
 ## Tattoo Attunement
@@ -31,4 +34,6 @@ If your attunement to the tattoo ends, the tattoo vanishes, and the needle reapp
 
 While you aren't wearing armor, the tattoo grants you an Armor Class of 15 + your Dexterity modifier (maximum of +2). You can use a shield and still gain this benefit.
 
-_Source: Tasha's Cauldron of Everything p. 122_
+## Sources
+
+_Tasha's Cauldron of Everything p. 122_

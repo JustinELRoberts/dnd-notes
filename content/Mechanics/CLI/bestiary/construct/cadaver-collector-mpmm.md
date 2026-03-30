@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cadaver Collector
-created: 2026-03-09T12:15:33.967-04:00
-modified: 2026-03-09T12:15:33.967-04:00
-published: 2026-03-09T12:15:33.967-04:00
+created: 2026-03-29T21:53:55.971-04:00
+modified: 2026-03-29T21:53:55.971-04:00
+published: 2026-03-29T21:53:55.971-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/14
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cadaver Collector (MPMM)
+ac: 17
+hp: 189
+modifier: 2
+hit_dice: 18d10 + 90
+cr: "14"
+stats:
+  - 21
+  - 14
+  - 20
+  - 5
+  - 11
+  - 8
+source:
+  - MPMM
 ---
 
 # Cadaver Collector
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 68_\
 ![](Mechanics/CLI/bestiary/construct/img/cadaver-collector.webp#right)
-
 The ancient war machines known as cadaver collectors lumber aimlessly across the blasted plains of Acheron until they are called upon by a necromancer to bolster the ranks of a conquering army on the Material Plane. These fearsome Constructs obey their summoners until they are dismissed back to Acheron, but if a summoner comes to a bad end, a cadaver collector might wander the Material Plane for centuries, collecting corpses while searching for a way to return home.
 
 Cadaver collectors respond to a summons from a mortal only when they are called to the scene of a great battle—either where one is in progress, where one is imminent, or where one once took place. They encase themselves in the armor and weapons of fallen warriors and impale the corpses of those warriors on the lances and other weapons embedded in their salvaged armor.
@@ -29,11 +44,11 @@ Corpses that accumulate on a cadaver collector's shell aren't just grisly battle
 
 ```ad-statblock
 title: Cadaver Collector
-![](Mechanics/CLI/bestiary/construct/token/cadaver-collector-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/cadaver-collector-mpmm.webp#token)
 *Large construct, Typically  Lawful Evil*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 189 (`18d10 + 90`) 
+- **Hit Points** 189 (18d10 + 90) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -43,9 +58,9 @@ title: Cadaver Collector
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** necrotic; poison; psychic; bludgeoning, piercing, slashing from nonmagical attacks that aren't adamantine
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands all languages but can't speak
 - **Challenge** 14
 
@@ -61,11 +76,11 @@ title: Cadaver Collector
 
 ***Slam.*** *Melee Weapon Attack:* `+10` to hit, reach 5 ft., one target. *Hit:* 18 (`3d8 + 5`) bludgeoning damage plus 16 (`3d10`) necrotic damage.
 
-***Paralyzing Breath (Recharge 5-6).*** The collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18 Constitution saving throw or be [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) for 1 minute. A [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success.
+***Paralyzing Breath (Recharge 5-6).*** The collector releases paralyzing gas in a 30-foot cone. Each creature in that area must make a successful DC 18 Constitution saving throw or be [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) for 1 minute. A [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) creature repeats the saving throw at the end of each of its turns, ending the effect on itself with a success.
 
 ## Bonus Actions
 
-***Summon Specters (Recharges after a Short or Long Rest).*** The collector calls up the enslaved spirits of those it has slain; `1d4` [specters](Mechanics/CLI/bestiary/undead/specter.md) (without Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters act right after the collector on the same initiative count and fight until they're destroyed. They disappear when the collector is destroyed.
+***Summon Specters (Recharges after a Short or Long Rest).*** The collector calls up the enslaved spirits of those it has slain; `1d4` [specters](/Mechanics/CLI/bestiary/undead/specter.md) (without Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of it. The specters act right after the collector on the same initiative count and fight until they're destroyed. They disappear when the collector is destroyed.
 ```
 
 ^statblock
@@ -73,3 +88,7 @@ title: Cadaver Collector
 ## Environment
 
 grassland
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 68_

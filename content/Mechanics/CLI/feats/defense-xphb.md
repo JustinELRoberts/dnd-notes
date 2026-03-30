@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Defense
-created: 2026-03-09T12:15:34.002-04:00
-modified: 2026-03-09T12:15:34.002-04:00
-published: 2026-03-09T12:15:34.002-04:00
+created: 2026-03-29T21:53:56.012-04:00
+modified: 2026-03-29T21:53:56.012-04:00
+published: 2026-03-29T21:53:56.012-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _**Prerequisites**_ Fighting Style Feature
 
-While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md).
+While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md).
 
 ## Sources
 

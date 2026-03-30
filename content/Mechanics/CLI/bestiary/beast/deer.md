@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Deer
-created: 2026-03-09T12:15:33.812-04:00
-modified: 2026-03-09T12:15:33.812-04:00
-published: 2026-03-09T12:15:33.812-04:00
+created: 2026-03-29T21:53:55.597-04:00
+modified: 2026-03-29T21:53:55.597-04:00
+published: 2026-03-29T21:53:55.597-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -15,19 +15,34 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Deer
+ac: 13
+hp: 4
+modifier: 3
+hit_dice: 1d8
+cr: "0"
+stats:
+  - 11
+  - 16
+  - 11
+  - 2
+  - 14
+  - 5
+source:
+  - MM
 ---
 
 # Deer
 
-_Source: Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
-
 ```ad-statblock
 title: Deer
-![](Mechanics/CLI/bestiary/beast/token/deer.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/deer.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 4 (`1d8`) 
+- **Hit Points** 4 (1d8) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,3 +66,7 @@ title: Deer
 ## Environment
 
 grassland, forest
+
+## Sources
+
+_Monster Manual p. 321. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

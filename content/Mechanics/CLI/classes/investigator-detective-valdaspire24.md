@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Detective
-created: 2026-03-09T12:15:33.827-04:00
-modified: 2026-03-09T12:15:33.827-04:00
-published: 2026-03-09T12:15:33.827-04:00
+created: 2026-03-29T21:53:55.613-04:00
+modified: 2026-03-29T21:53:55.613-04:00
+published: 2026-03-29T21:53:55.613-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/investigator/detective
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Detective
 
-_[Investigator](./investigator-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Investigator](./investigator-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,34 +56,38 @@ Prowling at the edge of darkness, Detectives chase down clues and pull on thread
 
 ### Uncanny Hunch (Level 3)
 
-Whenever you make an Intelligence check or a Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check, you can gain a bonus to the check equal to your Investigator level.
+Whenever you make an Intelligence check or a Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check, you can gain a bonus to the check equal to your Investigator level.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Trinkets (Level 3)
 
 You can use the following trinkets.
 
-**Fogstone Periapt.** You can cast [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md) without a spell slot or components.
+**Fogstone Periapt.** You can cast [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md) without a spell slot or components.
 
-**Glass Medallion.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) on yourself without a spell slot or components.
+**Glass Medallion.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) on yourself without a spell slot or components.
 
-**Skeleton's Key.** As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can cast [Knock](Mechanics/CLI/spells/knock-xphb.md) without a spell slot or components. When you cast the spell using this trinket, its casting is silent.
+**Skeleton's Key.** As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can cast [Knock](/Mechanics/CLI/spells/knock-xphb.md) without a spell slot or components. When you cast the spell using this trinket, its casting is silent.
 
 ### Predictive Intuition (Level 6)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can examine the movements of a creature you can see within 30 feet of yourself. Until the start of your next turn, you can add `1d6` to attack rolls you make against the target, and the target subtracts `1d6` from all its attack rolls against you. Once you use this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on a target, you can't use it on that target again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can examine the movements of a creature you can see within 30 feet of yourself. Until the start of your next turn, you can add `1d6` to attack rolls you make against the target, and the target subtracts `1d6` from all its attack rolls against you. Once you use this [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on a target, you can't use it on that target again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Interrogator's Instinct (Level 10)
 
 Your sleuthing experience grants you the following benefits.
 
-**Enchantment Detection.** You can discern if a creature is cursed, possessed, or has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) conditions.
+**Enchantment Detection.** You can discern if a creature is cursed, possessed, or has the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) conditions.
 
-**Illusion Detection.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check you make to discern an illusion.
+**Illusion Detection.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on any ability check you make to discern an illusion.
 
-**Lie Detection.** You have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on any ability check you make to determine if you hear a deliberate lie.
+**Lie Detection.** You have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on any ability check you make to determine if you hear a deliberate lie.
 
 ### Power of Deduction (Level 14)
 
-You can use your [Predictive Intuition](Mechanics/CLI/classes/investigator-detective-valdaspire24.md#Predictive%20Intuition%20\(Level%206\)) on a target an unlimited number of times.
+You can use your [Predictive Intuition](/Mechanics/CLI/classes/investigator-detective-valdaspire24.md#Predictive%20Intuition%20\(Level%206\)) on a target an unlimited number of times.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

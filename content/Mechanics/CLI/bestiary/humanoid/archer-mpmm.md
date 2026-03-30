@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Archer
-created: 2026-03-09T12:15:34.137-04:00
-modified: 2026-03-09T12:15:34.138-04:00
-published: 2026-03-09T12:15:34.138-04:00
+created: 2026-03-29T21:53:56.189-04:00
+modified: 2026-03-29T21:53:56.189-04:00
+published: 2026-03-29T21:53:56.189-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Archer (MPMM)
+ac: 16
+hp: 75
+modifier: 4
+hit_dice: 10d8 + 30
+cr: "3"
+stats:
+  - 11
+  - 18
+  - 16
+  - 11
+  - 13
+  - 10
+source:
+  - MPMM
+  - VGM
 ---
 
 # Archer
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210_\
 ![](Mechanics/CLI/bestiary/humanoid/img/archer.webp#right)
-
 Archers defend castles, hunt wild game on the fringes of civilization, serve as artillery in military units, and occasionally make good coin as brigands or caravan guards.
 
 Some renowned archers and groups of archers are known for the special fletching of their arrows. You may roll on the Archer Fletching table to determine the distinctive fletching used by an individual archer or a group of them.
@@ -46,11 +62,11 @@ Some renowned archers and groups of archers are known for the special fletching 
 
 ```ad-statblock
 title: Archer
-![](Mechanics/CLI/bestiary/humanoid/token/archer-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/archer-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 16 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md))
-- **Hit Points** 75 (`10d8 + 30`) 
+- **Armor Class** 16 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md))
+- **Hit Points** 75 (10d8 + 30) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -59,9 +75,8 @@ title: Archer
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
+- **Skills** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +5
 - **Senses** passive Perception 15
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 3
 
@@ -83,3 +98,7 @@ title: Archer
 ## Environment
 
 forest, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 49, Volo's Guide to Monsters p. 210_

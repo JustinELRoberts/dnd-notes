@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Firenewt Warlock of Imix
-created: 2026-03-09T12:15:34.043-04:00
-modified: 2026-03-09T12:15:34.043-04:00
-published: 2026-03-09T12:15:34.043-04:00
+created: 2026-03-29T21:53:56.053-04:00
+modified: 2026-03-29T21:53:56.053-04:00
+published: 2026-03-29T21:53:56.053-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1
@@ -16,11 +16,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Firenewt Warlock of Imix (MPMM)
+ac: 10
+hp: 33
+modifier: 0
+hit_dice: 6d8 + 6
+cr: "1"
+stats:
+  - 13
+  - 11
+  - 12
+  - 9
+  - 11
+  - 14
+source:
+  - MPMM
+  - VGM
 ---
 
 # Firenewt Warlock of Imix
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143_
 
 Firenewts who serve Imix, Prince of Evil Fire, live in militaristic theocracies that revere elemental fire in its most destructive incarnation and promote aggression and cruelty. Firenewt warlocks of Imix lead these theocracies or serve as advisors to a high priest.
 
@@ -32,11 +48,11 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 
 ```ad-statblock
 title: Firenewt Warlock of Imix
-![](Mechanics/CLI/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/firenewt-warlock-of-imix-mpmm.webp#token)
 *Medium elemental, Typically  Neutral Evil*
 
 - **Armor Class** 10 
-- **Hit Points** 33 (`6d8 + 6`) 
+- **Hit Points** 33 (6d8 + 6) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,9 +62,8 @@ title: Firenewt Warlock of Imix
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Immunities** fire
-- **Gear** [morningstar](Mechanics/CLI/items/morningstar-xphb.md)
 - **Languages** Draconic, Ignan
 - **Challenge** 1
 
@@ -56,7 +71,7 @@ title: Firenewt Warlock of Imix
 
 ***Amphibious.*** The firenewt can breathe air and water.
 
-***Devil's Sight.*** Magical darkness doesn't impede the firenewt's [darkvision](Mechanics/CLI/rules/senses.md#Darkvision).
+***Devil's Sight.*** Magical darkness doesn't impede the firenewt's [darkvision](/Mechanics/CLI/senses.md#Darkvision).
 
 ***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 
@@ -70,7 +85,7 @@ title: Firenewt Warlock of Imix
 
 ***Spellcasting.*** The firenewt casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 12):
 
-**At will:** [guidance](Mechanics/CLI/spells/guidance-xphb.md), [light](Mechanics/CLI/spells/light-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [guidance](/Mechanics/CLI/spells/guidance-xphb.md), [light](/Mechanics/CLI/spells/light-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 ```
 
 ^statblock
@@ -78,3 +93,7 @@ title: Firenewt Warlock of Imix
 ## Environment
 
 hill, mountain, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 143_

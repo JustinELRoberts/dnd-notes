@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hadrosaurus
-created: 2026-03-09T12:15:34.043-04:00
-modified: 2026-03-09T12:15:34.043-04:00
-published: 2026-03-09T12:15:34.043-04:00
+created: 2026-03-29T21:53:56.054-04:00
+modified: 2026-03-29T21:53:56.054-04:00
+published: 2026-03-29T21:53:56.054-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-4
@@ -15,21 +15,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Hadrosaurus (MPMM)
+ac: 11
+hp: 19
+modifier: 0
+hit_dice: 3d10 + 3
+cr: 1/4
+stats:
+  - 15
+  - 10
+  - 13
+  - 2
+  - 10
+  - 5
+source:
+  - MPMM
+  - VGM
 ---
 
 # Hadrosaurus
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_
 
 A hadrosaurus is a semi-quadrupedal herbivore with bony head crests. If raised from a hatchling, it can be trained to carry a rider.
 
 ```ad-statblock
 title: Hadrosaurus
-![](Mechanics/CLI/bestiary/beast/token/hadrosaurus-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/hadrosaurus-mpmm.webp#token)
 *Large beast (dinosaur), Unaligned*
 
 - **Armor Class** 11 (natural armor)
-- **Hit Points** 19 (`3d10 + 3`) 
+- **Hit Points** 19 (3d10 + 3) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,7 +54,7 @@ title: Hadrosaurus
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2
 - **Senses** passive Perception 12
 - **Languages** —
 - **Challenge** 1/4
@@ -53,3 +69,7 @@ title: Hadrosaurus
 ## Environment
 
 grassland, swamp
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 96, Volo's Guide to Monsters p. 140_

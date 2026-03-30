@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mage Slayer
-created: 2026-03-09T12:15:33.887-04:00
-modified: 2026-03-09T12:15:33.887-04:00
-published: 2026-03-09T12:15:33.887-04:00
+created: 2026-03-29T21:53:55.883-04:00
+modified: 2026-03-29T21:53:55.883-04:00
+published: 2026-03-29T21:53:55.883-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat
@@ -21,9 +21,9 @@ You gain the following benefits.
 
 **Ability Score Increase.** Increase your Strength or Dexterity by 1, to a maximum of 20.
 
-**Concentration Breaker.** When you damage a creature that is [Concentrating](Mechanics/CLI/rules/conditions.md#Concentration), it has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the saving throw it makes to maintain [Concentration](Mechanics/CLI/rules/conditions.md#Concentration).
+**Concentration Breaker.** When you damage a creature that is [Concentrating](/Mechanics/CLI/conditions.md#Concentration), it has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the saving throw it makes to maintain [Concentration](/Mechanics/CLI/conditions.md#Concentration).
 
-**Guarded Mind.** If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Guarded Mind.** If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ## Sources
 

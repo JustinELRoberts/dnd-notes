@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Faerie Dragon (Green)
-created: 2026-03-09T12:15:34.014-04:00
-modified: 2026-03-09T12:15:34.014-04:00
-published: 2026-03-09T12:15:34.014-04:00
+created: 2026-03-29T21:53:56.021-04:00
+modified: 2026-03-29T21:53:56.021-04:00
+published: 2026-03-29T21:53:56.021-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Faerie Dragon (Green)
+ac: 15
+hp: 14
+modifier: 5
+hit_dice: 4d4 + 4
+cr: "2"
+stats:
+  - 3
+  - 20
+  - 13
+  - 14
+  - 12
+  - 16
+source:
+  - MM
 ---
 
 # Faerie Dragon (Green)
 
-_Source: Monster Manual p. 133_\
 ![](Mechanics/CLI/bestiary/dragon/img/faerie-dragon.webp#right)
-
 A faerie dragon is a cat-sized dragon with butterfly wings. It wears a sharp-toothed grin and expresses its delight by the twitching of its tail, its merriment fading only if it is attacked.
 
 ## Invisible Tricksters
@@ -52,11 +67,11 @@ CR 1 (200 XP) For a red, orange, or yellow faerie dragon; 2 (450 XP) for a green
 
 ```ad-statblock
 title: Faerie Dragon (Green)
-![](Mechanics/CLI/bestiary/dragon/token/faerie-dragon-green.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/faerie-dragon-green.webp#token)
 *Tiny dragon, Chaotic Good*
 
 - **Armor Class** 15 
-- **Hit Points** 14 (`4d4 + 4`) 
+- **Hit Points** 14 (4d4 + 4) 
 - **Speed** 10 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,8 +80,8 @@ title: Faerie Dragon (Green)
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +7
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 13
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +7
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 13
 - **Languages** Draconic, Sylvan
 - **Challenge** 2
 
@@ -74,7 +89,7 @@ title: Faerie Dragon (Green)
 
 ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components:
 
-**1/day each:** [color spray](Mechanics/CLI/spells/color-spray-xphb.md), [dancing lights](Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [mirror image](Mechanics/CLI/spells/mirror-image-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**1/day each:** [color spray](/Mechanics/CLI/spells/color-spray-xphb.md), [dancing lights](/Mechanics/CLI/spells/dancing-lights-xphb.md), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [mirror image](/Mechanics/CLI/spells/mirror-image-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
 ***The Colors of Age.*** A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
@@ -94,7 +109,7 @@ Violet—51 years or more
 
 A green or older faerie dragon's CR increases to 2.
 
-***Superior Invisibility.*** As a bonus action, the dragon can magically turn [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) ends (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the dragon wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Superior Invisibility.*** As a bonus action, the dragon can magically turn [invisible](/Mechanics/CLI/conditions.md#Invisible) until its [concentration](/Mechanics/CLI/conditions.md#Concentration) ends (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the dragon wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 
 ***Limited Telepathy.*** Using telepathy, the dragon can magically communicate with any other faerie dragon within 60 feet of it.
 
@@ -116,3 +131,7 @@ A green or older faerie dragon's CR increases to 2.
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 133_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dolphin
-created: 2026-03-09T12:15:34.133-04:00
-modified: 2026-03-09T12:15:34.133-04:00
-published: 2026-03-09T12:15:34.133-04:00
+created: 2026-03-29T21:53:56.180-04:00
+modified: 2026-03-29T21:53:56.180-04:00
+published: 2026-03-29T21:53:56.180-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-8
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dolphin (MPMM)
+ac: 12
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/8
+stats:
+  - 14
+  - 13
+  - 13
+  - 6
+  - 12
+  - 7
+source:
+  - MPMM
+  - VGM
 ---
 
 # Dolphin
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208_\
 ![](Mechanics/CLI/bestiary/beast/img/dolphin.webp#right)
-
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
 
 ## Dolphins
@@ -32,11 +48,11 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 
 ```ad-statblock
 title: Dolphin
-![](Mechanics/CLI/bestiary/beast/token/dolphin-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/dolphin-mpmm.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 12 (natural armor)
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 0 ft., swim 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -45,8 +61,8 @@ title: Dolphin
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception 13
 - **Languages** —
 - **Challenge** 1/8
 
@@ -64,3 +80,7 @@ title: Dolphin
 ## Environment
 
 coastal, underwater
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208_

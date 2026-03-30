@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grenade Launcher
-created: 2026-03-09T12:15:33.851-04:00
-modified: 2026-03-09T12:15:33.851-04:00
-published: 2026-03-09T12:15:33.851-04:00
+created: 2026-03-29T21:53:55.640-04:00
+modified: 2026-03-29T21:53:55.640-04:00
+published: 2026-03-29T21:53:55.640-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/item/rarity/none
@@ -21,8 +21,10 @@ _Weapon_
 
 - **Damage**: 2d8 fire
 - **Range**: 40/160
-- **Properties**: [Ammunition](Mechanics/CLI/rules/item-properties.md#Ammunition), [Loading](Mechanics/CLI/rules/item-properties.md#Loading), [Two-Handed](Mechanics/CLI/rules/item-properties.md#Two-Handed)
+- **Properties**: [Ammunition](/Mechanics/CLI/item-properties.md#Ammunition), [Loading](/Mechanics/CLI/item-properties.md#Loading), [Two-Handed](/Mechanics/CLI/item-properties.md#Two-Handed)
 - **Cost**: 1,000 gp
 - **Weight**: 10.0 lbs.
 
-_Source: Valda's Spire of Secrets (2024)_
+## Sources
+
+_Valda's Spire of Secrets (2024)_

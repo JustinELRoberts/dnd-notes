@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Plague Doctor
-created: 2026-03-09T12:15:33.858-04:00
-modified: 2026-03-09T12:15:33.858-04:00
-published: 2026-03-09T12:15:33.858-04:00
+created: 2026-03-29T21:53:55.648-04:00
+modified: 2026-03-29T21:53:55.648-04:00
+published: 2026-03-29T21:53:55.648-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/vagabond/plague-doctor
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Plague Doctor
 
-_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Vagabond](./vagabond-valdaspire24extras.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,32 +58,36 @@ As maladies sweep the countryside, plague doctors follow close behind. Wielding 
 
 Your medical studies have taught you to bloodlet patients and balance their humors, granting you the following benefits.
 
-**Medical Training.** You have proficiency and [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in the Medicine skill.
+**Medical Training.** You have proficiency and [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in the Medicine skill.
 
-**Diagnosis.** You can take the [Search](Mechanics/CLI/rules/actions.md#Search) action to determine if a creature you can see within 30 feet of yourself has the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition, is [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), or is afflicted by a magical contagion. You sense the source of the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition, the nature of its wounds, and the magical contagion in each case.
+**Diagnosis.** You can take the [Search](/Mechanics/CLI/actions.md#Search) action to determine if a creature you can see within 30 feet of yourself has the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition, is [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), or is afflicted by a magical contagion. You sense the source of the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition, the nature of its wounds, and the magical contagion in each case.
 
 ### Remedy \[Maneuver] (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) on your turn, you can expend one Battle Die to choose one ally within 5 feet of yourself. That creature regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to two rolls of your Battle Die plus your Constitution modifier. Additionally, you can end one of the following conditions on the ally: [Blinded](Mechanics/CLI/rules/conditions.md#Blinded), [Deafened](Mechanics/CLI/rules/conditions.md#Deafened), [Paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), or [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) on your turn, you can expend one Battle Die to choose one ally within 5 feet of yourself. That creature regains [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to two rolls of your Battle Die plus your Constitution modifier. Additionally, you can end one of the following conditions on the ally: [Blinded](/Mechanics/CLI/conditions.md#Blinded), [Deafened](/Mechanics/CLI/conditions.md#Deafened), [Paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), or [Poisoned](/Mechanics/CLI/conditions.md#Poisoned).
 
 ### Imbalance Humors (Level 6)
 
-Once on each of your turns when you hit a creature with an attack using a weapon or [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can imbalance its humors using one of the following options. Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once on each of your turns when you hit a creature with an attack using a weapon or [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can imbalance its humors using one of the following options. Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
-**Choleric.** Until the start of your next turn, the target has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on attack rolls and attack rolls against it also have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md).
+**Choleric.** Until the start of your next turn, the target has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on attack rolls and attack rolls against it also have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md).
 
-**Melancholic.** The target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the next [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) it makes before the start of your next turn.
+**Melancholic.** The target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) it makes before the start of your next turn.
 
-**Phlegmatic.** The target can't make [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) until the start of its turn.
+**Phlegmatic.** The target can't make [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) until the start of its turn.
 
 **Sanguine.** The next time the target takes damage before the start of your next turn, it takes extra Necrotic damage equal to one roll of your Battle Die without expending it.
 
 ### Analgesic Remedy (Level 10)
 
-When you use your Remedy maneuver, you can give yourself or the ally [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Vagabond level.
+When you use your Remedy maneuver, you can give yourself or the ally [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Vagabond level.
 
 ### Bloodletting (Level 14)
 
 You learn the Wounding Strike maneuver. If you already know it, you learn a different maneuver of your choice.
 
 You can use your Wounding Strike maneuver by expending 1-3 Battle Dice. You add only one Battle Die to the attack's damage roll, but the target gains a number of bleeding wounds equal to the number of Battle Dice expended.
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sailor
-created: 2026-03-09T12:15:34.052-04:00
-modified: 2026-03-09T12:15:34.052-04:00
-published: 2026-03-09T12:15:34.052-04:00
+created: 2026-03-29T21:53:56.066-04:00
+modified: 2026-03-29T21:53:56.066-04:00
+published: 2026-03-29T21:53:56.066-04:00
 tags:
   - ttrpg-cli/background
   - ttrpg-cli/compendium/src/5e/xphb
@@ -15,13 +15,16 @@ obsidianUIMode: preview
 
 # Sailor
 
-_Source: Player's Handbook (2024) p. 184_\
 ![](Mechanics/CLI/backgrounds/img/sailor.webp#right)
 
 - **Ability Scores.** Strength, Dexterity, Wisdom
-- **Feat.** [Tavern Brawler](Mechanics/CLI/feats/tavern-brawler-xphb.md)
-- **Skill Proficiencies.** [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Perception](Mechanics/CLI/rules/skills.md#Perception)
-- **Tool Proficiency.** [Navigator's Tools](Mechanics/CLI/items/navigators-tools-xphb.md)
-- **Equipment.** Choose A or B: (A) [Dagger](Mechanics/CLI/items/dagger-xphb.md), [Navigator's Tools](Mechanics/CLI/items/navigators-tools-xphb.md), [Rope](Mechanics/CLI/items/rope-xphb.md), [Traveler's Clothes](Mechanics/CLI/items/travelers-clothes-xphb.md), 20 GP; or (B) 50 GP
+- **Feat.** [Tavern Brawler](/Mechanics/CLI/feats/tavern-brawler-xphb.md)
+- **Skill Proficiencies.** [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics), [Perception](/Mechanics/CLI/skills.md#Perception)
+- **Tool Proficiency.** [Navigator's Tools](/Mechanics/CLI/items/navigators-tools-xphb.md)
+- **Equipment.** Choose A or B: (A) [Dagger](/Mechanics/CLI/items/dagger-xphb.md), [Navigator's Tools](/Mechanics/CLI/items/navigators-tools-xphb.md), [Rope](/Mechanics/CLI/items/rope-xphb.md), [Traveler's Clothes](/Mechanics/CLI/items/travelers-clothes-xphb.md), 20 GP; or (B) 50 GP
 
 You lived as a seafarer, wind at your back and decks swaying beneath your feet. You've perched on barstools in more ports of call than you can remember, faced mighty storms, and swapped stories with folk who live beneath the waves.
+
+## Sources
+
+_Player's Handbook (2024) p. 184_

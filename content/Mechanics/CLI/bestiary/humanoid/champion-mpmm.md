@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Champion
-created: 2026-03-09T12:15:33.910-04:00
-modified: 2026-03-09T12:15:33.911-04:00
-published: 2026-03-09T12:15:33.911-04:00
+created: 2026-03-29T21:53:55.913-04:00
+modified: 2026-03-29T21:53:55.913-04:00
+published: 2026-03-29T21:53:55.913-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9
@@ -15,11 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Champion (MPMM)
+ac: 18
+hp: 143
+modifier: 2
+hit_dice: 22d8 + 44
+cr: "9"
+stats:
+  - 20
+  - 15
+  - 14
+  - 10
+  - 14
+  - 12
+source:
+  - MPMM
+  - VGM
 ---
 
 # Champion
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212_\
 ![](Mechanics/CLI/bestiary/humanoid/img/champion.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -50,11 +67,11 @@ A typical champion bears a coat of arms, heraldry that is associated with the ch
 
 ```ad-statblock
 title: Champion
-![](Mechanics/CLI/bestiary/humanoid/token/champion-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/champion-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 18 ([plate](Mechanics/CLI/items/plate-armor-xphb.md))
-- **Hit Points** 143 (`22d8 + 44`) 
+- **Armor Class** 18 ([plate](/Mechanics/CLI/items/plate-armor.md))
+- **Hit Points** 143 (22d8 + 44) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -63,9 +80,8 @@ title: Champion
 
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +9, Constitution +6
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +9, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +6
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +9, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +6
 - **Senses** passive Perception 16
-- **Gear** [greatsword](Mechanics/CLI/items/greatsword-xphb.md), [shortbow](Mechanics/CLI/items/shortbow-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 9
 
@@ -91,3 +107,7 @@ title: Champion
 ## Environment
 
 desert, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 74, Volo's Guide to Monsters p. 212_

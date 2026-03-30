@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Symbol
-created: 2026-03-09T12:15:34.138-04:00
-modified: 2026-03-09T12:15:34.138-04:00
-published: 2026-03-09T12:15:34.138-04:00
+created: 2026-03-29T21:53:56.190-04:00
+modified: 2026-03-29T21:53:56.190-04:00
+published: 2026-03-29T21:53:56.190-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/class/wizard
@@ -19,13 +20,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Druid
-  - Sorcerer (Divine Soul, Good)
-  - Wizard
-  - Wizard (Abjurer)
 ---
 
 # Symbol
@@ -39,7 +33,7 @@ _7th-level, Abjuration_
 
 You inscribe a harmful glyph either on a surface (such as a section of floor or wall) or within an object that can be closed (such as a book or chest). The glyph can cover an area no larger than 10 feet in diameter. If you choose an object, it must remain in place; if it is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly imperceptible and requires a successful Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check against your spell save DC to notice.
+The glyph is nearly imperceptible and requires a successful Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check against your spell save DC to notice.
 
 When you inscribe the glyph, you set its trigger and choose which effect the symbol bears: Death, Discord, Fear, Pain, Sleep, or Stunning. Each one is explained below.
 
@@ -49,7 +43,7 @@ You decide what triggers the glyph when you cast the spell. For glyphs inscribed
 
 You can refine the trigger so that only creatures of certain types activate it (for example, the glyph could be set to affect Aberrations). You can also set conditions for creatures that don't trigger the glyph, such as those who say a certain password.
 
-Once triggered, the glyph glows, filling a 60-foot-radius [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) with [Dim Light](Mechanics/CLI/rules/variant-rules/dim-light-xphb.md) for 10 minutes, after which time the spell ends. Each creature in the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) when the glyph activates is targeted by its effect, as is a creature that enters the [Sphere](Mechanics/CLI/rules/variant-rules/sphere-area-of-effect-xphb.md) for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
+Once triggered, the glyph glows, filling a 60-foot-radius [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) with [Dim Light](/Mechanics/CLI/variant-rules/dim-light-xphb.md) for 10 minutes, after which time the spell ends. Each creature in the [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) when the glyph activates is targeted by its effect, as is a creature that enters the [Sphere](/Mechanics/CLI/variant-rules/sphere-area-of-effect-xphb.md) for the first time on a turn or ends its turn there. A creature is targeted only once per turn.
 
 ## Death
 
@@ -57,26 +51,38 @@ Each target makes a Constitution saving throw, taking `10d10` Necrotic damage on
 
 ## Discord
 
-Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks.
+Each target makes a Wisdom saving throw. On a failed save, a target argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on attack rolls and ability checks.
 
 ## Fear
 
-Each target must succeed on a Wisdom saving throw or have the [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition for 1 minute. While [Frightened](Mechanics/CLI/rules/conditions.md#Frightened), the target must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must succeed on a Wisdom saving throw or have the [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition for 1 minute. While [Frightened](/Mechanics/CLI/conditions.md#Frightened), the target must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Pain
 
-Each target must succeed on a Constitution saving throw or have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition for 1 minute.
+Each target must succeed on a Constitution saving throw or have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition for 1 minute.
 
 ## Sleep
 
-Each target must succeed on a Wisdom saving throw or have the [Unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
+Each target must succeed on a Wisdom saving throw or have the [Unconscious](/Mechanics/CLI/conditions.md#Unconscious) condition for 10 minutes. A creature awakens if it takes damage or if someone takes an action to shake it awake.
 
 ## Stunning
 
-Each target must succeed on a Wisdom saving throw or have the [Stunned](Mechanics/CLI/rules/conditions.md#Stunned) condition for 1 minute.
+Each target must succeed on a Wisdom saving throw or have the [Stunned](/Mechanics/CLI/conditions.md#Stunned) condition for 1 minute.
 
 ## Summary
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Wizard (Abjurer)](Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Wizard (Abjurer)](/Mechanics/CLI/lists/list-spells-classes-abjurer-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Boon of Siberys (Mark of Scribing)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

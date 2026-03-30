@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Forge Domain
-created: 2026-03-09T12:15:33.844-04:00
-modified: 2026-03-09T12:15:33.844-04:00
-published: 2026-03-09T12:15:33.844-04:00
+created: 2026-03-29T21:53:55.633-04:00
+modified: 2026-03-29T21:53:55.633-04:00
+published: 2026-03-29T21:53:55.633-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/domain/forge
@@ -16,8 +16,7 @@ obsidianUIMode: preview
 
 # Forge Domain
 
-_[Cleric](./cleric-xphb.md): Cleric Subclass_\
-_Source: Xanathar's Guide to Everything p. 18_
+_[Cleric](./cleric-xphb.md): Cleric Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -53,7 +52,7 @@ _Source: Xanathar's Guide to Everything p. 18_
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
 
-The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](Mechanics/CLI/deities/eberron-onatar.md), [Moradin](Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](Mechanics/CLI/deities/celtic-goibhniu.md).
+The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include Gond, [Reorx](/Mechanics/CLI/deities/dragonlance-reorx-phb.md), [Onatar](/Mechanics/CLI/deities/eberron-onatar.md), [Moradin](/Mechanics/CLI/deities/nonhuman-moradin.md), [Hephaestus](/Mechanics/CLI/deities/greek-hephaestus.md), and [Goibhniu](/Mechanics/CLI/deities/celtic-goibhniu.md).
 
 ## Subclass Features
 
@@ -65,16 +64,16 @@ At each indicated cleric level, add the listed spells to your spells prepared.
 
 | Cleric Level | Spells |
 |--------------|--------|
-| 1st | [identify](Mechanics/CLI/spells/identify-xphb.md), [searing smite](Mechanics/CLI/spells/searing-smite-xphb.md) |
-| 3rd | [heat metal](Mechanics/CLI/spells/heat-metal-xphb.md), [magic weapon](Mechanics/CLI/spells/magic-weapon-xphb.md) |
-| 5th | [elemental weapon](Mechanics/CLI/spells/elemental-weapon-xphb.md), [protection from energy](Mechanics/CLI/spells/protection-from-energy-xphb.md) |
-| 7th | [fabricate](Mechanics/CLI/spells/fabricate-xphb.md), [wall of fire](Mechanics/CLI/spells/wall-of-fire-xphb.md) |
-| 9th | [animate objects](Mechanics/CLI/spells/animate-objects-xphb.md), [creation](Mechanics/CLI/spells/creation-xphb.md) |
+| 1st | [identify](/Mechanics/CLI/spells/identify-xphb.md), [searing smite](/Mechanics/CLI/spells/searing-smite-xphb.md) |
+| 3rd | [heat metal](/Mechanics/CLI/spells/heat-metal-xphb.md), [magic weapon](/Mechanics/CLI/spells/magic-weapon-xphb.md) |
+| 5th | [elemental weapon](/Mechanics/CLI/spells/elemental-weapon-xphb.md), [protection from energy](/Mechanics/CLI/spells/protection-from-energy-xphb.md) |
+| 7th | [fabricate](/Mechanics/CLI/spells/fabricate-xphb.md), [wall of fire](/Mechanics/CLI/spells/wall-of-fire-xphb.md) |
+| 9th | [animate objects](/Mechanics/CLI/spells/animate-objects-xphb.md), [creation](/Mechanics/CLI/spells/creation-xphb.md) |
 ^forge-domain-spells
 
 ### Bonus Proficiency (Level 1)
 
-When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](Mechanics/CLI/items/smiths-tools-xphb.md).
+When you choose this domain at 1st level, you gain proficiency with heavy armor and [smith's tools](/Mechanics/CLI/items/smiths-tools-xphb.md).
 
 ### Blessing of the Forge (Level 1)
 
@@ -103,3 +102,7 @@ At 17th level, your blessed affinity with fire and metal becomes more powerful:
 
 - You gain immunity to fire damage,
 - While wearing heavy armor, you have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
+## Sources
+
+_Xanathar's Guide to Everything p. 18_

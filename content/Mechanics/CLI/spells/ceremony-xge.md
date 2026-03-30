@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Ceremony
-created: 2026-03-09T12:15:34.104-04:00
-modified: 2026-03-09T12:15:34.104-04:00
-published: 2026-03-09T12:15:34.104-04:00
+created: 2026-03-29T21:53:56.138-04:00
+modified: 2026-03-29T21:53:56.138-04:00
+published: 2026-03-29T21:53:56.138-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/paladin
   - ttrpg-cli/spell/feat/magic-initiate/cleric-spells
@@ -21,12 +22,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric
-  - Paladin
-  - Sorcerer (Divine Soul, Good)
 ---
 
 # Ceremony
@@ -42,11 +37,11 @@ You perform a special religious ceremony that is infused with magic. When you ca
 
 ## Atonement
 
-You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
+You touch one willing creature whose alignment has changed, and you make a DC 20 Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check. On a successful check, you restore the target to its original alignment.
 
 ## Bless Water
 
-You touch one [vial](Mechanics/CLI/items/vial-xphb.md) of water and cause it to become [holy water](Mechanics/CLI/items/holy-water-xphb.md).
+You touch one [vial](/Mechanics/CLI/items/vial-xphb.md) of water and cause it to become [holy water](/Mechanics/CLI/items/holy-water-xphb.md).
 
 ## Coming of Age
 
@@ -58,7 +53,7 @@ You touch one humanoid who wishes to be dedicated to your god's service. For the
 
 ## Funeral Rite
 
-You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](Mechanics/CLI/spells/wish-xphb.md) spell.
+You touch one corpse, and for the next 7 days, the target can't become undead by any means short of a [wish](/Mechanics/CLI/spells/wish-xphb.md) spell.
 
 ## Wedding
 
@@ -66,6 +61,19 @@ You touch adult humanoids willing to be bonded together in marriage. For the nex
 
 ## Summary
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Paladin](Mechanics/CLI/lists/list-spells-classes-paladin.md); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+**References**:
 
-_Source: Xanathar's Guide to Everything p. 151_
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Pact of the Tome](/Mechanics/CLI/lists/list-spells-optional-features-pact-of-the-tome-xphb.md)
+- [Ritual Caster](/Mechanics/CLI/lists/list-spells-feats-ritual-caster-xphb.md)
+- [Magic Initiate (Cleric Spells)](/Mechanics/CLI/lists/list-spells-feats-magic-initiate-xphb.md)
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Paladin](/Mechanics/CLI/lists/list-spells-classes-paladin.md)
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+
+## Sources
+
+_Xanathar's Guide to Everything p. 151_

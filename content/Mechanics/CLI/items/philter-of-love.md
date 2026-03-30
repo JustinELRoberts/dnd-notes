@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Philter of Love
-created: 2026-03-09T12:15:33.875-04:00
-modified: 2026-03-09T12:15:33.875-04:00
-published: 2026-03-09T12:15:33.875-04:00
+created: 2026-03-29T21:53:55.668-04:00
+modified: 2026-03-29T21:53:55.668-04:00
+published: 2026-03-29T21:53:55.668-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -19,6 +19,11 @@ obsidianUIMode: preview
 
 _Potion, minor, uncommon_
 
-The next time you see a creature within 10 minutes after drinking this philter, you become [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are [charmed](Mechanics/CLI/rules/conditions.md#Charmed). This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-_Source: Dungeon Master's Guide p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+The next time you see a creature within 10 minutes after drinking this philter, you become [charmed](/Mechanics/CLI/conditions.md#Charmed) by that creature for 1 hour. If the creature is of a species and gender you are normally attracted to, you regard it as your true love while you are [charmed](/Mechanics/CLI/conditions.md#Charmed). This potion's rose-hued, effervescent liquid contains one easy-to-miss bubble shaped like a heart.
+
+## Sources
+
+_Dungeon Master's Guide p. 184. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

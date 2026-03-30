@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gynosphinx
-created: 2026-03-09T12:15:33.988-04:00
-modified: 2026-03-09T12:15:33.988-04:00
-published: 2026-03-09T12:15:33.988-04:00
+created: 2026-03-29T21:53:55.995-04:00
+modified: 2026-03-29T21:53:55.995-04:00
+published: 2026-03-29T21:53:55.995-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/11
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gynosphinx
+ac: 17
+hp: 136
+modifier: 2
+hit_dice: 16d10 + 48
+cr: "11"
+stats:
+  - 18
+  - 15
+  - 16
+  - 18
+  - 18
+  - 18
+source:
+  - MM
 ---
 
 # Gynosphinx
 
-_Source: Monster Manual p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/gynosphinx.webp#right)
-
 A gynosphinx bears the head of a humanoid female. Many have the regal countenances of worldly queens, but some are marked with wild, leonine features. A gynosphinx's eyes see beyond the present time and place, and penetrate veils of invisibility and magic.
 
 Supplicants who look deep into those eyes might find themselves magically displaced, banished to some far flung plane where a difficult trial awaits them.
@@ -69,11 +84,11 @@ A sphinx presides over an ancient temple, sepulcher, or vault, within which are 
 
 ```ad-statblock
 title: Gynosphinx
-![](Mechanics/CLI/bestiary/monstrosity/token/gynosphinx.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/gynosphinx.webp#token)
 *Large monstrosity, Lawful Neutral*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 136 (`16d10 + 48`) 
+- **Hit Points** 136 (16d10 + 48) 
 - **Speed** 40 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -82,11 +97,11 @@ title: Gynosphinx
 
 - **Proficiency Bonus** +4
 - **Saving Throws** ⏤
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +12, [History](Mechanics/CLI/rules/skills.md#History) +12, [Perception](Mechanics/CLI/rules/skills.md#Perception) +8, [Religion](Mechanics/CLI/rules/skills.md#Religion) +8
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 18
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +12, [History](/Mechanics/CLI/skills.md#History) +12, [Perception](/Mechanics/CLI/skills.md#Perception) +8, [Religion](/Mechanics/CLI/skills.md#Religion) +8
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 18
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** psychic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** Common, Sphinx
 - **Challenge** 11
 
@@ -94,19 +109,19 @@ title: Gynosphinx
 
 ***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, `+8` to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
-**Cantrips (at will):** [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**Cantrips (at will):** [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1st level (4 slots):** [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md), [identify](Mechanics/CLI/spells/identify-xphb.md), [shield](Mechanics/CLI/spells/shield-xphb.md)
+**1st level (4 slots):** [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md), [identify](/Mechanics/CLI/spells/identify-xphb.md), [shield](/Mechanics/CLI/spells/shield-xphb.md)
 
-**2nd level (3 slots):** [darkness](Mechanics/CLI/spells/darkness-xphb.md), [locate object](Mechanics/CLI/spells/locate-object-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**2nd level (3 slots):** [darkness](/Mechanics/CLI/spells/darkness-xphb.md), [locate object](/Mechanics/CLI/spells/locate-object-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
-**3rd level (3 slots):** [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), [remove curse](Mechanics/CLI/spells/remove-curse-xphb.md), [tongues](Mechanics/CLI/spells/tongues-xphb.md)
+**3rd level (3 slots):** [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), [remove curse](/Mechanics/CLI/spells/remove-curse-xphb.md), [tongues](/Mechanics/CLI/spells/tongues-xphb.md)
 
-**4th level (3 slots):** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [greater invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md)
+**4th level (3 slots):** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [greater invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md)
 
-**5th level (1 slots):** [legend lore](Mechanics/CLI/spells/legend-lore-xphb.md)
+**5th level (1 slots):** [legend lore](/Mechanics/CLI/spells/legend-lore-xphb.md)
 
-***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
+***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 
 ***Magic Weapons.*** The sphinx's weapon attacks are magical.
 
@@ -131,8 +146,8 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the gynosph
 On initiative count 20 (losing initiative ties), the sphinx can take a lair action to cause one of the following magical effects; the sphinx can't use an effect again until it finishes a short or long rest:
 
 - The flow of time is altered such that every creature in the lair must reroll initiative. The sphinx can choose not to reroll.  
-- The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become `1d20` years older or younger (the sphinx's choice), but never any younger than 1 year old. A [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell can restore a creature's age to normal.  
-- The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A [wish](Mechanics/CLI/spells/wish-xphb.md) spell can return the caster and up to seven other creatures designated by the caster to their normal time.  
+- The effects of time are altered such that every creature in the lair must succeed on a DC 15 Constitution saving throw or become `1d20` years older or younger (the sphinx's choice), but never any younger than 1 year old. A [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell can restore a creature's age to normal.  
+- The flow of time within the lair is altered such that everything within moves up to 10 years forward or backward (sphinx's choice). Only the sphinx is immediately aware of the time change. A [wish](/Mechanics/CLI/spells/wish-xphb.md) spell can return the caster and up to seven other creatures designated by the caster to their normal time.  
 - The sphinx shifts itself and up to seven other creatures it can see within in its lair to another plane of existence. Once outside its lair, the sphinx can't use lair actions, but it can return to its lair as a bonus action on its turn, taking up to seven creatures with it.  
 ```
 
@@ -141,3 +156,7 @@ On initiative count 20 (losing initiative ties), the sphinx can take a lair acti
 ## Environment
 
 desert
+
+## Sources
+
+_Monster Manual p. 282. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

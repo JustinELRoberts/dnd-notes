@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shambling Mound
-created: 2026-03-09T12:15:33.941-04:00
-modified: 2026-03-09T12:15:33.941-04:00
-published: 2026-03-09T12:15:33.941-04:00
+created: 2026-03-29T21:53:55.942-04:00
+modified: 2026-03-29T21:53:55.942-04:00
+published: 2026-03-29T21:53:55.942-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shambling Mound
+ac: 15
+hp: 136
+modifier: -1
+hit_dice: 16d10 + 48
+cr: "5"
+stats:
+  - 18
+  - 8
+  - 16
+  - 5
+  - 10
+  - 5
+source:
+  - MM
 ---
 
 # Shambling Mound
 
-_Source: Monster Manual p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/plant/img/shambling-mound.webp#right)
-
 A shambling mound, sometimes called a shambler, trudges ponderously through bleak swamps, dismal marshes, and rain forests, consuming any organic matter in its path. This rotting heap of animated vegetation looms up half again as tall as a human, tapering into a faceless "head" at its top.
 
 ## All-Consuming Devourers
@@ -54,11 +69,11 @@ If a shambling mound faces defeat before an overwhelming foe, the root-stem can 
 
 ```ad-statblock
 title: Shambling Mound
-![](Mechanics/CLI/bestiary/plant/token/shambling-mound.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/shambling-mound.webp#token)
 *Large plant, Unaligned*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 136 (`16d10 + 48`) 
+- **Hit Points** 136 (16d10 + 48) 
 - **Speed** 20 ft., swim 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -67,11 +82,11 @@ title: Shambling Mound
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 10
+- **Skills** [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 10
 - **Damage Resistances** cold, fire
 - **Damage Immunities** lightning
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion)
 - **Languages** —
 - **Challenge** 5
 
@@ -81,11 +96,11 @@ title: Shambling Mound
 
 ## Actions
 
-***Multiattack.*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14), and the shambling mound uses its Engulf on it.
+***Multiattack.*** The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14), and the shambling mound uses its Engulf on it.
 
 ***Slam.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 13 (`2d8 + 4`) bludgeoning damage.
 
-***Engulf.*** The shambling mound engulfs a Medium or smaller creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by it. The engulfed target is [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (`2d8 + 4`) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
+***Engulf.*** The shambling mound engulfs a Medium or smaller creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by it. The engulfed target is [blinded](/Mechanics/CLI/conditions.md#Blinded), [restrained](/Mechanics/CLI/conditions.md#Restrained), and unable to breathe, and it must succeed on a DC 14 Constitution saving throw at the start of each of the mound's turns or take 13 (`2d8 + 4`) bludgeoning damage. If the mound moves, the engulfed target moves with it. The mound can have only one creature engulfed at a time.
 ```
 
 ^statblock
@@ -93,3 +108,7 @@ title: Shambling Mound
 ## Environment
 
 forest, swamp
+
+## Sources
+
+_Monster Manual p. 270. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

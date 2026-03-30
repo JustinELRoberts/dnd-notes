@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cave Fisher
-created: 2026-03-09T12:15:33.866-04:00
-modified: 2026-03-09T12:15:33.866-04:00
-published: 2026-03-09T12:15:33.866-04:00
+created: 2026-03-29T21:53:55.657-04:00
+modified: 2026-03-29T21:53:55.657-04:00
+published: 2026-03-29T21:53:55.657-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cave Fisher (MPMM)
+ac: 16
+hp: 58
+modifier: 1
+hit_dice: 9d8 + 18
+cr: "3"
+stats:
+  - 16
+  - 13
+  - 14
+  - 3
+  - 10
+  - 3
+source:
+  - MPMM
+  - VGM
 ---
 
 # Cave Fisher
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/cave-fisher.webp#right)
-
 A cave fisher is a subterranean arachnid with a long snout that houses spinnerets, enabling the creature to produce sticky filaments, much like the strands of a spider's webbing, which the creature uses to snag prey.
 
 A cave fisher usually hunts small animals and is particularly fond of bats, so it stretches a filament over an opening that such prey might travel through. It then climbs to a hiding spot and adheres itself to the surface to rest and wait. When prey blunders into the filament, the cave fisher reels in its meal. A group of cave fishers might work together to cover a large area with filaments, but as soon as one captures potential food, every cave fisher in the area competes for the prize. If a victim escapes from the initial ambush, a cave fisher can reclaim its prey by shooting a filament out to capture it again.
@@ -37,11 +53,11 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
 
 ```ad-statblock
 title: Cave Fisher
-![](Mechanics/CLI/bestiary/monstrosity/token/cave-fisher-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/cave-fisher-mpmm.webp#token)
 *Medium monstrosity, Unaligned*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 58 (`9d8 + 18`) 
+- **Hit Points** 58 (9d8 + 18) 
 - **Speed** 20 ft., climb 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,8 +66,8 @@ title: Cave Fisher
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive Perception 12
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception 12
 - **Languages** —
 - **Challenge** 3
 
@@ -67,11 +83,11 @@ title: Cave Fisher
 
 ***Claw.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one target. *Hit:* 10 (`2d6 + 3`) slashing damage.
 
-***Retract Filament.*** One Large or smaller creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the cave fisher, and the cave fisher makes one Claw attack against it. Anyone else who was attached to the filament is released. Until the grapple ends on the target, the cave fisher can't use Adhesive Filament.
+***Retract Filament.*** One Large or smaller creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by the cave fisher's Adhesive Filament must make a DC 13 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the cave fisher, and the cave fisher makes one Claw attack against it. Anyone else who was attached to the filament is released. Until the grapple ends on the target, the cave fisher can't use Adhesive Filament.
 
 ## Bonus Actions
 
-***Adhesive Filament.*** The cave fisher extends a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature the filament adheres to is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage). A weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament deals no damage to the cave fisher. The filament crumbles away if the cave fisher takes this bonus action again.
+***Adhesive Filament.*** The cave fisher extends a sticky filament up to 60 feet, and the filament adheres to anything that touches it. A creature the filament adheres to is [grappled](/Mechanics/CLI/conditions.md#Grappled) by the cave fisher (escape DC 13), and ability checks made to escape this grapple have disadvantage. The filament can be attacked (AC 15; 5 hit points; immunity to poison and psychic damage). A weapon that fails to sever it becomes stuck to it, requiring an action and a successful DC 13 Strength check to pull free. Destroying the filament deals no damage to the cave fisher. The filament crumbles away if the cave fisher takes this bonus action again.
 ```
 
 ^statblock
@@ -79,3 +95,7 @@ title: Cave Fisher
 ## Environment
 
 underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 73, Volo's Guide to Monsters p. 130_

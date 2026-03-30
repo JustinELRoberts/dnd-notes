@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alchemy Golem
-created: 2026-03-09T12:15:33.869-04:00
-modified: 2026-03-09T12:15:33.869-04:00
-published: 2026-03-09T12:15:33.869-04:00
+created: 2026-03-29T21:53:55.661-04:00
+modified: 2026-03-29T21:53:55.661-04:00
+published: 2026-03-29T21:53:55.661-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,23 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Alchemy Golem (ValdaSpire24)
+modifier: -1
+stats:
+  - 17
+  - 8
+  - 18
+  - 6
+  - 11
+  - 5
+source:
+  - ValdaSpire24
 ---
 
 # Alchemy Golem
 
-_Source: Valda's Spire of Secrets (2024)_\
 ![](https://raw.githubusercontent.com/TheGiddyLimit/homebrew-img/refs/heads/main/img/ValdaAlchemist/Creatures/Alchemy%20Golem.webp#center)
 
 ```ad-statblock
@@ -36,24 +48,28 @@ title: Alchemy Golem
 - **Proficiency Bonus** +2
 - **Saving Throws** 3+PB, -1+PB, 4+PB, -2+PB, +PB, -2+PB
 - **Skills** ⏤
-- **Senses** [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., passive Perception 10
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Senses** [Blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., passive Perception 10
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands the languages of its creator but can't speak
 - **Challenge** 
 
 ## Traits
 
-***Alchemical Bond.*** Add your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md) to any ability check or saving throw the beast makes.
+***Alchemical Bond.*** Add your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md) to any ability check or saving throw the beast makes.
 
-***Magic Resistance.*** The golem has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
+***Magic Resistance.*** The golem has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws against spells and other magical effects.
 
 ## Actions
 
-***Multiattack.*** The golem makes one Slam and one [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+***Multiattack.*** The golem makes one Slam and one [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
 
-***Slam.*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft.  *Hit:* `1d8 + 3` plus your Intelligence modifier Bludgeoning damage.
+***Slam.*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft.  *Hit:* `1d8 + 3` plus your Intelligence modifier Bludgeoning damage.
 
-***Unarmed Strike.*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6 + 3` plus your Intelligence modifier Bludgeoning damage.
+***Unarmed Strike.*** *Melee Attack Roll:* Bonus equals your Intelligence modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d6 + 3` plus your Intelligence modifier Bludgeoning damage.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

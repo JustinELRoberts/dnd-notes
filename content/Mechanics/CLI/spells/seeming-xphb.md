@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Seeming
-created: 2026-03-09T12:15:34.050-04:00
-modified: 2026-03-09T12:15:34.050-04:00
-published: 2026-03-09T12:15:34.050-04:00
+created: 2026-03-29T21:53:56.063-04:00
+modified: 2026-03-29T21:53:56.063-04:00
+published: 2026-03-29T21:53:56.063-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/sorcerer
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/boon-of-siberys/sorcerer-spell
@@ -19,21 +20,11 @@ tags:
   - ttrpg-cli/spell/subclass/gloom-stalker
   - ttrpg-cli/spell/subclass/illusionist
   - ttrpg-cli/spell/subclass/purple-magic
+  - ttrpg-cli/spell/subclass/the-archfey
   - ttrpg-cli/spell/subclass/the-genie/djinni
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Martyr (Burden of Levity)
-  - Necromancer (Crone)
-  - Ranger (Gloom Stalker)
-  - Sorcerer
-  - Warlock (Archfey Patron)
-  - Warlock (The Genie, Djinni)
-  - Witch (Purple Magic)
-  - Wizard
-  - Wizard (Illusionist)
 ---
 
 # Seeming
@@ -51,8 +42,27 @@ You can give the same appearance or different ones to the targets. The spell can
 
 The changes wrought by this spell fail to hold up to physical inspection. For example, if you use this spell to add a hat to a creature's outfit, objects pass through the hat.
 
-A creature that takes the [Study](Mechanics/CLI/rules/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](Mechanics/CLI/rules/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
+A creature that takes the [Study](/Mechanics/CLI/actions.md#Study) action to examine a target can make an Intelligence ([Investigation](/Mechanics/CLI/skills.md#Investigation)) check against your spell save DC. If it succeeds, it becomes aware that the target is disguised.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Martyr (Burden of Levity)](Mechanics/CLI/lists/list-spells-classes-burden-of-levity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Necromancer (Crone)](Mechanics/CLI/lists/list-spells-classes-crone-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Ranger (Gloom Stalker)](Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer](Mechanics/CLI/lists/list-spells-classes-sorcerer.md); [Warlock (Archfey Patron)](Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB"); [Warlock (The Genie, Djinni)](Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB"); [Witch (Purple Magic)](Mechanics/CLI/lists/list-spells-classes-purple-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Ranger (Gloom Stalker)](/Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xge.md "subclass=XGE")
+- [Witch (Purple Magic)](/Mechanics/CLI/lists/list-spells-classes-purple-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Boon of Siberys (Sorcerer Spell)](/Mechanics/CLI/lists/list-spells-feats-boon-of-siberys-efa.md)
+- [Warlock (Archfey Patron)](/Mechanics/CLI/lists/list-spells-classes-archfey-patron-xphb.md "subclass=XPHB;class=XPHB")
+- [Wizard (Illusionist)](/Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock (The Genie, Djinni)](/Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE;class=XPHB")
+- [Sorcerer](/Mechanics/CLI/lists/list-spells-classes-sorcerer.md)
+- [Warlock (The Archfey)](/Mechanics/CLI/lists/list-spells-classes-the-archfey.md "class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock (The Genie, Djinni)](/Mechanics/CLI/lists/list-spells-classes-the-genie-tce.md "subclass=TCE")
+- [Necromancer (Crone)](/Mechanics/CLI/lists/list-spells-classes-crone-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Ranger (Gloom Stalker)](/Mechanics/CLI/lists/list-spells-classes-gloom-stalker-xphb.md "subclass=XPHB;class=XPHB")
+- [Martyr (Burden of Levity)](/Mechanics/CLI/lists/list-spells-classes-burden-of-levity-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Warlock (The Archfey)](/Mechanics/CLI/lists/list-spells-classes-the-archfey.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 314. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

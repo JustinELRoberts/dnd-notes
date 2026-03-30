@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Rooks
-created: 2026-03-09T12:15:34.007-04:00
-modified: 2026-03-09T12:15:34.007-04:00
-published: 2026-03-09T12:15:34.007-04:00
+created: 2026-03-29T21:53:56.014-04:00
+modified: 2026-03-29T21:53:56.014-04:00
+published: 2026-03-29T21:53:56.014-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warmage/rooks
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # House of Rooks
 
-_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,30 +58,34 @@ The clandestine members of the House of Rooks make adept spies, assassins, and s
 
 ### Rook Strike (Level 3)
 
-When you make an attack roll or ability check, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to gain [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the roll. Alternatively, you can impose [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on a saving throw a creature makes against a Warmage cantrip you cast before the end of your turn.
+When you make an attack roll or ability check, you can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to gain [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the roll. Alternatively, you can impose [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on a saving throw a creature makes against a Warmage cantrip you cast before the end of your turn.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain one of its expended uses when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain one of its expended uses when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Arcane Acrobat (Level 3)
 
-You gain proficiency in one of the following skills of your choice: [Acrobatics](Mechanics/CLI/rules/skills.md#Acrobatics), [Sleight of Hand](Mechanics/CLI/rules/skills.md#Sleight%20of%20Hand), or [Stealth](Mechanics/CLI/rules/skills.md#Stealth). Additionally, you gain a bonus equal to your Intelligence modifier (minimum bonus of +1) to all Dexterity checks you make.
+You gain proficiency in one of the following skills of your choice: [Acrobatics](/Mechanics/CLI/skills.md#Acrobatics), [Sleight of Hand](/Mechanics/CLI/skills.md#Sleight%20of%20Hand), or [Stealth](/Mechanics/CLI/skills.md#Stealth). Additionally, you gain a bonus equal to your Intelligence modifier (minimum bonus of +1) to all Dexterity checks you make.
 
 ### Covert Magic (Level 7)
 
-You learn a suite of furtive magic practiced by Rooks. You can cast each of the following spells without using a spell slot or Verbal components: [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md), [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md), [Knock](Mechanics/CLI/spells/knock-xphb.md) (silent when you cast it using this feature), [Silence](Mechanics/CLI/spells/silence-xphb.md), and [Spider Climb](Mechanics/CLI/spells/spider-climb-xphb.md).
+You learn a suite of furtive magic practiced by Rooks. You can cast each of the following spells without using a spell slot or Verbal components: [Feather Fall](/Mechanics/CLI/spells/feather-fall-xphb.md), [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md), [Knock](/Mechanics/CLI/spells/knock-xphb.md) (silent when you cast it using this feature), [Silence](/Mechanics/CLI/spells/silence-xphb.md), and [Spider Climb](/Mechanics/CLI/spells/spider-climb-xphb.md).
 
-Once you cast a spell using this feature, you can't cast it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can expend a use of [Arcane Surge](Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)) to regain your use of all of these spells (no action required).
+Once you cast a spell using this feature, you can't cast it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can expend a use of [Arcane Surge](/Mechanics/CLI/classes/warmage-valdaspire24.md#Arcane%20Surge%20\(Level%205\)) to regain your use of all of these spells (no action required).
 
 ### Fleeting Decoy (Level 10)
 
-When you take damage from a creature you can see, you can take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to raise a defensive illusion that protects you from further harm. Attacks made against you have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) until the start of your next turn.
+When you take damage from a creature you can see, you can take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to raise a defensive illusion that protects you from further harm. Attacks made against you have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) until the start of your next turn.
 
 ### Elusive Step (Level 15)
 
-If you move more than 5 feet on your turn, any subsequent movement you make doesn't provoke [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+If you move more than 5 feet on your turn, any subsequent movement you make doesn't provoke [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Arcane Assassin (Level 18)
 
-You can cast the [Greater Invisibility](Mechanics/CLI/spells/greater-invisibility-xphb.md) spell targeting yourself only without a spell slot or spell components. While you have the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition, your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) is doubled.
+You can cast the [Greater Invisibility](/Mechanics/CLI/spells/greater-invisibility-xphb.md) spell targeting yourself only without a spell slot or spell components. While you have the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition, your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) is doubled.
 
-Once you use this feature, you can't do so again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you use this feature, you can't do so again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

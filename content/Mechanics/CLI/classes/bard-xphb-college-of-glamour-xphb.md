@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - College of Glamour
-created: 2026-03-09T12:15:33.984-04:00
-modified: 2026-03-09T12:15:33.984-04:00
-published: 2026-03-09T12:15:33.984-04:00
+created: 2026-03-29T21:53:55.990-04:00
+modified: 2026-03-29T21:53:55.990-04:00
+published: 2026-03-29T21:53:55.990-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/bard/glamour
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # College of Glamour
 
-_[Bard](./bard-xphb.md): Bard Subclass_\
-_Source: Player's Handbook (2024) p. 65_
+_[Bard](./bard-xphb.md): Bard Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -59,28 +58,32 @@ The College of Glamour traces its origins to the beguiling magic of the Feywild.
 
 ### Beguiling Magic (Level 3)
 
-You always have the [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md) and [Mirror Image](Mechanics/CLI/spells/mirror-image-xphb.md) spells prepared.
+You always have the [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md) and [Mirror Image](/Mechanics/CLI/spells/mirror-image-xphb.md) spells prepared.
 
-In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, immediately after you cast an Enchantment or Illusion spell using a spell slot, you can cause a creature you can see within 60 feet of yourself to make a Wisdom saving throw against your spell save DC. On a failed save, the target has the [Charmed](/Mechanics/CLI/conditions.md#Charmed) or [Frightened](/Mechanics/CLI/conditions.md#Frightened) condition (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
-Once you use this benefit, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
+Once you use this benefit, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending one use of your Bardic Inspiration (no action required).
 
 ### Mantle of Inspiration (Level 3)
 
-You can weave fey magic into a song or dance to fill others with vigor. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of those creatures gains a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to two times the number rolled on the Bardic Inspiration die, and then each can use its [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to move up to its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack).
+You can weave fey magic into a song or dance to fill others with vigor. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can expend a use of Bardic Inspiration, rolling a Bardic Inspiration die. When you do so, choose a number of other creatures within 60 feet of yourself, up to a number equal to your Charisma modifier (minimum of one creature). Each of those creatures gains a number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to two times the number rolled on the Bardic Inspiration die, and then each can use its [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to move up to its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) without provoking [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack).
 
 ### Mantle of Majesty (Level 6)
 
-You always have the [Command](Mechanics/CLI/spells/command-xphb.md) spell prepared.
+You always have the [Command](/Mechanics/CLI/spells/command-xphb.md) spell prepared.
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you cast [Command](Mechanics/CLI/spells/command-xphb.md) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](Mechanics/CLI/rules/conditions.md#Concentration) ends. During this time, you can cast [Command](Mechanics/CLI/spells/command-xphb.md) as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) without expending a spell slot.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you cast [Command](/Mechanics/CLI/spells/command-xphb.md) without expending a spell slot, and you take on an unearthly appearance for 1 minute or until your [Concentration](/Mechanics/CLI/conditions.md#Concentration) ends. During this time, you can cast [Command](/Mechanics/CLI/spells/command-xphb.md) as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) without expending a spell slot.
 
-Any creature [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) by you automatically fails its saving throw against the [Command](Mechanics/CLI/spells/command-xphb.md) you cast with this feature.
+Any creature [Charmed](/Mechanics/CLI/conditions.md#Charmed) by you automatically fails its saving throw against the [Command](/Mechanics/CLI/spells/command-xphb.md) you cast with this feature.
 
-Once you use this feature, you can't use it again until you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 3+ spell slot (no action required).
+Once you use this feature, you can't use it again until you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by expending a level 3+ spell slot (no action required).
 
 ### Unbreakable Majesty (Level 14)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can assume a magically majestic presence for 1 minute or until you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. For the duration, whenever any creature hits you with an attack roll for the first time on a turn, the attacker must succeed on a Charisma saving throw against your spell save DC, or the attack misses instead, as the creature recoils from your majesty.
 
-Once you assume this majestic presence, you can't do so again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+Once you assume this majestic presence, you can't do so again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
+
+## Sources
+
+_Player's Handbook (2024) p. 65_

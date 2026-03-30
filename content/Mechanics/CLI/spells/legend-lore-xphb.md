@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Legend Lore
-created: 2026-03-09T12:15:33.845-04:00
-modified: 2026-03-09T12:15:33.845-04:00
-published: 2026-03-09T12:15:33.845-04:00
+created: 2026-03-29T21:53:55.634-04:00
+modified: 2026-03-29T21:53:55.634-04:00
+published: 2026-03-29T21:53:55.634-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/cleric
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/mark-of-detection
@@ -18,22 +19,12 @@ tags:
   - ttrpg-cli/spell/subclass/divine-soul/good
   - ttrpg-cli/spell/subclass/diviner
   - ttrpg-cli/spell/subclass/draconic-sorcery
+  - ttrpg-cli/spell/subclass/knowledge-domain
   - ttrpg-cli/spell/subclass/oath-of-glory
   - ttrpg-cli/spell/subclass/tea-magic
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric
-  - Martyr (Burden of Ascension)
-  - Martyr (Burden of Truth)
-  - Paladin (Oath of Glory)
-  - Sorcerer (Divine Soul, Good)
-  - Sorcerer (Draconic Sorcery)
-  - Witch (Tea Magic)
-  - Wizard
-  - Wizard (Diviner)
 ---
 
 # Legend Lore
@@ -51,6 +42,24 @@ The lore might consist of important details, amusing revelations, or even secret
 
 If the famous thing you chose isn't actually famous, you hear sad musical notes played on a trombone, and the spell fails.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric](Mechanics/CLI/lists/list-spells-classes-cleric.md); [Martyr (Burden of Ascension)](Mechanics/CLI/lists/list-spells-classes-burden-of-ascension-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24"); [Martyr (Burden of Truth)](Mechanics/CLI/lists/list-spells-classes-burden-of-truth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Paladin (Oath of Glory)](Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB"); [Sorcerer (Divine Soul, Good)](Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB"); [Sorcerer (Draconic Sorcery)](Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB"); [Witch (Tea Magic)](Mechanics/CLI/lists/list-spells-classes-tea-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard (Diviner)](Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Cleric (Knowledge Domain)](/Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md "class=XPHB")
+- [Mark of Detection](/Mechanics/CLI/lists/list-spells-feats-mark-of-detection-efa.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE;class=XPHB")
+- [Cleric](/Mechanics/CLI/lists/list-spells-classes-cleric.md)
+- [Paladin (Oath of Glory)](/Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb.md "subclass=XPHB;class=XPHB")
+- [Martyr (Burden of Ascension)](/Mechanics/CLI/lists/list-spells-classes-burden-of-ascension-valdaspire24extras.md "subclass=ValdaSpire24Extras;class=ValdaSpire24")
+- [Sorcerer (Draconic Sorcery)](/Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Witch (Tea Magic)](/Mechanics/CLI/lists/list-spells-classes-tea-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Cleric (Knowledge Domain)](/Mechanics/CLI/lists/list-spells-classes-knowledge-domain.md)
+- [Sorcerer (Divine Soul, Good)](/Mechanics/CLI/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE")
+- [Wizard (Diviner)](/Mechanics/CLI/lists/list-spells-classes-diviner-xphb.md "subclass=XPHB;class=XPHB")
+- [Martyr (Burden of Truth)](/Mechanics/CLI/lists/list-spells-classes-burden-of-truth-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+
+## Sources
+
+_Player's Handbook (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

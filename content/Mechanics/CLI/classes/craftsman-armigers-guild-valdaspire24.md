@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Armigers' Guild
-created: 2026-03-09T12:15:33.884-04:00
-modified: 2026-03-09T12:15:33.884-04:00
-published: 2026-03-09T12:15:33.884-04:00
+created: 2026-03-29T21:53:55.679-04:00
+modified: 2026-03-29T21:53:55.679-04:00
+published: 2026-03-29T21:53:55.679-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/craftsman/armigers
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Armigers' Guild
 
-_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Craftsman](./craftsman-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,24 +56,28 @@ The Guild of Armigers devote their skills to the art of armor smithing, with the
 
 ### Armored Slam (Level 3)
 
-Once on each of your turns when you take the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, you can replace one of your attacks with a body slam using your armor against a creature within 5 feet of you. The target makes a Strength saving throw (DC 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)), taking Bludgeoning damage equal to your [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md) on a failed save, or half as much damage on a successful save.
+Once on each of your turns when you take the [Attack](/Mechanics/CLI/actions.md#Attack) action, you can replace one of your attacks with a body slam using your armor against a creature within 5 feet of you. The target makes a Strength saving throw (DC 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)), taking Bludgeoning damage equal to your [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md) on a failed save, or half as much damage on a successful save.
 
-You can use this feature twice. You regain one expended use when you finish a [Short Rest](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature twice. You regain one expended use when you finish a [Short Rest](/Mechanics/CLI/variant-rules/short-rest-xphb.md), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Masterwork Shield (Level 3)
 
-You can improve a [Shield](Mechanics/CLI/items/shield-xphb.md) into a Masterwork version over the course of two hours, which can be done during a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). While holding this [Shield](Mechanics/CLI/items/shield-xphb.md), you have a +1 bonus to [Armor Class](Mechanics/CLI/rules/variant-rules/armor-class-xphb.md), in addition to the Shield's normal bonus to AC. If the [Shield](Mechanics/CLI/items/shield-xphb.md) already gains such a bonus, like a +2 Shield, you choose which bonus to use; you can't use more than one. Only you gain this bonus with a Masterwork Shield you create.
+You can improve a [Shield](/Mechanics/CLI/items/shield-xphb.md) into a Masterwork version over the course of two hours, which can be done during a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). While holding this [Shield](/Mechanics/CLI/items/shield-xphb.md), you have a +1 bonus to [Armor Class](/Mechanics/CLI/variant-rules/armor-class-xphb.md), in addition to the Shield's normal bonus to AC. If the [Shield](/Mechanics/CLI/items/shield-xphb.md) already gains such a bonus, like a +2 Shield, you choose which bonus to use; you can't use more than one. Only you gain this bonus with a Masterwork Shield you create.
 
 ### Shining Steel (Level 6)
 
-Your imposing, shining armor makes you a clear target for your foes. When you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md), you can challenge any number of creatures within 30 feet of yourself that can see you to battle. Each creature must succeed on a Wisdom saving throw (DC 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md)) or have [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on any attack roll against creatures other than you until the end of its next turn.
+Your imposing, shining armor makes you a clear target for your foes. When you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md), you can challenge any number of creatures within 30 feet of yourself that can see you to battle. Each creature must succeed on a Wisdom saving throw (DC 8 plus your Strength or Dexterity modifier and [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md)) or have [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on any attack roll against creatures other than you until the end of its next turn.
 
 ### Fortify (Level 10)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can fortify your armor against attacks. Until the start of your next turn, you gain a bonus to your AC equal to your Strength or Dexterity modifier (your choice, minimum of +1) and have [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage.
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can fortify your armor against attacks. Until the start of your next turn, you gain a bonus to your AC equal to your Strength or Dexterity modifier (your choice, minimum of +1) and have [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage.
 
-You can use this feature a number of times equal to your Masterwork Bonus. You regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Masterwork Bonus. You regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Colossal Slam (Level 14)
 
-When you use your Armored Slam, you deal an extra `2d10` Force damage, and a target that fails its saving throw against the slam has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition. Additionally, you regain one expended use of Armored Slam when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md).
+When you use your Armored Slam, you deal an extra `2d10` Force damage, and a target that fails its saving throw against the slam has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition. Additionally, you regain one expended use of Armored Slam when you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

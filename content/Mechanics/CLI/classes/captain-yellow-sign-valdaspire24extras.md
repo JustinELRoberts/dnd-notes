@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yellow Sign
-created: 2026-03-09T12:15:33.903-04:00
-modified: 2026-03-09T12:15:33.903-04:00
-published: 2026-03-09T12:15:33.903-04:00
+created: 2026-03-29T21:53:55.901-04:00
+modified: 2026-03-29T21:53:55.901-04:00
+published: 2026-03-29T21:53:55.901-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/captain/yellow-sign
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Yellow Sign
 
-_[Captain](./captain-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets Extras (2024)_
+_[Captain](./captain-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,23 +56,23 @@ The Yellow Sign is a twisting symbol of eldritch chaos, the signature of an othe
 
 ### Frenzied Strike \[Maneuver] (Level 3)
 
-When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to infect the target's mind. The creature has the Frenzied condition until the end of its next turn.
+When you hit a creature with an attack using a Melee weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md), you can expend one Battle Die as a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to infect the target's mind. The creature has the Frenzied condition until the end of its next turn.
 
-A creature with the Frenzied condition loses the ability to distinguish between friend and foe, regarding all creatures it can see as enemies. While Frenzied, the creature chooses the targets for its attacks, spells, and abilities randomly from among the creatures it can see within range, and it must make an [Opportunity Attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) if any creature provokes one.
+A creature with the Frenzied condition loses the ability to distinguish between friend and foe, regarding all creatures it can see as enemies. While Frenzied, the creature chooses the targets for its attacks, spells, and abilities randomly from among the creatures it can see within range, and it must make an [Opportunity Attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) if any creature provokes one.
 
 ### Eldritch Herald (Level 3)
 
 Your eldritch master psychically nudges you toward its goals, granting you the following benefits.
 
-**Outer Knowledge.** When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you gain proficiency and [Expertise](Mechanics/CLI/rules/variant-rules/expertise-xphb.md) in a skill chosen by the GM. The GM can change this skill when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Outer Knowledge.** When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you gain proficiency and [Expertise](/Mechanics/CLI/variant-rules/expertise-xphb.md) in a skill chosen by the GM. The GM can change this skill when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Enthralled.** You and your Cohort have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](Mechanics/CLI/rules/conditions.md#Charmed) and [Frightened](Mechanics/CLI/rules/conditions.md#Frightened) conditions.
+**Enthralled.** You and your Cohort have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws you make to avoid or end the [Charmed](/Mechanics/CLI/conditions.md#Charmed) and [Frightened](/Mechanics/CLI/conditions.md#Frightened) conditions.
 
 ### Pallid Aura (Level 6)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to trace the Yellow Sign in the air and create a 10-foot [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) of psychic energy centered on yourself for 1 minute or until you have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition. Once per turn, when a creature within the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) makes a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can roll `1d6` and subtract it from the roll (no action required).
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to trace the Yellow Sign in the air and create a 10-foot [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) of psychic energy centered on yourself for 1 minute or until you have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition. Once per turn, when a creature within the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) makes a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), you can roll `1d6` and subtract it from the roll (no action required).
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md) unless you expend one Battle Die (no action required) to restore your use of it.
 
 ### Maniacal Influence (Level 10)
 
@@ -87,4 +86,8 @@ Your eldritch master's influence grows, granting you the following benefits.
 
 ### Nightmarish Glow (Level 14)
 
-While the [Emanation](Mechanics/CLI/rules/variant-rules/emanation-area-of-effect-xphb.md) of your Pallid Aura is active, you and your allies within the Emantion deal an extra `1d6` Psychic damage when hitting an enemy with a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md).
+While the [Emanation](/Mechanics/CLI/variant-rules/emanation-area-of-effect-xphb.md) of your Pallid Aura is active, you and your allies within the Emantion deal an extra `1d6` Psychic damage when hitting an enemy with a weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets Extras (2024)_

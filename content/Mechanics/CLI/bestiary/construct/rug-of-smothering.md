@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rug of Smothering
-created: 2026-03-09T12:15:33.951-04:00
-modified: 2026-03-09T12:15:33.951-04:00
-published: 2026-03-09T12:15:33.951-04:00
+created: 2026-03-29T21:53:55.953-04:00
+modified: 2026-03-29T21:53:55.953-04:00
+published: 2026-03-29T21:53:55.953-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -13,18 +13,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Rug of Smothering
+ac: 12
+hp: 33
+modifier: 2
+hit_dice: 6d10
+cr: "2"
+stats:
+  - 17
+  - 14
+  - 10
+  - 1
+  - 3
+  - 1
+source:
+  - MM
 ---
 
 # Rug of Smothering
 
-_Source: Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/construct/img/rug-of-smothering.webp#right)
-
 Would-be thieves and careless heroes arrive at the doorsteps of an enemy's abode, eyes and ears alert for traps, only to end their quest prematurely as the rugs beneath their feet animate and smother them to death.
 
 A rug of smothering can be made in many different forms, from a finely woven carpet fit for a queen to a coarse mat in a peasant's hovel. Creatures with the ability to sense magic detect the rug's false magical aura.
 
-In some cases, a rug of smothering is disguised as a [carpet of flying](Mechanics/CLI/items/carpet-of-flying.md) or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
+In some cases, a rug of smothering is disguised as a [carpet of flying](/Mechanics/CLI/items/carpet-of-flying.md) or another beneficial magic item. However, a character who stands or sits on the rug, or who attempts to utter a word of command, is quickly trapped as the rug of smothering rolls itself tightly around its victim.
 
 ## Animated Objects
 
@@ -38,11 +53,11 @@ An animated object doesn't require air, food, drink, or sleep. The magic that an
 
 ```ad-statblock
 title: Rug of Smothering
-![](Mechanics/CLI/bestiary/construct/token/rug-of-smothering.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/rug-of-smothering.webp#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 33 (`6d10`) 
+- **Hit Points** 33 (6d10) 
 - **Speed** 10 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,23 +67,27 @@ title: Rug of Smothering
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 6
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** —
 - **Challenge** 2
 
 ## Traits
 
-***Antimagic Susceptibility.*** The rug is [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) while in the area of an [antimagic field](Mechanics/CLI/spells/antimagic-field-xphb.md). If targeted by [dispel magic](Mechanics/CLI/spells/dispel-magic-xphb.md), the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 minute.
+***Antimagic Susceptibility.*** The rug is [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) while in the area of an [antimagic field](/Mechanics/CLI/spells/antimagic-field-xphb.md). If targeted by [dispel magic](/Mechanics/CLI/spells/dispel-magic-xphb.md), the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 1 minute.
 
-***Damage Transfer.*** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the rug takes the other half.
+***Damage Transfer.*** While it is grappling a creature, the rug takes only half the damage dealt to it, and the creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by the rug takes the other half.
 
 ***False Appearance.*** While the rug remains motionless, it is indistinguishable from a normal rug.
 
 ## Actions
 
-***Smother.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The creature is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 13). Until this grapple ends, the target is [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [blinded](Mechanics/CLI/rules/conditions.md#Blinded), and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (`2d6 + 3`) bludgeoning damage.
+***Smother.*** *Melee Weapon Attack:* `+5` to hit, reach 5 ft., one Medium or smaller creature. *Hit:* The creature is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 13). Until this grapple ends, the target is [restrained](/Mechanics/CLI/conditions.md#Restrained), [blinded](/Mechanics/CLI/conditions.md#Blinded), and at risk of suffocating, and the rug can't smother another target. In addition, at the start of each of the target's turns, the target takes 10 (`2d6 + 3`) bludgeoning damage.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 20. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

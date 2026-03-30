@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Abominable Familiar
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.096-04:00
-published: 2026-03-09T12:15:34.096-04:00
+created: 2026-03-29T21:53:56.128-04:00
+modified: 2026-03-29T21:53:56.128-04:00
+published: 2026-03-29T21:53:56.128-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -13,11 +13,22 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Abominable Familiar (ValdaSpire24)
+modifier: 3
+stats:
+  - 19
+  - 17
+  - 18
+  - 10
+  - 11
+  - 13
+source:
+  - ValdaSpire24
 ---
 
 # Abominable Familiar
-
-_Source: Valda's Spire of Secrets (2024) p. 0_
 
 ```ad-statblock
 title: Abominable Familiar
@@ -35,8 +46,8 @@ title: Abominable Familiar
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** understands the languages you know
 - **Challenge** 
 
@@ -48,7 +59,11 @@ title: Abominable Familiar
 
 ## Bonus Actions
 
-***Rampage.*** Immediately after dealing damage to a creature that is already [Bloodied](Mechanics/CLI/rules/conditions.md#Bloodied), the familiar moves up to half its [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md), and it makes one Rend attack.
+***Rampage.*** Immediately after dealing damage to a creature that is already [Bloodied](/Mechanics/CLI/conditions.md#Bloodied), the familiar moves up to half its [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md), and it makes one Rend attack.
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024) p. 0_

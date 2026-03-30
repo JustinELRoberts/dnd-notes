@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - War Domain
-created: 2026-03-09T12:15:34.014-04:00
-modified: 2026-03-09T12:15:34.014-04:00
-published: 2026-03-09T12:15:34.014-04:00
+created: 2026-03-29T21:53:56.023-04:00
+modified: 2026-03-29T21:53:56.023-04:00
+published: 2026-03-29T21:53:56.023-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/domain/war
@@ -16,8 +16,7 @@ obsidianUIMode: preview
 
 # War Domain
 
-_[Cleric](./cleric-xphb.md): Cleric Subclass_\
-_Source: Player's Handbook (2024) p. 76_
+_[Cleric](./cleric-xphb.md): Cleric Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -68,24 +67,28 @@ Your connection to this divine domain ensures you always have certain spells rea
 
 | Cleric Level | Prepared Spells |
 |--------------|-----------------|
-| 3rd | [Guiding Bolt](Mechanics/CLI/spells/guiding-bolt-xphb.md), [Magic Weapon](Mechanics/CLI/spells/magic-weapon-xphb.md), [Shield of Faith](Mechanics/CLI/spells/shield-of-faith-xphb.md), [Spiritual Weapon](Mechanics/CLI/spells/spiritual-weapon-xphb.md) |
-| 5th | [Crusader's Mantle](Mechanics/CLI/spells/crusaders-mantle-xphb.md), [Spirit Guardians](Mechanics/CLI/spells/spirit-guardians-xphb.md) |
-| 7th | [Fire Shield](Mechanics/CLI/spells/fire-shield-xphb.md), [Freedom of Movement](Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
-| 9th | [Hold Monster](Mechanics/CLI/spells/hold-monster-xphb.md), [Steel Wind Strike](Mechanics/CLI/spells/steel-wind-strike-xphb.md) |
+| 3rd | [Guiding Bolt](/Mechanics/CLI/spells/guiding-bolt-xphb.md), [Magic Weapon](/Mechanics/CLI/spells/magic-weapon-xphb.md), [Shield of Faith](/Mechanics/CLI/spells/shield-of-faith-xphb.md), [Spiritual Weapon](/Mechanics/CLI/spells/spiritual-weapon-xphb.md) |
+| 5th | [Crusader's Mantle](/Mechanics/CLI/spells/crusaders-mantle-xphb.md), [Spirit Guardians](/Mechanics/CLI/spells/spirit-guardians-xphb.md) |
+| 7th | [Fire Shield](/Mechanics/CLI/spells/fire-shield-xphb.md), [Freedom of Movement](/Mechanics/CLI/spells/freedom-of-movement-xphb.md) |
+| 9th | [Hold Monster](/Mechanics/CLI/spells/hold-monster-xphb.md), [Steel Wind Strike](/Mechanics/CLI/spells/steel-wind-strike-xphb.md) |
 ^war-domain-spells
 
 ### War Priest (Level 3)
 
-As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can make one attack with a weapon or an [Unarmed Strike](Mechanics/CLI/rules/variant-rules/unarmed-strike-xphb.md). You can use this [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can make one attack with a weapon or an [Unarmed Strike](/Mechanics/CLI/variant-rules/unarmed-strike-xphb.md). You can use this [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Guided Strike (Level 3)
 
-When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [Reaction](Mechanics/CLI/rules/variant-rules/reaction-xphb.md) to do so.
+When you or a creature within 30 feet of you misses with an attack roll, you can expend one use of your Channel Divinity and give that roll a +10 bonus, potentially causing it to hit. When you use this feature to benefit another creature's attack roll, you must take a [Reaction](/Mechanics/CLI/variant-rules/reaction-xphb.md) to do so.
 
 ### War God's Blessing (Level 6)
 
-You can expend a use of your Channel Divinity to cast [Shield of Faith](Mechanics/CLI/spells/shield-of-faith-xphb.md) or [Spiritual Weapon](Mechanics/CLI/spells/spiritual-weapon-xphb.md) rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](Mechanics/CLI/rules/conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated) condition, or die.
+You can expend a use of your Channel Divinity to cast [Shield of Faith](/Mechanics/CLI/spells/shield-of-faith-xphb.md) or [Spiritual Weapon](/Mechanics/CLI/spells/spiritual-weapon-xphb.md) rather than expending a spell slot. When you cast either spell in this way, the spell doesn't require [Concentration](/Mechanics/CLI/conditions.md#Concentration). Instead the spell lasts for 1 minute, but it ends early if you cast that spell again, have the [Incapacitated](/Mechanics/CLI/conditions.md#Incapacitated) condition, or die.
 
 ### Avatar of Battle (Level 17)
 
-You gain [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+You gain [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Bludgeoning, Piercing, and Slashing damage.
+
+## Sources
+
+_Player's Handbook (2024) p. 76_

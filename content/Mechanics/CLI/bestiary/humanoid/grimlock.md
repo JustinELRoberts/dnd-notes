@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grimlock
-created: 2026-03-09T12:15:33.943-04:00
-modified: 2026-03-09T12:15:33.943-04:00
-published: 2026-03-09T12:15:33.943-04:00
+created: 2026-03-29T21:53:55.944-04:00
+modified: 2026-03-29T21:53:55.944-04:00
+published: 2026-03-29T21:53:55.944-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Grimlock
+ac: 11
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/4
+stats:
+  - 16
+  - 12
+  - 12
+  - 9
+  - 8
+  - 6
+source:
+  - MM
 ---
 
 # Grimlock
 
-_Source: Monster Manual p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/grimlock.webp#right)
-
 The degenerate subterranean grimlocks were once human, but their worship of the mind flayers over generations of prowling the Underdark transformed them into blind, monstrous cannibals long ago.
 
 ## Debased Cultists
@@ -45,11 +60,11 @@ Grimlocks still venerate the mind flayers, serving them whenever possible. Griml
 
 ```ad-statblock
 title: Grimlock
-![](Mechanics/CLI/bestiary/humanoid/token/grimlock.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/grimlock.webp#token)
 *Medium humanoid (grimlock), Neutral Evil*
 
 - **Armor Class** 11 
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,19 +73,19 @@ title: Grimlock
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +5, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +3
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded)
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +5, [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Stealth](/Mechanics/CLI/skills.md#Stealth) +3
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft. or 10 ft. while deafened (blind beyond this radius), passive Perception 13
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded)
 - **Languages** Undercommon
 - **Challenge** 1/4
 
 ## Traits
 
-***Blind Senses.*** The grimlock can't use its blindsight while [deafened](Mechanics/CLI/rules/conditions.md#Deafened) and unable to smell.
+***Blind Senses.*** The grimlock can't use its blindsight while [deafened](/Mechanics/CLI/conditions.md#Deafened) and unable to smell.
 
-***Keen Hearing and Smell.*** The grimlock has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The grimlock has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on hearing or smell.
 
-***Stone Camouflage.*** The grimlock has advantage on Dexterity ([Stealth](Mechanics/CLI/rules/skills.md#Stealth)) checks made to hide in rocky terrain.
+***Stone Camouflage.*** The grimlock has advantage on Dexterity ([Stealth](/Mechanics/CLI/skills.md#Stealth)) checks made to hide in rocky terrain.
 
 ## Actions
 
@@ -82,3 +97,7 @@ title: Grimlock
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 175. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

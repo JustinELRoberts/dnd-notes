@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warlock of the Fiend
-created: 2026-03-09T12:15:34.117-04:00
-modified: 2026-03-09T12:15:34.117-04:00
-published: 2026-03-09T12:15:34.117-04:00
+created: 2026-03-29T21:53:56.152-04:00
+modified: 2026-03-29T21:53:56.152-04:00
+published: 2026-03-29T21:53:56.152-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Warlock of the Fiend (MPMM)
+ac: 13
+hp: 78
+modifier: 3
+hit_dice: 12d8 + 24
+cr: "7"
+stats:
+  - 10
+  - 16
+  - 15
+  - 12
+  - 12
+  - 18
+source:
+  - MPMM
+  - VGM
 ---
 
 # Warlock of the Fiend
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219_
-
-Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](Mechanics/CLI/bestiary/fiend/imp-xmm.md) or [quasits](Mechanics/CLI/bestiary/fiend/quasit-xmm.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
+Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep [imps](/Mechanics/CLI/bestiary/fiend/imp-xmm.md) or [quasits](/Mechanics/CLI/bestiary/fiend/quasit-xmm.md) as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults.
 
 ## Warlocks
 
@@ -33,11 +49,11 @@ Warlocks gain arcane might through magical pacts with mysterious entities. While
 
 ```ad-statblock
 title: Warlock of the Fiend
-![](Mechanics/CLI/bestiary/humanoid/token/warlock-of-the-fiend-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/warlock-of-the-fiend-mpmm.webp#token)
 *Medium humanoid, Any alignment*
 
-- **Armor Class** 13 (16 with [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md))
-- **Hit Points** 78 (`12d8 + 24`) 
+- **Armor Class** 13 (16 with [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md))
+- **Hit Points** 78 (12d8 + 24) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,9 +62,8 @@ title: Warlock of the Fiend
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Wisdom +4, Charisma +7
-- **Skills** [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +4, [Deception](Mechanics/CLI/rules/skills.md#Deception) +7, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +7, [Religion](Mechanics/CLI/rules/skills.md#Religion) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 11
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
+- **Skills** [Arcana](/Mechanics/CLI/skills.md#Arcana) +4, [Deception](/Mechanics/CLI/skills.md#Deception) +7, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +7, [Religion](/Mechanics/CLI/skills.md#Religion) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 11
 - **Languages** any two languages (usually Abyssal or Infernal)
 - **Challenge** 7
 
@@ -66,9 +81,9 @@ title: Warlock of the Fiend
 
 ***Spellcasting.*** The warlock casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 15): 
 
-**At will:** [alter self](Mechanics/CLI/spells/alter-self-xphb.md), [mage armor](Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage hand](Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](Mechanics/CLI/spells/prestidigitation-xphb.md)
+**At will:** [alter self](/Mechanics/CLI/spells/alter-self-xphb.md), [mage armor](/Mechanics/CLI/spells/mage-armor-xphb.md) (self only), [mage hand](/Mechanics/CLI/spells/mage-hand-xphb.md), [minor illusion](/Mechanics/CLI/spells/minor-illusion-xphb.md), [prestidigitation](/Mechanics/CLI/spells/prestidigitation-xphb.md)
 
-**1/day each:** [banishment](Mechanics/CLI/spells/banishment-xphb.md), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md), [suggestion](Mechanics/CLI/spells/suggestion-xphb.md)
+**1/day each:** [banishment](/Mechanics/CLI/spells/banishment-xphb.md), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md), [suggestion](/Mechanics/CLI/spells/suggestion-xphb.md)
 
 ## Reactions
 
@@ -80,3 +95,7 @@ title: Warlock of the Fiend
 ## Environment
 
 arctic, desert, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 255, Volo's Guide to Monsters p. 219_

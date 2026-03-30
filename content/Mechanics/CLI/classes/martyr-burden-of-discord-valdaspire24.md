@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Burden of Discord
-created: 2026-03-09T12:15:33.879-04:00
-modified: 2026-03-09T12:15:33.879-04:00
-published: 2026-03-09T12:15:33.879-04:00
+created: 2026-03-29T21:53:55.672-04:00
+modified: 2026-03-29T21:53:55.672-04:00
+published: 2026-03-29T21:53:55.672-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/martyr/discord
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Burden of Discord
 
-_[Martyr](./martyr-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Martyr](./martyr-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -65,40 +64,40 @@ Your mortal burden ensures you always have certain spells ready. When you reach 
 
 | Martyr Level | Spells |
 |--------------|--------|
-| 3 | [Hideous Laughter](Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [Inflict Wounds](Mechanics/CLI/spells/inflict-wounds-xphb.md) |
-| 5 | [Knock](Mechanics/CLI/spells/knock-xphb.md), [Shatter](Mechanics/CLI/spells/shatter-xphb.md) |
-| 9 | [Lightning Bolt](Mechanics/CLI/spells/lightning-bolt-xphb.md), [Stinking Cloud](Mechanics/CLI/spells/stinking-cloud-xphb.md) |
-| 13 | [Confusion](Mechanics/CLI/spells/confusion-xphb.md), [Polymorph](Mechanics/CLI/spells/polymorph-xphb.md) |
-| 17 | [Mislead](Mechanics/CLI/spells/mislead-xphb.md), [Passwall](Mechanics/CLI/spells/passwall-xphb.md) |
+| 3 | [Hideous Laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [Inflict Wounds](/Mechanics/CLI/spells/inflict-wounds-xphb.md) |
+| 5 | [Knock](/Mechanics/CLI/spells/knock-xphb.md), [Shatter](/Mechanics/CLI/spells/shatter-xphb.md) |
+| 9 | [Lightning Bolt](/Mechanics/CLI/spells/lightning-bolt-xphb.md), [Stinking Cloud](/Mechanics/CLI/spells/stinking-cloud-xphb.md) |
+| 13 | [Confusion](/Mechanics/CLI/spells/confusion-xphb.md), [Polymorph](/Mechanics/CLI/spells/polymorph-xphb.md) |
+| 17 | [Mislead](/Mechanics/CLI/spells/mislead-xphb.md), [Passwall](/Mechanics/CLI/spells/passwall-xphb.md) |
 ^discord-spells
 
 ### Havoc (Level 3)
 
 When you hit an enemy with a melee attack roll using a weapon, you can roll on the Havoc! table to trigger an additional effect.
 
-Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage (no action required). This damage ignores [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) and [Immunity](Mechanics/CLI/rules/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md).
+Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also restore your use of it by taking 5 Radiant damage (no action required). This damage ignores [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) and [Immunity](/Mechanics/CLI/variant-rules/immunity-xphb.md), and bypasses [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md).
 
 **Havoc!**
 
 | dice: d10 | Effect |
 |-----------|--------|
 | 1 | Your weapon momentarily becomes a plush toy. The attack deals only 1 Bludgeoning damage. |
-| 2 | You regain 5 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md). |
+| 2 | You regain 5 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md). |
 | 3 | Flammable objects that aren't being worn or carried within 5 feet of you start burning. |
 | 4 | Immediately after dealing damage, an explosion of force pushes you and the target 20 feet apart. |
 | 5 | One object the target is holding magically teleports up to 15 feet away from it. |
-| 6 | The target comically trips and has the [Prone](Mechanics/CLI/rules/conditions.md#Prone) condition. |
+| 6 | The target comically trips and has the [Prone](/Mechanics/CLI/conditions.md#Prone) condition. |
 | 7 | The target takes an extra 1d6 Cold, Fire, or Lightning damage (GM's choice). |
 | 8 | Immediately after dealing damage, you teleport to an unoccupied space you can see within 30 feet of yourself. |
-| 9 | Until the start of your next turn, the target has one of the following conditions of your choice: [Charmed](Mechanics/CLI/rules/conditions.md#Charmed), FrightenedX, or [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). |
-| 10 | Your weapon doubles in size causing the triggering attack to become a [Critical Hit](Mechanics/CLI/rules/variant-rules/critical-hit-xphb.md). |
+| 9 | Until the start of your next turn, the target has one of the following conditions of your choice: [Charmed](/Mechanics/CLI/conditions.md#Charmed), FrightenedX, or [Poisoned](/Mechanics/CLI/conditions.md#Poisoned). |
+| 10 | Your weapon doubles in size causing the triggering attack to become a [Critical Hit](/Mechanics/CLI/variant-rules/critical-hit-xphb.md). |
 ^havoc
 
 ### Coin of Chaos (Level 6)
 
-You have a coin infused with the tides of chaos. Whenever you or an ally makes a [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md), you can flip a coin to add a bonus to the roll. The bonus equals +4 on heads, or +1 on tails.
+You have a coin infused with the tides of chaos. Whenever you or an ally makes a [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md), you can flip a coin to add a bonus to the roll. The bonus equals +4 on heads, or +1 on tails.
 
-Once you use the coin, the coin passes to the GM, who can use it to add a bonus to any [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) made by a creature under their control. Once the GM uses the coin, it passes back to you, and so on. When you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you regain the coin, whether or not the GM has used it.
+Once you use the coin, the coin passes to the GM, who can use it to add a bonus to any [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) made by a creature under their control. Once the GM uses the coin, it passes back to you, and so on. When you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you regain the coin, whether or not the GM has used it.
 
 ### Pandemonium (Level 14)
 
@@ -109,3 +108,7 @@ You can use your Havoc! without taking Radiant damage and, whenever you roll on 
 When you use your Sacrificial Strike, you can deal an extra `2d10` Radiant damage instead of 10 Radiant damage, or `4d10` damage instead of 20.
 
 Additionally, if you roll the highest number of any damage die for this attack, you can roll another of that die and add it to the damage. You can add a maximum of 10 dice to the attack's damage roll in this way.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

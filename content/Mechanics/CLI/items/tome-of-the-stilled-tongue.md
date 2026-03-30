@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tome of the Stilled Tongue
-created: 2026-03-09T12:15:34.013-04:00
-modified: 2026-03-09T12:15:34.013-04:00
-published: 2026-03-09T12:15:34.013-04:00
+created: 2026-03-29T21:53:56.020-04:00
+modified: 2026-03-29T21:53:56.020-04:00
+published: 2026-03-29T21:53:56.020-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -19,6 +19,7 @@ obsidianUIMode: preview
 
 _Wondrous item, major, legendary (requires attunement by a wizard)_
 
+- **Cost**: ⏤
 - **Weight**: 5.0 lbs.
 
 This thick leather-bound volume has a desiccated tongue pinned to the front cover. Five of these tomes exist, and it's unknown which one is the original. The grisly cover decoration on the first tome of the stilled tongue once belonged to a treacherous former servant of the lich-god Vecna, keeper of secrets. The tongues pinned to the covers of the four copies came from other spellcasters who crossed Vecna. The first few pages of each tome are filled with indecipherable scrawls. The remaining pages are blank and pristine.
@@ -29,4 +30,6 @@ While attuned to the book, you can remove the tongue from the book's cover. If y
 
 Vecna watches anyone using this tome. He can also write cryptic messages in the book. These messages appear at midnight and fade away after they are read.
 
-_Source: Dungeon Master's Guide p. 208_
+## Sources
+
+_Dungeon Master's Guide p. 208_

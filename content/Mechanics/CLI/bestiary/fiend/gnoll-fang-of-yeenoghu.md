@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gnoll Fang of Yeenoghu
-created: 2026-03-09T12:15:33.864-04:00
-modified: 2026-03-09T12:15:33.864-04:00
-published: 2026-03-09T12:15:33.864-04:00
+created: 2026-03-29T21:53:55.651-04:00
+modified: 2026-03-29T21:53:55.651-04:00
+published: 2026-03-29T21:53:55.651-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -17,13 +17,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gnoll Fang of Yeenoghu
+ac: 14
+hp: 65
+modifier: 2
+hit_dice: 10d8 + 20
+cr: "4"
+stats:
+  - 17
+  - 15
+  - 15
+  - 10
+  - 11
+  - 13
+source:
+  - MM
 ---
 
 # Gnoll Fang of Yeenoghu
 
-_Source: Monster Manual p. 163_\
 ![](Mechanics/CLI/bestiary/fiend/img/gnoll-fang-of-yeenoghu.webp#right)
-
 Gnolls celebrate their victories by performing demonic rituals and making blood offerings to Yeenoghu.
 
 Sometimes the demon lord rewards his worshipers by allowing one of them to be possessed by a demonic spirit. Marked as Yeenoghu's favorite, the lucky recipient becomes a fang of Yeenoghu, the chosen of the Gnoll Lord. In much the same way Yeenoghu created the first gnolls, a hyena that feasts on a fang's slain foe undergoes a horrible transformation, becoming a full-grown adult gnoll. Depending on the number of hyenas in a region, a fang of Yeenoghu can lead to a startling increase in the gnoll population. Finding and killing the fang is the only way to keep that population in check.
@@ -50,11 +65,11 @@ No goodness or compassion resides in the heart of a gnoll. Like a demon, it lack
 
 ```ad-statblock
 title: Gnoll Fang of Yeenoghu
-![](Mechanics/CLI/bestiary/fiend/token/gnoll-fang-of-yeenoghu.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/gnoll-fang-of-yeenoghu.webp#token)
 *Medium fiend (gnoll), Chaotic Evil*
 
-- **Armor Class** 14 ([hide armor](Mechanics/CLI/items/hide-armor-xphb.md))
-- **Hit Points** 65 (`10d8 + 20`) 
+- **Armor Class** 14 ([hide armor](/Mechanics/CLI/items/hide-armor.md))
+- **Hit Points** 65 (10d8 + 20) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -64,7 +79,7 @@ title: Gnoll Fang of Yeenoghu
 - **Proficiency Bonus** +2
 - **Saving Throws** Constitution +4, Wisdom +2, Charisma +3
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Abyssal, Gnoll
 - **Challenge** 4
 
@@ -86,3 +101,7 @@ title: Gnoll Fang of Yeenoghu
 ## Environment
 
 grassland, forest, hill, desert
+
+## Sources
+
+_Monster Manual p. 163_

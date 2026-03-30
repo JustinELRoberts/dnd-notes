@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Venomous Snake
-created: 2026-03-09T12:15:34.130-04:00
-modified: 2026-03-09T12:15:34.130-04:00
-published: 2026-03-09T12:15:34.130-04:00
+created: 2026-03-29T21:53:56.175-04:00
+modified: 2026-03-29T21:53:56.175-04:00
+published: 2026-03-29T21:53:56.175-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-8
@@ -19,16 +19,33 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Venomous Snake (XMM)
+ac: 12
+hp: 5
+modifier: 2
+hit_dice: 2d4
+cr: 1/8
+stats:
+  - 2
+  - 15
+  - 11
+  - 1
+  - 10
+  - 3
+source:
+  - XMM
+  - XPHB
 ---
 
 # Venomous Snake
 
-_Source: Monster Manual (2024) p. 372, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![](Mechanics/CLI/bestiary/beast/img/swarm-of-venomous-snakes.webp#right)
 
 ## Animals
 
-Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
+Use these stat blocks to represent the creatures they're named for or other similar creatures. For example, the [Panther](/Mechanics/CLI/bestiary/beast/panther-xmm.md) stat block can also represent a mountain lion, while the [Giant Goat](/Mechanics/CLI/bestiary/beast/giant-goat-xmm.md) stat block might represent a buffalo. Any of these stat blocks might also serve as fantastical animals with distinctive names and cosmetic details unique to your D\&D adventures.
 
 > [!gallery]
 > ![A druid calls on animals o...](Mechanics/CLI/bestiary/beast/img/animals-hills-and-mountains.webp)
@@ -37,11 +54,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 ```ad-statblock
 title: Venomous Snake
-![](Mechanics/CLI/bestiary/beast/token/venomous-snake-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/venomous-snake-xmm.webp#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 12 
-- **Hit Points** 5 (`2d4`) 
+- **Hit Points** 5 (2d4) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -51,7 +68,7 @@ title: Venomous Snake
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive Perception 10
+- **Senses** [Blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception 10
 - **Languages** —
 - **Challenge** 1/8
 
@@ -65,3 +82,7 @@ title: Venomous Snake
 ## Environment
 
 coastal, desert, forest, grassland, hill, swamp
+
+## Sources
+
+_Monster Manual (2024) p. 372, Player's Handbook (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

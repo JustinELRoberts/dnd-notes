@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dragon Hide
-created: 2026-03-09T12:15:33.875-04:00
-modified: 2026-03-09T12:15:33.875-04:00
-published: 2026-03-09T12:15:33.875-04:00
+created: 2026-03-29T21:53:55.667-04:00
+modified: 2026-03-29T21:53:55.667-04:00
+published: 2026-03-29T21:53:55.667-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/feat
@@ -15,7 +15,7 @@ obsidianUIMode: preview
 
 # Dragon Hide
 
-_**Prerequisites**_ [Dragonborn](Mechanics/CLI/races/dragonborn-xphb.md)
+_**Prerequisites**_ [Dragonborn](/Mechanics/CLI/races/dragonborn.md)
 
 You manifest scales and claws reminiscent of your draconic ancestors. You gain the following benefits:
 

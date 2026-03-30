@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Horned Devil
-created: 2026-03-09T12:15:33.849-04:00
-modified: 2026-03-09T12:15:33.849-04:00
-published: 2026-03-09T12:15:33.849-04:00
+created: 2026-03-29T21:53:55.638-04:00
+modified: 2026-03-29T21:53:55.638-04:00
+published: 2026-03-29T21:53:55.638-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/11
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Horned Devil
+ac: 18
+hp: 178
+modifier: 3
+hit_dice: 17d10 + 85
+cr: "11"
+stats:
+  - 22
+  - 17
+  - 21
+  - 12
+  - 16
+  - 17
+source:
+  - MM
 ---
 
 # Horned Devil
 
-_Source: Monster Manual p. 74. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/fiend/img/horned-devil.webp#right)
-
 Horned devils are lazy to the point of belligerence and reluctant to put themselves in harm's way. Moreover, they hate and fear any creature stronger than themselves. When they are sufficiently provoked or antagonized, the fury of these fiends can be terrifying.
 
 A malebranche stands as tall as an ogre and is sheathed in scales as tough as iron. The flying infantry of the hellish legions, horned devils follow orders to the letter. Their huge wings and sweeping horns create an intimidating presence as they drop from the sky and strike with deadly forks and lashing tails.
@@ -120,7 +135,7 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 > [!note] Devil True Names and Talismans
 >
-> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](Mechanics/CLI/rules/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
+> Though devils all have common names, every devil above a lemure in station also has a true name that it keeps secret. A devil can be forced to disclose its true name if [charmed](/Mechanics/CLI/conditions.md#Charmed), and ancient scrolls and tomes are said to exist that list the true names of certain devils.
 >
 > A mortal who learns a devil's true name can use powerful summoning magic to call the devil from the Nine Hells and bind it into service. Binding can also be accomplished with the help of a devil talisman. Each of these ancient relics is inscribed with the true name of a devil it controls, and was bathed in the blood of a worthy sacrifice-typically someone the creator loved-when crafted.
 >
@@ -148,11 +163,11 @@ The Nine Hells are a single plane comprising nine separate layers (see the Layer
 
 ```ad-statblock
 title: Horned Devil
-![](Mechanics/CLI/bestiary/fiend/token/horned-devil.webp#token)
+![](/Mechanics/CLI/bestiary/fiend/token/horned-devil.webp#token)
 *Large fiend (devil), Lawful Evil*
 
 - **Armor Class** 18 (natural armor)
-- **Hit Points** 178 (`17d10 + 85`) 
+- **Hit Points** 178 (17d10 + 85) 
 - **Speed** 20 ft., fly 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -162,10 +177,10 @@ title: Horned Devil
 - **Proficiency Bonus** +4
 - **Saving Throws** Strength +10, Dexterity +7, Wisdom +7, Charisma +7
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 13
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 13
 - **Damage Resistances** cold; bludgeoning, piercing, slashing from nonmagical attacks that aren't silvered
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Infernal, telepathy 120 ft.
 - **Challenge** 11
 
@@ -181,9 +196,13 @@ title: Horned Devil
 
 ***Fork.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 15 (`2d8 + 6`) piercing damage.
 
-***Tail.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 10 (`1d8 + 6`) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (`3d6`) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (`3d6`). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom ([Medicine](Mechanics/CLI/rules/skills.md#Medicine)) check. The wound also closes if the target receives magical healing.
+***Tail.*** *Melee Weapon Attack:* `+10` to hit, reach 10 ft., one target. *Hit:* 10 (`1d8 + 6`) piercing damage. If the target is a creature other than an undead or a construct, it must succeed on a DC 17 Constitution saving throw or lose 10 (`3d6`) hit points at the start of each of its turns due to an infernal wound. Each time the devil hits the wounded target with this attack, the damage dealt by the wound increases by 10 (`3d6`). Any creature can take an action to stanch the wound with a successful DC 12 Wisdom ([Medicine](/Mechanics/CLI/skills.md#Medicine)) check. The wound also closes if the target receives magical healing.
 
 ***Hurl Flame.*** *Ranged Spell Attack:* `+7` to hit, range 150 ft., one target. *Hit:* 14 (`4d6`) fire damage. If the target is a flammable object that isn't being worn or carried, it also catches fire.
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 74. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

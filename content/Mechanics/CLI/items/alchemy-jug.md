@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Alchemy Jug
-created: 2026-03-09T12:15:33.986-04:00
-modified: 2026-03-09T12:15:33.986-04:00
-published: 2026-03-09T12:15:33.986-04:00
+created: 2026-03-29T21:53:55.991-04:00
+modified: 2026-03-29T21:53:55.991-04:00
+published: 2026-03-29T21:53:55.991-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon
@@ -19,6 +19,7 @@ obsidianUIMode: preview
 _Wondrous item, minor, uncommon_\
 ![](Mechanics/CLI/items/img/alchemy-jug.webp#right)
 
+- **Cost**: ⏤
 - **Weight**: 12.0 lbs.
 
 This ceramic jug appears to be able to hold a gallon of liquid and weighs 12 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty.
@@ -41,4 +42,6 @@ Once the jug starts producing a liquid, it can't produce a different one, or mor
 | Wine | 1 gallon |
 ^liquid-max-amount
 
-_Source: Dungeon Master's Guide p. 150_
+## Sources
+
+_Dungeon Master's Guide p. 150_

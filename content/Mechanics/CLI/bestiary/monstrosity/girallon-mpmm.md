@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Girallon
-created: 2026-03-09T12:15:34.011-04:00
-modified: 2026-03-09T12:15:34.011-04:00
-published: 2026-03-09T12:15:34.011-04:00
+created: 2026-03-29T21:53:56.018-04:00
+modified: 2026-03-29T21:53:56.018-04:00
+published: 2026-03-29T21:53:56.018-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/4
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Girallon (MPMM)
+ac: 13
+hp: 59
+modifier: 3
+hit_dice: 7d10 + 21
+cr: "4"
+stats:
+  - 18
+  - 16
+  - 16
+  - 5
+  - 12
+  - 7
+source:
+  - MPMM
+  - VGM
 ---
 
 # Girallon
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/girallon.webp#right)
-
 A girallon looks like an oversized, four-armed ape with grayish-tan skin and white fur. Its vicious fangs and claws reveal it to be a monstrous predator.
 
 Girallons are most common in temperate or warm forest environments abundant with life. They share apes' adeptness at climbing, although few trees can support the weight of these half-ton creatures. The ruins of cities, especially those found in deep forests and jungles, seem to attract girallons. They see a city's buildings as a superior sort of forest whose uppermost "branches" can safely support them. The creatures can easily scale walls and battlements, and they perch on tower tops and other high vantages to keep an eye on the surrounding area.
@@ -37,11 +53,11 @@ Girallons that are well treated might be willing to serve as guards, though they
 
 ```ad-statblock
 title: Girallon
-![](Mechanics/CLI/bestiary/monstrosity/token/girallon-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/girallon-mpmm.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 13 
-- **Hit Points** 59 (`7d10 + 21`) 
+- **Hit Points** 59 (7d10 + 21) 
 - **Speed** 40 ft., climb 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,8 +66,8 @@ title: Girallon
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** —
 - **Challenge** 4
 
@@ -73,3 +89,7 @@ title: Girallon
 ## Environment
 
 forest
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 139, Volo's Guide to Monsters p. 152_

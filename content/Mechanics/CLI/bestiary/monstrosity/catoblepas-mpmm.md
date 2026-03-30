@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Catoblepas
-created: 2026-03-09T12:15:34.111-04:00
-modified: 2026-03-09T12:15:34.111-04:00
-published: 2026-03-09T12:15:34.111-04:00
+created: 2026-03-29T21:53:56.149-04:00
+modified: 2026-03-29T21:53:56.149-04:00
+published: 2026-03-29T21:53:56.149-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Catoblepas (MPMM)
+ac: 14
+hp: 84
+modifier: 1
+hit_dice: 8d10 + 40
+cr: "5"
+stats:
+  - 19
+  - 12
+  - 21
+  - 3
+  - 14
+  - 8
+source:
+  - MPMM
+  - VGM
 ---
 
 # Catoblepas
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/catoblepas.webp#right)
-
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
 
 A catoblepas's stink, like the stench of death mixed with swamp gas and skunk musk, gives it away as being much more ghastly than its appearance suggests. When it is on the attack, a catoblepas reveals the extent of its horrific nature. The creature's serpentine neck has trouble lifting its head, but one glare from its bloodshot eyes can rot flesh. At the end of its tail is a club that can rattle body and soul if it strikes true, leaving a victim unable to act while the catoblepas feasts on its body.
@@ -39,11 +55,11 @@ Sages say that gods of pestilence and rot created catoblepases as embodiments of
 
 ```ad-statblock
 title: Catoblepas
-![](Mechanics/CLI/bestiary/monstrosity/token/catoblepas-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/catoblepas-mpmm.webp#token)
 *Large monstrosity, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 84 (`8d10 + 40`) 
+- **Hit Points** 84 (8d10 + 40) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -52,18 +68,18 @@ title: Catoblepas
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +5
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +5
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Languages** —
 - **Challenge** 5
 
 ## Traits
 
-***Stench.*** Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of any catoblepas for 1 hour.
+***Stench.*** Any creature other than a catoblepas that starts its turn within 10 feet of the catoblepas must succeed on a DC 16 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) until the start of the creature's next turn. On a successful saving throw, the creature is immune to the Stench of any catoblepas for 1 hour.
 
 ## Actions
 
-***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 21 (`5d6 + 4`) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be [stunned](Mechanics/CLI/rules/conditions.md#Stunned) until the start of the catoblepas's next turn.
+***Tail.*** *Melee Weapon Attack:* `+7` to hit, reach 10 ft., one target. *Hit:* 21 (`5d6 + 4`) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be [stunned](/Mechanics/CLI/conditions.md#Stunned) until the start of the catoblepas's next turn.
 
 ***Death Ray (Recharge 5-6).*** The catoblepas targets one creature it can see within 30 feet of it. The target must make a DC 16 Constitution saving throw, taking 36 (`8d8`) necrotic damage on a failed save, or half as much damage on a successful one. If the saving throw fails by 5 or more, the target instead takes 64 necrotic damage. The target dies if reduced to 0 hit points by this ray.
 ```
@@ -73,3 +89,7 @@ title: Catoblepas
 ## Environment
 
 swamp
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 70, Volo's Guide to Monsters p. 129_

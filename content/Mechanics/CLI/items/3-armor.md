@@ -15,9 +15,9 @@ aliases:
   - +3 Spiked Armor
   - +3 Splint Armor
   - +3 Studded Leather Armor
-created: 2026-03-09T12:15:34.106-04:00
-modified: 2026-03-09T12:15:34.107-04:00
-published: 2026-03-09T12:15:34.107-04:00
+created: 2026-03-29T21:53:56.141-04:00
+modified: 2026-03-29T21:53:56.141-04:00
+published: 2026-03-29T21:53:56.141-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy
@@ -35,9 +35,12 @@ obsidianUIMode: preview
 
 _Major, legendary_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 You have a +3 bonus to AC while wearing this armor.
 
-**Variants**:
+## Variants
 
 - [+3 Breastplate](#+3%20Breastplate)
 - [+3 Chain Mail](#+3%20Chain%20Mail)
@@ -129,4 +132,6 @@ You have a +3 bonus to AC while wearing this armor.
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-_Source: Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+## Sources
+
+_Dungeon Master's Guide p. 152. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

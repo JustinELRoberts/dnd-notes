@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Chuul
-created: 2026-03-09T12:15:33.994-04:00
-modified: 2026-03-09T12:15:33.994-04:00
-published: 2026-03-09T12:15:33.994-04:00
+created: 2026-03-29T21:53:56.004-04:00
+modified: 2026-03-29T21:53:56.004-04:00
+published: 2026-03-29T21:53:56.004-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Chuul
+ac: 16
+hp: 93
+modifier: 0
+hit_dice: 11d10 + 33
+cr: "4"
+stats:
+  - 19
+  - 10
+  - 16
+  - 5
+  - 11
+  - 5
+source:
+  - MM
 ---
 
 # Chuul
 
-_Source: Monster Manual p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/aberration/img/chuul.webp#right)
-
 Survivors of the ancient aboleth empire, chuuls are crustaceans the aboleths modified and endowed with sentience. They follow the ingrained directives of their creators, as they have done since the dawn of time.
 
 ## Primeval Relics
@@ -43,11 +58,11 @@ Although the aboleths' ancient empire fell long ago, the psychic bonds between t
 
 ```ad-statblock
 title: Chuul
-![](Mechanics/CLI/bestiary/aberration/token/chuul.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/chuul.webp#token)
 *Large aberration, Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 93 (`11d10 + 33`) 
+- **Hit Points** 93 (11d10 + 33) 
 - **Speed** 30 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,10 +71,10 @@ title: Chuul
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Deep Speech but can't speak
 - **Challenge** 4
 
@@ -67,15 +82,15 @@ title: Chuul
 
 ***Amphibious.*** The chuul can breathe air and water.
 
-***Sense Magic.*** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the [detect magic](Mechanics/CLI/spells/detect-magic-xphb.md) spell but isn't itself magical.
+***Sense Magic.*** The chuul senses magic within 120 feet of it at will. This trait otherwise works like the [detect magic](/Mechanics/CLI/spells/detect-magic-xphb.md) spell but isn't itself magical.
 
 ## Actions
 
 ***Multiattack.*** The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
 
-***Pincer.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage. The target is [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures [grappled](Mechanics/CLI/rules/conditions.md#Grappled).
+***Pincer.*** *Melee Weapon Attack:* `+6` to hit, reach 10 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage. The target is [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 14) if it is a Large or smaller creature and the chuul doesn't have two other creatures [grappled](/Mechanics/CLI/conditions.md#Grappled).
 
-***Tentacles.*** One creature [grappled](Mechanics/CLI/rules/conditions.md#Grappled) by the chuul must succeed on a DC 13 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. Until this poison ends, the target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Tentacles.*** One creature [grappled](/Mechanics/CLI/conditions.md#Grappled) by the chuul must succeed on a DC 13 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. Until this poison ends, the target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed). The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 ```
 
 ^statblock
@@ -83,3 +98,7 @@ title: Chuul
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

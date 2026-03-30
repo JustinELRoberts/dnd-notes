@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Robe of Stars
-created: 2026-03-09T12:15:33.894-04:00
-modified: 2026-03-09T12:15:33.894-04:00
-published: 2026-03-09T12:15:33.894-04:00
+created: 2026-03-29T21:53:55.893-04:00
+modified: 2026-03-29T21:53:55.893-04:00
+published: 2026-03-29T21:53:55.893-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -20,10 +20,15 @@ obsidianUIMode: preview
 _Wondrous item, major, very rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/robe-of-stars.webp#right)
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 This black or dark blue robe is embroidered with small white or silver stars. You gain a +1 bonus to saving throws while you wear it.
 
-Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast [magic missile](Mechanics/CLI/spells/magic-missile-xphb.md) as a 5th-level spell. Daily at dusk, `1d6` removed stars reappear on the robe.
+Six stars, located on the robe's upper front portion, are particularly large. While wearing this robe, you can use an action to pull off one of the stars and use it to cast [magic missile](/Mechanics/CLI/spells/magic-missile-xphb.md) as a 5th-level spell. Daily at dusk, `1d6` removed stars reappear on the robe.
 
 While you wear the robe, you can use an action to enter the Astral Plane along with everything you are wearing and carrying. You remain there until you use an action to return to the plane you were on. You reappear in the last space you occupied, or if that space is occupied, the nearest unoccupied space.
 
-_Source: Dungeon Master's Guide p. 194. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 194. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

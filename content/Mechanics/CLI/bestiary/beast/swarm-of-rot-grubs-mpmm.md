@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Swarm of Rot Grubs
-created: 2026-03-09T12:15:33.978-04:00
-modified: 2026-03-09T12:15:33.978-04:00
-published: 2026-03-09T12:15:33.978-04:00
+created: 2026-03-29T21:53:55.981-04:00
+modified: 2026-03-29T21:53:55.981-04:00
+published: 2026-03-29T21:53:55.981-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/1-2
@@ -15,13 +15,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Swarm of Rot Grubs (MPMM)
+ac: 8
+hp: 22
+modifier: -2
+hit_dice: 5d8
+cr: 1/2
+stats:
+  - 2
+  - 7
+  - 10
+  - 1
+  - 2
+  - 1
+source:
+  - MPMM
+  - VGM
 ---
 
 # Swarm of Rot Grubs
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208_\
 ![](Mechanics/CLI/bestiary/beast/img/swarm-of-rot-grubs.webp#right)
-
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
 
 Rot grubs recoil from flames, and fire is the main weapon against rot grubs once they're inside a body. Magic that neutralizes poison can also stop them before they kill their host.
@@ -30,17 +46,17 @@ Rot grubs recoil from flames, and fire is the main weapon against rot grubs once
 
 Rot grubs pose a threat both singly and as a swarm. See the stat block for the mechanics of a swarm of rot grubs. A single rot grub has no stat block.
 
-Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), as the rot grub burrows into the creature. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
+Any creature that comes into contact with a single rot grub must succeed on a DC 10 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned), as the rot grub burrows into the creature. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature takes 3 (`1d6`) poison damage at the end of each of its turns. Whenever the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature takes fire damage, the creature can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) creature ends its turn with 0 hit points, it dies, as the rot grub kills it.
 
 ## Statblock
 
 ```ad-statblock
 title: Swarm of Rot Grubs
-![](Mechanics/CLI/bestiary/beast/token/swarm-of-rot-grubs-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/swarm-of-rot-grubs-mpmm.webp#token)
 *Medium beast, Unaligned*
 
 - **Armor Class** 8 
-- **Hit Points** 22 (`5d8`) 
+- **Hit Points** 22 (5d8) 
 - **Speed** 5 ft., climb 5 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -50,10 +66,10 @@ title: Swarm of Rot Grubs
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., passive Perception 6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., passive Perception 6
 - **Damage Vulnerabilities** fire
 - **Damage Resistances** piercing, slashing
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** —
 - **Challenge** 1/2
 
@@ -63,7 +79,7 @@ title: Swarm of Rot Grubs
 
 ## Actions
 
-***Bites.*** *Melee Weapon Attack:* `+0` to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (`2d6`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). At the end of each of the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target's turns, the target takes 3 (`1d6`) poison damage. Whenever the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target takes fire damage, the target can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target ends its turn with 0 hit points, it dies.
+***Bites.*** *Melee Weapon Attack:* `+0` to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 7 (`2d6`) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned). At the end of each of the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target's turns, the target takes 3 (`1d6`) poison damage. Whenever the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target takes fire damage, the target can repeat the saving throw, ending the effect on itself on a success. If the [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target ends its turn with 0 hit points, it dies.
 ```
 
 ^statblock
@@ -71,3 +87,7 @@ title: Swarm of Rot Grubs
 ## Environment
 
 swamp, underdark
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 237, Volo's Guide to Monsters p. 208_

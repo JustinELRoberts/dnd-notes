@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bronze Dragon Wyrmling
-created: 2026-03-09T12:15:33.967-04:00
-modified: 2026-03-09T12:15:33.967-04:00
-published: 2026-03-09T12:15:33.967-04:00
+created: 2026-03-29T21:53:55.971-04:00
+modified: 2026-03-29T21:53:55.971-04:00
+published: 2026-03-29T21:53:55.971-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Bronze Dragon Wyrmling
+ac: 17
+hp: 32
+modifier: 0
+hit_dice: 5d8 + 10
+cr: "2"
+stats:
+  - 17
+  - 10
+  - 15
+  - 12
+  - 11
+  - 15
+source:
+  - MM
 ---
 
 # Bronze Dragon Wyrmling
 
-_Source: Monster Manual p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/bronze-dragon-wyrmling.webp#right)
-
 Bronze dragons are coastal dwellers that feed primarily on aquatic plants and fish. They take the forms of friendly animals to observe other creatures of interest. They are also fascinated by warfare and eagerly join armies fighting for a just cause.
 
 A ribbed and fluted crest defines the shape of a bronze dragon's head. Curving horns extend out from the crest, echoed by spines on its lower jaw and chin. To help them swim, bronze dragons have webbed feet and smooth scales. A bronze wyrmling's scales are yellow tinged with green; only as the dragon approaches adulthood does its color deepen to a darker, rich bronze tone. The pupils of a bronze dragon's eyes fade as the dragon ages, until they resemble glowing green orbs.
@@ -90,11 +105,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Bronze Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/bronze-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/bronze-dragon-wyrmling.webp#token)
 *Medium dragon, Lawful Good*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 32 (`5d8 + 10`) 
+- **Hit Points** 32 (5d8 + 10) 
 - **Speed** 30 ft., fly 60 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -103,8 +118,8 @@ title: Bronze Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +2, Constitution +4, Wisdom +2, Charisma +4
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** lightning
 - **Languages** Draconic
 - **Challenge** 2
@@ -124,3 +139,7 @@ title: Bronze Dragon Wyrmling
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

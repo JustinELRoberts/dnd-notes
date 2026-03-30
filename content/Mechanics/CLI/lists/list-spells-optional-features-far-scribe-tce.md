@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Far Scribe
-created: 2026-03-09T12:15:34.428-04:00
-modified: 2026-03-09T12:15:34.428-04:00
-published: 2026-03-09T12:15:34.428-04:00
+created: 2026-03-29T21:53:56.529-04:00
+modified: 2026-03-29T21:53:56.529-04:00
+published: 2026-03-29T21:53:56.529-04:00
 tags:
   - ttrpg-cli/spell/list/optfeature/far-scribe
 cssclasses:
@@ -16,4 +16,4 @@ obsidianUIMode: preview
 
 ## 3rd Level
 
-- [Sending](Mechanics/CLI/spells/sending-xphb.md "XPHB")
+- [Sending](/Mechanics/CLI/spells/sending-xphb.md "XPHB")

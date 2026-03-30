@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Construct Forge
-created: 2026-03-09T12:15:33.867-04:00
-modified: 2026-03-09T12:15:33.867-04:00
-published: 2026-03-09T12:15:33.867-04:00
+created: 2026-03-29T21:53:55.659-04:00
+modified: 2026-03-29T21:53:55.659-04:00
+published: 2026-03-29T21:53:55.659-04:00
 tags:
   - ttrpg-cli/bastion
   - ttrpg-cli/compendium/src/5e/efa
@@ -17,7 +17,7 @@ obsidianUIMode: preview
 
 _Level 17 Bastion facility_
 
-- **Prerequisites**: Ability to use an artisansTool as a [Spellcasting Focus](Mechanics/CLI/rules/variant-rules/spellcasting-focus-xphb.md)
+- **Prerequisites**: Ability to use an artisansTool as a [Spellcasting Focus](/Mechanics/CLI/variant-rules/spellcasting-focus-xphb.md)
 - **Space**: Vast (36 sq)
 - **Hirelings**: 2
 - **Order**: recruit

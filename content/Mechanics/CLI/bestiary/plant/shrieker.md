@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shrieker
-created: 2026-03-09T12:15:33.899-04:00
-modified: 2026-03-09T12:15:33.899-04:00
-published: 2026-03-09T12:15:33.899-04:00
+created: 2026-03-29T21:53:55.896-04:00
+modified: 2026-03-29T21:53:55.896-04:00
+published: 2026-03-29T21:53:55.896-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/0
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Shrieker
+ac: 5
+hp: 13
+modifier: -5
+hit_dice: 3d8
+cr: "0"
+stats:
+  - 1
+  - 1
+  - 10
+  - 1
+  - 3
+  - 1
+source:
+  - MM
 ---
 
 # Shrieker
 
-_Source: Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/plant/img/shrieker.webp#right)
-
 A shrieker is a human-sized mushroom that emits a piercing screech to drive off creatures that disturb it. Other creatures use the fungi as an alarm to signal the approach of prey, and various intelligent races of the Underdark cultivate shriekers on the outskirts of their communities to discourage trespassers.
 
 ## Fungi
@@ -35,11 +50,11 @@ Not needing sunlight or warmth to grow, fungi thrive in every corner and crevice
 
 ```ad-statblock
 title: Shrieker
-![](Mechanics/CLI/bestiary/plant/token/shrieker.webp#token)
+![](/Mechanics/CLI/bestiary/plant/token/shrieker.webp#token)
 *Medium plant, Unaligned*
 
 - **Armor Class** 5 
-- **Hit Points** 13 (`3d8`) 
+- **Hit Points** 13 (3d8) 
 - **Speed** 0 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -49,8 +64,8 @@ title: Shrieker
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 6
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft. (blind beyond this radius), passive Perception 6
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** —
 - **Challenge** 0
 
@@ -68,3 +83,7 @@ title: Shrieker
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 138. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

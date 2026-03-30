@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duodrone
-created: 2026-03-09T12:15:34.107-04:00
-modified: 2026-03-09T12:15:34.107-04:00
-published: 2026-03-09T12:15:34.107-04:00
+created: 2026-03-29T21:53:56.142-04:00
+modified: 2026-03-29T21:53:56.142-04:00
+published: 2026-03-29T21:53:56.142-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duodrone
+ac: 15
+hp: 11
+modifier: 1
+hit_dice: 2d8 + 2
+cr: 1/4
+stats:
+  - 11
+  - 13
+  - 12
+  - 6
+  - 10
+  - 7
+source:
+  - MM
 ---
 
 # Duodrone
 
-_Source: Monster Manual p. 225_\
 ![](Mechanics/CLI/bestiary/construct/img/duodrone.webp#right)
-
 The blocky duodrones supervise units of monodrones and can perform up to two tasks at a time.
 
 ## Modrons
@@ -57,11 +72,11 @@ When the gears of Mechanus complete seventeen cycles once every 289 years, Primu
 
 ```ad-statblock
 title: Duodrone
-![](Mechanics/CLI/bestiary/construct/token/duodrone.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/duodrone.webp#token)
 *Medium construct, Lawful Neutral*
 
 - **Armor Class** 15 (natural armor)
-- **Hit Points** 11 (`2d8 + 2`) 
+- **Hit Points** 11 (2d8 + 2) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -71,8 +86,7 @@ title: Duodrone
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [truesight](Mechanics/CLI/rules/senses.md#Truesight) 120 ft., passive Perception 10
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md)
+- **Senses** [truesight](/Mechanics/CLI/senses.md#Truesight) 120 ft., passive Perception 10
 - **Languages** Modron
 - **Challenge** 1/4
 
@@ -92,3 +106,7 @@ title: Duodrone
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 225_

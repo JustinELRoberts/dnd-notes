@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Burden of Fame
-created: 2026-03-09T12:15:34.431-04:00
-modified: 2026-03-09T12:15:34.431-04:00
-published: 2026-03-09T12:15:34.431-04:00
+created: 2026-03-29T21:53:56.523-04:00
+modified: 2026-03-29T21:53:56.523-04:00
+published: 2026-03-29T21:53:56.523-04:00
 tags:
   - ttrpg-cli/spell/list/subclass/burden-of-fame
 cssclasses:
@@ -16,25 +16,25 @@ obsidianUIMode: preview
 
 ## 1st Level
 
-- [Charm Person](Mechanics/CLI/spells/charm-person-xphb.md "XPHB") at class level 3
-- [Unseen Servant](Mechanics/CLI/spells/unseen-servant-xphb.md "XPHB") at class level 3
+- [Charm Person](/Mechanics/CLI/spells/charm-person-xphb.md "XPHB") at class level 3
+- [Unseen Servant](/Mechanics/CLI/spells/unseen-servant-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Misty Step](Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 3
-- [Suggestion](Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 3
+- [Misty Step](/Mechanics/CLI/spells/misty-step-xphb.md "XPHB") at class level 3
+- [Suggestion](/Mechanics/CLI/spells/suggestion-xphb.md "XPHB") at class level 3
 
 ## 3rd Level
 
-- [Hypnotic Pattern](Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB") at class level 3
-- [Tongues](Mechanics/CLI/spells/tongues-xphb.md "XPHB") at class level 3
+- [Hypnotic Pattern](/Mechanics/CLI/spells/hypnotic-pattern-xphb.md "XPHB") at class level 3
+- [Tongues](/Mechanics/CLI/spells/tongues-xphb.md "XPHB") at class level 3
 
 ## 4th Level
 
-- [Compulsion](Mechanics/CLI/spells/compulsion-xphb.md "XPHB") at class level 3
-- [Mordenkainen's Private Sanctum](Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md "XPHB") at class level 3
+- [Compulsion](/Mechanics/CLI/spells/compulsion-xphb.md "XPHB") at class level 3
+- [Mordenkainen's Private Sanctum](/Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md "XPHB") at class level 3
 
 ## 5th Level
 
-- [Dominate Person](Mechanics/CLI/spells/dominate-person-xphb.md "XPHB") at class level 3
-- [Teleportation Circle](Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB") at class level 3
+- [Dominate Person](/Mechanics/CLI/spells/dominate-person-xphb.md "XPHB") at class level 3
+- [Teleportation Circle](/Mechanics/CLI/spells/teleportation-circle-xphb.md "XPHB") at class level 3

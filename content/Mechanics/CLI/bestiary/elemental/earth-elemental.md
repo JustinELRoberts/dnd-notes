@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Earth Elemental
-created: 2026-03-09T12:15:33.917-04:00
-modified: 2026-03-09T12:15:33.917-04:00
-published: 2026-03-09T12:15:33.917-04:00
+created: 2026-03-29T21:53:55.921-04:00
+modified: 2026-03-29T21:53:55.921-04:00
+published: 2026-03-29T21:53:55.921-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Earth Elemental
+ac: 17
+hp: 126
+modifier: -1
+hit_dice: 12d10 + 60
+cr: "5"
+stats:
+  - 20
+  - 8
+  - 20
+  - 5
+  - 10
+  - 5
+source:
+  - MM
 ---
 
 # Earth Elemental
 
-_Source: Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/elemental/img/earth-elemental.webp#right)
-
 An earth elemental plods forward like a walking hill, club-like arms of jagged stone swinging at its sides. Its head and body consist of dirt and stone, occasionally set with chunks of metal, gems, and bright minerals.
 
 Earth elementals glide through rock and earth as though they were liquid. Earthbound creatures have much to fear from an earth elemental, since the elemental can pinpoint the precise location of any foe that stands on solid ground in its vicinity.
@@ -49,11 +64,11 @@ An elemental doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Earth Elemental
-![](Mechanics/CLI/bestiary/elemental/token/earth-elemental.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/earth-elemental.webp#token)
 *Large elemental, Neutral*
 
 - **Armor Class** 17 (natural armor)
-- **Hit Points** 126 (`12d10 + 60`) 
+- **Hit Points** 126 (12d10 + 60) 
 - **Speed** 30 ft., burrow 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -63,11 +78,11 @@ title: Earth Elemental
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., tremorsense 60 ft., passive Perception 10
 - **Damage Vulnerabilities** thunder
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** Terran
 - **Challenge** 5
 
@@ -89,3 +104,7 @@ title: Earth Elemental
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 124. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

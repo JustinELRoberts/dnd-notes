@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Exotic Saddle
-created: 2026-03-09T12:15:33.998-04:00
-modified: 2026-03-09T12:15:33.998-04:00
-published: 2026-03-09T12:15:33.998-04:00
+created: 2026-03-29T21:53:56.009-04:00
+modified: 2026-03-29T21:53:56.009-04:00
+published: 2026-03-29T21:53:56.009-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/tack-and-harness
@@ -23,4 +23,6 @@ _Tack and harness_
 
 A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. An Exotic Saddle is required for riding an aquatic or a flying mount.
 
-_Source: Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+## Sources
+
+_Player's Handbook (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

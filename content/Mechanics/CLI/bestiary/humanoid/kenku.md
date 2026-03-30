@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kenku
-created: 2026-03-09T12:15:34.094-04:00
-modified: 2026-03-09T12:15:34.094-04:00
-published: 2026-03-09T12:15:34.094-04:00
+created: 2026-03-29T21:53:56.125-04:00
+modified: 2026-03-29T21:53:56.125-04:00
+published: 2026-03-29T21:53:56.125-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-4
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Kenku
+ac: 13
+hp: 13
+modifier: 3
+hit_dice: 3d8
+cr: 1/4
+stats:
+  - 10
+  - 16
+  - 10
+  - 11
+  - 10
+  - 10
+source:
+  - MM
 ---
 
 # Kenku
 
-_Source: Monster Manual p. 194_\
 ![](Mechanics/CLI/bestiary/humanoid/img/kenku.webp#right)
-
 Kenku are feathered humanoids that wander the world as vagabonds, driven by greed. They can perfectly imitate any sound they hear.
 
 ## Fallen Flocks
@@ -48,11 +63,11 @@ All kenku pine for the ability to fly, and thus the punishments they mete out to
 
 ```ad-statblock
 title: Kenku
-![](Mechanics/CLI/bestiary/humanoid/token/kenku.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/kenku.webp#token)
 *Medium humanoid (kenku), Chaotic Neutral*
 
 - **Armor Class** 13 
-- **Hit Points** 13 (`3d8`) 
+- **Hit Points** 13 (3d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,17 +76,16 @@ title: Kenku
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +4, [Perception](Mechanics/CLI/rules/skills.md#Perception) +2, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +5
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +4, [Perception](/Mechanics/CLI/skills.md#Perception) +2, [Stealth](/Mechanics/CLI/skills.md#Stealth) +5
 - **Senses** passive Perception 12
-- **Gear** [shortbow](Mechanics/CLI/items/shortbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
 - **Languages** understands Auran and Common but speaks only through the use of its Mimicry trait
 - **Challenge** 1/4
 
 ## Traits
 
-***Ambusher.*** In the first round of a combat, the kenku has advantage on attack rolls against any creature it [surprised](Mechanics/CLI/rules/conditions.md#Surprised).
+***Ambusher.*** In the first round of a combat, the kenku has advantage on attack rolls against any creature it [surprised](/Mechanics/CLI/conditions.md#Surprised).
 
-***Mimicry.*** The kenku can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](Mechanics/CLI/rules/skills.md#Insight)) check.
+***Mimicry.*** The kenku can mimic any sounds it has heard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([Insight](/Mechanics/CLI/skills.md#Insight)) check.
 
 ## Actions
 
@@ -85,3 +99,7 @@ title: Kenku
 ## Environment
 
 forest, urban
+
+## Sources
+
+_Monster Manual p. 194_

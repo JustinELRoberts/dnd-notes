@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Leviathan
-created: 2026-03-09T12:15:34.013-04:00
-modified: 2026-03-09T12:15:34.013-04:00
-published: 2026-03-09T12:15:34.013-04:00
+created: 2026-03-29T21:53:56.020-04:00
+modified: 2026-03-29T21:53:56.020-04:00
+published: 2026-03-29T21:53:56.020-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/20
@@ -15,24 +15,39 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Leviathan (MPMM)
+ac: 17
+hp: 328
+modifier: 7
+hit_dice: 16d20 + 160
+cr: "20"
+stats:
+  - 27
+  - 24
+  - 30
+  - 2
+  - 18
+  - 17
+source:
+  - MPMM
 ---
 
 # Leviathan
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 171_\
 ![](Mechanics/CLI/bestiary/elemental/img/leviathan.webp#right)
-
 A leviathan is an immense creature that acts as a force of nature, dragging ships down to the ocean's depths and washing away coastal settlements. When called forth, a leviathan arises from a large body of water and takes on the form of a gigantic serpent.
 
 Usually found only on the Elemental Plane of Water, a leviathan sometimes swims through a portal to another world, where tritons, sea elves, and other aquatic folk attempt to contain it. Nihilistic cults have also been known to perform arduous rituals to summon a leviathan to a world, with the aim of using the creature to destroy coastal communities. Those cultists often consider it a blessing to drown themselves in the elemental's waters.
 
 ```ad-statblock
 title: Leviathan
-![](Mechanics/CLI/bestiary/elemental/token/leviathan-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/leviathan-mpmm.webp#token)
 *Gargantuan elemental, Typically  Neutral*
 
 - **Armor Class** 17 
-- **Hit Points** 328 (`16d20 + 160`) 
+- **Hit Points** 328 (16d20 + 160) 
 - **Speed** 40 ft., swim 120 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -42,10 +57,10 @@ title: Leviathan
 - **Proficiency Bonus** +6
 - **Saving Throws** Wisdom +10, Charisma +9
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** acid, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [stunned](Mechanics/CLI/rules/conditions.md#Stunned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [stunned](/Mechanics/CLI/conditions.md#Stunned)
 - **Languages** —
 - **Challenge** 20
 
@@ -67,7 +82,7 @@ title: Leviathan
 
 ***Tail.*** *Melee Weapon Attack:* `+14` to hit, reach 20 ft., one target. *Hit:* 19 (`2d10 + 8`) bludgeoning damage plus 10 (`3d6`) acid damage.
 
-***Tidal Wave (Recharge 6).*** The leviathan magically creates a wave of water that extends from a point it can see within 120 feet of itself. The wave is up to 250 feet long, up to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a DC 24 Strength saving throw. On a failed save, a creature takes 45 (`7d12`) bludgeoning damage and is knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The water spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 250 feet of it, and then it vanishes.
+***Tidal Wave (Recharge 6).*** The leviathan magically creates a wave of water that extends from a point it can see within 120 feet of itself. The wave is up to 250 feet long, up to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make a DC 24 Strength saving throw. On a failed save, a creature takes 45 (`7d12`) bludgeoning damage and is knocked [prone](/Mechanics/CLI/conditions.md#Prone). On a successful save, a creature takes half as much damage and isn't knocked [prone](/Mechanics/CLI/conditions.md#Prone). The water spreads out across the ground in all directions, extinguishing unprotected flames in its area and within 250 feet of it, and then it vanishes.
 
 ## Legendary Actions
 
@@ -83,3 +98,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the leviath
 ## Environment
 
 coastal, underwater
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 171_

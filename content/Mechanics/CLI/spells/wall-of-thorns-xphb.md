@@ -2,21 +2,19 @@
 publish: true
 aliases:
   - Wall of Thorns
-created: 2026-03-09T12:15:33.975-04:00
-modified: 2026-03-09T12:15:33.975-04:00
-published: 2026-03-09T12:15:33.975-04:00
+created: 2026-03-29T21:53:55.976-04:00
+modified: 2026-03-29T21:53:55.976-04:00
+published: 2026-03-29T21:53:55.976-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/druid
   - ttrpg-cli/spell/level/6th-level
   - ttrpg-cli/spell/school/conjuration
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Druid
 ---
 
 # Wall of Thorns
@@ -36,6 +34,12 @@ A creature can move through the wall, albeit slowly and painfully. For every 1 f
 
 **Using a Higher-Level Spell Slot.** Both types of damage increase by `1d8` for each spell slot level above 6.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Druid](Mechanics/CLI/lists/list-spells-classes-druid.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Druid](/Mechanics/CLI/lists/list-spells-classes-druid.md)
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 339. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

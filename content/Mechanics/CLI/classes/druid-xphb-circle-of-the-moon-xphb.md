@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Circle of the Moon
-created: 2026-03-09T12:15:33.870-04:00
-modified: 2026-03-09T12:15:33.870-04:00
-published: 2026-03-09T12:15:33.870-04:00
+created: 2026-03-29T21:53:55.661-04:00
+modified: 2026-03-29T21:53:55.661-04:00
+published: 2026-03-29T21:53:55.661-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/druid/moon
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Circle of the Moon
 
-_[Druid](./druid-xphb.md): Druid Subclass_\
-_Source: Player's Handbook (2024) p. 86_
+_[Druid](./druid-xphb.md): Druid Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -69,21 +68,21 @@ In addition, you can cast the spells from this feature while you're in a Wild Sh
 
 | Druid Level | Prepared Spells |
 |-------------|-----------------|
-| 3 | [Cure Wounds](Mechanics/CLI/spells/cure-wounds-xphb.md), [Moonbeam](Mechanics/CLI/spells/moonbeam-xphb.md), [Starry Wisp](Mechanics/CLI/spells/starry-wisp-xphb.md) |
-| 5 | [Conjure Animals](Mechanics/CLI/spells/conjure-animals-xphb.md) |
-| 7 | [Fount of Moonlight](Mechanics/CLI/spells/fount-of-moonlight-xphb.md) |
-| 9 | [Mass Cure Wounds](Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
+| 3 | [Cure Wounds](/Mechanics/CLI/spells/cure-wounds-xphb.md), [Moonbeam](/Mechanics/CLI/spells/moonbeam-xphb.md), [Starry Wisp](/Mechanics/CLI/spells/starry-wisp-xphb.md) |
+| 5 | [Conjure Animals](/Mechanics/CLI/spells/conjure-animals-xphb.md) |
+| 7 | [Fount of Moonlight](/Mechanics/CLI/spells/fount-of-moonlight-xphb.md) |
+| 9 | [Mass Cure Wounds](/Mechanics/CLI/spells/mass-cure-wounds-xphb.md) |
 ^circle-of-the-moon-spells
 
 ### Circle Forms (Level 3)
 
 You can channel lunar magic when you assume a Wild Shape form, granting you the benefits below.
 
-**Challenge Rating.** The maximum [Challenge Rating](Mechanics/CLI/rules/variant-rules/challenge-rating-xphb.md) for the form equals your Druid level divided by 3 (round down).
+**Challenge Rating.** The maximum [Challenge Rating](/Mechanics/CLI/variant-rules/challenge-rating-xphb.md) for the form equals your Druid level divided by 3 (round down).
 
 **Armor Class.** Until you leave the form, your AC equals 13 plus your Wisdom modifier if that total is higher than the Beast's AC.
 
-**Temporary Hit Points.** You gain a number of [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to three times your Druid level.
+**Temporary Hit Points.** You gain a number of [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to three times your Druid level.
 
 ### Improved Circle Forms (Level 6)
 
@@ -95,9 +94,9 @@ While in a Wild Shape form, you gain the following benefits.
 
 ### Moonlight Step (Level 10)
 
-You magically transport yourself, reappearing amid a burst of moonlight. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you teleport up to 30 feet to an unoccupied space you can see, and you have [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on the next attack roll you make before the end of this turn.
+You magically transport yourself, reappearing amid a burst of moonlight. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you teleport up to 30 feet to an unoccupied space you can see, and you have [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on the next attack roll you make before the end of this turn.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). You can also regain uses by expending a level 2+ spell slot for each use you want to restore (no action required).
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). You can also regain uses by expending a level 2+ spell slot for each use you want to restore (no action required).
 
 ### Lunar Form (Level 14)
 
@@ -106,3 +105,7 @@ The power of the moon suffuses you, granting you the following benefits.
 **Improved Lunar Radiance.** Once per turn, you can deal an extra `2d10` Radiant damage to a target you hit with a Wild Shape form's attack.
 
 **Shared Moonlight.** Whenever you use Moonlight Step, you can also teleport one willing creature. That creature must be within 10 feet of you, and you teleport it to an unoccupied space you can see within 10 feet of your destination space.
+
+## Sources
+
+_Player's Handbook (2024) p. 86_

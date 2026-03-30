@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Oblex
-created: 2026-03-09T12:15:34.137-04:00
-modified: 2026-03-09T12:15:34.137-04:00
-published: 2026-03-09T12:15:34.137-04:00
+created: 2026-03-29T21:53:56.186-04:00
+modified: 2026-03-29T21:53:56.186-04:00
+published: 2026-03-29T21:53:56.186-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/5
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Oblex (MPMM)
+ac: 14
+hp: 75
+modifier: 4
+hit_dice: 10d8 + 30
+cr: "5"
+stats:
+  - 8
+  - 19
+  - 16
+  - 19
+  - 12
+  - 15
+source:
+  - MPMM
 ---
 
 # Adult Oblex
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 198_\
 ![](Mechanics/CLI/bestiary/ooze/img/adult-oblex.webp#right)
-
 Older oblexes, called adults and elders, have eaten so many memories that they can form duplicates of the creatures they have devoured from the substance of their bodies, sending these copies off to lure prey into their clutches while remaining tethered to the slime by long tendrils of goo. These duplicated creatures are indistinguishable from their victims except for a faint sulfurous smell. Oblexes use these duplicates to lead prey into danger or to infiltrate settlements so they can feed on superior victims.
 
 ## Oblexes
@@ -43,11 +58,11 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
 
 ```ad-statblock
 title: Adult Oblex
-![](Mechanics/CLI/bestiary/ooze/token/adult-oblex-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/ooze/token/adult-oblex-mpmm.webp#token)
 *Medium ooze, Typically  Lawful Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 75 (`10d8 + 30`) 
+- **Hit Points** 75 (10d8 + 30) 
 - **Speed** 20 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -56,11 +71,11 @@ title: Adult Oblex
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Intelligence +7, Charisma +5
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +5; [Perception](Mechanics/CLI/rules/skills.md#Perception) +4; 
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +5; [Perception](/Mechanics/CLI/skills.md#Perception) +4; 
 
-One of [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +7, [History](Mechanics/CLI/rules/skills.md#History) +7, [Nature](Mechanics/CLI/rules/skills.md#Nature) +7, or [Religion](Mechanics/CLI/rules/skills.md#Religion) +7
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this distance), passive Perception 14
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+One of [Arcana](/Mechanics/CLI/skills.md#Arcana) +7, [History](/Mechanics/CLI/skills.md#History) +7, [Nature](/Mechanics/CLI/skills.md#Nature) +7, or [Religion](/Mechanics/CLI/skills.md#Religion) +7
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this distance), passive Perception 14
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [charmed](/Mechanics/CLI/conditions.md#Charmed), [deafened](/Mechanics/CLI/conditions.md#Deafened), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Common plus two more languages
 - **Challenge** 5
 
@@ -78,15 +93,15 @@ One of [Arcana](Mechanics/CLI/rules/skills.md#Arcana) +7, [History](Mechanics/CL
 
 ***Pseudopod.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one target. *Hit:* 11 (`2d6 + 4`) bludgeoning damage plus 7 (`2d6`) psychic damage.
 
-***Eat Memories.*** The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (`4d8`) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the [greater restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) or [heal](Mechanics/CLI/spells/heal-xphb.md) spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.
+***Eat Memories.*** The oblex targets one creature it can see within 5 feet of it. The target must succeed on a DC 15 Wisdom saving throw or take 18 (`4d8`) psychic damage and become memory drained until it finishes a short or long rest or until it benefits from the [greater restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) or [heal](/Mechanics/CLI/spells/heal-xphb.md) spell. Constructs, Oozes, Plants, and Undead succeed on the save automatically.
 
-While memory drained, the target must roll a `d4` and subtract the number rolled from its ability checks and attack rolls. Each time the target is memory drained beyond the first, the die size increases by one: the `d4` becomes a `d6`, the `d6` becomes a `d8`, and so on until the die becomes a `d20`, at which point the target becomes [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious) for 1 hour. The effect then ends.
+While memory drained, the target must roll a `d4` and subtract the number rolled from its ability checks and attack rolls. Each time the target is memory drained beyond the first, the die size increases by one: the `d4` becomes a `d6`, the `d6` becomes a `d8`, and so on until the die becomes a `d20`, at which point the target becomes [unconscious](/Mechanics/CLI/conditions.md#Unconscious) for 1 hour. The effect then ends.
 
 The oblex learns all the languages a memory-drained target knows and gains all its skill proficiencies.
 
 ***Spellcasting (Psionics).*** The oblex casts one of the following spells, requiring no spell components and using Intelligence as the spellcasting ability (spell save DC 15):
 
-**3/day each:** [charm person](Mechanics/CLI/spells/charm-person-xphb.md) (as 5th-level spell), [detect thoughts](Mechanics/CLI/spells/detect-thoughts-xphb.md), [hypnotic pattern](Mechanics/CLI/spells/hypnotic-pattern-xphb.md)
+**3/day each:** [charm person](/Mechanics/CLI/spells/charm-person-xphb.md) (as 5th-level spell), [detect thoughts](/Mechanics/CLI/spells/detect-thoughts-xphb.md), [hypnotic pattern](/Mechanics/CLI/spells/hypnotic-pattern-xphb.md)
 
 ## Bonus Actions
 
@@ -98,3 +113,7 @@ The oblex learns all the languages a memory-drained target knows and gains all i
 ## Environment
 
 swamp, underdark, urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 198_

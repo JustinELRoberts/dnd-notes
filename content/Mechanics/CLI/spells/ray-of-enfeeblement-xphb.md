@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Ray of Enfeeblement
-created: 2026-03-09T12:15:33.907-04:00
-modified: 2026-03-09T12:15:33.907-04:00
-published: 2026-03-09T12:15:33.907-04:00
+created: 2026-03-29T21:53:55.907-04:00
+modified: 2026-03-29T21:53:55.907-04:00
+published: 2026-03-29T21:53:55.907-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/level/2nd-level
@@ -24,18 +25,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Bard (College of Lore)
-  - Cleric (Death Domain)
-  - Cleric (Grave Domain)
-  - Fighter (Eldritch Knight)
-  - Necromancer (Pale Master)
-  - Rogue (Arcane Trickster)
-  - Warlock
-  - Warmage (House of Bishops)
-  - Witch (Black Magic)
-  - Wizard
 ---
 
 # Ray of Enfeeblement
@@ -47,10 +36,30 @@ _2nd-level, Necromancy_
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on the next attack roll it makes until the start of your next turn.
+A beam of enervating energy shoots from you toward a creature within range. The target must make a Constitution saving throw. On a successful save, the target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on the next attack roll it makes until the start of your next turn.
 
-On a failed save, the target has [Disadvantage](Mechanics/CLI/rules/variant-rules/disadvantage-xphb.md) on Strength-based [D20 Tests](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) for the duration. During that time, it also subtracts `1d8` from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
+On a failed save, the target has [Disadvantage](/Mechanics/CLI/variant-rules/disadvantage-xphb.md) on Strength-based [D20 Tests](/Mechanics/CLI/variant-rules/d20-test-xphb.md) for the duration. During that time, it also subtracts `1d8` from all its damage rolls. The target repeats the save at the end of each of its turns, ending the spell on a success.
 
-**Classes**: [Bard (College of Lore)](Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB"); [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Death Domain)](Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB"); [Cleric (Grave Domain)](Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB"); [Fighter (Eldritch Knight)](Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB"); [Necromancer (Pale Master)](Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Rogue (Arcane Trickster)](Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Warmage (House of Bishops)](Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Witch (Black Magic)](Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG")
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Grave Domain)](/Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Fighter (Eldritch Knight)](/Mechanics/CLI/lists/list-spells-classes-eldritch-knight.md)
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster.md)
+- [Warmage (House of Bishops)](/Mechanics/CLI/lists/list-spells-classes-house-of-bishops-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Necromancer (Pale Master)](/Mechanics/CLI/lists/list-spells-classes-pale-master-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Witch (Black Magic)](/Mechanics/CLI/lists/list-spells-classes-black-magic-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Rogue (Arcane Trickster)](/Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (College of Lore)](/Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb.md "subclass=XPHB;class=XPHB")
+- [Cleric (Grave Domain)](/Mechanics/CLI/lists/list-spells-classes-grave-domain-xge.md "subclass=XGE;class=XPHB")
+- [Tiefling (Chthonic)](/Mechanics/CLI/lists/list-spells-races-tiefling-xphb.md)
+- [Cleric (Death Domain)](/Mechanics/CLI/lists/list-spells-classes-death-domain-dmg.md "subclass=DMG;class=XPHB")
+
+## Sources
+
+_Player's Handbook (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

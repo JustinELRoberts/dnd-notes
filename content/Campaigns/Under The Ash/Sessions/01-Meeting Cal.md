@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-26T16:41:18.250-04:00
-modified: 2026-03-26T22:59:12.967-04:00
-published: 2026-03-26T22:59:12.967-04:00
+modified: 2026-03-29T19:57:53.187-04:00
+published: 2026-03-29T19:57:53.187-04:00
 Party:
   - "[[Avenj]]"
   - "[[Callie Dawnsong|Cal]]"
@@ -20,7 +20,7 @@ As the party traveled toward the [[Campaigns/Under The Ash/Locations/Evermore/Th
 
 ## Events
 
-- There are many narrow creeŵs and shallow rivers as we travel along the river out of [[The Unnamed City|The Border City]]
+- There are many narrow creeks and shallow rivers as we travel along the river out of [[The Unnamed City|The Border City]]
   - We dock our boat to prevent it from breaking, and begin walking toward the [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/index|Vel’Therin Expanse]]
 - A few hours into our walk we hear some commotion ahead
   - A single person ([[Callie Dawnsong|Cal]]) is arguing with a large group of people
@@ -43,7 +43,7 @@ As the party traveled toward the [[Campaigns/Under The Ash/Locations/Evermore/Th
       - "He was this weird looking [[drow|Drow]] with a long pointed nose"
       - "He wore no brands or colors. He wore this weird croft black cloak with a piece ripped off of the arm. And he wore the top half of a mask; only his eyes were covered"
         - Sounds like the missing part was [[The Awakening]] badge, and it was the other half of the voice changing mask
-  - [[Callie Dawnsong|Cal]] rents a room (costs 2S) and we all get drinks and food (eggs; costs 6G)
+  - [[Callie Dawnsong|Cal]] asks to rent a room (costs 2S) and we all get drinks and food (eggs; costs 6G)
   - There is a man in the corner of the room by a poker table who supposedly beat this Frankenstein creator in poker; we
     - When asked about it, he says a game of poker might jog his memory
     - We decide to play poker (5G buy-in)
@@ -82,7 +82,7 @@ As the party traveled toward the [[Campaigns/Under The Ash/Locations/Evermore/Th
     - Fortunately we can rotate sleeping in the wagon on our multi-day chase
     - She seems to not sleep
     - We chase her for 3 days
-  - Eventually she enters [[Vel Rau’dan]]
+  - Eventually she enters [[Vel Rau'dan]]
     - [[Hoots]] watches as she goes into the city
     - She goes into the arena and [[Hoots]] loses sight
 - [[Roz Rozum|Roz]] casts [[locate-object-xphb|Locate Object]] on [[Theratina]]'s [[rapier-xphb|Rapier]]

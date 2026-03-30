@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stirge
-created: 2026-03-09T12:15:33.881-04:00
-modified: 2026-03-09T12:15:33.881-04:00
-published: 2026-03-09T12:15:33.881-04:00
+created: 2026-03-29T21:53:55.675-04:00
+modified: 2026-03-29T21:53:55.675-04:00
+published: 2026-03-29T21:53:55.675-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -22,13 +22,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Stirge
+ac: 14
+hp: 2
+modifier: 3
+hit_dice: 1d4
+cr: 1/8
+stats:
+  - 4
+  - 16
+  - 11
+  - 2
+  - 8
+  - 6
+source:
+  - MM
 ---
 
 # Stirge
 
-_Source: Monster Manual p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/stirge.webp#right)
-
 This horrid flying creature looks like a cross between a large bat and an oversized mosquito. Its legs end in sharp pincers, and its long, needle-like proboscis slashes the air as it seeks its next meal.
 
 Stirges feed on the blood of living creatures, attaching and draining them slowly. Although they pose little danger in small numbers, packs of stirges can be a formidable threat, reattaching as quickly as their weakening prey can pluck them off.
@@ -41,11 +56,11 @@ A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging
 
 ```ad-statblock
 title: Stirge
-![](Mechanics/CLI/bestiary/beast/token/stirge.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/stirge.webp#token)
 *Tiny beast, Unaligned*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 2 (`1d4`) 
+- **Hit Points** 2 (1d4) 
 - **Speed** 10 ft., fly 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -55,7 +70,7 @@ title: Stirge
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Languages** —
 - **Challenge** 1/8
 
@@ -71,3 +86,7 @@ The stirge can detach itself by spending 5 feet of its movement. It does so afte
 ## Environment
 
 grassland, forest, swamp, hill, urban, desert, coastal, mountain, underdark
+
+## Sources
+
+_Monster Manual p. 284. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gladiator
-created: 2026-03-09T12:15:33.865-04:00
-modified: 2026-03-09T12:15:33.865-04:00
-published: 2026-03-09T12:15:33.865-04:00
+created: 2026-03-29T21:53:55.653-04:00
+modified: 2026-03-29T21:53:55.653-04:00
+published: 2026-03-29T21:53:55.653-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/5
@@ -14,21 +14,36 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Gladiator
+ac: 16
+hp: 112
+modifier: 2
+hit_dice: 15d8 + 45
+cr: "5"
+stats:
+  - 18
+  - 15
+  - 16
+  - 10
+  - 12
+  - 15
+source:
+  - MM
 ---
 
 # Gladiator
-
-_Source: Monster Manual p. 346. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
 
 Gladiators battle for the entertainment of raucous crowds. Some gladiators are brutal pit fighters who treat each match as a life-or-death struggle, while others are professional duelists who command huge fees but rarely fight to the death.
 
 ```ad-statblock
 title: Gladiator
-![](Mechanics/CLI/bestiary/humanoid/token/gladiator.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/gladiator.webp#token)
 *Medium humanoid (any race), Any alignment*
 
-- **Armor Class** 16 ([studded leather](Mechanics/CLI/items/studded-leather-armor-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 112 (`15d8 + 45`) 
+- **Armor Class** 16 ([studded leather](/Mechanics/CLI/items/studded-leather-armor.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 112 (15d8 + 45) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -37,15 +52,14 @@ title: Gladiator
 
 - **Proficiency Bonus** +3
 - **Saving Throws** Strength +7, Dexterity +5, Constitution +6
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +10, [Intimidation](Mechanics/CLI/rules/skills.md#Intimidation) +5
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +10, [Intimidation](/Mechanics/CLI/skills.md#Intimidation) +5
 - **Senses** passive Perception 11
-- **Gear** [spear](Mechanics/CLI/items/spear-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 5
 
 ## Traits
 
-***Brave.*** The gladiator has advantage on saving throws against being [frightened](Mechanics/CLI/rules/conditions.md#Frightened).
+***Brave.*** The gladiator has advantage on saving throws against being [frightened](/Mechanics/CLI/conditions.md#Frightened).
 
 ***Brute.*** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
@@ -55,7 +69,7 @@ title: Gladiator
 
 ***Spear.*** *Melee  or Ranged Weapon Attack:* `+7` to hit, reach 5 ft. and range 20/60 ft., one target. *Hit:* 11 (`2d6 + 4`) piercing damage, or 13 (`2d8 + 4`) piercing damage if used with two hands to make a melee attack.
 
-***Shield Bash.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one creature. *Hit:* 9 (`2d4 + 4`) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).
+***Shield Bash.*** *Melee Weapon Attack:* `+7` to hit, reach 5 ft., one creature. *Hit:* 9 (`2d4 + 4`) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).
 
 ## Reactions
 
@@ -67,3 +81,7 @@ title: Gladiator
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 346. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Poisoned Tempest
-created: 2026-03-09T12:15:34.034-04:00
-modified: 2026-03-09T12:15:34.034-04:00
-published: 2026-03-09T12:15:34.034-04:00
+created: 2026-03-29T21:53:56.046-04:00
+modified: 2026-03-29T21:53:56.046-04:00
+published: 2026-03-29T21:53:56.046-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/hazard/cmpx

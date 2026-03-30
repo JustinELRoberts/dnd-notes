@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Incorporeal Undead
-created: 2026-03-09T12:15:34.096-04:00
-modified: 2026-03-09T12:15:34.096-04:00
-published: 2026-03-09T12:15:34.096-04:00
+created: 2026-03-29T21:53:56.127-04:00
+modified: 2026-03-29T21:53:56.127-04:00
+published: 2026-03-29T21:53:56.127-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/monster/cr/
@@ -14,11 +14,23 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Incorporeal Undead (ValdaSpire24)
+ac: 15
+modifier: 3
+stats:
+  - 10
+  - 16
+  - 8
+  - 10
+  - 10
+  - 14
+source:
+  - ValdaSpire24
 ---
 
 # Incorporeal Undead
-
-_Source: Valda's Spire of Secrets (2024)_
 
 ```ad-statblock
 title: Incorporeal Undead
@@ -36,33 +48,37 @@ title: Incorporeal Undead
 - **Proficiency Bonus** +2
 - **Saving Throws** 3+PB, 0+PB
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** bludgeoning, piercing, slashing
 - **Damage Immunities** necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** Common plus one other language
 - **Challenge** 
 
 ## Traits
 
-***Incorporeal Movement.*** The undead can move through other creatures and objects as if they were [Difficult Terrain](Mechanics/CLI/rules/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
+***Incorporeal Movement.*** The undead can move through other creatures and objects as if they were [Difficult Terrain](/Mechanics/CLI/variant-rules/difficult-terrain-xphb.md). It takes 5 (`1d10`) Force damage if it ends its turn inside an object.
 
 ***Level 5.*** Undead Excellence. The undead has a +1 bonus to its attack and damage rolls. This bonus increases to +2 at Captain level 9, and +3 at Captain level 13.
 
-***Level 13.*** [Resistance](Mechanics/CLI/spells/resistance-xphb.md). The undead has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage types except Radiant and Force.
+***Level 13.*** [Resistance](/Mechanics/CLI/spells/resistance-xphb.md). The undead has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage types except Radiant and Force.
 
 ## Actions
 
-***Death Touch.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](Mechanics/CLI/rules/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d8` plus your Charisma modifier Necrotic damage.
+***Death Touch.*** *Melee Attack Roll:* Bonus equals your Charisma modifier plus your [Proficiency Bonus](/Mechanics/CLI/variant-rules/proficiency-xphb.md), reach 5 ft. *Hit:* `1d8` plus your Charisma modifier Necrotic damage.
 
-***Level 17.*** Life Drain (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 5 feet. *Failure:* `8d8` Necrotic damage and the undead regains [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) equal to the Necrotic damage taken. *Success:* Half damage only.
+***Level 17.*** Life Drain (2/Day). *Constitution Saving Throw:* DC equals your Cohort save DC, one creature within 5 feet. *Failure:* `8d8` Necrotic damage and the undead regains [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) equal to the Necrotic damage taken. *Success:* Half damage only.
 
 ## Bonus Actions
 
 ***Level 9.*** Necrotic Strike. The undead's Death Touch deals an extra `1d8` Necrotic damage.
 
-***Level 5:.*** Invisibility. The undead casts [Invisibility](Mechanics/CLI/spells/invisibility-xphb.md) on itself, requiring no spell components and using Charisma as the spellcasting ability.
+***Level 5:.*** Invisibility. The undead casts [Invisibility](/Mechanics/CLI/spells/invisibility-xphb.md) on itself, requiring no spell components and using Charisma as the spellcasting ability.
 
 ```
 
 ^statblock
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

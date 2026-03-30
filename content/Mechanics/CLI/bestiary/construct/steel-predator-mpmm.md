@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Steel Predator
-created: 2026-03-09T12:15:33.923-04:00
-modified: 2026-03-09T12:15:33.923-04:00
-published: 2026-03-09T12:15:33.923-04:00
+created: 2026-03-29T21:53:55.927-04:00
+modified: 2026-03-29T21:53:55.927-04:00
+published: 2026-03-29T21:53:55.927-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/16
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Steel Predator (MPMM)
+ac: 20
+hp: 207
+modifier: 3
+hit_dice: 18d10 + 108
+cr: "16"
+stats:
+  - 24
+  - 17
+  - 22
+  - 4
+  - 14
+  - 6
+source:
+  - MPMM
 ---
 
 # Steel Predator
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 232_\
 ![](Mechanics/CLI/bestiary/construct/img/steel-predator.webp#right)
-
 A steel predator is a merciless machine with one purpose: to locate and kill its target regardless of distance and obstacles.
 
 Steel predators are created by a unique modron, using a machine located in the city of Sigil. It wasn't always headquartered in the City of Doors, however. On its original home, the plane of Mechanus, the ingenious modron was lauded for its invention—until it turned these creations against its superiors. Steel predators wreaked havoc against the modron hierarchy until the rogue modron was trapped and exiled. Now it operates a shop in Sigil where, for a steep price, anyone can commission the manufacture of a steel predator.
@@ -33,11 +48,11 @@ If all goes according to plan, a steel predator slays its target and then volunt
 
 ```ad-statblock
 title: Steel Predator
-![](Mechanics/CLI/bestiary/construct/token/steel-predator-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/steel-predator-mpmm.webp#token)
 *Large construct, Typically  Lawful Neutral*
 
 - **Armor Class** 20 (natural armor)
-- **Hit Points** 207 (`18d10 + 108`) 
+- **Hit Points** 207 (18d10 + 108) 
 - **Speed** 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -46,11 +61,11 @@ title: Steel Predator
 
 - **Proficiency Bonus** +5
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +7, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +8, [Survival](Mechanics/CLI/rules/skills.md#Survival) +7
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 30 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 17
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +7, [Stealth](/Mechanics/CLI/skills.md#Stealth) +8, [Survival](/Mechanics/CLI/skills.md#Survival) +7
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 30 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 17
 - **Damage Resistances** cold, lightning, necrotic, thunder
 - **Damage Immunities** poison; psychic; bludgeoning, piercing, slashing from nonmagical attacks
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [stunned](Mechanics/CLI/rules/conditions.md#Stunned)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [stunned](/Mechanics/CLI/conditions.md#Stunned)
 - **Languages** understands Modron and the language of its owner but can't speak
 - **Challenge** 16
 
@@ -68,11 +83,11 @@ title: Steel Predator
 
 ***Claw.*** *Melee Weapon Attack:* `+12` to hit, reach 5 ft., one target. *Hit:* 16 (`2d8 + 7`) force damage.
 
-***Stunning Roar (Recharge 5-6).*** The steel predator emits a roar in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw. On a failed save, a creature takes 33 (`6d10`) thunder damage, drops everything it's holding, and is [stunned](Mechanics/CLI/rules/conditions.md#Stunned) for 1 minute. The [stunned](Mechanics/CLI/rules/conditions.md#Stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful save, a creature takes half as much damage and isn't [stunned](Mechanics/CLI/rules/conditions.md#Stunned).
+***Stunning Roar (Recharge 5-6).*** The steel predator emits a roar in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw. On a failed save, a creature takes 33 (`6d10`) thunder damage, drops everything it's holding, and is [stunned](/Mechanics/CLI/conditions.md#Stunned) for 1 minute. The [stunned](/Mechanics/CLI/conditions.md#Stunned) creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. On a successful save, a creature takes half as much damage and isn't [stunned](/Mechanics/CLI/conditions.md#Stunned).
 
 ***Spellcasting.*** The steel predator casts one of the following spells, requiring no spell components and using Wisdom as the spellcasting ability:
 
-**3/day each:** [dimension door](Mechanics/CLI/spells/dimension-door-xphb.md) (self only), [plane shift](Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
+**3/day each:** [dimension door](/Mechanics/CLI/spells/dimension-door-xphb.md) (self only), [plane shift](/Mechanics/CLI/spells/plane-shift-xphb.md) (self only)
 ```
 
 ^statblock
@@ -80,3 +95,7 @@ title: Steel Predator
 ## Environment
 
 urban
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 232_

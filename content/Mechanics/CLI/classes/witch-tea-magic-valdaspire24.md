@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tea Magic
-created: 2026-03-09T12:15:33.855-04:00
-modified: 2026-03-09T12:15:33.855-04:00
-published: 2026-03-09T12:15:33.855-04:00
+created: 2026-03-29T21:53:55.645-04:00
+modified: 2026-03-29T21:53:55.645-04:00
+published: 2026-03-29T21:53:55.645-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/witch/tea
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Tea Magic
 
-_[Witch](./witch-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Witch](./witch-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -63,36 +62,40 @@ When you reach a Witch level specified in the Tea Spells table, you thereafter a
 
 | Witch Level | Spells |
 |-------------|--------|
-| 3 | [Augury](Mechanics/CLI/spells/augury-xphb.md), [Calm Emotions](Mechanics/CLI/spells/calm-emotions-xphb.md), [Guidance](Mechanics/CLI/spells/guidance-xphb.md), [Hideous Laughter](Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [Sanctuary](Mechanics/CLI/spells/sanctuary-xphb.md) |
-| 5 | [Clairvoyance](Mechanics/CLI/spells/clairvoyance-xphb.md), [Sending](Mechanics/CLI/spells/sending-xphb.md) |
-| 7 | [Divination](Mechanics/CLI/spells/divination-xphb.md), [Private Sanctum](Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md) |
-| 9 | [Legend Lore](Mechanics/CLI/spells/legend-lore-xphb.md), [Scrying](Mechanics/CLI/spells/scrying-xphb.md) |
+| 3 | [Augury](/Mechanics/CLI/spells/augury-xphb.md), [Calm Emotions](/Mechanics/CLI/spells/calm-emotions-xphb.md), [Guidance](/Mechanics/CLI/spells/guidance-xphb.md), [Hideous Laughter](/Mechanics/CLI/spells/tashas-hideous-laughter-xphb.md), [Sanctuary](/Mechanics/CLI/spells/sanctuary-xphb.md) |
+| 5 | [Clairvoyance](/Mechanics/CLI/spells/clairvoyance-xphb.md), [Sending](/Mechanics/CLI/spells/sending-xphb.md) |
+| 7 | [Divination](/Mechanics/CLI/spells/divination-xphb.md), [Private Sanctum](/Mechanics/CLI/spells/mordenkainens-private-sanctum-xphb.md) |
+| 9 | [Legend Lore](/Mechanics/CLI/spells/legend-lore-xphb.md), [Scrying](/Mechanics/CLI/spells/scrying-xphb.md) |
 ^tea-spells
 
 ### Tasseography (Level 3)
 
-You see glimpses of the future in tea leaves. As a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), roll a `d20` and record the number rolled. This is a fortelling roll. Before the start of your next turn, you can replace one [D20 Test](Mechanics/CLI/rules/variant-rules/d20-test-xphb.md) made by you or a creature you can see within 60 feet with this roll. You must choose to do so before the roll.
+You see glimpses of the future in tea leaves. As a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), roll a `d20` and record the number rolled. This is a fortelling roll. Before the start of your next turn, you can replace one [D20 Test](/Mechanics/CLI/variant-rules/d20-test-xphb.md) made by you or a creature you can see within 60 feet with this roll. You must choose to do so before the roll.
 
-You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Tea Ceremony (Level 3)
 
-You can magically conjure enough tea for you and up to six [Allies](Mechanics/CLI/rules/variant-rules/ally-xphb.md) whenever you take a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md). The [Exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion) level, if any, of a creature that drinks this tea decreases by 1.
+You can magically conjure enough tea for you and up to six [Allies](/Mechanics/CLI/variant-rules/ally-xphb.md) whenever you take a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md). The [Exhaustion](/Mechanics/CLI/conditions.md#Exhaustion) level, if any, of a creature that drinks this tea decreases by 1.
 
 ### Shapes and Omens (Level 6)
 
-You can see deeper glimpses into the future through your tea leaves. When you finish a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md), you can examine the shape of your tea leaves. The GM tells you a shape that hints at future events. For example, if you see a tower in your tea leaves, you might encounter a wizard on the following day. If you see a serpent, you might encounter a lair or a monster. When you encounter an event hinted at by your tea leaves, you gain [Heroic Inspiration](Mechanics/CLI/rules/variant-rules/heroic-inspiration-xphb.md).
+You can see deeper glimpses into the future through your tea leaves. When you finish a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md), you can examine the shape of your tea leaves. The GM tells you a shape that hints at future events. For example, if you see a tower in your tea leaves, you might encounter a wizard on the following day. If you see a serpent, you might encounter a lair or a monster. When you encounter an event hinted at by your tea leaves, you gain [Heroic Inspiration](/Mechanics/CLI/variant-rules/heroic-inspiration-xphb.md).
 
 ### Herbal Remedy (Level 10)
 
-When a creature drinks your tea as a part of your Tea Ceremony, it can gain one of the following benefits of its choice. Once it gains a benefit from this feature, it can't do so again until it finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+When a creature drinks your tea as a part of your Tea Ceremony, it can gain one of the following benefits of its choice. Once it gains a benefit from this feature, it can't do so again until it finishes a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Invigoration.** The creature gains [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Witch level.
+**Invigoration.** The creature gains [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Witch level.
 
-**Purification.** The creature has [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to Poison damage and also has [Advantage](Mechanics/CLI/rules/variant-rules/advantage-xphb.md) on saving throws it makes to avoid or end the [Poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) condition on itself. This benefit lasts until the creature finishes a [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Purification.** The creature has [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to Poison damage and also has [Advantage](/Mechanics/CLI/variant-rules/advantage-xphb.md) on saving throws it makes to avoid or end the [Poisoned](/Mechanics/CLI/conditions.md#Poisoned) condition on itself. This benefit lasts until the creature finishes a [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
-**Restoration.** The creature gains the benefits of either the [Lesser Restoration](Mechanics/CLI/spells/lesser-restoration-xphb.md) or the [Greater Restoration](Mechanics/CLI/spells/greater-restoration-xphb.md) spell.
+**Restoration.** The creature gains the benefits of either the [Lesser Restoration](/Mechanics/CLI/spells/lesser-restoration-xphb.md) or the [Greater Restoration](/Mechanics/CLI/spells/greater-restoration-xphb.md) spell.
 
 ### As Foretold (Level 14)
 
-You regain all expended uses of your Tasseography feature when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md).
+You regain all expended uses of your Tasseography feature when you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md).
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

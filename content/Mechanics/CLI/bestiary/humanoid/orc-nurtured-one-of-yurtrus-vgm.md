@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Orc Nurtured One of Yurtrus
-created: 2026-03-09T12:15:33.992-04:00
-modified: 2026-03-09T12:15:33.992-04:00
-published: 2026-03-09T12:15:33.992-04:00
+created: 2026-03-29T21:53:56.000-04:00
+modified: 2026-03-29T21:53:56.000-04:00
+published: 2026-03-29T21:53:56.000-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
   - ttrpg-cli/monster/cr/1-2
@@ -18,13 +18,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Orc Nurtured One of Yurtrus (VGM)
+ac: 9
+hp: 30
+modifier: -1
+hit_dice: 4d8 + 12
+cr: 1/2
+stats:
+  - 15
+  - 8
+  - 16
+  - 7
+  - 11
+  - 7
+source:
+  - VGM
 ---
 
 # Orc Nurtured One of Yurtrus
 
-_Source: Volo's Guide to Monsters p. 184_\
 ![](Mechanics/CLI/bestiary/humanoid/img/orc-nurtured-one-of-yurtrus.webp#right)
-
 When plague strikes a tribe, the hands of Yurtrus isolate the sick. The priests then minister to those who can be saved but not healed. The hands cultivate the sickness of these nurtured ones, turning them into instruments of defense and weapons of war. When orcs go to battle, a band of nurtured ones might charge in first-to give themselves up while softening up the enemy by spreading Yurtrus's vile blessing in its ranks.
 
 To the common folk of the world, an orc is an orc. They know that any one of these savages can tear an ordinary person to pieces, so no further distinction is necessary.
@@ -39,11 +54,11 @@ In addition, orcs have special relationships with two creatures that are sometim
 
 ```ad-statblock
 title: Orc Nurtured One of Yurtrus
-![](Mechanics/CLI/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/orc-nurtured-one-of-yurtrus-vgm.webp#token)
 *Medium humanoid (orc), Chaotic Evil*
 
 - **Armor Class** 9 
-- **Hit Points** 30 (`4d8 + 12`) 
+- **Hit Points** 30 (4d8 + 12) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -53,7 +68,7 @@ title: Orc Nurtured One of Yurtrus
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Languages** Common, Orc
 - **Challenge** 1/2
 
@@ -61,7 +76,7 @@ title: Orc Nurtured One of Yurtrus
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-***Corrupted Carrier.*** When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (`4d6`) poison damage and becomes [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). On a success, the creature takes half as much damage and isn't [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned). A creature [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) by this effect, a creature can't regain hit points.
+***Corrupted Carrier.*** When the orc is reduced to 0 hit points, it explodes, and any creature within 10 feet of it must make a DC 13 Constitution saving throw. On a failed save, the creature takes 14 (`4d6`) poison damage and becomes [poisoned](/Mechanics/CLI/conditions.md#Poisoned). On a success, the creature takes half as much damage and isn't [poisoned](/Mechanics/CLI/conditions.md#Poisoned). A creature [poisoned](/Mechanics/CLI/conditions.md#Poisoned) by this effect can repeat the save at the end of each of its turn, ending the effect on itself on a success. While [poisoned](/Mechanics/CLI/conditions.md#Poisoned) by this effect, a creature can't regain hit points.
 
 ***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.
 
@@ -77,3 +92,7 @@ title: Orc Nurtured One of Yurtrus
 ## Environment
 
 underdark, mountain, grassland, forest, hill
+
+## Sources
+
+_Volo's Guide to Monsters p. 184_

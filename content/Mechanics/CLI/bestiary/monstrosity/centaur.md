@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Centaur
-created: 2026-03-09T12:15:33.870-04:00
-modified: 2026-03-09T12:15:33.870-04:00
-published: 2026-03-09T12:15:33.870-04:00
+created: 2026-03-29T21:53:55.662-04:00
+modified: 2026-03-29T21:53:55.662-04:00
+published: 2026-03-29T21:53:55.662-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Centaur
+ac: 12
+hp: 45
+modifier: 2
+hit_dice: 6d10 + 12
+cr: "2"
+stats:
+  - 18
+  - 14
+  - 14
+  - 9
+  - 13
+  - 11
+source:
+  - MM
 ---
 
 # Centaur
 
-_Source: Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/monstrosity/img/centaur.webp#right)
-
 Reclusive wanderers and omen-readers of the wild, centaurs avoid conflict but fight fiercely when pressed. They roam the vast wilderness, keeping far from borders, laws, and the company of other creatures.
 
 ## Wilderness Nomads
@@ -44,11 +59,11 @@ Despite their reclusive nature, centaurs trade with elves and with the caravans 
 
 ```ad-statblock
 title: Centaur
-![](Mechanics/CLI/bestiary/monstrosity/token/centaur.webp#token)
+![](/Mechanics/CLI/bestiary/monstrosity/token/centaur.webp#token)
 *Large monstrosity, Neutral Good*
 
 - **Armor Class** 12 
-- **Hit Points** 45 (`6d10 + 12`) 
+- **Hit Points** 45 (6d10 + 12) 
 - **Speed** 50 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -57,9 +72,8 @@ title: Centaur
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Athletics](Mechanics/CLI/rules/skills.md#Athletics) +6, [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Survival](Mechanics/CLI/rules/skills.md#Survival) +3
+- **Skills** [Athletics](/Mechanics/CLI/skills.md#Athletics) +6, [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Survival](/Mechanics/CLI/skills.md#Survival) +3
 - **Senses** passive Perception 13
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [pike](Mechanics/CLI/items/pike-xphb.md)
 - **Languages** Elvish, Sylvan
 - **Challenge** 2
 
@@ -83,3 +97,7 @@ title: Centaur
 ## Environment
 
 grassland, forest
+
+## Sources
+
+_Monster Manual p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

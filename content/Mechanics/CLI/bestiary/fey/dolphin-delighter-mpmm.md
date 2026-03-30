@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dolphin Delighter
-created: 2026-03-09T12:15:33.989-04:00
-modified: 2026-03-09T12:15:33.989-04:00
-published: 2026-03-09T12:15:33.989-04:00
+created: 2026-03-29T21:53:55.996-04:00
+modified: 2026-03-29T21:53:55.996-04:00
+published: 2026-03-29T21:53:55.996-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/3
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dolphin Delighter (MPMM)
+ac: 14
+hp: 27
+modifier: 1
+hit_dice: 5d8 + 5
+cr: "3"
+stats:
+  - 14
+  - 13
+  - 13
+  - 11
+  - 12
+  - 16
+source:
+  - MPMM
 ---
 
 # Dolphin Delighter
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 97_\
 ![](Mechanics/CLI/bestiary/fey/img/dolphin-delighter.webp#right)
-
 In the Feywild, dolphin delighters brighten the moods of those who travel the seas of the Domains of Delight. Telepathically singing sea chanteys, these dolphins leap and teleport through the luminous waters of Faerie and the Material Plane, and they are faithful allies to any who battle the forces of gloom and brutality under the waves.
 
 Dolphin delighters often accompany groups of sea elves, tritons, and tortles as guardians and friends.
@@ -34,11 +49,11 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 
 ```ad-statblock
 title: Dolphin Delighter
-![](Mechanics/CLI/bestiary/fey/token/dolphin-delighter-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/fey/token/dolphin-delighter-mpmm.webp#token)
 *Medium fey, Typically  Chaotic Good*
 
 - **Armor Class** 14 (natural armor)
-- **Hit Points** 27 (`5d8 + 5`) 
+- **Hit Points** 27 (5d8 + 5) 
 - **Speed** 0 ft., swim 60 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -47,8 +62,8 @@ title: Dolphin Delighter
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +3, Charisma +5
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +3, [Performance](Mechanics/CLI/rules/skills.md#Performance) +5
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., passive Perception 13
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +3, [Performance](/Mechanics/CLI/skills.md#Performance) +5
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., passive Perception 13
 - **Languages** Aquan, telepathy 120 ft.
 - **Challenge** 3
 
@@ -60,7 +75,7 @@ title: Dolphin Delighter
 
 ***Multiattack.*** The dolphin makes two Dazzling Slam attacks.
 
-***Dazzling Slam.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage plus 7 (`2d6`) psychic damage, and the target is [blinded](Mechanics/CLI/rules/conditions.md#Blinded) until the start of the dolphin's next turn.
+***Dazzling Slam.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 5 (`1d6 + 2`) bludgeoning damage plus 7 (`2d6`) psychic damage, and the target is [blinded](/Mechanics/CLI/conditions.md#Blinded) until the start of the dolphin's next turn.
 
 ## Bonus Actions
 
@@ -74,3 +89,7 @@ title: Dolphin Delighter
 ## Environment
 
 coastal, underwater
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 97_

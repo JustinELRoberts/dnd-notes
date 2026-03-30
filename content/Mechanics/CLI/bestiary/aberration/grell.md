@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Grell
-created: 2026-03-09T12:15:34.045-04:00
-modified: 2026-03-09T12:15:34.045-04:00
-published: 2026-03-09T12:15:34.045-04:00
+created: 2026-03-29T21:53:56.056-04:00
+modified: 2026-03-29T21:53:56.056-04:00
+published: 2026-03-29T21:53:56.056-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/3
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Grell
+ac: 12
+hp: 55
+modifier: 2
+hit_dice: 10d8 + 10
+cr: "3"
+stats:
+  - 15
+  - 14
+  - 13
+  - 12
+  - 11
+  - 9
+source:
+  - MM
 ---
 
 # Grell
 
-_Source: Monster Manual p. 172_\
 ![](Mechanics/CLI/bestiary/aberration/img/grell.webp#right)
-
 A grell resembles a bulbous floating brain with a wide, sharp beak. Its ten long tentacles are made of hundreds of ring-shaped muscles sheathed in tough fibrous hide. Sharp barbs line the tip each tentacle and inject paralytic venom. The grell can partially retract its barbs into its tentacles to handle or manipulate objects it doesn't want to pierce or tear.
 
 Grells have no eyes and floats by means of a sort of levitation. They have keen hearing, however, and their skin is sensitive to vibrations and electrical fields, allowing them to detect the presence of creatures and objects in their immediate vicinity. The creature's ability to manipulate electricity to sense and move also allow it to absorb lightning without harm.
@@ -29,7 +44,7 @@ Although solitary by nature, grells sometimes gather in small groups called cove
 
 ## Floating Ambushers
 
-A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed) creature in its clutches.
+A grell prefers to ambush lone creatures or stragglers, hovering silently near the ceiling of a passage or cavern until a suitable target passes below, whereupon it descends quickly and wraps its tentacles around its prey. It then floats away to its lair with the [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed) creature in its clutches.
 
 ## Alien Devourers
 
@@ -45,11 +60,11 @@ A grell will sometimes allow adventurers to wage war on the other monstrous inha
 
 ```ad-statblock
 title: Grell
-![](Mechanics/CLI/bestiary/aberration/token/grell.webp#token)
+![](/Mechanics/CLI/bestiary/aberration/token/grell.webp#token)
 *Medium aberration, Neutral Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 55 (`10d8 + 10`) 
+- **Hit Points** 55 (10d8 + 10) 
 - **Speed** 10 ft., fly 30 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,10 +73,10 @@ title: Grell
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft. (blind beyond this radius), passive Perception 14
 - **Damage Immunities** lightning
-- **Condition Immunities** [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [prone](Mechanics/CLI/rules/conditions.md#Prone)
+- **Condition Immunities** [blinded](/Mechanics/CLI/conditions.md#Blinded), [prone](/Mechanics/CLI/conditions.md#Prone)
 - **Languages** Grell
 - **Challenge** 3
 
@@ -69,9 +84,9 @@ title: Grell
 
 ***Multiattack.*** The grell makes two attacks: one with its tentacles and one with its beak.
 
-***Tentacles.*** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) for 1 minute. The [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned) target is [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), and it can repeat the saving throw at the end of each of its turns, ending the effect on a success.
+***Tentacles.*** *Melee Weapon Attack:* `+4` to hit, reach 10 ft., one creature. *Hit:* 7 (`1d10 + 2`) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or be [poisoned](/Mechanics/CLI/conditions.md#Poisoned) for 1 minute. The [poisoned](/Mechanics/CLI/conditions.md#Poisoned) target is [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), and it can repeat the saving throw at the end of each of its turns, ending the effect on a success.
 
-The target is also [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escape DC 15). If the target is Medium or smaller, it is also [restrained](Mechanics/CLI/rules/conditions.md#Restrained) until this grapple ends. While grappling the target, the grell has advantage on attack rolls against it and can't use this attack against other targets. When the grell moves, any Medium or smaller target it is grappling moves with it.
+The target is also [grappled](/Mechanics/CLI/conditions.md#Grappled) (escape DC 15). If the target is Medium or smaller, it is also [restrained](/Mechanics/CLI/conditions.md#Restrained) until this grapple ends. While grappling the target, the grell has advantage on attack rolls against it and can't use this attack against other targets. When the grell moves, any Medium or smaller target it is grappling moves with it.
 
 ***Beak.*** *Melee Weapon Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 7 (`2d4 + 2`) piercing damage.
 ```
@@ -81,3 +96,7 @@ The target is also [grappled](Mechanics/CLI/rules/conditions.md#Grappled) (escap
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 172_

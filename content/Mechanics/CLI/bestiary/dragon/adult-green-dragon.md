@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Green Dragon
-created: 2026-03-09T12:15:34.021-04:00
-modified: 2026-03-09T12:15:34.021-04:00
-published: 2026-03-09T12:15:34.021-04:00
+created: 2026-03-29T21:53:56.031-04:00
+modified: 2026-03-29T21:53:56.031-04:00
+published: 2026-03-29T21:53:56.031-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/15
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Adult Green Dragon
+ac: 19
+hp: 207
+modifier: 1
+hit_dice: 18d12 + 90
+cr: "15"
+stats:
+  - 23
+  - 12
+  - 21
+  - 18
+  - 15
+  - 17
+source:
+  - MM
 ---
 
 # Adult Green Dragon
 
-_Source: Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/green-dragon.webp#right)
-
 The most cunning and treacherous of true dragons, green dragons use misdirection and trickery to get the upper hand against their enemies. Nasty tempered and thoroughly evil, they take special pleasure in subverting and corrupting the good-hearted. In the ancient forests they roam, green dragons demonstrate an aggression that is often less about territory than it is about gaining power and wealth with as little effort as possible.
 
 A green dragon is recognized by its curved jawline and the crest that begins near its eyes and continues down its spine, reaching full height just behind the skull. A green dragon has no external ears, but bears leathery spiked plates that run down the sides of its neck.
@@ -115,11 +130,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: Adult Green Dragon
-![](Mechanics/CLI/bestiary/dragon/token/adult-green-dragon.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/adult-green-dragon.webp#token)
 *Huge dragon, Lawful Evil*
 
 - **Armor Class** 19 (natural armor)
-- **Hit Points** 207 (`18d12 + 90`) 
+- **Hit Points** 207 (18d12 + 90) 
 - **Speed** 40 ft., fly 80 ft., swim 40 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -128,10 +143,10 @@ title: Adult Green Dragon
 
 - **Proficiency Bonus** +5
 - **Saving Throws** Dexterity +6, Constitution +10, Wisdom +7, Charisma +8
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +8, [Insight](Mechanics/CLI/rules/skills.md#Insight) +7, [Perception](Mechanics/CLI/rules/skills.md#Perception) +12, [Persuasion](Mechanics/CLI/rules/skills.md#Persuasion) +8, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +6
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 60 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 22
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +8, [Insight](/Mechanics/CLI/skills.md#Insight) +7, [Perception](/Mechanics/CLI/skills.md#Perception) +12, [Persuasion](/Mechanics/CLI/skills.md#Persuasion) +8, [Stealth](/Mechanics/CLI/skills.md#Stealth) +6
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 60 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 22
 - **Damage Immunities** poison
-- **Condition Immunities** [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
+- **Condition Immunities** [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** Common, Draconic
 - **Challenge** 15
 
@@ -151,7 +166,7 @@ title: Adult Green Dragon
 
 ***Tail.*** *Melee Weapon Attack:* `+11` to hit, reach 15 ft., one target. *Hit:* 15 (`2d8 + 6`) bludgeoning damage.
 
-***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to the dragon's Frightful Presence for the next 24 hours.
 
 ***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 60-foot cone. Each creature in that area must make a DC 18 Constitution saving throw, taking 56 (`16d6`) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -159,24 +174,24 @@ title: Adult Green Dragon
 
 Legendary Action Uses: 3. Immediately after another creature's turn, the dragon can expend a use to take one of the following actions. The dragon regains all expended uses at the start of each of its turns.
 
-***Detect.*** The dragon makes a Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) check.
+***Detect.*** The dragon makes a Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) check.
 
 ***Tail Attack.*** The dragon makes a tail attack.
 
-***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (`2d6 + 6`) bludgeoning damage and be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone). The dragon can then fly up to half its flying speed.
+***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (`2d6 + 6`) bludgeoning damage and be knocked [prone](/Mechanics/CLI/conditions.md#Prone). The dragon can then fly up to half its flying speed.
 
 ## Lair Actions
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 
-- Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the dragon can see within 120 feet of it. That area becomes difficult terrain, and each creature there must succeed on a DC 15 Strength saving throw or be [restrained](Mechanics/CLI/rules/conditions.md#Restrained) by the roots and vines. A creature can be freed if it or another creature takes an action to make a DC 15 Strength check and succeeds. The roots and vines wilt away when the dragon uses this lair action again or when the dragon dies.  
+- Grasping roots and vines erupt in a 20-foot radius centered on a point on the ground that the dragon can see within 120 feet of it. That area becomes difficult terrain, and each creature there must succeed on a DC 15 Strength saving throw or be [restrained](/Mechanics/CLI/conditions.md#Restrained) by the roots and vines. A creature can be freed if it or another creature takes an action to make a DC 15 Strength check and succeeds. The roots and vines wilt away when the dragon uses this lair action again or when the dragon dies.  
 - A wall of tangled brush bristling with thorns springs into existence on a solid surface within 120 feet of the dragon. The wall is up to 60 feet long, 10 feet high, and 5 feet thick, and it blocks line of sight. When the wall appears, each creature in its area must make a DC 15 Dexterity saving throw. A creature that fails the save takes 18 (`4d8`) piercing damage and is pushed 5 feet out of the wall's space, appearing on whichever side of the wall it wants. A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature travels through the wall, it must spend 4 feet of movement. Furthermore, a creature in the wall's space must make a DC 15 Dexterity saving throw once each round it's in contact with the wall, taking 18 (`4d8`) piercing damage on a failed save, or half as much damage on a successful one. Each 10-foot section of wall has AC 5, 15 hit points, vulnerability to fire damage, resistance to bludgeoning and piercing damage, and immunity to psychic damage. The wall sinks back into the ground when the dragon uses this lair action again or when the dragon dies.  
-- Magical fog billows around one creature the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Wisdom saving throw or be [charmed](Mechanics/CLI/rules/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
+- Magical fog billows around one creature the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Wisdom saving throw or be [charmed](/Mechanics/CLI/conditions.md#Charmed) by the dragon until initiative count 20 on the next round.  
 
-**Additional Lair Actions.** At your discretion, a legendary ([adult](Mechanics/CLI/bestiary/dragon/adult-green-dragon.md) or [ancient](Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md)) green dragon can use one or both of the following additional lair actions while in its lair:
+**Additional Lair Actions.** At your discretion, a legendary ([adult](/Mechanics/CLI/bestiary/dragon/adult-green-dragon.md) or [ancient](/Mechanics/CLI/bestiary/dragon/ancient-green-dragon.md)) green dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [zombies](Mechanics/CLI/bestiary/undead/zombie-xmm.md). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
-- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](Mechanics/CLI/rules/conditions.md#Prone).  
+- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [zombies](/Mechanics/CLI/bestiary/undead/zombie-xmm.md). The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
+- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [prone](/Mechanics/CLI/conditions.md#Prone).  
 
 ## Regional Effects
 
@@ -201,3 +216,7 @@ If the dragon dies, the rodents and birds lose their supernatural link to it. Th
 ## Environment
 
 forest
+
+## Sources
+
+_Monster Manual p. 94. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

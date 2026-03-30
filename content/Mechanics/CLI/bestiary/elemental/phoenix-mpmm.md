@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Phoenix
-created: 2026-03-09T12:15:34.137-04:00
-modified: 2026-03-09T12:15:34.137-04:00
-published: 2026-03-09T12:15:34.137-04:00
+created: 2026-03-29T21:53:56.188-04:00
+modified: 2026-03-29T21:53:56.188-04:00
+published: 2026-03-29T21:53:56.188-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/16
@@ -15,11 +15,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Phoenix (MPMM)
+ac: 18
+hp: 175
+modifier: 8
+hit_dice: 10d20 + 70
+cr: "16"
+stats:
+  - 19
+  - 26
+  - 25
+  - 2
+  - 21
+  - 18
+source:
+  - MPMM
 ---
 
 # Phoenix
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 206_\
 ![](Mechanics/CLI/bestiary/elemental/img/phoenix.webp#right)
 
 > [!quote] A quote from Mordenkainen
@@ -30,11 +46,11 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 
 ```ad-statblock
 title: Phoenix
-![](Mechanics/CLI/bestiary/elemental/token/phoenix-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/elemental/token/phoenix-mpmm.webp#token)
 *Gargantuan elemental, Typically  Neutral*
 
 - **Armor Class** 18 
-- **Hit Points** 175 (`10d20 + 70`) 
+- **Hit Points** 175 (10d20 + 70) 
 - **Speed** 20 ft., fly 120 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,10 +60,10 @@ title: Phoenix
 - **Proficiency Bonus** +5
 - **Saving Throws** Wisdom +10, Charisma +9
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 15
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 15
 - **Damage Resistances** bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** fire, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [stunned](Mechanics/CLI/rules/conditions.md#Stunned)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [stunned](/Mechanics/CLI/conditions.md#Stunned)
 - **Languages** —
 - **Challenge** 16
 
@@ -63,7 +79,7 @@ Any creature that touches the phoenix or hits it with a melee attack while withi
 
 With a touch, the phoenix can also ignite flammable objects that aren't worn or carried (no action required).
 
-***Flyby.*** The phoenix doesn't provoke [opportunity attacks](Mechanics/CLI/rules/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
+***Flyby.*** The phoenix doesn't provoke [opportunity attacks](/Mechanics/CLI/actions.md#Opportunity%20Attack) when it flies out of an enemy's reach.
 
 ***Illumination.*** The phoenix sheds bright light in a 60-foot radius and dim light for an additional 30 feet.
 
@@ -95,3 +111,7 @@ Legendary Action Uses: 3. Immediately after another creature's turn, the phoenix
 ## Environment
 
 desert, mountain
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 206_

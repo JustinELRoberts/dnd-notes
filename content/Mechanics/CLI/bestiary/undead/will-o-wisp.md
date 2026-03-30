@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Will-o'-Wisp
-created: 2026-03-09T12:15:33.975-04:00
-modified: 2026-03-09T12:15:33.975-04:00
-published: 2026-03-09T12:15:33.975-04:00
+created: 2026-03-29T21:53:55.976-04:00
+modified: 2026-03-29T21:53:55.976-04:00
+published: 2026-03-29T21:53:55.976-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -16,13 +16,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Will-o'-Wisp
+ac: 19
+hp: 22
+modifier: 9
+hit_dice: 9d4
+cr: "2"
+stats:
+  - 1
+  - 28
+  - 10
+  - 13
+  - 14
+  - 11
+source:
+  - MM
 ---
 
 # Will-o'-Wisp
 
-_Source: Monster Manual p. 301. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/undead/img/will-o-wisp.webp#right)
-
 Will-o'-wisps are malevolent, wispy balls of light that haunt lonely places and battlefields, bound by dark fate or dark magic to feed on fear and despair.
 
 ## Hope and Doom
@@ -47,11 +62,11 @@ A will-o'-wisp doesn't require air, drink, or sleep.
 
 ```ad-statblock
 title: Will-o'-Wisp
-![](Mechanics/CLI/bestiary/undead/token/will-o-wisp.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/will-o-wisp.webp#token)
 *Tiny undead, Chaotic Evil*
 
 - **Armor Class** 19 
-- **Hit Points** 22 (`9d4`) 
+- **Hit Points** 22 (9d4) 
 - **Speed** 0 ft., fly 50 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,10 +76,10 @@ title: Will-o'-Wisp
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 12
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 12
 - **Damage Resistances** acid; cold; fire; necrotic; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** lightning, poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** the languages it knew in life
 - **Challenge** 2
 
@@ -82,7 +97,7 @@ title: Will-o'-Wisp
 
 ***Shock.*** *Melee Spell Attack:* `+4` to hit, reach 5 ft., one creature. *Hit:* 9 (`2d8`) lightning damage.
 
-***Invisibility.*** The will-o'-wisp and its light magically become [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until it attacks or uses its Consume Life, or until its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) ends (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell).
+***Invisibility.*** The will-o'-wisp and its light magically become [invisible](/Mechanics/CLI/conditions.md#Invisible) until it attacks or uses its Consume Life, or until its [concentration](/Mechanics/CLI/conditions.md#Concentration) ends (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell).
 ```
 
 ^statblock
@@ -90,3 +105,7 @@ title: Will-o'-Wisp
 ## Environment
 
 forest, swamp, urban
+
+## Sources
+
+_Monster Manual p. 301. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

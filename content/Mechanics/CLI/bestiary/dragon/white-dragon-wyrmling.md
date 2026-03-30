@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - White Dragon Wyrmling
-created: 2026-03-09T12:15:33.905-04:00
-modified: 2026-03-09T12:15:33.905-04:00
-published: 2026-03-09T12:15:33.905-04:00
+created: 2026-03-29T21:53:55.904-04:00
+modified: 2026-03-29T21:53:55.904-04:00
+published: 2026-03-29T21:53:55.904-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2
@@ -13,13 +13,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: White Dragon Wyrmling
+ac: 16
+hp: 32
+modifier: 0
+hit_dice: 5d8 + 10
+cr: "2"
+stats:
+  - 14
+  - 10
+  - 14
+  - 5
+  - 10
+  - 11
+source:
+  - MM
 ---
 
 # White Dragon Wyrmling
 
-_Source: Monster Manual p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/dragon/img/white-dragon.webp#right)
-
 The smallest, least intelligent, and most animalistic of the chromatic dragons, white dragons dwell in frigid climes, favoring arctic areas or icy mountains. They are vicious, cruel reptiles driven by hunger and greed.
 
 A white dragon has feral eyes, a sleek profile, and a spined crest. The scales of a wyrmling white dragon glisten pure white. As the dragon ages, its sheen disappears and some of its scales begin to darken, so that by the time it is old, it is mottled by patches of pale blue and light gray. This patterning helps the dragon blend into the realms of ice and stone in which it hunts, and to fade from view when it soars across a cloud-filled sky.
@@ -106,11 +121,11 @@ True dragons pass through four distinct stages of life, from lowly wyrmlings to 
 
 ```ad-statblock
 title: White Dragon Wyrmling
-![](Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling.webp#token)
+![](/Mechanics/CLI/bestiary/dragon/token/white-dragon-wyrmling.webp#token)
 *Medium dragon, Chaotic Evil*
 
 - **Armor Class** 16 (natural armor)
-- **Hit Points** 32 (`5d8 + 10`) 
+- **Hit Points** 32 (5d8 + 10) 
 - **Speed** 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -119,8 +134,8 @@ title: White Dragon Wyrmling
 
 - **Proficiency Bonus** +2
 - **Saving Throws** Dexterity +2, Constitution +4, Wisdom +2, Charisma +2
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4, [Stealth](Mechanics/CLI/rules/skills.md#Stealth) +2
-- **Senses** [blindsight](Mechanics/CLI/rules/senses.md#Blindsight) 10 ft., [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4, [Stealth](/Mechanics/CLI/skills.md#Stealth) +2
+- **Senses** [blindsight](/Mechanics/CLI/senses.md#Blindsight) 10 ft., [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Immunities** cold
 - **Languages** Draconic
 - **Challenge** 2
@@ -133,3 +148,7 @@ title: White Dragon Wyrmling
 ```
 
 ^statblock
+
+## Sources
+
+_Monster Manual p. 102. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

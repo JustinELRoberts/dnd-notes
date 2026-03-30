@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bracers of Defense
-created: 2026-03-09T12:15:33.886-04:00
-modified: 2026-03-09T12:15:33.886-04:00
-published: 2026-03-09T12:15:33.886-04:00
+created: 2026-03-29T21:53:55.883-04:00
+modified: 2026-03-29T21:53:55.883-04:00
+published: 2026-03-29T21:53:55.883-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required
@@ -20,6 +20,11 @@ obsidianUIMode: preview
 _Wondrous item, major, rare (requires attunement)_\
 ![](Mechanics/CLI/items/img/bracers-of-defense.webp#right)
 
-While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no [shield](Mechanics/CLI/items/shield-xphb.md).
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-_Source: Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+While wearing these bracers, you gain a +2 bonus to AC if you are wearing no armor and using no [shield](/Mechanics/CLI/items/shield.md).
+
+## Sources
+
+_Dungeon Master's Guide p. 156. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

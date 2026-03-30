@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dancing Item
-created: 2026-03-09T12:15:33.906-04:00
-modified: 2026-03-09T12:15:33.906-04:00
-published: 2026-03-09T12:15:33.906-04:00
+created: 2026-03-29T21:53:55.905-04:00
+modified: 2026-03-29T21:53:55.905-04:00
+published: 2026-03-29T21:53:55.905-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/monster/cr/
@@ -13,15 +13,27 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Dancing Item (TCE)
+ac: 16
+modifier: 2
+stats:
+  - 18
+  - 14
+  - 16
+  - 4
+  - 10
+  - 6
+source:
+  - TCE
 ---
 
 # Dancing Item
 
-_Source: Tasha's Cauldron of Everything p. 29_
-
 ```ad-statblock
 title: Dancing Item
-![](Mechanics/CLI/bestiary/construct/token/dancing-item-tce.webp#token)
+![](/Mechanics/CLI/bestiary/construct/token/dancing-item-tce.webp#token)
 *Large construct, Unaligned*
 
 - **Armor Class** 16 (natural armor)
@@ -35,9 +47,9 @@ title: Dancing Item
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Immunities** poison, psychic
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [frightened](Mechanics/CLI/rules/conditions.md#Frightened)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [frightened](/Mechanics/CLI/conditions.md#Frightened)
 - **Languages** understands the languages you speak
 - **Challenge** 
 
@@ -45,7 +57,7 @@ title: Dancing Item
 
 ***Immutable Form.*** The item is immune to any spell or effect that would alter its form.
 
-***Irrepressible Dance.*** When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+***Irrepressible Dance.*** When any creature starts its turn within 10 feet of the item, the item can increase or decrease (your choice) the walking speed of that creature by 10 feet until the end of the turn, provided the item isn't [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
 
 ## Actions
 
@@ -53,3 +65,7 @@ title: Dancing Item
 ```
 
 ^statblock
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 29_

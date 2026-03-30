@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Circle of Spores
-created: 2026-03-09T12:15:33.867-04:00
-modified: 2026-03-09T12:15:33.867-04:00
-published: 2026-03-09T12:15:33.867-04:00
+created: 2026-03-29T21:53:55.659-04:00
+modified: 2026-03-29T21:53:55.659-04:00
+published: 2026-03-29T21:53:55.659-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/subclass/druid/spores
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # Circle of Spores
 
-_[Druid](./druid-xphb.md): Druid Subclass_\
-_Source: Tasha's Cauldron of Everything p. 36_
+_[Druid](./druid-xphb.md): Druid Subclass_
 
 > [!tldr] Class and Feature Progression
 >
@@ -62,7 +61,7 @@ Druids of this circle have a complex relationship with the undead. Unlike most o
 
 ### Circle Spells (Level 2)
 
-Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the [chill touch](Mechanics/CLI/spells/chill-touch-xphb.md) cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.
+Your symbiotic link to fungus and your ability to tap into the cycle of life and death grants you access to certain spells. At 2nd level, you learn the [chill touch](/Mechanics/CLI/spells/chill-touch-xphb.md) cantrip. At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Circle of Spores Spells table.
 
 Once you gain access to one of these spells, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
@@ -70,10 +69,10 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 | Druid Level | Circle Spells |
 |-------------|---------------|
-| 3rd | [blindness/deafness](Mechanics/CLI/spells/blindness-deafness-xphb.md), [gentle repose](Mechanics/CLI/spells/gentle-repose-xphb.md) |
-| 5th | [animate dead](Mechanics/CLI/spells/animate-dead-xphb.md), [gaseous form](Mechanics/CLI/spells/gaseous-form-xphb.md) |
-| 7th | [blight](Mechanics/CLI/spells/blight-xphb.md), [confusion](Mechanics/CLI/spells/confusion-xphb.md) |
-| 9th | [cloudkill](Mechanics/CLI/spells/cloudkill-xphb.md), [contagion](Mechanics/CLI/spells/contagion-xphb.md) |
+| 3rd | [blindness/deafness](/Mechanics/CLI/spells/blindness-deafness-xphb.md), [gentle repose](/Mechanics/CLI/spells/gentle-repose-xphb.md) |
+| 5th | [animate dead](/Mechanics/CLI/spells/animate-dead-xphb.md), [gaseous form](/Mechanics/CLI/spells/gaseous-form-xphb.md) |
+| 7th | [blight](/Mechanics/CLI/spells/blight-xphb.md), [confusion](/Mechanics/CLI/spells/confusion-xphb.md) |
+| 9th | [cloudkill](/Mechanics/CLI/spells/cloudkill-xphb.md), [contagion](/Mechanics/CLI/spells/contagion-xphb.md) |
 ^circle-of-spores-spells
 
 ### Halo of Spores (Level 2)
@@ -91,9 +90,9 @@ These benefits last for 10 minutes, until you lose all these temporary hit point
 
 ### Fungal Infestation (Level 6)
 
-At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [zombie](Mechanics/CLI/bestiary/undead/zombie-xmm.md) stat block in the "Monster Manual". It remains animate for 1 hour, after which time it collapses and dies.
+At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the [zombie](/Mechanics/CLI/bestiary/undead/zombie-xmm.md) stat block in the "Monster Manual". It remains animate for 1 hour, after which time it collapses and dies.
 
-In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the [Attack](Mechanics/CLI/rules/actions.md#Attack) action, making one melee attack.
+In combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the [Attack](/Mechanics/CLI/actions.md#Attack) action, making one melee attack.
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest.
 
@@ -107,4 +106,8 @@ While the cube of spores persists, you can't use your Halo of Spores reaction.
 
 ### Fungal Body (Level 14)
 
-At 14th level, the fungal spores in your body alter you: you can't be [blinded](Mechanics/CLI/rules/conditions.md#Blinded), [deafened](Mechanics/CLI/rules/conditions.md#Deafened), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), or [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), and any critical hit against you counts as a normal hit instead, unless you're [incapacitated](Mechanics/CLI/rules/conditions.md#Incapacitated).
+At 14th level, the fungal spores in your body alter you: you can't be [blinded](/Mechanics/CLI/conditions.md#Blinded), [deafened](/Mechanics/CLI/conditions.md#Deafened), [frightened](/Mechanics/CLI/conditions.md#Frightened), or [poisoned](/Mechanics/CLI/conditions.md#Poisoned), and any critical hit against you counts as a normal hit instead, unless you're [incapacitated](/Mechanics/CLI/conditions.md#Incapacitated).
+
+## Sources
+
+_Tasha's Cauldron of Everything p. 36_

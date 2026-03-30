@@ -2,12 +2,13 @@
 publish: true
 aliases:
   - Mislead
-created: 2026-03-09T12:15:33.918-04:00
-modified: 2026-03-09T12:15:33.919-04:00
-published: 2026-03-09T12:15:33.919-04:00
+created: 2026-03-29T21:53:55.923-04:00
+modified: 2026-03-29T21:53:55.923-04:00
+published: 2026-03-29T21:53:55.923-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard
+  - ttrpg-cli/spell/class/bard/magical-secrets
   - ttrpg-cli/spell/class/warlock
   - ttrpg-cli/spell/class/wizard
   - ttrpg-cli/spell/feat/mark-of-shadow
@@ -21,15 +22,6 @@ tags:
 cssclasses:
   - json5e-spell
 obsidianUIMode: preview
-classes:
-  - Bard
-  - Cleric (Twilight Domain)
-  - Martyr (Burden of Discord)
-  - Necromancer (Reaper)
-  - Ranger (Fey Wanderer)
-  - Warlock
-  - Wizard
-  - Wizard (Illusionist)
 ---
 
 # Mislead
@@ -41,12 +33,27 @@ _5th-level, Illusion_
 - **Components:** S
 - **Duration:** Concentration, up to 1 hour
 
-You gain the [Invisible](Mechanics/CLI/rules/conditions.md#Invisible) condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
+You gain the [Invisible](/Mechanics/CLI/conditions.md#Invisible) condition at the same time that an illusory double of you appears where you are standing. The double lasts for the duration, but the invisibility ends immediately after you make an attack roll, deal damage, or cast a spell.
 
-As a [Magic](Mechanics/CLI/rules/actions.md#Magic) action, you can move the illusory double up to twice your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
+As a [Magic](/Mechanics/CLI/actions.md#Magic) action, you can move the illusory double up to twice your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) and make it gesture, speak, and behave in whatever way you choose. It is intangible and invulnerable.
 
 You can see through its eyes and hear through its ears as if you were located where it is.
 
-**Classes**: [Bard](Mechanics/CLI/lists/list-spells-classes-bard.md); [Cleric (Twilight Domain)](Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB"); [Martyr (Burden of Discord)](Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Necromancer (Reaper)](Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24"); [Ranger (Fey Wanderer)](Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB"); [Warlock](Mechanics/CLI/lists/list-spells-classes-warlock.md); [Wizard (Illusionist)](Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB"); [Wizard](Mechanics/CLI/lists/list-spells-classes-wizard.md)
+**References**:
 
-_Source: Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+- [Wizard](/Mechanics/CLI/lists/list-spells-classes-wizard.md)
+- [Warlock](/Mechanics/CLI/lists/list-spells-classes-warlock.md)
+- [Necromancer (Reaper)](/Mechanics/CLI/lists/list-spells-classes-reaper-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Cleric (Twilight Domain)](/Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE")
+- [Ranger (Fey Wanderer)](/Mechanics/CLI/lists/list-spells-classes-fey-wanderer-tce.md "subclass=TCE")
+- [Cleric (Twilight Domain)](/Mechanics/CLI/lists/list-spells-classes-twilight-domain-tce.md "subclass=TCE;class=XPHB")
+- [Bard](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+- [Ranger (Fey Wanderer)](/Mechanics/CLI/lists/list-spells-classes-fey-wanderer-xphb.md "subclass=XPHB;class=XPHB")
+- [Martyr (Burden of Discord)](/Mechanics/CLI/lists/list-spells-classes-burden-of-discord-valdaspire24.md "subclass=ValdaSpire24;class=ValdaSpire24")
+- [Mark of Shadow](/Mechanics/CLI/lists/list-spells-feats-mark-of-shadow-efa.md)
+- [Wizard (Illusionist)](/Mechanics/CLI/lists/list-spells-classes-illusionist-xphb.md "subclass=XPHB;class=XPHB")
+- [Bard (Magical Secrets)](/Mechanics/CLI/lists/list-spells-classes-bard.md)
+
+## Sources
+
+_Player's Handbook (2024) p. 299. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

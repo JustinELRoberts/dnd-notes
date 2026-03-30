@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Duergar
-created: 2026-03-09T12:15:33.904-04:00
-modified: 2026-03-09T12:15:33.904-04:00
-published: 2026-03-09T12:15:33.904-04:00
+created: 2026-03-29T21:53:55.903-04:00
+modified: 2026-03-29T21:53:55.903-04:00
+published: 2026-03-29T21:53:55.903-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -14,13 +14,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Duergar
+ac: 16
+hp: 26
+modifier: 0
+hit_dice: 4d8 + 4
+cr: "1"
+stats:
+  - 14
+  - 11
+  - 14
+  - 11
+  - 10
+  - 9
+source:
+  - MM
 ---
 
 # Duergar
 
-_Source: Monster Manual p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_\
 ![](Mechanics/CLI/bestiary/humanoid/img/duergar.webp#right)
-
 The tyrannical duergar, also known as gray dwarves, dwell in fantastic cities deep in the Underdark. Using ancient dwarven knowledge and myriad slaves, they work tirelessly to expand their subterranean kingdoms.
 
 Most duergar (including females) are bald and have ashen gray skin. They wear drab clothing designed to blend in with stone, along with simple jewelry that reflects their severe and utilitarian demeanor.
@@ -37,7 +52,7 @@ Like dwarves, duergar have strong constitutions. Adding to their physical stamin
 
 ## Born of Darkness
 
-The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](Mechanics/CLI/rules/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](Mechanics/CLI/rules/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
+The Underdark is saturated with strange magical power, which the duergar absorbed over generations of imprisonment. A duergar can increase its size and strength for a short time, becoming a powerful ogre-sized warrior. If it faces a foe it can't fight, or when spying on creatures approaching its territory, it can just as easily become [invisible](/Mechanics/CLI/conditions.md#Invisible) to slip away into the darkness. Eons spent in the Underdark also sharpened their [darkvision](/Mechanics/CLI/senses.md#Darkvision), allowing them to see twice as far as other dwarves. This keen eyesight comes at a cost, however, as a duergar's vision is compromised by sunlight.
 
 ## Infernal Master
 
@@ -47,11 +62,11 @@ Asmodeus, Lord of the Nine Hells, has been known to impersonate duergar gods in 
 
 ```ad-statblock
 title: Duergar
-![](Mechanics/CLI/bestiary/humanoid/token/duergar.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/duergar.webp#token)
 *Medium humanoid (dwarf), Lawful Evil*
 
-- **Armor Class** 16 ([scale mail](Mechanics/CLI/items/scale-mail-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 26 (`4d8 + 4`) 
+- **Armor Class** 16 ([scale mail](/Mechanics/CLI/items/scale-mail.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 26 (4d8 + 4) 
 - **Speed** 25 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -61,17 +76,16 @@ title: Duergar
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 120 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 120 ft., passive Perception 10
 - **Damage Resistances** poison
-- **Gear** [javelin](Mechanics/CLI/items/javelin-xphb.md), [war pick](Mechanics/CLI/items/war-pick-xphb.md)
 - **Languages** Dwarvish, Undercommon
 - **Challenge** 1
 
 ## Traits
 
-***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed).
+***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being [charmed](/Mechanics/CLI/conditions.md#Charmed) or [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed).
 
-***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -81,7 +95,7 @@ title: Duergar
 
 ***Javelin.*** *Melee  or Ranged Weapon Attack:* `+4` to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (`1d6 + 2`) piercing damage, or 9 (`2d6 + 2`) piercing damage while enlarged.
 
-***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](Mechanics/CLI/rules/conditions.md#Invisible) until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](Mechanics/CLI/rules/conditions.md#Concentration) is broken, up to 1 hour (as if [concentrating](Mechanics/CLI/rules/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](Mechanics/CLI/rules/conditions.md#Invisible) with it.
+***Invisibility (Recharges after a Short or Long Rest).*** The duergar magically turns [invisible](/Mechanics/CLI/conditions.md#Invisible) until it attacks, casts a spell, or uses its Enlarge, or until its [concentration](/Mechanics/CLI/conditions.md#Concentration) is broken, up to 1 hour (as if [concentrating](/Mechanics/CLI/conditions.md#Concentration) on a spell). Any equipment the duergar wears or carries is [invisible](/Mechanics/CLI/conditions.md#Invisible) with it.
 ```
 
 ^statblock
@@ -89,3 +103,7 @@ title: Duergar
 ## Environment
 
 underdark
+
+## Sources
+
+_Monster Manual p. 122. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

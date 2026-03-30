@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sword Wraith Commander
-created: 2026-03-09T12:15:33.927-04:00
-modified: 2026-03-09T12:15:33.927-04:00
-published: 2026-03-09T12:15:33.927-04:00
+created: 2026-03-29T21:53:55.930-04:00
+modified: 2026-03-29T21:53:55.930-04:00
+published: 2026-03-29T21:53:55.930-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/8
@@ -15,11 +15,26 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Sword Wraith Commander (MPMM)
+ac: 18
+hp: 127
+modifier: 2
+hit_dice: 15d8 + 60
+cr: "8"
+stats:
+  - 18
+  - 14
+  - 18
+  - 11
+  - 12
+  - 14
+source:
+  - MPMM
 ---
 
 # Sword Wraith Commander
-
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 239_
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
 
@@ -31,11 +46,11 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 
 ```ad-statblock
 title: Sword Wraith Commander
-![](Mechanics/CLI/bestiary/undead/token/sword-wraith-commander-mpmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/sword-wraith-commander-mpmm.webp#token)
 *Medium undead, Typically  Lawful Evil*
 
-- **Armor Class** 18 ([breastplate](Mechanics/CLI/items/breastplate-xphb.md), [shield](Mechanics/CLI/items/shield-xphb.md))
-- **Hit Points** 127 (`15d8 + 60`) 
+- **Armor Class** 18 ([breastplate](/Mechanics/CLI/items/breastplate.md), [shield](/Mechanics/CLI/items/shield.md))
+- **Hit Points** 127 (15d8 + 60) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -44,12 +59,11 @@ title: Sword Wraith Commander
 
 - **Proficiency Bonus** +3
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 14
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 14
 - **Damage Resistances** necrotic; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [unconscious](Mechanics/CLI/rules/conditions.md#Unconscious)
-- **Gear** [longbow](Mechanics/CLI/items/longbow-xphb.md), [longsword](Mechanics/CLI/items/longsword-xphb.md)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [unconscious](/Mechanics/CLI/conditions.md#Unconscious)
 - **Languages** the languages it knew in life
 - **Challenge** 8
 
@@ -67,7 +81,7 @@ title: Sword Wraith Commander
 
 ***Longbow.*** *Ranged Weapon Attack:* `+5` to hit, range 150/600 ft., one target. *Hit:* 6 (`1d8 + 2`) piercing damage.
 
-***Call to Honor (1/Day).*** If the commander has taken damage during this combat, it gives itself advantage on attack rolls until the end of its next turn, and `1d4 + 1` [sword wraith warriors](Mechanics/CLI/bestiary/undead/sword-wraith-warrior-mpmm.md) appear in unoccupied spaces within 30 feet of it. The warriors last until they drop to 0 hit points, and they take their turns immediately after the commander's turn on the same initiative count.
+***Call to Honor (1/Day).*** If the commander has taken damage during this combat, it gives itself advantage on attack rolls until the end of its next turn, and `1d4 + 1` [sword wraith warriors](/Mechanics/CLI/bestiary/undead/sword-wraith-warrior-mpmm.md) appear in unoccupied spaces within 30 feet of it. The warriors last until they drop to 0 hit points, and they take their turns immediately after the commander's turn on the same initiative count.
 
 ## Bonus Actions
 
@@ -79,3 +93,7 @@ title: Sword Wraith Commander
 ## Environment
 
 grassland, swamp
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 239_

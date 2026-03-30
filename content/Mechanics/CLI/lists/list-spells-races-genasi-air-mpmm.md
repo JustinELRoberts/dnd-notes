@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Genasi (Air)
-created: 2026-03-09T12:15:34.425-04:00
-modified: 2026-03-09T12:15:34.425-04:00
-published: 2026-03-09T12:15:34.425-04:00
+created: 2026-03-29T21:53:56.517-04:00
+modified: 2026-03-29T21:53:56.517-04:00
+published: 2026-03-29T21:53:56.517-04:00
 tags:
   - ttrpg-cli/spell/list/subrace/genasi-air
 cssclasses:
@@ -16,12 +16,12 @@ obsidianUIMode: preview
 
 ## Cantrip
 
-- [Shocking Grasp](Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") at class level 3
+- [Shocking Grasp](/Mechanics/CLI/spells/shocking-grasp-xphb.md "XPHB") at class level 3
 
 ## 1st Level
 
-- [Feather Fall](Mechanics/CLI/spells/feather-fall-xphb.md "XPHB") at class level 3
+- [Feather Fall](/Mechanics/CLI/spells/feather-fall-xphb.md "XPHB") at class level 3
 
 ## 2nd Level
 
-- [Levitate](Mechanics/CLI/spells/levitate-xphb.md "XPHB") at class level 3
+- [Levitate](/Mechanics/CLI/spells/levitate-xphb.md "XPHB") at class level 3

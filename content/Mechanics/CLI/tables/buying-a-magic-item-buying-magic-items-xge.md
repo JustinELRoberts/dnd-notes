@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Buying a Magic Item; Buying Magic Items
-created: 2026-03-09T12:15:34.396-04:00
-modified: 2026-03-09T12:15:34.396-04:00
-published: 2026-03-09T12:15:34.396-04:00
+created: 2026-03-29T21:53:56.494-04:00
+modified: 2026-03-29T21:53:56.494-04:00
+published: 2026-03-29T21:53:56.494-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:
@@ -20,13 +20,13 @@ _Source: Xanathar's Guide to Everything p. 126_
 
 | Check Total | Items Acquired |
 |-------------|----------------|
-| 1—5 | Roll `1d6` times on [Magic Item Table A](Mechanics/CLI/tables/magic-item-table-a.md). |
-| 6—10 | Roll `1d4` times on [Magic Item Table B](Mechanics/CLI/tables/magic-item-table-b.md). |
-| 11—15 | Roll `1d4` times on [Magic Item Table C](Mechanics/CLI/tables/magic-item-table-c.md). |
-| 16—20 | Roll `1d4` times on [Magic Item Table D](Mechanics/CLI/tables/magic-item-table-d.md). |
-| 21—25 | Roll `1d4` times on [Magic Item Table E](Mechanics/CLI/tables/magic-item-table-e.md). |
-| 26—30 | Roll `1d4` times on [Magic Item Table F](Mechanics/CLI/tables/magic-item-table-f.md). |
-| 31—35 | Roll `1d4` times on [Magic Item Table G](Mechanics/CLI/tables/magic-item-table-g.md). |
-| 36—40 | Roll `1d4` times on [Magic Item Table H](Mechanics/CLI/tables/magic-item-table-h.md). |
-| 41+ | Roll `1d4` times on [Magic Item Table I](Mechanics/CLI/tables/magic-item-table-i.md). |
+| 1—5 | Roll `1d6` times on [Magic Item Table A](/Mechanics/CLI/tables/magic-item-table-a.md). |
+| 6—10 | Roll `1d4` times on [Magic Item Table B](/Mechanics/CLI/tables/magic-item-table-b.md). |
+| 11—15 | Roll `1d4` times on [Magic Item Table C](/Mechanics/CLI/tables/magic-item-table-c.md). |
+| 16—20 | Roll `1d4` times on [Magic Item Table D](/Mechanics/CLI/tables/magic-item-table-d.md). |
+| 21—25 | Roll `1d4` times on [Magic Item Table E](/Mechanics/CLI/tables/magic-item-table-e.md). |
+| 26—30 | Roll `1d4` times on [Magic Item Table F](/Mechanics/CLI/tables/magic-item-table-f.md). |
+| 31—35 | Roll `1d4` times on [Magic Item Table G](/Mechanics/CLI/tables/magic-item-table-g.md). |
+| 36—40 | Roll `1d4` times on [Magic Item Table H](/Mechanics/CLI/tables/magic-item-table-h.md). |
+| 41+ | Roll `1d4` times on [Magic Item Table I](/Mechanics/CLI/tables/magic-item-table-i.md). |
 ^buying-magic-items

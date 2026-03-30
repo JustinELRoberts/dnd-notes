@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bottled Ooze (Black Pudding)
-created: 2026-03-09T12:15:34.097-04:00
-modified: 2026-03-09T12:15:34.097-04:00
-published: 2026-03-09T12:15:34.097-04:00
+created: 2026-03-29T21:53:56.128-04:00
+modified: 2026-03-29T21:53:56.128-04:00
+published: 2026-03-29T21:53:56.128-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/item/rarity/uncommon
@@ -17,6 +17,11 @@ obsidianUIMode: preview
 
 _Wondrous item, uncommon_
 
-As [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md), you can throw this bottle up to 60 feet, shattering it on impact and releasing a Black Pudding. This ooze is friendly to you and your allies, and will otherwise attack the nearest creature it can detect. If there is no creature to attack, the ooze will follow you. The ooze dissolves into a lifeless sludge after 1 hour or when you release another Bottled Ooze.
+- **Cost**: ⏤
+- **Weight**: ⏤
 
-_Source: Valda's Spire of Secrets (2024)_
+As [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md), you can throw this bottle up to 60 feet, shattering it on impact and releasing a Black Pudding. This ooze is friendly to you and your allies, and will otherwise attack the nearest creature it can detect. If there is no creature to attack, the ooze will follow you. The ooze dissolves into a lifeless sludge after 1 hour or when you release another Bottled Ooze.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

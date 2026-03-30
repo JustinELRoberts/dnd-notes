@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Artisan's Tools
-created: 2026-03-09T12:15:33.923-04:00
-modified: 2026-03-09T12:15:33.923-04:00
-published: 2026-03-09T12:15:33.923-04:00
+created: 2026-03-29T21:53:55.927-04:00
+modified: 2026-03-29T21:53:55.927-04:00
+published: 2026-03-29T21:53:55.927-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/artisans-tools
@@ -18,24 +18,29 @@ obsidianUIMode: preview
 
 _Artisan's tools_
 
+- **Cost**: ⏤
+- **Weight**: ⏤
+
 **Items in this group:**
 
-- [Alchemist's Supplies](Mechanics/CLI/items/alchemists-supplies-xphb.md)
-- [Brewer's Supplies](Mechanics/CLI/items/brewers-supplies-xphb.md)
-- [Calligrapher's Supplies](Mechanics/CLI/items/calligraphers-supplies-xphb.md)
-- [Carpenter's Tools](Mechanics/CLI/items/carpenters-tools-xphb.md)
-- [Cartographer's Tools](Mechanics/CLI/items/cartographers-tools-xphb.md)
-- [Cobbler's Tools](Mechanics/CLI/items/cobblers-tools-xphb.md)
-- [Cook's Utensils](Mechanics/CLI/items/cooks-utensils-xphb.md)
-- [Glassblower's Tools](Mechanics/CLI/items/glassblowers-tools-xphb.md)
-- [Jeweler's Tools](Mechanics/CLI/items/jewelers-tools-xphb.md)
-- [Leatherworker's Tools](Mechanics/CLI/items/leatherworkers-tools-xphb.md)
-- [Mason's Tools](Mechanics/CLI/items/masons-tools-xphb.md)
-- [Painter's Supplies](Mechanics/CLI/items/painters-supplies-xphb.md)
-- [Potter's Tools](Mechanics/CLI/items/potters-tools-xphb.md)
-- [Smith's Tools](Mechanics/CLI/items/smiths-tools-xphb.md)
-- [Tinker's Tools](Mechanics/CLI/items/tinkers-tools-xphb.md)
-- [Weaver's Tools](Mechanics/CLI/items/weavers-tools-xphb.md)
-- [Woodcarver's Tools](Mechanics/CLI/items/woodcarvers-tools-xphb.md)
+- [Alchemist's Supplies](/Mechanics/CLI/items/alchemists-supplies-xphb.md)
+- [Brewer's Supplies](/Mechanics/CLI/items/brewers-supplies-xphb.md)
+- [Calligrapher's Supplies](/Mechanics/CLI/items/calligraphers-supplies-xphb.md)
+- [Carpenter's Tools](/Mechanics/CLI/items/carpenters-tools-xphb.md)
+- [Cartographer's Tools](/Mechanics/CLI/items/cartographers-tools-xphb.md)
+- [Cobbler's Tools](/Mechanics/CLI/items/cobblers-tools-xphb.md)
+- [Cook's Utensils](/Mechanics/CLI/items/cooks-utensils-xphb.md)
+- [Glassblower's Tools](/Mechanics/CLI/items/glassblowers-tools-xphb.md)
+- [Jeweler's Tools](/Mechanics/CLI/items/jewelers-tools-xphb.md)
+- [Leatherworker's Tools](/Mechanics/CLI/items/leatherworkers-tools-xphb.md)
+- [Mason's Tools](/Mechanics/CLI/items/masons-tools-xphb.md)
+- [Painter's Supplies](/Mechanics/CLI/items/painters-supplies-xphb.md)
+- [Potter's Tools](/Mechanics/CLI/items/potters-tools-xphb.md)
+- [Smith's Tools](/Mechanics/CLI/items/smiths-tools-xphb.md)
+- [Tinker's Tools](/Mechanics/CLI/items/tinkers-tools-xphb.md)
+- [Weaver's Tools](/Mechanics/CLI/items/weavers-tools-xphb.md)
+- [Woodcarver's Tools](/Mechanics/CLI/items/woodcarvers-tools-xphb.md)
 
-_Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+## Sources
+
+_Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_

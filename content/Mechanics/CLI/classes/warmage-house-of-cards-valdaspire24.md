@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Cards
-created: 2026-03-09T12:15:33.850-04:00
-modified: 2026-03-09T12:15:33.850-04:00
-published: 2026-03-09T12:15:33.850-04:00
+created: 2026-03-29T21:53:55.639-04:00
+modified: 2026-03-29T21:53:55.639-04:00
+published: 2026-03-29T21:53:55.639-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warmage/cards
@@ -15,8 +15,7 @@ obsidianUIMode: preview
 
 # House of Cards
 
-_[Warmage](./warmage-valdaspire24.md): Subclass Feature_\
-_Source: Valda's Spire of Secrets (2024)_
+_[Warmage](./warmage-valdaspire24.md): Subclass Feature_
 
 > [!tldr] Class and Feature Progression
 >
@@ -57,13 +56,13 @@ Warmages who join the House of Cards approach combat the same way they do games 
 
 ### Bluff (Level 3)
 
-Your poker face carries you through practically any lie. You gain proficiency in the [Deception](Mechanics/CLI/rules/skills.md#Deception) skill and with the Gaming Kit ([Playing Cards](Mechanics/CLI/items/playing-cards-xphb.md)), if you don't already have it. Additionally, you gain a bonus to Charisma ([Deception](Mechanics/CLI/rules/skills.md#Deception)) checks equal to your Intelligence modifier (minimum bonus of +1).
+Your poker face carries you through practically any lie. You gain proficiency in the [Deception](/Mechanics/CLI/skills.md#Deception) skill and with the Gaming Kit ([Playing Cards](/Mechanics/CLI/items/playing-cards-xphb.md)), if you don't already have it. Additionally, you gain a bonus to Charisma ([Deception](/Mechanics/CLI/skills.md#Deception)) checks equal to your Intelligence modifier (minimum bonus of +1).
 
 ### Deck of Fate (Level 3)
 
-You gain a deck of magical playing or tarot cards, called a Deck of Fate, through which you can enhance the power of your cantrips. Shuffle a standard 52-card playing card deck and draw a hand of five cards when you roll [Initiative](Mechanics/CLI/rules/variant-rules/initiative-xphb.md).
+You gain a deck of magical playing or tarot cards, called a Deck of Fate, through which you can enhance the power of your cantrips. Shuffle a standard 52-card playing card deck and draw a hand of five cards when you roll [Initiative](/Mechanics/CLI/variant-rules/initiative-xphb.md).
 
-Whenever you target an enemy with a Warmage spell that deals damage, you can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to play one or more cards from your hand to enhance the power of the spell. If the cards exactly match one of the results on the Hands table, the spell deals extra damage to one of its targets of your choice or grants you one additional effect, according to the result. If the cards don't match a result, they have no effect. Aces count as ones for results. Once you play a card, place it on the bottom of your deck and draw until you have five cards in your hand again.
+Whenever you target an enemy with a Warmage spell that deals damage, you can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to play one or more cards from your hand to enhance the power of the spell. If the cards exactly match one of the results on the Hands table, the spell deals extra damage to one of its targets of your choice or grants you one additional effect, according to the result. If the cards don't match a result, they have no effect. Aces count as ones for results. Once you play a card, place it on the bottom of your deck and draw until you have five cards in your hand again.
 
 **Hands**
 
@@ -73,30 +72,34 @@ Whenever you target an enemy with a Warmage spell that deals damage, you can tak
 | Flush | Any five cards of the same suit, regardless of order. | You deal an extra 10 damage. |
 | Three of a Kind | Any three of the same rank. | You deal an extra 6 damage. |
 | Pair | Any two of the same rank. | You deal an extra 2 damage. |
-| Hearts | Any two hearts. | You gain [Temporary Hit Points](Mechanics/CLI/rules/variant-rules/temporary-hit-points-xphb.md) equal to your Intelligence modifier. |
-| Spades | Any two spades. | Your [Speed](Mechanics/CLI/rules/variant-rules/speed-xphb.md) increases by 10 feet until the start of your next turn. |
+| Hearts | Any two hearts. | You gain [Temporary Hit Points](/Mechanics/CLI/variant-rules/temporary-hit-points-xphb.md) equal to your Intelligence modifier. |
+| Spades | Any two spades. | Your [Speed](/Mechanics/CLI/variant-rules/speed-xphb.md) increases by 10 feet until the start of your next turn. |
 | Diamonds | Any two diamonds. | You gain a +1 bonus to your AC until the start of your next turn. |
 | Clubs | Any two clubs. | You gain a +1 bonus to saving throws until the start of your next turn. |
 ^hands
 
 ### High Stakes (Level 7)
 
-On your turn, you can choose any number of cards from your hand and place them on the bottom of your [Deck of Fate](Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20\(Level%203\)) (no action required), losing 2 [Hit Points](Mechanics/CLI/rules/variant-rules/hit-points-xphb.md) per card you choose. You then draw until you have five cards in your hand again.
+On your turn, you can choose any number of cards from your hand and place them on the bottom of your [Deck of Fate](/Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20\(Level%203\)) (no action required), losing 2 [Hit Points](/Mechanics/CLI/variant-rules/hit-points-xphb.md) per card you choose. You then draw until you have five cards in your hand again.
 
 ### Dealer's Choice (Level 10)
 
-You can take a [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) to gain one of the following effects, chosen by the GM.
+You can take a [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) to gain one of the following effects, chosen by the GM.
 
-**Resistance.** You gain [Resistance](Mechanics/CLI/rules/variant-rules/resistance-xphb.md) to all damage until the end of your next turn.
+**Resistance.** You gain [Resistance](/Mechanics/CLI/variant-rules/resistance-xphb.md) to all damage until the end of your next turn.
 
 **Teleportation.** You teleport to an unoccupied space you can see within 60 feet of you.
 
-**Demiplane.** You vanish into a safe, endless demiplane. At the start of your next turn, you reappear in the space you left or in the nearest unoccupied space if that space is occupied. Once you use this feature, you can't use it again until you finish a [Short](Mechanics/CLI/rules/variant-rules/short-rest-xphb.md) or [Long Rest](Mechanics/CLI/rules/variant-rules/long-rest-xphb.md).
+**Demiplane.** You vanish into a safe, endless demiplane. At the start of your next turn, you reappear in the space you left or in the nearest unoccupied space if that space is occupied. Once you use this feature, you can't use it again until you finish a [Short](/Mechanics/CLI/variant-rules/short-rest-xphb.md) or [Long Rest](/Mechanics/CLI/variant-rules/long-rest-xphb.md).
 
 ### Card Reading (Level 15)
 
-Once on each of your turns when you draw a card from your deck as part of your [Deck of Fate](Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20\(Level%203\)) feature, you can declare a suit (Clubs, Diamonds, Hearts, or Spades) and check the top card of your deck. If you guessed the suit correctly, you can take the [Dash](Mechanics/CLI/rules/actions.md#Dash), [Disengage](Mechanics/CLI/rules/actions.md#Disengage), or Use an [Object](Mechanics/CLI/rules/variant-rules/object-xphb.md) action as part of the [Bonus Action](Mechanics/CLI/rules/variant-rules/bonus-action-xphb.md) used for the feature.
+Once on each of your turns when you draw a card from your deck as part of your [Deck of Fate](/Mechanics/CLI/classes/warmage-house-of-cards-valdaspire24.md#Deck%20of%20Fate%20\(Level%203\)) feature, you can declare a suit (Clubs, Diamonds, Hearts, or Spades) and check the top card of your deck. If you guessed the suit correctly, you can take the [Dash](/Mechanics/CLI/actions.md#Dash), [Disengage](/Mechanics/CLI/actions.md#Disengage), or Use an [Object](/Mechanics/CLI/variant-rules/object-xphb.md) action as part of the [Bonus Action](/Mechanics/CLI/variant-rules/bonus-action-xphb.md) used for the feature.
 
 ### Ace in the Hole (Level 18)
 
 Whenever you would draw one or more cards from your deck, draw twice as many. Put half of the cards drawn on the bottom of your deck and the other cards in your hand.
+
+## Sources
+
+_Valda's Spire of Secrets (2024)_

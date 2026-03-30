@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Skeleton
-created: 2026-03-09T12:15:34.134-04:00
-modified: 2026-03-09T12:15:34.134-04:00
-published: 2026-03-09T12:15:34.134-04:00
+created: 2026-03-29T21:53:56.182-04:00
+modified: 2026-03-29T21:53:56.182-04:00
+published: 2026-03-29T21:53:56.182-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/1-4
@@ -17,13 +17,29 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Skeleton (XMM)
+ac: 14
+hp: 13
+modifier: 3
+hit_dice: 2d8 + 4
+cr: 1/4
+stats:
+  - 10
+  - 16
+  - 15
+  - 6
+  - 8
+  - 5
+source:
+  - XMM
+  - XPHB
 ---
 
 # Skeleton
 
-_Source: Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_\
 ![Adventurers face an onslau...](Mechanics/CLI/bestiary/undead/img/skeletons.webp#right "Adventurers face an onslaught from all manner of skeletons")
-
 Skeletons are reanimated Humanoid bones bearing the equipment they had in life. They have rudimentary faculties and greater agility than zombies and similar shambling corpses. While they aren't capable of creating plans of their own, they avoid obvious barriers and self-destructive situations.
 
 ## Skeletons
@@ -51,11 +67,11 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 
 ```ad-statblock
 title: Skeleton
-![](Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/skeleton-xmm.webp#token)
 *Medium undead, Lawful Evil*
 
 - **Armor Class** 14 
-- **Hit Points** 13 (`2d8 + 4`) 
+- **Hit Points** 13 (2d8 + 4) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -65,11 +81,10 @@ title: Skeleton
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
 - **Skills** ⏤
-- **Senses** [Darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 9
+- **Senses** [Darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 9
 - **Damage Vulnerabilities** bludgeoning
 - **Damage Immunities** poison
-- **Condition Immunities** [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned)
-- **Gear** [shortbow](Mechanics/CLI/items/shortbow-xphb.md), [shortsword](Mechanics/CLI/items/shortsword-xphb.md)
+- **Condition Immunities** [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [poisoned](/Mechanics/CLI/conditions.md#Poisoned)
 - **Languages** understands Common plus one other language but can't speak
 - **Challenge** 1/4
 
@@ -85,3 +100,7 @@ title: Skeleton
 ## Environment
 
 planar, shadowfell, underdark, urban
+
+## Sources
+
+_Monster Manual (2024) p. 282, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_

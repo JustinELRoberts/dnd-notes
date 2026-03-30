@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dragon Scale Mail
-created: 2026-03-09T12:15:33.794-04:00
-modified: 2026-03-09T12:15:33.794-04:00
-published: 2026-03-09T12:15:33.794-04:00
+created: 2026-03-29T21:53:55.578-04:00
+modified: 2026-03-29T21:53:55.578-04:00
+published: 2026-03-29T21:53:55.578-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/medium
@@ -23,19 +23,22 @@ _Medium armor, major, very rare (requires attunement)_\
 
 - **Armor Class**: 14 + Dex modifier (max of +2)
 - **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
+- **Cost**: ⏤
 - **Weight**: 45.0 lbs.
 
 **Items in this group:**
 
-- [Black Dragon Scale Mail](Mechanics/CLI/items/black-dragon-scale-mail.md)
-- [Blue Dragon Scale Mail](Mechanics/CLI/items/blue-dragon-scale-mail.md)
-- [Brass Dragon Scale Mail](Mechanics/CLI/items/brass-dragon-scale-mail.md)
-- [Bronze Dragon Scale Mail](Mechanics/CLI/items/bronze-dragon-scale-mail.md)
-- [Copper Dragon Scale Mail](Mechanics/CLI/items/copper-dragon-scale-mail.md)
-- [Gold Dragon Scale Mail](Mechanics/CLI/items/gold-dragon-scale-mail.md)
-- [Green Dragon Scale Mail](Mechanics/CLI/items/green-dragon-scale-mail.md)
-- [Red Dragon Scale Mail](Mechanics/CLI/items/red-dragon-scale-mail.md)
-- [Silver Dragon Scale Mail](Mechanics/CLI/items/silver-dragon-scale-mail.md)
-- [White Dragon Scale Mail](Mechanics/CLI/items/white-dragon-scale-mail.md)
+- [Black Dragon Scale Mail](/Mechanics/CLI/items/black-dragon-scale-mail.md)
+- [Blue Dragon Scale Mail](/Mechanics/CLI/items/blue-dragon-scale-mail.md)
+- [Brass Dragon Scale Mail](/Mechanics/CLI/items/brass-dragon-scale-mail.md)
+- [Bronze Dragon Scale Mail](/Mechanics/CLI/items/bronze-dragon-scale-mail.md)
+- [Copper Dragon Scale Mail](/Mechanics/CLI/items/copper-dragon-scale-mail.md)
+- [Gold Dragon Scale Mail](/Mechanics/CLI/items/gold-dragon-scale-mail.md)
+- [Green Dragon Scale Mail](/Mechanics/CLI/items/green-dragon-scale-mail.md)
+- [Red Dragon Scale Mail](/Mechanics/CLI/items/red-dragon-scale-mail.md)
+- [Silver Dragon Scale Mail](/Mechanics/CLI/items/silver-dragon-scale-mail.md)
+- [White Dragon Scale Mail](/Mechanics/CLI/items/white-dragon-scale-mail.md)
 
-_Source: Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_
+## Sources
+
+_Dungeon Master's Guide p. 165. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Giant Eagle
-created: 2026-03-09T12:15:33.977-04:00
-modified: 2026-03-09T12:15:33.977-04:00
-published: 2026-03-09T12:15:33.977-04:00
+created: 2026-03-29T21:53:55.978-04:00
+modified: 2026-03-29T21:53:55.978-04:00
+published: 2026-03-29T21:53:55.978-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1
@@ -17,22 +17,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Giant Eagle
+ac: 13
+hp: 26
+modifier: 3
+hit_dice: 4d10 + 4
+cr: "1"
+stats:
+  - 16
+  - 17
+  - 13
+  - 8
+  - 14
+  - 10
+source:
+  - MM
 ---
 
 # Giant Eagle
 
-_Source: Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/beast/img/giant-eagle.webp#right)
-
 A giant eagle is a noble creature that speaks its own language and understands speech in the Common tongue. A mated pair of giant eagles typically has up to four eggs or young in their nest (treat the young as normal eagles).
 
 ```ad-statblock
 title: Giant Eagle
-![](Mechanics/CLI/bestiary/beast/token/giant-eagle.webp#token)
+![](/Mechanics/CLI/bestiary/beast/token/giant-eagle.webp#token)
 *Large beast, Neutral Good*
 
 - **Armor Class** 13 
-- **Hit Points** 26 (`4d10 + 4`) 
+- **Hit Points** 26 (4d10 + 4) 
 - **Speed** 10 ft., fly 80 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -41,14 +56,14 @@ title: Giant Eagle
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Perception](Mechanics/CLI/rules/skills.md#Perception) +4
+- **Skills** [Perception](/Mechanics/CLI/skills.md#Perception) +4
 - **Senses** passive Perception 14
 - **Languages** Giant Eagle, understands Common and Auran but can't speak them
 - **Challenge** 1
 
 ## Traits
 
-***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](Mechanics/CLI/rules/skills.md#Perception)) checks that rely on sight.
+***Keen Sight.*** The eagle has advantage on Wisdom ([Perception](/Mechanics/CLI/skills.md#Perception)) checks that rely on sight.
 
 ## Actions
 
@@ -64,3 +79,7 @@ title: Giant Eagle
 ## Environment
 
 mountain, grassland, hill, coastal
+
+## Sources
+
+_Monster Manual p. 324. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Genasi (Water)
-created: 2026-03-09T12:15:33.855-04:00
-modified: 2026-03-09T12:15:33.855-04:00
-published: 2026-03-09T12:15:33.855-04:00
+created: 2026-03-29T21:53:55.644-04:00
+modified: 2026-03-29T21:53:55.644-04:00
+published: 2026-03-29T21:53:55.644-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/race/genasi/water
@@ -15,7 +15,6 @@ obsidianUIMode: preview
 
 # Genasi (Water)
 
-_Source: Mordenkainen Presents: Monsters of the Multiverse p. 17_\
 ![](Mechanics/CLI/races/img/genasi.webp#right)
 
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
@@ -51,7 +50,7 @@ You breathe air and water.
 
 ### Call to the Wave
 
-You know the [acid splash](Mechanics/CLI/spells/acid-splash-xphb.md) cantrip. Starting at 3rd level, you can cast the [create or destroy water](Mechanics/CLI/spells/create-or-destroy-water-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](Mechanics/CLI/spells/water-walk-xphb.md) spell with this trait, without requiring a material component. Once you cast [create or destroy water](Mechanics/CLI/spells/create-or-destroy-water-xphb.md) or [water walk](Mechanics/CLI/spells/water-walk-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
+You know the [acid splash](/Mechanics/CLI/spells/acid-splash-xphb.md) cantrip. Starting at 3rd level, you can cast the [create or destroy water](/Mechanics/CLI/spells/create-or-destroy-water-xphb.md) spell with this trait. Starting at 5th level, you can also cast the [water walk](/Mechanics/CLI/spells/water-walk-xphb.md) spell with this trait, without requiring a material component. Once you cast [create or destroy water](/Mechanics/CLI/spells/create-or-destroy-water-xphb.md) or [water walk](/Mechanics/CLI/spells/water-walk-xphb.md) with this trait, you can't cast that spell with it again until you finish a long rest. You can also cast either of those spells using any spell slots you have of the appropriate level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -60,3 +59,7 @@ Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells 
 Tracing their ancestry to the genies of the Elemental Planes, each genasi can tap into the power of one of the elements. Air, earth, fire, and water—these are the four pillars of the Material Plane and the four types of genasi. Some genasi are direct descendants of a genie, while others were born to non-genasi parents who lived near a place suffused by a genie's magic.
 
 A typical genasi has a life span of 120 years.
+
+## Sources
+
+_Mordenkainen Presents: Monsters of the Multiverse p. 17_

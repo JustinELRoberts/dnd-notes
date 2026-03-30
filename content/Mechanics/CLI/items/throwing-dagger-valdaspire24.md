@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Throwing Dagger
-created: 2026-03-09T12:15:34.025-04:00
-modified: 2026-03-09T12:15:34.025-04:00
-published: 2026-03-09T12:15:34.025-04:00
+created: 2026-03-29T21:53:56.035-04:00
+modified: 2026-03-29T21:53:56.035-04:00
+published: 2026-03-29T21:53:56.035-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/item/rarity/none
@@ -21,8 +21,10 @@ _Weapon_
 
 - **Damage**: 1d4 slashing
 - **Range**: 30/120
-- **Properties**: [Finesse](Mechanics/CLI/rules/item-properties.md#Finesse), [Thrown](Mechanics/CLI/rules/item-properties.md#Thrown)
+- **Properties**: [Finesse](/Mechanics/CLI/item-properties.md#Finesse), [Thrown](/Mechanics/CLI/item-properties.md#Thrown)
 - **Cost**: 2 gp
 - **Weight**: 1.0 lbs.
 
-_Source: Valda's Spire of Secrets (2024)_
+## Sources
+
+_Valda's Spire of Secrets (2024)_

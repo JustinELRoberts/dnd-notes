@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Cultist
-created: 2026-03-09T12:15:33.884-04:00
-modified: 2026-03-09T12:15:33.884-04:00
-published: 2026-03-09T12:15:33.884-04:00
+created: 2026-03-29T21:53:55.679-04:00
+modified: 2026-03-29T21:53:55.679-04:00
+published: 2026-03-29T21:53:55.679-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-8
@@ -14,22 +14,37 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Cultist
+ac: 12
+hp: 9
+modifier: 1
+hit_dice: 2d8
+cr: 1/8
+stats:
+  - 11
+  - 12
+  - 10
+  - 10
+  - 11
+  - 10
+source:
+  - MM
 ---
 
 # Cultist
 
-_Source: Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/humanoid/img/cultist.webp#right)
-
 Cultists swear allegiance to dark powers such as elemental princes, demon lords, or archdevils. Most conceal their loyalties to avoid being ostracized, imprisoned, or executed for their beliefs. Unlike evil acolytes, cultists often show signs of insanity in their beliefs and practices.
 
 ```ad-statblock
 title: Cultist
-![](Mechanics/CLI/bestiary/humanoid/token/cultist.webp#token)
+![](/Mechanics/CLI/bestiary/humanoid/token/cultist.webp#token)
 *Medium humanoid (any race), Any Non-Good alignment*
 
-- **Armor Class** 12 ([leather armor](Mechanics/CLI/items/leather-armor-xphb.md))
-- **Hit Points** 9 (`2d8`) 
+- **Armor Class** 12 ([leather armor](/Mechanics/CLI/items/leather-armor.md))
+- **Hit Points** 9 (2d8) 
 - **Speed** 30 ft.
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -38,15 +53,14 @@ title: Cultist
 
 - **Proficiency Bonus** +2
 - **Saving Throws** ⏤
-- **Skills** [Deception](Mechanics/CLI/rules/skills.md#Deception) +2, [Religion](Mechanics/CLI/rules/skills.md#Religion) +2
+- **Skills** [Deception](/Mechanics/CLI/skills.md#Deception) +2, [Religion](/Mechanics/CLI/skills.md#Religion) +2
 - **Senses** passive Perception 10
-- **Gear** [scimitar](Mechanics/CLI/items/scimitar-xphb.md)
 - **Languages** any one language (usually Common)
 - **Challenge** 1/8
 
 ## Traits
 
-***Dark Devotion.*** The cultist has advantage on saving throws against being [charmed](Mechanics/CLI/rules/conditions.md#Charmed) or [frightened](Mechanics/CLI/rules/conditions.md#Frightened).
+***Dark Devotion.*** The cultist has advantage on saving throws against being [charmed](/Mechanics/CLI/conditions.md#Charmed) or [frightened](/Mechanics/CLI/conditions.md#Frightened).
 
 ## Actions
 
@@ -58,3 +72,7 @@ title: Cultist
 ## Environment
 
 urban
+
+## Sources
+
+_Monster Manual p. 345. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_

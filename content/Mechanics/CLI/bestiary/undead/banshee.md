@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Banshee
-created: 2026-03-09T12:15:34.129-04:00
-modified: 2026-03-09T12:15:34.129-04:00
-published: 2026-03-09T12:15:34.129-04:00
+created: 2026-03-29T21:53:56.173-04:00
+modified: 2026-03-29T21:53:56.173-04:00
+published: 2026-03-29T21:53:56.173-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4
@@ -15,13 +15,28 @@ tags:
 cssclasses:
   - json5e-monster
 obsidianUIMode: preview
+statblock: true
+statblock-link: "#^statblock"
+name: Banshee
+ac: 12
+hp: 58
+modifier: 2
+hit_dice: 13d8
+cr: "4"
+stats:
+  - 1
+  - 14
+  - 10
+  - 12
+  - 11
+  - 17
+source:
+  - MM
 ---
 
 # Banshee
 
-_Source: Monster Manual p. 23. Available in the Basic Rules (2014)_\
 ![](Mechanics/CLI/bestiary/undead/img/banshee.webp#right)
-
 When night falls, unlucky travelers hear the faint cries of the forlorn dead. This woeful spirit is a banshee, a spiteful creature formed from the spirit of a female elf. Banshees appear as luminous, wispy forms that vaguely recall their mortal features. A banshee's face is wreathed in a wild tangle of hair, its body clad in wispy rags that flutter and stream around it.
 
 ## Divine Wrath
@@ -44,11 +59,11 @@ A banshee doesn't require air, food, drink, or sleep.
 
 ```ad-statblock
 title: Banshee
-![](Mechanics/CLI/bestiary/undead/token/banshee.webp#token)
+![](/Mechanics/CLI/bestiary/undead/token/banshee.webp#token)
 *Medium undead, Chaotic Evil*
 
 - **Armor Class** 12 
-- **Hit Points** 58 (`13d8`) 
+- **Hit Points** 58 (13d8) 
 - **Speed** 0 ft., fly 40 ft. (hover)
 
 |STR|DEX|CON|INT|WIS|CHA|
@@ -58,10 +73,10 @@ title: Banshee
 - **Proficiency Bonus** +2
 - **Saving Throws** Wisdom +2, Charisma +5
 - **Skills** ⏤
-- **Senses** [darkvision](Mechanics/CLI/rules/senses.md#Darkvision) 60 ft., passive Perception 10
+- **Senses** [darkvision](/Mechanics/CLI/senses.md#Darkvision) 60 ft., passive Perception 10
 - **Damage Resistances** acid; fire; lightning; thunder; bludgeoning, piercing, slashing from nonmagical attacks
 - **Damage Immunities** cold, necrotic, poison
-- **Condition Immunities** [charmed](Mechanics/CLI/rules/conditions.md#Charmed), [exhaustion](Mechanics/CLI/rules/conditions.md#Exhaustion), [frightened](Mechanics/CLI/rules/conditions.md#Frightened), [grappled](Mechanics/CLI/rules/conditions.md#Grappled), [paralyzed](Mechanics/CLI/rules/conditions.md#Paralyzed), [petrified](Mechanics/CLI/rules/conditions.md#Petrified), [poisoned](Mechanics/CLI/rules/conditions.md#Poisoned), [prone](Mechanics/CLI/rules/conditions.md#Prone), [restrained](Mechanics/CLI/rules/conditions.md#Restrained)
+- **Condition Immunities** [charmed](/Mechanics/CLI/conditions.md#Charmed), [exhaustion](/Mechanics/CLI/conditions.md#Exhaustion), [frightened](/Mechanics/CLI/conditions.md#Frightened), [grappled](/Mechanics/CLI/conditions.md#Grappled), [paralyzed](/Mechanics/CLI/conditions.md#Paralyzed), [petrified](/Mechanics/CLI/conditions.md#Petrified), [poisoned](/Mechanics/CLI/conditions.md#Poisoned), [prone](/Mechanics/CLI/conditions.md#Prone), [restrained](/Mechanics/CLI/conditions.md#Restrained)
 - **Languages** Common, Elvish
 - **Challenge** 4
 
@@ -75,7 +90,7 @@ title: Banshee
 
 ***Corrupting Touch.*** *Melee Spell Attack:* `+4` to hit, reach 5 ft., one target. *Hit:* 12 (`3d6 + 2`) necrotic damage.
 
-***Horrifying Visage.*** Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be [frightened](Mechanics/CLI/rules/conditions.md#Frightened) for 1 minute. A [frightened](Mechanics/CLI/rules/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
+***Horrifying Visage.*** Each non-undead creature within 60 feet of the banshee that can see her must succeed on a DC 13 Wisdom saving throw or be [frightened](/Mechanics/CLI/conditions.md#Frightened) for 1 minute. A [frightened](/Mechanics/CLI/conditions.md#Frightened) target can repeat the saving throw at the end of each of its turns, with disadvantage if the banshee is within line of sight, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the banshee's Horrifying Visage for the next 24 hours.
 
 ***Wail (1/Day).*** The banshee releases a mournful wail, provided that she isn't in sunlight. This wail has no effect on constructs and undead. All other creatures within 30 feet of her that can hear her must make a DC 13 Constitution saving throw. On a failure, a creature drops to 0 hit points. On a success, a creature takes 10 (`3d6`) psychic damage.
 ```
@@ -85,3 +100,7 @@ title: Banshee
 ## Environment
 
 forest, coastal
+
+## Sources
+
+_Monster Manual p. 23. Available in the Basic Rules (2014)_
