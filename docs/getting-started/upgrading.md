@@ -23,10 +23,10 @@ If you have the [GitHub desktop app](https://desktop.github.com/), this will aut
 To update your installed plugins separately, use:
 
 ```bash
-npx quartz update
+npx quartz plugin install --latest
 ```
 
-See the [[cli/update|CLI reference for update]] and [[cli/upgrade|CLI reference for upgrade]] for more details on available flags.
+See the [[cli/upgrade|CLI reference for upgrade]] for more details on available flags.
 
 ### Cleaning Up Unused Plugins
 
