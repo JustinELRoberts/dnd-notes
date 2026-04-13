@@ -2,9 +2,10 @@
 publish: true
 aliases:
   - massive red diamond
-created: 2026-03-21T22:59:06.742-04:00
-modified: 2026-03-23T17:16:32.019-04:00
-published: 2026-03-23T17:16:32.019-04:00
+  - The Diamond of 20 Monsters
+created: 2026-03-21T20:59:06.742-06:00
+modified: 2026-04-13T15:14:54.936-06:00
+published: 2026-04-13T15:14:54.936-06:00
 tags:
 ---
 
