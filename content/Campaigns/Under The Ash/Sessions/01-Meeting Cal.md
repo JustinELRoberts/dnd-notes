@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-26T16:41:18.250-04:00
-modified: 2026-03-29T19:57:53.187-04:00
-published: 2026-03-29T19:57:53.187-04:00
+created: 2026-03-26T14:41:18.250-06:00
+modified: 2026-04-13T14:30:17.193-06:00
+published: 2026-04-13T14:30:17.193-06:00
 Party:
   - "[[Avenj]]"
   - "[[Callie Dawnsong|Cal]]"
@@ -16,7 +16,7 @@ End Day: 5
 
 ## Summary
 
-As the party traveled toward the [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/index|Vel’Therin Expanse]], they defeated a group of [[The Silent Fist|Silent Fist]] bandits trying to bully [[Callie Dawnsong|Cal]] into paying them. At a nearby tavern, they learned that the creator of the [[Scary Frankenstein Guy]] is a [[drow|Drow]] named [[Lord Grindledark]], who is reportedly traveling to the [[Caer Thalor|Kingdom of Caer Thalar]]. After [[Roz Rozum|Roz]] successfully stole an invisibility amulet from [[The Card-Jutsu|a local gambler]], the group discovered that a patron of the tavern named [[The Seer]] had abducted their guide, [[Theratina]], to sell her into slavery at the [[Arena of Vel'Therin Expanse]]. Following a three-day pursuit, the party arrived at the arena and chose to fight on [[Theratina]]'s behalf to settle her "debts". They successfully slew a weakened [[behir|Behir]], securing 4 of its teeth and 6 of its scales as trophies, and liberated [[Theratina]] before retreating back into the city.
+As the party traveled toward the [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/index|Vel’Therin Expanse]], they defeated a group of [[The Silent Fist|Silent Fist]] bandits trying to bully [[Callie Dawnsong|Cal]] into paying them. At a nearby tavern, they learned that the creator of the [[Scary Frankenstein Guy]] is a [[drow|Drow]] named [[Ned Grindledark]], who is reportedly traveling to the [[Caer Thalor|Kingdom of Caer Thalar]]. After [[Roz Rozum|Roz]] successfully stole an invisibility amulet from [[The Card-Jutsu|a local gambler]], the group discovered that a patron of the tavern named [[The Seer]] had abducted their guide, [[Theratina]], to sell her into slavery at the [[Arena of Vel'Therin Expanse]]. Following a three-day pursuit, the party arrived at the arena and chose to fight on [[Theratina]]'s behalf to settle her "debts". They successfully slew a weakened [[behir|Behir]], securing 4 of its teeth and 6 of its scales as trophies, and liberated [[Theratina]] before retreating back into the city.
 
 ## Events
 
@@ -48,7 +48,7 @@ As the party traveled toward the [[Campaigns/Under The Ash/Locations/Evermore/Th
     - When asked about it, he says a game of poker might jog his memory
     - We decide to play poker (5G buy-in)
     - We ask his name, but he says he's often referred to as [[The Card-Jutsu]]
-    - After a few games of cards (poker and war), he tells us the man was [[Lord Grindledark]] (he doesn't know his first name)
+    - After a few games of cards (poker and war), he tells us the man was [[Ned Grindledark]] (he doesn't know his first name)
       - He also claims the [[Scary Frankenstein Guy|stitched boy]] is hunting "one of the greatest monsters ever, finishing something that is yet to be finished"
       - And he was going to the [[Caer Thalor|Kingdom of Caer Thalar]]
       - During these poker games, [[Roz Rozum|Roz]] casts [[see-invisibility-xphb|See Invisibility]] and notices that [[The Card-Jutsu]] is wearing an [[Invisible Amulet|Invisible Amulet]]
@@ -82,7 +82,7 @@ As the party traveled toward the [[Campaigns/Under The Ash/Locations/Evermore/Th
     - Fortunately we can rotate sleeping in the wagon on our multi-day chase
     - She seems to not sleep
     - We chase her for 3 days
-  - Eventually she enters [[Vel Rau'dan]]
+  - Eventually she enters [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index]]
     - [[Hoots]] watches as she goes into the city
     - She goes into the arena and [[Hoots]] loses sight
 - [[Roz Rozum|Roz]] casts [[locate-object-xphb|Locate Object]] on [[Theratina]]'s [[rapier-xphb|Rapier]]

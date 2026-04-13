@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-21T16:43:28.642-04:00
-modified: 2026-03-23T17:03:49.690-04:00
-published: 2026-03-23T17:03:49.690-04:00
+created: 2026-03-21T14:43:28.642-06:00
+modified: 2026-04-13T14:51:52.235-06:00
+published: 2026-04-13T14:51:52.235-06:00
 aliases:
 tags:
 ---
@@ -13,4 +13,4 @@ A plant of beauty that existed during the reign of [[The Unknown]] which used to
 
 ## Uses
 
-- TBD
+- We learned in [[02-The Hag]] that it can be brewed into a potion which prevents anything feared

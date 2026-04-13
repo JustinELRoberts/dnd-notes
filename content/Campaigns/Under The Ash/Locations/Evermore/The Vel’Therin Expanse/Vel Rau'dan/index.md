@@ -2,10 +2,11 @@
 publish: true
 aliases:
   - Crown of Thorns
-created: 2026-03-25T20:44:54.952-04:00
-modified: 2026-03-29T20:03:17.499-04:00
-published: 2026-03-29T20:03:17.499-04:00
-LocationType:
+  - Vel Rau'dan
+created: 2026-03-25T18:44:54.952-06:00
+modified: 2026-04-13T10:28:03.387-06:00
+published: 2026-04-13T10:28:03.387-06:00
+LocationType: City
 tags:
 ---
 

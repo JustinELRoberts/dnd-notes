@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-03-26T22:16:17.450-04:00
-published: 2026-03-26T22:16:17.450-04:00
+created: 2026-03-08T18:35:46.825-06:00
+modified: 2026-04-13T15:24:14.016-06:00
+published: 2026-04-13T15:24:14.016-06:00
 Party:
   - "[[Avenj]]"
   - "[[Raelor]]"
@@ -80,7 +80,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - [[Roz Rozum|Roz]] uses [[mold-earth-xge|Mold Earth]] to bury his torso and head alive
 - In his bag is:
   - A [[notebook with a sleeping face on its cover]] on the cover
-  - 3 vials all containing different liquids:
+  - [[Three Mysterious Vials]] all containing different liquids:
     - A purple one that transformed the plant
     - A silvery one with transmutation magic
     - A green one with necromancy magic
@@ -115,7 +115,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
       - "The [[Diamond of 20 Monsters]]: This artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[GrindleDarks]]"
     - The diamond is removable still if you stick your hand in the page
   - Another page appears/renders
-    - It looks like a crooked staff with blurry text below (we probably need some crooked staff to proceed, if that is even desired)
+    - It looks like [[Crooked Staff|crooked staff]] with blurry text below (we probably need some crooked staff to proceed, if that is even desired)
 - We take the diamond out of the book and decide its best to store them separately
   - [[Theodore Shellington|Theodore]] hides the book amongst his other books in his bag
   - [[Roz Rozum|Roz]] puts the diamond in his bag
