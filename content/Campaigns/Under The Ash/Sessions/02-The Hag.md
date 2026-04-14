@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-04-12T14:23:06.948-06:00
-modified: 2026-04-13T17:16:51.394-06:00
-published: 2026-04-13T17:16:51.394-06:00
+created: 2026-04-12T16:23:06.948-04:00
+modified: 2026-04-14T17:58:11.463-04:00
+published: 2026-04-14T17:58:11.463-04:00
 Party:
   - "[[Avenj]]"
   - "[[Callie Dawnsong|Cal]]"
@@ -16,7 +16,7 @@ End Day: 6
 
 ## Summary
 
-Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious crooked staff artifact. This encounter proved pivotal when the group met [[Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[Maryln|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[Maryln]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
+Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious crooked staff artifact. This encounter proved pivotal when the group met [[Bruce|Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[Maryln|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce|Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce|Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[Maryln]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
 
 ## Events
 
@@ -44,17 +44,17 @@ Dinner for everyone: 1 gold total for 2 drinks and 1 meal each
 
 When asked why she does not speak, the party learns that her voice was stolen after gambling with a hag in [[Blackenmill]].
 
-That detail turns out to matter much more than it first seems, because later in the session the party is offered a contract to hunt this very hag by a member of [[The Hoods|The Hoods Faction]] ([[Bruce]]).
+That detail turns out to matter much more than it first seems, because later in the session the party is offered a contract to hunt this very hag by a member of [[The Hoods|The Hoods Faction]] ([[Bruce|Bruce]]).
 
 #### Cal uses Detect Thoughts on Aven Tide
 
 [[Callie Dawnsong|Cal]] asks the barkeep if she would allow for them to exchange information through the use of [[detect-thoughts-xphb|Detect Thoughts]] so she can learn how she lost her voice. When [[Callie Dawnsong|Cal]] reads deeper into [[Aven Tide]]’s memory, she takes on the viewpoint of [[Aven Tide|Aven]] and sees:
 
-She is in [[Brackenmill]] on the edge of a high ridge where at the bottom lies a rapid raging river. She finds herself walking down a dark alley down dark steps descending into a dark room, where she sees a nasty-looking silver-haired hag. Then a bargain occurs between [[Aven Tide|Aven]] and the hag (who we later find out from [[Bruce]] is [[Maryln|Maryln]])
+She is in [[Brackenmill]] on the edge of a high ridge where at the bottom lies a rapid raging river. She finds herself walking down a dark alley down dark steps descending into a dark room, where she sees a nasty-looking silver-haired hag. Then a bargain occurs between [[Aven Tide|Aven]] and the hag (who we later find out from [[Bruce|Bruce]] is [[Maryln|Maryln]])
 
 Someone important in [[Aven Tide]]’s life was sick. If she found true love in 10 days in [[Caer Thalor]], that person would be cured. If she failed, the person would still be cured but the thing used to express love (her voice) would be taken instead. Unfortunately, over the 10 days her attempts to find love are repeatedly rejected, and then on the 11th day when she wakes up, she has lost her voice
 
-As [[Callie Dawnsong|Cal]] is seeing this memory from [[Aven Tide|Aven]]’s memory, she notices [[Maryln]] held a staff in her right hand. That may be the same [[Crooked Staff|crooked staff]] hinted at earlier in the [[notebook with a sleeping face on its cover]] (this is later confirmed by [[Bruce]]).
+As [[Callie Dawnsong|Cal]] is seeing this memory from [[Aven Tide|Aven]]’s memory, she notices [[Maryln]] held a staff in her right hand. That may be the same [[Crooked Staff|crooked staff]] hinted at earlier in the [[notebook with a sleeping face on its cover]] (this is later confirmed by [[Bruce|Bruce]]).
 
 **IMPORTANT NOTE**: It is later revealed that this entire memory was actually the [[Hag]] inside [[Callie Dawnsong|Cal]]’s mind. The memory may be true or false. 
 
@@ -120,7 +120,7 @@ Before heading to bed, [[Roz Rozum|Roz]] goes outside the [[Starlight Inn]] alon
 
 That night, [[Roz Rozum|Roz]] fails a Wisdom check while falling asleep. Because he is carrying or is still affected by [[Diamond of 20 Monsters|The Diamond of 20 Monsters]], he seems to take “another notch.” 
 
-The party later learns from [[Bruce]] that no creature can hold onto one of the 12 artifacts for more than three days, or else they will die. Perhaps the “notches” are [[Roz Rozum|Roz]] using up another one of his “days” with the artifact?
+The party later learns from [[Bruce|Bruce]] that no creature can hold onto one of the 12 artifacts for more than three days, or else they will die. Perhaps the “notches” are [[Roz Rozum|Roz]] using up another one of his “days” with the artifact?
 
 ---
 
@@ -289,7 +289,7 @@ This journal provides the clearest emotional and procedural bridge yet between [
 
 ### Back at the Arena
 
-The party returns to the [[Arena of Vel'Therin Expanse]] to search for the man with [[The Hood Faction]] black cloak, from [[The Seer]]'s vial.
+The party returns to the [[Arena of Vel'Therin Expanse]] to search for the man with [[The Hoods]] black cloak from [[The Seer]]'s vial.
 
 There are three entrances, each for different purposes:
 
@@ -313,7 +313,7 @@ When [[Raelor]] asks if he knows [[Ned Grindledark|Lord Grindledark]]. He says:
 
 - He is not actually considered a lord, his name is Ned
 - He is a scrounger
-- True lords own prisons and hunt monsters ([[Grindledarks]] being known for catching the 20 Monsters
+- True lords own prisons and hunt monsters ([[The Grindledarks|Grindledarks]] being known for catching the 20 Monsters
 - Ned creates conflict
 
 When asked why he is interested in [[Theratina]], he simply says, “She’s a lizard.”
@@ -331,29 +331,29 @@ This sounds like he is testing whether they encountered a manipulated or selecti
 
 [[Raelor]] invites him into the booth.
 
-His name is [[Bruce]].
+His name is [[Bruce|Bruce]].
 
-[[Bruce]] tells [[Callie Dawnsong|Cal]], “You let her in.” (meaning the hag was able to get into [[Callie Dawnsong|Cal]]’s mind during the [[detect-thoughts-xphb|Detect Thoughts]] encounter with [[Aven Tide]]’s memory.
+[[Bruce|Bruce]] tells [[Callie Dawnsong|Cal]], “You let her in.” (meaning the hag was able to get into [[Callie Dawnsong|Cal]]’s mind during the [[detect-thoughts-xphb|Detect Thoughts]] encounter with [[Aven Tide]]’s memory.
 
-[[Bruce]] then asks, “Are the rumors true? Is the book back?”
+[[Bruce|Bruce]] then asks, “Are the rumors true? Is the book back?”
 
 He reveals, “[[Payquyne]] was my daughter. That ([[Scary Frankenstein Guy]]) is my grandson. [[Ned Grindledark|Ned Grindledark]] is my daughters husband when she was alive.”
 
 He also mentions The Harvesters in [[Mazca’Tan]], which is notable because [[Mazca’Tan]] was already marked on [[Theratina]]’s map back in [[00-First Session]] as a place she wanted to reach.
 
-[[Bruce]] says his daughter sought artifacts that could rewrite the world.
+[[Bruce|Bruce]] says his daughter sought artifacts that could rewrite the world.
 
 ---
 
 ### Bruce Examines the Book
 
-The party heads back to the park and shows [[Bruce]] the book.
+The party heads back to the park and shows [[Bruce|Bruce]] the book.
 
 He asks them to open it.
 
 When opened, the book appears far larger inside than it should be, with more pages than expected.
 
-[[Bruce]] explains that it is:
+[[Bruce|Bruce]] explains that it is:
 
 - One of the most powerful pocket portals
 - Created by the [[Three Wizards]]
@@ -361,16 +361,16 @@ When opened, the book appears far larger inside than it should be, with more pag
 
 But there are more than 12 pages. He is adamant about knowing why the book is so large. 
 
-[[Callie Dawnsong|Cal]], through recalling memories she’s heard, rumors she’s heard that the wizards had 12 artifacts. If the 12 artifacts were sealed and the wizards had 12 artifacts, there are 24 artifacts. [[Bruce]] does not seem to know this yet. 
+[[Callie Dawnsong|Cal]], through recalling rumors she’s heard, heard that the wizards had 12 artifacts. If the 12 artifacts were sealed and the wizards had 12 artifacts, there are 24 artifacts. [[Bruce|Bruce]] does not seem to know this yet. 
 
-[[Bruce]] says his daughter wanted to find all 12 because:
+[[Bruce|Bruce]] says his daughter wanted to find all 12 because:
 
 - Humans corrupt them
 - Holding one for more than 3 days can kill the bearer
 
 Her plan had been to take them away and hide them in [[the Feywild]], which [[The Unknown]] had never touched.
 
-[[Bruce]] believes the artifacts are heavily guarded.
+[[Bruce|Bruce]] believes the artifacts are heavily guarded.
 
 He says:
 
@@ -390,7 +390,7 @@ Who is the half-elf? What are the Twelve Veins
 
 ### Bruce’s Contract
 
-[[Bruce]] offers the party a job: A hit on the hag.
+[[Bruce|Bruce]] offers the party a job: A hit on the hag.
 
 Payment: 1,000 gold each
 
@@ -400,9 +400,9 @@ That condition matters because it neatly ties together:
 
 - [[Aven Tide]]'s memory of the hag holding the staff
 - The [[Crooked Staff|crooked staff]] page in the artifact book
-- [[Bruce]]’s claim that the hag has one of the artifacts
+- [[Bruce|Bruce]]’s claim that the hag has one of the artifacts
 
-[[Bruce]] says the hag is south of the [[Arena of Vel'Therin Expanse]] (toward the shore)
+[[Bruce|Bruce]] says the hag is south of the [[Arena of Vel'Therin Expanse]] (toward the shore)
 
 He warns the group:
 
@@ -417,19 +417,19 @@ He warns the group:
 
 ### Bruce and Trust
 
-[[Raelor]] asks about weaknesses and strengths, but [[Bruce]] mainly repeats his warnings.
+[[Raelor]] asks about weaknesses and strengths, but [[Bruce|Bruce]] mainly repeats his warnings.
 
-[[Roz]] tries to use [[detect-magic-xphb|Detect Magic]], but the spell is [[counterspell-xphb|Counterspell]]ed.
+[[Roz Rozum|Roz]] tries to use [[detect-magic-xphb|Detect Magic]], but the spell is [[counterspell-xphb|Counterspell]]ed.
 
-[[Bruce]] privately messages [[Roz Rozum|Roz]] and tells him never to do that again.
+[[Bruce|Bruce]] privately messages [[Roz Rozum|Roz]] and tells him never to do that again.
 
-[[Roz Rozum|Roz]] says he needs proof [[Bruce]] is not the hag.
+[[Roz Rozum|Roz]] says he needs proof [[Bruce|Bruce]] is not the hag.
 
-[[Bruce]] tosses him a silver ring and says hags cannot wear silver rings.
+[[Bruce|Bruce]] tosses him a silver ring and says hags cannot wear silver rings.
 
-[[Yharov Stonebrow|Yharov]] says [[Bruce]] needs to do more to earn trust.
+[[Yharov Stonebrow|Yharov]] says [[Bruce|Bruce]] needs to do more to earn trust.
 
-[[Bruce]] replies that he should not be trusted.
+[[Bruce|Bruce]] replies that he should not be trusted.
 
 ---
 
@@ -437,7 +437,7 @@ He warns the group:
 
 [[Yharov Stonebrow|Yharov]] asks what the cloak colors mean.
 
-[[Bruce]] explains:
+[[Bruce|Bruce]] explains:
 
 - Black = assassins
 - Blue = scouts
@@ -456,6 +456,6 @@ This pays off several clues from earlier in the session:
 
 ### End of Session Direction
 
-[[Bruce]] says the party needs to become more powerful before taking on [[Maryln]] directly.
+[[Bruce|Bruce]] says the party needs to become more powerful before taking on [[Maryln]] directly.
 
 If they need work, information, or need to find him again, they can find him at the [[Arena of Vel'Therin Expanse]]
