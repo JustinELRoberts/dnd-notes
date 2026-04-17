@@ -3,9 +3,10 @@ publish: true
 aliases:
   - masked man with red eyes
   - stitched boy
-created: 2026-03-25T19:59:36.450-06:00
-modified: 2026-04-13T14:30:17.188-06:00
-published: 2026-04-13T14:30:17.188-06:00
+  - scary frakenstein guy
+created: 2026-03-25T21:59:36.450-04:00
+modified: 2026-04-16T22:23:20.683-04:00
+published: 2026-04-16T22:23:20.683-04:00
 Age: "16"
 Gender: Male
 Race: "[[human-xphb|Human]]"
@@ -28,5 +29,5 @@ A young human boy with the ability to cast magic and is perhaps supernatural in 
 
 ## Motivations
 
-- He seemed to clearly want the [[notebook with a sleeping face on its cover]] and [[Diamond of 20 Monsters]] in [[00-First Session]]
+- He seemed to clearly want the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]] and [[Diamond of 20 Monsters]] in [[00-First Session]]
 - He evidently wants to kill [[The Unknown]]

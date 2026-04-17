@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-08T18:35:46.825-06:00
-modified: 2026-04-13T15:24:14.016-06:00
-published: 2026-04-13T15:24:14.016-06:00
+created: 2026-03-08T20:35:46.825-04:00
+modified: 2026-04-16T22:19:48.792-04:00
+published: 2026-04-16T22:19:48.792-04:00
 Party:
   - "[[Avenj]]"
   - "[[Raelor]]"
@@ -15,7 +15,7 @@ End Day: 2
 
 ## Summary
 
-During a caravan journey to [[The Unnamed City]], the party witnessed a mysterious courier be executed by a stitched-together agent of [[The Awakening]] who then seized a massive red diamond from his body. A note on the courier revealed his mission to deliver the artifact to the [[Caer Thalor]] to be locked away by [[The Council of the Cold Veil]]. After a battle where the party cut the limbs off of and buried the Awakening agent alive (who later miraculously regenerated), they recovered a [[notebook with a sleeping face on its cover]]. By using the red diamond as a key, they unlocked the book to reveal it describes the [[Diamond of 20 Monsters]], an army-summoning tool used by [[The Unknown]]. The party successfully smuggled the artifact and their new guide, [[Theratina]], through [[The Unnamed City]]'s border, heading north just as regional tensions between [[The Council of the Cold Veil]] and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index|Karvok Thuldor]] push the land toward open war.
+During a caravan journey to [[The Unnamed City]], the party witnessed a mysterious courier be executed by a stitched-together agent of [[The Awakening]] who then seized a massive red diamond from his body. A note on the courier revealed his mission to deliver the artifact to the [[Caer Thalor]] to be locked away by [[The Council of the Cold Veil]]. After a battle where the party cut the limbs off of and buried the Awakening agent alive (who later miraculously regenerated), they recovered a [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]]. By using the red diamond as a key, they unlocked the book to reveal it describes the [[Diamond of 20 Monsters]], an army-summoning tool used by [[The Unknown]]. The party successfully smuggled the artifact and their new guide, [[Theratina]], through [[The Unnamed City]]'s border, heading north just as regional tensions between [[The Council of the Cold Veil]] and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index|Karvok Thuldor]] push the land toward open war.
 
 ## Events
 
@@ -79,7 +79,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - He implies he plans to somehow leverage the fact that many are at war to achieve his evil goals
   - [[Roz Rozum|Roz]] uses [[mold-earth-xge|Mold Earth]] to bury his torso and head alive
 - In his bag is:
-  - A [[notebook with a sleeping face on its cover]] on the cover
+  - A [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]]
   - [[Three Mysterious Vials]] all containing different liquids:
     - A purple one that transformed the plant
     - A silvery one with transmutation magic
@@ -96,7 +96,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
     - When asked if we should stay at an inn, she shakes her head and says "bad people"
     - The girl leaves despite us offering for her to stay with us
       - She is not very trusting
-- We begin investigating the [[notebook with a sleeping face on its cover]]
+- We begin investigating the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]]
   - There are multiple riddles to unlock it
     - The first riddle we correctly answer "death"
       - The lock shifts slightly
@@ -112,7 +112,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
   - In the back of the book, we see a drawn diamond with blurry words underneath it
     - As we move the red diamond closer, the words become more visible
     - We touch the diamond to the page and it absorbs into the book; text appears
-      - "The [[Diamond of 20 Monsters]]: This artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[GrindleDarks]]"
+      - "The [[Diamond of 20 Monsters]]: This artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[The Grindledarks|Grindledarks]]"
     - The diamond is removable still if you stick your hand in the page
   - Another page appears/renders
     - It looks like [[Crooked Staff|crooked staff]] with blurry text below (we probably need some crooked staff to proceed, if that is even desired)

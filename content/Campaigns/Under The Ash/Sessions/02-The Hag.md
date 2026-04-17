@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T16:23:06.948-04:00
-modified: 2026-04-14T17:58:11.463-04:00
-published: 2026-04-14T17:58:11.463-04:00
+modified: 2026-04-16T22:20:08.484-04:00
+published: 2026-04-16T22:20:08.484-04:00
 Party:
   - "[[Avenj]]"
   - "[[Callie Dawnsong|Cal]]"
@@ -16,7 +16,7 @@ End Day: 6
 
 ## Summary
 
-Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious crooked staff artifact. This encounter proved pivotal when the group met [[Bruce|Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[Maryln|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce|Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce|Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[Maryln]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
+Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious [[Crooked Staff|crooked staff]] artifact. This encounter proved pivotal when the group met [[Bruce|Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[Maryln|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce|Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce|Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[Maryln]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
 
 ## Events
 
@@ -54,7 +54,7 @@ She is in [[Brackenmill]] on the edge of a high ridge where at the bottom lies a
 
 Someone important in [[Aven Tide]]’s life was sick. If she found true love in 10 days in [[Caer Thalor]], that person would be cured. If she failed, the person would still be cured but the thing used to express love (her voice) would be taken instead. Unfortunately, over the 10 days her attempts to find love are repeatedly rejected, and then on the 11th day when she wakes up, she has lost her voice
 
-As [[Callie Dawnsong|Cal]] is seeing this memory from [[Aven Tide|Aven]]’s memory, she notices [[Maryln]] held a staff in her right hand. That may be the same [[Crooked Staff|crooked staff]] hinted at earlier in the [[notebook with a sleeping face on its cover]] (this is later confirmed by [[Bruce|Bruce]]).
+As [[Callie Dawnsong|Cal]] is seeing this memory from [[Aven Tide|Aven]]’s memory, she notices [[Maryln]] held a staff in her right hand. That may be the same [[Crooked Staff|crooked staff]] hinted at earlier in the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]] (this is later confirmed by [[Bruce|Bruce]]).
 
 **IMPORTANT NOTE**: It is later revealed that this entire memory was actually the [[Hag]] inside [[Callie Dawnsong|Cal]]’s mind. The memory may be true or false. 
 
@@ -347,7 +347,7 @@ He also mentions The Harvesters in [[Mazca’Tan]], which is notable because [[M
 
 ### Bruce Examines the Book
 
-The party heads back to the park and shows [[Bruce|Bruce]] the book.
+The party heads back to the park and shows [[Bruce|Bruce]] the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]].
 
 He asks them to open it.
 
@@ -357,7 +357,7 @@ When opened, the book appears far larger inside than it should be, with more pag
 
 - One of the most powerful pocket portals
 - Created by the [[Three Wizards]]
-- Used to seal the [[12 artifacts]]
+- Used to seal the [[12 Artifacts]]
 
 But there are more than 12 pages. He is adamant about knowing why the book is so large. 
 
