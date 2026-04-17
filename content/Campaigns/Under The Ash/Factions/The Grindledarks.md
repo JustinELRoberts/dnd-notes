@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Grindledarks
   - Grindledark
-created: 2026-04-13T15:11:05.124-06:00
-modified: 2026-04-13T15:14:16.344-06:00
-published: 2026-04-13T15:14:16.344-06:00
+created: 2026-04-13T17:11:05.124-04:00
+modified: 2026-04-16T22:07:57.576-04:00
+published: 2026-04-16T22:07:57.576-04:00
 Relationship: Neutral
 tags:
 ---

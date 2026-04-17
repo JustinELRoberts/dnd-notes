@@ -1,15 +1,15 @@
 ---
 publish: true
-created: 2026-04-13T14:13:35.161-06:00
-modified: 2026-04-13T14:19:24.291-06:00
-published: 2026-04-13T14:19:24.291-06:00
+created: 2026-04-13T16:13:35.161-04:00
+modified: 2026-04-16T22:23:05.433-04:00
+published: 2026-04-16T22:23:05.433-04:00
 aliases:
 tags:
 ---
 
 ## Description
 
-A journal (written in Elvish) with a lock on the front which seems to simply cut off whatever is inserted and unlock after it is done. The final few pages are missing.
+A journal (written in Elvish) with a lock on the front which seems to simply cut off whatever is inserted and unlock after it is done (tested only with a bone finger [[Avenj]] had lying around). The final few pages are missing.
 
 ## Raw Contents
 

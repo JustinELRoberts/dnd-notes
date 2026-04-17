@@ -4,9 +4,9 @@ aliases:
   - Hoods
   - The Hoods Faction
   - Hoods Faction
-created: 2026-04-13T14:45:38.457-06:00
-modified: 2026-04-13T14:48:04.216-06:00
-published: 2026-04-13T14:48:04.216-06:00
+created: 2026-04-13T16:45:38.457-04:00
+modified: 2026-04-16T22:08:27.106-04:00
+published: 2026-04-16T22:08:27.106-04:00
 Relationship: Not known
 tags:
 ---
@@ -18,4 +18,4 @@ A group in direct opposition to [[The Silent Fist]]. Members of this group bear 
 - Black = assassins
 - Blue = scouts
 - Red = leaders
-- Green = enforcers — “you’re already dead”
+- Green = enforcers
