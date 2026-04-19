@@ -3,8 +3,8 @@ publish: true
 aliases:
   - dimensional blue arena
 created: 2026-03-21T17:02:20.406-04:00
-modified: 2026-03-25T20:53:01.316-04:00
-published: 2026-03-25T20:53:01.316-04:00
+modified: 2026-04-19T09:53:59.806-04:00
+published: 2026-04-19T09:53:59.806-04:00
 LocationType:
 tags:
 ---
@@ -29,4 +29,4 @@ id: some dimensional blue arena-map
 
 ## Description
 
-When [[Roz]] slept with the [[massive red diamond]] during [[00-First Session]], he had a dream he was here; perhaps this is where [[The Awakening]] is dwelling/imprisoned?
+When [[Roz Rozum|Roz]] slept with the [[Diamond of 20 Monsters]] during [[00-First Session]], he had a dream he was here; perhaps this is where [[The Awakening]] is dwelling/imprisoned?

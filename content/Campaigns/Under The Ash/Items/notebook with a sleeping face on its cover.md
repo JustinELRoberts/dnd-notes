@@ -3,8 +3,8 @@ publish: true
 aliases:
   - notebook with a sleeping face on its cover
 created: 2026-03-23T17:04:59.064-04:00
-modified: 2026-04-16T22:19:18.903-04:00
-published: 2026-04-16T22:19:18.903-04:00
+modified: 2026-04-19T09:55:29.666-04:00
+published: 2026-04-19T09:55:29.666-04:00
 tags:
 ---
 
