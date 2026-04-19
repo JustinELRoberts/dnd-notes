@@ -1,8 +1,9 @@
 ---
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-04-18T21:27:20.937-04:00
-published: 2026-04-18T21:27:20.937-04:00
+modified: 2026-04-18T21:47:09.960-04:00
+published: 2026-04-18T21:47:09.960-04:00
+Date: 2026-03-12
 Party:
   - "[[Avenj]]"
   - "[[Raelor]]"
@@ -11,7 +12,6 @@ Party:
   - "[[Yharov Stonebrow|Yharov]]"
 Start Day: 1
 End Day: 2
-Date: 2026-03-12
 ---
 
 ## Summary

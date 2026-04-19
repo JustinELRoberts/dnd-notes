@@ -8,8 +8,8 @@
 
 ## Oldest Quests in Progress
 
-- [[Campaigns/Under The Ash/Quests/Diamond of 20 Monsters Delivery.md|Diamond of 20 Monsters Delivery]]:  (began day 1)
 - [[Campaigns/Under The Ash/Quests/Kill the Hag.md|Kill the Hag]]:  (began day 6)
+- [[Campaigns/Under The Ash/Quests/Diamond of 20 Monsters Delivery.md|Diamond of 20 Monsters Delivery]]:  (began day 1)
 
 ## The Party
 
