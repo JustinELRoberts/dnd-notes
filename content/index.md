@@ -1,12 +1,15 @@
 ## Recent Sessions
 
-- [[Campaigns/Under The Ash/Sessions/02-The Hag.md|02-The Hag]]:  (April 12, 2026)
-- [[Campaigns/Under The Ash/Sessions/01-Meeting Cal.md|01-Meeting Cal]]:  (March 26, 2026)
-- [[Campaigns/Under The Ash/Sessions/00-First Session.md|00-First Session]]:  (March 08, 2026)
+| Session Name                                                               | Start Day | End Day | Date           |
+| -------------------------------------------------------------------------- | --------- | ------- | -------------- |
+| [[Campaigns/Under The Ash/Sessions/02-The Hag.md\|02-The Hag]]             | 5         | 6       | April 09, 2026 |
+| [[Campaigns/Under The Ash/Sessions/01-Meeting Cal.md\|01-Meeting Cal]]     | 2         | 5       | March 26, 2026 |
+| [[Campaigns/Under The Ash/Sessions/00-First Session.md\|00-First Session]] | 1         | 2       | March 12, 2026 |
 
 ## Oldest Quests in Progress
 
-- [[Campaigns/Under The Ash/Quests/Diamond of 20 Monsters Delivery.md|Diamond of 20 Monsters Delivery]]:  (March 25, 2026)
+- [[Campaigns/Under The Ash/Quests/Diamond of 20 Monsters Delivery.md|Diamond of 20 Monsters Delivery]]:  (began day 1)
+- [[Campaigns/Under The Ash/Quests/Kill the Hag.md|Kill the Hag]]:  (began day 6)
 
 ## The Party
 

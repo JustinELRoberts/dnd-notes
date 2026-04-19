@@ -2,11 +2,11 @@
 publish: true
 aliases:
   - Vecna
-created: 2026-04-13T15:31:06.365-06:00
-modified: 2026-04-13T15:32:10.869-06:00
-published: 2026-04-13T15:32:10.869-06:00
+created: 2026-04-13T17:31:06.365-04:00
+modified: 2026-04-16T22:32:40.842-04:00
+published: 2026-04-16T22:32:40.842-04:00
 Age: Not known
-Gender: Not known
+Gender: Male
 Race: Not known
 Relationship: Not known
 Factions:
