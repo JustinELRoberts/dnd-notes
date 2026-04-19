@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-08T20:24:26.060-04:00
-modified: 2026-03-21T22:52:11.766-04:00
-published: 2026-03-21T22:52:11.766-04:00
+modified: 2026-04-18T21:29:34.085-04:00
+published: 2026-04-18T21:29:34.085-04:00
 Party:
   - "[[Avenj]]"
   - "[[Callie Dawnsong|Cal]]"
@@ -12,6 +12,7 @@ Party:
   - "[[Yharov Stonebrow|Yharov]]"
 Start Day:
 End Day:
+Date: <% tp.date.now() %>
 ---
 
 ## Summary

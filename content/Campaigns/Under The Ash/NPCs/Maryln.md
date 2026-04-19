@@ -3,12 +3,12 @@ publish: true
 aliases:
   - Hag
   - The Hag
-created: 2026-04-13T14:38:22.611-06:00
-modified: 2026-04-13T17:16:48.294-06:00
-published: 2026-04-13T17:16:48.294-06:00
+created: 2026-04-13T16:38:22.611-04:00
+modified: 2026-04-16T22:33:35.360-04:00
+published: 2026-04-16T22:33:35.360-04:00
 Age: Not known
-Gender: Not known
-Race: Not known
+Gender: Female
+Race: "[[hag-vgm|Hag]]"
 Relationship: Not known
 Factions:
 tags:
