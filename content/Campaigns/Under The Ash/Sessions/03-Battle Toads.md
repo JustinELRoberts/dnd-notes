@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-23T16:18:03.278-04:00
-modified: 2026-05-02T14:08:03.860-04:00
-published: 2026-05-02T14:08:03.860-04:00
+modified: 2026-05-02T18:53:09.894-04:00
+published: 2026-05-02T18:53:09.894-04:00
 Date: 2026-04-23
 Party:
   - "[[Avenj]]"
@@ -16,7 +16,7 @@ End Day: 7
 
 ## Summary
 
-After snagging a handful of bounties from the Vel Rau’dan job board, the party earned a "free" night at [[The Iron Wake Mug]] by courageously euthanizing a toilet [[mimic]] and surviving a round of the aptly named “Fuck Me Up” ale served by the 900-year-old [[Iron Wake Mug Barkeep|Diana]]. The following morning’s pest control job quickly spiraled from slaying mutated [[giant-toad|Giant Toad]]s to tracking a trail of fey magic and toxic runoff to a crystalline lair, where we witnessed the escaped B-tier [[young-blue-dragon|Young Blue Dragon]] being dragged into the depths. Unable to leave due to [[Maryln|The Hag]]'s magic, we had no choice but to walk directly into her sanctum to confront her face-to-face, at which point she admitted to poisoning the water (causing the mutated frogs), stealing the [[young-blue-dragon|Young Blue Dragon]], and killing [[Maryln]]. The tension hit a breaking point as [[Maryln|The Hag]] began manipulating [[Theratina]] with the promise of her deceased parents, shedding her disguise to reveal her true monstrous form just as the session ended on a cliffhanger.
+After snagging a handful of bounties from the Vel Rau’dan job board, the party earned a "free" night at [[The Iron Wake Mug]] by courageously euthanizing a toilet [[mimic]] and surviving a round of the aptly named “Fuck Me Up” ale served by the 900-year-old [[Iron Wake Mug Barkeep|Diana]]. The following morning’s pest control job quickly spiraled from slaying mutated [[giant-toad|Giant Toad]]s to tracking a trail of fey magic and toxic runoff to a crystalline lair, where we witnessed the escaped B-tier [[young-blue-dragon|Young Blue Dragon]] being dragged into the depths. Unable to leave due to [[The Hag|The Hag]]'s magic, we had no choice but to walk directly into her sanctum to confront her face-to-face, at which point she admitted to poisoning the water (causing the mutated frogs), stealing the [[young-blue-dragon|Young Blue Dragon]], and killing [[The Hag]]. The tension hit a breaking point as [[The Hag|The Hag]] began manipulating [[Theratina]] with the promise of her deceased parents, shedding her disguise to reveal her true monstrous form just as the session ended on a cliffhanger.
 
 ## Events
 
@@ -127,18 +127,18 @@ After snagging a handful of bounties from the Vel Rau’dan job board, the party
 
 ---
 
-#### The Hag's Lair
+#### [[The Hag's Lair]]
 
 - Following the footprints, we find a big blue diamond lair
 - We see a [[young-blue-dragon|Young Blue Dragon]] being dragged into the lair
   - It is being dragged by some magical blue diamond
   - This beast is almost certainly the B tier monster
-- [[Bruce]] told us [[Maryln|The Hag]] lives to the South; perhaps this is her lai
+- [[Bruce]] told us [[The Hag|The Hag]] lives to the South; perhaps this is her lai
 - From rolling, we know that:
   - We can hear a stream nearby
   - [[hag-vgm|Hag]]s are not from this plain
     - There will be environmental hazards within a mile from where a [[hag-vgm|Hag]] wants to live
-- Almost certainly this is [[Maryln|The Hag]]'s lair
+- Almost certainly this is [[The Hag|The Hag]]'s lair
 - We decide to sneak away and take a short rest before going further
 - Despite one of us casting a 20, we all fail a wisdom check
   - Despite walking away, we end up right back where we started
@@ -147,7 +147,7 @@ After snagging a handful of bounties from the Vel Rau’dan job board, the party
 #### In the Lair
 
 - [[Theodore Shellington|Theodore]] tries casting [[fire-bolt-xphb|Fire Bolt]] into the doorway to burn the building down, but it gets [[counterspell-xphb|Counterspell]]ed
-- [[Callie Dawnsong|Cal]] tries talking to [[Maryln|The Hag]]
+- [[Callie Dawnsong|Cal]] tries talking to [[The Hag|The Hag]]
   - It says, "Come in"
 - We all go in
 - It is somewhat dark inside
@@ -156,11 +156,11 @@ After snagging a handful of bounties from the Vel Rau’dan job board, the party
   - She implies she intentionally let the beast out and baited it here using the [[giant-toad|Giant Toad]]s
     - She probably was the one who poisoned the water
     - She says "it is mine"
-  - She begins talking about [[Maryln]] (another body she took)
+  - She begins talking about [[The Hag]] (another body she took)
     - "When she couldn't find true love, I offered her a way to get rid of the pain. And I did. I ended her life."
     - She also supposedly had a wonderful voice
   - She begins to say "I would train her better than you ever could" regarding [[Theratina]]
     - She tells [[Theratina]] she can bring her parents back
     - She seems to be charming [[Theratina]]
-  - When we try to stop the charmed [[Theratina]] from walking to her, [[Maryln|The Hag]] shifts into some sort of monster creature
+  - When we try to stop the charmed [[Theratina]] from walking to her, [[The Hag|The Hag]] shifts into some sort of monster creature
   - The session ends presumably right before we begin combat

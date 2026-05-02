@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T16:23:06.948-04:00
-modified: 2026-05-02T13:36:22.159-04:00
-published: 2026-05-02T13:36:22.159-04:00
+modified: 2026-05-02T18:53:09.893-04:00
+published: 2026-05-02T18:53:09.893-04:00
 Date: 2026-04-09
 Party:
   - "[[Avenj]]"
@@ -17,7 +17,7 @@ End Day: 6
 
 ## Summary
 
-Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious [[Crooked Staff|crooked staff]] artifact. This encounter proved pivotal when the group met [[Bruce|Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[Maryln|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce|Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce|Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[Maryln]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
+Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious [[Crooked Staff|crooked staff]] artifact. This encounter proved pivotal when the group met [[Bruce|Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[The Hag|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce|Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce|Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[The Hag]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
 
 ## Events
 
@@ -49,12 +49,12 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
 - When [[Callie Dawnsong|Cal]] reads deeper into [[Aven Tide]]’s memory, she takes on the viewpoint of [[Aven Tide|Aven]] and sees:
 - She is in [[Brackenmill]] on the edge of a high ridge where at the bottom lies a rapid raging river.
 - She finds herself walking down a dark alley down dark steps descending into a dark room, where she sees a nasty-looking silver-haired hag.
-- Then a bargain occurs between [[Aven Tide|Aven]] and the hag (who we later find out from [[Bruce|Bruce]] is [[Maryln|Maryln]]).
+- Then a bargain occurs between [[Aven Tide|Aven]] and the hag (who we later find out from [[Bruce|Bruce]] is [[The Hag|Maryln]]).
 - Someone important in [[Aven Tide]]’s life was sick.
 - If she found true love in 10 days in [[Caer Thalor]], that person would be cured.
 - If she failed, the person would still be cured but the thing used to express love (her voice) would be taken instead.
 - Unfortunately, over the 10 days her attempts to find love are repeatedly rejected, and then on the 11th day when she wakes up, she has lost her voice.
-- As [[Callie Dawnsong|Cal]] is seeing this memory from [[Aven Tide]]’s memory, she notices [[Maryln]] held a staff in her right hand.
+- As [[Callie Dawnsong|Cal]] is seeing this memory from [[Aven Tide]]’s memory, she notices [[The Hag]] held a staff in her right hand.
 - That may be the same [[Crooked Staff|crooked staff]] hinted at earlier in the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]] (this is later confirmed by [[Bruce|Bruce]]).
 - **IMPORTANT NOTE**: It is later revealed that this entire memory was actually the [[Hag]] inside [[Callie Dawnsong|Cal]]’s mind.
   - The memory may be true or false.
@@ -276,7 +276,7 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
   - Flesh and spiritcraft
 - At first he thinks he must fill the center of the vessel.
 - Then he goes to [[Brackenmill]] and meets [[Payquyne]].
-- That location matters because [[Brackenmill]] was also where [[Aven Tide]] made her bargain with [[Maryln]] earlier in this same session, making the town feel less like a side location and more like a major knot where several of these storylines converge.
+- That location matters because [[Brackenmill]] was also where [[Aven Tide]] made her bargain with [[The Hag]] earlier in this same session, making the town feel less like a side location and more like a major knot where several of these storylines converge.
 - The writer falls in love with [[Payquyne]], forgets the work, and lives a human life.
 - They have a son.
 - Then something monstrous kills her by taking her head, and leaves the son broken.
@@ -318,7 +318,7 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
   - Ned creates conflict
 - When asked why he is interested in [[Theratina]], he simply says, “She’s a lizard.”
 - He then says, “I was hoping my hag friend was correct about you guys.”
-- When [[Raelor]] asks how he knew where they were, he says he knows [[Maryln]] who owns the place.
+- When [[Raelor]] asks how he knew where they were, he says he knows [[The Hag]] who owns the place.
 - He asks what the tavern looked like to them:
   - Clean and quiet?
   - Rambunctious?
@@ -353,12 +353,12 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
 - Her plan had been to take them away and hide them in [[the Feywild]], which [[The Unknown]] had never touched.
 - [[Bruce|Bruce]] believes the artifacts are heavily guarded.
 - He says:
-  - [[Maryln]] possesses one
-  - Her name is [[Maryln|Maryln]]
+  - [[The Hag]] possesses one
+  - Her name is [[The Hag|Maryln]]
   - The artifact is not safe with her
 - He also admits he has dealings with dangerous people, including the [[The Silent Fist|Silent Fist]].
 - He admits that despite being a member of the [[The Hoods]], he must work with bad characters to achieve his ultimate goal of doing right by his daughter’s work.
-- He has even made deals with the [[The Silent Fist|Silent Fist]] and [[Maryln]].
+- He has even made deals with the [[The Silent Fist|Silent Fist]] and [[The Hag]].
 - He says the [[half-elf]] is from Twelve Veins and that they have started a revolution:
 - “We are 12,000 strong.”
 - Who is the half-elf? What are the Twelve Veins
@@ -415,5 +415,5 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
 
 ### End of Session Direction
 
-- [[Bruce|Bruce]] says the party needs to become more powerful before taking on [[Maryln]] directly.
+- [[Bruce|Bruce]] says the party needs to become more powerful before taking on [[The Hag]] directly.
 - If they need work, information, or need to find him again, they can find him at the [[Arena of Vel'Therin Expanse]]
