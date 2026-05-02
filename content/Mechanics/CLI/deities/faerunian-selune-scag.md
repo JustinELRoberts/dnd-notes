@@ -6,8 +6,8 @@ aliases:
   - The Moonmaiden
   - The Night White Lady
 created: 2026-03-29T21:53:55.969-04:00
-modified: 2026-03-29T21:53:55.969-04:00
-published: 2026-03-29T21:53:55.969-04:00
+modified: 2026-04-26T16:12:31.167-04:00
+published: 2026-04-26T16:12:31.167-04:00
 tags:
   - ttrpg-cli/compendium/src/5e/scag
   - ttrpg-cli/deity/faerunian
@@ -19,8 +19,7 @@ cssclasses:
 obsidianUIMode: preview
 ---
 
-# Selûne
-
+Selûne
 ![](Mechanics/CLI/deities/img/scag-symbol-of-selune.webp#symbol)
 
 - **Alternate Names**: Our Lady of Silver, The Moonmaiden, The Night White Lady

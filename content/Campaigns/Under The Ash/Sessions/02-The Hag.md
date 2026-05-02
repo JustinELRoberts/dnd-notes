@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T16:23:06.948-04:00
-modified: 2026-04-19T10:20:52.975-04:00
-published: 2026-04-19T10:20:52.975-04:00
+modified: 2026-05-02T13:36:22.159-04:00
+published: 2026-05-02T13:36:22.159-04:00
 Date: 2026-04-09
 Party:
   - "[[Avenj]]"
@@ -40,7 +40,7 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
 - She explains the rates for food and stay to the party, and eventually her name: [[Aven Tide]]
 - Rooms: 6 silver each
 - Dinner for everyone: 1 gold total for 2 drinks and 1 meal each
-- When asked why she does not speak, the party learns that her voice was stolen after gambling with a hag in [[Blackenmill]].
+- When asked why she does not speak, the party learns that her voice was stolen after gambling with a hag in [[Brackenmill]].
 - That detail turns out to matter much more than it first seems, because later in the session the party is offered a contract to hunt this very hag by a member of [[The Hoods|The Hoods Faction]] ([[Bruce|Bruce]]).
 
 #### Cal uses Detect Thoughts on Aven Tide
@@ -212,7 +212,7 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
 
 - [[Avenj]] asks the [[tiefling]] whether she knows what the [[Three Mysterious Vials]] are.
 - [[Yharov Stonebrow|Yharov]] promptly tells [[Avenj]], who was originally not with [[Roz Rozum|Roz]] and [[Yharov Stonebrow|Yharov]] during the first visit to the potion/pedal show, that the purple potion is likely the [[Tears of Silvanus]]
-- These are the same three vials recovered from the buried stitched agent in [[00-First Session]]:
+- These are the same three vials recovered from the buried stitched agent in [[00-First Session]]
 
 #### Green Vial
 

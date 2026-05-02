@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Crown of Thorns
   - Vel Rau'dan
-created: 2026-03-25T18:44:54.952-06:00
-modified: 2026-04-13T10:28:03.387-06:00
-published: 2026-04-13T10:28:03.387-06:00
+created: 2026-03-25T20:44:54.952-04:00
+modified: 2026-05-02T13:41:17.972-04:00
+published: 2026-05-02T13:41:17.972-04:00
 LocationType: City
 tags:
 ---
@@ -20,7 +20,7 @@ markers: Campaigns/Under The Ash/Locations/_markers/Vel Rau'dan.markers.json
 markerLayers:
   - Default
 minZoom: 0.6
-maxZoom: 8
+maxZoom: 2
 width: 608px
 height: 532px
 resizable: false

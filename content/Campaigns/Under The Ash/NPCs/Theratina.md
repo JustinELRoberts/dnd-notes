@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-21T14:56:46.085-06:00
-modified: 2026-04-13T14:35:09.254-06:00
-published: 2026-04-13T14:35:09.254-06:00
+created: 2026-03-21T16:56:46.085-04:00
+modified: 2026-04-13T16:35:09.254-04:00
+published: 2026-04-13T16:35:09.254-04:00
 Age: "12"
 Gender: Female
 Race: "[[lizardfolk-dmg|Lizardfolk]]"
