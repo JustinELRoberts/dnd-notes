@@ -7,7 +7,7 @@
 | [[Campaigns/Under The Ash/Sessions/01-Meeting Cal.md\|01-Meeting Cal]]     | 2         | 5       | March 26, 2026 |
 | [[Campaigns/Under The Ash/Sessions/00-First Session.md\|00-First Session]] | 1         | 2       | March 12, 2026 |
 
-## Oldest Quests in Progress
+## Newest Quests
 
 - [[Campaigns/Under The Ash/Quests/Resolve the Bake-Off.md|Resolve the Bake-Off]]:  (began day 7)
 - [[Campaigns/Under The Ash/Quests/Need an Exterminator.md|Need an Exterminator]]:  (began day 7)
