@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-12T16:23:06.948-04:00
-modified: 2026-05-02T18:53:09.893-04:00
-published: 2026-05-02T18:53:09.893-04:00
+modified: 2026-05-19T19:57:37.437-04:00
+published: 2026-05-19T19:57:37.437-04:00
 Date: 2026-04-09
 Party:
   - "[[Avenj]]"
@@ -17,7 +17,7 @@ End Day: 6
 
 ## Summary
 
-Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious [[Crooked Staff|crooked staff]] artifact. This encounter proved pivotal when the group met [[Bruce|Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[The Hag|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce|Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce|Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[The Hag]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
+Seeking refuge at the Starlight Inn after their arena triumph, the party encountered the silent [[genasi-water-mpmm|Genasi (Water)]] [[Aven Tide]], whose stolen voice led [[Callie Dawnsong|Cal]] into a hag-tainted memory revealing a mysterious [[Staff of Souls|crooked staff]] artifact. This encounter proved pivotal when the group met [[Bruce|Bruce]], a red-cloaked leader of the [[The Hoods]], who revealed that the "innkeeper’s" memory was actually a mental intrusion by "the hag": [[The Hag|Maryln]]. The session bridged deep lore and personal stakes, as the party discovered a journal detailing [[Ned Grindledark|Lord Grindledark]]'s horrific attempts to resurrect his son ([[Bruce|Bruce]]'s grandson) using "spiritcraft" and stitched body parts. Amidst these revelations, the party navigated a tense shopping trip where [[Theratina]]’s kleptomania strained her relationship with [[Callie Dawnsong|Cal]], and [[Roz Rozum|Roz]] discovered his shield, [[Jimmothy]], is sentient while he himself suffers "notches" of exhaustion from a cursed red diamond. A visit to the [[Blooming Remedy]] provided powerful magical boons through mystical petals and identified three mysterious vials, including one linked to the dread [[Lord Vecna]]. Ultimately, [[Bruce|Bruce]] offered the party a high-stakes contract: 1,000 gold pieces each to assassinate [[The Hag]] and secure her staff artifact for the pocket-portal book. The session concluded with the party weighing this dangerous alliance against the [[The Hoods]] as they prepare to hunt a shapeshifting enemy who can blink through reality.
 
 ## Events
 
@@ -55,7 +55,7 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
 - If she failed, the person would still be cured but the thing used to express love (her voice) would be taken instead.
 - Unfortunately, over the 10 days her attempts to find love are repeatedly rejected, and then on the 11th day when she wakes up, she has lost her voice.
 - As [[Callie Dawnsong|Cal]] is seeing this memory from [[Aven Tide]]’s memory, she notices [[The Hag]] held a staff in her right hand.
-- That may be the same [[Crooked Staff|crooked staff]] hinted at earlier in the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]] (this is later confirmed by [[Bruce|Bruce]]).
+- That may be the same [[Staff of Souls|crooked staff]] hinted at earlier in the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]] (this is later confirmed by [[Bruce|Bruce]]).
 - **IMPORTANT NOTE**: It is later revealed that this entire memory was actually the [[Hag]] inside [[Callie Dawnsong|Cal]]’s mind.
   - The memory may be true or false.
 
@@ -369,10 +369,10 @@ Seeking refuge at the Starlight Inn after their arena triumph, the party encount
 
 - [[Bruce|Bruce]] offers the party a job: A hit on the hag.
 - Payment: 1,000 gold each
-- Condition: He must personally see the [[Crooked Staff]] placed into the book.
+- Condition: He must personally see the [[Staff of Souls]] placed into the book.
 - That condition matters because it neatly ties together:
   - [[Aven Tide]]'s memory of the hag holding the staff
-  - The [[Crooked Staff|crooked staff]] page in the artifact book
+  - The [[Staff of Souls|crooked staff]] page in the artifact book
   - [[Bruce|Bruce]]’s claim that the hag has one of the artifacts
 - [[Bruce|Bruce]] says the hag is south of the [[Arena of Vel'Therin Expanse]] (toward the shore)
 - He warns the group:

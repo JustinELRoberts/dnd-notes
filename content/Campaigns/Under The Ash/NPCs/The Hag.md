@@ -4,8 +4,8 @@ aliases:
   - Hag
   - The Hag
 created: 2026-04-13T16:38:22.611-04:00
-modified: 2026-05-02T18:55:10.332-04:00
-published: 2026-05-02T18:55:10.332-04:00
+modified: 2026-05-19T19:57:37.438-04:00
+published: 2026-05-19T19:57:37.438-04:00
 Age: Not known
 Gender: Female
 Race: "[[Mechanics/CLI/bestiary/legendary-group/night-hag|Night Hag]]"
@@ -19,7 +19,7 @@ tags:
 ## What we know
 
 - In [[02-The Hag]], Bruce told us that:
-  - She has the [[Crooked Staff|crooked staff]]
+  - She has the [[Staff of Souls|crooked staff]]
   - She is _powerful_
     - She can place herself into clones of her victims
     - They rotate week by week
