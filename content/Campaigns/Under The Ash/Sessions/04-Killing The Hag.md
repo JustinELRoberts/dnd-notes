@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-07T18:03:40.485-04:00
-modified: 2026-05-19T21:04:19.940-04:00
-published: 2026-05-19T21:04:19.940-04:00
+modified: 2026-05-19T21:13:15.880-04:00
+published: 2026-05-19T21:13:15.880-04:00
 Date: 2026-05-07
 Party:
   - "[[Avenj]]"
@@ -11,8 +11,8 @@ Party:
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
   - "[[Yharov Stonebrow|Yharov]]"
-Start Day:
-End Day:
+Start Day: 7
+End Day: 7
 ---
 
 ## Summary
