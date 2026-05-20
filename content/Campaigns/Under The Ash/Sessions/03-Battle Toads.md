@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-04-23T16:18:03.278-04:00
-modified: 2026-05-02T18:53:09.894-04:00
-published: 2026-05-02T18:53:09.894-04:00
+modified: 2026-05-19T20:01:31.868-04:00
+published: 2026-05-19T20:01:31.868-04:00
 Date: 2026-04-23
 Party:
   - "[[Avenj]]"
@@ -20,7 +20,7 @@ After snagging a handful of bounties from the Vel Rau’dan job board, the party
 
 ## Events
 
-#### At the Park
+### At the Park
 
 - Begins in the park in [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]]
 - We are going to check out the job board in the center of the city before turning in for the night
@@ -34,7 +34,7 @@ After snagging a handful of bounties from the Vel Rau’dan job board, the party
 ### At [[The Citadel of Vel Rau'dan|The Citadel]]'s Job Board
 
 - 4 jobs available:
-  - "Deal with a domestic situation: two friendly competitors of bakeries seem to have it out for each other and it'= bad for this district of the city. resolve the matter and each person gets 100g"
+  - "Deal with a domestic situation: two friendly competitors of bakeries seem to have it out for each other and it's bad for this district of the city. Resolve the matter and each person gets 100g"
     - Quest created: [[Resolve the Bake-Off]]
   - "Rodents outside the city ruining farms. Massive, unnatural looking monsters, creatures, and critters are seen in the farmlands of [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]]. 50g for each body brought back"
     - The farms are south of the city
@@ -117,6 +117,7 @@ After snagging a handful of bounties from the Vel Rau’dan job board, the party
   - There are 4 in total
 - After an intense battle, we kill all the toads
 - We can tell that these [[giant-toad|Giant Toad]]s are not natural; something in the water caused them to mutate
+  - Near the water, we see an empty vial of what we can only assume is poison
   - [[Roz Rozum|Roz]] catches [[detect-magic-xphb|Detect Magic]]
     - He notices weird half-humanoid half-fey footsteps
     - He also notices flowers from the feywild that seem to be growing from the imprint of the footsteps
@@ -127,16 +128,16 @@ After snagging a handful of bounties from the Vel Rau’dan job board, the party
 
 ---
 
-#### [[The Hag's Lair]]
+### [[The Hag's Lair]]
 
 - Following the footprints, we find a big blue diamond lair
 - We see a [[young-blue-dragon|Young Blue Dragon]] being dragged into the lair
   - It is being dragged by some magical blue diamond
   - This beast is almost certainly the B tier monster
-- [[Bruce]] told us [[The Hag|The Hag]] lives to the South; perhaps this is her lai
+- [[Bruce]] told us [[The Hag|The Hag]] lives to the South; perhaps this is her lair
 - From rolling, we know that:
   - We can hear a stream nearby
-  - [[hag-vgm|Hag]]s are not from this plain
+  - [[hag-vgm|Hag]]s are not from this plane
     - There will be environmental hazards within a mile from where a [[hag-vgm|Hag]] wants to live
 - Almost certainly this is [[The Hag|The Hag]]'s lair
 - We decide to sneak away and take a short rest before going further

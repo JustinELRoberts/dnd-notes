@@ -1,11 +1,12 @@
 ## Recent Sessions
 
-| Session Name                                                               | Start Day | End Day | Date           |
-| -------------------------------------------------------------------------- | --------- | ------- | -------------- |
-| [[Campaigns/Under The Ash/Sessions/03-Battle Toads.md\|03-Battle Toads]]   | 6         | 7       | April 23, 2026 |
-| [[Campaigns/Under The Ash/Sessions/02-The Hag.md\|02-The Hag]]             | 5         | 6       | April 09, 2026 |
-| [[Campaigns/Under The Ash/Sessions/01-Meeting Cal.md\|01-Meeting Cal]]     | 2         | 5       | March 26, 2026 |
-| [[Campaigns/Under The Ash/Sessions/00-First Session.md\|00-First Session]] | 1         | 2       | March 12, 2026 |
+| Session Name                                                                   | Start Day | End Day | Date           |
+| ------------------------------------------------------------------------------ | --------- | ------- | -------------- |
+| [[Campaigns/Under The Ash/Sessions/04-Killing The Hag.md\|04-Killing The Hag]] | -        | -      | May 07, 2026   |
+| [[Campaigns/Under The Ash/Sessions/03-Battle Toads.md\|03-Battle Toads]]       | 6         | 7       | April 23, 2026 |
+| [[Campaigns/Under The Ash/Sessions/02-The Hag.md\|02-The Hag]]                 | 5         | 6       | April 09, 2026 |
+| [[Campaigns/Under The Ash/Sessions/01-Meeting Cal.md\|01-Meeting Cal]]         | 2         | 5       | March 26, 2026 |
+| [[Campaigns/Under The Ash/Sessions/00-First Session.md\|00-First Session]]     | 1         | 2       | March 12, 2026 |
 
 ## Newest Quests
 

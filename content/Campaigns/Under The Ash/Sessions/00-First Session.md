@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-04-19T10:10:38.682-04:00
-published: 2026-04-19T10:10:38.682-04:00
+modified: 2026-05-19T19:57:37.435-04:00
+published: 2026-05-19T19:57:37.435-04:00
 Date: 2026-03-12
 Party:
   - "[[Avenj]]"
@@ -130,7 +130,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
 - As we move the red diamond closer, the words become more visible; it absorbs into the book and text appears.
 - "The [[Diamond of 20 Monsters]]: This artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[The Grindledarks|Grindledarks]]".
 - The diamond is removable still if you stick your hand in the page.
-- Another page appears/renders showing a [[Crooked Staff|crooked staff]] with blurry text below.
+- Another page appears/renders showing a [[Staff of Souls|crooked staff]] with blurry text below.
 - We take the diamond out of the book and decide its best to store them separately.
 - [[Theodore Shellington|Theodore]] hides the book amongst his other books in his bag; [[Roz Rozum|Roz]] puts the diamond in his bag.
 
