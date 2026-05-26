@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-21T17:34:58.724-04:00
-modified: 2026-05-21T22:04:04.332-04:00
-published: 2026-05-21T22:04:04.332-04:00
+modified: 2026-05-25T22:46:32.797-04:00
+published: 2026-05-25T22:46:32.797-04:00
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
@@ -31,11 +31,11 @@ End Day: 8
 - [[Roz Rozum|Roz]] rolls a Religion check (only gets a 7)
   - While praying, he does recognize the voice coming from his shield
   - "You are named [[Roz Rozum|Roz]]. Your shield tells me so" (in a demonic voice)
-  - ...He ([[Jimmothy]])belongs to all of us
-  - ...i am the goddness of lycanthropes (wearwolves)?
+  - "...He ([[Jimmothy]]) belongs to all of us"
+  - "...I am the goddness of lycanthropes (werewolves)"
   - and [[Roz Rozum|Roz]] I need you... You hunt for artifacts...
   - the goddess wants the knife we are seeking. "The gods are not able to tell you what they possess and what they do as we are still unsure. But have you ever learned of the Sabertooth Beasts?" (he has not). "They are the ones that worship me. having 3 dens of 3 packs. the oldest being the outlaws. the next the western den. and the one that we hate the most is the dark beasts"
-  - hates them because "they possess my powers but do not follow me.. the alpha of the dark beasts known as voric vale(?) and possess the item you want"
+  - hates them because "they possess my powers but do not follow me.. the alpha of the dark beasts known as [[Vorick Bale]] and possess the item you want"
   - "It is because you care for [[Theratina]] and wish to know her true nature (in response to [[Roz Rozum|Roz]] saying if he does do this, it is not bc he serves this goddess; but out of his own volition)"
 - [[Jimmothy]] returns
   - He mentions he "doesn't have a choice" sharing [[Roz Rozum|Roz]]'s secrets
@@ -46,19 +46,19 @@ End Day: 8
 #### The next day
 
 - [[Theratina]] has a stick in the ground trying to cast [[dead-mist-lash-valdaspire24|Dead Mist Lash]] at it
-  - She is repeatedly failing but [[Avenj]] gives her a tip
+  - She is repeatedly failing but [[Avenj]] gives her advice
   - She learns it, casting it successfully
 - She evidently was practicing all night as she is fast asleep at the table when we go downstairs
 - [[Avenj]] greets [[Iron Wake Mug Barkeep|Diana]]
   - He asks her if the [[warforged-efa|Warforged]] she previously mentioned seeing looked like him
-  - She says he was similar, and he, too, looked like he was "made for the cold"
+  - She says he was similar and he, too, looked like he was "made for the cold"
   - "He seemed like he was going somewhere important... it was South"
 - [[Raelor]] tells her we found [[Crown of Thorns, Crown of Ash]]
   - He asks her why she is so interested in it
   - She mentioned her father was in that war
   - She takes out [[The Human King of the Elves]] (a kid's book about the same story)
   - He loans her [[Crown of Thorns, Crown of Ash]] and in return borrows [[The Human King of the Elves]]
-- We head out to go collect our bounties
+- We head out to collect our bounties
 
 ---
 
@@ -77,12 +77,11 @@ End Day: 8
 
 ### At the [[Arena of Vel'Therin Expanse]]
 
-- We see [[Bruce]] with two gentlemen standing at the door, wearing the some colors he is
+- We see two guards outside [[Bruce]]'s door wearing the some colors he does
 - They let us in
 - There is a man with [[Bruce]]
-  - dark in robes (intersting looking egntleman) with a massive scar down his face almost like a wofl attacked him. he seems friendly and approachable
   - This other guy leaves
-- We gives us a bag of 10,000 gold
+- [[Bruce]] gives us a bag of 10,000 gold
 - He said today's fight was a genetically modified [[owlbear|Owlbear]] with 50:1 odds fighting it
   - He laughed at the notion of us fighting it
   - If [[The Hag]] were here, the odds would have been 10:1
@@ -93,13 +92,14 @@ End Day: 8
   - D: 0.25-5:1
 - If we aren't sponsored and die, we don't get revived
   - He can't sponsor us (he already has a group he sponsors)
-  - His friend [[Ferrar]] (part of [[The Red Maw]]) is looking to
-    - He is a [[werewolf]] and the leader of the [[Outlaw's Den]] (now called [[The Red Maw]])
-    - Dealing with "dark beasts"
-  - He said to be back tomorrow same time to meet him
+  - His friend is [[Ferrar]] (part of [[The Outlaw's Den|The Red Maw]]) and:
+    - Is a [[werewolf]] and the leader of [[The Outlaw's Den]] (now called [[The Outlaw's Den|The Red Maw]])
+    - Is dealing with "dark beasts"
+  - He said to be back tomorrow at the same time to meet him
+    - He wants to sponsor us
   - Theres a B tier fight tomorrow, too
 - [[Yharov Stonebrow|Yharov]] hands over the clothes from [[The Hag]]'s victims
-  - [[Bruce]] and co will contact the families
+  - [[Bruce]] and co will contact their families
 - We send a message back to [[Iron Wake Mug Barkeep|Diana]] who tells us we can come pick up [[Theratina]]
 - [[Yharov Stonebrow|Yharov]] and [[Raelor]] go get here while the rest of us to go shopping
 
@@ -108,10 +108,10 @@ End Day: 8
 ### At [[The Iron Wake Mug]]
 
 - [[Raelor]] and [[Yharov Stonebrow|Yharov]] find [[Theratina]] who is eating a huge amount of food
-- They give her the 6,000g and she is stunned
+- They give her the 6,000g bag and she is stunned
   - They explain how she's part of the crew
 - The sit her down and explain that they found her mother's clothes in [[The Hag's Lair]]
-- [[Theratina]] is stunned
+- [[Theratina]] is speechless
 - [[Raelor]] and [[Yharov Stonebrow|Yharov]] both make and fail a charisma save
 - The room shifts; they are standing in what seems to be a deserted wasteland
   - It is [[Mirrh's Hollow]]
@@ -160,15 +160,16 @@ End Day: 8
 - We decide to go hang near a fountain at the park and people watch
 - He dances horrible  5 performance check) and [[Theratina]] thinks it's hilarious
   - She joins in
-  - Some performers begin playing music and a crowd begins dancing
+  - Some nearby performers begin playing music
+  - People passing by stop and join
   - [[Avenj]] spawns a [[skeleton-dmg|Skeleton]] and it begins dancing
   - Everyone gasps in fear but then [[Theratina]] jumps into its arms
   - Everyone thinks it's part of the performance
-- [[Yharov Stonebrow|Yharov]] notices [[Bruce]] and the [[wearwolf guy]] watching from afar
+- [[Yharov Stonebrow|Yharov]] notices [[Bruce]] and [[Ferrar]] watching from afar
   - They are looking at [[Theratina]], murmuring
 - A few hours pass
-  - [[Theodore Shellington|Theodore]] spent the time copying his new spell scrolls into his book
-- [[Theratina]] finally sees her reflection and is freaked out that she is grown
+  - [[Theodore Shellington|Theodore]] spent the time copying his level 1 spell scrolls into his book
+- [[Theratina]] finally sees her reflection and is freaked out that she has grown
 - We head home
 
 ---
@@ -193,7 +194,7 @@ End Day: 8
 
 ### The Next Day
 
-- Despite the [[werewolf guy]] making us suspicious, we still decide we are going to go forward with our plan
+- Despite the [[Ferrar]] making us suspicious, we still decide we are going to go forward with our plan
 - [[Iron Wake Mug Barkeep|Diana]] agrees to look after [[Theratina]] while we fight
 - [[Theodore Shellington|Theodore]] grabs his staff and other spell scroll from [[The Gilded Sigil]]
 
@@ -202,46 +203,45 @@ End Day: 8
 ### At The [[Arena of Vel'Therin Expanse]]
 
 - We go to [[Bruce]]'s tower at the [[Arena of Vel'Therin Expanse]]
-- We meet with [[werewolf guy]] who agrees to sponsor us
+- We meet with [[Ferrar]] who agrees to sponsor us
   - He will take 10% of the winnings in exchange for paying for our [[resurrection-xphb|Resurrection]] (if necessary)
   - An excellent insight check shows he has no malicious intent
 - He claims he is in the city to get intel
   - He is looking for [[Vorick Bale]] (part of [[The Dark Beasts]])
-    - "originally all the werrewolfs come. from the sabertooth beaests. they got separted into 3 groups. the old laws (to the south), the red maw (moon hollow) and the dark beatss (twin vanes). the dark beasts go where they want, kill who they please, and noone challenges them"
+    - "Originally all the [[werewolf]]s come from the sabertooth beasts. They got separated into 3 groups. the [[The Old Laws]] (to the south), [[The Outlaw's Den|The Red Maw]] (moon hollow), and [[The Dark Beasts]] (twin vanes). The dark beasts go where they want, kill who they please, and no one challenges them"
 - He gets down on one knee and introduces himself to [[Theratina]]
   - He asks her if she was in [[The Unnamed City]]
   - She does not respond
   - Our insight check shows he has some sort of malicious intent
     - He knows something about her being there
-- Once away and our of earshot, we ask [[Theratina]] about [[werewolf guy]]
+- Once away and our of earshot, we ask [[Theratina]] about [[Ferrar]]
   - "He looks like someone I saw in [[The Unnamed City]]. He was recruiting, biting people, and bringing people into that tavern I told you not to go into"
 - We give [[Theratina]] the [[hat-of-disguise|Hat of Disguise]] so that she remains safe during our fight
-  - She turns into an anonymous person
-- We go back to [[werewolf guy]]'s room to finalize the deal
-  - Before we touch the doorhandle, we overhear [[Bruce]] and [[werewolf guy]] talking about how they think that we are incapable of protecting [[Theratina]] and how she would be better in their "possession"
+  - After turning into a few variants of [[Avenj]], she turns into an anonymous person
+- We go back to [[Ferrar]]'s room to finalize the deal
+  - Before we touch the door handle, we overhear [[Bruce]] and [[Ferrar]] talking about how they think that we are incapable of protecting [[Theratina]] and how she would be better in their "possession"
     - They claim someone is searching for her
 - We decide to confront them about it
   - Both of them look at us in shock
-  - "Listen. I think it's best as if you guys pretend you never heard anything". We don't want to take her from you. We are going to, but we don't want to. When you killed the hag, you started her process."
+  - "Listen. I think it's best as if you guys pretend you never heard anything. We don't want to take her from you. We are going to, but we don't want to. When you killed the hag, you started her process."
   - He somehow knows that she died because she grew
     - Perhaps when she dies, she comes back and grows?
-  - "I can bring her to salvation" - [[werewolf guy]]
-  - "I care for life. I shelter 45,000 wolves that have nowhere to go. Outside of our den, we protect something known as a santuary. We bring widows, elderly folk, etc that are effected by wars, famine, and the like."
-  - He claims he would never turn her into a werewolf
+  - "I can bring her to salvation" - [[Ferrar]]
+  - "I care for life. I shelter 45,000 wolves that have nowhere to go. Outside of our den, we protect something known as a sanctuary. We bring widows, elderly folk, etc that are effected by wars, famine, and the like."
+  - He claims he would never turn her into a [[werewolf]]
   - "A magic is in her, and it wants her to be capable of wielding it. So every time she dies, she will come back until the process is complete. Her final transformation. If she dies then, she is actually dead."
-  - When asked what he meant by "salvation", he responds "She can be with people who can teach her, help her grow, and fulfill her destiny."
+  - When asked what he meant by "salvation", he responds, "She can be with people who can teach her, help her grow, and fulfill her destiny."
   - "I want you to vow that you will bring her somewhere. That you will find her a stable home."
     - We agree
   - He claims it's a [[The Grindledarks|Grindledark]] who is searching for her, and claims we know which one
-    - Probably [[Ned Grindledark]]
-  - [[werewolf guy]] is from the
-    - He wants to bring her to the [[Glasscat Grove]] in [[Moon Hollow]] (his sanctuary)
-      - [[Glasscat Grove]] used to be a sanctuary that guarded a powerful artifact. [[The Silent Fist]] ran through this grove, one person killing all of them. Decades later, one of the old members went back, curing it (with the help of one powerful  individual). Now a sanctuary named [[Moon Hollow]] has been created
-  - "I am not to take one by force" - he is not going to try to force [[Theratina]] to go with him
-  - "What I can offer you is strength. Is power. I can curse one of you."
+    - Almost certainly [[Ned Grindledark]]
+  - He wants to bring her to the [[Glasscat Grove]] in [[Moon Hollow]] (his sanctuary)
+    - [[Glasscat Grove]] used to be a sanctuary that guarded a powerful artifact. [[The Silent Fist]] ran through this grove, one person killing all of them. Decades later, one of the old members went back, curing it (with the help of one powerful  individual). Now a sanctuary named [[Moon Hollow]] has been created
+  - He is not going to try to force [[Theratina]] to go with him
+  - "What I can offer you is strength, power. I can curse one of you."
     - [[Yharov Stonebrow|Yharov]] agrees. He becomes a [[werewolf]]
     - [[Roz Rozum|Roz]] also does it and becomes a [[weretiger]]
     - They now feel bound to him; they must serve him or something
-    - Before he leaves, he licks his thumbs and puts it on [[Yharov Stonebrow|Yharov]] and [[Roz Rozum|Roz]]; that feeling they felt is gone
+    - Before he leaves, he licks his thumbs and puts it on [[Yharov Stonebrow|Yharov]] and [[Roz Rozum|Roz]]; that binding feeling they felt is gone
 - As the session ends, we head down to sign up for the fight
 - **NOTE**: We are probably 15 days or so away from the next full moon
