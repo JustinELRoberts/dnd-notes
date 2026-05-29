@@ -4,8 +4,8 @@ aliases:
   - Lord Grindledark
   - Ned Grindledark
 created: 2026-03-26T22:23:44.634-04:00
-modified: 2026-04-19T10:13:13.847-04:00
-published: 2026-04-19T10:13:13.847-04:00
+modified: 2026-05-29T09:48:07.821-04:00
+published: 2026-05-29T09:48:07.821-04:00
 Age: Not known
 Gender: Male
 Race: "[[drow|Drow]]"
@@ -14,8 +14,7 @@ Factions:
 tags:
 ---
 
-## Description
-
+n
 He is the creator of the [[Scary Frankenstein Guy|stitched boy]] but lost him
 
 ## Motivations
