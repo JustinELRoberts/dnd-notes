@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-05-21T17:34:58.724-04:00
-modified: 2026-05-29T10:28:14.068-04:00
-published: 2026-05-29T10:28:14.068-04:00
+modified: 2026-06-19T18:59:50.245-04:00
+published: 2026-06-19T18:59:50.245-04:00
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
-  - "[[Callie Dawnsong|Cal]]"
   - "[[Raelor]]"
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
@@ -37,8 +36,8 @@ End Day: 8
   - "...He ([[Jimmothy]]) belongs to all of us"
   - "...I am the goddness of lycanthropes (werewolves)"
   - "...and [[Roz Rozum|Roz]] I need you... You hunt for artifacts..."
-  - The goddess wants the knife we are seeking. "The gods are not able to tell you what they possess and what they do as we are still unsure. But have you ever learned of the [[Sabertooth Beasts]]?" (he has not). "They are the ones that worship me. having 3 dens of 3 packs. The oldest being [[The Old Laws]], the next [[The Red Maw|The Western Den]], and the one that we hate the most is [[The Dark Beasts]]"
-  - hates them because "they possess my powers but do not follow me.. the alpha of [[The Dark Beasts]] known as [[Vorick Bale]] and possess the item you want"
+  - The goddess wants the [[knife we are seeking]]. "The gods are not able to tell you what they possess and what they do as we are still unsure. But have you ever learned of the [[Sabertooth Beasts]]?" (he has not). "They are the ones that worship me. having 3 dens of 3 packs. The oldest being [[The Old Laws]], the next [[The Red Maw|The Western Den]], and the one that we hate the most is [[The Dark Beasts]]"
+    - Hates them because "they possess my powers but do not follow me.. the alpha of [[The Dark Beasts]] known as [[Vorick Bale]] and possess the item you want"
   - "It is because you care for [[Theratina]] and wish to know her true nature (in response to [[Roz Rozum|Roz]] saying if he does do this, it is not bc he serves this goddess; but out of his own volition)"
 - [[Jimmothy]] returns
   - He mentions he "doesn't have a choice" sharing [[Roz Rozum|Roz]]'s secrets
@@ -161,7 +160,7 @@ End Day: 8
 ### At the Park
 
 - We decide to go hang near a fountain at the park and people watch
-- He dances horrible  5 performance check) and [[Theratina]] thinks it's hilarious
+- He dances horrible (5 performance check) and [[Theratina]] thinks it's hilarious
   - She joins in
   - Some nearby performers begin playing music
   - People passing by stop and join
