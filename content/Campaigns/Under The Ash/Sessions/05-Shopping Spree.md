@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-05-21T17:34:58.724-04:00
-modified: 2026-05-25T22:46:32.797-04:00
-published: 2026-05-25T22:46:32.797-04:00
+modified: 2026-06-19T18:59:50.245-04:00
+published: 2026-06-19T18:59:50.245-04:00
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
-  - "[[Callie Dawnsong|Cal]]"
   - "[[Raelor]]"
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
@@ -21,21 +20,24 @@ End Day: 8
 
 ### Back at [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]]
 
-- We come into [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]] after our journey. It is dark out
+- We come into [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]] after our journey. It's dark out
 - We go back to [[The Iron Wake Mug]] and find our beds waiting for us
-  - [[Theodore Shellington|Theodore]] sets an alarm before we sleep
+  - [[Theodore Shellington|Theodore]] sets an [[alarm-xphb|Alarm]] before we sleep
 - [[Theodore Shellington|Theodore]] sends a message back to [[Otis]]:
-  > Otis, it’s Theodore. I escaped Aubertide. Are you safe? Who survived? I’m learning war magic then will return. Mentally reply with updates (max 25 words).”
-- Meanwhile, [[Raelor]] goes to [[Yharov Stonebrow|Yharov]]'s room and mentions how we should tell [[Theratina]] about her family member's clothes we found in \[\[]]
+  - "Otis, it’s Theodore. I escaped [[Aubertide]]. Are you safe? Who survived? I’m learning war magic then will return. Mentally reply with updates (max 25 words).”
+- Meanwhile, [[Raelor]] goes to [[Yharov Stonebrow|Yharov]]'s room and mentions how we should tell [[Theratina]] about her family member's clothes we found in [[04-Killing The Hag#The Jail Cells]]
 - [[Yharov Stonebrow|Yharov]] weaves a scarf for [[Theratina]] from her mother's found clothes
+
+#### A conversation with Malar
+
 - [[Roz Rozum|Roz]] rolls a Religion check (only gets a 7)
   - While praying, he does recognize the voice coming from his shield
   - "You are named [[Roz Rozum|Roz]]. Your shield tells me so" (in a demonic voice)
   - "...He ([[Jimmothy]]) belongs to all of us"
   - "...I am the goddness of lycanthropes (werewolves)"
-  - and [[Roz Rozum|Roz]] I need you... You hunt for artifacts...
-  - the goddess wants the knife we are seeking. "The gods are not able to tell you what they possess and what they do as we are still unsure. But have you ever learned of the Sabertooth Beasts?" (he has not). "They are the ones that worship me. having 3 dens of 3 packs. the oldest being the outlaws. the next the western den. and the one that we hate the most is the dark beasts"
-  - hates them because "they possess my powers but do not follow me.. the alpha of the dark beasts known as [[Vorick Bale]] and possess the item you want"
+  - "...and [[Roz Rozum|Roz]] I need you... You hunt for artifacts..."
+  - The goddess wants the [[knife we are seeking]]. "The gods are not able to tell you what they possess and what they do as we are still unsure. But have you ever learned of the [[Sabertooth Beasts]]?" (he has not). "They are the ones that worship me. having 3 dens of 3 packs. The oldest being [[The Old Laws]], the next [[The Red Maw|The Western Den]], and the one that we hate the most is [[The Dark Beasts]]"
+    - Hates them because "they possess my powers but do not follow me.. the alpha of [[The Dark Beasts]] known as [[Vorick Bale]] and possess the item you want"
   - "It is because you care for [[Theratina]] and wish to know her true nature (in response to [[Roz Rozum|Roz]] saying if he does do this, it is not bc he serves this goddess; but out of his own volition)"
 - [[Jimmothy]] returns
   - He mentions he "doesn't have a choice" sharing [[Roz Rozum|Roz]]'s secrets
@@ -77,7 +79,7 @@ End Day: 8
 
 ### At the [[Arena of Vel'Therin Expanse]]
 
-- We see two guards outside [[Bruce]]'s door wearing the some colors he does
+- We see two guards outside [[Bruce]]'s door wearing the same colors he does
 - They let us in
 - There is a man with [[Bruce]]
   - This other guy leaves
@@ -92,8 +94,8 @@ End Day: 8
   - D: 0.25-5:1
 - If we aren't sponsored and die, we don't get revived
   - He can't sponsor us (he already has a group he sponsors)
-  - His friend is [[Ferrar]] (part of [[The Outlaw's Den|The Red Maw]]) and:
-    - Is a [[werewolf]] and the leader of [[The Outlaw's Den]] (now called [[The Outlaw's Den|The Red Maw]])
+  - His friend is [[Ferrar]] and he:
+    - Is a [[werewolf]] and the leader of [[The Red Maw]]
     - Is dealing with "dark beasts"
   - He said to be back tomorrow at the same time to meet him
     - He wants to sponsor us
@@ -158,13 +160,13 @@ End Day: 8
 ### At the Park
 
 - We decide to go hang near a fountain at the park and people watch
-- He dances horrible  5 performance check) and [[Theratina]] thinks it's hilarious
+- He dances horrible (5 performance check) and [[Theratina]] thinks it's hilarious
   - She joins in
   - Some nearby performers begin playing music
   - People passing by stop and join
   - [[Avenj]] spawns a [[skeleton-dmg|Skeleton]] and it begins dancing
   - Everyone gasps in fear but then [[Theratina]] jumps into its arms
-  - Everyone thinks it's part of the performance
+  - Everyone thinks it's part of the performance and go back to dancing
 - [[Yharov Stonebrow|Yharov]] notices [[Bruce]] and [[Ferrar]] watching from afar
   - They are looking at [[Theratina]], murmuring
 - A few hours pass
@@ -203,12 +205,15 @@ End Day: 8
 ### At The [[Arena of Vel'Therin Expanse]]
 
 - We go to [[Bruce]]'s tower at the [[Arena of Vel'Therin Expanse]]
+
+#### A conversation with [[Ferrar]]
+
 - We meet with [[Ferrar]] who agrees to sponsor us
   - He will take 10% of the winnings in exchange for paying for our [[resurrection-xphb|Resurrection]] (if necessary)
   - An excellent insight check shows he has no malicious intent
 - He claims he is in the city to get intel
   - He is looking for [[Vorick Bale]] (part of [[The Dark Beasts]])
-    - "Originally all the [[werewolf]]s come from the sabertooth beasts. They got separated into 3 groups. the [[The Old Laws]] (to the south), [[The Outlaw's Den|The Red Maw]] (moon hollow), and [[The Dark Beasts]] (twin vanes). The dark beasts go where they want, kill who they please, and no one challenges them"
+    - "Originally all the [[werewolf|werewolves]] come from the sabertooth beasts. They got separated into 3 groups. the [[The Old Laws]] (to the south), [[The Red Maw]] ([[Moon Hollow]]), and [[The Dark Beasts]] ([[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]]). The dark beasts go where they want, kill who they please, and no one challenges them"
 - He gets down on one knee and introduces himself to [[Theratina]]
   - He asks her if she was in [[The Unnamed City]]
   - She does not respond
@@ -237,7 +242,7 @@ End Day: 8
     - Almost certainly [[Ned Grindledark]]
   - He wants to bring her to the [[Glasscat Grove]] in [[Moon Hollow]] (his sanctuary)
     - [[Glasscat Grove]] used to be a sanctuary that guarded a powerful artifact. [[The Silent Fist]] ran through this grove, one person killing all of them. Decades later, one of the old members went back, curing it (with the help of one powerful  individual). Now a sanctuary named [[Moon Hollow]] has been created
-  - He is not going to try to force [[Theratina]] to go with him
+  - He is not going to try to force [[Theratina]] to go
   - "What I can offer you is strength, power. I can curse one of you."
     - [[Yharov Stonebrow|Yharov]] agrees. He becomes a [[werewolf]]
     - [[Roz Rozum|Roz]] also does it and becomes a [[weretiger]]

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-07T18:03:40.485-04:00
-modified: 2026-05-21T18:12:30.601-04:00
-published: 2026-05-21T18:12:30.601-04:00
+modified: 2026-05-29T09:45:31.566-04:00
+published: 2026-05-29T09:45:31.566-04:00
 Date: 2026-05-07
 Party:
   - "[[Avenj]]"
@@ -67,7 +67,7 @@ The high-stakes standoff with [[The Hag]] concluded as [[Raelor]] successfully b
 - Located further east, the floor of this cellblock is caked in so many layers of old blood it resembles a coat of paint.
 - A nearby chest contains the stolen belongings of hundreds of people [[The Hag]] previously tricked, killed, and skinned.
 - One name on the bags rings a distinct bell: [[Alatina]], found alongside a set of clothes modified with a patch meant for a lizard tail.
-  - We think she is a relative of [[Theratina]].
+  - We think she is [[Theratina]]'s mother
 
 ---
 
