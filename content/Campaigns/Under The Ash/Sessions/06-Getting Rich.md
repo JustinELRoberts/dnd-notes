@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-18T17:57:42.546-04:00
-modified: 2026-06-19T19:01:23.914-04:00
-published: 2026-06-19T19:01:23.914-04:00
+modified: 2026-06-20T18:15:46.713-04:00
+published: 2026-06-20T18:15:46.713-04:00
 Date: 2026-06-18
 Party:
   - "[[Avenj]]"
@@ -12,7 +12,7 @@ Party:
   - "[[Theodore Shellington|Theodore]]"
   - "[[Yharov Stonebrow|Yharov]]"
 Start Day: 8
-End Day:
+End Day: 8
 ---
 
 ## Summary
