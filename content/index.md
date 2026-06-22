@@ -11,10 +11,8 @@
 ## Newest Quests
 
 - [[Campaigns/Under The Ash/Quests/Kill The Hoods Leader.md|Kill The Hoods Leader]]:  (began day 7)
-- [[Campaigns/Under The Ash/Quests/Need an Exterminator.md|Need an Exterminator]]:  (began day 7)
-- [[Campaigns/Under The Ash/Quests/Monster Escaped the Arena.md|Monster Escaped the Arena]]:  (began day 7)
-- [[Campaigns/Under The Ash/Quests/Resolve the Bake-Off.md|Resolve the Bake-Off]]:  (began day 7)
-- [[Campaigns/Under The Ash/Quests/Kill the Hag.md|Kill the Hag]]:  (began day 6)
+- [[Campaigns/Under The Ash/Quests/Resolve the Bake-Off.md|Resolve the Bake-Off]]:  (began day 6)
+- [[Campaigns/Under The Ash/Quests/Diamond of 20 Monsters Delivery.md|Diamond of 20 Monsters Delivery]]:  (began day 1)
 
 ## The Party
 

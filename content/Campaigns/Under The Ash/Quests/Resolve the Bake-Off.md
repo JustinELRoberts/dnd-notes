@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-05-02T13:45:09.214-04:00
-modified: 2026-05-02T14:00:37.516-04:00
-published: 2026-05-02T14:00:37.516-04:00
+modified: 2026-06-21T20:19:01.563-04:00
+published: 2026-06-21T20:19:01.563-04:00
 Givers:
   - "[[Quest Giver Guild]]"
-Begin Day: 7
+Begin Day: 6
 Completion Day:
 aliases:
 tags:
