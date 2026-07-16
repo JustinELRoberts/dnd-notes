@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-18T17:57:42.546-04:00
-modified: 2026-06-20T18:15:46.713-04:00
-published: 2026-06-20T18:15:46.713-04:00
+modified: 2026-07-12T17:36:34.566-04:00
+published: 2026-07-12T17:36:34.566-04:00
 Date: 2026-06-18
 Party:
   - "[[Avenj]]"
@@ -40,7 +40,7 @@ End Day: 8
   - He is carried out on a stretcher
   - We follow
 
-#### [[Roz Rozum|Roz]]'s perspective from the dead
+#### Roz's perspective from the dead
 
 - He is standing in a beautiful, infinite temple with tendrils of magic floating everywhere
 - He feels peaceful; as thought he can rest and breath
@@ -103,10 +103,10 @@ End Day: 8
   - He is almost certainly [[Thompson]]
 - He mentions [[Theratina]] by name
 - He also pulls out the [[knife we are seeking]]
-  - "I will give you this if you help me get into [[Glasscat Grove]]"
+  - "I will give you this if you help me get into [[Glasscap Grove]]"
   - He wants to "free" them and help them "fight back"
   - "If I bite someone [[Ferrar]] has bitten, they'll switch; he will no longer be their alpha"
-  - "I will become the alpha of [[Glasscat Grove]]"
+  - "I will become the alpha of [[Glasscap Grove]]"
 - [[Raelor]] asks what "truth" he saw
   - "I saw this monster we locked away be treid to free on multiple occassions"
   - "The truth is: nobody deserves free will"

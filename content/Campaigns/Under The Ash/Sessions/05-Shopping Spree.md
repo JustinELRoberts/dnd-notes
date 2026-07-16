@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-21T17:34:58.724-04:00
-modified: 2026-06-19T18:59:50.245-04:00
-published: 2026-06-19T18:59:50.245-04:00
+modified: 2026-07-12T17:36:34.561-04:00
+published: 2026-07-12T17:36:34.561-04:00
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
@@ -240,8 +240,8 @@ End Day: 8
     - We agree
   - He claims it's a [[The Grindledarks|Grindledark]] who is searching for her, and claims we know which one
     - Almost certainly [[Ned Grindledark]]
-  - He wants to bring her to the [[Glasscat Grove]] in [[Moon Hollow]] (his sanctuary)
-    - [[Glasscat Grove]] used to be a sanctuary that guarded a powerful artifact. [[The Silent Fist]] ran through this grove, one person killing all of them. Decades later, one of the old members went back, curing it (with the help of one powerful  individual). Now a sanctuary named [[Moon Hollow]] has been created
+  - He wants to bring her to the [[Glasscap Grove]] in [[Moon Hollow]] (his sanctuary)
+    - [[Glasscap Grove]] used to be a sanctuary that guarded a powerful artifact. [[The Silent Fist]] ran through this grove, one person killing all of them. Decades later, one of the old members went back, curing it (with the help of one powerful  individual). Now a sanctuary named [[Moon Hollow]] has been created
   - He is not going to try to force [[Theratina]] to go
   - "What I can offer you is strength, power. I can curse one of you."
     - [[Yharov Stonebrow|Yharov]] agrees. He becomes a [[werewolf]]
