@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-18T17:57:42.546-04:00
-modified: 2026-07-12T17:36:34.566-04:00
-published: 2026-07-12T17:36:34.566-04:00
+modified: 2026-07-16T16:12:50.574-04:00
+published: 2026-07-16T16:12:50.574-04:00
 Date: 2026-06-18
 Party:
   - "[[Avenj]]"
@@ -16,6 +16,8 @@ End Day: 8
 ---
 
 ## Summary
+
+The party fought and defeated a magical Ice/[[stone-giant|Stone Giant]] at the [[Arena of Vel'Therin Expanse]]. During the battle, [[Roz Rozum|Roz]] died in an explosion, experiencing a vision of [[forgotten-realms-selune|Selûne]] and his sentient shield [[Jimmothy]] before successfully accepting a [[resurrection-xphb|Resurrection]] spell. After collecting their massive 277,000G payout and paying [[Ferrar]] his cut, the group learned about [[The Dark Beasts]] and their alpha, [[Thompson]], who is [[Ferrar]]'s brother. Later at [[The Iron Wake Mug]], the party was approached by [[Thompson]] himself, who attempted to bargain for the [[knife we are seeking]] to overthrow [[Ferrar]] as the alpha of [[Glasscap Grove]]. [[Thompson]] ominously hinted at [[Theratina]]'s true nature before leaving a mysterious coin identical to one found previously. The session ended at [[Bruce]]'s manor, where reading [[The Human King of the Elves]] trapped [[Callie Dawnsong|Cal]] in a horrifying, manipulative vision connected to [[Theratina]].
 
 ## Events
 

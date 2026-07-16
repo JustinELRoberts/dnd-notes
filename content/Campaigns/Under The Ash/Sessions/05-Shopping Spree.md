@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-21T17:34:58.724-04:00
-modified: 2026-07-12T17:36:34.561-04:00
-published: 2026-07-12T17:36:34.561-04:00
+modified: 2026-07-16T16:12:27.058-04:00
+published: 2026-07-16T16:12:27.058-04:00
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
@@ -15,6 +15,8 @@ End Day: 8
 ---
 
 ## Summary
+
+Following their rest, [[Roz Rozum|Roz]] communicated with [[forgotten-realms-malar|Malar]], the goddess of lycanthropes, who demanded the [[knife we are seeking]] and revealed that [[Vorick Bale]] of [[The Dark Beasts]] currently possesses the artifact they seek. The party collected substantial bounties from [[The Citadel of Vel Rau'dan|The Citadel]] for the [[young-blue-dragon|Young Blue Dragon]] and from [[Bruce]] at the [[Arena of Vel'Therin Expanse]] for eliminating [[The Hag]]. Upon giving [[Theratina]] her deceased mother's clothes, [[Raelor]] and [[Yharov Stonebrow|Yharov]] were inadvertently pulled into a traumatic shared memory of [[Theratina]]'s parents being murdered by a [[Mechanics/CLI/bestiary/fiend/night-hag|Night Hag]], an event that caused [[Theratina]] to rapidly age. The group spent the afternoon shopping and enjoying a lively dance in the park before meeting with [[Ferrar]] to arrange combat sponsorship. During the meeting, [[Ferrar]] revealed that a [[The Grindledarks|Grindledark]] is hunting [[Theratina]] and offered her sanctuary at [[Glasscap Grove]]. To seal an alliance and grant them strength, [[Ferrar]] cursed [[Yharov Stonebrow|Yharov]] and [[Roz Rozum|Roz]] with lycanthropy, turning them into a [[werewolf]] and a [[weretiger]], respectively.
 
 ## Events
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-12T17:22:49.457-04:00
-modified: 2026-07-16T13:55:44.531-04:00
-published: 2026-07-16T13:55:44.531-04:00
+modified: 2026-07-16T16:20:11.523-04:00
+published: 2026-07-16T16:20:11.523-04:00
 Date: 2026-07-02
 Party:
   - "[[Avenj]]"
@@ -16,6 +16,10 @@ End Day:
 ---
 
 ## Summary
+
+The party awoke at [[Bruce]]'s manor, where [[Roz Rozum|Roz]] was briefly confronted by [[forgotten-realms-malar|Malar]]—the goddess of lycanthropes—who possessed his shield [[Jimmothy]] to ask if he had considered her previous offer. Following this, the group met with the halfling real estate agent [[Campaigns/Under The Ash/NPCs/Rod|Rod]]. Upon inspecting the abandoned [[Starlight Inn]], they discovered the building was actually a massive [[mimic]], which they narrowly escaped and killed. Taking advantage of the destroyed lot, they finalized a 225,000-gold deal to construct a tavern and bastion named [[Tale's End]].
+
+Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out [[Ferrar]], who revealed his brother [[Thompson]] had collaborated with a noble-looking man (likely [[Ned Grindledark|Ned]]) on supersoldier experiments inspired by legendary texts like _The Champions of Evermore_. [[Ferrar]] transported the group via his airship to [[The Unnamed City|The Border City]], only to discover a horrific scene: [[Thompson]] had slaughtered the entire population. In the ensuing confrontation, [[Thompson]] petrified [[Ferrar]] using the [[knife we are seeking]], but a dark-eyed [[Theratina]] aggressively retaliated, stabbing him repeatedly and severing his hand. [[Thompson]] vanished in a cloud of smoke, leaving behind purple blood corrupted by [[Tears of Silvanus]]. After [[Roz Rozum|Roz]] saved the lone survivor—a toddler whom [[Ferrar]] agreed to escort to [[Glasscap Grove]]—the party secured the airship and departed for [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]], intent on using the severed hand to track their foe.
 
 ## Events
 
@@ -48,25 +52,25 @@ End Day:
   - He is short, sitting in a tall chair to look taller
   - His name is [[Campaigns/Under The Ash/NPCs/Rod|Rod]]
 - We discuss buying property
-- He is playing hardball (negotation wise)
-- Each tavern comes with a bastion and optinoal bastion
+- He is playing hardball (negotiation-wise)
+- Each tavern comes with a bastion and optional bastion
 - Prices (just to build the building) is:
-  - poor (50k, 60 people max)
+  - poor (50k gold, 60 people max)
   - moderate (100k, 400-500 people max)
   - elite (250k; 1000-1200 people max)
 - There are also tiers of furnishings
-  - 35k
-  - 60k
-  - 85k
+  - poor (35k)
+  - moderate (60k)
+  - elite (85k)
 - Monthly costs for food/drink tiers:
   - 1000g/month
   - 5k/month
   - 10k/month
-- Teleportation circle
-  - a normal teleportation circle to tp to/from
-  - a nicer teleportation circle with 3 crystals to return us
-  - buttons on rings to click any time to return
 - Staff costs are the same items
+- Teleportation circle tiers (I missed prices):
+  - A normal teleportation circle to TP to
+  - A nicer teleportation circle which comes with 3 crystals which, when used, TP us to it
+  - Rings which allow us to TP to it at-will
 - We decode on small/poor building, but with elite furnishings
 - We go look at a property
   - It is the tavern that the hag duped us at [[02-The Hag#Starlight Inn]]
@@ -86,22 +90,26 @@ End Day:
 
 - He offers a 10% discount for us to buy the destroyed property
 - We choose:
-  - "poor" size (50k)
-  - "elite" furnishings (85k)
-  - "moderate" food/drink (5k/mo)
-  - "elite" servers (10k/mo)
-  - a bastion (4 possible facilities and 7 rooms, a living room, kitchen, storage room)
-    - arcane study, library, garden, and armory
+  - "Poor" size (50k)
+  - "Elite" furnishings (85k)
+  - "Moderate" food/drink (5k/mo)
+  - "Elite" servers (10k/mo)
+  - A bastion (4 possible facilities and 7 rooms, a living room, kitchen, storage room)
+    - Arcane Study
+    - Library
+    - Garden
+    - Armory
   - A basement (provides storage, we can later put teleportation circle here, etc)
 - We agree to pay 6 months of food/servers upfront (80k)
-- Total cost is 225k after our 10% discount (and free arcane study because Rod is scared of us)
+- Total cost is 225k after our 10% discount (and free Arcane Study because [[Campaigns/Under The Ash/NPCs/Rod|Rod]] is scared of us)
 - It will take ~1 month (one story arc however long that is) to build
-- We decide to name it "Tale's End
-- We expect 750g/week from the food/drink
-- 3375/week total including facilities' income (13500/mo)
-  - Our income multiplier is 4.5x (based on our reputation)
-  - It maxes at 10x, going up with reputation and quality of food/drink
-- He gives us a contract
+- We decide to name it [[Tale's End]]
+- Our expected income is:
+  - 750g/week from the food/drink alone
+  - 3375/week _total_ including facilities' income (13500/mo)
+    - Our income multiplier is 4.5x (based on our reputation)
+    - It maxes at 10x, increasing with reputation and quality of food/drink
+- [[Campaigns/Under The Ash/NPCs/Rod|Rod]] gives us a contract
   - If we miss a food payment, they charge us more going forward
   - Bastion facilities' workers are not included with the above costs
   - Total cost: 225k gold
@@ -111,7 +119,7 @@ End Day:
 
 - We discuss our next steps
 - [[Theratina]] admitted she spoke with [[Thompson]] this morning
-  - "In her head" (probably Sending)
+  - "In her head" (probably [[sending-xphb|Sending]])
 - She knows he is bad; worse then [[Ferrar]]
 - She wants us to go after him (and kill him)
 - First, we decide to speak with [[Ferrar]]
