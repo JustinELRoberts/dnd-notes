@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-12T17:22:49.457-04:00
-modified: 2026-07-16T16:29:26.507-04:00
-published: 2026-07-16T16:29:26.507-04:00
+modified: 2026-07-16T19:03:31.189-04:00
+published: 2026-07-16T19:03:31.189-04:00
 Date: 2026-07-02
 Party:
   - "[[Avenj]]"
@@ -12,7 +12,7 @@ Party:
   - "[[Theodore Shellington|Theodore]]"
   - "[[Yharov Stonebrow|Yharov]]"
 Start Day: 9
-End Day: 9
+End Day: 10
 ---
 
 ## Summary
@@ -145,11 +145,13 @@ Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out 
 - One such book was in [[Halcov Thunder: The Kingdom of Grundov Khaz]]
   - The Champions of Evermore
 - He offers to bring us to [[Thompson]] via his airship
-- We get on his airship and arrive on the north end of [[The Unnamed City|The Border City]] within a day
+- We get on his airship and arrive on the north end of [[The Unnamed City|The Border City]] after about a day
 
 ---
 
 ### At the Border City
+
+#### The fight
 
 - It is uncomfortably quiet; nobody is around despite it being daytime
 - [[Theratina]] is visibly scared
@@ -171,6 +173,9 @@ Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out 
   - She begins to rapidly stab with the silver knife (3 times in one turn)
   - She cuts off his hand
 - The dagger returns to [[Thompson]]'s hand and he vanishes in a dark cloud of smoke
+
+#### The aftermath
+
 - We notice that [[Thompson]]'s blood is purple
   - We think it is [[Tears of Silvanus]]
 - We test the hypothesis by dropping it on a plant
@@ -183,4 +188,4 @@ Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out 
   - [[Ferrar]] says he will take him to [[Glasscap Grove]]
 - [[Ferrar]] says we can take his ship
 - We plan to use his hand to find him
-- We take his airship to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]]
+- We get on the airship to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]]
