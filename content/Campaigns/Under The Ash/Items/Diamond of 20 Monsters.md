@@ -4,14 +4,15 @@ aliases:
   - massive red diamond
   - The Diamond of 20 Monsters
 created: 2026-03-21T22:59:06.742-04:00
-modified: 2026-04-16T22:21:00.379-04:00
-published: 2026-04-16T22:21:00.379-04:00
+modified: 2026-07-23T20:34:10.453-04:00
+published: 2026-07-23T20:34:10.453-04:00
 tags:
+  - 12-Artifacts
 ---
 
 ## Description
 
-A massive red diamond. According to the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]], "this artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[The Grindledarks|Grindledarks]]".
+One of the [[12 Artifacts]] and is a massive red diamond. According to the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]], "this artifact was used by [[The Unknown]] to bring 20 hideous monsters (its army) only to be slain by [[The Grindledarks|Grindledarks]]".
 
 ## Uses
 

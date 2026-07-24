@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-07T18:03:40.485-04:00
-modified: 2026-05-29T09:45:31.566-04:00
-published: 2026-05-29T09:45:31.566-04:00
+modified: 2026-07-23T20:44:04.924-04:00
+published: 2026-07-23T20:44:04.924-04:00
 Date: 2026-05-07
 Party:
   - "[[Avenj]]"
@@ -88,6 +88,7 @@ The high-stakes standoff with [[The Hag]] concluded as [[Raelor]] successfully b
 
 - We recover a small blue crystal containing the miniaturized, trapped [[young-blue-dragon|Young Blue Dragon]].
 - In the center of the room is a well. Inside, [[Raelor]] finds the [[Staff of Souls]]
+  - He initially feels compelled by its power, struggling to give it up
   - Upon storing it in the [[notebook with a sleeping face on its cover]], a third image appears: a massive, mangled dagger far too thick and long for a human to wield, accompanied by blurred, unreadable text.
 - We find [[Crown of Thorns, Crown of Ash]] on a bookshelf
 - We also find [[The Last Dream]]

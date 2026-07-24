@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-18T17:57:42.546-04:00
-modified: 2026-07-16T16:12:50.574-04:00
-published: 2026-07-16T16:12:50.574-04:00
+modified: 2026-07-23T21:25:05.731-04:00
+published: 2026-07-23T21:25:05.731-04:00
 Date: 2026-06-18
 Party:
   - "[[Avenj]]"
@@ -62,7 +62,7 @@ The party fought and defeated a magical Ice/[[stone-giant|Stone Giant]] at the [
 - We find [[Ferrar]] and give him his 10%
   - He is ecstatic
 - He suggests we hunt the [[The Dark Beasts]]
-  - "Last I hear, they were somewhere out by [[Greythorne]] in [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]]"
+  - "Last I hear, they were somewhere out by [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]] in [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]]"
   - He mentions they are forcibly turning people into lycanthropes
 - [[Theodore Shellington|Theodore]] asks if we were to hunt them if he would join
   - He scoffs; he is more of a manager than a battlefield specialist
@@ -104,7 +104,7 @@ The party fought and defeated a magical Ice/[[stone-giant|Stone Giant]] at the [
   - "I'm planning on visiting family"
   - He is almost certainly [[Thompson]]
 - He mentions [[Theratina]] by name
-- He also pulls out the [[knife we are seeking]]
+- He also pulls out the [[Dagger from the book]]
   - "I will give you this if you help me get into [[Glasscap Grove]]"
   - He wants to "free" them and help them "fight back"
   - "If I bite someone [[Ferrar]] has bitten, they'll switch; he will no longer be their alpha"

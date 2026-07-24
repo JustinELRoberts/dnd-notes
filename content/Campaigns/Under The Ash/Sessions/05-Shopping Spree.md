@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-21T17:34:58.724-04:00
-modified: 2026-07-16T16:12:27.058-04:00
-published: 2026-07-16T16:12:27.058-04:00
+modified: 2026-07-23T20:38:13.845-04:00
+published: 2026-07-23T20:38:13.845-04:00
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
@@ -109,7 +109,7 @@ Following their rest, [[Roz Rozum|Roz]] communicated with [[forgotten-realms-mal
 
 ---
 
-### At [[The Iron Wake Mug]]
+### A conversation with Theratina
 
 - [[Raelor]] and [[Yharov Stonebrow|Yharov]] find [[Theratina]] who is eating a huge amount of food
 - They give her the 6,000g bag and she is stunned

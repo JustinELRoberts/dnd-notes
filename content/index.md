@@ -2,7 +2,7 @@
 
 | Session Name                                                                       | Start Day | End Day | Date          |
 | ---------------------------------------------------------------------------------- | --------- | ------- | ------------- |
-| [[Campaigns/Under The Ash/Sessions/08-One Shot Ale Hunt.md\|08-One Shot Ale Hunt]] | 10        | -      | July 16, 2026 |
+| [[Campaigns/Under The Ash/Sessions/08-One Shot Ale Hunt.md\|08-One Shot Ale Hunt]] | 10        | 10      | July 16, 2026 |
 | [[Campaigns/Under The Ash/Sessions/07-Tavern Owners.md\|07-Tavern Owners]]         | 9         | 10      | July 02, 2026 |
 | [[Campaigns/Under The Ash/Sessions/06-Getting Rich.md\|06-Getting Rich]]           | 8         | 8       | June 18, 2026 |
 | [[Campaigns/Under The Ash/Sessions/05-Shopping Spree.md\|05-Shopping Spree]]       | 7         | 8       | May 21, 2026  |
@@ -13,6 +13,7 @@
 - [[Campaigns/Under The Ash/Quests/Kill The Hoods Leader.md|Kill The Hoods Leader]]:  (began day 7)
 - [[Campaigns/Under The Ash/Quests/Resolve the Bake-Off.md|Resolve the Bake-Off]]:  (began day 6)
 - [[Campaigns/Under The Ash/Quests/Diamond of 20 Monsters Delivery.md|Diamond of 20 Monsters Delivery]]:  (began day 1)
+- [[Campaigns/Under The Ash/Quests/Kill Thompson.md|Kill Thompson]]:  (began day -)
 
 ## The Party
 

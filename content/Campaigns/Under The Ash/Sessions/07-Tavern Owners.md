@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-12T17:22:49.457-04:00
-modified: 2026-07-16T19:03:31.189-04:00
-published: 2026-07-16T19:03:31.189-04:00
+modified: 2026-07-23T20:32:18.549-04:00
+published: 2026-07-23T20:32:18.549-04:00
 Date: 2026-07-02
 Party:
   - "[[Avenj]]"
@@ -165,7 +165,7 @@ Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out 
 - [[Ferrar]] tosses the keys back to [[Raelor]] and approaches [[Thompson]]
   - His hands are extended to claws, implying he will fight
 - High survival rolls imply there are truly no traps (besides [[Thompson]])
-- [[Thompson]] stabs [[Ferrar]] with the Knife we are seeking and he turns to stone
+- [[Thompson]] stabs [[Ferrar]] with the [[Dagger from the book]] and he turns to stone
   - He leaves the knife inside him and approaches us
 - We still have the option to leave
 - We stay and fight him

@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Invisible Amulet
 created: 2026-03-26T22:34:33.079-04:00
-modified: 2026-04-19T09:57:29.623-04:00
-published: 2026-04-19T09:57:29.623-04:00
+modified: 2026-07-23T20:38:21.154-04:00
+published: 2026-07-23T20:38:21.154-04:00
 tags:
 ---
 
@@ -16,4 +16,4 @@ We took this from [[The Card-Jutsu]] in [[01-Meeting Cal]] when he passed out dr
 
 ## Uses
 
-- TBD
+- We found out in [[05-Shopping Spree#At The Iron Wake Mug]]

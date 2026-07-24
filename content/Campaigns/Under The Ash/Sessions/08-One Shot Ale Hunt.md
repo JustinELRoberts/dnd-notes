@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-16T16:59:55.574-04:00
-modified: 2026-07-16T23:05:42.283-04:00
-published: 2026-07-16T23:05:42.283-04:00
+modified: 2026-07-23T21:38:10.796-04:00
+published: 2026-07-23T21:38:10.796-04:00
 Date: 2026-07-16
 Party:
   - "[[Avenj]]"
@@ -11,30 +11,30 @@ Party:
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
 Start Day: 10
-End Day:
+End Day: 10
 ---
 
 ## Summary
 
 ## Events
 
-### On the airship
+### On [[Ferrar's Airship]]
 
 - On the ship we walk past [[Ferrar]]'s room and see some advertisements:
   - "The best ale ever made: come one, come all to [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]]"
-    - Around [[Greythorne]]
+    - Around [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]]
   - "Top of the notch furniture: something something damage proof"
     - In [[Evershade]]
   - "A sign like never seen before. Neon: a magical adventure"
     - On the border of [[Carrowyn]] and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index|Karvok Thuldor]]
 - We choose to go pursue the ale
   - Note: this is going to be a fun side-quest one shot
-- [[Ferrar]] tell us we can find the ale in the "hay district" of [[Greythorne]] from a lady named [[Barbara]]
+- [[Ferrar]] tell us we can find the ale in the "hay district" of [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]] from a lady named [[Barbara Bongo]]
 - It is a roughly 3 day journey
 - During the journey, [[Raelor]] watches [[Ferrar]] to learn how to pilot the ship
   - It is a [[Morning Guide]] ship
 
-#### A conversation with Theratina
+#### A conversation with [[Theratina]]
 
 - [[Callie Dawnsong|Cal]] speaks to [[Theratina]] about the vision they had at [[Ferrar]]'s mansion
   - She has no recollection of it happening
@@ -51,41 +51,42 @@ End Day:
 - Sometime along the ship, [[Roz Rozum|Roz]] shares the crazy dream he had
   - Some red wizard approached him to do help some people and he went on an adventure
   - I assume this is from when he joined another campaign for a session yesterday
-- As the days pass, we approach [[Greythorne]]
+- As the days pass, we approach [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]]
 
 ---
 
-### At Greythorne
+### At [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]]
 
 - For the sake of the one shot, [[Theratina]] stays on the ship with [[Ferrar]]
-  - [[Ferrar]] tells us to look for a house with [[tiefling]]s, and to find a woman named [[Barbara]]
+  - [[Ferrar]] tells us to look for a house with [[tiefling]]s, and to find a woman named [[Barbara Bongo]]
 - We enter the [[Hay District]] and notice it is most populated by [[orc-dmg|Orc]]s
   - We eventually stumble upon the [[tiefling]]s [[Ferrar]] told us to find
-- We ask about [[Barbara]]
+- We ask about [[Barbara Bongo]]
   - "Oh her! She's the lively [[tiefling]]!"
   - "Just follow the music!"
-- There are 6 [[tiefling]]s by the music:
-  - I got the art for all but the blue one
-  - The last one with a medallian on her chest is painting on the table
-    - She is evidently [[Barbara]]
-    - The blue one is her father: [[Sir Anitor Bongo]]
+- There are 5 [[tiefling]]s by the music:
+  - [[Barbara Bongo]]
+  - [[Sir Onitor Bongo]]
+  - [[Armor Bongo]]
+  - [[Beard Bongo]]
+  - [[Purple Bongo]]
 - They claim to be out of ale due to a supply chain issue
   - "We claim to make this ale, but the truth is we don't"
-  - "My brother, [[Potitor]], does"
-- Evidently [[Potitor]] lives far south, through a small stream, over a bridge, down a pathway until another path until you reach his tower
-- [[Roz Rozum|Roz]] is slightly put off by how [[Sir Anitor Bongo|Sir Anitor]] assumed we would help
+  - "My brother, [[Potitor Bongo]], does"
+- Evidently [[Potitor Bongo]] lives far south, through a small stream, over a bridge, down a pathway until another path until you reach his tower
+- [[Roz Rozum|Roz]] is slightly put off by how [[Sir Onitor Bongo|Sir Onitor]] assumed we would help
 - He offers us each a small glass of the remaining ale he has
   - The ale is so amazing that it even gives a point of inspiration
   - Once per day when consuming this beverage, we get a point of [[heroic-inspiration-xphb|Heroic Inspiration]]
-- [[Sir Anitor Bongo|Sir Anitor]] claims he has never partnered with anyone because they are [[tiefling]]s
+- [[Sir Onitor Bongo|Sir Onitor]] claims he has never partnered with anyone because they are [[tiefling]]s
   - He is extremely moved that we would want to do so
 - He agrees that if we fix his issue, we will be his exclusive partner
 - He warns we likely will encounter a [[chimera|Chimera]] on the mountain along the way
   - For whatever reason, it does not harm [[tiefling]]s
-- [[Raelor]] wraps up [[Barbara]]'s painting and puts it in his pocket
+- [[Raelor]] wraps up [[Barbara Bongo]]'s painting and puts it in his pocket
   - First he looks at it
   - It's a [[chimera|Chimera]]
-- Before we leave, [[Sir Anitor Bongo|Anitor]] offers us some [[Death Whistle]] (a rum)
+- Before we leave, [[Sir Onitor Bongo|Onitor]] offers us some [[Death Whistle]] (a rum)
 - After drinking some, he burps a small amount of fire
 
 ---
@@ -138,7 +139,7 @@ End Day:
 
 - We make our way to a windy path
 - The [[chimera]] is here
-- [[Raelor]] uses his [[hat-of-disguise|Hat of Disguise]] to appear like [[Sir Anitor Bongo]]
+- [[Raelor]] uses his [[hat-of-disguise|Hat of Disguise]] to appear like [[Sir Onitor Bongo]]
   - The [[chimera]] seems to buy it
 - We slowly walk up the path as it closely follows us
 - It is sniffing at us suspiciously the entire way
@@ -147,7 +148,7 @@ End Day:
 
 ---
 
-### At the castle
+### At [[Potitor's Tower]]
 
 #### Fighting Pirates
 
@@ -156,17 +157,17 @@ End Day:
 - There are ships lining the shoreline
   - There are grappling hooks and ropes
   - Pirates are climbing the cliffside
-- We see [[Potitor]] arguing with 9 pirates
+- We see [[Potitor Bongo]] arguing with 9 pirates
   - They shoot him and he drops to the ground
 - We run up to fight the pirates
 - Eventually we kill them all except for the captain
-- [[Roz Rozum|Roz]] heals [[Potitor]]
+- [[Roz Rozum|Roz]] heals [[Potitor Bongo]]
 - One ship is already sunk (from a [[Theodore Shellington|Theodore]] fireball during the fight)
 - We want to try to steal the ships, but the pirates are uninterested in trading for the captain
   - One claims to be the new captain
-- [[Potitor]] says that they have a written copy of his recipe
+- [[Potitor Bongo]] says that they have a written copy of his recipe
 - We decide to sink the other two ships
-  - Everyone fires cannonballs at it ([[Potitor]] has cannons)
+  - Everyone fires cannonballs at it ([[Potitor Bongo]] has cannons)
   - Except [[Theodore Shellington|Theodore]], who [[fireball-xphb|Fireball]]s it
 
 #### Interrogating the Captain
@@ -195,26 +196,25 @@ End Day:
 
 ### Heading home
 
-#### Heading to Greythorne
+#### Heading to [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]]
 
 - We go back and feed the captain and dead pirates to the [[chimera]]
-- [[Potitor]] is with us
+- [[Potitor Bongo]] is with us
   - Every stop along the way, he shows us invisible paths to avoid all danger
 - In the distance, the [[chimera]] is following us the entire way back
 - At one point, [[Roz Rozum|Roz]] approaches it and it sniffs his hand
   - It gets nervous and goes back into the treeline
 
-#### In Greythorne
+#### In [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]]
 
-- When we get back, [[Sir Anitor Bongo]] and [[Potitor]] get into it a bit
-- [[Potitor]] says he will be working with us now
-- [[Sir Anitor Bongo]] belittles [[Barbara]] for her painting
+- When we get back, [[Sir Onitor Bongo]] and [[Potitor Bongo]] get into it a bit
+- [[Potitor Bongo]] says he will be working with us now
+- [[Sir Onitor Bongo]] belittles [[Barbara Bongo]] for her painting
 - [[Roz Rozum|Roz]] puts him to sleep
-- We invite [[Barbara]] to join us and work in [[Tale's End|The Tale's End]]
-  - TODO: fix link
+- We invite [[Barbara Bongo]] to join us and work in [[Tale's End|The Tale's End]]
 - She join us
 
-#### On the airship
+#### Back on [[Ferrar's Airship]]
 
 - We get back to the ship
 - [[Ferrar]] is confused why we don't have ale, but doesn't ask many questions

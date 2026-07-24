@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Goremak
 created: 2026-07-16T19:38:43.650-04:00
-modified: 2026-07-16T22:37:09.802-04:00
-published: 2026-07-16T22:37:09.802-04:00
+modified: 2026-07-23T21:17:32.709-04:00
+published: 2026-07-23T21:17:32.709-04:00
 Age: Not known
 Gender: Male
 Race: "[[troll|Troll]]"
@@ -12,6 +12,8 @@ Relationship: Friendly
 Factions:
 tags:
 ---
+
+![[Campaigns/Under The Ash/NPCs/_img/Gor'mak Ironmaw Skullringer.png| center | 300]]
 
 ## Description
 
