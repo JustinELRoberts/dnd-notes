@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-16T16:59:55.574-04:00
-modified: 2026-07-23T21:38:10.796-04:00
-published: 2026-07-23T21:38:10.796-04:00
+modified: 2026-07-30T18:11:30.955-04:00
+published: 2026-07-30T18:11:30.955-04:00
 Date: 2026-07-16
 Party:
   - "[[Avenj]]"
@@ -67,9 +67,9 @@ End Day: 10
 - There are 5 [[tiefling]]s by the music:
   - [[Barbara Bongo]]
   - [[Sir Onitor Bongo]]
-  - [[Armor Bongo]]
-  - [[Beard Bongo]]
-  - [[Purple Bongo]]
+  - [[Monitor Bongo]]
+  - [[Conitor Bongo]]
+  - [[Jonitor Bongo]]
 - They claim to be out of ale due to a supply chain issue
   - "We claim to make this ale, but the truth is we don't"
   - "My brother, [[Potitor Bongo]], does"

@@ -2,11 +2,11 @@
 
 | Session Name                                                                       | Start Day | End Day | Date          |
 | ---------------------------------------------------------------------------------- | --------- | ------- | ------------- |
+| [[Campaigns/Under The Ash/Sessions/09-Avenj's Death.md\|09-Avenj's Death]]         | 11        | 11      | July 30, 2026 |
 | [[Campaigns/Under The Ash/Sessions/08-One Shot Ale Hunt.md\|08-One Shot Ale Hunt]] | 10        | 10      | July 16, 2026 |
 | [[Campaigns/Under The Ash/Sessions/07-Tavern Owners.md\|07-Tavern Owners]]         | 9         | 10      | July 02, 2026 |
 | [[Campaigns/Under The Ash/Sessions/06-Getting Rich.md\|06-Getting Rich]]           | 8         | 8       | June 18, 2026 |
 | [[Campaigns/Under The Ash/Sessions/05-Shopping Spree.md\|05-Shopping Spree]]       | 7         | 8       | May 21, 2026  |
-| [[Campaigns/Under The Ash/Sessions/04-Killing The Hag.md\|04-Killing The Hag]]     | 7         | 7       | May 07, 2026  |
 
 ## Newest Quests
 

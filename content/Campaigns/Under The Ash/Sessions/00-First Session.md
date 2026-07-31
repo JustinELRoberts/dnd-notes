@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-08T20:35:46.825-04:00
-modified: 2026-05-19T19:57:37.435-04:00
-published: 2026-05-19T19:57:37.435-04:00
+modified: 2026-07-30T21:09:47.727-04:00
+published: 2026-07-30T21:09:47.727-04:00
 Date: 2026-03-12
 Party:
   - "[[Avenj]]"
@@ -93,7 +93,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
 - He has TONS of random spell components; so many that we all now have all the components we need to cast any spell levels 0-3 once.
 - Interestingly, the components are for multiple classes.
 - Brad later said he doesn't like dealing with components, so this may not be worth reading too deeply into.
-- Behind emblem he carries is [[Coin from the frankenstein's badge|a coin]].
+- Behind emblem he carries is [[Coin of The Unknown|a coin]].
 - He implies he plans to somehow leverage the fact that many are at war to achieve his evil goals.
 - [[Roz Rozum|Roz]] uses [[mold-earth-xge|Mold Earth]] to bury his torso and head alive.
 

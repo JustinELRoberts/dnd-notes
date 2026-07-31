@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-23T20:46:24.457-04:00
-modified: 2026-07-23T21:19:59.690-04:00
-published: 2026-07-23T21:19:59.690-04:00
+modified: 2026-07-30T20:10:06.705-04:00
+published: 2026-07-30T20:10:06.705-04:00
 Age: Not known
 Gender: Female
 Race: Not known
@@ -16,7 +16,7 @@ tags:
 
 ## Description
 
-TBD
+A....She wears a necklace on her chest with an eyeball in the center.
 
 ## Motivations
 
