@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Barbara
-created: 2026-07-23T21:05:31.740-04:00
-modified: 2026-07-23T21:13:07.908-04:00
-published: 2026-07-23T21:13:07.908-04:00
+created: 2026-07-24T01:05:31.740Z
+modified: 2026-07-24T01:13:07.908Z
+published: 2026-07-24T01:13:07.908Z
 Age: Not known
 Gender: Female
 Race: "[[tiefling|Tiefling]]"

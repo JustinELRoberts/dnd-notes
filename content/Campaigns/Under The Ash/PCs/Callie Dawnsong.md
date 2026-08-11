@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Cal
   - Callie
-created: 2026-03-12T17:01:19.797-04:00
-modified: 2026-03-30T16:17:51.228-04:00
-published: 2026-03-30T16:17:51.228-04:00
+created: 2026-03-12T21:01:19.797Z
+modified: 2026-03-30T20:17:51.228Z
+published: 2026-03-30T20:17:51.228Z
 Gender: Female
 Race: "[[half-elf|Half-Elf]]"
 Class: "[[bard-xphb|Bard]]"

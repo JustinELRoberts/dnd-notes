@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-30T17:12:29.007-04:00
-modified: 2026-07-30T21:47:32.440-04:00
-published: 2026-07-30T21:47:32.440-04:00
+created: 2026-07-30T21:12:29.007Z
+modified: 2026-08-11T23:43:57.348Z
+published: 2026-08-11T23:43:57.348Z
 Date: 2026-07-30
 Party:
   - "[[Avenj]]"
@@ -36,7 +36,6 @@ End Day: 11
 - In return for knowing our future/where to go, he requires us to "bring a message to someone"
   - "Those who you seek are in [[Grumdur-Khaz]]"
   - The name of the recipient is [[The Piper]]
-    - todo: add to the piper note: A history check teaches that the piper is "peter"; he is working with the silent fist and is a master of hypnotism
   - We will "coincidentally" run into him if need be
 - "I can relate to you as my warlocks in [[The Council of the Cold Veil]]"
 - [[Roz Rozum|Roz]] agrees to his deal
@@ -63,7 +62,7 @@ End Day: 11
 #### Inside the house
 
 - [[Theodore Shellington|Theodore]] uses [[clairvoyance-xphb|Clairvoyance]] to hear and see in the house
-- He sees the [[knife we are seeking]]
+- He sees the [[Dagger from the book]]
 - Changing [[clairvoyance-xphb|Clairvoyance]] to hearing, we hear [[Vi]] tell [[Thompson]], "I'm done fixing your mistakes. Did you get [[Theratina]]?"
 - "No. I wish I did."
 - [[Vi]] claims they are on a "crunch"
@@ -88,7 +87,7 @@ End Day: 11
 - [[Roz Rozum|Roz]] secretly [[message-xphb|Message]]s him the message from [[dawn-war-asmodeus-dmg|Asmodeus]]
   - "Thank you good sir. I'm off to find a dragon"
 - They leave
-- [[Theodore Shellington|Theodore]] opens the book and [[Yharov Stonebrow|Yharov]] puts the [[knife we are seeking]] inside
+- [[Theodore Shellington|Theodore]] opens the book and [[Yharov Stonebrow|Yharov]] puts the [[Dagger from the book]] inside
   - We finally find out it is called [[The Stoneheart]]
     - one of most powerful artrifacts
     - gives the user paralyzing magic and siphoning magic anywhere withhin 30 feet of the user
@@ -127,7 +126,7 @@ End Day: 11
 - [[Theratina]] makes an intelligence saving throw and fails
 - She takes the coin and flips it to the side that says "call to me"
   - She says "hello?"
-- She discinigrates into a pile of goo and the coin drops where she was
+- She disintegrates into a pile of goo and the coin drops where she was
 - [[Theodore Shellington|Theodore]] sees the magic was conjuration and abjuration
 - It brought her somewhere else and swapped her with the goo
   - The goo is where she went

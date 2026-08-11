@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Starlight Inn
-created: 2026-04-13T16:51:02.292-04:00
-modified: 2026-07-16T15:48:51.195-04:00
-published: 2026-07-16T15:48:51.195-04:00
+created: 2026-04-13T20:51:02.292Z
+modified: 2026-07-16T19:48:51.195Z
+published: 2026-07-16T19:48:51.195Z
 LocationType: Building
 tags:
 ---

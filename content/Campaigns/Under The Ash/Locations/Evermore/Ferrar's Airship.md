@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-16T15:53:54.661-04:00
-modified: 2026-07-16T15:56:55.699-04:00
-published: 2026-07-16T15:56:55.699-04:00
+created: 2026-07-16T19:53:54.661Z
+modified: 2026-07-16T19:56:55.699Z
+published: 2026-07-16T19:56:55.699Z
 LocationType: Vehicle
 aliases:
 tags:

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Theodore
-created: 2026-03-12T16:54:49.434-04:00
-modified: 2026-03-30T16:22:19.467-04:00
-published: 2026-03-30T16:22:19.467-04:00
+created: 2026-03-12T20:54:49.434Z
+modified: 2026-03-30T20:22:19.467Z
+published: 2026-03-30T20:22:19.467Z
 Gender: Male
 Race: "[[Mechanics/CLI/races/tortle-mpmm|Tortle]]"
 Class: "[[wizard-xphb|Wizard]]"

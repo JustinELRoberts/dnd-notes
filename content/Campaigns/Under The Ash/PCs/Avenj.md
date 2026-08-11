@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-12T17:00:26.852-04:00
-modified: 2026-04-23T20:29:02.004-04:00
-published: 2026-04-23T20:29:02.004-04:00
+created: 2026-03-12T21:00:26.852Z
+modified: 2026-04-24T00:29:02.004Z
+published: 2026-04-24T00:29:02.004Z
 Gender: Male
 Race: "[[warforged-efa|Warforged]]"
 Class: "[[necromancer-valdaspire24|Necromancer]]"

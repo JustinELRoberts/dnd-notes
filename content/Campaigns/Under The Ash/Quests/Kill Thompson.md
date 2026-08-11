@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-23T20:28:30.335-04:00
-modified: 2026-07-23T20:29:14.714-04:00
-published: 2026-07-23T20:29:14.714-04:00
+created: 2026-07-24T00:28:30.335Z
+modified: 2026-07-24T00:29:14.714Z
+published: 2026-07-24T00:29:14.714Z
 Givers:
 Begin Day:
 Completion Day:

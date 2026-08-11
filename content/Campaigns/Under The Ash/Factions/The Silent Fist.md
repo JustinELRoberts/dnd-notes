@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Silent Fist
-created: 2026-03-26T21:58:58.444-04:00
-modified: 2026-03-26T22:55:56.812-04:00
-published: 2026-03-26T22:55:56.812-04:00
+created: 2026-03-27T01:58:58.444Z
+modified: 2026-03-27T02:55:56.812Z
+published: 2026-03-27T02:55:56.812Z
 Relationship: Not known
 tags:
 ---

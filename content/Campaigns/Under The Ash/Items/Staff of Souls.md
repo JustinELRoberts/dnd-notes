@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - crooked staff
-created: 2026-04-12T16:53:27.355-04:00
-modified: 2026-07-23T20:44:28.147-04:00
-published: 2026-07-23T20:44:28.147-04:00
+created: 2026-04-12T20:53:27.355Z
+modified: 2026-07-24T00:44:28.147Z
+published: 2026-07-24T00:44:28.147Z
 tags:
   - 12-Artifacts
 ---

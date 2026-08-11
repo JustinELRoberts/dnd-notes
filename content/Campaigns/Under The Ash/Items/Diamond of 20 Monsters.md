@@ -3,9 +3,9 @@ publish: true
 aliases:
   - massive red diamond
   - The Diamond of 20 Monsters
-created: 2026-03-21T22:59:06.742-04:00
-modified: 2026-07-23T20:34:10.453-04:00
-published: 2026-07-23T20:34:10.453-04:00
+created: 2026-03-22T02:59:06.742Z
+modified: 2026-07-24T00:34:10.453Z
+published: 2026-07-24T00:34:10.453Z
 tags:
   - 12-Artifacts
 ---

@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Karvok Thuldor
   - Dwarven Mountains
-created: 2026-03-24T20:07:40.775-04:00
-modified: 2026-04-16T21:47:16.431-04:00
-published: 2026-04-16T21:47:16.431-04:00
+created: 2026-03-25T00:07:40.775Z
+modified: 2026-04-17T01:47:16.431Z
+published: 2026-04-17T01:47:16.431Z
 LocationType: Region
 tags:
 ---

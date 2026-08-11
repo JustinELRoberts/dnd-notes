@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Zantoc’Tal
   - The Living Jungle
-created: 2026-03-25T21:05:15.870-04:00
-modified: 2026-04-16T21:52:37.391-04:00
-published: 2026-04-16T21:52:37.391-04:00
+created: 2026-03-26T01:05:15.870Z
+modified: 2026-04-17T01:52:37.391Z
+published: 2026-04-17T01:52:37.391Z
 LocationType: Region
 tags:
 ---

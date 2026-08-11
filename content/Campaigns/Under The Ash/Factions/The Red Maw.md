@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Western Den
-created: 2026-05-25T10:03:08.989-04:00
-modified: 2026-05-29T10:10:08.410-04:00
-published: 2026-05-29T10:10:08.410-04:00
+created: 2026-05-25T14:03:08.989Z
+modified: 2026-05-29T14:10:08.410Z
+published: 2026-05-29T14:10:08.410Z
 Relationship: Not known
 tags:
 ---

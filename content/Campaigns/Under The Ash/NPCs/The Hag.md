@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Hag
   - The Hag
-created: 2026-04-13T16:38:22.611-04:00
-modified: 2026-05-19T19:57:37.438-04:00
-published: 2026-05-19T19:57:37.438-04:00
+created: 2026-04-13T20:38:22.611Z
+modified: 2026-05-19T23:57:37.438Z
+published: 2026-05-19T23:57:37.438Z
 Age: Not known
 Gender: Female
 Race: "[[Mechanics/CLI/bestiary/legendary-group/night-hag|Night Hag]]"

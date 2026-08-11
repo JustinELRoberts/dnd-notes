@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-26T22:45:58.261-04:00
-modified: 2026-04-13T12:25:45.408-04:00
-published: 2026-04-13T12:25:45.408-04:00
+created: 2026-03-27T02:45:58.261Z
+modified: 2026-04-13T16:25:45.408Z
+published: 2026-04-13T16:25:45.408Z
 Age: Not known
 Gender: Male
 Race: "[[dragonborn-xphb|Dragonborn]]"

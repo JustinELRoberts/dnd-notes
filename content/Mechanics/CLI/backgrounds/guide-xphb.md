@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Guide
-created: 2026-03-29T21:53:55.965-04:00
-modified: 2026-03-29T21:53:55.966-04:00
-published: 2026-03-29T21:53:55.966-04:00
+created: 2026-03-30T01:53:55.965Z
+modified: 2026-03-30T01:53:55.966Z
+published: 2026-03-30T01:53:55.966Z
 tags:
   - ttrpg-cli/background
   - ttrpg-cli/compendium/src/5e/xphb

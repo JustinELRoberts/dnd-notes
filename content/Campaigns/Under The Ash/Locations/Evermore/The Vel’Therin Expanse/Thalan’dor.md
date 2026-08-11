@@ -3,9 +3,9 @@ publish: true
 aliases:
   - Verdant Realm
   - The Verdant Realm
-created: 2026-03-25T20:43:33.187-04:00
-modified: 2026-04-13T12:29:05.425-04:00
-published: 2026-04-13T12:29:05.425-04:00
+created: 2026-03-26T00:43:33.187Z
+modified: 2026-04-13T16:29:05.425Z
+published: 2026-04-13T16:29:05.425Z
 LocationType: City
 tags:
 ---
