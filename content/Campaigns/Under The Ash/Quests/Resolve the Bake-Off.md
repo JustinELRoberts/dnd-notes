@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-05-02T13:45:09.214-04:00
-modified: 2026-06-21T20:19:01.563-04:00
-published: 2026-06-21T20:19:01.563-04:00
+created: 2026-05-02T17:45:09.214Z
+modified: 2026-06-22T00:19:01.563Z
+published: 2026-06-22T00:19:01.563Z
 Givers:
   - "[[Quest Giver Guild]]"
 Begin Day: 6

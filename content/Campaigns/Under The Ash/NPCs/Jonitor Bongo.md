@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-23T21:32:26.248-04:00
-modified: 2026-07-30T18:00:25.105-04:00
-published: 2026-07-30T18:00:25.105-04:00
+created: 2026-07-24T01:32:26.248Z
+modified: 2026-07-30T22:00:25.105Z
+published: 2026-07-30T22:00:25.105Z
 Age: Not known
 Gender: Male
 Race: "[[tiefling|Tiefling]]"

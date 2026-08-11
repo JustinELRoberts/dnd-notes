@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-05-19T20:05:09.811-04:00
-modified: 2026-05-19T20:06:03.979-04:00
-published: 2026-05-19T20:06:03.979-04:00
+created: 2026-05-20T00:05:09.811Z
+modified: 2026-05-20T00:06:03.979Z
+published: 2026-05-20T00:06:03.979Z
 Age: Not known
 Gender: Female
 Race: "[[lizardfolk-dmg|Lizardfolk]]"

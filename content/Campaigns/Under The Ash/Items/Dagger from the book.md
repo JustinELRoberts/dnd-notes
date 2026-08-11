@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-23T20:30:55.097-04:00
-modified: 2026-07-23T20:33:52.254-04:00
-published: 2026-07-23T20:33:52.254-04:00
+created: 2026-07-24T00:30:55.097Z
+modified: 2026-07-24T00:33:52.254Z
+published: 2026-07-24T00:33:52.254Z
 tags:
   - 12-Artifacts
 aliases:

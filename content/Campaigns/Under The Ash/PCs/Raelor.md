@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-12T17:47:07.478-04:00
-modified: 2026-05-21T20:38:58.961-04:00
-published: 2026-05-21T20:38:58.961-04:00
+created: 2026-03-12T21:47:07.478Z
+modified: 2026-05-22T00:38:58.961Z
+published: 2026-05-22T00:38:58.961Z
 Gender: Male
 Race: "[[human-xphb|Human]]"
 Class: "[[ranger-xphb|Ranger]]"

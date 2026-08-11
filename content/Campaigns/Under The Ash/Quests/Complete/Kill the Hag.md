@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-04-18T21:20:11.979-04:00
-modified: 2026-06-21T20:17:42.501-04:00
-published: 2026-06-21T20:17:42.501-04:00
+created: 2026-04-19T01:20:11.979Z
+modified: 2026-06-22T00:17:42.501Z
+published: 2026-06-22T00:17:42.501Z
 Givers:
   - "[[Bruce|Bruce]]"
 Begin Day: 6

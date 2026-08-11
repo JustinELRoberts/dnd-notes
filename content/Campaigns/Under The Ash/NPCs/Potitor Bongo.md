@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Potitor
-created: 2026-07-23T21:02:48.762-04:00
-modified: 2026-07-23T21:12:33.359-04:00
-published: 2026-07-23T21:12:33.359-04:00
+created: 2026-07-24T01:02:48.762Z
+modified: 2026-07-24T01:12:33.359Z
+published: 2026-07-24T01:12:33.359Z
 Age: Not known
 Gender: Male
 Race: "[[tiefling|Tiefling]]"

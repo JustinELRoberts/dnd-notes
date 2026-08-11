@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Kingdom of Grumdur-Khaz
-created: 2026-03-24T20:09:32.874-04:00
-modified: 2026-03-24T20:25:52.586-04:00
-published: 2026-03-24T20:25:52.586-04:00
+created: 2026-03-25T00:09:32.874Z
+modified: 2026-03-25T00:25:52.586Z
+published: 2026-03-25T00:25:52.586Z
 LocationType: City
 tags:
 ---

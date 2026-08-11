@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-25T21:48:48.625-04:00
-modified: 2026-03-29T19:44:45.826-04:00
-published: 2026-03-29T19:44:45.826-04:00
+created: 2026-03-26T01:48:48.625Z
+modified: 2026-03-29T23:44:45.826Z
+published: 2026-03-29T23:44:45.826Z
 Givers:
   - "[[Deliverer of Diamond of 20 Monsters|hooded, masked man]]"
 Begin Day: 1

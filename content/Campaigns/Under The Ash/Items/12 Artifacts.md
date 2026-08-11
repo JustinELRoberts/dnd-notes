@@ -2,17 +2,21 @@
 publish: true
 aliases:
   - 12 artifacts
-created: 2026-04-16T22:14:28.946-04:00
-modified: 2026-07-23T20:33:19.850-04:00
-published: 2026-07-23T20:33:19.850-04:00
+created: 2026-04-17T02:14:28.946Z
+modified: 2026-08-11T23:30:19.666Z
+published: 2026-08-11T23:30:19.666Z
 tags:
   - 12-Artifacts
 ---
 
 ## Description
 
-Twelve items created by [[The Unknown]] during his reign of terror. The [[Diamond of 20 Monsters]] is presumably one of them.
+Twelve items created by [[The Unknown]] during his reign of terror. These artifacts can be "sealed" (which presumably negates the above three day limitation?) by placing them into the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]].
 
 No creature can hold onto one of these artifacts for more than three days without dying.
 
-These artifacts can be "sealed" (which presumably negates the above three day limitation?) by placing them into the [[notebook with a sleeping face on its cover|notebook with a sleeping face on its cover]].
+The items we have encountered so far are:
+
+1. [[Diamond of 20 Monsters]]
+2. [[Staff of Souls]]
+3. [[Dagger from the book]]

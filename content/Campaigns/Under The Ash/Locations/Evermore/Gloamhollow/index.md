@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gloamhollow
-created: 2026-04-16T22:02:15.108-04:00
-modified: 2026-04-16T22:05:20.880-04:00
-published: 2026-04-16T22:05:20.880-04:00
+created: 2026-04-17T02:02:15.108Z
+modified: 2026-04-17T02:05:20.880Z
+published: 2026-04-17T02:05:20.880Z
 LocationType: Region
 tags:
 ---

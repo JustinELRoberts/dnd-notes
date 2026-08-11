@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Roz
-created: 2026-03-12T17:02:43.811-04:00
-modified: 2026-04-26T16:13:26.266-04:00
-published: 2026-04-26T16:13:26.266-04:00
+created: 2026-03-12T21:02:43.811Z
+modified: 2026-04-26T20:13:26.266Z
+published: 2026-04-26T20:13:26.266Z
 Gender: Male
 Race: "[[human-xphb|Human]]"
 Class: "[[cleric-xphb|Cleric]]"

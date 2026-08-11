@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - notebook with a sleeping face on its cover
-created: 2026-03-23T17:04:59.064-04:00
-modified: 2026-07-23T20:33:31.143-04:00
-published: 2026-07-23T20:33:31.143-04:00
+created: 2026-03-23T21:04:59.064Z
+modified: 2026-07-24T00:33:31.143Z
+published: 2026-07-24T00:33:31.143Z
 tags:
   - 12-Artifacts
 ---

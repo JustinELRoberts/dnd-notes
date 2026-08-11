@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Yharov
-created: 2026-03-12T18:14:50.641-04:00
-modified: 2026-03-30T16:23:29.248-04:00
-published: 2026-03-30T16:23:29.248-04:00
+created: 2026-03-12T22:14:50.641Z
+modified: 2026-03-30T20:23:29.248Z
+published: 2026-03-30T20:23:29.248Z
 Gender: Male
 Race: "[[goliath-xphb|Goliath]]"
 Class: "[[monk-xphb|Monk]]"

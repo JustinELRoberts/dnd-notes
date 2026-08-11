@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-04-16T22:10:53.566-04:00
-modified: 2026-04-16T22:12:33.810-04:00
-published: 2026-04-16T22:12:33.810-04:00
+created: 2026-04-17T02:10:53.566Z
+modified: 2026-04-17T02:12:33.810Z
+published: 2026-04-17T02:12:33.810Z
 Age: Not known
 Gender: Not known
 Race: "[[bugbear-mpmm|Bugbear]]"

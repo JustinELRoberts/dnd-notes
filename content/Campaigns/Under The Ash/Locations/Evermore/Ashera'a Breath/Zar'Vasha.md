@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Mirrored Oasis
-created: 2026-03-24T19:59:43.883-04:00
-modified: 2026-04-16T21:53:13.871-04:00
-published: 2026-04-16T21:53:13.871-04:00
+created: 2026-03-24T23:59:43.883Z
+modified: 2026-04-17T01:53:13.871Z
+published: 2026-04-17T01:53:13.871Z
 LocationType: City
 tags:
 ---

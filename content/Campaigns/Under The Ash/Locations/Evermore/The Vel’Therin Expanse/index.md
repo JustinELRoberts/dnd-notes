@@ -4,9 +4,9 @@ aliases:
   - The Vel’Therin Expanse
   - Vel’Therin Expanse
   - Vel'Therin
-created: 2026-03-25T20:38:51.043-04:00
-modified: 2026-04-16T21:43:21.900-04:00
-published: 2026-04-16T21:43:21.900-04:00
+created: 2026-03-26T00:38:51.043Z
+modified: 2026-04-17T01:43:21.900Z
+published: 2026-04-17T01:43:21.900Z
 LocationType: Region
 tags:
 ---

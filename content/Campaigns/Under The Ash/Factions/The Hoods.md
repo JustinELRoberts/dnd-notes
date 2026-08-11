@@ -4,9 +4,9 @@ aliases:
   - Hoods
   - The Hoods Faction
   - Hoods Faction
-created: 2026-04-13T16:45:38.457-04:00
-modified: 2026-04-16T22:08:27.106-04:00
-published: 2026-04-16T22:08:27.106-04:00
+created: 2026-04-13T20:45:38.457Z
+modified: 2026-04-17T02:08:27.106Z
+published: 2026-04-17T02:08:27.106Z
 Relationship: Not known
 tags:
 ---

@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-03-12T22:53:35.106-04:00
-modified: 2026-03-30T17:44:44.590-04:00
-published: 2026-03-30T17:44:44.590-04:00
+created: 2026-03-13T02:53:35.106Z
+modified: 2026-03-30T21:44:44.590Z
+published: 2026-03-30T21:44:44.590Z
 Age: Not known
 Gender: Male
 Race: "[[goliath-xphb|Goliath]]"

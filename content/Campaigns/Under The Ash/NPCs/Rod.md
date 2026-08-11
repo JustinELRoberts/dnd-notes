@@ -1,8 +1,8 @@
 ---
 publish: true
-created: 2026-07-12T17:25:43.062-04:00
-modified: 2026-07-12T17:28:08.836-04:00
-published: 2026-07-12T17:28:08.836-04:00
+created: 2026-07-12T21:25:43.062Z
+modified: 2026-07-12T21:28:08.836Z
+published: 2026-07-12T21:28:08.836Z
 Age: Not known
 Gender: Male
 Race: "[[halfling|Halfling]]"

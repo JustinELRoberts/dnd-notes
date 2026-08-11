@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Unknown
-created: 2026-03-21T16:51:37.764-04:00
-modified: 2026-03-26T22:47:34.059-04:00
-published: 2026-03-26T22:47:34.059-04:00
+created: 2026-03-21T20:51:37.764Z
+modified: 2026-08-11T23:43:09.707Z
+published: 2026-08-11T23:43:09.707Z
 Age: Not known
 Gender: Not known
 Race: Not known
@@ -13,6 +13,8 @@ Factions:
   - "[[The Awakening]]"
 tags:
 ---
+
+![[Campaigns/Under The Ash/NPCs/_img/The Unknown.png| center | 300]]
 
 ## Description
 

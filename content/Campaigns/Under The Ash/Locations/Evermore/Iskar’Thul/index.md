@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Iskar’Thul
-created: 2026-03-25T20:11:25.485-04:00
-modified: 2026-04-16T21:59:57.431-04:00
-published: 2026-04-16T21:59:57.431-04:00
+created: 2026-03-26T00:11:25.485Z
+modified: 2026-04-17T01:59:57.431Z
+published: 2026-04-17T01:59:57.431Z
 LocationType: Region
 tags:
 ---
