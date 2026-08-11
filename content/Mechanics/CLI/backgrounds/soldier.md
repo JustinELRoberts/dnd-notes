@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Soldier
-created: 2026-03-29T21:53:56.121-04:00
-modified: 2026-03-29T21:53:56.121-04:00
-published: 2026-03-29T21:53:56.121-04:00
+created: 2026-03-30T01:53:56.121Z
+modified: 2026-03-30T01:53:56.121Z
+published: 2026-03-30T01:53:56.121Z
 tags:
   - ttrpg-cli/background
   - ttrpg-cli/compendium/src/5e/phb
