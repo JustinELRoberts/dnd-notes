@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Urban Encounters (Levels 5—10)
-created: 2026-03-29T21:53:56.486-04:00
-modified: 2026-03-29T21:53:56.486-04:00
-published: 2026-03-29T21:53:56.486-04:00
+created: 2026-03-30T01:53:56.486Z
+modified: 2026-03-30T01:53:56.486Z
+published: 2026-03-30T01:53:56.486Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:

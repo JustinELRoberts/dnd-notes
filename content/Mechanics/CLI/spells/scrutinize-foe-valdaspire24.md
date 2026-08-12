@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Scrutinize Foe
-created: 2026-03-29T21:53:55.989-04:00
-modified: 2026-03-29T21:53:55.989-04:00
-published: 2026-03-29T21:53:55.989-04:00
+created: 2026-03-30T01:53:55.989Z
+modified: 2026-03-30T01:53:55.989Z
+published: 2026-03-30T01:53:55.989Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard/magical-secrets

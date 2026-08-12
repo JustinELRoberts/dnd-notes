@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sword Burst
-created: 2026-03-29T21:53:55.615-04:00
-modified: 2026-03-29T21:53:55.615-04:00
-published: 2026-03-29T21:53:55.615-04:00
+created: 2026-03-30T01:53:55.615Z
+modified: 2026-03-30T01:53:55.615Z
+published: 2026-03-30T01:53:55.615Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/spell/class/artificer

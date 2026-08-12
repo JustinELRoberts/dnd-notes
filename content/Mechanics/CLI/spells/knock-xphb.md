@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Knock
-created: 2026-03-29T21:53:55.609-04:00
-modified: 2026-03-29T21:53:55.609-04:00
-published: 2026-03-29T21:53:55.609-04:00
+created: 2026-03-30T01:53:55.609Z
+modified: 2026-03-30T01:53:55.609Z
+published: 2026-03-30T01:53:55.609Z
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard

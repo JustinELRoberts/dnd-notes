@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Roleplaying a Beholder; Beholder Ideals
-created: 2026-03-29T21:53:56.479-04:00
-modified: 2026-03-29T21:53:56.479-04:00
-published: 2026-03-29T21:53:56.479-04:00
+created: 2026-03-30T01:53:56.479Z
+modified: 2026-03-30T01:53:56.479Z
+published: 2026-03-30T01:53:56.479Z
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
 cssclasses:

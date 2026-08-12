@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tasha's Caustic Brew
-created: 2026-03-29T21:53:55.624-04:00
-modified: 2026-03-29T21:53:55.625-04:00
-published: 2026-03-29T21:53:55.625-04:00
+created: 2026-03-30T01:53:55.624Z
+modified: 2026-03-30T01:53:55.625Z
+published: 2026-03-30T01:53:55.625Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/spell/class/artificer
