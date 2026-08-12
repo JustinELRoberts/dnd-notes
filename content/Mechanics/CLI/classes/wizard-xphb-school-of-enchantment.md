@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - School of Enchantment
-created: 2026-03-29T21:53:56.183-04:00
-modified: 2026-03-29T21:53:56.183-04:00
-published: 2026-03-29T21:53:56.183-04:00
+created: 2026-03-30T01:53:56.183Z
+modified: 2026-03-30T01:53:56.183Z
+published: 2026-03-30T01:53:56.183Z
 tags:
   - ttrpg-cli/compendium/src/5e/phb
   - ttrpg-cli/subclass/wizard/enchantment

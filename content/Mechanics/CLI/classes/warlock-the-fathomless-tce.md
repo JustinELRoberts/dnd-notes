@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Fathomless
-created: 2026-03-29T21:53:56.168-04:00
-modified: 2026-03-29T21:53:56.168-04:00
-published: 2026-03-29T21:53:56.168-04:00
+created: 2026-03-30T01:53:56.168Z
+modified: 2026-03-30T01:53:56.168Z
+published: 2026-03-30T01:53:56.168Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/subclass/warlock/fathomless

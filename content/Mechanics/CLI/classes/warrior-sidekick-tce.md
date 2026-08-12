@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Warrior Sidekick
-created: 2026-03-29T21:53:55.657-04:00
-modified: 2026-03-29T21:53:55.657-04:00
-published: 2026-03-29T21:53:55.657-04:00
+created: 2026-03-30T01:53:55.657Z
+modified: 2026-03-30T01:53:55.657Z
+published: 2026-03-30T01:53:55.657Z
 tags:
   - ttrpg-cli/class/warrior-sidekick
   - ttrpg-cli/compendium/src/5e/tce

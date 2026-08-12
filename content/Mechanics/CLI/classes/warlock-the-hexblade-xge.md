@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - The Hexblade
-created: 2026-03-29T21:53:56.077-04:00
-modified: 2026-03-29T21:53:56.078-04:00
-published: 2026-03-29T21:53:56.078-04:00
+created: 2026-03-30T01:53:56.077Z
+modified: 2026-03-30T01:53:56.078Z
+published: 2026-03-30T01:53:56.078Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/subclass/warlock/hexblade

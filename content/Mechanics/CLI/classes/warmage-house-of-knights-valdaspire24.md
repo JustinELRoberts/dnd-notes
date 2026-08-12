@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - House of Knights
-created: 2026-03-29T21:53:55.615-04:00
-modified: 2026-03-29T21:53:55.615-04:00
-published: 2026-03-29T21:53:55.615-04:00
+created: 2026-03-30T01:53:55.615Z
+modified: 2026-03-30T01:53:55.615Z
+published: 2026-03-30T01:53:55.615Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/subclass/warmage/knights

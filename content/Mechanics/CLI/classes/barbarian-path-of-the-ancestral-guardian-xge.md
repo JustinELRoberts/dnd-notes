@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Path of the Ancestral Guardian
-created: 2026-03-29T21:53:55.599-04:00
-modified: 2026-03-29T21:53:55.600-04:00
-published: 2026-03-29T21:53:55.600-04:00
+created: 2026-03-30T01:53:55.599Z
+modified: 2026-03-30T01:53:55.600Z
+published: 2026-03-30T01:53:55.600Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/subclass/barbarian/ancestral-guardian
