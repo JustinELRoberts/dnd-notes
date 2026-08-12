@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Bowl of Commanding Water Elementals
-created: 2026-03-29T21:53:55.597-04:00
-modified: 2026-03-29T21:53:55.597-04:00
-published: 2026-03-29T21:53:55.597-04:00
+created: 2026-03-30T01:53:55.597Z
+modified: 2026-03-30T01:53:55.597Z
+published: 2026-03-30T01:53:55.597Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare

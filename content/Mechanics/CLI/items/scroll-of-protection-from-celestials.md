@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Scroll of Protection from Celestials
-created: 2026-03-29T21:53:55.967-04:00
-modified: 2026-03-29T21:53:55.967-04:00
-published: 2026-03-29T21:53:55.967-04:00
+created: 2026-03-30T01:53:55.967Z
+modified: 2026-03-30T01:53:55.967Z
+published: 2026-03-30T01:53:55.967Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare

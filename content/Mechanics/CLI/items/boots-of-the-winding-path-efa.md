@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boots of the Winding Path
-created: 2026-03-29T21:53:55.886-04:00
-modified: 2026-03-29T21:53:55.886-04:00
-published: 2026-03-29T21:53:55.886-04:00
+created: 2026-03-30T01:53:55.886Z
+modified: 2026-03-30T01:53:55.886Z
+published: 2026-03-30T01:53:55.886Z
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/item/attunement/required

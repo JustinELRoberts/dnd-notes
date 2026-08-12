@@ -11,9 +11,9 @@ aliases:
   - Adamantine Scale Mail
   - Adamantine Spiked Armor
   - Adamantine Splint Armor
-created: 2026-03-29T21:53:55.900-04:00
-modified: 2026-03-29T21:53:55.900-04:00
-published: 2026-03-29T21:53:55.900-04:00
+created: 2026-03-30T01:53:55.900Z
+modified: 2026-03-30T01:53:55.900Z
+published: 2026-03-30T01:53:55.900Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy

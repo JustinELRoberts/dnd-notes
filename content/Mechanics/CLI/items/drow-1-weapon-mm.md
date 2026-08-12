@@ -101,9 +101,9 @@ aliases:
   - Drow +1 Warhammer
   - Drow +1 Whip
   - Drow +1 Yklwa
-created: 2026-03-29T21:53:56.119-04:00
-modified: 2026-03-29T21:53:56.119-04:00
-published: 2026-03-29T21:53:56.119-04:00
+created: 2026-03-30T01:53:56.119Z
+modified: 2026-03-30T01:53:56.119Z
+published: 2026-03-30T01:53:56.119Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/item/age/futuristic

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Blue Sapphire
-created: 2026-03-29T21:53:55.593-04:00
-modified: 2026-03-29T21:53:55.594-04:00
-published: 2026-03-29T21:53:55.594-04:00
+created: 2026-03-30T01:53:55.593Z
+modified: 2026-03-30T01:53:55.594Z
+published: 2026-03-30T01:53:55.594Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/gear/treasure-gemstone

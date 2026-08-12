@@ -10,9 +10,9 @@ aliases:
   - +1 Modern Bullet
   - +1 Renaissance Bullet
   - +1 Sling Bullet
-created: 2026-03-29T21:53:56.082-04:00
-modified: 2026-03-29T21:53:56.082-04:00
-published: 2026-03-29T21:53:56.082-04:00
+created: 2026-03-30T01:53:56.082Z
+modified: 2026-03-30T01:53:56.082Z
+published: 2026-03-30T01:53:56.082Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/futuristic

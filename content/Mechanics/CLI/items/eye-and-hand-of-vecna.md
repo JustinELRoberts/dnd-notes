@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eye and Hand of Vecna
-created: 2026-03-29T21:53:55.566-04:00
-modified: 2026-03-29T21:53:55.567-04:00
-published: 2026-03-29T21:53:55.567-04:00
+created: 2026-03-30T01:53:55.566Z
+modified: 2026-03-30T01:53:55.567Z
+published: 2026-03-30T01:53:55.567Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Carpet of Flying, 3 ft. × 5 ft.
-created: 2026-03-29T21:53:56.028-04:00
-modified: 2026-03-29T21:53:56.028-04:00
-published: 2026-03-29T21:53:56.028-04:00
+created: 2026-03-30T01:53:56.028Z
+modified: 2026-03-30T01:53:56.028Z
+published: 2026-03-30T01:53:56.028Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/very-rare

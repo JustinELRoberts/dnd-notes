@@ -15,9 +15,9 @@ aliases:
   - Spiked Armor of Lightning Resistance
   - Splint Armor of Lightning Resistance
   - Studded Leather Armor of Lightning Resistance
-created: 2026-03-29T21:53:56.135-04:00
-modified: 2026-03-29T21:53:56.135-04:00
-published: 2026-03-29T21:53:56.135-04:00
+created: 2026-03-30T01:53:56.135Z
+modified: 2026-03-30T01:53:56.135Z
+published: 2026-03-30T01:53:56.135Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy

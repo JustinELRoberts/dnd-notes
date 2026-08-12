@@ -15,9 +15,9 @@ aliases:
   - Spiked Armor of Acid Resistance
   - Splint Armor of Acid Resistance
   - Studded Leather Armor of Acid Resistance
-created: 2026-03-29T21:53:55.963-04:00
-modified: 2026-03-29T21:53:55.963-04:00
-published: 2026-03-29T21:53:55.963-04:00
+created: 2026-03-30T01:53:55.963Z
+modified: 2026-03-30T01:53:55.963Z
+published: 2026-03-30T01:53:55.963Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy

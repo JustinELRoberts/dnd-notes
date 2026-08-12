@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - +3 Bloodwell Vial
-created: 2026-03-29T21:53:55.672-04:00
-modified: 2026-03-29T21:53:55.673-04:00
-published: 2026-03-29T21:53:55.673-04:00
+created: 2026-03-30T01:53:55.672Z
+modified: 2026-03-30T01:53:55.673Z
+published: 2026-03-30T01:53:55.673Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/item/attunement/required

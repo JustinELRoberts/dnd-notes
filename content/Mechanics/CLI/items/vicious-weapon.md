@@ -85,9 +85,9 @@ aliases:
   - Vicious Warhammer
   - Vicious Whip
   - Vicious Yklwa
-created: 2026-03-29T21:53:55.970-04:00
-modified: 2026-03-29T21:53:55.970-04:00
-published: 2026-03-29T21:53:55.970-04:00
+created: 2026-03-30T01:53:55.970Z
+modified: 2026-03-30T01:53:55.970Z
+published: 2026-03-30T01:53:55.970Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/futuristic

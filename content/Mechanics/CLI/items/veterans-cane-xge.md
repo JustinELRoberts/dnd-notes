@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Veteran's Cane
-created: 2026-03-29T21:53:55.676-04:00
-modified: 2026-03-29T21:53:55.676-04:00
-published: 2026-03-29T21:53:55.676-04:00
+created: 2026-03-30T01:53:55.676Z
+modified: 2026-03-30T01:53:55.676Z
+published: 2026-03-30T01:53:55.676Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/rarity/common

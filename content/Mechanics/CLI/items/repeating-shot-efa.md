@@ -17,9 +17,9 @@ aliases:
   - Repeating Shortbow
   - Repeating Sling
   - Repeating Volley Crossbow
-created: 2026-03-29T21:53:56.030-04:00
-modified: 2026-03-29T21:53:56.030-04:00
-published: 2026-03-29T21:53:56.030-04:00
+created: 2026-03-30T01:53:56.030Z
+modified: 2026-03-30T01:53:56.030Z
+published: 2026-03-30T01:53:56.030Z
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/item/attunement/required
