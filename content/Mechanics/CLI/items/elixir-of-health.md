@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Elixir of Health
-created: 2026-03-29T21:53:55.671-04:00
-modified: 2026-03-29T21:53:55.671-04:00
-published: 2026-03-29T21:53:55.671-04:00
+created: 2026-03-30T01:53:55.671Z
+modified: 2026-03-30T01:53:55.671Z
+published: 2026-03-30T01:53:55.671Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/rare

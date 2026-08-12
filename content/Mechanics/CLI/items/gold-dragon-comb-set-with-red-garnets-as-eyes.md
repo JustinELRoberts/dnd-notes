@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Gold dragon comb set with red garnets as eyes
-created: 2026-03-29T21:53:55.679-04:00
-modified: 2026-03-29T21:53:55.679-04:00
-published: 2026-03-29T21:53:55.679-04:00
+created: 2026-03-30T01:53:55.679Z
+modified: 2026-03-30T01:53:55.679Z
+published: 2026-03-30T01:53:55.679Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/gear/treasure-art-object

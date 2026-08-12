@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Ooze Infusion
-created: 2026-03-29T21:53:55.660-04:00
-modified: 2026-03-29T21:53:55.660-04:00
-published: 2026-03-29T21:53:55.660-04:00
+created: 2026-03-30T01:53:55.660Z
+modified: 2026-03-30T01:53:55.660Z
+published: 2026-03-30T01:53:55.660Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/item/gear/monstrous-graft

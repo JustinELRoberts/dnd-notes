@@ -103,9 +103,9 @@ aliases:
   - Dazzling Whip
   - Dazzling Wooden Staff
   - Dazzling Yklwa
-created: 2026-03-29T21:53:55.605-04:00
-modified: 2026-03-29T21:53:55.605-04:00
-published: 2026-03-29T21:53:55.605-04:00
+created: 2026-03-30T01:53:55.605Z
+modified: 2026-03-30T01:53:55.605Z
+published: 2026-03-30T01:53:55.605Z
 tags:
   - ttrpg-cli/compendium/src/5e/efa
   - ttrpg-cli/item/age/futuristic

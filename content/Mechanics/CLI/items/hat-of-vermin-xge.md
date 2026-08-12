@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Hat of Vermin
-created: 2026-03-29T21:53:56.037-04:00
-modified: 2026-03-29T21:53:56.038-04:00
-published: 2026-03-29T21:53:56.038-04:00
+created: 2026-03-30T01:53:56.037Z
+modified: 2026-03-30T01:53:56.038Z
+published: 2026-03-30T01:53:56.038Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/rarity/common

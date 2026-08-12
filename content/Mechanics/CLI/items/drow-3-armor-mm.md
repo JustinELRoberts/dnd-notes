@@ -15,9 +15,9 @@ aliases:
   - Drow +3 Spiked Armor
   - Drow +3 Splint Armor
   - Drow +3 Studded Leather Armor
-created: 2026-03-29T21:53:56.078-04:00
-modified: 2026-03-29T21:53:56.079-04:00
-published: 2026-03-29T21:53:56.079-04:00
+created: 2026-03-30T01:53:56.078Z
+modified: 2026-03-30T01:53:56.079Z
+published: 2026-03-30T01:53:56.079Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/item/armor/heavy

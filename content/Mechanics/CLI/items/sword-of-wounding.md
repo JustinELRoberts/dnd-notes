@@ -8,9 +8,9 @@ aliases:
   - Rapier of Wounding
   - Scimitar of Wounding
   - Shortsword of Wounding
-created: 2026-03-29T21:53:55.929-04:00
-modified: 2026-03-29T21:53:55.929-04:00
-published: 2026-03-29T21:53:55.929-04:00
+created: 2026-03-30T01:53:55.929Z
+modified: 2026-03-30T01:53:55.929Z
+published: 2026-03-30T01:53:55.929Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Enduring Spellbook
-created: 2026-03-29T21:53:55.650-04:00
-modified: 2026-03-29T21:53:55.650-04:00
-published: 2026-03-29T21:53:55.650-04:00
+created: 2026-03-30T01:53:55.650Z
+modified: 2026-03-30T01:53:55.650Z
+published: 2026-03-30T01:53:55.650Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/item/rarity/common

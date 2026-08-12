@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Traveler's Clothes
-created: 2026-03-29T21:53:56.185-04:00
-modified: 2026-03-29T21:53:56.185-04:00
-published: 2026-03-29T21:53:56.185-04:00
+created: 2026-03-30T01:53:56.185Z
+modified: 2026-03-30T01:53:56.185Z
+published: 2026-03-30T01:53:56.185Z
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/item/gear/

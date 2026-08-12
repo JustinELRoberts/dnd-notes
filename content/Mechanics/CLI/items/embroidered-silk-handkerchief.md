@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Embroidered silk handkerchief
-created: 2026-03-29T21:53:56.143-04:00
-modified: 2026-03-29T21:53:56.143-04:00
-published: 2026-03-29T21:53:56.143-04:00
+created: 2026-03-30T01:53:56.143Z
+modified: 2026-03-30T01:53:56.143Z
+published: 2026-03-30T01:53:56.143Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/gear/treasure-art-object

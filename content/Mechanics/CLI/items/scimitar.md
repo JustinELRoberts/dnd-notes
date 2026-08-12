@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Scimitar
-created: 2026-03-29T21:53:56.155-04:00
-modified: 2026-03-29T21:53:56.156-04:00
-published: 2026-03-29T21:53:56.156-04:00
+created: 2026-03-30T01:53:56.155Z
+modified: 2026-03-30T01:53:56.156Z
+published: 2026-03-30T01:53:56.156Z
 tags:
   - ttrpg-cli/compendium/src/5e/phb
   - ttrpg-cli/item/rarity/none

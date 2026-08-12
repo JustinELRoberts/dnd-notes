@@ -86,9 +86,9 @@ aliases:
   - Warhammer of Warning
   - Whip of Warning
   - Yklwa of Warning
-created: 2026-03-29T21:53:56.144-04:00
-modified: 2026-03-29T21:53:56.144-04:00
-published: 2026-03-29T21:53:56.144-04:00
+created: 2026-03-30T01:53:56.144Z
+modified: 2026-03-30T01:53:56.144Z
+published: 2026-03-30T01:53:56.144Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/age/futuristic

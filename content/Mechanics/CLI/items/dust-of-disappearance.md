@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dust of Disappearance
-created: 2026-03-29T21:53:56.129-04:00
-modified: 2026-03-29T21:53:56.129-04:00
-published: 2026-03-29T21:53:56.129-04:00
+created: 2026-03-30T01:53:56.129Z
+modified: 2026-03-30T01:53:56.129Z
+published: 2026-03-30T01:53:56.129Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/rarity/uncommon

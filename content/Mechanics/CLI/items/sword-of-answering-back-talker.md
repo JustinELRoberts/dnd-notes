@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Sword of Answering (Back Talker)
-created: 2026-03-29T21:53:55.588-04:00
-modified: 2026-03-29T21:53:55.588-04:00
-published: 2026-03-29T21:53:55.588-04:00
+created: 2026-03-30T01:53:55.588Z
+modified: 2026-03-30T01:53:55.588Z
+published: 2026-03-30T01:53:55.588Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/attunement/required

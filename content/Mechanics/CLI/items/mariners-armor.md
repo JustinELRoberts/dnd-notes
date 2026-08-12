@@ -15,9 +15,9 @@ aliases:
   - Mariner's Spiked Armor
   - Mariner's Splint Armor
   - Mariner's Studded Leather Armor
-created: 2026-03-29T21:53:55.956-04:00
-modified: 2026-03-29T21:53:55.956-04:00
-published: 2026-03-29T21:53:55.956-04:00
+created: 2026-03-30T01:53:55.956Z
+modified: 2026-03-30T01:53:55.956Z
+published: 2026-03-30T01:53:55.956Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
   - ttrpg-cli/item/armor/heavy
