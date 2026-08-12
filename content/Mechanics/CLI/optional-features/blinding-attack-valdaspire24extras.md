@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Blinding Attack
-created: 2026-03-29T21:53:55.573-04:00
-modified: 2026-03-29T21:53:55.573-04:00
-published: 2026-03-29T21:53:55.573-04:00
+created: 2026-03-30T01:53:55.573Z
+modified: 2026-03-30T01:53:55.573Z
+published: 2026-03-30T01:53:55.573Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/optional-feature/mv-v

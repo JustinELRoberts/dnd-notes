@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Enhanced Arcane Focus
-created: 2026-03-29T21:53:56.044-04:00
-modified: 2026-03-29T21:53:56.044-04:00
-published: 2026-03-29T21:53:56.044-04:00
+created: 2026-03-30T01:53:56.044Z
+modified: 2026-03-30T01:53:56.044Z
+published: 2026-03-30T01:53:56.044Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/optional-feature/ai

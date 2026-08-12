@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eldritch Smite
-created: 2026-03-29T21:53:55.565-04:00
-modified: 2026-03-29T21:53:55.565-04:00
-published: 2026-03-29T21:53:55.565-04:00
+created: 2026-03-30T01:53:55.565Z
+modified: 2026-03-30T01:53:55.565Z
+published: 2026-03-30T01:53:55.565Z
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/optional-feature/ei

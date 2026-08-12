@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Staggering Strike
-created: 2026-03-29T21:53:55.575-04:00
-modified: 2026-03-29T21:53:55.575-04:00
-published: 2026-03-29T21:53:55.575-04:00
+created: 2026-03-30T01:53:55.575Z
+modified: 2026-03-30T01:53:55.575Z
+published: 2026-03-30T01:53:55.575Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/optional-feature/mv-v
