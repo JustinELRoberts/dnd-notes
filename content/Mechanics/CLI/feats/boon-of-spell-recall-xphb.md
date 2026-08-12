@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Boon of Spell Recall
-created: 2026-03-29T21:53:55.936-04:00
-modified: 2026-03-29T21:53:55.936-04:00
-published: 2026-03-29T21:53:55.936-04:00
+created: 2026-03-30T01:53:55.936Z
+modified: 2026-03-30T01:53:55.936Z
+published: 2026-03-30T01:53:55.936Z
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/feat

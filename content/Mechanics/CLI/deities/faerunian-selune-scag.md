@@ -5,9 +5,9 @@ aliases:
   - Our Lady of Silver
   - The Moonmaiden
   - The Night White Lady
-created: 2026-03-29T21:53:55.969-04:00
-modified: 2026-04-26T16:12:31.167-04:00
-published: 2026-04-26T16:12:31.167-04:00
+created: 2026-03-30T01:53:55.969Z
+modified: 2026-04-26T20:12:31.167Z
+published: 2026-04-26T20:12:31.167Z
 tags:
   - ttrpg-cli/compendium/src/5e/scag
   - ttrpg-cli/deity/faerunian
