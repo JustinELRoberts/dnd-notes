@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Shar
-created: 2026-03-29T21:53:56.060-04:00
-modified: 2026-03-29T21:53:56.060-04:00
-published: 2026-03-29T21:53:56.060-04:00
+created: 2026-03-30T01:53:56.060Z
+modified: 2026-03-30T01:53:56.060Z
+published: 2026-03-30T01:53:56.060Z
 tags:
   - ttrpg-cli/compendium/src/5e/phb
   - ttrpg-cli/deity/forgotten-realms
