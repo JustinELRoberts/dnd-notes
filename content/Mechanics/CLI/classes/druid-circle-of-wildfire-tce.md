@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Circle of Wildfire
-created: 2026-03-29T21:53:55.982-04:00
-modified: 2026-03-29T21:53:55.983-04:00
-published: 2026-03-29T21:53:55.983-04:00
+created: 2026-03-30T01:53:55.982Z
+modified: 2026-03-30T01:53:55.983Z
+published: 2026-03-30T01:53:55.983Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/subclass/druid/wildfire

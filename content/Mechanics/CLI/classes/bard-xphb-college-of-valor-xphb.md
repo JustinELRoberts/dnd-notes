@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - College of Valor
-created: 2026-03-29T21:53:56.160-04:00
-modified: 2026-03-29T21:53:56.160-04:00
-published: 2026-03-29T21:53:56.160-04:00
+created: 2026-03-30T01:53:56.160Z
+modified: 2026-03-30T01:53:56.160Z
+published: 2026-03-30T01:53:56.160Z
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/subclass/bard/valor

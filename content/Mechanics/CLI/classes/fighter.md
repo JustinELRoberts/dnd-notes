@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fighter
-created: 2026-03-29T21:53:55.961-04:00
-modified: 2026-03-29T21:53:55.961-04:00
-published: 2026-03-29T21:53:55.961-04:00
+created: 2026-03-30T01:53:55.961Z
+modified: 2026-03-30T01:53:55.961Z
+published: 2026-03-30T01:53:55.961Z
 tags:
   - ttrpg-cli/class/fighter
   - ttrpg-cli/compendium/src/5e/phb

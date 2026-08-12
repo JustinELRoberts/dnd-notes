@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Pigmentist
-created: 2026-03-29T21:53:55.957-04:00
-modified: 2026-03-29T21:53:55.957-04:00
-published: 2026-03-29T21:53:55.957-04:00
+created: 2026-03-30T01:53:55.957Z
+modified: 2026-03-30T01:53:55.957Z
+published: 2026-03-30T01:53:55.957Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24extras
   - ttrpg-cli/subclass/alchemist/pigmentist
