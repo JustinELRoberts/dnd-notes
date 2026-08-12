@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Couatl
-created: 2026-03-29T21:53:56.008-04:00
-modified: 2026-03-29T21:53:56.009-04:00
-published: 2026-03-29T21:53:56.009-04:00
+created: 2026-03-30T01:53:56.008Z
+modified: 2026-03-30T01:53:56.009Z
+published: 2026-03-30T01:53:56.009Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/4

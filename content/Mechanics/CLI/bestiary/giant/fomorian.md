@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Fomorian
-created: 2026-03-29T21:53:56.003-04:00
-modified: 2026-03-29T21:53:56.003-04:00
-published: 2026-03-29T21:53:56.003-04:00
+created: 2026-03-30T01:53:56.003Z
+modified: 2026-03-30T01:53:56.003Z
+published: 2026-03-30T01:53:56.003Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/8

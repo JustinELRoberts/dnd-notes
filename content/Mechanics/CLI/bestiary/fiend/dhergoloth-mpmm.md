@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Dhergoloth
-created: 2026-03-29T21:53:56.027-04:00
-modified: 2026-03-29T21:53:56.027-04:00
-published: 2026-03-29T21:53:56.027-04:00
+created: 2026-03-30T01:53:56.027Z
+modified: 2026-03-30T01:53:56.027Z
+published: 2026-03-30T01:53:56.027Z
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/7

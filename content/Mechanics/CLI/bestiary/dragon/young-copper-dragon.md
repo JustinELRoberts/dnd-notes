@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Young Copper Dragon
-created: 2026-03-29T21:53:56.155-04:00
-modified: 2026-03-29T21:53:56.155-04:00
-published: 2026-03-29T21:53:56.155-04:00
+created: 2026-03-30T01:53:56.155Z
+modified: 2026-03-30T01:53:56.155Z
+published: 2026-03-30T01:53:56.155Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/7

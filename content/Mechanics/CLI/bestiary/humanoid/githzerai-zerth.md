@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Githzerai Zerth
-created: 2026-03-29T21:53:55.939-04:00
-modified: 2026-03-29T21:53:55.939-04:00
-published: 2026-03-29T21:53:55.939-04:00
+created: 2026-03-30T01:53:55.939Z
+modified: 2026-03-30T01:53:55.939Z
+published: 2026-03-30T01:53:55.939Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/6

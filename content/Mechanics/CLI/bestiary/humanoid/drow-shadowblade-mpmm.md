@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Drow Shadowblade
-created: 2026-03-29T21:53:55.919-04:00
-modified: 2026-03-29T21:53:55.920-04:00
-published: 2026-03-29T21:53:55.920-04:00
+created: 2026-03-30T01:53:55.919Z
+modified: 2026-03-30T01:53:55.920Z
+published: 2026-03-30T01:53:55.920Z
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/11

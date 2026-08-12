@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - War Priest
-created: 2026-03-29T21:53:55.987-04:00
-modified: 2026-03-29T21:53:55.987-04:00
-published: 2026-03-29T21:53:55.987-04:00
+created: 2026-03-30T01:53:55.987Z
+modified: 2026-03-30T01:53:55.987Z
+published: 2026-03-30T01:53:55.987Z
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/9

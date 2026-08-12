@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Drow Inquisitor
-created: 2026-03-29T21:53:56.057-04:00
-modified: 2026-03-29T21:53:56.057-04:00
-published: 2026-03-29T21:53:56.057-04:00
+created: 2026-03-30T01:53:56.057Z
+modified: 2026-03-30T01:53:56.057Z
+published: 2026-03-30T01:53:56.057Z
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/14

@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Adult Kruthik
-created: 2026-03-29T21:53:56.156-04:00
-modified: 2026-03-29T21:53:56.156-04:00
-published: 2026-03-29T21:53:56.156-04:00
+created: 2026-03-30T01:53:56.156Z
+modified: 2026-03-30T01:53:56.156Z
+published: 2026-03-30T01:53:56.156Z
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/cr/2
