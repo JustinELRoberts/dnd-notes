@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for House of Bishops
-created: 2026-03-29T21:53:56.519-04:00
-modified: 2026-03-29T21:53:56.519-04:00
-published: 2026-03-29T21:53:56.519-04:00
+created: 2026-03-30T01:53:56.519Z
+modified: 2026-03-30T01:53:56.519Z
+published: 2026-03-30T01:53:56.519Z
 tags:
   - ttrpg-cli/spell/list/subclass/house-of-bishops
 cssclasses:

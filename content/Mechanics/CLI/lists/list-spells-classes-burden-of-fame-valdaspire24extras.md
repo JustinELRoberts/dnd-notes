@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Burden of Fame
-created: 2026-03-29T21:53:56.523-04:00
-modified: 2026-03-29T21:53:56.523-04:00
-published: 2026-03-29T21:53:56.523-04:00
+created: 2026-03-30T01:53:56.523Z
+modified: 2026-03-30T01:53:56.523Z
+published: 2026-03-30T01:53:56.523Z
 tags:
   - ttrpg-cli/spell/list/subclass/burden-of-fame
 cssclasses:

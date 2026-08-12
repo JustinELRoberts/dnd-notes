@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Way of Shadow
-created: 2026-03-29T21:53:56.515-04:00
-modified: 2026-03-29T21:53:56.515-04:00
-published: 2026-03-29T21:53:56.515-04:00
+created: 2026-03-30T01:53:56.515Z
+modified: 2026-03-30T01:53:56.515Z
+published: 2026-03-30T01:53:56.515Z
 tags:
   - ttrpg-cli/spell/list/subclass/way-of-shadow
 cssclasses:

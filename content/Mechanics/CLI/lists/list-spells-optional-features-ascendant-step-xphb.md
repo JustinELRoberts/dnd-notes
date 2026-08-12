@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Ascendant Step
-created: 2026-03-29T21:53:56.527-04:00
-modified: 2026-03-29T21:53:56.527-04:00
-published: 2026-03-29T21:53:56.527-04:00
+created: 2026-03-30T01:53:56.527Z
+modified: 2026-03-30T01:53:56.527Z
+published: 2026-03-30T01:53:56.527Z
 tags:
   - ttrpg-cli/spell/list/optfeature/ascendant-step
 cssclasses:

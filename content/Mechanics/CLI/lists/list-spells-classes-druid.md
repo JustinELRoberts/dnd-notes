@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Druid Spells
-created: 2026-03-29T21:53:56.514-04:00
-modified: 2026-03-29T21:53:56.514-04:00
-published: 2026-03-29T21:53:56.514-04:00
+created: 2026-03-30T01:53:56.514Z
+modified: 2026-03-30T01:53:56.514Z
+published: 2026-03-30T01:53:56.514Z
 tags:
   - ttrpg-cli/spell/list/class/druid
 cssclasses:
