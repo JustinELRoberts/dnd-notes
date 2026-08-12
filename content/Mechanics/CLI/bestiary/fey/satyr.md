@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Satyr
-created: 2026-03-29T21:53:55.992-04:00
-modified: 2026-03-29T21:53:55.992-04:00
-published: 2026-03-29T21:53:55.992-04:00
+created: 2026-03-30T01:53:55.992Z
+modified: 2026-03-30T01:53:55.992Z
+published: 2026-03-30T01:53:55.992Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/1-2

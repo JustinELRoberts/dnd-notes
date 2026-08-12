@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Centaur
-created: 2026-03-29T21:53:55.662-04:00
-modified: 2026-03-29T21:53:55.662-04:00
-published: 2026-03-29T21:53:55.662-04:00
+created: 2026-03-30T01:53:55.662Z
+modified: 2026-03-30T01:53:55.662Z
+published: 2026-03-30T01:53:55.662Z
 tags:
   - ttrpg-cli/compendium/src/5e/mm
   - ttrpg-cli/monster/cr/2

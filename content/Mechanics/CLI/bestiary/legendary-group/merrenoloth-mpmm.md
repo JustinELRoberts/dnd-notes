@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Merrenoloth
-created: 2026-03-29T21:53:56.495-04:00
-modified: 2026-03-29T21:53:56.495-04:00
-published: 2026-03-29T21:53:56.495-04:00
+created: 2026-03-30T01:53:56.495Z
+modified: 2026-03-30T01:53:56.495Z
+published: 2026-03-30T01:53:56.495Z
 tags:
   - ttrpg-cli/compendium/src/5e/mpmm
   - ttrpg-cli/monster/legendary-group

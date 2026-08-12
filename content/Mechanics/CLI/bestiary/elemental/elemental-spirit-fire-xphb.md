@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Elemental Spirit (Fire)
-created: 2026-03-29T21:53:55.954-04:00
-modified: 2026-03-29T21:53:55.954-04:00
-published: 2026-03-29T21:53:55.954-04:00
+created: 2026-03-30T01:53:55.954Z
+modified: 2026-03-30T01:53:55.954Z
+published: 2026-03-30T01:53:55.954Z
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/monster/cr/

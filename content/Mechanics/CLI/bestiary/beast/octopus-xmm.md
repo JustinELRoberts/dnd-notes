@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Octopus
-created: 2026-03-29T21:53:55.572-04:00
-modified: 2026-03-29T21:53:55.572-04:00
-published: 2026-03-29T21:53:55.572-04:00
+created: 2026-03-30T01:53:55.572Z
+modified: 2026-03-30T01:53:55.572Z
+published: 2026-03-30T01:53:55.572Z
 tags:
   - ttrpg-cli/compendium/src/5e/xmm
   - ttrpg-cli/monster/cr/0
