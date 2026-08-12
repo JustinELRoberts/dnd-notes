@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Circle of Wildfire
-created: 2026-03-29T21:53:56.518-04:00
-modified: 2026-03-29T21:53:56.528-04:00
-published: 2026-03-29T21:53:56.528-04:00
+created: 2026-03-30T01:53:56.518Z
+modified: 2026-03-30T01:53:56.528Z
+published: 2026-03-30T01:53:56.528Z
 tags:
   - ttrpg-cli/spell/list/subclass/circle-of-wildfire
 cssclasses:

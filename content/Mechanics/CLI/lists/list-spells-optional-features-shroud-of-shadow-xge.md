@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Shroud of Shadow
-created: 2026-03-29T21:53:56.522-04:00
-modified: 2026-03-29T21:53:56.522-04:00
-published: 2026-03-29T21:53:56.522-04:00
+created: 2026-03-30T01:53:56.522Z
+modified: 2026-03-30T01:53:56.522Z
+published: 2026-03-30T01:53:56.522Z
 tags:
   - ttrpg-cli/spell/list/optfeature/shroud-of-shadow
 cssclasses:

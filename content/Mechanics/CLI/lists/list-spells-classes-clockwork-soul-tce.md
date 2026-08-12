@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Clockwork Soul
-created: 2026-03-29T21:53:56.527-04:00
-modified: 2026-03-29T21:53:56.531-04:00
-published: 2026-03-29T21:53:56.531-04:00
+created: 2026-03-30T01:53:56.527Z
+modified: 2026-03-30T01:53:56.531Z
+published: 2026-03-30T01:53:56.531Z
 tags:
   - ttrpg-cli/spell/list/subclass/clockwork-soul
 cssclasses:

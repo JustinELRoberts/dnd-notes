@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Crone
-created: 2026-03-29T21:53:56.516-04:00
-modified: 2026-03-29T21:53:56.516-04:00
-published: 2026-03-29T21:53:56.516-04:00
+created: 2026-03-30T01:53:56.516Z
+modified: 2026-03-30T01:53:56.516Z
+published: 2026-03-30T01:53:56.516Z
 tags:
   - ttrpg-cli/spell/list/subclass/crone
 cssclasses:

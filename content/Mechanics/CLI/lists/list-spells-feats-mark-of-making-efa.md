@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Spells for Mark of Making
-created: 2026-03-29T21:53:56.523-04:00
-modified: 2026-03-29T21:53:56.523-04:00
-published: 2026-03-29T21:53:56.523-04:00
+created: 2026-03-30T01:53:56.523Z
+modified: 2026-03-30T01:53:56.523Z
+published: 2026-03-30T01:53:56.523Z
 tags:
   - ttrpg-cli/spell/list/feat/mark-of-making
 cssclasses:
