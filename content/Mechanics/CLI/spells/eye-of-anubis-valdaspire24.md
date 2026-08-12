@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Eye of Anubis
-created: 2026-03-29T21:53:55.646-04:00
-modified: 2026-03-29T21:53:55.646-04:00
-published: 2026-03-29T21:53:55.646-04:00
+created: 2026-03-30T01:53:55.646Z
+modified: 2026-03-30T01:53:55.646Z
+published: 2026-03-30T01:53:55.646Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/spell/class/bard/magical-secrets

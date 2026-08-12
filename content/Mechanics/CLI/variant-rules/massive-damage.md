@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Massive Damage
-created: 2026-03-29T21:53:56.542-04:00
-modified: 2026-03-29T21:53:56.542-04:00
-published: 2026-03-29T21:53:56.542-04:00
+created: 2026-03-30T01:53:56.542Z
+modified: 2026-03-30T01:53:56.542Z
+published: 2026-03-30T01:53:56.542Z
 tags:
   - ttrpg-cli/compendium/src/5e/dmg
 cssclasses:

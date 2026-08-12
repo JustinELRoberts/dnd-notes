@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mountain Encounters (Levels 1—4)
-created: 2026-03-29T21:53:56.489-04:00
-modified: 2026-03-29T21:53:56.489-04:00
-published: 2026-03-29T21:53:56.489-04:00
+created: 2026-03-30T01:53:56.489Z
+modified: 2026-03-30T01:53:56.489Z
+published: 2026-03-30T01:53:56.489Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
 cssclasses:

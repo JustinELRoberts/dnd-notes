@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Meteor Swarm
-created: 2026-03-29T21:53:55.968-04:00
-modified: 2026-03-29T21:53:55.969-04:00
-published: 2026-03-29T21:53:55.969-04:00
+created: 2026-03-30T01:53:55.968Z
+modified: 2026-03-30T01:53:55.969Z
+published: 2026-03-30T01:53:55.969Z
 tags:
   - ttrpg-cli/compendium/src/5e/xphb
   - ttrpg-cli/spell/class/bard

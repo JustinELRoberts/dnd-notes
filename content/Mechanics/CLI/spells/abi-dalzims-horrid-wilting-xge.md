@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Abi-Dalzim's Horrid Wilting
-created: 2026-03-29T21:53:56.068-04:00
-modified: 2026-03-29T21:53:56.069-04:00
-published: 2026-03-29T21:53:56.069-04:00
+created: 2026-03-30T01:53:56.068Z
+modified: 2026-03-30T01:53:56.069Z
+published: 2026-03-30T01:53:56.069Z
 tags:
   - ttrpg-cli/compendium/src/5e/xge
   - ttrpg-cli/spell/class/bard

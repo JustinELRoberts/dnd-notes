@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Tasha's Otherworldly Guise
-created: 2026-03-29T21:53:56.048-04:00
-modified: 2026-03-29T21:53:56.048-04:00
-published: 2026-03-29T21:53:56.048-04:00
+created: 2026-03-30T01:53:56.048Z
+modified: 2026-03-30T01:53:56.048Z
+published: 2026-03-30T01:53:56.048Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/spell/class/bard

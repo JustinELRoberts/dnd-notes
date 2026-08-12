@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Roleplaying a Hag; Hag Bonds
-created: 2026-03-29T21:53:56.485-04:00
-modified: 2026-03-29T21:53:56.485-04:00
-published: 2026-03-29T21:53:56.485-04:00
+created: 2026-03-30T01:53:56.485Z
+modified: 2026-03-30T01:53:56.485Z
+published: 2026-03-30T01:53:56.485Z
 tags:
   - ttrpg-cli/compendium/src/5e/vgm
 cssclasses:
