@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Mage Hand Knack
-created: 2026-03-29T21:53:55.564-04:00
-modified: 2026-03-29T21:53:55.564-04:00
-published: 2026-03-29T21:53:55.564-04:00
+created: 2026-03-30T01:53:55.564Z
+modified: 2026-03-30T01:53:55.564Z
+published: 2026-03-30T01:53:55.564Z
 tags:
   - ttrpg-cli/compendium/src/5e/valdaspire24
   - ttrpg-cli/optional-feature/t

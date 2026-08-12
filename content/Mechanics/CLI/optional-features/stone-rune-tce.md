@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Stone Rune
-created: 2026-03-29T21:53:55.975-04:00
-modified: 2026-03-29T21:53:55.975-04:00
-published: 2026-03-29T21:53:55.975-04:00
+created: 2026-03-30T01:53:55.975Z
+modified: 2026-03-30T01:53:55.975Z
+published: 2026-03-30T01:53:55.975Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/optional-feature/rn

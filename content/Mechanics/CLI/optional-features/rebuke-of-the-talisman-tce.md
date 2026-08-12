@@ -2,9 +2,9 @@
 publish: true
 aliases:
   - Rebuke of the Talisman
-created: 2026-03-29T21:53:55.651-04:00
-modified: 2026-03-29T21:53:55.651-04:00
-published: 2026-03-29T21:53:55.651-04:00
+created: 2026-03-30T01:53:55.651Z
+modified: 2026-03-30T01:53:55.651Z
+published: 2026-03-30T01:53:55.651Z
 tags:
   - ttrpg-cli/compendium/src/5e/tce
   - ttrpg-cli/optional-feature/ei
