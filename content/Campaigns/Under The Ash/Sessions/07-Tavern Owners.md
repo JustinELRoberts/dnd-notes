@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-12T21:22:49.457Z
-modified: 2026-08-11T23:29:42.139Z
-published: 2026-08-11T23:29:42.139Z
+modified: 2026-08-13T21:14:16.581Z
+published: 2026-08-13T21:14:16.581Z
 Date: 2026-07-02
 Party:
   - "[[Avenj]]"
@@ -19,7 +19,7 @@ End Day: 10
 
 The party awoke at [[Bruce]]'s manor, where [[Roz Rozum|Roz]] was briefly confronted by [[forgotten-realms-malar|Malar]]—the goddess of lycanthropes—who possessed his shield [[Jimmothy]] to ask if he had considered her previous offer. Following this, the group met with the halfling real estate agent [[Campaigns/Under The Ash/NPCs/Rod|Rod]]. Upon inspecting the abandoned [[Starlight Inn]], they discovered the building was actually a massive [[mimic]], which they narrowly escaped and killed. Taking advantage of the destroyed lot, they finalized a 225,000-gold deal to construct a tavern and bastion named [[Tale's End]].
 
-Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out [[Ferrar]], who revealed his brother [[Thompson]] had collaborated with a noble-looking man (likely [[Ned Grindledark|Ned]]) on supersoldier experiments inspired by legendary texts like _The Champions of Evermore_. [[Ferrar]] transported the group via his airship to [[The Unnamed City|The Border City]], only to discover a horrific scene: [[Thompson]] had slaughtered the entire population. In the ensuing confrontation, [[Thompson]] petrified [[Ferrar]] using the [[Dagger from the book]], but a dark-eyed [[Theratina]] aggressively retaliated, stabbing him repeatedly and severing his hand. [[Thompson]] vanished in a cloud of smoke, leaving behind purple blood corrupted by [[Tears of Silvanus]]. After [[Roz Rozum|Roz]] saved the lone survivor—a toddler whom [[Ferrar]] agreed to escort to [[Glasscap Grove]]—the party secured the airship and departed for [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]], intent on using the severed hand to track their foe.
+Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out [[Ferrar]], who revealed his brother [[Thompson]] had collaborated with a noble-looking man (likely [[Ned Grindledark|Ned]]) on supersoldier experiments inspired by legendary texts like _The Champions of Evermore_. [[Ferrar]] transported the group via his airship to [[The Unnamed City|The Border City]], only to discover a horrific scene: [[Thompson]] had slaughtered the entire population. In the ensuing confrontation, [[Thompson]] petrified [[Ferrar]] using the [[The Stoneheart|dagger from the book]], but a dark-eyed [[Theratina]] aggressively retaliated, stabbing him repeatedly and severing his hand. [[Thompson]] vanished in a cloud of smoke, leaving behind purple blood corrupted by [[Tears of Silvanus]]. After [[Roz Rozum|Roz]] saved the lone survivor—a toddler whom [[Ferrar]] agreed to escort to [[Glasscap Grove]]—the party secured the airship and departed for [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]], intent on using the severed hand to track their foe.
 
 ## Events
 
@@ -165,7 +165,7 @@ Warned telepathically by [[Theratina]] about [[Thompson]], the party sought out 
 - [[Ferrar]] tosses the keys back to [[Raelor]] and approaches [[Thompson]]
   - His hands are extended to claws, implying he will fight
 - High survival rolls imply there are truly no traps (besides [[Thompson]])
-- [[Thompson]] stabs [[Ferrar]] with the [[Dagger from the book]] and he turns to stone
+- [[Thompson]] stabs [[Ferrar]] with the [[The Stoneheart|dagger from the book]] and he turns to stone
   - He leaves the knife inside him and approaches us
 - We still have the option to leave
 - We stay and fight him

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-16T20:59:55.574Z
-modified: 2026-07-30T22:11:30.955Z
-published: 2026-07-30T22:11:30.955Z
+modified: 2026-08-13T21:10:29.225Z
+published: 2026-08-13T21:10:29.225Z
 Date: 2026-07-16
 Party:
   - "[[Avenj]]"
@@ -15,6 +15,8 @@ End Day: 10
 ---
 
 ## Summary
+
+While traveling aboard [[Ferrar]]'s airship, the party detoured to the [[Hay District]] of [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]] to track down a legendary ale—a side-quest that briefly surfaced a eerie warning from an entity called [[The Archivist]] possessing [[Theratina]]. In [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]], they met a family of [[tiefling]]s ([[The Bongos]]) whose supply of ale was stalled, prompting the party to journey to [[Potitor's Tower]] to rescue the brewer [[Potitor Bongo]]. Along the way, they pacified a toll-collecting [[troll]] named [[Gor'mak Ironmaw Skullringer|Goremak]], bypassed multi-layered illusion fog, and snuck past a territorial [[chimera]]. After driving off an ambushing pirate crew at the tower, [[Callie Dawnsong|Cal]] used [[detect-thoughts-xphb|Detect Thoughts]] on the captured captain to uncover a dark conspiracy involving [[The Council of the Cold Veil]], a figure named [[Vi]], and their plot to awaken [[The Unknown]] and the undead dragon [[Dracacar]]. Securing [[Potitor Bongo]] as the exclusive brewer for [[Tale's End]] and hiring [[Barbara Bongo]], the group returned to the airship, unaware until the end of the night that the [[chimera]] had secretly stowed away on board.
 
 ## Events
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-06-18T21:57:42.546Z
-modified: 2026-08-11T23:29:38.281Z
-published: 2026-08-11T23:29:38.281Z
+modified: 2026-08-13T21:14:16.581Z
+published: 2026-08-13T21:14:16.581Z
 Date: 2026-06-18
 Party:
   - "[[Avenj]]"
@@ -17,7 +17,7 @@ End Day: 8
 
 ## Summary
 
-The party fought and defeated a magical Ice/[[stone-giant|Stone Giant]] at the [[Arena of Vel'Therin Expanse]]. During the battle, [[Roz Rozum|Roz]] died in an explosion, experiencing a vision of [[forgotten-realms-selune|Selûne]] and his sentient shield [[Jimmothy]] before successfully accepting a [[resurrection-xphb|Resurrection]] spell. After collecting their massive 277,000G payout and paying [[Ferrar]] his cut, the group learned about [[The Dark Beasts]] and their alpha, [[Thompson]], who is [[Ferrar]]'s brother. Later at [[The Iron Wake Mug]], the party was approached by [[Thompson]] himself, who attempted to bargain for the [[Dagger from the book]]] to overthrow [[Ferrar]] as the alpha of [[Glasscap Grove]]. [[Thompson]] ominously hinted at [[Theratina]]'s true nature before leaving a mysterious coin identical to one found previously. The session ended at [[Bruce]]'s manor, where reading [[The Human King of the Elves]] trapped [[Callie Dawnsong|Cal]] in a horrifying, manipulative vision connected to [[Theratina]].
+The party fought and defeated a magical Ice/[[stone-giant|Stone Giant]] at the [[Arena of Vel'Therin Expanse]]. During the battle, [[Roz Rozum|Roz]] died in an explosion, experiencing a vision of [[forgotten-realms-selune|Selûne]] and his sentient shield [[Jimmothy]] before successfully accepting a [[resurrection-xphb|Resurrection]] spell. After collecting their massive 277,000G payout and paying [[Ferrar]] his cut, the group learned about [[The Dark Beasts]] and their alpha, [[Thompson]], who is [[Ferrar]]'s brother. Later at [[The Iron Wake Mug]], the party was approached by [[Thompson]] himself, who attempted to bargain for the [[The Stoneheart|dagger from the book]]] to overthrow [[Ferrar]] as the alpha of [[Glasscap Grove]]. [[Thompson]] ominously hinted at [[Theratina]]'s true nature before leaving a mysterious coin identical to one found previously. The session ended at [[Bruce]]'s manor, where reading [[The Human King of the Elves]] trapped [[Callie Dawnsong|Cal]] in a horrifying, manipulative vision connected to [[Theratina]].
 
 ## Events
 
@@ -104,7 +104,7 @@ The party fought and defeated a magical Ice/[[stone-giant|Stone Giant]] at the [
   - "I'm planning on visiting family"
   - He is almost certainly [[Thompson]]
 - He mentions [[Theratina]] by name
-- He also pulls out the [[Dagger from the book]]
+- He also pulls out the [[The Stoneheart|dagger from the book]]
   - "I will give you this if you help me get into [[Glasscap Grove]]"
   - He wants to "free" them and help them "fight back"
   - "If I bite someone [[Ferrar]] has bitten, they'll switch; he will no longer be their alpha"

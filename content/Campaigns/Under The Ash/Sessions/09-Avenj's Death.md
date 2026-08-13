@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T21:12:29.007Z
-modified: 2026-08-11T23:43:57.348Z
-published: 2026-08-11T23:43:57.348Z
+modified: 2026-08-13T21:14:16.601Z
+published: 2026-08-13T21:14:16.601Z
 Date: 2026-07-30
 Party:
   - "[[Avenj]]"
@@ -15,6 +15,8 @@ End Day: 11
 ---
 
 ## Summary
+
+While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]], [[Roz Rozum|Roz]] bargained with [[dawn-war-asmodeus-dmg|Asmodeus]] through [[Jimmothy]] to locate [[Thompson]], agreeing to deliver a secret message to [[The Piper]] in exchange. The party tracked [[Thompson]] to his camp and spied on him arguing with [[Vi]], who abandoned the sickly lycanthrope, claimed the artifact dagger [[The Stoneheart]], and handed it off to [[Yharov Stonebrow|Yharov]] before casting [[maze-xphb|Maze]] on [[Roz Rozum|Roz]]. After [[Roz Rozum|Roz]] secretly passed [[dawn-war-asmodeus-dmg|Asmodeus]]'s message to [[The Piper]] and a rogue [[weretiger]] executed [[Thompson]]—freeing his mind-controlled followers—the group recovered important schematics from the camp and returned to [[Ferrar's Airship]]. However, tragedy struck when [[Yharov Stonebrow|Yharov]] handed [[Theratina]] the [[Coin of The Unknown]], which instantly dissolved her into goo and teleported the party to the [[Dimensional Blue Arena]]. There, the massive shadow entity [[The Unknown]] instantly killed [[Avenj]] with [[power-word-kill-xphb|Power Word Kill]] as a warning. Back on the airship, despite [[Roz Rozum|Roz]] and [[Yharov Stonebrow|Yharov]]'s desperate attempts to offer their own lives to revive him, [[Avenj]] ultimately chose to pass on into the afterlife, leaving behind a final warning about the [[notebook with a sleeping face on its cover]] and sparking a dark, vengeful resolve in [[Theratina]] to destroy [[The Unknown]].
 
 ## Events
 
@@ -62,7 +64,7 @@ End Day: 11
 #### Inside the house
 
 - [[Theodore Shellington|Theodore]] uses [[clairvoyance-xphb|Clairvoyance]] to hear and see in the house
-- He sees the [[Dagger from the book]]
+- He sees the [[The Stoneheart|dagger from the book]]
 - Changing [[clairvoyance-xphb|Clairvoyance]] to hearing, we hear [[Vi]] tell [[Thompson]], "I'm done fixing your mistakes. Did you get [[Theratina]]?"
 - "No. I wish I did."
 - [[Vi]] claims they are on a "crunch"
@@ -87,7 +89,7 @@ End Day: 11
 - [[Roz Rozum|Roz]] secretly [[message-xphb|Message]]s him the message from [[dawn-war-asmodeus-dmg|Asmodeus]]
   - "Thank you good sir. I'm off to find a dragon"
 - They leave
-- [[Theodore Shellington|Theodore]] opens the book and [[Yharov Stonebrow|Yharov]] puts the [[Dagger from the book]] inside
+- [[Theodore Shellington|Theodore]] opens the book and [[Yharov Stonebrow|Yharov]] puts the [[The Stoneheart|dagger from the book]] inside
   - We finally find out it is called [[The Stoneheart]]
     - one of most powerful artrifacts
     - gives the user paralyzing magic and siphoning magic anywhere withhin 30 feet of the user

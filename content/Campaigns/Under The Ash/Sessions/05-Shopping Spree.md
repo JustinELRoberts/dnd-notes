@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-21T21:34:58.724Z
-modified: 2026-08-11T23:29:31.053Z
-published: 2026-08-11T23:29:31.053Z
+modified: 2026-08-13T21:14:16.578Z
+published: 2026-08-13T21:14:16.578Z
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
@@ -16,7 +16,7 @@ End Day: 8
 
 ## Summary
 
-Following their rest, [[Roz Rozum|Roz]] communicated with [[forgotten-realms-malar|Malar]], the goddess of lycanthropes, who demanded the [[Dagger from the book]] and revealed that [[Vorick Bale]] of [[The Dark Beasts]] currently possesses the artifact they seek. The party collected substantial bounties from [[The Citadel of Vel Rau'dan|The Citadel]] for the [[young-blue-dragon|Young Blue Dragon]] and from [[Bruce]] at the [[Arena of Vel'Therin Expanse]] for eliminating [[The Hag]]. Upon giving [[Theratina]] her deceased mother's clothes, [[Raelor]] and [[Yharov Stonebrow|Yharov]] were inadvertently pulled into a traumatic shared memory of [[Theratina]]'s parents being murdered by a [[Mechanics/CLI/bestiary/fiend/night-hag|Night Hag]], an event that caused [[Theratina]] to rapidly age. The group spent the afternoon shopping and enjoying a lively dance in the park before meeting with [[Ferrar]] to arrange combat sponsorship. During the meeting, [[Ferrar]] revealed that a [[The Grindledarks|Grindledark]] is hunting [[Theratina]] and offered her sanctuary at [[Glasscap Grove]]. To seal an alliance and grant them strength, [[Ferrar]] cursed [[Yharov Stonebrow|Yharov]] and [[Roz Rozum|Roz]] with lycanthropy, turning them into a [[werewolf]] and a [[weretiger]], respectively.
+Following their rest, [[Roz Rozum|Roz]] communicated with [[forgotten-realms-malar|Malar]], the goddess of lycanthropes, who demanded the [[The Stoneheart|dagger from the book]] and revealed that [[Vorick Bale]] of [[The Dark Beasts]] currently possesses the artifact they seek. The party collected substantial bounties from [[The Citadel of Vel Rau'dan|The Citadel]] for the [[young-blue-dragon|Young Blue Dragon]] and from [[Bruce]] at the [[Arena of Vel'Therin Expanse]] for eliminating [[The Hag]]. Upon giving [[Theratina]] her deceased mother's clothes, [[Raelor]] and [[Yharov Stonebrow|Yharov]] were inadvertently pulled into a traumatic shared memory of [[Theratina]]'s parents being murdered by a [[Mechanics/CLI/bestiary/fiend/night-hag|Night Hag]], an event that caused [[Theratina]] to rapidly age. The group spent the afternoon shopping and enjoying a lively dance in the park before meeting with [[Ferrar]] to arrange combat sponsorship. During the meeting, [[Ferrar]] revealed that a [[The Grindledarks|Grindledark]] is hunting [[Theratina]] and offered her sanctuary at [[Glasscap Grove]]. To seal an alliance and grant them strength, [[Ferrar]] cursed [[Yharov Stonebrow|Yharov]] and [[Roz Rozum|Roz]] with lycanthropy, turning them into a [[werewolf]] and a [[weretiger]], respectively.
 
 ## Events
 
@@ -38,7 +38,7 @@ Following their rest, [[Roz Rozum|Roz]] communicated with [[forgotten-realms-mal
   - "...He ([[Jimmothy]]) belongs to all of us"
   - "...I am the goddness of lycanthropes (werewolves)"
   - "...and [[Roz Rozum|Roz]] I need you... You hunt for artifacts..."
-  - The goddess wants the [[Dagger from the book]]. "The gods are not able to tell you what they possess and what they do as we are still unsure. But have you ever learned of the [[Sabertooth Beasts]]?" (he has not). "They are the ones that worship me. having 3 dens of 3 packs. The oldest being [[The Old Laws]], the next [[The Red Maw|The Western Den]], and the one that we hate the most is [[The Dark Beasts]]"
+  - The goddess wants the [[The Stoneheart|dagger from the book]]. "The gods are not able to tell you what they possess and what they do as we are still unsure. But have you ever learned of the [[Sabertooth Beasts]]?" (he has not). "They are the ones that worship me. having 3 dens of 3 packs. The oldest being [[The Old Laws]], the next [[The Red Maw|The Western Den]], and the one that we hate the most is [[The Dark Beasts]]"
     - Hates them because "they possess my powers but do not follow me.. the alpha of [[The Dark Beasts]] known as [[Vorick Bale]] and possess the item you want"
   - "It is because you care for [[Theratina]] and wish to know her true nature (in response to [[Roz Rozum|Roz]] saying if he does do this, it is not bc he serves this goddess; but out of his own volition)"
 - [[Jimmothy]] returns
