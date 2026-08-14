@@ -3,8 +3,8 @@ publish: true
 aliases:
   - 12 artifacts
 created: 2026-04-17T02:14:28.946Z
-modified: 2026-08-13T21:14:16.566Z
-published: 2026-08-13T21:14:16.566Z
+modified: 2026-08-13T21:16:03.320Z
+published: 2026-08-13T21:16:03.320Z
 tags:
   - 12-Artifacts
 ---
@@ -19,4 +19,4 @@ The items we have encountered so far are:
 
 1. [[Diamond of 20 Monsters]]
 2. [[Staff of Souls]]
-3. [[The Stoneheart|dagger from the book]]
+3. [[The Stoneheart]]

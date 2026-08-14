@@ -2,7 +2,7 @@
 
 | Session Name                                                                       | Start Day | End Day | Date            |
 | ---------------------------------------------------------------------------------- | --------- | ------- | --------------- |
-| [[Campaigns/Under The Ash/Sessions/10-.md\|10-]]                                   | -        | -      | August 13, 2026 |
+| [[Campaigns/Under The Ash/Sessions/10-.md\|10-]]                                   | 12        | -      | August 13, 2026 |
 | [[Campaigns/Under The Ash/Sessions/09-Avenj's Death.md\|09-Avenj's Death]]         | 11        | 11      | July 30, 2026   |
 | [[Campaigns/Under The Ash/Sessions/08-One Shot Ale Hunt.md\|08-One Shot Ale Hunt]] | 10        | 10      | July 16, 2026   |
 | [[Campaigns/Under The Ash/Sessions/07-Tavern Owners.md\|07-Tavern Owners]]         | 9         | 10      | July 02, 2026   |
@@ -24,3 +24,4 @@
 | [[Campaigns/Under The Ash/PCs/Theodore Shellington.md\|Theodore Shellington]] | [[Mechanics/CLI/races/tortle-mpmm.md\|Tortle]]      | [[Mechanics/CLI/classes/wizard-xphb.md\|Wizard]]                   | [[Mechanics/CLI/classes/wizard-xphb-evoker-xphb.md\|Evoker]]                     |
 | [[Campaigns/Under The Ash/PCs/Yharov Stonebrow.md\|Yharov Stonebrow]]         | [[Mechanics/CLI/races/goliath-xphb.md\|Goliath]]    | [[Mechanics/CLI/classes/monk-xphb.md\|Monk]]                       | [[Mechanics/CLI/classes/monk-xphb-warrior-of-shadow-xphb.md\|Warrior of Shadow]] |
 | [[Campaigns/Under The Ash/PCs/Avenj.md\|Avenj]]                               | [[Mechanics/CLI/races/warforged-efa.md\|Warforged]] | [[Mechanics/CLI/classes/necromancer-valdaspire24.md\|Necromancer]] | [[Mechanics/CLI/classes/necromancer-plague-lord-valdaspire24.md\|Plague Lord]]   |
+| [[Campaigns/Under The Ash/PCs/Rithas.md\|Rithas]]                             | -                                                  | -                                                                 | -                                                                               |

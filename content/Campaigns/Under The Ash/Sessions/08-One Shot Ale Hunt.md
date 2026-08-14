@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-16T20:59:55.574Z
-modified: 2026-08-13T21:10:29.225Z
-published: 2026-08-13T21:10:29.225Z
+modified: 2026-08-13T22:08:24.744Z
+published: 2026-08-13T22:08:24.744Z
 Date: 2026-07-16
 Party:
   - "[[Avenj]]"
@@ -16,7 +16,7 @@ End Day: 10
 
 ## Summary
 
-While traveling aboard [[Ferrar]]'s airship, the party detoured to the [[Hay District]] of [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]] to track down a legendary ale—a side-quest that briefly surfaced a eerie warning from an entity called [[The Archivist]] possessing [[Theratina]]. In [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]], they met a family of [[tiefling]]s ([[The Bongos]]) whose supply of ale was stalled, prompting the party to journey to [[Potitor's Tower]] to rescue the brewer [[Potitor Bongo]]. Along the way, they pacified a toll-collecting [[troll]] named [[Gor'mak Ironmaw Skullringer|Goremak]], bypassed multi-layered illusion fog, and snuck past a territorial [[chimera]]. After driving off an ambushing pirate crew at the tower, [[Callie Dawnsong|Cal]] used [[detect-thoughts-xphb|Detect Thoughts]] on the captured captain to uncover a dark conspiracy involving [[The Council of the Cold Veil]], a figure named [[Vi]], and their plot to awaken [[The Unknown]] and the undead dragon [[Dracacar]]. Securing [[Potitor Bongo]] as the exclusive brewer for [[Tale's End]] and hiring [[Barbara Bongo]], the group returned to the airship, unaware until the end of the night that the [[chimera]] had secretly stowed away on board.
+While traveling aboard [[Ferrar]]'s airship, the party detoured to the [[Hay District]] of [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]] to track down a legendary ale—a side-quest that briefly surfaced a eerie warning from an entity called [[The Archivist]] possessing [[Theratina]]. In [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]], they met a family of [[tiefling]]s ([[The Bongos]]) whose supply of ale was stalled, prompting the party to journey to [[Potitor's Tower]] to rescue the brewer [[Potitor Bongo]]. Along the way, they pacified a toll-collecting [[troll]] named [[Gor'mak Ironmaw Skullringer|Goremak]], bypassed multi-layered illusion fog, and snuck past a territorial [[chimera]]. After driving off an ambushing pirate crew at the tower, [[Callie Dawnsong|Cal]] used [[detect-thoughts-xphb|Detect Thoughts]] on the captured captain to uncover a dark conspiracy involving [[The Council of the Cold Veil]], a figure named [[V]], and their plot to awaken [[The Unknown]] and the undead dragon [[Dracacar]]. Securing [[Potitor Bongo]] as the exclusive brewer for [[Tale's End]] and hiring [[Barbara Bongo]], the group returned to the airship, unaware until the end of the night that the [[chimera]] had secretly stowed away on board.
 
 ## Events
 
@@ -180,7 +180,7 @@ While traveling aboard [[Ferrar]]'s airship, the party detoured to the [[Hay Dis
   - The work with [[The Council of the Cold Veil]]
   - They are "looking for artifacts"
 - He says more
-  - "[[The Council of the Cold Veil|Council of the Cold Veil]] is working with someone pretty and devilish by the name of [[Vi]]. She wants to bring back [[Dracacar]]: an undead dragon once ridden by [[The Unknown]]. She is working with [[The Council of the Cold Veil|The Council]] to stop the blood moon. She is also hunting these artifacts; I believe she is trying to awaken [[The Unknown]]"
+  - "[[The Council of the Cold Veil|Council of the Cold Veil]] is working with someone pretty and devilish by the name of [[V]]. She wants to bring back [[Dracacar]]: an undead dragon once ridden by [[The Unknown]]. She is working with [[The Council of the Cold Veil|The Council]] to stop the blood moon. She is also hunting these artifacts; I believe she is trying to awaken [[The Unknown]]"
 - We decide to take him and the other bodies to go feed the [[chimera]]
 - [[Callie Dawnsong|Cal]] casts [[detect-thoughts-xphb|Detect Thoughts]] on the pirate captain (some special memory exploring thing)
   - Brad has him roll a d100
@@ -190,9 +190,9 @@ While traveling aboard [[Ferrar]]'s airship, the party detoured to the [[Hay Dis
   - They can hear the captain talking to a lady
   - They can't make out the words
     - The captain wasn't listening
-  - They see [[Vi]]
+  - They see [[V]]
   - It seems the captain is hypnotized by her
-  - [[Vi]] makes eye contact with [[Callie Dawnsong|Cal]] and sees she wants nothing but destruction
+  - [[V]] makes eye contact with [[Callie Dawnsong|Cal]] and sees she wants nothing but destruction
 
 ---
 

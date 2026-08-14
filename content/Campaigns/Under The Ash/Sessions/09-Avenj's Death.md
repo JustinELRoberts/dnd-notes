@@ -1,12 +1,11 @@
 ---
 publish: true
 created: 2026-07-30T21:12:29.007Z
-modified: 2026-08-13T21:14:16.601Z
-published: 2026-08-13T21:14:16.601Z
+modified: 2026-08-13T22:13:47.414Z
+published: 2026-08-13T22:13:47.414Z
 Date: 2026-07-30
 Party:
   - "[[Avenj]]"
-  - "[[Callie Dawnsong|Cal]]"
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
   - "[[Yharov Stonebrow|Yharov]]"
@@ -16,7 +15,7 @@ End Day: 11
 
 ## Summary
 
-While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]], [[Roz Rozum|Roz]] bargained with [[dawn-war-asmodeus-dmg|Asmodeus]] through [[Jimmothy]] to locate [[Thompson]], agreeing to deliver a secret message to [[The Piper]] in exchange. The party tracked [[Thompson]] to his camp and spied on him arguing with [[Vi]], who abandoned the sickly lycanthrope, claimed the artifact dagger [[The Stoneheart]], and handed it off to [[Yharov Stonebrow|Yharov]] before casting [[maze-xphb|Maze]] on [[Roz Rozum|Roz]]. After [[Roz Rozum|Roz]] secretly passed [[dawn-war-asmodeus-dmg|Asmodeus]]'s message to [[The Piper]] and a rogue [[weretiger]] executed [[Thompson]]—freeing his mind-controlled followers—the group recovered important schematics from the camp and returned to [[Ferrar's Airship]]. However, tragedy struck when [[Yharov Stonebrow|Yharov]] handed [[Theratina]] the [[Coin of The Unknown]], which instantly dissolved her into goo and teleported the party to the [[Dimensional Blue Arena]]. There, the massive shadow entity [[The Unknown]] instantly killed [[Avenj]] with [[power-word-kill-xphb|Power Word Kill]] as a warning. Back on the airship, despite [[Roz Rozum|Roz]] and [[Yharov Stonebrow|Yharov]]'s desperate attempts to offer their own lives to revive him, [[Avenj]] ultimately chose to pass on into the afterlife, leaving behind a final warning about the [[notebook with a sleeping face on its cover]] and sparking a dark, vengeful resolve in [[Theratina]] to destroy [[The Unknown]].
+While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]], [[Roz Rozum|Roz]] bargained with [[dawn-war-asmodeus-dmg|Asmodeus]] through [[Jimmothy]] to locate [[Thompson]], agreeing to deliver a secret message to [[The Piper]] in exchange. The party tracked [[Thompson]] to his camp and spied on him arguing with [[V]], who abandoned the sickly lycanthrope, claimed the artifact dagger [[The Stoneheart]], and handed it off to [[Yharov Stonebrow|Yharov]] before casting [[maze-xphb|Maze]] on [[Roz Rozum|Roz]]. After [[Roz Rozum|Roz]] secretly passed [[dawn-war-asmodeus-dmg|Asmodeus]]'s message to [[The Piper]] and a rogue [[weretiger]] executed [[Thompson]]—freeing his mind-controlled followers—the group recovered important schematics from the camp and returned to [[Ferrar's Airship]]. However, tragedy struck when [[Yharov Stonebrow|Yharov]] handed [[Theratina]] the [[Coin of The Unknown]], which instantly dissolved her into goo and teleported the party to the [[Dimensional Blue Arena]]. There, the massive shadow entity [[The Unknown]] instantly killed [[Avenj]] with [[power-word-kill-xphb|Power Word Kill]] as a warning. Back on the airship, despite [[Roz Rozum|Roz]] and [[Yharov Stonebrow|Yharov]]'s desperate attempts to offer their own lives to revive him, [[Avenj]] ultimately chose to pass on into the afterlife, leaving behind a final warning about the [[notebook with a sleeping face on its cover]] and sparking a dark, vengeful resolve in [[Theratina]] to destroy [[The Unknown]].
 
 ## Events
 
@@ -55,7 +54,7 @@ While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/
   - A town where thousands of his lycanthropes worship him
 - We arrive at his camp and [[Hoots]] scouts for us
 - [[Thompson]] is sickly on the bed with his missing hand
-- We see [[Vi]] by his side
+- We see [[V]] by his side
 - There are a dozen or so lycanthropes here on guard
   - They are all on guard
 - The nearby stream stinks, meaning it is hard to detect from smell
@@ -65,9 +64,9 @@ While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/
 
 - [[Theodore Shellington|Theodore]] uses [[clairvoyance-xphb|Clairvoyance]] to hear and see in the house
 - He sees the [[The Stoneheart|dagger from the book]]
-- Changing [[clairvoyance-xphb|Clairvoyance]] to hearing, we hear [[Vi]] tell [[Thompson]], "I'm done fixing your mistakes. Did you get [[Theratina]]?"
+- Changing [[clairvoyance-xphb|Clairvoyance]] to hearing, we hear [[V]] tell [[Thompson]], "I'm done fixing your mistakes. Did you get [[Theratina]]?"
 - "No. I wish I did."
-- [[Vi]] claims they are on a "crunch"
+- [[V]] claims they are on a "crunch"
   - "The wars are about to begin"
   - "The land is about to freeze over"
   - "I don't believe you deserve this knife anymore. It has corrupted you in a way you said it wouldn't."
@@ -75,9 +74,9 @@ While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/
   - "If I find those individuals, I'm going to give this (knife) to them. See how fast they corrupt."
 - She takes the knife and goes outside to the bridge
 
-#### Confronting [[Vi]]
+#### Confronting [[V]]
 
-- [[Roz Rozum|Roz]] turns into his hybrid form and goes to talk to [[Vi]]
+- [[Roz Rozum|Roz]] turns into his hybrid form and goes to talk to [[V]]
 - She wants us to lick her hand in exchange for the blade for some reason
 - She casts [[maze-xphb|Maze]] on [[Roz Rozum|Roz]] and banishes her
 - [[Yharov Stonebrow|Yharov]] decides to lick her hand, covering her tongue in wax
@@ -91,9 +90,9 @@ While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/
 - They leave
 - [[Theodore Shellington|Theodore]] opens the book and [[Yharov Stonebrow|Yharov]] puts the [[The Stoneheart|dagger from the book]] inside
   - We finally find out it is called [[The Stoneheart]]
-    - one of most powerful artrifacts
-    - gives the user paralyzing magic and siphoning magic anywhere withhin 30 feet of the user
-      - It siphons the magic of poeple arounf
+    - One of most powerful of the [[12 Artifacts]]
+    - Gives the user paralyzing magic and siphoning magic anywhere within 30 feet of the user
+      - It siphons the magic of people around
 - The next item we see inside are [[Two Circular Earrings]]
 
 #### [[Thompson]]'s death
@@ -182,7 +181,7 @@ While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/
 - The deity [[Yharov Stonebrow|Yharov]] is speaking to casts [[speak-with-dead-xphb|Speak with Dead]]
   - We ask him some questions regarding swapping etc
 - [[Theratina]] puts both [[Yharov Stonebrow|Yharov]] and [[Roz Rozum|Roz]] to sleep
-- She apologies
+- She apologizes
 - [[Avenj]] tells us not to let [[The Council of the Cold Veil|Council of the Cold Veil]] get the [[notebook with a sleeping face on its cover]]
 - [[Avenj]]'s spirit departs
 - We have a memorial for him
