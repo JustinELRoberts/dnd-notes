@@ -2,7 +2,7 @@
 
 | Session Name                                                                       | Start Day | End Day | Date            |
 | ---------------------------------------------------------------------------------- | --------- | ------- | --------------- |
-| [[Campaigns/Under The Ash/Sessions/11-.md\|11-]]                                   | 13        | 13      | August 27, 2026 |
+| [[Campaigns/Under The Ash/Sessions/11-Land Mermaid.md\|11-Land Mermaid]]           | 13        | 13      | August 27, 2026 |
 | [[Campaigns/Under The Ash/Sessions/10-Meeting Rithas.md\|10-Meeting Rithas]]       | 12        | 12      | August 13, 2026 |
 | [[Campaigns/Under The Ash/Sessions/09-Avenj's Death.md\|09-Avenj's Death]]         | 11        | 11      | July 30, 2026   |
 | [[Campaigns/Under The Ash/Sessions/08-One Shot Ale Hunt.md\|08-One Shot Ale Hunt]] | 10        | 10      | July 16, 2026   |
