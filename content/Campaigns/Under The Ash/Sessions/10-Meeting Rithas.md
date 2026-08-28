@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T21:05:43.393Z
-modified: 2026-08-14T02:10:58.532Z
-published: 2026-08-14T02:10:58.532Z
+modified: 2026-08-27T22:03:30.108Z
+published: 2026-08-27T22:03:30.108Z
 Date: 2026-08-13
 Party:
   - "[[Avenj]]"
@@ -12,10 +12,12 @@ Party:
   - "[[Theodore Shellington|Theodore]]"
   - "[[Yharov Stonebrow|Yharov]]"
 Start Day: 12
-End Day:
+End Day: 12
 ---
 
 ## Summary
+
+Arriving in [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]], the party checked on [[The Tail's End]], assigned [[Barbara Bongo|Barbara]] to entertainment, placed [[Avenj]]'s remains in the basement, and saw the weapon [[Yharov Stonebrow|Yharov]] forged from his body. They recruited [[Shadowfell]] rogue [[Rithas]] (who provided a copy of [[Lost Experiment]]) and [[Iron Wake Mug Barkeep|Diana]] from [[The Iron Wake Mug]] to manage the tavern. To fund their plans and advertise the opening, the group disguised [[Theratina]] and defeated two C-tier dragons in the [[Arena of Vel'Therin Expanse]], claiming a 7.5-to-1 payout and a copper dragon horn. Post-fight, [[Yharov Stonebrow|Yharov]] pilfered [[The Letter to Grindledark]] from the post office, and the party confronted [[Bruce]] at [[The Patio]]—discovering an invisible [[V]] eavesdropping on his plan to hunt dragons in [[Grumdur-Khaz]]. After buying [[The Book of the Second Roar]] from a [[Drakhakar]] recruit in an alley, they returned to [[The Tail's End]], where [[Roz Rozum|Roz]] prayed to [[forgotten-realms-selune|Selûne]] and learned from [[Jimmothy]] about a [[Travelling Tavern]] near [[Mazca’Tan]] as they weighed their next path.
 
 ## Events
 
