@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-27T21:33:32.806Z
-modified: 2026-08-28T02:10:22.855Z
-published: 2026-08-28T02:10:22.855Z
+modified: 2026-09-13T23:26:54.570Z
+published: 2026-09-13T23:26:54.570Z
 Date: 2026-08-27
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -11,6 +11,7 @@ Party:
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
   - "[[Yharov Stonebrow|Yharov]]"
+  - "[[Eisuke]]"
 Start Day: 13
 End Day: 13
 ---
@@ -138,7 +139,7 @@ End Day: 13
 - We part ways and as we get back, everyone is waking up
 - We decide to go to the [[Blue Cross Bridge]], despite the fact that it is guarded
   - The other bridge would add 3 days of travel
-- NOTE: 8 days until the next [[Blood Moon]]
+- NOTE: 8 days until the next full moon
 
 ---
 
@@ -158,10 +159,13 @@ End Day: 13
 - We all make wisdom saving throws from its music
   - The citizens around us all fail
   - We all pass
+
+#### Killing the land mermaid
+
 - We fight and defeat the land mermaid
-  - It is wearing [[The Earrings Of Control]]
+  - It is wearing [[The Earrings of Control|Two Circular Earrings]]
   - During the fight, [[Theodore Shellington|Theodore]] and [[Roz Rozum|Roz]] are charmed into fighting each other
-- After defeating it we cut out [[The Earrings Of Control]]
+- After defeating it we cut out [[The Earrings of Control]]
 
 #### A conversation with [[V]]
 

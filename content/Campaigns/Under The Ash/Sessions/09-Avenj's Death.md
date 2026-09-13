@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T21:12:29.007Z
-modified: 2026-08-13T22:13:47.414Z
-published: 2026-08-13T22:13:47.414Z
+modified: 2026-09-13T23:26:54.568Z
+published: 2026-09-13T23:26:54.568Z
 Date: 2026-07-30
 Party:
   - "[[Avenj]]"
@@ -93,7 +93,7 @@ While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/
     - One of most powerful of the [[12 Artifacts]]
     - Gives the user paralyzing magic and siphoning magic anywhere within 30 feet of the user
       - It siphons the magic of people around
-- The next item we see inside are [[Two Circular Earrings]]
+- The next item we see inside are [[The Earrings of Control|Two Circular Earrings]]
 
 #### [[Thompson]]'s death
 
