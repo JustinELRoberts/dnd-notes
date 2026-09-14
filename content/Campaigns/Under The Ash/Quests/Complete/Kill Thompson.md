@@ -19,4 +19,4 @@ tags:
 
 ## Objectives
 
-- Kill [[Thompson]]
+- [x] Kill [[Thompson]]

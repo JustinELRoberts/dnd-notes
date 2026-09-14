@@ -27,5 +27,5 @@ Two separate people pointed us at [[Carrowyn]] in the same session, which is rea
 
 ## Objectives
 
-- Get to [[Carrowyn]]
-- Find the artifact before [[V]] does
+- [ ] Get to [[Carrowyn]]
+- [ ] Find the artifact before [[V]] does

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T00:07:13.592Z
-modified: 2026-09-14T00:07:15.138Z
-published: 2026-09-14T00:07:15.138Z
+modified: 2026-09-14T01:03:31.554Z
+published: 2026-09-14T01:03:31.554Z
 Age: Not known
 Gender: Male
 Race: Not known
@@ -12,10 +12,12 @@ aliases:
 tags:
 ---
 
+![[Campaigns/Under The Ash/NPCs/_img/The Crazy One.png| center | 300]]
+
 ## Description
 
 The only person who supposedly ever saw the land mermaid and lived. The job board sent us to him; the locals call him "The Crazy One".
-We found him on the road to [[Myrrh’s Hollow]] splashing at his own reflection in a pond. He had [[madness]] from hearing the siren's song, and a history check told us it would last years. His mind was nothing but "run, hide, run, hide". His son killed his daughter after the song reached their town.
+We found him on the road to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] splashing at his own reflection in a pond. He had [[madness]] from hearing the siren's song, and a history check told us it would last years. His mind was nothing but "run, hide, run, hide". His son killed his daughter after the song reached their town.
 He asked us to kill him. [[Callie Dawnsong|Cal]] tried to implant a kind memory first and ruptured his brain mid-sentence — "The wizards, they..." — and [[Raelor]] finished him.
 
 ## What we know

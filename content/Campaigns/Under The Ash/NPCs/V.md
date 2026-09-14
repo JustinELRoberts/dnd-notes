@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T00:46:24.457Z
-modified: 2026-09-14T00:10:36.998Z
-published: 2026-09-14T00:10:36.998Z
+modified: 2026-09-14T00:44:28.427Z
+published: 2026-09-14T00:44:28.427Z
 Age: Not known
 Gender: Female
 Race: Not known
@@ -25,6 +25,8 @@ She caught us there in [[12-The Executioner#In the basement]] and stopped preten
 
 > I convinced \[\[]] to look past you killing a [[The Hag|Hag]]...
 
+We couldn't make out the name she said, which is the part that worries me.
+
 She gave us a day's head start from [[The Executioner]], then cut it to twelve hours out of irritation. On the way out she told us where to go next:
 
 > If I were you guys, I would look in [[Carrowyn]] for the next artifact. Thankfully now, you can do two things at once to speed things up for us.
@@ -36,8 +38,8 @@ She gave us a day's head start from [[The Executioner]], then cut it to twelve h
 - She gave [[Bruce]] the job of killing six dragons in [[Grumdur-Khaz]] "before they get big"
 - She claimed on the bridge to have captured [[Theratina]] and implied she killed [[Iron Wake Mug Barkeep|Diana]]. Both turned out to be lies
 - She charmed us on the way into [[Myrrh’s Hollow South]]; [[Yharov Stonebrow|Yharov]] was the only one it didn't take
-- [[remove-curse-xphb|Remove Curse]] does nothing to her. She cast a custom spell, [[Fuck Your Mind]], on [[Roz Rozum|Roz]] for trying
-- The mirror told [[Raelor]] that one of us is working for her
+- [[remove-curse-xphb|Remove Curse]] does nothing to her. She cast a custom spell, [[fuck-your-mind|Fuck Your Mind]], on [[Roz Rozum|Roz]] for trying
+- [[The Mirror Of What Is]] told [[Raelor]] that one of the party is lying to us and working for her
 
 ## Motivations
 

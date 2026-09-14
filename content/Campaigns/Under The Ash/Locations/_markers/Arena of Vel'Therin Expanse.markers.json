@@ -1,0 +1,39 @@
+{
+"size": {
+"w": 2048,
+"h": 2048
+},
+"layers": \[
+{
+"id": "default",
+"name": "Default",
+"visible": true,
+"locked": false
+}
+],
+"markers": \[],
+"bases": \[
+{
+"path": "Campaigns/Under The Ash/Locations/\_img/Blue Cross Bridge.png",
+"name": "Arena of Vel'Therin Expanse"
+}
+],
+"overlays": \[],
+"activeBase": "Campaigns/Under The Ash/Locations/\_img/Blue Cross Bridge.png",
+"measurement": {
+"scales": {},
+"customUnitPxPerUnit": {},
+"travelTimePresetIds": \[],
+"travelDaysEnabled": false,
+"displayUnit": "km"
+},
+"pinSizeOverrides": {},
+"grids": \[],
+"panClamp": true,
+"drawLayers": \[],
+"drawings": \[],
+"secondScreen": {
+"showGrids": true
+},
+"textLayers": \[]
+}

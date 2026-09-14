@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-27T21:33:32.806Z
-modified: 2026-09-14T00:16:29.199Z
-published: 2026-09-14T00:16:29.199Z
+modified: 2026-09-14T01:03:31.557Z
+published: 2026-09-14T01:03:31.557Z
 Date: 2026-08-27
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -18,7 +18,7 @@ End Day: 13
 
 ## Summary
 
-Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displaced [[Tabaxi]] from 190 years in the future—before setting out south toward [[Myrrh’s Hollow]] on newly purchased mounts to investigate the [[Land Mermaid|land mermaids]]. Along the road, they encountered [[The Crazy One]], a maddened survivor whom they mercy-killed after a psychic probe went awry, recovering his brass key and a mud-stained letter warning of war. After unsettling omens at camp, they traded their [[copper-dragon|Copper Dragon]] horn to an elven unit for three [[Travelling Tavern]] tickets and pushed toward the barricaded [[Blue Cross Bridge]]. Bypassing the guards, they breached the barricade to slay the siren, claiming the [[The Earrings of Control|Earrings of Control]]. However, [[V]] ambushed them via _[[Mass Suggestion]]_, taunting them with claims that she had murdered [[Diana]] and captured [[Theratina]] for experimentation before fleeing. After cataloging the earrings into the [[notebook with a sleeping face on its cover|Notebook with a Sleeping Face]] (which next revealed the [[The Necklace of Life|Necklace of Life]]) [[Eisuke]] mysteriously vanished as the shaken party made camp on the road to [[Myrrh’s Hollow South]].
+A confused [[tabaxi-mpmm|Tabaxi]] named [[Eisuke]] turned up at the bar of [[The Tail's End]] claiming to be from 190 years in the future, and on [[Callie Dawnsong|Cal]]'s word the party took him along to chase a job board posting about "land mermaids" south of [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]. After buying mounts from [[Jameson]], they found [[The Crazy One]] on the road, driven to years-long [[madness]] by a siren's song. He begged them to kill him and gave them a brass key to his home; [[Callie Dawnsong|Cal]]'s attempt to leave him a kind memory first went badly wrong and ruptured his brain. That night a bird with human eyes scratched "TURN BACK" into the dirt, and in the morning [[Reginald Cornfield]] traded them three [[Travelling Tavern]] tickets and warned that the [[Blue Cross Bridge]] was blocked. The barricade turned out to be the siren's lair. They killed it and cut [[The Earrings of Control]] from its ears, only for [[V]] to appear demanding them, claiming she had captured [[Theratina]] and killed [[Iron Wake Mug Barkeep|Diana]]. Sealing the earrings in the [[notebook with a sleeping face on its cover]] revealed [[The Necklace of Life]] as the next artifact.
 
 ## Events
 
@@ -34,7 +34,7 @@ Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displac
   - [[Eisuke]] joins us for the day
 - We introduce him to [[Theratina]]
   - She wants to stay; she's writing a song with [[Barbara Bongo|Barbara]]
-- We decide to go after the land mermaids ([[Land Mermaid]])
+- We decide to go after the land mermaids ([[Kill the Land Mermaid]])
   - We don't know where to find the mermaids, so we go to the job board
 
 ---
@@ -43,11 +43,11 @@ Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displac
 
 - When we arrive, we go inside
 - We see the same guy we saw when we turned in the dragon and [[hag-vgm|Hag]] ([[05-Shopping Spree#At The Citadel]])
-  - He directs us to [[Myrrh’s Hollow]]
+  - He directs us to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
   - Supposedly the issue is south of it
 - He is confused why we are even taking this quest
 - Supposedly only one person has even seen the mermaids
-  - They are on the road from here to [[Myrrh’s Hollow]]
+  - They are on the road from here to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
   - "We call him [[The Crazy One]]"
 - We decide to go after him
 - In order to do that, we decide to go buy horses
@@ -72,7 +72,7 @@ Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displac
 
 ---
 
-### On the road to [[Myrrh’s Hollow]]
+### On the road to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
 
 - The road is smooth
 - Eventually we reach a small pond
@@ -100,7 +100,7 @@ Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displac
   - He is now braindead
   - [[Raelor]] finishes him off with his shortsword
 - In his pocket, [[Raelor]] finds a letter
-  - His address is on the back south of [[Myrrh’s Hollow]]
+  - His address is on the back south of [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
 - It is full of blood and mud so we can't read
   - [[Theodore Shellington|Theodore]] uses [[prestidigitation-xphb|Prestidigitation]] to try to clean the letter
   - Only a few letters are legible
@@ -150,7 +150,7 @@ Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displac
 - As we arrive, we see a group of travelers who seem to be unable to cross
   - There are an array of guards blocking the way
 - A [[drow]] nearby asks us about wanting to get across
-  - They are from [[Myrrh’s Hollow]] South and want to return home
+  - They are from [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] South and want to return home
   - Supposedly it has been barricaded for about a week
 - [[Callie Dawnsong|Cal]] tries to use [[suggestion-xphb|Suggestion]] to get the guards to let us through
   - It works; we have an hour with them gone
@@ -196,9 +196,9 @@ Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displac
 - The next thing that appears on the page is [[The Necklace of Life]]
   - A necklace with a cross on it
 
-#### Onwards to [[Myrrh’s Hollow]] south
+#### Onwards to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] south
 
-- We decide to continue towards [[Myrrh’s Hollow]]
+- We decide to continue towards [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
 - [[Eisuke]] disappears as we cross the bridge
 - As it gets dark, we stop and make camp
   - [[Roz Rozum|Roz]] creates another [[leomunds-tiny-hut-xphb|Leomund's Tiny Hut]]

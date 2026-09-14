@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-10T21:49:24.141Z
-modified: 2026-09-13T23:40:54.211Z
-published: 2026-09-13T23:40:54.211Z
+modified: 2026-09-14T01:03:31.557Z
+published: 2026-09-14T01:03:31.557Z
 Date: 2026-09-10
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -17,7 +17,7 @@ End Day: 17
 
 ## Summary
 
-Rejoined by [[Eisuke]], the party traveled two days to [[Myrrh’s Hollow South]] to search [[The Crazy One's House]]. Bypassing an ash-covered room and an illusory painting portal, they recovered [[The Mirror of What Is]], which triggered unique, cryptic visions for each member while [[V]] sowed magical paranoia among the group from the basement. They soon after interrupted [[V]] drawing ritual glyphs down there where it became clear her intention to use us to collect the artifacts, warned them to seek the next one in [[Carrowyn]], and summoned [[The Executioner]] on a 12-hour timer. Rescued on [[Ferrar's Airship]] alongside [[Theratina]] (who survived an ambush at [[The Tail's End]] and revealed her new [[fireball-xphb|Fireball]] mastery) the party sought refuge at [[The Shaded Cavern]]. There, [[The Blue Apprentice]] warned them of timeline-shattering consequences before weakening the pursuing [[The Executioner]] with magic, allowing the party to destroy the beast. With [[Diana]] confirmed alive via _[[Sending]]_, the party set sail aboard the airship bound for [[Carrowyn]] as [[Eisuke]] vanished once more.
+Two days south at [[The Crazy One's House]], the party found the place stripped bare except for a family painting that was really a portal; the brass key opened the chest behind it, holding [[The Mirror Of What Is]]. The mirror showed each of them a scene instead of a reflection — [[Callie Dawnsong|Cal]] saw the moment they were given their gift — and once sealed, it whispered accusations meant to turn the party against each other. Downstairs, [[Yharov Stonebrow|Yharov]] caught [[V]] finishing a ritual circle. She admitted she has been using them to collect the artifacts all along, cursed [[Roz Rozum|Roz]] with [[fuck-your-mind|Fuck Your Mind]], pointed them toward [[Carrowyn]], and gave them twelve hours before [[The Executioner]] came. [[Ferrar]] flew them south with [[Theratina]] safe aboard, and [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] died screaming behind them. At [[The Shaded Cavern]] they found [[The Blue Apprentice]], who warned that someone dies whether they ran or stood their ground, then weakened [[The Executioner]] with [[get-on-my-level|Get On My Level]] so they could kill it. A [[sending-xphb|Sending]] from [[Iron Wake Mug Barkeep|Diana]] as they left proved [[V]] had been lying about her.
 
 ## Events
 
@@ -105,7 +105,7 @@ Rejoined by [[Eisuke]], the party traveled two days to [[Myrrh’s Hollow South]
 - Amidst our realization that [[V]] is using us to collect the artifacts for her, [[Roz Rozum|Roz]] goes and shakes her hand (pretending he wants to join her)
   - He tries to cast [[remove-curse-xphb|Remove Curse]] on her
   - It does nothing
-- She casts a custom spell on him: [[Fuck Your Mind]]
+- She casts a custom spell on him: [[fuck-your-mind|Fuck Your Mind]]
 - "I will give you a day head start before [[The Executioner]] comes", she says
   - She then reduces our time to 12 hours
 - As we leave, she says is "If I were you guys, I would look in [[Carrowyn]] for the next artifact. Thankfully now, you can do two things at once to speed things up for us."
@@ -115,13 +115,13 @@ Rejoined by [[Eisuke]], the party traveled two days to [[Myrrh’s Hollow South]
 - [[Eisuke]] explains [[The Executioner]]
   - One of [[The Unknown]]'s soliders who is 15 feet tall, wrapped in chains
   - It is so fast that it hits you without you even seeing it
-- [[Callie Dawnsong|Cal]] uses [[Read Thoughts Probe Deeper]] on [[Eisuke]] to see what [[The Executioner]] looks like
+- [[Callie Dawnsong|Cal]] uses [[read-thoughts-probe-deeper|Read Thoughts Probe Deeper]] on [[Eisuke]] to see what [[The Executioner]] looks like
   - They can share what they see with us, so we all see it
 - [[Theodore Shellington|Theodore]] [[message-xphb|Message]]s [[Ferrar]] to ask for help
   - He claims to be watching over [[Theratina]]
 - While brainstorming ideas, [[Jimmothy]] suggests we try to get help from an apprentice of the [[Three Wizards]]
   - "Theres a rumor there's one in the [[The Shaded Cavern]]"
-- [[Eisuke]] mentions that he's never heard of [[Myrrh’s Hollow]]
+- [[Eisuke]] mentions that he's never heard of [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
   - Presumably it gets destroyed soon or in the war
 - [[Eisuke]] also mentions how [[Three Wizards|The Three Wizards]] spoke to him and their group in a dream, which was what began their group's quest
 - We decide to warn the locals to evacuate and then we head south to [[The Shaded Cavern]]
@@ -141,7 +141,7 @@ Rejoined by [[Eisuke]], the party traveled two days to [[Myrrh’s Hollow South]
   - Fortunately it doesn't effect any of us
   - She learned sculpt spells
 - We take a nap, and after 12 hours we awake to a horrifying sound
-  - It is coming from [[Myrrh’s Hollow]]
+  - It is coming from [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
   - The entire [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/index|Vel’Therin Expanse]] must have heard it
 - [[Jimmothy]] mentions that even they heard the noise in the heavens
 - Eventually we reach [[The Shaded Cavern]]
@@ -167,7 +167,7 @@ Rejoined by [[Eisuke]], the party traveled two days to [[Myrrh’s Hollow South]
 - He mentions something about [[Yharov Stonebrow|Yharov]] later dying if we go, and [[Theodore Shellington|Theodore]] later being killed by [[Roz Rozum|Roz]] (on the full moon) if we stay
 - The [[The Executioner]]'s sounds off nearby
 - We go outside and see it
-- [[The Blue Apprentice]] casts [[Get On My Level]] on it
+- [[The Blue Apprentice]] casts [[get-on-my-level|Get On My Level]] on it
 - We fight and kill it
   - When it dies, it seemed to turn into the same goo from when one calls on the [[Coin of The Unknown]]
 - [[The Blue Apprentice]] storms back into his house

@@ -23,5 +23,5 @@ From the job board of [[The Citadel of Vel Rau'dan]]:
 
 ## Objectives
 
-- Figure out which two bakeries are being referred to
-- Resolve their conflict
+- [ ] Figure out which two bakeries are being referred to
+- [ ] Resolve their conflict

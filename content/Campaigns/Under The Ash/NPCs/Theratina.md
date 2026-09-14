@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-21T20:56:46.085Z
-modified: 2026-09-14T00:10:36.998Z
-published: 2026-09-14T00:10:36.998Z
+modified: 2026-09-14T01:03:31.554Z
+published: 2026-09-14T01:03:31.554Z
 Age: "12"
 Gender: Female
 Race: "[[lizardfolk-dmg|Lizardfolk]]"
@@ -21,7 +21,7 @@ A small, red lizard girl that we met in [[The Unnamed City]].  When staying in h
 
 She ages every time she dies. [[Ferrar]] told us in [[05-Shopping Spree#A conversation with Ferrar]] that a magic inside her wants her capable of wielding it, so she comes back and grows until the process is finished. If she dies after that, she is actually dead.
 
-We found her mother [[Alatina]]'s clothes in [[The Hag's Lair]], and the memory that came with them: her parents killed outside their burnt home in [[Myrrh’s Hollow]] by a [[Mechanics/CLI/bestiary/fiend/night-hag|Night Hag]] that was not the one we killed, then her hatching from an egg under a table mat to find them dead.
+We found her mother [[Alatina]]'s clothes in [[The Hag's Lair]], and the memory that came with them: her parents killed outside their burnt home in [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] by a [[Mechanics/CLI/bestiary/fiend/night-hag|Night Hag]] that was not the one we killed, then her hatching from an egg under a table mat to find them dead.
 
 Half the people we meet want her. [[Ned Grindledark]] is hunting her, [[Thompson]] wanted her, [[Ferrar]] wants her at [[Glasscap Grove]], and [[V]] talks about introducing her to "her new mother".
 

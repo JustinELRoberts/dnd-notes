@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-13T23:48:25.774Z
-modified: 2026-09-14T00:10:13.129Z
-published: 2026-09-14T00:10:13.129Z
+modified: 2026-09-14T01:00:45.709Z
+published: 2026-09-14T01:00:45.709Z
 Gender: Male
 Race:
 Class: "[[rogue-xphb|Rogue]]"
@@ -10,7 +10,7 @@ Subclass:
 aliases:
 ---
 
-![](<Campaigns/Under The Ash/PCs/_img/Nithas.png>)
+![](Campaigns/Under The Ash/PCs/_img/Rithas.png)
 
 ## Description
 

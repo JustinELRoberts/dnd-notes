@@ -1,0 +1,39 @@
+{
+"size": {
+"w": 512,
+"h": 512
+},
+"layers": \[
+{
+"id": "default",
+"name": "Default",
+"visible": true,
+"locked": false
+}
+],
+"markers": \[],
+"bases": \[
+{
+"path": "Campaigns/Under The Ash/Locations/\_img/Thompson's Town Map.png",
+"name": "Thompson's Town"
+}
+],
+"overlays": \[],
+"activeBase": "Campaigns/Under The Ash/Locations/\_img/Thompson's Town Map.png",
+"measurement": {
+"scales": {},
+"customUnitPxPerUnit": {},
+"travelTimePresetIds": \[],
+"travelDaysEnabled": false,
+"displayUnit": "km"
+},
+"pinSizeOverrides": {},
+"grids": \[],
+"panClamp": true,
+"drawLayers": \[],
+"drawings": \[],
+"secondScreen": {
+"showGrids": true
+},
+"textLayers": \[]
+}

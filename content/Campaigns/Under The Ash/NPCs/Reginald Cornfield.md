@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Reginald
 created: 2026-09-14T00:07:13.593Z
-modified: 2026-09-14T00:07:15.155Z
-published: 2026-09-14T00:07:15.155Z
+modified: 2026-09-14T01:03:31.554Z
+published: 2026-09-14T01:03:31.554Z
 Age: Not known
 Gender: Male
 Race: "[[elf]]"
@@ -15,7 +15,7 @@ tags:
 
 ## Description
 
-An [[elf]] leading about 20 soldiers south to [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]] to try to stop the coming fights. We met them on the road to [[Myrrh’s Hollow]] in [[11-Land Mermaid#Setting up camp]].
+An [[elf]] leading about 20 soldiers south to [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]] to try to stop the coming fights. We met them on the road to [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] in [[11-Land Mermaid#Setting up camp]].
 He warned us the [[Blue Cross Bridge]] was blocked off, and traded us three [[Travelling Tavern]] tickets for the [[copper-dragon|Copper Dragon]] horn.
 
 ## Motivations

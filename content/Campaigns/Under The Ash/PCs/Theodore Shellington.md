@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Theodore
 created: 2026-03-12T20:54:49.434Z
-modified: 2026-09-14T00:11:18.707Z
-published: 2026-09-14T00:11:18.707Z
+modified: 2026-09-14T00:43:58.462Z
+published: 2026-09-14T00:43:58.462Z
 Gender: Male
 Race: "[[Mechanics/CLI/races/tortle-mpmm|Tortle]]"
 Class: "[[wizard-xphb|Wizard]]"
@@ -24,4 +24,4 @@ Theodore Shellington is a Junior Arcanist from the island of Aubertide, where he
 - He carries the [[notebook with a sleeping face on its cover]] hidden among his other books
 - [[Theratina]]'s "cold dream" of a village of turtles evicted by a cruel king sounds like his home
 - [[The Mirror Of What Is]] showed him a village being ransacked and a small figure in a very tall wizard's hat
-- [[The Blue Apprentice]] warned that if we stayed at [[The Shaded Cavern]], [[Roz Rozum|Roz]] kills him on the full moon
+- [[The Blue Apprentice]] warned in [[12-The Executioner#At The Shaded Cavern]] that [[Roz Rozum|Roz]] may kill him on the full moon, depending on whether we stayed to fight [[The Executioner]] or not

@@ -1,12 +1,28 @@
 ---
 publish: true
 created: 2026-09-14T00:07:53.554Z
-modified: 2026-09-14T00:07:54.176Z
-published: 2026-09-14T00:07:54.176Z
+modified: 2026-09-14T01:05:13.021Z
+published: 2026-09-14T01:05:13.021Z
 LocationType: Building
 aliases:
 tags:
 ---
+
+```zoommap
+imageBases:
+  - path: Campaigns/Under The Ash/Locations/_img/The Patio.png
+    name: Arena of Vel'Therin Expanse
+markers: Campaigns/Under The Ash/Locations/_markers/Arena of Vel'Therin Expanse.markers.json
+markerLayers:
+  - Default
+minZoom: 1.05
+maxZoom: 4
+width: 542px
+height: 532px
+resizable: false
+render: canvas
+id: Arena of Vel'Therin Expanse-map
+```
 
 ## Description
 

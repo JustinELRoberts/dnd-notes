@@ -1,0 +1,138 @@
+{
+"size": {
+"w": 1024,
+"h": 894
+},
+"layers": \[
+{
+"id": "default",
+"name": "Default",
+"visible": true,
+"locked": false
+},
+{
+"id": "layer\_wbw3h5",
+"name": "Landmarks",
+"visible": true,
+"locked": false
+},
+{
+"id": "layer\_tqzjju",
+"name": "Buildings",
+"visible": true,
+"locked": false
+}
+],
+"markers": \[
+{
+"type": "pin",
+"id": "marker\_m1zets",
+"x": 0.2655602219886948,
+"y": 0.4543852502098864,
+"layer": "layer\_wbw3h5",
+"link": "Arena of Vel'Therin Expanse",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c"
+},
+{
+"type": "pin",
+"id": "marker\_qm1r7u",
+"x": 0.5410471725463868,
+"y": 0.04098567271392616,
+"layer": "layer\_tqzjju",
+"link": "The Iron Wake Mug",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c"
+},
+{
+"type": "pin",
+"id": "marker\_ua8gvj",
+"x": 0.9068327518661121,
+"y": 0.29610372303828975,
+"layer": "layer\_tqzjju",
+"link": "Starlight Inn",
+"iconKey": "pinBlue",
+"tooltip": "",
+"iconColor": "#d23c3c",
+"scaleLikeSticker": true
+}
+],
+"bases": \[
+{
+"path": "Campaigns/Under The Ash/Locations/\_img/Vel Rau'dan Map.png",
+"name": "Vel Rau'dan"
+}
+],
+"overlays": \[],
+"activeBase": "Campaigns/Under The Ash/Locations/\_img/Vel Rau'dan Map.png",
+"measurement": {
+"scales": {},
+"customUnitPxPerUnit": {},
+"travelTimePresetIds": \[],
+"travelDaysEnabled": false,
+"displayUnit": "km"
+},
+"pinSizeOverrides": {
+"pinBlue": 96
+},
+"grids": \[],
+"panClamp": true,
+"drawLayers": \[],
+"drawings": \[],
+"secondScreen": {
+"showGrids": true
+},
+"textLayers": \[],
+"deleted": \[
+{
+"id": "undo\_l4pof7",
+"label": "Delete pin",
+"createdAt": "2026-07-16T19:50:37.109Z",
+"payload": {
+"kind": "marker",
+"marker": {
+"type": "pin",
+"id": "marker\_1otyer",
+"x": 0.9732666015625,
+"y": 0.3953570679530201,
+"layer": "layer\_tqzjju",
+"link": "Starlight Inn",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c"
+},
+"index": 2
+}
+},
+{
+"id": "undo\_9xhq9q",
+"label": "Delete marker",
+"createdAt": "2026-07-16T19:49:08.156Z",
+"payload": {
+"kind": "marker",
+"marker": {
+"id": "marker\_f65szu",
+"x": 0.903052805280528,
+"y": 0.4167895047169811,
+"layer": "default",
+"link": "",
+"iconKey": "pinRed",
+"tooltip": "",
+"anchorSpace": "viewport",
+"hudX": 547.25,
+"hudY": 220.8984375,
+"hudModeX": "right",
+"hudModeY": "top",
+"hudLastWidth": 606,
+"hudLastHeight": 530
+},
+"index": 2
+}
+}
+]
+}

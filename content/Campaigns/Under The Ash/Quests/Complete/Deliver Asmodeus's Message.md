@@ -25,4 +25,4 @@ We did. [[The Piper]] arrived on a boat at [[Thompson's Camp]] mid-standoff, and
 
 ## Objectives
 
-- Deliver [[dawn-war-asmodeus-dmg|Asmodeus]]'s message to [[The Piper]]
+- [x] Deliver [[dawn-war-asmodeus-dmg|Asmodeus]]'s message to [[The Piper]]

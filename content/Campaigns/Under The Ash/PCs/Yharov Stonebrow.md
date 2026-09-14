@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Yharov
 created: 2026-03-12T22:14:50.641Z
-modified: 2026-09-14T00:11:18.706Z
-published: 2026-09-14T00:11:18.706Z
+modified: 2026-09-14T00:43:58.461Z
+published: 2026-09-14T00:43:58.461Z
 Gender: Male
 Race: "[[goliath-xphb|Goliath]]"
 Class: "[[monk-xphb|Monk]]"
@@ -22,5 +22,5 @@ Yharov was exiled from his clan due to showing innate aptitude for the shadow ar
 - [[Ferrar]] cursed him into a [[werewolf]] in [[05-Shopping Spree#A conversation with Ferrar]]
 - He shadow-wove a blade out of [[Avenj]]'s body, meant to kill [[The Unknown]]
 - "The darkness that always scared him" answered when he asked it to bring [[Avenj]] back. It offered to let him take [[Avenj]]'s place instead
-- He was the only one [[V]]'s charm didn't take, and the only one who saved against [[The Mirror Of What Is]]. The mirror still told him: "[[Callie Dawnsong|Cal]] came out of the blue and hasn't told you anything about themself. The only thing they are focused on is [[Theratina]]. Why?"
-- [[The Blue Apprentice]] warned that if we went to [[The Shaded Cavern]], Yharov dies later
+- He was the only one [[V]]'s charm didn't take on the way into [[Myrrh’s Hollow South]], and the only one who saved against [[The Mirror Of What Is]]. The mirror still told him: "[[Callie Dawnsong|Cal]] came out of the blue and hasn't told you anything about themself. The only thing they are focused on is [[Theratina]]. Why?"
+- [[The Blue Apprentice]] warned in [[12-The Executioner#At The Shaded Cavern]] that Yharov may die later, depending on whether we stayed to fight [[The Executioner]] or not

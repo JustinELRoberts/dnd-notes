@@ -21,4 +21,4 @@ When the [[Deliverer of Diamond of 20 Monsters|hooded, masked man]] was killed, 
 
 ## Objectives
 
-- Bring the [[Diamond of 20 Monsters]] to [[Caer Thalor]]
+- [ ] Bring the [[Diamond of 20 Monsters]] to [[Caer Thalor]]

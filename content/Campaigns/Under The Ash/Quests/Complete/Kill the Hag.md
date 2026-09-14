@@ -21,4 +21,4 @@ tags:
 
 ## Objectives
 
-- Kill [[The Hag|The Hag]]
+- [x] Kill [[The Hag|The Hag]]

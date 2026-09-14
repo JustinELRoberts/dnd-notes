@@ -24,5 +24,5 @@ From the job board of [[The Citadel of Vel Rau'dan]]:
 
 ## Objectives
 
-- Capture or kill the monster
-- Bring it (or its remains) back to the [[Arena of Vel'Therin Expanse]]
+- [x] Capture or kill the monster
+- [x] Bring it (or its remains) back to the [[Arena of Vel'Therin Expanse]]

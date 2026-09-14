@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Bruce
 created: 2026-04-13T23:19:19.858Z
-modified: 2026-09-14T00:10:13.127Z
-published: 2026-09-14T00:10:13.127Z
+modified: 2026-09-14T00:43:58.462Z
+published: 2026-09-14T00:43:58.462Z
 Age: Not known
 Gender: Male
 Race: Not known
@@ -25,7 +25,7 @@ He has been good to us — bounties, his manor to sleep in, advertising [[The Ta
 - He is taking his men to [[Grumdur-Khaz]] to fight six dragons "before they get big", and wants the dragon fighting gear we won for it
 - [[V]] gave him that job. [[Roz Rozum|Roz]] caught him shrugging at an empty wall and cast [[see-invisibility-xphb|See Invisibility]]; she was pressed against it, and Bruce waved at her
 - He is skeptical that [[The Unknown]] even exists
-- He sent us to the third job on the board. All three looked like diversions
+- He sent us to the third job on the job board of [[The Citadel of Vel Rau'dan]] in [[10-Meeting Rithas#At the job board]], calling it "intel" we might like. All three jobs there looked like diversions
 
 ## Motivations
 

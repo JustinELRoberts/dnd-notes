@@ -23,4 +23,4 @@ From the job board of [[The Citadel of Vel Rau'dan]]:
 
 ## Objectives
 
-- Kill [[Bruce|Bruce]]?
+- [ ] Kill [[Bruce|Bruce]]?

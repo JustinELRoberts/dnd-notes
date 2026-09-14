@@ -23,5 +23,5 @@ From the job board of [[The Citadel of Vel Rau'dan]]:
 
 ## Objectives
 
-- Find and kill the monsters/creatures in the farms south of [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]]
-- Bring their bodies back as proof
+- [x] Find and kill the monsters/creatures in the farms south of [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Vel Rau'dan/index|Vel Rau'dan]]
+- [x] Bring their bodies back as proof

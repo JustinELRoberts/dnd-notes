@@ -5,8 +5,8 @@ aliases:
   - Vel’Therin Expanse
   - Vel'Therin
 created: 2026-03-26T00:38:51.043Z
-modified: 2026-04-17T01:43:21.900Z
-published: 2026-04-17T01:43:21.900Z
+modified: 2026-09-14T01:03:31.553Z
+published: 2026-09-14T01:03:31.553Z
 LocationType: Region
 tags:
 ---
@@ -21,6 +21,6 @@ A forest of ancient light where silver leaves glow beneath a sky that never full
 
 The trees themselves are part of something older, a network that once bound a darkness the world dared not name.
 
-[[Lunethir]] rests as sacred ground where the moon touches the earth, while [[Myrrh’s Hollow]] listens to voices that have not yet been spoken.
+[[Lunethir]] rests as sacred ground where the moon touches the earth, while [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] listens to voices that have not yet been spoken.
 
 The scars of the [[Elven Civil War]] still run deep, and not all wounds were political. Something in the forest is beginning to fail, and when it does, the world will feel it.

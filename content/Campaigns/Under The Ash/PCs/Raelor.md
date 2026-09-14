@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-12T21:47:07.478Z
-modified: 2026-09-14T00:11:18.708Z
-published: 2026-09-14T00:11:18.708Z
+modified: 2026-09-14T00:43:58.462Z
+published: 2026-09-14T00:43:58.462Z
 Gender: Male
 Race: "[[human-xphb|Human]]"
 Class: "[[ranger-xphb|Ranger]]"
@@ -18,4 +18,4 @@ Raelor grew up close to the land. Years tending animals and cultivating the eart
 
 ## Since
 
-- [[The Mirror Of What Is]] told him: "One of them are lying to you. One of them are working for [[V]]"
+- [[The Mirror Of What Is]] told him, of the rest of the party: "One of them are lying to you. One of them are working for [[V]]"

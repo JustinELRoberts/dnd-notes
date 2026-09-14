@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-05-21T21:34:58.724Z
-modified: 2026-08-13T21:14:16.578Z
-published: 2026-08-13T21:14:16.578Z
+modified: 2026-09-14T01:04:10.178Z
+published: 2026-09-14T01:04:10.178Z
 Date: 2026-05-21
 Party:
   - "[[Avenj]]"
@@ -118,7 +118,7 @@ Following their rest, [[Roz Rozum|Roz]] communicated with [[forgotten-realms-mal
 - [[Theratina]] is speechless
 - [[Raelor]] and [[Yharov Stonebrow|Yharov]] both make and fail a charisma save
 - The room shifts; they are standing in what seems to be a deserted wasteland
-  - It is [[Mirrh's Hollow]]
+  - It is [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]]
   - The village they are standing in is burnt to the ground
   - Standing outside of a burnt home is two [[lizardfolk-mpmm|Lizardfolk]]
   - Besides them is a nasty looking [[Mechanics/CLI/bestiary/fiend/night-hag|Night Hag]] (not the one we killed)

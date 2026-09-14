@@ -1,0 +1,449 @@
+{
+"size": {
+"w": 1059,
+"h": 800
+},
+"layers": \[
+{
+"id": "default",
+"name": "Default",
+"visible": true,
+"locked": false
+},
+{
+"id": "layer\_s7s6iq",
+"name": "Cities",
+"visible": true,
+"locked": false
+},
+{
+"id": "layer\_apdtxm",
+"name": "Regions",
+"visible": true,
+"locked": false
+}
+],
+"markers": \[
+{
+"type": "pin",
+"id": "marker\_geader",
+"x": 0.47816749492645266,
+"y": 0.4750496579287653,
+"layer": "layer\_s7s6iq",
+"link": "The Unnamed City",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_ros9wl",
+"x": 0.5727560503732154,
+"y": 0.5525851379976493,
+"layer": "layer\_s7s6iq",
+"link": "Zar'Vasha",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_mq6xu5",
+"x": 0.16550207138061523,
+"y": 0.30105160494825356,
+"layer": "layer\_s7s6iq",
+"link": "Caer Thalor",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_y7uj6r",
+"x": 0.22056832070887225,
+"y": 0.8453012009310523,
+"layer": "layer\_s7s6iq",
+"link": "Ash’Torak",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_8y11cy",
+"x": 0.8855229714565417,
+"y": 0.841622696767516,
+"layer": "layer\_s7s6iq",
+"link": "Grumdur-Khaz",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_3cfw2k",
+"x": 0.7203197479248047,
+"y": 0.3524443119340233,
+"layer": "layer\_s7s6iq",
+"link": "Varnholt’s Eye",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_a39g1y",
+"x": 0.8064159476705398,
+"y": 0.7473612394298421,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c",
+"maxZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_rp7u69",
+"x": 0.17362482407513782,
+"y": 0.8153379095007989,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/Gravethirst/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"iconColor": "#d23c3c",
+"scaleLikeSticker": true,
+"maxZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_4kxrh1",
+"x": 0.7485389709472656,
+"y": 0.1570481341792862,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c",
+"maxZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_u730ek",
+"x": 0.7512421607971191,
+"y": 0.09710922339909443,
+"layer": "layer\_apdtxm",
+"link": "Eira-Kaldran",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_bho98c",
+"x": 0.37115321439855237,
+"y": 0.18076921704969182,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c",
+"maxZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_xruxij",
+"x": 0.4195728302001953,
+"y": 0.07170786000161708,
+"layer": "layer\_s7s6iq",
+"link": "Aelthar Sylora",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_gv4vkl",
+"x": 0.513698709720113,
+"y": 0.20816190214182165,
+"layer": "layer\_s7s6iq",
+"link": "Thalan’dor",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_0kceus",
+"x": 0.3689218879981995,
+"y": 0.3539247377206716,
+"layer": "layer\_s7s6iq",
+"link": "Vel Rau’dan",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_zsflk0",
+"x": 0.3867607116699219,
+"y": 0.17114731565329883,
+"layer": "layer\_s7s6iq",
+"link": "Lunethir",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_7ob0uz",
+"x": 0.4134039878845215,
+"y": 0.2598730089747736,
+"layer": "layer\_s7s6iq",
+"link": "Myrrh’s Hollow",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_wa3hil",
+"x": 0.16229598917425633,
+"y": 0.23502869445731953,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/The Greenwood Accord/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c",
+"maxZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_8r9680",
+"x": 0.25998996658822476,
+"y": 0.21641460756468386,
+"layer": "layer\_s7s6iq",
+"link": "Brackenmill",
+"iconKey": "pinRed",
+"tooltip": "",
+"minZoom": 0.5,
+"scaleLikeSticker": true
+},
+{
+"type": "pin",
+"id": "marker\_yee1aj",
+"x": 0.07498657653331746,
+"y": 0.31196672838929046,
+"layer": "layer\_s7s6iq",
+"link": "Evershade",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_ruz6i2",
+"x": 0.11659445122107162,
+"y": 0.48175115725252976,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/Zantoc’Tal/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c",
+"maxZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_tr5voz",
+"x": 0.20983780616825595,
+"y": 0.554242504422118,
+"layer": "layer\_s7s6iq",
+"link": "Chotal’Huun",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_35wktp",
+"x": 0.07511503673230711,
+"y": 0.5016680679649607,
+"layer": "layer\_s7s6iq",
+"link": "Mazca’Tan",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_ox0n9e",
+"x": 0.20498569506258274,
+"y": 0.6620755391424585,
+"layer": "layer\_s7s6iq",
+"link": "The Cradle of the Unknown",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_5pyva4",
+"x": 0.5952532514889199,
+"y": 0.6170119431788887,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"maxZoom": 0.5,
+"iconColor": "#d23c3c"
+},
+{
+"type": "pin",
+"id": "marker\_3i177l",
+"x": 0.5410499572753906,
+"y": 0.7353774609880336,
+"layer": "layer\_s7s6iq",
+"link": "Greythorne",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_q2mrxv",
+"x": 0.65042574531341,
+"y": 0.59523174147922,
+"layer": "layer\_s7s6iq",
+"link": "Brindleharrow",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_mgsmyy",
+"x": 0.6287855260512407,
+"y": 0.7624262208926261,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/Virelya/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"maxZoom": 0.5,
+"iconColor": "#d23c3c"
+},
+{
+"type": "pin",
+"id": "marker\_d4td25",
+"x": 0.5097598038854777,
+"y": 0.5234910638052699,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/Ashera'a Breath/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c",
+"maxZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_q9igde",
+"x": 0.6033478205558315,
+"y": 0.8675952770815416,
+"layer": "layer\_s7s6iq",
+"link": "Carrowyn",
+"iconKey": "pinRed",
+"tooltip": "",
+"scaleLikeSticker": true,
+"minZoom": 0.5
+},
+{
+"type": "pin",
+"id": "marker\_kt7avx",
+"x": 0.09532241904868127,
+"y": 0.6140076392600108,
+"layer": "layer\_s7s6iq",
+"link": "Quetz'Moktal",
+"iconKey": "pinRed",
+"tooltip": "",
+"minZoom": 0.5,
+"scaleLikeSticker": true
+},
+{
+"type": "pin",
+"id": "marker\_y0gmws",
+"x": 0.3129333967588945,
+"y": 0.4604933563609605,
+"layer": "layer\_s7s6iq",
+"link": "House Beneath No Moon",
+"iconKey": "pinRed",
+"tooltip": "",
+"minZoom": 0.5,
+"scaleLikeSticker": true
+},
+{
+"type": "pin",
+"id": "marker\_xqycxn",
+"x": 0.2900115634675438,
+"y": 0.4556267052026586,
+"layer": "layer\_apdtxm",
+"link": "Campaigns/Under The Ash/Locations/Evermore/Gloamhollow/index",
+"iconKey": "pinBlue",
+"tooltip": "",
+"scaleLikeSticker": true,
+"iconColor": "#d23c3c",
+"maxZoom": 0.5
+}
+],
+"bases": \[
+{
+"path": "Campaigns/Under The Ash/Locations/\_img/Evermore Map.png",
+"name": "Evermore"
+}
+],
+"overlays": \[],
+"activeBase": "Campaigns/Under The Ash/Locations/\_img/Evermore Map.png",
+"measurement": {
+"scales": {},
+"customUnitPxPerUnit": {},
+"travelTimePresetIds": \[],
+"travelDaysEnabled": false,
+"displayUnit": "km"
+},
+"pinSizeOverrides": {
+"pinBlue": 256,
+"pinRed": 64
+},
+"panClamp": true,
+"drawLayers": \[],
+"drawings": \[],
+"textLayers": \[],
+"secondScreen": {
+"showGrids": true
+},
+"grids": \[]
+}

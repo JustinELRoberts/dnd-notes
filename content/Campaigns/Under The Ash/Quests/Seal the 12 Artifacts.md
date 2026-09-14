@@ -22,11 +22,11 @@ We are not the only ones hunting them. [[V]] is collecting them to awaken [[The 
 
 ## Objectives
 
-- [[Diamond of 20 Monsters]]
-- [[Staff of Souls]]
-- [[The Stoneheart]]
-- [[The Earrings of Control]]
-- [[The Mirror Of What Is]]
-- [[The Necklace of Life]] — next in the book
-- [[The Ring of Endless Power]] — named in [[The Letter to Grindledark]], not yet seen
-- Six more we haven't identified
+- [x] [[Diamond of 20 Monsters]]
+- [x] [[Staff of Souls]]
+- [x] [[The Stoneheart]]
+- [x] [[The Earrings of Control]]
+- [x] [[The Mirror Of What Is]]
+- [ ] [[The Necklace of Life]] — next in the book
+- [ ] [[The Ring of Endless Power]] — named in [[The Letter to Grindledark]], not yet seen
+- [ ] Six more we haven't identified

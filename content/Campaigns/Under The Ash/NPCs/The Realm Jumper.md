@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-14T00:07:13.593Z
-modified: 2026-09-14T00:07:15.162Z
-published: 2026-09-14T00:07:15.162Z
+modified: 2026-09-14T00:46:23.400Z
+published: 2026-09-14T00:46:23.400Z
 Age: Not known
 Gender: Not known
 Race: Not known
@@ -11,6 +11,8 @@ Factions:
 aliases:
 tags:
 ---
+
+![[Campaigns/Under The Ash/NPCs/_img/The Realm Jumper.png| center | 300]]
 
 ## Description
 
