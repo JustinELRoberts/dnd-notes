@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-08-13T23:48:25.774Z
-modified: 2026-09-14T01:00:45.709Z
-published: 2026-09-14T01:00:45.709Z
+modified: 2026-09-14T01:43:14.245Z
+published: 2026-09-14T01:43:14.245Z
 Gender: Male
 Race:
-Class: "[[rogue-xphb|Rogue]]"
-Subclass:
+Class: "[[paladin|Paladin]]"
+Subclass: Oath of Eternal Night
 aliases:
 ---
 

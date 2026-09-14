@@ -1,13 +1,14 @@
 ---
 publish: true
 created: 2026-09-14T01:00:35.481Z
-modified: 2026-09-14T01:03:31.555Z
-published: 2026-09-14T01:03:31.555Z
+modified: 2026-09-14T01:45:39.649Z
+published: 2026-09-14T01:45:39.649Z
 Gender: Male
 Race: "[[tabaxi-mpmm|Tabaxi]]"
 Class:
 Subclass:
 aliases:
+status: Other Campaign
 ---
 
 ![](Campaigns/Under The Ash/PCs/_img/Eisuke.png)
