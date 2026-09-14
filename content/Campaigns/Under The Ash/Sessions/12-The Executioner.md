@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-10T21:49:24.141Z
-modified: 2026-09-14T01:03:31.557Z
-published: 2026-09-14T01:03:31.557Z
+modified: 2026-09-14T01:28:14.235Z
+published: 2026-09-14T01:28:14.235Z
 Date: 2026-09-10
 Party:
   - "[[Callie Dawnsong|Cal]]"

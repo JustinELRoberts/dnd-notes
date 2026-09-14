@@ -1,13 +1,12 @@
 ---
 publish: true
 created: 2026-08-27T21:33:32.806Z
-modified: 2026-09-14T01:03:31.557Z
-published: 2026-09-14T01:03:31.557Z
+modified: 2026-09-14T01:28:09.364Z
+published: 2026-09-14T01:28:09.364Z
 Date: 2026-08-27
 Party:
   - "[[Callie Dawnsong|Cal]]"
   - "[[Raelor]]"
-  - "[[Rithas]]"
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
   - "[[Yharov Stonebrow|Yharov]]"
