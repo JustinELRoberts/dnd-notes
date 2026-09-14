@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-10T21:49:24.141Z
-modified: 2026-09-11T02:12:27.005Z
-published: 2026-09-11T02:12:27.005Z
+modified: 2026-09-13T23:40:54.211Z
+published: 2026-09-13T23:40:54.211Z
 Date: 2026-09-10
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -16,6 +16,8 @@ End Day: 17
 ---
 
 ## Summary
+
+Rejoined by [[Eisuke]], the party traveled two days to [[Myrrh’s Hollow South]] to search [[The Crazy One's House]]. Bypassing an ash-covered room and an illusory painting portal, they recovered [[The Mirror of What Is]], which triggered unique, cryptic visions for each member while [[V]] sowed magical paranoia among the group from the basement. They soon after interrupted [[V]] drawing ritual glyphs down there where it became clear her intention to use us to collect the artifacts, warned them to seek the next one in [[Carrowyn]], and summoned [[The Executioner]] on a 12-hour timer. Rescued on [[Ferrar's Airship]] alongside [[Theratina]] (who survived an ambush at [[The Tail's End]] and revealed her new [[fireball-xphb|Fireball]] mastery) the party sought refuge at [[The Shaded Cavern]]. There, [[The Blue Apprentice]] warned them of timeline-shattering consequences before weakening the pursuing [[The Executioner]] with magic, allowing the party to destroy the beast. With [[Diana]] confirmed alive via _[[Sending]]_, the party set sail aboard the airship bound for [[Carrowyn]] as [[Eisuke]] vanished once more.
 
 ## Events
 

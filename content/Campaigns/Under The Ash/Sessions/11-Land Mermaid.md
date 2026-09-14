@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-08-27T21:33:32.806Z
-modified: 2026-09-13T23:26:54.570Z
-published: 2026-09-13T23:26:54.570Z
+modified: 2026-09-14T00:16:29.199Z
+published: 2026-09-14T00:16:29.199Z
 Date: 2026-08-27
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -18,6 +18,8 @@ End Day: 13
 
 ## Summary
 
+Waking at [[The Tail's End]], the party briefly recruited [[Eisuke]]—a displaced [[Tabaxi]] from 190 years in the future—before setting out south toward [[Myrrh’s Hollow]] on newly purchased mounts to investigate the [[Land Mermaid|land mermaids]]. Along the road, they encountered [[The Crazy One]], a maddened survivor whom they mercy-killed after a psychic probe went awry, recovering his brass key and a mud-stained letter warning of war. After unsettling omens at camp, they traded their [[copper-dragon|Copper Dragon]] horn to an elven unit for three [[Travelling Tavern]] tickets and pushed toward the barricaded [[Blue Cross Bridge]]. Bypassing the guards, they breached the barricade to slay the siren, claiming the [[The Earrings of Control|Earrings of Control]]. However, [[V]] ambushed them via _[[Mass Suggestion]]_, taunting them with claims that she had murdered [[Diana]] and captured [[Theratina]] for experimentation before fleeing. After cataloging the earrings into the [[notebook with a sleeping face on its cover|Notebook with a Sleeping Face]] (which next revealed the [[The Necklace of Life|Necklace of Life]]) [[Eisuke]] mysteriously vanished as the shaken party made camp on the road to [[Myrrh’s Hollow South]].
+
 ## Events
 
 ### At [[The Tail's End]]
@@ -32,7 +34,7 @@ End Day: 13
   - [[Eisuke]] joins us for the day
 - We introduce him to [[Theratina]]
   - She wants to stay; she's writing a song with [[Barbara Bongo|Barbara]]
-- We decide to go after the land mermaids (TODO: link quest here)
+- We decide to go after the land mermaids ([[Land Mermaid]])
   - We don't know where to find the mermaids, so we go to the job board
 
 ---
@@ -40,7 +42,7 @@ End Day: 13
 ### At the job board
 
 - When we arrive, we go inside
-- We see the same guy we saw when we turned in the dragon and [[hag-vgm|Hag]] (todo: link)
+- We see the same guy we saw when we turned in the dragon and [[hag-vgm|Hag]] ([[05-Shopping Spree#At The Citadel]])
   - He directs us to [[Myrrh’s Hollow]]
   - Supposedly the issue is south of it
 - He is confused why we are even taking this quest

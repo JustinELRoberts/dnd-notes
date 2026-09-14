@@ -3,8 +3,8 @@ publish: true
 aliases:
   - notebook with a sleeping face on its cover
 created: 2026-03-23T21:04:59.064Z
-modified: 2026-07-24T00:33:31.143Z
-published: 2026-07-24T00:33:31.143Z
+modified: 2026-09-14T00:09:14.017Z
+published: 2026-09-14T00:09:14.017Z
 tags:
   - 12-Artifacts
 ---
@@ -20,8 +20,23 @@ A notebook with a sleeping face on its cover. There are three riddles needed to 
 3. "I am the lie that keeps the living breathing, the whisper that defies the grave. I grow strongest when the world grows darkest, yet I cannot exist without despair. I have no weight, yet armies march because of me. I have no voice, yet the hopeless pray for me. Break me… and hearts fall silent. Keep me… and even the doomed will fight. What am I?"
    - The answer is "hope"
 
-The pages of the notebook are blank until one of the [[12 Artifacts]] is placed inside.
+Per [[Bruce]] in [[02-The Hag#Bruce Examines the Book]], it is one of the most powerful pocket portals ever made, created by the [[Three Wizards]] to seal the [[12 Artifacts]]. It is far larger inside than it should be — and it has more than 12 pages. If the wizards had 12 of their own, that means 24.
+
+The pages of the notebook are blank until one of the [[12 Artifacts]] is placed inside. Each artifact we seal reveals a page describing it, and then a blurry image of the next one to find. The order it has shown us so far:
+
+1. [[Diamond of 20 Monsters]]
+2. [[Staff of Souls]]
+3. [[The Stoneheart]]
+4. [[The Earrings of Control]]
+5. [[The Mirror Of What Is]]
+6. [[The Necklace of Life]] (not yet found)
+
+It vibrates when an artifact is near. That is how we knew what the mirror was in [[12-The Executioner#At The Crazy One's House]].
+
+[[Avenj]]'s last words before his spirit departed were not to let [[The Council of the Cold Veil|Council of the Cold Veil]] get this book.
 
 ## Uses
 
 - Used to seal the [[12 Artifacts]] (by placing them inside it)
+- Vibrates in the presence of an unsealed artifact
+- Artifacts remain removable; you can reach into the page and pull one back out

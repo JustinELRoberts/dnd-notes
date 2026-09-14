@@ -3,9 +3,10 @@ publish: true
 aliases:
   - Council of the Cold Veil
   - The Council
+  - The Cold Veil
 created: 2026-03-26T00:13:21.905Z
-modified: 2026-07-17T02:27:56.031Z
-published: 2026-07-17T02:27:56.031Z
+modified: 2026-09-14T00:09:14.018Z
+published: 2026-09-14T00:09:14.018Z
 Relationship: Not known
 tags:
 ---

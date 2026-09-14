@@ -2,18 +2,25 @@
 publish: true
 aliases:
   - Two Circular Earrings
+  - The Earrings Of Control
 created: 2026-08-13T22:09:04.667Z
-modified: 2026-09-13T23:25:42.250Z
-published: 2026-09-13T23:25:42.250Z
+modified: 2026-09-14T00:10:54.002Z
+published: 2026-09-14T00:10:54.002Z
 tags:
+  - 12-Artifacts
 ---
 
 ## Description
 
-One of the [[12 Artifacts]]
+One of the [[12 Artifacts]]. Two circular earrings.
+
+The land mermaid at the [[Blue Cross Bridge]] was wearing them, which explains how its song reached far enough to drive [[The Crazy One]] and half of [[Myrrh’s Hollow]] mad. We cut them out of its ears in [[11-Land Mermaid#Killing the land mermaid]] and sealed them in the [[notebook with a sleeping face on its cover]]:
+
+> Earrings designed to control and dominate anyone in range. The more powerful the user, the more powerful and vast the control can be.
+
+[[V]] showed up on the bridge to take them from us and left empty-handed. They are also one of the three artifacts she told [[Ned Grindledark]] to gather in [[The Letter to Grindledark]].
 
 ## Uses
 
-- One of most powerful of the [[12 Artifacts]]
-- Gives the user paralyzing magic and siphoning magic anywhere within 30 feet of the user
-  - It siphons the magic of people around
+- Control and dominate anyone in range
+- Range and strength scale with the power of the wearer
