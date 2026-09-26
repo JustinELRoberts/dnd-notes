@@ -4,8 +4,8 @@ aliases:
   - Tale's End
   - The Tale's End
 created: 2026-09-14T00:07:53.553Z
-modified: 2026-09-14T00:07:54.172Z
-published: 2026-09-14T00:07:54.172Z
+modified: 2026-09-25T01:53:39.726Z
+published: 2026-09-25T01:53:39.726Z
 LocationType: Building
 tags:
 ---
@@ -23,5 +23,6 @@ It is a small building with elite furnishings, elite staff, and a bastion with f
 
 ## Notes
 
+- We hired the rest of the staff by [[sending-xphb|Sending]] on the way to [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]], including a cleaner who is "Cheap and good. Don't ask any other questions"
 - [[Avenj]]'s remains are in the basement until we build him a shrine
 - [[Theratina]] was ambushed here while we were away; see [[12-The Executioner#On Ferrar's Airship]]

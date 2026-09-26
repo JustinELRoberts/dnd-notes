@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-09T00:35:46.825Z
-modified: 2026-07-31T01:09:47.727Z
-published: 2026-07-31T01:09:47.727Z
+modified: 2026-09-25T01:28:23.509Z
+published: 2026-09-25T01:28:23.509Z
 Date: 2026-03-12
 Party:
   - "[[Avenj]]"
@@ -140,7 +140,7 @@ During a caravan journey to [[The Unnamed City]], the party witnessed a mysterio
 
 - We search the hideout and find: 10 GP (we do not take it); a map of [[Campaigns/Under The Ash/Locations/Evermore/index|Evermore]] with [[Mazca’Tan]] circled; and three of her poorly rendered drawings.
 - Drawings: her with two older lizard folk; a dark evil shadow with dark, amethyst like eyes; and her walking alone.
-- Because [[Roz Rozum|Roz]] is carrying the diamond, he has a nightmare in some [[Dimensional Blue Arena]] where some large demon with red eyes says to him, "Give me back what is rightfully mine!".
+- Because [[Roz Rozum|Roz]] is carrying the diamond, he has a nightmare in some [[The Unknown's Prison]] where some large demon with red eyes says to him, "Give me back what is rightfully mine!".
 - He declines and succeeds on a CON save before waking.
 - The [[alarm-xphb|Alarm]] spell goes off as a guard named [[Bobloro Fawnhore]] walks in.
 - He was just doing a patrol and noticed us; he offers to take us to the [[The Unnamed City|Border City]].

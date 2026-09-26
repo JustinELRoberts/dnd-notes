@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-16T20:59:55.574Z
-modified: 2026-09-14T00:16:29.199Z
-published: 2026-09-14T00:16:29.199Z
+modified: 2026-09-25T01:53:39.724Z
+published: 2026-09-25T01:53:39.724Z
 Date: 2026-07-16
 Party:
   - "[[Avenj]]"
@@ -28,7 +28,7 @@ While traveling aboard [[Ferrar]]'s airship, the party detoured to the [[Hay Dis
   - "Top of the notch furniture: something something damage proof"
     - In [[Evershade]]
   - "A sign like never seen before. Neon: a magical adventure"
-    - On the border of [[Carrowyn]] and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index|Karvok Thuldor]]
+    - On the border of [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]] and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index|Karvok Thuldor]]
 - We choose to go pursue the ale
   - Note: this is going to be a fun side-quest one shot
 - [[Ferrar]] tell us we can find the ale in the "hay district" of [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/Greythorne/index|Greythorne]] from a lady named [[Barbara Bongo]]

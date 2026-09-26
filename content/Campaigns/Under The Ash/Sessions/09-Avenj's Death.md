@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-30T21:12:29.007Z
-modified: 2026-09-13T23:26:54.568Z
-published: 2026-09-13T23:26:54.568Z
+modified: 2026-09-25T01:28:23.511Z
+published: 2026-09-25T01:28:23.511Z
 Date: 2026-07-30
 Party:
   - "[[Avenj]]"
@@ -15,7 +15,7 @@ End Day: 11
 
 ## Summary
 
-While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]], [[Roz Rozum|Roz]] bargained with [[dawn-war-asmodeus-dmg|Asmodeus]] through [[Jimmothy]] to locate [[Thompson]], agreeing to deliver a secret message to [[The Piper]] in exchange. The party tracked [[Thompson]] to his camp and spied on him arguing with [[V]], who abandoned the sickly lycanthrope, claimed the artifact dagger [[The Stoneheart]], and handed it off to [[Yharov Stonebrow|Yharov]] before casting [[maze-xphb|Maze]] on [[Roz Rozum|Roz]]. After [[Roz Rozum|Roz]] secretly passed [[dawn-war-asmodeus-dmg|Asmodeus]]'s message to [[The Piper]] and a rogue [[weretiger]] executed [[Thompson]]—freeing his mind-controlled followers—the group recovered important schematics from the camp and returned to [[Ferrar's Airship]]. However, tragedy struck when [[Yharov Stonebrow|Yharov]] handed [[Theratina]] the [[Coin of The Unknown]], which instantly dissolved her into goo and teleported the party to the [[Dimensional Blue Arena]]. There, the massive shadow entity [[The Unknown]] instantly killed [[Avenj]] with [[power-word-kill-xphb|Power Word Kill]] as a warning. Back on the airship, despite [[Roz Rozum|Roz]] and [[Yharov Stonebrow|Yharov]]'s desperate attempts to offer their own lives to revive him, [[Avenj]] ultimately chose to pass on into the afterlife, leaving behind a final warning about the [[notebook with a sleeping face on its cover]] and sparking a dark, vengeful resolve in [[Theratina]] to destroy [[The Unknown]].
+While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/index|The Twin Veins]], [[Roz Rozum|Roz]] bargained with [[dawn-war-asmodeus-dmg|Asmodeus]] through [[Jimmothy]] to locate [[Thompson]], agreeing to deliver a secret message to [[The Piper]] in exchange. The party tracked [[Thompson]] to his camp and spied on him arguing with [[V]], who abandoned the sickly lycanthrope, claimed the artifact dagger [[The Stoneheart]], and handed it off to [[Yharov Stonebrow|Yharov]] before casting [[maze-xphb|Maze]] on [[Roz Rozum|Roz]]. After [[Roz Rozum|Roz]] secretly passed [[dawn-war-asmodeus-dmg|Asmodeus]]'s message to [[The Piper]] and a rogue [[weretiger]] executed [[Thompson]]—freeing his mind-controlled followers—the group recovered important schematics from the camp and returned to [[Ferrar's Airship]]. However, tragedy struck when [[Yharov Stonebrow|Yharov]] handed [[Theratina]] the [[Coin of The Unknown]], which instantly dissolved her into goo and teleported the party to the [[The Unknown's Prison]]. There, the massive shadow entity [[The Unknown]] instantly killed [[Avenj]] with [[power-word-kill-xphb|Power Word Kill]] as a warning. Back on the airship, despite [[Roz Rozum|Roz]] and [[Yharov Stonebrow|Yharov]]'s desperate attempts to offer their own lives to revive him, [[Avenj]] ultimately chose to pass on into the afterlife, leaving behind a final warning about the [[notebook with a sleeping face on its cover]] and sparking a dark, vengeful resolve in [[Theratina]] to destroy [[The Unknown]].
 
 ## Events
 
@@ -135,9 +135,9 @@ While anchored near [[Campaigns/Under The Ash/Locations/Evermore/The Twin Veins/
 
 ---
 
-### At The [[Dimensional Blue Arena]]
+### At The [[The Unknown's Prison]]
 
-- We all appear in [[Dimensional Blue Arena]]
+- We all appear in [[The Unknown's Prison]]
 - [[The Unknown]], a moving mountain of shadow, is in front of us
 - Many small creatures begin lunging at us
 - [[Avenj]] gets [[power-word-kill-xphb|Power Word Kill]]ed; he's dead

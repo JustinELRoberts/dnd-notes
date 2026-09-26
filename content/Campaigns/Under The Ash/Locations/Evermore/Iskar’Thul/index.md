@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Iskar’Thul
 created: 2026-03-26T00:11:25.485Z
-modified: 2026-04-17T01:59:57.431Z
-published: 2026-04-17T01:59:57.431Z
+modified: 2026-09-25T01:53:39.727Z
+published: 2026-09-25T01:53:39.727Z
 LocationType: Region
 tags:
 ---
@@ -19,3 +19,8 @@ A frozen island where time slows and the silence feels as though it is watching.
 - [[Darnholt’s Eye]] studies futures that may never come, while the island itself resists change and invention
 
 This place does not forget, and what it remembers may one day be enough to break the world.
+
+## What we know
+
+- The [[CFN Headquarters|CFN]] newspaper in [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]] reports frost waves and an ancient roar coming out of here, and a city afraid of having to choose between it and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index|Karvok Thuldor]]
+- Per [[Rithas]] in [[13-Full Moon#Back at The Sabertooth Tavern]], a group here is siphoning power from this plane and [[Shadowfell]], and probably the [[Feywild]]. He came to stop them

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-12T21:47:07.478Z
-modified: 2026-09-14T00:43:58.462Z
-published: 2026-09-14T00:43:58.462Z
+modified: 2026-09-26T13:50:58.219Z
+published: 2026-09-26T13:50:58.219Z
 Gender: Male
 Race: "[[human-xphb|Human]]"
 Class: "[[ranger-xphb|Ranger]]"
@@ -19,3 +19,4 @@ Raelor grew up close to the land. Years tending animals and cultivating the eart
 ## Since
 
 - [[The Mirror Of What Is]] told him, of the rest of the party: "One of them are lying to you. One of them are working for [[V]]"
+- He impersonated [[V]] with the [[hat-of-disguise|Hat of Disguise]] at the [[CFN Headquarters]] to bury a story about [[The Prophesizers]], and walked out with the [[Water Symbol Stone]] and the [[Water Symbol Glossary]]

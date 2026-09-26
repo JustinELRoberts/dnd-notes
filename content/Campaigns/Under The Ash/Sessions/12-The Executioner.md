@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-10T21:49:24.141Z
-modified: 2026-09-14T01:28:14.235Z
-published: 2026-09-14T01:28:14.235Z
+modified: 2026-09-25T01:53:39.725Z
+published: 2026-09-25T01:53:39.725Z
 Date: 2026-09-10
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -17,7 +17,7 @@ End Day: 17
 
 ## Summary
 
-Two days south at [[The Crazy One's House]], the party found the place stripped bare except for a family painting that was really a portal; the brass key opened the chest behind it, holding [[The Mirror Of What Is]]. The mirror showed each of them a scene instead of a reflection — [[Callie Dawnsong|Cal]] saw the moment they were given their gift — and once sealed, it whispered accusations meant to turn the party against each other. Downstairs, [[Yharov Stonebrow|Yharov]] caught [[V]] finishing a ritual circle. She admitted she has been using them to collect the artifacts all along, cursed [[Roz Rozum|Roz]] with [[fuck-your-mind|Fuck Your Mind]], pointed them toward [[Carrowyn]], and gave them twelve hours before [[The Executioner]] came. [[Ferrar]] flew them south with [[Theratina]] safe aboard, and [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] died screaming behind them. At [[The Shaded Cavern]] they found [[The Blue Apprentice]], who warned that someone dies whether they ran or stood their ground, then weakened [[The Executioner]] with [[get-on-my-level|Get On My Level]] so they could kill it. A [[sending-xphb|Sending]] from [[Iron Wake Mug Barkeep|Diana]] as they left proved [[V]] had been lying about her.
+Two days south at [[The Crazy One's House]], the party found the place stripped bare except for a family painting that was really a portal; the brass key opened the chest behind it, holding [[The Mirror Of What Is]]. The mirror showed each of them a scene instead of a reflection — [[Callie Dawnsong|Cal]] saw the moment they were given their gift — and once sealed, it whispered accusations meant to turn the party against each other. Downstairs, [[Yharov Stonebrow|Yharov]] caught [[V]] finishing a ritual circle. She admitted she has been using them to collect the artifacts all along, cursed [[Roz Rozum|Roz]] with [[fuck-your-mind|Fuck Your Mind]], pointed them toward [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]], and gave them twelve hours before [[The Executioner]] came. [[Ferrar]] flew them south with [[Theratina]] safe aboard, and [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] died screaming behind them. At [[The Shaded Cavern]] they found [[The Blue Apprentice]], who warned that someone dies whether they ran or stood their ground, then weakened [[The Executioner]] with [[get-on-my-level|Get On My Level]] so they could kill it. A [[sending-xphb|Sending]] from [[Iron Wake Mug Barkeep|Diana]] as they left proved [[V]] had been lying about her.
 
 ## Events
 
@@ -108,7 +108,7 @@ Two days south at [[The Crazy One's House]], the party found the place stripped 
 - She casts a custom spell on him: [[fuck-your-mind|Fuck Your Mind]]
 - "I will give you a day head start before [[The Executioner]] comes", she says
   - She then reduces our time to 12 hours
-- As we leave, she says is "If I were you guys, I would look in [[Carrowyn]] for the next artifact. Thankfully now, you can do two things at once to speed things up for us."
+- As we leave, she says is "If I were you guys, I would look in [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]] for the next artifact. Thankfully now, you can do two things at once to speed things up for us."
 
 #### Coming up with a plan
 
@@ -153,7 +153,7 @@ Two days south at [[The Crazy One's House]], the party found the place stripped 
 - We disembark and [[Jimmothy]] guides us to the apprentice
 - We come upon a house
 - The man inside tells us to go away
-  - "You should be in [[Carrowyn]]"
+  - "You should be in [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]]"
   - He is clearly nervous
 - He keeps saying we aren't supposed to be here
 - He eventually lets us in
@@ -171,7 +171,7 @@ Two days south at [[The Crazy One's House]], the party found the place stripped 
 - We fight and kill it
   - When it dies, it seemed to turn into the same goo from when one calls on the [[Coin of The Unknown]]
 - [[The Blue Apprentice]] storms back into his house
-  - He still wants us to go to [[Carrowyn]]
+  - He still wants us to go to [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]]
 - We decide to go
   - [[Ferrar]] will take us
 
@@ -180,8 +180,8 @@ Two days south at [[The Crazy One's House]], the party found the place stripped 
 ### On [[Ferrar's Airship]] (again)
 
 - [[Eisuke]] vanishes yet again
-- As the ship takes off, [[Raelor]] receives a two-part [[sending-xphb|Sending]] message  from [[Iron Wake Mug Barkeep|Diana]]
+- As the ship takes off, [[Raelor]] receives a two-part [[sending-xphb|Sending]] message from [[Iron Wake Mug Barkeep|Diana]]
   - "From [[Iron Wake Mug Barkeep|Diana]]: Hope you are well. Paid for this. Owe me. Starting to hire. Lots of prospering people coming on...."
   - "...board. Hope your adventures are well. Miss you very much."
 - A painting from her also teleports to him that she made for him
-- We end the session on our way to [[Carrowyn]]
+- We end the session on our way to [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]]

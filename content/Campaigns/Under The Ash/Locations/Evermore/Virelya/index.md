@@ -4,8 +4,8 @@ aliases:
   - Virelya
   - The Autumn Land
 created: 2026-03-26T21:51:52.410Z
-modified: 2026-04-17T01:57:49.404Z
-published: 2026-04-17T01:57:49.404Z
+modified: 2026-09-25T01:53:39.727Z
+published: 2026-09-25T01:53:39.727Z
 LocationType: Region
 tags:
 ---
@@ -14,7 +14,7 @@ tags:
 
 A land locked in eternal autumn, where decay is sacred and endings are honored above all things.
 
-- [[Carrowyn]] stands within the [[Elder Husk]], a hollow tree that watches over a people who live by memory and ritual
+- [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]] stands within the [[Elder Husk]], a hollow tree that watches over a people who live by memory and ritual
 - [[Queen Yllaveth]] rules through the Cycle, maintaining a balance that must never be broken
 - The [[Circle of Leaves]] ensures every choice is remembered before it is made, and every law carries the weight of consequence
 

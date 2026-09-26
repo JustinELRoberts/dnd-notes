@@ -4,9 +4,10 @@ aliases:
   - masked man with red eyes
   - stitched boy
   - scary frakenstein guy
+  - Armies
 created: 2026-03-26T01:59:36.450Z
-modified: 2026-04-17T02:23:20.683Z
-published: 2026-04-17T02:23:20.683Z
+modified: 2026-09-24T22:21:05.583Z
+published: 2026-09-24T22:21:05.583Z
 Age: "16"
 Gender: Male
 Race: "[[human-xphb|Human]]"

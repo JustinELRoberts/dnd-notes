@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-12T21:00:26.852Z
-modified: 2026-09-14T01:45:56.841Z
-published: 2026-09-14T01:45:56.841Z
+modified: 2026-09-25T01:28:23.502Z
+published: 2026-09-25T01:28:23.502Z
 Gender: Male
 Race: "[[warforged-efa|Warforged]]"
 Class: "[[necromancer-valdaspire24|Necromancer]]"
@@ -19,7 +19,7 @@ Created by the [[The Council of the Cold Veil|Council of the Cold Veil]] as a me
 
 ## His death
 
-[[The Unknown]] [[power-word-kill-xphb|Power Word Kill]]ed him in the [[Dimensional Blue Arena]] on day 11, as a lesson to the rest of us.
+[[The Unknown]] [[power-word-kill-xphb|Power Word Kill]]ed him in the [[The Unknown's Prison]] on day 11, as a lesson to the rest of us.
 
 He was offered a second chance by a creature with thousands of eyes and chose red on a 50/50. He chose wrong. [[Roz Rozum|Roz]] and [[Yharov Stonebrow|Yharov]] both tried to trade their own lives for his; [[Theratina]] put them to sleep to stop them. Before his spirit departed, he told us not to let [[The Council of the Cold Veil|Council of the Cold Veil]] get the [[notebook with a sleeping face on its cover]].
 

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-24T00:46:24.457Z
-modified: 2026-09-14T00:44:28.427Z
-published: 2026-09-14T00:44:28.427Z
+modified: 2026-09-25T01:53:39.723Z
+published: 2026-09-25T01:53:39.723Z
 Age: Not known
 Gender: Female
 Race: Not known
@@ -29,7 +29,7 @@ We couldn't make out the name she said, which is the part that worries me.
 
 She gave us a day's head start from [[The Executioner]], then cut it to twelve hours out of irritation. On the way out she told us where to go next:
 
-> If I were you guys, I would look in [[Carrowyn]] for the next artifact. Thankfully now, you can do two things at once to speed things up for us.
+> If I were you guys, I would look in [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]] for the next artifact. Thankfully now, you can do two things at once to speed things up for us.
 
 ## What we know
 
@@ -40,6 +40,8 @@ She gave us a day's head start from [[The Executioner]], then cut it to twelve h
 - She charmed us on the way into [[Myrrh’s Hollow South]]; [[Yharov Stonebrow|Yharov]] was the only one it didn't take
 - [[remove-curse-xphb|Remove Curse]] does nothing to her. She cast a custom spell, [[fuck-your-mind|Fuck Your Mind]], on [[Roz Rozum|Roz]] for trying
 - [[The Mirror Of What Is]] told [[Raelor]] that one of the party is lying to us and working for her
+- [[The Prophesizers]] are led by a good-looking woman, per the [[gnome]]s at the [[CFN Headquarters]]. It may well be her
+- [[A small girl wearing red]] says V is the one who put her out back of [[The Laughing Root]], and offered to tell us everything about her
 
 ## Motivations
 

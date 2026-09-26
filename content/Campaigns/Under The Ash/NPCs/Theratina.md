@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-21T20:56:46.085Z
-modified: 2026-09-14T01:03:31.554Z
-published: 2026-09-14T01:03:31.554Z
+modified: 2026-09-25T01:49:42.459Z
+published: 2026-09-25T01:49:42.459Z
 Age: "12"
 Gender: Female
 Race: "[[lizardfolk-dmg|Lizardfolk]]"
@@ -33,6 +33,8 @@ Half the people we meet want her. [[Ned Grindledark]] is hunting her, [[Thompson
 - She had a "cold dream" of a village of turtles evicted by a cruel king — [[Theodore Shellington|Theodore]]'s home
 - [[Avenj]]'s death broke something in her. "I saw a darkness coming out of a frozen island. Today we saw that darkness and i saw you fighting it. I want to fucking kill it! I want it dead!"
 - [[V]] claimed to have captured and be experimenting on her. She was safe on [[Ferrar's Airship]] the whole time
+- She stayed behind with [[Rithas]] at [[The Sabertooth Tavern]] while we were in the [[Feywild]], and was upset we were gone three days
+- [[The Piper]] walked into that tavern at the end of [[13-Full Moon#The full moon]] and looked directly at her
 
 ## Motivations
 

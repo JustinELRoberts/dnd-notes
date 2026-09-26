@@ -20,5 +20,5 @@ tags:
 
 ## Objectives
 
-- <% tp.file.cursor(3) %>
+- [ ] <% tp.file.cursor(3) %>
   <%await tp.file.move(`Campaigns/Under The Ash/Quests/${tp.file.title}`)%>

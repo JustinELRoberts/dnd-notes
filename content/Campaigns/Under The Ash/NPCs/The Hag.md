@@ -4,8 +4,8 @@ aliases:
   - Hag
   - The Hag
 created: 2026-04-13T20:38:22.611Z
-modified: 2026-05-19T23:57:37.438Z
-published: 2026-05-19T23:57:37.438Z
+modified: 2026-09-25T01:49:42.469Z
+published: 2026-09-25T01:49:42.469Z
 Age: Not known
 Gender: Female
 Race: "[[Mechanics/CLI/bestiary/legendary-group/night-hag|Night Hag]]"
@@ -29,6 +29,7 @@ tags:
     - Do not surround her
   - She is supposedly south of the [[Arena of Vel'Therin Expanse]] toward the shore
 - In [[03-Battle Toads#The Hag's Lair]], we discovered her lair
+- [[A small girl wearing red]] claims the Hag we killed was hers
 
 ## Motivations
 
