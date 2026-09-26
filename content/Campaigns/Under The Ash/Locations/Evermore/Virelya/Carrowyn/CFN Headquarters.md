@@ -3,8 +3,8 @@ publish: true
 aliases:
   - CFN
 created: 2026-09-25T01:47:18.665Z
-modified: 2026-09-25T01:53:39.728Z
-published: 2026-09-25T01:53:39.728Z
+modified: 2026-09-26T13:50:58.218Z
+published: 2026-09-26T13:50:58.218Z
 LocationType: Building
 tags:
 ---
@@ -31,4 +31,4 @@ id: CFN Headquarters-map
 
 Where [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]]'s newspaper is printed, in "The Valley" in [[The Mud District]]. It is run by [[gnome]]s.
 We overheard them from outside in [[13-Full Moon#At the CFN Headquarters]] talking about [[The Prophesizers]] replacing [[The Silent Fist]] as the new leaders. [[Raelor]] used the [[hat-of-disguise|Hat of Disguise]] to appear as [[V]] and told them to sit on the story; they agreed to wait a week.
-They are stuck on a puzzle they cannot finish because they are unwelcome at [[The Laughing Root]]. [[Raelor]] promised we would finish it for them, and they handed him [[a small stone]] and a [[mysterious note]].
+They are stuck on a puzzle they cannot finish because they are unwelcome at [[The Laughing Root]]. [[Raelor]] promised we would finish it for them, and they handed him the [[Water Symbol Stone]] and the [[Water Symbol Glossary]].

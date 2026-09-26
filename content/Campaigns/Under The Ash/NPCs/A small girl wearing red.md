@@ -1,14 +1,15 @@
 ---
 publish: true
+aliases:
+  - a small girl wearing red
 created: 2026-09-25T01:47:46.421Z
-modified: 2026-09-25T01:47:47.697Z
-published: 2026-09-25T01:47:47.697Z
+modified: 2026-09-26T13:40:48.341Z
+published: 2026-09-26T13:40:48.341Z
 Age: Not known
 Gender: Female
 Race: Not known
 Relationship: Hostile
 Factions:
-aliases:
 tags:
 ---
 

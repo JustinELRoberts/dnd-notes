@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-24T21:43:14.188Z
-modified: 2026-09-25T02:00:42.313Z
-published: 2026-09-25T02:00:42.313Z
+modified: 2026-09-26T13:57:13.480Z
+published: 2026-09-26T13:57:13.480Z
 Date: 2026-09-24
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -17,7 +17,7 @@ End Day: 23
 
 ## Summary
 
-Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]] turned out to be freezing instead of hot, and the newspaper blamed [[Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index|Iskar’Thul]]: frost waves, an ancient roar, and giant red eyes in the sky about a week ago. At the [[CFN Headquarters]] in [[The Mud District]], [[Raelor]] wore [[V]]'s face to kill a story about [[The Prophesizers]] and walked out with [[a small stone]] and a [[mysterious note]] instead. The sugar circle in the basement of [[The Sabertooth Tavern]] took us to [[The Laughing Root]] in the [[Feywild]], where the drinks poisoned half of us, [[Aven Tide]] hung in a painting over the fireplace, and [[The Lawnkeeper]] — faceless, throat slit, wearing the mark of [[The Prophesizers]] — was keeping the stone's matching half out back. [[A small girl wearing red]] did not want us leaving; she claims the [[The Hag|Hag]] we killed was hers and that [[V]] is the one who put her there. Three days had passed when we got back, and [[Rithas]], who knows her and would not say how, finally told us why he is here: a group in [[Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index|Iskar’Thul]] is siphoning power out of this plane and [[Shadowfell]], and he means to stop them. We solved the puzzle — "under water city" — for a [[steel and coral key]]. Then [[Roz Rozum|Roz]] shifted as a joke on the night of the full moon, lost control, and hunted [[Theodore Shellington|Theodore]] until [[Callie Dawnsong|Cal]] soothed him with [[suggestion-xphb|Suggestion]]. Sharing the memory back showed them where his soul had gone while the beast had him: [[The Unknown's Prison]]. [[The Piper]] walked in as we finished, looking straight at [[Theratina]].
+Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]] turned out to be freezing instead of hot, and the newspaper blamed [[Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index|Iskar’Thul]]: frost waves, an ancient roar, and giant red eyes in the sky about a week ago. At the [[CFN Headquarters]] in [[The Mud District]], [[Raelor]] disguised himself as [[V]] to kill a story about [[The Prophesizers]] and walked out with the [[Water Symbol Stone|stone]] and its [[Water Symbol Glossary|glossary]] instead. The sugar circle in the basement of [[The Sabertooth Tavern]] took us to [[The Laughing Root]] in the [[Feywild]], where the drinks left half of us poisoned, [[Aven Tide]] hung in a painting over the fireplace, and [[The Lawnkeeper]] — faceless, throat slit, wearing the mark of [[The Prophesizers]] — was keeping the [[Water Hour Stone|matching stone]] out back. [[A small girl wearing red]] did not want us leaving; she claims the [[The Hag|Hag]] we killed was hers and that [[V]] is the one who put her there. Three days had passed when we got back, and [[Rithas]], who knows her and would not say how, finally told us why he is here: a group in [[Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index|Iskar’Thul]] is siphoning power out of this plane and [[Shadowfell]], and he means to stop them. We solved the puzzle — "under water city" — for a [[steel and coral key]]. Then [[Roz Rozum|Roz]] shifted as a joke on the night of the full moon, lost control, and hunted [[Theodore Shellington|Theodore]] until [[Callie Dawnsong|Cal]] soothed him with [[suggestion-xphb|Suggestion]]. Sharing the memory back showed them where his soul had gone while the beast had him: [[The Unknown's Prison]]. [[The Piper]] walked in as we finished, looking straight at [[Theratina]].
 
 ## Events
 
@@ -70,7 +70,7 @@ Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/
 - They claim to be unable to solve it because they are unwelcome at [[The Laughing Root]], which is supposedly in the [[Feywild]]
   - There is some missing piece to the puzzle there
 - [[Raelor]] convinces them that we will finish the puzzle for them
-  - They hand him [[a small stone]] and a [[mysterious note]]
+  - They hand him [[Water Symbol Stone|a small stone]] and a [[Water Symbol Glossary|mysterious note]]
 
 ---
 
@@ -117,7 +117,7 @@ Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/
 
 - We are given a menu and are told to sit wherever we would like
 - When we sit, the wall begins rubbing [[Roz Rozum|Roz]]'s back
-- We take out [[a small stone]] and it makes a clinking noise
+- We take out [[Water Symbol Stone|a small stone]] and it makes a clinking noise
 - We all order food and drinks
 - [[Raelor]] asks if we can walk out back after we eat
 - The server claims [[The Lawnkeeper]] is back there and "prefers them intoxicated"
@@ -139,11 +139,11 @@ Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/
   - He has no face
   - He has a slit throat that is oozing black blood
   - On his back is a marking of [[The Prophesizers]]
-- Right behind him is a stone that clearly fits [[a small stone]]
+- Right behind him is a [[Water Hour Stone|stone]] that clearly fits [[Water Symbol Stone|a small stone]]
 - We can now see that the entrance to the tavern has another small circle
   - It is our means of escape
-- We take the matching stone and go to leave
-  - [[A small girl wearing red]] stops us
+- We take the [[Water Hour Stone|matching stone]] and go to leave
+  - [[A small girl wearing red|a small girl wearing red]] stops us
 - She does not want us leaving yet
 - She points out that our bread is missing
 - She clearly knows us, and knows a lot about us
@@ -160,7 +160,7 @@ Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/
 - It has been 3 days
   - It is the night of the full moon
 - [[Rithas]] and [[Theratina]] are upset we've been gone so long
-- We ask [[Rithas]] about [[A small girl wearing red]]
+- We ask [[Rithas]] about [[A small girl wearing red|small girl wearing red]]
   - He definitely knows her, but is elusive about it
   - Supposedly she helped him get to this plane
 - He gives us some of his backstory
