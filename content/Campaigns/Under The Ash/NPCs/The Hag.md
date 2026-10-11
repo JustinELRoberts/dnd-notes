@@ -4,8 +4,8 @@ aliases:
   - Hag
   - The Hag
 created: 2026-04-13T20:38:22.611Z
-modified: 2026-09-25T01:49:42.469Z
-published: 2026-09-25T01:49:42.469Z
+modified: 2026-10-11T20:06:13.818Z
+published: 2026-10-11T20:06:13.818Z
 Age: Not known
 Gender: Female
 Race: "[[Mechanics/CLI/bestiary/legendary-group/night-hag|Night Hag]]"
@@ -15,6 +15,9 @@ tags:
 ---
 
 ## Description
+
+A [[Mechanics/CLI/bestiary/legendary-group/night-hag|Night Hag]] who lived in [[The Hag's Lair]], south of the [[Arena of Vel'Therin Expanse]]. She posed as the innkeeper at the [[Starlight Inn]] in the form of one of her victims, [[Aven Tide]], and kept a trophy room of the belongings of the hundreds she tricked, killed, and skinned.
+She poisoned the water near the farms (the mutated toads) and took the [[young-blue-dragon|Young Blue Dragon]] that escaped the arena. In [[03-Battle Toads#The Hag's Lair]] she charmed [[Theratina]] with promises of her dead parents and demanded we leave her behind. She fled to the Ethereal Plane with her [[heartstone-mm|Heartstone]], and we killed her in her inner sanctum in [[04-Killing The Hag]], taking the [[Staff of Souls]]. See [[Kill the Hag]].
 
 ## What we know
 

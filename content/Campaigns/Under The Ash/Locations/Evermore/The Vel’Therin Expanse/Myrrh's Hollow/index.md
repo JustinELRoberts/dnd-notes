@@ -5,8 +5,8 @@ aliases:
   - Myrrh's Hollow
   - Mirrh's Hollow
 created: 2026-03-26T00:49:41.782Z
-modified: 2026-09-14T00:57:09.955Z
-published: 2026-09-14T00:57:09.955Z
+modified: 2026-10-11T20:02:32.354Z
+published: 2026-10-11T20:02:32.354Z
 LocationType: City
 tags:
 ---
@@ -19,6 +19,6 @@ This is where [[Theratina]]'s parents were killed. [[Raelor]] and [[Yharov Stone
 
 Everyone in the region heard the land mermaid's song from the [[Blue Cross Bridge]]. It drove [[The Crazy One]] mad and, by his account, made his son kill his daughter.
 
-We warned the locals to evacuate before [[V]] sent [[The Executioner]] after us. Twelve hours later we woke on [[Ferrar's Airship]] to a horrifying sound coming from here — loud enough that the entire expanse heard it, and [[Jimmothy]] heard it in the heavens.
+We warned the locals to evacuate before [[V]] sent [[The Executioner]] after us. Twelve hours later we woke on [[Ferrar's Airship]] to a horrifying sound coming from here (see [[The Executioner]]).
 
 [[Eisuke]], who is from 190 years ahead, has never heard of this place.

@@ -4,8 +4,8 @@ aliases:
   - Cal
   - Callie
 created: 2026-03-12T21:01:19.797Z
-modified: 2026-09-25T01:49:42.462Z
-published: 2026-09-25T01:49:42.462Z
+modified: 2026-10-11T19:57:56.812Z
+published: 2026-10-11T19:57:56.812Z
 Gender: Female
 Race: "[[half-elf|Half-Elf]]"
 Class: "[[bard-xphb|Bard]]"
@@ -24,3 +24,4 @@ Callie “Cal” Dawnsong is a traveling [[bard|Bard]] and investigator who once
 - [[V]] made eye contact with them inside the pirate captain's memory and saw they want nothing but destruction. She says she will follow up with them soon
 - [[Yharov Stonebrow|Yharov]]'s warning from [[The Mirror Of What Is]] was about them: they came out of the blue, have told us nothing about themself, and are focused only on [[Theratina]]
 - They shared their memory of the full moon with [[Roz Rozum|Roz]] in [[13-Full Moon#The full moon]]. It went both ways without them meaning it to, and they saw where his soul had been taken: [[The Unknown's Prison]]
+- Fled to the [[Feywild]] with [[Theodore Shellington|Theodore]] and [[Theratina]] during the fight with [[The Piper]] in [[14-The Piper]]

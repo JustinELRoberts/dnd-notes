@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-25T01:56:13.211Z
-modified: 2026-09-26T13:57:13.480Z
-published: 2026-09-26T13:57:13.480Z
+modified: 2026-10-11T20:03:06.336Z
+published: 2026-10-11T20:03:06.336Z
 LocationType: Building
 aliases:
 tags:
@@ -30,14 +30,14 @@ id: The Laughing Root-map
 
 A tavern in the [[Feywild]], reached through the sugar circle in the basement of [[The Sabertooth Tavern]] in [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]].
 
-> From the outside, it looks chaotic—roots twisting out of the ground to form walls, glowing fungi marking the entrance, and music spilling out into the streets. Inside is loud, wild, and full of life. Performers dance across hanging vines, illusion magic paints stories across the ceiling, and laughter echoes constantly. Drinks here are unpredictable—some fizz, some smoke, some change color mid-sip. It’s a place to celebrate, forget, and lose yourself for a while.
+From the outside, it looks chaotic—roots twisting out of the ground to form walls, glowing fungi marking the entrance, and music spilling out into the streets. Inside is loud, wild, and full of life. Performers dance across hanging vines, illusion magic paints stories across the ceiling, and laughter echoes constantly. Drinks here are unpredictable—some fizz, some smoke, some change color mid-sip. It’s a place to celebrate, forget, and lose yourself for a while.
 
-The walls rub your back when you sit. The drinks are not safe: [[Callie Dawnsong|Cal]], [[Raelor]], and [[Roz Rozum|Roz]] failed a CON save after drinking and were left poisoned, unable to benefit from healing. Whether that is actual poison or just fey drink being far too strong, we don't know.
+The drinks are not safe: [[Callie Dawnsong|Cal]], [[Raelor]], and [[Roz Rozum|Roz]] failed a CON save and were poisoned, unable to benefit from healing.
 The [[gnome]]s at the [[CFN Headquarters]] are unwelcome here, which is why their puzzle went unfinished.
 
 ## What we know
 
-- [[Aven Tide]] is in the painting over the fireplace. The server called her "a friend, a dear friend" and said they hadn't seen her in a little while
+- [[Aven Tide]] is in the painting over the fireplace; the server called her "a dear friend"
 - [[The Lawnkeeper]] is out back, and everyone inside vanishes the moment you step out there
 - [[A small girl wearing red]] is out back too, and does not let people leave easily
 - A small circle by the entrance is the way home

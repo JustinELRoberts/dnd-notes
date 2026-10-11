@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-24T21:43:14.188Z
-modified: 2026-09-26T13:57:13.480Z
-published: 2026-09-26T13:57:13.480Z
+modified: 2026-10-08T23:05:27.663Z
+published: 2026-10-08T23:05:27.663Z
 Date: 2026-09-24
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -46,7 +46,7 @@ Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/
   - "Frost waves coming from [[Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index|Iskar’Thul]]"
   - "Ancient roar coming from [[Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index|Iskar’Thul]]"
   - "People are scared about choosing between [[Campaigns/Under The Ash/Locations/Evermore/Iskar’Thul/index|Iskar’Thul]] and [[Campaigns/Under The Ash/Locations/Evermore/Karvok Thuldor/index|Karvok Thuldor]]"
-- At the very end, we read that [[King Valecrest]] is waiting for their new military to assist in the decision making... They are waiting for [[The Silent Fist]] to make a decision, who is having discussions with [[House of One Hand Clapping]].
+- At the very end, we read that [[King Valecrest]] is waiting for their new military to assist in the decision of what side to take in the war to come; they are waiting for [[The Silent Fist]] to make a decision, who is having discussions with [[House of One Hand Clapping]]
 - The newspaper boy tells us that the cold weather has been cold for a few months
   - The extreme cold only began a few days ago
   - "About a week ago we saw giant red eyes in the sky, then they just went away"
@@ -110,10 +110,6 @@ Three days south, [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/
 ---
 
 ### In the [[Feywild]]
-
-- The description of [[The Laughing Root]] on the inside is:
-
-> From the outside, it looks chaotic—roots twisting out of the ground to form walls, glowing fungi marking the entrance, and music spilling out into the streets. Inside is loud, wild, and full of life. Performers dance across hanging vines, illusion magic paints stories across the ceiling, and laughter echoes constantly. Drinks here are unpredictable—some fizz, some smoke, some change color mid-sip. It’s a place to celebrate, forget, and lose yourself for a while.
 
 - We are given a menu and are told to sit wherever we would like
 - When we sit, the wall begins rubbing [[Roz Rozum|Roz]]'s back

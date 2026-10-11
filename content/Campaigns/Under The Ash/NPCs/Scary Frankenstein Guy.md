@@ -6,8 +6,8 @@ aliases:
   - scary frakenstein guy
   - Armies
 created: 2026-03-26T01:59:36.450Z
-modified: 2026-09-24T22:21:05.583Z
-published: 2026-09-24T22:21:05.583Z
+modified: 2026-10-11T20:02:32.356Z
+published: 2026-10-11T20:02:32.356Z
 Age: "16"
 Gender: Male
 Race: "[[human-xphb|Human]]"
@@ -19,13 +19,13 @@ tags:
 
 ## Description
 
-A young human boy with the ability to cast magic and is perhaps supernatural in some way. Each of his limbs appear to be of a different species, are purified, and continue moving even when not attached to his bod; his face and torso is [[human-xphb|Human]] but has the limbs of a [[dragonborn-xphb|Dragonborn]], [[elf-xphb|Elf]],  [[drow|Drow]], and one other that I missed.
+A young boy who can cast magic, stitched together from the limbs of different species: a [[human-xphb|Human]] face and torso with [[dragonborn-xphb|Dragonborn]], [[elf-xphb|Elf]], [[drow|Drow]], and one other limb. His limbs keep moving when detached.
 
 ## What we know
 
 - When we met him in [[00-First Session]], he was wearing a symbol indicating he was a member of [[The Awakening]].
   - In [[01-Meeting Cal]], it was discovered that this badge was almost certainly taken from [[Ned Grindledark]] (his creator)
-- We once detached all his limbs, decapitated him, took his head with us, and buried him. However, in the middle of the night, he somehow was able to reclaim his head without us knowing (despite the fact that we were protected in a cave behind an [[alarm-xphb|Alarm]]). Perhaps he has some magic to reclaim his limbs from afar.
+- We dismembered him, buried him, and took his head, but he reclaimed it overnight without tripping our [[alarm-xphb|Alarm]]. He may be able to recall his limbs from afar
 - His creation is detailed in [[The Grindledark Journal]]
 
 ## Motivations

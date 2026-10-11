@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-03-21T20:56:46.085Z
-modified: 2026-09-25T01:49:42.459Z
-published: 2026-09-25T01:49:42.459Z
+modified: 2026-10-11T19:57:56.810Z
+published: 2026-10-11T19:57:56.810Z
 Age: "12"
 Gender: Female
 Race: "[[lizardfolk-dmg|Lizardfolk]]"
@@ -23,7 +23,7 @@ She ages every time she dies. [[Ferrar]] told us in [[05-Shopping Spree#A conver
 
 We found her mother [[Alatina]]'s clothes in [[The Hag's Lair]], and the memory that came with them: her parents killed outside their burnt home in [[Campaigns/Under The Ash/Locations/Evermore/The Vel’Therin Expanse/Myrrh's Hollow/index|Myrrh’s Hollow]] by a [[Mechanics/CLI/bestiary/fiend/night-hag|Night Hag]] that was not the one we killed, then her hatching from an egg under a table mat to find them dead.
 
-Half the people we meet want her. [[Ned Grindledark]] is hunting her, [[Thompson]] wanted her, [[Ferrar]] wants her at [[Glasscap Grove]], and [[V]] talks about introducing her to "her new mother".
+Half the people we meet want her. [[Ned Grindledark]] is hunting her, [[Thompson]] wanted her, [[Ferrar]] wants her at [[Glasscap Grove]], [[V]] talks about introducing her to "her new mother", and [[The Piper]] came for her.
 
 ## What we know
 
@@ -34,7 +34,7 @@ Half the people we meet want her. [[Ned Grindledark]] is hunting her, [[Thompson
 - [[Avenj]]'s death broke something in her. "I saw a darkness coming out of a frozen island. Today we saw that darkness and i saw you fighting it. I want to fucking kill it! I want it dead!"
 - [[V]] claimed to have captured and be experimenting on her. She was safe on [[Ferrar's Airship]] the whole time
 - She stayed behind with [[Rithas]] at [[The Sabertooth Tavern]] while we were in the [[Feywild]], and was upset we were gone three days
-- [[The Piper]] walked into that tavern at the end of [[13-Full Moon#The full moon]] and looked directly at her
+- [[The Piper]] walked into that tavern at the end of [[13-Full Moon#The full moon]] and looked directly at her. In [[14-The Piper]] he asked for either her or the [[notebook with a sleeping face on its cover|notebook]]; she escaped to the [[Feywild]] with [[Theodore Shellington|Theodore]] and [[Callie Dawnsong|Cal]]
 
 ## Motivations
 

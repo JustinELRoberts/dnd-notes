@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-25T01:47:18.677Z
-modified: 2026-09-25T01:54:00.331Z
-published: 2026-09-25T01:54:00.331Z
+modified: 2026-10-11T20:02:41.710Z
+published: 2026-10-11T20:02:41.710Z
 LocationType: Building
 aliases:
 tags:
@@ -28,13 +28,14 @@ id: The Sabertooth Tavern-map
 
 ## Description
 
-A tavern in [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]], run by [[Sir Cornelius V|Sir Cornelius]] and his bird [[Bird]]. It smells of cinnamon and is inviting, if empty in the mornings. Which district it is in is not recorded; we went there straight from the [[CFN Headquarters]] in [[The Mud District]].
-The sign out front is the instructions, not a rhyme:
+A tavern in [[Campaigns/Under The Ash/Locations/Evermore/Virelya/Carrowyn/index|Carrowyn]], run by [[Sir Cornelius V|Sir Cornelius]] and his bird [[Bird]].
+The sign out front gives the instructions for the portal:
 
 > Circle full of sugar
 > Pocket full of dough
 > Pat on a head
 > And in you go
 
-Downstairs is a padlocked door with an [[alarm-xphb|Alarm]] spell on it, a sign reading "remember, the answer is outside", brooms not made for sweeping, vials with indescribable contents, and jars with things moving inside. On the floor beside it is a circle of sugar.
-The circle is a portal to [[The Laughing Root]] in the [[Feywild]]. [[Theodore Shellington|Theodore]] worked it out in [[13-Full Moon#At The Sabertooth Tavern]]. Time runs differently through it: three days passed here while we were over there.
+Downstairs is a padlocked door with an [[alarm-xphb|Alarm]] spell on it and a sign reading "remember, the answer is outside". The circle of sugar beside it is a portal to [[The Laughing Root]] in the [[Feywild]]; three days passed here while we were there.
+
+**Burned down** in [[14-The Piper]], after [[The Piper]] cast [[fireball-xphb|Fireball]] inside during our fight.

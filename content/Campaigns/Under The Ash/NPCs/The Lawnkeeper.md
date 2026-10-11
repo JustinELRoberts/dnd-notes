@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-09-25T01:47:46.411Z
-modified: 2026-09-26T13:57:13.480Z
-published: 2026-09-26T13:57:13.480Z
+modified: 2026-10-11T20:02:32.355Z
+published: 2026-10-11T20:02:32.355Z
 Age: Not known
 Gender: Male
 Race: Not known
@@ -15,8 +15,8 @@ tags:
 
 ## Description
 
-Whatever is kept out back of [[The Laughing Root]]. The server said he "prefers them intoxicated" and pushed drinks on us before letting us out back, and that he had recently acquired a special, unique stone.
-He has no face and a slit throat oozing black blood. The mark of [[The Prophesizers]] is on his back. The moment we stepped outside, everyone inside the tavern was gone and the only sound left was the fireplace.
+Kept out back of [[The Laughing Root]]. The server said he "prefers them intoxicated" and pushed drinks on us first.
+He has no face and a slit throat oozing black blood. The mark of [[The Prophesizers]] is on his back. When we stepped outside, everyone inside the tavern vanished.
 The [[Water Hour Stone]] behind him is the match to the [[Water Symbol Stone]]. We took it and left.
 
 ## Motivations

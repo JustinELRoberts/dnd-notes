@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Theodore
 created: 2026-03-12T20:54:49.434Z
-modified: 2026-09-25T01:50:02.855Z
-published: 2026-09-25T01:50:02.855Z
+modified: 2026-10-11T19:57:56.812Z
+published: 2026-10-11T19:57:56.812Z
 Gender: Male
 Race: "[[Mechanics/CLI/races/tortle-mpmm|Tortle]]"
 Class: "[[wizard-xphb|Wizard]]"
@@ -25,3 +25,4 @@ A [[Mechanics/CLI/races/tortle-mpmm|Tortle]] [[wizard]]. His home island was vio
 - [[The Blue Apprentice]] warned in [[12-The Executioner#At The Shaded Cavern]] that [[Roz Rozum|Roz]] may kill him on the full moon, depending on whether we stayed to fight [[The Executioner]] or not
 - He deduced that the sugar circle in [[The Sabertooth Tavern]] leads to the [[Feywild]]
 - [[Roz Rozum|Roz]] hunted him relentlessly on the full moon in [[13-Full Moon#The full moon]]. [[Callie Dawnsong|Cal]] stopped it before the warning came true
+- [[The Piper]] stole the [[notebook with a sleeping face on its cover|notebook]] from him in [[14-The Piper]] by rewinding time. He fled to the [[Feywild]] with [[Callie Dawnsong|Cal]] and [[Theratina]]
