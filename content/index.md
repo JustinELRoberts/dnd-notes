@@ -1,0 +1,28 @@
+## Recent Sessions
+
+| Session Name                                                                   | Start Day | End Day | Date               |
+| ------------------------------------------------------------------------------ | --------- | ------- | ------------------ |
+| [[Campaigns/Under The Ash/Sessions/14-The Piper.md\|14-The Piper]]             | 23        | 23      | October 08, 2026   |
+| [[Campaigns/Under The Ash/Sessions/13-Full Moon.md\|13-Full Moon]]             | 20        | 23      | September 24, 2026 |
+| [[Campaigns/Under The Ash/Sessions/12-The Executioner.md\|12-The Executioner]] | 14        | 17      | September 10, 2026 |
+| [[Campaigns/Under The Ash/Sessions/11-Land Mermaid.md\|11-Land Mermaid]]       | 13        | 13      | August 27, 2026    |
+| [[Campaigns/Under The Ash/Sessions/10-Meeting Rithas.md\|10-Meeting Rithas]]   | 12        | 12      | August 13, 2026    |
+
+## Newest Quests
+
+- [[Campaigns/Under The Ash/Quests/Find the Artifact in Carrowyn.md|Find the Artifact in Carrowyn]]:  (began day 17)
+- [[Campaigns/Under The Ash/Quests/Kill The Hoods Leader.md|Kill The Hoods Leader]]:  (began day 7)
+- [[Campaigns/Under The Ash/Quests/Resolve the Bake-Off.md|Resolve the Bake-Off]]:  (began day 6)
+- [[Campaigns/Under The Ash/Quests/Seal the 12 Artifacts.md|Seal the 12 Artifacts]]:  (began day 1)
+- [[Campaigns/Under The Ash/Quests/Diamond of 20 Monsters Delivery.md|Diamond of 20 Monsters Delivery]]:  (began day 1)
+
+## The Party
+
+| Character Name                                                                | Race                                             | Class                                            | Subclass                                                                         |
+| ----------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [[Campaigns/Under The Ash/PCs/Callie Dawnsong.md\|Callie Dawnsong]]           | [[Mechanics/CLI/races/half-elf.md\|Half-Elf]]    | [[Mechanics/CLI/classes/bard-xphb.md\|Bard]]     | [[Mechanics/CLI/classes/bard-xphb-college-of-lore-xphb.md\|College of Lore]]     |
+| [[Campaigns/Under The Ash/PCs/Raelor.md\|Raelor]]                             | [[Mechanics/CLI/races/human-xphb.md\|Human]]     | [[Mechanics/CLI/classes/ranger-xphb.md\|Ranger]] | [[Mechanics/CLI/classes/ranger-xphb-hunter-xphb.md\|Hunter]]                     |
+| [[Campaigns/Under The Ash/PCs/Roz Rozum.md\|Roz Rozum]]                       | [[Mechanics/CLI/races/human-xphb.md\|Human]]     | [[Mechanics/CLI/classes/cleric-xphb.md\|Cleric]] | [[Mechanics/CLI/classes/cleric-xphb-twilight-domain-tce.md\|Twilight Domain]]    |
+| [[Campaigns/Under The Ash/PCs/Theodore Shellington.md\|Theodore Shellington]] | [[Mechanics/CLI/races/tortle-mpmm.md\|Tortle]]   | [[Mechanics/CLI/classes/wizard-xphb.md\|Wizard]] | [[Mechanics/CLI/classes/wizard-xphb-evoker-xphb.md\|Evoker]]                     |
+| [[Campaigns/Under The Ash/PCs/Yharov Stonebrow.md\|Yharov Stonebrow]]         | [[Mechanics/CLI/races/goliath-xphb.md\|Goliath]] | [[Mechanics/CLI/classes/monk-xphb.md\|Monk]]     | [[Mechanics/CLI/classes/monk-xphb-warrior-of-shadow-xphb.md\|Warrior of Shadow]] |
+| [[Campaigns/Under The Ash/PCs/Rithas.md\|Rithas]]                             | -                                               | [[Mechanics/CLI/classes/paladin.md\|Paladin]]    | Oath of Eternal Night                                                            |
