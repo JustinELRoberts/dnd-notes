@@ -3,8 +3,8 @@ publish: true
 aliases:
   - Silent Fist
 created: 2026-03-27T01:58:58.444Z
-modified: 2026-09-25T01:53:39.729Z
-published: 2026-09-25T01:53:39.729Z
+modified: 2026-10-12T00:17:50.375Z
+published: 2026-10-12T00:17:50.375Z
 Relationship: Not known
 tags:
 ---

@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-10-11T19:57:32.877Z
-modified: 2026-10-11T19:59:13.294Z
-published: 2026-10-11T19:59:13.294Z
+modified: 2026-10-11T23:35:22.554Z
+published: 2026-10-11T23:35:22.554Z
 Date: 2026-10-08
 Party:
   - "[[Callie Dawnsong|Cal]]"
@@ -10,7 +10,6 @@ Party:
   - "[[Rithas]]"
   - "[[Roz Rozum|Roz]]"
   - "[[Theodore Shellington|Theodore]]"
-  - "[[Yharov Stonebrow|Yharov]]"
 Start Day: 23
 End Day: 23
 ---
@@ -26,6 +25,7 @@ End Day: 23
 - He tries to cast [[mass-suggestion-xphb|Mass Suggestion]] on us all
   - We burn some inspiration points and all pass
 - We immediately enter combat
+- During the fight, he mentions how he no longer works for [[V]] and now is trying to do something of his own
 - When we brought [[The Piper]] to 0 HP, he used [[not-yet|Not Yet]] to go immediately back to full
 - We then decided to try going to the [[Feywild]]
   - We won't be able to get him to 0 HP twice
@@ -37,4 +37,5 @@ End Day: 23
 - He [[teleport-xphb|Teleport]]s away
 - Note that during the fight, [[The Piper]] cast [[fireball-xphb|Fireball]] and [[The Sabertooth Tavern]] caught on fire
   - It burns down
-- As the session ends, 6 people with baby dragons on their shoulders approach [[Roz Rozum|Roz]], [[Rithas]], and [[Raelor]]
+- As the session ends, 6 new people approach [[Roz Rozum|Roz]], [[Rithas]], [[Raelor]], and [[Yharov Stonebrow|Yharov]]
+  - They are from the campaign Ice Meets Blood

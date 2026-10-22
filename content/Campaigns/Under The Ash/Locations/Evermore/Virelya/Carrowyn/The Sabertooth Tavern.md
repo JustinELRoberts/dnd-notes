@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-09-25T01:47:18.677Z
-modified: 2026-10-11T20:02:41.710Z
-published: 2026-10-11T20:02:41.710Z
-LocationType: Building
 aliases:
+  - Sabertooth Tavern
+created: 2026-09-25T01:47:18.677Z
+modified: 2026-10-11T22:22:19.878Z
+published: 2026-10-11T22:22:19.878Z
+LocationType: Building
 tags:
 ---
 
